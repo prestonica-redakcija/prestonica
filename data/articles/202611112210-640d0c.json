@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-11T21:10:29.328473+00:00",
- "updated": "2026-11-12T15:16:57.446051+00:00",
+ "updated": "2026-11-12T21:44:01.484079+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -47,11 +47,18 @@
    "url": "https://insajder.net/prenosimo/deo-budzetskih-sredstava-backe-topole-ostao-zarobljen-u-alta-banci-kroz-prekonocno-orocavanje",
    "title": "Opština Bačka Topola: Deo budžetskih sredstava ostao zarobljen u Alta banci kroz prekonoćno oročavanje",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/nps-backe-topole-trazi-odgovornost-zbog-novca-opstine-zarobljenog-u-alta-banci/",
+   "title": "NPS Bačke Topole traži odgovornost zbog novca Opštine zarobljenog u Alta banci",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Surova stvarnost bajkovitih kamata: I jednoj od najsiromašnijih opština u Srbiji \"zarobljena\" budžetska sredstva u Alta banci (VIDEO)",
-  "Opština Bačka Topola: Deo budžetskih sredstava ostao zarobljen u Alta banci kroz prekonoćno oročavanje"
+  "Opština Bačka Topola: Deo budžetskih sredstava ostao zarobljen u Alta banci kroz prekonoćno oročavanje",
+  "NPS Bačke Topole traži odgovornost zbog novca Opštine zarobljenog u Alta banci"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +70,6 @@
   "local": true,
   "alt": "Vladičin Han potražuje oko 400 miliona dinara od Alta banke u stečaju"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

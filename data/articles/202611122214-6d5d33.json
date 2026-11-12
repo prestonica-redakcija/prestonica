@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T21:14:35.131658+00:00",
- "updated": "2026-11-12T21:29:03.804743+00:00",
+ "updated": "2026-11-12T21:44:01.484079+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -42,11 +42,39 @@
    "url": "https://www.telegraf.rs/4432112-najnovija-vest-visoki-americki-zvanicnik-sastao-se-sa-predstavnicima-studentske-liste",
    "title": "Najnovija vest: Visoki američki zvaničnik sastao se sa predstavnicima Studentske liste",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/297379/sastanak-pomocnika-drzavnog-sekretara-sad-hanrahana-sa-studentskom-listom-u-beogradu/vest",
+   "title": "Sastanak pomoćnika državnog sekretara SAD Hanrahana sa Studentskom listom u Beogradu",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/284534/predstavnici-studentske-liste-sa-ruskim-ambasadorom-i-pomocnikom-americkog-drzavnog-sekretara-foto/vest",
+   "title": "Predstavnici Studentske liste sa ruskim ambasadorom i pomoćnikom američkog državnog sekretara FOTO",
+   "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1670645/studentska-lista-amerika-stejt-department-brendan-hanrahan",
+   "title": "OJAČAVANjE VEZA DVE ZEMLjE: Sastanak pomoćnika državnog sekretara SAD Hanrahana sa Studentskom listom u Beogradu",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/visoki-americki-zvanicnik-brendan-hanrahan-sastao-se-sa-predstavnicima-studentske-liste-foto/",
+   "title": "Visoki američki zvaničnik Brendan Hanrahan sastao se sa predstavnicima Studentske liste FOTO",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "PREDSTAVNICI STUDENTSKE LISTE SASTALI SE SA POMOĆNIKOM DRŽAVNOG SEKRETARA SAD Oglasila se ambasada Amerike: Spremni smo da radimo na zajedničkim prioritetima",
-  "Najnovija vest: Visoki američki zvaničnik sastao se sa predstavnicima Studentske liste"
+  "Najnovija vest: Visoki američki zvaničnik sastao se sa predstavnicima Studentske liste",
+  "Sastanak pomoćnika državnog sekretara SAD Hanrahana sa Studentskom listom u Beogradu",
+  "Predstavnici Studentske liste sa ruskim ambasadorom i pomoćnikom američkog državnog sekretara FOTO",
+  "OJAČAVANjE VEZA DVE ZEMLjE: Sastanak pomoćnika državnog sekretara SAD Hanrahana sa Studentskom listom u Beogradu",
+  "Visoki američki zvaničnik Brendan Hanrahan sastao se sa predstavnicima Studentske liste FOTO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +87,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata_2.jpg",
   "alt": "Pomoćnik državnog sekretara SAD sastao se sa predstavnicima Studentske liste"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }
