@@ -2093,18 +2093,19 @@
   "https://www.tanjug.rs/svet/politika/297372/tramp-pozvao-senat-da-odobri-dodatnih-350-milijardi-dolara-pentagonu/vest": "2026-11-12T22:13:42.855898+00:00",
   "https://www.euronews.rs/svet/fokus/251850/donald-tramp-trazi-350-milijardi-dolara-za-pentagon/vest": "2026-11-12T22:13:42.855898+00:00",
   "https://www.danas.rs/svet/dodik-kandidat-za-premijera-igor/": "2026-11-12T22:13:42.855898+00:00",
-  "https://www.youtube.com/watch?v=jdzdknuFcgU": "2026-11-12T22:13:42.855898+00:00"
+  "https://www.youtube.com/watch?v=jdzdknuFcgU": "2026-11-12T22:13:42.855898+00:00",
+  "https://www.kurir.rs/planeta/10160809/zelenski-se-sastao-sa-kusnerom-i-vitkofom-posle-njihove-posete-moskvi": "2026-11-12T22:28:34.901688+00:00",
+  "https://www.tanjug.rs/ekonomija/srbija/297389/sutra-pocinje-isplata-osiguranih-depozita-klijentima-alta-banke-u-stecaju/vest": "2026-11-12T22:28:34.901688+00:00",
+  "https://n1info.rs/svet/nastavak-pregovora-o-kraju-rata-putin-odbija-evropske-mirovne-snage-zelenski-trazi-vece-ucesce-evrope-u-razgovorima/": "2026-11-12T22:28:34.901688+00:00",
+  "https://www.b92.net/info/svet/284543/vitkof-putin-pristao-da-se-evropljani-ukljuce-u-pregovore-o-ukrajini/vest": "2026-11-12T22:28:34.901688+00:00",
+  "https://www.kurir.rs/vesti/srbija/10160632/potpuna-obustava-saobracaja-kod-ivanjice-od-nedelje-u-8-do-ponedeljka-u-6-sati": "2026-11-12T22:28:34.901688+00:00",
+  "https://www.euronews.rs/svet/fokus/251856/bruklin-osmoro-poginulih-medu-njima-dvoje-dece/vest": "2026-11-12T22:28:34.901688+00:00",
+  "https://www.danas.rs/vesti/drustvo/prijava-protiv-sudija-sns-u-ovom-pazaru/": "2026-11-12T22:28:34.901688+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-12T07:36+00:00",
-   "novih": 4,
-   "ukupno": 316,
-   "sekundi": 103.6
-  },
   {
    "vreme": "2026-11-12T07:51+00:00",
    "novih": 3,
@@ -2458,6 +2459,12 @@
    "novih": 5,
    "ukupno": 639,
    "sekundi": 138.1
+  },
+  {
+   "vreme": "2026-11-12T22:30+00:00",
+   "novih": 1,
+   "ukupno": 640,
+   "sekundi": 104.9
   }
  ],
  "licnosti_foto": {
@@ -4909,7 +4916,7 @@
    ]
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -4983,11 +4990,11 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2120953223146062007",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "parandilovicnls": {
     "since_id": "2120879796175679649",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "ininic": {
     "since_id": "2120986753511121175",
@@ -5003,47 +5010,47 @@
    },
    "dragandjilas": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "marinikatepic": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "bibislav": {
     "since_id": "2120600779786457390",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "savomanojlovic": {
     "since_id": "2120927384484634735",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "zdravkoponos": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "pavlegrbovic": {
     "since_id": "2120608783395086538",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "avucic": {
     "since_id": "2120795996108255688",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "anabrnabic": {
     "since_id": "2120834471561773137",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "milos_vucevic": {
     "since_id": "2120470083298279767",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "sns_srbija": {
     "since_id": "2120959169008476463",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "vlada_srbije": {
     "since_id": null,
@@ -5087,43 +5094,43 @@
    },
    "markodjuric": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "nstarovic": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "milenkojovanov": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "acasapic": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "borkostef": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "dobrinacelnik": {
     "since_id": "2120814843951239646",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "jeremic_vuk": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "boristadic58": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "srdjanmil037": {
     "since_id": "2120749869757305219",
@@ -5179,74 +5186,100 @@
    },
    "narodnipokrets": {
     "since_id": "2120601957350195572",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "direktnors": {
     "since_id": "2120982866498928775",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "crtars": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "veceivan": {
     "since_id": "2120866230462521507",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "repjoewilson": {
     "since_id": "2120984500146696436",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "jugoslavcosic": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "tvnova_s": {
     "since_id": "2120984176178475198",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "oljautisak": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "srdjan_nogo": {
     "since_id": "2120938654998630563",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "agrifblokira": {
     "since_id": null,
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "etfblokada": {
     "since_id": "2120930020059136372",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "nastraninaroda": {
-    "since_id": "2120953780002869402",
-    "t": 1794520781.6088712
+    "since_id": "2121004802876355006",
+    "t": 1794522589.7386436
    },
    "bcenzure": {
-    "since_id": "2120985344061374659",
-    "t": 1794520781.6088712
+    "since_id": "2121000209488515372",
+    "t": 1794522589.7386436
    },
    "bezstraha26279": {
     "since_id": "2120972707244507212",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    },
    "lazidetektor": {
     "since_id": "2120986056627802330",
-    "t": 1794520781.6088712
+    "t": 1794522589.7386436
    }
   },
   "posts": [
+   {
+    "id": "2121004802876355006",
+    "x": "NaStraniNaroda",
+    "ime": "Vukša Dragović",
+    "grupa": "",
+    "uloga": "",
+    "text": "Shvata i on da su ih odradile nevladine organizacije i hrvatska obaveštajna služba... \n\nAli, to je, kaže, naše. 🤦‍♂️\n\nTo su ti naši nobelovci koje će ministri da pitaju šta treba da rade. https://t.co/Z981aLPn4q",
+    "published": "2026-11-12T22:18:46.000+00:00",
+    "lajk": 4,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Kritika vlasti: nevladine organizacije i hrvatska služba, nobelovci i ministri"
+   },
+   {
+    "id": "2121000209488515372",
+    "x": "Bcenzure",
+    "ime": "Bez Cenzure",
+    "grupa": "",
+    "uloga": "",
+    "text": "Kompletnu medijsku scenu u Srbiji kontroliše Beba Popović! Peca POPOVIĆ https://t.co/FWYE1niuTV",
+    "published": "2026-11-12T22:00:30.000+00:00",
+    "lajk": 4,
+    "prikazi": true,
+    "rubrika": "mediji",
+    "tema": "Tvrdnja da Beba Popović kontroliše medijsku scenu u Srbiji"
+   },
    {
     "id": "2120990644974084444",
     "x": "zaklina_prva",
@@ -14670,6 +14703,119 @@
      "naslov": "Συνάντηση του Υπουργού Εξωτερικών Ν. Δένδια με το μέλος του Συλλογικού Γραφείου Βοσνίας-Ερζεγοβίνης Milorad Dodik (Σαράγεβο, 31.05.2022) 01.jpg"
     }
    ]
+  },
+  "t:novi pazar": {
+   "t": 1794522547.4891553,
+   "items": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/2021_Novi_Pazar_trip.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 960,
+     "h": 718,
+     "god": 2021,
+     "credit": "Wikimedia Commons / EmiliaITČA / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:2021_Novi_Pazar_trip.jpg",
+     "naslov": "2021 Novi Pazar trip.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Novi_Pazar_May_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 960,
+     "h": 718,
+     "god": 2021,
+     "credit": "Wikimedia Commons / EmiliaITČA / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Novi_Pazar_May_2021.jpg",
+     "naslov": "Novi Pazar May 2021.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Streets_of_Novi_Pazar_02.jpg/1920px-Streets_of_Novi_Pazar_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 7360,
+     "h": 4912,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Miomir Magdevski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Streets_of_Novi_Pazar_02.jpg",
+     "naslov": "Streets of Novi Pazar 02.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/%D0%90%D1%83%D0%B3%D1%83%D1%81%D1%82_2025_-_Views_of_Novi_Pazar_02.jpg/1920px-%D0%90%D1%83%D0%B3%D1%83%D1%81%D1%82_2025_-_Views_of_Novi_Pazar_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3264,
+     "h": 1468,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Miomir Magdevski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%90%D1%83%D0%B3%D1%83%D1%81%D1%82_2025_-_Views_of_Novi_Pazar_02.jpg",
+     "naslov": "Аугуст 2025 - Views of Novi Pazar 02.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Buildings_in_Novi_Pazar_02.jpg/1920px-Buildings_in_Novi_Pazar_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3632,
+     "h": 5456,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Miomir Magdevski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Buildings_in_Novi_Pazar_02.jpg",
+     "naslov": "Buildings in Novi Pazar 02.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Buildings_in_Novi_Pazar_04.jpg/1920px-Buildings_in_Novi_Pazar_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 7360,
+     "h": 4912,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Miomir Magdevski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Buildings_in_Novi_Pazar_04.jpg",
+     "naslov": "Buildings in Novi Pazar 04.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Hotel_Vrbak_%28Novi_Pazar%29_07.jpg/1920px-Hotel_Vrbak_%28Novi_Pazar%29_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4096,
+     "h": 3072,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Miomir Magdevski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Hotel_Vrbak_(Novi_Pazar)_07.jpg",
+     "naslov": "Hotel Vrbak (Novi Pazar) 07.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Hotel_Vrbak_%28Novi_Pazar%29_02.jpg/1920px-Hotel_Vrbak_%28Novi_Pazar%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3264,
+     "h": 1468,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Miomir Magdevski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Hotel_Vrbak_(Novi_Pazar)_02.jpg",
+     "naslov": "Hotel Vrbak (Novi Pazar) 02.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Buildings_in_Novi_Pazar_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1468,
+     "h": 2720,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Miomir Magdevski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Buildings_in_Novi_Pazar_08.jpg",
+     "naslov": "Buildings in Novi Pazar 08.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Hotel_Vrbak_%28Novi_Pazar%29_03.jpg/1920px-Hotel_Vrbak_%28Novi_Pazar%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3264,
+     "h": 1468,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Miomir Magdevski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Hotel_Vrbak_(Novi_Pazar)_03.jpg",
+     "naslov": "Hotel Vrbak (Novi Pazar) 03.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Streets_of_Novi_Pazar_01.jpg/1920px-Streets_of_Novi_Pazar_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5017,
+     "h": 3340,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Miomir Magdevski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Streets_of_Novi_Pazar_01.jpg",
+     "naslov": "Streets of Novi Pazar 01.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%D0%90%D1%83%D0%B3%D1%83%D1%81%D1%82_2025_-_Views_of_Novi_Pazar_05.jpg/1920px-%D0%90%D1%83%D0%B3%D1%83%D1%81%D1%82_2025_-_Views_of_Novi_Pazar_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4096,
+     "h": 2256,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Miomir Magdevski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%90%D1%83%D0%B3%D1%83%D1%81%D1%82_2025_-_Views_of_Novi_Pazar_05.jpg",
+     "naslov": "Аугуст 2025 - Views of Novi Pazar 05.jpg"
+    }
+   ]
   }
  },
  "x_objave": {
@@ -14708,7 +14854,9 @@
    "202611122229-22dcdc",
    "202611122229-71e69f",
    "202611122229-0133c8",
-   "202611122229-4b019a"
+   "202611122229-4b019a",
+   "202611122000-3ee521",
+   "202611121945-79e7bd"
   ],
   "istorija": [
    {
@@ -14913,6 +15061,18 @@
     "t": 1794521731.5846326,
     "id": "202611122229-4b019a",
     "x": "2121003986698608900",
+    "link": true
+   },
+   {
+    "t": 1794522595.1573765,
+    "id": "202611122000-3ee521",
+    "x": "2121007608815583283",
+    "link": true
+   },
+   {
+    "t": 1794522597.3988364,
+    "id": "202611121945-79e7bd",
+    "x": "2121007618189902132",
     "link": true
    }
   ],
