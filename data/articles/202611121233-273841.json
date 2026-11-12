@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-12T11:33:23.422839+00:00",
- "updated": "2026-11-12T12:32:47.052340+00:00",
+ "updated": "2026-11-12T23:13:18.088564+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -39,11 +39,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/vreme-vremenska-prognoza-petak-13-novembar/",
    "title": "Sutra natprosečno toplo: Vremenska prognoza za petak 13. novembar",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/magazin/vremenska-prognoza/u-srbiji-danas-natprosecno-toplo-i-vetrovito/",
+   "title": "U Srbiji danas natprosečno toplo i vetrovito",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "U petak natprosečne temperature, pa nagla promena vremena: Pljuskovi, grmljavina i jak vetar",
-  "Sutra natprosečno toplo: Vremenska prognoza za petak 13. novembar"
+  "Sutra natprosečno toplo: Vremenska prognoza za petak 13. novembar",
+  "U Srbiji danas natprosečno toplo i vetrovito"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,6 +62,6 @@
   "local": true,
   "alt": "RHMZ: u petak toplo i vetrovito, popodne kiša, pljuskovi i osetan pad temperature"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

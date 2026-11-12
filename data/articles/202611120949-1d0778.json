@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-12T08:49:27.967825+00:00",
- "updated": "2026-11-12T13:47:16.070170+00:00",
+ "updated": "2026-11-12T23:13:18.088564+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -57,6 +57,12 @@
    "url": "https://www.kurir.rs/crna-hronika/10160393/hapsenja-zbog-poreske-prevare-i-pranja-novca-u-novom-sadu",
    "title": "OGLASILA SE I POLICIJA ZBOG PORESKE MAFIJE IZ NOVOG SADA: Prebacivali milione na privatni račun, pa dizali sa bankomata - jedna osoba u bekstvu!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Radar",
+   "url": "https://radar.nova.rs/ekonomija/fiktivnim-fakturama-drzavu-ostetili-za-milione/",
+   "title": "Fiktivnim fakturama državu oštetili za milione evra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -64,7 +70,8 @@
   "VJT u Novom Sadu: Uhapšen zastupnik građana zbog sumnje da je oštetio budžet",
   "UDAR NA PORESKU MAFIJU U NOVOM SADU! Oprali 27 miliona preko fiktivnih firmi, oštetili budžet države: Uhapšene dve osobe, jedna u bekstvu",
   "Mentalno razgibavanje: Firma za rad sa državom",
-  "OGLASILA SE I POLICIJA ZBOG PORESKE MAFIJE IZ NOVOG SADA: Prebacivali milione na privatni račun, pa dizali sa bankomata - jedna osoba u bekstvu!"
+  "OGLASILA SE I POLICIJA ZBOG PORESKE MAFIJE IZ NOVOG SADA: Prebacivali milione na privatni račun, pa dizali sa bankomata - jedna osoba u bekstvu!",
+  "Fiktivnim fakturama državu oštetili za milione evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,8 +83,8 @@
   "local": true,
   "alt": "Novi Sad: uhapšene dve osobe zbog sumnje na poresku prevaru i pranje novca"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-12T13:47:16.070170+00:00",
  "verzija": 2
 }
