@@ -34,17 +34,24 @@
  ],
  "importance": 6,
  "published": "2026-11-12T18:45:18.667568+00:00",
- "updated": "2026-11-12T18:45:18.667568+00:00",
+ "updated": "2026-11-12T20:59:20.440186+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1670595/rusija-srbija-studentska-lista-alaksandar-bocan-harcenko",
    "title": "BOCAN-HARČENKO S PREDSTAVNICIMA STUDENTSKE LISTE: Razgovarano o daljem razvoju rusko-srpskih odnosa",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10160763/ruski-ambasador-sastanak-predstavnici-studentske-liste-soskic-krmar",
+   "title": "DEJAN ŠOŠKIĆ I BOCAN-HARČENKO NA SASTANKU: Ruski ambasador se sastao sa predstavnicima Studentske liste, razgovarali o odnosima 2 zemlje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "BOCAN-HARČENKO S PREDSTAVNICIMA STUDENTSKE LISTE: Razgovarano o daljem razvoju rusko-srpskih odnosa"
+  "BOCAN-HARČENKO S PREDSTAVNICIMA STUDENTSKE LISTE: Razgovarano o daljem razvoju rusko-srpskih odnosa",
+  "DEJAN ŠOŠKIĆ I BOCAN-HARČENKO NA SASTANKU: Ruski ambasador se sastao sa predstavnicima Studentske liste, razgovarali o odnosima 2 zemlje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Ruski ambasador sastao se sa Šoškićem i Krmarom iz Studentske liste"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

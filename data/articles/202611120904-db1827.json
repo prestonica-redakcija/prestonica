@@ -39,7 +39,7 @@
  ],
  "importance": 7,
  "published": "2026-11-12T08:04:50.599160+00:00",
- "updated": "2026-11-12T20:44:29.029691+00:00",
+ "updated": "2026-11-12T20:59:20.440186+00:00",
  "sources": [
   {
    "name": "N1",
@@ -166,6 +166,18 @@
    "url": "https://www.danas.rs/svet/izaslanici-sad-se-sastali-s-putinom/",
    "title": "Izaslanici SAD se sastali s Putinom: Rusija protiv raspoređivanja evropskih trupa u Ukrajini nakon eventualnog prekida vatre",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/297188/zelenski-pristup-sad-koji-sa-rus-razgovara-o-novom-bezbednosnom-poretku-pomalo-cudan/vest",
+   "title": "Zelenski: Pristup SAD, koji sa RUS razgovara o novom bezbednosnom poretku pomalo čudan",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/tramp-opoziv-funkcija-predsednik-sad/",
+   "title": "„Prognati ga na ostrvo da neprestano sluša sopstvene govore“: Da li bi Tramp mogao da postane prvi predsednik SAD koji je opozvan sa funkcije?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -189,7 +201,9 @@
   "USPEŠAN SASTANAK U MOSKVI: Putin, Vitkof i Kušner dogovorili održavanje nove runde trilateralnih pregovora o Ukrajini",
   "Gledajte uživo Dnevnik TV Nova",
   "Nakon sastanka sa Kušnerom i Vitkofom, Putin sazvao sastanak Saveta bezbednosti Rusije",
-  "Izaslanici SAD se sastali s Putinom: Rusija protiv raspoređivanja evropskih trupa u Ukrajini nakon eventualnog prekida vatre"
+  "Izaslanici SAD se sastali s Putinom: Rusija protiv raspoređivanja evropskih trupa u Ukrajini nakon eventualnog prekida vatre",
+  "Zelenski: Pristup SAD, koji sa RUS razgovara o novom bezbednosnom poretku pomalo čudan",
+  "„Prognati ga na ostrvo da neprestano sluša sopstvene govore“: Da li bi Tramp mogao da postane prvi predsednik SAD koji je opozvan sa funkcije?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -202,7 +216,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(08-03-2024)_(cropped).jpg",
   "alt": "Vitkof i Kušner stigli u Moskvu na razgovore sa Putinom, potom putuju kod Zelenskog"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-12T20:44:29.029691+00:00",
  "verzija": 5
