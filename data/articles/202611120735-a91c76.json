@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T06:35:39.319205+00:00",
- "updated": "2026-11-12T20:14:38.677905+00:00",
+ "updated": "2026-11-12T21:29:03.804743+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -169,6 +169,12 @@
    "url": "https://www.telegraf.rs/vesti/svet/4432091-afera-koja-trese-nvidiju-dobija-novi-nastavak-dzensen-huang-bio-u-vezi-sa-jos-jednom-zenom",
    "title": "Afera koja trese Nvidiju dobija novi nastavak: Džensen Huang bio u vezi sa još jednom ženom?",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/297374/rojters-huang-imao-intiman-odnos-sa-jos-jednom-zaposlenom-u-kompaniji-nvidia/vest",
+   "title": "Rojters: Huang imao \"intiman odnos\" sa još jednom zaposlenom u kompaniji Nvidia",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -194,7 +200,8 @@
   "Ko će naslediti Huanga na čelu Nvidije? Tramp predložio neočekivano ime",
   "Tramp se oglasio nakon Huangove ostavke: Evo koga predlaže za novog šefa Nvidije",
   "TRAMP SE OGLASIO POSLE HUANGOVE OSTAVKE: Ovo je njegov predlog za novog direktora Nvidije",
-  "Afera koja trese Nvidiju dobija novi nastavak: Džensen Huang bio u vezi sa još jednom ženom?"
+  "Afera koja trese Nvidiju dobija novi nastavak: Džensen Huang bio u vezi sa još jednom ženom?",
+  "Rojters: Huang imao \"intiman odnos\" sa još jednom zaposlenom u kompaniji Nvidia"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -206,7 +213,7 @@
   "local": true,
   "alt": "Volstrit džornal: upravni odbor Nvidije mogao bi da razmotri smenu Džensena Huanga"
  },
- "novo_od_pisanja": 2,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-12T19:15:03.989954+00:00",
  "verzija": 5

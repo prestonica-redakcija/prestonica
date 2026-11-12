@@ -29,17 +29,31 @@
  ],
  "importance": 5,
  "published": "2026-11-12T19:00:08.482423+00:00",
- "updated": "2026-11-12T19:00:08.482423+00:00",
+ "updated": "2026-11-12T21:29:03.804743+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/english/news/us-assistant-state-secretary-hanrahan-in-belgrade/",
    "title": "US Assistant State Secretary Hanrahan in Belgrade",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/297376/pomocnik-drzavnog-sekretara-za-evropske-poslove-sad-hanrahan-doputovao-u-beograd/vest",
+   "title": "Pomoćnik državnog sekretara za evropske poslove SAD Hanrahan doputovao u Beograd",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/pomocnik-drzavnog-sekretara-brendan-hanrahan-sastao-se-sa-predstavnicima-studentske-liste/",
+   "title": "Pomoćnik državnog sekretara Brendan Hanrahan sastao se sa predstavnicima Studentske liste",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "US Assistant State Secretary Hanrahan in Belgrade"
+  "US Assistant State Secretary Hanrahan in Belgrade",
+  "Pomoćnik državnog sekretara za evropske poslove SAD Hanrahan doputovao u Beograd",
+  "Pomoćnik državnog sekretara Brendan Hanrahan sastao se sa predstavnicima Studentske liste"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +65,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:GREEN%C3%97EXPO_2027_wrapping_train_by_S%C5%8Dtetsu.jpg",
   "alt": "Pomoćnik državnog sekretara SAD Brendan Hanrahan u poseti Beogradu"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

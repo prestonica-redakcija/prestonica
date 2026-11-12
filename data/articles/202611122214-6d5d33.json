@@ -29,17 +29,24 @@
  ],
  "importance": 6,
  "published": "2026-11-12T21:14:35.131658+00:00",
- "updated": "2026-11-12T21:14:35.131658+00:00",
+ "updated": "2026-11-12T21:29:03.804743+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10160782/sastanak-predstavnika-studentske-liste-i-sad-zajednicki-prioriteti",
    "title": "PREDSTAVNICI STUDENTSKE LISTE SASTALI SE SA POMOĆNIKOM DRŽAVNOG SEKRETARA SAD Oglasila se ambasada Amerike: Spremni smo da radimo na zajedničkim prioritetima",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4432112-najnovija-vest-visoki-americki-zvanicnik-sastao-se-sa-predstavnicima-studentske-liste",
+   "title": "Najnovija vest: Visoki američki zvaničnik sastao se sa predstavnicima Studentske liste",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "PREDSTAVNICI STUDENTSKE LISTE SASTALI SE SA POMOĆNIKOM DRŽAVNOG SEKRETARA SAD Oglasila se ambasada Amerike: Spremni smo da radimo na zajedničkim prioritetima"
+  "PREDSTAVNICI STUDENTSKE LISTE SASTALI SE SA POMOĆNIKOM DRŽAVNOG SEKRETARA SAD Oglasila se ambasada Amerike: Spremni smo da radimo na zajedničkim prioritetima",
+  "Najnovija vest: Visoki američki zvaničnik sastao se sa predstavnicima Studentske liste"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata_2.jpg",
   "alt": "Pomoćnik državnog sekretara SAD sastao se sa predstavnicima Studentske liste"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
