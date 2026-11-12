@@ -31,17 +31,24 @@
  ],
  "importance": 5,
  "published": "2026-11-12T14:32:08.212448+00:00",
- "updated": "2026-11-12T14:32:08.212448+00:00",
+ "updated": "2026-11-12T23:43:13.671679+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/ekonomija/vesti/1670506/novi-paket-britanskih-sankcija-sankcionisano-svih-10-vodecih-ruskih-proizvodjaca-nafte",
    "title": "NOVI PAKET BRITANSKIH SANKCIJA: Sankcionisano svih 10 vodećih ruskih proizvođača nafte",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10160507/britanija-uvela-sankcije-ruskom-naftnom-proizvodjacu-slavneft",
+   "title": "VELIKA BRITANIJA UVELA SANKCIJE RUSKOM SLAVNEFTU! Svih 10 najvećih proizvođača nafte u Rusiji sada je obuhvaćeno britanskim sankcijama",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "NOVI PAKET BRITANSKIH SANKCIJA: Sankcionisano svih 10 vodećih ruskih proizvođača nafte"
+  "NOVI PAKET BRITANSKIH SANKCIJA: Sankcionisano svih 10 vodećih ruskih proizvođača nafte",
+  "VELIKA BRITANIJA UVELA SANKCIJE RUSKOM SLAVNEFTU! Svih 10 najvećih proizvođača nafte u Rusiji sada je obuhvaćeno britanskim sankcijama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Britanija uvela sankcije Slavnjeftu i postala prva zemlja koja je sankcionisala svih 10 ruskih naftaša"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

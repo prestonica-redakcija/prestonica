@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-11T19:40:59.687057+00:00",
- "updated": "2026-11-12T20:14:38.677905+00:00",
+ "updated": "2026-11-12T23:43:13.671679+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -88,6 +88,12 @@
    "url": "https://www.tanjug.rs/srbija/hronika/297332/ispalio-vise-hitaca-u-restoranu-u-velikoj-plani-bice-podneta-krivicna-prijava/vest",
    "title": "Ispalio više hitaca u restoranu u Velikoj Plani, biće podneta krivična prijava",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/297332/muskarac-ispalio-vise-hitaca-u-restoranu-u-velikoj-plani-bice-podneta-krivicna-prijava/vest",
+   "title": "Muškarac ispalio više hitaca u restoranu u Velikoj Plani, biće podneta krivična prijava",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -100,7 +106,8 @@
   "MUP: Krivične prijave protiv tri osobe zbog nasilničkog ponašanja",
   "Odbornička grupa \"Knić protiv nasilja\" podnela krivičnu prijavu protiv predsednice Skupštine opštine",
   "Krivična prijava protiv muškarca zbog pucnjave u kafiću u Velikoj Plani",
-  "Ispalio više hitaca u restoranu u Velikoj Plani, biće podneta krivična prijava"
+  "Ispalio više hitaca u restoranu u Velikoj Plani, biće podneta krivična prijava",
+  "Muškarac ispalio više hitaca u restoranu u Velikoj Plani, biće podneta krivična prijava"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -113,6 +120,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Wiki.Ju%C5%BEnije_III_Doljevac_057.jpg",
   "alt": "Niš: krivične prijave protiv trojice zbog incidenta na biračkom mestu u Doljevcu"
  },
- "novo_od_pisanja": 7,
- "boost": 1.56
+ "novo_od_pisanja": 8,
+ "boost": 1.6
 }

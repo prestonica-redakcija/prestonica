@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-12T16:31:09.719763+00:00",
- "updated": "2026-11-12T22:43:25.533142+00:00",
+ "updated": "2026-11-12T23:43:13.671679+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -40,11 +40,18 @@
    "url": "https://www.kurir.rs/crna-hronika/10160638/odredjen-pritvor-osumnjicenom-da-je-izazvao-saobracajnu-nesrecu-u-medji",
    "title": "TINEJDŽER SEO ZA VOLAN BEZ DOZVOLE, IZAZVAO UDES, PA OSTAVIO DRUGA DA UMRE Određen pritvor osumnjičenom da je izazvao saobraćajnu nesreću u Međi",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/297308/odreden-pritvor-osumnjicenom-da-je-izazvao-saobracajnu-nesrecu-u-medi/vest",
+   "title": "Određen pritvor osumnjičenom da je izazvao saobraćajnu nesreću u Međi",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Određen pritvor osumnjičenom da je izazvao saobraćajnu nesreću u Međi",
-  "TINEJDŽER SEO ZA VOLAN BEZ DOZVOLE, IZAZVAO UDES, PA OSTAVIO DRUGA DA UMRE Određen pritvor osumnjičenom da je izazvao saobraćajnu nesreću u Međi"
+  "TINEJDŽER SEO ZA VOLAN BEZ DOZVOLE, IZAZVAO UDES, PA OSTAVIO DRUGA DA UMRE Određen pritvor osumnjičenom da je izazvao saobraćajnu nesreću u Međi",
+  "Određen pritvor osumnjičenom da je izazvao saobraćajnu nesreću u Međi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,6 +64,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Primary_school_Zarko_Zrenjanin_Kikinda.jpg",
   "alt": "Pritvor do 30 dana osumnjičenom za saobraćajnu nesreću u Međi u kojoj je poginuo muškarac"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
