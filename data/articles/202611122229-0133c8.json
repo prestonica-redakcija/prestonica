@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T21:29:03.804743+00:00",
- "updated": "2026-11-12T21:29:03.804743+00:00",
+ "updated": "2026-11-12T22:43:25.533142+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -45,11 +45,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4432108-oglasio-se-viktor-orban-prvi-put-nakon-hapsenja-brata-arona-ovo-je-politicki-obracun-moj-brat-je-nevin",
    "title": "Oglasio se Viktor Orban prvi put nakon hapšenja brata Arona: \"Ovo je politički obračun, moj brat je nevin\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/region/284545/viktor-orban-je-rekao-da-je-100-odsto-siguran-da-je-njegov-brat-aron-nevin/vest",
+   "title": "Orban o hapšenju brata: \"100 odsto sam siguran da je nevin\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "VIKTOR ORBAN: Sto odsto sam siguran da je moj brat nevin! On je čestit čovek, dobrog srca!",
-  "Oglasio se Viktor Orban prvi put nakon hapšenja brata Arona: \"Ovo je politički obračun, moj brat je nevin\""
+  "Oglasio se Viktor Orban prvi put nakon hapšenja brata Arona: \"Ovo je politički obračun, moj brat je nevin\"",
+  "Orban o hapšenju brata: \"100 odsto sam siguran da je nevin\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Viktor_Orb%C3%A1n_2023.jpg",
   "alt": "Viktor Orban o hapšenju brata Arona: siguran sam u njegovu nevinost, reč je o političkom obračunu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -30,17 +30,24 @@
  ],
  "importance": 3,
  "published": "2026-11-12T19:59:46.894830+00:00",
- "updated": "2026-11-12T19:59:46.894830+00:00",
+ "updated": "2026-11-12T22:43:25.533142+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1670615/povratak-pobednika-danasnji-dan-pre-12-godina-seselj-stigao-srbiju-haga",
    "title": "POVRATAK POBEDNIKA: Na današnji dan pre 12 godina Šešelj stigao u Srbiju iz Haga",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1169393/vojislav-seselj-godisnjica-povratka-iz-haga",
+   "title": "Godišnjica istorijskog povratka iz Haga! Na današnji dan Šešelj sleteo u Beograd posle skoro 12 godina pritvora (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "POVRATAK POBEDNIKA: Na današnji dan pre 12 godina Šešelj stigao u Srbiju iz Haga"
+  "POVRATAK POBEDNIKA: Na današnji dan pre 12 godina Šešelj stigao u Srbiju iz Haga",
+  "Godišnjica istorijskog povratka iz Haga! Na današnji dan Šešelj sleteo u Beograd posle skoro 12 godina pritvora (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Snezana_Djordjevic_i_Vojislav_Seselj.jpg",
   "alt": "Navršilo se 12 godina od povratka Vojislava Šešelja iz Haga u Srbiju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

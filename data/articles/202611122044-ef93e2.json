@@ -29,17 +29,24 @@
  ],
  "importance": 4,
  "published": "2026-11-12T19:44:51.378298+00:00",
- "updated": "2026-11-12T19:44:51.378298+00:00",
+ "updated": "2026-11-12T22:43:25.533142+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/opozicioni-odbornik-predsednik-skupstine-opstine-ivanjica-dragovan-milinkovic-sps-podneo-ostavku/",
    "title": "Predsednik Skupštine Opštine Ivanjica Dragovan Milinković (SPS) podneo ostavku",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4432106-ostavka-u-ivanjici-sutra-vanredna-sednica-skupstine-opstine",
+   "title": "Ostavka u Ivanjici: Sutra vanredna sednica Skupštine opštine",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Predsednik Skupštine Opštine Ivanjica Dragovan Milinković (SPS) podneo ostavku"
+  "Predsednik Skupštine Opštine Ivanjica Dragovan Milinković (SPS) podneo ostavku",
+  "Ostavka u Ivanjici: Sutra vanredna sednica Skupštine opštine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Ivanjica_89.jpg",
   "alt": "Predsednik Skupštine opštine Ivanjica Dragovan Milinković podneo ostavku"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

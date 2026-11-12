@@ -29,17 +29,31 @@
  ],
  "importance": 5,
  "published": "2026-11-12T22:28:34.901688+00:00",
- "updated": "2026-11-12T22:28:34.901688+00:00",
+ "updated": "2026-11-12T22:43:25.533142+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/prijava-protiv-sudija-sns-u-ovom-pazaru/",
    "title": "Prijava protiv sudija zbog učešća na skupu SNS u Novom Pazaru",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/prijava-protiv-sudija-zbog-ucesca-na-skupu-sns-u-novom-pazaru/",
+   "title": "Prijava protiv sudija zbog učešća na skupu SNS u Novom Pazaru",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/studenti-podneli-protiv-sudija-zbog-ucesca-na-skupu-sns-u-novom-pazaru/",
+   "title": "Studenti podneli prijavu protiv sudija zbog učešća na skupu SNS u Novom Pazaru",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Prijava protiv sudija zbog učešća na skupu SNS u Novom Pazaru"
+  "Prijava protiv sudija zbog učešća na skupu SNS u Novom Pazaru",
+  "Prijava protiv sudija zbog učešća na skupu SNS u Novom Pazaru",
+  "Studenti podneli prijavu protiv sudija zbog učešća na skupu SNS u Novom Pazaru"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +65,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Streets_of_Novi_Pazar_02.jpg",
   "alt": "Studenti prijavili dvojicu sudija iz Novog Pazara zbog prisustva na skupu SNS-a"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
