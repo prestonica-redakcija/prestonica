@@ -1,0 +1,37 @@
+name: Odglavi osvezavanje
+
+on:
+  push:
+    paths:
+      - .github/workflows/odglavi.yml
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  odglavi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Prekini zaglavljena osvezavanja i obrisi ovaj fajl
+        run: |
+          for id in $(gh run list -R "$GITHUB_REPOSITORY" --workflow osvezavanje.yml --status in_progress --json databaseId -q '.[].databaseId'); do
+            echo "Prekidam $id"
+            gh api -X POST "repos/$GITHUB_REPOSITORY/actions/runs/$id/force-cancel" || true
+          done
+          git config user.name "prestonica-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git rm -q .github/workflows/odglavi.yml
+          git commit -q -m "Odrzavanje"
+          for i in 1 2 3 4 5 6; do
+            git pull --rebase -q origin main && git push -q origin HEAD:main && echo "GOTOVO" && exit 0
+            sleep 10
+          done
+          exit 1

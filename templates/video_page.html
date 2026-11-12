@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% from "macros.html" import vcard, card, share, yt %}
+{% block desc %}{{ v.opis or v._h }}{% endblock %}
+{% block meta %}
+<meta property="og:title" content="{{ v._h }}">
+<meta property="og:description" content="{{ v.opis }}">
+<meta property="og:type" content="video.other">
+<meta property="og:image" content="https://i.ytimg.com/vi/{{ v.id }}/hqdefault.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"VideoObject","name":v._h,"description":v.opis or v._h,"thumbnailUrl":["https://i.ytimg.com/vi/" ~ v.id ~ "/hqdefault.jpg"],"uploadDate":v.published,"embedUrl":"https://www.youtube-nocookie.com/embed/" ~ v.id,"publisher":{"@type":"Organization","name":portal.ime}}|tojson }}</script>
+{% endblock %}
+{% block main %}
+<article class="art vp r-{{ v.rubrika or 'politika' }}">
+  <nav class="crumbs" aria-label="Putanja">
+    <a href="{{ root }}index.html">Naslovna</a><span aria-hidden="true">›</span><a href="{{ root }}video.html">Video</a>{% if v.rubrika in rubrike %}<span aria-hidden="true">›</span><a href="{{ root }}{{ v.rubrika }}.html">{{ rubrike[v.rubrika].naziv }}</a>{% endif %}
+  </nav>
+  <header class="art-head">
+    <span class="chip chip-lg">{% if v.live == 'live' %}Uživo · {% endif %}Video · {{ rubrike[v.rubrika].naziv if v.rubrika in rubrike else 'Vesti' }}</span>
+    <h1>{{ v._h }}</h1>
+    {% if v.opis %}<p class="art-lead">{{ v.opis }}</p>{% endif %}
+    <div class="art-meta">
+      <span class="avatar" aria-hidden="true">▶</span>
+      <span class="art-by"><b>Izvor snimka: {{ v.kanal }}</b><span><time data-t="{{ v.published }}">{{ v._time }}</time></span></span>
+      <span class="art-share">{{ share(v._url, v._h) }}</span>
+    </div>
+  </header>
+  <div class="vp-player">{{ yt(v.id, v._h, '', '', v.live == 'live', True) }}</div>
+  <div class="art-wrap">
+    <div class="art-body">
+      {% for p in v.tekst or [] %}<p>{{ p }}</p>{% endfor %}
+      {% if not v.tekst and v.opis %}<p>{{ v.opis }}</p>{% endif %}
+      {% if art %}
+      <a class="vp-art" href="{{ root }}{{ art._url }}">
+        <span class="vp-art-ph"><img src="{{ art|img(root, 's') }}" alt="" loading="lazy"></span>
+        <span><span class="eyebrow">Vest o ovoj temi</span><b>{{ art.headline }}</b><small>{{ art.lead }}</small></span>
+        <span class="vp-art-go" aria-hidden="true">→</span>
+      </a>
+      {% endif %}
+      <div class="share-box"><span class="eyebrow">Podeli snimak</span>{{ share(v._url, v._h, True) }}</div>
+      {% if v.oznake %}<div class="tags art-tags">{% for t in v.oznake %}<a class="tag" href="{{ root }}pretraga.html?q={{ t|urlencode }}">{{ t }}</a>{% endfor %}</div>{% endif %}
+    </div>
+    <aside class="art-side">
+      <div class="panel note">
+        <h3>O ovom snimku</h3>
+        <p>Snimak je objavio {{ v.kanal }} na svom YouTube kanalu. Tekst je kratko objašnjenje redakcije Prestonice na osnovu naslova i opisa snimka. Stavovi iz snimka pripadaju govornicima.</p>
+      </div>
+    </aside>
+  </div>
+</article>
+{% if more %}
+<section class="related">
+  <div class="shead"><span class="shead-dot"></span><h2>Još video</h2><span class="shead-line"></span><a class="more" href="{{ root }}video.html">Sav video <span aria-hidden="true">→</span></a></div>
+  <div class="vid-grid vid-grid-3">{% for x in more %}{{ vcard(x, root, rubrike, 'sm') }}{% endfor %}</div>
+</section>
+{% endif %}
+{% endblock %}

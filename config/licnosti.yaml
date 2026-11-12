@@ -1,0 +1,23 @@
+# =====================================================================
+#  LIČNOSTI: za svaku osobu portal pravi posebnu stranicu sa svim
+#  njenim izjavama i aktivnostima iz svih medija.
+#  kljucne = oblici imena po kojima se prepoznaje (bez kvačica je u redu)
+#  Dodaj ili ukloni osobu i sistem to preuzima pri sledećem osvežavanju.
+# =====================================================================
+licnosti:
+  - {ime: Miroslav Aleksić,    uloga: "Narodni pokret Srbije",        kljucne: [aleksic], x: MiikiAleksic}
+  - {ime: Miloš Parandilović,  uloga: "Novo lice Srbije",             kljucne: [parandilovic], x: ParandilovicNLS}
+  - {ime: Aleksandar Vučić,    uloga: "Srpska napredna stranka",      kljucne: [vucic]}
+  - {ime: Ilija Srdanović,     uloga: "Studentska lista",             kljucne: [srdanovic]}
+  - {ime: Dejan Šoškić,        uloga: "Studentska lista",             kljucne: [soskic]}
+  - {ime: Ana Brnabić,         uloga: "Srpska napredna stranka",      kljucne: [brnabic]}
+  - {ime: Miloš Vučević,       uloga: "Srpska napredna stranka",      kljucne: [vucevic]}
+  - {ime: Ivica Dačić,         uloga: "Socijalistička partija Srbije", kljucne: [dacic]}
+  - {ime: Dragan Đilas,        uloga: "Stranka slobode i pravde",     kljucne: [djilas]}
+  - {ime: Borko Stefanović,    uloga: "Stranka slobode i pravde",     kljucne: [stefanovic borko, borko stefanovic]}
+  - {ime: Savo Manojlović,     uloga: "Kreni-Promeni",                kljucne: [manojlovic]}
+  - {ime: Miloš Jovanović,     uloga: "Nova DSS",                     kljucne: [jovanovic milos, milos jovanovic]}
+  - {ime: Boško Obradović,     uloga: "Dveri",                        kljucne: [obradovic bosko, bosko obradovic]}
+  - {ime: Zdravko Ponoš,       uloga: "Srce",                         kljucne: [ponos]}
+  - {ime: Siniša Mali,         uloga: "Srpska napredna stranka",      kljucne: [sinisa mali]}
+  - {ime: Dragan J. Vučićević, uloga: "Informer",                     kljucne: [vucicevic]}

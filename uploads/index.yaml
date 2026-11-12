@@ -1,0 +1,58 @@
+# =====================================================================
+#  FOTO-ARHIVA
+#  Sistem prvo traži fotografiju ovde (po ključnim rečima), pa tek onda
+#  na Wikimedia Commons i Pexels-u. Dodaj svoje fotografije u uploads/foto/
+#  i upiši ih ovde. "ilustracija: false" = fotografija sa samog događaja.
+# =====================================================================
+
+fotografije:
+  - {fajl: skupstina.jpg,        kljucne: [skupstina, parlament, poslanik, sednica, mandat, konstitutivna, izbori, rik, studentska lista, zakon], autor: "Pexels / Esma Nur Büyükgüçlü"}
+  - {fajl: zastava.jpg,          kljucne: [srbija, zastava, studenti, studentska lista, izbori, pobeda, proslava, protest, gradjani], autor: "Pexels / Kelly"}
+  - {fajl: zastave-zgrada.jpg,   kljucne: [beograd, zastave, ambasada, drzava, ministarstvo, diplomat, konzul], autor: "Pexels / Zehra Aynacı"}
+  - {fajl: beograd-sv-marko.jpg, kljucne: [beograd, vlada, grad, crkva, centar, opstina, gradonacelnik], autor: "Pexels / Kelly"}
+  - {fajl: beograd-hram.jpg,     kljucne: [beograd, hram, crkva, spc, patrijarh, pravoslav], autor: "Pexels / Kelly"}
+  - {fajl: beograd-dunav.jpg,    kljucne: [beograd, dunav, grad, gradjevin, urbanizam, budzet grada, projekat], autor: "Pexels / Kelly"}
+  - {fajl: beograd-ada.jpg,      kljucne: [saobracaj, most, infrastruktur, autoput, aerodrom, let, avio, linij], autor: "Pexels / Boris Hamer"}
+  - {fajl: beograd-tvrdjava.jpg, kljucne: [beograd, kalemegdan, turizam, kultura, istorij], autor: "Pexels / Boris Hamer"}
+  - {fajl: beograd-neboderi.jpg, kljucne: [nekretnin, stan, gradjevin, investicij, beograd na vodi, kompanij, kredit], autor: "Pexels / Nikola Kojević"}
+  - {fajl: beograd-zgrada.jpg,   kljucne: [beograd, institucij, zgrada, uprava, agencij], autor: "Pexels / Necip Duman"}
+  - {fajl: beograd-fasada.jpg,   kljucne: [beograd, zgrada, grad, stanovanje], autor: "Pexels / Zehra Aynacı"}
+  - {fajl: izjava-mediji.jpg,    kljucne: [izjava, novinari, konferencija, saopstenje, lider, predsednik, gostujuci, rekao, intervju], autor: "Pexels"}
+  - {fajl: novinari-kamere.jpg,  kljucne: [novinari, mediji, kamere, snimci, fotoreporter, konferencija], autor: "Pexels"}
+  - {fajl: studio-mikrofon.jpg,  kljucne: [rts, mediji, emisija, radio, studio, javni servis, urednik], autor: "Pexels"}
+  - {fajl: tv-ekrani.jpg,        kljucne: [rem, televizij, tv, informer, kurir, prva, pink, k1, emitovanje, kanal, antena, telekom], autor: "Pexels"}
+  - {fajl: finansije-tim.jpg,    kljucne: [ekonomij, privreda, poslovanje, kompanij, izvestaj, analiz, firm], autor: "Pexels"}
+  - {fajl: berza-grafikoni.jpg,  kljucne: [berza, akcij, indeks, trziste, inflacij, kamat, fed, dolar], autor: "Pexels"}
+  - {fajl: novac-racun.jpg,      kljucne: [novac, budzet, porez, plat, troskovi, cene, kurs, dinar, evra, stednj], autor: "Pexels"}
+  - {fajl: banka-ulica.jpg,      kljucne: [banka, stedionica, alta, kredit, stedise, isplata, depozit, nbs], autor: "Pexels"}
+  - {fajl: rafinerija.jpg,       kljucne: [nafta, naftovod, janaf, nis, rafinerij, gorivo, benzin, dizel, energet, gas], autor: "Pexels"}
+  - {fajl: rafinerija-2.jpg,     kljucne: [eps, struja, elektro, energet, tent, industrij, fabrika, celicana], autor: "Pexels"}
+  - {fajl: kremlj.jpg,           kljucne: [rusija, kremlj, moskva, putin, peskov, ruski], autor: "Pexels / silverkblack"}
+  - {fajl: kremlj-dan.jpg,       kljucne: [rusija, moskva, sankcij, lavrov], autor: "Pexels / Arthouse Studio"}
+  - {fajl: pariz.jpg,            kljucne: [francusk, pariz, makron, evrop, evropsk, eu, forum, brisel, evrointegrac, delegacij], autor: "Pexels"}
+  - {fajl: pravda-vaga.jpg,      kljucne: [pravda, pravosudj, ustav, tuzilast, pomilovanj, anketna komisija], autor: "Pexels"}
+  - {fajl: penzioner.jpg,        kljucne: [penzij, penzioner, pio fond, starosn, socijal], autor: "Pexels"}
+  - {fajl: penzioneri-setnja.jpg,kljucne: [penzioner, stariji, zdravlj, porodic, drustvo], autor: "Pexels"}
+  - {fajl: vatromet.jpg,         kljucne: [proslava, slavlje, praznik, docek, festival, koncert], autor: "Pexels / thatguycraig000"}
+  - {fajl: pisaca-masina.jpg,    kljucne: [analiza, kolumna, stav, komentar, licni stav], autor: "Pexels"}
+  - {fajl: pisaca-masina-2.jpg,  kljucne: [analiza, autorski, urednistvo, pisanje], autor: "Pexels"}
+
+# Rezervna fotografija po rubrici kada ništa ne odgovara
+  # srpske fotografije sa Wikimedia Commons (slobodne licence), umesto stranih stock fotografija
+  - {fajl: policija-srbija.jpg,  kljucne: [policij, mup, policajac, saobracajn, uhapsen, hapsenje, privede, napad, nesreca, ubist, pucnjav, hronika, istrag], autor: "Wikimedia Commons / Dickelbers / CC BY-SA 4.0"}
+  - {fajl: policija-vozila.jpg,  kljucne: [policij, mup, akcij, pretres, uhapsen, hapsenje, granic, kriminal, klan, droga, krijumcar], autor: "Wikimedia Commons / Srđan Popović / CC BY-SA 4.0"}
+  - {fajl: policija-kordon.jpg,  kljucne: [policij, kordon, protest, skup, incident, neredi, demonstrac, privedeni], autor: "Wikimedia Commons / Mickey Mystique / CC BY-SA 4.0"}
+  - {fajl: zandarmerija.jpg,     kljucne: [zandarmerij, specijaln, jedinic, kobre, sabotaz, napad na policij], autor: "Wikimedia Commons / BalkanPhotos / CC BY 2.0"}
+  - {fajl: sud-palata-pravde.jpg,kljucne: [sud, sudjenje, presuda, pritvor, optuznic, postupak, sudija, tuzilac, tuzilast, krivic, ocevid, odbrana, svedok, specijalni sud, visi sud, apelacion], autor: "Wikimedia Commons / Pisanija / CC BY-SA 4.0"}
+  - {fajl: protest-beograd.jpg,  kljucne: [protest, skup, gradjani, demonstrac, okupljanje, studenti, blokad, sindikat, strajk, marš], autor: "Wikimedia Commons / Emilija Knežević / CC BY 4.0"}
+  - {fajl: protest-beograd-2.jpg,kljucne: [protest, studenti, blokad, setnja, marš, skup, gradjani], autor: "Wikimedia Commons / Emilija Knežević / CC BY 4.0"}
+
+rezerva:
+  politika: skupstina.jpg
+  ekonomija: finansije-tim.jpg
+  drustvo: beograd-fasada.jpg
+  svet: zastave-zgrada.jpg
+  hronika: policija-srbija.jpg
+  kultura: beograd-tvrdjava.jpg
+  sport: beograd-ada.jpg
+  analiza: pisaca-masina.jpg

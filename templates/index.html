@@ -1,0 +1,132 @@
+{% extends "base.html" %}
+{% from "macros.html" import anketa as anketa_m %}
+{% from "macros.html" import card, row, shead, label, rcls, srcline, yt, vcard, xpost %}
+{% block main %}
+{% if hero %}
+<section class="front">
+  <article class="hero {{ rcls(hero) }}">
+    <a class="hero-link" href="{{ root }}{{ hero._url }}">
+      <img src="{{ hero|img(root, 'l') }}" alt="{{ hero.image.alt or hero.headline }}" fetchpriority="high">
+      <div class="hero-cap">
+        <span class="chip chip-lg">{{ label(hero, rubrike) }}</span>
+        <h1>{{ hero.headline }}</h1>
+        <p>{{ hero.lead }}</p>
+        <div class="hero-meta"><span class="src-pill src-pill-dark">{{ srcline(hero) }}</span>{% if hero.prepisano %}<span class="upd-tag">ažurirano</span>{% endif %}<time data-t="{{ hero.prepisano or hero.published }}">{{ hero._time }}</time>{% if hero.sources|length > 1 %}<span class="hero-n">{{ hero.sources|length }} izvora</span>{% endif %}</div>
+      </div>
+      <span class="credit">{% if hero.image.ilustracija %}Ilustracija · {% endif %}{{ hero.image.credit }}</span>
+    </a>
+  </article>
+
+  <aside class="side">
+    <div class="panel">
+      <div class="panel-h"><span class="shead-dot"></span><h2>Najnovije</h2><a class="more" href="{{ root }}najnovije.html">Sve <span aria-hidden="true">→</span></a></div>
+      <ol class="rows">{% for a in latest[:6] %}{{ row(a, root, rubrike) }}{% endfor %}</ol>
+    </div>
+  </aside>
+</section>
+{% endif %}
+
+{% if top %}
+<section class="grid4" aria-label="Izdvojeno">
+  {% for a in top %}{{ card(a, root, rubrike, 'md', false) }}{% endfor %}
+</section>
+{% endif %}
+
+{% if live_now %}
+<section class="live-strip" aria-label="Uživo">
+  <div class="shead"><span class="shead-dot shead-live"></span><h2>Uživo sada</h2><span class="shead-line"></span><a class="more" href="{{ root }}video.html">Sav video <span aria-hidden="true">→</span></a></div>
+  <div class="vid-grid">{% for v in live_now[:3] %}{{ vcard(v, root, rubrike, 'sm') }}{% endfor %}</div>
+</section>
+{% endif %}
+
+{% if videos %}
+<section class="vids" aria-label="Video">
+  <div class="shead"><span class="shead-dot"></span><h2>Video</h2><span class="shead-line"></span><a class="more" href="{{ root }}video.html">Sav video <span aria-hidden="true">→</span></a></div>
+  <div class="vid-grid vid-grid-4">{% for v in videos %}{{ vcard(v, root, rubrike, 'sm') }}{% endfor %}</div>
+</section>
+{% endif %}
+
+{% if xnaslovna %}
+<section class="xhome" aria-label="Na mrežama">
+  <div class="shead"><span class="shead-dot"></span><h2>Na mrežama</h2><span class="shead-line"></span><a class="more" href="{{ root }}mreze.html">Sve objave <span aria-hidden="true">→</span></a></div>
+  <div class="xhome-grid">{% for p in xnaslovna %}<div class="xcell">{{ xpost(p) }}</div>{% endfor %}</div>
+</section>
+{% endif %}
+
+<div class="layout">
+  <div class="col-main">
+    {% for s in sections %}
+    <section class="sect r-{{ s.key }}" aria-label="{{ s.meta.naziv }}">
+      {{ shead(s.meta.naziv, 'r-' ~ s.key, s.key ~ '.html', root) }}
+      <div class="sect-grid {% if not s.rest %}sect-solo{% endif %}">
+        {{ card(s.lead, root, rubrike, 'lg') }}
+        {% if s.rest %}
+        <ul class="sect-list">
+          {% for a in s.rest %}
+          <li class="sl {{ rcls(a) }}">
+            <a href="{{ root }}{{ a._url }}">
+              <span class="sl-th"><img src="{{ a|img(root, 's') }}" alt="" loading="lazy"></span>
+              <span class="sl-bd"><span class="sl-h">{{ a.headline }}</span><span class="sl-m">{{ srcline(a) }} · <time data-t="{{ a.prepisano or a.published }}">{{ a._time }}</time></span></span>
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </div>
+    </section>
+    {% endfor %}
+  </div>
+
+  <aside class="col-side">
+    {% if anketa %}{{ anketa_m(anketa, ankete_api, root) }}{% endif %}
+    {% if teme %}
+    <div class="panel">
+      <div class="panel-h"><span class="shead-dot"></span><h2>Teme dana</h2></div>
+      <div class="tags">{% for t in teme %}<a class="tag" href="{{ root }}pretraga.html?q={{ t|urlencode }}">{{ t }}</a>{% endfor %}</div>
+    </div>
+    {% endif %}
+    {% if w.kurs %}
+    <div class="panel">
+      <div class="panel-h"><span class="shead-dot"></span><h2>Kursna lista NBS</h2></div>
+      <ul class="fx">{% for k in w.kurs %}<li><span class="fx-c">{{ k.code }}</span><span class="fx-r">{{ '%.4f'|format(k.rate) }}</span><span class="fx-u">din</span></li>{% endfor %}</ul>
+      <p class="panel-note">Srednji kurs · {{ w.kurs[0].date }}</p>
+    </div>
+    {% endif %}
+    {% if w.vreme %}
+    <div class="panel wx">
+      <span class="wx-ring" aria-hidden="true"><b>{{ w.vreme.temp }}°</b></span>
+      <div><h3>Beograd</h3><p>{{ w.vreme.opis }}<br>min {{ w.vreme.min }}° · max {{ w.vreme.max }}°</p></div>
+    </div>
+    {% endif %}
+    <div class="panel panel-nl">
+      <span class="ring" aria-hidden="true"><i></i></span>
+      <h3>Jutarnji pregled</h3>
+      <p>Najvažnije vesti dana u vašem sandučetu u 7:00.</p>
+      <button class="btn btn-primary btn-block" type="button" data-open-news>Prijavi se</button>
+    </div>
+  </aside>
+</div>
+
+
+
+{% if opinion %}
+<section class="opinion" aria-label="Analize">
+  <div class="opinion-in">
+    {{ shead('Analize i stavovi', 'r-analiza shead-inv', 'analize.html', root) }}
+    <div class="op-grid">
+      {% for a in opinion %}
+      <article class="op">
+        <a href="{{ root }}{{ a._url }}">
+          <span class="op-ph"><img src="{{ a|img(root, 's') }}" alt="" loading="lazy"></span>
+          <span class="op-k">{{ label(a, rubrike) }}</span>
+          <h3>{{ a.headline }}</h3>
+          <p>{{ a.lead }}</p>
+          <span class="op-by">{{ a.author }} · <time data-t="{{ a.published }}">{{ a._time }}</time></span>
+        </a>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+{% endblock %}

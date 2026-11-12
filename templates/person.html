@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% from "macros.html" import card, row, label, rcls, srcline, xpost %}
+{% block desc %}{{ p.ime }}: sve izjave, aktivnosti i vesti na portalu {{ portal.ime }}.{% endblock %}
+{% block main %}
+<section class="sec-hero pp-hero">
+  <span class="pp-big pp-big-lg"><span class="pp-ini" aria-hidden="true">{{ p._ini }}</span>{% if p.img %}<img src="{{ p.img.src }}" alt="{{ p.ime }}" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">{% endif %}</span>
+  <div><span class="eyebrow">Ličnost</span><h1>{{ p.ime }}</h1><p>{% if p.uloga %}{{ p.uloga }} · {% endif %}{{ items|length }} {{ 'tekst' if items|length == 1 else 'tekstova' }} u arhivi</p>{% if p.img and p.img.credit %}<p class="pp-credit">Fotografija: {% if p.img.link %}<a href="{{ p.img.link }}" target="_blank" rel="noopener">{{ p.img.credit }}</a>{% else %}{{ p.img.credit }}{% endif %}</p>{% endif %}</div>
+  <a class="btn btn-ghost" href="{{ root }}licnosti.html">Sve ličnosti</a>
+</section>
+{% if items %}
+<div class="layout">
+  <div class="col-main">
+    <div class="grid3">{% for a in items[:6] %}{{ card(a, root, rubrike, 'md') }}{% endfor %}</div>
+    {% if items|length > 6 %}
+    <div class="shead"><span class="shead-dot"></span><h2>Hronologija</h2><span class="shead-line"></span></div>
+    <ol class="rows rows-wide">{% for a in items[6:] %}{{ row(a, root, rubrike) }}{% endfor %}</ol>
+    {% endif %}
+  </div>
+  <aside class="col-side">
+    {% if p.x %}
+    <div class="panel xbox">
+      <div class="panel-h"><span class="shead-dot"></span><h2>Na mreži X</h2></div>
+      <a class="xbox-follow" href="https://x.com/{{ p.x }}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M17.75 3h3.07l-6.7 7.66L22 21h-6.17l-4.83-6.32L5.47 21H2.4l7.17-8.2L2 3h6.32l4.37 5.78L17.75 3zm-1.08 16.2h1.7L7.4 4.73H5.58l11.09 14.47z"/></svg><span><b>@{{ p.x }}</b><small>Objave na X-u</small></span><i aria-hidden="true">→</i></a>
+      {% for x in xposts %}{{ xpost(x) }}{% endfor %}
+    </div>
+    {% endif %}
+    <div class="panel note"><h3>Kako pratimo</h3><p>Ovde se automatski skupljaju sve vesti, izjave i analize u kojima se {{ p.ime }} pominje, iz svih medija koje portal prati.</p></div>
+  </aside>
+</div>
+{% else %}
+<div class="empty"><span class="ring" aria-hidden="true"><i></i></span><h2>Još nema objava</h2><p>Čim se {{ p.ime }} pojavi u vestima, tekstovi će biti ovde.</p></div>
+{% endif %}
+{% endblock %}

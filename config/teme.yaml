@@ -1,0 +1,44 @@
+# =====================================================================
+#  TEME: šta portal gura, a šta preskače
+#  Reči se porede bez kvačica i velikih slova ("investicij" hvata
+#  investicija, investicije, investicijama...). Ćirilica radi isto.
+#  faktor > 1 = vest ide više; faktor 0 = vest se ne objavljuje.
+# =====================================================================
+
+pojacaj:
+  - {rec: "skupstin",     faktor: 1.35}
+  - {rec: "vlad",         faktor: 1.30}
+  - {rec: "mandatar",     faktor: 1.40}
+  - {rec: "ministar",     faktor: 1.20}
+  - {rec: "budzet",       faktor: 1.40}
+  - {rec: "porez",        faktor: 1.35}
+  - {rec: "nbs",          faktor: 1.30}
+  - {rec: "kurs",         faktor: 1.20}
+  - {rec: "inflacij",     faktor: 1.30}
+  - {rec: "investicij",   faktor: 1.35}
+  - {rec: "investitor",   faktor: 1.35}
+  - {rec: "plat",         faktor: 1.20}
+  - {rec: "penzij",       faktor: 1.25}
+  - {rec: "nis",          faktor: 1.20}
+  - {rec: "energet",      faktor: 1.25}
+  - {rec: "kosov",        faktor: 1.30}
+  - {rec: "korupcij",     faktor: 1.35}
+  - {rec: "tuzilast",     faktor: 1.20}
+  - {rec: "uhapsen",      faktor: 1.15}
+  - {rec: "rem",          faktor: 1.15}
+  - {rec: "nekretnin",    faktor: 1.20}
+  - {rec: "preduzet",     faktor: 1.25}
+
+smanji:
+  - {rec: "horoskop",     faktor: 0}
+  - {rec: "rijaliti",     faktor: 0.2}
+  - {rec: "recept",       faktor: 0}
+  - {rec: "ljubimc",      faktor: 0}
+  - {rec: "showbiz",      faktor: 0}
+  - {rec: "estrad",       faktor: 0.2}
+  - {rec: "pevac",        faktor: 0.3}
+  - {rec: "kviz",         faktor: 0}
+  - {rec: "nagradna igra",faktor: 0}
+
+# Teme koje ti trenutno želiš da portal posebno prati (dodaješ i preko Telegrama: /tema ...)
+fokus: []

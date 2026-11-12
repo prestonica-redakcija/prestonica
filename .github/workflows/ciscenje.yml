@@ -1,0 +1,40 @@
+name: Ciscenje istorije
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: ciscenje
+  cancel-in-progress: false
+
+jobs:
+  ocisti:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Jedna cista verzija koda (bez stare istorije)
+        run: |
+          git config user.name "prestonica-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git fetch origin main
+          OLD=$(git rev-parse origin/main)
+          git checkout --orphan cisto origin/main
+          git commit -q -m "Prestonica"
+          git push --force-with-lease=main:$OLD origin cisto:main || echo "PUSH_ODBIJEN"
+      - name: Brisanje starih pokretanja
+        run: |
+          gh api --paginate "repos/$GITHUB_REPOSITORY/actions/runs?per_page=100" -q '.workflow_runs[].id' | while read id; do
+            if [ "$id" != "$GITHUB_RUN_ID" ]; then gh api -X DELETE "repos/$GITHUB_REPOSITORY/actions/runs/$id" >/dev/null 2>&1 || echo "preskocen $id"; fi
+          done
+      - name: Ponovo pokreni osvezavanje
+        run: gh workflow run osvezavanje.yml -R "$GITHUB_REPOSITORY" --ref main || true

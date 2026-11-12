@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% from "macros.html" import anketa as anketa_m %}
+{% block desc %}Ankete čitalaca portala {{ portal.ime }}: pitanje dana i arhiva rezultata.{% endblock %}
+{% block main %}
+<section class="sec-hero">
+  <span class="sec-ring" aria-hidden="true"></span>
+  <div><span class="eyebrow">Ankete čitalaca</span><h1>Pitanje dana</h1><p>Šta čitaoci misle o temama dana. Glasanje je anonimno, jedan glas po uređaju. Ankete nisu naučno istraživanje javnog mnjenja: pokazuju raspoloženje čitalaca koji su glasali.</p></div>
+</section>
+{% set open_polls = polls|selectattr('_otvorena')|list %}
+{% if open_polls %}
+<div class="poll-grid">{% for p in open_polls %}{{ anketa_m(p, ankete_api, root) }}{% endfor %}</div>
+{% endif %}
+{% set done = polls|rejectattr('_otvorena')|list %}
+{% if done %}
+<div class="shead"><span class="shead-dot"></span><h2>Arhiva rezultata</h2><span class="shead-line"></span></div>
+<ol class="poll-arch">
+  {% for p in done %}
+  <li class="pa">
+    <div class="pa-h"><time>{{ p._dan }}</time>{% if p.tema %}<span class="pa-tema">{{ p.tema }}</span>{% endif %}{% if p._ukupno %}<span class="pa-n">{{ p._ukupno }} glasova</span>{% endif %}</div>
+    <h3>{{ p.pitanje }}</h3>
+    {% if p._pct %}
+    <ul class="pa-r">{% for o in p.opcije %}{% set v = p._pct[loop.index0] %}<li{% if v == p._pct|max %} class="lead"{% endif %}><span class="pa-t">{{ o }}</span><span class="pa-b"><i style="width:{{ v }}%"></i></span><b>{{ v }}%</b></li>{% endfor %}</ul>
+    {% else %}
+    <div class="poll pa-live" data-anketa="{{ p.id }}" data-api="{{ ankete_api }}" data-open="0"><ol class="poll-o">{% for o in p.opcije %}<li><button class="poll-b" type="button" data-o="{{ loop.index0 }}" disabled><span class="poll-t">{{ o }}</span><span class="poll-bar" aria-hidden="true"></span><span class="poll-pct"></span></button></li>{% endfor %}</ol><p class="poll-f"><span class="poll-n"></span></p></div>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ol>
+{% endif %}
+{% endblock %}

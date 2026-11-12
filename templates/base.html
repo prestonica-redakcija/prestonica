@@ -1,0 +1,157 @@
+{% from "macros.html" import share as _share %}<!doctype html>
+<html lang="sr-Latn" data-root="{{ root }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{% if title %}{{ title }} · {% endif %}{{ portal.ime }}</title>
+<meta name="description" content="{% block desc %}{{ portal.opis }}{% endblock %}">
+<meta name="claude:viewport-fit-sides" content="cover">
+{% if domain %}<link rel="canonical" href="https://{{ domain }}/{{ '' if page_path == 'index.html' else page_path }}">{% endif %}
+<meta property="og:site_name" content="{{ portal.ime }}">
+<meta property="og:locale" content="sr_RS">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@Prestonicars">
+{% block meta %}<meta property="og:title" content="{% if title %}{{ title }} · {% endif %}{{ portal.ime }}"><meta property="og:description" content="{{ portal.opis }}"><meta property="og:type" content="website">{% if domain %}<meta property="og:url" content="https://{{ domain }}/{{ '' if page_path == 'index.html' else page_path }}"><meta property="og:image" content="https://{{ domain }}/og/prestonica.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:image" content="https://{{ domain }}/og/prestonica.jpg">{% endif %}{% endblock %}
+{% if portal.google_verifikacija %}<meta name="google-site-verification" content="{{ portal.google_verifikacija }}">{% endif %}{% if portal.bing_verifikacija %}<meta name="msvalidate.01" content="{{ portal.bing_verifikacija }}">{% endif %}
+{% if page_path == 'index.html' and domain %}<script type="application/ld+json">{{ {"@context":"https://schema.org","@graph":[{"@type":"NewsMediaOrganization","@id":"https://" ~ domain ~ "/#org","name":portal.ime,"alternateName":[portal.ime ~ ".rs","Prestonica portal","Portal Prestonica"],"url":"https://" ~ domain ~ "/","logo":{"@type":"ImageObject","url":"https://" ~ domain ~ "/og/logo.png","width":512,"height":512},"image":"https://" ~ domain ~ "/og/prestonica.jpg","description":portal.opis,"slogan":portal.slogan,"inLanguage":"sr-Latn","areaServed":"RS","foundingLocation":"Beograd","sameAs":portal.profili or ["https://x.com/Prestonicars"],"publishingPrinciples":"https://" ~ domain ~ "/o-nama.html","email":"redakcija@prestonica.rs"},{"@type":"WebSite","@id":"https://" ~ domain ~ "/#site","url":"https://" ~ domain ~ "/","name":portal.ime,"alternateName":portal.ime ~ ".rs","inLanguage":"sr-Latn","publisher":{"@id":"https://" ~ domain ~ "/#org"},"potentialAction":{"@type":"SearchAction","target":"https://" ~ domain ~ "/pretraga.html?q={search_term_string}","query-input":"required name=search_term_string"}}]}|tojson }}</script>{% endif %}
+<link rel="apple-touch-icon" href="{{ root }}og/logo.png">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='32' fill='%230d1730'/%3E%3Ctext x='29' y='45' font-family='Georgia,serif' font-weight='900' font-size='38' fill='%23ffffff' text-anchor='middle'%3EP%3C/text%3E%3Ccircle cx='47' cy='42' r='5' fill='%23d3263a'/%3E%3C/svg%3E">
+<meta name="theme-color" content="#0d1730">
+<link rel="alternate" type="application/rss+xml" title="{{ portal.ime }}" href="{{ root }}feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,800;0,900;1,600&family=Manrope:wght@400;500;600;700;800&display=swap">
+<style>{{ css|safe }}</style>
+</head>
+<body class="page-{{ active or 'strana' }}">
+<a class="skip" href="#sadrzaj">Preskoči na sadržaj</a>
+<div class="progress" id="progress" aria-hidden="true"></div>
+
+<div class="topbar">
+  <div class="wrap topbar-in">
+    <div class="tb-left">
+      <span class="tb-date">{{ today }}</span>
+      {% if w.vreme %}<span class="tb-sep"></span><span class="tb-wx" title="{{ w.vreme.opis }}"><i class="dot-sun" aria-hidden="true"></i>Beograd {{ w.vreme.temp }}°C</span>{% endif %}
+      {% for k in w.kurs %}<span class="tb-sep"></span><span class="tb-fx">{{ k.code }} <b>{{ '%.2f'|format(k.rate) }}</b></span>{% endfor %}
+    </div>
+    <div class="tb-right">
+      <span class="tb-upd"><i class="pulse" aria-hidden="true"></i>Ažurirano u {{ updated }}</span>
+      {% if anketa %}<a class="tb-poll" href="{{ root }}ankete.html">Pitanje dana</a>{% endif %}
+      <a href="{{ root }}o-nama.html">O nama</a>
+      <a href="{{ root }}feed.xml">RSS</a>
+    </div>
+  </div>
+</div>
+
+<div class="mbar" id="mbar" inert>
+  <a class="mbar-logo" href="{{ root }}index.html" aria-label="{{ portal.ime }}, naslovna">{{ portal.ime|upper }}<i>.</i></a>
+  <button class="mbar-s" type="button" data-open-search aria-label="Pretraga">
+    <svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M20 20l-4.2-4.2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    <span>Pretraži vesti...</span>
+  </button>
+</div>
+
+<header class="mast" id="mast">
+  <div class="wrap mast-in">
+    <a class="logo" href="{{ root }}index.html" aria-label="{{ portal.ime }}, naslovna">{{ portal.ime|upper }}<i>.</i></a>
+    {% set sl = portal.slogan.split('. ', 1) %}
+    <p class="slogan">{{ sl[0] }}{% if sl|length > 1 %}.<b>{{ sl[1] }}</b>{% endif %}</p>
+    <button class="msearch" type="button" data-open-search aria-label="Pretraga">
+      <svg viewBox="0 0 24 24" width="19" height="19" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M20 20l-4.2-4.2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <span class="msearch-t">Pretraži vesti, ličnosti, teme i video...</span><kbd>/</kbd>
+    </button>
+    <div class="mast-actions">
+      <button class="btn btn-primary nl-btn" type="button" data-open-news><svg class="nl-ico" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M3.5 6.5 12 13l8.5-6.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg><span>Newsletter</span><span class="nl-more">najvažnije vesti svakog jutra na mejl</span></button>
+    </div>
+  </div>
+  <nav class="nav" aria-label="Rubrike">
+    <div class="wrap nav-in">
+      <a class="nav-logo" href="{{ root }}index.html" aria-label="{{ portal.ime }}, naslovna" tabindex="-1">P<i>.</i></a>
+      <a class="nav-a {% if active == 'naslovna' %}on{% endif %}" href="{{ root }}index.html">Naslovna</a>
+      {% for k, r in rubrike.items() %}<a class="nav-a r-{{ k }} {% if active == k %}on{% endif %}" href="{{ root }}{{ k }}.html"><i></i>{{ r.naziv }}</a>{% endfor %}
+      <a class="nav-a r-analiza {% if active == 'analize' %}on{% endif %}" href="{{ root }}analize.html"><i></i>Analize</a>
+      {% if has_videos %}<a class="nav-a {% if active == 'video' %}on{% endif %}" href="{{ root }}video.html">{% if live_now %}<span class="nav-live">UŽIVO</span>{% endif %}Video</a>{% endif %}
+      {% if has_people %}<a class="nav-a {% if active == 'licnosti' %}on{% endif %}" href="{{ root }}licnosti.html">Ličnosti</a>{% endif %}
+      {% if has_x %}<a class="nav-a {% if active == 'mreze' %}on{% endif %}" href="{{ root }}mreze.html">Mreže</a>{% endif %}
+      <a class="nav-a {% if active == 'najnovije' %}on{% endif %}" href="{{ root }}najnovije.html">Najnovije</a>
+    </div>
+  </nav>
+</header>
+
+{% if ticker %}
+<div class="wrap">
+  <div class="ticker" role="region" aria-label="Najnovije ukratko">
+    <span class="ticker-tag"><i class="pulse"></i>Najnovije</span>
+    <div class="ticker-track"><div class="ticker-move">
+      {% for t in ticker %}<a href="{{ root }}{{ t._url }}"><span class="ticker-t" data-t="{{ t.published }}">{{ t._time }}</span>{{ t.headline }}</a>{% endfor %}
+      {% for t in ticker %}<a href="{{ root }}{{ t._url }}" aria-hidden="true" tabindex="-1"><span class="ticker-t" data-t="{{ t.published }}">{{ t._time }}</span>{{ t.headline }}</a>{% endfor %}
+    </div></div>
+  </div>
+</div>
+{% endif %}
+
+<main id="sadrzaj" class="wrap main">
+{% block main %}{% endblock %}
+</main>
+
+<footer class="foot">
+  <div class="wrap foot-in">
+    <div class="foot-brand">
+      <a class="logo logo-sm" href="{{ root }}index.html">{{ portal.ime|upper }}<i>.</i></a>
+      <p>{{ portal.opis }} Vesti se osvežavaju na svakih {{ portal.osvezavanje_minuta }} minuta, uz navođenje svih izvora.</p>
+      <a class="foot-x" href="https://x.com/intent/follow?screen_name=Prestonicars" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M17.75 3h3.07l-6.7 7.66L22 21h-6.17l-4.83-6.32L5.47 21H2.4l7.17-8.2L2 3h6.32l4.37 5.78L17.75 3zm-1.08 16.2h1.7L7.4 4.73H5.58l11.09 14.47z"/></svg><span>@Prestonicars</span></a>
+    </div>
+    <div>
+      <h5>Rubrike</h5>
+      <ul>{% for k, r in rubrike.items() %}<li><a href="{{ root }}{{ k }}.html">{{ r.naziv }}</a></li>{% endfor %}</ul>
+    </div>
+    <div>
+      <h5>Portal</h5>
+      <ul>
+        <li><a href="{{ root }}najnovije.html">Najnovije</a></li>
+        <li><a href="{{ root }}analize.html">Analize</a></li>
+        <li><a href="{{ root }}licnosti.html">Ličnosti</a></li>
+        <li><a href="{{ root }}pretraga.html">Pretraga</a></li>
+        {% if has_polls %}<li><a href="{{ root }}ankete.html">Ankete čitalaca</a></li>{% endif %}
+        <li><a href="{{ root }}o-nama.html">O nama i uređivačka politika</a></li>
+        <li><a href="{{ root }}impresum.html">Impresum</a></li>
+        <li><a href="{{ root }}feed.xml">RSS</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="wrap foot-legal">
+    <span>© {{ now.year }} {{ portal.ime }}. Sva prava zadržana.</span>
+    <span>Tekstove priprema automatizovani urednički sistem uz navođenje izvora. <a href="{{ root }}o-nama.html">Kako radimo</a></span>
+  </div>
+</footer>
+
+<div class="overlay" id="search-overlay" hidden>
+  <div class="ov-panel" role="dialog" aria-modal="true" aria-label="Pretraga">
+    <form class="ov-form" id="ov-form" action="{{ root }}pretraga.html" role="search">
+      <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M20 20l-4.2-4.2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input id="ov-q" name="q" type="search" autocomplete="off" placeholder="Pretraži vesti, osobe, teme, izvore..." aria-label="Pojam za pretragu">
+      <button class="btn btn-icon" type="button" data-close aria-label="Zatvori">×</button>
+    </form>
+    <div class="ov-hint">Radi i bez kvačica i ćirilicom. Enter otvara detaljnu pretragu sa filterima.</div>
+    <div class="ov-results" id="ov-results"></div>
+  </div>
+</div>
+
+<div class="overlay" id="news-overlay" hidden>
+  <div class="ov-panel ov-small" role="dialog" aria-modal="true" aria-labelledby="nl-h">
+    <button class="btn btn-icon ov-x" type="button" data-close aria-label="Zatvori">×</button>
+    <span class="ring" aria-hidden="true"><i></i></span>
+    <h3 id="nl-h">Jutarnji pregled u 7:00</h3>
+    <p>Pet najvažnijih vesti iz politike i ekonomije, svakog radnog dana. Bez buke, bez reklama.</p>
+    <form id="nl-form" data-action="{{ newsletter }}" novalidate>
+      <label class="sr" for="nl-email">E-adresa</label>
+      <input id="nl-email" name="email" type="email" placeholder="vasa@adresa.rs" required>
+      <button class="btn btn-primary" type="submit">Prijavi me</button>
+    </form>
+    <p class="nl-msg" id="nl-msg" role="status"></p>
+  </div>
+</div>
+
+<template id="share-tpl">{{ _share("", "") }}</template>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script>{{ js|safe }}</script>
+</body>
+</html>

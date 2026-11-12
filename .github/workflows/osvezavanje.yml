@@ -1,0 +1,111 @@
+name: Osvežavanje portala
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"        # rezerva: GitHub planer često kasni i do sat vremena; glavni ritam daje lanac ispod (posao "sledece")
+  workflow_dispatch:               # ručno pokretanje iz kartice Actions
+    inputs:
+      max_vesti:
+        description: "Najviše novih vesti u ovom pokretanju (prazno = podešavanje iz portal.yaml)"
+        required: false
+        default: ""
+  push:
+    branches: [main]
+    paths: ["config/**", "inbox/**", "uploads/**", "templates/**", "static/**", "engine/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  actions: write
+
+concurrency:
+  group: prestonica
+  cancel-in-progress: false
+
+jobs:
+  osvezi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 14
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    outputs:
+      start: ${{ steps.t.outputs.start }}
+    steps:
+      - id: t
+        run: echo "start=$(date +%s)" >> "$GITHUB_OUTPUT"
+      - uses: actions/checkout@v4
+        with:
+          ref: main                # uvek najnovije stanje, ne trenutak pokretanja
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Keš kartica za deljenje (og:image)
+        uses: actions/cache@v4
+        with:
+          path: .og-cache
+          key: og-${{ github.run_id }}
+          restore-keys: og-
+
+      - name: Preuzmi vesti, napiši tekstove, izgradi sajt
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          MAX_VESTI: ${{ github.event.inputs.max_vesti }}
+        run: |
+          if [ -n "$MAX_VESTI" ]; then python -m engine.run --max "$MAX_VESTI"; else python -m engine.run; fi
+
+      - name: Sačuvaj arhivu u repozitorijum
+        run: |
+          git config user.name "prestonica-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data uploads inbox
+          if ! git diff --cached --quiet; then
+            git commit -m "Osvežavanje $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase -X theirs
+            git push
+          fi
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+  # Lanac: 15 minuta posle početka ovog osvežavanja pokreće se sledeće (ne zavisi od GitHub planera).
+  # Concurrency grupa dozvoljava najviše jedno osvežavanje u radu i jedno na čekanju, pa se lanci ne umnožavaju.
+  sledece:
+    needs: osvezi
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Sačekaj do punih 15 minuta i pokreni sledeće osvežavanje
+        env:
+          GH_TOKEN: ${{ github.token }}
+          START: ${{ needs.osvezi.outputs.start }}
+        run: |
+          now=$(date +%s); start=${START:-$now}
+          wait=$(( 900 - (now - start) - 20 ))
+          if [ $wait -gt 0 ]; then echo "Čekam $wait s"; sleep $wait; fi
+          pending=$(gh run list -R "$GITHUB_REPOSITORY" --workflow osvezavanje.yml --json status,databaseId \
+            -q "[.[] | select(.databaseId != ${GITHUB_RUN_ID}) | select(.status==\"queued\" or .status==\"pending\" or .status==\"waiting\" or .status==\"in_progress\")] | length")
+          if [ "$pending" = "0" ]; then
+            gh workflow run osvezavanje.yml -R "$GITHUB_REPOSITORY" --ref main
+            echo "Pokrenuto sledeće osvežavanje"
+          else
+            echo "Već postoji osvežavanje na čekanju ($pending), ne pokrećem novo"
+          fi
+

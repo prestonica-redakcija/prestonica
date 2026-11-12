@@ -1,0 +1,134 @@
+# =====================================================================
+#  PRESTONICA - glavna podešavanja portala
+#  Menjaš ovde, sistem preuzima izmene pri sledećem osvežavanju.
+# =====================================================================
+
+ime: Prestonica
+domen: prestonica.rs
+slogan: "Najvažnije vesti iz Srbije, bez buke. Bez kompromisa."
+# Google Search Console / Bing Webmaster: kod za potvrdu vlasništva sajta (meta oznaka); prazno = ne dodaje se
+google_verifikacija: ""
+bing_verifikacija: ""
+# zvanični profili portala (Google ih povezuje sa sajtom)
+profili:
+  - https://x.com/Prestonicars
+opis: "Prestonica je nezavisni dnevni portal koji prati politiku, ekonomiju i društvo u Srbiji."
+vremenska_zona: Europe/Belgrade
+
+# Koliko često se portal osvežava (podešava se i u .github/workflows/osvezavanje.yml)
+osvezavanje_minuta: 15
+
+# Claude modeli
+model: claude-sonnet-5-5          # piše vesti i analize
+model_maks_tokena: 3000
+
+limiti:
+  max_novih_po_osvezavanju: 12    # najviše novih tekstova u jednom osvežavanju
+  max_novih_dnevno: 400           # dnevni plafon (kontrola troška)
+  max_novih_po_satu: 30           # ravnomerno kroz dan: bez jutarnjih naleta koji potroše dnevni plafon
+  azuriranja_po_osvezavanju: 2    # postojeće vesti koje dobiju nove izvore se dopunjuju (priča se razvija)
+  azuriranje_min_novih_izvora: 4
+  max_starost_izvora_sati: 10     # starije vesti iz izvora se ignorišu (svežina)
+  min_skor_za_objavu: 1.6         # ispod ovoga se vest ne obrađuje
+  poluzivot_sati: 6               # koliko brzo vest "pada" sa naslovne
+  naslovna_max_sati: 8            # glavna i 4 istaknute vesti: ne starije od 8 sati (osim kad se priča dopunjava)
+  dana_na_naslovnoj: 2            # naslovna prikazuje vesti iz poslednja 2 dana
+  izjava_po_osvezavanju: 2        # koliko tekstova iz YouTube kanala i stranaka po osvežavanju
+  min_skor_izjava: 0.8
+
+# Rubrike: težina = prioritet (1.0 najviši). Redosled ovde = redosled na naslovnoj.
+rubrike:
+  politika:  {naziv: Politika,  tezina: 1.00, boja: "#d3263a", boja_tamna: "#ff5a6c", na_naslovnoj: 7}
+  ekonomija: {naziv: Ekonomija, tezina: 0.92, boja: "#0b8a5b", boja_tamna: "#2fc48a", na_naslovnoj: 7}
+  drustvo:   {naziv: Društvo,   tezina: 0.66, boja: "#d97706", boja_tamna: "#ffa33a", na_naslovnoj: 5}
+  svet:      {naziv: Svet,      tezina: 0.56, boja: "#1d5fc4", boja_tamna: "#5b9bff", na_naslovnoj: 5}
+  mediji:    {naziv: Mediji pod lupom, tezina: 0.60, boja: "#7b3fc4", boja_tamna: "#b083ff", na_naslovnoj: 4}
+  hronika:   {naziv: Hronika,   tezina: 0.42, boja: "#0d8597", boja_tamna: "#3cc3d6", na_naslovnoj: 4}
+  kultura:   {naziv: Kultura,   tezina: 0.30, boja: "#9d4e8f", boja_tamna: "#e48ad5", na_naslovnoj: 4}
+  sport:     {naziv: Sport,     tezina: 0.25, boja: "#2b6f3e", boja_tamna: "#5fcf84", na_naslovnoj: 4}
+
+# Autorske analize (perspektiva desnog centra, uvek jasno označene kao "Analiza")
+analize:
+  dnevno: 2
+  od_sata: 8                       # prva analiza ne pre 08:00
+  mediji_dnevno: 1                 # "Mediji pod lupom": kako su različiti mediji predstavili istu priču
+
+# Newsletter: upiši adresu forme svog provajdera (npr. MailerLite, Buttondown). Prazno = "uskoro".
+newsletter:
+  akcija_url: ""
+
+# Mreža X: javne objave sa liste naloga (config/x_nalozi.yaml). Radi samo uz ključ X_BEARER_TOKEN.
+# X naplaćuje oko $0,005 po pročitanoj objavi: interval i broj naloga određuju trošak.
+x:
+  ukljuceno: true
+  pratilac: "Prestonicars"     # X nalog portala (bez @): portal prati sve koje ovaj nalog prati na X-u
+  pratilac_svakih_sati: 24     # koliko često se osvežava spisak praćenih (X naplaćuje oko $0,01 po nalogu)
+  interval_minuta: 30          # svaki nalog se proverava najviše jednom u pola sata
+  naloga_po_osvezavanju: 40
+  max_po_nalogu: 5             # najviše novih objava po nalogu u jednoj proveri
+  cuvaj_dana: 7
+  profil_svakih_sati: 72       # aktuelne slike profila (oko $0,01 po nalogu na X-u)
+  grupe:
+    vlast: "Vlast"
+    opozicija: "Opozicija"
+    studenti: "Studenti"
+    aktivisti: "Aktivisti"
+    novinari: "Novinari i analitičari"
+    institucije: "Institucije"
+
+# Objave portala na nalogu @Prestonicars (X). Radi tek kad se u GitHub dodaju četiri ključa naloga.
+# Cene X-a (pay-per-use): objava bez linka oko $0,015, objava sa linkom oko $0,20.
+x_objave:
+  ukljuceno: true
+  dnevno_najvise: 110          # najviše objava u 24 sata
+  razmak_minuta: 10            # najmanji razmak od poslednje objave do sledećeg kruga
+  po_osvezavanju: 2            # do 2 objave u svakom osvežavanju (na 15 minuta): 5 do 8 objava na sat
+  hitno_od_vaznosti: 9          # udarne vesti (važnost 9 i 10) idu odmah, bez razmaka i bez tihih sati
+  razmak_teme_sati: 8          # ista ili veoma slična priča ne ide ponovo u roku od 8 sati
+  ankete: true                 # pitanje dana ide i kao anketa na X-u
+  tiho_od_do: [1, 6]           # bez objava od 01 do 06 po beogradskom vremenu
+  prag_vaznosti: 5             # vesti važnosti 5 i više (od 10), plus sve analize
+  najstarije_sati: 6
+  link_od_vaznosti: 0          # svaka objava ima link na tekst na prestonica.rs
+  linkova_dnevno: 99           # bez ograničenja: link uvek
+  kartica_i_uz_link: false     # uz link X sam pravi pregled stranice
+
+# Ličnosti: profil dobija svako ko se pojavi u najmanje min_tekstova tekstova za poslednjih dana (sport, kultura, svet...)
+licnosti_auto:
+  ukljuceno: true
+  min_tekstova: 4
+  dana: 30
+  najvise_na_stranici: 120
+
+# Ankete čitalaca ("Pitanje dana"). Glasove čuva servis na Cloudflare-u (cloudflare/ankete-worker.js).
+# api_url prazno = ankete se ne prikazuju na sajtu (pitanja se ipak pripremaju).
+ankete:
+  ukljuceno: true
+  api_url: "/api/ankete"       # servis prestonica-ankete na Cloudflare-u (ruta prestonica.rs/api/ankete*)
+  trajanje_dana: 3
+  nova_svakih_sati: 24         # novo pitanje dana jednom dnevno
+  od_sata: 7
+
+# Komentari (Hyvor Talk, uz odobrenje redakcije). Prazno = komentari isključeni.
+komentari:
+  hyvor_website_id: "16803"
+
+# Telegram: tvoj privatni kanal za unos tekstova i komandi (vidi README)
+telegram:
+  ukljucen: true
+
+# Impresum (zakonski obavezni podaci, popuniti pre lansiranja)
+impresum:
+  izdavac: "Redakcija portala Prestonica"
+  sediste: ""                     # upisati kad bude određeno pravno lice izdavača
+  maticni_broj: ""
+  pib: ""
+  odgovorni_urednik: ""           # upisati ime i prezime
+  kontakt: "redakcija@prestonica.rs"
+  registarski_broj: ""            # upisati broj iz Registra medija APR, ako se portal registruje
+
+# Kartice za deljenje (og:image 1200 x 630): fotografija iz vesti, naslov i znak portala, na našem domenu
+kartice_za_deljenje:
+  ukljuceno: true
+  dana: 4                      # kartice za vesti iz poslednja 4 dana
+  najvise_sekundi: 240         # vremensko ograničenje po osvežavanju; ostatak u sledećem

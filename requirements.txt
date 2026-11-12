@@ -1,0 +1,8 @@
+anthropic>=0.40
+feedparser>=6.0
+trafilatura>=1.12
+jinja2>=3.1
+pyyaml>=6.0
+requests>=2.31
+pillow>=10.0
+requests-oauthlib>=1.3

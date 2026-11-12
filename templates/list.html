@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% from "macros.html" import label, rcls, srcline %}
+{% block main %}
+<section class="sec-hero">
+  <span class="sec-ring" aria-hidden="true"></span>
+  <div><span class="eyebrow">Hronološki</span><h1>Najnovije vesti</h1><p>Sve objave poslednjih dana, od najnovije.</p></div>
+  <a class="btn btn-ghost" href="{{ root }}pretraga.html">Detaljna pretraga</a>
+</section>
+<ol class="timeline">
+  {% for a in items %}
+  <li class="tl {{ rcls(a) }}">
+    <time class="tl-t" data-t="{{ a.published }}" data-abs="1">{{ a._time }}</time>
+    <span class="tl-dot" aria-hidden="true"></span>
+    <a class="tl-card" href="{{ root }}{{ a._url }}">
+      <span class="tl-bd"><span class="chip chip-sm">{{ label(a, rubrike) }}</span><span class="tl-h">{{ a.headline }}</span><span class="tl-m">{{ srcline(a) }}</span></span>
+      <span class="tl-th"><img src="{{ a|img(root, 's') }}" alt="" loading="lazy"></span>
+    </a>
+  </li>
+  {% endfor %}
+</ol>
+{% endblock %}
