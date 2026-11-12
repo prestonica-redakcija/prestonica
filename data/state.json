@@ -2072,18 +2072,20 @@
   "https://nova.rs/vesti/politika/visoki-americki-zvanicnik-brendan-hanrahan-sastao-se-sa-predstavnicima-studentske-liste-foto/": "2026-11-12T21:44:01.484079+00:00",
   "https://www.danas.rs/vesti/ekonomija/nps-backe-topole-trazi-odgovornost-zbog-novca-opstine-zarobljenog-u-alta-banci/": "2026-11-12T21:44:01.484079+00:00",
   "https://www.kurir.rs/zabava/zena/10160480/program-za-pranje-vesa-s-kojim-treba-biti-oprezan": "2026-11-12T21:44:01.484079+00:00",
-  "https://www.kurir.rs/stars/10160749/unuci-halida-muslimovica-istrcali-na-binu": "2026-11-12T21:44:01.484079+00:00"
+  "https://www.kurir.rs/stars/10160749/unuci-halida-muslimovica-istrcali-na-binu": "2026-11-12T21:44:01.484079+00:00",
+  "https://www.tanjug.rs/svet/hronika/297381/najmanje-osam-poginulih-medu-kojima-dvoje-dece-u-urusavanju-zgrade-u-bruklinu/vest": "2026-11-12T21:58:50.243261+00:00",
+  "https://www.kurir.rs/planeta/10160801/tragican-bilans-urusavanja-zgrade-u-bruklinu": "2026-11-12T21:58:50.243261+00:00",
+  "https://n1info.rs/english/news/belgrade-chief-prosecutor-says-no-evidence-of-sound-cannon-at-protest/": "2026-11-12T21:58:50.243261+00:00",
+  "https://www.euronews.rs/srbija/politika/251853/brendan-hanrahan-doputovao-u-beograd-posetio-ambasadu-sad/vest": "2026-11-12T21:58:50.243261+00:00",
+  "https://www.danas.rs/vesti/politika/predstavnici-studentskog-pokreta-i-studentke-liste-sastali-se-sa-pomocnikom-drzavnog-sekretara-sad/": "2026-11-12T21:58:50.243261+00:00",
+  "https://nova.rs/vesti/politika/ruski-ambasador-se-sastao-sa-predstavnicima-studentske-liste-razgovarali-o-odnosima-srbije-i-rusije-i-kosovu/": "2026-11-12T21:58:50.243261+00:00",
+  "https://www.euronews.rs/srbija/politika/251834/rik-ponistio-glasanje-na-pet-birackih-mesta/vest": "2026-11-12T21:58:50.243261+00:00",
+  "https://n1info.rs/kultura/ansambl-ateljea-212-zatrazio-smenu-ljubise-ristica-i-utvrdjivanje-odgovornosti-za-finansijsko-urusavanje/": "2026-11-12T21:58:50.243261+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-12T07:07+00:00",
-   "novih": 4,
-   "ukupno": 308,
-   "sekundi": 123.6
-  },
   {
    "vreme": "2026-11-12T07:22+00:00",
    "novih": 4,
@@ -2437,6 +2439,12 @@
    "novih": 0,
    "ukupno": 634,
    "sekundi": 106.1
+  },
+  {
+   "vreme": "2026-11-12T22:00+00:00",
+   "novih": 0,
+   "ukupno": 634,
+   "sekundi": 94.6
   }
  ],
  "licnosti_foto": {
@@ -4887,7 +4895,7 @@
    ]
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -4939,16 +4947,33 @@
    "igorbrakus": "524878905",
    "radoholicar": "167410839",
    "borakonj": "4870766271",
-   "narodnipokrets": "1687428231689850885"
+   "narodnipokrets": "1687428231689850885",
+   "kurirvesti": "78889356",
+   "direktnors": "1166639802692841472",
+   "crtars": "2543288485",
+   "veceivan": "402978176",
+   "rnsaicic": "1947049095912120320",
+   "brankoruzicsps": "705829401527721985",
+   "repjoewilson": "254082173",
+   "jugoslavcosic": "2814717661",
+   "tvnova_s": "1110249841660186624",
+   "oljautisak": "299262630",
+   "srdjan_nogo": "1072933535516934144",
+   "agrifblokira": "1912046809414873088",
+   "etfblokada": "1874485857278689280",
+   "nastraninaroda": "895162952017489920",
+   "bcenzure": "1225157823543287810",
+   "bezstraha26279": "1883300158424879104",
+   "lazidetektor": "1262844599648878595"
   },
   "poslednji": {
    "miikialeksic": {
     "since_id": "2120953223146062007",
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "parandilovicnls": {
     "since_id": "2120879796175679649",
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "ininic": {
     "since_id": "2120986753511121175",
@@ -4964,47 +4989,47 @@
    },
    "dragandjilas": {
     "since_id": null,
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "marinikatepic": {
     "since_id": null,
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "bibislav": {
     "since_id": "2120600779786457390",
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "savomanojlovic": {
     "since_id": "2120927384484634735",
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "zdravkoponos": {
     "since_id": null,
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "pavlegrbovic": {
     "since_id": "2120608783395086538",
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "avucic": {
     "since_id": "2120795996108255688",
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "anabrnabic": {
     "since_id": "2120834471561773137",
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "milos_vucevic": {
     "since_id": "2120470083298279767",
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "sns_srbija": {
     "since_id": "2120959169008476463",
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "vlada_srbije": {
     "since_id": null,
@@ -5048,43 +5073,43 @@
    },
    "markodjuric": {
     "since_id": null,
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "nstarovic": {
     "since_id": null,
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "milenkojovanov": {
     "since_id": null,
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "acasapic": {
     "since_id": null,
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "borkostef": {
     "since_id": null,
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "dobrinacelnik": {
     "since_id": "2120814843951239646",
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "jeremic_vuk": {
     "since_id": null,
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "boristadic58": {
     "since_id": null,
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
    },
    "srdjanmil037": {
     "since_id": "2120749869757305219",
@@ -5140,7 +5165,71 @@
    },
    "narodnipokrets": {
     "since_id": "2120601957350195572",
-    "t": 1794518295.687533
+    "t": 1794520781.6088712
+   },
+   "direktnors": {
+    "since_id": "2120982866498928775",
+    "t": 1794520781.6088712
+   },
+   "crtars": {
+    "since_id": null,
+    "t": 1794520781.6088712
+   },
+   "veceivan": {
+    "since_id": "2120866230462521507",
+    "t": 1794520781.6088712
+   },
+   "rnsaicic": {
+    "since_id": null,
+    "t": 1794520781.6088712
+   },
+   "brankoruzicsps": {
+    "since_id": null,
+    "t": 1794520781.6088712
+   },
+   "repjoewilson": {
+    "since_id": "2120984500146696436",
+    "t": 1794520781.6088712
+   },
+   "jugoslavcosic": {
+    "since_id": null,
+    "t": 1794520781.6088712
+   },
+   "tvnova_s": {
+    "since_id": "2120984176178475198",
+    "t": 1794520781.6088712
+   },
+   "oljautisak": {
+    "since_id": null,
+    "t": 1794520781.6088712
+   },
+   "srdjan_nogo": {
+    "since_id": "2120938654998630563",
+    "t": 1794520781.6088712
+   },
+   "agrifblokira": {
+    "since_id": null,
+    "t": 1794520781.6088712
+   },
+   "etfblokada": {
+    "since_id": "2120930020059136372",
+    "t": 1794520781.6088712
+   },
+   "nastraninaroda": {
+    "since_id": "2120953780002869402",
+    "t": 1794520781.6088712
+   },
+   "bcenzure": {
+    "since_id": "2120985344061374659",
+    "t": 1794520781.6088712
+   },
+   "bezstraha26279": {
+    "since_id": "2120972707244507212",
+    "t": 1794520781.6088712
+   },
+   "lazidetektor": {
+    "since_id": "2120986056627802330",
+    "t": 1794520781.6088712
    }
   },
   "posts": [
@@ -5172,6 +5261,32 @@
     "tema": "Neodređena objava o poreskoj bez jasnog sadržaja"
    },
    {
+    "id": "2120986056627802330",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "\"KREDIBILITET SRBIJE JE NAKON POBEDE STUDENTSKE LISTE PAO!\"\n\nBranko Pavlović - pravnik:\n\n\"Evo EXPO, da l' će to kasniti, neće kasniti, koji su to materijalni troškovi i koji je pad kredibilnosti. Zamislite kad vama vrhovni tužilac kaže imam sumnju da u državi Srbiji banke pale https://t.co/XfjxxkiyY2",
+    "published": "2026-11-12T21:04:16.000+00:00",
+    "lajk": 14,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Pavlović o padu kredibiliteta Srbije posle pobede Studentske liste"
+   },
+   {
+    "id": "2120985344061374659",
+    "x": "Bcenzure",
+    "ime": "Bez Cenzure",
+    "grupa": "",
+    "uloga": "",
+    "text": "Feđa Dimović - Sad je vreme da tužilaštvo za visoko tehnološki kriminal krene da radi svoj posao! https://t.co/pbsCrqyXVa",
+    "published": "2026-11-12T21:01:26.000+00:00",
+    "lajk": 4,
+    "prikazi": true,
+    "rubrika": "drustvo",
+    "tema": "Dimović o radu tužilaštva za visokotehnološki kriminal"
+   },
+   {
     "id": "2120985319193313663",
     "x": "BoraKonj",
     "ime": "Bora",
@@ -5183,6 +5298,84 @@
     "prikazi": false,
     "rubrika": "drustvo",
     "tema": "Objava samo sa linkom, bez jasnog smisla"
+   },
+   {
+    "id": "2120984551665361081",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "BRANKO PAVLOVIĆ OTKRIO ŠTA EU ZAHTEVA OD STUDENTSKE LISTE: \n\n\"Isporuka Milana Radoičića Kurtiju, sankcije Rusiji, ukidanje Informera, ukidanje ruskih medija, priznanje Kosova...to će biti isporučeno po ubrzanoj proceduri!\" https://t.co/rV3PYReyDB",
+    "published": "2026-11-12T20:58:17.000+00:00",
+    "lajk": 9,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Pavlović o zahtevima EU prema Studentskoj listi"
+   },
+   {
+    "id": "2120984500146696436",
+    "x": "RepJoeWilson",
+    "ime": "Joe Wilson",
+    "grupa": "",
+    "uloga": "",
+    "text": "An honor to be back at @Heritage to deliver the keynote address regarding the importance of our iron clad alliance with South Korea. As the only Republican Member of Congress still serving to have visited North Korea I understand the threat this rogue dictatorship poses to both https://t.co/rLEAMysOiv",
+    "published": "2026-11-12T20:58:05.000+00:00",
+    "lajk": 57,
+    "prikazi": false,
+    "rubrika": "svet",
+    "tema": "Joe Wilson o savezu SAD i Južne Koreje"
+   },
+   {
+    "id": "2120984176178475198",
+    "x": "tvnova_s",
+    "ime": "TV NOVA S",
+    "grupa": "",
+    "uloga": "",
+    "text": "„Apsolutno, zloupotreba“, kaže bivši srpski rukometaš Igor Butulija, koji smatra da je košarka korišćena za skretanje pažnje sa problema u društvu, dok su ulaganja u razvoj mladih sportista ostala u drugom planu. https://t.co/eO1gKGNDhm",
+    "published": "2026-11-12T20:56:48.000+00:00",
+    "lajk": 6,
+    "prikazi": true,
+    "rubrika": "drustvo",
+    "tema": "Butulija o zloupotrebi košarke i ulaganjima u mlade sportiste"
+   },
+   {
+    "id": "2120983311317094473",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "BRANKO PAVLOVIĆ: POD UDAROM STUDENATA SU MEDIJI, CRKVA, VOJSKA, BANKE, REPUBLIKA SRPSKA!\n\n\"Imamo napad na medije, imamo upade i rad pod strahom i pritiscima na RTS i RT Vojvodina. Imamo ovaj pokušaj gašenja Informera pa sad na rate, ko kuvanje žabe, da nd bude odjedanput nego https://t.co/1FQcSZSHPl",
+    "published": "2026-11-12T20:53:22.000+00:00",
+    "lajk": 34,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Pavlović o navodnom udaru studenata na medije, crkvu, vojsku i banke"
+   },
+   {
+    "id": "2120982866498928775",
+    "x": "DirektnoRS",
+    "ime": "Direktno",
+    "grupa": "",
+    "uloga": "",
+    "text": "Studentska lista saopštila je da im se građani i zaposlenii u građevinskom sektoru javljaju zbog gubitka radnih mesta i obustavljanja ili smanjivanja aktivnosti kompanija, uz ocenu da se otvaraju ozbiljna pitanja o načinu dodele i realizacije poslova finansiranih novcem građana.",
+    "published": "2026-11-12T20:51:35.000+00:00",
+    "lajk": 1,
+    "prikazi": true,
+    "rubrika": "ekonomija",
+    "tema": "Studentska lista o gubitku radnih mesta u građevinarstvu"
+   },
+   {
+    "id": "2120982177278050344",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "BRANKO PAVLOVIĆ: \"Srpske banke su pod užasnim napadom studentskog pokreta, Alta banka je uništena a onda su otišli u Dnevnik RTS-a i lažima destabilizovali Poštansku štedionicu!\" https://t.co/OQ6vSdLwgv",
+    "published": "2026-11-12T20:48:51.000+00:00",
+    "lajk": 41,
+    "prikazi": true,
+    "rubrika": "ekonomija",
+    "tema": "Pavlović o napadu na banke, Alta banka i Poštanska štedionica"
    },
    {
     "id": "2120981387612180646",
@@ -5290,6 +5483,111 @@
     "vest": "202611121830-b9fd92"
    },
    {
+    "id": "2120977646825742587",
+    "x": "tvnova_s",
+    "ime": "TV NOVA S",
+    "grupa": "",
+    "uloga": "",
+    "text": "„Ako ćemo da resetujemo društvo, moramo da počnemo normalno da funkcionišemo“, kaže sportski novinar Igor Miklja, govoreći o načinu finansiranja sportskih klubova novcem građana. https://t.co/XKJRHCskTv",
+    "published": "2026-11-12T20:30:51.000+00:00",
+    "lajk": 3,
+    "prikazi": true,
+    "rubrika": "drustvo",
+    "tema": "Miklja o finansiranju sportskih klubova novcem građana"
+   },
+   {
+    "id": "2120977630438535513",
+    "x": "Bcenzure",
+    "ime": "Bez Cenzure",
+    "grupa": "",
+    "uloga": "",
+    "text": "Šešelj je veliko zlo, ali bi njegova lustracija bila klanje vola za kilo mesa! Miodrag JOVANOVIĆ https://t.co/EnWnGnwdZt",
+    "published": "2026-11-12T20:30:47.000+00:00",
+    "lajk": 29,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Miodrag Jovanović o lustraciji Šešelja"
+   },
+   {
+    "id": "2120974189335081321",
+    "x": "DirektnoRS",
+    "ime": "Direktno",
+    "grupa": "",
+    "uloga": "",
+    "text": "Nakon dugotrajnog i izrazito sušnog perioda, jesenje vreme donosi seriju dinamičnih meteoroloških obrta.\nhttps://t.co/JFn6l2DvCx",
+    "published": "2026-11-12T20:17:07.000+00:00",
+    "lajk": 0,
+    "prikazi": false,
+    "rubrika": "drustvo",
+    "tema": "Vremenska prognoza, jesenje vreme posle suše"
+   },
+   {
+    "id": "2120972707244507212",
+    "x": "BezStraha26279",
+    "ime": "BezStraga",
+    "grupa": "",
+    "uloga": "",
+    "text": "SANDRI BOŽIĆ \n\nĆEMO ISPUNITI REČI IZ PESME 🤣🤣🤣\n\nKOJU JE OKAČILA !!!! https://t.co/P9RRlfT0jL",
+    "published": "2026-11-12T20:11:13.000+00:00",
+    "lajk": 27,
+    "prikazi": false,
+    "rubrika": "drustvo",
+    "tema": "Podsmeh Sandri Božić zbog pesme"
+   },
+   {
+    "id": "2120972439752434169",
+    "x": "tvnova_s",
+    "ime": "TV NOVA S",
+    "grupa": "",
+    "uloga": "",
+    "text": "Sportski novinar Igor Miklja kaže da su se pritisci prethodnog perioda osećali u svim profesijama, pa i u sportu. Šta se promenilo posle izbora? https://t.co/4Bo05noqht",
+    "published": "2026-11-12T20:10:10.000+00:00",
+    "lajk": 4,
+    "prikazi": true,
+    "rubrika": "drustvo",
+    "tema": "Miklja o pritiscima u sportu i promenama posle izbora"
+   },
+   {
+    "id": "2120971935110881345",
+    "x": "BezStraha26279",
+    "ime": "BezStraga",
+    "grupa": "",
+    "uloga": "",
+    "text": "MILENIJUM NIKO NE GANJA \n\nRADI ČLANSTVA U STRANCI NEGO RADI ZLOUPOTREBA \n\nU POSLOVIMA KOJE JE RADIO ZAJEDNO  SA TOM STRANKOM U KOJOJ JE!\n\n👇👇👇 https://t.co/3msahI7LgB",
+    "published": "2026-11-12T20:08:09.000+00:00",
+    "lajk": 52,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Milenijum tim i zloupotrebe u poslovima sa strankom"
+   },
+   {
+    "id": "2120970987433026015",
+    "x": "BezStraha26279",
+    "ime": "BezStraga",
+    "grupa": "",
+    "uloga": "",
+    "text": "TUŽILAC NEKA POZOVE HILJADE LJUDI \n\nKOJI SU ČULI ZVUČNI TOP,\n\nSASLUŠA IH PA TEK ONDA IZADJE U JAVNOST\n\n I KAŽE ŠTA SE DESILO !\n\n👇👇👇 https://t.co/Dvam5CFSRi",
+    "published": "2026-11-12T20:04:23.000+00:00",
+    "lajk": 100,
+    "prikazi": true,
+    "rubrika": "hronika",
+    "tema": "Tužilac i zvučni top, svedoci",
+    "vest": "202611122044-0c3e66"
+   },
+   {
+    "id": "2120970258609484073",
+    "x": "Bcenzure",
+    "ime": "Bez Cenzure",
+    "grupa": "",
+    "uloga": "",
+    "text": "Milan St. Protić - Jedinstvo Studentske liste će opstati duže nego u DOS-u! https://t.co/fc7TMHgDpy",
+    "published": "2026-11-12T20:01:30.000+00:00",
+    "lajk": 4,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Protić o opstanku jedinstva Studentske liste"
+   },
+   {
     "id": "2120967250949911015",
     "x": "BoraKonj",
     "ime": "Bora",
@@ -5302,6 +5600,19 @@
     "rubrika": "politika",
     "tema": "Lažni dokument o oduzimanju penzija, hapšenje autora",
     "vest": "202611121746-40ae27"
+   },
+   {
+    "id": "2120963676463055060",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "BRANKO PAVLOVIĆ: \"Ilija Srdanović je dobio ulogu da kaže da je Srebrenica GENOCID, njegova uloga je da napadne Republiku Srpsku!\" https://t.co/zCMH1dU6Yr",
+    "published": "2026-11-12T19:35:20.000+00:00",
+    "lajk": 35,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Pavlović o Iliji Srdanoviću i Srebrenici"
    },
    {
     "id": "2120963250930221562",
@@ -5317,6 +5628,20 @@
     "tema": "Lični osvrt na džez muzičara Miloša Petrovića"
    },
    {
+    "id": "2120962241390420345",
+    "x": "DirektnoRS",
+    "ime": "Direktno",
+    "grupa": "",
+    "uloga": "",
+    "text": "Dvadesetogodišnji Pavle Mirović, momak sa autizmom koji je prvak Srbije u paraatletici, nestao je na Novom Beogradu, a porodica i nadležni apeluju na građane da, ukoliko ga primete, odmah obaveste policiju.\nhttps://t.co/xTifAkW5Ho",
+    "published": "2026-11-12T19:29:38.000+00:00",
+    "lajk": 0,
+    "prikazi": true,
+    "rubrika": "hronika",
+    "tema": "Nestanak Pavla Mirovića, atletičara sa autizmom",
+    "vest": "202611122000-3ee521"
+   },
+   {
     "id": "2120959169008476463",
     "x": "sns_srbija",
     "ime": "SNS",
@@ -5328,6 +5653,45 @@
     "prikazi": true,
     "rubrika": "politika",
     "tema": "SNS: nećemo biti opozicija državi, borba za slobodnu Srbiju"
+   },
+   {
+    "id": "2120955296042320381",
+    "x": "Bcenzure",
+    "ime": "Bez Cenzure",
+    "grupa": "",
+    "uloga": "",
+    "text": "Tužioci su potpisivali optužnice, a nisu pokrenuli istrage protiv odgovornih! Peca POPOVIĆ https://t.co/8nU2XM32P9",
+    "published": "2026-11-12T19:02:02.000+00:00",
+    "lajk": 6,
+    "prikazi": true,
+    "rubrika": "drustvo",
+    "tema": "Peca Popović o tužiocima i optužnicama bez istraga"
+   },
+   {
+    "id": "2120953780002869402",
+    "x": "NaStraniNaroda",
+    "ime": "Vukša Dragović",
+    "grupa": "",
+    "uloga": "",
+    "text": "Radna Grupa -Gost Predrag Azdejković i ostali medijski mrak https://t.co/0SIW4O2Oss",
+    "published": "2026-11-12T18:56:01.000+00:00",
+    "lajk": 52,
+    "prikazi": false,
+    "rubrika": "mediji",
+    "tema": "Najava emisije Radna grupa sa gostom"
+   },
+   {
+    "id": "2120953720112316464",
+    "x": "NaStraniNaroda",
+    "ime": "Vukša Dragović",
+    "grupa": "",
+    "uloga": "",
+    "text": "Radna Grupa - Gost Predrag Azdejković i ostali medijski mrak https://t.co/VHuaugWX16",
+    "published": "2026-11-12T18:55:46.000+00:00",
+    "lajk": 15,
+    "prikazi": false,
+    "rubrika": "mediji",
+    "tema": "Najava emisije Radna grupa sa gostom"
    },
    {
     "id": "2120953223146062007",
@@ -5344,6 +5708,33 @@
     "vest": "202611121716-3f1122"
    },
    {
+    "id": "2120953112722649109",
+    "x": "tvnova_s",
+    "ime": "TV NOVA S",
+    "grupa": "",
+    "uloga": "",
+    "text": "Možda će biti premala sva ova tužilaštva koja se poslednjih dana utrkuju u postupanju po zakonu. https://t.co/xbmnLtGRzK",
+    "published": "2026-11-12T18:53:22.000+00:00",
+    "lajk": 73,
+    "prikazi": true,
+    "rubrika": "drustvo",
+    "tema": "Tužilaštva se utrkuju u postupanju po zakonu"
+   },
+   {
+    "id": "2120949905019568178",
+    "x": "DirektnoRS",
+    "ime": "Direktno",
+    "grupa": "",
+    "uloga": "",
+    "text": "Glavni javni tužilac Višeg javnog tužilaštva u Beogradu Nenad Stefanović gostuje je na televiziji Newsmax Balkans, gde govori o aktuelnoj situaciji u javnom tužilaštvu Srbije.\nhttps://t.co/8LJn7sWsFI",
+    "published": "2026-11-12T18:40:37.000+00:00",
+    "lajk": 0,
+    "prikazi": true,
+    "rubrika": "drustvo",
+    "tema": "Stefanović na Newsmax Balkans o stanju u tužilaštvu",
+    "vest": "202611122044-bc9888"
+   },
+   {
     "id": "2120948116803162254",
     "x": "BoraKonj",
     "ime": "Bora",
@@ -5358,6 +5749,45 @@
     "vest": "202611121915-b732f3"
    },
    {
+    "id": "2120947986947576001",
+    "x": "tvnova_s",
+    "ime": "TV NOVA S",
+    "grupa": "",
+    "uloga": "",
+    "text": "Studentski pokret zatražio je od policije i tužilaštva da hitno utvrde ko stoji iza, kako navode, lažnog dokumenta Ministarstva finansija kojim se preti privremenim uskraćivanjem penzija na osnovu rezultata Studentske liste, ali i zatvorskim kaznama od šest meseci za one koji su https://t.co/aT0VUpFGca",
+    "published": "2026-11-12T18:33:00.000+00:00",
+    "lajk": 145,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Studenti traže istragu o lažnom dokumentu Ministarstva finansija o penzijama"
+   },
+   {
+    "id": "2120947515012874425",
+    "x": "Bcenzure",
+    "ime": "Bez Cenzure",
+    "grupa": "",
+    "uloga": "",
+    "text": "Čedomir Stojković - Dogodila se revolucija svesti gde građani shvataju da su institucije njihove! https://t.co/8PpR2zWOko",
+    "published": "2026-11-12T18:31:07.000+00:00",
+    "lajk": 6,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Stojković o revoluciji svesti i institucijama"
+   },
+   {
+    "id": "2120942444095197231",
+    "x": "DirektnoRS",
+    "ime": "Direktno",
+    "grupa": "",
+    "uloga": "",
+    "text": "Tompson se povredio u utakmici 11. kola Evrolige protiv Baskonije, koju je Partizan dobio rezultatom 80:66.\nhttps://t.co/zILZ1W7r1q",
+    "published": "2026-11-12T18:10:58.000+00:00",
+    "lajk": 0,
+    "prikazi": false,
+    "rubrika": "sport",
+    "tema": "Evroliga, Partizan pobedio Baskoniju, povreda Tompsona"
+   },
+   {
     "id": "2120939569566884342",
     "x": "sns_srbija",
     "ime": "SNS",
@@ -5370,6 +5800,45 @@
     "rubrika": "politika",
     "tema": "Brnabić: u Dablinu pozdravljena demokratska promena vlasti u Srbiji",
     "vest": "202611121746-048987"
+   },
+   {
+    "id": "2120938654998630563",
+    "x": "srdjan_nogo",
+    "ime": "Срђан Ного",
+    "grupa": "",
+    "uloga": "",
+    "text": "„Истраживачки“ новинари крену да „истражују“ и објављују као своја \"открића\" и \"ексклузиву\" оно што сам рекао у емисији 5 дана раније. Какви су генијални \"истраживачки\" новинари Ћулибрк и Цвијић најбоље говори њихова истрага о смрти Цвијана, где су закључили да је починио https://t.co/3e7gAdc2Ut https://t.co/SfrWcfeZVO",
+    "published": "2026-11-12T17:55:55.000+00:00",
+    "lajk": 76,
+    "prikazi": true,
+    "rubrika": "mediji",
+    "tema": "Ного o istraživačkim novinarima Ćulibrku i Cvijiću"
+   },
+   {
+    "id": "2120938019679240656",
+    "x": "BezStraha26279",
+    "ime": "BezStraga",
+    "grupa": "",
+    "uloga": "",
+    "text": "VUČIĆ MORA \n\nDA ZAVRŠI U ZATVORU !\n\nTO MOGAO BI DA ZAVRŠI IZBACITE IZ GLAVA !\n\n👇👇👇 https://t.co/SvUrtPFJJe",
+    "published": "2026-11-12T17:53:23.000+00:00",
+    "lajk": 132,
+    "prikazi": false,
+    "rubrika": "politika",
+    "tema": "Uzvici protiv Vučića bez sadržaja"
+   },
+   {
+    "id": "2120930020059136372",
+    "x": "etfblokada",
+    "ime": "ETF U SLOBODI",
+    "grupa": "",
+    "uloga": "",
+    "text": "U znak sećanja na našeg kolegu Vuka, osnovana je Fondacija „Vuk Matić“, sa željom da se njegova dobrota, kreativnost i ljubav prema svetu nastave kroz dela koja ostavljaju trajan trag.\n\nFondacija ima dva cilja: sadnju najmanje 8.160 stabala, u čast svakog dana koji je Vuk proveo https://t.co/bED5mlFLn5",
+    "published": "2026-11-12T17:21:36.000+00:00",
+    "lajk": 950,
+    "prikazi": true,
+    "rubrika": "drustvo",
+    "tema": "Osnovana fondacija Vuk Matić"
    },
    {
     "id": "2120929668924575870",
@@ -5398,6 +5867,19 @@
     "tema": "Savo Manojlović: tekst o demontaži SNS na lokalnom nivou"
    },
    {
+    "id": "2120927026819260490",
+    "x": "NaStraniNaroda",
+    "ime": "Vukša Dragović",
+    "grupa": "",
+    "uloga": "",
+    "text": "Nemoj samo ti, k'o Boga te molim. Poslednji put kada si bila u revizionoj komisiji, pala je nadstrešnica i ubila 16 ljudi... https://t.co/hlnkRTOl3k",
+    "published": "2026-11-12T17:09:42.000+00:00",
+    "lajk": 262,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Reviziona komisija i pad nadstrešnice"
+   },
+   {
     "id": "2120925273336013045",
     "x": "BoraKonj",
     "ime": "Bora",
@@ -5410,6 +5892,19 @@
     "rubrika": "mediji",
     "tema": "Informer TV pomeren na 402. mesto na EON platformi",
     "vest": "202611121801-0de1f8"
+   },
+   {
+    "id": "2120922906784100695",
+    "x": "BezStraha26279",
+    "ime": "BezStraga",
+    "grupa": "",
+    "uloga": "",
+    "text": "VUČIĆ(DJAVO) \n\nNIKAD NE MIRUJE !\n\n👇👇👇 https://t.co/Kr4ECMNxFm",
+    "published": "2026-11-12T16:53:20.000+00:00",
+    "lajk": 100,
+    "prikazi": false,
+    "rubrika": "politika",
+    "tema": "Uvredljiva objava o Vučiću bez sadržaja"
    },
    {
     "id": "2120922461923320026",
@@ -5464,6 +5959,19 @@
     "tema": "Tvrdnja o seobi birača iz Kosova u Malu Krsnu i menjanju ličnih karata"
    },
    {
+    "id": "2120918633232617747",
+    "x": "NaStraniNaroda",
+    "ime": "Vukša Dragović",
+    "grupa": "",
+    "uloga": "",
+    "text": "🚨Vidimo se večeras u 20.00! 🔊🎙 https://t.co/SxMpnDKr9G",
+    "published": "2026-11-12T16:36:21.000+00:00",
+    "lajk": 131,
+    "prikazi": false,
+    "rubrika": "mediji",
+    "tema": "Najava večernjeg prenosa u 20 časova"
+   },
+   {
     "id": "2120918112207852030",
     "x": "BoraKonj",
     "ime": "Bora",
@@ -5501,6 +6009,19 @@
     "prikazi": false,
     "rubrika": "drustvo",
     "tema": "Objava samo sa linkom, bez teksta"
+   },
+   {
+    "id": "2120890376034607129",
+    "x": "NaStraniNaroda",
+    "ime": "Vukša Dragović",
+    "grupa": "",
+    "uloga": "",
+    "text": "Spremaju se da me uhapse...\nSamo hrabro i napred! Eto mene brzo! https://t.co/H7c3U0Jw5r",
+    "published": "2026-11-12T14:44:04.000+00:00",
+    "lajk": 656,
+    "prikazi": false,
+    "rubrika": "politika",
+    "tema": "Dragović o navodnom hapšenju, bez jasnog sadržaja"
    },
    {
     "id": "2120886094871048670",
@@ -5542,6 +6063,19 @@
     "tema": "Studentska lista sastanci sa delegacijama SAD i Italije"
    },
    {
+    "id": "2120866230462521507",
+    "x": "veceivan",
+    "ime": "Ivan Ivanović",
+    "grupa": "",
+    "uloga": "",
+    "text": "Moj stav po pitanju RTS je jasan i javan već godinama. Potreban je potpuni reset, ukidanje i odmah formiranje novog,po ovovremenskim standardima. Ko god je obavljao bilo kakvu uredničku ili rukovodeću funkciju poslednjih  14 godina, ne treba da radi na novom RTS. \nJer ništa,",
+    "published": "2026-11-12T13:08:07.000+00:00",
+    "lajk": 794,
+    "prikazi": true,
+    "rubrika": "mediji",
+    "tema": "Ivanović o potpunom resetu RTS-a"
+   },
+   {
     "id": "2120864970732716319",
     "x": "INinic",
     "ime": "Ivan Ninić",
@@ -5580,6 +6114,19 @@
     "prikazi": true,
     "rubrika": "mediji",
     "tema": "Ninić najavio presudu protiv Informera zbog optužbi o agenturi"
+   },
+   {
+    "id": "2120839520572617116",
+    "x": "veceivan",
+    "ime": "Ivan Ivanović",
+    "grupa": "",
+    "uloga": "",
+    "text": "Da li je suza na balkonu bila dovoljna da na spisku ne bude O. Kovačević?\n12 godina urednica zabave, raspolagala milionskim budžetima, neke projekte radila samo sa naprednjačkim firmama, preplaćivala formate, za šta je optuživao UO RTS. \nRaspitajte se kod svojih profesora. https://t.co/hOAbIZR1DB",
+    "published": "2026-11-12T11:21:59.000+00:00",
+    "lajk": 647,
+    "prikazi": true,
+    "rubrika": "mediji",
+    "tema": "Ivanović o urednici zabave RTS-a O. Kovačević"
    },
    {
     "id": "2120834471561773137",
@@ -5698,6 +6245,19 @@
     "prikazi": true,
     "rubrika": "politika",
     "tema": "Milivojević o raspadu SNS-a i zahtevu za zabranu"
+   },
+   {
+    "id": "2120650669245768036",
+    "x": "srdjan_nogo",
+    "ime": "Срђан Ного",
+    "grupa": "",
+    "uloga": "",
+    "text": "Већ 20 година Телеком плаћа све медије, дају новац уз услов да не пишу ништа лоше о Телекому и његовим пословним партнерима. Кад им је досадило да плаћају рекет, покуповали су скоро све медије. Држе кабловски систем, а у једном тренутку су купили и Футуру, киоске који продају https://t.co/y0C560e83u https://t.co/HTe64e6gpP",
+    "published": "2026-11-11T22:51:33.000+00:00",
+    "lajk": 85,
+    "prikazi": true,
+    "rubrika": "mediji",
+    "tema": "Ного o Telekomu i kontroli medija"
    },
    {
     "id": "2120648968896168425",
@@ -6147,6 +6707,264 @@
   ],
   "pratim": [
    {
+    "x": "KurirVesti",
+    "ime": "Kurir",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "DirektnoRS",
+    "ime": "Direktno",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "BoraKonj",
+    "ime": "Bora",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "CRTArs",
+    "ime": "CRTA",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "veceivan",
+    "ime": "Ivan Ivanović",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "Rnsaicic",
+    "ime": "Radomir Saicic",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "brankoruzicsps",
+    "ime": "Branko Ružić",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "RepJoeWilson",
+    "ime": "Joe Wilson",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "JugoslavCosic",
+    "ime": "Jugoslav Ćosić",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "zaklina_prva",
+    "ime": "Žaklina Tatalović",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "tvnova_s",
+    "ime": "TV NOVA S",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "oljautisak",
+    "ime": "Utisak nedelje",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "Blic_online",
+    "ime": "Blic",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "Raskrikavanje",
+    "ime": "Raskrikavanje",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "KRIKrs",
+    "ime": "KRIK",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "BIRNSrbija",
+    "ime": "BIRN Srbija",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "Insajder_net",
+    "ime": "Insajder TV",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "NedeljnikVreme",
+    "ime": "Vreme",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "srdjan_nogo",
+    "ime": "Срђан Ного",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "agrifblokira",
+    "ime": "Poljoprivredni blokada",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "etfblokada",
+    "ime": "ETF U SLOBODI",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "NaStraniNaroda",
+    "ime": "Vukša Dragović",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "Bcenzure",
+    "ime": "Bez Cenzure",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "BezStraha26279",
+    "ime": "BezStraga",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "NarodniPokretS",
+    "ime": "Narodni pokret Srbije",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "novarsonline",
+    "ime": "nova.rs",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "n1srbija",
+    "ime": "N1 Beograd",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "studentblokade",
+    "ime": "Studenti_u_blokadi",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "sns_srbija",
+    "ime": "СНС СРБИЈА",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "Vlada_Srbije",
+    "ime": "Влада Србије",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "milos_vucevic",
+    "ime": "Милош Вучевић",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "anabrnabic",
+    "ime": "Ana Brnabic",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "avucic",
+    "ime": "Александар Вучић",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "Bibislav",
+    "ime": "Biljana Đorđević",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "PavleGrbovic",
+    "ime": "Pavle Grbovic",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "ZdravkoPonos",
+    "ime": "Здравко Понош",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "SavoManojlovic",
+    "ime": "Savo Manojlovic",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "RadomirLazovic",
+    "ime": "Radomir Lazovic",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "MarinikaTepic",
+    "ime": "Marinika Tepić",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "DraganDjilas",
+    "ime": "Dragan Djilas",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "ParandilovicNLS",
+    "ime": "Miloš Parandilović",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
+    "x": "MiikiAleksic",
+    "ime": "Miroslav Aleksic",
+    "grupa": "",
+    "uloga": ""
+   },
+   {
     "x": "INinic",
     "ime": "Ivan Ninić",
     "grupa": "",
@@ -6165,7 +6983,7 @@
     "uloga": ""
    }
   ],
-  "pratim_t": 1794434145.847434,
+  "pratim_t": 1794520781.3223035,
   "profil": {
    "markodjuric": {
     "img": "https://pbs.twimg.com/profile_images/1707667706005106688/zQTpxjeE_200x200.jpg",
@@ -6371,6 +7189,86 @@
     "img": "https://pbs.twimg.com/profile_images/1993327613679378432/zkuQhckN_200x200.jpg",
     "ime_x": "Narodni pokret Srbije",
     "t": 1794507505.7209167
+   },
+   "direktnors": {
+    "img": "https://pbs.twimg.com/profile_images/2011945182267392001/Azl-b6-1_200x200.jpg",
+    "ime_x": "Direktno",
+    "t": 1794520781.6077337
+   },
+   "crtars": {
+    "img": "https://pbs.twimg.com/profile_images/1835942268202602496/1WvE2V9B_200x200.jpg",
+    "ime_x": "CRTA",
+    "t": 1794520781.6077392
+   },
+   "veceivan": {
+    "img": "https://pbs.twimg.com/profile_images/1722196095185600513/8muDfkvS_200x200.jpg",
+    "ime_x": "Ivan Ivanović",
+    "t": 1794520781.6077437
+   },
+   "rnsaicic": {
+    "img": "https://pbs.twimg.com/profile_images/1947050358632501249/4vtPvJkp_200x200.jpg",
+    "ime_x": "Radomir Saicic",
+    "t": 1794520781.607745
+   },
+   "brankoruzicsps": {
+    "img": "https://pbs.twimg.com/profile_images/705848861718355969/psHwXhRv_200x200.jpg",
+    "ime_x": "Branko Ružić",
+    "t": 1794520781.6077461
+   },
+   "repjoewilson": {
+    "img": "https://pbs.twimg.com/profile_images/661622212294778880/ScIsfHAl_200x200.jpg",
+    "ime_x": "Joe Wilson",
+    "t": 1794520781.607747
+   },
+   "jugoslavcosic": {
+    "img": "https://pbs.twimg.com/profile_images/1395454599146975241/VNMhJIjB_200x200.jpg",
+    "ime_x": "Jugoslav Ćosić",
+    "t": 1794520781.607748
+   },
+   "tvnova_s": {
+    "img": "https://pbs.twimg.com/profile_images/1902341064423354370/7CRps4N2_200x200.jpg",
+    "ime_x": "TV NOVA S",
+    "t": 1794520781.6077492
+   },
+   "oljautisak": {
+    "img": "https://pbs.twimg.com/profile_images/1331226341946044416/h8j15URj_200x200.jpg",
+    "ime_x": "Utisak nedelje",
+    "t": 1794520781.60775
+   },
+   "srdjan_nogo": {
+    "img": "https://pbs.twimg.com/profile_images/1192928444683816960/UMOv7TjO_200x200.jpg",
+    "ime_x": "Срђан Ного",
+    "t": 1794520781.607751
+   },
+   "agrifblokira": {
+    "img": "https://pbs.twimg.com/profile_images/2099063238721982464/PiKTYY9m_200x200.jpg",
+    "ime_x": "Poljoprivredni blokada",
+    "t": 1794520781.6077516
+   },
+   "etfblokada": {
+    "img": "https://pbs.twimg.com/profile_images/2098031951072358404/gGVaIRC4_200x200.jpg",
+    "ime_x": "ETF U SLOBODI",
+    "t": 1794520781.6077528
+   },
+   "nastraninaroda": {
+    "img": "https://pbs.twimg.com/profile_images/2118741563874361344/LDl3JetM_200x200.jpg",
+    "ime_x": "Vukša Dragović",
+    "t": 1794520781.6077535
+   },
+   "bcenzure": {
+    "img": "https://pbs.twimg.com/profile_images/1857525216894713856/YJgyY0K0_200x200.jpg",
+    "ime_x": "Bez Cenzure",
+    "t": 1794520781.6077545
+   },
+   "bezstraha26279": {
+    "img": "https://pbs.twimg.com/profile_images/1915574694666747904/I1hkpsIt_200x200.jpg",
+    "ime_x": "BezStraga",
+    "t": 1794520781.6077554
+   },
+   "lazidetektor": {
+    "img": "https://pbs.twimg.com/profile_images/1990917657646825472/E_-a-55U_200x200.jpg",
+    "ime_x": "DETEKTOR LAŽI",
+    "t": 1794520781.6077566
    }
   }
  },
@@ -13609,7 +14507,9 @@
    "202611122130-451a6b",
    "202611122114-8cafa2",
    "202611122214-76da8e",
-   "202611122114-f2c60e"
+   "202611122114-f2c60e",
+   "202611122229-22dcdc",
+   "202611122229-71e69f"
   ],
   "istorija": [
    {
@@ -13790,6 +14690,18 @@
     "t": 1794519925.5967295,
     "id": "202611122114-f2c60e",
     "x": "2120996411806499186",
+    "link": true
+   },
+   {
+    "t": 1794520799.7560554,
+    "id": "202611122229-22dcdc",
+    "x": "2121000078261276917",
+    "link": true
+   },
+   {
+    "t": 1794520802.0056436,
+    "id": "202611122229-71e69f",
+    "x": "2121000087694275052",
     "link": true
    }
   ],

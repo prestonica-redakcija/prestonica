@@ -29,17 +29,24 @@
  ],
  "importance": 6,
  "published": "2026-11-12T14:32:08.212448+00:00",
- "updated": "2026-11-12T14:32:08.212448+00:00",
+ "updated": "2026-11-12T21:58:50.243261+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/english/news/belgrade-chief-prosecutor-files-disciplinary-complaint-against-supreme-office-prosecutor/",
    "title": "Belgrade chief prosecutor files disciplinary complaint against Supreme Office prosecutor",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/english/news/belgrade-chief-prosecutor-says-no-evidence-of-sound-cannon-at-protest/",
+   "title": "Belgrade Chief Prosecutor says no evidence of sound cannon at protest",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Belgrade chief prosecutor files disciplinary complaint against Supreme Office prosecutor"
+  "Belgrade chief prosecutor files disciplinary complaint against Supreme Office prosecutor",
+  "Belgrade Chief Prosecutor says no evidence of sound cannon at protest"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:2026-10-13_ALBA_Berlin_gegen_Igokea_m-tel_(Basketball_Champions_League_2026-27)_by_Sandro_Halank%E2%80%93137.jpg",
   "alt": "Stefanović podneo disciplinsku prijavu protiv tužioca Stamenkovića zbog izjava o paralelnom tužilaštvu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
