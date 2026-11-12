@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-11T19:40:59.687057+00:00",
- "updated": "2026-11-11T19:55:53.071941+00:00",
+ "updated": "2026-11-12T22:13:42.855898+00:00",
  "sources": [
   {
    "name": "N1",
@@ -65,6 +65,12 @@
    "url": "https://www.tanjug.rs/srbija/hronika/297022/sudenje-za-napad-na-kanal-ibar-lepenac-pocelo-iz-pocetka/vest",
    "title": "Suđenje za napad na kanal Ibar - Lepenac počelo iz početka",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/284539/iran-grad-sirik-pogodjen-u-vojnom-napadu-prethodno-odjekivale-eksplozije/vest",
+   "title": "Napadnuti su, ponovo?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -72,7 +78,8 @@
   "Trojica optuženih za napad na kanal Ibar-Lepenac ponovo negirali da su krivi",
   "Trojica optuženih za napad na kanal Ibar-Lepenac ponovo negirala da su krivi",
   "Optuženi za napad na kanal Ibar - Lepenica negirali krivicu",
-  "Suđenje za napad na kanal Ibar - Lepenac počelo iz početka"
+  "Suđenje za napad na kanal Ibar - Lepenac počelo iz početka",
+  "Napadnuti su, ponovo?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -85,6 +92,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Kosovo_Force_(KFOR)_supports_Zubin_Potok_Fire_Brigade_with_equipment_donation_(9608712).jpg",
   "alt": "Trojica optuženih za napad na kanal Ibar-Lepenac ponovo negirala krivicu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

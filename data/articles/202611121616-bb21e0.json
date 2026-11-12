@@ -34,7 +34,7 @@
  ],
  "importance": 4,
  "published": "2026-11-12T15:16:57.446051+00:00",
- "updated": "2026-11-12T17:45:39.973645+00:00",
+ "updated": "2026-11-12T22:13:42.855898+00:00",
  "sources": [
   {
    "name": "N1",
@@ -71,6 +71,12 @@
    "url": "https://www.euronews.rs/srbija/politika/251813/edin-derlek-najavio-osnivanje-nove-politicke-organizacije/vest",
    "title": "Edin Đerlek najavio da osniva novu stranku",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10160628/edin-djerlek-najavio-da-osniva-novu-stranku",
+   "title": "NAKON RAZLAZA SA SPP Edin Đerlek najavio da osniva novu stranku",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -79,7 +85,8 @@
   "Edin Đerlek osniva novu stranku",
   "Edin Đerlek najavio da osniva novu stranku",
   "Edin Đerlek najavio da osniva novu stranku",
-  "Edin Đerlek najavio da osniva novu stranku"
+  "Edin Đerlek najavio da osniva novu stranku",
+  "NAKON RAZLAZA SA SPP Edin Đerlek najavio da osniva novu stranku"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -92,8 +99,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Edin_%C4%90erlek.jpg",
   "alt": "Edin Đerlek najavio osnivanje nove bošnjačke stranke posle smene u SPP"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-12T17:45:39.973645+00:00",
  "verzija": 2
 }
