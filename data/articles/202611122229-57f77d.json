@@ -24,17 +24,24 @@
  ],
  "importance": 2,
  "published": "2026-11-12T21:29:03.804743+00:00",
- "updated": "2026-11-12T21:29:03.804743+00:00",
+ "updated": "2026-11-12T23:28:03.020610+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/297375/na-novosadskom-sajmu-sutra-se-otvara-medunarodna-izlozba-zlatarstva-sjaj/vest",
    "title": "Na Novosadskom sajmu sutra se otvara međunarodna izložba zlatarstva Sjaj",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4432123-na-novosadskom-sajmu-se-otvara-medjunarodna-izlozba-zlatarstva-sjaj",
+   "title": "Na Novosadskom sajmu se otvara međunarodna izložba zlatarstva Sjaj",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Na Novosadskom sajmu sutra se otvara međunarodna izložba zlatarstva Sjaj"
+  "Na Novosadskom sajmu sutra se otvara međunarodna izložba zlatarstva Sjaj",
+  "Na Novosadskom sajmu se otvara međunarodna izložba zlatarstva Sjaj"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Novosadski_sajam_-_panoramio.jpg",
   "alt": "Na Novosadskom sajmu sutra počinje trodnevna izložba zlatarstva i časovničarstva Sjaj"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -2129,18 +2129,20 @@
   "https://www.kurir.rs/planeta/10160817/hegset-odlikovao-vojnika-koji-ga-je-opomenuo-da-se-ne-smeje-na-vojnom-groblju": "2026-11-12T23:13:18.088564+00:00",
   "https://nova.rs/magazin/vremenska-prognoza/u-srbiji-danas-natprosecno-toplo-i-vetrovito/": "2026-11-12T23:13:18.088564+00:00",
   "https://radar.nova.rs/global/uzroci-sloma-republikanaca-na-izborima-za-kongres/": "2026-11-12T23:13:18.088564+00:00",
-  "https://radar.nova.rs/politika/promena-vlasti-spoljni-ugao/": "2026-11-12T23:13:18.088564+00:00"
+  "https://radar.nova.rs/politika/promena-vlasti-spoljni-ugao/": "2026-11-12T23:13:18.088564+00:00",
+  "https://insajder.net/prenosimo/predstavnici-studentske-liste-na-sastancima-sa-americkim-i-ruskim-ambasadorima": "2026-11-12T23:28:03.020610+00:00",
+  "https://insajder.net/prenosimo/trampova-imigraciona-politika-sve-ostrija-ice-deportovao-rekordnih-483200-ljudi": "2026-11-12T23:28:03.020610+00:00",
+  "https://www.kurir.rs/planeta/10160817/GOSPODSKI-POTEZ-MINISTRA-RATA-SAD-Hegset-odlikovao-vojnika-koji-ga-je-opomenuo-da-se-ne-smeje-na-vojnom-groblju-VIDEO": "2026-11-12T23:28:03.020610+00:00",
+  "https://biznis.telegraf.rs/info-biz/4432123-na-novosadskom-sajmu-se-otvara-medjunarodna-izlozba-zlatarstva-sjaj": "2026-11-12T23:28:03.020610+00:00",
+  "https://insajder.net/teme/insajder-debata-politicka-volja-ili-put-ka-pravdi-video": "2026-11-12T23:28:03.020610+00:00",
+  "https://www.danas.rs/sport/finska-zabranjuje-dolazak-ruskih-sportista-uoci-zimskih-sportskih-takmicenja/": "2026-11-12T23:28:03.020610+00:00",
+  "https://n1info.rs/svet/finska-zabranjuje-dolazak-ruskih-sportista-uoci-zimskih-sportskih-takmicenja/": "2026-11-12T23:28:03.020610+00:00",
+  "https://www.danas.rs/svet/plenkovic-zahtevi-hrvatske-crnoj-gori-nisu-bilaterlna-vec-vrednosna-pitanja/": "2026-11-12T23:28:03.020610+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-12T08:37+00:00",
-   "novih": 6,
-   "ukupno": 338,
-   "sekundi": 149.9
-  },
   {
    "vreme": "2026-11-12T08:51+00:00",
    "novih": 8,
@@ -2494,6 +2496,12 @@
    "novih": 2,
    "ukupno": 646,
    "sekundi": 101.3
+  },
+  {
+   "vreme": "2026-11-12T23:29+00:00",
+   "novih": 3,
+   "ukupno": 649,
+   "sekundi": 81.5
   }
  ],
  "licnosti_foto": {
@@ -14907,6 +14915,18 @@
   "t:dzej di vens": {
    "t": 1794525238.4664369,
    "items": []
+  },
+  "t:finska": {
+   "t": 1794526124.005417,
+   "items": []
+  },
+  "t:rat u ukrajini": {
+   "t": 1794526124.8647752,
+   "items": []
+  },
+  "t:hrvatska": {
+   "t": 1794526132.9911928,
+   "items": []
   }
  },
  "x_objave": {
@@ -15701,6 +15721,21 @@
     "link": "https://commons.wikimedia.org/wiki/File:%D0%98%D1%82%D0%BE%D0%B3%D0%B8_%D0%B3%D0%BE%D0%B4%D0%B0_%D1%81_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%BC_%D0%9F%D1%83%D1%82%D0%B8%D0%BD%D1%8B%D0%BC_-_18_(19-12-2025)_(cropped).jpg",
     "w": 571,
     "h": 762
+   }
+  },
+  "Andrej Plenković": {
+   "ime": "Andrej Plenković",
+   "uloga": "premijer Hrvatske",
+   "oblast": "politika",
+   "wd": "Q11685764",
+   "t": 1794526150.1257522,
+   "ok": true,
+   "foto": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Andrej_Plenkovi%C4%87.jpg/500px-Andrej_Plenkovi%C4%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Wikimedia Commons / © European Union 2024 - Source : European Commission / Attribution",
+    "link": "https://commons.wikimedia.org/wiki/File:Andrej_Plenkovi%C4%87.jpg",
+    "w": 587,
+    "h": 785
    }
   }
  },
