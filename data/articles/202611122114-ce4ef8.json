@@ -28,16 +28,23 @@
  ],
  "importance": 5,
  "published": "2026-11-12T20:14:38.677905+00:00",
- "updated": "2026-11-12T20:14:38.677905+00:00",
+ "updated": "2026-11-12T21:14:35.131658+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/kreni-promeni-sapic-gomila-dugove-gsp-a-a-drzava-ih-pokriva-milijardama/",
    "title": "Kreni-Promeni: Šapić gomila dugove GSP-a, a država ih pokriva milijardama",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/kreni-promeni-sapic-gomila-dugove-gsp-a-a-drzava-ih-pokriva-milijardama/",
+   "title": "Kreni-Promeni: Šapić gomila dugove GSP-a, a država ih pokriva milijardama",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Kreni-Promeni: Šapić gomila dugove GSP-a, a država ih pokriva milijardama",
   "Kreni-Promeni: Šapić gomila dugove GSP-a, a država ih pokriva milijardama"
  ],
  "author": "Redakcija Prestonice",
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Aleksandar_%C5%A0api%C4%87_i_Savo_Milo%C5%A1evi%C4%87_na_sednici_Glavnog_odbora_DS.jpg",
   "alt": "Kreni-Promeni traži odgovornost Šapićeve vlasti zbog dugova GSP-a"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
