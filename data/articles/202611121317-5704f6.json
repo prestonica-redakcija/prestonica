@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T12:17:53.530908+00:00",
- "updated": "2026-11-12T17:45:39.973645+00:00",
+ "updated": "2026-11-12T22:58:16.195863+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -65,6 +65,12 @@
    "url": "https://www.telegraf.rs/4432014-oglasila-se-studentska-lista-sa-veoma-bitnim-saopstenjem",
    "title": "Oglasila se Studentska lista sa veoma bitnim saopštenjem",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/sport/kosarka/partizan-se-oglasio-o-povredi-tompsona/",
+   "title": "Partizan se oglasio o povredi Tompsona",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -73,7 +79,8 @@
   "Oglasilo se Ministarstvo prosvete! Tiče se školarina za studente",
   "Ministarstvo prosvete: Druga rata za povraćaj 50 odsto školarina do kraja novembra",
   "Ministarstvo prosvete: Druga rata za povraćaj 50 odsto školarina studentima do kraja novembra",
-  "Oglasila se Studentska lista sa veoma bitnim saopštenjem"
+  "Oglasila se Studentska lista sa veoma bitnim saopštenjem",
+  "Partizan se oglasio o povredi Tompsona"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -85,6 +92,6 @@
   "local": true,
   "alt": "Druga rata povraćaja 50 odsto školarine studentima biće isplaćena do kraja novembra"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

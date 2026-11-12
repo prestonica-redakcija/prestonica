@@ -39,7 +39,7 @@
  ],
  "importance": 7,
  "published": "2026-11-12T08:04:50.599160+00:00",
- "updated": "2026-11-12T22:43:25.533142+00:00",
+ "updated": "2026-11-12T22:58:16.195863+00:00",
  "sources": [
   {
    "name": "N1",
@@ -220,6 +220,18 @@
    "url": "https://www.tanjug.rs/svet/politika/297388/zelenski-i-meloni-razgovarali-o-ucescu-evrope-u-pregovorima-o-okoncanju-rata/vest",
    "title": "Zelenski i Meloni razgovarali o učešću Evrope u pregovorima o okončanju rata",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/297322/dorda-meloni-postoji-previse-formata-za-pregovore-o-ukrajini/vest",
+   "title": "Đorđa Meloni: Postoji previše formata za pregovore o Ukrajini",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/297393/vitkof-predstavnici-evropskih-zemalja-ucestvovace-na-sledecem-sastanku-o-ukrajini/vest",
+   "title": "Vitkof: Predstavnici evropskih zemalja učestvovaće na sledećem sastanku o Ukrajini",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -252,7 +264,9 @@
   "ZELENSKI U IRSKOJ: Predsednik Ukrajine sastao se sa Kušnerom i Vitkofom posle njihove posete Moskvi",
   "Nastavak pregovora o kraju rata: Putin odbija evropske mirovne snage, Zelenski traži veće učešće Evrope u razgovorima",
   "\"Putin je pristao\"",
-  "Zelenski i Meloni razgovarali o učešću Evrope u pregovorima o okončanju rata"
+  "Zelenski i Meloni razgovarali o učešću Evrope u pregovorima o okončanju rata",
+  "Đorđa Meloni: Postoji previše formata za pregovore o Ukrajini",
+  "Vitkof: Predstavnici evropskih zemalja učestvovaće na sledećem sastanku o Ukrajini"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -265,7 +279,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(08-03-2024)_(cropped).jpg",
   "alt": "Vitkof i Kušner stigli u Moskvu na razgovore sa Putinom, potom putuju kod Zelenskog"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-12T22:28:34.901688+00:00",
  "verzija": 7

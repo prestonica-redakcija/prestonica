@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T22:43:25.533142+00:00",
- "updated": "2026-11-12T22:43:25.533142+00:00",
+ "updated": "2026-11-12T22:58:16.195863+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,11 +44,18 @@
    "url": "https://www.b92.net/info/svet/284530/tramp-kaze-da-se-iranski-rezim-urusava-usred-ekonomske-krize/vest",
    "title": "Tramp: \"Napao bih bez oklevanja\" VIDEO",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10160814/tramp-ne-bih-oklevao-da-napadnem-iran-ako-procenim-da-je-to-neophodno",
+   "title": "TRAMP: Ne bih oklevao da napadnem Iran ako procenim da je to neophodno",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Tramp: Ne bih oklevao da napadnem Iran ako bih video da stvari kreću u drugom smeru",
-  "Tramp: \"Napao bih bez oklevanja\" VIDEO"
+  "Tramp: \"Napao bih bez oklevanja\" VIDEO",
+  "TRAMP: Ne bih oklevao da napadnem Iran ako procenim da je to neophodno"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Tramp: iranski režim se urušava, ne bih oklevao da ponovo napadnem"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

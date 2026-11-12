@@ -2113,18 +2113,21 @@
   "https://www.tanjug.rs/svet/politika/297390/ukrajinski-dronovi-pogodili-ruski-ratni-brod-u-finskom-zalivu-helsinki-potvrdio-napad/vest": "2026-11-12T22:43:25.533142+00:00",
   "https://www.kurir.rs/planeta/10160810/ukrajinski-dronovi-pogodili-ruski-ratni-brod-u-finskom-zalivu": "2026-11-12T22:43:25.533142+00:00",
   "https://www.kurir.rs/zabava/zena/10160001/kako-pravilno-ocistiti-kozu-da-ne-ispuca-i-ne-izgubi-sjaj": "2026-11-12T22:43:25.533142+00:00",
-  "https://www.kurir.rs/stars/rijaliti/10160731/Milica-Velickovic-se-uskoro-seli": "2026-11-12T22:43:25.533142+00:00"
+  "https://www.kurir.rs/stars/rijaliti/10160731/Milica-Velickovic-se-uskoro-seli": "2026-11-12T22:43:25.533142+00:00",
+  "https://www.tanjug.rs/svet/politika/297322/dorda-meloni-postoji-previse-formata-za-pregovore-o-ukrajini/vest": "2026-11-12T22:58:16.195863+00:00",
+  "https://nova.rs/sport/kosarka/partizan-se-oglasio-o-povredi-tompsona/": "2026-11-12T22:58:16.195863+00:00",
+  "https://www.tanjug.rs/svet/politika/297393/vitkof-predstavnici-evropskih-zemalja-ucestvovace-na-sledecem-sastanku-o-ukrajini/vest": "2026-11-12T22:58:16.195863+00:00",
+  "https://www.kurir.rs/planeta/10160814/tramp-ne-bih-oklevao-da-napadnem-iran-ako-procenim-da-je-to-neophodno": "2026-11-12T22:58:16.195863+00:00",
+  "https://www.danas.rs/vesti/politika/ambasador-rusije-studentska-lista/": "2026-11-12T22:58:16.195863+00:00",
+  "https://n1info.rs/svet/rekordan-broj-deportacija-u-sad-ice-proterao-vise-od-483000-migranata-za-godinu-dana/": "2026-11-12T22:58:16.195863+00:00",
+  "https://nova.rs/vesti/svet/iz-sad-deportovano-483200-migranata-za-godinu-dana/": "2026-11-12T22:58:16.195863+00:00",
+  "https://www.kurir.rs/stars/10160703/bogdana-raznatovic-otvorila-dusu-nakon-situacije-sa-sinom-u-vrticu": "2026-11-12T22:58:16.195863+00:00",
+  "https://n1info.rs/svet/holandska-vlada-u-krizi-premijer-trazi-nov-sporazum-neslozne-vladajuce-koalicije/": "2026-11-12T22:58:16.195863+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-12T08:07+00:00",
-   "novih": 9,
-   "ukupno": 328,
-   "sekundi": 171.1
-  },
   {
    "vreme": "2026-11-12T08:21+00:00",
    "novih": 4,
@@ -2478,6 +2481,12 @@
    "novih": 2,
    "ukupno": 642,
    "sekundi": 95.5
+  },
+  {
+   "vreme": "2026-11-12T22:59+00:00",
+   "novih": 2,
+   "ukupno": 644,
+   "sekundi": 86.5
   }
  ],
  "licnosti_foto": {
@@ -4931,7 +4940,7 @@
    ]
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -5013,7 +5022,7 @@
    },
    "ininic": {
     "since_id": "2120986753511121175",
-    "t": 1794521726.1894302
+    "t": 1794524361.9875972
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -5021,7 +5030,7 @@
    },
    "sviublokade_fdu": {
     "since_id": "2120560395492495772",
-    "t": 1794521726.1894302
+    "t": 1794524361.9875972
    },
    "dragandjilas": {
     "since_id": null,
@@ -5069,11 +5078,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1794521726.1894302
+    "t": 1794524361.9875972
    },
    "studentblokade": {
     "since_id": "2120988605036286437",
-    "t": 1794521726.1894302
+    "t": 1794524361.9875972
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -5149,55 +5158,55 @@
    },
    "srdjanmil037": {
     "since_id": "2120749869757305219",
-    "t": 1794521726.1894302
+    "t": 1794524361.9875972
    },
    "zoranlutovac": {
     "since_id": "2120963250930221562",
-    "t": 1794521726.1894302
+    "t": 1794524361.9875972
    },
    "pajticbojan": {
     "since_id": null,
-    "t": 1794521726.1894302
+    "t": 1794524361.9875972
    },
    "n_zelenovic": {
     "since_id": null,
-    "t": 1794521726.1894302
+    "t": 1794524361.9875972
    },
    "boskoobradovic": {
     "since_id": null,
-    "t": 1794521726.1894302
+    "t": 1794524361.9875972
    },
    "sasaradulovich": {
     "since_id": null,
-    "t": 1794521726.1894302
+    "t": 1794524361.9875972
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1794521726.1894302
+    "t": 1794524361.9875972
    },
    "zaklina_prva": {
     "since_id": "2120990644974084444",
-    "t": 1794521726.1894302
+    "t": 1794524361.9875972
    },
    "stevanoccrp": {
     "since_id": "2120980122807505008",
-    "t": 1794521726.1894302
+    "t": 1794524361.9875972
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1794521726.1894302
+    "t": 1794524361.9875972
    },
    "igorbrakus": {
     "since_id": null,
-    "t": 1794521726.1894302
+    "t": 1794524361.9875972
    },
    "radoholicar": {
     "since_id": null,
-    "t": 1794521726.1894302
+    "t": 1794524361.9875972
    },
    "borakonj": {
     "since_id": "2120985319193313663",
-    "t": 1794521726.1894302
+    "t": 1794524361.9875972
    },
    "narodnipokrets": {
     "since_id": "2120601957350195572",
@@ -14862,6 +14871,14 @@
      "naslov": "Финский залив - panoramio (4).jpg"
     }
    ]
+  },
+  "t:holandija": {
+   "t": 1794524349.4762964,
+   "items": []
+  },
+  "t:rob jeten": {
+   "t": 1794524351.1717165,
+   "items": []
   }
  },
  "x_objave": {
@@ -14904,7 +14921,9 @@
    "202611122000-3ee521",
    "202611121945-79e7bd",
    "202611122313-1e6be7",
-   "202611122313-797f22"
+   "202611122313-797f22",
+   "202611122328-f8cf7f",
+   "202611121900-9685b6"
   ],
   "istorija": [
    {
@@ -15133,6 +15152,18 @@
     "t": 1794523477.4805434,
     "id": "202611122313-797f22",
     "x": "2121011309500117374",
+    "link": true
+   },
+   {
+    "t": 1794524363.931455,
+    "id": "202611122328-f8cf7f",
+    "x": "2121015027553702220",
+    "link": true
+   },
+   {
+    "t": 1794524366.1689708,
+    "id": "202611121900-9685b6",
+    "x": "2121015036995113425",
     "link": true
    }
   ],

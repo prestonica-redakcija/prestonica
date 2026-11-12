@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T18:45:18.667568+00:00",
- "updated": "2026-11-12T21:58:50.243261+00:00",
+ "updated": "2026-11-12T22:58:16.195863+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -72,6 +72,12 @@
    "url": "https://nova.rs/vesti/politika/ruski-ambasador-se-sastao-sa-predstavnicima-studentske-liste-razgovarali-o-odnosima-srbije-i-rusije-i-kosovu/",
    "title": "Ruski ambasador se sastao sa predstavnicima studentske liste: Razgovarali o odnosima Srbije i Rusije i Kosovu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/ambasador-rusije-studentska-lista/",
+   "title": "Ambasador Rusije sastao se sa predstavnicima Studentske liste",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -80,7 +86,8 @@
   "Predstavnici Studentske liste razgovarali sa Bocan-Harčenkom o daljem razvoju odnosa dve zemlje",
   "Bocan-Harčenko sa predstavnicima Studentske liste o odnosima dve zemlje",
   "Bocan-Harčenko razgovarao sa predstavnicima Studentske liste o rusko-srpskim odnosima",
-  "Ruski ambasador se sastao sa predstavnicima studentske liste: Razgovarali o odnosima Srbije i Rusije i Kosovu"
+  "Ruski ambasador se sastao sa predstavnicima studentske liste: Razgovarali o odnosima Srbije i Rusije i Kosovu",
+  "Ambasador Rusije sastao se sa predstavnicima Studentske liste"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -93,8 +100,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Ruski ambasador sastao se sa Šoškićem i Krmarom iz Studentske liste"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-12T21:44:01.484079+00:00",
  "verzija": 2
 }
