@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T16:05:38.576057+00:00",
- "updated": "2026-11-13T19:34:06.834215+00:00",
+ "updated": "2026-11-13T19:48:56.164085+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -54,12 +54,19 @@
    "url": "https://www.kurir.rs/planeta/10161651/SEF-MOSADA-U-AMERICI-Direktor-izraelske-obavestajne-sluzbe-sa-zvanicnicima-SAD-o-ratu-u-Iranu",
    "title": "ŠEF MOSADA U AMERICI: Direktor izraelske obaveštajne službe sa zvaničnicima SAD o ratu u Iranu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10161651/sef-mosada-u-americi-o-ratu-sa-iranom",
+   "title": "ŠEF MOSADA U AMERICI: Direktor izraelske obaveštajne službe sa zvaničnicima SAD o ratu sa Iranom",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Aksios: Šef Mosada u Vašingtonu zbog razgovora o Iranu",
   "Izrael šalje šefa Mosada u Vašington: Na stolu nova strategija prema Iranu",
-  "ŠEF MOSADA U AMERICI: Direktor izraelske obaveštajne službe sa zvaničnicima SAD o ratu u Iranu"
+  "ŠEF MOSADA U AMERICI: Direktor izraelske obaveštajne službe sa zvaničnicima SAD o ratu u Iranu",
+  "ŠEF MOSADA U AMERICI: Direktor izraelske obaveštajne službe sa zvaničnicima SAD o ratu sa Iranom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,6 @@
   "local": true,
   "alt": "Šef Mosada doputovao u Vašington na razgovore o ratu sa Iranom"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

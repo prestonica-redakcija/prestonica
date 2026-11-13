@@ -33,7 +33,7 @@
  ],
  "importance": 7,
  "published": "2026-11-13T13:21:48.977057+00:00",
- "updated": "2026-11-13T19:34:06.834215+00:00",
+ "updated": "2026-11-13T19:48:56.164085+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -76,6 +76,12 @@
    "url": "https://www.danas.rs/vesti/politika/hanrahan-vasington-zeli-da-nastavi-strateski-dijalog-sa-novim-vlastima-u-srbiji/",
    "title": "Hanrahan: Vašington želi da nastavi strateški dijalog sa novim vlastima u Srbiji",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4432738-hanrahan-sad-zadovoljne-tokom-prenosa-vlasti-u-srbiji-zelimo-nastavak-strateskog-dijaloga-sa-novom-vladom",
+   "title": "Hanrahan: SAD zadovoljne tokom prenosa vlasti u Srbiji, želimo nastavak strateškog dijaloga sa novom Vladom",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -85,7 +91,8 @@
   "Veliki problem za Vuka Vukovića",
   "Pomoćnik državnog sekretara SAD: Vašington želi da nastavi strateški dijalog sa novim vlastima u Srbiji",
   "Hanrahan: SAD žele da nastave strateški dijalog sa novom vladom Srbije",
-  "Hanrahan: Vašington želi da nastavi strateški dijalog sa novim vlastima u Srbiji"
+  "Hanrahan: Vašington želi da nastavi strateški dijalog sa novim vlastima u Srbiji",
+  "Hanrahan: SAD zadovoljne tokom prenosa vlasti u Srbiji, želimo nastavak strateškog dijaloga sa novom Vladom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -97,8 +104,8 @@
   "local": true,
   "alt": "Hanrahan u Beogradu: SAD žele dublju saradnju sa Srbijom i novom vladom Studentske liste"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-13T19:34:06.834215+00:00",
  "verzija": 2
 }
