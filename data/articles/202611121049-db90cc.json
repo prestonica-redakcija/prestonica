@@ -38,7 +38,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T09:49:14.445596+00:00",
- "updated": "2026-11-12T18:45:18.667568+00:00",
+ "updated": "2026-11-13T10:08:15.452290+00:00",
  "sources": [
   {
    "name": "N1",
@@ -69,6 +69,12 @@
    "url": "https://www.kurir.rs/planeta/10160679/eu-najavila-novi-paket-sankcija-rusiji",
    "title": "EU NAJAVILA 22. PAKET SANKCIJA RUSIJI: Značajna finansijska i vojna pomoć za Ukrajinu pred zimu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/297453/lideri-eu-danas-u-dablinu-o-pregovorima-o-ukrajini-finansiranju-i-eu-bezbednosti/vest",
+   "title": "Lideri EU danas u Dablinu o pregovorima o Ukrajini, finansiranju i EU bezbednosti",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -76,7 +82,8 @@
   "Adad: Uskoro nove sankcije Rusiji",
   "Fon der Lajen:EU će podržavati Ukrajinu i u ratu i u miru, Kalas: Prvo primirje pa pregovori",
   "FON DER LAJEN NAJAVILA NOVI PAKET SANKCIJA RUSIJI! Predsednica Evropske komisije uoči sastanka u Dablinu govorila i o finansijskim potrebama Ukrajine (FOTO)",
-  "EU NAJAVILA 22. PAKET SANKCIJA RUSIJI: Značajna finansijska i vojna pomoć za Ukrajinu pred zimu"
+  "EU NAJAVILA 22. PAKET SANKCIJA RUSIJI: Značajna finansijska i vojna pomoć za Ukrajinu pred zimu",
+  "Lideri EU danas u Dablinu o pregovorima o Ukrajini, finansiranju i EU bezbednosti"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -88,6 +95,6 @@
   "local": true,
   "alt": "EU u ponedeljak usvaja novi paket sankcija Rusiji, najavio francuski ministar Adad"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

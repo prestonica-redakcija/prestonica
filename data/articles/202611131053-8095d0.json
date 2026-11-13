@@ -28,17 +28,24 @@
  ],
  "importance": 4,
  "published": "2026-11-13T09:53:25.553445+00:00",
- "updated": "2026-11-13T09:53:25.553445+00:00",
+ "updated": "2026-11-13T10:08:15.452290+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/ekonomija/vesti/1670712/cena-nafte-ponovo-raste-evropske-berze-krenule-nizbrdo",
    "title": "CENA NAFTE PONOVO RASTE: Evropske berze krenule nizbrdo",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4432318-nafta-ponovo-poskupela",
+   "title": "Nafta ponovo poskupela",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "CENA NAFTE PONOVO RASTE: Evropske berze krenule nizbrdo"
+  "CENA NAFTE PONOVO RASTE: Evropske berze krenule nizbrdo",
+  "Nafta ponovo poskupela"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Brent poskupeo na više od 96 dolara, evropske berze u blagom padu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

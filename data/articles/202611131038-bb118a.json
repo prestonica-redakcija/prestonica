@@ -25,7 +25,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T09:38:39.626001+00:00",
- "updated": "2026-11-13T09:38:39.626001+00:00",
+ "updated": "2026-11-13T10:08:15.452290+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -50,13 +50,20 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1670702/vlada-produzila-smanjenje-akciza-gorivo-odluka-vazi-22-novembra",
    "title": "VLADA PRODUŽILA SMANjENjE AKCIZA NA GORIVO: Odluka važi do 22. novembra",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/akciza-gorivo-do-22-novembra/",
+   "title": "Vlada produžila privremeno smanjenje akciza na derivate nafte do 22. novembra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Vlada produžila privremeno smanjenje akciza na derivate nafte za 25 odsto do 22. novembra",
   "Vlada produžila privremeno smanjenje akciza na derivate nafte za 25 odsto do 22. novembra",
   "Produženo smanjenje akciza na gorivo: Evo do kada će važiti niži nameti",
-  "VLADA PRODUŽILA SMANjENjE AKCIZA NA GORIVO: Odluka važi do 22. novembra"
+  "VLADA PRODUŽILA SMANjENjE AKCIZA NA GORIVO: Odluka važi do 22. novembra",
+  "Vlada produžila privremeno smanjenje akciza na derivate nafte do 22. novembra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,5 +75,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Slika1536_Vlada_Srbije.jpg",
   "alt": "Vlada u tehničkom mandatu produžila smanjenje akciza na gorivo do 22. novembra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

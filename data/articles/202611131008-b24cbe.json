@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T09:08:47.630829+00:00",
- "updated": "2026-11-13T09:53:25.553445+00:00",
+ "updated": "2026-11-13T10:08:15.452290+00:00",
  "sources": [
   {
    "name": "N1",
@@ -50,12 +50,19 @@
    "url": "https://www.danas.rs/vesti/drustvo/kreni-promeni-investitor-vratio-stanare-u-urusenu-zgradu-na-vozdovcu-iako-inspekcija-nije-ukinula-zabranu/",
    "title": "Kreni-Promeni: Investitor vratio stanare u urušenu zgradu na Voždovcu, iako inspekcija nije ukinula zabranu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/kreni-promeni-investitor-vratio-stanare-u-zgrade-iako-inspekcija-nije-ukinula-zabranu-koriscenja/",
+   "title": "Kreni-Promeni: Investitor vratio stanare u zgrade iako inspekcija nije ukinula zabranu korišćenja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Kreni-Promeni: Investitor vratio stanare u zgradu na Voždovcu, iako inspekcija nije ukinula zabranu",
   "Kreni-Promeni: Investitor vratio stanare u zgradu na Voždovcu, iako inspekcija nije ukinula zabranu",
-  "Kreni-Promeni: Investitor vratio stanare u urušenu zgradu na Voždovcu, iako inspekcija nije ukinula zabranu"
+  "Kreni-Promeni: Investitor vratio stanare u urušenu zgradu na Voždovcu, iako inspekcija nije ukinula zabranu",
+  "Kreni-Promeni: Investitor vratio stanare u zgrade iako inspekcija nije ukinula zabranu korišćenja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Vozdovac_park,May_2010.jpg",
   "alt": "Kreni-Promeni: stanari na Voždovcu vraćeni u zgradu iako zabrana inspekcije nije ukinuta"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -31,17 +31,24 @@
  ],
  "importance": 6,
  "published": "2026-11-12T15:31:41.694107+00:00",
- "updated": "2026-11-12T15:31:41.694107+00:00",
+ "updated": "2026-11-13T10:08:15.452290+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/sinani-o-izvestaju-komisije-vrhovnog-javnog-tuzilastva-znali-smo-od-pocetka-da-je-cilj-istrage-studentski-pokret-i-uprave-filozofskog-fakulteta-i-univerziteta/",
    "title": "Sinani o izveštaju Komisije Vrhovnog javnog tužilaštva: Znali smo od početka da je cilj istrage studentski pokret i uprave Filozofskog fakulteta i Univerziteta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/sinani-zadovoljni-smo-prvim-nalazima-komisije-vjt-o-slucaju-pretresa-zgrada-filozofskog-fakulteta-i-rektorata/",
+   "title": "Sinani: Zadovoljni smo prvim nalazima Komisije VJT o slučaju pretresa zgrada Filozofskog fakulteta i Rektorata",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Sinani o izveštaju Komisije Vrhovnog javnog tužilaštva: Znali smo od početka da je cilj istrage studentski pokret i uprave Filozofskog fakulteta i Univerziteta"
+  "Sinani o izveštaju Komisije Vrhovnog javnog tužilaštva: Znali smo od početka da je cilj istrage studentski pokret i uprave Filozofskog fakulteta i Univerziteta",
+  "Sinani: Zadovoljni smo prvim nalazima Komisije VJT o slučaju pretresa zgrada Filozofskog fakulteta i Rektorata"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Komisija VJT: pretres Filozofskog fakulteta i Rektorata išao izvan naredbe suda"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -26,17 +26,24 @@
  ],
  "importance": 6,
  "published": "2026-11-12T11:03:35.609296+00:00",
- "updated": "2026-11-12T11:03:35.609296+00:00",
+ "updated": "2026-11-13T10:08:15.452290+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/ekonomija/postanska-stedionica-odgovorila-posti-odgovornost-za-distribuciju-gotovine-ne-moze-se-prebacivati-na-banku/",
    "title": "Poštanska štedionica odgovorila Pošti: Odgovornost za distribuciju gotovine ne može se prebacivati na banku",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4432330-culibrk-za-rts-o-isplati-penzija-inflaciji-i-odgovornosti",
+   "title": "Ćulibrk za RTS o isplati penzija, inflaciji i odgovornosti",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Poštanska štedionica odgovorila Pošti: Odgovornost za distribuciju gotovine ne može se prebacivati na banku"
+  "Poštanska štedionica odgovorila Pošti: Odgovornost za distribuciju gotovine ne može se prebacivati na banku",
+  "Ćulibrk za RTS o isplati penzija, inflaciji i odgovornosti"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Poštanska štedionica odgovorila Pošti Srbije u sporu oko gotovine za isplatu penzija"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
