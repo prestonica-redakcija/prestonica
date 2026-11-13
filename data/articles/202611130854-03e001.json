@@ -25,16 +25,23 @@
  ],
  "importance": 3,
  "published": "2026-11-13T07:54:24.252839+00:00",
- "updated": "2026-11-13T07:54:24.252839+00:00",
+ "updated": "2026-11-13T08:09:16.680226+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/drustvo/297418/veselinovic-razvoj-tehnologija-olaksava-zivot-slepim-i-slabovidim-osobama/vest",
    "title": "Veselinović: Razvoj tehnologija olakšava život slepim i slabovidim osobama",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jednakost/4432206-veselinovic-razvoj-tehnologija-olaksava-zivot-slepim-i-slabovidim-osobama",
+   "title": "Veselinović: Razvoj tehnologija olakšava život slepim i slabovidim osobama",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
+  "Veselinović: Razvoj tehnologija olakšava život slepim i slabovidim osobama",
   "Veselinović: Razvoj tehnologija olakšava život slepim i slabovidim osobama"
  ],
  "author": "Redakcija Prestonice",
@@ -46,5 +53,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Veselinović: Razvoj tehnologije znatno olakšao život slepim i slabovidim osobama"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

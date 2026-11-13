@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T13:32:29.095638+00:00",
- "updated": "2026-11-12T13:32:29.095638+00:00",
+ "updated": "2026-11-13T08:09:16.680226+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://www.danas.rs/svet/madjar-prava-zena-abortus/",
    "title": "Budimpešta ukida kontroverzne propise o abortusu i jača zaštitu žena: Peter Mađar o novim merama u okviru šireg paketa reformi usmerenih na ženska prava",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/284572/severna-koreja-promenila-ustav-i-proporcije-zastave/vest",
+   "title": "Promenili su Ustav i proporcije zastave",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Mađar: Vlada Mađarske olakšaće ženama pristup sredstvima za hitnu kontracepciju i ukinuti propise o abortusu",
-  "Budimpešta ukida kontroverzne propise o abortusu i jača zaštitu žena: Peter Mađar o novim merama u okviru šireg paketa reformi usmerenih na ženska prava"
+  "Budimpešta ukida kontroverzne propise o abortusu i jača zaštitu žena: Peter Mađar o novim merama u okviru šireg paketa reformi usmerenih na ženska prava",
+  "Promenili su Ustav i proporcije zastave"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Mađarska najavljuje ukidanje pravila o abortusu i ratifikaciju Istanbulske konvencije"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

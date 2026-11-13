@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T16:31:09.719763+00:00",
- "updated": "2026-11-13T07:39:34.793761+00:00",
+ "updated": "2026-11-13T08:09:16.680226+00:00",
  "sources": [
   {
    "name": "N1",
@@ -115,6 +115,12 @@
    "url": "https://www.danas.rs/vesti/politika/izbori26/danas-konsultacije-pred-konstitutisanje-skupstine-srbije-novog-saziva/",
    "title": "Danas konsultacije pred konstitutisanje Skupštine Srbije novog saziva",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/danas-konsultacije-pred-konstitutisanje-skupstine-srbije-novog-saziva",
+   "title": "Danas konsultacije pred konstitutisanje Skupštine Srbije novog saziva",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -131,6 +137,7 @@
   "U Skupštini Srbije danas konsultacije uoči konstitutivne sednice",
   "U Skupštini Srbije danas konsultacije uoči konstitutivne sednice! Na dnevnom redu pet tačaka",
   "Danas konsultacije izbornih lista pred konstituisanje novog saziva parlamenta",
+  "Danas konsultacije pred konstitutisanje Skupštine Srbije novog saziva",
   "Danas konsultacije pred konstitutisanje Skupštine Srbije novog saziva"
  ],
  "author": "Redakcija Prestonice",
@@ -143,7 +150,7 @@
   "local": true,
   "alt": "Konsultacije pred konstitutivnu sednicu Skupštine Srbije sutra u podne"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-13T06:40:00.551823+00:00",
  "verzija": 3

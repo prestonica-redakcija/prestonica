@@ -29,17 +29,31 @@
  ],
  "importance": 5,
  "published": "2026-11-13T07:54:24.252839+00:00",
- "updated": "2026-11-13T07:54:24.252839+00:00",
+ "updated": "2026-11-13T08:09:16.680226+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/297419/glamocic-u-agrarnom-budzetu-sest-milijardi-isplaticemo-premije-za-mleko-i-tov-grla/vest",
    "title": "Glamočić: U agrarnom budžetu šest milijardi, isplatićemo premije za mleko i tov grla",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/glamocic-u-agrarnom-budzetu-ostalo-oko-sest-milijardi-isplaticemo-premije-za-mleko-i-tov-grla",
+   "title": "Glamočić: U agrarnom budžetu ostalo oko šest milijardi, isplatićemo premije za mleko i tov grla",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/poljoprivreda/1670682/sest-milijardi-dinara-poljoprivrednike-glamocic-najavio-isplate-mleko-tov-grla-cak-14-novih-javnih-poziva",
+   "title": "ŠEST MILIJARDI DINARA ZA POLjOPRIVREDNIKE: Glamočić najavio isplate za mleko i tov grla i čak 14 novih javnih poziva",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Glamočić: U agrarnom budžetu šest milijardi, isplatićemo premije za mleko i tov grla"
+  "Glamočić: U agrarnom budžetu šest milijardi, isplatićemo premije za mleko i tov grla",
+  "Glamočić: U agrarnom budžetu ostalo oko šest milijardi, isplatićemo premije za mleko i tov grla",
+  "ŠEST MILIJARDI DINARA ZA POLjOPRIVREDNIKE: Glamočić najavio isplate za mleko i tov grla i čak 14 novih javnih poziva"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Glamočić: u agrarnom budžetu ostalo oko šest milijardi dinara za direktne podsticaje"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
