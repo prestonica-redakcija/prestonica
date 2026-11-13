@@ -29,6 +29,8 @@ HELP = (
     "/istakni <deo naslova> stavlja vest u glavnu\n/tema <tema> prati temu 48h\n/status stanje\n"
     "/anketa Pitanje? | odgovor 1 | odgovor 2 | ... | 3d  pušta anketu na sajtu i na X-u (2 do 4 odgovora do 25 znakova, trajanje u danima)\n"
     "/ankete aktivne ankete\n"
+    "/anonimno <tekst i link> dodaje dojavu u rubriku Anonimno (može i uz fotografiju)\n"
+    "/anonimno_skini <deo teksta> uklanja dojavu\n"
     "Duži tekst ili fotografija sa opisom = autorski tekst."
 )
 
@@ -126,6 +128,15 @@ def handle_commands(tg: Telegram, msgs: list[dict], articles: list[dict], state:
                 from .ankete import active
                 act = active(state)
                 tg.reply("Aktivne ankete:\n" + "\n".join(f"- {p['pitanje']} (do {p['kraj'][:16].replace('T', ' ')} UTC)" for p in act) if act else "Nema aktivnih anketa.")
+            elif cmd == "/anonimno":
+                from . import anonimno
+                photo = tg.download_photo(m) if m.get("photo") else None
+                it = anonimno.dodaj(arg, photo)
+                tg.reply("Dodato u Anonimno, izlazi u sledećem osvežavanju." if it else "Format: /anonimno tekst dojave i link (može i uz fotografiju)")
+            elif cmd == "/anonimno_skini":
+                from . import anonimno
+                it = anonimno.ukloni(arg)
+                tg.reply("Uklonjeno iz Anonimno: " + (it["tekst"][:80] if it else "") if it else "Nisam našao dojavu: " + arg)
             elif cmd == "/status":
                 last = (state.get("runs") or [{}])[-1]
                 tg.reply(f"Poslednje osvežavanje: {last.get('vreme', '-')}\nNovih vesti: {last.get('novih', 0)}\n"

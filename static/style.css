@@ -903,3 +903,13 @@ mark{background:color-mix(in srgb,var(--gold) 30%,transparent);color:inherit;bor
 .m-ear-l,.m-ear-r{left:var(--ex,0px);right:auto;width:264px;justify-content:center;transform:translateX(-50%) scale(var(--es,1));transform-origin:50% 50%}
 .m-ear::after,.m-ear-r::after{left:50%;right:auto;transform:translateX(-50%)}
 }
+/* rubrika Anonimno: nezvanicne dojave, uvek sa oznakom Neprovereno */
+.an-list{display:grid;gap:16px;max-width:780px;margin:0 auto 56px}
+.an-card{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--ink);border-radius:14px;padding:18px 22px}
+.an-meta{display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin:0 0 12px;font:700 12px var(--sans);color:var(--ink-3)}
+.an-badge{background:var(--ink);color:var(--surface);padding:4px 10px;border-radius:999px;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase}
+.an-src{padding-left:10px;border-left:1px solid var(--line)}
+.an-card p{margin:0 0 10px;font:500 16.5px/1.6 var(--sans);color:var(--ink)}
+.an-img{display:block;width:100%;height:auto;border-radius:10px;margin:0 0 14px}
+.an-link{display:inline-block;margin-top:2px;font:800 13px var(--sans);color:var(--brand);text-decoration:none}
+.an-link:hover{text-decoration:underline}

@@ -185,6 +185,9 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
     base_ctx["anketa"] = poll_now
     base_ctx["ankete_api"] = api
     base_ctx["has_polls"] = bool(api and polls)
+    from . import anonimno
+    anon = anonimno.ucitaj()
+    base_ctx["has_anon"] = bool(anon)
 
     def render(tpl: str, path: str, **ctx):
         depth = path.count("/")
@@ -229,6 +232,9 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
         render("ankete.html", "ankete.html", polls=polls[:120], active="ankete", title="Ankete čitalaca")
     (out / "ankete.json").write_text(json.dumps([{"id": p["id"], "opcije": len(p["opcije"]), "kraj": p["kraj"]} for p in polls[:60]],
                                                 separators=(",", ":")), encoding="utf-8")
+    if anon:
+        anonimno.slike(out, anon)
+        render("anonimno.html", "anonimno.html", items=anon[:200], active="anonimno", title="Anonimno", noindex=True)
     render("search.html", "pretraga.html", active="pretraga", title="Pretraga", teme=teme)
     render("page.html", "o-nama.html", page="o-nama", active="", title="O nama")
     render("page.html", "impresum.html", page="impresum", active="", title="Impresum", imp=cfg.portal.get("impresum", {}))

@@ -74,6 +74,7 @@
       {% if has_videos %}<a class="nav-a {% if active == 'video' %}on{% endif %}" href="{{ root }}video.html">{% if live_now %}<span class="nav-live">UŽIVO</span>{% endif %}Video</a>{% endif %}
       {% if has_people %}<a class="nav-a {% if active == 'licnosti' %}on{% endif %}" href="{{ root }}licnosti.html">Ličnosti</a>{% endif %}
       {% if has_x %}<a class="nav-a {% if active == 'mreze' %}on{% endif %}" href="{{ root }}mreze.html">Mreže</a>{% endif %}
+      {% if has_anon %}<a class="nav-a {% if active == 'anonimno' %}on{% endif %}" href="{{ root }}anonimno.html">Anonimno</a>{% endif %}
       <a class="nav-a {% if active == 'najnovije' %}on{% endif %}" href="{{ root }}najnovije.html">Najnovije</a>
     </div>
   </nav>
