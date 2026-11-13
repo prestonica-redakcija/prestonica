@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T15:50:46.877768+00:00",
- "updated": "2026-11-13T15:50:46.877768+00:00",
+ "updated": "2026-11-13T17:05:05.351051+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,18 @@
    "url": "https://informer.rs/politika/vesti/1169495/blokaderi-informer-tv-eon-sbb",
    "title": "Čak su i blokaderi šokirani! Burno reagovali na premeštanje Informer TV na poziciju 402 - \"Po kom osnovu?\" (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1169634/slobodan-georgiev-informer-tv-kablovski-operateri",
+   "title": "Oglasio se i Georgiev! Evo šta je rekao o premeštanju Informer TV na poziciju 402",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Kratka istorija Informera za osnovnu školu",
-  "Čak su i blokaderi šokirani! Burno reagovali na premeštanje Informer TV na poziciju 402 - \"Po kom osnovu?\" (FOTO)"
+  "Čak su i blokaderi šokirani! Burno reagovali na premeštanje Informer TV na poziciju 402 - \"Po kom osnovu?\" (FOTO)",
+  "Oglasio se i Georgiev! Evo šta je rekao o premeštanju Informer TV na poziciju 402"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Yettel1_(cropped).jpg",
   "alt": "Informer TV premešten na kanal 402 kod SBB-a i Yettela, urednik tvrdi da je bez najave"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

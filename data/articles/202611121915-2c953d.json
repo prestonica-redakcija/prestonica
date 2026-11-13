@@ -28,7 +28,7 @@
  ],
  "importance": 7,
  "published": "2026-11-12T18:15:31.976665+00:00",
- "updated": "2026-11-13T10:23:10.475153+00:00",
+ "updated": "2026-11-13T17:05:05.351051+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -77,6 +77,12 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1670726/nis-zatrazio-naftu-drzavnih-rezervi-sta-ovo-znaci-vozace-srbiji",
    "title": "NIS ZATRAŽIO NAFTU IZ DRŽAVNIH REZERVI: Šta ovo znači za vozače u Srbiji?",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1670910/nis-robne-rezerve-nafta-vlada-srbije",
+   "title": "VLADA SRBIJE DONELA ODLUKU: Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -87,7 +93,8 @@
   "NIS zatražio korišćenje nafte iz državnih i dizela iz operativnih rezervi zbog oštećenja naftovoda JANAF",
   "NIS traži odobrenje za korišćenje nafte iz državnih rezervi zbog prekida rada naftovoda JANAF",
   "NIS traži odobrenje za korišćenje nafte iz državnih rezervi zbog prekida rada naftovoda JANAF",
-  "NIS ZATRAŽIO NAFTU IZ DRŽAVNIH REZERVI: Šta ovo znači za vozače u Srbiji?"
+  "NIS ZATRAŽIO NAFTU IZ DRŽAVNIH REZERVI: Šta ovo znači za vozače u Srbiji?",
+  "VLADA SRBIJE DONELA ODLUKU: Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -99,8 +106,8 @@
   "local": true,
   "alt": "NIS traži od države sirovu naftu i dizel iz rezervi zbog prekida isporuke preko JANAF-a"
  },
- "novo_od_pisanja": 0,
- "boost": 1.56,
+ "novo_od_pisanja": 1,
+ "boost": 1.6,
  "prepisano": "2026-11-13T10:23:10.475153+00:00",
  "verzija": 2
 }

@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T19:44:51.378298+00:00",
- "updated": "2026-11-12T19:44:51.378298+00:00",
+ "updated": "2026-11-13T17:05:05.351051+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -44,11 +44,18 @@
    "url": "https://nova.rs/vesti/hronika/stefanovic-udario-na-dolovac-i-vst/",
    "title": "Stefanović udario na Dolovac i VST: Tvrdi da godinama opstruišu rad najvećeg tužilaštva u Srbiji",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/nenad-stefanovic-branko-stamenkovic-tuzilastvo/",
+   "title": "Stefanović optužuje Vrhovno tužilaštvo za opstruisanje rada VJT, Stamenković tvrdi – nije bilo komunikacije među tužilaštvima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Nenad Stefanović: VJT godinama ima problem zbog opstrukcija Zagorke Dolovac i VST",
-  "Stefanović udario na Dolovac i VST: Tvrdi da godinama opstruišu rad najvećeg tužilaštva u Srbiji"
+  "Stefanović udario na Dolovac i VST: Tvrdi da godinama opstruišu rad najvećeg tužilaštva u Srbiji",
+  "Stefanović optužuje Vrhovno tužilaštvo za opstruisanje rada VJT, Stamenković tvrdi – nije bilo komunikacije među tužilaštvima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Nenad_Stefanovi%C4%87.jpg",
   "alt": "Stefanović tvrdi da Dolovac i VST godinama opstruišu popunjavanje Višeg tužilaštva"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

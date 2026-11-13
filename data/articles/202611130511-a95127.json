@@ -3,19 +3,19 @@
  "slug": "srednji-kurs-evra-danas-117-6203-dinara-dolar-106-1938-dinara",
  "kind": "vest",
  "section": "ekonomija",
- "headline": "Srednji kurs evra danas 117,6203 dinara, dolar 106,1938 dinara",
- "lead": "Zvanični srednji kurs dinara prema evru danas iznosi 117,6203, što je neznatna promena u odnosu na prethodno objavljeni kurs, objavila je Narodna banka Srbije. Dinar je slabiji i prema dolaru, čiji je srednji kurs 106,1938 dinara.",
+ "headline": "Srednji kurs evra u ponedeljak 117,6103 dinara, danas 117,6203",
+ "lead": "Narodna banka Srbije objavila je da će zvanični srednji kurs dinara za evro u ponedeljak iznositi 117,6103, što je neznatna promena u odnosu na petak. Danas je kurs 117,6203 dinara za evro, a 106,1938 dinara za dolar.",
  "body": [
-  "Prema podacima Narodne banke Srbije (NBS), koje prenosi Euronews Srbija, zvanični srednji kurs evra danas je 117,6203 dinara. Euronews navodi da je promena neznatna u odnosu na utorak.",
-  "Dinar je prema evru slabiji za 0,2 odsto nego pre mesec dana. Na godišnjem nivou slabiji je za 0,4 odsto, a od početka godine za 0,3 odsto.",
-  "Kurs dinara prema američkoj valuti iznosi 106,1938 za dolar. Euronews Srbija navodi da je dinar prema dolaru danas slabiji za 1,3 odsto.",
-  "U odnosu na pre mesec dana dinar je prema dolaru slabiji za 1,1 odsto, a na godišnjem nivou za 4,7 odsto. Od početka godine slabiji je za 5,9 odsto, prenosi Euronews Srbija."
+  "Kako prenosi Tanjug, NBS je danas saopštila da će srednji kurs evra u ponedeljak biti 117,6103 dinara, što je neznatna promena u odnosu na petak. U odnosu na današnji kurs od 117,6203 dinara, razlika iznosi oko jedan para.",
+  "Prema podacima NBS koje prenosi Euronews Srbija, današnji srednji kurs evra je 117,6203 dinara. Dinar je prema evru slabiji za 0,2 odsto nego pre mesec dana, za 0,4 odsto na godišnjem nivou i za 0,3 odsto od početka godine. Tanjug navodi iste procente i za ponedeljak.",
+  "Indikativni kurs dinara prema dolaru, navodi Tanjug, neznatno je promenjen i za ponedeljak iznosi 106,3577 dinara za dolar. Današnji srednji kurs je 106,1938 dinara za dolar.",
+  "Euronews Srbija navodi da je dinar prema dolaru danas slabiji za 1,3 odsto. U odnosu na pre mesec dana slabiji je za 1,1 odsto, na godišnjem nivou za 4,7 odsto, a od početka godine za 5,9 odsto."
  ],
  "tags": [
   "kurs dinara",
-  "NBS",
   "evro",
   "dolar",
+  "Narodna banka Srbije",
   "devizni kurs"
  ],
  "people": [],
@@ -24,7 +24,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T04:11:09.682052+00:00",
- "updated": "2026-11-13T07:54:24.252839+00:00",
+ "updated": "2026-11-13T17:05:05.351051+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -49,13 +49,20 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1670679/dan-poceo-novim-kursom-dinar-oslabio-prema-dolaru-evo-koliki-srednji-kurs-evra",
    "title": "DAN POČEO SA NOVIM KURSOM: Dinar oslabio prema dolaru, evo koliki je srednji kurs evra",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/297589/srednji-kurs-dinara-za-evro-u-ponedeljak-1176103-dinara/vest",
+   "title": "Srednji kurs dinara za evro u ponedeljak 117,6103 dinara",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Kursna lista NBS: Evro gotovo nepromenjen, dolar danas vredi 106,19 dinara",
   "Ovo je današnji srednji kurs dinara za evro: 13. novembar",
   "Srednji kurs dinara za evro danas 117,6203 dinara, za dolar 106,3475",
-  "DAN POČEO SA NOVIM KURSOM: Dinar oslabio prema dolaru, evo koliki je srednji kurs evra"
+  "DAN POČEO SA NOVIM KURSOM: Dinar oslabio prema dolaru, evo koliki je srednji kurs evra",
+  "Srednji kurs dinara za evro u ponedeljak 117,6103 dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,8 @@
   "local": true,
   "alt": "Srednji kurs evra danas 117,6203 dinara, dolar 106,1938 dinara"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 0,
+ "boost": 1.32,
+ "prepisano": "2026-11-13T17:05:05.351051+00:00",
+ "verzija": 2
 }

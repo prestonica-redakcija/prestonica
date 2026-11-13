@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T09:49:14.445596+00:00",
- "updated": "2026-11-13T16:35:21.948288+00:00",
+ "updated": "2026-11-13T17:05:05.351051+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -208,6 +208,12 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/251975/alta-banka-od-ponedeljka-izdavanje-potvrda-za-isplatu-novca/vest",
    "title": "Imate novac u Alta banci, a nemate papire? Od ponedeljka počinje izdavanje ključnih potvrda za isplatu",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/297587/banka-postanska-stedionica-produzen-rad-zbog-isplate-depozita-alta-banke-termin-zakazalo-16450-klijenata/vest",
+   "title": "Banka Poštanska štedionica: Produžen rad zbog isplate depozita Alta banke, termin zakazalo 16.450 klijenata",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -240,7 +246,8 @@
   "14.500 građana već povuklo prvi potez: Evo do kada možete da tražite novac iz Alta banke",
   "Agencija za osiguranje depozita: Od ponedeljka izdavanje potvrda o otvaranju računa u Alta banci u stečaju",
   "OGLASILA SE AGENCIJA ZA OSIGURANjE DEPOZITA: Od 16. novembra počinje izdavanje potvrda za isplatu deponenata Alta banke u stečaju",
-  "Imate novac u Alta banci, a nemate papire? Od ponedeljka počinje izdavanje ključnih potvrda za isplatu"
+  "Imate novac u Alta banci, a nemate papire? Od ponedeljka počinje izdavanje ključnih potvrda za isplatu",
+  "Banka Poštanska štedionica: Produžen rad zbog isplate depozita Alta banke, termin zakazalo 16.450 klijenata"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -252,7 +259,7 @@
   "local": true,
   "alt": "Za isplatu osiguranih depozita Alta banke prijavilo se 7.713 korisnika za 12 sati"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-13T08:39:01.965066+00:00",
  "verzija": 7

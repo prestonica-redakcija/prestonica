@@ -36,7 +36,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T11:18:27.564167+00:00",
- "updated": "2026-11-13T15:35:52.267094+00:00",
+ "updated": "2026-11-13T17:05:05.351051+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -67,6 +67,12 @@
    "url": "https://www.tanjug.rs/svet/politika/297555/zelenski-tempo-obnove-nakon-ruskih-udara-u-ukrajini-je-prespor/vest",
    "title": "Zelenski: Tempo obnove nakon ruskih udara u Ukrajini je prespor",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10161545/zelenski-tempo-obnove-posle-ruskih-udara-u-ukrajini-je-prespor",
+   "title": "ZELENSKI: Tempo obnove posle ruskih udara u Ukrajini je prespor",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -74,7 +80,8 @@
   "Dramatično obraćanje Zelenskog: \"Ovo direktno pomaže Rusima da ubijaju više Ukrajinaca\"",
   "ZELENSKI PONOVO PRIJAVIO PROBLEM SA STARŠILDOM: \"Ovo pomaže Rusima da ubiju više Ukrajinaca i izvrše preciznije udare\"",
   "\"Ovo pomaže Rusima da ubijaju Ukrajince!\" Zelenski se požalio na ozbiljan problem, evo o čemu se radi",
-  "Zelenski: Tempo obnove nakon ruskih udara u Ukrajini je prespor"
+  "Zelenski: Tempo obnove nakon ruskih udara u Ukrajini je prespor",
+  "ZELENSKI: Tempo obnove posle ruskih udara u Ukrajini je prespor"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -87,6 +94,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg",
   "alt": "Zelenski: Staršild ponovo ograničen na 161 km/h, presretanje ruskih dronova otežano"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
