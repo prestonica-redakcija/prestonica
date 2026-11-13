@@ -2162,12 +2162,6 @@
  "fokus": [],
  "runs": [
   {
-   "vreme": "2026-11-12T12:34+00:00",
-   "novih": 6,
-   "ukupno": 436,
-   "sekundi": 132.6
-  },
-  {
    "vreme": "2026-11-12T12:50+00:00",
    "novih": 8,
    "ukupno": 444,
@@ -2520,6 +2514,12 @@
    "novih": 1,
    "ukupno": 651,
    "sekundi": 87.6
+  },
+  {
+   "vreme": "2026-11-13T03:27+00:00",
+   "novih": 0,
+   "ukupno": 651,
+   "sekundi": 55.4
   }
  ],
  "licnosti_foto": {
@@ -2669,6 +2669,33 @@
   }
  },
  "videos": [
+  {
+   "id": "wQJBRC6_zOk",
+   "title": "What will a female president mean for Germany and Europe?",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-13T03:00:00+00:00",
+   "thumb": "https://i.ytimg.com/vi/wQJBRC6_zOk/hqdefault.jpg",
+   "live": "none",
+   "desc": "A rare outbreak of cross-party unity has interrupted months of infighting surrounding Friedrich Merz’s embattled coalition in Berlin. His nomination of Ilse Aigner — a respected conservative from Bavaria — has united his own party and received support from the Social Democrats and the Greens. She is all but certain to become the country's first female president in January.\n\n\n\nA largely ceremonial role, the presidency of the Federal Republic represents the country abroad. The significance of a woman taking the highest office in the land has not gone unnoticed in other European capitals. In Berlin this week, Anne McElvoy talks to Gordon Repinski, chief political analyst for POLITICO, WELT and ",
+   "spektar": "centar",
+   "viewers": null,
+   "naslov": "Šta bi žena na čelu Nemačke značila za Nemačku i Evropu",
+   "opis": "U emisiji POLITICO Europe razgovara se o nominaciji Ilze Ajgner za predsednicu Nemačke. Prema opisu snimka, njena kandidatura je prekinula mesece unutrašnjih sukoba oko koalicije Fridriha Merca.",
+   "tekst": [
+    "Prema opisu snimka, retka saglasnost stranaka prekinula je višemesečne sukobe oko koalicije kancelara Fridriha Merca u Berlinu. Njegova nominacija Ilze Ajgner, uvažene konzervativke iz Bavarske, ujedinila je njegovu stranku, a podršku su joj dali i socijaldemokrate i Zeleni.",
+    "U opisu se navodi da je Ajgner gotovo izvesno prva žena predsednica zemlje, a funkciju bi preuzela u januaru. Predsedništvo je uglavnom ceremonijalna uloga u kojoj se država predstavlja u inostranstvu.",
+    "U emisiji Ana Mekelvoj razgovara sa Gordonom Repinskim, glavnim političkim analitičarem za POLITICO i WELT. Tema je i značaj koji izbor žene na najvišu funkciju ima u drugim evropskim prestonicama."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "Nemačka",
+    "Ilze Ajgner",
+    "Fridrih Merc",
+    "predsednički izbori",
+    "Evropa"
+   ],
+   "slug": "sta-bi-zena-na-celu-nemacke-znacila-za-nemacku-i-evropu-wqjbrc6-zok"
+  },
   {
    "id": "Dbg3Roo8TkY",
    "title": "Proces  protiv studenata bez dokaza",
@@ -4744,18 +4771,6 @@
    "skip": true
   },
   {
-   "id": "HVUXplfFpF8",
-   "title": "When your producer catches you out... | Westminster Insider",
-   "kanal": "POLITICO Europe",
-   "published": "2026-11-10T13:58:03+00:00",
-   "thumb": "https://i.ytimg.com/vi/HVUXplfFpF8/hqdefault.jpg",
-   "live": "none",
-   "desc": "Day-ta or Dah-ta? \n\nThe big questions being discussed on Westminster Insider... \n\nVisit our website: https://www.politico.eu/\n\n-------- Social Media --------\nFollow us on Twitter: https://twitter.com/POLITICOEurope | https://twitter.com/LivePOLITICO\nFollow us on Facebook: https://www.facebook.com/POLITICOeu\nFollow us on LinkedIn: https://linkedin.com/company/politico-europe/",
-   "spektar": "centar",
-   "viewers": null,
-   "skip": true
-  },
-  {
    "id": "371pbOuO1Cs",
    "title": "Erak: Kvalitetan proizvod će pronaći put do kupca, na tržištu ima mesta za sve • REGIONALNI PULS",
    "kanal": "Tanjug",
@@ -4973,7 +4988,7 @@
    ]
   }
  ],
- "_novi_snimci": false,
+ "_novi_snimci": true,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -5047,11 +5062,11 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2120953223146062007",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "parandilovicnls": {
     "since_id": "2120879796175679649",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "ininic": {
     "since_id": "2121015726131535915",
@@ -5067,47 +5082,47 @@
    },
    "dragandjilas": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "marinikatepic": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "bibislav": {
     "since_id": "2120600779786457390",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "savomanojlovic": {
     "since_id": "2120927384484634735",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "zdravkoponos": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "pavlegrbovic": {
     "since_id": "2120608783395086538",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "avucic": {
     "since_id": "2120795996108255688",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "anabrnabic": {
     "since_id": "2120834471561773137",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "milos_vucevic": {
     "since_id": "2120470083298279767",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "sns_srbija": {
     "since_id": "2120959169008476463",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "vlada_srbije": {
     "since_id": null,
@@ -5151,43 +5166,43 @@
    },
    "markodjuric": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "nstarovic": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "milenkojovanov": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "acasapic": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "borkostef": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "dobrinacelnik": {
     "since_id": "2120814843951239646",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "jeremic_vuk": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "boristadic58": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "srdjanmil037": {
     "since_id": "2120749869757305219",
@@ -5243,71 +5258,71 @@
    },
    "narodnipokrets": {
     "since_id": "2120601957350195572",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "direktnors": {
     "since_id": "2120982866498928775",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "crtars": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "veceivan": {
     "since_id": "2120866230462521507",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "repjoewilson": {
     "since_id": "2120984500146696436",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "jugoslavcosic": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "tvnova_s": {
     "since_id": "2120984176178475198",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "oljautisak": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "srdjan_nogo": {
     "since_id": "2120938654998630563",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "agrifblokira": {
     "since_id": null,
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "etfblokada": {
     "since_id": "2120930020059136372",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "nastraninaroda": {
     "since_id": "2121004802876355006",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "bcenzure": {
     "since_id": "2121007655355363625",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "bezstraha26279": {
     "since_id": "2120972707244507212",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    },
    "lazidetektor": {
     "since_id": "2121040223526093155",
-    "t": 1794538616.1941693
+    "t": 1794540418.1517398
    }
   },
   "posts": [
