@@ -527,34 +527,38 @@
   if (mq.addEventListener) mq.addEventListener("change", start);
 })();
 
-/* ---------- sirok ekran: bocna polja i usi se sami prilagodjavaju sirini, visini i zumu pregledaca ---------- */
+/* ---------- sirok ekran: dva jednaka okvira odmah ispod zaglavlja, usi poravnate iznad njih, sve simetricno ---------- */
 (function () {
   var g = document.querySelector(".gutters"), m = document.getElementById("mast"), de = document.documentElement;
   if (!g || !m || !window.matchMedia) return;
-  var mq = window.matchMedia("(min-width: 1680px)"), sides = g.querySelectorAll(".g-side"), q = 0;
+  var mq = window.matchMedia("(min-width: 1680px)"), L = g.querySelector(".g-l"), R = g.querySelector(".g-r");
+  var eL = m.querySelector(".m-ear-l"), eR = m.querySelector(".m-ear-r"), w = document.querySelector("header.mast ~ .wrap"), q = 0;
   function place() {
     q = 0;
-    if (!mq.matches) return;
-    var mb = Math.max(0, m.getBoundingClientRect().bottom), vh = window.innerHeight, gw = (de.clientWidth - 1240) / 2;
-    var px = Math.min(24, window.scrollY * 0.02), tiny = false;
-    var er = m.querySelector(".m-ear-r"), ew = (er && er.offsetWidth) || 260, es = Math.min(1.3, (gw - 72) / ew);
+    if (!mq.matches || !L || !R) return;
+    var cw = de.clientWidth, gw = (cw - 1240) / 2, mr = m.getBoundingClientRect(), mb = Math.max(0, mr.bottom), vh = window.innerHeight;
+    var fc = w && w.firstElementChild, ft = fc ? fc.getBoundingClientRect().top : mb + 24, top = Math.round(Math.max(mb + 16, ft));
+    var hR = R.offsetHeight || 1;
+    L.style.minHeight = hR + "px";
+    var h = Math.max(hR, L.offsetHeight), sc = Math.min((gw - 64) / 360, (vh - mb - 44) / h, 1.3), tiny = sc < 0.58;
+    sc = Math.max(sc, 0.58);
+    var ax = gw + 16 - 56 - 180 * sc;
+    L.style.setProperty("--gs", sc.toFixed(3));
+    R.style.setProperty("--gs", sc.toFixed(3));
+    L.style.left = Math.round(ax) + "px";
+    R.style.left = Math.round(cw - ax) + "px";
+    L.style.top = R.style.top = top + "px";
+    g.classList.toggle("g-tiny", tiny);
+    var ex = tiny ? gw / 2 + 8 : ax, es = tiny ? Math.min(1.3, (gw - 24) / 264) : Math.min(1.3, sc, (ax - 12) / 132, (gw - ax) / 132);
     de.style.setProperty("--es", Math.max(es, 0.5).toFixed(3));
     m.classList.toggle("ear-off", es < 0.5);
-    for (var i = 0; i < sides.length; i++) {
-      var s = sides[i], h = s.offsetHeight || 1, sc = Math.min((gw - 48) / 320, (vh - mb - 36) / h, 1.35);
-      if (sc < 0.58) tiny = true;
-      sc = Math.max(sc, 0.58);
-      s.style.setProperty("--gs", sc.toFixed(3));
-      s.style.top = Math.round(mb + Math.max(18, (vh - mb - h * sc) / 2) + (i ? px * 0.5 : px)) + "px";
-      var cx = gw + 16 - 40 - 160 * sc;
-      s.style.left = Math.round(i ? de.clientWidth - cx : cx) + "px";
-    }
-    g.classList.toggle("g-tiny", tiny);
+    if (eL) eL.style.setProperty("--ex", Math.round(ex - mr.left) + "px");
+    if (eR) eR.style.setProperty("--ex", Math.round(cw - ex - mr.left) + "px");
   }
   function req() { if (!q) { q = 1; requestAnimationFrame(place); } }
   addEventListener("scroll", req, { passive: true });
   addEventListener("resize", req);
   if (mq.addEventListener) mq.addEventListener("change", req);
-  if (window.ResizeObserver) { var ro = new ResizeObserver(req); for (var n = 0; n < sides.length; n++) ro.observe(sides[n]); }
+  if (window.ResizeObserver) new ResizeObserver(req).observe(R);
   place(); setTimeout(place, 700);
 })();
