@@ -2254,18 +2254,25 @@
   "https://nova.rs/magazin/lifestyle/drzava-sa-najvisim-platama-u-evropi-ocajnicki-trazi-radnike-zarade-dostizu-i-7000-evra-mesecno/": "2026-11-13T07:24:40.418171+00:00",
   "https://www.danas.rs/zivot/drzava-sa-najvisim-platama-u-evropi-trazi-radnike-zarada-moze-da-dostigne-i-7-000-evra-mesecno/": "2026-11-13T07:24:40.418171+00:00",
   "https://www.kurir.rs/stars/10160854/drama-u-zgradi-cedomira-jovanovica": "2026-11-13T07:24:40.418171+00:00",
-  "https://informer.rs/politika/vesti/1169427/srdjan-crnjanski-ljubica-oparnica-blokaderi": "2026-11-13T07:24:40.418171+00:00"
+  "https://informer.rs/politika/vesti/1169427/srdjan-crnjanski-ljubica-oparnica-blokaderi": "2026-11-13T07:24:40.418171+00:00",
+  "https://www.b92.net/info/svet/284554/kris-van-holen-najavio-kandidaturu-za-lidera-demokrata-u-senatu/vest": "2026-11-13T07:39:34.793761+00:00",
+  "https://www.telegraf.rs/vesti/svet/4432167-tramp-pozvao-senat-da-odobri-dodatnih-350-milijardi-dolara-pentagonu-sada-je-trenutak": "2026-11-13T07:39:34.793761+00:00",
+  "https://www.b92.net/info/svet/284564/donald-tramp-trazi-od-senata-dodatni-novac-za-pentagon/vest": "2026-11-13T07:39:34.793761+00:00",
+  "https://biznis.telegraf.rs/info-biz/4432198-ovo-je-danasnji-srednji-kurs-dinara-za-evro-13-novembar": "2026-11-13T07:39:34.793761+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4432187-vec-pljusti-u-ovim-predelima-srbije-evo-ko-je-sledeci-na-udaru-sledi-veoma-burna-promena-vremena": "2026-11-13T07:39:34.793761+00:00",
+  "https://www.danas.rs/vesti/politika/izbori26/danas-konsultacije-pred-konstitutisanje-skupstine-srbije-novog-saziva/": "2026-11-13T07:39:34.793761+00:00",
+  "https://www.danas.rs/vesti/politika/nis-moj-grad-investitori-ne-beze-iz-srbije-zbog-promene-vlasti/": "2026-11-13T07:39:34.793761+00:00",
+  "https://www.danas.rs/vesti/politika/milo-djukanovic-vlada-srbije-ili-srba-u-regionu/": "2026-11-13T07:39:34.793761+00:00",
+  "https://www.tanjug.rs/ekonomija/kompanije/297414/globalni-kvar-majkrosofta-milioni-korisnika-bez-pristupa-outlook-u-i-teams-u/vest": "2026-11-13T07:39:34.793761+00:00",
+  "https://www.kurir.rs/planeta/10160860/globalni-pad-majkrosofta-serveri-prestali-da-rade": "2026-11-13T07:39:34.793761+00:00",
+  "https://n1info.rs/vesti/djakovic-alta-banka-stednja-isplata-depozita-gradjanima/": "2026-11-13T07:39:34.793761+00:00",
+  "https://www.kurir.rs/region/bosna-i-hercegovina/10160866/pucnjava-u-sarajevu-muskarac-ubijen-ispred-kafica": "2026-11-13T07:39:34.793761+00:00",
+  "https://n1info.rs/region/pucnjava-ispred-kafane-u-sarajevu-ubijen-muskarac/": "2026-11-13T07:39:34.793761+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-12T16:48+00:00",
-   "novih": 6,
-   "ukupno": 544,
-   "sekundi": 161.4
-  },
   {
    "vreme": "2026-11-12T17:05+00:00",
    "novih": 7,
@@ -2619,6 +2626,12 @@
    "novih": 2,
    "ukupno": 680,
    "sekundi": 89.3
+  },
+  {
+   "vreme": "2026-11-13T07:41+00:00",
+   "novih": 5,
+   "ukupno": 685,
+   "sekundi": 119.0
   }
  ],
  "licnosti_foto": {
@@ -5163,15 +5176,15 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2120953223146062007",
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "parandilovicnls": {
     "since_id": "2120879796175679649",
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "ininic": {
-    "since_id": "2121015726131535915",
-    "t": 1794553063.6025863
+    "since_id": "2121145923421999362",
+    "t": 1794555658.6954458
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -5179,59 +5192,59 @@
    },
    "sviublokade_fdu": {
     "since_id": "2120560395492495772",
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "dragandjilas": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "marinikatepic": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "bibislav": {
     "since_id": "2120600779786457390",
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "savomanojlovic": {
     "since_id": "2120927384484634735",
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "zdravkoponos": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "pavlegrbovic": {
     "since_id": "2120608783395086538",
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "avucic": {
     "since_id": "2120795996108255688",
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "anabrnabic": {
     "since_id": "2120834471561773137",
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "milos_vucevic": {
     "since_id": "2120470083298279767",
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "sns_srbija": {
     "since_id": "2120959169008476463",
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "studentblokade": {
     "since_id": "2120988605036286437",
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -5267,39 +5280,39 @@
    },
    "markodjuric": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "nstarovic": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "milenkojovanov": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "acasapic": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "borkostef": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "dobrinacelnik": {
     "since_id": "2120814843951239646",
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "jeremic_vuk": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "boristadic58": {
     "since_id": null,
@@ -5307,59 +5320,59 @@
    },
    "srdjanmil037": {
     "since_id": "2120749869757305219",
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "zoranlutovac": {
     "since_id": "2120963250930221562",
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "pajticbojan": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "n_zelenovic": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "boskoobradovic": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "sasaradulovich": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "zaklina_prva": {
     "since_id": "2120990644974084444",
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "stevanoccrp": {
     "since_id": "2120980122807505008",
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "igorbrakus": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "radoholicar": {
     "since_id": null,
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "borakonj": {
     "since_id": "2121032262989066282",
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "narodnipokrets": {
     "since_id": "2120601957350195572",
-    "t": 1794553063.6025863
+    "t": 1794555658.6954458
    },
    "direktnors": {
     "since_id": "2120982866498928775",
@@ -5427,6 +5440,19 @@
    }
   },
   "posts": [
+   {
+    "id": "2121145923421999362",
+    "x": "INinic",
+    "ime": "Ivan Ninić",
+    "grupa": "aktivisti",
+    "uloga": "Advokat",
+    "text": "👀 https://t.co/nP8GAZkgDb",
+    "published": "2026-11-13T07:39:31.000+00:00",
+    "lajk": 1,
+    "prikazi": false,
+    "rubrika": "drustvo",
+    "tema": "Objava bez teksta, samo emoji i link"
+   },
    {
     "id": "2121135417994916294",
     "x": "NaStraniNaroda",
@@ -16086,6 +16112,286 @@
   "t:evrostat": {
    "t": 1794554727.6405232,
    "items": []
+  },
+  "t:nis moj grad": {
+   "t": 1794555597.4558132,
+   "items": []
+  },
+  "t:milo djukanovic": {
+   "t": 1794555616.1717575,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Secretary_Pompeo_Meets_President_Milo_Djukanovic_%2848840948633%29.jpg/1920px-Secretary_Pompeo_Meets_President_Milo_Djukanovic_%2848840948633%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3039,
+     "h": 2026,
+     "god": 2019,
+     "credit": "Wikimedia Commons / U.S. Department of State from United States / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Secretary_Pompeo_Meets_President_Milo_Djukanovic_(48840948633).jpg",
+     "naslov": "Secretary Pompeo Meets President Milo Djukanovic (48840948633).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Zbigniew_Rau%2C_Milo_%C4%90ukanovi%C4%87.jpg/1920px-Zbigniew_Rau%2C_Milo_%C4%90ukanovi%C4%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2000,
+     "h": 1333,
+     "god": 2022,
+     "credit": "Wikimedia Commons / Sebastian Indra / Ministerstwo Spraw Zagranicznych / CC BY 3.0 pl",
+     "link": "https://commons.wikimedia.org/wiki/File:Zbigniew_Rau,_Milo_%C4%90ukanovi%C4%87.jpg",
+     "naslov": "Zbigniew Rau, Milo Đukanović.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Mr._Houlin_Zhao%2C_Secretary-General%2C_ITU_with_H.E._Mr._Milo_Djukanovic%2C_President_of_Montenegro_%2834901974595%29.jpg/1920px-Mr._Houlin_Zhao%2C_Secretary-General%2C_ITU_with_H.E._Mr._Milo_Djukanovic%2C_President_of_Montenegro_%2834901974595%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3112,
+     "h": 2081,
+     "god": 2018,
+     "credit": "Wikimedia Commons / ITU Pictures / CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Mr._Houlin_Zhao,_Secretary-General,_ITU_with_H.E._Mr._Milo_Djukanovic,_President_of_Montenegro_(34901974595).jpg",
+     "naslov": "Mr. Houlin Zhao, Secretary-General, ITU with H.E. Mr. Milo Djukanovic, President of Montenegro (34901974595).jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Visit_of_Milo_%C4%90ukanovi%C4%87%2C_Montenegrin_Prime_Minister%2C_to_the_EC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1655,
+     "h": 2300,
+     "god": 2016,
+     "credit": "Wikimedia Commons / Etienne Ansotte / European Commission / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Visit_of_Milo_%C4%90ukanovi%C4%87,_Montenegrin_Prime_Minister,_to_the_EC.jpg",
+     "naslov": "Visit of Milo Đukanović, Montenegrin Prime Minister, to the EC.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Milo_%C4%90ukanovi%C4%87_%26_Jean-Claude_Juncker.jpg/1920px-Milo_%C4%90ukanovi%C4%87_%26_Jean-Claude_Juncker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4606,
+     "h": 3071,
+     "god": 2018,
+     "credit": "Wikimedia Commons / Etienne Ansotte / European Commission / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Milo_%C4%90ukanovi%C4%87_%26_Jean-Claude_Juncker.jpg",
+     "naslov": "Milo Đukanović & Jean-Claude Juncker.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Visit_of_Milo_%C4%90ukanovi%C4%87%2C_President_of_Montenegro%2C_to_the_EC_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1036,
+     "h": 1363,
+     "god": 2018,
+     "credit": "Wikimedia Commons / Etienne Ansotte / European Commission / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Visit_of_Milo_%C4%90ukanovi%C4%87,_President_of_Montenegro,_to_the_EC_(cropped).jpg",
+     "naslov": "Visit of Milo Đukanović, President of Montenegro, to the EC (cropped).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Milo_Djukanovic_with_Obamas.jpg/1920px-Milo_Djukanovic_with_Obamas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2500,
+     "h": 1667,
+     "god": 2009,
+     "credit": "Wikimedia Commons / Official White House Photo by Lawrence Jackson / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Milo_Djukanovic_with_Obamas.jpg",
+     "naslov": "Milo Djukanovic with Obamas.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Danilo_T%C3%BCrk_and_Milo_%C4%90ukanovi%C4%87_in_2010.jpg/1920px-Danilo_T%C3%BCrk_and_Milo_%C4%90ukanovi%C4%87_in_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 1988,
+     "h": 1475,
+     "god": 2010,
+     "credit": "Wikimedia Commons / UKOM (foto: Stanko Gruden/STA) / CC BY 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Danilo_T%C3%BCrk_and_Milo_%C4%90ukanovi%C4%87_in_2010.jpg",
+     "naslov": "Danilo Türk and Milo Đukanović in 2010.jpg"
+    }
+   ]
+  },
+  "t:postanska stedionica": {
+   "t": 1794555640.4036012,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Po%C5%A1tanska_%C5%A1tedionica_-_panoramio.jpg/1920px-Po%C5%A1tanska_%C5%A1tedionica_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4288,
+     "h": 3216,
+     "god": 2013,
+     "credit": "Wikimedia Commons / Mister No / CC BY 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Po%C5%A1tanska_%C5%A1tedionica_-_panoramio.jpg",
+     "naslov": "Poštanska štedionica - panoramio.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Banka_po%C5%A1tanska_%C5%A1tedionica%2C_Pan%C4%8Devo.jpg/1920px-Banka_po%C5%A1tanska_%C5%A1tedionica%2C_Pan%C4%8Devo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 4608,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Mickey Mystique / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banka_po%C5%A1tanska_%C5%A1tedionica,_Pan%C4%8Devo.jpg",
+     "naslov": "Banka poštanska štedionica, Pančevo.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Po%C5%A1tanska_%C5%A1tedionica_Pan%C4%8Devo.jpg/1920px-Po%C5%A1tanska_%C5%A1tedionica_Pan%C4%8Devo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2268,
+     "h": 4032,
+     "god": 2020,
+     "credit": "Wikimedia Commons / Vacant0 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Po%C5%A1tanska_%C5%A1tedionica_Pan%C4%8Devo.jpg",
+     "naslov": "Poštanska štedionica Pančevo.jpg"
+    }
+   ]
+  },
+  "t:sarajevo": {
+   "t": 1794555651.507003,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Sarajevo_City_Panorama.JPG/1920px-Sarajevo_City_Panorama.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2800,
+     "h": 1673,
+     "god": 2015,
+     "credit": "Wikimedia Commons / Julian Nyča / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sarajevo_City_Panorama.JPG",
+     "naslov": "Sarajevo City Panorama.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Sarajevo_Pride_Parade_Jun_2024_04.jpg/1920px-Sarajevo_Pride_Parade_Jun_2024_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6000,
+     "h": 4000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Glorydays.amna / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sarajevo_Pride_Parade_Jun_2024_04.jpg",
+     "naslov": "Sarajevo Pride Parade Jun 2024 04.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Sarajevo_sveu%C4%8Dili%C5%A1te.jpg/1920px-Sarajevo_sveu%C4%8Dili%C5%A1te.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2794,
+     "h": 2298,
+     "god": 2023,
+     "credit": "Wikimedia Commons / Irrmam / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sarajevo_sveu%C4%8Dili%C5%A1te.jpg",
+     "naslov": "Sarajevo sveučilište.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Promenada_Isto%C4%8Dno_Sarajevo.jpg/1920px-Promenada_Isto%C4%8Dno_Sarajevo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4000,
+     "h": 3000,
+     "god": 2026,
+     "credit": "Wikimedia Commons / Temidar / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Promenada_Isto%C4%8Dno_Sarajevo.jpg",
+     "naslov": "Promenada Istočno Sarajevo.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Sarajevo_Pride_Parade_Jun_2024_14.jpg/1920px-Sarajevo_Pride_Parade_Jun_2024_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4000,
+     "h": 6000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Glorydays.amna / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sarajevo_Pride_Parade_Jun_2024_14.jpg",
+     "naslov": "Sarajevo Pride Parade Jun 2024 14.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Sarajevo_maj_2020.jpg/1920px-Sarajevo_maj_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2000,
+     "h": 2000,
+     "god": 2023,
+     "credit": "Wikimedia Commons / Palapa / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sarajevo_maj_2020.jpg",
+     "naslov": "Sarajevo maj 2020.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Sarajevo_Panorama_2022.jpg/1920px-Sarajevo_Panorama_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4032,
+     "h": 2268,
+     "god": 2022,
+     "credit": "Wikimedia Commons / User:Felky / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sarajevo_Panorama_2022.jpg",
+     "naslov": "Sarajevo Panorama 2022.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Tuzla_-_Anti_Sarajevo_graffiti_%282019%29.jpg/1920px-Tuzla_-_Anti_Sarajevo_graffiti_%282019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4032,
+     "h": 3016,
+     "god": 2019,
+     "credit": "Wikimedia Commons / Sebleouf / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Tuzla_-_Anti_Sarajevo_graffiti_(2019).jpg",
+     "naslov": "Tuzla - Anti Sarajevo graffiti (2019).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Sarajevo_Pride_Parade_Jun_2024_19.jpg/1920px-Sarajevo_Pride_Parade_Jun_2024_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6000,
+     "h": 4000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Glorydays.amna / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sarajevo_Pride_Parade_Jun_2024_19.jpg",
+     "naslov": "Sarajevo Pride Parade Jun 2024 19.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Sarajevo_in_1878_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1200,
+     "h": 722,
+     "god": 0,
+     "credit": "Wikimedia Commons / Josef Löwy / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Sarajevo_in_1878_(2).jpg",
+     "naslov": "Sarajevo in 1878 (2).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sarajevo_Historic_View.jpg/1920px-Sarajevo_Historic_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2488,
+     "h": 1768,
+     "god": 1900,
+     "credit": "Wikimedia Commons / Julius von Háry (picture) / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Sarajevo_Historic_View.jpg",
+     "naslov": "Sarajevo Historic View.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Sarajcvo-ie-sarajevo-from-the-north-bosnia-austro-hungary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1024,
+     "h": 756,
+     "god": 0,
+     "credit": "Wikimedia Commons / Library of Congress / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sarajcvo-ie-sarajevo-from-the-north-bosnia-austro-hungary.jpg",
+     "naslov": "Sarajcvo-ie-sarajevo-from-the-north-bosnia-austro-hungary.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Postcard_for_the_assassination_of_Archduke_Franz_Ferdinand_in_Sarajevo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1000,
+     "h": 640,
+     "god": 1914,
+     "credit": "Wikimedia Commons / Walter Tausch / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Postcard_for_the_assassination_of_Archduke_Franz_Ferdinand_in_Sarajevo.jpg",
+     "naslov": "Postcard for the assassination of Archduke Franz Ferdinand in Sarajevo.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Sarajevo_Pride_Parade_Jun_2024_20.jpg/1920px-Sarajevo_Pride_Parade_Jun_2024_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3422,
+     "h": 3539,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Glorydays.amna / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sarajevo_Pride_Parade_Jun_2024_20.jpg",
+     "naslov": "Sarajevo Pride Parade Jun 2024 20.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Sarajevo_%E2%80%93_View_to_the_east.jpg/1920px-Sarajevo_%E2%80%93_View_to_the_east.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4665,
+     "h": 3110,
+     "god": 2015,
+     "credit": "Wikimedia Commons / Julian Nyča / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sarajevo_%E2%80%93_View_to_the_east.jpg",
+     "naslov": "Sarajevo – View to the east.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Higijenski_zavod_Sarajevo.jpg/1920px-Higijenski_zavod_Sarajevo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4000,
+     "h": 3000,
+     "god": 2021,
+     "credit": "Wikimedia Commons / A81t / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Higijenski_zavod_Sarajevo.jpg",
+     "naslov": "Higijenski zavod Sarajevo.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Trg_Isto%C4%8Dno_Sarajevo.jpg/1920px-Trg_Isto%C4%8Dno_Sarajevo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4000,
+     "h": 3000,
+     "god": 2026,
+     "credit": "Wikimedia Commons / Temidar / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Trg_Isto%C4%8Dno_Sarajevo.jpg",
+     "naslov": "Trg Istočno Sarajevo.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Sarajevo_Pride_Parade_Jun_2024_18.jpg/1920px-Sarajevo_Pride_Parade_Jun_2024_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4000,
+     "h": 6000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Glorydays.amna / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sarajevo_Pride_Parade_Jun_2024_18.jpg",
+     "naslov": "Sarajevo Pride Parade Jun 2024 18.jpg"
+    }
+   ]
   }
  },
  "x_objave": {
@@ -16139,7 +16445,9 @@
    "202611130655-7f62b2",
    "202611130725-f89dcd",
    "202611130755-3e6fca",
-   "202611130755-58a51a"
+   "202611130755-58a51a",
+   "202611130809-982de1",
+   "202611130755-f1a750"
   ],
   "istorija": [
    {
@@ -16434,6 +16742,18 @@
     "t": 1794554753.552619,
     "id": "202611130755-58a51a",
     "x": "2121142490816290828",
+    "link": true
+   },
+   {
+    "t": 1794555664.2006624,
+    "id": "202611130809-982de1",
+    "x": "2121146310371774879",
+    "link": true
+   },
+   {
+    "t": 1794555666.4445105,
+    "id": "202611130755-f1a750",
+    "x": "2121146319758622864",
     "link": true
    }
   ],

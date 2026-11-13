@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T06:35:39.319205+00:00",
- "updated": "2026-11-13T07:09:55.600981+00:00",
+ "updated": "2026-11-13T07:39:34.793761+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -181,6 +181,12 @@
    "url": "https://www.b92.net/info/svet/284554/van-holen-najavio-kandidaturu-za-lidera-demokrata-u-senatu/vest",
    "title": "Ovo je novi lider demokrata?",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/284554/kris-van-holen-najavio-kandidaturu-za-lidera-demokrata-u-senatu/vest",
+   "title": "Ovo je novi lider demokrata? VIDEO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -208,7 +214,8 @@
   "TRAMP SE OGLASIO POSLE HUANGOVE OSTAVKE: Ovo je njegov predlog za novog direktora Nvidije",
   "Afera koja trese Nvidiju dobija novi nastavak: Džensen Huang bio u vezi sa još jednom ženom?",
   "Rojters: Huang imao \"intiman odnos\" sa još jednom zaposlenom u kompaniji Nvidia",
-  "Ovo je novi lider demokrata?"
+  "Ovo je novi lider demokrata?",
+  "Ovo je novi lider demokrata? VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -220,7 +227,7 @@
   "local": true,
   "alt": "Volstrit džornal: upravni odbor Nvidije mogao bi da razmotri smenu Džensena Huanga"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-12T19:15:03.989954+00:00",
  "verzija": 5
