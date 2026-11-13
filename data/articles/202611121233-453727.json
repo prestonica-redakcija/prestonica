@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-12T11:33:23.422839+00:00",
- "updated": "2026-11-12T15:46:35.631807+00:00",
+ "updated": "2026-11-13T10:23:10.475153+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -50,13 +50,20 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/297288/nbs-na-rast-inflacije-u-oktobru-od-44-odsto-uticale-cene-hrane-i-naftnih-derivata/vest",
    "title": "NBS: Na rast inflacije u oktobru od 4,4 odsto uticale cene hrane i naftnih derivata",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/region/vesti/284422/ubrzala-inflacija-u-crnoj-gori-najvisa-za-tri-godine/vest",
+   "title": "Ubrzala inflacija u Crnoj Gori: Najviša za tri godine",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "INFLACIJA U CRNOJ GORI UBRZALA: Najviši nivo za poslednje tri godine",
   "Inflacija u Crnoj Gori dostigla trogodišnji maksimum",
   "Zaoštrava se rast cena, inflacija u oktobru 4,4 odsto",
-  "NBS: Na rast inflacije u oktobru od 4,4 odsto uticale cene hrane i naftnih derivata"
+  "NBS: Na rast inflacije u oktobru od 4,4 odsto uticale cene hrane i naftnih derivata",
+  "Ubrzala inflacija u Crnoj Gori: Najviša za tri godine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "local": true,
   "alt": "Inflacija u Crnoj Gori u oktobru 5,9 odsto, najviša u poslednje tri godine"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

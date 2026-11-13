@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T06:55:05.526438+00:00",
- "updated": "2026-11-13T10:08:15.452290+00:00",
+ "updated": "2026-11-13T10:23:10.475153+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -74,6 +74,12 @@
    "url": "https://www.euronews.rs/svet/fokus/251888/microsoft-365-globalni-prekid-rada-pogodeni-outlook-i-teams/vest",
    "title": "Microsoft u globalnom prekidu rada: Odbačene sumnje na sajber-napad, problem potpuno druge prirode",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/ai/10161020/problemi-sa-microsoft-servisima-pogodili-i-chatgpt",
+   "title": "Tehnološka apokalipsa širom sveta: Padom Microsofta pao i ChatGPT, oglasili se iz kompanije - evo šta se dešava",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -83,7 +89,8 @@
   "Majkrosoft pokušava da reši globalni prekid rada Outlooka i Teamsa, ali priznaje da popravke ne idu \"kako se očekivalo\"",
   "Microsoft servisi pali širom sveta: Problemi pogodili čak i ChatGPT",
   "Globalni kolaps Majkrosofta, otkriveno šta je pošlo po zlu: Pogođeni ChatGPT, državne službe i milioni korisnika",
-  "Microsoft u globalnom prekidu rada: Odbačene sumnje na sajber-napad, problem potpuno druge prirode"
+  "Microsoft u globalnom prekidu rada: Odbačene sumnje na sajber-napad, problem potpuno druge prirode",
+  "Tehnološka apokalipsa širom sveta: Padom Microsofta pao i ChatGPT, oglasili se iz kompanije - evo šta se dešava"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -96,8 +103,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg",
   "alt": "Veliki prekid u radu Microsofta: Outlook i Teams satima nedostupni širom sveta"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-13T09:53:25.553445+00:00",
  "verzija": 2
 }

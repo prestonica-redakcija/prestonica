@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T06:25:04.737283+00:00",
- "updated": "2026-11-13T06:55:05.526438+00:00",
+ "updated": "2026-11-13T10:23:10.475153+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -39,11 +39,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4432168-fbi-zaplenile-kriptovalute-vredne-12-milijarde-dolara-ukradene-sa-platforme-binance",
    "title": "FBI: Zaplenile kriptovalute vredne 1,2 milijarde dolara ukradene sa platforme Binance",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/251867/fbi-zaplenio-12-milijarde-dolara-ukradenih-sa-binancea/vest",
+   "title": "FBI zaplenio više od 1,2 milijarde dolara u kriptovalutama ukradenim sa platforme \"Binance\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "FBI: Zaplenjene kriptovalute vredne 1,2 milijarde dolara, ukradene sa platforme Binance",
-  "FBI: Zaplenile kriptovalute vredne 1,2 milijarde dolara ukradene sa platforme Binance"
+  "FBI: Zaplenile kriptovalute vredne 1,2 milijarde dolara ukradene sa platforme Binance",
+  "FBI zaplenio više od 1,2 milijarde dolara u kriptovalutama ukradenim sa platforme \"Binance\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,6 +63,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Binance_and_Zhao_Chemgpeng_guilty_pleas_press_conference.jpg",
   "alt": "Američke vlasti zaplenile kriptovalute vredne 1,2 milijarde dolara ukradene sa Binance"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T11:33:23.422839+00:00",
- "updated": "2026-11-13T10:08:15.452290+00:00",
+ "updated": "2026-11-13T10:23:10.475153+00:00",
  "sources": [
   {
    "name": "N1",
@@ -57,12 +57,19 @@
    "url": "https://www.danas.rs/vesti/drustvo/sapicev-advokat-sudski-vestak/",
    "title": "Šapićev advokat demantovao Kreni-Promeni o nalazu sudskog veštaka",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/sapicev-advokat-demantovao-kreni-promeni-o-nalazu-sudskog-vestaka/",
+   "title": "Šapićev advokat demantovao Kreni-Promeni o nalazu sudskog veštaka",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Kreni-promeni: Sudski veštak potvrdio da je Šapić naneo teške telesne povrede Tanji Mićić",
   "Kreni-Promeni: Sudski veštak potvrdio da je Šapić naneo teške telesne povrede Tanji Mićić",
   "Kreni-Promeni: Sudski veštak potvrdio da je Šapić naneo teške telesne povrede našoj odbornici",
+  "Šapićev advokat demantovao Kreni-Promeni o nalazu sudskog veštaka",
   "Šapićev advokat demantovao Kreni-Promeni o nalazu sudskog veštaka"
  ],
  "author": "Redakcija Prestonice",
@@ -76,6 +83,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Aleksandar_%C5%A0api%C4%87_2024.jpg",
   "alt": "Kreni-Promeni tvrdi da je veštak potvrdio teške telesne povrede Tanje Mićić"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
