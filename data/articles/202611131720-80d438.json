@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T16:20:29.263638+00:00",
- "updated": "2026-11-13T18:19:36.713290+00:00",
+ "updated": "2026-11-13T18:49:24.929160+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -70,6 +70,18 @@
    "url": "https://n1info.rs/vesti/dozivotni-zatvor-za-ubistvo-starijeg-zatvorenika-u-kpz-padinska-skela-saucesnicima-po-20-godina/",
    "title": "Doživotni zatvor za ubistvo starijeg zatvorenika u KPZ \"Padinska skela\", saučesnicima po 20 godina",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/apelacioni-sud-preinacio-presudu-i-odredio-dozivotni-zatvor-za-ubistvo-u-padinskoj-skeli/",
+   "title": "Apelacioni sud preinačio presudu i odredio doživotni zatvor za ubistvo u Padinskoj skeli",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/danima-tukli-i-mucili-penzionera-u-zatvoru-skela-dok-nije-umro-dozivotna-robija-ubici-saucesnicima-po-20-godina/",
+   "title": "Danima tukli i mučili penzionera u zatvoru \"Skela\" dok nije umro: Doživotna robija ubici, saučesnicima po 20 godina",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -78,7 +90,9 @@
   "Za ubistvo muškarca u zatvoru Petrović osuđen na doživotnu, dvojici povećana kazna",
   "Apelacioni sud preinačio presudu za ubistvo penzionera u Padinskoj skeli: Doživotni zatvor Petroviću, dvojici saučesnika po 20 godina",
   "Doživotni zatvor za ubistvo starijeg zatvorenika u KPZ \"Padinska skela\", saučesnicima po 20 godina",
-  "Doživotni zatvor za ubistvo starijeg zatvorenika u KPZ \"Padinska skela\", saučesnicima po 20 godina"
+  "Doživotni zatvor za ubistvo starijeg zatvorenika u KPZ \"Padinska skela\", saučesnicima po 20 godina",
+  "Apelacioni sud preinačio presudu i odredio doživotni zatvor za ubistvo u Padinskoj skeli",
+  "Danima tukli i mučili penzionera u zatvoru \"Skela\" dok nije umro: Doživotna robija ubici, saučesnicima po 20 godina"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -90,8 +104,8 @@
   "local": true,
   "alt": "Doživotni zatvor za ubistvo penzionera u Padinskoj skeli, saopštio Apelacioni sud"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.56,
  "prepisano": "2026-11-13T18:19:36.713290+00:00",
  "verzija": 2
 }
