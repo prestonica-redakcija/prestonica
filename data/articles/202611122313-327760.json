@@ -32,17 +32,24 @@
  ],
  "importance": 6,
  "published": "2026-11-12T22:13:42.855898+00:00",
- "updated": "2026-11-12T22:13:42.855898+00:00",
+ "updated": "2026-11-13T12:51:59.889369+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/english/news/student-list-mps-meet-russian-ambassador-senior-us-diplomat/",
    "title": "Student List MPs meet Russian Ambassador, senior US diplomat",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/english/4432332-representatives-of-student-list-meet-with-russian-ambassador",
+   "title": "Representatives of Student List meet with Russian ambassador",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Student List MPs meet Russian Ambassador, senior US diplomat"
+  "Student List MPs meet Russian Ambassador, senior US diplomat",
+  "Representatives of Student List meet with Russian ambassador"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Solar_observation_during_the_Regional_Astronomy_Camp_in_Brod,_Dragash,_Kosovo_03.jpg",
   "alt": "Predstavnici Studentske liste sastali se sa ruskim ambasadorom i američkim diplomatom"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

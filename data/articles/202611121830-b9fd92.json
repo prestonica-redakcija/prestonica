@@ -31,17 +31,24 @@
  ],
  "importance": 7,
  "published": "2026-11-12T17:30:48.751557+00:00",
- "updated": "2026-11-12T17:30:48.751557+00:00",
+ "updated": "2026-11-13T12:51:59.889369+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1169324/vucicevic-hapsenje-jasmina-vojinovic-smederevo",
    "title": "\"Traže bilo šta da se svete\": Vučićević o hapšenju Jasmine Vojinović - Otkriveni detalji slučaja koji je potresao Smederevo (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1169557/aleksandar-vucic-hapsenje-gradonacelnica-smedereva",
+   "title": "\"Plaše se moje slike!\" Vučić otkrio šta se krije iza hapšenja gradonačelnice Smedereva",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "\"Traže bilo šta da se svete\": Vučićević o hapšenju Jasmine Vojinović - Otkriveni detalji slučaja koji je potresao Smederevo (VIDEO)"
+  "\"Traže bilo šta da se svete\": Vučićević o hapšenju Jasmine Vojinović - Otkriveni detalji slučaja koji je potresao Smederevo (VIDEO)",
+  "\"Plaše se moje slike!\" Vučić otkrio šta se krije iza hapšenja gradonačelnice Smedereva"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Smederevo_city_administration.JPG",
   "alt": "Uhapšena gradonačelnica Smedereva zbog deponije, Vučićević to naziva odmazdom"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

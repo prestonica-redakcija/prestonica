@@ -24,7 +24,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T12:22:12.455840+00:00",
- "updated": "2026-11-13T12:37:08.947386+00:00",
+ "updated": "2026-11-13T12:51:59.889369+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -49,13 +49,20 @@
    "url": "https://n1info.rs/vesti/napali-muskarca-u-parku-u-nisu-prislonili-mu-noz-na-vrat-i-oteli-16000-dinara-i-mobilni-telefon/",
    "title": "Napali muškarca u parku u Nišu - prislonili mu nož na vrat i oteli 16.000 dinara i mobilni telefon",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/297509/policija-u-nisu-uhapsila-dve-osobe-osumnjicene-za-razbojnistvo/vest",
+   "title": "Policija u Nišu uhapsila dve osobe osumnjičene za razbojništvo",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Prislonili muškarcu nož na vrat, pa mu uzeli novac i telefon: Uhapšeni razbojnici iz Niša",
   "ŽRTVI PRISLONILI NOŽ NA VRAT ZBOG 16.000 DINARA: Uhapšeni opasni pljačkaši iz Niša, čoveka napali u parku!",
   "DRAMA U NIŠKOM PARKU: Muškarcu (62) prislonili nož na vrat zbog 16.000 dinara, policija im brzo ušla u trag",
-  "Napali muškarca u parku u Nišu - prislonili mu nož na vrat i oteli 16.000 dinara i mobilni telefon"
+  "Napali muškarca u parku u Nišu - prislonili mu nož na vrat i oteli 16.000 dinara i mobilni telefon",
+  "Policija u Nišu uhapsila dve osobe osumnjičene za razbojništvo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,6 @@
   "local": true,
   "alt": "U Nišu uhapšena dvojica osumnjičenih za razbojništvo u parku"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

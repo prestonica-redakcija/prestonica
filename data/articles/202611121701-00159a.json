@@ -35,7 +35,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T16:01:27.866828+00:00",
- "updated": "2026-11-13T10:08:15.452290+00:00",
+ "updated": "2026-11-13T12:51:59.889369+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -54,12 +54,19 @@
    "url": "https://nova.rs/zabava/sudbine/ovo-je-nazalost-hrvatska-nadstresnica-poznata-glumica-se-oglasila-nakon-jezivog-slucaja-smrti-sportiste/",
    "title": "\"Ovo je, nažalost, hrvatska 'nadstrešnica'\": Poznata glumica se oglasila nakon jezivog slučaja smrti sportiste",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/kultura/glumica-nakon-slucaja-koji-je-potresao-region/",
+   "title": "„Ovo je, nažalost, hrvatska nadstrešnica“: Poznata glumica se oglasila nakon slučaja koji je potresao region",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Kristian Periš: Smrt u psihijatrijskoj bolnici koja potresa Hrvatsku",
   "Novi detalji jezivog slučaja smrti sportiste u Hrvatskoj: Medicinski tehničar osumnjičen za ubistvo Periša ranije prijavljen zbog gušenja jastukom",
-  "\"Ovo je, nažalost, hrvatska 'nadstrešnica'\": Poznata glumica se oglasila nakon jezivog slučaja smrti sportiste"
+  "\"Ovo je, nažalost, hrvatska 'nadstrešnica'\": Poznata glumica se oglasila nakon jezivog slučaja smrti sportiste",
+  "„Ovo je, nažalost, hrvatska nadstrešnica“: Poznata glumica se oglasila nakon slučaja koji je potresao region"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,6 +79,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Mirogoj_Cemetery,_Zagreb,_1.11.2024.jpg",
   "alt": "Slučaj Periš: jedan od tehničara navodno ranije prijavljen zbog napada na pacijenta"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
