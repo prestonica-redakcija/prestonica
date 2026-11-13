@@ -22,7 +22,7 @@
  ],
  "importance": 2,
  "published": "2026-11-12T06:50:31.317140+00:00",
- "updated": "2026-11-12T08:49:27.967825+00:00",
+ "updated": "2026-11-13T09:23:38.730820+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -35,11 +35,18 @@
    "url": "https://www.kurir.rs/vesti/srbija/10159929/hitna-pomoc-u-kragujevcu-obavila-49-terenskih-intervencija-za-24-sata",
    "title": "HITNA POMOĆ U KRAGUJEVCU IMALA PUNE RUKE POSLA: Tokom 24 sata obavili 49 intervencija",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10160970/hitna-pomoc-u-kragujevcu-42-intervencije-u-24-sata",
+   "title": "Pune ruke posla za kragujevačke lekare: Obavili desetine intervencija za samo 24 sata – evo ko se najviše javljao za pomoć",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "BEOGRAĐANE JE OVO MUČILO NAJVIŠE: Evo zbog čega su tokom noći najčešće zvali lekare Hitne",
-  "HITNA POMOĆ U KRAGUJEVCU IMALA PUNE RUKE POSLA: Tokom 24 sata obavili 49 intervencija"
+  "HITNA POMOĆ U KRAGUJEVCU IMALA PUNE RUKE POSLA: Tokom 24 sata obavili 49 intervencija",
+  "Pune ruke posla za kragujevačke lekare: Obavili desetine intervencija za samo 24 sata – evo ko se najviše javljao za pomoć"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,6 +58,6 @@
   "local": true,
   "alt": "Hitna pomoć u Beogradu tokom noći imala 106 intervencija, najviše zbog problema sa disanjem"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

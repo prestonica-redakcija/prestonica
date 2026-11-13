@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T06:55:05.526438+00:00",
- "updated": "2026-11-13T06:55:05.526438+00:00",
+ "updated": "2026-11-13T09:23:38.730820+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -44,11 +44,18 @@
    "url": "https://nova.rs/it/majkrosoft-alati-ne-rade-sirom-sveta/",
    "title": "Majkrosoft alati ne rade širom sveta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10160962/problemi-sa-microsoft-servisima-outlook-teams-i-copilot",
+   "title": "Pao Ooutlook, problemi širom sveta: Microsoft ne uspeva da reši kvar, hiljade korisnika ostalo bez mejla",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Microsoft pao: Milioni korisnika širom sveta ostali bez Outlooka i Teamsa",
-  "Majkrosoft alati ne rade širom sveta"
+  "Majkrosoft alati ne rade širom sveta",
+  "Pao Ooutlook, problemi širom sveta: Microsoft ne uspeva da reši kvar, hiljade korisnika ostalo bez mejla"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg",
   "alt": "Veliki prekid u radu Microsofta: Outlook i Teams satima nedostupni širom sveta"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
