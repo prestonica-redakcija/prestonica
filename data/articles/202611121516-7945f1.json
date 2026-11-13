@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T14:16:59.680947+00:00",
- "updated": "2026-11-12T16:01:27.866828+00:00",
+ "updated": "2026-11-13T00:12:57.506093+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -63,6 +63,12 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/251792/nbs-devizne-rezerve-na-kraju-oktobra-2916-milijardi-evra/vest",
    "title": "Kolike su devizne rezerve Srbije posle oktobra? Oglasila se NBS i otkrila sve detalje o kursu dinara",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4431682-ova-evropska-zemlja-sedi-na-zlatnom-bogatstvu-u-rezervama-cuva-vise-od-70-milijardi-evra",
+   "title": "Ova evropska zemlja sedi na zlatnom bogatstvu: U rezervama čuva više od 70 milijardi evra",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -71,7 +77,8 @@
   "NBS: Bruto devizne rezerve 29,1 milijardu evra - manje za 695,3 miliona evra",
   "Milijarde evra u zlatnim rezervama: Evo koliko tona čuva Narodna banka Srbije",
   "NBS: Devizne rezerve na kraju oktobra 29,1 milijardu evra, za 695,3 miliona manje nego u septembru",
-  "Kolike su devizne rezerve Srbije posle oktobra? Oglasila se NBS i otkrila sve detalje o kursu dinara"
+  "Kolike su devizne rezerve Srbije posle oktobra? Oglasila se NBS i otkrila sve detalje o kursu dinara",
+  "Ova evropska zemlja sedi na zlatnom bogatstvu: U rezervama čuva više od 70 milijardi evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -83,6 +90,6 @@
   "local": true,
   "alt": "Devizne rezerve NBS u oktobru manje za 695,3 miliona evra, na 29,16 milijardi"
  },
- "novo_od_pisanja": 5,
- "boost": 1.4
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }
