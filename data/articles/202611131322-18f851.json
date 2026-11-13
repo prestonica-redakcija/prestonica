@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T12:22:12.455840+00:00",
- "updated": "2026-11-13T18:19:36.713290+00:00",
+ "updated": "2026-11-13T21:48:15.560154+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -59,13 +59,20 @@
    "url": "https://www.kurir.rs/planeta/10161596/sukob-kaje-kalas-i-dmitrija-medvedeva",
    "title": "KAJA KALAS: Evropa da ne upadne u zamku Rusa! MEDVEDEV: Niko je ne želi na pregovorima zato što je jednostavno glupa!",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/284829/poljska-u-pregovorima-o-ukrajini/vest",
+   "title": "Formira se evropska petorka za pregovore o Ukrajini; Tusk upozorio Moskvu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Kalas: Evropa da ne upadne u zamku Rusa; Fon der Lajen: Evropa da bude deo pregovora",
   "\"Ako upadnemo u rusku zamku...\"",
   "KAJA KALAS UPOZORILA EVROPU NA PUTINOVE ZAMKE! Moskva ima opasan plan za pregovore, šefica diplomatije EU otkrila šta Rusi pokušavaju",
-  "KAJA KALAS: Evropa da ne upadne u zamku Rusa! MEDVEDEV: Niko je ne želi na pregovorima zato što je jednostavno glupa!"
+  "KAJA KALAS: Evropa da ne upadne u zamku Rusa! MEDVEDEV: Niko je ne želi na pregovorima zato što je jednostavno glupa!",
+  "Formira se evropska petorka za pregovore o Ukrajini; Tusk upozorio Moskvu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +84,6 @@
   "local": true,
   "alt": "Kalas upozorila da Evropa ne sme da upadne u ruske zamke na pregovorima o Ukrajini"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

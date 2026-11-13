@@ -25,17 +25,24 @@
  ],
  "importance": 4,
  "published": "2026-11-13T20:33:40.498022+00:00",
- "updated": "2026-11-13T20:33:40.498022+00:00",
+ "updated": "2026-11-13T21:48:15.560154+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10161683/identifikovani-ucesnici-tuce-maloletnika-u-pancevu",
    "title": "BRUTALNA TUČA MALOLETNIKA U PANČEVU: Identifikovana šestorica učesnika! Jedan mladić (16) teško povređen",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/297648/vjt-u-pancevu-identifikovano-sest-maloletnika-koji-su-ucestvovali-u-tuci-u-pancevu/vest",
+   "title": "VJT u Pančevu: Identifikovano šest maloletnika koji su učestvovali u tuči u Pančevu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "BRUTALNA TUČA MALOLETNIKA U PANČEVU: Identifikovana šestorica učesnika! Jedan mladić (16) teško povređen"
+  "BRUTALNA TUČA MALOLETNIKA U PANČEVU: Identifikovana šestorica učesnika! Jedan mladić (16) teško povređen",
+  "VJT u Pančevu: Identifikovano šest maloletnika koji su učestvovali u tuči u Pančevu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Javni_cas_Pancevo_2025-02-04_-_4.jpg",
   "alt": "Pančevo: identifikovano šest maloletnika osumnjičenih za učešće u tuči, jedan teško povređen"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

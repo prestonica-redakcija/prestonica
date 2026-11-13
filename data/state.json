@@ -3265,18 +3265,22 @@
   "https://www.b92.net/info/svet/284832/faa-obustavila-sve-letove-iz-sad-zbog-bezbednosnih-razloga/vest": "2026-11-13T21:33:05.259057+00:00",
   "https://www.euronews.rs/svet/fokus/252008/faa-obustavila-sva-poletanja-u-sad-iz-bezbednosnih-razloga/vest": "2026-11-13T21:33:05.259057+00:00",
   "https://www.kurir.rs/stars/10161715/aleksandra-prijovic-gosca-na-rokvicevom-koncertu": "2026-11-13T21:33:05.259057+00:00",
-  "https://nova.rs/vesti/drustvo/nova-pise-ofanziva-diplomatija-zasnovana-na-vladavini-prava/": "2026-11-13T21:33:05.259057+00:00"
+  "https://nova.rs/vesti/drustvo/nova-pise-ofanziva-diplomatija-zasnovana-na-vladavini-prava/": "2026-11-13T21:33:05.259057+00:00",
+  "https://www.tanjug.rs/srbija/hronika/297648/vjt-u-pancevu-identifikovano-sest-maloletnika-koji-su-ucestvovali-u-tuci-u-pancevu/vest": "2026-11-13T21:48:15.560154+00:00",
+  "https://www.novosti.rs/vesti/politika/1670992/oglasila-kancelarija-stejt-departmenta-sastanak-hanrahana-studentske-liste": "2026-11-13T21:48:15.560154+00:00",
+  "https://www.b92.net/info/svet/284829/poljska-u-pregovorima-o-ukrajini/vest": "2026-11-13T21:48:15.560154+00:00",
+  "https://www.danas.rs/vesti/drustvo/sestoro-uhapseno-u-srbiji-i-sloveniji-zbog-krijumcarenja-droge-kamionima/": "2026-11-13T21:48:15.560154+00:00",
+  "https://www.b92.net/info/svet/284832/zabranjeno-poletanje-aviona-sa-svih-aerodroma-u-sad/vest": "2026-11-13T21:48:15.560154+00:00",
+  "https://www.tanjug.rs/svet/politika/297649/americka-federalna-uprava-za-avijaciju-nalozila-obustavu-letova/vest": "2026-11-13T21:48:15.560154+00:00",
+  "https://www.novosti.rs/ekonomija/vesti/1670993/kriza-drma-sve-vam-microsoft-duguje-novac": "2026-11-13T21:48:15.560154+00:00",
+  "https://www.kurir.rs/zabava/zivot/10158374/otisla-na-bali-pa-otkrila-da-ima-meningitis": "2026-11-13T21:48:15.560154+00:00",
+  "https://www.youtube.com/watch?v=pil0n_LqFI8": "2026-11-13T21:48:15.560154+00:00",
+  "https://informer.rs/politika/vesti/1169710/dejan-kukric-blokaderi-voditelj-juronjuz": "2026-11-13T21:48:15.560154+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-13T06:58+00:00",
-   "novih": 7,
-   "ukupno": 676,
-   "sekundi": 193.5
-  },
   {
    "vreme": "2026-11-13T07:12+00:00",
    "novih": 2,
@@ -3630,6 +3634,12 @@
    "novih": 6,
    "ukupno": 994,
    "sekundi": 197.6
+  },
+  {
+   "vreme": "2026-11-13T21:50+00:00",
+   "novih": 3,
+   "ukupno": 998,
+   "sekundi": 113.2
   }
  ],
  "licnosti_foto": {
@@ -3779,6 +3789,30 @@
   }
  },
  "videos": [
+  {
+   "id": "pil0n_LqFI8",
+   "title": "Vladimir Lučić je jedan od prvih oficira ovog sistema! Nemanja RUJEVIĆ",
+   "kanal": "Bez cenzure",
+   "published": "2026-11-13T21:46:05+00:00",
+   "thumb": "https://i.ytimg.com/vi/pil0n_LqFI8/hqdefault.jpg",
+   "live": "none",
+   "desc": "Vladimir Lučić je jedan od prvih oficira ovog sistema! Nemanja RUJEVIĆ",
+   "spektar": "desnica",
+   "viewers": null,
+   "naslov": "Nemanja Rujević o Vladimiru Lučiću kao jednom od prvih oficira sistema",
+   "opis": "Nemanja Rujević u snimku govori o Vladimiru Lučiću, za koga tvrdi da je jedan od prvih oficira ovog sistema. Snimak je objavljen na kanalu Bez cenzure, a iz naslova i opisa nije jasan širi povod razgovora.",
+   "tekst": [
+    "U snimku kanala Bez cenzure Nemanja Rujević iznosi tvrdnju da je Vladimir Lučić jedan od prvih oficira ovog sistema.",
+    "Iz naslova i opisa snimka ne vidi se o kakvom sistemu je reč, niti na osnovu čega Rujević donosi taj zaključak."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "Nemanja Rujević",
+    "Vladimir Lučić",
+    "Bez cenzure"
+   ],
+   "slug": "nemanja-rujevic-o-vladimiru-lucicu-kao-jednom-od-prvih-pil0n-lqfi8"
+  },
   {
    "id": "cxRF0u43mDY",
    "title": "Babić zatresao je mrežu Nemačke i smanjio rezultat na 3:1! Orlovi pokazali da mogu da zaprete rivalu",
@@ -4892,30 +4926,6 @@
     "Oko"
    ],
    "slug": "oko-13-novembar-2026-yhihqbz3wpm"
-  },
-  {
-   "id": "zQOU1RW8zmg",
-   "title": "Čedomir Stojković - Ne smemo ponovo nasesti na narative koje plasira propagandna mašinerija!",
-   "kanal": "Bez cenzure",
-   "published": "2026-11-13T18:01:50+00:00",
-   "thumb": "https://i.ytimg.com/vi/zQOU1RW8zmg/hqdefault.jpg",
-   "live": "none",
-   "desc": "Čedomir Stojković - Ne smemo ponovo nasesti na narative koje plasira propagandna mašinerija!",
-   "spektar": "desnica",
-   "viewers": null,
-   "naslov": "Čedomir Stojković o narativima propagandne mašinerije",
-   "opis": "Čedomir Stojković u snimku poziva da se ne nasedne ponovo na narative koje, kako tvrdi, plasira propagandna mašinerija. Snimak je objavljen na kanalu Bez cenzure.",
-   "tekst": [
-    "Čedomir Stojković u snimku upozorava da se ne sme ponovo nasesti na narative koje, prema njegovoj tvrdnji, plasira propagandna mašinerija.",
-    "Iz naslova i opisa snimka nije vidljivo na koje se konkretne narative ili događaje odnosi njegova izjava."
-   ],
-   "rubrika": "politika",
-   "oznake": [
-    "Čedomir Stojković",
-    "propaganda",
-    "Bez cenzure"
-   ],
-   "slug": "cedomir-stojkovic-o-narativima-propagandne-masinerije-zqou1rw8zmg"
   },
   {
    "id": "6OJyrghNUF4",
@@ -27365,6 +27375,10 @@
      "naslov": "Gorski Kotar, Croatia08.JPG"
     }
    ]
+  },
+  "t:dejan kukric": {
+   "t": 1794606567.6096926,
+   "items": []
   }
  },
  "x_objave": {

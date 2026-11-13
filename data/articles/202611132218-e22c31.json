@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T21:18:20.991480+00:00",
- "updated": "2026-11-13T21:18:20.991480+00:00",
+ "updated": "2026-11-13T21:48:15.560154+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -45,11 +45,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4432788-pala-balkanska-narko-mreza-kamionima-svercovali-drogu-sirom-evrope",
    "title": "PALA BALKANSKA NARKO-MREŽA: Kamionima švercovali drogu širom Evrope, hapšenja u Srbiji i Sloveniji!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/sestoro-uhapseno-u-srbiji-i-sloveniji-zbog-krijumcarenja-droge-kamionima/",
+   "title": "Šestoro uhapšeno u Srbiji i Sloveniji zbog krijumčarenja droge kamionima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "RAZBIJENA BALKANSKA NARKO-MREŽA! U Srbiji i Sloveniji uhapšeno 6 članova kriminalne grupe: Kamionima krijumčarili drogu kroz Evropu, za dvojicom se traga",
-  "PALA BALKANSKA NARKO-MREŽA: Kamionima švercovali drogu širom Evrope, hapšenja u Srbiji i Sloveniji!"
+  "PALA BALKANSKA NARKO-MREŽA: Kamionima švercovali drogu širom Evrope, hapšenja u Srbiji i Sloveniji!",
+  "Šestoro uhapšeno u Srbiji i Sloveniji zbog krijumčarenja droge kamionima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Maribor_panorama,_Slovenija_(2026).jpg",
   "alt": "Uhapšeno šest osumnjičenih za krijumčarenje droge kamionima, dvoje se traga"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

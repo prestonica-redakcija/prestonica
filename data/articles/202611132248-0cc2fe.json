@@ -1,0 +1,50 @@
+{
+ "id": "202611132248-0cc2fe",
+ "slug": "posle-prekida-rada-microsoftovih-servisa-nadoknada-moguca-samo-kroz",
+ "kind": "vest",
+ "section": "ekonomija",
+ "headline": "Posle prekida rada Microsoftovih servisa nadoknada moguća samo kroz kredite na račun",
+ "lead": "Preduzeća koja plaćaju Office 365 mogu da traže kredit na sledeći račun zbog prekida rada servisa kao što su Outlook i Teams, ali novac im Microsoft ne duguje. Kako prenose Večernje novosti pozivajući se na Mashable, postupak je složen, a iznos može biti simboličan.",
+ "body": [
+  "Prema navodima Novosti, koje prenose tekst sajta Mashable, globalni prekid rada pogodio je milione korisnika i servise Outlook, Teams, SharePoint i Copilot. Outlook i Teams su, navodi se, za mnoge korisnike bili funkcionalno van mreže u četvrtak i petak, a stanje se od petka ujutru popravlja.",
+  "Pozivajući se na objašnjenja sajtova Quartz i Office Watch, tekst navodi da je kratak odgovor na pitanje o odšteti negativan: Microsoft nikome ne duguje novac zbog prekida. Kompanija, međutim, ugovorom o nivou usluge (SLA) nudi kredite, odnosno umanjenje sledećeg računa, a kredit mora da se zatraži jer se ne dodeljuje automatski.",
+  "SLA predviđa 99,9 odsto neprekidnog rada mesečno za svaku uslugu u paketu, na primer OneDrive i Outlook. Ako neka usluga padne ispod tog praga, moguće je tražiti kredit. Prema Quartzu i Office Watchu, Microsoft vreme zastoja računa u „korisničkim minutima“, to jest kao vreme nedostupnosti pomnoženo brojem pogođenih korisnika.",
+  "Krediti se obračunavaju srazmerno izgubljenom vremenu i po pojedinačnoj usluzi, a ne za ceo paket. Zato mali zastoj može vredeti samo 25 ili 50 odsto kredita, a ako je problem bio samo u Outlooku, kredit se odnosi samo na taj servis. U zavisnosti od veličine firme i dužine zastoja, navodi se, iznos može biti svega nekoliko dolara.",
+  "Zahtev mogu da podnesu samo preduzeća koja licenciraju softver, a ne zaposleni koji su izgubili radno vreme. Rok je do kraja decembra. Firme koje su softver kupile direktno od Microsofta obraćaju se centru za administraciju sistema Office i dostavljaju mnogo podataka, nakon čega kompanija sama izračunava da li kredit pripada. Tekst zaključuje da se, zbog prepreka, u zavisnosti od veličine firme i izgubljenog vremena može tvrditi da se zahtev ne isplati."
+ ],
+ "tags": [
+  "Microsoft",
+  "Office 365",
+  "prekid rada",
+  "SLA",
+  "krediti",
+  "Outlook"
+ ],
+ "people": [],
+ "places": [],
+ "importance": 4,
+ "published": "2026-11-13T21:48:15.560154+00:00",
+ "updated": "2026-11-13T21:48:15.560154+00:00",
+ "sources": [
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1670993/kriza-drma-sve-vam-microsoft-duguje-novac",
+   "title": "KRIZA DRMA SVE: Da li vam Microsoft duguje novac?",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "KRIZA DRMA SVE: Da li vam Microsoft duguje novac?"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 2.047,
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Microsoft_Atlanta.jpg/1920px-Microsoft_Atlanta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Wikimedia Commons / Tyler Lahti / CC BY-SA 4.0",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:Microsoft_Atlanta.jpg",
+  "alt": "Posle prekida rada Microsoftovih servisa nadoknada moguća samo kroz kredite na račun"
+ }
+}
