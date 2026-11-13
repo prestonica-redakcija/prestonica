@@ -28,16 +28,23 @@
  ],
  "importance": 6,
  "published": "2026-11-13T20:03:56.560711+00:00",
- "updated": "2026-11-13T20:03:56.560711+00:00",
+ "updated": "2026-11-13T20:33:40.498022+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/297628/kekic-pokazatelji-poslovanja-banke-postanska-stedionica-govore-da-je-ona-stabilna-i-likvidna/vest",
    "title": "Kekić: Pokazatelji poslovanja Banke Poštanska štedionica govore da je ona stabilna i likvidna",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/kekic-pokazatelji-poslovanja-banke-postanska-stedionica-govore-da-je-ona-stabilna-i-likvidna",
+   "title": "Kekić: Pokazatelji poslovanja Banke Poštanska štedionica govore da je ona stabilna i likvidna",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Kekić: Pokazatelji poslovanja Banke Poštanska štedionica govore da je ona stabilna i likvidna",
   "Kekić: Pokazatelji poslovanja Banke Poštanska štedionica govore da je ona stabilna i likvidna"
  ],
  "author": "Redakcija Prestonice",
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Po%C5%A1tanska_%C5%A1tedionica_Pan%C4%8Devo.jpg",
   "alt": "Kekić: Poštanska štedionica je stabilna i likvidna, razlikuje se od Alta banke"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

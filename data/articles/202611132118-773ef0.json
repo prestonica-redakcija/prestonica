@@ -29,17 +29,24 @@
  ],
  "importance": 7,
  "published": "2026-11-13T20:18:47.027296+00:00",
- "updated": "2026-11-13T20:18:47.027296+00:00",
+ "updated": "2026-11-13T20:33:40.498022+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/biz/srbija/vesti/284797/zasto-nije-bilo-dovoljno-novca-u-postama-celnik-postanske-stedionice-priznao-bilo-je-problema/vest",
    "title": "Zašto nije bilo dovoljno novca u poštama? Čelnik Poštanske štedionice priznao – bilo je problema",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/284797/zasto-nije-bilo-dovoljno-novca-u-postama-evo-gde-je-nastao-problem/vest",
+   "title": "Zašto nije bilo dovoljno novca u poštama? Evo gde je nastao problem",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Zašto nije bilo dovoljno novca u poštama? Čelnik Poštanske štedionice priznao – bilo je problema"
+  "Zašto nije bilo dovoljno novca u poštama? Čelnik Poštanske štedionice priznao – bilo je problema",
+  "Zašto nije bilo dovoljno novca u poštama? Evo gde je nastao problem"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Po%C5%A1tanska_%C5%A1tedionica_-_panoramio.jpg",
   "alt": "Kekić: Pošti uplaćeno 1,3 milijarde dinara, ali njene potrebe su znatno veće"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

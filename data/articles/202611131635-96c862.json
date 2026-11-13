@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T15:35:52.267094+00:00",
- "updated": "2026-11-13T17:35:00.377973+00:00",
+ "updated": "2026-11-13T20:33:40.498022+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -63,6 +63,12 @@
    "url": "https://insajder.net/prenosimo/kbc-zvezdara-preminula-porodilja-beba-je-prezivela-i-u-stabilnom-je-stanju",
    "title": "KBC Zvezdara: Preminula porodilja, beba je preživela i u stabilnom je stanju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/sport/evroliga-kosarka/veciti/4432771-zvezda-se-oglasila-zbog-dzereda-batlera",
+   "title": "Zvezda se oglasila zbog Džereda Batlera!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -71,7 +77,8 @@
   "Oglasili se iz KBC Zvezdara nakon smrti porodilje",
   "KBC Zvezdara: Porodilja preminula nakon porođaja, beba stabilno",
   "Preminula porodilja u KBC Zvezdara, bolnica tvrdi da je inspekcijski nadzor u toku",
-  "KBC Zvezdara: Preminula porodilja, beba je preživela i u stabilnom je stanju"
+  "KBC Zvezdara: Preminula porodilja, beba je preživela i u stabilnom je stanju",
+  "Zvezda se oglasila zbog Džereda Batlera!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -83,6 +90,6 @@
   "local": true,
   "alt": "Porodilja preminula na Zvezdari posle porođaja, formirana komisija za stručnu proveru"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

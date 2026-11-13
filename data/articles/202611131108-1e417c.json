@@ -26,17 +26,24 @@
  ],
  "importance": 2,
  "published": "2026-11-13T10:08:15.452290+00:00",
- "updated": "2026-11-13T10:08:15.452290+00:00",
+ "updated": "2026-11-13T20:33:40.498022+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/drustvo/297441/srpska-pravoslavna-crkva-sutra-slavi-dan-svetih-vraca-kozme-i-damjana/vest",
    "title": "Srpska pravoslavna crkva sutra slavi dan Svetih Vrača Kozme i Damjana",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/zabava/zena/10161670/molitva-za-zdravlje-svetom-kozmi-i-damjanu",
+   "title": "Slavimo Svete Vrače Kozmu i Damjana: Ovu molitvu sutra svi vernici izgovaraju za zdravlje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Srpska pravoslavna crkva sutra slavi dan Svetih Vrača Kozme i Damjana"
+  "Srpska pravoslavna crkva sutra slavi dan Svetih Vrača Kozme i Damjana",
+  "Slavimo Svete Vrače Kozmu i Damjana: Ovu molitvu sutra svi vernici izgovaraju za zdravlje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Manastir_Sopo%C4%87ani_-_Sveti_vra%C4%8Di_Pantelejmon_i_Kozma.jpg",
   "alt": "Srpska pravoslavna crkva u subotu slavi Svete Vrače Kozmu i Damjana"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
