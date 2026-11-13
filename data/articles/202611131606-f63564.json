@@ -26,17 +26,24 @@
  ],
  "importance": 3,
  "published": "2026-11-13T15:06:05.158544+00:00",
- "updated": "2026-11-13T15:06:05.158544+00:00",
+ "updated": "2026-11-13T23:17:21.565081+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/297545/turisticka-organizacija-beograda-od-danas-predstavlja-turisticku-ponudu-beograda-na-medunarodnom-sajmu-u-solunu/vest",
    "title": "Turistička organizacija Beograda od danas predstavlja turističku ponudu Beograda na međunarodnom sajmu u Solunu",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/251960/tov-predstavlja-turisticku-ponudu-na-sajmu-u-solunu/vest",
+   "title": "Turistička ponuda Vojvodine na sajmu turizma Filoksenija-Hotelija u Solunu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Turistička organizacija Beograda od danas predstavlja turističku ponudu Beograda na međunarodnom sajmu u Solunu"
+  "Turistička organizacija Beograda od danas predstavlja turističku ponudu Beograda na međunarodnom sajmu u Solunu",
+  "Turistička ponuda Vojvodine na sajmu turizma Filoksenija-Hotelija u Solunu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Ioannis_Konstantinidis_3_October_1904_Solun.jpg",
   "alt": "Turistička organizacija Beograda predstavlja ponudu prestonice na sajmu u Solunu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

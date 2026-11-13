@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T13:32:29.095638+00:00",
- "updated": "2026-11-13T09:38:39.626001+00:00",
+ "updated": "2026-11-13T23:17:21.565081+00:00",
  "sources": [
   {
    "name": "N1",
@@ -56,13 +56,20 @@
    "url": "https://www.telegraf.rs/vesti/svet/4432296-peter-madjar-najavio-nove-mere-za-zastitu-zena-uvode-se-velike-promene-u-madjarsko-zakonodavstvo",
    "title": "Peter Mađar najavio nove mere za zaštitu žena: Uvode se velike promene u mađarsko zakonodavstvo!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Radar",
+   "url": "https://radar.nova.rs/politika/bozo-prelevic-intervju-bia-mup-orlic-sns/",
+   "title": "Bez reforme službe nema ni promena",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Mađar: Vlada Mađarske olakšaće ženama pristup sredstvima za hitnu kontracepciju i ukinuti propise o abortusu",
   "Budimpešta ukida kontroverzne propise o abortusu i jača zaštitu žena: Peter Mađar o novim merama u okviru šireg paketa reformi usmerenih na ženska prava",
   "Promenili su Ustav i proporcije zastave",
-  "Peter Mađar najavio nove mere za zaštitu žena: Uvode se velike promene u mađarsko zakonodavstvo!"
+  "Peter Mađar najavio nove mere za zaštitu žena: Uvode se velike promene u mađarsko zakonodavstvo!",
+  "Bez reforme službe nema ni promena"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,6 +81,6 @@
   "local": true,
   "alt": "Mađarska najavljuje ukidanje pravila o abortusu i ratifikaciju Istanbulske konvencije"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

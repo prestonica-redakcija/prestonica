@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T22:13:42.855898+00:00",
- "updated": "2026-11-13T07:39:34.793761+00:00",
+ "updated": "2026-11-13T23:17:21.565081+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -59,6 +59,12 @@
    "url": "https://www.b92.net/info/svet/284564/donald-tramp-trazi-od-senata-dodatni-novac-za-pentagon/vest",
    "title": "Tramp pozvao Senat: \"Odobrite dodatna sredstva za Pentagon\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10160831/tramp-trazi-350-milijardi-dolara-za-pentagon",
+   "title": "TRAMP TRAŽI VIŠE PARA ZA VOJSKU: Pozvao Senat da odobri dodatnih 350 milijardi dolara Pentagonu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -66,7 +72,8 @@
   "Tramp pozvao Senat da odobri dodatnih 350 milijardi dolara Pentagonu",
   "Tramp traži da Senat odobri dodatnih 350 milijardi dolara za Pentagon",
   "Tramp pozvao Senat da odobri dodatnih 350 milijardi dolara Pentagonu: \"Sada je trenutak\"",
-  "Tramp pozvao Senat: \"Odobrite dodatna sredstva za Pentagon\""
+  "Tramp pozvao Senat: \"Odobrite dodatna sredstva za Pentagon\"",
+  "TRAMP TRAŽI VIŠE PARA ZA VOJSKU: Pozvao Senat da odobri dodatnih 350 milijardi dolara Pentagonu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -79,6 +86,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:PENTAGON_2.jpg",
   "alt": "Tramp traži od Senata da odobri dodatnih 350 milijardi dolara za Pentagon"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
