@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T06:55:05.526438+00:00",
- "updated": "2026-11-13T09:23:38.730820+00:00",
+ "updated": "2026-11-13T09:38:39.626001+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -50,12 +50,19 @@
    "url": "https://www.kurir.rs/techvision/vesti/10160962/problemi-sa-microsoft-servisima-outlook-teams-i-copilot",
    "title": "Pao Ooutlook, problemi širom sveta: Microsoft ne uspeva da reši kvar, hiljade korisnika ostalo bez mejla",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/majkrosoft-pokusava-da-resi-globalni-prekid-rada-outlooka-i-teamsa-ali-priznaje-da-popravke-ne-idu-kako-se-ocekivalo/",
+   "title": "Majkrosoft pokušava da reši globalni prekid rada Outlooka i Teamsa, ali priznaje da popravke ne idu \"kako se očekivalo\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Microsoft pao: Milioni korisnika širom sveta ostali bez Outlooka i Teamsa",
   "Majkrosoft alati ne rade širom sveta",
-  "Pao Ooutlook, problemi širom sveta: Microsoft ne uspeva da reši kvar, hiljade korisnika ostalo bez mejla"
+  "Pao Ooutlook, problemi širom sveta: Microsoft ne uspeva da reši kvar, hiljade korisnika ostalo bez mejla",
+  "Majkrosoft pokušava da reši globalni prekid rada Outlooka i Teamsa, ali priznaje da popravke ne idu \"kako se očekivalo\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg",
   "alt": "Veliki prekid u radu Microsofta: Outlook i Teams satima nedostupni širom sveta"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

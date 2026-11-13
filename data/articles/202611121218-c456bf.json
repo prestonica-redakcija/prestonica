@@ -25,7 +25,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T11:18:27.564167+00:00",
- "updated": "2026-11-12T15:16:57.446051+00:00",
+ "updated": "2026-11-13T09:38:39.626001+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -38,11 +38,18 @@
    "url": "https://n1info.rs/vesti/tuzilastvo-advokati-milenijum-tima-podneli-dopunu-zahteva-za-izuzece-okrivljeni-zloupotrebljavaju-svoja-procesna-prava/",
    "title": "Tužilaštvo: Advokati Milenijum tima podneli dopunu zahteva za izuzeće, okrivljeni zloupotrebljavaju prava - proces se prolongira",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/tuzilastvo-jos-nije-dobilo-zahteve-za-izuzece-u-slucaju-milenijum-tima/",
+   "title": "Tužilaštvo još nije dobilo zahteve za izuzeće u slučaju Milenijum tima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Treće osnovno tužilaštvo o zahtevu branilaca \"Milenijum tima\": Dopunom zahteva za izuzeće prolongira se proces odlučivanja",
-  "Tužilaštvo: Advokati Milenijum tima podneli dopunu zahteva za izuzeće, okrivljeni zloupotrebljavaju prava - proces se prolongira"
+  "Tužilaštvo: Advokati Milenijum tima podneli dopunu zahteva za izuzeće, okrivljeni zloupotrebljavaju prava - proces se prolongira",
+  "Tužilaštvo još nije dobilo zahteve za izuzeće u slučaju Milenijum tima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,6 +61,6 @@
   "local": true,
   "alt": "Treće osnovno tužilaštvo: dopuna zahteva za izuzeće odugovlači odlučivanje u slučaju \"Milenijum tim\""
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

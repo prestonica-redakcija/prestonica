@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T21:29:03.804743+00:00",
- "updated": "2026-11-13T08:39:01.965066+00:00",
+ "updated": "2026-11-13T09:38:39.626001+00:00",
  "sources": [
   {
    "name": "N1",
@@ -53,12 +53,19 @@
    "url": "https://www.telegraf.rs/4432230-nastavak-sednice-skupstine-u-pristini-na-dnevnom-redu-i-izmene-zakona-o-specijalizovanim-vecima",
    "title": "Nastavak sednice skupštine u Prištini, na dnevnom redu i izmene Zakona o Specijalizovanim većima",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/kosovo/284605/nastavak-sednice-skupstine-tzv-kosova-na-dnevnom-redu-specijalizovana-veca/vest",
+   "title": "Nastavak sednice skupštine tzv. Kosova; Na dnevnom redu i izmene Zakona o Specijalizovanim većima",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "EU zabrinuta zbog mogućeg glasanja o izmenama Zakona o Specijalizovanim većima Kosova",
   "Nastavak sednice skupštine u Prištini, na dnevnom redu i izmene Zakona o Specijalizovanim većima",
-  "Nastavak sednice skupštine u Prištini, na dnevnom redu i izmene Zakona o Specijalizovanim većima"
+  "Nastavak sednice skupštine u Prištini, na dnevnom redu i izmene Zakona o Specijalizovanim većima",
+  "Nastavak sednice skupštine tzv. Kosova; Na dnevnom redu i izmene Zakona o Specijalizovanim većima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,6 +79,6 @@
   "osoba": "Aljbin Kurti",
   "alt": "Kancelarija EU u Prištini zabrinuta zbog glasanja o izmenama zakona o Specijalizovanim većima"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

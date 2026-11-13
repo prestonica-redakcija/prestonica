@@ -25,17 +25,24 @@
  ],
  "importance": 6,
  "published": "2026-11-12T18:15:31.976665+00:00",
- "updated": "2026-11-12T18:15:31.976665+00:00",
+ "updated": "2026-11-13T09:38:39.626001+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/english/news/statistics-office-says-consumer-prices-up-in-october/",
    "title": "Statistics Office says consumer prices up in October",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/297446/godisnja-inflacija-u-francuskoj-za-oktobar-potvrdena-na-34-odsto/vest",
+   "title": "Godišnja inflacija u Francuskoj za oktobar potvrđena na 3,4 odsto",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Statistics Office says consumer prices up in October"
+  "Statistics Office says consumer prices up in October",
+  "Godišnja inflacija u Francuskoj za oktobar potvrđena na 3,4 odsto"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "RZS: potrošačke cene u oktobru više za 0,8 odsto, godišnja inflacija 4,4 odsto"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

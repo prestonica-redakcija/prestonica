@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T13:32:29.095638+00:00",
- "updated": "2026-11-13T08:09:16.680226+00:00",
+ "updated": "2026-11-13T09:38:39.626001+00:00",
  "sources": [
   {
    "name": "N1",
@@ -50,12 +50,19 @@
    "url": "https://www.b92.net/info/svet/284572/severna-koreja-promenila-ustav-i-proporcije-zastave/vest",
    "title": "Promenili su Ustav i proporcije zastave",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4432296-peter-madjar-najavio-nove-mere-za-zastitu-zena-uvode-se-velike-promene-u-madjarsko-zakonodavstvo",
+   "title": "Peter Mađar najavio nove mere za zaštitu žena: Uvode se velike promene u mađarsko zakonodavstvo!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Mađar: Vlada Mađarske olakšaće ženama pristup sredstvima za hitnu kontracepciju i ukinuti propise o abortusu",
   "Budimpešta ukida kontroverzne propise o abortusu i jača zaštitu žena: Peter Mađar o novim merama u okviru šireg paketa reformi usmerenih na ženska prava",
-  "Promenili su Ustav i proporcije zastave"
+  "Promenili su Ustav i proporcije zastave",
+  "Peter Mađar najavio nove mere za zaštitu žena: Uvode se velike promene u mađarsko zakonodavstvo!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,6 @@
   "local": true,
   "alt": "Mađarska najavljuje ukidanje pravila o abortusu i ratifikaciju Istanbulske konvencije"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
