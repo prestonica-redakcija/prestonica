@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T20:30:18.520161+00:00",
- "updated": "2026-11-13T19:48:56.164085+00:00",
+ "updated": "2026-11-13T20:03:56.560711+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -307,6 +307,18 @@
    "url": "https://www.kurir.rs/vesti/politika/10161508/ko-ce-dobiti-fotelje-u-skupstini-ovo-je-prvi-test-odgovornosti-nove-vlasti",
    "title": "\"SNAŽNA OPOZICIJA, JOŠ SNAŽNIJA VLAST\" Gosti \"Usijanja\" o predstojećoj konstitutivnoj sednici parlamenta: \"Ovo je prvi test odgovornosti\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4432717-decenijama-cekaju-da-se-cuje-njihov-glas-romi-postavili-ultimatum-vlastima-u-crnoj-gori",
+   "title": "Decenijama čekaju da se čuje njihov glas: Romi postavili ultimatum vlastima u Crnoj Gori",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Bez cenzure",
+   "url": "https://www.youtube.com/watch?v=9lasSOTNJTc",
+   "title": "Miroslav Parović - Predsednički izbori su test novog društva i nove političke većine!",
+   "spektar": "desnica"
   }
  ],
  "source_titles": [
@@ -355,7 +367,9 @@
   "Studenti počeli diplomatske razgovore: Koga ne treba da zaobiđu?",
   "Student List, SNS differ on new parliament",
   "BEZ DOGOVORA O FUNKCIJAMA U PARLAMENTU SL: Predsednik, broj potpredsednika i njihova imena biće izglasani na samoj sednici",
-  "\"SNAŽNA OPOZICIJA, JOŠ SNAŽNIJA VLAST\" Gosti \"Usijanja\" o predstojećoj konstitutivnoj sednici parlamenta: \"Ovo je prvi test odgovornosti\""
+  "\"SNAŽNA OPOZICIJA, JOŠ SNAŽNIJA VLAST\" Gosti \"Usijanja\" o predstojećoj konstitutivnoj sednici parlamenta: \"Ovo je prvi test odgovornosti\"",
+  "Decenijama čekaju da se čuje njihov glas: Romi postavili ultimatum vlastima u Crnoj Gori",
+  "Miroslav Parović - Predsednički izbori su test novog društva i nove političke većine!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -368,7 +382,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Studentska lista na konsultacijama pred konstitutivnu sednicu, bez političkih dogovora"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-13T16:05:38.576057+00:00",
  "verzija": 8

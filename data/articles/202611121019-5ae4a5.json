@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T09:19:14.268478+00:00",
- "updated": "2026-11-12T09:19:14.268478+00:00",
+ "updated": "2026-11-13T20:03:56.560711+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -43,11 +43,18 @@
    "url": "https://nova.rs/vesti/hronika/tuzilac-stamenkovic-nenad-stefanovic-imao-potpunu-politicku-podrsku-da-formira-paratuzilastvo/",
    "title": "Tužilac Stamenković: Nenad Stefanović imao potpunu političku podršku da formira paratužilaštvo",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/nenad-stefanovic-gori-pod-nogama/",
+   "title": "Nenadu Stefanoviću gori pod nogama",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Tužilac Stamenković: Nenad Stefanović imao potpunu političku podršku da formira paratužilaštvo",
-  "Tužilac Stamenković: Nenad Stefanović imao potpunu političku podršku da formira paratužilaštvo"
+  "Tužilac Stamenković: Nenad Stefanović imao potpunu političku podršku da formira paratužilaštvo",
+  "Nenadu Stefanoviću gori pod nogama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Stamenković: Stefanović imao političku podršku da stvori paralelnu tužilačku organizaciju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -38,7 +38,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T09:49:14.445596+00:00",
- "updated": "2026-11-13T10:08:15.452290+00:00",
+ "updated": "2026-11-13T20:03:56.560711+00:00",
  "sources": [
   {
    "name": "N1",
@@ -75,6 +75,12 @@
    "url": "https://www.tanjug.rs/svet/politika/297453/lideri-eu-danas-u-dablinu-o-pregovorima-o-ukrajini-finansiranju-i-eu-bezbednosti/vest",
    "title": "Lideri EU danas u Dablinu o pregovorima o Ukrajini, finansiranju i EU bezbednosti",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/297626/lajen-istakla-znacaj-razvoja-ai-i-potrebu-prisustva-eu-u-mirovnim-pregovorima-o-ukrajini/vest",
+   "title": "Lajen istakla značaj razvoja AI i potrebu prisustva EU u mirovnim pregovorima o Ukrajini",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -83,7 +89,8 @@
   "Fon der Lajen:EU će podržavati Ukrajinu i u ratu i u miru, Kalas: Prvo primirje pa pregovori",
   "FON DER LAJEN NAJAVILA NOVI PAKET SANKCIJA RUSIJI! Predsednica Evropske komisije uoči sastanka u Dablinu govorila i o finansijskim potrebama Ukrajine (FOTO)",
   "EU NAJAVILA 22. PAKET SANKCIJA RUSIJI: Značajna finansijska i vojna pomoć za Ukrajinu pred zimu",
-  "Lideri EU danas u Dablinu o pregovorima o Ukrajini, finansiranju i EU bezbednosti"
+  "Lideri EU danas u Dablinu o pregovorima o Ukrajini, finansiranju i EU bezbednosti",
+  "Lajen istakla značaj razvoja AI i potrebu prisustva EU u mirovnim pregovorima o Ukrajini"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -95,6 +102,6 @@
   "local": true,
   "alt": "EU u ponedeljak usvaja novi paket sankcija Rusiji, najavio francuski ministar Adad"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }
