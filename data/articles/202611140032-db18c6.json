@@ -33,7 +33,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T23:32:17.971916+00:00",
- "updated": "2026-11-13T23:32:17.971916+00:00",
+ "updated": "2026-11-13T23:47:11.188732+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -46,11 +46,18 @@
    "url": "https://www.kurir.rs/sport/fudbal/10161752/liga-nacija-tabela-srbija",
    "title": "SRBIJA NA IVICI AMBISA, ALI POSTOJI SPAS! Evo kako izgleda tabela nakon poraza Orlova i debakla Grčke u Ligi nacija! Ovo nam je šansa...",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/sport/holandija-grcka-liga-nacija/",
+   "title": "„Sedmica“ Holandije protiv Grčke u Ligi nacija",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Fudbaleri Srbije poraženi od Nemačke u Ligi nacija",
-  "SRBIJA NA IVICI AMBISA, ALI POSTOJI SPAS! Evo kako izgleda tabela nakon poraza Orlova i debakla Grčke u Ligi nacija! Ovo nam je šansa..."
+  "SRBIJA NA IVICI AMBISA, ALI POSTOJI SPAS! Evo kako izgleda tabela nakon poraza Orlova i debakla Grčke u Ligi nacija! Ovo nam je šansa...",
+  "„Sedmica“ Holandije protiv Grčke u Ligi nacija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Srbija poražena od Nemačke 1:3 u Ligi nacija, u poslednjem kolu gostuje Grčkoj"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

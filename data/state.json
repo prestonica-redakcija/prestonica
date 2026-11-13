@@ -3343,18 +3343,17 @@
   "https://www.kurir.rs/vesti/drustvo/10161585/sofex-26-vezba-specijalnih-jedinica-srbija-bugarska-grcka-rumunija": "2026-11-13T23:32:17.971916+00:00",
   "https://insajder.net/prenosimo/fudbaleri-srbije-porazeni-od-nemacke-u-ligi-nacija": "2026-11-13T23:32:17.971916+00:00",
   "https://www.kurir.rs/sport/fudbal/10161752/liga-nacija-tabela-srbija": "2026-11-13T23:32:17.971916+00:00",
-  "https://www.danas.rs/vesti/ekonomija/odlozen-saobracaj-budimpesta-beograd/": "2026-11-13T23:32:17.971916+00:00"
+  "https://www.danas.rs/vesti/ekonomija/odlozen-saobracaj-budimpesta-beograd/": "2026-11-13T23:32:17.971916+00:00",
+  "https://www.kurir.rs/planeta/10161749/holandska-vlada-zasad-opstaje": "2026-11-13T23:47:11.188732+00:00",
+  "https://www.danas.rs/sport/holandija-grcka-liga-nacija/": "2026-11-13T23:47:11.188732+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4432816-danas-mereno-letnjih-27-stepeni-veceras-sneg-veje-kao-usred-zime-temperatura-opala-na-0-evo-gde-i-grmi": "2026-11-13T23:47:11.188732+00:00",
+  "https://nova.rs/magazin/vremenska-prognoza/danas-osetno-hladnije-temperatura-od-1-do-11-stepeni-na-planinama-slab-sneg/": "2026-11-13T23:47:11.188732+00:00",
+  "https://www.kurir.rs/zabava/zena/10161184/sta-u-kuci-ne-smete-da-cistite-sircetom": "2026-11-13T23:47:11.188732+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-13T08:56+00:00",
-   "novih": 8,
-   "ukupno": 715,
-   "sekundi": 171.6
-  },
   {
    "vreme": "2026-11-13T09:10+00:00",
    "novih": 4,
@@ -3708,6 +3707,12 @@
    "novih": 2,
    "ukupno": 1018,
    "sekundi": 96.9
+  },
+  {
+   "vreme": "2026-11-13T23:48+00:00",
+   "novih": 1,
+   "ukupno": 1019,
+   "sekundi": 95.4
   }
  ],
  "licnosti_foto": {
@@ -6360,7 +6365,7 @@
    },
    "ininic": {
     "since_id": "2121206808324813214",
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -6368,7 +6373,7 @@
    },
    "sviublokade_fdu": {
     "since_id": "2120560395492495772",
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "dragandjilas": {
     "since_id": null,
@@ -6416,11 +6421,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "studentblokade": {
     "since_id": "2121235052155543772",
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -6492,7 +6497,7 @@
    },
    "boristadic58": {
     "since_id": null,
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "srdjanmil037": {
     "since_id": "2121234128859209766",
@@ -6544,7 +6549,7 @@
    },
    "borakonj": {
     "since_id": "2121317761259385154",
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "narodnipokrets": {
     "since_id": "2120601957350195572",
@@ -6552,67 +6557,67 @@
    },
    "direktnors": {
     "since_id": "2121341320329416863",
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "crtars": {
     "since_id": "2121266154312470704",
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "veceivan": {
     "since_id": "2121303796001222914",
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "repjoewilson": {
     "since_id": "2120984500146696436",
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "jugoslavcosic": {
-    "since_id": "2121377400063684742",
-    "t": 1794611034.5185895
+    "since_id": "2121378612750561670",
+    "t": 1794613674.2851346
    },
    "tvnova_s": {
     "since_id": "2121365119317811436",
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "oljautisak": {
     "since_id": null,
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "srdjan_nogo": {
     "since_id": "2120938654998630563",
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "agrifblokira": {
     "since_id": null,
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "etfblokada": {
     "since_id": "2120930020059136372",
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "nastraninaroda": {
     "since_id": "2121342229339918554",
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "bcenzure": {
     "since_id": "2121366360143929375",
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "bezstraha26279": {
     "since_id": "2121336233930768460",
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "lazidetektor": {
     "since_id": "2121337308553363922",
-    "t": 1794611034.5185895
+    "t": 1794613674.2851346
    },
    "nedeljniknin": {
     "since_id": "2121377581396042003",
@@ -6636,6 +6641,19 @@
    }
   },
   "posts": [
+   {
+    "id": "2121378612750561670",
+    "x": "JugoslavCosic",
+    "ime": "Jugoslav Ćosić",
+    "grupa": "",
+    "uloga": "",
+    "text": "Jel stvarno postoje degenerici kojima nesto nije jasno u vezi sa ubistvom Djindjica?",
+    "published": "2026-11-13T23:04:09.000+00:00",
+    "lajk": 66,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Ćosić o ubistvu Zorana Đinđića i onima kojima nešto nije jasno"
+   },
    {
     "id": "2121377581396042003",
     "x": "NedeljnikNIN",

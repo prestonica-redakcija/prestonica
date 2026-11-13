@@ -28,17 +28,24 @@
  ],
  "importance": 3,
  "published": "2026-11-13T21:18:20.991480+00:00",
- "updated": "2026-11-13T21:18:20.991480+00:00",
+ "updated": "2026-11-13T23:47:11.188732+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/svet/politika/297643/holandska-vlada-zasad-opstaje-stranka-vvd-ne-napusta-koaliciju/vest",
    "title": "Holandska vlada zasad opstaje, stranka VVD ne napušta koaliciju",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10161749/holandska-vlada-zasad-opstaje",
+   "title": "HOLANDSKA VLADA ZASAD OPSTAJE: Stranka VVD ne napušta koaliciju",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Holandska vlada zasad opstaje, stranka VVD ne napušta koaliciju"
+  "Holandska vlada zasad opstaje, stranka VVD ne napušta koaliciju",
+  "HOLANDSKA VLADA ZASAD OPSTAJE: Stranka VVD ne napušta koaliciju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Holandska vlada opstaje: VVD za sada ostaje u koaliciji uprkos sporu oko poreza"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
