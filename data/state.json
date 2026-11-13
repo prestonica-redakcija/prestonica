@@ -2158,18 +2158,15 @@
   "https://www.politico.eu/article/how-to-win-friends-and-throw-people-judos-big-impact-on-politics/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": "2026-11-13T03:11:32.546668+00:00",
   "https://www.kurir.rs/vesti/srbija/10160103/radovi-na-moravskom-koridoru": "2026-11-13T04:11:09.682052+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/251860/nbs-srednji-kurs-dinara-za-evro-1176203/vest": "2026-11-13T04:11:09.682052+00:00",
-  "https://www.politico.eu/podcast/eu-confidential/who-is-britains-perfect-immigrant/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": "2026-11-13T04:11:09.682052+00:00"
+  "https://www.politico.eu/podcast/eu-confidential/who-is-britains-perfect-immigrant/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": "2026-11-13T04:11:09.682052+00:00",
+  "https://www.euronews.rs/svet/fokus/251778/jp-morgan-sad-do-2030-mogu-da-proizvode-400000-robota/vest": "2026-11-13T04:40:58.419429+00:00",
+  "https://www.kurir.rs/zabava/zena/10160208/recept-za-norveske-palacinke": "2026-11-13T04:40:58.419429+00:00",
+  "https://www.kurir.rs/vesti/beograd/10160035/bez-vode-danas-u-beogradu": "2026-11-13T04:40:58.419429+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-12T13:49+00:00",
-   "novih": 5,
-   "ukupno": 466,
-   "sekundi": 120.1
-  },
   {
    "vreme": "2026-11-12T14:04+00:00",
    "novih": 7,
@@ -2523,6 +2520,12 @@
    "novih": 0,
    "ukupno": 652,
    "sekundi": 39.2
+  },
+  {
+   "vreme": "2026-11-13T04:41+00:00",
+   "novih": 1,
+   "ukupno": 653,
+   "sekundi": 57.4
   }
  ],
  "licnosti_foto": {
@@ -2672,6 +2675,33 @@
   }
  },
  "videos": [
+  {
+   "id": "zM3MvuSbZHE",
+   "title": "BND-Reform: Die neue Macht der Geheimdienste",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-13T04:08:00+00:00",
+   "thumb": "https://i.ytimg.com/vi/zM3MvuSbZHE/hqdefault.jpg",
+   "live": "none",
+   "desc": "Ein historischer Paradigmenwechsel für die deutschen Geheimdienste steht im Bundestag zur Abstimmung. BND und Verfassungsschutz sollen künftig nicht mehr nur beobachten, sondern aktiv in IT-Systeme eindringen und Cyberangriffe stören dürfen. Anouk Schlung analysiert, warum diese neuen Befugnisse außenpolitisch hochriskant sind und weshalb nun sogar Wohnungseinbrüche durch den Auslandsgeheimdienst drohen.\n\nDie Linke kämpft auf offener Bühne mit ihrer Haltung zu Israel und dem Umgang mit radikalen Strömungen. Cedric Looks beleuchtet, wie die Führung versucht, die tiefen Gräben zu kitten und welche personellen Konsequenzen der Dauerstreit für die künftige Ausrichtung der Partei hat.\n\nWie die Be",
+   "spektar": "centar",
+   "viewers": null,
+   "naslov": "Reforma BND-a: nova ovlašćenja službi i spor u Levici oko Izraela",
+   "opis": "U snimku POLITICO Europe, na nemačkom jeziku, govori se o reformi nemačkih obaveštajnih službi o kojoj će glasati Bundestag. BND i Ustavna zaštita treba da dobiju pravo da aktivno ulaze u IT sisteme i ometaju sajber napade. Druga tema je unutrašnji spor stranke Levica oko stava prema Izraelu i radikalnim strujama.",
+   "tekst": [
+    "U snimku se navodi da Bundestag glasa o istorijskoj promeni u radu nemačkih obaveštajnih službi. BND i Ustavna zaštita (Verfassungsschutz) ubuduće ne bi samo posmatrali, već bi mogli i aktivno da upadaju u IT sisteme i ometaju sajber napade.",
+    "Novinarka Anouk Schlung analizira zašto su ta nova ovlašćenja, prema njenoj oceni, spoljnopolitički visokorizična. Kako se navodi u opisu, razmatra se i mogućnost da spoljna obaveštajna služba dobije pravo na provale u stanove.",
+    "Druga tema je Levica, koja se, kako stoji u opisu, javno sukobljava oko stava prema Izraelu i odnosa prema radikalnim strujama. Cedric Looks objašnjava kako rukovodstvo pokušava da premosti duboke podele i kakve bi personalne posledice trajni spor mogao imati po buduće usmerenje stranke."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "BND",
+    "Bundestag",
+    "Ustavna zaštita",
+    "Levica",
+    "Nemačka"
+   ],
+   "slug": "reforma-bnd-a-nova-ovlascenja-sluzbi-i-spor-u-levici-oko-zm3mvusbzhe"
+  },
   {
    "id": "wQJBRC6_zOk",
    "title": "What will a female president mean for Germany and Europe?",
@@ -4556,33 +4586,6 @@
    "slug": "kako-evropski-parlament-zaobilazi-glasanje-svih-720-7k4nkufmwlu"
   },
   {
-   "id": "c736ICZiaFc",
-   "title": "Die dunkle Seite der Bundeswehr: Sexualisierte Gewalt gegen Frauen",
-   "kanal": "POLITICO Europe",
-   "published": "2026-11-11T04:04:00+00:00",
-   "thumb": "https://i.ytimg.com/vi/c736ICZiaFc/hqdefault.jpg",
-   "live": "none",
-   "desc": "Die Bundeswehr soll wachsen, doch eine neue Dunkelfeldstudie offenbart eine erschütternde Realität für Frauen in der Truppe. Wenn 70 Prozent der befragten Soldatinnen von sexualisiertem Fehlverhalten berichten, wird das Kulturproblem zur existenziellen Gefahr für die Einsatzbereitschaft. Verteidigungsminister Boris Pistorius steht vor der drängenden Frage, wie die Armee weiblicher werden soll, solange interne Strukturen versagen.\n\nIm 200-Sekunden-Interview ordnet die CDU-Bundestagsabgeordnete und Berufssoldatin Vivian Tauschwitz den Schaden für die Bundeswehr ein. Sie erklärt, warum Täter sich im System bisher zu sicher fühlen und welche konkreten Führungsinstrumente sowie Ermittlungen jetzt",
-   "spektar": "centar",
-   "viewers": null,
-   "naslov": "Seksualizovano nasilje nad ženama u Bundesveru: intervju sa poslanicom Vivijan Taušvic",
-   "opis": "U intervjuu od 200 sekundi poslanica CDU i profesionalna vojnica Vivian Tauschwitz govori o šteti koju Bundesveru nanosi seksualizovano nasilje nad ženama. U snimku objašnjava zašto se počinioci u sistemu do sada osećaju sigurno i koji bi vođstveni instrumenti i istrage sada trebalo da se primene.",
-   "tekst": [
-    "Povod za razgovor je nova studija tamnog polja o iskustvima žena u nemačkoj vojsci. Prema opisu snimka, 70 odsto anketiranih vojnikinja izveštava o seksualizovanom neprimerenom ponašanju, što se u snimku predstavlja kao kulturni problem koji ugrožava spremnost za dejstvo.",
-    "Poslanica CDU i profesionalna vojnica Vivian Tauschwitz u intervjuu procenjuje štetu za Bundesver. Ona tvrdi da se počinioci u sistemu do sada osećaju previše sigurno i govori o konkretnim instrumentima rukovođenja i istragama koji bi sada trebalo da se primene.",
-    "U snimku se postavlja i pitanje kako ministar odbrane Boris Pistorius namerava da armiju učini ženskijom, dok unutrašnje strukture, kako se navodi, zakazuju. Povod je planirano povećanje Bundesvera."
-   ],
-   "rubrika": "politika",
-   "oznake": [
-    "Bundesver",
-    "Vivian Tauschwitz",
-    "CDU",
-    "Boris Pistorius",
-    "seksualizovano nasilje"
-   ],
-   "slug": "seksualizovano-nasilje-nad-zenama-u-bundesveru-intervju-sa-c736icziafc"
-  },
-  {
    "id": "D_Q3bfQ41Ng",
    "title": "Takovska 10: Nedelja pred konstituisanje Skupštine",
    "kanal": "RTS",
@@ -4991,7 +4994,7 @@
    ]
   }
  ],
- "_novi_snimci": false,
+ "_novi_snimci": true,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -5073,7 +5076,7 @@
    },
    "ininic": {
     "since_id": "2121015726131535915",
-    "t": 1794542198.1530125
+    "t": 1794544898.1488817
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -5081,7 +5084,7 @@
    },
    "sviublokade_fdu": {
     "since_id": "2120560395492495772",
-    "t": 1794542198.1530125
+    "t": 1794544898.1488817
    },
    "dragandjilas": {
     "since_id": null,
@@ -5129,11 +5132,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1794542198.1530125
+    "t": 1794544898.1488817
    },
    "studentblokade": {
     "since_id": "2120988605036286437",
-    "t": 1794542198.1530125
+    "t": 1794544898.1488817
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -5209,55 +5212,55 @@
    },
    "srdjanmil037": {
     "since_id": "2120749869757305219",
-    "t": 1794542198.1530125
+    "t": 1794544898.1488817
    },
    "zoranlutovac": {
     "since_id": "2120963250930221562",
-    "t": 1794542198.1530125
+    "t": 1794544898.1488817
    },
    "pajticbojan": {
     "since_id": null,
-    "t": 1794542198.1530125
+    "t": 1794544898.1488817
    },
    "n_zelenovic": {
     "since_id": null,
-    "t": 1794542198.1530125
+    "t": 1794544898.1488817
    },
    "boskoobradovic": {
     "since_id": null,
-    "t": 1794542198.1530125
+    "t": 1794544898.1488817
    },
    "sasaradulovich": {
     "since_id": null,
-    "t": 1794542198.1530125
+    "t": 1794544898.1488817
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1794542198.1530125
+    "t": 1794544898.1488817
    },
    "zaklina_prva": {
     "since_id": "2120990644974084444",
-    "t": 1794542198.1530125
+    "t": 1794544898.1488817
    },
    "stevanoccrp": {
     "since_id": "2120980122807505008",
-    "t": 1794542198.1530125
+    "t": 1794544898.1488817
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1794542198.1530125
+    "t": 1794544898.1488817
    },
    "igorbrakus": {
     "since_id": null,
-    "t": 1794542198.1530125
+    "t": 1794544898.1488817
    },
    "radoholicar": {
     "since_id": null,
-    "t": 1794542198.1530125
+    "t": 1794544898.1488817
    },
    "borakonj": {
     "since_id": "2121032262989066282",
-    "t": 1794542198.1530125
+    "t": 1794544898.1488817
    },
    "narodnipokrets": {
     "since_id": "2120601957350195572",
@@ -15050,6 +15053,29 @@
   "t:kolumbija": {
    "t": 1794539531.7573774,
    "items": []
+  },
+  "t:vozdovac": {
+   "t": 1794544891.2123969,
+   "items": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/%D0%92%D0%BE%D0%B6%D0%B4%D0%BE%D0%B2%D0%B0%D1%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1600,
+     "h": 1200,
+     "god": 2021,
+     "credit": "Wikimedia Commons / Artemco / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BE%D0%B6%D0%B4%D0%BE%D0%B2%D0%B0%D1%86.jpg",
+     "naslov": "Вождовац.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Vozdovac_park%2CMay_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1600,
+     "h": 1200,
+     "god": 2010,
+     "credit": "Wikimedia Commons / Gmihail at Serbian Wikipedia / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Vozdovac_park,May_2010.jpg",
+     "naslov": "Vozdovac park,May 2010.jpg"
+    }
+   ]
   }
  },
  "x_objave": {

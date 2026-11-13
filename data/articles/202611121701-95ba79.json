@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-12T16:01:27.866828+00:00",
- "updated": "2026-11-12T16:01:27.866828+00:00",
+ "updated": "2026-11-13T04:40:58.419429+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://www.telegraf.rs/hi-tech/info-tech/4431853-roboti-se-spremaju-za-masovni-ulazak-u-fabrike-do-2035-moglo-bi-da-ih-se-proizvodi-15-miliona-godisnje",
    "title": "Roboti se spremaju za masovni ulazak u fabrike: Do 2035. moglo bi da ih se proizvodi 1,5 miliona godišnje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/251778/jp-morgan-sad-do-2030-mogu-da-proizvode-400000-robota/vest",
+   "title": "JP Morgan: SAD bi do 2030. mogle da proizvode do 400.000 humanoidnih robota godišnje",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Proizvodnja humanoidnih robota u SAD mogla bi da dostigne 400.000 godišnje do 2030.",
-  "Roboti se spremaju za masovni ulazak u fabrike: Do 2035. moglo bi da ih se proizvodi 1,5 miliona godišnje"
+  "Roboti se spremaju za masovni ulazak u fabrike: Do 2035. moglo bi da ih se proizvodi 1,5 miliona godišnje",
+  "JP Morgan: SAD bi do 2030. mogle da proizvode do 400.000 humanoidnih robota godišnje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "JP Morgan: proizvodnja humanoidnih robota u SAD do 2030. do 400.000 godišnje"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
