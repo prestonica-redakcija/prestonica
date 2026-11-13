@@ -1,0 +1,487 @@
+<!doctype html>
+<html lang="sr-Latn">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Statistika · Prestonica</title>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Statistika">
+<meta name="theme-color" content="#0d1730">
+<link rel="apple-touch-icon" href="/og/logo.png">
+<link rel="icon" href="/og/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800;900&family=Manrope:wght@400;500;600;700;800&display=swap">
+<style>
+:root{
+  --bg:#f3f5f9;--panel:#ffffff;--panel2:#f7f8fb;--ink:#0d1730;--ink2:#3a4560;--mut:#6b7590;--line:#e3e7ef;--line2:#eef1f6;
+  --brand:#d3263a;--navy:#0d1730;--acc:#2f5bea;--good:#0f9d63;--bad:#d3263a;--warn:#c98a12;--prev:#a9b2c6;
+  --bar:#dfe5f1;--shadow:0 1px 2px rgba(13,23,48,.05),0 6px 24px rgba(13,23,48,.06);
+  --c1:#2f5bea;--c2:#d3263a;--c3:#0f9d63;--c4:#c98a12;--c5:#7a4fd6;--c6:#1196b0;--c7:#6b7590;--c8:#e0679a;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#070d1d;--panel:#0f1830;--panel2:#131d38;--ink:#eef1f8;--ink2:#c3cadb;--mut:#8b95ad;--line:#202c4a;--line2:#18233f;
+  --acc:#6f8ff5;--good:#33c58a;--bad:#ff5a6c;--warn:#e3aa3c;--prev:#4a5778;--bar:#1d2947;--shadow:0 1px 2px rgba(0,0,0,.3),0 8px 28px rgba(0,0,0,.28);
+  --c1:#6f8ff5;--c2:#ff5a6c;--c3:#33c58a;--c4:#e3aa3c;--c5:#a585ef;--c6:#3fc0d8;--c7:#8b95ad;--c8:#f08bb5;color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#070d1d;--panel:#0f1830;--panel2:#131d38;--ink:#eef1f8;--ink2:#c3cadb;--mut:#8b95ad;--line:#202c4a;--line2:#18233f;
+  --acc:#6f8ff5;--good:#33c58a;--bad:#ff5a6c;--warn:#e3aa3c;--prev:#4a5778;--bar:#1d2947;--shadow:0 1px 2px rgba(0,0,0,.3),0 8px 28px rgba(0,0,0,.28);
+  --c1:#6f8ff5;--c2:#ff5a6c;--c3:#33c58a;--c4:#e3aa3c;--c5:#a585ef;--c6:#3fc0d8;--c7:#8b95ad;--c8:#f08bb5;color-scheme:dark}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font:14px/1.45 Manrope,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;-webkit-font-smoothing:antialiased;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-bottom:max(24px,env(safe-area-inset-bottom,0px))}
+a{color:inherit}
+button,input,select{font:inherit;color:inherit}
+.wrap{max-width:1320px;margin:0 auto}
+/* zaglavlje */
+.top{position:sticky;top:0;z-index:20;margin:0 calc(-1*max(16px,env(safe-area-inset-left,0px)));padding:calc(env(safe-area-inset-top,0px) + 12px) max(16px,env(safe-area-inset-right,0px)) 12px max(16px,env(safe-area-inset-left,0px));
+  background:color-mix(in srgb,var(--navy) 96%,transparent);backdrop-filter:saturate(1.4) blur(10px);-webkit-backdrop-filter:saturate(1.4) blur(10px);color:#fff;border-bottom:3px solid var(--brand)}
+.top .wrap{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.logo{font:900 24px/1 "Playfair Display",Georgia,serif;letter-spacing:.5px;text-decoration:none;color:#fff;white-space:nowrap}
+.logo b{color:var(--brand)}
+.logo small{font:700 11px/1 Manrope,sans-serif;letter-spacing:2.5px;text-transform:uppercase;color:#aeb8d0;margin-left:10px;vertical-align:4px}
+.live{display:inline-flex;align-items:center;gap:8px;padding:6px 12px;border-radius:999px;background:rgba(255,255,255,.08);font-weight:700;font-size:13px;white-space:nowrap}
+.dot{width:8px;height:8px;border-radius:50%;background:#33c58a;box-shadow:0 0 0 0 rgba(51,197,138,.7);animation:pulse 2s infinite}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(51,197,138,.6)}70%{box-shadow:0 0 0 9px rgba(51,197,138,0)}100%{box-shadow:0 0 0 0 rgba(51,197,138,0)}}
+.sp{flex:1}
+.seg{display:flex;background:rgba(255,255,255,.08);border-radius:10px;padding:3px;gap:2px;overflow-x:auto;max-width:100%;scrollbar-width:none}
+.seg::-webkit-scrollbar{display:none}
+.seg button{border:0;background:transparent;color:#cdd4e6;padding:7px 12px;border-radius:8px;cursor:pointer;font-weight:700;font-size:13px;white-space:nowrap}
+.seg button.on{background:#fff;color:var(--navy)}
+.tbtn{border:0;background:rgba(255,255,255,.08);color:#fff;width:36px;height:34px;border-radius:9px;cursor:pointer;display:grid;place-items:center}
+.tbtn:hover{background:rgba(255,255,255,.16)}
+.upd{font-size:12px;color:#aeb8d0;white-space:nowrap}
+.custom{display:none;gap:6px;align-items:center}
+.custom.on{display:flex}
+.custom input{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.15);color:#fff;border-radius:8px;padding:5px 8px;color-scheme:dark}
+/* raspored */
+main{padding-top:18px;display:grid;gap:16px}
+.grid{display:grid;gap:16px}
+.k6{grid-template-columns:repeat(6,minmax(0,1fr))}
+.g21{grid-template-columns:minmax(0,2fr) minmax(0,1fr)}
+.g3{grid-template-columns:repeat(3,minmax(0,1fr))}
+.g2{grid-template-columns:repeat(2,minmax(0,1fr))}
+@media (max-width:1100px){.k6{grid-template-columns:repeat(3,minmax(0,1fr))}.g21{grid-template-columns:minmax(0,1fr)}.g3{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:640px){.k6{grid-template-columns:repeat(2,minmax(0,1fr))}.g3,.g2{grid-template-columns:minmax(0,1fr)}.logo small{display:none}}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow);padding:18px;min-width:0}
+.card h2{margin:0 0 2px;font-size:15px;font-weight:800;letter-spacing:.1px;text-wrap:balance}
+.card .sub{color:var(--mut);font-size:12.5px;margin:0 0 14px}
+.hd{display:flex;align-items:flex-start;justify-content:space-between;gap:10px;flex-wrap:wrap;margin-bottom:12px}
+.hd .sub{margin:0}
+/* KPI */
+.kpi{padding:16px 16px 14px}
+.kpi .l{font-size:11.5px;font-weight:800;letter-spacing:1px;text-transform:uppercase;color:var(--mut)}
+.kpi .v{font-size:28px;font-weight:800;letter-spacing:-.5px;margin:6px 0 4px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.kpi .d{font-size:12.5px;font-weight:700;color:var(--mut)}
+.up{color:var(--good)!important}.dn{color:var(--bad)!important}
+.kpi .d span{font-weight:600;color:var(--mut)}
+.kpi.hl{background:var(--navy);border-color:var(--navy);color:#fff}
+.kpi.hl .l,.kpi.hl .d span{color:#aeb8d0}
+.kpi.hl .up{color:#5fe0a8!important}.kpi.hl .dn{color:#ff8a97!important}
+/* grafik */
+.chart{position:relative;width:100%;height:300px}
+.chart svg{width:100%;height:100%;display:block;overflow:visible}
+.tip{position:absolute;pointer-events:none;background:var(--navy);color:#fff;border-radius:10px;padding:8px 10px;font-size:12px;line-height:1.35;box-shadow:0 8px 24px rgba(0,0,0,.25);white-space:nowrap;transform:translate(-50%,-110%);opacity:0;transition:opacity .12s}
+.tip b{font-size:14px}
+.legend{display:flex;gap:14px;flex-wrap:wrap;font-size:12.5px;color:var(--mut)}
+.legend i{display:inline-block;width:12px;height:3px;border-radius:2px;vertical-align:middle;margin-right:6px}
+.tabs{display:flex;gap:4px;background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:3px}
+.tabs button{border:0;background:transparent;padding:5px 10px;border-radius:7px;cursor:pointer;font-weight:700;font-size:12.5px;color:var(--mut)}
+.tabs button.on{background:var(--panel);color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.08)}
+/* uživo */
+.big{font-size:52px;font-weight:800;letter-spacing:-1.5px;line-height:1;font-variant-numeric:tabular-nums}
+.big small{font-size:14px;font-weight:700;color:var(--mut);letter-spacing:0;margin-left:6px}
+.spark{display:flex;align-items:flex-end;gap:2px;height:56px;margin:14px 0 6px}
+.spark i{flex:1;background:var(--acc);border-radius:2px 2px 0 0;min-height:2px;opacity:.85}
+.spark i.z{background:var(--bar);opacity:1}
+.axis{display:flex;justify-content:space-between;font-size:11px;color:var(--mut)}
+.mini{list-style:none;margin:12px 0 0;padding:0;display:grid;gap:2px}
+.mini li{display:flex;gap:10px;align-items:baseline;padding:7px 0;border-top:1px solid var(--line2);font-size:13px}
+.mini li .n{margin-left:auto;font-weight:800;font-variant-numeric:tabular-nums}
+.mini li a{text-decoration:none;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.mini li a:hover{text-decoration:underline}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+.chip{font-size:12px;font-weight:700;background:var(--panel2);border:1px solid var(--line);border-radius:999px;padding:3px 9px;color:var(--ink2)}
+/* trake */
+.bars{display:grid;gap:10px}
+.br{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 10px;align-items:center;font-size:13px}
+.br .nm{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:600}
+.br .val{font-weight:800;font-variant-numeric:tabular-nums;text-align:right}
+.br .val span{color:var(--mut);font-weight:600;margin-left:6px;font-size:12px}
+.br .tr{grid-column:1/-1;height:7px;background:var(--bar);border-radius:99px;overflow:hidden}
+.br .tr i{display:block;height:100%;border-radius:99px;background:var(--acc)}
+.empty{color:var(--mut);font-size:13px;padding:14px 0}
+/* sati */
+.hours{display:grid;grid-template-columns:repeat(24,minmax(0,1fr));gap:3px;align-items:end;height:120px}
+.hours i{display:block;background:var(--acc);border-radius:3px 3px 0 0;min-height:2px;position:relative}
+.hours i.pk{background:var(--brand)}
+.hlab{display:grid;grid-template-columns:repeat(24,minmax(0,1fr));gap:3px;font-size:10.5px;color:var(--mut);text-align:center;margin-top:6px}
+.week{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:8px;margin-top:18px}
+.week div{text-align:center;font-size:12px;color:var(--mut)}
+.week b{display:block;height:8px;border-radius:99px;margin-bottom:6px;background:var(--acc)}
+/* tabela */
+.tools{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.search{background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:8px 12px;min-width:0;width:240px;max-width:100%}
+.btn{border:1px solid var(--line);background:var(--panel2);border-radius:10px;padding:8px 12px;cursor:pointer;font-weight:700;font-size:13px;white-space:nowrap}
+.btn:hover{border-color:var(--acc)}
+.btn.pri{background:var(--navy);border-color:var(--navy);color:#fff}
+.tw{overflow-x:auto;margin:0 -18px;padding:0 18px}
+table{width:100%;border-collapse:collapse;font-size:13px;min-width:940px}
+th{font-size:11px;font-weight:800;letter-spacing:.8px;text-transform:uppercase;color:var(--mut);text-align:right;padding:10px 8px;border-bottom:1px solid var(--line);cursor:pointer;white-space:nowrap;user-select:none}
+th:first-child,th:nth-child(2){text-align:left}
+th.s::after{content:" ↓";color:var(--acc)}
+th.s.asc::after{content:" ↑"}
+td{padding:11px 8px;border-bottom:1px solid var(--line2);text-align:right;vertical-align:middle;font-variant-numeric:tabular-nums}
+td:first-child{text-align:left;color:var(--mut);font-weight:700;width:34px}
+td.t{text-align:left;max-width:520px}
+td.t a{font-weight:700;text-decoration:none;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+td.t a:hover{text-decoration:underline}
+td.t .m{font-size:11.5px;color:var(--mut);margin-top:3px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.rub{font-size:10.5px;font-weight:800;letter-spacing:.6px;text-transform:uppercase;padding:2px 7px;border-radius:5px;background:var(--panel2);border:1px solid var(--line);color:var(--ink2)}
+.vb{display:flex;align-items:center;gap:8px;justify-content:flex-end}
+.vb i{display:block;height:6px;border-radius:99px;background:var(--acc);min-width:2px}
+.mix{display:flex;height:8px;width:110px;border-radius:99px;overflow:hidden;background:var(--bar);margin-left:auto}
+.mix i{display:block;height:100%}
+tr:hover td{background:var(--panel2)}
+.more{display:flex;justify-content:center;margin-top:12px}
+.mixleg{display:flex;gap:12px;flex-wrap:wrap;font-size:11.5px;color:var(--mut)}
+.mixleg i{display:inline-block;width:9px;height:9px;border-radius:3px;margin-right:5px;vertical-align:-1px}
+@media (max-width:700px){
+  .top{position:static}
+  .tw{margin:0;padding:0;overflow:visible}
+  table{min-width:0}
+  thead{display:none}
+  tbody tr{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px 12px;padding:14px 0;border-bottom:1px solid var(--line2)}
+  tbody td{border:0;padding:0;text-align:left;background:none!important}
+  tbody td:first-child{display:none}
+  tbody td.t{grid-column:1/-1;max-width:none}
+  tbody td::before{content:attr(data-l);display:block;font-size:10.5px;font-weight:800;letter-spacing:.7px;text-transform:uppercase;color:var(--mut);margin-bottom:2px}
+  tbody td.t::before{content:none}
+  tbody td.mx{grid-column:span 3}
+  .vb{justify-content:flex-start}.vb i{display:none}
+  .mix{margin-left:0;width:100%}
+  .tools{width:100%}.search{flex:1 1 100%;width:auto}
+}
+/* ključ */
+.gate{max-width:460px;margin:12vh auto 0}
+.gate h1{font:900 30px/1.1 "Playfair Display",Georgia,serif;margin:0 0 6px}
+.gate p{color:var(--mut);margin:0 0 18px}
+.gate input[type=password]{width:100%;background:var(--panel2);border:1px solid var(--line);border-radius:12px;padding:12px 14px;font-size:15px;margin-bottom:12px}
+.gate label{display:flex;gap:8px;align-items:center;font-size:13px;color:var(--ink2);margin-bottom:16px}
+.err{color:var(--bad);font-weight:700;font-size:13px;min-height:18px;margin-top:8px}
+.foot{color:var(--mut);font-size:12px;text-align:center;padding:10px 0 4px;display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
+.foot button{background:none;border:0;color:var(--acc);cursor:pointer;font-weight:700;font-size:12px;padding:0}
+.skel{color:transparent!important;background:linear-gradient(90deg,var(--line2),var(--line),var(--line2));background-size:200% 100%;animation:sh 1.2s infinite;border-radius:8px}
+@keyframes sh{to{background-position:-200% 0}}
+.note{background:var(--panel2);border:1px dashed var(--line);border-radius:12px;padding:12px 14px;color:var(--ink2);font-size:13px}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="logo" href="/">PRESTONICA<b>.</b><small>Statistika</small></a>
+    <span class="live" id="livePill" title="Jedinstveni posetioci u poslednjih 5 minuta"><span class="dot"></span><span id="liveTxt">—</span></span>
+    <span class="sp"></span>
+    <div class="seg" id="seg">
+      <button data-p="danas" class="on">Danas</button>
+      <button data-p="juce">Juče</button>
+      <button data-p="7">7 dana</button>
+      <button data-p="30">30 dana</button>
+      <button data-p="90">90 dana</button>
+      <button data-p="sve">Sve</button>
+      <button data-p="custom">Period</button>
+    </div>
+    <div class="custom" id="custom"><input type="date" id="dOd"><span>–</span><input type="date" id="dDo"></div>
+    <button class="tbtn" id="refresh" title="Osveži" aria-label="Osveži"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg></button>
+    <span class="upd" id="upd"></span>
+  </div>
+</header>
+
+<div class="wrap">
+<section class="gate card" id="gate" hidden>
+  <h1>Statistika portala</h1>
+  <p>Unesi ključ za pristup. Čuva se samo u ovom pregledaču.</p>
+  <form id="gateForm"><input type="password" id="key" placeholder="Ključ (STAT_KLJUC)" autocomplete="current-password" required>
+  <label><input type="checkbox" id="nb" checked> Ne broji moje posete portalu sa ovog uređaja</label>
+  <button class="btn pri" type="submit" style="width:100%;padding:12px">Otvori statistiku</button>
+  <div class="err" id="gErr"></div></form>
+</section>
+
+<main id="app" hidden>
+  <section class="grid k6" id="kpis"></section>
+
+  <section class="grid g21">
+    <div class="card">
+      <div class="hd"><div><h2 id="chTitle">Pregledi kroz vreme</h2><p class="sub" id="chSub"></p></div>
+        <div class="tabs" id="chTabs"><button data-m="v" class="on">Pregledi</button><button data-m="u">Posetioci</button></div></div>
+      <div class="chart" id="chart"><div class="tip" id="tip"></div></div>
+      <div class="legend" style="margin-top:10px"><span><i style="background:var(--acc)"></i>Izabrani period</span><span><i style="background:var(--prev)"></i>Prethodni period</span></div>
+    </div>
+    <div class="card" id="liveCard">
+      <div class="hd"><div><h2>Uživo</h2><p class="sub">Osvežava se na 30 sekundi</p></div></div>
+      <div class="big" id="lvBig">0<small>na sajtu sada</small></div>
+      <div class="spark" id="lvSpark"></div>
+      <div class="axis"><span>pre 30 min</span><span id="lvSum"></span><span>sada</span></div>
+      <div class="chips" id="lvSrc"></div>
+      <ul class="mini" id="lvTop"></ul>
+    </div>
+  </section>
+
+  <section class="card">
+    <div class="hd">
+      <div><h2>Najčitaniji tekstovi</h2><p class="sub" id="topSub">Sve stranice portala u izabranom periodu</p></div>
+      <div class="tools"><input class="search" id="q" type="search" placeholder="Traži naslov ili rubriku"><select class="btn" id="sortSel" aria-label="Sortiraj"><option value="v">Po pregledima</option><option value="u">Po posetiocima</option><option value="sek">Po vremenu čitanja</option><option value="dub">Po pročitanosti</option><option value="mob">Po udelu mobilnih</option><option value="x">Po pregledima sa X-a</option><option value="g">Po pregledima sa Google-a</option></select><button class="btn" id="csv">Izvezi CSV</button></div>
+    </div>
+    <div class="mixleg" id="mixleg" style="margin-bottom:8px"></div>
+    <div class="tw"><table><thead><tr>
+      <th data-k="i">#</th><th data-k="naslov">Tekst</th><th data-k="v" class="s">Pregledi</th><th data-k="u">Posetioci</th><th data-k="sek">Vreme</th><th data-k="dub">Pročitano</th><th data-k="mob">Mobilni</th><th data-k="x">X / Google</th><th data-k="g">Odakle dolaze</th>
+    </tr></thead><tbody id="tb"></tbody></table></div>
+    <div class="more"><button class="btn" id="moreBtn">Prikaži sve</button></div>
+  </section>
+
+  <section class="grid g3">
+    <div class="card"><h2>Izvori saobraćaja</h2><p class="sub">Odakle čitaoci dolaze na portal</p><div class="bars" id="bIzv"></div></div>
+    <div class="card"><h2>Sajtovi i mreže koji šalju čitaoce</h2><p class="sub">Tačna adresa sa koje je kliknut link</p><div class="bars" id="bRef"></div></div>
+    <div class="card"><h2>Rubrike</h2><p class="sub">Pregledi i prosečno vreme po rubrici</p><div class="bars" id="bRub"></div></div>
+  </section>
+
+  <section class="grid g21">
+    <div class="card"><h2>Kad čitaju</h2><p class="sub">Pregledi po satu (beogradsko vreme) i danu u nedelji</p>
+      <div class="hours" id="hours"></div><div class="hlab" id="hlab"></div><div class="week" id="week"></div></div>
+    <div class="card"><h2>Uređaji</h2><p class="sub">Telefon, tablet ili računar</p><div class="bars" id="bUr"></div>
+      <h2 style="margin-top:20px">Sistemi</h2><p class="sub">Operativni sistem</p><div class="bars" id="bOs"></div></div>
+  </section>
+
+  <section class="grid g3">
+    <div class="card"><h2>Zemlje</h2><p class="sub">Prema mreži sa koje se čita</p><div class="bars" id="bZem"></div></div>
+    <div class="card"><h2>Gradovi</h2><p class="sub">Približno, prema mreži</p><div class="bars" id="bGr"></div></div>
+    <div class="card"><h2>Pregledači i aplikacije</h2><p class="sub">Uključujući ugrađene pregledače u X, Facebook i Instagram aplikacijama</p><div class="bars" id="bPr"></div></div>
+  </section>
+
+  <div class="note" id="note" hidden></div>
+  <div class="foot"><span>Bez kolačića. IP adrese se ne čuvaju; posetilac se prepoznaje samo u toku jednog dana.</span><span id="nbState"></span><button id="logout">Odjavi ključ</button></div>
+</main>
+</div>
+
+<script>
+(function(){
+"use strict";
+var API="/api/stat", TZ="Europe/Belgrade", K="prestonica_stat_kljuc", NB="prestonica_ne_broji";
+var $=function(s){return document.querySelector(s)}, el=function(t,c,h){var e=document.createElement(t);if(c)e.className=c;if(h!=null)e.innerHTML=h;return e};
+function ls(k,v){try{if(v===undefined)return localStorage.getItem(k);if(v===null)localStorage.removeItem(k);else localStorage.setItem(k,v)}catch(e){return null}}
+var key=ls(K)||"", period=ls("prestonica_stat_period")||"danas", metric="v", data=null, sortK="v", sortAsc=false, showAll=false, q="";
+var nf=new Intl.NumberFormat("sr-Latn-RS"), pf=new Intl.NumberFormat("sr-Latn-RS",{maximumFractionDigits:1});
+var regions; try{regions=new Intl.DisplayNames(["sr-Latn"],{type:"region"})}catch(e){regions=null}
+var COL={"X":"var(--c1)","Google":"var(--c3)","Google vesti":"var(--c6)","Facebook":"var(--c5)","Direktno":"var(--c4)","Interno":"var(--c7)","Instagram":"var(--c8)","Telegram":"var(--c6)","Viber":"var(--c5)","WhatsApp":"var(--c3)","Ostali pretraživači":"var(--c3)","Ostale mreže":"var(--c8)","Drugi sajtovi":"var(--c2)"};
+var MIX=[["x","X","var(--c1)"],["g","Google","var(--c3)"],["f","Facebook","var(--c5)"],["d","Direktno","var(--c4)"],["i","Interno","var(--c7)"],["o","Ostalo","var(--c2)"]];
+var esc=function(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})};
+function n(v){return nf.format(Math.round(v||0))}
+function dur(s){s=Math.round(s||0);if(!s)return"—";var m=Math.floor(s/60),r=s%60;return m?m+" min "+(r<10?"0":"")+r+" s":r+" s"}
+function pct(a,b){return b?a/b*100:0}
+
+// ---- datumi u beogradskom vremenu
+function partsBg(ms){var p=new Intl.DateTimeFormat("en-US",{timeZone:TZ,hour12:false,year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit",second:"2-digit"}).formatToParts(new Date(ms));var o={};p.forEach(function(x){o[x.type]=+x.value});o.hour%=24;return o}
+function offBg(ms){var o=partsBg(ms);return Date.UTC(o.year,o.month-1,o.day,o.hour,o.minute,o.second)-Math.floor(ms/1000)*1000}
+function midnightBg(ms){var o=partsBg(ms);var guess=Date.UTC(o.year,o.month-1,o.day);return guess-offBg(guess)}
+function dayKeyToMs(k){var a=k.split("-");var g=Date.UTC(+a[0],+a[1]-1,+a[2]);return g-offBg(g)}
+function range(){
+  var now=Date.now(), t0=midnightBg(now);
+  if(period==="danas")return[t0,now,"Danas"];
+  if(period==="juce")return[midnightBg(t0-36e5),t0,"Juče"];
+  if(period==="sve")return[now-400*864e5,now,"Od početka merenja"];
+  if(period==="custom"){var a=$("#dOd").value,b=$("#dDo").value;if(a&&b){var s=dayKeyToMs(a),e=dayKeyToMs(b)+864e5;if(e>s)return[s,Math.min(e,now),a.split("-").reverse().join(".")+" – "+b.split("-").reverse().join(".")]}return[midnightBg(now-6*864e5),now,"Poslednjih 7 dana"]}
+  var d=+period;return[midnightBg(now-(d-1)*864e5),now,"Poslednjih "+d+" dana"];
+}
+
+// ---- mreža
+function get(path){
+  return fetch(API+path,{headers:{"X-Kljuc":key},cache:"no-store"}).then(function(r){
+    if(r.status===401){var e=new Error("Pogrešan ključ.");e.auth=1;throw e}
+    if(r.status===503)return r.json().then(function(j){throw new Error(j.greska||"Servis nije podešen.")});
+    if(!r.ok)throw new Error("Statistika trenutno nije dostupna ("+r.status+").");
+    return r.json();
+  });
+}
+var busy=false;
+function loadReport(){
+  if(busy)return; busy=true; $("#refresh").style.opacity=".5";
+  var r=range();
+  return get("/izvestaj?od="+r[0]+"&do="+r[1]).then(function(j){data=j;data.label=r[2];render();$("#upd").textContent="Ažurirano "+new Date().toLocaleTimeString("sr-Latn-RS",{hour:"2-digit",minute:"2-digit"});$("#note").hidden=true})
+  .catch(fail).finally(function(){busy=false;$("#refresh").style.opacity=""});
+}
+function loadLive(){return get("/uzivo").then(renderLive).catch(function(e){if(e.auth)fail(e)})}
+function fail(e){
+  if(e.auth){ls(K,null);key="";showGate("Ključ nije ispravan. Unesi ga ponovo.");return}
+  var nt=$("#note");nt.hidden=false;nt.textContent=e.message;
+}
+
+// ---- KPI
+function delta(cur,prev,inv){
+  if(!prev)return'<span>nema poređenja</span>';
+  var d=(cur-prev)/prev*100, good=inv?d<0:d>0, cls=Math.abs(d)<0.5?"":(good?"up":"dn");
+  return'<b class="'+cls+'">'+(d>0?"▲ ":d<0?"▼ ":"")+pf.format(Math.abs(d))+'%</b> <span>u odnosu na prethodni period</span>';
+}
+function renderKpis(){
+  var a=data.ukupno||{}, b=data.ranije||{};
+  var ppa=a.u?a.v/a.u:0, ppb=b.u?b.v/b.u:0, ka=pct(a.kraj,a.merljivo), kb=pct(b.kraj,b.merljivo), za=pct(a.brzo,a.merljivo), zb=pct(b.brzo,b.merljivo);
+  var cards=[
+    ["Pregledi",n(a.v),delta(a.v,b.v),1],
+    ["Posetioci",n(a.u),delta(a.u,b.u)],
+    ["Strana po posetiocu",ppa?pf.format(ppa):"—",delta(ppa,ppb)],
+    ["Prosečno vreme čitanja",dur(a.sek),delta(a.sek,b.sek)],
+    ["Pročitano do kraja",a.merljivo?pf.format(ka)+"%":"—",delta(ka,kb)],
+    ["Brzi izlasci (do 10 s)",a.merljivo?pf.format(za)+"%":"—",delta(za,zb,true)]
+  ];
+  $("#kpis").innerHTML=cards.map(function(c){return'<div class="card kpi'+(c[3]?" hl":"")+'"><div class="l">'+c[0]+'</div><div class="v">'+c[1]+'</div><div class="d">'+c[2]+'</div></div>'}).join("");
+}
+
+// ---- grafik
+function series(){
+  var hourly=data.hourly, r=[data.od,data.do], pts=[], prev={}, cur={};
+  (data.niz||[]).forEach(function(x){cur[x.k]=x});(data.nizRanije||[]).forEach(function(x){prev[x.k]=x});
+  var step=hourly?36e5:864e5, t=hourly?r[0]:midnightBg(r[0]);
+  for(var guard=0;t<r[1]&&guard<500;guard++){
+    var o=partsBg(t+1000), k=o.year+"-"+String(o.month).padStart(2,"0")+"-"+String(o.day).padStart(2,"0")+(hourly?" "+String(o.hour).padStart(2,"0"):"");
+    pts.push({k:k,t:t,v:(cur[k]||{}).v||0,u:(cur[k]||{}).u||0,p:(prev[k]||{}).v||0});
+    t=hourly?t+step:midnightBg(t+step+3*36e5);
+  }
+  return pts;
+}
+function lab(p,hourly){var o=partsBg(p.t+1000);return hourly?String(o.hour).padStart(2,"0")+":00":o.day+"."+o.month+"."}
+function renderChart(){
+  var box=$("#chart"), pts=series(), hourly=data.hourly, W=box.clientWidth||700, H=box.clientHeight||300, L=44, R=10, T=12, B=28;
+  var key2=metric, showPrev=metric==="v";
+  var max=Math.max(1,Math.max.apply(null,pts.map(function(p){return Math.max(p[key2],showPrev?p.p:0)})));
+  var mag=Math.pow(10,Math.floor(Math.log10(max))), nice=[1,2,2.5,5,10].map(function(m){return m*mag}).find(function(m){return m*4>=max})||max; var top=nice*4;
+  var x=function(i){return L+(pts.length<2?0:(W-L-R)*i/(pts.length-1))}, y=function(v){return T+(H-T-B)*(1-v/top)};
+  var g="";
+  for(var i=0;i<=4;i++){var yy=y(nice*i);g+='<line x1="'+L+'" x2="'+(W-R)+'" y1="'+yy+'" y2="'+yy+'" stroke="var(--line)" stroke-dasharray="'+(i?"3 4":"0")+'"/><text x="'+(L-8)+'" y="'+(yy+4)+'" text-anchor="end" font-size="11" fill="var(--mut)">'+n(nice*i)+'</text>'}
+  var every=Math.max(1,Math.ceil(pts.length/(W<520?5:9)));
+  pts.forEach(function(p,i){if(i%every===0||i===pts.length-1&&pts.length<40)g+='<text x="'+x(i)+'" y="'+(H-8)+'" text-anchor="middle" font-size="11" fill="var(--mut)">'+lab(p,hourly)+'</text>'});
+  var line=function(k){return pts.map(function(p,i){return(i?"L":"M")+x(i).toFixed(1)+","+y(p[k]).toFixed(1)}).join("")};
+  if(showPrev)g+='<path d="'+line("p")+'" fill="none" stroke="var(--prev)" stroke-width="2" stroke-dasharray="5 5"/>';
+  var area=line(key2)+"L"+x(pts.length-1)+","+y(0)+"L"+x(0)+","+y(0)+"Z";
+  g+='<defs><linearGradient id="ga" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="var(--acc)" stop-opacity=".28"/><stop offset="1" stop-color="var(--acc)" stop-opacity="0"/></linearGradient></defs>';
+  g+='<path d="'+area+'" fill="url(#ga)"/><path d="'+line(key2)+'" fill="none" stroke="var(--acc)" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>';
+  if(pts.length<=48)pts.forEach(function(p,i){if(p[key2])g+='<circle cx="'+x(i)+'" cy="'+y(p[key2])+'" r="2.6" fill="var(--acc)"/>'});
+  g+='<line id="cur" x1="0" x2="0" y1="'+T+'" y2="'+(H-B)+'" stroke="var(--ink2)" stroke-opacity=".35" visibility="hidden"/><circle id="curd" r="5" fill="var(--panel)" stroke="var(--acc)" stroke-width="3" visibility="hidden"/>';
+  g+='<rect x="'+L+'" y="0" width="'+(W-L-R)+'" height="'+H+'" fill="transparent" id="hit"/>';
+  var svg='<svg viewBox="0 0 '+W+' '+H+'" preserveAspectRatio="none" role="img" aria-label="Grafik pregleda">'+g+'</svg>';
+  var tip=$("#tip"); box.innerHTML=svg; box.appendChild(tip);
+  var hit=box.querySelector("#hit"), cur=box.querySelector("#cur"), cd=box.querySelector("#curd");
+  function mv(ev){var rc=box.getBoundingClientRect(), cx=(ev.touches?ev.touches[0].clientX:ev.clientX)-rc.left, i=Math.round((cx-L)/((W-L-R)/Math.max(1,pts.length-1)));i=Math.max(0,Math.min(pts.length-1,i));var p=pts[i];
+    cur.setAttribute("x1",x(i));cur.setAttribute("x2",x(i));cur.setAttribute("visibility","visible");cd.setAttribute("cx",x(i));cd.setAttribute("cy",y(p[key2]));cd.setAttribute("visibility","visible");
+    var o=partsBg(p.t+1000);tip.innerHTML=(hourly?o.day+"."+o.month+". "+lab(p,1):o.day+"."+o.month+"."+o.year+".")+'<br><b>'+n(p.v)+'</b> pregleda · '+n(p.u)+' posetilaca'+(showPrev?'<br><span style="opacity:.7">prethodni period: '+n(p.p)+'</span>':"");
+    tip.style.left=Math.max(80,Math.min(W-80,x(i)))+"px";tip.style.top=y(p[key2])+"px";tip.style.opacity=1}
+  function out(){cur.setAttribute("visibility","hidden");cd.setAttribute("visibility","hidden");tip.style.opacity=0}
+  hit.addEventListener("mousemove",mv);hit.addEventListener("touchmove",mv,{passive:true});hit.addEventListener("touchstart",mv,{passive:true});hit.addEventListener("mouseleave",out);hit.addEventListener("touchend",function(){setTimeout(out,1800)});
+  var tot=pts.reduce(function(s,p){return s+p.v},0), best=pts.reduce(function(m,p){return p.v>m.v?p:m},{v:0});
+  $("#chSub").textContent=data.label+" · "+(hourly?"po satu":"po danu")+(best.v?" · najjače: "+lab(best,hourly)+(hourly?"":"")+" ("+n(best.v)+")":"");
+}
+
+// ---- trake
+function bars(id,rows,opt){
+  opt=opt||{};var box=$(id);
+  if(!rows||!rows.length){box.innerHTML='<div class="empty">Još nema podataka za ovaj period.</div>';return}
+  var tot=rows.reduce(function(s,r){return s+r.v},0), max=Math.max.apply(null,rows.map(function(r){return r.v}));
+  box.innerHTML=rows.slice(0,opt.lim||10).map(function(r){var nm=opt.name?opt.name(r):r.k||"Nepoznato";var c=opt.color?opt.color(r):"var(--acc)";
+    return'<div class="br"><div class="nm" title="'+esc(nm)+'">'+esc(nm)+'</div><div class="val">'+n(r.v)+'<span>'+pf.format(pct(r.v,tot))+'%'+(opt.extra?" · "+opt.extra(r):"")+'</span></div><div class="tr"><i style="width:'+pct(r.v,max).toFixed(1)+'%;background:'+c+'"></i></div></div>'}).join("");
+}
+function country(c){if(!c)return"Nepoznato";if(c==="T1")return"Tor mreža";if(c==="XK")return"Kosovo";try{return regions?regions.of(c):c}catch(e){return c}}
+
+// ---- tabela
+function rubName(r){return r||""}
+function renderTable(){
+  var rows=(data.top||[]).map(function(r,i){var o=Math.max(0,r.v-r.x-r.g-r.f-r.d-r.i);return Object.assign({},r,{i:i+1,o:o,mobp:pct(r.mob,r.v),naslov:r.naslov||(r.put==="/"?"Naslovna strana":r.put)})});
+  if(q){var qq=q.toLowerCase();rows=rows.filter(function(r){return(r.naslov+" "+(r.rubrika||"")+" "+r.put).toLowerCase().indexOf(qq)>=0})}
+  var k=sortK==="mob"?"mobp":sortK;
+  rows.sort(function(a,b){var A=a[k],B=b[k];if(typeof A==="string"||typeof B==="string"){A=String(A||"");B=String(B||"");return sortAsc?A.localeCompare(B,"sr"):B.localeCompare(A,"sr")}return sortAsc?(A||0)-(B||0):(B||0)-(A||0)});
+  var max=Math.max.apply(null,(data.top||[{v:1}]).map(function(r){return r.v}).concat([1]));
+  var list=showAll?rows:rows.slice(0,25);
+  $("#tb").innerHTML=list.length?list.map(function(r){
+    var mix=MIX.map(function(m){var v=r[m[0]]||0;return v?'<i title="'+m[1]+": "+n(v)+'" style="width:'+pct(v,r.v).toFixed(1)+'%;background:'+m[2]+'"></i>':""}).join("");
+    var url=r.put.indexOf("/")===0?r.put:"/"+r.put;
+    return'<tr><td>'+r.i+'</td><td class="t"><a href="'+esc(url)+'" target="_blank" rel="noopener">'+esc(r.naslov)+'</a><div class="m">'+(r.rubrika?'<span class="rub">'+esc(r.rubrika)+'</span>':"")+'<span>'+esc(url.length>60?url.slice(0,60)+"…":url)+'</span></div></td>'+
+      '<td data-l="Pregledi"><div class="vb"><i style="width:'+Math.max(2,pct(r.v,max)*.7).toFixed(1)+'px"></i><b>'+n(r.v)+'</b></div></td><td data-l="Posetioci">'+n(r.u)+'</td><td data-l="Vreme">'+dur(r.sek)+'</td><td data-l="Pročitano">'+(r.dub!=null?Math.round(r.dub)+"%":"—")+'</td><td data-l="Mobilni">'+Math.round(r.mobp)+'%</td><td data-l="X / Google">'+n(r.x)+' / '+n(r.g)+'</td><td class="mx" data-l="Odakle dolaze"><div class="mix">'+mix+'</div></td></tr>'}).join(""):'<tr><td colspan="9" class="empty" style="text-align:center">Nema tekstova za ovaj period ili pretragu.</td></tr>';
+  document.querySelectorAll("th").forEach(function(th){th.classList.toggle("s",th.dataset.k===sortK);th.classList.toggle("asc",th.dataset.k===sortK&&sortAsc)});var ss=$("#sortSel");if([].some.call(ss.options,function(o){return o.value===sortK}))ss.value=sortK;
+  var b=$("#moreBtn");b.hidden=rows.length<=25;b.textContent=showAll?"Prikaži manje":"Prikaži sve ("+rows.length+")";
+  $("#topSub").textContent=data.label+" · "+n((data.top||[]).length)+" stranica sa pregledima";
+}
+
+function renderHours(){
+  var h=new Array(24).fill(0);(data.sati||[]).forEach(function(r){h[r.k]=r.v});var mx=Math.max.apply(null,h.concat([1])), pk=h.indexOf(mx);
+  $("#hours").innerHTML=h.map(function(v,i){return'<i title="'+String(i).padStart(2,"0")+':00 · '+n(v)+' pregleda" class="'+(i===pk&&v?"pk":"")+'" style="height:'+Math.max(2,pct(v,mx))+'%"></i>'}).join("");
+  $("#hlab").innerHTML=h.map(function(v,i){return'<span>'+(i%3===0?String(i).padStart(2,"0"):"")+'</span>'}).join("");
+  var names=["Ned","Pon","Uto","Sre","Čet","Pet","Sub"], d=new Array(7).fill(0);(data.dani||[]).forEach(function(r){d[r.k]=r.v});var md=Math.max.apply(null,d.concat([1]));
+  var order=[1,2,3,4,5,6,0];
+  $("#week").innerHTML=order.map(function(i){return'<div><b style="opacity:'+(0.18+0.82*d[i]/md).toFixed(2)+'"></b>'+names[i]+'<br><strong style="color:var(--ink)">'+n(d[i])+'</strong></div>'}).join("");
+}
+
+function render(){
+  renderKpis();renderChart();renderTable();renderHours();
+  bars("#bIzv",data.izvori,{color:function(r){return COL[r.k]||"var(--acc)"},extra:function(r){return n(r.u)+" posetilaca"}});
+  bars("#bRef",data.refovi,{lim:12});
+  bars("#bRub",(data.rubrike||[]).map(function(r){return Object.assign({},r,{k:r.k||"Naslovna i ostale strane"})}),{lim:12,extra:function(r){return dur(r.sek)}});
+  bars("#bUr",data.uredjaji,{color:function(r,i){return{"Mobilni":"var(--c1)","Računar":"var(--c4)","Tablet":"var(--c5)"}[r.k]||"var(--acc)"}});
+  bars("#bOs",data.sistemi,{lim:6});
+  bars("#bZem",data.zemlje,{lim:12,name:function(r){return country(r.k)}});
+  bars("#bGr",data.gradovi,{lim:12,name:function(r){return(r.k||"Nepoznato")+(r.z&&r.z!=="RS"?", "+country(r.z):"")}});
+  bars("#bPr",data.pregledaci,{lim:10});
+  $("#mixleg").innerHTML=MIX.map(function(m){return'<span><i style="background:'+m[2]+'"></i>'+m[1]+'</span>'}).join("");
+  if(!(data.ukupno||{}).v&&period!=="sve"){var nt=$("#note");nt.hidden=false;nt.textContent="Za ovaj period još nema pregleda. Statistika se beleži od trenutka uključenja; stariji podaci ne postoje."}
+}
+
+function renderLive(j){
+  $("#liveTxt").textContent=n(j.aktivni)+(j.aktivni===1?" čitalac sada":" čitalaca sada");
+  $("#lvBig").innerHTML=n(j.aktivni)+"<small>na sajtu sada</small>";
+  var m={};(j.minuti||[]).forEach(function(r){m[r.m]=r.v});var nowm=Math.floor(j.sada/6e4), arr=[];for(var i=29;i>=0;i--)arr.push(m[nowm-i]||0);
+  var mx=Math.max.apply(null,arr.concat([1])), sum=arr.reduce(function(a,b){return a+b},0);
+  $("#lvSpark").innerHTML=arr.map(function(v){return'<i class="'+(v?"":"z")+'" style="height:'+Math.max(4,pct(v,mx))+'%" title="'+n(v)+' pregleda"></i>'}).join("");
+  $("#lvSum").textContent=n(sum)+" pregleda za 30 min";
+  $("#lvSrc").innerHTML=(j.izvori||[]).slice(0,6).map(function(r){return'<span class="chip">'+esc(r.k)+" "+n(r.v)+'</span>'}).join("");
+  $("#lvTop").innerHTML=(j.stranice||[]).length?(j.stranice||[]).slice(0,7).map(function(r){return'<li><a href="'+esc(r.put)+'" target="_blank" rel="noopener">'+esc(r.naslov||(r.put==="/"?"Naslovna strana":r.put))+'</a><span class="n">'+n(r.v)+'</span></li>'}).join(""):'<li class="empty">Trenutno niko ne čita.</li>';
+}
+
+// ---- CSV
+function csv(){
+  if(!data)return;var rows=[["Naslov","Adresa","Rubrika","Pregledi","Posetioci","Prosečno vreme (s)","Pročitano (%)","Mobilni (%)","X","Google","Facebook","Direktno","Interno"]];
+  (data.top||[]).forEach(function(r){rows.push([r.naslov||"",r.put,r.rubrika||"",r.v,r.u,Math.round(r.sek||0),Math.round(r.dub||0),Math.round(pct(r.mob,r.v)),r.x,r.g,r.f,r.d,r.i])});
+  var s="﻿"+rows.map(function(r){return r.map(function(c){c=String(c==null?"":c);return/[";,\n]/.test(c)?'"'+c.replace(/"/g,'""')+'"':c}).join(";")}).join("\n");
+  var a=document.createElement("a");a.href=URL.createObjectURL(new Blob([s],{type:"text/csv;charset=utf-8"}));a.download="prestonica-statistika-"+new Date().toISOString().slice(0,10)+".csv";document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);a.remove()},500);
+}
+
+// ---- ulaz
+function showGate(msg){$("#app").hidden=true;$("#gate").hidden=false;$("#gErr").textContent=msg||"";$("#key").focus()}
+function start(){
+  $("#gate").hidden=true;$("#app").hidden=false;
+  $("#nbState").textContent=ls(NB)==="1"?"Tvoje posete sa ovog uređaja se ne broje.":"";
+  document.querySelectorAll("#seg button").forEach(function(b){b.classList.toggle("on",b.dataset.p===period)});
+  $("#custom").classList.toggle("on",period==="custom");
+  loadReport();loadLive();
+}
+$("#gateForm").addEventListener("submit",function(e){e.preventDefault();key=$("#key").value.trim();if(!key)return;ls(K,key);if($("#nb").checked)ls(NB,"1");else ls(NB,null);start()});
+$("#logout").addEventListener("click",function(){ls(K,null);key="";showGate()});
+$("#seg").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;period=b.dataset.p;ls("prestonica_stat_period",period);document.querySelectorAll("#seg button").forEach(function(x){x.classList.toggle("on",x===b)});$("#custom").classList.toggle("on",period==="custom");
+  if(period==="custom"&&!$("#dOd").value){var t=new Date();$("#dDo").value=t.toISOString().slice(0,10);$("#dOd").value=new Date(t-6*864e5).toISOString().slice(0,10)}loadReport()});
+["#dOd","#dDo"].forEach(function(s){$(s).addEventListener("change",function(){if(period==="custom")loadReport()})});
+$("#refresh").addEventListener("click",function(){loadReport();loadLive()});
+$("#chTabs").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;metric=b.dataset.m;document.querySelectorAll("#chTabs button").forEach(function(x){x.classList.toggle("on",x===b)});$("#chTitle").textContent=metric==="v"?"Pregledi kroz vreme":"Posetioci kroz vreme";if(data)renderChart()});
+document.querySelector("thead").addEventListener("click",function(e){var th=e.target.closest("th");if(!th||!data)return;var k=th.dataset.k;if(k===sortK)sortAsc=!sortAsc;else{sortK=k;sortAsc=k==="naslov"||k==="i"}renderTable()});
+$("#sortSel").addEventListener("change",function(e){sortK=e.target.value;sortAsc=false;if(data)renderTable()});
+$("#q").addEventListener("input",function(e){q=e.target.value.trim();if(data)renderTable()});
+$("#moreBtn").addEventListener("click",function(){showAll=!showAll;renderTable()});
+$("#csv").addEventListener("click",csv);
+var rt;addEventListener("resize",function(){clearTimeout(rt);rt=setTimeout(function(){if(data)renderChart()},150)});
+setInterval(function(){if(key&&!document.hidden)loadLive()},30000);
+setInterval(function(){if(key&&!document.hidden&&(period==="danas"||period==="7"||period==="30"||period==="90"||period==="sve"))loadReport()},300000);
+document.addEventListener("visibilitychange",function(){if(!document.hidden&&key){loadLive();if(data&&Date.now()-data.generisano>120000)loadReport()}});
+if(key)start();else showGate();
+})();
+</script>
+</body>
+</html>
