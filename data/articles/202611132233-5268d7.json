@@ -25,7 +25,7 @@
  ],
  "importance": 7,
  "published": "2026-11-13T21:33:05.259057+00:00",
- "updated": "2026-11-13T21:33:05.259057+00:00",
+ "updated": "2026-11-13T22:03:00.333562+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -38,11 +38,18 @@
    "url": "https://www.b92.net/info/svet/284832/faa-obustavila-sve-letove-iz-sad-zbog-bezbednosnih-razloga/vest",
    "title": "Obustavljeni svi letovi iz SAD",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/letovi-sjedinjene-americke-drzave-prizemljeni-bezbednosni-razlog/",
+   "title": "Svi letovi u SAD prizemljeni zbog \"vanrednih okolnosti i bezbednosnih razloga\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Obustava letova u SAD: Naređena zabrana poletanja širom zemlje iz \"bezbednosnih razloga“",
-  "Obustavljeni svi letovi iz SAD"
+  "Obustavljeni svi letovi iz SAD",
+  "Svi letovi u SAD prizemljeni zbog \"vanrednih okolnosti i bezbednosnih razloga\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "FAA naredila obustavu svih poletanja u SAD iz bezbednosnih razloga"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

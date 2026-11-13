@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T11:07:47.950991+00:00",
- "updated": "2026-11-13T21:33:05.259057+00:00",
+ "updated": "2026-11-13T22:03:00.333562+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -85,6 +85,24 @@
    "url": "https://www.tanjug.rs/srbija/hronika/297646/mup-u-srbiji-i-sloveniji-uhapsena-organizovana-kriminalna-grupa-za-krijumcarenje-droge/vest",
    "title": "MUP: U Srbiji i Sloveniji uhapšena organizovana kriminalna grupa za krijumčarenje droge",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/mup-hapsenja-u-srbiji-i-sloveniji-zbog-krijumcarenja-droge-kamionima-zaplenjeni-hasis-marihuana-i-kokain",
+   "title": "MUP: Hapšenja u Srbiji i Sloveniji zbog krijumčarenja droge kamionima, zaplenjeni hašiš, marihuana i kokain",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4432807-policija-upala-u-stan-kod-panceva-i-ostala-zatecena-pronadjeno-vise-od-7-kilograma-razlicitih-droga",
+   "title": "Policija upala u stan u Pančevu i ostala zatečena: Pronađeno više od 7 kilograma različitih droga",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/svercovali-kokain-u-posebno-napravljenim-bunkerima-u-kamionima-u-zajednickoj-akciji-srpske-i-slovenacke-policije-uhapseno-6-osoba/",
+   "title": "Švercovali kokain u posebno napravljenim bunkerima u kamionima: U zajedničkoj akciji srpske i slovenačke policije uhapšeno 6 osoba",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -96,7 +114,10 @@
   "MUP: Zaplenjeno 12 kilograma kokaina, traga se za jednom osobom",
   "Srpska policija uhapsila više članova organizovane kriminalne grupe zbog krijumčarenja droge",
   "POLICIJA UPALA U STAN U PODGORICI - IMALI ŠTA DA VIDE: Muškarac (31) uhapšen zbog sumnje na trgovinu drogom (FOTO)",
-  "MUP: U Srbiji i Sloveniji uhapšena organizovana kriminalna grupa za krijumčarenje droge"
+  "MUP: U Srbiji i Sloveniji uhapšena organizovana kriminalna grupa za krijumčarenje droge",
+  "MUP: Hapšenja u Srbiji i Sloveniji zbog krijumčarenja droge kamionima, zaplenjeni hašiš, marihuana i kokain",
+  "Policija upala u stan u Pančevu i ostala zatečena: Pronađeno više od 7 kilograma različitih droga",
+  "Švercovali kokain u posebno napravljenim bunkerima u kamionima: U zajedničkoj akciji srpske i slovenačke policije uhapšeno 6 osoba"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -109,6 +130,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Topola_Kr%C3%B3lewska,_mleczarnia_(2).jpg",
   "alt": "Kod Topole zaplenjeno oko 90 kilograma marihuane, uhapšena četvorica osumnjičenih"
  },
- "novo_od_pisanja": 8,
+ "novo_od_pisanja": 11,
  "boost": 1.6
 }

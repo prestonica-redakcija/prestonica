@@ -27,7 +27,7 @@
  ],
  "importance": 7,
  "published": "2026-11-13T21:48:15.560154+00:00",
- "updated": "2026-11-13T21:48:15.560154+00:00",
+ "updated": "2026-11-13T22:03:00.333562+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -40,11 +40,18 @@
    "url": "https://www.b92.net/info/svet/284832/zabranjeno-poletanje-aviona-sa-svih-aerodroma-u-sad/vest",
    "title": "Obustavljeni svi letovi iz SAD",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/297649/obustavljeni-svi-letovi-u-sjedinjenim-americkim-drzavama/vest",
+   "title": "Obustavljeni svi letovi u Sjedinjenim Američkim Državama",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Američka Federalna uprava za avijaciju naložila obustavu letova",
-  "Obustavljeni svi letovi iz SAD"
+  "Obustavljeni svi letovi iz SAD",
+  "Obustavljeni svi letovi u Sjedinjenim Američkim Državama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Američka uprava za avijaciju naložila obustavu svih poletanja u SAD"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
