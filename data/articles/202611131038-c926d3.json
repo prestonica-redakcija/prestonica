@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T09:38:39.626001+00:00",
- "updated": "2026-11-13T09:38:39.626001+00:00",
+ "updated": "2026-11-13T09:53:25.553445+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -39,11 +39,18 @@
    "url": "https://www.euronews.rs/srbija/politika/251898/kfor-zavrsio-vezbu-kelijevi-heroji-2026-na-kosovu/vest",
    "title": "KFOR završio vežbu \"Kelijevi heroji 2026\": Učestvovao i Euleks",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/kosovo/284611/kfor-zavrsio-vojnu-vezbu-suzbijanja-nereda/vest",
+   "title": "KFOR završio vežbu; \"Kraljevi heroji 2026\" u akciji protiv masovnih nereda",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "KFOR sproveo vežbu \"Kelijevi heroji 2026\" u oblasti kontrole mase i suzbijanja nereda",
-  "KFOR završio vežbu \"Kelijevi heroji 2026\": Učestvovao i Euleks"
+  "KFOR završio vežbu \"Kelijevi heroji 2026\": Učestvovao i Euleks",
+  "KFOR završio vežbu; \"Kraljevi heroji 2026\" u akciji protiv masovnih nereda"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "KFOR završio vežbu kontrole mase i suzbijanja nereda u kampu \"Keli\""
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
