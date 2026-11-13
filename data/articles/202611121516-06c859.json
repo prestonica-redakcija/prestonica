@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T14:16:59.680947+00:00",
- "updated": "2026-11-12T16:46:08.736742+00:00",
+ "updated": "2026-11-13T08:39:01.965066+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -71,6 +71,12 @@
    "url": "https://www.danas.rs/svet/pucnjava-u-blizini-bele-kuce/",
    "title": "Pucnjava u blizini Bele kuće: Jedna osoba poginula, četiri povređene",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/297431/tinejdzer-poginuo-u-ruskom-napadu-na-zaporozje-povredene-cetiri-osobe/vest",
+   "title": "Tinejdžer poginuo u ruskom napadu na Zaporožje, povređene četiri osobe",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -80,7 +86,8 @@
   "Četiri osobe povređene u pucnjavi u Vašingtonu, nedaleko od Bele kuće",
   "Pucnjava nedaleko od Bele kuće: Jedna osoba poginu, četiri ranjene, agenti ATF-a izašli hitno na teren (VIDEO)",
   "Dve osobe poginule, četiri povređene u pucnjavi u Vašingtonu",
-  "Pucnjava u blizini Bele kuće: Jedna osoba poginula, četiri povređene"
+  "Pucnjava u blizini Bele kuće: Jedna osoba poginula, četiri povređene",
+  "Tinejdžer poginuo u ruskom napadu na Zaporožje, povređene četiri osobe"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -92,8 +99,8 @@
   "local": true,
   "alt": "Pucnjava u Vašingtonu: četiri osobe ranjene u Logan Serklu, 1,6 km od Bele kuće"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-12T16:46:08.736742+00:00",
  "verzija": 2
 }

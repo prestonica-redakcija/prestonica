@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T08:09:16.680226+00:00",
- "updated": "2026-11-13T08:09:16.680226+00:00",
+ "updated": "2026-11-13T08:39:01.965066+00:00",
  "sources": [
   {
    "name": "N1",
@@ -46,12 +46,19 @@
    "url": "https://nova.rs/sport/fudbal/fss-otkazao-sednicu-skupstine-uefa-i-fifa-rekli-da-nisu-ispunjeni-uslovi-evo-kako-ce-sada-izgledati-srpski-fudbal/",
    "title": "Nezapamćeno rasulo u srpskom fudbalu: FSS otkazao sednicu Skupštine, UEFA i FIFA rekli da nisu ispunjeni uslovi",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/sport/fudbal/4432237-oglasio-se-fss-i-otkrio-dalje-korake-nakon-otkazivanja-skupstine-nisu-ispunjeni-uslovi-uefa-i-fifa-ce",
+   "title": "Oglasio se FSS, otkrio dalje korake nakon otkazivanja Skupštine: \"Nisu ispunjeni uslovi, UEFA i FIFA će...\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Četvrti put otkazana konstitutivna sednica Skupštine FSS, nema uslova za zasedanje ni u subotu",
   "Dopis poslali generalni sekretari FIFA i UEFA: Otkazana konstitutivna sednica Fudbalskog saveza Srbije",
-  "Nezapamćeno rasulo u srpskom fudbalu: FSS otkazao sednicu Skupštine, UEFA i FIFA rekli da nisu ispunjeni uslovi"
+  "Nezapamćeno rasulo u srpskom fudbalu: FSS otkazao sednicu Skupštine, UEFA i FIFA rekli da nisu ispunjeni uslovi",
+  "Oglasio se FSS, otkrio dalje korake nakon otkazivanja Skupštine: \"Nisu ispunjeni uslovi, UEFA i FIFA će...\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Četvrti put otkazana konstitutivna sednica Skupštine FSS, FIFA i UEFA: nema uslova"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
