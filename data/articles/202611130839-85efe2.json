@@ -29,16 +29,23 @@
  ],
  "importance": 4,
  "published": "2026-11-13T07:39:34.793761+00:00",
- "updated": "2026-11-13T07:39:34.793761+00:00",
+ "updated": "2026-11-13T07:54:24.252839+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/nis-moj-grad-investitori-ne-beze-iz-srbije-zbog-promene-vlasti/",
    "title": "Niš, moj grad: Investitori ne beže iz Srbije zbog promene vlasti",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/nis-moj-grad-investitori-ne-beze-iz-srbije-zbog-promene-vlasti/",
+   "title": "Niš, moj grad: Investitori ne beže iz Srbije zbog promene vlasti",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Niš, moj grad: Investitori ne beže iz Srbije zbog promene vlasti",
   "Niš, moj grad: Investitori ne beže iz Srbije zbog promene vlasti"
  ],
  "author": "Redakcija Prestonice",
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Niš, moj grad: Strani investitori odlaze zbog sloma ekonomskog modela, ne zbog promene vlasti"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

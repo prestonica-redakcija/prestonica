@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-11T23:09:37.709026+00:00",
- "updated": "2026-11-13T07:24:40.418171+00:00",
+ "updated": "2026-11-13T07:54:24.252839+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -126,6 +126,12 @@
    "url": "https://www.tanjug.rs/svet/hronika/297412/nemacka-dve-osobe-poginule-a-14-povredeno-u-pozaru-u-stambenoj-zgradi/vest",
    "title": "Nemačka: Dve osobe poginule, a 14 povređeno u požaru u stambenoj zgradi",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/broj-poginulih-u-urusavanju-zgrade-u-njujorku-porastao-na-osam-medu-njima-dvoje-dece",
+   "title": "Broj poginulih u urušavanju zgrade u Njujorku porastao na osam, među njima dvoje dece",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -144,7 +150,8 @@
   "Najmanje osam poginulih, među kojima dvoje dece, u urušavanju zgrade u Bruklinu",
   "TRAGIČAN BILANS URUŠAVANJA ZGRADE U BRUKLINU: Najmanje osmoro poginulih, među njima i dvoje dece!",
   "Urušila se zgrada u Bruklinu: Najmanje osam poginulih, među kojima dvoje dece",
-  "Nemačka: Dve osobe poginule, a 14 povređeno u požaru u stambenoj zgradi"
+  "Nemačka: Dve osobe poginule, a 14 povređeno u požaru u stambenoj zgradi",
+  "Broj poginulih u urušavanju zgrade u Njujorku porastao na osam, među njima dvoje dece"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -156,7 +163,7 @@
   "local": true,
   "alt": "Urušila se zgrada u Bruklinu, najmanje pet povređenih, traga se za zatrpanima"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-12T08:19:43.439302+00:00",
  "verzija": 3

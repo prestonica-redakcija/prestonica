@@ -3,21 +3,21 @@
  "slug": "amss-upozorava-na-kisu-i-mokre-kolovoze-kamioni-na-batrovcima-cekaju",
  "kind": "vest",
  "section": "drustvo",
- "headline": "AMSS upozorava na kišu i mokre kolovoze, kamioni na Batrovcima čekaju tri sata",
- "lead": "Auto-moto savez Srbije upozorio je vozače da zbog kiše i mokrih kolovoza vožnja može biti otežana, a putovanje duže. Na graničnim prelazima automobili prolaze bez dužeg čekanja, dok kamioni na dva prelaza čekaju do tri sata.",
+ "headline": "AMSS: magla, niska oblačnost i mokri kolovozi usporavaju vožnju, kamioni na Batrovcima čekaju tri sata",
+ "lead": "Auto-moto savez Srbije saopštio je u petak ujutru da mokri kolovozi, niska oblačnost i magla zahtevaju punu pažnju vozača, a na pojedinim deonicama očekuju se i jači udari vetra. Kamioni na prelazu Batrovci i dalje čekaju tri sata da izađu iz zemlje.",
  "body": [
-  "Kako prenosi N1, AMSS je u četvrtak uveče skrenuo pažnju vozačima na kišu i mokre kolovoze, zbog kojih vožnja može biti teža, a vreme putovanja duže.",
-  "Prema podacima AMSS-a, putnički automobili na graničnim prelazima prolaze bez dužeg zadržavanja.",
-  "Kamioni na prelazu Batrovci, na granici sa Hrvatskom, čekaju tri sata da izađu iz Srbije. Na prelazu Sremska Rača, na granici sa Bosnom i Hercegovinom, čekanje za kamione iznosi dva sata.",
-  "\"Na ostalim graničnim prelazima nema dužeg zadržavanja\", navodi AMSS."
+  "Prema saopštenju AMSS-a, koje prenosi Insajder, poseban oprez savetuje se na putevima u košavskom području južnog Banata i Podunavlja. Jači udari vetra očekuju se i na prevoju Timočke Krajine i Negotinske Krajine.",
+  "AMSS navodi da su najopterećeniji putni pravci prvog prioriteta održavanja prohodni i da nema snega. Na naplatnim stanicama nema zadržavanja vozila.",
+  "Na putničkim terminalima graničnih prelaza nema zadržavanja vozila. Kamioni na izlazu iz zemlje na prelazu Batrovci, na granici sa Hrvatskom, čekaju tri sata.",
+  "AMSS je i u četvrtak uveče upozorio vozače na kišu i mokre kolovoze zbog kojih vožnja može biti teža, a putovanje duže, kako je prenosio N1. Tada je navedeno da na prelazu Sremska Rača, prema Bosni i Hercegovini, kamioni čekaju dva sata. U jutrošnjem saopštenju, u izvoru koji prenosi Insajder, taj prelaz nije pomenut."
  ],
  "tags": [
   "AMSS",
   "saobraćaj",
+  "magla",
+  "košava",
   "granični prelazi",
-  "Batrovci",
-  "Sremska Rača",
-  "kamioni"
+  "Batrovci"
  ],
  "people": [],
  "places": [
@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-12T18:00:33.448851+00:00",
- "updated": "2026-11-13T07:24:40.418171+00:00",
+ "updated": "2026-11-13T07:54:24.252839+00:00",
  "sources": [
   {
    "name": "N1",
@@ -52,12 +52,19 @@
    "url": "https://www.danas.rs/vesti/drustvo/amss-mokri-kolovozi-i-magla-usporavaju-voznju-2/",
    "title": "AMSS: Mokri kolovozi i magla usporavaju vožnju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/amss-mokri-kolovozi-i-magla-usporavaju-voznju",
+   "title": "AMSS: Mokri kolovozi i magla usporavaju vožnju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "AMSS upozorio vozače na mokre kolovoze",
   "AMSS: Mokri kolovozi i magla usporavaju vožnju",
   "Mokri kolovozi i magla usporavaju vožnju",
+  "AMSS: Mokri kolovozi i magla usporavaju vožnju",
   "AMSS: Mokri kolovozi i magla usporavaju vožnju"
  ],
  "author": "Redakcija Prestonice",
@@ -71,6 +78,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Batrovci_283.jpg",
   "alt": "AMSS upozorava na kišu i mokre kolovoze, kamioni na Batrovcima čekaju tri sata"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 0,
+ "boost": 1.32,
+ "prepisano": "2026-11-13T07:54:24.252839+00:00",
+ "verzija": 2
 }

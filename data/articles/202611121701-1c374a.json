@@ -25,7 +25,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T16:01:27.866828+00:00",
- "updated": "2026-11-12T23:13:18.088564+00:00",
+ "updated": "2026-11-13T07:54:24.252839+00:00",
  "sources": [
   {
    "name": "N1",
@@ -50,13 +50,20 @@
    "url": "https://www.b92.net/info/razno/284540/na-danasnji-dan-13-novembar/vest",
    "title": "Na današnji dan, 13. novembar",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10160880/svetski-dan-dijabetesa-440-000-obolelih-u-srbiji",
+   "title": "Svetski dan dijabetesa: U Srbiji 440.000 ljudi se leči od dijabetesa, a još 220.000 ne zna da je bolesno",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Batut: U Srbiji 660.000 odraslih ima dijabetes, trećina ne zna da ga ima",
   "Batut: U Srbiji 660.000 odraslih ima dijabetes, trećina ne zna da ga ima",
   "Svetski dan dijabetesa 14. novembra, Batut: U Srbiji 440.000 odraslih sa tom dijagnozom",
-  "Na današnji dan, 13. novembar"
+  "Na današnji dan, 13. novembar",
+  "Svetski dan dijabetesa: U Srbiji 440.000 ljudi se leči od dijabetesa, a još 220.000 ne zna da je bolesno"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "local": true,
   "alt": "Batut: u Srbiji oko 660.000 odraslih ima dijabetes, trećina ne zna za bolest"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

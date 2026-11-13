@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-11T21:10:29.328473+00:00",
- "updated": "2026-11-11T22:39:41.685866+00:00",
+ "updated": "2026-11-13T07:54:24.252839+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -66,6 +66,12 @@
    "url": "https://www.kurir.rs/planeta/10159810/zaharova-se-oglasila-o-smrti-ruskog-ambasadora-u-sad",
    "title": "ZAHAROVA SE OGLASILA O SMRTI RUSKOG AMBASADORA U SAD: \"Nepristojne teorije zavere američkih medija\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/284565/americki-zvanicnik-izrazio-saucesce-zbog-smrti-aleksandra-darcijeva/vest",
+   "title": "\"Aleksandra Darčijeva će biti teško zameniti\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -74,7 +80,8 @@
   "Otkriven uzrok smrti ruskog ambasadora u SAD",
   "Marija Zaharova se oglasila o smrti ambasadora Rusije u Vašingtonu: \"Nepristojne teorije zavere...\"",
   "ZAHAROVA SE OGLASILA O SMRTI RUSKOG AMBASADORA U SAD: \"Nepristojne teorije zavere američkih medija\"",
-  "ZAHAROVA SE OGLASILA O SMRTI RUSKOG AMBASADORA U SAD: \"Nepristojne teorije zavere američkih medija\""
+  "ZAHAROVA SE OGLASILA O SMRTI RUSKOG AMBASADORA U SAD: \"Nepristojne teorije zavere američkih medija\"",
+  "\"Aleksandra Darčijeva će biti teško zameniti\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -86,6 +93,6 @@
   "local": true,
   "alt": "Preminuo ruski ambasador u SAD Aleksandar Darčijev, Moskva navodi hroničnu bolest"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

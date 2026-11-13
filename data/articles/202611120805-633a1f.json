@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T07:05:18.976448+00:00",
- "updated": "2026-11-12T07:20:14.733976+00:00",
+ "updated": "2026-11-13T07:54:24.252839+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -45,12 +45,19 @@
    "url": "https://www.danas.rs/vesti/ekonomija/cls-kasne-svi-infrastrukturni-radovi-u-beogradu-znacajno-probijanje-rokova/",
    "title": "CLS: Kasne svi infrastrukturni radovi u Beogradu, značajno probijanje rokova",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/cls-za-kasnjenja-odgovran-sapic/",
+   "title": "Jovanović: Za probijanje rokova infrastrukturnih radova u Beogradu odgovorna gradska uprava i njen prvi čovek",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "CLS: Kasne svi radovi u Beogradu, značajno probijanje rokova",
   "CLS: Kasne svi infrastrukturni radovi u Beogradu, značajno probijanje rokova",
-  "CLS: Kasne svi infrastrukturni radovi u Beogradu, značajno probijanje rokova"
+  "CLS: Kasne svi infrastrukturni radovi u Beogradu, značajno probijanje rokova",
+  "Jovanović: Za probijanje rokova infrastrukturnih radova u Beogradu odgovorna gradska uprava i njen prvi čovek"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "local": true,
   "alt": "CLS: Gradski infrastrukturni radovi u Beogradu kasne, rokovi probijeni"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
