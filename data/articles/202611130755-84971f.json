@@ -27,17 +27,24 @@
  "places": [],
  "importance": 5,
  "published": "2026-11-13T06:55:05.526438+00:00",
- "updated": "2026-11-13T06:55:05.526438+00:00",
+ "updated": "2026-11-13T12:37:08.947386+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/bbc-news-serbian/ne-stizu-vam-mejlovi-servisi-majkrosofta-su-pali/",
    "title": "Ne stižu vam mejlovi? Servisi Majkrosofta su ‘pali’",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/bbc-news-serbian/ne-stizu-vam-mejlovi-vidimo-znake-oporavka-kaze-majkrosoft/",
+   "title": "Ne stižu vam mejlovi? ‘Vidimo znake oporavka’, kaže Majkrosoft",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Ne stižu vam mejlovi? Servisi Majkrosofta su ‘pali’"
+  "Ne stižu vam mejlovi? Servisi Majkrosofta su ‘pali’",
+  "Ne stižu vam mejlovi? ‘Vidimo znake oporavka’, kaže Majkrosoft"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:TTC_Flexity_Outlook.jpg",
   "alt": "Veliki prekid rada Majkrosoftovih servisa: Outlook, Teams i Copilot ne rade danima širom sveta"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T08:53:53.111687+00:00",
- "updated": "2026-11-13T10:52:55.361705+00:00",
+ "updated": "2026-11-13T12:37:08.947386+00:00",
  "sources": [
   {
    "name": "B92",
@@ -63,6 +63,12 @@
    "url": "https://www.youtube.com/watch?v=Jn5XaQhyh3Y",
    "title": "Vučić: Ostaću ovde i služiću Srbiji",
    "spektar": "stranka"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/284668/vucic-ovo-je-lov-na-vestice/vest",
+   "title": "Vučić: \"Ovo je lov na veštice\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -70,7 +76,8 @@
   "\"LOV NA VEŠTICE JE VEĆ POČEO\" Veliki intervju Vučića za Veltvohe: Nešto veoma čudno se desilo u poslednjih sedam dana kampanje",
   "Vučić za Weltwoche: Nešto veoma čudno se desilo u poslednjih sedam dana kampanje",
   "\"Ostaću ovde i služiću Srbiji!\" Veliki intervju Vučića za Veltvohe: Evo šta se dogodilo u poslednjih sedam dana izborne kampanje (VIDEO)",
-  "Vučić: Ostaću ovde i služiću Srbiji"
+  "Vučić: Ostaću ovde i služiću Srbiji",
+  "Vučić: \"Ovo je lov na veštice\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -83,6 +90,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Philip_Hammond_%26_Aleksandar_Vu%C4%8Di%C4%87_in_London_2014.jpg",
   "alt": "Vučić za Veltvohe o porazu: strani pritisak, ali i arogancija sopstvenih ljudi"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
