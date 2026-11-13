@@ -779,3 +779,7 @@ mark{background:color-mix(in srgb,var(--gold) 30%,transparent);color:inherit;bor
 .poll-x:hover{color:var(--ink)}
 .foot-x{display:inline-flex;align-items:center;gap:8px;margin-top:12px;color:#fff;font:700 14px var(--sans);text-decoration:none;opacity:.9}
 .foot-x:hover{opacity:1}
+/* racunar i tablet: zaglavlje ostaje pune velicine; gornja traka sa datumom glatko nestaje, senka se meko pojavljuje */
+.mast{transition:box-shadow .45s var(--ease)}
+.mast.senka{box-shadow:0 12px 30px -20px rgba(13,23,48,.5)}
+.topbar{transition:opacity .2s linear}

@@ -21,15 +21,15 @@
   tickTimes(); setInterval(tickTimes, 60000);
 
   /* ---------- zaglavlje i progres ---------- */
-  var mast = $("#mast"), prog = $("#progress"), art = $("[data-article]");
+  var mast = $("#mast"), tb = document.querySelector(".topbar"), prog = $("#progress"), art = $("[data-article]");
   var mobile = window.matchMedia ? window.matchMedia("(max-width: 620px)") : null, navEl = mast && mast.querySelector(".nav"), navStuck = false;
   var navTop = 0; try { navTop = parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--sat")) || 0; } catch (e) {}
   function onScroll() {
     if (mast) {
       if (mobile && mobile.matches) {
-        if (mast.classList.contains("scrolled")) mast.classList.remove("scrolled");
+        if (mast.classList.contains("scrolled")) mast.classList.remove("scrolled"); if (tb) tb.style.opacity = "";
         if (navEl) { var st = navEl.getBoundingClientRect().top <= navTop + 54.5 && window.scrollY > 0; if (st !== navStuck) { navStuck = st; navEl.classList.toggle("stuck", st); } }
-      } else { const y = window.scrollY; if (y > 140) mast.classList.add("scrolled"); else if (y < 30) mast.classList.remove("scrolled"); }
+      } else { const y = window.scrollY; mast.classList.toggle("senka", y > 4); if (tb) tb.style.opacity = String(Math.max(0, 1 - y / 38)); }
     }
     if (prog && art) {
       var r = art.getBoundingClientRect(), h = art.offsetHeight - window.innerHeight;
