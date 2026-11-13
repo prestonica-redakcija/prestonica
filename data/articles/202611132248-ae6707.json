@@ -27,7 +27,7 @@
  ],
  "importance": 7,
  "published": "2026-11-13T21:48:15.560154+00:00",
- "updated": "2026-11-13T22:03:00.333562+00:00",
+ "updated": "2026-11-13T22:32:42.790055+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,12 +46,26 @@
    "url": "https://www.tanjug.rs/svet/politika/297649/obustavljeni-svi-letovi-u-sjedinjenim-americkim-drzavama/vest",
    "title": "Obustavljeni svi letovi u Sjedinjenim Američkim Državama",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/americka-federalna-uprava-za-avijaciju-obustavila-sve-letove-zbog-problema-u-komunikaciji-kontrole-letenja",
+   "title": "Američka Federalna uprava za avijaciju obustavila sve letove zbog problema u komunikaciji kontrole letenja",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/obustavljeni-letovi-na-citavoj-teritoriji-sad-usled-komunikacijskih-problema-u-kontrolama-letenja/",
+   "title": "Obustavljeni letovi na čitavoj teritoriji SAD usled \"komunikacijskih problema\" u kontrolama letenja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Američka Federalna uprava za avijaciju naložila obustavu letova",
   "Obustavljeni svi letovi iz SAD",
-  "Obustavljeni svi letovi u Sjedinjenim Američkim Državama"
+  "Obustavljeni svi letovi u Sjedinjenim Američkim Državama",
+  "Američka Federalna uprava za avijaciju obustavila sve letove zbog problema u komunikaciji kontrole letenja",
+  "Obustavljeni letovi na čitavoj teritoriji SAD usled \"komunikacijskih problema\" u kontrolama letenja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +77,6 @@
   "local": true,
   "alt": "Američka uprava za avijaciju naložila obustavu svih poletanja u SAD"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

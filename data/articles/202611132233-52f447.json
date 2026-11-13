@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T21:33:05.259057+00:00",
- "updated": "2026-11-13T21:33:05.259057+00:00",
+ "updated": "2026-11-13T22:32:42.790055+00:00",
  "sources": [
   {
    "name": "N1",
@@ -50,12 +50,26 @@
    "url": "https://www.telegraf.rs/vesti/svet/4432776-dramatican-snimak-sa-misisipija-tanker-udario-u-kruzer-plovilo-zavrsilo-delimicno-pod-vodom",
    "title": "Dramatičan snimak sa Misisipija: Tanker udario u kruzer, plovilo završilo delimično pod vodom",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/252015/sudar-tankera-i-kruzera-na-misisipiju-kod-nju-orleansa/vest",
+   "title": "Sudar tankera i kruzera na Misisipiju kod Nju Orleansa: Prevrnuo se brod sa oko 130 putnika",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/sudar-kruzera-i-tankera-nju-orleans/",
+   "title": "Sudar kruzera i tankera kod Nju Orleansa (VIDEO)",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Sudar kruzera i tankera u luci u Nju Orleansu",
   "TEŽAK SUDAR NA MISISIPIJU: Tanker udario u kruzer, brod delimično potonuo! (VIDEO)",
-  "Dramatičan snimak sa Misisipija: Tanker udario u kruzer, plovilo završilo delimično pod vodom"
+  "Dramatičan snimak sa Misisipija: Tanker udario u kruzer, plovilo završilo delimično pod vodom",
+  "Sudar tankera i kruzera na Misisipiju kod Nju Orleansa: Prevrnuo se brod sa oko 130 putnika",
+  "Sudar kruzera i tankera kod Nju Orleansa (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,5 +80,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Tanker udario u usidreni kruzer na Misisipiju kod Nju Orleansa, brod delimično potonuo"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

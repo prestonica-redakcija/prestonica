@@ -3297,18 +3297,21 @@
   "https://www.b92.net/info/svet/284841/sudar-tankera-i-turistickog-broda-na-misisipiju/vest": "2026-11-13T22:17:48.595213+00:00",
   "https://www.tanjug.rs/svet/drustvo/297659/sudarili-se-tanker-i-putnicki-brod-na-reci-misisipi-kod-nju-orleansa/vest": "2026-11-13T22:17:48.595213+00:00",
   "https://www.kurir.rs/stars/10161756/marko-rokvic-drugi-gost-na-koncertu": "2026-11-13T22:17:48.595213+00:00",
-  "https://www.kurir.rs/zabava/pop-kultura/10161696/pitbul-koncert-u-beogradskoj-areni": "2026-11-13T22:17:48.595213+00:00"
+  "https://www.kurir.rs/zabava/pop-kultura/10161696/pitbul-koncert-u-beogradskoj-areni": "2026-11-13T22:17:48.595213+00:00",
+  "https://insajder.net/prenosimo/americka-federalna-uprava-za-avijaciju-obustavila-sve-letove-zbog-problema-u-komunikaciji-kontrole-letenja": "2026-11-13T22:32:42.790055+00:00",
+  "https://nova.rs/vesti/svet/obustavljeni-letovi-na-citavoj-teritoriji-sad-usled-komunikacijskih-problema-u-kontrolama-letenja/": "2026-11-13T22:32:42.790055+00:00",
+  "https://www.euronews.rs/svet/fokus/252015/sudar-tankera-i-kruzera-na-misisipiju-kod-nju-orleansa/vest": "2026-11-13T22:32:42.790055+00:00",
+  "https://www.danas.rs/svet/sudar-kruzera-i-tankera-nju-orleans/": "2026-11-13T22:32:42.790055+00:00",
+  "https://www.tanjug.rs/ekonomija/region/297655/ljubljana-pokrece-probne-voznje-brzog-autobuskog-prevoza-uz-kineska-vozila-crrc/vest": "2026-11-13T22:32:42.790055+00:00",
+  "https://www.telegraf.rs/vesti/svet/4432806-nikad-vidjena-zaplena-u-madjarskoj-milijarde-bile-zakopane-u-sumama-peter-madjar-poslao-ostru-poruku-orbanu": "2026-11-13T22:32:42.790055+00:00",
+  "https://www.b92.net/info/svet/284850/pronadjene-milijarde-u-sumama-u-madjarskoj-madjar-poslao-ostru-poruku-fotovideo/vest": "2026-11-13T22:32:42.790055+00:00",
+  "https://n1info.rs/region/ministri-iz-rs-blokirali-pristupanje-bih-nasa-programu-globe/": "2026-11-13T22:32:42.790055+00:00",
+  "https://informer.rs/politika/vesti/1169708/ratibor-trivunac-plenum-anarhija-studentska-lista": "2026-11-13T22:32:42.790055+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-13T07:41+00:00",
-   "novih": 5,
-   "ukupno": 685,
-   "sekundi": 119.0
-  },
   {
    "vreme": "2026-11-13T07:56+00:00",
    "novih": 4,
@@ -3662,6 +3665,12 @@
    "novih": 3,
    "ukupno": 1003,
    "sekundi": 118.2
+  },
+  {
+   "vreme": "2026-11-13T22:35+00:00",
+   "novih": 4,
+   "ukupno": 1007,
+   "sekundi": 151.1
   }
  ],
  "licnosti_foto": {
@@ -6226,7 +6235,7 @@
    ]
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -6305,11 +6314,11 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2121294241905226076",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "parandilovicnls": {
     "since_id": "2121333645222809626",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "ininic": {
     "since_id": "2121206808324813214",
@@ -6325,47 +6334,47 @@
    },
    "dragandjilas": {
     "since_id": null,
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "marinikatepic": {
     "since_id": null,
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "bibislav": {
     "since_id": "2121264606609838574",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "savomanojlovic": {
     "since_id": "2120927384484634735",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "zdravkoponos": {
     "since_id": null,
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "pavlegrbovic": {
     "since_id": "2121350708360351908",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "avucic": {
     "since_id": "2121327308808311093",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "anabrnabic": {
     "since_id": "2121262394538119408",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "milos_vucevic": {
     "since_id": "2121200499131388075",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "sns_srbija": {
     "since_id": "2121345544320876941",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "vlada_srbije": {
     "since_id": null,
@@ -6409,39 +6418,39 @@
    },
    "markodjuric": {
     "since_id": "2121317324322205730",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "nstarovic": {
     "since_id": null,
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "milenkojovanov": {
     "since_id": null,
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "acasapic": {
     "since_id": null,
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "borkostef": {
     "since_id": "2121178166140231682",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "dobrinacelnik": {
     "since_id": "2121332703207530640",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "jeremic_vuk": {
     "since_id": null,
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "boristadic58": {
     "since_id": null,
@@ -6449,51 +6458,51 @@
    },
    "srdjanmil037": {
     "since_id": "2121234128859209766",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "zoranlutovac": {
     "since_id": "2121316106233135418",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "pajticbojan": {
     "since_id": null,
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "n_zelenovic": {
     "since_id": "2121185851040248170",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "boskoobradovic": {
     "since_id": null,
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "sasaradulovich": {
     "since_id": "2121265202784035082",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "zaklina_prva": {
     "since_id": "2121231297439764713",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "stevanoccrp": {
     "since_id": "2121292561989947646",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "igorbrakus": {
     "since_id": null,
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "radoholicar": {
     "since_id": "2121347823732133902",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "borakonj": {
     "since_id": "2121317761259385154",
@@ -6501,7 +6510,7 @@
    },
    "narodnipokrets": {
     "since_id": "2120601957350195572",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "direktnors": {
     "since_id": "2121341320329416863",
@@ -6569,23 +6578,23 @@
    },
    "nedeljniknin": {
     "since_id": "2121362472133448119",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "trajkovic_rada": {
     "since_id": "2121286224870617178",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "stateinl": {
     "since_id": "2121283689338261736",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "tvbalkaninfo": {
     "since_id": "2121174010532950438",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    },
    "1152justice": {
     "since_id": "2121015729269182500",
-    "t": 1794607446.6880648
+    "t": 1794609259.0956705
    }
   },
   "posts": [
@@ -27698,6 +27707,213 @@
      "naslov": "MS Indpendence (American Cruise Lines).jpg"
     }
    ]
+  },
+  "t:ljubljana": {
+   "t": 1794609196.9896948,
+   "items": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ljubljana_-_Stari_trg_4_%28Valvasorjeva_hi%C5%A1a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1512,
+     "h": 2252,
+     "god": 2011,
+     "credit": "Wikimedia Commons / Petar Milošević / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ljubljana_-_Stari_trg_4_(Valvasorjeva_hi%C5%A1a).jpg",
+     "naslov": "Ljubljana - Stari trg 4 (Valvasorjeva hiša).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/August_2006%2C_Ljubljana_11.jpg/1920px-August_2006%2C_Ljubljana_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2272,
+     "h": 1704,
+     "god": 2006,
+     "credit": "Wikimedia Commons / Syced / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:August_2006,_Ljubljana_11.jpg",
+     "naslov": "August 2006, Ljubljana 11.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ljubljana_BW_2014-10-09_12-18-49.jpg/1920px-Ljubljana_BW_2014-10-09_12-18-49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2279,
+     "h": 3362,
+     "god": 2014,
+     "credit": "Wikimedia Commons / Berthold Werner / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ljubljana_BW_2014-10-09_12-18-49.jpg",
+     "naslov": "Ljubljana BW 2014-10-09 12-18-49.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Ljubljana_from_the_Castle.JPG/1920px-Ljubljana_from_the_Castle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2592,
+     "h": 1944,
+     "god": 2008,
+     "credit": "Wikimedia Commons / Husond / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ljubljana_from_the_Castle.JPG",
+     "naslov": "Ljubljana from the Castle.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Signing_conference_Ljubljana-The_Hague_Convention_in_the_Peace_Palace%2C_14_February_2024_-_9.jpg/1920px-Signing_conference_Ljubljana-The_Hague_Convention_in_the_Peace_Palace%2C_14_February_2024_-_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4000,
+     "h": 2666,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Ministerie van Buitenlandse Zaken / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Signing_conference_Ljubljana-The_Hague_Convention_in_the_Peace_Palace,_14_February_2024_-_9.jpg",
+     "naslov": "Signing conference Ljubljana-The Hague Convention in the Peace Palace, 14 February 2024 - 9.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Alexander_Schallenberg_am_Treffen_der_Central-5_%28C5%29_in_Ljubljana_am_26._M%C3%A4rz_2024_-_32.jpg/1920px-Alexander_Schallenberg_am_Treffen_der_Central-5_%28C5%29_in_Ljubljana_am_26._M%C3%A4rz_2024_-_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2333,
+     "h": 3500,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Österreichisches Außenministerium / CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Alexander_Schallenberg_am_Treffen_der_Central-5_(C5)_in_Ljubljana_am_26._M%C3%A4rz_2024_-_32.jpg",
+     "naslov": "Alexander Schallenberg am Treffen der Central-5 (C5) in Ljubljana am 26. März 2024 - 32.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/August_2006%2C_Ljubljana_18.jpg/1920px-August_2006%2C_Ljubljana_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2272,
+     "h": 1704,
+     "god": 2006,
+     "credit": "Wikimedia Commons / Syced / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:August_2006,_Ljubljana_18.jpg",
+     "naslov": "August 2006, Ljubljana 18.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/August_2006%2C_Ljubljana_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1704,
+     "h": 2272,
+     "god": 2006,
+     "credit": "Wikimedia Commons / Syced / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:August_2006,_Ljubljana_9.jpg",
+     "naslov": "August 2006, Ljubljana 9.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/August_2006%2C_Ljubljana_14.jpg/1920px-August_2006%2C_Ljubljana_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2272,
+     "h": 1704,
+     "god": 2006,
+     "credit": "Wikimedia Commons / Syced / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:August_2006,_Ljubljana_14.jpg",
+     "naslov": "August 2006, Ljubljana 14.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Signing_conference_Ljubljana-The_Hague_Convention_in_the_Peace_Palace%2C_14_February_2024_-_2.jpg/1920px-Signing_conference_Ljubljana-The_Hague_Convention_in_the_Peace_Palace%2C_14_February_2024_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4000,
+     "h": 2666,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Ministerie van Buitenlandse Zaken / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Signing_conference_Ljubljana-The_Hague_Convention_in_the_Peace_Palace,_14_February_2024_-_2.jpg",
+     "naslov": "Signing conference Ljubljana-The Hague Convention in the Peace Palace, 14 February 2024 - 2.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Alexander_Schallenberg_am_Treffen_der_Central-5_%28C5%29_in_Ljubljana_am_26._M%C3%A4rz_2024_-_9.jpg/1920px-Alexander_Schallenberg_am_Treffen_der_Central-5_%28C5%29_in_Ljubljana_am_26._M%C3%A4rz_2024_-_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3500,
+     "h": 2333,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Österreichisches Außenministerium / CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Alexander_Schallenberg_am_Treffen_der_Central-5_(C5)_in_Ljubljana_am_26._M%C3%A4rz_2024_-_9.jpg",
+     "naslov": "Alexander Schallenberg am Treffen der Central-5 (C5) in Ljubljana am 26. März 2024 - 9.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Alexander_Schallenberg_am_Treffen_der_Central-5_%28C5%29_in_Ljubljana_am_26._M%C3%A4rz_2024_-_6.jpg/1920px-Alexander_Schallenberg_am_Treffen_der_Central-5_%28C5%29_in_Ljubljana_am_26._M%C3%A4rz_2024_-_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3500,
+     "h": 2333,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Österreichisches Außenministerium / CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Alexander_Schallenberg_am_Treffen_der_Central-5_(C5)_in_Ljubljana_am_26._M%C3%A4rz_2024_-_6.jpg",
+     "naslov": "Alexander Schallenberg am Treffen der Central-5 (C5) in Ljubljana am 26. März 2024 - 6.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Alexander_Schallenberg_am_Treffen_der_Central-5_%28C5%29_in_Ljubljana_am_26._M%C3%A4rz_2024_-_25.jpg/1920px-Alexander_Schallenberg_am_Treffen_der_Central-5_%28C5%29_in_Ljubljana_am_26._M%C3%A4rz_2024_-_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3500,
+     "h": 2333,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Österreichisches Außenministerium / CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Alexander_Schallenberg_am_Treffen_der_Central-5_(C5)_in_Ljubljana_am_26._M%C3%A4rz_2024_-_25.jpg",
+     "naslov": "Alexander Schallenberg am Treffen der Central-5 (C5) in Ljubljana am 26. März 2024 - 25.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/August_2006%2C_Ljubljana_16.jpg/1920px-August_2006%2C_Ljubljana_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2272,
+     "h": 1704,
+     "god": 2006,
+     "credit": "Wikimedia Commons / Syced / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:August_2006,_Ljubljana_16.jpg",
+     "naslov": "August 2006, Ljubljana 16.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/August_2006%2C_Ljubljana_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1704,
+     "h": 2272,
+     "god": 2006,
+     "credit": "Wikimedia Commons / Syced / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:August_2006,_Ljubljana_10.jpg",
+     "naslov": "August 2006, Ljubljana 10.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Signing_conference_Ljubljana-The_Hague_Convention_in_the_Peace_Palace%2C_14_February_2024_-_5.jpg/1920px-Signing_conference_Ljubljana-The_Hague_Convention_in_the_Peace_Palace%2C_14_February_2024_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4000,
+     "h": 2666,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Ministerie van Buitenlandse Zaken / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Signing_conference_Ljubljana-The_Hague_Convention_in_the_Peace_Palace,_14_February_2024_-_5.jpg",
+     "naslov": "Signing conference Ljubljana-The Hague Convention in the Peace Palace, 14 February 2024 - 5.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Ljubljana_Town_Hall.jpg/1920px-Ljubljana_Town_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2268,
+     "h": 4032,
+     "god": 2023,
+     "credit": "Wikimedia Commons / Joe Passe / CC BY-SA 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ljubljana_Town_Hall.jpg",
+     "naslov": "Ljubljana Town Hall.jpg"
+    }
+   ]
+  },
+  "t:miklos sestak": {
+   "t": 1794609218.2580163,
+   "items": []
+  },
+  "t:republika srpska": {
+   "t": 1794609232.2669797,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/%D0%97%D0%B2%D0%BE%D0%BD%D0%BE_%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80a_%D0%9C%D0%BE%D1%88%D1%82%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%28Bell_Tower%2C_Monastery_Mo%C5%A1tanica%2C_Republika_Srpska%29.jpg/1920px-%D0%97%D0%B2%D0%BE%D0%BD%D0%BE_%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80a_%D0%9C%D0%BE%D1%88%D1%82%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%28Bell_Tower%2C_Monastery_Mo%C5%A1tanica%2C_Republika_Srpska%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4338,
+     "h": 3267,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Petar Milošević / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%97%D0%B2%D0%BE%D0%BD%D0%BE_%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80a_%D0%9C%D0%BE%D1%88%D1%82%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_(Bell_Tower,_Monastery_Mo%C5%A1tanica,_Republika_Srpska).jpg",
+     "naslov": "Звоно Манастирa Моштаница (Bell Tower, Monastery Moštanica, Republika Srpska).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Ferhat-Pasha_mosque_arabesque_%28Banja_Luka%2C_Republika_Srpska%29.jpg/1920px-Ferhat-Pasha_mosque_arabesque_%28Banja_Luka%2C_Republika_Srpska%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4608,
+     "h": 3456,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Petar Milošević / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ferhat-Pasha_mosque_arabesque_(Banja_Luka,_Republika_Srpska).jpg",
+     "naslov": "Ferhat-Pasha mosque arabesque (Banja Luka, Republika Srpska).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Manastir_Dobrun%2C_Republika_Srpska.JPG/1920px-Manastir_Dobrun%2C_Republika_Srpska.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3638,
+     "h": 2130,
+     "god": 2012,
+     "credit": "Wikimedia Commons / Pudelek (Marcin Szala) / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Manastir_Dobrun,_Republika_Srpska.JPG",
+     "naslov": "Manastir Dobrun, Republika Srpska.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Administrative_Center_of_the_Government_of_Republika_Srpska_%28Isto%C4%8Dno_Sarajevo%29.jpg/1920px-Administrative_Center_of_the_Government_of_Republika_Srpska_%28Isto%C4%8Dno_Sarajevo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3926,
+     "h": 2230,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Šemsi-begBranković / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Administrative_Center_of_the_Government_of_Republika_Srpska_(Isto%C4%8Dno_Sarajevo).jpg",
+     "naslov": "Administrative Center of the Government of Republika Srpska (Istočno Sarajevo).jpg"
+    }
+   ]
+  },
+  "t:ratibor trivunac": {
+   "t": 1794609253.565567,
+   "items": []
   }
  },
  "x_objave": {
