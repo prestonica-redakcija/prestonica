@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T09:49:14.445596+00:00",
- "updated": "2026-11-13T17:35:00.377973+00:00",
+ "updated": "2026-11-13T17:49:53.400888+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -250,6 +250,18 @@
    "url": "https://www.danas.rs/vesti/ekonomija/potvrda-o-posedovanju-racuna-alta/",
    "title": "Izdavanje potvrda o posedovanju računa u Alta banci u stečaju od 16. novembra",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/zabava/kultura/10161567/hbo-original-dokumentarna-serija-u-potrazi-za-istinom-od-13-novembra-na-hbo-max",
+   "title": "HBO Original dokumentarna serija „U potrazi za istinom“ od 13. novembra na HBO Max",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/284766/produzeno-radno-vreme-postanske-stedionice-16450-klijenata-alta-banke-ceka-isplatu-depozita/vest",
+   "title": "Produženo radno vreme Poštanske štedionice: 16.450 klijenata Alta banke čeka isplatu depozita",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -289,7 +301,9 @@
   "Banka Poštanska štedionica: Produžen rad zbog isplate depozita Alta banke, termin zakazalo 16.450 klijenata",
   "Banka Poštanska štedionica produžila rad zbog isplate depozita Alta banke: Termin zakazalo 16.450 klijenata",
   "U Alta banku po potvrdu: Šta da rade građani koji nemaju originalnu dokumentaciju o depozitu u banci u stečaju",
-  "Izdavanje potvrda o posedovanju računa u Alta banci u stečaju od 16. novembra"
+  "Izdavanje potvrda o posedovanju računa u Alta banci u stečaju od 16. novembra",
+  "HBO Original dokumentarna serija „U potrazi za istinom“ od 13. novembra na HBO Max",
+  "Produženo radno vreme Poštanske štedionice: 16.450 klijenata Alta banke čeka isplatu depozita"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -301,7 +315,7 @@
   "local": true,
   "alt": "Za isplatu osiguranih depozita Alta banke prijavilo se 7.713 korisnika za 12 sati"
  },
- "novo_od_pisanja": 10,
+ "novo_od_pisanja": 12,
  "boost": 1.6,
  "prepisano": "2026-11-13T08:39:01.965066+00:00",
  "verzija": 7

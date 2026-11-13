@@ -28,7 +28,7 @@
  ],
  "importance": 7,
  "published": "2026-11-12T18:15:31.976665+00:00",
- "updated": "2026-11-13T17:35:00.377973+00:00",
+ "updated": "2026-11-13T17:49:53.400888+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -101,6 +101,12 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/251983/vlada-srbije-nis-u-66000-tona-nafte-iz-drzavnih-rezervi/vest",
    "title": "Vlada Srbije odobrila NIS-u 66.000 tona nafte iz rezervi zbog oštećenja JANAF-a",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/297600/omoguceno-snabdevanje-nis-a-sirovom-naftom-do-66000-tona-iz-drzavnih-rezervi/vest",
+   "title": "Omogućeno snabdevanje NIS-a sirovom naftom do 66.000 tona iz državnih rezervi",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -115,7 +121,8 @@
   "VLADA SRBIJE DONELA ODLUKU: Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi",
   "Vlada Srbije: Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi",
   "Država pritekla u pomoć NIS-u: Stiže nafta",
-  "Vlada Srbije odobrila NIS-u 66.000 tona nafte iz rezervi zbog oštećenja JANAF-a"
+  "Vlada Srbije odobrila NIS-u 66.000 tona nafte iz rezervi zbog oštećenja JANAF-a",
+  "Omogućeno snabdevanje NIS-a sirovom naftom do 66.000 tona iz državnih rezervi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -127,7 +134,7 @@
   "local": true,
   "alt": "NIS traži od države sirovu naftu i dizel iz rezervi zbog prekida isporuke preko JANAF-a"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-13T17:35:00.377973+00:00",
  "verzija": 3
