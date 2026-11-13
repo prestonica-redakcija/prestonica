@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T18:00:33.448851+00:00",
- "updated": "2026-11-12T19:00:08.482423+00:00",
+ "updated": "2026-11-13T02:12:04.816550+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -52,12 +52,19 @@
    "url": "https://www.novosti.rs/vesti/politika/1670602/rezolucija-rusija-srbija-bih-crna-gora-hrvatska-nacizam-rasizam",
    "title": "NEPRIHVATLjIVA PORUKA Linta o glasanju u UN: BiH, Hrvatska i Crna Gora protiv rezolucije o borbi protiv veličanja nacizma",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4432024-linta-glas-bih-hr-i-cg-protiv-rezolucije-o-velicanju-nacizma-neprihvatljiva-poruka",
+   "title": "Linta: Glas BIH, HR i CG protiv rezolucije o veličanju nacizma neprihvatljiva poruka",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Miodrag Linta: Glas BiH, Hrvatske i Crne Gore protiv rezolucije o veličanju nacizma neprihvatljiva poruka",
   "SKANDALOZNO: BiH glasala protiv rezolucije UN o borbi protiv veličanja nacizma bez odobrenja srpskog naroda!",
-  "NEPRIHVATLjIVA PORUKA Linta o glasanju u UN: BiH, Hrvatska i Crna Gora protiv rezolucije o borbi protiv veličanja nacizma"
+  "NEPRIHVATLjIVA PORUKA Linta o glasanju u UN: BiH, Hrvatska i Crna Gora protiv rezolucije o borbi protiv veličanja nacizma",
+  "Linta: Glas BIH, HR i CG protiv rezolucije o veličanju nacizma neprihvatljiva poruka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +77,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Evangelos_Venizelos_with_Zlatko_Lagumd%C5%BEija_(cropped).jpg",
   "alt": "Linta: glasanje BiH, Hrvatske i Crne Gore protiv rezolucije UN neprihvatljivo"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
