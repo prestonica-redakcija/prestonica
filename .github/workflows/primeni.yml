@@ -1,0 +1,234 @@
+name: Primena izmena
+
+on:
+  push:
+    paths:
+      - .github/workflows/primeni.yml
+
+permissions:
+  contents: write
+
+jobs:
+  primeni:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Desno polje uzivo i znak P
+        run: |
+          git config user.name "prestonica-bot"
+          git config user.email "bot@users.noreply.github.com"
+          python3 - <<'PY'
+          import pathlib, re
+          GOR = r'''
+
+          GORIVO_URL = "https://nafta.hr/sr/cene-goriva-srbija/"
+          GORIVA = (("Evrodizel", "Eurodizel"), ("BMB 95", "BMB 95 Benzin"), ("Autoplin", "Autoplin (Tečni Naftni Gas)"))
+
+
+          def _gorivo_parse(page: str) -> dict | None:
+              import html as _h
+              import re
+              from collections import Counter
+              t = re.sub(r"<script.*?</script>|<style.*?</style>", " ", page, flags=re.S)
+              t = re.sub(r"\s+", " ", _h.unescape(re.sub(r"<[^>]+>", " ", t)))
+              heads = list(re.finditer(r"(Eurodizel Premium|Eurodizel|BMB 95 Premium Benzin|BMB 95 Benzin|BMB 100 Benzin|Autoplin \(Tečni Naftni Gas\)) Kompanija EUR DIN", t))
+              out = []
+              for naziv, kljuc in GORIVA:
+                  for i, m in enumerate(heads):
+                      if m.group(1) != kljuc:
+                          continue
+                      kraj = heads[i + 1].start() if i + 1 < len(heads) else m.end() + 700
+                      cene = [float(x.replace(",", ".")) for x in re.findall(r"(\d{2,3},\d\d) RSD", t[m.end():kraj])]
+                      if cene:
+                          najcesca = Counter(cene).most_common(1)[0][0]
+                          out.append({"naziv": naziv, "cena": round(najcesca), "min": round(min(cene))})
+                      break
+              if len(out) < 2:
+                  return None
+              do = re.search(r"važiti do (\d{1,2})\.(\d{1,2})\.\d{4}", t)
+              return {"cene": out, "do": f"{int(do.group(1))}.{int(do.group(2))}." if do else ""}
+
+
+          def gorivo() -> dict | None:
+              """Cene goriva u Srbiji (menjaju se petkom u 15h). Keš 6 sati, da se izvor ne opterećuje."""
+              import json
+              import time
+              from .config import ROOT
+              cf = ROOT / ".og-cache" / "gorivo.json"
+              try:
+                  if cf.exists() and time.time() - cf.stat().st_mtime < 6 * 3600:
+                      return json.loads(cf.read_text(encoding="utf-8"))
+              except Exception:
+                  pass
+              try:
+                  r = requests.get(GORIVO_URL, timeout=12, headers={"User-Agent": "Mozilla/5.0 (compatible; PrestonicaBot/1.0; +https://prestonica.rs)"})
+                  r.raise_for_status()
+                  d = _gorivo_parse(r.text)
+                  if d:
+                      cf.parent.mkdir(parents=True, exist_ok=True)
+                      cf.write_text(json.dumps(d, ensure_ascii=False), encoding="utf-8")
+                      return d
+              except Exception:
+                  pass
+              try:
+                  return json.loads(cf.read_text(encoding="utf-8")) if cf.exists() else None
+              except Exception:
+                  return None
+          '''
+          PANEL = r'''<div class="g-side g-r g-live" data-live><div class="g-pulse"><svg viewBox="0 0 480 44" preserveAspectRatio="none"><path class="g-wave" d="M0 22 H40 L52 22 L60 8 L70 36 L78 14 L86 22 H160 L172 22 L180 10 L190 34 L198 16 L206 22 H240 H280 L292 22 L300 8 L310 36 L318 14 L326 22 H400 L412 22 L420 10 L430 34 L438 16 L446 22 H480"/></svg><span class="g-on"><i></i>Uživo</span></div><p class="g-clock"><b data-g-time>{{ updated }}</b><span data-g-date>{{ today }}</span></p><section class="g-box"><p class="g-h">Vreme · Beograd</p><div class="g-wx"><span class="g-ico" data-g-ico></span><b data-g-temp>{% if w.vreme %}{{ w.vreme.temp }}°{% else %}–{% endif %}</b><span class="g-wd"><span data-g-opis>{{ w.vreme.opis if w.vreme else '' }}</span><small data-g-feel>{% if w.vreme %}danas {{ w.vreme.min }}° / {{ w.vreme.max }}°{% endif %}</small></span></div><ol class="g-days" data-g-days></ol></section><section class="g-box"><p class="g-h">Menjačnica · NBS</p><ol class="g-list g-fx" data-g-fx>{% for k in w.kurs %}<li><span>1 {{ k.code }}</span><i></i><b>{{ ('%.2f'|format(k.rate)).replace('.', ',') }} <small>din</small></b></li>{% endfor %}</ol></section>{% if w.gorivo %}<section class="g-box"><p class="g-h">Gorivo · cena po litru</p><ol class="g-list">{% for g in w.gorivo.cene %}<li><span>{{ g.naziv }}</span><i></i><b>{% if g.min < g.cena %}od {{ g.min }}{% else %}{{ g.cena }}{% endif %} <small>din</small></b></li>{% endfor %}</ol>{% if w.gorivo.do %}<p class="g-note">Važi do petka {{ w.gorivo.do }} u 15h</p>{% endif %}</section>{% endif %}</div>'''
+          EMB = r'''<a class="m-emb m-emb-l" href="{{ root }}index.html" tabindex="-1" aria-hidden="true"><span>P<i>.</i></span></a><a class="m-emb m-emb-r" href="{{ root }}index.html" tabindex="-1" aria-hidden="true"><span>P<i>.</i></span></a>'''
+          CSS = r'''/* sirok ekran: desno polje uzivo (vreme, kurs, gorivo) i znak P. pored zaglavlja */
+          .m-emb{display:none}
+          @media (min-width:1680px) and (hover:hover) and (pointer:fine){
+          .g-live{width:min(calc(var(--gw) - 64px),320px)}
+          .g-pulse{position:relative;height:44px;overflow:hidden;margin-bottom:12px;border-radius:12px;background:color-mix(in srgb,var(--ink) 5%,transparent)}
+          .g-pulse svg{position:absolute;left:0;top:0;width:200%;height:100%;animation:g-tok 6s linear infinite}
+          .g-wave{fill:none;stroke:var(--brand);stroke-width:2;stroke-linejoin:round;stroke-linecap:round;opacity:.75}
+          @keyframes g-tok{to{transform:translateX(-50%)}}
+          .g-on{position:absolute;right:10px;top:50%;transform:translateY(-50%);display:inline-flex;align-items:center;gap:6px;font:800 10.5px var(--sans);letter-spacing:.18em;text-transform:uppercase;color:var(--ink-2);background:var(--bg);padding:3px 8px;border-radius:999px}
+          .g-on i{width:7px;height:7px;border-radius:50%;background:var(--brand);animation:g-blink 1.6s ease-in-out infinite}
+          @keyframes g-blink{50%{opacity:.25}}
+          .g-clock{margin:0 0 16px;display:flex;align-items:baseline;gap:10px;color:var(--ink-3);font:600 12.5px var(--sans)}
+          .g-clock b{font:800 26px var(--sans);color:var(--ink);letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+          .g-box{margin:0 0 16px}
+          .g-wx{display:flex;align-items:center;gap:12px;margin:2px 0 8px}
+          .g-ico{width:40px;height:40px;flex:none;color:var(--ink-2)}
+          .g-ico svg{width:100%;height:100%;display:block}
+          .g-wx>b{font:800 34px var(--sans);color:var(--ink);letter-spacing:-.03em;line-height:1}
+          .g-wd{display:grid;font:600 13px var(--sans);color:var(--ink-2);line-height:1.3}
+          .g-wd small{font-size:11.5px;color:var(--ink-3)}
+          .g-days{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+          .g-days li{display:grid;justify-items:center;gap:2px;padding:7px 4px;border-radius:10px;background:color-mix(in srgb,var(--ink) 4%,transparent);font:700 11px var(--sans);color:var(--ink-3);text-transform:uppercase;letter-spacing:.08em}
+          .g-days li svg{width:22px;height:22px;color:var(--ink-2)}
+          .g-days li b{font:800 12.5px var(--sans);color:var(--ink);letter-spacing:0;text-transform:none}
+          .g-days li b span{color:var(--ink-3);font-weight:600}
+          .g-list small{font-weight:600;color:var(--ink-3)}
+          .g-fx li span{font-variant-numeric:tabular-nums}
+          .m-emb{display:grid;place-items:center;position:absolute;top:8px;width:72px;height:72px;z-index:2;border-radius:50%;
+            background:radial-gradient(circle at 35% 30%,#1c2b5e,#0d1730 70%);color:#fff;font:900 40px/1 var(--display,Georgia,serif);text-decoration:none;
+            box-shadow:0 10px 28px -14px rgba(13,23,48,.6),inset 0 0 0 1.5px rgba(255,255,255,.16);transition:transform .5s var(--ease,ease)}
+          .m-emb span{position:relative;display:inline-block;padding:0 4px 7px 0;transform:translate(1px,-1px)}
+          .m-emb i{font-style:normal;color:#e5293f;margin-left:1px}
+          .m-emb span::after{content:"";position:absolute;left:0;right:0;bottom:0;height:3px;border-radius:2px;background:linear-gradient(90deg,#fff 0 78%,#e5293f 78%)}
+          .m-emb:hover{transform:rotate(-6deg) scale(1.04)}
+          .m-emb-l{left:calc((100vw - 1240px) / 4 - 36px)}
+          .m-emb-r{right:calc((100vw - 1240px) / 4 - 36px)}
+          }
+          '''
+          JS = r'''
+          /* ---------- sirok ekran: desno polje uzivo (sat, vreme, kursna lista) ---------- */
+          (function () {
+            var box = document.querySelector("[data-live]");
+            if (!box || !window.matchMedia) return;
+            var mq = window.matchMedia("(min-width: 1680px)"), started = false;
+            var DAN = ["nedelja", "ponedeljak", "utorak", "sreda", "četvrtak", "petak", "subota"], DK = ["Ned", "Pon", "Uto", "Sre", "Čet", "Pet", "Sub"];
+            var MES = ["januar", "februar", "mart", "april", "maj", "jun", "jul", "avgust", "septembar", "oktobar", "novembar", "decembar"];
+            var WMO = {0: "Vedro", 1: "Pretežno vedro", 2: "Delimično oblačno", 3: "Oblačno", 45: "Magla", 48: "Magla", 51: "Rosulja", 53: "Rosulja", 55: "Rosulja", 61: "Slaba kiša", 63: "Kiša", 65: "Jaka kiša", 66: "Ledena kiša", 67: "Ledena kiša", 71: "Slab sneg", 73: "Sneg", 75: "Jak sneg", 77: "Sneg", 80: "Pljuskovi", 81: "Pljuskovi", 82: "Jaki pljuskovi", 85: "Snežni pljuskovi", 86: "Snežni pljuskovi", 95: "Grmljavina", 96: "Grmljavina", 99: "Grmljavina"};
+            var S = 'fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"';
+            var SUN = '<circle cx="12" cy="12" r="4.2" ' + S + '/><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.3 5.3l1.6 1.6M17.1 17.1l1.6 1.6M5.3 18.7l1.6-1.6M17.1 6.9l1.6-1.6" ' + S + '/>';
+            var CLOUD = '<path d="M7 18h10a4 4 0 0 0 .6-7.95A5.5 5.5 0 0 0 7.1 9.6 4.2 4.2 0 0 0 7 18z" ' + S + '/>';
+            var ICO = {
+              sun: SUN,
+              part: '<circle cx="8.5" cy="8.5" r="3.2" ' + S + '/><path d="M8.5 2.5v1.4M2.5 8.5h1.4M4.3 4.3l1 1M12.7 4.3l-1 1" ' + S + '/><path d="M9 19h8.5a3.4 3.4 0 0 0 .5-6.76 4.7 4.7 0 0 0-8.9-1.2A3.6 3.6 0 0 0 9 19z" ' + S + '/>',
+              cloud: CLOUD,
+              fog: '<path d="M4 9h16M6 13h12M4 17h16" ' + S + '/>',
+              rain: CLOUD + '<path d="M9 20.5l-.8 1.6M13 20.5l-.8 1.6M17 20.5l-.8 1.6" ' + S + '/>',
+              snow: CLOUD + '<path d="M9 21h.01M13 21h.01M17 21h.01" ' + S + ' stroke-width="3"/>',
+              storm: CLOUD + '<path d="M12.5 17.5l-2 3h3l-2 3" ' + S + '/>'
+            };
+            function ico(c) {
+              var k = c === 0 ? "sun" : c <= 2 ? "part" : c === 3 ? "cloud" : c <= 48 ? "fog" : c <= 67 || (c >= 80 && c <= 82) ? "rain" : c <= 86 ? "snow" : "storm";
+              return '<svg viewBox="0 0 24 24" aria-hidden="true">' + ICO[k] + "</svg>";
+            }
+            function bg() { return new Date(new Date().toLocaleString("en-US", { timeZone: "Europe/Belgrade" })); }
+            function sat() {
+              var d = bg(), t = box.querySelector("[data-g-time]"), dt = box.querySelector("[data-g-date]");
+              if (t) t.textContent = String(d.getHours()).padStart(2, "0") + ":" + String(d.getMinutes()).padStart(2, "0");
+              if (dt) dt.textContent = DAN[d.getDay()] + ", " + d.getDate() + ". " + MES[d.getMonth()];
+            }
+            function vreme() {
+              fetch("https://api.open-meteo.com/v1/forecast?latitude=44.82&longitude=20.46&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=Europe%2FBelgrade&forecast_days=4")
+                .then(function (r) { return r.ok ? r.json() : null; }).then(function (j) {
+                  if (!j || !j.current) return;
+                  var c = j.current, d = j.daily;
+                  box.querySelector("[data-g-temp]").textContent = Math.round(c.temperature_2m) + "°";
+                  box.querySelector("[data-g-opis]").textContent = WMO[c.weather_code] || "";
+                  box.querySelector("[data-g-ico]").innerHTML = ico(c.weather_code);
+                  box.querySelector("[data-g-feel]").textContent = "oseća se " + Math.round(c.apparent_temperature) + "° · vetar " + Math.round(c.wind_speed_10m) + " km/h";
+                  var html = "";
+                  for (var i = 1; i < 4 && d && d.time && i < d.time.length; i++) {
+                    var dd = new Date(d.time[i] + "T12:00:00");
+                    html += "<li>" + DK[dd.getDay()] + ico(d.weather_code[i]) + "<b>" + Math.round(d.temperature_2m_max[i]) + "° <span>" + Math.round(d.temperature_2m_min[i]) + "°</span></b></li>";
+                  }
+                  box.querySelector("[data-g-days]").innerHTML = html;
+                }).catch(function () {});
+            }
+            function kurs() {
+              fetch("https://kurs.resenje.org/api/v1/rates/today").then(function (r) { return r.ok ? r.json() : null; }).then(function (j) {
+                if (!j || !j.rates) return;
+                var want = ["EUR", "USD", "CHF", "GBP", "BAM"], by = {};
+                j.rates.forEach(function (x) { by[x.code] = x; });
+                var html = "";
+                want.forEach(function (c) {
+                  var x = by[c]; if (!x) return;
+                  var v = x.exchange_middle / (x.parity || 1);
+                  html += "<li><span>1 " + c + "</span><i></i><b>" + v.toFixed(2).replace(".", ",") + " <small>din</small></b></li>";
+                });
+                if (html) box.querySelector("[data-g-fx]").innerHTML = html;
+              }).catch(function () {});
+            }
+            function start() {
+              if (started || !mq.matches) return;
+              started = true;
+              sat(); vreme(); kurs();
+              setInterval(sat, 20000);
+              setInterval(function () { if (!document.hidden) vreme(); }, 20 * 60000);
+              setInterval(function () { if (!document.hidden) kurs(); }, 60 * 60000);
+            }
+            start();
+            if (mq.addEventListener) mq.addEventListener("change", start);
+          })();
+          '''
+
+          w = pathlib.Path("engine/widgets.py")
+          s = w.read_text(encoding="utf-8")
+          assert "def gorivo" not in s
+          w.write_text(s.rstrip("\n") + "\n" + GOR, encoding="utf-8")
+          b = pathlib.Path("engine/build.py")
+          s = b.read_text(encoding="utf-8")
+          o = 'w = {"kurs": widgets.kurs() if live_widgets else [], "vreme": widgets.vreme() if live_widgets else None}'
+          assert s.count(o) == 1
+          b.write_text(s.replace(o, 'w = {"kurs": widgets.kurs() if live_widgets else [], "vreme": widgets.vreme() if live_widgets else None, "gorivo": widgets.gorivo() if live_widgets else None}'), encoding="utf-8")
+          t = pathlib.Path("templates/base.html")
+          s = t.read_text(encoding="utf-8")
+          o = "{{ k.code }} <b>{{ '%.2f'|format(k.rate) }}</b>"
+          assert s.count(o) == 1
+          s = s.replace(o, "{{ k.code }} <b>{{ ('%.2f'|format(k.rate)).replace('.', ',') }}</b> din")
+          s, n = re.subn(r'<div class="g-side g-r">.*?<p class="g-note">Vazdušnom linijom</p></div>', lambda m: PANEL, s, flags=re.S)
+          assert n == 1
+          o = '<header class="mast" id="mast">\n'
+          assert s.count(o) == 1 and "m-emb" not in s
+          s = s.replace(o, o + EMB + "\n")
+          t.write_text(s, encoding="utf-8")
+          c = pathlib.Path("static/style.css")
+          s = c.read_text(encoding="utf-8")
+          assert ".g-live" not in s
+          c.write_text(s.rstrip("\n") + "\n" + CSS, encoding="utf-8")
+          a = pathlib.Path("static/app.js")
+          s = a.read_text(encoding="utf-8")
+          assert "data-live" not in s
+          a.write_text(s.rstrip("\n") + "\n" + JS, encoding="utf-8")
+          print("UZIVO POLJE UGRADJENO")
+          PY
+          git rm -q .github/workflows/primeni.yml
+          git add -A engine static templates
+          git commit -q -m "Desno polje uzivo: vreme, menjacnica, gorivo; znak P pored zaglavlja; dinar u gornjoj traci"
+          for i in 1 2 3 4 5 6; do
+            git pull --rebase -q origin main && git push -q origin HEAD:main && echo "PRIMENJENO" && exit 0
+            sleep 10
+          done
+          exit 1
