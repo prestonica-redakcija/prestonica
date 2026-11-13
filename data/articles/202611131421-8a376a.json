@@ -33,7 +33,7 @@
  ],
  "importance": 7,
  "published": "2026-11-13T13:21:48.977057+00:00",
- "updated": "2026-11-13T19:48:56.164085+00:00",
+ "updated": "2026-11-13T20:18:47.027296+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -82,6 +82,12 @@
    "url": "https://www.telegraf.rs/4432738-hanrahan-sad-zadovoljne-tokom-prenosa-vlasti-u-srbiji-zelimo-nastavak-strateskog-dijaloga-sa-novom-vladom",
    "title": "Hanrahan: SAD zadovoljne tokom prenosa vlasti u Srbiji, želimo nastavak strateškog dijaloga sa novom Vladom",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10161663/sad-zele-da-nastave-strateski-dijalog-sa-novom-vladom-srbije",
+   "title": "SAD ŽELE DA NASTAVE STRATEŠKI DIJALOG SA NOVOM VLADOM SRBIJE Američki zvaničnik otkrio planove Trampove administracije za Srbiju: Evo šta će biti prioriteti",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -92,7 +98,8 @@
   "Pomoćnik državnog sekretara SAD: Vašington želi da nastavi strateški dijalog sa novim vlastima u Srbiji",
   "Hanrahan: SAD žele da nastave strateški dijalog sa novom vladom Srbije",
   "Hanrahan: Vašington želi da nastavi strateški dijalog sa novim vlastima u Srbiji",
-  "Hanrahan: SAD zadovoljne tokom prenosa vlasti u Srbiji, želimo nastavak strateškog dijaloga sa novom Vladom"
+  "Hanrahan: SAD zadovoljne tokom prenosa vlasti u Srbiji, želimo nastavak strateškog dijaloga sa novom Vladom",
+  "SAD ŽELE DA NASTAVE STRATEŠKI DIJALOG SA NOVOM VLADOM SRBIJE Američki zvaničnik otkrio planove Trampove administracije za Srbiju: Evo šta će biti prioriteti"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -104,8 +111,8 @@
   "local": true,
   "alt": "Hanrahan u Beogradu: SAD žele dublju saradnju sa Srbijom i novom vladom Studentske liste"
  },
- "novo_od_pisanja": 1,
- "boost": 1.48,
+ "novo_od_pisanja": 2,
+ "boost": 1.56,
  "prepisano": "2026-11-13T19:34:06.834215+00:00",
  "verzija": 2
 }
