@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-12T16:31:09.719763+00:00",
- "updated": "2026-11-13T20:18:47.027296+00:00",
+ "updated": "2026-11-13T20:48:30.259270+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -111,6 +111,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/tuzilastvo-saslusana-gradonacelnica-smedereva/",
    "title": "Gradonačelnica Smedereva saslušana, tužilaštvo traži pritvor za nju i dvoje saradnika",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1169693/jasmina-vojinovic-pritvor-smederevo-gradonacelnica",
+   "title": "Skandal! Osnovno javno tužilaštvo u Smederevu traži pritvor za Jasminu Vojinović - Evo i zbog čega",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -126,7 +132,8 @@
   "Saslušana gradonačelnica Smedereva, tužilaštvo traži pritvor za nju i dvoje saradnika zbog divlje deponije",
   "Tužilaštvo traži pritvor za gradonačelnicu Smedereva i još dvoje osumnjičenih",
   "Tužilaštvo traži pritvor za troje funkcionera u Smederevu zbog divlje deponije",
-  "Gradonačelnica Smedereva saslušana, tužilaštvo traži pritvor za nju i dvoje saradnika"
+  "Gradonačelnica Smedereva saslušana, tužilaštvo traži pritvor za nju i dvoje saradnika",
+  "Skandal! Osnovno javno tužilaštvo u Smederevu traži pritvor za Jasminu Vojinović - Evo i zbog čega"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -139,6 +146,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Smederevo_fortress_(Smederevska_tvr%C4%91ava)_-_by_Pudelek_02.JPG",
   "alt": "Uhapšena gradonačelnica Smedereva zbog sumnje u vezi sa nelegalnom deponijom"
  },
- "novo_od_pisanja": 11,
+ "novo_od_pisanja": 12,
  "boost": 1.6
 }

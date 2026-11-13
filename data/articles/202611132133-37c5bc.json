@@ -36,7 +36,7 @@
  ],
  "importance": 8,
  "published": "2026-11-13T20:33:40.498022+00:00",
- "updated": "2026-11-13T20:33:40.498022+00:00",
+ "updated": "2026-11-13T20:48:30.259270+00:00",
  "sources": [
   {
    "name": "N1",
@@ -61,13 +61,27 @@
    "url": "https://www.kurir.rs/crna-hronika/10161680/uhapseno-jos-sedam-policajaca-zbog-smrti-dalibora-dragijevica",
    "title": "UHAPŠENO JOŠ SEDAM POLICAJACA ZBOG SMRTI DALIBORA DRAGIJEVIĆA: Podlegao povredama od batina dobijenih u policijskoj stanici u Boru",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/284813/uhapseno-jos-sedam-policajaca-zbog-smrti-brata-optuzenog-za-ubistvo-danke-ilic/vest",
+   "title": "Uhapšeno još sedam policajaca zbog smrti brata optuženog za ubistvo Danke Ilić",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/nova-rs-uhapseno-jos-sedam-policajaca-iz-pu-bor-zbog-smrti-dalibora-dragijevica/",
+   "title": "Nova.rs: Uhapšeno još sedam policajaca iz PU Bor zbog smrti Dalibora Dragijevića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Nova.rs: Uhapšena i sedmorica policajaca iz Bora zbog slučaja smrti Dalibora Dragijevića",
   "Uhapšeno još sedam policajaca zbog smrti Dalibora Dragijevića: Među njima i inspektor",
   "SAZNAJEMO Uhapšeno još sedam policajaca iz PU Bor zbog smrti Dalibora Dragijevića",
-  "UHAPŠENO JOŠ SEDAM POLICAJACA ZBOG SMRTI DALIBORA DRAGIJEVIĆA: Podlegao povredama od batina dobijenih u policijskoj stanici u Boru"
+  "UHAPŠENO JOŠ SEDAM POLICAJACA ZBOG SMRTI DALIBORA DRAGIJEVIĆA: Podlegao povredama od batina dobijenih u policijskoj stanici u Boru",
+  "Uhapšeno još sedam policajaca zbog smrti brata optuženog za ubistvo Danke Ilić",
+  "Nova.rs: Uhapšeno još sedam policajaca iz PU Bor zbog smrti Dalibora Dragijevića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -78,5 +92,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Uhapšeno još sedam policajaca iz Bora zbog smrti Dalibora Dragijevića"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
