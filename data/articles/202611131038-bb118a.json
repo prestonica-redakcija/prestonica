@@ -3,13 +3,14 @@
  "slug": "vlada-u-tehnickom-mandatu-produzila-smanjenje-akciza-na-gorivo-do-22",
  "kind": "vest",
  "section": "ekonomija",
- "headline": "Vlada u tehničkom mandatu produžila smanjenje akciza na gorivo do 22. novembra",
- "lead": "Vlada Srbije u tehničkom mandatu produžila je odluku o smanjenju akciza na derivate nafte od 25 odsto, sada do 22. novembra. Prethodna odluka važila je do nedelje, 15. novembra.",
+ "headline": "Vlada u 15 časova odlučuje o produženju smanjenja akciza na gorivo do 22. novembra",
+ "lead": "Vlada Srbije u tehničkom mandatu danas na sednici u 15 časova odlučuje o produženju smanjenja akciza na derivate nafte od 25 odsto do 22. novembra. Važenje aktuelne odluke ističe u nedelju, 15. novembra.",
  "body": [
-  "Odluku o produženju potvrdilo je Ministarstvo finansija, kako prenosi Tanjug. Isto su prenele Večernje novosti, Euronews Srbija i B92.",
-  "Prema istim navodima, smanjenje akciza iznosi 25 odsto i važilo je do nedelje, 15. novembra. Novim rešenjem ono se produžava za još nekoliko dana, do 22. novembra.",
-  "Akciza za olovni benzin iznosi 57,41 dinar po litru, za bezolovni benzin 54 dinara po litru, a za gasna ulja 55,53 dinara po litru.",
-  "U izvorima nema obrazloženja odluke ni podataka o tome koliko državu košta smanjenje akciza. Svi mediji prenose isto saopštenje Ministarstva finansija i među njima nema razlika u činjenicama."
+  "Ministarstvo finansija je rekonvertovano pogrešno.",
+  "Beti je u Ministarstvu finansija rečeno da će Vlada na sednici u 15 časova odlučivati o produženju privremenog smanjenja, prenose N1 i Danas. Tanjugu je isto ministarstvo navelo da će Vlada na današnjoj sednici produžiti odluku do 22. novembra.",
+  "N1 dodaje da je Ministarstvo finansija ranije potvrdilo da je Vlada već produžila rok primene odluke. Izvori time ne usklađuju u potpunosti da li je produženje već doneto ili tek treba da bude usvojeno na sednici, pa je konačna odluka vezana za današnje zasedanje.",
+  "Odluka o umanjenju akciza koju je Vlada usvojila 6. novembra važi do 15. novembra, navodi N1.",
+  "Prema odluci, akciza za olovni benzin iznosi 57,41 dinar po litru, za bezolovni benzin 54 dinara, a za gasna ulja 55,53 dinara po litru. U izvorima nema obrazloženja produženja ni podataka o tome koliko državu košta smanjenje akciza."
  ],
  "tags": [
   "akcize",
@@ -25,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T09:38:39.626001+00:00",
- "updated": "2026-11-13T10:23:10.475153+00:00",
+ "updated": "2026-11-13T10:38:03.147222+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -68,6 +69,24 @@
    "url": "https://n1info.rs/biznis/vlada-produzila-smanjenje-akciza-na-naftu-do-22-novembra/",
    "title": "Vlada produžila privremeno smanjenje akciza na derivate nafte do 22. novembra",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/297447/vlada-ce-danas-produziti-smanjenje-akciza-na-derivate-nafte-za-25-odsto-do-22-novembra/vest",
+   "title": "Vlada će danas produžiti smanjenje akciza na derivate nafte za 25 odsto, do 22. novembra",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/vlada-smanjenje-akciza-na-naftu/",
+   "title": "Vlada produžila privremeno smanjenje akciza na derivate nafte do 22. novembra",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/akciza-na-gorivo-produzenje/",
+   "title": "Vlada Srbije u 15 časova odlučuje o produženju privremenog smanjenja akciza na derivate nafte",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -77,7 +96,10 @@
   "VLADA PRODUŽILA SMANjENjE AKCIZA NA GORIVO: Odluka važi do 22. novembra",
   "Vlada produžila privremeno smanjenje akciza na derivate nafte do 22. novembra",
   "Tehnička vlada donela odluku o akcizama: Važi do 2. novembra",
-  "Vlada produžila privremeno smanjenje akciza na derivate nafte do 22. novembra"
+  "Vlada produžila privremeno smanjenje akciza na derivate nafte do 22. novembra",
+  "Vlada će danas produžiti smanjenje akciza na derivate nafte za 25 odsto, do 22. novembra",
+  "Vlada produžila privremeno smanjenje akciza na derivate nafte do 22. novembra",
+  "Vlada Srbije u 15 časova odlučuje o produženju privremenog smanjenja akciza na derivate nafte"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -90,6 +112,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Slika1536_Vlada_Srbije.jpg",
   "alt": "Vlada u tehničkom mandatu produžila smanjenje akciza na gorivo do 22. novembra"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 0,
+ "boost": 1.48,
+ "prepisano": "2026-11-13T10:38:03.147222+00:00",
+ "verzija": 2
 }

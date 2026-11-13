@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T07:09:55.600981+00:00",
- "updated": "2026-11-13T07:54:24.252839+00:00",
+ "updated": "2026-11-13T10:38:03.147222+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -47,11 +47,18 @@
    "url": "https://www.danas.rs/vesti/ekonomija/prodata-azotara-pancevo-novi-vlasnik-iz-ujedinjenih-arapskih-emirata/",
    "title": "Prodata Azotara Pančevo, novi vlasnik iz Ujedinjenih Arapskih Emirata",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4432364-mileva-novi-vlasnik-pancevacke-azotare",
+   "title": "\"Mileva\" novi vlasnik pančevačke Azotare!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Prodata Azotara Pančevo: Novi vlasnik je iz Ujedinjenih Arapskih Emirata, upisan i pored zaloga",
-  "Prodata Azotara Pančevo, novi vlasnik iz Ujedinjenih Arapskih Emirata"
+  "Prodata Azotara Pančevo, novi vlasnik iz Ujedinjenih Arapskih Emirata",
+  "\"Mileva\" novi vlasnik pančevačke Azotare!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +70,6 @@
   "local": true,
   "alt": "Azotara Pančevo promenila vlasnika: 100 odsto udela preuzela firma Mileva Data Technologies"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

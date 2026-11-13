@@ -39,7 +39,7 @@
  ],
  "importance": 7,
  "published": "2026-11-12T08:04:50.599160+00:00",
- "updated": "2026-11-13T10:08:15.452290+00:00",
+ "updated": "2026-11-13T10:38:03.147222+00:00",
  "sources": [
   {
    "name": "N1",
@@ -304,6 +304,24 @@
    "url": "https://www.telegraf.rs/4432336-litvinenko-evropa-mora-da-ucestvuje-u-mirovnim-pregovorima-rusije-ukrajine-i-sad",
    "title": "Litvinenko: Evropa mora da učestvuje u mirovnim pregovorima Rusije, Ukrajine i SAD",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/297466/madar-novi-sastanak-sa-zelenskim-moguc-krajem-meseca-u-zakarpatju/vest",
+   "title": "Mađar: Novi sastanak sa Zelenskim moguć krajem meseca u Zakarpatju",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/rusija-i-ukrajina-ukljucuju-evropu-u-mirovne-pregovore/",
+   "title": "Rusija i Ukrajina saglasne da Evropu uključe u mirovne pregovore",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4432273-sta-obuhvataju-ruski-zahtevi-za-ukrajinu-nato-i-istocnu-evropu",
+   "title": "Evo šta Rusija traži, ali i nudi za kraj rata u Ukrajini! Poznati detalji mirovnih pregovora",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -350,7 +368,10 @@
   "Mentalno razgibavanje: Krali su gde su stigli!",
   "Kušner: SAD rade na najvećoj razmeni zarobljenika između RUS i UKR od početka rata",
   "Kušner: Rusija i Ukrajina saglasne da Evropu uključe u mirovne pregovore",
-  "Litvinenko: Evropa mora da učestvuje u mirovnim pregovorima Rusije, Ukrajine i SAD"
+  "Litvinenko: Evropa mora da učestvuje u mirovnim pregovorima Rusije, Ukrajine i SAD",
+  "Mađar: Novi sastanak sa Zelenskim moguć krajem meseca u Zakarpatju",
+  "Rusija i Ukrajina saglasne da Evropu uključe u mirovne pregovore",
+  "Evo šta Rusija traži, ali i nudi za kraj rata u Ukrajini! Poznati detalji mirovnih pregovora"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -363,7 +384,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(08-03-2024)_(cropped).jpg",
   "alt": "Vitkof i Kušner stigli u Moskvu na razgovore sa Putinom, potom putuju kod Zelenskog"
  },
- "novo_od_pisanja": 9,
+ "novo_od_pisanja": 12,
  "boost": 1.6,
  "prepisano": "2026-11-13T06:55:05.526438+00:00",
  "verzija": 8
