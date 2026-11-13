@@ -28,17 +28,24 @@
  ],
  "importance": 5,
  "published": "2026-11-13T11:37:37.701046+00:00",
- "updated": "2026-11-13T11:37:37.701046+00:00",
+ "updated": "2026-11-13T11:52:27.915819+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/postaska-stedionica-alta-banka-rusi-podizanje-novca/",
    "title": "Ruski državljani u velikom broju došli po svoj novac, gužva ispred Poštanske u Kraljice Marije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1670777/bez-vecih-guzvi-ispred-ekpozitura-postanske-stedionice-isplata-osiguranih-depozita-klijentima-alta-banke-tece-uredno-foto",
+   "title": "BEZ VEĆIH GUŽVI ISPRED EKPOZITURA POŠTANSKE ŠTEDIONICE: Isplata osiguranih depozita klijentima Alta banke teče uredno (FOTO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Ruski državljani u velikom broju došli po svoj novac, gužva ispred Poštanske u Kraljice Marije"
+  "Ruski državljani u velikom broju došli po svoj novac, gužva ispred Poštanske u Kraljice Marije",
+  "BEZ VEĆIH GUŽVI ISPRED EKPOZITURA POŠTANSKE ŠTEDIONICE: Isplata osiguranih depozita klijentima Alta banke teče uredno (FOTO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Banka_po%C5%A1tanska_%C5%A1tedionica,_Pan%C4%8Devo.jpg",
   "alt": "Počela isplata osiguranih depozita Alta banke, gužva ispred Poštanske štedionice"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

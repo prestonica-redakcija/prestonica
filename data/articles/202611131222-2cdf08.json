@@ -27,16 +27,23 @@
  ],
  "importance": 6,
  "published": "2026-11-13T11:22:43.987932+00:00",
- "updated": "2026-11-13T11:22:43.987932+00:00",
+ "updated": "2026-11-13T11:52:27.915819+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/297475/vucic-za-veltvohe-nikada-necu-napustiti-srbiju-moramo-da-se-borimo-za-drzavu-i-ideje/vest",
    "title": "Vučić za Veltvohe: Nikada neću napustiti Srbiju, moramo da se borimo za državu i ideje",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/251918/vucic-za-veltvohe-nikada-necu-napustiti-srbiju/vest",
+   "title": "Vučić za Veltvohe: Nikada neću napustiti Srbiju, moramo da se borimo za državu i ideje",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
+  "Vučić za Veltvohe: Nikada neću napustiti Srbiju, moramo da se borimo za državu i ideje",
   "Vučić za Veltvohe: Nikada neću napustiti Srbiju, moramo da se borimo za državu i ideje"
  ],
  "author": "Redakcija Prestonice",
@@ -48,5 +55,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučić za Veltvohe: Neću napustiti Srbiju, \"lov na veštice\" trajaće do devet meseci"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

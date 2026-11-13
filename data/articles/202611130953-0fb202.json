@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T08:53:53.111687+00:00",
- "updated": "2026-11-13T11:37:37.701046+00:00",
+ "updated": "2026-11-13T11:52:27.915819+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -97,6 +97,12 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4432416-oglasio-se-vjt-predmet-prebacen-iz-treceg-u-prvo-osnovno-javno-tuzilastvo-u-beogradu",
    "title": "Oglasio se VJT: Predmet prebačen iz Trećeg u Prvo osnovno javno tužilaštvo u Beogradu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/glavni-tuzilac-vjt-a-u-beogradu-nenad-stefanovic-usvojio-zahtev-za-izuzece-tuzioca-u-predmetu-milenijum-tim-predmet-preuzima-prvo-osnovnog-tuzilastvo",
+   "title": "Glavni tužilac VJT-a u Beogradu Nenad Stefanović usvojio zahtev za izuzeće tužioca u predmetu \"Milenijum tim\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -110,7 +116,8 @@
   "Stefanović slučaj \"Milenijum tim\" dodelio Prvom osnovnom, prihvatio zahtev advokata za izuzeće tužilaca iz Trećeg",
   "Usvojen zahtev za izuzeće glavnog tužioca Trećeg OJT: Slučaj \"Milenijum tim\" preuzima Prvo osnovno tužilaštvo",
   "Usvojen zahtev Milenijum tima, Nenad Stefanović predmet prebacio iz Trećeg u Prvo osnovno tužilaštvo",
-  "Oglasio se VJT: Predmet prebačen iz Trećeg u Prvo osnovno javno tužilaštvo u Beogradu"
+  "Oglasio se VJT: Predmet prebačen iz Trećeg u Prvo osnovno javno tužilaštvo u Beogradu",
+  "Glavni tužilac VJT-a u Beogradu Nenad Stefanović usvojio zahtev za izuzeće tužioca u predmetu \"Milenijum tim\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -123,7 +130,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Beograd_-_Hotel_Jugoslavija_(45267243451).jpg",
   "alt": "Treće tužilaštvo traži od Višeg da odluči o izuzećima u slučaju hotela Jugoslavija"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-13T11:37:37.701046+00:00",
  "verzija": 3

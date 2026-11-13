@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T07:35:11.343519+00:00",
- "updated": "2026-11-12T20:14:38.677905+00:00",
+ "updated": "2026-11-13T11:52:27.915819+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -55,13 +55,20 @@
    "url": "https://www.b92.net/info/razno/284510/prelistavanje-stampe-za-13-novembar-2026-godine/vest",
    "title": "Novine: \"Najava rastakanja sektora odbrane i bezbednosti\"; \"Bukte sukobi unutar sistema\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/sport/ostali-sportovi/4432431-partizan-se-rastao-sa-jos-jednim-igracem",
+   "title": "Partizan se rastao sa još jednim igračem!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Ludilo sa \"Studentske liste\"! Najavili prekid saradnje sa jednom od najvećih sila: Hoće da unište srpsku vojsku i ekonomiju! (VIDEO)",
   "STUDENTI NAJAVILI: Gašenje fabrike najmodernijih dronova i prekid vojne saradnje sa Izraelom (VIDEO)",
   "ŽESTOK SUKOB OKO VOJSKE, BIA I SARADNJE SA IZRAELOM! Vučić upozorava na rasturanje odbrambenog sektora dok studenti najavljuju gašenje fabrike dronova (VIDEO)",
-  "Novine: \"Najava rastakanja sektora odbrane i bezbednosti\"; \"Bukte sukobi unutar sistema\""
+  "Novine: \"Najava rastakanja sektora odbrane i bezbednosti\"; \"Bukte sukobi unutar sistema\"",
+  "Partizan se rastao sa još jednim igračem!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "local": true,
   "alt": "Ubović: program Studentske liste predviđa zaustavljanje trgovine oružjem sa Izraelom"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

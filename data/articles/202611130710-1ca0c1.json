@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-13T06:10:14.988718+00:00",
- "updated": "2026-11-13T06:10:14.988718+00:00",
+ "updated": "2026-11-13T11:52:27.915819+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1169352/informer-tv-pozicija-kablovski-operateri",
    "title": "Hoće da zakopaju istinu - Otkriveno šta se krije iza promene pozicija TV Informer",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/informer-tv-se-survao-na-listama-kablovskih-operatera/",
+   "title": "Informer TV se \"survao\" na listama kablovskih operatera",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Hoće da zakopaju istinu - Otkriveno šta se krije iza promene pozicija TV Informer"
+  "Hoće da zakopaju istinu - Otkriveno šta se krije iza promene pozicija TV Informer",
+  "Informer TV se \"survao\" na listama kablovskih operatera"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:The_Houston_Informer_(Houston,_Tex.),_Vol._8,_No._19,_Ed._1_Saturday,_September_25,_1926_-_DPLA_-_ece77399ba6743468a33c6de07b29f68_(page_7).jpg",
   "alt": "Informer TV tvrdi da su kablovski operateri pomerili njegovu poziciju na listi kanala"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T10:38:03.147222+00:00",
- "updated": "2026-11-13T11:37:37.701046+00:00",
+ "updated": "2026-11-13T11:52:27.915819+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,12 +51,19 @@
    "url": "https://www.telegraf.rs/vesti/svet/4432360-holandski-premijer-pokusava-da-spreci-raspad-vlade-zbog-spora-oko-poreza-na-bogatstvo",
    "title": "Holandski premijer pokušava da spreči raspad vlade zbog spora oko poreza na bogatstvo",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/284623/rob-jeten-se-sastaje-sa-liderima-koalicionih-stranaka-da-spreci-raspad-vlade/vest",
+   "title": "Raspada se holandska vlada?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Holandski premijer pokušava da spreči raspad vlade zbog spora oko poreza na bogatstvo",
   "Raspada se holandska vlada?",
-  "Holandski premijer pokušava da spreči raspad vlade zbog spora oko poreza na bogatstvo"
+  "Holandski premijer pokušava da spreči raspad vlade zbog spora oko poreza na bogatstvo",
+  "Raspada se holandska vlada?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "local": true,
   "alt": "Holandski premijer pokušava da spasi koaliciju zbog spora oko poreza na bogatstvo"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

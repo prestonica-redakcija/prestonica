@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-12T14:02:08.016750+00:00",
- "updated": "2026-11-12T15:31:41.694107+00:00",
+ "updated": "2026-11-13T11:52:27.915819+00:00",
  "sources": [
   {
    "name": "N1",
@@ -39,11 +39,18 @@
    "url": "https://n1info.rs/video/n1-studio-live/n1-studio-live-11112026/",
    "title": "N1 Studio Live (11.11.2026)",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/video/novi-dan/press-ivanka-popovic-13-11-2026/",
+   "title": "Press: Ivanka Popović (13. 11. 2026)",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "PRESS: Jovana Gligorijević (12.11.2026)",
-  "N1 Studio Live (11.11.2026)"
+  "N1 Studio Live (11.11.2026)",
+  "Press: Ivanka Popović (13. 11. 2026)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,6 +62,6 @@
   "local": true,
   "alt": "Studentska lista traži od RTS-a radne biografije 50 voditelja i urednika"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

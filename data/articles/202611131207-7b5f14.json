@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T11:07:47.950991+00:00",
- "updated": "2026-11-13T11:22:43.987932+00:00",
+ "updated": "2026-11-13T11:52:27.915819+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -43,11 +43,18 @@
    "url": "https://n1info.rs/vesti/cetiri-osobe-uhapsene-nadjeno-90-kg-marihuane-kod-topole/",
    "title": "Četiri osobe uhapšene, nađeno 90 kg marihuane kod Topole",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/297480/uhapsene-cetiri-osobe-zbog-proizvodnje-i-prodaje-droge-za-jos-jednim-licem-se-traga/vest",
+   "title": "Uhapšene četiri osobe zbog proizvodnje i prodaje droge, za još jednim licem se traga",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "PALA KRIMI-GRUPA U ŠUMI KOD TOPOLE! Policija upala u štek i zaplenila skoro 300 KILA DROGE: Četvorica uhapšena, za jednim se traga",
-  "Četiri osobe uhapšene, nađeno 90 kg marihuane kod Topole"
+  "Četiri osobe uhapšene, nađeno 90 kg marihuane kod Topole",
+  "Uhapšene četiri osobe zbog proizvodnje i prodaje droge, za još jednim licem se traga"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,6 +67,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Topola_Kr%C3%B3lewska,_mleczarnia_(2).jpg",
   "alt": "Kod Topole zaplenjeno oko 90 kilograma marihuane, uhapšena četvorica osumnjičenih"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

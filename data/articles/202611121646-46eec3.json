@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-12T15:46:35.631807+00:00",
- "updated": "2026-11-13T06:55:05.526438+00:00",
+ "updated": "2026-11-13T11:52:27.915819+00:00",
  "sources": [
   {
    "name": "N1",
@@ -55,13 +55,20 @@
    "url": "https://www.tanjug.rs/svet/politika/297408/cetiri-osobe-poginule-u-napadu-dronovima-na-volgograd/vest",
    "title": "Četiri osobe poginule u napadu dronovima na Volgograd",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/297496/sest-osoba-poginulo-u-urusavanju-zgrade-u-blizini-najrobija/vest",
+   "title": "Šest osoba poginulo u urušavanju zgrade u blizini Najrobija",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "\"Aktivna pucnjava\" u centru Vašingtona: Jedna osoba ubijena, osumnjičeni se zabarikadirao",
   "JEDNA OSOBA UBIJENA U PUCNJAVI U VAŠINGTONU! Četvoro ranjeno, napadač se zabarikadirao u stambenoj zgradi - opsadno stanje u blizini Bele kuće! (VIDEO/FOTO)",
   "Pucnjava kod Bele kuće: Jedna osoba ubijena, ima ranjenih; Napadač se upucao VIDEO",
-  "Četiri osobe poginule u napadu dronovima na Volgograd"
+  "Četiri osobe poginule u napadu dronovima na Volgograd",
+  "Šest osoba poginulo u urušavanju zgrade u blizini Najrobija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "local": true,
   "alt": "Pucnjava u centru Vašingtona: jedna osoba poginula, četiri ranjene, osumnjičeni se zabarikadirao"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

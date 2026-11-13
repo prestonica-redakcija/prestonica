@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T10:23:10.475153+00:00",
- "updated": "2026-11-13T10:23:10.475153+00:00",
+ "updated": "2026-11-13T11:52:27.915819+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,11 +47,18 @@
    "url": "https://www.kurir.rs/planeta/10161048/tramp-upozorio-na-antisemitizam-u-sad",
    "title": "TRAMP UPOREDIO AMERIKU SA NACISTIČKOM NEMAČKOM! Predsednik SAD izneo jezivo upozorenje: \"Nikada nisam mislio da ćemo ovo videti\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/251904/tramp-o-antisemitizmu-u-sad-i-mogucoj-sili-prema-iranu/vest",
+   "title": "Tramp: Antisemitizam u SAD sada kao u Nemačkoj 1938. godine",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Tramp: Antisemitizam u SAD sada kao u Nemačkoj 1938. godine",
-  "TRAMP UPOREDIO AMERIKU SA NACISTIČKOM NEMAČKOM! Predsednik SAD izneo jezivo upozorenje: \"Nikada nisam mislio da ćemo ovo videti\""
+  "TRAMP UPOREDIO AMERIKU SA NACISTIČKOM NEMAČKOM! Predsednik SAD izneo jezivo upozorenje: \"Nikada nisam mislio da ćemo ovo videti\"",
+  "Tramp: Antisemitizam u SAD sada kao u Nemačkoj 1938. godine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Tramp zabrinut zbog antisemitizma u SAD, ne isključuje nove udare na Iran"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

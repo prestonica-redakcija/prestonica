@@ -30,7 +30,7 @@
  ],
  "importance": 7,
  "published": "2026-11-13T11:37:37.701046+00:00",
- "updated": "2026-11-13T11:37:37.701046+00:00",
+ "updated": "2026-11-13T11:52:27.915819+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -49,12 +49,33 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1670766/stigle-nove-cene-goriva-poznato-koliko-cemo-placati-dizel-benzin-narednih-sedam-dana",
    "title": "STIGLE SU NOVE CENE GORIVA: Poznato koliko ćemo plaćati dizel i benzin narednih sedam dana",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/284642/u-narednih-sedam-dana-cene-goriva-iste-benzin-207-dizel-236-dinara/vest",
+   "title": "Ovo su nove cene goriva u Srbiji: Koliko ćemo plaćati benzin i dizel",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/objavljene-cene-goriva-do-sledeceg-petka/",
+   "title": "Objavljene cene goriva do sledećeg petka",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/objavljene-cene-goriva-koje-ce-vaziti-narednih-sedam-dana",
+   "title": "Objavljene cene goriva koje će važiti narednih sedam dana",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Objavljene nove cene goriva: Poznato koliko će koštati benzin i dizel",
   "Ovo su nove cene goriva u Srbiji: Koliko ćemo plaćati benzin i dizel",
-  "STIGLE SU NOVE CENE GORIVA: Poznato koliko ćemo plaćati dizel i benzin narednih sedam dana"
+  "STIGLE SU NOVE CENE GORIVA: Poznato koliko ćemo plaćati dizel i benzin narednih sedam dana",
+  "Ovo su nove cene goriva u Srbiji: Koliko ćemo plaćati benzin i dizel",
+  "Objavljene cene goriva do sledećeg petka",
+  "Objavljene cene goriva koje će važiti narednih sedam dana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,5 +86,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Cene goriva nepromenjene: evrodizel 236, benzin 207 dinara do 20. novembra"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
