@@ -2197,18 +2197,29 @@
   "https://www.danas.rs/bbc-news-serbian/klimatske-promene-prazne-rafove-prodavnica-u-sibiru/": "2026-11-13T06:25:04.737283+00:00",
   "https://www.b92.net/info/svet/284547/zelenski-zahteva-momentalno-objasnjenje-trampov-covek-odmah-reagovao-rade-to-malo-po-malo/vest": "2026-11-13T06:25:04.737283+00:00",
   "https://nova.rs/vesti/biznis/milenijum-timu-izdata-dozvola-za-pripremne-radove/": "2026-11-13T06:25:04.737283+00:00",
-  "https://www.tanjug.rs/svet/hronika/297404/fbi-zaplenjene-kriptovalute-vredne-12-milijarde-dolara-ukradene-sa-platforme-binance/vest": "2026-11-13T06:25:04.737283+00:00"
+  "https://www.tanjug.rs/svet/hronika/297404/fbi-zaplenjene-kriptovalute-vredne-12-milijarde-dolara-ukradene-sa-platforme-binance/vest": "2026-11-13T06:25:04.737283+00:00",
+  "https://www.tanjug.rs/srbija/drustvo/297401/svetski-dan-borbe-protiv-secerne-bolesti-danas-u-domu-zdravlja-nis-preventivni-pregledi/vest": "2026-11-13T06:40:00.551823+00:00",
+  "https://www.b92.net/info/hronika/284548/hitna-pomoc-otac-i-sin-zadobili-lakse-povrede-kada-su-pali-sa-motora-u-karadjordjevoj/vest": "2026-11-13T06:40:00.551823+00:00",
+  "https://nova.rs/vesti/hronika/otac-i-sin-lakse-povredjene-prilikom-pada-sa-motora-u-karadjordjevoj-ulici/": "2026-11-13T06:40:00.551823+00:00",
+  "https://www.b92.net/info/svet/284547/zelenski-tvrdi-da-su-ponovo-uvedena-ogranicenja-za-starsild-spejseks-negira/vest": "2026-11-13T06:40:00.551823+00:00",
+  "https://www.telegraf.rs/4432172-rik-objavio-ukupne-rezultate-za-izbore-za-clanove-18-saveta-nacionalnih-manjina": "2026-11-13T06:40:00.551823+00:00",
+  "https://www.euronews.rs/biznis/biznis-vesti/251863/pocinje-isplata-osiguranih-depozita-alta-banke/vest": "2026-11-13T06:40:00.551823+00:00",
+  "https://nova.rs/vesti/biznis/u-postanskoj-stedionici-pocinje-isplata-osiguranih-depozita-klijentima-alta-banke-u-stecaju/": "2026-11-13T06:40:00.551823+00:00",
+  "https://www.euronews.rs/srbija/politika/251864/skupstina-srbije-danas-konsultacije-uoci-nove-sednice/vest": "2026-11-13T06:40:00.551823+00:00",
+  "https://informer.rs/politika/vesti/1169414/konsultacije-konstitutivna-sednica-skupstina": "2026-11-13T06:40:00.551823+00:00",
+  "https://nova.rs/vesti/politika/danas-konsultacije-izbornih-lista-pred-konstituisanje-novog-saziva-parlamenta/": "2026-11-13T06:40:00.551823+00:00",
+  "https://www.tanjug.rs/srbija/drustvo/297405/natprosecno-visoke-temperature-jutros-u-srbiji-najtoplije-valjevo-sa-23-stepena/vest": "2026-11-13T06:40:00.551823+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4432171-sok-temperature-jutros-u-srbiji-jedan-grad-osvanuo-uz-cak-23-stepena-ipak-sledi-potpuni-obrt-do-kraja-dana": "2026-11-13T06:40:00.551823+00:00",
+  "https://n1info.rs/vesti/temperatura-danas-do-25-stepeni-od-subote-zahladjenje/": "2026-11-13T06:40:00.551823+00:00",
+  "https://www.kurir.rs/stars/10160277/oglasio-se-futa-radulovic-u-slucaju-kaje-ostojic-i-romane-panic": "2026-11-13T06:40:00.551823+00:00",
+  "https://www.danas.rs/svet/seksualno-uznemiravanje-u-bundesveru-cesce-nego-sto-se-mislilo-predstavljeni-rezultati-prve-studije-o-neprijavljenim-slucajevima/": "2026-11-13T06:40:00.551823+00:00",
+  "https://informer.rs/politika/vesti/1169405/cedomir-antic-studentska-lista-plenum-nova-vlast": "2026-11-13T06:40:00.551823+00:00",
+  "https://www.tanjug.rs/srbija/drustvo/297400/bez-zadrzavanja-na-rampama-auto-puteva-i-na-putnickim-terminalima-granicnih-prelaza/vest": "2026-11-13T06:40:00.551823+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-12T15:49+00:00",
-   "novih": 9,
-   "ukupno": 523,
-   "sekundi": 196.8
-  },
   {
    "vreme": "2026-11-12T16:03+00:00",
    "novih": 3,
@@ -2562,6 +2573,12 @@
    "novih": 5,
    "ukupno": 665,
    "sekundi": 150.6
+  },
+  {
+   "vreme": "2026-11-13T06:42+00:00",
+   "novih": 4,
+   "ukupno": 669,
+   "sekundi": 142.0
   }
  ],
  "licnosti_foto": {
@@ -15586,6 +15603,50 @@
      "credit": "Wikimedia Commons / United States Department of Justice / Public domain",
      "link": "https://commons.wikimedia.org/wiki/File:Binance_and_Zhao_Chemgpeng_guilty_pleas_press_conference.jpg",
      "naslov": "Binance and Zhao Chemgpeng guilty pleas press conference.jpg"
+    }
+   ]
+  },
+  "t:bundesver": {
+   "t": 1794552049.4228528,
+   "items": []
+  },
+  "t:nemacka": {
+   "t": 1794552050.7897215,
+   "items": []
+  },
+  "t:boris pistorijus": {
+   "t": 1794552051.0408335,
+   "items": []
+  },
+  "t:cedomir antic": {
+   "t": 1794552069.0577917,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Cedomir_Antic-mc.rs.jpg/1920px-Cedomir_Antic-mc.rs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3018,
+     "h": 2136,
+     "god": 2015,
+     "credit": "Wikimedia Commons / Medija Centar Beograd / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Cedomir_Antic-mc.rs.jpg",
+     "naslov": "Cedomir Antic-mc.rs.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/%C4%8Cedomir_Anti%C4%87%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 965,
+     "h": 641,
+     "god": 2014,
+     "credit": "Wikimedia Commons / Medija centar Beograd. / CC BY 3.0 rs",
+     "link": "https://commons.wikimedia.org/wiki/File:%C4%8Cedomir_Anti%C4%87,_2014.jpg",
+     "naslov": "Čedomir Antić, 2014.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/%C4%8Cedomir_Anti%C4%87.jpg/1920px-%C4%8Cedomir_Anti%C4%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2692,
+     "h": 1788,
+     "god": 2011,
+     "credit": "Wikimedia Commons / Medija centar Beograd / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%C4%8Cedomir_Anti%C4%87.jpg",
+     "naslov": "Čedomir Antić.jpg"
     }
    ]
   }

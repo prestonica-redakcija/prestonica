@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-12T18:15:31.976665+00:00",
- "updated": "2026-11-12T21:58:50.243261+00:00",
+ "updated": "2026-11-13T06:40:00.551823+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -107,6 +107,12 @@
    "url": "https://www.euronews.rs/srbija/politika/251834/rik-ponistio-glasanje-na-pet-birackih-mesta/vest",
    "title": "RIK donela odluku: Na pet biračkih mesta ponavljanje izbora za članove saveta nacionalnih manjina",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4432172-rik-objavio-ukupne-rezultate-za-izbore-za-clanove-18-saveta-nacionalnih-manjina",
+   "title": "RIK objavio ukupne rezultate za izbore za članove 18 saveta nacionalnih manjina",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -122,7 +128,8 @@
   "PONAVLJA SE GLASANJE NA PET BIRAČKIH MESTA RIK objavio ukupne rezultate za izbore za članove 18 saveta nacionalnih manjina",
   "RIK objavio ukupne rezultate za izbore za članove 18 saveta nacionalnih manjina",
   "RIK poništio glasanje na pet biračkih mesta na izborima za nacionalne savete manjina",
-  "RIK donela odluku: Na pet biračkih mesta ponavljanje izbora za članove saveta nacionalnih manjina"
+  "RIK donela odluku: Na pet biračkih mesta ponavljanje izbora za članove saveta nacionalnih manjina",
+  "RIK objavio ukupne rezultate za izbore za članove 18 saveta nacionalnih manjina"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -135,7 +142,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Dom_kulture_Vuk_Karad%C5%BEi%C4%87_Bujanovac_04.jpg",
   "alt": "RIK utvrdio rezultate izbora za nacionalne savete, glasanje se ponavlja na pet mesta"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-12T21:58:50.243261+00:00",
  "verzija": 3

@@ -36,16 +36,23 @@
  ],
  "importance": 6,
  "published": "2026-11-13T06:25:04.737283+00:00",
- "updated": "2026-11-13T06:25:04.737283+00:00",
+ "updated": "2026-11-13T06:40:00.551823+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/info/svet/284547/zelenski-zahteva-momentalno-objasnjenje-trampov-covek-odmah-reagovao-rade-to-malo-po-malo/vest",
    "title": "Zelenski zahteva momentalno objašnjenje – Trampov čovek odmah reagovao; Rade to malo po malo?",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/284547/zelenski-tvrdi-da-su-ponovo-uvedena-ogranicenja-za-starsild-spejseks-negira/vest",
+   "title": "Zelenski zahteva momentalno objašnjenje – Trampov čovek odmah reagovao; Rade to malo po malo?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
+  "Zelenski zahteva momentalno objašnjenje – Trampov čovek odmah reagovao; Rade to malo po malo?",
   "Zelenski zahteva momentalno objašnjenje – Trampov čovek odmah reagovao; Rade to malo po malo?"
  ],
  "author": "Redakcija Prestonice",
@@ -58,5 +65,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Starlink_Dish_20250111_101122.jpg",
   "alt": "Kijev traži objašnjenje zbog ograničenja sistema Staršild, SpejsEks poriče promene"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
