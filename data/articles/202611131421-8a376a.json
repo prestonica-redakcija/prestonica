@@ -31,7 +31,7 @@
  ],
  "importance": 7,
  "published": "2026-11-13T13:21:48.977057+00:00",
- "updated": "2026-11-13T13:21:48.977057+00:00",
+ "updated": "2026-11-13T13:36:36.575897+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -44,11 +44,25 @@
    "url": "https://www.kurir.rs/vesti/politika/10161135/vuk-velebit-sa-pomocnikom-americkog-drzavnog-sekretara",
    "title": "VUK VELEBIT NA SASTANKU SA POMOĆNIKOM AMERIČKOG DRŽAVNOG SEKRETARA: Delimo uverenje da naše dve zemlje imaju veliki prostor za još snažniju saradnju",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/hanrahan-rts/",
+   "title": "Hanrahan posetio RTS – čestitao Studentskoj listi i govorio o budućoj saradnji SAD sa Srbijom",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4432511-veliki-problem-za-vuka-vukovica",
+   "title": "Veliki problem za Vuka Vukovića",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Pomoćnik američkog državnog sekretara: SAD će nastaviti da produbljuju saradnju sa Srbijom",
-  "VUK VELEBIT NA SASTANKU SA POMOĆNIKOM AMERIČKOG DRŽAVNOG SEKRETARA: Delimo uverenje da naše dve zemlje imaju veliki prostor za još snažniju saradnju"
+  "VUK VELEBIT NA SASTANKU SA POMOĆNIKOM AMERIČKOG DRŽAVNOG SEKRETARA: Delimo uverenje da naše dve zemlje imaju veliki prostor za još snažniju saradnju",
+  "Hanrahan posetio RTS – čestitao Studentskoj listi i govorio o budućoj saradnji SAD sa Srbijom",
+  "Veliki problem za Vuka Vukovića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +73,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Hanrahan u Beogradu: SAD žele dublju saradnju sa Srbijom i novom vladom Studentske liste"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

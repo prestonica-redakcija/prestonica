@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T12:07:30.942141+00:00",
- "updated": "2026-11-13T12:07:30.942141+00:00",
+ "updated": "2026-11-13T13:36:36.575897+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -41,11 +41,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4432438-tuga-u-beogradu-porodilja-42-preminula-u-kbc-zvezdara-nakon-komplikacija-na-porodjaju",
    "title": "Tuga u Beogradu: Porodilja (42) preminula u KBC Zvezdara nakon komplikacija na porođaju",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10161274/apel-za-pomoc-deci-preminule-porodilje-u-beogradu",
+   "title": "Tuga i solidarnost u Mirijevu: Vrtić i osnovna škola udružili snage kako bi pomogli porodici porodilje (42) koja je preminula u KBC Zvezdara",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Preminula porodilja: Vaspitačica rodila devojčicu i umrla nakon komplikacija tokom porođaja u KBC Zvezdara",
-  "Tuga u Beogradu: Porodilja (42) preminula u KBC Zvezdara nakon komplikacija na porođaju"
+  "Tuga u Beogradu: Porodilja (42) preminula u KBC Zvezdara nakon komplikacija na porođaju",
+  "Tuga i solidarnost u Mirijevu: Vrtić i osnovna škola udružili snage kako bi pomogli porodici porodilje (42) koja je preminula u KBC Zvezdara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Rio_Tinto_Mar%C5%A1_sa_Drine!_Slavija,_Beograd,_2021.jpg",
   "alt": "Preminula porodilja u KBC Zvezdara, kolege iz vrtića u Mirijevu apelovale za krv"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

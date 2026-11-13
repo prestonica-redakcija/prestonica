@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T13:21:48.977057+00:00",
- "updated": "2026-11-13T13:21:48.977057+00:00",
+ "updated": "2026-11-13T13:36:36.575897+00:00",
  "sources": [
   {
    "name": "N1",
@@ -41,11 +41,25 @@
    "url": "https://nova.rs/vesti/hronika/uhapseno-sest-clanova-organizovane-kriminalne-grupe-porodicama-pritvorenih-sa-kim-obecavali-povoljnije-uslove-u-zamenu-za-novac/",
    "title": "Uhapšeno šest članova organizovane kriminalne grupe: Porodicama pritvorenih sa KiM obećavali povoljnije uslove u zamenu za novac",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/297522/uhapsena-grupa-osumnjicenih-da-su-varali-clanove-porodica-uhapsenih-sa-kim/vest",
+   "title": "Uhapšena grupa osumnjičenih da su varali članove porodica uhapšenih sa KiM",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/tok-uhapseni-prevaranti-koji-su-od-porodica-uhapsenih-na-kosovu-na-prevaru-uzimali-novac/",
+   "title": "TOK: Uhapšeni prevaranti koji su od porodica uhapšenih na Kosovu na prevaru uzimali novac",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Privedeno šest osoba, varali porodice uhapšenih sa Kosova - tražili novac za bolje uslove u pritvoru i puštanje na slobodu",
-  "Uhapšeno šest članova organizovane kriminalne grupe: Porodicama pritvorenih sa KiM obećavali povoljnije uslove u zamenu za novac"
+  "Uhapšeno šest članova organizovane kriminalne grupe: Porodicama pritvorenih sa KiM obećavali povoljnije uslove u zamenu za novac",
+  "Uhapšena grupa osumnjičenih da su varali članove porodica uhapšenih sa KiM",
+  "TOK: Uhapšeni prevaranti koji su od porodica uhapšenih na Kosovu na prevaru uzimali novac"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +70,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Uhapšeno šest osoba zbog prevara porodica pritvorenih sa Kosova i Metohije"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
