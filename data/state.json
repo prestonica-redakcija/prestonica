@@ -2162,18 +2162,13 @@
   "https://www.euronews.rs/svet/fokus/251778/jp-morgan-sad-do-2030-mogu-da-proizvode-400000-robota/vest": "2026-11-13T04:40:58.419429+00:00",
   "https://www.kurir.rs/zabava/zena/10160208/recept-za-norveske-palacinke": "2026-11-13T04:40:58.419429+00:00",
   "https://www.kurir.rs/vesti/beograd/10160035/bez-vode-danas-u-beogradu": "2026-11-13T04:40:58.419429+00:00",
-  "https://www.kurir.rs/vesti/beograd/10160053/bez-struje-danas-u-beogradu": "2026-11-13T04:55:54.853892+00:00"
+  "https://www.kurir.rs/vesti/beograd/10160053/bez-struje-danas-u-beogradu": "2026-11-13T04:55:54.853892+00:00",
+  "https://n1info.rs/vesti/na-danasnji-dan-13-novembra-11-2026/": "2026-11-13T05:10:46.186274+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-12T14:19+00:00",
-   "novih": 8,
-   "ukupno": 481,
-   "sekundi": 168.7
-  },
   {
    "vreme": "2026-11-12T14:34+00:00",
    "novih": 8,
@@ -2527,6 +2522,12 @@
    "novih": 1,
    "ukupno": 654,
    "sekundi": 58.0
+  },
+  {
+   "vreme": "2026-11-13T05:11+00:00",
+   "novih": 0,
+   "ukupno": 654,
+   "sekundi": 44.2
   }
  ],
  "licnosti_foto": {
@@ -15124,7 +15125,9 @@
    "202611121900-9685b6",
    "202611121816-a1b391",
    "202611130013-f3193c",
-   "202611130028-519bed"
+   "202611130028-519bed",
+   "202611130013-7aae4f",
+   "202611130142-14b039"
   ],
   "istorija": [
    {
@@ -15383,6 +15386,18 @@
     "t": 1794527920.5670493,
     "id": "202611130028-519bed",
     "x": "2121029945137004653",
+    "link": true
+   },
+   {
+    "t": 1794546664.0830703,
+    "id": "202611130013-7aae4f",
+    "x": "2121108561199878242",
+    "link": true
+   },
+   {
+    "t": 1794546666.311046,
+    "id": "202611130142-14b039",
+    "x": "2121108570565706209",
     "link": true
    }
   ],
