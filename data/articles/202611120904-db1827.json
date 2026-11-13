@@ -39,7 +39,7 @@
  ],
  "importance": 7,
  "published": "2026-11-12T08:04:50.599160+00:00",
- "updated": "2026-11-13T06:10:14.988718+00:00",
+ "updated": "2026-11-13T06:25:04.737283+00:00",
  "sources": [
   {
    "name": "N1",
@@ -238,6 +238,12 @@
    "url": "https://www.telegraf.rs/vesti/svet/4431935-najvaznije-vesti-iz-sveta-za-12-novembar-2026-godine",
    "title": "Džensen Huang podneo ostavku, Kušner i Vitkof razgovarali u Moskvi sa Putinom: Šta se juče desilo u svetu?",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/297397/predsednik-odbora-americkog-senata-trazi-saslusanje-dzensena-huanga-i-hauarda-lutnika/vest",
+   "title": "Predsednik odbora američkog Senata traži saslušanje Džensena Huanga i Hauarda Lutnika",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -273,7 +279,8 @@
   "Zelenski i Meloni razgovarali o učešću Evrope u pregovorima o okončanju rata",
   "Đorđa Meloni: Postoji previše formata za pregovore o Ukrajini",
   "Vitkof: Predstavnici evropskih zemalja učestvovaće na sledećem sastanku o Ukrajini",
-  "Džensen Huang podneo ostavku, Kušner i Vitkof razgovarali u Moskvi sa Putinom: Šta se juče desilo u svetu?"
+  "Džensen Huang podneo ostavku, Kušner i Vitkof razgovarali u Moskvi sa Putinom: Šta se juče desilo u svetu?",
+  "Predsednik odbora američkog Senata traži saslušanje Džensena Huanga i Hauarda Lutnika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -286,7 +293,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(08-03-2024)_(cropped).jpg",
   "alt": "Vitkof i Kušner stigli u Moskvu na razgovore sa Putinom, potom putuju kod Zelenskog"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-12T22:28:34.901688+00:00",
  "verzija": 7
