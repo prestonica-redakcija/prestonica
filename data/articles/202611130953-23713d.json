@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T08:53:53.111687+00:00",
- "updated": "2026-11-13T09:23:38.730820+00:00",
+ "updated": "2026-11-13T10:52:55.361705+00:00",
  "sources": [
   {
    "name": "B92",
@@ -57,13 +57,20 @@
    "url": "https://informer.rs/politika/vesti/1169464/aleksandar-vucic-intervju-veltvohe",
    "title": "\"Ostaću ovde i služiću Srbiji!\" Veliki intervju Vučića za Veltvohe: Evo šta se dogodilo u poslednjih sedam dana izborne kampanje (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=Jn5XaQhyh3Y",
+   "title": "Vučić: Ostaću ovde i služiću Srbiji",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
   "Vučić za švajcarski list Veltvohe: \"Nešto veoma čudno se desilo u poslednjih sedam dana kampanje\"",
   "\"LOV NA VEŠTICE JE VEĆ POČEO\" Veliki intervju Vučića za Veltvohe: Nešto veoma čudno se desilo u poslednjih sedam dana kampanje",
   "Vučić za Weltwoche: Nešto veoma čudno se desilo u poslednjih sedam dana kampanje",
-  "\"Ostaću ovde i služiću Srbiji!\" Veliki intervju Vučića za Veltvohe: Evo šta se dogodilo u poslednjih sedam dana izborne kampanje (VIDEO)"
+  "\"Ostaću ovde i služiću Srbiji!\" Veliki intervju Vučića za Veltvohe: Evo šta se dogodilo u poslednjih sedam dana izborne kampanje (VIDEO)",
+  "Vučić: Ostaću ovde i služiću Srbiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +83,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Philip_Hammond_%26_Aleksandar_Vu%C4%8Di%C4%87_in_London_2014.jpg",
   "alt": "Vučić za Veltvohe o porazu: strani pritisak, ali i arogancija sopstvenih ljudi"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

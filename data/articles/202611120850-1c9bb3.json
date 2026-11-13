@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T07:50:05.866973+00:00",
- "updated": "2026-11-13T10:23:10.475153+00:00",
+ "updated": "2026-11-13T10:52:55.361705+00:00",
  "sources": [
   {
    "name": "B92",
@@ -76,6 +76,12 @@
    "url": "https://n1info.rs/vesti/nista-od-obaveznog-vojnog-roka-studentska-lista-planira-dobrovoljno-sluzenje-vojske/",
    "title": "Neće biti obaveznog vojnog roka, Studentska lista ostavlja dobrovoljno služenje vojske",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/nece-biti-obaveznog-vojnog-roka-studentska-lista-ostavlja-dobrovoljno-sluzenje-vojske/",
+   "title": "Neće biti obaveznog vojnog roka, Studentska lista ostavlja dobrovoljno služenje vojske",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -86,6 +92,7 @@
   "Kakav je plan Studentske liste za vojsku i vojni rok?",
   "Probudite se uz Euronews Jutro: Kakav je plan Studentske liste za reformu i unapređenje Vojske Srbije?",
   "NIŠTA OD OBAVEZNOG VOJNOG ROKA? Studentska lista menja plan za Vojsku Srbije, evo šta o tome misle generali",
+  "Neće biti obaveznog vojnog roka, Studentska lista ostavlja dobrovoljno služenje vojske",
   "Neće biti obaveznog vojnog roka, Studentska lista ostavlja dobrovoljno služenje vojske"
  ],
  "author": "Redakcija Prestonice",
@@ -98,8 +105,8 @@
   "local": true,
   "alt": "Studentska lista u programu za vojsku predlaže dobrovoljni vojni rok od šest meseci"
  },
- "novo_od_pisanja": 2,
- "boost": 1.56,
+ "novo_od_pisanja": 3,
+ "boost": 1.6,
  "prepisano": "2026-11-12T21:29:03.804743+00:00",
  "verzija": 2
 }

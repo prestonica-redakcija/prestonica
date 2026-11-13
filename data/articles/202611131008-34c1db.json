@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T09:08:47.630829+00:00",
- "updated": "2026-11-13T09:23:38.730820+00:00",
+ "updated": "2026-11-13T10:52:55.361705+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -45,12 +45,19 @@
    "url": "https://n1info.rs/vesti/uhapsen-uzbekistanac-na-aerodromu-zbog-davanja-mita/",
    "title": "Uhapšen državljanin Uzbekistana na beogradskom aerodromu zbog sumnje na davanje mita",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/uzbekistanac-uhapsen-na-beogradskom-aerodromu-zbog-sumnje-na-davanje-mita/",
+   "title": "Uzbekistanac uhapšen na beogradskom aerodromu zbog sumnje na davanje mita",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Uhapšen Uzbekistanac osumnjičen za davanje mita prilikom granične kontrole",
   "Državljanin Uzbekistana uhapšen na Aerodromu Nikola Tesla, pokušao da podmiti graničnog policajca",
-  "Uhapšen državljanin Uzbekistana na beogradskom aerodromu zbog sumnje na davanje mita"
+  "Uhapšen državljanin Uzbekistana na beogradskom aerodromu zbog sumnje na davanje mita",
+  "Uzbekistanac uhapšen na beogradskom aerodromu zbog sumnje na davanje mita"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "local": true,
   "alt": "Uhapšen državljanin Uzbekistana zbog sumnje da je ponudio mito graničnom policajcu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

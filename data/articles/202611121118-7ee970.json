@@ -27,7 +27,7 @@
  ],
  "importance": 7,
  "published": "2026-11-12T10:18:56.749667+00:00",
- "updated": "2026-11-12T13:02:36.963925+00:00",
+ "updated": "2026-11-13T10:52:55.361705+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -76,6 +76,12 @@
    "url": "https://insajder.net/prenosimo/udruzenje-tuzilaca-podrzalo-rad-komisije-nalazi-o-radu-vjt-u-beogradu-izuzetno-ozbiljni-potreban-odlucan-odgovor",
    "title": "Udruženje tužilaca podržalo rad Komisije: Nalazi o radu VJT u Beogradu izuzetno ozbiljni, potreban odlučan odgovor",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1169509/vjt-zahtev-predmet-tuzilastvo",
+   "title": "Oglasilo se VJT! Usvojen zahtev za izuzeće tužioca zbog osporene nepristrasnosti - Predmet preuzima drugo tužilaštvo",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -86,7 +92,8 @@
   "MINISTASTVO PRAVDE: Upitan Izveštaj Komisije Vrhovnog tužilaštva iz više razloga",
   "Ministarstvo pravde o izveštaju Komisije VJT: Tužiocima nije omogućeno da se izjasne o nalazima",
   "Ministarstvo pravde u tehničkom mandatu: U slučaju Izveštaja Komisije Vrhovnog javnog tužilaštva o radu beogradskog VJT nisu ispoštovana procesna prava tužilaca",
-  "Udruženje tužilaca podržalo rad Komisije: Nalazi o radu VJT u Beogradu izuzetno ozbiljni, potreban odlučan odgovor"
+  "Udruženje tužilaca podržalo rad Komisije: Nalazi o radu VJT u Beogradu izuzetno ozbiljni, potreban odlučan odgovor",
+  "Oglasilo se VJT! Usvojen zahtev za izuzeće tužioca zbog osporene nepristrasnosti - Predmet preuzima drugo tužilaštvo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -98,8 +105,8 @@
   "local": true,
   "alt": "Ministarstvo pravde dovodi u pitanje izveštaj komisije o radu Višeg javnog tužilaštva"
  },
- "novo_od_pisanja": 3,
- "boost": 1.56,
+ "novo_od_pisanja": 4,
+ "boost": 1.6,
  "prepisano": "2026-11-12T11:18:27.564167+00:00",
  "verzija": 2
 }

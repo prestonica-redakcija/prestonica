@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T09:38:39.626001+00:00",
- "updated": "2026-11-13T09:53:25.553445+00:00",
+ "updated": "2026-11-13T10:52:55.361705+00:00",
  "sources": [
   {
    "name": "N1",
@@ -46,12 +46,19 @@
    "url": "https://nova.rs/vesti/biznis/grad-beograd-obustavio-tender-za-jarbol-kod-usca/",
    "title": "Grad Beograd obustavio tender za jarbol kod Ušća",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4432389-za-jarbol-na-uscu-bilo-namenjeno-365-miliona-dinara-ali-se-niko-nije-javio-na-tender",
+   "title": "Za jarbol na Ušću bilo namenjeno 365 miliona dinara, ali se niko nije javio na tender",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Grad Beograd obustavio tender za jarbol kod Ušća",
   "Obustavljen tender za jarbol kod Ušća, nije bilo ponuda",
-  "Grad Beograd obustavio tender za jarbol kod Ušća"
+  "Grad Beograd obustavio tender za jarbol kod Ušća",
+  "Za jarbol na Ušću bilo namenjeno 365 miliona dinara, ali se niko nije javio na tender"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Beograd_(%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4),_Serbia_-_Tatra_Tram.jpg",
   "alt": "Obustavljen tender za jarbol od 80 metara na Ušću, nije stigla nijedna ponuda"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

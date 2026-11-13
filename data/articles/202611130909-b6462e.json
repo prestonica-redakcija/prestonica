@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T08:09:16.680226+00:00",
- "updated": "2026-11-13T09:08:47.630829+00:00",
+ "updated": "2026-11-13T10:52:55.361705+00:00",
  "sources": [
   {
    "name": "B92",
@@ -56,12 +56,19 @@
    "url": "https://nova.rs/vesti/svet/video-veliki-ukrajinski-napad-na-rusiju-gori-jedna-od-najvecih-rafinerija-eksplozije-odjekuju-volgogradom-gradjani-u-redovima-za-gorivo/",
    "title": "VIDEO Veliki ukrajinski napad na Rusiju: Gori jedna od najvećih rafinerija, eksplozije odjekuju Volgogradom, građani u redovima za gorivo",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/284620/moskva-broj-poginulih-u-ratu-u-ukrajini-je-drzavna-tajna/vest",
+   "title": "Kakav užas krije Moskva?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Masovni napadi na Rusiju; Gorelo nebo iznad Moskve; U Ukrajini užas – Rusi gađaju zgrade pune ljudi FOTO/VIDEO",
   "PAKAO U RUSIJI ODMAH NAKON PREGOVORA! Ukrajinci udarili na Moskvu, pa zapalili naftnog giganta: Nebo gori iznad Volgograda, građani u panici na pumpama (VIDEO)",
-  "VIDEO Veliki ukrajinski napad na Rusiju: Gori jedna od najvećih rafinerija, eksplozije odjekuju Volgogradom, građani u redovima za gorivo"
+  "VIDEO Veliki ukrajinski napad na Rusiju: Gori jedna od najvećih rafinerija, eksplozije odjekuju Volgogradom, građani u redovima za gorivo",
+  "Kakav užas krije Moskva?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,6 +81,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Volgograd_airport_-_2024-02-22k.jpg",
   "alt": "Ukrajinski dronovi gađali rafineriju u Volgogradu i Moskovsku oblast"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
