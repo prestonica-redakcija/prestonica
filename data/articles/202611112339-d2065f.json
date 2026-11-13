@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-11T22:39:41.685866+00:00",
- "updated": "2026-11-11T23:09:37.709026+00:00",
+ "updated": "2026-11-13T05:55:20.103377+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -50,12 +50,19 @@
    "url": "https://n1info.rs/vesti/americki-casopis-forin-polisi-o-pobedi-studenata-u-srbiji-srusili-su-14-godisnju-vlast-sns-sta-sada/",
    "title": "Američki časopis Forin polisi o pobedi studenata u Srbiji: Srušili su 14-godišnju vlast SNS, šta sada?",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/kolumna/snezana-congradin/pobeda-studentke-liste/",
+   "title": "Najvedrija strana pobede",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Američki časopis Forin polisi o pobedi studenata u Srbiji: Srušili su 14-godišnju vlast SNS, šta sada?",
   "Američki časopis Forin polisi: Najveći izazov za studente biće prelazak sa protesta na vlast, šta posle pobede nad SNS-om?",
-  "Američki časopis Forin polisi o pobedi studenata u Srbiji: Srušili su 14-godišnju vlast SNS, šta sada?"
+  "Američki časopis Forin polisi o pobedi studenata u Srbiji: Srušili su 14-godišnju vlast SNS, šta sada?",
+  "Najvedrija strana pobede"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,6 @@
   "local": true,
   "alt": "Forin polisi: Najveći izazov za studentski pokret je prelazak sa protesta na vlast"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
