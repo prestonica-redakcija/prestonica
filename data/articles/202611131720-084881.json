@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T16:20:29.263638+00:00",
- "updated": "2026-11-13T16:20:29.263638+00:00",
+ "updated": "2026-11-13T17:35:00.377973+00:00",
  "sources": [
   {
    "name": "N1",
@@ -43,11 +43,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/katarina-golubovic-jukom-dokazi-o-posledicama-dogadjaja-15-marta-postoje-na-vjt-je-da-utvrdi-uzrok-i-odgovorne/",
    "title": "Katarina Golubović (Jukom): Dokazi o posledicama događaja 15. marta postoje, na VJT je da utvrdi uzrok i odgovorne",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/golubovic-yukom-odgovorila-glavnom-tuziocu-stefanovicu-dokazi-o-posledicama-dogadaja-15-marta-postoje-tuzilastvo-da-utvrdi-uzrok-i-odgovorne",
+   "title": "Golubović (YUKOM) odgovorila glavnom tužiocu Stefanoviću : Dokazi o posledicama događaja 15. marta postoje, tužilaštvo da utvrdi uzrok i odgovorne",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Golubović Stefanoviću nakon izjava o zvučnom topu: Dokazi postoje, na VJT da nađe odgovorne",
-  "Katarina Golubović (Jukom): Dokazi o posledicama događaja 15. marta postoje, na VJT je da utvrdi uzrok i odgovorne"
+  "Katarina Golubović (Jukom): Dokazi o posledicama događaja 15. marta postoje, na VJT je da utvrdi uzrok i odgovorne",
+  "Golubović (YUKOM) odgovorila glavnom tužiocu Stefanoviću : Dokazi o posledicama događaja 15. marta postoje, tužilaštvo da utvrdi uzrok i odgovorne"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Golubović: Dokazi o posledicama 15. marta postoje, na VJT je da utvrdi uzrok"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

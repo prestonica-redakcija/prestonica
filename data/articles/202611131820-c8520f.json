@@ -26,7 +26,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T17:20:04.848147+00:00",
- "updated": "2026-11-13T17:20:04.848147+00:00",
+ "updated": "2026-11-13T17:35:00.377973+00:00",
  "sources": [
   {
    "name": "N1",
@@ -39,11 +39,18 @@
    "url": "https://www.kurir.rs/crna-hronika/10161561/potera-u-backoj-palanci-izbacio-2-ranca-sa-12-kilograma-kokaina",
    "title": "FILMSKA JURNJAVA PO BAČKOJ PALANCI! Bežao od policije, izbacio 2 ranca sa 12 KILOGRAMA KOKAINA i pobegao - automobil pronađen, POTERA ZA DILEROM U TOKU (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4432670-drama-kod-backe-palanke-policija-ga-zaustavljala-on-dodao-gas-pronadjeno-12-kilograma",
+   "title": "DRAMA KOD BAČKE PALANKE: Policija ga zaustavljala, on dodao gas, pronađeno 12 kilograma!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Raspisana potraga za vozačem koji je iz auta izbacio dva ranca - sumnja se sa 12 kilograma kokaina",
-  "FILMSKA JURNJAVA PO BAČKOJ PALANCI! Bežao od policije, izbacio 2 ranca sa 12 KILOGRAMA KOKAINA i pobegao - automobil pronađen, POTERA ZA DILEROM U TOKU (FOTO)"
+  "FILMSKA JURNJAVA PO BAČKOJ PALANCI! Bežao od policije, izbacio 2 ranca sa 12 KILOGRAMA KOKAINA i pobegao - automobil pronađen, POTERA ZA DILEROM U TOKU (FOTO)",
+  "DRAMA KOD BAČKE PALANKE: Policija ga zaustavljala, on dodao gas, pronađeno 12 kilograma!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:St_John_the_Baptist_church_in_Backa_Palanka_(11).jpg",
   "alt": "Potraga za vozačem koji je kod Bačke Palanke izbacio rance sa oko 12 kilograma kokaina"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

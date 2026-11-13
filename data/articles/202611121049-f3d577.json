@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T09:49:14.445596+00:00",
- "updated": "2026-11-13T17:20:04.848147+00:00",
+ "updated": "2026-11-13T17:35:00.377973+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -226,6 +226,30 @@
    "url": "https://nova.rs/vesti/biznis/izdavanje-potvrda-o-posedovanju-racuna-u-alta-banci-u-stecaju-od-16-novembra/",
    "title": "Izdavanje potvrda o posedovanju računa u Alta banci u stečaju, od 16. novembra",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/banka-postanska-stedionica-produzen-rad-zbog-isplate-depozita-alta-banke-termin-zakazalo-16450-klijenata",
+   "title": "Banka Poštanska štedionica: Produžen rad zbog isplate depozita Alta banke, termin zakazalo 16.450 klijenata",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/251978/postanska-stedionica-produzila-isplatu-depozita-alta-banke/vest",
+   "title": "Banka Poštanska štedionica produžila rad zbog isplate depozita Alta banke: Termin zakazalo 16.450 klijenata",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/u-alta-banku-po-potvrdu-sta-da-rade-gradjani-koji-nemaju-originalnu-dokumentaciju-o-depozitu-u-banci-u-stecaju/",
+   "title": "U Alta banku po potvrdu: Šta da rade građani koji nemaju originalnu dokumentaciju o depozitu u banci u stečaju",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/potvrda-o-posedovanju-racuna-alta/",
+   "title": "Izdavanje potvrda o posedovanju računa u Alta banci u stečaju od 16. novembra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -261,7 +285,11 @@
   "Imate novac u Alta banci, a nemate papire? Od ponedeljka počinje izdavanje ključnih potvrda za isplatu",
   "Banka Poštanska štedionica: Produžen rad zbog isplate depozita Alta banke, termin zakazalo 16.450 klijenata",
   "POŠTANSKA ŠTEDIONICA: Produžen rad zbog isplate depozita Alta banke, termin zakazalo 16.450 klijenata",
-  "Izdavanje potvrda o posedovanju računa u Alta banci u stečaju, od 16. novembra"
+  "Izdavanje potvrda o posedovanju računa u Alta banci u stečaju, od 16. novembra",
+  "Banka Poštanska štedionica: Produžen rad zbog isplate depozita Alta banke, termin zakazalo 16.450 klijenata",
+  "Banka Poštanska štedionica produžila rad zbog isplate depozita Alta banke: Termin zakazalo 16.450 klijenata",
+  "U Alta banku po potvrdu: Šta da rade građani koji nemaju originalnu dokumentaciju o depozitu u banci u stečaju",
+  "Izdavanje potvrda o posedovanju računa u Alta banci u stečaju od 16. novembra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -273,7 +301,7 @@
   "local": true,
   "alt": "Za isplatu osiguranih depozita Alta banke prijavilo se 7.713 korisnika za 12 sati"
  },
- "novo_od_pisanja": 6,
+ "novo_od_pisanja": 10,
  "boost": 1.6,
  "prepisano": "2026-11-13T08:39:01.965066+00:00",
  "verzija": 7

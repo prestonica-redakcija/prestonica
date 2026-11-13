@@ -29,17 +29,24 @@
  ],
  "importance": 5,
  "published": "2026-11-13T17:20:04.848147+00:00",
- "updated": "2026-11-13T17:20:04.848147+00:00",
+ "updated": "2026-11-13T17:35:00.377973+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10161547/studentska-lista-konferencija-za-medije",
    "title": "UŽIVO \"UOČENA JE POJAVA MASOVNOG ZAPOŠLJAVANJA U JAVNOM SEKTORU\" Studentska lista: Zaposleni na osnovu partijske knjižice treba da znaju da nema nedodirljivih",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4432620-konferencija-studentske-liste-u-kragujevcu",
+   "title": "Konferencija Studentske liste u Kragujevcu: Uočena pojava masovnog zapošljavanja u javnom sektoru",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "UŽIVO \"UOČENA JE POJAVA MASOVNOG ZAPOŠLJAVANJA U JAVNOM SEKTORU\" Studentska lista: Zaposleni na osnovu partijske knjižice treba da znaju da nema nedodirljivih"
+  "UŽIVO \"UOČENA JE POJAVA MASOVNOG ZAPOŠLJAVANJA U JAVNOM SEKTORU\" Studentska lista: Zaposleni na osnovu partijske knjižice treba da znaju da nema nedodirljivih",
+  "Konferencija Studentske liste u Kragujevcu: Uočena pojava masovnog zapošljavanja u javnom sektoru"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata_2.jpg",
   "alt": "Studentska lista traži da se zaustavi partijsko zapošljavanje u javnom sektoru"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

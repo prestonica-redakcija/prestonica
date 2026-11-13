@@ -28,17 +28,24 @@
  ],
  "importance": 6,
  "published": "2026-11-12T12:32:47.052340+00:00",
- "updated": "2026-11-12T12:32:47.052340+00:00",
+ "updated": "2026-11-13T17:35:00.377973+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1670458/brnabic-ovo-cemu-svedocimo-rastakanje-srbije-kao-suverene-vojno-neutralne-jake-zemlje",
    "title": "BRNABIĆ: Ovo čemu svedočimo je rastakanje Srbije kao suverene, vojno neutralne i jake zemlje",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/284771/peru-pogodio-zemljotres-jacine-57-stepeni/vest",
+   "title": "Jak zemljotres: 5,7 Rihtera",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "BRNABIĆ: Ovo čemu svedočimo je rastakanje Srbije kao suverene, vojno neutralne i jake zemlje"
+  "BRNABIĆ: Ovo čemu svedočimo je rastakanje Srbije kao suverene, vojno neutralne i jake zemlje",
+  "Jak zemljotres: 5,7 Rihtera"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Ana_Brnabi%C4%87_2023.jpg",
   "alt": "Brnabić tvrdi da najave Studentske liste ugrožavaju namensku industriju i odbranu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
