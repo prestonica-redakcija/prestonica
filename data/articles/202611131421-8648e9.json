@@ -27,17 +27,24 @@
  ],
  "importance": 5,
  "published": "2026-11-13T13:21:48.977057+00:00",
- "updated": "2026-11-13T13:21:48.977057+00:00",
+ "updated": "2026-11-13T14:06:21.397688+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1670815/sada-nosite-odgovornost-vucic-sto-ste-lagali-zvucni-top-jovanjicu-sarajevo-safari-mogli-ste-lazete-narod-tokom-kampanje",
    "title": "\"SADA VI NOSITE ODGOVORNOST\" Vučić: To što ste lagali za zvučni top, Jovanjicu, Sarajevo safari, mogli ste da lažete narod tokom kampanje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1169568/aleksandar-vucic-penzije-alta-banka",
+   "title": "\"Sada vi nosite odgovornost!\" Vučić: To što ste lagali za zvučni top, Jovanjicu, Sarajevo safari, to ste mogli da lažete narod tokom kampanje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "\"SADA VI NOSITE ODGOVORNOST\" Vučić: To što ste lagali za zvučni top, Jovanjicu, Sarajevo safari, mogli ste da lažete narod tokom kampanje"
+  "\"SADA VI NOSITE ODGOVORNOST\" Vučić: To što ste lagali za zvučni top, Jovanjicu, Sarajevo safari, mogli ste da lažete narod tokom kampanje",
+  "\"Sada vi nosite odgovornost!\" Vučić: To što ste lagali za zvučni top, Jovanjicu, Sarajevo safari, to ste mogli da lažete narod tokom kampanje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučić poručio Studentskoj listi da sada nosi odgovornost"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

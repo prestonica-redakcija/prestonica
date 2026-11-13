@@ -34,7 +34,7 @@
  ],
  "importance": 7,
  "published": "2026-11-12T16:16:20.548775+00:00",
- "updated": "2026-11-12T19:29:54.739796+00:00",
+ "updated": "2026-11-13T14:06:21.397688+00:00",
  "sources": [
   {
    "name": "N1",
@@ -47,11 +47,18 @@
    "url": "https://nova.rs/vesti/politika/ponosni-sam-clan-sns-veze-vlasnika-milenijum-tima-sa-vucicevim-rezimom-i-put-ka-milionskom-bogatstvu-od-poslova-s-drzavom/",
    "title": "“Ponosni sam član SNS”: Veze vlasnika Milenijum tima sa Vučićevim režimom i put ka milionskom bogatstvu od poslova s državom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/video/novi-dan/tema-jutra-tuzilacki-okrsaji/",
+   "title": "Tema jutra: Tužilački okršaji",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Tema jutra: Milenijum tim pod istragom",
-  "“Ponosni sam član SNS”: Veze vlasnika Milenijum tima sa Vučićevim režimom i put ka milionskom bogatstvu od poslova s državom"
+  "“Ponosni sam član SNS”: Veze vlasnika Milenijum tima sa Vučićevim režimom i put ka milionskom bogatstvu od poslova s državom",
+  "Tema jutra: Tužilački okršaji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +70,7 @@
   "local": true,
   "alt": "Nalog za hapšenje vlasnika Milenijum tima otvorio pitanje njihovih poslova sa državom"
  },
- "popravljeno": "2026-11-12T19:29:54.739796+00:00"
+ "popravljeno": "2026-11-12T19:29:54.739796+00:00",
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

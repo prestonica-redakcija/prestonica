@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T20:30:18.520161+00:00",
- "updated": "2026-11-13T13:36:36.575897+00:00",
+ "updated": "2026-11-13T14:06:21.397688+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -253,6 +253,24 @@
    "url": "https://n1info.rs/vesti/studentska-lista-predsednika-skupstine-izabrace-vecina-sastav-odbora-srazmeran-velicini-poslanickih-grupa/",
    "title": "Studentska lista: Predsednika Skupštine izabraće većina, sastav odbora srazmeran veličini poslaničkih grupa",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=gmG8GFAVWXc",
+   "title": "Brnabić: Novu vlast ne zanima da razgovara i čuje opoziciju",
+   "spektar": "stranka"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=dweSzvTAZd4",
+   "title": "Jovanov: Prava opozicije će biti smanjivana, revolucionarni teror došao i u Skupštinu",
+   "spektar": "stranka"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1670838/oglasila-studentska-lista-posle-konsultacija-predsednik-skupstine-broj-potpredsednika-bice-izglasani-vecinom-sednici",
+   "title": "OGLASILA SE STUDENTSKA LISTA POSLE KONSULTACIJA: Predsednik Skupštine i broj potpredsednika biće izglasani većinom na sednici",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -292,7 +310,10 @@
   "Svi detalji sa konsultacija: Koji su bili zahtevi Studentske liste na konsultacijama u Skupštini Srbije?",
   "Studentska lista objavila izveštaj o današnjim konsultacijama sa SNS i šta su zahtevi",
   "\"PREDSEDNIK SKUPŠTINE I POTPREDSEDNICI BIĆE IZGLASANI VEĆINOM NA SEDNICI\": Studentska lista se oglasila nakon konsultacija i najavila da će glasanje biti javno",
-  "Studentska lista: Predsednika Skupštine izabraće većina, sastav odbora srazmeran veličini poslaničkih grupa"
+  "Studentska lista: Predsednika Skupštine izabraće većina, sastav odbora srazmeran veličini poslaničkih grupa",
+  "Brnabić: Novu vlast ne zanima da razgovara i čuje opoziciju",
+  "Jovanov: Prava opozicije će biti smanjivana, revolucionarni teror došao i u Skupštinu",
+  "OGLASILA SE STUDENTSKA LISTA POSLE KONSULTACIJA: Predsednik Skupštine i broj potpredsednika biće izglasani većinom na sednici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -305,7 +326,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Studentska lista na konsultacijama pred konstitutivnu sednicu, bez političkih dogovora"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-13T13:36:36.575897+00:00",
  "verzija": 7

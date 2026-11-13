@@ -29,17 +29,24 @@
  ],
  "importance": 5,
  "published": "2026-11-13T11:22:43.987932+00:00",
- "updated": "2026-11-13T11:22:43.987932+00:00",
+ "updated": "2026-11-13T14:06:21.397688+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/djukic-dejanovic-sledi-definitivno-prociscenje-sps/",
    "title": "Đukić Dejanović: Sledi „definitivno pročišćenje“ SPS",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/djukic-dejanovic-za-izlazak-sps-iz-krize-potrebno-prociscenje-i-rad-sa-mladim-ljudima/",
+   "title": "Đukić Dejanović: Za izlazak SPS-a iz krize potrebno pročišćenje i rad sa mladim ljudima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Đukić Dejanović: Sledi „definitivno pročišćenje“ SPS"
+  "Đukić Dejanović: Sledi „definitivno pročišćenje“ SPS",
+  "Đukić Dejanović: Za izlazak SPS-a iz krize potrebno pročišćenje i rad sa mladim ljudima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Ivica_Da%C4%8Di%C4%87_%26_Nikos_Dendias_2022.jpg",
   "alt": "Đukić Dejanović: SPS je imala i teže situacije, potrebno je podmlađivanje stranke"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

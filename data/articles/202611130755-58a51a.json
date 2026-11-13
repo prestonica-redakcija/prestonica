@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T06:55:05.526438+00:00",
- "updated": "2026-11-13T13:51:32.851440+00:00",
+ "updated": "2026-11-13T14:06:21.397688+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -93,6 +93,12 @@
    "url": "https://www.euronews.rs/svet/fokus/251946/majkrosoft-o-kvaru-na-svojoj-mrezi/vest",
    "title": "Oglasio se Microsoft: Evo šta se dešava sa kvarom",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/majkrosoft-ohrabrujuci-napredak-u-obnavljanju-usluga-u-evropi/",
+   "title": "Majkrosoft: Ohrabrujući napredak u obnavljanju usluga u Evropi",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -105,7 +111,8 @@
   "Microsoft u globalnom prekidu rada: Odbačene sumnje na sajber-napad, problem potpuno druge prirode",
   "Tehnološka apokalipsa širom sveta: Padom Microsofta pao i ChatGPT, oglasili se iz kompanije - evo šta se dešava",
   "Ne izlazite iz Vibera, a koristite ChatGPT: Evo i kako",
-  "Oglasio se Microsoft: Evo šta se dešava sa kvarom"
+  "Oglasio se Microsoft: Evo šta se dešava sa kvarom",
+  "Majkrosoft: Ohrabrujući napredak u obnavljanju usluga u Evropi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -118,7 +125,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg",
   "alt": "Veliki prekid u radu Microsofta: Outlook i Teams satima nedostupni širom sveta"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-13T13:51:32.851440+00:00",
  "verzija": 3
