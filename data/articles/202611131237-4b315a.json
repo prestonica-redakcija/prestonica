@@ -30,7 +30,7 @@
  ],
  "importance": 7,
  "published": "2026-11-13T11:37:37.701046+00:00",
- "updated": "2026-11-13T11:52:27.915819+00:00",
+ "updated": "2026-11-13T12:22:12.455840+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -67,6 +67,12 @@
    "url": "https://insajder.net/prenosimo/objavljene-cene-goriva-koje-ce-vaziti-narednih-sedam-dana",
    "title": "Objavljene cene goriva koje će važiti narednih sedam dana",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/297500/i-u-narednih-sedam-dana-cene-goriva-iste-benzin-207-dizel-236-dinara/vest",
+   "title": "I u narednih sedam dana cene goriva iste: Benzin 207, dizel 236 dinara",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -75,7 +81,8 @@
   "STIGLE SU NOVE CENE GORIVA: Poznato koliko ćemo plaćati dizel i benzin narednih sedam dana",
   "Ovo su nove cene goriva u Srbiji: Koliko ćemo plaćati benzin i dizel",
   "Objavljene cene goriva do sledećeg petka",
-  "Objavljene cene goriva koje će važiti narednih sedam dana"
+  "Objavljene cene goriva koje će važiti narednih sedam dana",
+  "I u narednih sedam dana cene goriva iste: Benzin 207, dizel 236 dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -87,6 +94,6 @@
   "local": true,
   "alt": "Cene goriva nepromenjene: evrodizel 236, benzin 207 dinara do 20. novembra"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

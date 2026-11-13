@@ -33,7 +33,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T11:37:37.701046+00:00",
- "updated": "2026-11-13T11:37:37.701046+00:00",
+ "updated": "2026-11-13T12:22:12.455840+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -46,10 +46,17 @@
    "url": "https://www.telegraf.rs/pop-i-kultura/film-tv/4432369-prva-medjunarodna-nagrada-za-film-ruka-pravde",
    "title": "Prva međunarodna nagrada za film \"Ruka pravde\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/zabava/showbiz/prva-medjunarodna-nagrada-za-film-ruka-pravde/",
+   "title": "Prva međunarodna nagrada za film \"Ruka pravde\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Uspeh filma \"Ruka pravde\": Slađani Zrnić Dijamantski leptir",
+  "Prva međunarodna nagrada za film \"Ruka pravde\"",
   "Prva međunarodna nagrada za film \"Ruka pravde\""
  ],
  "author": "Redakcija Prestonice",
@@ -61,5 +68,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Slađana Zrnić dobitnica evroazijske nagrade Dijamantski leptir za film \"Ruka pravde\""
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

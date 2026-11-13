@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T07:24:40.418171+00:00",
- "updated": "2026-11-13T07:24:40.418171+00:00",
+ "updated": "2026-11-13T12:22:12.455840+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -41,11 +41,18 @@
    "url": "https://nova.rs/magazin/lifestyle/drzava-sa-najvisim-platama-u-evropi-ocajnicki-trazi-radnike-zarade-dostizu-i-7000-evra-mesecno/",
    "title": "Država sa najvišim platama u Evropi očajnički traži radnike: Zarade dostižu i 7.000 evra mesečno",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1670785/plate-7-000-evra-mesecno-tri-evropske-zemlje-traze-radnike-srbije-ovo-zanimanja-koja-najvise-placaju",
+   "title": "PLATE I DO 7.000 EVRA MESEČNO: Tri evropske zemlje traže radnike iz Srbije, a ovo su zanimanja koja se najviše plaćaju",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Država sa najvišim platama u Evropi traži radnike: Zarada može da dostigne i 7.000 evra mesečno",
-  "Država sa najvišim platama u Evropi očajnički traži radnike: Zarade dostižu i 7.000 evra mesečno"
+  "Država sa najvišim platama u Evropi očajnički traži radnike: Zarade dostižu i 7.000 evra mesečno",
+  "PLATE I DO 7.000 EVRA MESEČNO: Tri evropske zemlje traže radnike iz Srbije, a ovo su zanimanja koja se najviše plaćaju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Luksemburg olakšava zapošljavanje stranaca za 20 deficitarnih zanimanja"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -33,16 +33,23 @@
  ],
  "importance": 6,
  "published": "2026-11-13T12:07:30.942141+00:00",
- "updated": "2026-11-13T12:07:30.942141+00:00",
+ "updated": "2026-11-13T12:22:12.455840+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/pirotu-400-miliona-dinara-ostalo-u-alta-banci-gradonacelnik-najavljuje-mogucu-tuzbu-i-protiv-nbs/",
    "title": "Pirotu 400 miliona dinara ostalo u Alta banci: Gradonačelnik najavljuje moguću tužbu i protiv NBS",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/pirotu-400-miliona-dinara-ostalo-u-alta-banci-gradonacelnik-najavljuje-mogucu-tuzbu-i-protiv-nbs/",
+   "title": "Pirotu 400 miliona dinara ostalo u Alta banci: Gradonačelnik najavljuje moguću tužbu i protiv NBS",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Pirotu 400 miliona dinara ostalo u Alta banci: Gradonačelnik najavljuje moguću tužbu i protiv NBS",
   "Pirotu 400 miliona dinara ostalo u Alta banci: Gradonačelnik najavljuje moguću tužbu i protiv NBS"
  ],
  "author": "Redakcija Prestonice",
@@ -55,5 +62,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:01-06-2025_-_Pirot_Fortress_08.jpg",
   "alt": "Pirot bez 400 miliona dinara zbog stečaja Alta banke, grad razmatra i tužbu protiv NBS"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

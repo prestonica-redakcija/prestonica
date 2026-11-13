@@ -25,17 +25,24 @@
  ],
  "importance": 3,
  "published": "2026-11-13T09:23:38.730820+00:00",
- "updated": "2026-11-13T09:23:38.730820+00:00",
+ "updated": "2026-11-13T12:22:12.455840+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/297444/na-veb-samitu-u-lisabonu-predstavila-se-21-starap-kompanija-iz-srbije/vest",
    "title": "Na Veb samitu u Lisabonu predstavila se 21 starap kompanija iz Srbije",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/preduzetnik/1670795/veb-samitu-lisabonu-predstavila-21-kompanija-srbije",
+   "title": "Na Veb samitu u Lisabonu predstavila se 21 kompanija iz Srbije",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Na Veb samitu u Lisabonu predstavila se 21 starap kompanija iz Srbije"
+  "Na Veb samitu u Lisabonu predstavila se 21 starap kompanija iz Srbije",
+  "Na Veb samitu u Lisabonu predstavila se 21 kompanija iz Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Na Veb samitu u Lisabonu nastupilo 21 startap preduzeće iz Srbije"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
