@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-12T13:02:36.963925+00:00",
- "updated": "2026-11-13T15:06:05.158544+00:00",
+ "updated": "2026-11-13T16:05:38.576057+00:00",
  "sources": [
   {
    "name": "N1",
@@ -51,12 +51,19 @@
    "url": "https://www.danas.rs/vesti/drustvo/sindikati-rts-i-rtv-podrzali-zahtev-studenata-fdu-za-pristup-informacijama-od-javnog-znacaja/",
    "title": "Sindikati RTS i RTV podržali zahtev studenata FDU za pristup informacijama od javnog značaja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/sindikat-rts-rtv-fdu-studenti/",
+   "title": "Sindikati RTS i RTV podržali zahtev studenata FDU za pristup informacijama od javnog značaja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Poverenik za informacije od javnog značaja: Zahtev mora da bude u skladu sa javnim interesom",
   "Poverenik za informacije od javnog značaja: Zahtev mora da bude u skladu sa javnim interesom",
   "Poverenik: Pristup podacima o ličnosti samo u meri neophodnoj za pravo javnosti da zna",
+  "Sindikati RTS i RTV podržali zahtev studenata FDU za pristup informacijama od javnog značaja",
   "Sindikati RTS i RTV podržali zahtev studenata FDU za pristup informacijama od javnog značaja"
  ],
  "author": "Redakcija Prestonice",
@@ -69,6 +76,6 @@
   "local": true,
   "alt": "Poverenik: pristup podacima o ličnosti samo u meri koju nalaže javni interes"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

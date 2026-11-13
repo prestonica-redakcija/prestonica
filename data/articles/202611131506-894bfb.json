@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T14:06:21.397688+00:00",
- "updated": "2026-11-13T15:35:52.267094+00:00",
+ "updated": "2026-11-13T16:05:38.576057+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -52,13 +52,20 @@
    "url": "https://www.danas.rs/vesti/drustvo/organizacija-tvrdjava-podnela-novu-prijavu-protiv-gradonacelnice-smedereva-i-saradnika/",
    "title": "Organizacija Tvrđava podnela novu prijavu protiv gradonačelnice Smedereva i saradnika",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/pokret-tvrdjava-podnela-novu-prijavu-protiv-gradonacelnice-smedereva-i/",
+   "title": "Pokret Tvrđava podneo novu krivičnu prijavu protiv gradonačelnice Smedereva i saradnika",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "ZAPUCAO IZ REVOLVERA U KAFIĆU, PA IZVUKAO DEBLJI KRAJ Filmski obračun u Velikoj Plani: Hrabri gost savladao napadača, pa ga sa teškim povredama poslao na VMA",
   "NOVI DETALJI PUCNJAVE U KAFIĆU: Ušao sa revolverom i otvorio vatru, gost mu oteo oružje – napadač na VMA!",
   "Više javno tužilaštvo u Smederevu: Krivična prijava protiv osumnjičenog za pucnjavu u Velikoj Plani",
-  "Organizacija Tvrđava podnela novu prijavu protiv gradonačelnice Smedereva i saradnika"
+  "Organizacija Tvrđava podnela novu prijavu protiv gradonačelnice Smedereva i saradnika",
+  "Pokret Tvrđava podneo novu krivičnu prijavu protiv gradonačelnice Smedereva i saradnika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Mural_of_Stefan_Fili%C4%87,_Velika_Plana,_Serbia,_2023.jpg",
   "alt": "Pucnjava u kafiću u Velikoj Plani: podneta krivična prijava protiv 52-godišnjaka"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

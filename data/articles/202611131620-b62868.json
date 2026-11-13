@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T15:20:51.769133+00:00",
- "updated": "2026-11-13T15:35:52.267094+00:00",
+ "updated": "2026-11-13T16:05:38.576057+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -50,11 +50,18 @@
    "url": "https://nova.rs/vesti/svet/u-sudaru-autobusa-i-kamiona-na-severoistoku-indije-poginule-24-osobe/",
    "title": "U sudaru autobusa i kamiona na severoistoku Indije poginule 24 osobe",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/u-sudaru-autobusa-i-kamiona-na-severoistoku-indije-poginule-24-osobe/",
+   "title": "U sudaru autobusa i kamiona na severoistoku Indije poginule 24 osobe",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Najmanje 23 osobe poginule u sudaru minibusa i kamiona na severoistoku Indije",
   "Stravičan sudar kamiona i autobusa; Najmanje 23 mrtvih VIDEO",
+  "U sudaru autobusa i kamiona na severoistoku Indije poginule 24 osobe",
   "U sudaru autobusa i kamiona na severoistoku Indije poginule 24 osobe"
  ],
  "author": "Redakcija Prestonice",
@@ -68,6 +75,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:PM_Modi_at_Kaziranga_Park.jpg",
   "alt": "U sudaru kamiona i autobusa u indijskoj državi Asam poginule najmanje 23 osobe"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

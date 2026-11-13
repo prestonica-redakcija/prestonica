@@ -29,17 +29,24 @@
  ],
  "importance": 4,
  "published": "2026-11-13T15:50:46.877768+00:00",
- "updated": "2026-11-13T15:50:46.877768+00:00",
+ "updated": "2026-11-13T16:05:38.576057+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1670883/ana-brnabic-plenumi-raf-blokadi-studenti",
    "title": "BRNABIĆ O STUDENTIMA: Bukvalno celu zemlju drže u mraku dok se hvale transparentnošću",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1169615/ana-brnabic-blokaderska-lista-transparentnost",
+   "title": "Anonimni plenumi, nepotpisani zahtevi, tajne odluke: A Studentska lista se hvali ''transparentnošću''",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "BRNABIĆ O STUDENTIMA: Bukvalno celu zemlju drže u mraku dok se hvale transparentnošću"
+  "BRNABIĆ O STUDENTIMA: Bukvalno celu zemlju drže u mraku dok se hvale transparentnošću",
+  "Anonimni plenumi, nepotpisani zahtevi, tajne odluke: A Studentska lista se hvali ''transparentnošću''"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Belgrade_Pride_2019_-_Many_pride_participants_are_disappointed_with_Ana_Brnabi%C4%87.jpg",
   "alt": "Brnabić studentima: plenumi i zahtevi su anonimni, javnost ne zna ko odlučuje"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

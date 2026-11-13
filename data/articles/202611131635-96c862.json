@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T15:35:52.267094+00:00",
- "updated": "2026-11-13T15:35:52.267094+00:00",
+ "updated": "2026-11-13T16:05:38.576057+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -45,12 +45,19 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4432605-oglasili-se-iz-kbc-zvezdara-posle-smrti-porodilje",
    "title": "Oglasili se iz KBC Zvezdara nakon smrti porodilje",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/kbc-zvezdara-porodilja-preminula-nakon-porodjaja-beba-stabilno/",
+   "title": "KBC Zvezdara: Porodilja preminula nakon porođaja, beba stabilno",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "KBC Zvezdara: Porodilja preminula nakon porođaja, beba stabilno, saučešće porodici",
   "Oglasio se KBC Zvezdara nakom smrti porodilje (42)! Tokom porođaja došlo je do obilnog krvarenja i najteže komplikacije, evo u kakvom je stanju devojčica!",
-  "Oglasili se iz KBC Zvezdara nakon smrti porodilje"
+  "Oglasili se iz KBC Zvezdara nakon smrti porodilje",
+  "KBC Zvezdara: Porodilja preminula nakon porođaja, beba stabilno"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Porodilja preminula na Zvezdari posle porođaja, formirana komisija za stručnu proveru"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
