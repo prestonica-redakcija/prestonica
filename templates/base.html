@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>{% if title %}{{ title }} · {% endif %}{{ portal.ime }}</title>
 <meta name="description" content="{% block desc %}{{ portal.opis }}{% endblock %}">
+{% if noindex %}<meta name="robots" content="noindex">{% endif %}
 <meta name="claude:viewport-fit-sides" content="cover">
 {% if domain %}<link rel="canonical" href="https://{{ domain }}/{{ '' if page_path == 'index.html' else page_path }}">{% endif %}
 <meta property="og:site_name" content="{{ portal.ime }}">

@@ -14,7 +14,7 @@ from zoneinfo import ZoneInfo
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from PIL import Image
 
-from . import rank, widgets
+from . import pravila, rank, widgets
 from .config import Config
 from .cluster import COMMON as _COMMON
 from .util import age_hours, fold, now_utc, broken_body, paragraphs, parse_iso, quotes, slugify, sr_date, stems
@@ -57,6 +57,10 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
         a["_time"] = f"{dt.day}. {SR_MON_SHORT[dt.month - 1]} {dt:%H:%M}"
         a["_date_long"] = sr_date(dt) + f" u {dt:%H:%M}"
         a["_minutes"] = max(1, round(sum(len(p.split()) for p in [a["lead"]] + a["body"]) / 200))
+    tiho = [a for a in visible if pravila.blokira(a)]
+    if tiho:
+        _t = {id(a) for a in tiho}
+        visible = [a for a in visible if id(a) not in _t]
 
     # stalne ličnosti (config/licnosti.yaml) + automatski profili za česta imena iz vesti (engine/licnosti.py)
     _known = {fold(p["ime"]) for p in cfg.licnosti}
@@ -66,7 +70,7 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
             _known.add(fold(e.get("ime", orig)))
             _auto.append({"ime": e.get("ime") or orig, "uloga": e.get("uloga", ""), "oblast": e.get("oblast", "drustvo"),
                           "kljucne": list(dict.fromkeys([fold(orig), fold(e.get("ime") or orig)])), "auto": True, "_foto": e.get("foto")})
-    people, match_people = _person_matcher(list(cfg.licnosti) + _auto)
+    people, match_people = _person_matcher([p for p in list(cfg.licnosti) + _auto if not pravila.blokira(p)])
     for a in visible:
         a["_people"] = match_people(a)
 
@@ -104,7 +108,7 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
     teme = [t for t, _ in tag_counter.most_common(12)]
 
     w = {"kurs": widgets.kurs() if live_widgets else [], "vreme": widgets.vreme() if live_widgets else None, "gorivo": widgets.gorivo() if live_widgets else None}
-    videos = [dict(v) for v in (state.get("videos") or []) if not v.get("skip") and v.get("live") != "upcoming"]
+    videos = [dict(v) for v in (state.get("videos") or []) if not v.get("skip") and v.get("live") != "upcoming" and not pravila.blokira(v)]
     if any("naslov" in v for v in videos):
         videos = [v for v in videos if "naslov" in v]
     today_d = now.date()
@@ -140,7 +144,7 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
     from .xposts import excluded as _x_excluded
     _xskip = _x_excluded()
     _xprof = (state.get("x") or {}).get("profil", {})
-    xposts = [dict(p) for p in (state.get("x") or {}).get("posts", []) if p.get("prikazi") and p["x"].lower() not in _xskip]
+    xposts = [dict(p) for p in (state.get("x") or {}).get("posts", []) if p.get("prikazi") and p["x"].lower() not in _xskip and not pravila.blokira(p)]
     xposts.sort(key=lambda p: p["published"], reverse=True)
     for p in xposts:
         p["img"] = (_xprof.get(p["x"].lower()) or {}).get("img", "")
@@ -169,7 +173,7 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
     # --- ankete čitalaca ---
     ac = cfg.portal.get("ankete") or {}
     api = str(ac.get("api_url", "")).rstrip("/") if ac.get("ukljuceno") else ""
-    polls = sorted((dict(p) for p in state.get("ankete", [])), key=lambda p: p["start"], reverse=True)
+    polls = sorted((dict(p) for p in state.get("ankete", []) if not pravila.blokira(p)), key=lambda p: p["start"], reverse=True)
     for p in polls:
         p["_otvorena"] = parse_iso(p["kraj"]) > now_utc()
         p["_dan"] = sr_date(parse_iso(p["start"]).astimezone(tz), False)
@@ -263,7 +267,7 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
     # kartice za deljenje (og:image 1200 x 630 na našem domenu): pregled linka na X-u i drugim mrežama nikad sivo
     try:
         from . import drustvene
-        drustvene.build_cards(cfg, visible, out)
+        drustvene.build_cards(cfg, visible + tiho, out)
     except Exception as e:
         log.warning("Kartice za deljenje: %s", e)
 
@@ -273,9 +277,12 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
                      key=lambda x: (-len(tags & set(fold(" ".join(x.get("tags", []))).split())), x["section"] != a["section"],
                                     -parse_iso(x["published"]).timestamp()))[:4]
         render("article.html", a["_url"], a=a, related=rel, active=a["section"], title=a["headline"], vid=a.get("_video"))
+    for a in tiho:
+        a["_people"], a["_x"], a["_video"] = [], [], None
+        render("article.html", a["_url"], a=a, related=[], active=a["section"], title=a["headline"], vid=None, noindex=True)
 
     # --- slike iz arhive (dve veličine) ---
-    _copy_photos(root, out, visible)
+    _copy_photos(root, out, visible + tiho)
 
     # --- indeks za pretragu ---
     idx = [{

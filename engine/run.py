@@ -16,7 +16,7 @@ import time
 from datetime import timedelta
 from zoneinfo import ZoneInfo
 
-from . import build, cluster, config, fetch, rank, store
+from . import build, cluster, config, fetch, pravila, rank, store
 from .images import Images
 from .telegram import Telegram, handle_commands
 from .util import age_hours, broken_body, fold, now_utc, paragraphs, parse_iso, quotes, sentence_case_caps, slugify
@@ -194,7 +194,7 @@ def main() -> None:
         cutoff = (now - timedelta(days=5)).isoformat()
         for k in [k for k, v in seen.items() if v < cutoff]:
             del seen[k]
-        fresh = [it for it in items if it["link"] not in seen]
+        fresh = [it for it in items if it["link"] not in seen and not pravila.blokira(it)]
 
         # 4. Grupisanje i rangiranje
         clusters = cluster.cluster_items(fresh)
@@ -264,6 +264,8 @@ def main() -> None:
                 names.add(it["source_name"])
             pub = now.isoformat() if live else c["latest"]
             a = make_article(out, "vest", cfg, articles, srcs, pub)
+            if pravila.blokira(a):
+                continue
             a["score_at_pub"] = score
             a["image"] = images.choose(a, out)
             store.save_article(a)
@@ -286,7 +288,7 @@ def main() -> None:
                         texts[it["link"]] = fetch.fulltext(it["link"])
                 pc = {"items": [prev] + add[:5], "sources": e["sources"]}
                 out = writer.news(pc, texts)
-                if not out or out.get("preskoci") or not out.get("pasusi"):
+                if not out or out.get("preskoci") or not out.get("pasusi") or pravila.blokira(out):
                     continue
                 e["headline"] = (out.get("naslov") or e["headline"]).strip()
                 e["headline"] = e["headline"][:1].upper() + e["headline"][1:]
@@ -389,7 +391,7 @@ def main() -> None:
                 xp = (state.get("x") or {}).get("posts", [])
                 todo_x = [p for p in xp if "prikazi" not in p][:40]
                 if todo_x and hasattr(writer, "x_posts"):
-                    arts = [a for a in articles if a["kind"] == "vest" and not a.get("hidden") and age_hours(a["published"]) < 48]
+                    arts = [a for a in articles if a["kind"] == "vest" and not a.get("hidden") and age_hours(a["published"]) < 48 and not pravila.blokira(a)]
                     arts.sort(key=lambda a: a["published"], reverse=True)
                     got = {str(d.get("id")): d for d in writer.x_posts(todo_x, arts[:80])}
                     for p in todo_x:
@@ -412,21 +414,21 @@ def main() -> None:
         if live:
             try:
                 from . import objave_x
-                objave_x.run(cfg, state, articles, t0)
+                objave_x.run(cfg, state, [a for a in articles if not pravila.blokira(a)], t0)
             except Exception as e:
                 log.warning("X objave: %s", e)
 
         # 6b5. Ankete čitalaca: pitanje dana, ankete redakcije, konačni rezultati
         try:
             from . import ankete
-            ankete.run(cfg, state, articles, writer, live)
+            ankete.run(cfg, state, [a for a in articles if not pravila.blokira(a)], writer, live)
         except Exception as e:
             log.warning("Ankete: %s", e)
 
         # 6c. Ličnosti: automatski profili za česta imena iz vesti i prave fotografije (Wikidata, Commons)
         try:
             from . import licnosti
-            licnosti.run(cfg, state, articles, writer, live)
+            licnosti.run(cfg, state, [a for a in articles if not pravila.blokira(a)], writer, live)
         except Exception as e:
             log.warning("Ličnosti: %s", e)
 
