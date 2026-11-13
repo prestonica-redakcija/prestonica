@@ -25,17 +25,24 @@
  ],
  "importance": 5,
  "published": "2026-11-13T12:22:12.455840+00:00",
- "updated": "2026-11-13T12:22:12.455840+00:00",
+ "updated": "2026-11-13T14:36:13.763478+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/sve-javne-nabavke-telekoma-i-u-it-sektoru-dostupni-na-dva-nova-sajta/",
    "title": "Sve javne nabavke Telekoma i IT sektora dostupne na dva nova sajta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/pomoc-za-tuzilastvo-sve-javne-nabavke-telekoma-i-it-sektora-dostupne-na-dva-nova-sajta/",
+   "title": "Pomoć za Tužilaštvo: Sve javne nabavke Telekoma i IT sektora dostupne na dva nova sajta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Sve javne nabavke Telekoma i IT sektora dostupne na dva nova sajta"
+  "Sve javne nabavke Telekoma i IT sektora dostupne na dva nova sajta",
+  "Pomoć za Tužilaštvo: Sve javne nabavke Telekoma i IT sektora dostupne na dva nova sajta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Telekom_Srbija_TK_centar_1.jpg",
   "alt": "Pokrenuta dva sajta za praćenje javnih nabavki Telekoma i IT sektora"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
