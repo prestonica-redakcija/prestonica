@@ -27,17 +27,24 @@
  ],
  "importance": 3,
  "published": "2026-11-13T08:53:53.111687+00:00",
- "updated": "2026-11-13T08:53:53.111687+00:00",
+ "updated": "2026-11-13T09:08:47.630829+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/sport-klub/kosarka/sada-i-zvanicno-u-kk-partizan-stize-pojacanje-iz-fenerbahcea/",
    "title": "Sada i zvanično: U KK Partizan stiže pojačanje iz Fenerbahčea",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/sport/kosarka/evroliga/10160911/kris-silva-potpisao-za-partizan",
+   "title": "ZVANIČNO! Kris Silva potpisao za Partizan",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Sada i zvanično: U KK Partizan stiže pojačanje iz Fenerbahčea"
+  "Sada i zvanično: U KK Partizan stiže pojačanje iz Fenerbahčea",
+  "ZVANIČNO! Kris Silva potpisao za Partizan"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:KK_Partizan_Euroleague_20261015_(2).JPG",
   "alt": "Kris Silva, košarkaš Fenerbahčea, novo je pojačanje Partizana"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

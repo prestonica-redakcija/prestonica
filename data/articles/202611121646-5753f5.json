@@ -30,17 +30,31 @@
  ],
  "importance": 7,
  "published": "2026-11-12T15:46:35.631807+00:00",
- "updated": "2026-11-12T15:46:35.631807+00:00",
+ "updated": "2026-11-13T09:08:47.630829+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/janaf-sanacija-naftovoda-nastavljena-kontrolisanim-prikupljanjem-preostale-nafte-iz-cevovoda",
    "title": "JANAF: Sanacija naftovoda nastavljena kontrolisanim prikupljanjem preostale nafte iz cevovoda",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/janaf-jos-nije-poceo-sanaciju-cevovoda-u-toku-prikupljanje-zaostale-nafte/",
+   "title": "JANAF još nije počeo sanaciju cevovoda, u toku prikupljanje zaostale nafte",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/janaf-jos-nije-poceo-sanaciju-cevovoda-u-toku-prikupljanje-zaostale-nafte/",
+   "title": "JANAF još nije počeo sanaciju cevovoda, u toku prikupljanje zaostale nafte",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "JANAF: Sanacija naftovoda nastavljena kontrolisanim prikupljanjem preostale nafte iz cevovoda"
+  "JANAF: Sanacija naftovoda nastavljena kontrolisanim prikupljanjem preostale nafte iz cevovoda",
+  "JANAF još nije počeo sanaciju cevovoda, u toku prikupljanje zaostale nafte",
+  "JANAF još nije počeo sanaciju cevovoda, u toku prikupljanje zaostale nafte"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +65,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "JANAF počeo izvlačenje nafte iz oštećenog cevovoda, NIS tvrdi da su zalihe dovoljne"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -29,17 +29,24 @@
  ],
  "importance": 7,
  "published": "2026-11-13T08:39:01.965066+00:00",
- "updated": "2026-11-13T08:39:01.965066+00:00",
+ "updated": "2026-11-13T09:08:47.630829+00:00",
  "sources": [
   {
    "name": "Telegraf",
    "url": "https://biznis.telegraf.rs/info-biz/4432246-imamo-zalihe-za-90-dana-ali-to-nije-sve-strucnjak-otkrio-sta-ceka-srbiju-zbog-nis-a",
    "title": "Imamo zalihe za 90 dana, ali to nije sve: Stručnjak otkrio šta čeka Srbiju zbog NIS-a",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/284596/banjac-ne-ocekuju-se-poremecaji-u-snabdevanju-gorivom-srbija-raspolaze-rezervama/vest",
+   "title": "Nema mesta panici: Srbija ima zalihe nafte za nekoliko meseci",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Imamo zalihe za 90 dana, ali to nije sve: Stručnjak otkrio šta čeka Srbiju zbog NIS-a"
+  "Imamo zalihe za 90 dana, ali to nije sve: Stručnjak otkrio šta čeka Srbiju zbog NIS-a",
+  "Nema mesta panici: Srbija ima zalihe nafte za nekoliko meseci"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Banjac: Srbija može dva do tri meseca bez nafte iz Janafa, ali to nije rešenje"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
