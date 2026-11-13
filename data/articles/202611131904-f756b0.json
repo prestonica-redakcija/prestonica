@@ -29,16 +29,23 @@
  ],
  "importance": 5,
  "published": "2026-11-13T18:04:42.403667+00:00",
- "updated": "2026-11-13T18:04:42.403667+00:00",
+ "updated": "2026-11-13T18:34:29.083981+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/lilic-o-vucicevim-pomilovanjima-u-ovom-slucaju-put-preko-ustavne-zalbe-je-prva-stvar/",
    "title": "Lilić o Vučićevim pomilovanjima: U ovom slučaju put preko ustavne žalbe je prva stvar",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/lilic-o-vucicevim-pomilovanjima-u-ovom-slucaju-put-preko-ustavne-zalbe-je-prva-stvar/",
+   "title": "Lilić o Vučićevim pomilovanjima: U ovom slučaju put preko ustavne žalbe je prva stvar",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Lilić o Vučićevim pomilovanjima: U ovom slučaju put preko ustavne žalbe je prva stvar",
   "Lilić o Vučićevim pomilovanjima: U ovom slučaju put preko ustavne žalbe je prva stvar"
  ],
  "author": "Redakcija Prestonice",
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Ustavni_sud_Republike_Srpske.jpg",
   "alt": "Lilić: pomilovanja Aleksandra Vučića treba osporavati ustavnom žalbom"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
