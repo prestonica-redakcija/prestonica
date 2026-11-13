@@ -459,22 +459,47 @@
     if (t) t.textContent = String(d.getHours()).padStart(2, "0") + ":" + String(d.getMinutes()).padStart(2, "0");
     if (dt) dt.textContent = DAN[d.getDay()] + ", " + d.getDate() + ". " + MES[d.getMonth()];
   }
+  function metKod(s) {
+    s = (s || "").split("_")[0];
+    if (/thunder/.test(s)) return 95; if (/snow/.test(s)) return 73; if (/sleet/.test(s)) return 66; if (/showers/.test(s)) return 80;
+    if (/heavyrain/.test(s)) return 65; if (/lightrain/.test(s)) return 61; if (/rain/.test(s)) return 63; if (/fog/.test(s)) return 45;
+    if (s === "partlycloudy") return 2; if (s === "fair") return 1; if (s === "clearsky") return 0; return 3;
+  }
+  function crtaj(temp, kod, feel, dani) {
+    box.querySelector("[data-g-temp]").textContent = Math.round(temp) + "°";
+    box.querySelector("[data-g-opis]").textContent = WMO[kod] || "";
+    box.querySelector("[data-g-ico]").innerHTML = ico(kod);
+    box.querySelector("[data-g-feel]").textContent = feel;
+    box.querySelector("[data-g-days]").innerHTML = dani.slice(0, 3).map(function (x) {
+      return "<li>" + DK[x.d.getDay()] + ico(x.kod) + "<b>" + Math.round(x.max) + "° <span>" + Math.round(x.min) + "°</span></b></li>";
+    }).join("");
+  }
+  function vremeMet() {
+    fetch("https://api.met.no/weatherapi/locationforecast/2.0/compact?lat=44.82&lon=20.46").then(function (r) { return r.ok ? r.json() : null; }).then(function (j) {
+      if (!j || !j.properties) return;
+      var ts = j.properties.timeseries, c = ts[0].data, det = c.instant.details;
+      var sym = ((c.next_1_hours || c.next_6_hours || {}).summary || {}).symbol_code;
+      var danas = new Date().toLocaleDateString("en-CA", { timeZone: "Europe/Belgrade" }), po = {}, red = [];
+      ts.forEach(function (x) {
+        var dt = new Date(x.time), k = dt.toLocaleDateString("en-CA", { timeZone: "Europe/Belgrade" });
+        if (k === danas) return;
+        var h = +dt.toLocaleString("en-US", { timeZone: "Europe/Belgrade", hour: "2-digit", hour12: false }) % 24, t = x.data.instant.details.air_temperature;
+        if (!po[k]) { po[k] = { d: new Date(k + "T12:00:00"), max: t, min: t, kod: 3, h: 99 }; red.push(po[k]); }
+        var p = po[k]; p.max = Math.max(p.max, t); p.min = Math.min(p.min, t);
+        var s6 = ((x.data.next_6_hours || x.data.next_1_hours || {}).summary || {}).symbol_code;
+        if (s6 && Math.abs(h - 12) < Math.abs(p.h - 12)) { p.h = h; p.kod = metKod(s6); }
+      });
+      crtaj(det.air_temperature, metKod(sym), "vlažnost " + Math.round(det.relative_humidity) + "% · vetar " + Math.round(det.wind_speed * 3.6) + " km/h", red);
+    }).catch(function () {});
+  }
   function vreme() {
     fetch("https://api.open-meteo.com/v1/forecast?latitude=44.82&longitude=20.46&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=Europe%2FBelgrade&forecast_days=4")
       .then(function (r) { return r.ok ? r.json() : null; }).then(function (j) {
-        if (!j || !j.current) return;
-        var c = j.current, d = j.daily;
-        box.querySelector("[data-g-temp]").textContent = Math.round(c.temperature_2m) + "°";
-        box.querySelector("[data-g-opis]").textContent = WMO[c.weather_code] || "";
-        box.querySelector("[data-g-ico]").innerHTML = ico(c.weather_code);
-        box.querySelector("[data-g-feel]").textContent = "oseća se " + Math.round(c.apparent_temperature) + "° · vetar " + Math.round(c.wind_speed_10m) + " km/h";
-        var html = "";
-        for (var i = 1; i < 4 && d && d.time && i < d.time.length; i++) {
-          var dd = new Date(d.time[i] + "T12:00:00");
-          html += "<li>" + DK[dd.getDay()] + ico(d.weather_code[i]) + "<b>" + Math.round(d.temperature_2m_max[i]) + "° <span>" + Math.round(d.temperature_2m_min[i]) + "°</span></b></li>";
-        }
-        box.querySelector("[data-g-days]").innerHTML = html;
-      }).catch(function () {});
+        if (!j || !j.current) return vremeMet();
+        var c = j.current, d = j.daily, dani = [];
+        for (var i = 1; i < 4 && d && d.time && i < d.time.length; i++) dani.push({ d: new Date(d.time[i] + "T12:00:00"), kod: d.weather_code[i], max: d.temperature_2m_max[i], min: d.temperature_2m_min[i] });
+        crtaj(c.temperature_2m, c.weather_code, "oseća se " + Math.round(c.apparent_temperature) + "° · vetar " + Math.round(c.wind_speed_10m) + " km/h", dani);
+      }).catch(vremeMet);
   }
   function kurs() {
     fetch("https://kurs.resenje.org/api/v1/rates/today").then(function (r) { return r.ok ? r.json() : null; }).then(function (j) {
@@ -502,19 +527,25 @@
   if (mq.addEventListener) mq.addEventListener("change", start);
 })();
 
-/* ---------- sirok ekran: bocna polja uvek ispod zaglavlja, centrirana u vidljivom delu ---------- */
+/* ---------- sirok ekran: bocna polja i usi se sami prilagodjavaju sirini, visini i zumu pregledaca ---------- */
 (function () {
-  var g = document.querySelector(".gutters"), m = document.getElementById("mast");
+  var g = document.querySelector(".gutters"), m = document.getElementById("mast"), de = document.documentElement;
   if (!g || !m || !window.matchMedia) return;
   var mq = window.matchMedia("(min-width: 1680px)"), sides = g.querySelectorAll(".g-side"), q = 0;
   function place() {
     q = 0;
     if (!mq.matches) return;
-    var mb = Math.max(0, m.getBoundingClientRect().bottom), vh = window.innerHeight, px = Math.min(24, window.scrollY * 0.02);
+    var mb = Math.max(0, m.getBoundingClientRect().bottom), vh = window.innerHeight, gw = (de.clientWidth - 1240) / 2;
+    var px = Math.min(24, window.scrollY * 0.02), tiny = false;
+    de.style.setProperty("--es", Math.max(0.72, Math.min(1.3, gw / 300)).toFixed(3));
     for (var i = 0; i < sides.length; i++) {
-      var s = sides[i], h = s.offsetHeight, t = mb + Math.max(18, (vh - mb - h) / 2);
-      s.style.top = Math.round(t + (i ? px * 0.5 : px)) + "px";
+      var s = sides[i], h = s.offsetHeight || 1, sc = Math.min((gw - 48) / 320, (vh - mb - 36) / h, 1.35);
+      if (sc < 0.58) tiny = true;
+      sc = Math.max(sc, 0.58);
+      s.style.setProperty("--gs", sc.toFixed(3));
+      s.style.top = Math.round(mb + Math.max(18, (vh - mb - h * sc) / 2) + (i ? px * 0.5 : px)) + "px";
     }
+    g.classList.toggle("g-tiny", tiny);
   }
   function req() { if (!q) { q = 1; requestAnimationFrame(place); } }
   addEventListener("scroll", req, { passive: true });

@@ -20,7 +20,7 @@ def kurs() -> list[dict]:
     return out
 
 
-def vreme() -> dict | None:
+def _vreme_om() -> dict | None:
     try:
         r = requests.get("https://api.open-meteo.com/v1/forecast",
                          params={"latitude": 44.82, "longitude": 20.46, "current": "temperature_2m,weather_code",
@@ -86,3 +86,35 @@ def gorivo() -> dict | None:
         return json.loads(cf.read_text(encoding="utf-8")) if cf.exists() else None
     except Exception:
         return None
+
+
+def _met_kod(sym: str) -> int:
+    s = (sym or "").split("_")[0]
+    for k, v in (("thunder", 95), ("snow", 73), ("sleet", 61), ("showers", 80), ("heavyrain", 65), ("lightrain", 61), ("rain", 63), ("fog", 45)):
+        if k in s:
+            return v
+    return {"partlycloudy": 2, "fair": 1, "clearsky": 0}.get(s, 3)
+
+
+def _vreme_met() -> dict | None:
+    """Rezervni izvor (met.no) kad je open-meteo nedostupan ili ograničen."""
+    try:
+        from datetime import datetime
+        from zoneinfo import ZoneInfo
+        r = requests.get("https://api.met.no/weatherapi/locationforecast/2.0/compact", params={"lat": 44.82, "lon": 20.46},
+                         headers={"User-Agent": "PrestonicaBot/1.0 (+https://prestonica.rs; redakcija@prestonica.rs)"}, timeout=10)
+        ts = r.json()["properties"]["timeseries"]
+        c = ts[0]["data"]
+        temp = c["instant"]["details"]["air_temperature"]
+        sym = ((c.get("next_1_hours") or c.get("next_6_hours") or {}).get("summary") or {}).get("symbol_code", "")
+        tz = ZoneInfo("Europe/Belgrade")
+        dan = datetime.now(tz).date()
+        t = [x["data"]["instant"]["details"]["air_temperature"] for x in ts
+             if datetime.fromisoformat(x["time"].replace("Z", "+00:00")).astimezone(tz).date() == dan] or [temp]
+        return {"temp": round(temp), "opis": WMO.get(_met_kod(sym), ""), "max": round(max(t)), "min": round(min(t))}
+    except Exception:
+        return None
+
+
+def vreme() -> dict | None:
+    return _vreme_om() or _vreme_met()
