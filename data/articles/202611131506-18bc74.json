@@ -27,17 +27,24 @@
  ],
  "importance": 5,
  "published": "2026-11-13T14:06:21.397688+00:00",
- "updated": "2026-11-13T14:06:21.397688+00:00",
+ "updated": "2026-11-13T14:21:19.148283+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/297530/ivan-nikolic-povecanje-referentne-kamate-na-60-nece-znatno-uticati-na-standard-gradana/vest",
    "title": "Ivan Nikolić: Povećanje referentne kamate na 6,0% neće znatno uticati na standard građana",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/297530/ivan-nikolic-povecanje-referentne-kamate-na-60-odsto-nece-znatno-uticati-na-standard-gradana/vest",
+   "title": "Ivan Nikolić: Povećanje referentne kamate na 6,0 odsto neće znatno uticati na standard građana",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Ivan Nikolić: Povećanje referentne kamate na 6,0% neće znatno uticati na standard građana"
+  "Ivan Nikolić: Povećanje referentne kamate na 6,0% neće znatno uticati na standard građana",
+  "Ivan Nikolić: Povećanje referentne kamate na 6,0 odsto neće znatno uticati na standard građana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Beograd_Narodna_banka_Srbije_Kralja_Petra_12_04.jpg",
   "alt": "Nikolić: podizanje referentne kamate na šest odsto neće bitno pogoditi standard građana"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

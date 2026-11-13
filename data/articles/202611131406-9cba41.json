@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T13:06:51.847616+00:00",
- "updated": "2026-11-13T13:06:51.847616+00:00",
+ "updated": "2026-11-13T14:21:19.148283+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -45,11 +45,18 @@
    "url": "https://informer.rs/politika/vesti/1169530/hapsenje-jasmina-vojinovic-milos-vucevic",
    "title": "\"Stop teroru nad narodom Srbije!\" Vučević o skandaloznom hapšenju gradonačelnice Smedereva (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/251939/vucevic-hapsenje-jasmine-vojinovic-je-politicki-progon/vest",
+   "title": "Vučević o hapšenju gradonačelnice Smedereva: To je politički progon",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Vučević: Hapšenje gradonačelnice Smedereva politički progon",
-  "\"Stop teroru nad narodom Srbije!\" Vučević o skandaloznom hapšenju gradonačelnice Smedereva (VIDEO)"
+  "\"Stop teroru nad narodom Srbije!\" Vučević o skandaloznom hapšenju gradonačelnice Smedereva (VIDEO)",
+  "Vučević o hapšenju gradonačelnice Smedereva: To je politički progon"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Milo%C5%A1_Vu%C4%8Devi%C4%87_(53965807723).jpg",
   "osoba": "Miloš Vučević",
   "alt": "Vučević o hapšenju gradonačelnice Smedereva: reč je o političkom progonu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -31,17 +31,24 @@
  ],
  "importance": 6,
  "published": "2026-11-13T14:06:21.397688+00:00",
- "updated": "2026-11-13T14:06:21.397688+00:00",
+ "updated": "2026-11-13T14:21:19.148283+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/vucic-nista-od-ukazivanja-postovanja-najvecoj-opozicionoj-stranci-u-skupstini-program-studentske-liste-napisao-chatgpt/",
    "title": "Vučić: Ništa od ukazivanja poštovanja najvećoj opozicionoj stranci u Skupštini, program Studentske liste napisao ChatGPT",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/vucic-o-konsutlacijama-sa-studentskom-listom-nisu-ukazali-postovanje/",
+   "title": "Vučić o konsultacijama sa Studentskom listom: Nisu ukazali poštovanje",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Vučić: Ništa od ukazivanja poštovanja najvećoj opozicionoj stranci u Skupštini, program Studentske liste napisao ChatGPT"
+  "Vučić: Ništa od ukazivanja poštovanja najvećoj opozicionoj stranci u Skupštini, program Studentske liste napisao ChatGPT",
+  "Vučić o konsultacijama sa Studentskom listom: Nisu ukazali poštovanje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučić o konsultacijama u Skupštini: Studentska lista propustila priliku, program pisao ChatGPT"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

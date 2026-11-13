@@ -28,17 +28,24 @@
  ],
  "importance": 6,
  "published": "2026-11-13T13:21:48.977057+00:00",
- "updated": "2026-11-13T13:21:48.977057+00:00",
+ "updated": "2026-11-13T14:21:19.148283+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10161278/uhapsena-kriminalna-grupa-pretresi-u-tri-grada",
    "title": "UHAPŠENA ORGANIZOVANA KRIMINALNA GRUPA: Pretresi na više lokacija u Novom Pazaru, Kragujevcu i Kraljevu! Tužilaštvo uputilo apel građanima",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/tok-hapsenja-u-novom-pazaru-kraljevu-i-kragujevcu-zbog-prevare-porodica-pritvorenika",
+   "title": "TOK: Hapšenja u Novom Pazaru, Kraljevu i Kragujevcu zbog prevare porodica pritvorenika",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "UHAPŠENA ORGANIZOVANA KRIMINALNA GRUPA: Pretresi na više lokacija u Novom Pazaru, Kragujevcu i Kraljevu! Tužilaštvo uputilo apel građanima"
+  "UHAPŠENA ORGANIZOVANA KRIMINALNA GRUPA: Pretresi na više lokacija u Novom Pazaru, Kragujevcu i Kraljevu! Tužilaštvo uputilo apel građanima",
+  "TOK: Hapšenja u Novom Pazaru, Kraljevu i Kragujevcu zbog prevare porodica pritvorenika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Uhapšeno šest osumnjičenih za prevaru porodica lica uhapšenih zbog ratnih zločina"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T10:52:55.361705+00:00",
- "updated": "2026-11-13T10:52:55.361705+00:00",
+ "updated": "2026-11-13T14:21:19.148283+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,32 @@
    "url": "https://nova.rs/vesti/svet/posle-smrti-sportiste-na-psihijatriji-u-zagrebu-novi-skandal-potresa-region-uhapseno-petoro-zaposlenih-u-bolnici-u-zenici-zbog-nasilja-nad-pacijentom/",
    "title": "Posle smrti sportiste na psihijatriji u Zagrebu, novi skandal potresa region: Uhapšeno petoro zaposlenih u bolnici u Zenici zbog nasilja nad pacijentom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/novi-potresni-detalji-iz-psihijatrijske-bolnice-u-zagrebu-golu-zenu-su-vezali-za-krevet-i-ostavili-da-je-svi-vide/",
+   "title": "Novi potresni detalji iz psihijatrijske bolnice u Zagrebu: „Golu ženu su vezali za krevet i ostavili da je svi vide“",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/novi-potres-u-zagrebackoj-psihijatrijskoj-bolnici-posle-smrti-sportiste-ostavke-se-nizu-30-odsto-zaposlenih-na-bolovanju/",
+   "title": "Novi potres u zagrebačkoj psihijatrijskoj bolnici posle smrti sportiste: Ostavke se nižu, 30 odsto zaposlenih na bolovanju",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/ostavke-u-vrhu-zagrebacke-psihijatrijske-klinike-nakon-smrti-pacijenta",
+   "title": "Ostavke u vrhu zagrebačke psihijatrijske klinike nakon smrti pacijenta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Novi slučaj nasilja nad pacijentom, sada u BiH: Uhapšeno pet zaposlenih u bolnici u Zenici",
-  "Posle smrti sportiste na psihijatriji u Zagrebu, novi skandal potresa region: Uhapšeno petoro zaposlenih u bolnici u Zenici zbog nasilja nad pacijentom"
+  "Posle smrti sportiste na psihijatriji u Zagrebu, novi skandal potresa region: Uhapšeno petoro zaposlenih u bolnici u Zenici zbog nasilja nad pacijentom",
+  "Novi potresni detalji iz psihijatrijske bolnice u Zagrebu: „Golu ženu su vezali za krevet i ostavili da je svi vide“",
+  "Novi potres u zagrebačkoj psihijatrijskoj bolnici posle smrti sportiste: Ostavke se nižu, 30 odsto zaposlenih na bolovanju",
+  "Ostavke u vrhu zagrebačke psihijatrijske klinike nakon smrti pacijenta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +81,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Trgovi%C5%A1%C4%87e_d%C5%BEamija,_harem_(Zenica).jpg",
   "alt": "Uhapšeno pet zaposlenih u bolnici u Zenici zbog sumnje na nasilje nad pacijentom"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
