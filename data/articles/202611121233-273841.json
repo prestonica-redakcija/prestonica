@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-12T11:33:23.422839+00:00",
- "updated": "2026-11-13T06:10:14.988718+00:00",
+ "updated": "2026-11-13T06:55:05.526438+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -59,6 +59,12 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4432073-danas-natprosecno-toplo-tokom-veceri-sledi-preokret-najvisa-dnevna-i-do-25-c",
    "title": "Pre podne leto i 25 stepeni, posle podne pljuskovi, grmljavina i olujni vetar, a uveče sneg: Burna promena",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/vremenska-prognoza-danas-natprosecno-toplo-i-vetrovito",
+   "title": "Vremenska prognoza: Danas natprosečno toplo i vetrovito",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -66,7 +72,8 @@
   "Sutra natprosečno toplo: Vremenska prognoza za petak 13. novembar",
   "U Srbiji danas natprosečno toplo i vetrovito",
   "U Srbiji danas natprosečno toplo i vetrovito, temperatura do 25 stepeni",
-  "Pre podne leto i 25 stepeni, posle podne pljuskovi, grmljavina i olujni vetar, a uveče sneg: Burna promena"
+  "Pre podne leto i 25 stepeni, posle podne pljuskovi, grmljavina i olujni vetar, a uveče sneg: Burna promena",
+  "Vremenska prognoza: Danas natprosečno toplo i vetrovito"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -78,8 +85,8 @@
   "local": true,
   "alt": "RHMZ: u petak toplo i vetrovito, popodne kiša, pljuskovi i osetan pad temperature"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-13T06:10:14.988718+00:00",
  "verzija": 2
 }

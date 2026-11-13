@@ -1,0 +1,53 @@
+{
+ "id": "202611130755-84971f",
+ "slug": "veliki-prekid-rada-majkrosoftovih-servisa-outlook-teams-i-copilot-ne",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Veliki prekid rada Majkrosoftovih servisa: Outlook, Teams i Copilot ne rade danima širom sveta",
+ "lead": "Stotine hiljada korisnika širom sveta suočilo se sa prekidom rada Majkrosoftovih servisa, među kojima su Outlook, Teams i Copilot AI. Prema podacima koje prenosi Danas, problemi su trajali i više od deset sati nakon prvih prijava.",
+ "body": [
+  "Kako prenosi Danas, preuzimajući tekst BBC na srpskom, problemi sa Majkrosoftovim programima zabeleženi su u 74 zemlje u roku od jednog sata, prema sajtu za monitoring Downdetector. Servisi su, navodi se, primetno sporiji ili uopšte ne rade: imejlovi se dugo otvaraju ili se ne pojavljuju u prijemnom sandučetu, a Copilot AI podatke obrađuje sporo ili ih ne obrađuje.",
+  "Iz Majkrosofta kažu da rade na oporavku servera i optimizaciji saobraćaja, ali priznaju da dosadašnje mere nisu dale očekivane rezultate. Kompanija je saopštila i da je objavila ažuriranje, ali je njegovo objavljivanje trajalo duže nego što se očekivalo. Serveri u nekoliko regiona, prema saopštenju kompanije, imaju „povećano opterećenje“, odnosno više zahteva nego što mogu da podnesu.",
+  "Majkrosoft trenutno procenjuje da je malo verovatno da su problemi uzrokovani sajber napadom. Toni Berk, australijski ministar unutrašnjih poslova i sajber bezbednosti, rekao je da su mu predstavnici kompanije preneli da „ne veruju da se suočavaju sa sajber napadom“.",
+  "Prekid je uticao i na neke servise koji nisu u vlasništvu Majkrosofta. OpenAI i Antropik prijavili su kvarove u proizvodima, odnosno modelima velikih jezika, na mestima gde se oni povezuju sa Majkrosoftovim proizvodima.",
+  "Prema sajtu Majkrosofta, paket Microsoft 365 koristi 430 miliona ljudi širom sveta. Pol Spejn iz novozelandske konsultantske firme Gorilla Technology rekao je za BBC da bi, ako sajber napada nije bilo, događaj trebalo opisati kao „neverovatnu nesposobnost“, te da su mnoge kompanije zbog prekida „izgubile radni dan“."
+ ],
+ "tags": [
+  "Majkrosoft",
+  "Outlook",
+  "Teams",
+  "Copilot",
+  "prekid rada servisa",
+  "sajber bezbednost"
+ ],
+ "people": [
+  "Toni Berk",
+  "Pol Spejn"
+ ],
+ "places": [],
+ "importance": 5,
+ "published": "2026-11-13T06:55:05.526438+00:00",
+ "updated": "2026-11-13T06:55:05.526438+00:00",
+ "sources": [
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/bbc-news-serbian/ne-stizu-vam-mejlovi-servisi-majkrosofta-su-pali/",
+   "title": "Ne stižu vam mejlovi? Servisi Majkrosofta su ‘pali’",
+   "spektar": "opozicija"
+  }
+ ],
+ "source_titles": [
+  "Ne stižu vam mejlovi? Servisi Majkrosofta su ‘pali’"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 2.431,
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/TTC_Flexity_Outlook.jpg/1920px-TTC_Flexity_Outlook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Wikimedia Commons / Poe8toe / CC0",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:TTC_Flexity_Outlook.jpg",
+  "alt": "Veliki prekid rada Majkrosoftovih servisa: Outlook, Teams i Copilot ne rade danima širom sveta"
+ }
+}

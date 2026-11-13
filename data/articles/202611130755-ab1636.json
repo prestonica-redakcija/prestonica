@@ -1,0 +1,61 @@
+{
+ "id": "202611130755-ab1636",
+ "slug": "majkrosoftovi-servisi-satima-nedostupni-u-74-zemlje-kompanija",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Majkrosoftovi servisi satima nedostupni u 74 zemlje, kompanija isključuje sajber-napad",
+ "lead": "Prekid u radu Majkrosoftovih servisa Outlook, Teams i Copilot, koji je prema navodima N1 trajao više od 11 sati, zabeležen je u 74 zemlje i teritorije. Iz kompanije kažu da kvar nije posledica sajber-napada, ali potpuna stabilizacija sistema još nije postignuta.",
+ "body": [
+  "Kako navodi N1 pozivajući se na BBC, problemi su prijavljeni u Sjedinjenim Američkim Državama, Japanu, Singapuru, Velikoj Britaniji, Australiji i brojnim drugim zemljama. Najviše teškoća odnosi se na pristup elektronskoj pošti Outlook, platformi za komunikaciju Teams i alatu za veštačku inteligenciju Copilot.",
+  "Prema podacima sajta Daundetektor, koji prati prijave korisnika o prekidima digitalnih usluga, broj prijava problema sa Outlookom dostigao je gotovo 140.000 u četvrtak oko 19 časova po srednjoevropskom vremenu. Teškoće su prijavljivane širom Severne i Južne Amerike, Evrope i Australije.",
+  "Iz Majkrosofta navode da rade na više mogućih rešenja, ali da dosadašnje intervencije nisu dovele do trajnog oporavka. U pojedinim regionima zabeleženo je poboljšanje, ali servisi koji ponovo postanu dostupni mogu prestati da rade kada se poveća broj korisnika. Kompanija je aktivirala i automatizovane sisteme za oporavak.",
+  "Izvršni direktor kompanije Čarls Lamana izjavio je da poremećaj nije posledica sajber-bezbednosnog incidenta. Na mreži Iks napisao je da je kompaniji žao zbog problema i da radi na njihovom otklanjanju. Australijski ministar unutrašnjih poslova i sajber-bezbednosti Toni Berk rekao je da predstavnici kompanije smatraju da nije reč o hakerskom napadu, već o tehničkom problemu.",
+  "Posledice su, prema navodima N1, osetile i druge kompanije koje se oslanjaju na Majkrosoftovu infrastrukturu: OpenAI i Anthropic prijavili su poteškoće povezane sa poremećajem. Aplikacije paketa Microsoft 365 koristi više od 430 miliona ljudi, a Copilot se koristi u više od 90 odsto kompanija sa liste Fortune 500.",
+  "Stručnjak Pol Spejn iz novozelandske konsultantske kompanije Gorilla Technology ocenio je da bi, ako se potvrdi da nije bilo sajber-napada, incident mogao da ukaže na ozbiljne tehničke propuste, sa ekonomskim posledicama koje bi dostigle milione dolara. Nije poznato kada će svi servisi biti u potpunosti vraćeni u normalan rad."
+ ],
+ "tags": [
+  "Majkrosoft",
+  "Outlook",
+  "Teams",
+  "Copilot",
+  "prekid servisa",
+  "sajber-bezbednost"
+ ],
+ "people": [
+  "Čarls Lamana",
+  "Toni Berk",
+  "Pol Spejn"
+ ],
+ "places": [
+  "Sjedinjene Američke Države",
+  "Japan",
+  "Singapur",
+  "Velika Britanija",
+  "Australija"
+ ],
+ "importance": 5,
+ "published": "2026-11-13T06:55:05.526438+00:00",
+ "updated": "2026-11-13T06:55:05.526438+00:00",
+ "sources": [
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/problemi-sa-majkrosoftom-outlook-teams-copilot-nedostupni/",
+   "title": "Globalni problemi sa Majkrosoftovim servisima: Outlook, Teams i Copilot nedostupni satima u 74 zemlje",
+   "spektar": "opozicija"
+  }
+ ],
+ "source_titles": [
+  "Globalni problemi sa Majkrosoftovim servisima: Outlook, Teams i Copilot nedostupni satima u 74 zemlje"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.69,
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Bicycle_rack_on_TTC_Flexity_Outlook.jpg/1920px-Bicycle_rack_on_TTC_Flexity_Outlook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Wikimedia Commons / Poe8toe / CC0",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:Bicycle_rack_on_TTC_Flexity_Outlook.jpg",
+  "alt": "Majkrosoftovi servisi satima nedostupni u 74 zemlje, kompanija isključuje sajber-napad"
+ }
+}

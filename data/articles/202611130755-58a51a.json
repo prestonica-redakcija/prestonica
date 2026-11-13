@@ -1,0 +1,64 @@
+{
+ "id": "202611130755-58a51a",
+ "slug": "veliki-prekid-u-radu-microsofta-outlook-i-teams-satima-nedostupni",
+ "kind": "vest",
+ "section": "ekonomija",
+ "headline": "Veliki prekid u radu Microsofta: Outlook i Teams satima nedostupni širom sveta",
+ "lead": "Milioni korisnika širom sveta satima nisu mogli da koriste Outlook, Teams i druge Microsoftove alate, a kompanija navodi da stabilan oporavak još nije potvrđen. Poremećaji su najviše pogodili Sjedinjene Američke Države i Australiju.",
+ "body": [
+  "Kako prenosi CNN, a preuzimaju Euronews Srbija i Nova, problemi su izazvali ozbiljne smetnje u radu kompanija, škola i javnih službi. Posledice su se, prema tim izveštajima, osetile i u drugim delovima sveta.",
+  "Prema medijskim izveštajima, pojedini zaposleni u američkim kompanijama ranije su završili radni dan jer nisu mogli da koriste poslovne sisteme. U Australiji su neke firme imale poteškoće sa štampanjem faktura, a pojedine škole nisu mogle da održe planiranu nastavu.",
+  "Australijski mediji izvestili su i o prekidu prenosa uživo iz sudova i o problemima u distributivnim centrima koji snabdevaju supermarkete. Euronews Srbija dodaje da je bilo teškoća i u povezivanju kandidata sa poslodavcima tokom razgovora za posao.",
+  "Microsoft je saopštio da radi na otklanjanju problema i stabilizaciji serverske infrastrukture. Prema Euronews Srbija, kompanija je prvo javila pozitivne rezultate nakon ponovnog pokretanja pogođene infrastrukture, ali je kasnije na nalogu Microsoft 365 za obaveštenja o incidentima na mreži Iks navela da stabilan oporavak nije potvrđen.",
+  "Kompanija je navela da nastavlja napore da poboljša stabilnost servera i protok saobraćaja, uz prilagođavanje protokola za upravljanje saobraćajem, preraspodelu opterećenja i selektivno ograničavanje pojedinih tokova podataka. Potvrdila je delimičan oporavak u pojedinim regionima.",
+  "Tobi Mari, profesor računarstva na Univerzitetu u Melburnu, ocenio je da Outlook i Teams predstavljaju važnu infrastrukturu za poslovanje mnogih organizacija i da njihov prekid otežava komunikaciju sa klijentima, obradu zahteva i koordinaciju. Prema Euronews Srbija, on upozorava da incident ukazuje na rizike sve veće zavisnosti globalne privrede od malog broja velikih tehnoloških kompanija."
+ ],
+ "tags": [
+  "Microsoft",
+  "Outlook",
+  "Teams",
+  "prekid usluga",
+  "tehnologija",
+  "digitalna zavisnost"
+ ],
+ "people": [
+  "Tobi Mari"
+ ],
+ "places": [
+  "Sjedinjene Američke Države",
+  "Australija",
+  "Melburn"
+ ],
+ "importance": 5,
+ "published": "2026-11-13T06:55:05.526438+00:00",
+ "updated": "2026-11-13T06:55:05.526438+00:00",
+ "sources": [
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/251866/microsoft-pao-outlook-i-teams-nedostupni-milionima-ljudi/vest",
+   "title": "Microsoft pao: Milioni korisnika širom sveta ostali bez Outlooka i Teamsa",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/it/majkrosoft-alati-ne-rade-sirom-sveta/",
+   "title": "Majkrosoft alati ne rade širom sveta",
+   "spektar": "opozicija"
+  }
+ ],
+ "source_titles": [
+  "Microsoft pao: Milioni korisnika širom sveta ostali bez Outlooka i Teamsa",
+  "Majkrosoft alati ne rade širom sveta"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 3.684,
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg/1920px-Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Wikimedia Commons / 3aFW / CC0",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg",
+  "alt": "Veliki prekid u radu Microsofta: Outlook i Teams satima nedostupni širom sveta"
+ }
+}
