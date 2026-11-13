@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-12T06:20:46.459949+00:00",
- "updated": "2026-11-12T13:17:21.555060+00:00",
+ "updated": "2026-11-13T15:35:52.267094+00:00",
  "sources": [
   {
    "name": "N1",
@@ -47,12 +47,19 @@
    "url": "https://nova.rs/magazin/vremenska-prognoza/sutra-maksimalna-dnevna-temperatura-25-stepeni-ali-dan-ce-biti-jako-los-pogledajte-kakvo-ce-vreme-biti-narednih-dana/",
    "title": "Sutra maksimalna dnevna temperatura 25 stepeni, ali dan će biti jako loš: Pogledajte kakvo će vreme biti narednih dana",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/promena-vremena-rhmz-polovina-novembra/",
+   "title": "Sledi nam promena vremena: RHMZ objavio prognozu za naredne dane",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Danas toplije, najviša dnevna temperatura do 23 stepena",
   "Kiša, 25 stepeni, pa pad temperature: RHMZ objavio kakvo nas vreme čeka",
-  "Sutra maksimalna dnevna temperatura 25 stepeni, ali dan će biti jako loš: Pogledajte kakvo će vreme biti narednih dana"
+  "Sutra maksimalna dnevna temperatura 25 stepeni, ali dan će biti jako loš: Pogledajte kakvo će vreme biti narednih dana",
+  "Sledi nam promena vremena: RHMZ objavio prognozu za naredne dane"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "local": true,
   "alt": "RHMZ: danas toplije do 23 stepena, u petak do 25, u subotu osetan pad temperature"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -23,7 +23,7 @@
  "places": [],
  "importance": 3,
  "published": "2026-11-12T14:32:08.212448+00:00",
- "updated": "2026-11-12T14:47:00.844690+00:00",
+ "updated": "2026-11-13T15:35:52.267094+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -36,11 +36,18 @@
    "url": "https://www.tanjug.rs/ekonomija/svet/297269/bitkoin-pao-za-178-odsto-na-65450-evra-itirijum-za-219-odsto-na-1815-evra/vest",
    "title": "Bitkoin pao za 1,78 odsto na 65.450 evra, itirijum za 2,19 odsto na 1.815 evra",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/297553/bitkoin-pao-za-375-odsto-na-62654-evra-itirijum-za-156-odsto-na-1776-evra/vest",
+   "title": "Bitkoin pao za 3,75 odsto na 62.654 evra, itirijum za 1,56 odsto na 1.776 evra",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "STANjE NA KRIPTO BERZI: Bitkoin pao za 1,78 odsto na 65.450 evra, itirijum za 2,19 odsto na 1.815 evra",
-  "Bitkoin pao za 1,78 odsto na 65.450 evra, itirijum za 2,19 odsto na 1.815 evra"
+  "Bitkoin pao za 1,78 odsto na 65.450 evra, itirijum za 2,19 odsto na 1.815 evra",
+  "Bitkoin pao za 3,75 odsto na 62.654 evra, itirijum za 1,56 odsto na 1.776 evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,6 +59,6 @@
   "local": true,
   "alt": "Bitkoin pao za 1,78 odsto na 65.452 evra, itirijum jeftiniji za 2,19 odsto"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

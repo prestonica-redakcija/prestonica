@@ -24,17 +24,24 @@
  ],
  "importance": 5,
  "published": "2026-11-13T08:39:01.965066+00:00",
- "updated": "2026-11-13T08:39:01.965066+00:00",
+ "updated": "2026-11-13T15:35:52.267094+00:00",
  "sources": [
   {
    "name": "Telegraf",
    "url": "https://www.telegraf.rs/vesti/srbija/4432242-evo-zbog-cega-gradjani-cacka-nisu-mogli-da-dobiju-hitnu-pomoc",
    "title": "Evo zbog čega građani Čačka nisu mogli da dobiju Hitnu pomoć",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/297486/cacak-problemi-sa-pozivanjem-hitne-pomoci-u-cacku/vest",
+   "title": "Čačak: Problemi sa pozivanjem Hitne pomoći u Čačku",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Evo zbog čega građani Čačka nisu mogli da dobiju Hitnu pomoć"
+  "Evo zbog čega građani Čačka nisu mogli da dobiju Hitnu pomoć",
+  "Čačak: Problemi sa pozivanjem Hitne pomoći u Čačku"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:%C4%8Ca%C4%8Dak_bridge_2024.jpg",
   "alt": "Čačak: pozivi na 032 194 završavaju u policiji, Dom zdravlja traži da se bira samo 194"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

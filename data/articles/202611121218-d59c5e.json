@@ -36,7 +36,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T11:18:27.564167+00:00",
- "updated": "2026-11-12T13:02:36.963925+00:00",
+ "updated": "2026-11-13T15:35:52.267094+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -61,13 +61,20 @@
    "url": "https://www.telegraf.rs/vesti/svet/4431796-zelenski-upozorio-na-probleme-sa-starsildom-koji-uticu-na-front",
    "title": "\"Ovo pomaže Rusima da ubijaju Ukrajince!\" Zelenski se požalio na ozbiljan problem, evo o čemu se radi",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/297555/zelenski-tempo-obnove-nakon-ruskih-udara-u-ukrajini-je-prespor/vest",
+   "title": "Zelenski: Tempo obnove nakon ruskih udara u Ukrajini je prespor",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Zelenski ponovo prijavio ozbiljne poremećaje u radu sistema Staršild u Ukrajini",
   "Dramatično obraćanje Zelenskog: \"Ovo direktno pomaže Rusima da ubijaju više Ukrajinaca\"",
   "ZELENSKI PONOVO PRIJAVIO PROBLEM SA STARŠILDOM: \"Ovo pomaže Rusima da ubiju više Ukrajinaca i izvrše preciznije udare\"",
-  "\"Ovo pomaže Rusima da ubijaju Ukrajince!\" Zelenski se požalio na ozbiljan problem, evo o čemu se radi"
+  "\"Ovo pomaže Rusima da ubijaju Ukrajince!\" Zelenski se požalio na ozbiljan problem, evo o čemu se radi",
+  "Zelenski: Tempo obnove nakon ruskih udara u Ukrajini je prespor"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,6 +87,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg",
   "alt": "Zelenski: Staršild ponovo ograničen na 161 km/h, presretanje ruskih dronova otežano"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

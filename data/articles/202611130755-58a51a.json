@@ -3,15 +3,14 @@
  "slug": "veliki-prekid-u-radu-microsofta-outlook-i-teams-satima-nedostupni",
  "kind": "vest",
  "section": "ekonomija",
- "headline": "Microsoft: ohrabrujući oporavak u Evropi, prekid traje najmanje 18 sati",
- "lead": "Microsoft je u petak saopštio da beleži \"ohrabrujući napredak u oporavku u Evropi\", dok neki korisnici i dalje imaju probleme sa Outlookom i Teamsom. Prekid, koji prema Euronews Srbija traje najmanje 18 sati, kompanija ne pripisuje sajber napadu, već preopterećenju infrastrukture.",
+ "headline": "Microsoft: ažuriranje servera nije donelo stabilan oporavak, u Evropi napredak",
+ "lead": "Microsoft je saopštio da je na pogođene servere primenio ažurirane verzije programa, ali da to nije donelo stabilan oporavak, iako beleži \"ohrabrujući napredak u oporavku u Evropi\". Prekid u radu Outlooka i Teamsa traje više od 18 sati, a kompanija navodi da nije obaveštena o zlonamernoj aktivnosti.",
  "body": [
-  "Prema saopštenju koje prenosi BBC, a navodi Euronews Srbija, dostupnost servisa i isporuka imejlova poboljšavaju se u sve većem delu infrastrukture. Japan je, kako stoji u saopštenju, ostao komparativno stabilniji, a situacija u Severnoj Americi se takođe popravlja. Kompanija upozorava da pojedini korisnici i dalje mogu imati probleme dok se aktivnosti oporavka nastavljaju, a navodi da je usredsređena na rešavanje preostalih problema.",
-  "Problemi su počeli u četvrtak, 12. novembra. Prema podacima servisa Downdetector, koje navodi Nova, broj prijava problema sa Outlookom dostigao je gotovo 140.000 iz 74 zemlje. Nova ističe da je stvaran broj pogođenih verovatno znatno veći, jer aplikacije Microsoft 365, prema podacima kompanije, koristi više od 430 miliona ljudi.",
-  "Microsoft je ranije objasnio da prekid nije izazvan uobičajenim porastom saobraćaja ni sajber napadom. Prema pisanju Telegrafa i Nove, veći broj servera neočekivano je postao nedostupan, saobraćaj je preusmeren na preostale servere, a oni su se preopteretili. Telegraf navodi da su pojedini serveri ponovo prestajali da odgovaraju kada bi im se vratilo opterećenje, pa je oporavak sporiji od očekivanog.",
-  "Euronews Srbija navodi da je kompanija najpre javila pozitivne rezultate nakon ponovnog pokretanja pogođene infrastrukture, ali je kasnije na nalogu Microsoft 365 za obaveštenja o incidentima na mreži Iks navela da stabilan oporavak nije potvrđen. Microsoft je, prema ranijim izveštajima, prilagođavao protokole za upravljanje saobraćajem, preraspodeljivao opterećenje i selektivno ograničavao pojedine tokove podataka.",
-  "Korisnici su prijavljivali da ne mogu da otvore sandučiće, šalju i primaju poštu ili pristupe dokumentima, a problemi su pogodili i Copilot. Telegraf navodi da je OpenAI istraživao probleme sa povezivanjem sa Microsoftovim servisima, a da je probleme prijavio i Anthropic. Nova piše da su poremećaji pogodili i službe vlade Singapura i australijsku obaveštajnu agenciju, a da su pojedine ordinacije u Velikoj Britaniji savetovale pacijente da se za hitne zahteve javljaju telefonom.",
-  "Prema CNN-u, koji prenose Euronews Srbija i Nova, neki zaposleni u američkim kompanijama ranije su završili radni dan. U Australiji su pojedine firme imale poteškoće sa fakturama, škole sa nastavom na mreži, a distributivni centri za supermarkete sa radom. Australijski mediji javili su i o prekidu prenosa uživo iz sudova i problemima u povezivanju kandidata sa poslodavcima na razgovorima za posao. Telegraf navodi da je Workhorse Group zbog poremećaja odložio objavu finansijskih rezultata sa 12. na 16. novembar.",
+  "Prema saopštenju koje prenosi BBC, dostupnost servisa i isporuka imejlova poboljšavaju se u sve većem delu infrastrukture. Japan je, kako stoji u saopštenju, komparativno stabilniji, a situacija u Severnoj Americi se takođe popravlja. Kompanija upozorava da pojedini korisnici i dalje mogu imati probleme i da je usredsređena na rešavanje preostalih problema. Insajder i Večernje novosti, koji objavljuju isti tekst, pozivaju se na Independent, prema kome Outlook i Teams i dalje nisu dostupni.",
+  "Problemi su počeli u četvrtak, 12. novembra. Prema podacima servisa Downdetector, koje navodi Nova, broj prijava problema sa Outlookom dostigao je gotovo 140.000 iz 74 zemlje. Microsoft za svoje poslovne alatke navodi gotovo 500 miliona korisnika, dok Nova pominje više od 430 miliona korisnika aplikacija Microsoft 365, pa je stvaran broj pogođenih verovatno znatno veći od broja prijava.",
+  "Microsoft je ranije objasnio da prekid nije izazvan sajber napadom ni uobičajenim porastom saobraćaja. Prema pisanju Telegrafa i Nove, veći broj servera neočekivano je postao nedostupan, saobraćaj je preusmeren na preostale servere, a oni su se preopteretili. Telegraf navodi da su pojedini serveri ponovo prestajali da odgovaraju kada bi im se vratilo opterećenje. Euronews Srbija piše da je kompanija najpre javila pozitivne rezultate nakon ponovnog pokretanja infrastrukture, a kasnije na mreži Iks navela da stabilan oporavak nije potvrđen.",
+  "Insajder i Večernje novosti navode da su poremećaji pogodili bolnice, aerodrome, sudove, policiju i škole, kao i alatke veštačke inteligencije. Telegraf piše da je OpenAI istraživao probleme sa povezivanjem sa Microsoftovim servisima, a da je probleme prijavio i Anthropic. Nova navodi da su pogođene i službe vlade Singapura i australijska obaveštajna agencija, te da su pojedine ordinacije u Velikoj Britaniji savetovale pacijente da se za hitne zahteve javljaju telefonom.",
+  "Prema CNN-u, koji prenose Euronews Srbija, Nova i Insajder, neki zaposleni u američkim kompanijama ranije su završili radni dan. U Australiji su pojedine firme imale poteškoće sa fakturama, škole sa nastavom na mreži, a distributivni centri za supermarkete sa radom. Australijski mediji javili su i o prekidu prenosa uživo iz sudova. Telegraf navodi da je Workhorse Group zbog poremećaja odložio objavu finansijskih rezultata sa 12. na 16. novembar.",
   "Tobi Mari, profesor računarstva na Univerzitetu u Melburnu, upozorio je da incident ukazuje na rizike zavisnosti globalne privrede od malog broja velikih tehnoloških kompanija. Australijski stručnjak za bezbednost Troj Hant rekao je za BBC da posledice mogu biti dalekosežne."
  ],
  "tags": [
@@ -32,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T06:55:05.526438+00:00",
- "updated": "2026-11-13T15:06:05.158544+00:00",
+ "updated": "2026-11-13T15:35:52.267094+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -105,6 +104,18 @@
    "url": "https://www.tanjug.rs/ekonomija/svet/297547/kvar-u-majkrosoftu-traje-vise-od-18-sati-pogodio-sve-od-bolnica-do-aerodroma/vest",
    "title": "Kvar u Majkrosoftu traje više od 18 sati, pogodio sve od bolnica do aerodroma",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/kvar-u-majkrosoftu-traje-vise-od-18-sati-pogodene-bolnice-aerodromi-sudovi-i-skole",
+   "title": "Kvar u Majkrosoftu traje više od 18 sati: Pogođene bolnice, aerodromi, sudovi i škole",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1670879/microsoft-kvar-outlook-teams",
+   "title": "KVAR U MAJKROSOFTU: Traje više od 18 sati, pogodio sve od bolnica do aerodroma u više desetina zemalja",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -119,7 +130,9 @@
   "Ne izlazite iz Vibera, a koristite ChatGPT: Evo i kako",
   "Oglasio se Microsoft: Evo šta se dešava sa kvarom",
   "Majkrosoft: Ohrabrujući napredak u obnavljanju usluga u Evropi",
-  "Kvar u Majkrosoftu traje više od 18 sati, pogodio sve od bolnica do aerodroma"
+  "Kvar u Majkrosoftu traje više od 18 sati, pogodio sve od bolnica do aerodroma",
+  "Kvar u Majkrosoftu traje više od 18 sati: Pogođene bolnice, aerodromi, sudovi i škole",
+  "KVAR U MAJKROSOFTU: Traje više od 18 sati, pogodio sve od bolnica do aerodroma u više desetina zemalja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -132,8 +145,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg",
   "alt": "Veliki prekid u radu Microsofta: Outlook i Teams satima nedostupni širom sveta"
  },
- "novo_od_pisanja": 2,
+ "novo_od_pisanja": 0,
  "boost": 1.6,
- "prepisano": "2026-11-13T13:51:32.851440+00:00",
- "verzija": 3
+ "prepisano": "2026-11-13T15:35:52.267094+00:00",
+ "verzija": 4
 }
