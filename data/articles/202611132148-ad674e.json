@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T20:48:30.259270+00:00",
- "updated": "2026-11-13T20:48:30.259270+00:00",
+ "updated": "2026-11-13T21:03:23.574833+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -42,11 +42,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4432725-pada-prvi-sneg-u-osecini-brisaci-neprekidno-rade",
    "title": "Pada prvi sneg u Osečini, u Valjevu promiču pahulje, a jutros izmerena 23 strepena",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4432781-kisa-ce-se-pretvoriti-u-sneg-a-temperature-nastavljaju-da-padaju-evo-sta-ceka-srbiju-tokom-noci",
+   "title": "Kiša će se pretvoriti u sneg, a temperature nastavljaju da padaju: Evo šta čeka Srbiju tokom noći",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "(VIDEO) PADA PRVI SNEG U SRBIJI, BELI SE CELA OSEČINA: RHMZ najavio obilne nanose tokom noći, evo i gde",
-  "Pada prvi sneg u Osečini, u Valjevu promiču pahulje, a jutros izmerena 23 strepena"
+  "Pada prvi sneg u Osečini, u Valjevu promiču pahulje, a jutros izmerena 23 strepena",
+  "Kiša će se pretvoriti u sneg, a temperature nastavljaju da padaju: Evo šta čeka Srbiju tokom noći"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Ose%C4%8Dina_-_op%C5%A1tina_Ose%C4%8Dina_-_zapadna_Srbija_-_centar_4.jpg",
   "alt": "Prvi sneg u Osečini, RHMZ najavljuje drastičan pad temperature u subotu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

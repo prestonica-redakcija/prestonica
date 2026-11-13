@@ -32,17 +32,24 @@
  ],
  "importance": 7,
  "published": "2026-11-13T20:03:56.560711+00:00",
- "updated": "2026-11-13T20:03:56.560711+00:00",
+ "updated": "2026-11-13T21:03:23.574833+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/celnik-postanske-stedionice-spreceno-povlacenje-dve-milijarde-dinara-pominje-jedno-drzavno-preduzece/",
    "title": "Čelnik Poštanske štedionice kaže da je sprečeno povlačenje dve milijarde dinara, pominje \"jedno državno preduzeće\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/284818/celnik-postanske-stedionice-spreceno-povlacenje-dve-milijarde-dinara/vest",
+   "title": "Čelnik Poštanske štedionice: \"Sprečeno povlačenje dve milijarde dinara\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Čelnik Poštanske štedionice kaže da je sprečeno povlačenje dve milijarde dinara, pominje \"jedno državno preduzeće\""
+  "Čelnik Poštanske štedionice kaže da je sprečeno povlačenje dve milijarde dinara, pominje \"jedno državno preduzeće\"",
+  "Čelnik Poštanske štedionice: \"Sprečeno povlačenje dve milijarde dinara\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Po%C5%A1tanska_%C5%A1tedionica_Pan%C4%8Devo.jpg",
   "alt": "Šef Poštanske štedionice objasnio zašto je zaustavio isplatu velike gotovine klijentu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

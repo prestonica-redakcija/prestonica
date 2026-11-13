@@ -28,17 +28,24 @@
  ],
  "importance": 6,
  "published": "2026-11-13T19:34:06.834215+00:00",
- "updated": "2026-11-13T19:34:06.834215+00:00",
+ "updated": "2026-11-13T21:03:23.574833+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/biz/srbija/vesti/284778/srbi-mesecno-potrose-vise-nego-sto-zarade-evo-na-sta-dajemo-najvise-novca/vest",
    "title": "Srbi mesečno potroše više nego što zarade: Evo na šta dajemo najviše novca",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/284778/srbi-mesecno-potrose-vise-nego-sto-zarade-na-sta-dajemo-najvise-novca/vest",
+   "title": "Srbi mesečno potroše više nego što zarade: Na šta dajemo najviše novca?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Srbi mesečno potroše više nego što zarade: Evo na šta dajemo najviše novca"
+  "Srbi mesečno potroše više nego što zarade: Evo na šta dajemo najviše novca",
+  "Srbi mesečno potroše više nego što zarade: Na šta dajemo najviše novca?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Domaćinstva u Srbiji prošle godine trošila više nego što su prihodovala, pokazuje anketa RZS"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
