@@ -1,0 +1,52 @@
+name: Primena izmena
+
+on:
+  push:
+    paths:
+      - .github/workflows/primeni.yml
+
+permissions:
+  contents: write
+
+jobs:
+  primeni:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Zaglavlje bez smanjivanja
+        run: |
+          git config user.name "prestonica-bot"
+          git config user.email "bot@users.noreply.github.com"
+          python3 - <<'PY'
+          import pathlib
+          a = pathlib.Path("static/app.js")
+          s = a.read_text(encoding="utf-8")
+          old = 'if (mast.classList.contains("scrolled")) mast.classList.remove("scrolled");'
+          assert s.count(old) == 1
+          s = s.replace(old, old + ' if (tb) tb.style.opacity = "";')
+          old2 = '} else { const y = window.scrollY; if (y > 140) mast.classList.add("scrolled"); else if (y < 30) mast.classList.remove("scrolled"); }'
+          assert s.count(old2) == 1
+          s = s.replace(old2, '} else { const y = window.scrollY; mast.classList.toggle("senka", y > 4); if (tb) tb.style.opacity = String(Math.max(0, 1 - y / 38)); }')
+          old3 = 'var mast = $("#mast"), prog = $("#progress"), art = $("[data-article]");'
+          assert s.count(old3) == 1
+          s = s.replace(old3, 'var mast = $("#mast"), tb = document.querySelector(".topbar"), prog = $("#progress"), art = $("[data-article]");')
+          a.write_text(s, encoding="utf-8")
+          c = pathlib.Path("static/style.css")
+          t = c.read_text(encoding="utf-8")
+          assert ".mast.senka" not in t
+          t = t.rstrip("\n") + "\n/* racunar i tablet: zaglavlje ostaje pune velicine; gornja traka sa datumom glatko nestaje, senka se meko pojavljuje */\n.mast{transition:box-shadow .45s var(--ease)}\n.mast.senka{box-shadow:0 12px 30px -20px rgba(13,23,48,.5)}\n.topbar{transition:opacity .2s linear}\n"
+          c.write_text(t, encoding="utf-8")
+          print("ZAGLAVLJE")
+          PY
+          git rm -q .github/workflows/primeni.yml
+          git add -A static
+          git commit -q -m "Zaglavlje ostaje pune velicine, glatko nestajanje gornje trake"
+          for i in 1 2 3 4 5 6; do
+            git pull --rebase -q origin main && git push -q origin HEAD:main && echo "PRIMENJENO" && exit 0
+            sleep 10
+          done
+          exit 1
