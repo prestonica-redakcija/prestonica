@@ -37,7 +37,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T08:39:01.965066+00:00",
- "updated": "2026-11-13T08:39:01.965066+00:00",
+ "updated": "2026-11-13T11:07:47.950991+00:00",
  "sources": [
   {
    "name": "N1",
@@ -56,12 +56,19 @@
    "url": "https://nova.rs/vesti/svet/pakistanska-vojska-ubila-74-militanta-islamabad-optuzuje-indiju-i-avganistan-da-stoje-iza-njih/",
    "title": "Pakistanska vojska ubila 74 militanta, Islamabad optužuje Indiju i Avganistan da stoje iza njih",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/297465/pakistanska-vojska-u-operacijama-u-pogranicnim-oblastima-ubijena-74-militanta/vest",
+   "title": "Pakistanska vojska: U operacijama u pograničnim oblastima ubijena 74 militanta",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Pakistanska vojska: Ubijeno 74 militanata u racijama na njihova skrovišta",
   "Pakistanska vojska: Ubijene 74 osobe u racijama na granici s Avganistanom",
-  "Pakistanska vojska ubila 74 militanta, Islamabad optužuje Indiju i Avganistan da stoje iza njih"
+  "Pakistanska vojska ubila 74 militanta, Islamabad optužuje Indiju i Avganistan da stoje iza njih",
+  "Pakistanska vojska: U operacijama u pograničnim oblastima ubijena 74 militanta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,5 +80,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Ethnic_groups_in_Pakistan.jpg",
   "alt": "Pakistanska vojska: u racijama pored granice sa Avganistanom ubijeno 74 naoružane osobe"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
