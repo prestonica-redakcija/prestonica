@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T13:51:32.851440+00:00",
- "updated": "2026-11-13T14:21:19.148283+00:00",
+ "updated": "2026-11-13T14:51:01.248263+00:00",
  "sources": [
   {
    "name": "N1",
@@ -47,12 +47,19 @@
    "url": "https://www.danas.rs/vesti/drustvo/mladicu-napadnutom-na-birackom-mestu-nudjen-novac-da-ne-otkrije-napadace/",
    "title": "Mladiću napadnutom na biračkom mestu nuđen novac da ne otkrije napadače",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/policija-mladicu-napadnutom-na-birackom-mestu-u-doljevcu-nuden-novac-da-ne-otkrije-napadace",
+   "title": "Policija: Mladiću napadnutom na biračkom mestu u Doljevcu nuđen novac da ne otkrije napadače",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Hapšenje u Nišu: Nudio novac mladiću iz Doljevca da ne oda ko ga je napao na biračkom mestu",
   "Zvao mladića nakon napada na biračkom mestu u Doljevcu, pa mu nudio novac da ne otkrije identitet napadača: Uhapšen muškarac iz Niša",
-  "Mladiću napadnutom na biračkom mestu nuđen novac da ne otkrije napadače"
+  "Mladiću napadnutom na biračkom mestu nuđen novac da ne otkrije napadače",
+  "Policija: Mladiću napadnutom na biračkom mestu u Doljevcu nuđen novac da ne otkrije napadače"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Wiki.Ju%C5%BEnije_III_Doljevac_061.jpg",
   "alt": "Uhapšen mladić iz Niša zbog sumnje da je nudio novac za prećutkivanje napada u Doljevcu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
