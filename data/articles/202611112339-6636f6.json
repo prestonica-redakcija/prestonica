@@ -36,7 +36,7 @@
  ],
  "importance": 4,
  "published": "2026-11-11T22:39:41.685866+00:00",
- "updated": "2026-11-12T23:28:03.020610+00:00",
+ "updated": "2026-11-13T08:53:53.111687+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -85,6 +85,12 @@
    "url": "https://www.kurir.rs/planeta/10160817/GOSPODSKI-POTEZ-MINISTRA-RATA-SAD-Hegset-odlikovao-vojnika-koji-ga-je-opomenuo-da-se-ne-smeje-na-vojnom-groblju-VIDEO",
    "title": "GOSPODSKI POTEZ MINISTRA RATA SAD: Hegset odlikovao vojnika koji ga je opomenuo da se ne smeje na vojnom groblju (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/297440/hegset-odlikovao-vojnika-koji-ga-je-opomenuo-kod-grobnice-nepoznatog-vojnika/vest",
+   "title": "Hegset odlikovao vojnika koji ga je opomenuo kod Grobnice nepoznatog vojnika",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -95,7 +101,8 @@
   "Hegset opomenut zbog smejanja i fotografisanja kod Groba neznanog junaka",
   "(VIDEO) Članovi Hegsetove delegacije se smejali kod Groba neznanog junaka: Vojnik ih opomenuo",
   "GOSPODSKI POTEZ MINISTRA RATA SAD: Hegset odlikovao vojnika koji ga je opomenuo da se ne smeje na vojnom groblju (VIDEO)",
-  "GOSPODSKI POTEZ MINISTRA RATA SAD: Hegset odlikovao vojnika koji ga je opomenuo da se ne smeje na vojnom groblju (VIDEO)"
+  "GOSPODSKI POTEZ MINISTRA RATA SAD: Hegset odlikovao vojnika koji ga je opomenuo da se ne smeje na vojnom groblju (VIDEO)",
+  "Hegset odlikovao vojnika koji ga je opomenuo kod Grobnice nepoznatog vojnika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -107,8 +114,8 @@
   "local": true,
   "alt": "Stražar na Arlingtonu opomenuo Hegseta i pratnju kod Grobnice neznanog vojnika"
  },
- "novo_od_pisanja": 2,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-12T10:18:56.749667+00:00",
  "verzija": 2
 }

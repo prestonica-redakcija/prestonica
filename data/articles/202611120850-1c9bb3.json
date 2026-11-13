@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T07:50:05.866973+00:00",
- "updated": "2026-11-12T21:29:03.804743+00:00",
+ "updated": "2026-11-13T08:53:53.111687+00:00",
  "sources": [
   {
    "name": "B92",
@@ -64,6 +64,12 @@
    "url": "https://www.euronews.rs/srbija/politika/251818/euronews-jutro-13-novembra-vojska-srbije-i-alta-banka/vest",
    "title": "Probudite se uz Euronews Jutro: Kakav je plan Studentske liste za reformu i unapređenje Vojske Srbije?",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10160895/reforme-u-vojsci-srbije-sta-donosi-novi-plan",
+   "title": "NIŠTA OD OBAVEZNOG VOJNOG ROKA? Studentska lista menja plan za Vojsku Srbije, evo šta o tome misle generali",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -72,7 +78,8 @@
   "NIŠTA OD OBAVEZNOG VOJNOG ROKA? Studentska lista menja planove za Vojsku Srbije, kasarne već bile spremne",
   "Vučić: \"Studenti nam predlažu ukidanje vojnog roka, naše kasarne neće videti vojnike\" VIDEO",
   "Kakav je plan Studentske liste za vojsku i vojni rok?",
-  "Probudite se uz Euronews Jutro: Kakav je plan Studentske liste za reformu i unapređenje Vojske Srbije?"
+  "Probudite se uz Euronews Jutro: Kakav je plan Studentske liste za reformu i unapređenje Vojske Srbije?",
+  "NIŠTA OD OBAVEZNOG VOJNOG ROKA? Studentska lista menja plan za Vojsku Srbije, evo šta o tome misle generali"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -84,8 +91,8 @@
   "local": true,
   "alt": "Studentska lista u programu za vojsku predlaže dobrovoljni vojni rok od šest meseci"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-12T21:29:03.804743+00:00",
  "verzija": 2
 }

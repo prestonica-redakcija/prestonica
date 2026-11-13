@@ -29,17 +29,31 @@
  ],
  "importance": 6,
  "published": "2026-11-13T08:39:01.965066+00:00",
- "updated": "2026-11-13T08:39:01.965066+00:00",
+ "updated": "2026-11-13T08:53:53.111687+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/glamocic-nema-novca-za-drugu-ratu-subvencija-po-hektaru/",
    "title": "Glamočić: Nema novca za drugu ratu subvencija po hektaru, moguće je da sredstva budu obezbeđena",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/glamocic-nema-novca-za-drugu-ratu-subvencija-po-hektaru-moguce-je-da-sredstva-budu-obezbedjena/",
+   "title": "Glamočić: Nema novca za drugu ratu subvencija po hektaru",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/glamocic-trenutno-nema-novca-za-drugi-deo-subvencija/",
+   "title": "Glamočić: Trenutno nema novca za drugi deo subvencija",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Glamočić: Nema novca za drugu ratu subvencija po hektaru, moguće je da sredstva budu obezbeđena"
+  "Glamočić: Nema novca za drugu ratu subvencija po hektaru, moguće je da sredstva budu obezbeđena",
+  "Glamočić: Nema novca za drugu ratu subvencija po hektaru",
+  "Glamočić: Trenutno nema novca za drugi deo subvencija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +65,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Sahil_Babayev_and_Dragan_Glamo%C4%8Di%C4%87_in_February_2026.jpg",
   "alt": "Glamočić: Trenutno nema novca za drugu ratu subvencija po hektaru"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

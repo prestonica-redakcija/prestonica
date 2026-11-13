@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T07:39:34.793761+00:00",
- "updated": "2026-11-13T07:54:24.252839+00:00",
+ "updated": "2026-11-13T08:53:53.111687+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -42,11 +42,18 @@
    "url": "https://nova.rs/vesti/politika/nis-moj-grad-investitori-ne-beze-iz-srbije-zbog-promene-vlasti/",
    "title": "Niš, moj grad: Investitori ne beže iz Srbije zbog promene vlasti",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/stankovic-nis-moj-grad-prica-o-odlasku-stranih-investitora-politicka-obmana/",
+   "title": "Stanković (Niš, moj grad): Priča o odlasku stranih investitora politička obmana",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Niš, moj grad: Investitori ne beže iz Srbije zbog promene vlasti",
-  "Niš, moj grad: Investitori ne beže iz Srbije zbog promene vlasti"
+  "Niš, moj grad: Investitori ne beže iz Srbije zbog promene vlasti",
+  "Stanković (Niš, moj grad): Priča o odlasku stranih investitora politička obmana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +65,6 @@
   "local": true,
   "alt": "Niš, moj grad: Strani investitori odlaze zbog sloma ekonomskog modela, ne zbog promene vlasti"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

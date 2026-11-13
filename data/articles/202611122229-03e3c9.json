@@ -29,17 +29,24 @@
  ],
  "importance": 7,
  "published": "2026-11-12T21:29:03.804743+00:00",
- "updated": "2026-11-12T21:29:03.804743+00:00",
+ "updated": "2026-11-13T08:53:53.111687+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/english/news/nis-asks-government-to-release-crude-from-oil-reserves/",
    "title": "NIS asks government to release crude from oil reserves",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4432265-nis-trazi-pomoc-drzave-zbog-prekida-isporuke-nafte-na-potezu-vlada-rafinerija-u-pancevu-smanjuje-preradu",
+   "title": "NIS traži pomoć države zbog prekida isporuke nafte: Na potezu Vlada, Rafinerija u Pančevu smanjuje preradu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "NIS asks government to release crude from oil reserves"
+  "NIS asks government to release crude from oil reserves",
+  "NIS traži pomoć države zbog prekida isporuke nafte: Na potezu Vlada, Rafinerija u Pančevu smanjuje preradu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "NIS traži od Vlade da otpusti naftu i dizel iz državnih rezervi zbog prekida isporuke preko JANAF-a"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-12T22:58:16.195863+00:00",
- "updated": "2026-11-12T23:28:03.020610+00:00",
+ "updated": "2026-11-13T08:53:53.111687+00:00",
  "sources": [
   {
    "name": "N1",
@@ -49,12 +49,19 @@
    "url": "https://insajder.net/prenosimo/trampova-imigraciona-politika-sve-ostrija-ice-deportovao-rekordnih-483200-ljudi",
    "title": "Trampova imigraciona politika sve oštrija: ICE deportovao rekordnih 483.200 ljudi",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/284587/ice-agenti-deportovali-483200-ljudi/vest",
+   "title": "Amerika je deportovala 483.200 ljudi",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Rekordan broj deportacija u SAD: ICE proterao više od 483.000 migranata za godinu dana",
   "Trampova administracija oborila rekord: Iz SAD deportovano 483.200 migranata za godinu dana",
-  "Trampova imigraciona politika sve oštrija: ICE deportovao rekordnih 483.200 ljudi"
+  "Trampova imigraciona politika sve oštrija: ICE deportovao rekordnih 483.200 ljudi",
+  "Amerika je deportovala 483.200 ljudi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "local": true,
   "alt": "ICE u fiskalnoj 2026. deportovao 483.200 migranata, najviše u istoriji agencije"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
