@@ -35,7 +35,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T06:25:04.737283+00:00",
- "updated": "2026-11-13T06:25:04.737283+00:00",
+ "updated": "2026-11-13T07:24:40.418171+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -48,11 +48,18 @@
    "url": "https://www.telegraf.rs/pop-i-kultura/pozoriste/4432164-na-obelezavanju-70-godina-ateljea-212-zatrazena-smena-vd-direktora-ljubise-ristica",
    "title": "Na obeležavanju 70. godina Ateljea 212 zatražena smena v.d. direktora Ljubiše Ristića",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/pop-i-kultura/pozoriste/4432163-izlozbom-posvecenom-petru-kralju-atelje-212-obelezio-70-godina-postojanja",
+   "title": "Izložbom posvećenom Petru Kralju Atelje 212 obeležio 70 godina postojanja",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Ristić mora da ode, ugrožava opstanak naše kuće: Ansambl Ateljea 212 obeležio 70. rođendan, uz ovacije i izložbu posvećenu Petru Kralju",
-  "Na obeležavanju 70. godina Ateljea 212 zatražena smena v.d. direktora Ljubiše Ristića"
+  "Na obeležavanju 70. godina Ateljea 212 zatražena smena v.d. direktora Ljubiše Ristića",
+  "Izložbom posvećenom Petru Kralju Atelje 212 obeležio 70 godina postojanja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +71,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Sin_-_Atelje_212,_2021.jpg",
   "alt": "Zaposleni u Ateljeu 212 na 70. rođendan pozorišta traže smenu v.d. direktora Ristića"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

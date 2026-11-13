@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-12T18:00:33.448851+00:00",
- "updated": "2026-11-13T07:09:55.600981+00:00",
+ "updated": "2026-11-13T07:24:40.418171+00:00",
  "sources": [
   {
    "name": "N1",
@@ -46,12 +46,19 @@
    "url": "https://nova.rs/vesti/drustvo/mokri-kolovozi-i-magla-usporavaju-voznju/",
    "title": "Mokri kolovozi i magla usporavaju vožnju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/amss-mokri-kolovozi-i-magla-usporavaju-voznju-2/",
+   "title": "AMSS: Mokri kolovozi i magla usporavaju vožnju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "AMSS upozorio vozače na mokre kolovoze",
   "AMSS: Mokri kolovozi i magla usporavaju vožnju",
-  "Mokri kolovozi i magla usporavaju vožnju"
+  "Mokri kolovozi i magla usporavaju vožnju",
+  "AMSS: Mokri kolovozi i magla usporavaju vožnju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Batrovci_283.jpg",
   "alt": "AMSS upozorava na kišu i mokre kolovoze, kamioni na Batrovcima čekaju tri sata"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

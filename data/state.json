@@ -2242,18 +2242,24 @@
   "https://nova.rs/vesti/biznis/prodata-azotara-pancevo-novi-vlasnik-je-iz-ujedinjenih-arapskih-emirata-upisan-i-pored-zaloga/": "2026-11-13T07:09:55.600981+00:00",
   "https://www.kurir.rs/zabava/zanimljivosti/10160091/ovaj-deo-kuce-se-ne-kadi-i-u-njemu-se-nikad-ne-moli": "2026-11-13T07:09:55.600981+00:00",
   "https://www.kurir.rs/stars/10160852/veljko-raznatovic-zeli-jos-dece-sta-su-lekari-savetovali": "2026-11-13T07:09:55.600981+00:00",
-  "https://informer.rs/politika/vesti/1169408/informer-tv-sbb-yettel-mts-pozicije": "2026-11-13T07:09:55.600981+00:00"
+  "https://informer.rs/politika/vesti/1169408/informer-tv-sbb-yettel-mts-pozicije": "2026-11-13T07:09:55.600981+00:00",
+  "https://www.telegraf.rs/pop-i-kultura/pozoriste/4432163-izlozbom-posvecenom-petru-kralju-atelje-212-obelezio-70-godina-postojanja": "2026-11-13T07:24:40.418171+00:00",
+  "https://www.euronews.rs/svet/fokus/251868/tramp-trazi-od-senata-sad-350-milijardi-dolara-za-pentagon/vest": "2026-11-13T07:24:40.418171+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4432157-svetski-dan-borbe-protiv-secerne-bolesti-danas-u-dz-nis-preventivni-pregledi": "2026-11-13T07:24:40.418171+00:00",
+  "https://www.novosti.rs/ekonomija/vesti/1670666/pocinje-isplata-osiguranih-depozita-alta-banke-termin-preko-banke-postanska-stedionica-zakazalo-14-149-klijenata": "2026-11-13T07:24:40.418171+00:00",
+  "https://www.tanjug.rs/svet/hronika/297412/nemacka-dve-osobe-poginule-a-14-povredeno-u-pozaru-u-stambenoj-zgradi/vest": "2026-11-13T07:24:40.418171+00:00",
+  "https://www.danas.rs/vesti/drustvo/amss-mokri-kolovozi-i-magla-usporavaju-voznju-2/": "2026-11-13T07:24:40.418171+00:00",
+  "https://n1info.rs/region/dodik-sin-igor-kandidat-za-premijera-rs/": "2026-11-13T07:24:40.418171+00:00",
+  "https://www.danas.rs/dijalog/licni-stavovi/vuciceva-pomilovanja-su-nistava/": "2026-11-13T07:24:40.418171+00:00",
+  "https://nova.rs/magazin/lifestyle/drzava-sa-najvisim-platama-u-evropi-ocajnicki-trazi-radnike-zarade-dostizu-i-7000-evra-mesecno/": "2026-11-13T07:24:40.418171+00:00",
+  "https://www.danas.rs/zivot/drzava-sa-najvisim-platama-u-evropi-trazi-radnike-zarada-moze-da-dostigne-i-7-000-evra-mesecno/": "2026-11-13T07:24:40.418171+00:00",
+  "https://www.kurir.rs/stars/10160854/drama-u-zgradi-cedomira-jovanovica": "2026-11-13T07:24:40.418171+00:00",
+  "https://informer.rs/politika/vesti/1169427/srdjan-crnjanski-ljubica-oparnica-blokaderi": "2026-11-13T07:24:40.418171+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-12T16:33+00:00",
-   "novih": 8,
-   "ukupno": 538,
-   "sekundi": 152.5
-  },
   {
    "vreme": "2026-11-12T16:48+00:00",
    "novih": 6,
@@ -2607,6 +2613,12 @@
    "novih": 2,
    "ukupno": 678,
    "sekundi": 172.4
+  },
+  {
+   "vreme": "2026-11-13T07:26+00:00",
+   "novih": 2,
+   "ukupno": 680,
+   "sekundi": 89.3
   }
  ],
  "licnosti_foto": {
@@ -5077,7 +5089,7 @@
    ]
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -16066,6 +16078,14 @@
      "naslov": "Yettel Stage 5G koncert.jpg"
     }
    ]
+  },
+  "t:luksemburg": {
+   "t": 1794554727.4734156,
+   "items": []
+  },
+  "t:evrostat": {
+   "t": 1794554727.6405232,
+   "items": []
   }
  },
  "x_objave": {
@@ -16117,7 +16137,9 @@
    "202611130013-7aae4f",
    "202611130142-14b039",
    "202611130655-7f62b2",
-   "202611130725-f89dcd"
+   "202611130725-f89dcd",
+   "202611130755-3e6fca",
+   "202611130755-58a51a"
   ],
   "istorija": [
    {
@@ -16400,6 +16422,18 @@
     "t": 1794553067.7542505,
     "id": "202611130725-f89dcd",
     "x": "2121135420151128346",
+    "link": true
+   },
+   {
+    "t": 1794554751.2796175,
+    "id": "202611130755-3e6fca",
+    "x": "2121142481265770787",
+    "link": true
+   },
+   {
+    "t": 1794554753.552619,
+    "id": "202611130755-58a51a",
+    "x": "2121142490816290828",
     "link": true
    }
   ],

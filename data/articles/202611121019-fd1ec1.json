@@ -23,7 +23,7 @@
  ],
  "importance": 3,
  "published": "2026-11-12T09:19:14.268478+00:00",
- "updated": "2026-11-13T06:40:00.551823+00:00",
+ "updated": "2026-11-13T07:24:40.418171+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,12 +42,19 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/297401/svetski-dan-borbe-protiv-secerne-bolesti-danas-u-domu-zdravlja-nis-preventivni-pregledi/vest",
    "title": "Svetski dan borbe protiv šećerne bolesti - danas u Domu zdravlja Niš preventivni pregledi",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4432157-svetski-dan-borbe-protiv-secerne-bolesti-danas-u-dz-nis-preventivni-pregledi",
+   "title": "Svetski dan borbe protiv šećerne bolesti - danas u DZ Niš preventivni pregledi",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "U Domu zdravlja Niš u subotu akcija preventivnih pregleda specijaliste dermatovenerologije",
   "Preventivni pregledi u Domu zdravlja Niš: Dan borbe protiv šećerne bolesti",
-  "Svetski dan borbe protiv šećerne bolesti - danas u Domu zdravlja Niš preventivni pregledi"
+  "Svetski dan borbe protiv šećerne bolesti - danas u Domu zdravlja Niš preventivni pregledi",
+  "Svetski dan borbe protiv šećerne bolesti - danas u DZ Niš preventivni pregledi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "local": true,
   "alt": "Dom zdravlja Niš u subotu organizuje preventivne preglede kod dermatovenerologa"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

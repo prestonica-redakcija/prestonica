@@ -35,17 +35,24 @@
  ],
  "importance": 5,
  "published": "2026-11-12T22:13:42.855898+00:00",
- "updated": "2026-11-12T22:13:42.855898+00:00",
+ "updated": "2026-11-13T07:24:40.418171+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/svet/dodik-kandidat-za-premijera-igor/",
    "title": "Dodik: Među kandidatima za premijera Republike Srpske i moj sin Igor",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/region/dodik-sin-igor-kandidat-za-premijera-rs/",
+   "title": "Dodik: Među kandidatima za predsednika nove Vlade Republike Srpske i moj sin Igor",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Dodik: Među kandidatima za premijera Republike Srpske i moj sin Igor"
+  "Dodik: Među kandidatima za premijera Republike Srpske i moj sin Igor",
+  "Dodik: Među kandidatima za predsednika nove Vlade Republike Srpske i moj sin Igor"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Milorad_Dodik_2026_(cropped).jpg",
   "osoba": "Milorad Dodik",
   "alt": "Dodik: Među kandidatima za premijera Republike Srpske i njegov sin Igor"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

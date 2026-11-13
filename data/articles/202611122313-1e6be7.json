@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T22:13:42.855898+00:00",
- "updated": "2026-11-12T22:13:42.855898+00:00",
+ "updated": "2026-11-13T07:24:40.418171+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://www.euronews.rs/svet/fokus/251850/donald-tramp-trazi-350-milijardi-dolara-za-pentagon/vest",
    "title": "Tramp pozvao Senat da odobri dodatnih 350 milijardi dolara Pentagonu",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/251868/tramp-trazi-od-senata-sad-350-milijardi-dolara-za-pentagon/vest",
+   "title": "Tramp traži da Senat odobri dodatnih 350 milijardi dolara za Pentagon",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Tramp pozvao Senat da odobri dodatnih 350 milijardi dolara Pentagonu",
-  "Tramp pozvao Senat da odobri dodatnih 350 milijardi dolara Pentagonu"
+  "Tramp pozvao Senat da odobri dodatnih 350 milijardi dolara Pentagonu",
+  "Tramp traži da Senat odobri dodatnih 350 milijardi dolara za Pentagon"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:PENTAGON_2.jpg",
   "alt": "Tramp traži od Senata da odobri dodatnih 350 milijardi dolara za Pentagon"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
