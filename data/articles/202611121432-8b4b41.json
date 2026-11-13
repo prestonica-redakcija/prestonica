@@ -31,7 +31,7 @@
  ],
  "importance": 7,
  "published": "2026-11-12T13:32:29.095638+00:00",
- "updated": "2026-11-12T14:16:59.680947+00:00",
+ "updated": "2026-11-13T19:19:13.474959+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -74,6 +74,12 @@
    "url": "https://insajder.net/teme/nis-o-prekidu-dotoka-nafte-rafineriji-pazljivo-pratimo-situaciju-raspolazemo-dovoljnim-zalihama-derivata-a-pumpe-su-snabdevene",
    "title": "NIS o prekidu dotoka nafte Rafineriji: Pažljivo pratimo situaciju, raspolažemo dovoljnim zalihama derivata",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/251987/janaf-i-pancevo-rezerve-nafte-za-oko-sedam-dana-rada/vest",
+   "title": "Rafineriji u Pančevu preti smanjenje proizvodnje: Šta će biti sa gorivom i cenama na pumpama",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -83,7 +89,8 @@
   "NIS o obustavi proizvodnje zbog JANAF-a: Benzinske stanice uredno snabdevene gorivom",
   "NIS: Benzinske stanice uredno snabdevene derivatima, u stalnom smo kontaktu s JANAF-om",
   "Oglasio se NIS povodom situacije s JANAF-om",
-  "NIS o prekidu dotoka nafte Rafineriji: Pažljivo pratimo situaciju, raspolažemo dovoljnim zalihama derivata"
+  "NIS o prekidu dotoka nafte Rafineriji: Pažljivo pratimo situaciju, raspolažemo dovoljnim zalihama derivata",
+  "Rafineriji u Pančevu preti smanjenje proizvodnje: Šta će biti sa gorivom i cenama na pumpama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -95,6 +102,6 @@
   "local": true,
   "alt": "NIS: pumpe snabdevene gorivom uprkos prekidu transporta nafte kroz JANAF"
  },
- "novo_od_pisanja": 5,
- "boost": 1.4
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }

@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-13T15:06:05.158544+00:00",
- "updated": "2026-11-13T15:06:05.158544+00:00",
+ "updated": "2026-11-13T19:19:13.474959+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1169597/dragan-j-vucicevic-blokaderi-studentska-lista",
    "title": "Vučićević otkrio najnovije šok informacije: Pitali smo Studentsku listu zašto odlaže formiranje vlade - ovako su nam odgovorili (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=_hBUh0ZCPEA",
+   "title": "Vučić: Ne žuri im se da formiraju Vladu",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
-  "Vučićević otkrio najnovije šok informacije: Pitali smo Studentsku listu zašto odlaže formiranje vlade - ovako su nam odgovorili (VIDEO)"
+  "Vučićević otkrio najnovije šok informacije: Pitali smo Studentsku listu zašto odlaže formiranje vlade - ovako su nam odgovorili (VIDEO)",
+  "Vučić: Ne žuri im se da formiraju Vladu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata_2.jpg",
   "alt": "Informer: Studentska lista neće učestvovati u programu Informer TV-a"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

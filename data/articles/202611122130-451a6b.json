@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T20:30:18.520161+00:00",
- "updated": "2026-11-13T17:20:04.848147+00:00",
+ "updated": "2026-11-13T19:19:13.474959+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -295,6 +295,12 @@
    "url": "https://n1info.rs/english/news/student-list-sns-differ-on-new-parliament/",
    "title": "Student List, SNS differ on new parliament",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1670943/bez-dogovora-funkcijama-parlamentu-predsednik-broj-potpredsednika-njihova-imena-bice-izglasani-samoj-sednici",
+   "title": "BEZ DOGOVORA O FUNKCIJAMA U PARLAMENTU SL: Predsednik, broj potpredsednika i njihova imena biće izglasani na samoj sednici",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -341,7 +347,8 @@
   "Vučić: Postoje ljudi koji su glasali za Studentsku listu, ali ne žele haos, nestabilnost u Srbiji",
   "Ko je Mario Reljanović, predstavnik Studentske liste na konsultacijama u Skupštini?",
   "Studenti počeli diplomatske razgovore: Koga ne treba da zaobiđu?",
-  "Student List, SNS differ on new parliament"
+  "Student List, SNS differ on new parliament",
+  "BEZ DOGOVORA O FUNKCIJAMA U PARLAMENTU SL: Predsednik, broj potpredsednika i njihova imena biće izglasani na samoj sednici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -354,7 +361,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Studentska lista na konsultacijama pred konstitutivnu sednicu, bez političkih dogovora"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-13T16:05:38.576057+00:00",
  "verzija": 8
