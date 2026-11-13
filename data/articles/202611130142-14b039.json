@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T00:42:44.751098+00:00",
- "updated": "2026-11-13T00:42:44.751098+00:00",
+ "updated": "2026-11-13T18:19:36.713290+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,11 +43,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4432141-rute-obecao-pomoc-zelenskom-ukrajina-trazi-rakete-pac-2-i-pac-3",
    "title": "Rute obećao pomoć Zelenskom: Ukrajina traži rakete PAC-2 i PAC-3",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/284782/huti-lansirali-balisticku-raketu-na-jemen/vest",
+   "title": "Eksplozija; Balistička raketa je lansirana",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Zelenski razgovarao sa Ruteom o nedostatku raketa za PVO",
-  "Rute obećao pomoć Zelenskom: Ukrajina traži rakete PAC-2 i PAC-3"
+  "Rute obećao pomoć Zelenskom: Ukrajina traži rakete PAC-2 i PAC-3",
+  "Eksplozija; Balistička raketa je lansirana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_(31-12-2025)_(cropped).jpg",
   "osoba": "Volodimir Zelenski",
   "alt": "Zelenski i Rute u Dablinu razgovarali o nedostatku presretača za balističke rakete"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

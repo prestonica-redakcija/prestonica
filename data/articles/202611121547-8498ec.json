@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-12T14:47:00.844690+00:00",
- "updated": "2026-11-13T13:36:36.575897+00:00",
+ "updated": "2026-11-13T18:19:36.713290+00:00",
  "sources": [
   {
    "name": "N1",
@@ -108,6 +108,12 @@
    "url": "https://www.kurir.rs/crna-hronika/10161192/identifikovano-6-osoba-koje-su-pretile-brankici-stankovic",
    "title": "IDENTIFIKOVANO 6 OSOBA KOJE SU PRETILE NOVINARKI NA UTAKMICI PARTIZAN-MAKABI: Glavni tužilac Stefanović potvrdio da je otkriveno ko je skandirao sa tribina",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/anem-nedopustivo-relativizovanje-pretnji-brankici-stankovic-nove-optuzbe-od-strane-veruovica/",
+   "title": "ANEM: Nedopustivo relativizovanje pretnji Brankici Stanković, nove optužbe od strane Veruovića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -123,7 +129,8 @@
   "Identifikovano pet osumnjičenih za pretnje novinarki Brankici Stanković",
   "Identifikovano pet osumnjičenih za pretnje novinarki Brankici Stanković",
   "VJT: Identifikovano pet lica koja su 6. novembra u Areni skandiranjem uputila pretnje Brankici Stanković",
-  "IDENTIFIKOVANO 6 OSOBA KOJE SU PRETILE NOVINARKI NA UTAKMICI PARTIZAN-MAKABI: Glavni tužilac Stefanović potvrdio da je otkriveno ko je skandirao sa tribina"
+  "IDENTIFIKOVANO 6 OSOBA KOJE SU PRETILE NOVINARKI NA UTAKMICI PARTIZAN-MAKABI: Glavni tužilac Stefanović potvrdio da je otkriveno ko je skandirao sa tribina",
+  "ANEM: Nedopustivo relativizovanje pretnji Brankici Stanković, nove optužbe od strane Veruovića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -136,7 +143,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Brankica_Stankovi%C4%87_(cropped).jpg",
   "alt": "Pretnje Brankici Stanković: Matić traži da se i druge prijave procesuiraju"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-13T13:21:48.977057+00:00",
  "verzija": 3

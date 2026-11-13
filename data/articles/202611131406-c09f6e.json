@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T13:06:51.847616+00:00",
- "updated": "2026-11-13T13:06:51.847616+00:00",
+ "updated": "2026-11-13T18:19:36.713290+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,11 +43,18 @@
    "url": "https://www.novosti.rs/vesti/politika/1670816/vucic-podelio-lose-vesti-portugalski-investitor-odustao-srbije-kao-veoma-vazna-firma-ekspa",
    "title": "VUČIĆ PODELIO LOŠE VESTI: Portugalski investitor odustao od Srbije, kao i veoma važna firma od Ekspa",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/vucic-portugalski-investitor-odustaje-od-backe-topole-kao-i-jedna-vazna-firma-od-ekspa/",
+   "title": "Vučić: Portugalski investitor odustaje od Bačke Topole, kao i jedna važna firma od Ekspa",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Vučić: Odustaje portugalski investitor od Bačke Topole, kao i veoma važna firma od Ekspa",
-  "VUČIĆ PODELIO LOŠE VESTI: Portugalski investitor odustao od Srbije, kao i veoma važna firma od Ekspa"
+  "VUČIĆ PODELIO LOŠE VESTI: Portugalski investitor odustao od Srbije, kao i veoma važna firma od Ekspa",
+  "Vučić: Portugalski investitor odustaje od Bačke Topole, kao i jedna važna firma od Ekspa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Koncertna_sala_muzi%C4%8Dke_%C5%A1kole,_Ba%C4%8Dka_Topola_1000018228.jpg",
   "alt": "Vučić tvrdi da portugalski investitor i jedna firma za Ekspo 2027 odustaju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

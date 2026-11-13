@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T09:49:14.445596+00:00",
- "updated": "2026-11-13T17:49:53.400888+00:00",
+ "updated": "2026-11-13T18:19:36.713290+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -262,6 +262,12 @@
    "url": "https://www.b92.net/biz/srbija/vesti/284766/produzeno-radno-vreme-postanske-stedionice-16450-klijenata-alta-banke-ceka-isplatu-depozita/vest",
    "title": "Produženo radno vreme Poštanske štedionice: 16.450 klijenata Alta banke čeka isplatu depozita",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/284781/imate-novac-u-alta-banci-a-nemate-papire-od-ponedeljka-mozete-resiti-problem/vest",
+   "title": "Imate novac u Alta banci, a nemate papire? Od ponedeljka možete rešiti problem",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -303,7 +309,8 @@
   "U Alta banku po potvrdu: Šta da rade građani koji nemaju originalnu dokumentaciju o depozitu u banci u stečaju",
   "Izdavanje potvrda o posedovanju računa u Alta banci u stečaju od 16. novembra",
   "HBO Original dokumentarna serija „U potrazi za istinom“ od 13. novembra na HBO Max",
-  "Produženo radno vreme Poštanske štedionice: 16.450 klijenata Alta banke čeka isplatu depozita"
+  "Produženo radno vreme Poštanske štedionice: 16.450 klijenata Alta banke čeka isplatu depozita",
+  "Imate novac u Alta banci, a nemate papire? Od ponedeljka možete rešiti problem"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -315,7 +322,7 @@
   "local": true,
   "alt": "Za isplatu osiguranih depozita Alta banke prijavilo se 7.713 korisnika za 12 sati"
  },
- "novo_od_pisanja": 12,
+ "novo_od_pisanja": 13,
  "boost": 1.6,
  "prepisano": "2026-11-13T08:39:01.965066+00:00",
  "verzija": 7

@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T13:51:32.851440+00:00",
- "updated": "2026-11-13T13:51:32.851440+00:00",
+ "updated": "2026-11-13T18:19:36.713290+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -38,11 +38,18 @@
    "url": "https://www.kurir.rs/crna-hronika/10161265/teska-nesreca-na-gradilistu-u-kaludjerici",
    "title": "RADNIK PAO SA 16 METARA VISINE ZBOG VETRA: Podigla se tabla na krovu i oborila muškarca - stravična nesreća u Kaluđerici!",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/radnik-pao-sa-visine-od-16-metara-na-gradilistu-u-kaludjerici/",
+   "title": "Radnik pao sa visine od 16 metara na gradilištu u Kaluđerici",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Nesreća na gradilištu u Kaluđerici: Vetar podigao tablu, ona udarila radnika i srušila ga sa krova",
-  "RADNIK PAO SA 16 METARA VISINE ZBOG VETRA: Podigla se tabla na krovu i oborila muškarca - stravična nesreća u Kaluđerici!"
+  "RADNIK PAO SA 16 METARA VISINE ZBOG VETRA: Podigla se tabla na krovu i oborila muškarca - stravična nesreća u Kaluđerici!",
+  "Radnik pao sa visine od 16 metara na gradilištu u Kaluđerici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Kaludjerica_pan2.jpg",
   "alt": "Radnik pao sa krova gradilišta u Kaluđerici nakon što ga je udarila tabla koju je podigao vetar"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
