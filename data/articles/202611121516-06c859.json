@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T14:16:59.680947+00:00",
- "updated": "2026-11-13T10:38:03.147222+00:00",
+ "updated": "2026-11-13T16:50:11.906964+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -83,6 +83,12 @@
    "url": "https://www.tanjug.rs/svet/hronika/297464/u-ruskom-napadu-na-odesu-poginule-dve-zene-sedam-osoba-povredeno/vest",
    "title": "U ruskom napadu na Odesu poginule dve žene, sedam osoba povređeno",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/284759/pucnjava-u-vasingtonu-lekar-ubio-upravnika-zgrade/vest",
+   "title": "Novi detalji krvavog napada u Vašingtonu: Otkriveno ko stoji iza pucnjave kod Bele kuće FOTO/VIDEO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -94,7 +100,8 @@
   "Dve osobe poginule, četiri povređene u pucnjavi u Vašingtonu",
   "Pucnjava u blizini Bele kuće: Jedna osoba poginula, četiri povređene",
   "Tinejdžer poginuo u ruskom napadu na Zaporožje, povređene četiri osobe",
-  "U ruskom napadu na Odesu poginule dve žene, sedam osoba povređeno"
+  "U ruskom napadu na Odesu poginule dve žene, sedam osoba povređeno",
+  "Novi detalji krvavog napada u Vašingtonu: Otkriveno ko stoji iza pucnjave kod Bele kuće FOTO/VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -106,8 +113,8 @@
   "local": true,
   "alt": "Pucnjava u Vašingtonu: četiri osobe ranjene u Logan Serklu, 1,6 km od Bele kuće"
  },
- "novo_od_pisanja": 2,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-12T16:46:08.736742+00:00",
  "verzija": 2
 }
