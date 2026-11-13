@@ -2162,12 +2162,6 @@
  "fokus": [],
  "runs": [
   {
-   "vreme": "2026-11-12T12:50+00:00",
-   "novih": 8,
-   "ukupno": 444,
-   "sekundi": 147.8
-  },
-  {
    "vreme": "2026-11-12T13:05+00:00",
    "novih": 7,
    "ukupno": 451,
@@ -2520,6 +2514,12 @@
    "novih": 0,
    "ukupno": 651,
    "sekundi": 55.4
+  },
+  {
+   "vreme": "2026-11-13T03:42+00:00",
+   "novih": 0,
+   "ukupno": 651,
+   "sekundi": 36.2
   }
  ],
  "licnosti_foto": {
@@ -4988,7 +4988,7 @@
    ]
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
