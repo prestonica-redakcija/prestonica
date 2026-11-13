@@ -537,13 +537,17 @@
     if (!mq.matches) return;
     var mb = Math.max(0, m.getBoundingClientRect().bottom), vh = window.innerHeight, gw = (de.clientWidth - 1240) / 2;
     var px = Math.min(24, window.scrollY * 0.02), tiny = false;
-    de.style.setProperty("--es", Math.max(0.72, Math.min(1.3, gw / 300)).toFixed(3));
+    var er = m.querySelector(".m-ear-r"), ew = (er && er.offsetWidth) || 260, es = Math.min(1.3, (gw - 72) / ew);
+    de.style.setProperty("--es", Math.max(es, 0.5).toFixed(3));
+    m.classList.toggle("ear-off", es < 0.5);
     for (var i = 0; i < sides.length; i++) {
       var s = sides[i], h = s.offsetHeight || 1, sc = Math.min((gw - 48) / 320, (vh - mb - 36) / h, 1.35);
       if (sc < 0.58) tiny = true;
       sc = Math.max(sc, 0.58);
       s.style.setProperty("--gs", sc.toFixed(3));
       s.style.top = Math.round(mb + Math.max(18, (vh - mb - h * sc) / 2) + (i ? px * 0.5 : px)) + "px";
+      var cx = gw + 16 - 40 - 160 * sc;
+      s.style.left = Math.round(i ? de.clientWidth - cx : cx) + "px";
     }
     g.classList.toggle("g-tiny", tiny);
   }
