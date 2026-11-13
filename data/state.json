@@ -2163,18 +2163,17 @@
   "https://www.kurir.rs/zabava/zena/10160208/recept-za-norveske-palacinke": "2026-11-13T04:40:58.419429+00:00",
   "https://www.kurir.rs/vesti/beograd/10160035/bez-vode-danas-u-beogradu": "2026-11-13T04:40:58.419429+00:00",
   "https://www.kurir.rs/vesti/beograd/10160053/bez-struje-danas-u-beogradu": "2026-11-13T04:55:54.853892+00:00",
-  "https://n1info.rs/vesti/na-danasnji-dan-13-novembra-11-2026/": "2026-11-13T05:10:46.186274+00:00"
+  "https://n1info.rs/vesti/na-danasnji-dan-13-novembra-11-2026/": "2026-11-13T05:10:46.186274+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4432155-institut-za-transfuziju-krvi-apeluje-na-gradjane-da-daju-krv-rezerve-i-dalje-smanjene": "2026-11-13T05:25:39.047493+00:00",
+  "https://www.telegraf.rs/4432156-u-skupstini-srbije-danas-konsultacije-uoci-konstitutivne-sednice": "2026-11-13T05:25:39.047493+00:00",
+  "https://www.kurir.rs/vesti/srbija/10160157/po-povratku-iz-kanade-prave-svece-s-mirisom-pite-od-jabuka": "2026-11-13T05:25:39.047493+00:00",
+  "https://www.kurir.rs/stars/10160417/ceca-raznatovic-se-smrzava-na-snimanju-zvezda-granda": "2026-11-13T05:25:39.047493+00:00",
+  "https://www.kurir.rs/vesti/srbija/10160276/kilogram-guscje-jetre-50-evra": "2026-11-13T05:25:39.047493+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-12T14:34+00:00",
-   "novih": 8,
-   "ukupno": 489,
-   "sekundi": 150.2
-  },
   {
    "vreme": "2026-11-12T14:49+00:00",
    "novih": 7,
@@ -2528,6 +2527,12 @@
    "novih": 0,
    "ukupno": 654,
    "sekundi": 44.2
+  },
+  {
+   "vreme": "2026-11-13T05:26+00:00",
+   "novih": 1,
+   "ukupno": 655,
+   "sekundi": 74.9
   }
  ],
  "licnosti_foto": {
@@ -5078,7 +5083,7 @@
    },
    "ininic": {
     "since_id": "2121015726131535915",
-    "t": 1794544898.1488817
+    "t": 1794547589.00377
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -5086,7 +5091,7 @@
    },
    "sviublokade_fdu": {
     "since_id": "2120560395492495772",
-    "t": 1794544898.1488817
+    "t": 1794547589.00377
    },
    "dragandjilas": {
     "since_id": null,
@@ -5134,11 +5139,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1794544898.1488817
+    "t": 1794547589.00377
    },
    "studentblokade": {
     "since_id": "2120988605036286437",
-    "t": 1794544898.1488817
+    "t": 1794547589.00377
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -5214,55 +5219,55 @@
    },
    "srdjanmil037": {
     "since_id": "2120749869757305219",
-    "t": 1794544898.1488817
+    "t": 1794547589.00377
    },
    "zoranlutovac": {
     "since_id": "2120963250930221562",
-    "t": 1794544898.1488817
+    "t": 1794547589.00377
    },
    "pajticbojan": {
     "since_id": null,
-    "t": 1794544898.1488817
+    "t": 1794547589.00377
    },
    "n_zelenovic": {
     "since_id": null,
-    "t": 1794544898.1488817
+    "t": 1794547589.00377
    },
    "boskoobradovic": {
     "since_id": null,
-    "t": 1794544898.1488817
+    "t": 1794547589.00377
    },
    "sasaradulovich": {
     "since_id": null,
-    "t": 1794544898.1488817
+    "t": 1794547589.00377
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1794544898.1488817
+    "t": 1794547589.00377
    },
    "zaklina_prva": {
     "since_id": "2120990644974084444",
-    "t": 1794544898.1488817
+    "t": 1794547589.00377
    },
    "stevanoccrp": {
     "since_id": "2120980122807505008",
-    "t": 1794544898.1488817
+    "t": 1794547589.00377
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1794544898.1488817
+    "t": 1794547589.00377
    },
    "igorbrakus": {
     "since_id": null,
-    "t": 1794544898.1488817
+    "t": 1794547589.00377
    },
    "radoholicar": {
     "since_id": null,
-    "t": 1794544898.1488817
+    "t": 1794547589.00377
    },
    "borakonj": {
     "since_id": "2121032262989066282",
-    "t": 1794544898.1488817
+    "t": 1794547589.00377
    },
    "narodnipokrets": {
     "since_id": "2120601957350195572",
@@ -15076,6 +15081,191 @@
      "credit": "Wikimedia Commons / Gmihail at Serbian Wikipedia / CC BY-SA 4.0",
      "link": "https://commons.wikimedia.org/wiki/File:Vozdovac_park,May_2010.jpg",
      "naslov": "Vozdovac park,May 2010.jpg"
+    }
+   ]
+  },
+  "t:ostojicevo": {
+   "t": 1794547580.884582,
+   "items": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ostoji%C4%87evo%2C_Orthodox_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1024,
+     "h": 768,
+     "god": 2006,
+     "credit": "Wikimedia Commons / No machine-readable author provided. Sors bona assumed (base / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_Orthodox_Church.jpg",
+     "naslov": "Ostojićevo, Orthodox Church.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Ostoji%C4%87evo%2C_ulica_Sin%C4%91eli%C4%87eva.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Sin%C4%91eli%C4%87eva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5849,
+     "h": 3899,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Sin%C4%91eli%C4%87eva.jpg",
+     "naslov": "Ostojićevo, ulica Sinđelićeva.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_03.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6000,
+     "h": 4000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Mar%C5%A1ala_Tita_03.jpg",
+     "naslov": "Ostojićevo, ulica Maršala Tita 03.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_04.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6000,
+     "h": 4000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Mar%C5%A1ala_Tita_04.jpg",
+     "naslov": "Ostojićevo, ulica Maršala Tita 04.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ostoji%C4%87evo%2C_ulica_Slova%C4%8Dka.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Slova%C4%8Dka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6000,
+     "h": 4000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Slova%C4%8Dka.jpg",
+     "naslov": "Ostojićevo, ulica Slovačka.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_01.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6000,
+     "h": 4000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Mar%C5%A1ala_Tita_01.jpg",
+     "naslov": "Ostojićevo, ulica Maršala Tita 01.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_05.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6000,
+     "h": 4000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Mar%C5%A1ala_Tita_05.jpg",
+     "naslov": "Ostojićevo, ulica Maršala Tita 05.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_02.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6000,
+     "h": 4000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Mar%C5%A1ala_Tita_02.jpg",
+     "naslov": "Ostojićevo, ulica Maršala Tita 02.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Ostoji%C4%87evo%2C_ulica_Nemanjina_%281%29.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Nemanjina_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6000,
+     "h": 4000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Nemanjina_(1).jpg",
+     "naslov": "Ostojićevo, ulica Nemanjina (1).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Ostoji%C4%87evo%2C_ulica_Kosovska.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Kosovska.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6000,
+     "h": 4000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Kosovska.jpg",
+     "naslov": "Ostojićevo, ulica Kosovska.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ostoji%C4%87evo%2C_ulica_Hajduk_Veljka.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Hajduk_Veljka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6000,
+     "h": 4000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Hajduk_Veljka.jpg",
+     "naslov": "Ostojićevo, ulica Hajduk Veljka.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Ostoji%C4%87evo%2C_ulica_Nemanjina_%282%29.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Nemanjina_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6000,
+     "h": 4000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Nemanjina_(2).jpg",
+     "naslov": "Ostojićevo, ulica Nemanjina (2).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_06.jpg/1920px-Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6000,
+     "h": 4000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s,_vas%C3%BAt%C3%A1llom%C3%A1s_06.jpg",
+     "naslov": "Ostojićevo, železnička stanica - Tiszaszentmiklós, vasútállomás 06.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_05.jpg/1920px-Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6000,
+     "h": 4000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s,_vas%C3%BAt%C3%A1llom%C3%A1s_05.jpg",
+     "naslov": "Ostojićevo, železnička stanica - Tiszaszentmiklós, vasútállomás 05.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_01.jpg/1920px-Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5967,
+     "h": 4000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s,_vas%C3%BAt%C3%A1llom%C3%A1s_01.jpg",
+     "naslov": "Ostojićevo, železnička stanica - Tiszaszentmiklós, vasútállomás 01.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_03.jpg/1920px-Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6000,
+     "h": 4000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s,_vas%C3%BAt%C3%A1llom%C3%A1s_03.jpg",
+     "naslov": "Ostojićevo, železnička stanica - Tiszaszentmiklós, vasútállomás 03.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_02.jpg/1920px-Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6000,
+     "h": 4000,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s,_vas%C3%BAt%C3%A1llom%C3%A1s_02.jpg",
+     "naslov": "Ostojićevo, železnička stanica - Tiszaszentmiklós, vasútállomás 02.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ostoji%C4%87evo%2C_Slovak_Evangelical_church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1024,
+     "h": 768,
+     "god": 2006,
+     "credit": "Wikimedia Commons / No machine-readable author provided. Sors bona assumed (base / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_Slovak_Evangelical_church.jpg",
+     "naslov": "Ostojićevo, Slovak Evangelical church.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Srpska_pravoslavna_crkva_Svetog_Nikole%2C_Ostoji%C4%87evo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1061,
+     "h": 1194,
+     "god": 2026,
+     "credit": "Wikimedia Commons / Maricarmen87 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Srpska_pravoslavna_crkva_Svetog_Nikole,_Ostoji%C4%87evo.jpg",
+     "naslov": "Srpska pravoslavna crkva Svetog Nikole, Ostojićevo.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D1%85%D1%83%D0%BC%D0%BA%D0%B0_%D0%9E%D1%81%D1%82%D0%BE%D1%98%D0%B8%D1%9B%D0%B5%D0%B2%D0%BE%2C_%D0%BD%D0%B0_%D1%85%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82%D1%83.jpg/1920px-%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D1%85%D1%83%D0%BC%D0%BA%D0%B0_%D0%9E%D1%81%D1%82%D0%BE%D1%98%D0%B8%D1%9B%D0%B5%D0%B2%D0%BE%2C_%D0%BD%D0%B0_%D1%85%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82%D1%83.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2163,
+     "h": 1553,
+     "god": 2016,
+     "credit": "Wikimedia Commons / Jozefsu / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D1%85%D1%83%D0%BC%D0%BA%D0%B0_%D0%9E%D1%81%D1%82%D0%BE%D1%98%D0%B8%D1%9B%D0%B5%D0%B2%D0%BE,_%D0%BD%D0%B0_%D1%85%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82%D1%83.jpg",
+     "naslov": "Велика хумка Остојићево, на хоризонту.jpg"
     }
    ]
   }

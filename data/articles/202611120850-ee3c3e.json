@@ -40,7 +40,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T07:50:05.866973+00:00",
- "updated": "2026-11-12T07:50:05.866973+00:00",
+ "updated": "2026-11-13T05:25:39.047493+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -59,11 +59,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4431559-institut-za-transfuziju-krvi-apeluje-na-gradjane-da-daju-krv-rezerve-i-dalje-smanjene",
    "title": "Institut za transfuziju krvi apeluje na građane da daju krv, rezerve i dalje smanjene",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4432155-institut-za-transfuziju-krvi-apeluje-na-gradjane-da-daju-krv-rezerve-i-dalje-smanjene",
+   "title": "Institut za transfuziju krvi apeluje na građane da daju krv, rezerve i dalje smanjene",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Institut za transfuziju krvi apeluje na građane da daju krv, rezerve i dalje smanjene",
   "Institut za transfuziju krvi apeluje na građane da daju krv: Najviše nedostaje nulta krvna grupa",
+  "Institut za transfuziju krvi apeluje na građane da daju krv, rezerve i dalje smanjene",
   "Institut za transfuziju krvi apeluje na građane da daju krv, rezerve i dalje smanjene"
  ],
  "author": "Redakcija Prestonice",
@@ -75,5 +82,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Institut za transfuziju krvi: rezerve dvodnevne, najviše nedostaje nulta krvna grupa"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
