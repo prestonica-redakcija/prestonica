@@ -63,6 +63,7 @@ jobs:
           X_API_SECRET: ${{ secrets.X_API_SECRET }}
           X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
           X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          UREDNICKA_PRAVILA: ${{ secrets.UREDNICKA_PRAVILA }}
           MAX_VESTI: ${{ github.event.inputs.max_vesti }}
         run: |
           if [ -n "$MAX_VESTI" ]; then python -m engine.run --max "$MAX_VESTI"; else python -m engine.run; fi
