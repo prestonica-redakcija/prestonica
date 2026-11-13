@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T09:49:14.445596+00:00",
- "updated": "2026-11-13T16:20:29.263638+00:00",
+ "updated": "2026-11-13T16:35:21.948288+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -202,6 +202,12 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1670893/oglasila-agencija-osiguranje-depozita-16-novembra-pocinje-izdavanje-potvrda-isplatu-deponenata-alta-banke-stecaju",
    "title": "OGLASILA SE AGENCIJA ZA OSIGURANjE DEPOZITA: Od 16. novembra počinje izdavanje potvrda za isplatu deponenata Alta banke u stečaju",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/251975/alta-banka-od-ponedeljka-izdavanje-potvrda-za-isplatu-novca/vest",
+   "title": "Imate novac u Alta banci, a nemate papire? Od ponedeljka počinje izdavanje ključnih potvrda za isplatu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -233,7 +239,8 @@
   "Vodič za klijente Alta banke u stečaju: Kako do 50.000 evra i šta čeka one koji su na računima imali više",
   "14.500 građana već povuklo prvi potez: Evo do kada možete da tražite novac iz Alta banke",
   "Agencija za osiguranje depozita: Od ponedeljka izdavanje potvrda o otvaranju računa u Alta banci u stečaju",
-  "OGLASILA SE AGENCIJA ZA OSIGURANjE DEPOZITA: Od 16. novembra počinje izdavanje potvrda za isplatu deponenata Alta banke u stečaju"
+  "OGLASILA SE AGENCIJA ZA OSIGURANjE DEPOZITA: Od 16. novembra počinje izdavanje potvrda za isplatu deponenata Alta banke u stečaju",
+  "Imate novac u Alta banci, a nemate papire? Od ponedeljka počinje izdavanje ključnih potvrda za isplatu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -245,7 +252,7 @@
   "local": true,
   "alt": "Za isplatu osiguranih depozita Alta banke prijavilo se 7.713 korisnika za 12 sati"
  },
- "novo_od_pisanja": 2,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-13T08:39:01.965066+00:00",
  "verzija": 7

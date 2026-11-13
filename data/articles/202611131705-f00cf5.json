@@ -32,7 +32,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T16:05:38.576057+00:00",
- "updated": "2026-11-13T16:05:38.576057+00:00",
+ "updated": "2026-11-13T16:35:21.948288+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -45,11 +45,18 @@
    "url": "https://www.kurir.rs/sport/fudbal/10161249/poketino-i-zvanicno-novi-trener-mancester-junajteda",
    "title": "PRED NJIM JE PAKLEN ZADATAK! Sada je i zvanično - Poketino je novi trener Mančester junajteda!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/sport/fudbal/10161510/kerik-se-oprostio-od-junajteda",
+   "title": "KERIK SE OPROSTIO OD JUNAJTEDA: Od sada ću biti uz vas sa strane...",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Maurisio Poketino preuzeo Mančester junajted, oproštaj od Amerike u suzama",
-  "PRED NJIM JE PAKLEN ZADATAK! Sada je i zvanično - Poketino je novi trener Mančester junajteda!"
+  "PRED NJIM JE PAKLEN ZADATAK! Sada je i zvanično - Poketino je novi trener Mančester junajteda!",
+  "KERIK SE OPROSTIO OD JUNAJTEDA: Od sada ću biti uz vas sa strane..."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Poketino od 18. novembra trener Mančester junajteda, menja smenjenog Kerika"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

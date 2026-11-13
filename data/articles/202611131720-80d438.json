@@ -32,17 +32,24 @@
  ],
  "importance": 5,
  "published": "2026-11-13T16:20:29.263638+00:00",
- "updated": "2026-11-13T16:20:29.263638+00:00",
+ "updated": "2026-11-13T16:35:21.948288+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10161481/dozivotna-kazna-zatvora-za-ubistvo-penzionera-u-zatvoru-padinska-skela",
    "title": "UBICA PENZIONERA U ZATVORU PADINSKA SKELA OSUĐEN NA DOŽIVOTNU ROBIJU! Stanimira brutalno tukli i zlostavljali, nesrećni starac preminuo u ćeliji",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4432623-dozivotna-za-zversko-ubistvo-u-celiji-preinacena-presuda-za-horor-u-padinskoj-skeli-sud-nema-milosti",
+   "title": "DOŽIVOTNA ZA ZVERSKO UBISTVO U ĆELIJI! Preinačena presuda za horor u Padinskoj Skeli, sud nema milosti!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "UBICA PENZIONERA U ZATVORU PADINSKA SKELA OSUĐEN NA DOŽIVOTNU ROBIJU! Stanimira brutalno tukli i zlostavljali, nesrećni starac preminuo u ćeliji"
+  "UBICA PENZIONERA U ZATVORU PADINSKA SKELA OSUĐEN NA DOŽIVOTNU ROBIJU! Stanimira brutalno tukli i zlostavljali, nesrećni starac preminuo u ćeliji",
+  "DOŽIVOTNA ZA ZVERSKO UBISTVO U ĆELIJI! Preinačena presuda za horor u Padinskoj Skeli, sud nema milosti!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Doživotni zatvor za ubistvo penzionera u Padinskoj skeli, saopštio Apelacioni sud"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

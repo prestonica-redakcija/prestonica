@@ -2938,18 +2938,23 @@
   "https://www.kurir.rs/stars/10161487/zivot-nadice-ademov-pre-para": "2026-11-13T16:20:29.263638+00:00",
   "https://www.kurir.rs/zabava/zanimljivosti/10161441/ovo-se-nikako-ne-radi-na-petak-13-narodna-verovanja": "2026-11-13T16:20:29.263638+00:00",
   "https://www.kurir.rs/crna-hronika/10161481/dozivotna-kazna-zatvora-za-ubistvo-penzionera-u-zatvoru-padinska-skela": "2026-11-13T16:20:29.263638+00:00",
-  "https://www.kurir.rs/crna-hronika/10161463/vozac-uleteo-u-apoteku-u-kikindi": "2026-11-13T16:20:29.263638+00:00"
+  "https://www.kurir.rs/crna-hronika/10161463/vozac-uleteo-u-apoteku-u-kikindi": "2026-11-13T16:20:29.263638+00:00",
+  "https://www.telegraf.rs/vesti/hronika/4432623-dozivotna-za-zversko-ubistvo-u-celiji-preinacena-presuda-za-horor-u-padinskoj-skeli-sud-nema-milosti": "2026-11-13T16:35:21.948288+00:00",
+  "https://www.kurir.rs/sport/fudbal/10161510/kerik-se-oprostio-od-junajteda": "2026-11-13T16:35:21.948288+00:00",
+  "https://www.euronews.rs/biznis/biznis-vesti/251975/alta-banka-od-ponedeljka-izdavanje-potvrda-za-isplatu-novca/vest": "2026-11-13T16:35:21.948288+00:00",
+  "https://www.kurir.rs/planeta/10161516/rusija-iznenadjena-najavom-da-ce-se-evropa-ukljuciti-u-pregovore-o-ukrajini": "2026-11-13T16:35:21.948288+00:00",
+  "https://www.danas.rs/vesti/drustvo/uns-vise-desetina-novinara-republike-ostalo-bez-posla/": "2026-11-13T16:35:21.948288+00:00",
+  "https://n1info.rs/vesti/uns-desetine-radnika-republikers-ostalo-bez-posla-zbog-neizmirenih-obaveza-klijenata-koji-su-poslovali-sa-alta-bankom/": "2026-11-13T16:35:21.948288+00:00",
+  "https://n1info.rs/vesti/radnice-firme-valy-razocarane-ponudama-za-novi-posao-koja-majka-moze-cetiri-sata-dnevno-da-provede-u-putu/": "2026-11-13T16:35:21.948288+00:00",
+  "https://www.tanjug.rs/svet/politika/297569/turska-i-katar-potpisali-sporazum-o-medusobnoj-odbrani-i-jos-cetiri-sporazuma/vest": "2026-11-13T16:35:21.948288+00:00",
+  "https://www.b92.net/info/svet/284758/turska-i-katar-potpisali-sporazum-o-medjunarodnoj-odbrani/vest": "2026-11-13T16:35:21.948288+00:00",
+  "https://www.kurir.rs/crna-hronika/10161512/u-skadru-uhapsen-bivsi-policajac-blizak-skaljarskom-klanu": "2026-11-13T16:35:21.948288+00:00",
+  "https://www.novosti.rs/ekonomija/vesti/1670897/odlican-posao-penzionere-evo-koliko-mozete-zaradite-dzempera-vunice": "2026-11-13T16:35:21.948288+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-13T01:42+00:00",
-   "novih": 0,
-   "ukupno": 650,
-   "sekundi": 38.3
-  },
   {
    "vreme": "2026-11-13T01:58+00:00",
    "novih": 0,
@@ -3303,6 +3308,12 @@
    "novih": 4,
    "ukupno": 897,
    "sekundi": 149.3
+  },
+  {
+   "vreme": "2026-11-13T16:37+00:00",
+   "novih": 4,
+   "ukupno": 901,
+   "sekundi": 112.5
   }
  ],
  "licnosti_foto": {
@@ -3560,7 +3571,7 @@
    "live": "live",
    "desc": "Ukoliko imate želju da podržite rad produkcije \"SRBIN.info\",  i „Centar”, donacije možete da uplatite i na sledeći način:\nU DINARIMA\n200-40751866-23 Banka Poštanska štedionica\n200-2623780101018-40 Banka Poštanska štedionica\n\nili putem PayPal ili Internet ili Kreditne karice:\nhttps://doniraj.srbin.info/ - UKOLIKO STE IZ SRBIJE\n\nU DEVIZAMA:\nIBAN: RS35200262378010100385, \nSWIFT: SBPORSBG,\n\nili putem PayPal ili Internet ili Kreditne karice:\nhttps://shop.srbin.info/en-eur - UKOLIKO STE IZ INOSTRANSTVA\n\nJednokratno ili mesečnom pretplatom:\nhttps://bit.ly/srbininfo-coffee\nKorisnik: Nibrs d.o.o\nSvrha uplate: Donacija za Srbin.info; \n\nMesečnom pretplatom, kliknite na linkove \n------------------------",
    "spektar": "desnica",
-   "viewers": "129",
+   "viewers": "134",
    "naslov": "Uživo: prof. Antović o tvrdnji da medicinske fakultete treba zatvoriti na dan",
    "opis": "U prenosu uživo na kanalu Srbin.info gostuje profesor Antović. Prema naslovu snimka, tema je njegov stav o medicinskim fakultetima, uz tvrdnju da bi ih trebalo zatvoriti na dan.",
    "tekst": [
@@ -5841,7 +5852,7 @@
    ]
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -5915,15 +5926,15 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2120953223146062007",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "parandilovicnls": {
     "since_id": "2120879796175679649",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "ininic": {
     "since_id": "2121206808324813214",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -5931,59 +5942,59 @@
    },
    "sviublokade_fdu": {
     "since_id": "2120560395492495772",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "dragandjilas": {
     "since_id": null,
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "marinikatepic": {
     "since_id": null,
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "bibislav": {
     "since_id": "2121264606609838574",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "savomanojlovic": {
     "since_id": "2120927384484634735",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "zdravkoponos": {
     "since_id": null,
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "pavlegrbovic": {
     "since_id": "2121225264826880020",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "avucic": {
-    "since_id": "2121269883589804331",
-    "t": 1794585196.5655284
+    "since_id": "2121275535233888501",
+    "t": 1794587799.7802258
    },
    "anabrnabic": {
     "since_id": "2121262394538119408",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "milos_vucevic": {
     "since_id": "2121200499131388075",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "sns_srbija": {
-    "since_id": "2121259029703827798",
-    "t": 1794585196.5655284
+    "since_id": "2121280930656723010",
+    "t": 1794587799.7802258
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "studentblokade": {
     "since_id": "2121235052155543772",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -6019,39 +6030,39 @@
    },
    "markodjuric": {
     "since_id": null,
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "nstarovic": {
     "since_id": null,
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "milenkojovanov": {
     "since_id": null,
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "acasapic": {
     "since_id": null,
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "borkostef": {
     "since_id": "2121178166140231682",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "dobrinacelnik": {
     "since_id": "2121176727812526140",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "jeremic_vuk": {
     "since_id": null,
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "boristadic58": {
     "since_id": null,
@@ -6059,59 +6070,59 @@
    },
    "srdjanmil037": {
     "since_id": "2121234128859209766",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "zoranlutovac": {
     "since_id": "2121174250610425880",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "pajticbojan": {
     "since_id": null,
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "n_zelenovic": {
     "since_id": "2121185851040248170",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "boskoobradovic": {
     "since_id": null,
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "sasaradulovich": {
     "since_id": "2121265202784035082",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "zaklina_prva": {
     "since_id": "2121231297439764713",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "stevanoccrp": {
     "since_id": "2120980122807505008",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "igorbrakus": {
     "since_id": null,
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "radoholicar": {
     "since_id": null,
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "borakonj": {
-    "since_id": "2121254351830192270",
-    "t": 1794585196.5655284
+    "since_id": "2121280639265554859",
+    "t": 1794587799.7802258
    },
    "narodnipokrets": {
     "since_id": "2120601957350195572",
-    "t": 1794585196.5655284
+    "t": 1794587799.7802258
    },
    "direktnors": {
     "since_id": "2121249098925834280",
@@ -6180,6 +6191,58 @@
   },
   "posts": [
    {
+    "id": "2121280930656723010",
+    "x": "sns_srbija",
+    "ime": "SNS",
+    "grupa": "vlast",
+    "uloga": "Srpska napredna stranka",
+    "text": "С лакоћом сте се одрекли најмоћнијег оружја које има Израел, с презиром говорите о НР Кини, не знате шта бисте рекли Европљанима. @avucic https://t.co/TchaatsxkM",
+    "published": "2026-11-13T16:36:00.000+00:00",
+    "lajk": 0,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "SNS kritikuje opoziciju zbog spoljne politike, Izrael, Kina, EU"
+   },
+   {
+    "id": "2121280639265554859",
+    "x": "BoraKonj",
+    "ime": "Bora",
+    "grupa": "novinari",
+    "uloga": "",
+    "text": "Onaj što te jebo. https://t.co/7be1hxoJvK",
+    "published": "2026-11-13T16:34:50.000+00:00",
+    "lajk": 8,
+    "prikazi": false,
+    "rubrika": "drustvo",
+    "tema": "Uvreda bez sadržaja"
+   },
+   {
+    "id": "2121275535233888501",
+    "x": "avucic",
+    "ime": "Aleksandar Vučić",
+    "grupa": "vlast",
+    "uloga": "Predsednik Srbije",
+    "text": "Бићемо стуб стабилности, разума, дијалога, поштовања за све грађане Србије. https://t.co/duYXSRmbRL",
+    "published": "2026-11-13T16:14:33.000+00:00",
+    "lajk": 23,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić: Srbija kao stub stabilnosti, razuma i dijaloga"
+   },
+   {
+    "id": "2121273792840569193",
+    "x": "sns_srbija",
+    "ime": "SNS",
+    "grupa": "vlast",
+    "uloga": "Srpska napredna stranka",
+    "text": "Некада помислим да присуствујемо неком чудном експерименту, као да се неко завитлава са нама, док читам идеје наших \"нобеловаца\" и текстове препуне озбиљних наслова о томе шта се све планира. @avucic https://t.co/YURA5NGnA9",
+    "published": "2026-11-13T16:07:38.000+00:00",
+    "lajk": 11,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "SNS ironično o idejama opozicije i studentske liste"
+   },
+   {
     "id": "2121272327409168403",
     "x": "Bcenzure",
     "ime": "Bez Cenzure",
@@ -6191,6 +6254,19 @@
     "prikazi": true,
     "rubrika": "politika",
     "tema": "Komentar o ubedljivoj pobedi i Vučićevim manevrima"
+   },
+   {
+    "id": "2121270355092480386",
+    "x": "sns_srbija",
+    "ime": "SNS",
+    "grupa": "vlast",
+    "uloga": "Srpska napredna stranka",
+    "text": "Када су упали у кабинет градоначелнице Смедерева, најважније им је било да ухапсе моју слику. Драго ми је када видим да се плаше и моје слике. @avucic https://t.co/gvykFz0fT1",
+    "published": "2026-11-13T15:53:58.000+00:00",
+    "lajk": 8,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Upad u kabinet gradonačelnice Smedereva i hapšenje Vučićeve slike"
    },
    {
     "id": "2121269883589804331",
@@ -23733,6 +23809,145 @@
   "t:apelacioni sud u beogradu": {
    "t": 1794586945.8754635,
    "items": []
+  },
+  "t:republika rs": {
+   "t": 1794587747.9554415,
+   "items": []
+  },
+  "t:medijska mreza": {
+   "t": 1794587748.29487,
+   "items": []
+  },
+  "t:valjevo": {
+   "t": 1794587758.5223105,
+   "items": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/%D0%9F%D0%BE%D0%B3%D0%BB%D0%B5%D0%B4_%D0%BD%D0%B0_%D0%92%D0%B0%D1%99%D0%B5%D0%B2%D0%BE_-_Valjevo_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1638,
+     "h": 1229,
+     "god": 2011,
+     "credit": "Wikimedia Commons / Ant83 at Serbian Wikipedia / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%B3%D0%BB%D0%B5%D0%B4_%D0%BD%D0%B0_%D0%92%D0%B0%D1%99%D0%B5%D0%B2%D0%BE_-_Valjevo_view.JPG",
+     "naslov": "Поглед на Ваљево - Valjevo view.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Tupanci_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_21.jpg/1920px-Tupanci_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 5184,
+     "god": 2018,
+     "credit": "Wikimedia Commons / Vladimir Pecikoza / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Tupanci_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_21.jpg",
+     "naslov": "Tupanci - opština Valjevo - zapadna Srbija - panorama 21.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Selo_Gornja_Grabovica_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_2.jpg/1920px-Selo_Gornja_Grabovica_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 5184,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Vladimir Pecikoza / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Selo_Gornja_Grabovica_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_2.jpg",
+     "naslov": "Selo Gornja Grabovica - opština Valjevo - zapadna Srbija - panorama 2.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Valjevo_zeleznicka_stanica_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1200,
+     "h": 716,
+     "god": 1912,
+     "credit": "Wikimedia Commons / Unknown authorUnknown author / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Valjevo_zeleznicka_stanica_2.jpg",
+     "naslov": "Valjevo zeleznicka stanica 2.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Selo_Lopatanj_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_6.jpg/1920px-Selo_Lopatanj_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 5184,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Vladimir Pecikoza / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Selo_Lopatanj_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_6.jpg",
+     "naslov": "Selo Lopatanj - opština Valjevo - zapadna Srbija - panorama 6.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ulica_Kneza_Milosa%2C_Valjevo_PKIC_35.jpg/1920px-Ulica_Kneza_Milosa%2C_Valjevo_PKIC_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5472,
+     "h": 3648,
+     "god": 2015,
+     "credit": "Wikimedia Commons / Thruserbia / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ulica_Kneza_Milosa,_Valjevo_PKIC_35.jpg",
+     "naslov": "Ulica Kneza Milosa, Valjevo PKIC 35.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Monument_to_the_fighters_of_the_Revolution_in_Valjevo.jpg/1920px-Monument_to_the_fighters_of_the_Revolution_in_Valjevo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4480,
+     "h": 6720,
+     "god": 2021,
+     "credit": "Wikimedia Commons / Miluša Snidová / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Monument_to_the_fighters_of_the_Revolution_in_Valjevo.jpg",
+     "naslov": "Monument to the fighters of the Revolution in Valjevo.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Kula_Nenadovi%C4%87a%2C_Valjevo%2C_20.04.2024.jpg/1920px-Kula_Nenadovi%C4%87a%2C_Valjevo%2C_20.04.2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2160,
+     "h": 3240,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Dkov92 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Kula_Nenadovi%C4%87a,_Valjevo,_20.04.2024.jpg",
+     "naslov": "Kula Nenadovića, Valjevo, 20.04.2024.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Ulica_Kneza_Milosa%2C_Valjevo_PKIC_35-2.jpg/1920px-Ulica_Kneza_Milosa%2C_Valjevo_PKIC_35-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5472,
+     "h": 3648,
+     "god": 2016,
+     "credit": "Wikimedia Commons / Thruserbia / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ulica_Kneza_Milosa,_Valjevo_PKIC_35-2.jpg",
+     "naslov": "Ulica Kneza Milosa, Valjevo PKIC 35-2.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Sandalj_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_4.jpg/1920px-Sandalj_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5184,
+     "h": 3456,
+     "god": 2018,
+     "credit": "Wikimedia Commons / Vladimir Pecikoza / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sandalj_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_4.jpg",
+     "naslov": "Sandalj - opština Valjevo - zapadna Srbija - panorama 4.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Sedlari_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_20.jpg/1920px-Sedlari_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5184,
+     "h": 3456,
+     "god": 2018,
+     "credit": "Wikimedia Commons / Vladimir Pecikoza / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sedlari_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_20.jpg",
+     "naslov": "Sedlari - opština Valjevo - zapadna Srbija - panorama 20.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Stubo_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_17.jpg/1920px-Stubo_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5184,
+     "h": 3456,
+     "god": 2018,
+     "credit": "Wikimedia Commons / Vladimir Pecikoza / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Stubo_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_17.jpg",
+     "naslov": "Stubo - opština Valjevo - zapadna Srbija - panorama 17.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Valjevo_Kolubara.JPG/1920px-Valjevo_Kolubara.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3000,
+     "h": 1999,
+     "god": 2015,
+     "credit": "Wikimedia Commons / Julian Nyča / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Valjevo_Kolubara.JPG",
+     "naslov": "Valjevo Kolubara.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/%D0%9C%D1%83%D1%81%D0%B5%D0%BB%D0%B8%D0%BC%D0%BE%D0%B2_%D0%BA%D0%BE%D0%BD%D0%B0%D0%BA_%D0%92%D0%B0%D1%99%D0%B5%D0%B2%D0%BE_01.jpg/1920px-%D0%9C%D1%83%D1%81%D0%B5%D0%BB%D0%B8%D0%BC%D0%BE%D0%B2_%D0%BA%D0%BE%D0%BD%D0%B0%D0%BA_%D0%92%D0%B0%D1%99%D0%B5%D0%B2%D0%BE_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4208,
+     "h": 3120,
+     "god": 2020,
+     "credit": "Wikimedia Commons / Nter25 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%9C%D1%83%D1%81%D0%B5%D0%BB%D0%B8%D0%BC%D0%BE%D0%B2_%D0%BA%D0%BE%D0%BD%D0%B0%D0%BA_%D0%92%D0%B0%D1%99%D0%B5%D0%B2%D0%BE_01.jpg",
+     "naslov": "Муселимов конак Ваљево 01.jpg"
+    }
+   ]
   }
  },
  "x_objave": {
