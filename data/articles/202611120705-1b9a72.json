@@ -36,7 +36,7 @@
  ],
  "importance": 2,
  "published": "2026-11-12T06:05:53.791515+00:00",
- "updated": "2026-11-12T19:29:54.739796+00:00",
+ "updated": "2026-11-13T02:41:48.078543+00:00",
  "sources": [
   {
    "name": "Telegraf",
@@ -49,10 +49,17 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/297247/obelezena-ktitorska-slava-manastira-gracanica-sveti-kralj-milutin/vest",
    "title": "Obeležena ktitorska slava manastira Gračanica - Sveti kralj Milutin",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4432026-obelezena-ktitorska-slava-manastira-gracanica-sveti-kralj-milutin",
+   "title": "Obeležena ktitorska slava manastira Gračanica - Sveti kralj Milutin",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Da li se danas posti? Evo odgovora uz objašnjenje čije ime se slavi: Zahvaljujući njemu podignuto 40 svetinja!",
+  "Obeležena ktitorska slava manastira Gračanica - Sveti kralj Milutin",
   "Obeležena ktitorska slava manastira Gračanica - Sveti kralj Milutin"
  ],
  "author": "Redakcija Prestonice",
@@ -65,6 +72,6 @@
   "local": true,
   "alt": "SPC danas slavi Svetog kralja Milutina, dan nije posni"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
