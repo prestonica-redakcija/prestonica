@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T22:17:48.595213+00:00",
- "updated": "2026-11-13T22:17:48.595213+00:00",
+ "updated": "2026-11-13T23:02:34.532386+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://www.danas.rs/svet/obustavljeni-svi-letovi-u-sad/",
    "title": "Obustavljeni svi letovi u SAD",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/284859/sta-stoji-iza-obustave-letova-sirom-sad-ovo-nije-jos-jedan-11-septembar/vest",
+   "title": "Šta stoji iza obustave letova širom SAD?; \"Ovo nije još jedan 11. septembar\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "CNN: Uzrok obustave letova širom SAD nije sajber napad",
-  "Obustavljeni svi letovi u SAD"
+  "Obustavljeni svi letovi u SAD",
+  "Šta stoji iza obustave letova širom SAD?; \"Ovo nije još jedan 11. septembar\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Federalna uprava za avijaciju obustavila sve letove u SAD zbog problema u komunikaciji"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

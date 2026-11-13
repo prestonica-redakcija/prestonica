@@ -3319,18 +3319,21 @@
   "https://www.kurir.rs/zabava/pop-kultura/10161532/tejlor-svift-nastupa-na-cma-dodeli-nagrada": "2026-11-13T22:47:31.284862+00:00",
   "https://www.kurir.rs/stars/10161281/sasa-mirkovic-o-sudjenju-s-popom-u-zagrebu": "2026-11-13T22:47:31.284862+00:00",
   "https://www.kurir.rs/vesti/srbija/10161759/pao-sneg-u-uzicu": "2026-11-13T22:47:31.284862+00:00",
-  "https://informer.rs/politika/vesti/1169722/sergej-trifunovic-irinej-bulovic": "2026-11-13T22:47:31.284862+00:00"
+  "https://informer.rs/politika/vesti/1169722/sergej-trifunovic-irinej-bulovic": "2026-11-13T22:47:31.284862+00:00",
+  "https://www.b92.net/info/svet/284859/sta-stoji-iza-obustave-letova-sirom-sad-ovo-nije-jos-jedan-11-septembar/vest": "2026-11-13T23:02:34.532386+00:00",
+  "https://insajder.net/prenosimo/masovni-slobodni-dani-ali-ne-zbog-odmora-u-belgiji-66-odsto-vise-zahteva-za-odsustvo-sa-posla-na-dan-izlaska-video-igre-gta-6": "2026-11-13T23:02:34.532386+00:00",
+  "https://www.b92.net/info/razno/284854/na-danasnji-dan-14-novembar/vest": "2026-11-13T23:02:34.532386+00:00",
+  "https://www.tanjug.rs/svet/politika/297663/njujork-post-sastanak-trampa-sija-i-putina-narednog-cetvrtka-u-kini/vest": "2026-11-13T23:02:34.532386+00:00",
+  "https://www.telegraf.rs/vesti/svet/4432841-istorijski-susret-trampa-putina-i-sija-poznat-datum-gtrilateralnog-sastanka-evo-o-cemu-ce-razgovarati": "2026-11-13T23:02:34.532386+00:00",
+  "https://www.kurir.rs/planeta/10161765/tramp-si-i-putin-u-cetvrtak-u-senzenu": "2026-11-13T23:02:34.532386+00:00",
+  "https://n1info.rs/video/crvena-linija-o-prisluskivanju-u-zemljama-regiona/": "2026-11-13T23:02:34.532386+00:00",
+  "https://n1info.rs/svet/pretnja-merca-da-ce-blokirati-naredni-budzet-eu-uznemirila-cak-i-neke-od-najcvrscih-pristalica-kijeva/": "2026-11-13T23:02:34.532386+00:00",
+  "https://www.kurir.rs/stars/rijaliti/10161654/majka-sanje-grujic-van-sebe": "2026-11-13T23:02:34.532386+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-13T08:11+00:00",
-   "novih": 7,
-   "ukupno": 696,
-   "sekundi": 143.1
-  },
   {
    "vreme": "2026-11-13T08:26+00:00",
    "novih": 3,
@@ -3684,6 +3687,12 @@
    "novih": 3,
    "ukupno": 1010,
    "sekundi": 105.2
+  },
+  {
+   "vreme": "2026-11-13T23:04+00:00",
+   "novih": 2,
+   "ukupno": 1012,
+   "sekundi": 141.6
   }
  ],
  "licnosti_foto": {
@@ -6249,7 +6258,7 @@
    ]
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -6336,7 +6345,7 @@
    },
    "ininic": {
     "since_id": "2121206808324813214",
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -6344,7 +6353,7 @@
    },
    "sviublokade_fdu": {
     "since_id": "2120560395492495772",
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "dragandjilas": {
     "since_id": null,
@@ -6392,11 +6401,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "studentblokade": {
     "since_id": "2121235052155543772",
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -6468,7 +6477,7 @@
    },
    "boristadic58": {
     "since_id": null,
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "srdjanmil037": {
     "since_id": "2121234128859209766",
@@ -6520,7 +6529,7 @@
    },
    "borakonj": {
     "since_id": "2121317761259385154",
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "narodnipokrets": {
     "since_id": "2120601957350195572",
@@ -6528,67 +6537,67 @@
    },
    "direktnors": {
     "since_id": "2121341320329416863",
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "crtars": {
     "since_id": "2121266154312470704",
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "veceivan": {
     "since_id": "2121303796001222914",
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "repjoewilson": {
     "since_id": "2120984500146696436",
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "jugoslavcosic": {
-    "since_id": "2121212945464246431",
-    "t": 1794608347.0581555
+    "since_id": "2121377400063684742",
+    "t": 1794611034.5185895
    },
    "tvnova_s": {
     "since_id": "2121365119317811436",
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "oljautisak": {
     "since_id": null,
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "srdjan_nogo": {
     "since_id": "2120938654998630563",
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "agrifblokira": {
     "since_id": null,
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "etfblokada": {
     "since_id": "2120930020059136372",
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "nastraninaroda": {
     "since_id": "2121342229339918554",
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "bcenzure": {
     "since_id": "2121366360143929375",
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "bezstraha26279": {
     "since_id": "2121336233930768460",
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "lazidetektor": {
     "since_id": "2121337308553363922",
-    "t": 1794608347.0581555
+    "t": 1794611034.5185895
    },
    "nedeljniknin": {
     "since_id": "2121362472133448119",
@@ -6612,6 +6621,19 @@
    }
   },
   "posts": [
+   {
+    "id": "2121377400063684742",
+    "x": "JugoslavCosic",
+    "ime": "Jugoslav Ćosić",
+    "grupa": "",
+    "uloga": "",
+    "text": "https://t.co/tZInSUsByX",
+    "published": "2026-11-13T22:59:20.000+00:00",
+    "lajk": 2,
+    "prikazi": false,
+    "rubrika": "drustvo",
+    "tema": "objava bez teksta, samo link, nejasan sadržaj"
+   },
    {
     "id": "2121366360143929375",
     "x": "Bcenzure",
@@ -28050,6 +28072,154 @@
      "naslov": "Spomenik Đinđiću 01 08 2007 Sergej Trifunović.jpg"
     }
    ]
+  },
+  "t:si djinpling": {
+   "t": 1794610998.744798,
+   "items": []
+  },
+  "t:vladimir putin": {
+   "t": 1794610999.5640087,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Vladimir_Putin_in_KGB_uniform.jpg/1920px-Vladimir_Putin_in_KGB_uniform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2003,
+     "h": 2799,
+     "god": 1980,
+     "credit": "Wikimedia Commons / Unknown authorUnknown author / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_in_KGB_uniform.jpg",
+     "naslov": "Vladimir Putin in KGB uniform.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Vladimir_Putin_official_photo_08.jpg/1920px-Vladimir_Putin_official_photo_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3420,
+     "h": 5130,
+     "god": 2011,
+     "credit": "Wikimedia Commons / Пресс-служба Президента России / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_official_photo_08.jpg",
+     "naslov": "Vladimir Putin official photo 08.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/RIAN_archive_100306_Vladimir_Putin%2C_Federal_Security_Service_Director.jpg/1920px-RIAN_archive_100306_Vladimir_Putin%2C_Federal_Security_Service_Director.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 1961,
+     "h": 3000,
+     "god": 1998,
+     "credit": "Wikimedia Commons / Sergey Subbotin / Сергей Субботин / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:RIAN_archive_100306_Vladimir_Putin,_Federal_Security_Service_Director.jpg",
+     "naslov": "RIAN archive 100306 Vladimir Putin, Federal Security Service Director.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Vladimir_Putin_taking_the_Presidential_Oath%2C_7_May_2000.jpg/1920px-Vladimir_Putin_taking_the_Presidential_Oath%2C_7_May_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2952,
+     "h": 4429,
+     "god": 2000,
+     "credit": "Wikimedia Commons / Presidential Press and Information Office / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_taking_the_Presidential_Oath,_7_May_2000.jpg",
+     "naslov": "Vladimir Putin taking the Presidential Oath, 7 May 2000.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29_%28higher_res%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1559,
+     "h": 2203,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Пресс-служба Президента РФ / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(08-03-2024)_(cropped)_(higher_res).jpg",
+     "naslov": "Владимир Путин (08-03-2024) (cropped) (higher res).jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Vladimir_Putin_17-11-2021_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1274,
+     "h": 1732,
+     "god": 2021,
+     "credit": "Wikimedia Commons / The Presidential Press and Information Office / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_17-11-2021_(cropped).jpg",
+     "naslov": "Vladimir Putin 17-11-2021 (cropped).jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2818-06-2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1359,
+     "h": 1911,
+     "god": 2022,
+     "credit": "Wikimedia Commons / Presidential Executive Office of Russia / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(18-06-2022).jpg",
+     "naslov": "Владимир Путин (18-06-2022).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Vladimir_Putin_-_2012.jpg/1920px-Vladimir_Putin_-_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2496,
+     "h": 3586,
+     "god": 2012,
+     "credit": "Wikimedia Commons / Russian Presidential Press and Information Office / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_-_2012.jpg",
+     "naslov": "Vladimir Putin - 2012.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Vladimir_Putin_%282017-07-08%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 903,
+     "h": 1155,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Пресс-служба Президента Российской Федерации / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_(2017-07-08).jpg",
+     "naslov": "Vladimir Putin (2017-07-08).jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Vladimir_Putin_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1256,
+     "h": 1610,
+     "god": 2013,
+     "credit": "Wikimedia Commons / Presidential Press and Information Office / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_official_portrait.jpg",
+     "naslov": "Vladimir Putin official portrait.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Vladimir_Putin_%282017-07-08%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 947,
+     "h": 1341,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Пресс-служба Президента Российской Федерации / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_(2017-07-08)_(cropped).jpg",
+     "naslov": "Vladimir Putin (2017-07-08) (cropped).jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Vladimir_Putin_%282018-03-01%29_03_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1486,
+     "h": 2293,
+     "god": 2018,
+     "credit": "Wikimedia Commons / Пресс-служба Президента России / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_(2018-03-01)_03_(cropped).jpg",
+     "naslov": "Vladimir Putin (2018-03-01) 03 (cropped).jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2814-12-2021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1432,
+     "h": 1890,
+     "god": 2021,
+     "credit": "Wikimedia Commons / Presidential Executive Office of Russia / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(14-12-2021).jpg",
+     "naslov": "Владимир Путин (14-12-2021).jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Vladimir_Putin-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1510,
+     "h": 2048,
+     "god": 2003,
+     "credit": "Wikimedia Commons / Presidential Press and Information Office / Vladimir Rodiono / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin-2.jpg",
+     "naslov": "Vladimir Putin-2.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Vladimir_Putin_%282020-02-20%29.jpg/1920px-Vladimir_Putin_%282020-02-20%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2250,
+     "h": 2850,
+     "god": 2020,
+     "credit": "Wikimedia Commons / TASS News Agency / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_(2020-02-20).jpg",
+     "naslov": "Vladimir Putin (2020-02-20).jpg"
+    }
+   ]
+  },
+  "t:evropski savet": {
+   "t": 1794611024.2214956,
+   "items": []
   }
  },
  "x_objave": {
