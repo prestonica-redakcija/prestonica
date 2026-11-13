@@ -25,17 +25,24 @@
  ],
  "importance": 5,
  "published": "2026-11-13T15:35:52.267094+00:00",
- "updated": "2026-11-13T15:35:52.267094+00:00",
+ "updated": "2026-11-13T15:50:46.877768+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/297561/proizvodacke-cene-u-sad-porasle-65-odsto-medugodisnje-najbrzim-tempom-od-2022/vest",
    "title": "Proizvođačke cene u SAD porasle 6,5 odsto međugodišnje, najbržim tempom od 2022.",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/proizvodacke-cene-u-sad-porasle-65-odsto-medugodisnje-najbrzim-tempom-od-2022-godine",
+   "title": "Proizvođačke cene u SAD porasle 6,5 odsto međugodišnje, najbržim tempom od 2022. godine",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Proizvođačke cene u SAD porasle 6,5 odsto međugodišnje, najbržim tempom od 2022."
+  "Proizvođačke cene u SAD porasle 6,5 odsto međugodišnje, najbržim tempom od 2022.",
+  "Proizvođačke cene u SAD porasle 6,5 odsto međugodišnje, najbržim tempom od 2022. godine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Proizvođačke cene u SAD u oktobru porasle 6,5 odsto međugodišnje, najviše od 2022"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

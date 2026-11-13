@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T15:35:52.267094+00:00",
- "updated": "2026-11-13T15:35:52.267094+00:00",
+ "updated": "2026-11-13T15:50:46.877768+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -39,11 +39,18 @@
    "url": "https://biznis.telegraf.rs/info-biz/4432614-hitno-upozorenje-za-vozace-sa-trzista-srbije-povlace-se-volkswagen-skoda-audi-i-mercedes-modeli",
    "title": "Hitno upozorenje za vozače: Sa tržišta Srbije povlače se Volkswagen, Škoda, Audi i Mercedes modeli",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/sa-trzista-srbije-povlaci-se-vise-modela-folksvagena-skode-audija-i-mercedesa-zbog-bezbednosnih-rizika",
+   "title": "Sa tržišta Srbije povlači se više modela Folksvagena, Škode, Audija i Mercedesa zbog bezbednosnih rizika",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Sa tržišta Srbije povlači se više modela automobila marke folksvagen i škoda",
-  "Hitno upozorenje za vozače: Sa tržišta Srbije povlače se Volkswagen, Škoda, Audi i Mercedes modeli"
+  "Hitno upozorenje za vozače: Sa tržišta Srbije povlače se Volkswagen, Škoda, Audi i Mercedes modeli",
+  "Sa tržišta Srbije povlači se više modela Folksvagena, Škode, Audija i Mercedesa zbog bezbednosnih rizika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:2007_Volkswagen_Caddy_SDI_-_1968cc_2.0_(69PS)_Diesel_-_White_-_03-2024,_Front.jpg",
   "alt": "Povlače se modeli folksvagena, škode, audija i mercedesa zbog rizika od korozije i kočnica"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
