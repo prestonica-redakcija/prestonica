@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T21:14:35.131658+00:00",
- "updated": "2026-11-13T15:06:05.158544+00:00",
+ "updated": "2026-11-13T16:20:29.263638+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -121,6 +121,12 @@
    "url": "https://nova.rs/vesti/politika/oglasio-se-americki-zvanicnik-posle-sastanka-sa-studentskom-listom/",
    "title": "Oglasio se američki zvaničnik posle sastanka sa Studentskom listom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/americki-diplomata-hanrahan-zavrsio-posetu-beogradu/",
+   "title": "Američki diplomata Hanrahan završio posetu Beogradu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -138,7 +144,8 @@
   "OGLASILA SE AMBASADA SAD DAN NAKON SASTANKA SA STUDENTSKOM LISTOM: Boravak posvećen dijalogu, partnerstvu i budućnosti",
   "Američka ambasada se oglasila povodom sastanka sa predstavnicima Studentske liste",
   "Američki zvaničnik posle sastanka sa Studentskom listom: Razgovor o zajedničkim prioritetima i budućoj saradnji",
-  "Oglasio se američki zvaničnik posle sastanka sa Studentskom listom"
+  "Oglasio se američki zvaničnik posle sastanka sa Studentskom listom",
+  "Američki diplomata Hanrahan završio posetu Beogradu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -151,7 +158,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata_2.jpg",
   "alt": "Pomoćnik državnog sekretara SAD sastao se sa predstavnicima Studentske liste"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-13T15:06:05.158544+00:00",
  "verzija": 4
