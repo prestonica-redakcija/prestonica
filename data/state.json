@@ -3339,18 +3339,16 @@
   "https://www.danas.rs/svet/sad-proglasile-tri-gvatemalanska-gangsterska-klana-za-teroristicke-organizacije/": "2026-11-13T23:17:21.565081+00:00",
   "https://insajder.net/prenosimo/medunarodni-krivicni-sud-obustavio-deo-istrage-o-zlocinima-u-avganistanu-koji-se-odnosi-na-americke-vojnike-nastavlja-istragu-o-talibanima": "2026-11-13T23:17:21.565081+00:00",
   "https://radar.nova.rs/global/sad-meduizbori-kongres-demokrate-tramp/": "2026-11-13T23:17:21.565081+00:00",
-  "https://radar.nova.rs/drustvo/uputstava-vjt-pokrenula-talas-promena/": "2026-11-13T23:17:21.565081+00:00"
+  "https://radar.nova.rs/drustvo/uputstava-vjt-pokrenula-talas-promena/": "2026-11-13T23:17:21.565081+00:00",
+  "https://www.kurir.rs/vesti/drustvo/10161585/sofex-26-vezba-specijalnih-jedinica-srbija-bugarska-grcka-rumunija": "2026-11-13T23:32:17.971916+00:00",
+  "https://insajder.net/prenosimo/fudbaleri-srbije-porazeni-od-nemacke-u-ligi-nacija": "2026-11-13T23:32:17.971916+00:00",
+  "https://www.kurir.rs/sport/fudbal/10161752/liga-nacija-tabela-srbija": "2026-11-13T23:32:17.971916+00:00",
+  "https://www.danas.rs/vesti/ekonomija/odlozen-saobracaj-budimpesta-beograd/": "2026-11-13T23:32:17.971916+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-13T08:42+00:00",
-   "novih": 8,
-   "ukupno": 707,
-   "sekundi": 207.7
-  },
   {
    "vreme": "2026-11-13T08:56+00:00",
    "novih": 8,
@@ -3704,6 +3702,12 @@
    "novih": 4,
    "ukupno": 1016,
    "sekundi": 134.5
+  },
+  {
+   "vreme": "2026-11-13T23:33+00:00",
+   "novih": 2,
+   "ukupno": 1018,
+   "sekundi": 96.9
   }
  ],
  "licnosti_foto": {
@@ -28259,6 +28263,26 @@
   },
   "t:teatar odeon": {
    "t": 1794611884.1118226,
+   "items": []
+  },
+  "t:liga nacija": {
+   "t": 1794612774.3633094,
+   "items": []
+  },
+  "t:reprezentacija srbije": {
+   "t": 1794612775.6371636,
+   "items": []
+  },
+  "t:divizija a": {
+   "t": 1794612775.9361098,
+   "items": []
+  },
+  "t:pruga budimpesta beograd": {
+   "t": 1794612783.6270347,
+   "items": []
+  },
+  "t:david vitezi": {
+   "t": 1794612783.8827474,
    "items": []
   }
  },
