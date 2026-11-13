@@ -25,7 +25,6 @@
   var mobile = window.matchMedia ? window.matchMedia("(max-width: 620px)") : null, navEl = mast && mast.querySelector(".nav"), navStuck = false;
   var navTop = 0; try { navTop = parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--sat")) || 0; } catch (e) {}
   function onScroll() {
-    if (gut && wide && wide.matches) gut.style.setProperty("--px", Math.max(-40, Math.min(40, -window.scrollY * 0.03)).toFixed(1) + "px");
     if (mast) {
       if (mobile && mobile.matches) {
         if (mast.classList.contains("scrolled")) mast.classList.remove("scrolled"); if (tb) tb.style.opacity = "";
@@ -501,4 +500,25 @@
   }
   start();
   if (mq.addEventListener) mq.addEventListener("change", start);
+})();
+
+/* ---------- sirok ekran: bocna polja uvek ispod zaglavlja, centrirana u vidljivom delu ---------- */
+(function () {
+  var g = document.querySelector(".gutters"), m = document.getElementById("mast");
+  if (!g || !m || !window.matchMedia) return;
+  var mq = window.matchMedia("(min-width: 1680px)"), sides = g.querySelectorAll(".g-side"), q = 0;
+  function place() {
+    q = 0;
+    if (!mq.matches) return;
+    var mb = Math.max(0, m.getBoundingClientRect().bottom), vh = window.innerHeight, px = Math.min(24, window.scrollY * 0.02);
+    for (var i = 0; i < sides.length; i++) {
+      var s = sides[i], h = s.offsetHeight, t = mb + Math.max(18, (vh - mb - h) / 2);
+      s.style.top = Math.round(t + (i ? px * 0.5 : px)) + "px";
+    }
+  }
+  function req() { if (!q) { q = 1; requestAnimationFrame(place); } }
+  addEventListener("scroll", req, { passive: true });
+  addEventListener("resize", req);
+  if (mq.addEventListener) mq.addEventListener("change", req);
+  place(); setTimeout(place, 700);
 })();

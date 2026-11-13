@@ -863,3 +863,23 @@ mark{background:color-mix(in srgb,var(--gold) 30%,transparent);color:inherit;bor
 .m-emb-l{left:calc((100vw - 1240px) / 4 - 36px)}
 .m-emb-r{right:calc((100vw - 1240px) / 4 - 36px)}
 }
+/* sirok ekran: "usi" zaglavlja kao u stampanim novinama (datum levo, poslednje azuriranje desno) i polja koja nikad ne idu pod zaglavlje */
+.m-ear{display:none}
+@media (min-width:1680px) and (hover:hover) and (pointer:fine){
+.g-side,.g-r{top:200px;transform:translateX(-50%)}
+.m-ear{display:flex;align-items:center;gap:14px;position:absolute;top:22px;height:48px;color:var(--ink);white-space:nowrap}
+.m-ear-l{left:calc((100vw - 1240px) / 4);transform:translateX(-50%)}
+.m-ear-r{right:calc((100vw - 1240px) / 4);transform:translateX(50%)}
+.m-ear b{font:900 46px/1 var(--display,Georgia,serif);letter-spacing:-.02em;font-variant-numeric:lining-nums tabular-nums}
+.m-ear-r b{font-size:34px}
+.m-ear span{display:grid;gap:3px;padding-left:14px;border-left:2px solid var(--line);font:800 10.5px var(--sans);letter-spacing:.18em;text-transform:uppercase;color:var(--ink-3)}
+.m-ear-r span{padding:0 14px 0 0;border:0;border-right:2px solid var(--line);text-align:right}
+.m-ear em{font:italic 600 16px var(--display,Georgia,serif);letter-spacing:0;text-transform:none;color:var(--ink-2);display:inline-flex;align-items:center;gap:6px}
+.m-ear-r em{justify-content:flex-end}
+.m-ear em i{width:7px;height:7px;border-radius:50%;background:var(--ok,#0b8a5b);box-shadow:0 0 0 0 rgba(11,138,91,.5);animation:g-ear 2s infinite}
+@keyframes g-ear{70%{box-shadow:0 0 0 7px rgba(11,138,91,0)}100%{box-shadow:0 0 0 0 rgba(11,138,91,0)}}
+.m-ear::after{content:"";position:absolute;left:0;bottom:-6px;width:28px;height:2px;background:var(--brand);border-radius:2px}
+.m-ear-r::after{left:auto;right:0}
+.g-pulse{-webkit-mask-image:none}
+.g-wv{position:absolute;top:0;bottom:0;left:0;right:96px;overflow:hidden;-webkit-mask-image:linear-gradient(90deg,transparent,#000 14%,#000 86%,transparent);mask-image:linear-gradient(90deg,transparent,#000 14%,#000 86%,transparent)}
+}
