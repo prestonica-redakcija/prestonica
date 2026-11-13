@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-12T16:31:09.719763+00:00",
- "updated": "2026-11-12T18:00:33.448851+00:00",
+ "updated": "2026-11-13T19:34:06.834215+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -75,6 +75,30 @@
    "url": "https://www.kurir.rs/crna-hronika/10160646/uhapsena-gradonacelnica-smedereva-nelegalna-deponija-radinac",
    "title": "OGLASIO SE MUP O HAPŠENJU GRADONAČELNICE SMEDEREVA Sa njom uhapšeno još dvoje: Sumnjiče se za protivpravnu izgradnju i zagađenje životne sredine",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/284799/oglasilo-se-tuzilastvo-predlozen-pritvor-za-gradonacelnicu-smedereva/vest",
+   "title": "Oglasilo se tužilaštvo: Predložen pritvor za gradonačelnicu Smedereva",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/saslusana-gradonacelnica-smedereva-ojt-trazi-pritvor-za-nju-i-njeno-dvoje-saradnika/",
+   "title": "Saslušana gradonačelnica Smedereva, OJT traži pritvor za nju i dvoje saradnika",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/saslusana-gradonacelnica-smedereva-tuzilastvo-trazi-pritvor-za-nju-i-dvoje-saradnika-zbog-divlje-deponije/",
+   "title": "Saslušana gradonačelnica Smedereva, tužilaštvo traži pritvor za nju i dvoje saradnika zbog divlje deponije",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4432735-tuzilastvo-trazi-pritvor-za-gradonacelnicu-smedereva-i-jos-dvoje-osumnjicenih",
+   "title": "Tužilaštvo traži pritvor za gradonačelnicu Smedereva i još dvoje osumnjičenih",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -84,7 +108,11 @@
   "MUP o hapšenju gradonačelnice Smedereva: Nelegalna deponija bila na zemljištu u vlasništvu grada",
   "MUP O HAPŠENjU GRADONAČELNICE SMEDEREVA: \"Stavili u pogon postrojenje koje zagađuje životnu sredinu\"",
   "Oglasio se MUP o hapšenju gradonačelnice Smedereva",
-  "OGLASIO SE MUP O HAPŠENJU GRADONAČELNICE SMEDEREVA Sa njom uhapšeno još dvoje: Sumnjiče se za protivpravnu izgradnju i zagađenje životne sredine"
+  "OGLASIO SE MUP O HAPŠENJU GRADONAČELNICE SMEDEREVA Sa njom uhapšeno još dvoje: Sumnjiče se za protivpravnu izgradnju i zagađenje životne sredine",
+  "Oglasilo se tužilaštvo: Predložen pritvor za gradonačelnicu Smedereva",
+  "Saslušana gradonačelnica Smedereva, OJT traži pritvor za nju i dvoje saradnika",
+  "Saslušana gradonačelnica Smedereva, tužilaštvo traži pritvor za nju i dvoje saradnika zbog divlje deponije",
+  "Tužilaštvo traži pritvor za gradonačelnicu Smedereva i još dvoje osumnjičenih"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -97,6 +125,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Smederevo_fortress_(Smederevska_tvr%C4%91ava)_-_by_Pudelek_02.JPG",
   "alt": "Uhapšena gradonačelnica Smedereva zbog sumnje u vezi sa nelegalnom deponijom"
  },
- "novo_od_pisanja": 5,
- "boost": 1.4
+ "novo_od_pisanja": 9,
+ "boost": 1.6
 }

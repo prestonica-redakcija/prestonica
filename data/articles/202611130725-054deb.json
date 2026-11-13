@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T06:25:04.737283+00:00",
- "updated": "2026-11-13T18:49:24.929160+00:00",
+ "updated": "2026-11-13T19:34:06.834215+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -58,6 +58,12 @@
    "url": "https://www.tanjug.rs/ekonomija/svet/297610/sad-zaplenile-vise-od-12-milijarde-dolara-ukradenih-u-hakerskom-napadu-na-bajnens/vest",
    "title": "SAD zaplenile više od 1,2 milijarde dolara ukradenih u hakerskom napadu na Bajnens",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1670947/amerika-hakeri-zaplena-novca-milijardu-evra-binace",
+   "title": "UDAR NA HAKERE: SAD zaplenile više od 1,2 milijarde dolara ukradenih u hakerskom napadu na Bajnens",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -65,7 +71,8 @@
   "FBI: Zaplenile kriptovalute vredne 1,2 milijarde dolara ukradene sa platforme Binance",
   "FBI zaplenio više od 1,2 milijarde dolara u kriptovalutama ukradenim sa platforme \"Binance\"",
   "FBI zaplenio više od 1,2 milijarde dolara ukradenih u najvećoj kripto pljački u istoriji",
-  "SAD zaplenile više od 1,2 milijarde dolara ukradenih u hakerskom napadu na Bajnens"
+  "SAD zaplenile više od 1,2 milijarde dolara ukradenih u hakerskom napadu na Bajnens",
+  "UDAR NA HAKERE: SAD zaplenile više od 1,2 milijarde dolara ukradenih u hakerskom napadu na Bajnens"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -78,8 +85,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Binance_and_Zhao_Chemgpeng_guilty_pleas_press_conference.jpg",
   "alt": "Američke vlasti zaplenile kriptovalute vredne 1,2 milijarde dolara ukradene sa Binance"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-13T18:49:24.929160+00:00",
  "verzija": 2
 }

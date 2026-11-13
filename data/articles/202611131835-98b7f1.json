@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-13T17:35:00.377973+00:00",
- "updated": "2026-11-13T17:35:00.377973+00:00",
+ "updated": "2026-11-13T19:34:06.834215+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/297591/ministarstvo-odbrane-molimo-medije-da-preispitaju-navode-svojih-sagovornika/vest",
    "title": "Ministarstvo odbrane: Molimo medije da preispitaju navode svojih sagovornika",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10161649/ministarstvo-odbrane-preispitajte-navode-sagovornika-pre-nego-sto-objavite",
+   "title": "Ministarstvo odbrane: Preispitajte navode sagovornika pre nego što objavite klevete o pripadnicima Ministartsva odbrane i Vojske Srbije",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Ministarstvo odbrane: Molimo medije da preispitaju navode svojih sagovornika"
+  "Ministarstvo odbrane: Molimo medije da preispitaju navode svojih sagovornika",
+  "Ministarstvo odbrane: Preispitajte navode sagovornika pre nego što objavite klevete o pripadnicima Ministartsva odbrane i Vojske Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Ministarstvo odbrane pozvalo medije da preispitaju navode svojih sagovornika"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

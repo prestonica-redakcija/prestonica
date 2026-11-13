@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T13:36:36.575897+00:00",
- "updated": "2026-11-13T13:36:36.575897+00:00",
+ "updated": "2026-11-13T19:34:06.834215+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,11 +47,18 @@
    "url": "https://n1info.rs/vesti/kosovski-policajac-osudjen-na-tri-godine-zatvora-pokusaj-ubistva/",
    "title": "Kosovski policajac osuđen na tri godine zatvora zbog pokušaja ubistva Srbina 2023. godine",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/251992/korab-pepaj-osuden-na-tri-godine-za-pokusaj-ubistva/vest",
+   "title": "Korab Pepaj ponovo osuđen na tri godine zatvora za pokušaj ubistva Milana Jovanovića, advokat: Žalićemo se",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Bivši pripadnik tzv. kosovske policije Pepaj osuđen na 3 godine zatvora zbog pokušaja ubistva Jovanovića",
-  "Kosovski policajac osuđen na tri godine zatvora zbog pokušaja ubistva Srbina 2023. godine"
+  "Kosovski policajac osuđen na tri godine zatvora zbog pokušaja ubistva Srbina 2023. godine",
+  "Korab Pepaj ponovo osuđen na tri godine zatvora za pokušaj ubistva Milana Jovanovića, advokat: Žalićemo se"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +70,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Milan_Jovanovi%C4%87_-_SK_Rapid_Wien_(2).jpg",
   "alt": "Bivši kosovski policajac Korab Pepaj osuđen na tri godine zbog pokušaja ubistva Milana Jovanovića"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
