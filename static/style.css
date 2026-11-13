@@ -783,3 +783,46 @@ mark{background:color-mix(in srgb,var(--gold) 30%,transparent);color:inherit;bor
 .mast{transition:box-shadow .45s var(--ease)}
 .mast.senka{box-shadow:0 12px 30px -20px rgba(13,23,48,.5)}
 .topbar{transition:opacity .2s linear}
+
+/* sirok ekran: mapa Srbije i udaljenosti od prestonice u praznim bocnim poljima */
+.gutters{display:none}
+@media (min-width:1680px) and (hover:hover) and (pointer:fine){
+.gutters{display:block;position:fixed;inset:0;z-index:-1;pointer-events:none;--gw:calc((100vw - 1240px) / 2);--px:0px}
+.g-side{position:absolute;top:calc(50% + 70px);width:min(calc(var(--gw) - 64px),360px);transform:translate(-50%,-50%) translateY(var(--px));will-change:transform;opacity:0;animation:g-in 1.2s .3s var(--ease,ease) forwards}
+.g-l{left:calc(var(--gw) / 2)}
+.g-r{left:calc(100vw - var(--gw) / 2);transform:translate(-50%,-50%) translateY(calc(var(--px) * -1))}
+@keyframes g-in{to{opacity:1}}
+.g-map{width:100%;height:auto;display:block;overflow:visible}
+.g-base{fill:var(--ink);opacity:.045}
+.g-fill{opacity:.34}
+.g-map pattern circle{fill:var(--ink)}
+.g-out{fill:none;stroke:var(--ink);stroke-width:2.4;opacity:.28}
+.g-c circle{fill:var(--surface);stroke:var(--ink-3);stroke-width:2;opacity:.9}
+.g-c text,.g-bg text{font:600 31px var(--sans);fill:var(--ink-3);letter-spacing:.02em}
+.g-bg text{font-weight:800;font-size:32px;letter-spacing:.14em;fill:var(--ink)}
+.g-core{fill:var(--brand)}
+.g-ring{fill:none;stroke:var(--brand);stroke-width:2;transform-box:fill-box;transform-origin:center;animation:g-pulse 3.2s ease-out infinite}
+.g-ring2{animation-delay:1.6s}
+@keyframes g-pulse{0%{transform:scale(.4);opacity:.9}100%{transform:scale(2.6);opacity:0}}
+.g-cap{margin:18px 0 0;text-align:center;font:italic 15px var(--display,Georgia,serif);color:var(--ink-3)}
+.g-cap b{font:800 11px var(--sans);letter-spacing:.2em;text-transform:uppercase;color:var(--ink-2);margin-right:6px;font-style:normal}
+.g-radar{position:relative;width:116px;height:116px;margin:0 auto 16px}
+.g-radar span{position:absolute;inset:0;border:1px solid var(--ink);border-radius:50%;opacity:.14}
+.g-radar span:nth-child(2){inset:19px;opacity:.2}
+.g-radar span:nth-child(3){inset:38px;opacity:.28}
+.g-radar i{position:absolute;left:50%;top:50%;width:12px;height:12px;margin:-6px 0 0 -6px;border-radius:50%;background:var(--brand);box-shadow:0 0 0 6px color-mix(in srgb,var(--brand) 18%,transparent)}
+.g-radar::before{content:"";position:absolute;inset:0;border-radius:50%;background:conic-gradient(from 0deg,color-mix(in srgb,var(--brand) 22%,transparent),transparent 28%);animation:g-spin 7s linear infinite;opacity:.7}
+@keyframes g-spin{to{transform:rotate(360deg)}}
+.g-coord{margin:0 0 20px;text-align:center;font:700 11.5px var(--sans);letter-spacing:.16em;color:var(--ink-3);font-variant-numeric:tabular-nums}
+.g-h{margin:0 0 10px;font:800 11px var(--sans);letter-spacing:.2em;text-transform:uppercase;color:var(--ink-2);display:flex;align-items:center;gap:10px}
+.g-h::after{content:"";flex:1;height:2px;background:linear-gradient(90deg,var(--ink) 0 84%,var(--brand) 84%);opacity:.5}
+.g-list{list-style:none;margin:0;padding:0;display:grid;gap:7px}
+.g-list li{display:flex;align-items:baseline;gap:8px;font:600 13px var(--sans);color:var(--ink-3)}
+.g-list i{flex:1;border-bottom:1px dotted var(--ink-3);opacity:.45;transform:translateY(-3px)}
+.g-list b{font-weight:800;color:var(--ink-2);font-variant-numeric:tabular-nums}
+.g-list li:first-child b{color:var(--brand)}
+.g-note{margin:12px 0 0;font:italic 12.5px var(--display,Georgia,serif);color:var(--ink-3);text-align:right}
+@media (max-height:860px){.g-list li:nth-child(n+9){display:none}}
+@media (prefers-reduced-motion:reduce){.g-ring,.g-radar::before{animation:none}.g-side{animation:none;opacity:1}}
+}
+@media print{.gutters{display:none!important}}

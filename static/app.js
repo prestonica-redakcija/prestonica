@@ -21,10 +21,11 @@
   tickTimes(); setInterval(tickTimes, 60000);
 
   /* ---------- zaglavlje i progres ---------- */
-  var mast = $("#mast"), tb = document.querySelector(".topbar"), prog = $("#progress"), art = $("[data-article]");
+  var gut = document.querySelector(".gutters"), wide = window.matchMedia ? window.matchMedia("(min-width: 1680px)") : null, mast = $("#mast"), tb = document.querySelector(".topbar"), prog = $("#progress"), art = $("[data-article]");
   var mobile = window.matchMedia ? window.matchMedia("(max-width: 620px)") : null, navEl = mast && mast.querySelector(".nav"), navStuck = false;
   var navTop = 0; try { navTop = parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--sat")) || 0; } catch (e) {}
   function onScroll() {
+    if (gut && wide && wide.matches) gut.style.setProperty("--px", Math.max(-40, Math.min(40, -window.scrollY * 0.03)).toFixed(1) + "px");
     if (mast) {
       if (mobile && mobile.matches) {
         if (mast.classList.contains("scrolled")) mast.classList.remove("scrolled"); if (tb) tb.style.opacity = "";
