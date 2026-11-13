@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-12T09:34:19.061671+00:00",
- "updated": "2026-11-12T09:34:19.061671+00:00",
+ "updated": "2026-11-13T04:11:09.682052+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://insajder.net/prenosimo/putevi-srbije-petlja-vrnjacka-banja-od-danas-zatvorena-za-saobracaj-zbog-sanacije-kolovoza",
    "title": "Putevi Srbije: Petlja Vrnjačka Banja od danas zatvorena za saobraćaj zbog sanacije kolovoza",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/srbija/10160103/radovi-na-moravskom-koridoru",
+   "title": "RADOVI ĆE TRAJATI 26. DANA: Petlja Vrnjačka Banja zatvorena u oba smera, ka Nišu se preko Ostružničkog mosta vozi suprotnim kolovozom",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Petlja Vrnjačka Banja od danas zatvorena za saobraćaj zbog sanacije kolovoza",
-  "Putevi Srbije: Petlja Vrnjačka Banja od danas zatvorena za saobraćaj zbog sanacije kolovoza"
+  "Putevi Srbije: Petlja Vrnjačka Banja od danas zatvorena za saobraćaj zbog sanacije kolovoza",
+  "RADOVI ĆE TRAJATI 26. DANA: Petlja Vrnjačka Banja zatvorena u oba smera, ka Nišu se preko Ostružničkog mosta vozi suprotnim kolovozom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Petlja Vrnjačka Banja zatvorena u oba smera, radovi na kolovozu traju 26 dana"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
