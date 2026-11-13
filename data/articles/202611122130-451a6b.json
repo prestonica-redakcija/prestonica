@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T20:30:18.520161+00:00",
- "updated": "2026-11-13T11:22:43.987932+00:00",
+ "updated": "2026-11-13T11:37:37.701046+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -102,6 +102,30 @@
    "url": "https://www.b92.net/info/politika/284451/pocinju-konsultacije-uoci-konstitutivne-sednice-skupstine-predstavnici-lista-ulaze-u-parlament/vest",
    "title": "Počinju konsultacije uoči konstitutivne sednice Skupštine; Predstavnici lista ulaze u parlament",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1670765/skupstini-pocele-konsultacije-stolom-predstavnici-studentske-liste-ujedinjene-srbije-manjina",
+   "title": "U SKUPŠTINI POČELE KONSULTACIJE: Za stolom predstavnici Studentske liste, Ujedinjene Srbije i manjina",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/konsultacije-u-skupstini-srbije-pred-konstitutivnu-sednicu/",
+   "title": "Počele konsultacije u Skupštini Srbije uoči konstitutivne sednice",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10161117/konsultacije-sns-studentska-lista-skupstina-srbije",
+   "title": "POČELE KONSULTACIJE U SKUPŠTINI SRBIJE! Evo ko predstavlja SNS, a ko Studentsku listu - Tu su i predstavnici manjina",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/284451/u-toku-konsultacije-uoci-konstitutivne-sednice-skupstine-obracanje-u-1300-casova/vest",
+   "title": "U toku konsultacije uoči konstitutivne sednice Skupštine; Obraćanje u 13.00 časova",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -116,7 +140,11 @@
   "U Skupštini Srbije danas konsultacije uoči konstitutivne sednice; Poznati predstavnici Studentske liste",
   "Počinju konsultacije uoči konstitutivne sednice Skupštine; Ispred Studentske liste Čupić i Reljanović",
   "BLOG UŽIVO Počinju konsultacije pred konstitutivnu sednicu Skupštine: U parlament dolaze predstavnici Studentske liste, Vučić i manjine",
-  "Počinju konsultacije uoči konstitutivne sednice Skupštine; Predstavnici lista ulaze u parlament"
+  "Počinju konsultacije uoči konstitutivne sednice Skupštine; Predstavnici lista ulaze u parlament",
+  "U SKUPŠTINI POČELE KONSULTACIJE: Za stolom predstavnici Studentske liste, Ujedinjene Srbije i manjina",
+  "Počele konsultacije u Skupštini Srbije uoči konstitutivne sednice",
+  "POČELE KONSULTACIJE U SKUPŠTINI SRBIJE! Evo ko predstavlja SNS, a ko Studentsku listu - Tu su i predstavnici manjina",
+  "U toku konsultacije uoči konstitutivne sednice Skupštine; Obraćanje u 13.00 časova"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -129,7 +157,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Studentska lista na konsultacijama pred konstitutivnu sednicu, bez političkih dogovora"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-13T11:22:43.987932+00:00",
  "verzija": 3

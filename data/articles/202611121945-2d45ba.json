@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T18:45:18.667568+00:00",
- "updated": "2026-11-13T11:22:43.987932+00:00",
+ "updated": "2026-11-13T11:37:37.701046+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -96,6 +96,18 @@
    "url": "https://www.telegraf.rs/4432393-predstavnici-studentske-liste-kod-ambasadora-rusije",
    "title": "Predstavnici Studentske liste kod ambasadora Rusije",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/predstavnici-studentske-liste-na-sastanku-u-ambasadi-kanade/",
+   "title": "Predstavnici Studentske liste na sastanku u Ambasadi Kanade",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/iz-sl-najavili-sastanak-u-ambasadi-kanade/",
+   "title": "Iz SL najavili sastanak u Ambasadi Kanade",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -108,7 +120,9 @@
   "Ambasador Rusije sastao se sa predstavnicima Studentske liste",
   "Predstavnici Studentske liste se sastali sa ambasadorom Rusije",
   "Profesor nuklearne fizike bio sa Šoškićem kod ambasadora Rusije",
-  "Predstavnici Studentske liste kod ambasadora Rusije"
+  "Predstavnici Studentske liste kod ambasadora Rusije",
+  "Predstavnici Studentske liste na sastanku u Ambasadi Kanade",
+  "Iz SL najavili sastanak u Ambasadi Kanade"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -121,7 +135,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Ruski ambasador sastao se sa Šoškićem i Krmarom iz Studentske liste"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-13T10:52:55.361705+00:00",
  "verzija": 3
