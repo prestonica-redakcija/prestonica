@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T06:35:39.319205+00:00",
- "updated": "2026-11-13T13:06:51.847616+00:00",
+ "updated": "2026-11-13T13:21:48.977057+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -217,6 +217,12 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4432513-mirando-mrsic-podneo-ostavku",
    "title": "Mirando Mrsić podneo ostavku",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10161283/bivsi-sef-nvidije-dzensen-huang-navodno-imao-i-trecu-aferu",
+   "title": "BIVŠI ŠEF NVIDIJE IMAO I TREĆU AFERU?! Posle \"kineske špijunke\" i potpredsednice u kompaniji, pojavili se novi šokantni navodi Rojtersa, evo o kome je reč",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -250,7 +256,8 @@
   "Ko je novi predsednik upravnog odbora Nvidia? Imenovan nakon ostavke Huanga",
   "Prva ljubavnica navodna kineska špijunka, druga moćna direktorka Nvidije: Ko je druga žena sa kojom je Huang navodno imao aferu",
   "AFERA NVIDIA: Skandal koji je doveo do odlaska Džensena Huanga sa čela kompanije mogao bi da ima mnogo šire posledice",
-  "Mirando Mrsić podneo ostavku"
+  "Mirando Mrsić podneo ostavku",
+  "BIVŠI ŠEF NVIDIJE IMAO I TREĆU AFERU?! Posle \"kineske špijunke\" i potpredsednice u kompaniji, pojavili se novi šokantni navodi Rojtersa, evo o kome je reč"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -262,7 +269,7 @@
   "local": true,
   "alt": "Volstrit džornal: upravni odbor Nvidije mogao bi da razmotri smenu Džensena Huanga"
  },
- "novo_od_pisanja": 10,
+ "novo_od_pisanja": 11,
  "boost": 1.6,
  "prepisano": "2026-11-12T19:15:03.989954+00:00",
  "verzija": 5

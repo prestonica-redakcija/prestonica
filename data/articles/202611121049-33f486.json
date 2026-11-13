@@ -25,17 +25,24 @@
  ],
  "importance": 5,
  "published": "2026-11-12T09:49:14.445596+00:00",
- "updated": "2026-11-12T09:49:14.445596+00:00",
+ "updated": "2026-11-13T13:21:48.977057+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/english/news/fdu-students-request-rts-records-on-staff-qualifications-appointments/",
    "title": "FDU students request RTS records on staff qualifications, appointments",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/251884/poverenik-o-zahtevu-rts-u-ne-i-kompletna-dosijea-zaposlenih/vest",
+   "title": "Studenti u blokadi FDU traže podatke o 53 novinara RTS-a: Da li je njihov zahtev u skladu sa zakonom?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "FDU students request RTS records on staff qualifications, appointments"
+  "FDU students request RTS records on staff qualifications, appointments",
+  "Studenti u blokadi FDU traže podatke o 53 novinara RTS-a: Da li je njihov zahtev u skladu sa zakonom?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Studenti FDU traže od RTS-a podatke o kvalifikacijama i postavljenjima zaposlenih"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -34,7 +34,7 @@
  ],
  "importance": 4,
  "published": "2026-11-12T09:19:14.268478+00:00",
- "updated": "2026-11-12T11:48:14.846883+00:00",
+ "updated": "2026-11-13T13:21:48.977057+00:00",
  "sources": [
   {
    "name": "N1",
@@ -71,6 +71,12 @@
    "url": "https://www.danas.rs/svet/krstian-josip-peris-klinika-drektorka-ostavka/",
    "title": "„Utvrđen niz propusta u slučaju smrti pacijenta Kristiana Josipa Periša“: Direktorka zagrebačke Klinike za psihijatriju „Sveti Ivan“ Majda Grah podnela ostavku",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/region/284684/predsednik-upravnog-veca-bolnice-sveti-ivan-podneo-ostavku-nakon-smrti-josipa-perisa/vest",
+   "title": "Ne jenjava skandal u Hrvatskoj; Podneo ostavku predsednik upravnog veća bolnice u kojoj je umro Josip Periš",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -79,7 +85,8 @@
   "Direktorka psihijatrijske bolnice u Zagrebu podnela ostavku posle smrti sportiste: Inspekcija otkrila niz propusta, snimak pregledan tek nakon dve nedelje",
   "Ozbiljni propusti utvrđeni nakon smrti pacijenta u zagrebačkoj psihijatrijskoj klinici, direktorka podnela ostavku",
   "Protest u Zagrebu zbog smrti Kristiana Periša: Osam minuta tišine za mladića koji je preminuo u psihijatrijskoj bolnici",
-  "„Utvrđen niz propusta u slučaju smrti pacijenta Kristiana Josipa Periša“: Direktorka zagrebačke Klinike za psihijatriju „Sveti Ivan“ Majda Grah podnela ostavku"
+  "„Utvrđen niz propusta u slučaju smrti pacijenta Kristiana Josipa Periša“: Direktorka zagrebačke Klinike za psihijatriju „Sveti Ivan“ Majda Grah podnela ostavku",
+  "Ne jenjava skandal u Hrvatskoj; Podneo ostavku predsednik upravnog veća bolnice u kojoj je umro Josip Periš"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -91,6 +98,6 @@
   "local": true,
   "alt": "Direktorka zagrebačke psihijatrijske klinike podnela ostavku posle smrti pacijenta"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

@@ -37,16 +37,23 @@
  ],
  "importance": 5,
  "published": "2026-11-13T10:52:55.361705+00:00",
- "updated": "2026-11-13T10:52:55.361705+00:00",
+ "updated": "2026-11-13T13:21:48.977057+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/srbija/politika/251908/kriza-u-izraelu-ajzenkot-formira-vladu/vest",
    "title": "Hoće li Netanjahu žrtvovati mir zarad vlasti? Drama u Knesetu i strah od eskalacije na Bliskom istoku",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/251908/kriza-u-izraelu-ajzenkot-formira-vladu/vest",
+   "title": "Hoće li Netanjahu žrtvovati mir zarad vlasti? Drama u Knesetu i strah od eskalacije na Bliskom istoku",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
+  "Hoće li Netanjahu žrtvovati mir zarad vlasti? Drama u Knesetu i strah od eskalacije na Bliskom istoku",
   "Hoće li Netanjahu žrtvovati mir zarad vlasti? Drama u Knesetu i strah od eskalacije na Bliskom istoku"
  ],
  "author": "Redakcija Prestonice",
@@ -60,5 +67,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu,_February_2023.jpg",
   "osoba": "Benjamin Netanjahu",
   "alt": "Ajzenkot dobio mandat za vladu u Izraelu, Netanjahu predlaže vladu jedinstva"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
