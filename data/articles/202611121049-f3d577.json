@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T09:49:14.445596+00:00",
- "updated": "2026-11-13T17:05:05.351051+00:00",
+ "updated": "2026-11-13T17:20:04.848147+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -214,6 +214,18 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/297587/banka-postanska-stedionica-produzen-rad-zbog-isplate-depozita-alta-banke-termin-zakazalo-16450-klijenata/vest",
    "title": "Banka Poštanska štedionica: Produžen rad zbog isplate depozita Alta banke, termin zakazalo 16.450 klijenata",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1670913/nbs-banka-postanska-stedionica-isplata-klijenata-alata-banka-oduzeta-dozvola",
+   "title": "POŠTANSKA ŠTEDIONICA: Produžen rad zbog isplate depozita Alta banke, termin zakazalo 16.450 klijenata",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/izdavanje-potvrda-o-posedovanju-racuna-u-alta-banci-u-stecaju-od-16-novembra/",
+   "title": "Izdavanje potvrda o posedovanju računa u Alta banci u stečaju, od 16. novembra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -247,7 +259,9 @@
   "Agencija za osiguranje depozita: Od ponedeljka izdavanje potvrda o otvaranju računa u Alta banci u stečaju",
   "OGLASILA SE AGENCIJA ZA OSIGURANjE DEPOZITA: Od 16. novembra počinje izdavanje potvrda za isplatu deponenata Alta banke u stečaju",
   "Imate novac u Alta banci, a nemate papire? Od ponedeljka počinje izdavanje ključnih potvrda za isplatu",
-  "Banka Poštanska štedionica: Produžen rad zbog isplate depozita Alta banke, termin zakazalo 16.450 klijenata"
+  "Banka Poštanska štedionica: Produžen rad zbog isplate depozita Alta banke, termin zakazalo 16.450 klijenata",
+  "POŠTANSKA ŠTEDIONICA: Produžen rad zbog isplate depozita Alta banke, termin zakazalo 16.450 klijenata",
+  "Izdavanje potvrda o posedovanju računa u Alta banci u stečaju, od 16. novembra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -259,7 +273,7 @@
   "local": true,
   "alt": "Za isplatu osiguranih depozita Alta banke prijavilo se 7.713 korisnika za 12 sati"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 6,
  "boost": 1.6,
  "prepisano": "2026-11-13T08:39:01.965066+00:00",
  "verzija": 7

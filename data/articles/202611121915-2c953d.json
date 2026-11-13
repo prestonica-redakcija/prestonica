@@ -28,7 +28,7 @@
  ],
  "importance": 7,
  "published": "2026-11-12T18:15:31.976665+00:00",
- "updated": "2026-11-13T17:05:05.351051+00:00",
+ "updated": "2026-11-13T17:20:04.848147+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -83,6 +83,18 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1670910/nis-robne-rezerve-nafta-vlada-srbije",
    "title": "VLADA SRBIJE DONELA ODLUKU: Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/vlada-srbije-omoguceno-snabdevanje-nis-a-sirovom-naftom-iz-drzavnih-rezervi/",
+   "title": "Vlada Srbije: Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/284770/vlada-srbije-nis-dobija-do-66000-tona-nafte/vest",
+   "title": "Država pritekla u pomoć NIS-u: Stiže nafta",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -94,7 +106,9 @@
   "NIS traži odobrenje za korišćenje nafte iz državnih rezervi zbog prekida rada naftovoda JANAF",
   "NIS traži odobrenje za korišćenje nafte iz državnih rezervi zbog prekida rada naftovoda JANAF",
   "NIS ZATRAŽIO NAFTU IZ DRŽAVNIH REZERVI: Šta ovo znači za vozače u Srbiji?",
-  "VLADA SRBIJE DONELA ODLUKU: Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi"
+  "VLADA SRBIJE DONELA ODLUKU: Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi",
+  "Vlada Srbije: Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi",
+  "Država pritekla u pomoć NIS-u: Stiže nafta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -106,7 +120,7 @@
   "local": true,
   "alt": "NIS traži od države sirovu naftu i dizel iz rezervi zbog prekida isporuke preko JANAF-a"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-13T10:23:10.475153+00:00",
  "verzija": 2

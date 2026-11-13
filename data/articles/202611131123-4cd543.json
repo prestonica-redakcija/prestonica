@@ -32,17 +32,24 @@
  ],
  "importance": 4,
  "published": "2026-11-13T10:23:10.475153+00:00",
- "updated": "2026-11-13T10:23:10.475153+00:00",
+ "updated": "2026-11-13T17:20:04.848147+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1169493/dragan-j-vucicevic-sudjenje-kragujevac",
    "title": "Novi pokušaj ućutkivanja Informera! Sudski progon Dragana J. Vučićevića: Kadija te tuži, kadija ti sudi - upravo je dobio novu dimenziju (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=LukaX9X94M8",
+   "title": "Vučić: Napadi na tužioce i sudije su zastrašujući.",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
-  "Novi pokušaj ućutkivanja Informera! Sudski progon Dragana J. Vučićevića: Kadija te tuži, kadija ti sudi - upravo je dobio novu dimenziju (VIDEO)"
+  "Novi pokušaj ućutkivanja Informera! Sudski progon Dragana J. Vučićevića: Kadija te tuži, kadija ti sudi - upravo je dobio novu dimenziju (VIDEO)",
+  "Vučić: Napadi na tužioce i sudije su zastrašujući."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučićević danas mora u sud u Kragujevcu po tužbi sudije Nenada Bakovića"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
