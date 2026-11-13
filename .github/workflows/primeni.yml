@@ -1,0 +1,49 @@
+name: Primena izmena
+
+on:
+  push:
+    paths:
+      - .github/workflows/primeni.yml
+
+permissions:
+  contents: write
+
+jobs:
+  primeni:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Dopuna analize
+        run: |
+          git config user.name "prestonica-bot"
+          git config user.email "bot@users.noreply.github.com"
+          python3 - <<'PY'
+          import json, pathlib
+          from datetime import datetime, timezone
+          OLD = 'Izborni rezultat ga je u tome demantovao. Ali pitanje koje je postavio ostaje:'
+          NEW = 'Izborni rezultat ga je u tome demantovao. Plenum je u avgustu vetom skinuo i bivšeg kapitena reprezentacije Nemanju Vidića, uz obrazloženje da „nije lojalan“. Informer je, bez potvrde, preneo da je Vidić svoje učešće vezao za to da li će biti vetirani Lompar i doktor Vladimir Dugalić, bivši profesor Medicinskog fakulteta u Beogradu. Ako nova većina zaista traži stručne i ugledne ljude, onda i oni koji su ostali ispred vrata, a doprineli su da se dođe do promene, treba da budu razmotreni za odbore, savete i institucije, umesto da ih pamtimo samo po vetu. Ali pitanje koje je Mirović postavio ostaje:'
+          S = json.loads(r'''[{"name": "Kurir", "url": "https://www.kurir.rs/vesti/politika/10071051/veto-za-nemanju-vidica-i-jasminu-paunovic-studentska-lista", "title": "Veto za Nemanju Vidića i Jasminu Paunović", "spektar": "vlast"}, {"name": "Večernje novosti", "url": "https://www.novosti.rs/vesti/politika/1667666/mfublokadi-profesor-stojanovic-doktor-dugalic-govore-ime-studenata-medicinskog-fakulteta-studentskog-pokreta", "title": "MFUBlokadi: Profesor Stojanović i doktor Dugalić ne govore u ime studenata Medicinskog fakulteta", "spektar": "vlast"}]''')
+          p = pathlib.Path("data/articles/202611132235-1eab54.json")
+          a = json.loads(p.read_text(encoding="utf-8"))
+          i = [n for n, x in enumerate(a["body"]) if x.startswith("Drugo pitanje")]
+          assert len(i) == 1 and a["body"][i[0]].count(OLD) == 1 and "Vidić" not in a["body"][i[0]]
+          a["body"][i[0]] = a["body"][i[0]].replace(OLD, NEW)
+          a["sources"] += S
+          a["source_titles"] += [s["title"] for s in S]
+          a["updated"] = datetime.now(timezone.utc).isoformat()
+          a["verzija"] = a.get("verzija", 1) + 1
+          p.write_text(json.dumps(a, ensure_ascii=False, indent=1), encoding="utf-8")
+          print("DOPUNJENO")
+          PY
+          git rm -q .github/workflows/primeni.yml
+          git add -A data
+          git commit -q -m "Pogled s desna: dopuna o vetima (Vidic, Dugalic)"
+          for i in 1 2 3 4 5 6; do
+            git pull --rebase -q origin main && git push -q origin HEAD:main && echo "PRIMENJENO" && exit 0
+            sleep 10
+          done
+          exit 1
