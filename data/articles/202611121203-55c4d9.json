@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-12T11:03:35.609296+00:00",
- "updated": "2026-11-12T11:33:23.422839+00:00",
+ "updated": "2026-11-13T01:12:32.355048+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,12 +48,19 @@
    "url": "https://www.b92.net/biz/svet/vesti/284307/holandija-raspolaze-zlatnim-rezervama-vrednim-vise-od-70-milijardi-evra/vest",
    "title": "Holandija raspolaže zlatnim rezervama vrednim više od 70 milijardi evra",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/251724/holandija-nema-plan-za-koriscenje-zlatnih-rezervi-u-krizi/vest",
+   "title": "Holandski Revizorski sud: Nema jasnih pravila za korišćenje zlatnih rezervi u krizi",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Holandija raspolaže zlatnim rezervama vrednim više od 70 milijardi evra",
   "HOLANDIJA IMA ZLATNE REZERVE VEĆE OD 70 MILIJARDI EVRA! Povećane 7 puta od 2010. godine, ali nemaju jasno definisana pravila šta sa njima u slučaju rata",
-  "Holandija raspolaže zlatnim rezervama vrednim više od 70 milijardi evra"
+  "Holandija raspolaže zlatnim rezervama vrednim više od 70 milijardi evra",
+  "Holandski Revizorski sud: Nema jasnih pravila za korišćenje zlatnih rezervi u krizi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "local": true,
   "alt": "Holandija ima zlato vredno preko 70 milijardi evra, ali bez jasnih pravila za krizu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

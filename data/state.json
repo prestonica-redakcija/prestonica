@@ -2148,18 +2148,13 @@
   "https://www.telegraf.rs/4432129-ko-ce-sesti-u-upraznjenu-fotelju-u-uzicu-vecina-predlaze-gradonacelnika": "2026-11-12T23:58:07.203065+00:00",
   "https://biznis.telegraf.rs/info-biz/4431682-ova-evropska-zemlja-sedi-na-zlatnom-bogatstvu-u-rezervama-cuva-vise-od-70-milijardi-evra": "2026-11-13T00:12:57.506093+00:00",
   "https://www.tanjug.rs/svet/politika/297384/zelenski-razgovarao-sa-ruteom-o-nedostatku-raketa-za-pvo/vest": "2026-11-13T00:42:44.751098+00:00",
-  "https://www.telegraf.rs/vesti/svet/4432141-rute-obecao-pomoc-zelenskom-ukrajina-trazi-rakete-pac-2-i-pac-3": "2026-11-13T00:42:44.751098+00:00"
+  "https://www.telegraf.rs/vesti/svet/4432141-rute-obecao-pomoc-zelenskom-ukrajina-trazi-rakete-pac-2-i-pac-3": "2026-11-13T00:42:44.751098+00:00",
+  "https://www.euronews.rs/biznis/biznis-vesti/251724/holandija-nema-plan-za-koriscenje-zlatnih-rezervi-u-krizi/vest": "2026-11-13T01:12:32.355048+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-12T10:22+00:00",
-   "novih": 9,
-   "ukupno": 385,
-   "sekundi": 200.9
-  },
   {
    "vreme": "2026-11-12T10:34+00:00",
    "novih": 0,
@@ -2513,6 +2508,12 @@
    "novih": 0,
    "ukupno": 650,
    "sekundi": 32.2
+  },
+  {
+   "vreme": "2026-11-13T01:13+00:00",
+   "novih": 0,
+   "ukupno": 650,
+   "sekundi": 50.6
   }
  ],
  "licnosti_foto": {
@@ -5048,7 +5049,7 @@
    },
    "ininic": {
     "since_id": "2121015726131535915",
-    "t": 1794529681.7123246
+    "t": 1794532370.144403
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -5056,7 +5057,7 @@
    },
    "sviublokade_fdu": {
     "since_id": "2120560395492495772",
-    "t": 1794529681.7123246
+    "t": 1794532370.144403
    },
    "dragandjilas": {
     "since_id": null,
@@ -5104,11 +5105,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1794529681.7123246
+    "t": 1794532370.144403
    },
    "studentblokade": {
     "since_id": "2120988605036286437",
-    "t": 1794529681.7123246
+    "t": 1794532370.144403
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -5184,55 +5185,55 @@
    },
    "srdjanmil037": {
     "since_id": "2120749869757305219",
-    "t": 1794529681.7123246
+    "t": 1794532370.144403
    },
    "zoranlutovac": {
     "since_id": "2120963250930221562",
-    "t": 1794529681.7123246
+    "t": 1794532370.144403
    },
    "pajticbojan": {
     "since_id": null,
-    "t": 1794529681.7123246
+    "t": 1794532370.144403
    },
    "n_zelenovic": {
     "since_id": null,
-    "t": 1794529681.7123246
+    "t": 1794532370.144403
    },
    "boskoobradovic": {
     "since_id": null,
-    "t": 1794529681.7123246
+    "t": 1794532370.144403
    },
    "sasaradulovich": {
     "since_id": null,
-    "t": 1794529681.7123246
+    "t": 1794532370.144403
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1794529681.7123246
+    "t": 1794532370.144403
    },
    "zaklina_prva": {
     "since_id": "2120990644974084444",
-    "t": 1794529681.7123246
+    "t": 1794532370.144403
    },
    "stevanoccrp": {
     "since_id": "2120980122807505008",
-    "t": 1794529681.7123246
+    "t": 1794532370.144403
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1794529681.7123246
+    "t": 1794532370.144403
    },
    "igorbrakus": {
     "since_id": null,
-    "t": 1794529681.7123246
+    "t": 1794532370.144403
    },
    "radoholicar": {
     "since_id": null,
-    "t": 1794529681.7123246
+    "t": 1794532370.144403
    },
    "borakonj": {
     "since_id": "2121032262989066282",
-    "t": 1794529681.7123246
+    "t": 1794532370.144403
    },
    "narodnipokrets": {
     "since_id": "2120601957350195572",
