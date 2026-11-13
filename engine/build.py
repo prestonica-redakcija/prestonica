@@ -399,4 +399,7 @@ def _feeds(cfg: Config, out: Path, arts: list[dict], extra: list[str] | None = N
                   f"<news:language>sr</news:language></news:publication><news:publication_date>{a['published']}</news:publication_date>"
                   f"<news:title>{escape(a['headline'])}</news:title></news:news></url>" for a in news)
         + "</urlset>", encoding="utf-8")
-    (out / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {base}sitemap.xml\nSitemap: {base}news-sitemap.xml\n")
+    (out / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /statistika.html\nSitemap: {base}sitemap.xml\nSitemap: {base}news-sitemap.xml\n")
+    stat = Path(__file__).resolve().parent.parent / "static" / "statistika.html"
+    if stat.exists():
+        (out / "statistika.html").write_text(stat.read_text(encoding="utf-8"), encoding="utf-8")

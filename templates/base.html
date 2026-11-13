@@ -152,6 +152,15 @@
 
 <template id="share-tpl">{{ _share("", "") }}</template>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
+{% if domain %}<script>(function(){try{if(!/(^|\.)prestonica\.rs$/.test(location.hostname)||navigator.webdriver)return;try{if(localStorage.getItem("prestonica_ne_broji")==="1")return}catch(e){}
+var A="/api/stat",id=(Date.now().toString(36)+Math.random().toString(36).slice(2,12)).slice(0,20),q=new URLSearchParams(location.search),m=document.querySelector('meta[property="article:section"]');
+function s(p,o){var b=JSON.stringify(o);try{if(navigator.sendBeacon&&navigator.sendBeacon(A+p,new Blob([b],{type:"text/plain"})))return}catch(e){}fetch(A+p,{method:"POST",body:b,keepalive:true,headers:{"Content-Type":"text/plain"}}).catch(function(){})}
+s("/v",{id:id,p:location.pathname,r:document.referrer,n:document.title,s:m?m.content:"",w:screen.width,u:q.get("utm_source")||""});
+var act=0,last=Date.now(),vis=!document.hidden,dub=0;function tick(){var n=Date.now();if(vis)act+=Math.min(n-last,60000);last=n}
+function sc(){var h=document.documentElement,H=Math.max(h.scrollHeight,document.body.scrollHeight),p=H?Math.round(100*((window.scrollY||h.scrollTop)+innerHeight)/H):100;if(p>dub)dub=Math.min(100,p)}
+addEventListener("scroll",sc,{passive:true});setTimeout(sc,800);setInterval(tick,10000);
+function end(){tick();if(act>=1000)s("/x",{id:id,sek:Math.round(act/1000),dub:dub})}
+document.addEventListener("visibilitychange",function(){tick();vis=!document.hidden;last=Date.now();if(document.hidden)end()});addEventListener("pagehide",end)}catch(e){}})();</script>{% endif %}
 <script>{{ js|safe }}</script>
 </body>
 </html>
