@@ -26,17 +26,24 @@
  ],
  "importance": 6,
  "published": "2026-11-12T15:01:53.570295+00:00",
- "updated": "2026-11-12T15:01:53.570295+00:00",
+ "updated": "2026-11-13T07:09:55.600981+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/biznis/biznis-vesti/251780/apr-menja-sifre-delatnosti-svim-firmama-od-1-januara/vest",
    "title": "Važno za sve preduzetnike i firme u Srbiji: Od 1. januara nove šifre delatnosti, a za besplatnu promenu imate 30 dana",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/284373/apr-menja-sifre-delatnosti-nove-od-1-januara-2027/vest",
+   "title": "Sve se menja od 1. januara: Firme u Srbiji automatski prelaze na nove šifre",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Važno za sve preduzetnike i firme u Srbiji: Od 1. januara nove šifre delatnosti, a za besplatnu promenu imate 30 dana"
+  "Važno za sve preduzetnike i firme u Srbiji: Od 1. januara nove šifre delatnosti, a za besplatnu promenu imate 30 dana",
+  "Sve se menja od 1. januara: Firme u Srbiji automatski prelaze na nove šifre"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "APR: nove šifre delatnosti od 1. januara 2027, promena bez naknade u roku od 30 dana"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

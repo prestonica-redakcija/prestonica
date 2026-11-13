@@ -37,7 +37,7 @@
  ],
  "importance": 4,
  "published": "2026-11-11T21:40:17.910717+00:00",
- "updated": "2026-11-11T21:40:17.910717+00:00",
+ "updated": "2026-11-13T07:09:55.600981+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -50,11 +50,18 @@
    "url": "https://www.euronews.rs/svet/fokus/251664/papa-lav-xiv-stigao-u-peru-na-zavrsnicu-turneje/vest",
    "title": "Papa krenuo iz Aregentine za Peru, poslednju etapu turneje po Latinskoj Americi",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/297411/papa-lav-xiv-se-sastao-sa-sest-zrtava-zlostavljanja-u-peruu/vest",
+   "title": "Papa Lav XIV se sastao sa šest žrtava zlostavljanja u Peruu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Papa krenuo iz Aregentine za Peru, poslednju etapu turneje po Latinskoj Americi",
-  "Papa krenuo iz Aregentine za Peru, poslednju etapu turneje po Latinskoj Americi"
+  "Papa krenuo iz Aregentine za Peru, poslednju etapu turneje po Latinskoj Americi",
+  "Papa Lav XIV se sastao sa šest žrtava zlostavljanja u Peruu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,5 +73,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Visita_di_Papa_Leone_XIV_in_Senato_Mostra_Bibbia_Borso_D%27Este.jpg",
   "alt": "Papa Lav XIV otputovao iz Argentine u Peru, na poslednju etapu turneje"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
