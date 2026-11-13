@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T18:45:18.667568+00:00",
- "updated": "2026-11-13T10:52:55.361705+00:00",
+ "updated": "2026-11-13T11:22:43.987932+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -90,6 +90,12 @@
    "url": "https://www.danas.rs/vesti/politika/miodrag-krmar-ambasada-rusije-studentska-lista/",
    "title": "Profesor nuklearne fizike bio sa Šoškićem kod ambasadora Rusije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4432393-predstavnici-studentske-liste-kod-ambasadora-rusije",
+   "title": "Predstavnici Studentske liste kod ambasadora Rusije",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -101,7 +107,8 @@
   "Ruski ambasador se sastao sa predstavnicima studentske liste: Razgovarali o odnosima Srbije i Rusije i Kosovu",
   "Ambasador Rusije sastao se sa predstavnicima Studentske liste",
   "Predstavnici Studentske liste se sastali sa ambasadorom Rusije",
-  "Profesor nuklearne fizike bio sa Šoškićem kod ambasadora Rusije"
+  "Profesor nuklearne fizike bio sa Šoškićem kod ambasadora Rusije",
+  "Predstavnici Studentske liste kod ambasadora Rusije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -114,7 +121,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Ruski ambasador sastao se sa Šoškićem i Krmarom iz Studentske liste"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-13T10:52:55.361705+00:00",
  "verzija": 3

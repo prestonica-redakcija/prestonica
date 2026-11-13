@@ -30,17 +30,24 @@
  ],
  "importance": 5,
  "published": "2026-11-13T10:08:15.452290+00:00",
- "updated": "2026-11-13T10:08:15.452290+00:00",
+ "updated": "2026-11-13T11:22:43.987932+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/rudarska-kompanija-bhp-8-istrazne-licence-istocna-srbija/",
    "title": "eKapija: Rudarska kompanija BHP odustala od osam istražnih licenci u istočnoj Srbiji",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/rudarski-gigant-bhp-odustao-od-istrazivanja-bakra-i-zlata-u-istocnoj-srbiji/",
+   "title": "Rudarski gigant BHP odustao od istraživanja bakra i zlata u istočnoj Srbiji",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "eKapija: Rudarska kompanija BHP odustala od osam istražnih licenci u istočnoj Srbiji"
+  "eKapija: Rudarska kompanija BHP odustala od osam istražnih licenci u istočnoj Srbiji",
+  "Rudarski gigant BHP odustao od istraživanja bakra i zlata u istočnoj Srbiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "BHP odustao od osam istražnih licenci u istočnoj Srbiji, zadržava dva projekta"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

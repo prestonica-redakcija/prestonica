@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-12T08:49:27.967825+00:00",
- "updated": "2026-11-12T23:13:18.088564+00:00",
+ "updated": "2026-11-13T11:22:43.987932+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -63,6 +63,12 @@
    "url": "https://radar.nova.rs/ekonomija/fiktivnim-fakturama-drzavu-ostetili-za-milione/",
    "title": "Fiktivnim fakturama državu oštetili za milione evra",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/uhapseno-vise-osoba-zbog-trgovine-narkoticima/",
+   "title": "Uhapšeno više osoba zbog trgovine narkoticima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -71,7 +77,8 @@
   "UDAR NA PORESKU MAFIJU U NOVOM SADU! Oprali 27 miliona preko fiktivnih firmi, oštetili budžet države: Uhapšene dve osobe, jedna u bekstvu",
   "Mentalno razgibavanje: Firma za rad sa državom",
   "OGLASILA SE I POLICIJA ZBOG PORESKE MAFIJE IZ NOVOG SADA: Prebacivali milione na privatni račun, pa dizali sa bankomata - jedna osoba u bekstvu!",
-  "Fiktivnim fakturama državu oštetili za milione evra"
+  "Fiktivnim fakturama državu oštetili za milione evra",
+  "Uhapšeno više osoba zbog trgovine narkoticima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -83,8 +90,8 @@
   "local": true,
   "alt": "Novi Sad: uhapšene dve osobe zbog sumnje na poresku prevaru i pranje novca"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-12T13:47:16.070170+00:00",
  "verzija": 2
 }

@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T08:53:53.111687+00:00",
- "updated": "2026-11-13T11:07:47.950991+00:00",
+ "updated": "2026-11-13T11:22:43.987932+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -67,6 +67,24 @@
    "url": "https://www.b92.net/info/hronika/284633/vjt-u-beogradu-usvojilo-zahtev-za-izuzece-glavnog-tuzioca-treceg-ojt-u-slucaju-milenijum-tim/vest",
    "title": "VJT u Beogradu usvojilo zahtev za izuzeće glavnog tužioca Trećeg OJT u slučaju \"Milenijum tim\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/297479/vise-javno-tuzilastvo-u-beogradu-usvojilo-zahtev-za-izuzece-glavnog-tuzioca-3-ojt-u-slucaju-milenijum-tim/vest",
+   "title": "Više javno tužilaštvo u Beogradu usvojilo zahtev za izuzeće glavnog tužioca 3. OJT u slučaju Milenijum tim",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/stefanovic-slucaj-milenijum-tim-dodelio-prvom-osnovnom-prihvatio-zahtev-za-izuzece-tuzilaca-iz-treceg/",
+   "title": "Stefanović slučaj \"Milenijum tim\" dodelio Prvom osnovnom, prihvatio zahtev advokata za izuzeće tužilaca iz Trećeg",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/usvojen-zahtev-za-izuzece-glavnog-tuzioca-treceg-ojt-slucaj-milenijum-tim-preuzima-prvo-osnovno-tuzilastvo/",
+   "title": "Usvojen zahtev za izuzeće glavnog tužioca Trećeg OJT: Slučaj \"Milenijum tim\" preuzima Prvo osnovno tužilaštvo",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -75,7 +93,10 @@
   "Treće osnovno tužilaštvo o predmetu \"Hotel Jugoslavija\": Još čekamo odluku po zahtevu za izuzeće",
   "Treće OJT u Beogradu: Nisu nam dostavljene odluke VJT o zahtevima za izuzeće u slučaju \"Milenijum tima\"",
   "VJT U BEOGRADU SE OGLASILO O \"MILENIJUM TIMU\": Predmet oduzet Trećem tužilaštvu zbog pristrasnosti, određeno ko će hitno postupati",
-  "VJT u Beogradu usvojilo zahtev za izuzeće glavnog tužioca Trećeg OJT u slučaju \"Milenijum tim\""
+  "VJT u Beogradu usvojilo zahtev za izuzeće glavnog tužioca Trećeg OJT u slučaju \"Milenijum tim\"",
+  "Više javno tužilaštvo u Beogradu usvojilo zahtev za izuzeće glavnog tužioca 3. OJT u slučaju Milenijum tim",
+  "Stefanović slučaj \"Milenijum tim\" dodelio Prvom osnovnom, prihvatio zahtev advokata za izuzeće tužilaca iz Trećeg",
+  "Usvojen zahtev za izuzeće glavnog tužioca Trećeg OJT: Slučaj \"Milenijum tim\" preuzima Prvo osnovno tužilaštvo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -88,8 +109,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Beograd_-_Hotel_Jugoslavija_(45267243451).jpg",
   "alt": "Treće tužilaštvo traži od Višeg da odluči o izuzećima u slučaju hotela Jugoslavija"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-13T11:07:47.950991+00:00",
  "verzija": 2
 }

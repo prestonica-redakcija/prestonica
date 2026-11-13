@@ -32,17 +32,24 @@
  ],
  "importance": 5,
  "published": "2026-11-13T08:24:06.923265+00:00",
- "updated": "2026-11-13T08:24:06.923265+00:00",
+ "updated": "2026-11-13T11:22:43.987932+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1169445/vladan-djokic-studentska-lista",
    "title": "Priznanje rektora Đokića: Biće upitno kako će nova vlast da se konstituiše - jedno je biti profesor fakulteta, a sasvim drugo voditi državu (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10161024/rektor-djokic-o-potrebnom-vremenu-za-prilagodjavanje-vlasti",
+   "title": "REKTOR BU OCENJUJE DA ĆE SE NOVA VLAST SUOČITI S VELIKIM IZAZOVIMA: Đokić: Biće upitno kako će da realizuju ono za šta će biti zaduženi!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Priznanje rektora Đokića: Biće upitno kako će nova vlast da se konstituiše - jedno je biti profesor fakulteta, a sasvim drugo voditi državu (VIDEO)"
+  "Priznanje rektora Đokića: Biće upitno kako će nova vlast da se konstituiše - jedno je biti profesor fakulteta, a sasvim drugo voditi državu (VIDEO)",
+  "REKTOR BU OCENJUJE DA ĆE SE NOVA VLAST SUOČITI S VELIKIM IZAZOVIMA: Đokić: Biće upitno kako će da realizuju ono za šta će biti zaduženi!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Vladan_%C4%90oki%C4%87_na_protestu.jpg",
   "alt": "Rektor Đokić: Novoj vlasti biće potrebno vreme da savlada funkcionisanje države"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
