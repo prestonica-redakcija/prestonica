@@ -28,17 +28,24 @@
  ],
  "importance": 4,
  "published": "2026-11-13T20:48:30.259270+00:00",
- "updated": "2026-11-13T20:48:30.259270+00:00",
+ "updated": "2026-11-13T21:18:20.991480+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1670972/dve-godine-niste-ponasali-kao-novinari-vec-aktivisti-djilas-otpuzio-novu-n1-propagandisti-studentske-liste",
    "title": "\"DVE GODINE SE NISTE PONAŠALI KAO NOVINARI, VEĆ AKTIVISTI\" Đilas otpužio Novu S i N1 da su propagandisti Studentske liste",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1169699/dragan-djilas-novinari-prozivka-n1-nova-s",
+   "title": "Da li to Đilas sada proziva zaposlene N1 i Nove S?! \"Dve godine se niste ponašali kao novinari, već kao aktivisti jedne političke opcije\" (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "\"DVE GODINE SE NISTE PONAŠALI KAO NOVINARI, VEĆ AKTIVISTI\" Đilas otpužio Novu S i N1 da su propagandisti Studentske liste"
+  "\"DVE GODINE SE NISTE PONAŠALI KAO NOVINARI, VEĆ AKTIVISTI\" Đilas otpužio Novu S i N1 da su propagandisti Studentske liste",
+  "Da li to Đilas sada proziva zaposlene N1 i Nove S?! \"Dve godine se niste ponašali kao novinari, već kao aktivisti jedne političke opcije\" (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Dragan_Djilas_2013.jpg",
   "alt": "Đilas optužio N1 i Novu S da se ponašaju kao aktivisti Studentske liste"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

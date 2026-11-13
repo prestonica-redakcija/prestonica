@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T21:03:23.574833+00:00",
- "updated": "2026-11-13T21:03:23.574833+00:00",
+ "updated": "2026-11-13T21:18:20.991480+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,10 +47,17 @@
    "url": "https://www.kurir.rs/planeta/10161704/KOSTA-Evropa-ce-poslati-tim-diplomata-na-sledecu-rundu-pregovora-o-Ukrajini",
    "title": "KOŠTA: Evropa će poslati tim diplomata na sledeću rundu pregovora o Ukrajini",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10161704/kosta-evropa-ce-poslati-tim-diplomata-na-sledecu-rundu-pregovora-o-ukrajini",
+   "title": "KOŠTA: Evropa će poslati tim diplomata na sledeću rundu pregovora o Ukrajini",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Košta: Evropa će poslati tim diplomata na sledeću rundu pregovora o Ukrajini",
+  "KOŠTA: Evropa će poslati tim diplomata na sledeću rundu pregovora o Ukrajini",
   "KOŠTA: Evropa će poslati tim diplomata na sledeću rundu pregovora o Ukrajini"
  ],
  "author": "Redakcija Prestonice",
@@ -62,5 +69,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Košta: Evropa šalje tim diplomata na sledeću rundu pregovora o Ukrajini"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

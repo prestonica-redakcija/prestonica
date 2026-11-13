@@ -26,17 +26,24 @@
  ],
  "importance": 3,
  "published": "2026-11-13T18:49:24.929160+00:00",
- "updated": "2026-11-13T18:49:24.929160+00:00",
+ "updated": "2026-11-13T21:18:20.991480+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/297609/organizacija-za-ekonomsku-saradnju-i-razvoj-u-zemljama-eu-najteze-pronaci-nastavnike-i-zdravstvene-radnike/vest",
    "title": "Organizacija za ekonomsku saradnju i razvoj: U zemljama EU najteže pronaći nastavnike i zdravstvene radnike",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/oecd-u-zemljama-eu-najteze-pronaci-nastavnike-i-zdravstvene-radnike",
+   "title": "OECD: U zemljama EU najteže pronaći nastavnike i zdravstvene radnike",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Organizacija za ekonomsku saradnju i razvoj: U zemljama EU najteže pronaći nastavnike i zdravstvene radnike"
+  "Organizacija za ekonomsku saradnju i razvoj: U zemljama EU najteže pronaći nastavnike i zdravstvene radnike",
+  "OECD: U zemljama EU najteže pronaći nastavnike i zdravstvene radnike"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "OECD: u EU najteže do nastavnika, zdravstvenih radnika i IT stručnjaka"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
