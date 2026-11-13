@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T17:20:04.848147+00:00",
- "updated": "2026-11-13T17:20:04.848147+00:00",
+ "updated": "2026-11-13T22:47:31.284862+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.b92.net/info/region/284772/trovanje-hlorom-u-rumuniji/vest",
    "title": "Incident u Rumuniji; Pet osoba primljeno u bolnicu zbog trovanja",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10161525/hospitalizovano-pet-osoba-zbog-trovanja-hlorom-u-incidentu-u-rumuniji",
+   "title": "DRAMA U RUMUNIJI! Hlor počeo da curi u hemijskoj fabrici, pet osoba u bolnici, proglašena zona opasnosti",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Hospitalizovano pet osoba zbog trovanja hlorom u incidentu u Rumuniji",
-  "Incident u Rumuniji; Pet osoba primljeno u bolnicu zbog trovanja"
+  "Incident u Rumuniji; Pet osoba primljeno u bolnicu zbog trovanja",
+  "DRAMA U RUMUNIJI! Hlor počeo da curi u hemijskoj fabrici, pet osoba u bolnici, proglašena zona opasnosti"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Curenje hlora u fabrici u Rumuniji, pet osoba primljeno u bolnicu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

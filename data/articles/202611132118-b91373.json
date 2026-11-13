@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T20:18:47.027296+00:00",
- "updated": "2026-11-13T21:18:20.991480+00:00",
+ "updated": "2026-11-13T22:47:31.284862+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,12 +47,19 @@
    "url": "https://insajder.net/prenosimo/agencija-za-privredne-registre-srbije-objavila-izvestaj-o-poslovanju-ekonomskih-celina-u-2025-godini",
    "title": "Agencija za privredne registre Srbije objavila izveštaj o poslovanju ekonomskih celina u 2025. godini",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/251998/apr-prihodi-ekonomskih-celina-u-srbiji-veci-za-38-odsto/vest",
+   "title": "APR objavio izveštaj o poslovanju ekonomskih celina u 2025. godini: Najuspešniji EPS, a ko je još u vrhu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "APR objavio izveštaj o poslovanju ekonomskih celina u 2025. godini, najuspešniji EPS",
   "APR objavio izveštaj o poslovanju ekonomskih celina u 2025. godini: Evo ko je najuspešniji",
-  "Agencija za privredne registre Srbije objavila izveštaj o poslovanju ekonomskih celina u 2025. godini"
+  "Agencija za privredne registre Srbije objavila izveštaj o poslovanju ekonomskih celina u 2025. godini",
+  "APR objavio izveštaj o poslovanju ekonomskih celina u 2025. godini: Najuspešniji EPS, a ko je još u vrhu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "local": true,
   "alt": "APR: ekonomske celine u 2025. imale prihode od 6.179.678 miliona dinara, vodi EPS"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

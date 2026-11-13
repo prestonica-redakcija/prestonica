@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T22:32:42.790055+00:00",
- "updated": "2026-11-13T22:32:42.790055+00:00",
+ "updated": "2026-11-13T22:47:31.284862+00:00",
  "sources": [
   {
    "name": "B92",
@@ -46,11 +46,25 @@
    "url": "https://www.telegraf.rs/vesti/svet/4432806-nikad-vidjena-zaplena-u-madjarskoj-milijarde-bile-zakopane-u-sumama-peter-madjar-poslao-ostru-poruku-orbanu",
    "title": "Nikad viđena zaplena u Mađarskoj: Milijarde bile zakopane u šumama, Peter Mađar poslao oštru poruku Orbanu",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/284850/istraga-protiv-viktora-orbana-pronadjene-milijarde-u-sumama-u-madjarskoj/vest",
+   "title": "Pronađene milijarde u šumama u Mađarskoj; Mađar poslao oštru poruku FOTO/VIDEO",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10161763/u-madjarskoj-pronadjeno-zakopanih-vise-od-sest-milijardi-forinti",
+   "title": "PRONAĐENE MILIJARDE ZAKOPANE U ŠUMAMA! Haos u Mađarskoj: Peter Mađar prozvao Viktora Orbana:",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Pronađene milijarde u šumama u Mađarskoj; Mađar poslao oštru poruku FOTO/VIDEO",
-  "Nikad viđena zaplena u Mađarskoj: Milijarde bile zakopane u šumama, Peter Mađar poslao oštru poruku Orbanu"
+  "Nikad viđena zaplena u Mađarskoj: Milijarde bile zakopane u šumama, Peter Mađar poslao oštru poruku Orbanu",
+  "Pronađene milijarde u šumama u Mađarskoj; Mađar poslao oštru poruku FOTO/VIDEO",
+  "PRONAĐENE MILIJARDE ZAKOPANE U ŠUMAMA! Haos u Mađarskoj: Peter Mađar prozvao Viktora Orbana:"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +76,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Viktor_Orb%C3%A1n_cropped.jpg",
   "alt": "Mađarska: zaplenjeno više od pet milijardi forinti gotovine u istrazi protiv Seštaka"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
