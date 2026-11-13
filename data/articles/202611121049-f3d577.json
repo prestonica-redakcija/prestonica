@@ -25,7 +25,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T09:49:14.445596+00:00",
- "updated": "2026-11-12T22:28:34.901688+00:00",
+ "updated": "2026-11-13T06:10:14.988718+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -86,6 +86,12 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/297389/sutra-pocinje-isplata-osiguranih-depozita-klijentima-alta-banke-u-stecaju/vest",
    "title": "Sutra počinje isplata osiguranih depozita klijentima Alta banke u stečaju",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/297389/danas-pocinje-isplata-osiguranih-depozita-klijentima-alta-banke-u-stecaju/vest",
+   "title": "Danas počinje isplata osiguranih depozita klijentima Alta banke u stečaju",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -98,7 +104,8 @@
   "Klijenti Alta banke od sutra mogu do svog novca: Evo šta je potrebno",
   "Sutra počinje isplata osiguranih depozita za klijente Alta banke: Poznato kako građani mogu da dođu do svog novca",
   "Isplata depozita Alta banke u stečaju: Ko će ostati bez 50.000 evra i da li će deo štete pasti na građane?",
-  "Sutra počinje isplata osiguranih depozita klijentima Alta banke u stečaju"
+  "Sutra počinje isplata osiguranih depozita klijentima Alta banke u stečaju",
+  "Danas počinje isplata osiguranih depozita klijentima Alta banke u stečaju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -110,7 +117,7 @@
   "local": true,
   "alt": "Za isplatu osiguranih depozita Alta banke prijavilo se 7.713 korisnika za 12 sati"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-12T22:28:34.901688+00:00",
  "verzija": 3

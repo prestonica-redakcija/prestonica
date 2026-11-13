@@ -3,20 +3,22 @@
  "slug": "rhmz-u-petak-toplo-i-vetrovito-popodne-kisa-pljuskovi-i-osetan-pad",
  "kind": "vest",
  "section": "drustvo",
- "headline": "RHMZ: u petak toplo i vetrovito, popodne kiša, pljuskovi i osetan pad temperature",
- "lead": "Republički hidrometeorološki zavod najavio je za petak, 13. novembra, natprosečno toplo vreme uz jak vetar, a zatim naglu promenu: kišu, pljuskove i osetno zahlađenje.",
+ "headline": "Petak do 25 stepeni, pa nagli preokret: u Beogradu popodne oko 10, na zapadu sneg",
+ "lead": "Posle natprosečno toplog jutra u Srbiji danas sledi nagla promena: kiša, pljuskovi i grmljavina, uz pad temperature, a prema pisanju Telegrafa u brdsko-planinskim predelima na zapadu i jugozapadu kiša će uveče preći u obilni sneg. U Beogradu bi popodne trebalo da bude oko 10 stepeni.",
  "body": [
-  "Prema saopštenju RHMZ-a, koje prenosi Insajder, temperature u petak biće od 9 do 25 stepeni, a najtoplije će biti na jugozapadu i jugoistoku zemlje.",
-  "Tokom dana očekuje se malo do umereno oblačno vreme sa sunčanim intervalima. Ujutru i pre podne jače naoblačenje sa kišom i pljuskovima, ponegde i sa grmljavinom, stiže na sever, jugozapad i jug, a posle podne i uveče i u ostale krajeve, uz osetan pad temperature.",
-  "Duvaće umeren i jak vetar južnih pravaca, a u planinskim predelima i na jugu Banata i olujni. Od sredine dana vetar će skretati na severozapadni, a uveče slabiti, navodi RHMZ.",
-  "U Beogradu će pre podne biti malo do umereno oblačno sa sunčanim intervalima. Od sredine dana najavljeno je jače naoblačenje sa kišom i pljuskovima, a posle podne i uveče osetan pad temperature. Najviša dnevna temperatura u prestonici biće oko 21 stepen."
+  "Republički hidrometeorološki zavod najavio je za petak, 13. novembra, temperature od 9 do 25 stepeni, uz najtoplije vreme na jugozapadu i jugoistoku zemlje, prenosi Tanjug. Tokom dana biće malo do umereno oblačno sa sunčanim intervalima.",
+  "Jače naoblačenje sa kišom i pljuskovima, ponegde i sa grmljavinom, ujutru i pre podne stiže na sever, jugozapad i jug, a posle podne i uveče i u ostale krajeve, uz osetan pad temperature, navodi RHMZ. Telegraf piše da kiša već rano ujutro stiže na sever Vojvodine, dok je u ostatku zemlje jutro vedro.",
+  "Duvaće umeren i jak južni vetar, u planinama i na jugu Banata olujni. Od sredine dana skreće na severozapadni, a uveče slabi. Telegraf navodi da su moguća i olujna udarna jačina vetra, uz prolazno jak severozapadni vetar.",
+  "Prema Telegrafu, jutarnja temperatura biće od 14 do 20 stepeni, a sredinom dana od 10 stepeni na severu Vojvodine do 25 stepeni u centralnim i jugoistočnim predelima. Do večeri sledi drastičan pad temperature, a na zapadu i jugozapadu Srbije, u brdsko-planinskim predelima, kiša prelazi u obilan sneg.",
+  "U Beogradu će, prema ranijem saopštenju RHMZ-a koje je preneo Insajder, najviša dnevna temperatura biti oko 21 stepen. Telegraf navodi da će prepodne biti do 22 stepena, a popodne drastičan pad na 10 stepeni i niže do večeri, uz jak južni vetar koji skreće na severni."
  ],
  "tags": [
-  "vremenska prognoza",
   "RHMZ",
+  "vreme",
   "zahlađenje",
-  "olujni vetar",
-  "pljuskovi"
+  "sneg",
+  "pljuskovi",
+  "Beograd"
  ],
  "people": [],
  "places": [
@@ -26,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-12T11:33:23.422839+00:00",
- "updated": "2026-11-12T23:13:18.088564+00:00",
+ "updated": "2026-11-13T06:10:14.988718+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -45,12 +47,26 @@
    "url": "https://nova.rs/magazin/vremenska-prognoza/u-srbiji-danas-natprosecno-toplo-i-vetrovito/",
    "title": "U Srbiji danas natprosečno toplo i vetrovito",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/297403/u-srbiji-danas-natprosecno-toplo-i-vetrovito-temperatura-do-25-stepeni/vest",
+   "title": "U Srbiji danas natprosečno toplo i vetrovito, temperatura do 25 stepeni",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4432073-danas-natprosecno-toplo-tokom-veceri-sledi-preokret-najvisa-dnevna-i-do-25-c",
+   "title": "Pre podne leto i 25 stepeni, posle podne pljuskovi, grmljavina i olujni vetar, a uveče sneg: Burna promena",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "U petak natprosečne temperature, pa nagla promena vremena: Pljuskovi, grmljavina i jak vetar",
   "Sutra natprosečno toplo: Vremenska prognoza za petak 13. novembar",
-  "U Srbiji danas natprosečno toplo i vetrovito"
+  "U Srbiji danas natprosečno toplo i vetrovito",
+  "U Srbiji danas natprosečno toplo i vetrovito, temperatura do 25 stepeni",
+  "Pre podne leto i 25 stepeni, posle podne pljuskovi, grmljavina i olujni vetar, a uveče sneg: Burna promena"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +78,8 @@
   "local": true,
   "alt": "RHMZ: u petak toplo i vetrovito, popodne kiša, pljuskovi i osetan pad temperature"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 0,
+ "boost": 1.32,
+ "prepisano": "2026-11-13T06:10:14.988718+00:00",
+ "verzija": 2
 }

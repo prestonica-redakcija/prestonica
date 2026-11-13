@@ -27,7 +27,7 @@
  ],
  "importance": 8,
  "published": "2026-11-12T11:33:23.422839+00:00",
- "updated": "2026-11-12T13:47:16.070170+00:00",
+ "updated": "2026-11-13T06:10:14.988718+00:00",
  "sources": [
   {
    "name": "N1",
@@ -76,6 +76,12 @@
    "url": "https://nova.rs/vesti/biznis/culibrk-o-povecanju-kamatne-stope-nbs-to-je-signal-da-ce-inflacija-biti-veca-nego-sto-je-planirano/",
    "title": "Ćulibrk o povećanju kamatne stope NBS: To je signal da će inflacija biti veća nego što je planirano",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/kamatna-stopa-nbs/",
+   "title": "„Zašto baš sada?“: Ekonomisti o iznenadnom povećanju kamatne stope NBS",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -86,7 +92,8 @@
   "NBS podigla referentnu kamatnu stopu",
   "Međugodišnja inflacija u Srbiji u oktobru povećana na 4,4 odsto",
   "Ćulibrk o povećanju kamatne stope NBS: To je signal da će inflacija biti veća nego što je planirano",
-  "Ćulibrk o povećanju kamatne stope NBS: To je signal da će inflacija biti veća nego što je planirano"
+  "Ćulibrk o povećanju kamatne stope NBS: To je signal da će inflacija biti veća nego što je planirano",
+  "„Zašto baš sada?“: Ekonomisti o iznenadnom povećanju kamatne stope NBS"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -98,8 +105,8 @@
   "local": true,
   "alt": "NBS povećala referentnu kamatnu stopu na šest odsto, prvi put od septembra 2024"
  },
- "novo_od_pisanja": 1,
- "boost": 1.48,
+ "novo_od_pisanja": 2,
+ "boost": 1.56,
  "prepisano": "2026-11-12T13:32:29.095638+00:00",
  "verzija": 2
 }
