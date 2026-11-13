@@ -29,7 +29,7 @@
  ],
  "importance": 7,
  "published": "2026-11-13T12:37:08.947386+00:00",
- "updated": "2026-11-13T12:51:59.889369+00:00",
+ "updated": "2026-11-13T13:06:51.847616+00:00",
  "sources": [
   {
    "name": "N1",
@@ -48,12 +48,19 @@
    "url": "https://nova.rs/vesti/hronika/bivsi-inspektor-bia-milan-radoicic-otisao-u-rusiju/",
    "title": "Bivši inspektor BIA: Milan Radoičić otišao u Rusiju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/bia-milan-radoicic-rusija/",
+   "title": "Bivši inspektor BIA: Milan Radoičić napustio Srbiju, otišao u Rusiju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Zvezdanović: Milan Radoičić napustio zemlju, otišao u Rusiju",
   "Bivši inspektor BIA: Milan Radoičić napustio zemlju, otišao u Rusiju",
-  "Bivši inspektor BIA: Milan Radoičić otišao u Rusiju"
+  "Bivši inspektor BIA: Milan Radoičić otišao u Rusiju",
+  "Bivši inspektor BIA: Milan Radoičić napustio Srbiju, otišao u Rusiju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "local": true,
   "alt": "Bivši inspektor BIA tvrdi da je Milan Radoičić otišao u Rusiju"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

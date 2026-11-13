@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T06:55:05.526438+00:00",
- "updated": "2026-11-13T10:23:10.475153+00:00",
+ "updated": "2026-11-13T13:06:51.847616+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -80,6 +80,12 @@
    "url": "https://www.kurir.rs/techvision/ai/10161020/problemi-sa-microsoft-servisima-pogodili-i-chatgpt",
    "title": "Tehnološka apokalipsa širom sveta: Padom Microsofta pao i ChatGPT, oglasili se iz kompanije - evo šta se dešava",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/saveti/10161083/iskoristite-chatgpt-u-viberu-za-bolju-organizaciju",
+   "title": "Ne izlazite iz Vibera, a koristite ChatGPT: Evo i kako",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -90,7 +96,8 @@
   "Microsoft servisi pali širom sveta: Problemi pogodili čak i ChatGPT",
   "Globalni kolaps Majkrosofta, otkriveno šta je pošlo po zlu: Pogođeni ChatGPT, državne službe i milioni korisnika",
   "Microsoft u globalnom prekidu rada: Odbačene sumnje na sajber-napad, problem potpuno druge prirode",
-  "Tehnološka apokalipsa širom sveta: Padom Microsofta pao i ChatGPT, oglasili se iz kompanije - evo šta se dešava"
+  "Tehnološka apokalipsa širom sveta: Padom Microsofta pao i ChatGPT, oglasili se iz kompanije - evo šta se dešava",
+  "Ne izlazite iz Vibera, a koristite ChatGPT: Evo i kako"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -103,8 +110,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg",
   "alt": "Veliki prekid u radu Microsofta: Outlook i Teams satima nedostupni širom sveta"
  },
- "novo_od_pisanja": 2,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-13T09:53:25.553445+00:00",
  "verzija": 2
 }
