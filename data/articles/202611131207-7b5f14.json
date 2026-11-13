@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T11:07:47.950991+00:00",
- "updated": "2026-11-13T22:03:00.333562+00:00",
+ "updated": "2026-11-13T22:17:48.595213+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -103,6 +103,12 @@
    "url": "https://nova.rs/vesti/hronika/svercovali-kokain-u-posebno-napravljenim-bunkerima-u-kamionima-u-zajednickoj-akciji-srpske-i-slovenacke-policije-uhapseno-6-osoba/",
    "title": "Švercovali kokain u posebno napravljenim bunkerima u kamionima: U zajedničkoj akciji srpske i slovenačke policije uhapšeno 6 osoba",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/297654/mup-pancevo-kod-30-godisnjaka-pronadeno-vise-kilograma-narkotika/vest",
+   "title": "MUP Pančevo: Kod 30-godišnjaka pronađeno više kilograma narkotika",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -117,7 +123,8 @@
   "MUP: U Srbiji i Sloveniji uhapšena organizovana kriminalna grupa za krijumčarenje droge",
   "MUP: Hapšenja u Srbiji i Sloveniji zbog krijumčarenja droge kamionima, zaplenjeni hašiš, marihuana i kokain",
   "Policija upala u stan u Pančevu i ostala zatečena: Pronađeno više od 7 kilograma različitih droga",
-  "Švercovali kokain u posebno napravljenim bunkerima u kamionima: U zajedničkoj akciji srpske i slovenačke policije uhapšeno 6 osoba"
+  "Švercovali kokain u posebno napravljenim bunkerima u kamionima: U zajedničkoj akciji srpske i slovenačke policije uhapšeno 6 osoba",
+  "MUP Pančevo: Kod 30-godišnjaka pronađeno više kilograma narkotika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -130,6 +137,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Topola_Kr%C3%B3lewska,_mleczarnia_(2).jpg",
   "alt": "Kod Topole zaplenjeno oko 90 kilograma marihuane, uhapšena četvorica osumnjičenih"
  },
- "novo_od_pisanja": 11,
+ "novo_od_pisanja": 12,
  "boost": 1.6
 }

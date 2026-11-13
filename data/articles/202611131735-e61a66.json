@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T16:35:21.948288+00:00",
- "updated": "2026-11-13T16:35:21.948288+00:00",
+ "updated": "2026-11-13T22:17:48.595213+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,11 +43,18 @@
    "url": "https://www.b92.net/info/svet/284758/turska-i-katar-potpisali-sporazum-o-medjunarodnoj-odbrani/vest",
    "title": "Erdogan ima plan; Potpisan važan sporazum",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10161528/turska-i-katar-potpisali-sporazum-o-medjusobnoj-odbrani",
+   "title": "NOVI SAVEZ MENJA ODNOS SNAGA Turska i Katar potpisali važan sporazum: Oglasio se Erdogan posle tajnih razgovora",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Turska i Katar potpisali sporazum o međusobnoj odbrani i još četiri sporazuma",
-  "Erdogan ima plan; Potpisan važan sporazum"
+  "Erdogan ima plan; Potpisan važan sporazum",
+  "NOVI SAVEZ MENJA ODNOS SNAGA Turska i Katar potpisali važan sporazum: Oglasio se Erdogan posle tajnih razgovora"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:North_view_of_Tursk%C3%A1_street_in_%C4%8Cimice,_Prague.jpg",
   "alt": "Turska i Katar potpisali sporazum o međusobnoj odbrani i još četiri dokumenta"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

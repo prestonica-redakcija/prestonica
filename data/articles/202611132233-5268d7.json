@@ -25,7 +25,7 @@
  ],
  "importance": 7,
  "published": "2026-11-13T21:33:05.259057+00:00",
- "updated": "2026-11-13T22:03:00.333562+00:00",
+ "updated": "2026-11-13T22:17:48.595213+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -44,12 +44,19 @@
    "url": "https://n1info.rs/svet/letovi-sjedinjene-americke-drzave-prizemljeni-bezbednosni-razlog/",
    "title": "Svi letovi u SAD prizemljeni zbog \"vanrednih okolnosti i bezbednosnih razloga\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10161725/hitna-zabrana-poletanja-svih-aviona-na-celoj-teritoriji-sad",
+   "title": "PANIKA U AMERICI: Hitna zabrana poletanja svih aviona na celoj teritoriji SAD! Ovo su razlozi!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Obustava letova u SAD: Naređena zabrana poletanja širom zemlje iz \"bezbednosnih razloga“",
   "Obustavljeni svi letovi iz SAD",
-  "Svi letovi u SAD prizemljeni zbog \"vanrednih okolnosti i bezbednosnih razloga\""
+  "Svi letovi u SAD prizemljeni zbog \"vanrednih okolnosti i bezbednosnih razloga\"",
+  "PANIKA U AMERICI: Hitna zabrana poletanja svih aviona na celoj teritoriji SAD! Ovo su razlozi!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "local": true,
   "alt": "FAA naredila obustavu svih poletanja u SAD iz bezbednosnih razloga"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
