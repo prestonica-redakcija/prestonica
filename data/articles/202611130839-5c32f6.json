@@ -28,16 +28,23 @@
  ],
  "importance": 6,
  "published": "2026-11-13T07:39:34.793761+00:00",
- "updated": "2026-11-13T07:39:34.793761+00:00",
+ "updated": "2026-11-13T08:24:06.923265+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/djakovic-alta-banka-stednja-isplata-depozita-gradjanima/",
    "title": "Đaković: Namirivanje građana koji su imali preko 50.000 evra u Alta banci ne bi trebalo da ide preko budžeta države",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/djakovic-namirivanje-gradjana-koji-su-imali-preko-50000-evra-u-alta-banci-ne-bi-trebalo-da-ide-preko-budzeta-drzave/",
+   "title": "Đaković: Namirivanje građana koji su imali preko 50.000 evra u Alta banci ne bi trebalo da ide preko budžeta države",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Đaković: Namirivanje građana koji su imali preko 50.000 evra u Alta banci ne bi trebalo da ide preko budžeta države",
   "Đaković: Namirivanje građana koji su imali preko 50.000 evra u Alta banci ne bi trebalo da ide preko budžeta države"
  ],
  "author": "Redakcija Prestonice",
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Po%C5%A1tanska_%C5%A1tedionica_-_panoramio.jpg",
   "alt": "Đaković: Isplata štednje preko 50.000 evra u Alta banci ne bi trebalo da ide iz budžeta"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

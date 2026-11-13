@@ -35,7 +35,7 @@
  ],
  "importance": 4,
  "published": "2026-11-12T14:02:08.016750+00:00",
- "updated": "2026-11-12T14:02:08.016750+00:00",
+ "updated": "2026-11-13T08:24:06.923265+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,11 +48,18 @@
    "url": "https://www.b92.net/info/svet/284359/le-pen-i-melanson-favoriti-za-drugi-krug-izbora-u-francuskoj/vest",
    "title": "Stigli rezultati ankete; Le Pen i Melanšon favoriti za drugi krug",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/284575/izrael-zabranio-ulazak-zan-liku-melansonu-i-matildi-panot/vest",
+   "title": "Melanšonu zabranjen ulazak u Izrael",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Anketa: Le Pen i Melanšon favoriti za ulazak u drugi krug predsedničkih izbora u Francuskoj",
-  "Stigli rezultati ankete; Le Pen i Melanšon favoriti za drugi krug"
+  "Stigli rezultati ankete; Le Pen i Melanšon favoriti za drugi krug",
+  "Melanšonu zabranjen ulazak u Izrael"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +71,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_2011.jpg",
   "alt": "Anketa u Francuskoj: Le Pen vodi, Melanšon drugi, Filip i Gluksman gube zamah"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

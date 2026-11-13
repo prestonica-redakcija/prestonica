@@ -30,16 +30,23 @@
  ],
  "importance": 4,
  "published": "2026-11-13T08:09:16.680226+00:00",
- "updated": "2026-11-13T08:09:16.680226+00:00",
+ "updated": "2026-11-13T08:24:06.923265+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/zagradjanin-sps-ima-organe-dacic-ne-vodi-samostalno/",
    "title": "Zagrađanin o tvrdnjama da upravlja SPS-om: Partija ima svoje organe, ni Dačić je ne vodi samostalno",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/zagradjanin-o-tvrdnjama-da-upravlja-sps-om-partija-ima-svoje-organe-ni-dacic-je-ne-vodi-samostalno/",
+   "title": "Zagrađanin o tvrdnjama da upravlja SPS-om: Partija ima svoje organe, ni Dačić je ne vodi samostalno",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Zagrađanin o tvrdnjama da upravlja SPS-om: Partija ima svoje organe, ni Dačić je ne vodi samostalno",
   "Zagrađanin o tvrdnjama da upravlja SPS-om: Partija ima svoje organe, ni Dačić je ne vodi samostalno"
  ],
  "author": "Redakcija Prestonice",
@@ -53,5 +60,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Ivica_Da%C4%8Di%C4%87_(cropped).jpg",
   "osoba": "Ivica Dačić",
   "alt": "Zagrađanin odbacuje tvrdnje da upravlja SPS-om: odluke donose organi stranke"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -33,17 +33,24 @@
  ],
  "importance": 6,
  "published": "2026-11-13T06:25:04.737283+00:00",
- "updated": "2026-11-13T06:25:04.737283+00:00",
+ "updated": "2026-11-13T08:24:06.923265+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/biznis/milenijum-timu-izdata-dozvola-za-pripremne-radove/",
    "title": "Milenijum timu izdata dozvola za pripremne radove za izgradnju kompleksa na mestu hotela Jugoslavija: Potpis stavio Darko Glišić",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/milenijum-timu-izdata-dozvola-za-pripremne-radove-na-mestu-hotela-jugoslavija-a-potpisao-darko-glisic/",
+   "title": "Milenijum timu izdata dozvola samo za pripremne radove na mestu hotela Jugoslavija, a potpisao - Darko Glišić",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Milenijum timu izdata dozvola za pripremne radove za izgradnju kompleksa na mestu hotela Jugoslavija: Potpis stavio Darko Glišić"
+  "Milenijum timu izdata dozvola za pripremne radove za izgradnju kompleksa na mestu hotela Jugoslavija: Potpis stavio Darko Glišić",
+  "Milenijum timu izdata dozvola samo za pripremne radove na mestu hotela Jugoslavija, a potpisao - Darko Glišić"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Hotel_Jugoslavija_(2020)_02.jpg",
   "alt": "Dozvolu za pripremne radove na mestu hotela Jugoslavija potpisao Glišić, piše Nova"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

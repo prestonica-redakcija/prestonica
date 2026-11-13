@@ -29,16 +29,23 @@
  ],
  "importance": 2,
  "published": "2026-11-13T08:09:16.680226+00:00",
- "updated": "2026-11-13T08:09:16.680226+00:00",
+ "updated": "2026-11-13T08:24:06.923265+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/psg-stefan-simic-medju-50-mladih-liberala-evrope-koje-su-prepoznali-alde-i-lymec/",
    "title": "PSG: Stefan Simić među 50 mladih liberala Evrope koje su prepoznali ALDE i LYMEC",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/psg-stefan-simic-medju-50-mladih-liberala-evrope-koje-su-prepoznali-alde-i-lymec/",
+   "title": "PSG: Stefan Simić među 50 mladih liberala Evrope koje su prepoznali ALDE i LYMEC",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "PSG: Stefan Simić među 50 mladih liberala Evrope koje su prepoznali ALDE i LYMEC",
   "PSG: Stefan Simić među 50 mladih liberala Evrope koje su prepoznali ALDE i LYMEC"
  ],
  "author": "Redakcija Prestonice",
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Stefan_Simi%C4%8D,_CZE-NIR_2019-10-14_(1).jpg",
   "alt": "Stefan Simić iz PSG-a među 50 mladih liberala Evrope koje su izdvojili ALDE i LYMEC"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
