@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T11:22:43.987932+00:00",
- "updated": "2026-11-13T11:22:43.987932+00:00",
+ "updated": "2026-11-13T12:07:30.942141+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -48,11 +48,18 @@
    "url": "https://birn.rs/firma-macurinog-brata-kupila-vilu-na-dedinju-kreditom-alta-banke/",
    "title": "Macurin brat kupio vilu kreditom ALTA banke",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/firma-macurinog-brata-kupila-vilu-na-dedinju-kreditom-alta-banke-od-tri-miliona-evra/",
+   "title": "Firma Macurinog brata kupila vilu na Dedinju kreditom Alta banke od tri miliona evra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "BIRN: Firma brata Davora Macure kupila vilu na Dedinju kreditom Alta banke od tri miliona evra",
-  "Macurin brat kupio vilu kreditom ALTA banke"
+  "Macurin brat kupio vilu kreditom ALTA banke",
+  "Firma Macurinog brata kupila vilu na Dedinju kreditom Alta banke od tri miliona evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +71,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Alstone_Lane,_Cheltenham_-_geograph.org.uk_-_8215819.jpg",
   "alt": "BIRN: firma brata vlasnika Alta banke kupila vilu na Dedinju kreditom te banke"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T16:31:09.719763+00:00",
- "updated": "2026-11-13T11:07:47.950991+00:00",
+ "updated": "2026-11-13T12:07:30.942141+00:00",
  "sources": [
   {
    "name": "N1",
@@ -133,6 +133,12 @@
    "url": "https://www.telegraf.rs/4432310-skupstina-srbije-konsultacije-uoci-konstitutivne-sednice",
    "title": "Prvi susret novog saziva! Konsultacije u Skupštini Srbije: Na dnevnom redu 6 važnih tačaka",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/251927/konsultacije-u-skupstini-srbije-uoci-konstitutivne-sednice/vest",
+   "title": "Konsultacije u Skupštini Srbije uoči konstitutivne sednice novog saziva parlamenta",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -152,7 +158,8 @@
   "Danas konsultacije pred konstitutisanje Skupštine Srbije novog saziva",
   "Danas konsultacije pred konstitutisanje Skupštine Srbije novog saziva",
   "Veliko interesovanje za konsultacije u Skupštini",
-  "Prvi susret novog saziva! Konsultacije u Skupštini Srbije: Na dnevnom redu 6 važnih tačaka"
+  "Prvi susret novog saziva! Konsultacije u Skupštini Srbije: Na dnevnom redu 6 važnih tačaka",
+  "Konsultacije u Skupštini Srbije uoči konstitutivne sednice novog saziva parlamenta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -164,7 +171,7 @@
   "local": true,
   "alt": "Konsultacije pred konstitutivnu sednicu Skupštine Srbije sutra u podne"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-13T11:07:47.950991+00:00",
  "verzija": 4

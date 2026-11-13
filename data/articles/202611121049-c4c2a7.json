@@ -32,17 +32,24 @@
  "places": [],
  "importance": 7,
  "published": "2026-11-12T09:49:14.445596+00:00",
- "updated": "2026-11-12T09:49:14.445596+00:00",
+ "updated": "2026-11-13T12:07:30.942141+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/biznis/kako-je-i-koliko-sinisa-mali-povezan-s-milenijum-timom/",
    "title": "Kako je i koliko Siniša Mali povezan s Milenijum timom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/vlasnici-milenijum-tima-ivan-bosnjak-stojan-vujko/",
+   "title": "KRIK: Ko su vlasnici „Milenijum tima“?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Kako je i koliko Siniša Mali povezan s Milenijum timom"
+  "Kako je i koliko Siniša Mali povezan s Milenijum timom",
+  "KRIK: Ko su vlasnici „Milenijum tima“?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Sini%C5%A1a_Mali.jpg",
   "osoba": "Siniša Mali",
   "alt": "Nova o vezama Milenijum tima i Siniše Malog nakon naloga za hapšenje vlasnika"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
