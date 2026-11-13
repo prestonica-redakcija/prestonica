@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T10:08:15.452290+00:00",
- "updated": "2026-11-13T13:21:48.977057+00:00",
+ "updated": "2026-11-13T13:51:32.851440+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -68,6 +68,12 @@
    "url": "https://n1info.rs/svet/eksplozija-automobila-bombe-u-moskvi-povredjen-bliski-saradnik-azarova/",
    "title": "Eksplozija automobila-bombe u Moskvi: Povređen bliski saradnik Azarova",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/297531/azarov-ukrajinske-bezbednosne-sluzbe-izvele-atentat-na-zavorotnog-u-moskvi/vest",
+   "title": "Azarov: Ukrajinske bezbednosne službe izvele atentat na Zavorotnog u Moskvi",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -76,7 +82,8 @@
   "EKSPLOZIJA AUTOMOBILA U MOSKVI! Teško povređen pomoćnik bivšeg ukrajinskog premijera",
   "Eksplodirao automobil u Moskvi: Žrtva atentata savetnik bivšeg premijera Ukrajine (VIDEO)",
   "U Moskvi eksplodirao automobil sa savetnikom bivšeg premijera Ukrajine!",
-  "Eksplozija automobila-bombe u Moskvi: Povređen bliski saradnik Azarova"
+  "Eksplozija automobila-bombe u Moskvi: Povređen bliski saradnik Azarova",
+  "Azarov: Ukrajinske bezbednosne službe izvele atentat na Zavorotnog u Moskvi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -89,8 +96,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BB%D0%B0%D0%BA%D0%B0%D1%82_%D0%BF%D0%BE%D1%81%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%B0%D0%BC_%D0%B2_%D0%9C%D0%93%D0%94_%D0%B2_2024_%D0%B3._(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0).jpg",
   "alt": "U eksploziji automobila u Moskvi teško povređen bivši saradnik Mikole Azarova"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-13T13:21:48.977057+00:00",
  "verzija": 2
 }

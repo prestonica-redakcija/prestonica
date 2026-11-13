@@ -3,23 +3,24 @@
  "slug": "veliki-prekid-u-radu-microsofta-outlook-i-teams-satima-nedostupni",
  "kind": "vest",
  "section": "ekonomija",
- "headline": "Microsoft navodi da prekid nije izazvao sajber napad, pogođeni i OpenAI i Anthropic",
- "lead": "Microsoft je objasnio da veliki prekid usluga Outlook, Teams i Copilot nije posledica sajber napada, već preopterećenja infrastrukture nakon što je veći broj servera iznenada postao nedostupan. Prema pisanju Telegrafa i Nove, problemi su zahvatili i OpenAI i Anthropic, a stabilan oporavak do petka ujutru nije potvrđen.",
+ "headline": "Microsoft: ohrabrujući oporavak u Evropi, prekid traje najmanje 18 sati",
+ "lead": "Microsoft je u petak saopštio da beleži \"ohrabrujući napredak u oporavku u Evropi\", dok neki korisnici i dalje imaju probleme sa Outlookom i Teamsom. Prekid, koji prema Euronews Srbija traje najmanje 18 sati, kompanija ne pripisuje sajber napadu, već preopterećenju infrastrukture.",
  "body": [
-  "Problemi su počeli u četvrtak, 12. novembra, a Nova uz pozivanje na BBC navodi da Microsoft ni u petak ujutru nije potpuno vratio normalan rad sistema. Prema podacima servisa Downdetector, broj prijava problema sa Outlookom dostigao je gotovo 140.000, a prijave su stizale iz 74 zemlje, uključujući SAD, Japan i Singapur. Nova ističe da stvaran broj pogođenih može biti znatno veći, jer aplikacije Microsoft 365, prema podacima kompanije, koristi više od 430 miliona ljudi.",
-  "Korisnici su prijavljivali da ne mogu da otvore sandučiće, šalju i primaju poštu, pristupe pojedinim dokumentima ili pregledaju kalendare. Problemi su pogodili i Copilot, dok su neke funkcije Teamsa, poput razmene poruka i video-sastanaka, kod dela korisnika nastavile da rade. Poremećaji su, kako se navodi, najviše pogodili SAD i Australiju.",
-  "Microsoft je, prema Telegrafu i Novi, saopštio da prekid nije izazvan uobičajenim porastom saobraćaja ni sajber napadom. Veći broj servera neočekivano je postao nedostupan, saobraćaj je preusmeren na preostale servere, a oni su se preopteretili. Telegraf navodi da su pojedini serveri ponovo prestajali da odgovaraju kada bi im se vratilo opterećenje, zbog čega je oporavak sporiji od očekivanog.",
-  "Prema Euronews Srbija, kompanija je prvo javila pozitivne rezultate nakon ponovnog pokretanja pogođene infrastrukture, ali je kasnije na nalogu Microsoft 365 za obaveštenja o incidentima na mreži Iks navela da stabilan oporavak nije potvrđen. Microsoft je naveo da prilagođava protokole za upravljanje saobraćajem, preraspodeljuje opterećenje i selektivno ograničava pojedine tokove podataka, uz delimičan oporavak u pojedinim regionima. Nova prenosi da su, prema kompaniji, pokušaji otklanjanja problema do petka ujutru dali samo ograničene rezultate.",
-  "Prekid se proširio i izvan Microsoftovih proizvoda. OpenAI je saopštio da istražuje probleme sa povezivanjem svojih sistema sa Microsoftovim servisima, a probleme je prijavio i Anthropic, što ne znači da ChatGPT i Claude uopšte nisu radili, već da su pojedini alati i integracije bili pogođeni, navodi Telegraf. Nova piše da su poremećaji pogodili i službe vlade Singapura i australijsku obaveštajnu agenciju, a da su pojedine ordinacije opšte prakse u Velikoj Britaniji savetovale pacijente da se za hitne zahteve javljaju telefonom.",
-  "Kako prenosi CNN, a preuzimaju Euronews Srbija i Nova, neki zaposleni u američkim kompanijama ranije su završili radni dan, a u Australiji su pojedine firme imale poteškoće sa fakturama, škole sa nastavom, a distributivni centri za supermarkete sa radom. Australijski mediji javili su i o prekidu prenosa uživo iz sudova. Telegraf navodi da je proizvođač električnih kamiona Workhorse Group zbog poremećaja odložio objavu finansijskih rezultata sa 12. na 16. novembar. Tobi Mari, profesor računarstva na Univerzitetu u Melburnu, upozorio je da incident ukazuje na rizike zavisnosti globalne privrede od malog broja velikih tehnoloških kompanija, a australijski stručnjak za bezbednost Troj Hant rekao je za BBC da posledice mogu biti dalekosežne."
+  "Prema saopštenju koje prenosi BBC, a navodi Euronews Srbija, dostupnost servisa i isporuka imejlova poboljšavaju se u sve većem delu infrastrukture. Japan je, kako stoji u saopštenju, ostao komparativno stabilniji, a situacija u Severnoj Americi se takođe popravlja. Kompanija upozorava da pojedini korisnici i dalje mogu imati probleme dok se aktivnosti oporavka nastavljaju, a navodi da je usredsređena na rešavanje preostalih problema.",
+  "Problemi su počeli u četvrtak, 12. novembra. Prema podacima servisa Downdetector, koje navodi Nova, broj prijava problema sa Outlookom dostigao je gotovo 140.000 iz 74 zemlje. Nova ističe da je stvaran broj pogođenih verovatno znatno veći, jer aplikacije Microsoft 365, prema podacima kompanije, koristi više od 430 miliona ljudi.",
+  "Microsoft je ranije objasnio da prekid nije izazvan uobičajenim porastom saobraćaja ni sajber napadom. Prema pisanju Telegrafa i Nove, veći broj servera neočekivano je postao nedostupan, saobraćaj je preusmeren na preostale servere, a oni su se preopteretili. Telegraf navodi da su pojedini serveri ponovo prestajali da odgovaraju kada bi im se vratilo opterećenje, pa je oporavak sporiji od očekivanog.",
+  "Euronews Srbija navodi da je kompanija najpre javila pozitivne rezultate nakon ponovnog pokretanja pogođene infrastrukture, ali je kasnije na nalogu Microsoft 365 za obaveštenja o incidentima na mreži Iks navela da stabilan oporavak nije potvrđen. Microsoft je, prema ranijim izveštajima, prilagođavao protokole za upravljanje saobraćajem, preraspodeljivao opterećenje i selektivno ograničavao pojedine tokove podataka.",
+  "Korisnici su prijavljivali da ne mogu da otvore sandučiće, šalju i primaju poštu ili pristupe dokumentima, a problemi su pogodili i Copilot. Telegraf navodi da je OpenAI istraživao probleme sa povezivanjem sa Microsoftovim servisima, a da je probleme prijavio i Anthropic. Nova piše da su poremećaji pogodili i službe vlade Singapura i australijsku obaveštajnu agenciju, a da su pojedine ordinacije u Velikoj Britaniji savetovale pacijente da se za hitne zahteve javljaju telefonom.",
+  "Prema CNN-u, koji prenose Euronews Srbija i Nova, neki zaposleni u američkim kompanijama ranije su završili radni dan. U Australiji su pojedine firme imale poteškoće sa fakturama, škole sa nastavom na mreži, a distributivni centri za supermarkete sa radom. Australijski mediji javili su i o prekidu prenosa uživo iz sudova i problemima u povezivanju kandidata sa poslodavcima na razgovorima za posao. Telegraf navodi da je Workhorse Group zbog poremećaja odložio objavu finansijskih rezultata sa 12. na 16. novembar.",
+  "Tobi Mari, profesor računarstva na Univerzitetu u Melburnu, upozorio je da incident ukazuje na rizike zavisnosti globalne privrede od malog broja velikih tehnoloških kompanija. Australijski stručnjak za bezbednost Troj Hant rekao je za BBC da posledice mogu biti dalekosežne."
  ],
  "tags": [
   "Microsoft",
   "Outlook",
   "Teams",
+  "prekid usluga",
   "Copilot",
-  "OpenAI",
-  "prekid usluga"
+  "oporavak sistema"
  ],
  "people": [
   "Tobi Mari"
@@ -31,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T06:55:05.526438+00:00",
- "updated": "2026-11-13T13:06:51.847616+00:00",
+ "updated": "2026-11-13T13:51:32.851440+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -86,6 +87,12 @@
    "url": "https://www.kurir.rs/techvision/saveti/10161083/iskoristite-chatgpt-u-viberu-za-bolju-organizaciju",
    "title": "Ne izlazite iz Vibera, a koristite ChatGPT: Evo i kako",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/251946/majkrosoft-o-kvaru-na-svojoj-mrezi/vest",
+   "title": "Oglasio se Microsoft: Evo šta se dešava sa kvarom",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -97,7 +104,8 @@
   "Globalni kolaps Majkrosofta, otkriveno šta je pošlo po zlu: Pogođeni ChatGPT, državne službe i milioni korisnika",
   "Microsoft u globalnom prekidu rada: Odbačene sumnje na sajber-napad, problem potpuno druge prirode",
   "Tehnološka apokalipsa širom sveta: Padom Microsofta pao i ChatGPT, oglasili se iz kompanije - evo šta se dešava",
-  "Ne izlazite iz Vibera, a koristite ChatGPT: Evo i kako"
+  "Ne izlazite iz Vibera, a koristite ChatGPT: Evo i kako",
+  "Oglasio se Microsoft: Evo šta se dešava sa kvarom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -110,8 +118,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg",
   "alt": "Veliki prekid u radu Microsofta: Outlook i Teams satima nedostupni širom sveta"
  },
- "novo_od_pisanja": 3,
- "boost": 1.56,
- "prepisano": "2026-11-13T09:53:25.553445+00:00",
- "verzija": 2
+ "novo_od_pisanja": 0,
+ "boost": 1.6,
+ "prepisano": "2026-11-13T13:51:32.851440+00:00",
+ "verzija": 3
 }
