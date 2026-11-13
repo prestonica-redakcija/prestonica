@@ -33,17 +33,24 @@
  ],
  "importance": 6,
  "published": "2026-11-12T20:14:38.677905+00:00",
- "updated": "2026-11-12T20:14:38.677905+00:00",
+ "updated": "2026-11-13T19:04:21.286465+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1169370/nikol-pasinjan-aljbin-kurti-priznanje-kosova",
    "title": "Počelo je, sad će \"nobelovci\" da rešavaju! Dok je Vučić vodio državu ovo se nije dešavalo: Pašinjan nagovestio priznanje lažne države?! (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1670938/jermenija-spremna-prizna-kosovo-vucic-vesti-pasinjan-naziva-kurtija-premijerom-nikada-nije-uradio-dok-sam-bio-predsednik",
+   "title": "JERMENIJA SPREMNA DA PRIZNA KOSOVO Vučić o vesti da Pašinjan naziva Kurtija \"premijerom\": Nikada to nije uradio dok sam ja bio predsednik",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Počelo je, sad će \"nobelovci\" da rešavaju! Dok je Vučić vodio državu ovo se nije dešavalo: Pašinjan nagovestio priznanje lažne države?! (VIDEO)"
+  "Počelo je, sad će \"nobelovci\" da rešavaju! Dok je Vučić vodio državu ovo se nije dešavalo: Pašinjan nagovestio priznanje lažne države?! (VIDEO)",
+  "JERMENIJA SPREMNA DA PRIZNA KOSOVO Vučić o vesti da Pašinjan naziva Kurtija \"premijerom\": Nikada to nije uradio dok sam ja bio predsednik"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Nenad_Ra%C5%A1i%C4%87_i_Aljbin_Kurti.jpg",
   "alt": "Pašinjan u Parizu predstavio Kurtija kao premijera Kosova, zvaničnog priznanja nema"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

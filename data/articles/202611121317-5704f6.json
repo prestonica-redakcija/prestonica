@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T12:17:53.530908+00:00",
- "updated": "2026-11-12T22:58:16.195863+00:00",
+ "updated": "2026-11-13T19:04:21.286465+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -71,6 +71,12 @@
    "url": "https://nova.rs/sport/kosarka/partizan-se-oglasio-o-povredi-tompsona/",
    "title": "Partizan se oglasio o povredi Tompsona",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/sport/ostali-sportovi/10161633/zok-partizan-smena-trenera",
+   "title": "KRAJ! Partizan smenio trenera!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -80,7 +86,8 @@
   "Ministarstvo prosvete: Druga rata za povraćaj 50 odsto školarina do kraja novembra",
   "Ministarstvo prosvete: Druga rata za povraćaj 50 odsto školarina studentima do kraja novembra",
   "Oglasila se Studentska lista sa veoma bitnim saopštenjem",
-  "Partizan se oglasio o povredi Tompsona"
+  "Partizan se oglasio o povredi Tompsona",
+  "KRAJ! Partizan smenio trenera!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -92,6 +99,6 @@
   "local": true,
   "alt": "Druga rata povraćaja 50 odsto školarine studentima biće isplaćena do kraja novembra"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

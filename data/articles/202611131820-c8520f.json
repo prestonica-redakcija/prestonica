@@ -26,7 +26,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T17:20:04.848147+00:00",
- "updated": "2026-11-13T18:34:29.083981+00:00",
+ "updated": "2026-11-13T19:04:21.286465+00:00",
  "sources": [
   {
    "name": "N1",
@@ -51,13 +51,20 @@
    "url": "https://nova.rs/vesti/hronika/policija-pokusala-da-zaustavi-kamion-vozac-dao-gas-i-pobegao-filmska-potera-kod-backe-palanke/",
    "title": "Policija pokušala da zaustavi kamion, vozač dao gas i pobegao: Filmska potera kod Bačke Palanke",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/297615/mup-zaplenio-oko-12-kilograma-kokaina-vozac-pobegao-nakon-sto-je-izbacio-dva-ranca/vest",
+   "title": "MUP zaplenio oko 12 kilograma kokaina: Vozač pobegao nakon što je izbacio dva ranca",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Raspisana potraga za vozačem koji je iz auta izbacio dva ranca - sumnja se sa 12 kilograma kokaina",
   "FILMSKA JURNJAVA PO BAČKOJ PALANCI! Bežao od policije, izbacio 2 ranca sa 12 KILOGRAMA KOKAINA i pobegao - automobil pronađen, POTERA ZA DILEROM U TOKU (FOTO)",
   "DRAMA KOD BAČKE PALANKE: Policija ga zaustavljala, on dodao gas, pronađeno 12 kilograma!",
-  "Policija pokušala da zaustavi kamion, vozač dao gas i pobegao: Filmska potera kod Bačke Palanke"
+  "Policija pokušala da zaustavi kamion, vozač dao gas i pobegao: Filmska potera kod Bačke Palanke",
+  "MUP zaplenio oko 12 kilograma kokaina: Vozač pobegao nakon što je izbacio dva ranca"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +77,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:St_John_the_Baptist_church_in_Backa_Palanka_(11).jpg",
   "alt": "Potraga za vozačem koji je kod Bačke Palanke izbacio rance sa oko 12 kilograma kokaina"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

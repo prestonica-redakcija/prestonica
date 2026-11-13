@@ -3,20 +3,20 @@
  "slug": "radnik-pao-sa-krova-gradilista-u-kaludjerici-nakon-sto-ga-je-udarila",
  "kind": "vest",
  "section": "hronika",
- "headline": "Radnik pao sa krova gradilišta u Kaluđerici nakon što ga je udarila tabla koju je podigao vetar",
- "lead": "Na gradilištu u Kaluđerici radnik je pao sa visine od oko 16 metara, nakon što je jak vetar podigao tablu sa krova i udario ga, prenose Kurir i Nova. Prevezen je u Urgentni centar, a stanje mu nije poznato.",
+ "headline": "Radnik teško povređen i nesvestan nakon pada sa 16 metara na gradilištu u Kaluđerici",
+ "lead": "Radnik koji je pao sa krova zgrade u izgradnji u Kaluđerici teško je povređen i bio je u nesvesnom stanju kada ga je Hitna pomoć prevezla u Urgentni centar, prenosi RTS. Nesreća se dogodila oko 12 časova, a okolnosti se i dalje utvrđuju.",
  "body": [
-  "Nesreća se dogodila danas oko 12 časova na krovu zgrade u izgradnji u Kaluđerici. Prema prvim informacijama koje su prenela oba medija, a koje potiču od Telegrafa, počeo je da duva jak vetar i podigao tablu koja se nalazila na krovu.",
-  "Tabla je udarila radnika, koji je od siline udarca izgubio ravnotežu i pao sa visine od oko 16 metara, navodi Kurir, a isto prenosi i Nova pozivajući se na Telegraf.",
-  "Ekipa Hitne pomoći prevezla je povređenog muškarca u Urgentni centar, gde mu se ukazuje lekarska pomoć. Prema prvim nezvaničnim informacijama, najverovatnije je reč o državljaninu Indije.",
-  "Za sada nije poznato u kakvom se stanju nalazi povređeni radnik, niti kakve je povrede zadobio. Policija je izašla na lice mesta i obavila uviđaj, a u toku je utvrđivanje svih okolnosti nesreće, prenose oba medija."
+  "Prema navodima RTS-a, koje prenose Nova i Insajder, ekipa Hitne pomoći prevezla je teško povređenog muškarca u Urgentni centar, gde mu se ukazuje lekarska pomoć. Ranije je bilo poznato samo da je prevezen u Urgentni centar, bez podataka o stanju.",
+  "Prema prvim informacijama, počeo je da duva jak vetar i podigao tablu koja se nalazila na krovu zgrade u izgradnji. Tabla je udarila radnika, koji je od siline udarca izgubio ravnotežu i pao sa visine od oko 16 metara. Ovakav tok događaja ranije su preneli Kurir i Nova pozivajući se na Telegraf, a sada ga navodi i RTS.",
+  "Prema prvim nezvaničnim informacijama, najverovatnije je reč o državljaninu Indije. Izvori navode da za sada nije poznato kakve je tačno povrede radnik zadobio niti kakvo mu je stanje nakon prijema u Urgentni centar.",
+  "Policija je izašla na lice mesta i obavila uviđaj, a u toku je utvrđivanje svih okolnosti nesreće, piše RTS."
  ],
  "tags": [
-  "Kaluđerica",
   "nesreća na radu",
+  "Kaluđerica",
   "gradilište",
-  "Hitna pomoć",
-  "uviđaj"
+  "Urgentni centar",
+  "bezbednost radnika"
  ],
  "people": [],
  "places": [
@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T13:51:32.851440+00:00",
- "updated": "2026-11-13T18:34:29.083981+00:00",
+ "updated": "2026-11-13T19:04:21.286465+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -50,13 +50,27 @@
    "url": "https://www.danas.rs/vesti/drustvo/pao-radnik-na-gradilistu-kaludjerica/",
    "title": "Radnik pao sa 16 metara visine na gradilištu u Kaluđerici, prevezen u Urgentni",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/radnik-pao-sa-16-metara-na-gradilistu-u-kaludjerici-jak-vetar-podigao-tablu-koja-ga-je-udarila/",
+   "title": "Radnik pao sa 16 metara na gradilištu u Kaluđerici: Jak vetar podigao tablu koja ga je udarila",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/rts-nesreca-na-gradilistu-u-kaluderici-radnik-pao-sa-visine-od-16-metara",
+   "title": "RTS: Nesreća na gradilištu u Kaluđerici, radnik pao sa visine od 16 metara",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Nesreća na gradilištu u Kaluđerici: Vetar podigao tablu, ona udarila radnika i srušila ga sa krova",
   "RADNIK PAO SA 16 METARA VISINE ZBOG VETRA: Podigla se tabla na krovu i oborila muškarca - stravična nesreća u Kaluđerici!",
   "Radnik pao sa visine od 16 metara na gradilištu u Kaluđerici",
-  "Radnik pao sa 16 metara visine na gradilištu u Kaluđerici, prevezen u Urgentni"
+  "Radnik pao sa 16 metara visine na gradilištu u Kaluđerici, prevezen u Urgentni",
+  "Radnik pao sa 16 metara na gradilištu u Kaluđerici: Jak vetar podigao tablu koja ga je udarila",
+  "RTS: Nesreća na gradilištu u Kaluđerici, radnik pao sa visine od 16 metara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +83,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Kaludjerica_pan2.jpg",
   "alt": "Radnik pao sa krova gradilišta u Kaluđerici nakon što ga je udarila tabla koju je podigao vetar"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 0,
+ "boost": 1.32,
+ "prepisano": "2026-11-13T19:04:21.286465+00:00",
+ "verzija": 2
 }

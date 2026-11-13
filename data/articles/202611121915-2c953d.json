@@ -28,7 +28,7 @@
  ],
  "importance": 7,
  "published": "2026-11-12T18:15:31.976665+00:00",
- "updated": "2026-11-13T18:19:36.713290+00:00",
+ "updated": "2026-11-13T19:04:21.286465+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -125,6 +125,12 @@
    "url": "https://biznis.telegraf.rs/info-biz/4432695-hitna-mera-posle-havarije-naftovoda-janaf-omoguceno-snabdevanje-nis-a-sirovom-naftom-iz-drzavnih-rezervi",
    "title": "Hitna mera posle havarije naftovoda JANAF: Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/omoguceno-snabdevanje-nis-a-sirovom-naftom-iz-drzavnih-rezervi/",
+   "title": "Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -143,7 +149,8 @@
   "Omogućeno snabdevanje NIS-a sirovom naftom do 66.000 tona iz državnih rezervi",
   "Vlada Srbije u tehničkom mandatu odobrila NIS-u korišćenje nafte iz državnih rezervi zbog problema sa JANAF-om",
   "Vlada Srbije u tehničkom mandatu: Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi",
-  "Hitna mera posle havarije naftovoda JANAF: Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi"
+  "Hitna mera posle havarije naftovoda JANAF: Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi",
+  "Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -155,7 +162,7 @@
   "local": true,
   "alt": "NIS traži od države sirovu naftu i dizel iz rezervi zbog prekida isporuke preko JANAF-a"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-13T17:35:00.377973+00:00",
  "verzija": 3

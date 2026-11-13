@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T09:49:14.445596+00:00",
- "updated": "2026-11-13T18:19:36.713290+00:00",
+ "updated": "2026-11-13T19:04:21.286465+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -268,6 +268,12 @@
    "url": "https://www.b92.net/biz/srbija/vesti/284781/imate-novac-u-alta-banci-a-nemate-papire-od-ponedeljka-mozete-resiti-problem/vest",
    "title": "Imate novac u Alta banci, a nemate papire? Od ponedeljka možete rešiti problem",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/alta-banka-pocetak-isplate-osiguranih-depozita/",
+   "title": "Kako je protekao početak isplate osiguranih depozita Alta banke?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -310,7 +316,8 @@
   "Izdavanje potvrda o posedovanju računa u Alta banci u stečaju od 16. novembra",
   "HBO Original dokumentarna serija „U potrazi za istinom“ od 13. novembra na HBO Max",
   "Produženo radno vreme Poštanske štedionice: 16.450 klijenata Alta banke čeka isplatu depozita",
-  "Imate novac u Alta banci, a nemate papire? Od ponedeljka možete rešiti problem"
+  "Imate novac u Alta banci, a nemate papire? Od ponedeljka možete rešiti problem",
+  "Kako je protekao početak isplate osiguranih depozita Alta banke?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -322,7 +329,7 @@
   "local": true,
   "alt": "Za isplatu osiguranih depozita Alta banke prijavilo se 7.713 korisnika za 12 sati"
  },
- "novo_od_pisanja": 13,
+ "novo_od_pisanja": 14,
  "boost": 1.6,
  "prepisano": "2026-11-13T08:39:01.965066+00:00",
  "verzija": 7
