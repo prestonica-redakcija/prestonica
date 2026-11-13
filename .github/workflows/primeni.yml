@@ -1,0 +1,239 @@
+name: Primena izmena
+
+on:
+  push:
+    paths:
+      - .github/workflows/primeni.yml
+
+permissions:
+  contents: write
+
+jobs:
+  primeni:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Stav sa skicom
+        run: |
+          git config user.name "prestonica-bot"
+          git config user.email "bot@users.noreply.github.com"
+          mkdir -p /tmp/sk
+          cat > /tmp/sk/gen.py <<'GEN'
+          import math, random
+          random.seed(7)
+          W,H=1600,900
+          INK="#1c1a17"; PAPER="#efe7d6"; LIT="#d98a2b"; RED="#c8102e"
+          o=[]
+          o.append(f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">')
+          o.append('''<defs>
+          <filter id="rough" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="3"/><feDisplacementMap in="SourceGraphic" scale="3.2"/></filter>
+          <filter id="rough2"><feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="3" seed="9"/><feDisplacementMap in="SourceGraphic" scale="7"/></filter>
+          <filter id="paper"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" seed="2" result="n"/><feColorMatrix in="n" type="matrix" values="0 0 0 0 0.11  0 0 0 0 0.1  0 0 0 0 0.09  0 0 0 0.10 0"/></filter>
+          <filter id="blur12"><feGaussianBlur stdDeviation="10"/></filter>
+          <filter id="blur3"><feGaussianBlur stdDeviation="2.2"/></filter>
+          <pattern id="hatch" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(38)"><line x1="0" y1="0" x2="0" y2="9" stroke="#1c1a17" stroke-width="1.1" opacity=".55"/></pattern>
+          <pattern id="hatch2" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(-52)"><line x1="0" y1="0" x2="0" y2="7" stroke="#1c1a17" stroke-width="1" opacity=".45"/></pattern>
+          <radialGradient id="cone" cx="50%" cy="0%" r="100%"><stop offset="0" stop-color="#fff6dc" stop-opacity=".95"/><stop offset=".55" stop-color="#f6e3b4" stop-opacity=".45"/><stop offset="1" stop-color="#f6e3b4" stop-opacity="0"/></radialGradient>
+          <radialGradient id="vig" cx="50%" cy="55%" r="75%"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".55"/></radialGradient>
+          <radialGradient id="pool" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#fff3cf" stop-opacity=".9"/><stop offset="1" stop-color="#fff3cf" stop-opacity="0"/></radialGradient>
+          </defs>''')
+          o.append(f'<rect width="{W}" height="{H}" fill="{PAPER}"/>')
+          # back wall heavy crosshatch (darkness)
+          o.append(f'<rect width="{W}" height="{H}" fill="url(#hatch)" opacity=".85"/>')
+          o.append(f'<rect width="{W}" height="{H}" fill="url(#hatch2)" opacity=".7"/>')
+          o.append(f'<rect width="{W}" height="{H}" fill="{INK}" opacity=".35"/>')
+          # crowd shadows on back wall (plenum) - big faceless silhouettes
+          g=['<g filter="url(#blur12)" opacity=".55">']
+          x=-40
+          while x<W+60:
+              s=random.uniform(.8,1.35); cy=300+random.uniform(-25,25); hx=x
+              r=46*s
+              g.append(f'<circle cx="{hx:.0f}" cy="{cy-r*2.1:.0f}" r="{r:.0f}" fill="#0d0c0b"/>')
+              g.append(f'<path d="M{hx-r*2.1:.0f} {cy+260} Q{hx-r*2.2:.0f} {cy-r*0.6:.0f} {hx:.0f} {cy-r*0.7:.0f} Q{hx+r*2.2:.0f} {cy-r*0.6:.0f} {hx+r*2.1:.0f} {cy+260} Z" fill="#0d0c0b"/>')
+              x+=random.uniform(95,140)
+          g.append('</g>'); o+=g
+          # strings from shadows down to seats (mystery)
+          strings=[]
+          # hemicycle
+          cx,cy=800,1010
+          rows=9; total=250
+          radii=[300+i*52 for i in range(rows)]
+          cap=[int(r*math.pi*0.82/34) for r in radii]
+          sc=sum(cap); counts=[round(c*total/sc) for c in cap]; counts[-1]+=total-sum(counts)
+          seats=[]
+          for r,n in zip(radii,counts):
+              for k in range(n):
+                  a=math.pi*(0.095+0.81*(k+.5)/n)
+                  seats.append((a,r))
+          seats.sort(key=lambda t:(-t[0],t[1]))   # left to right by angle
+          lit=set(range(140))
+          o.append('<g filter="url(#rough)">')
+          for i,(a,r) in enumerate(seats):
+              X=cx-math.cos(a)*r*1.18; Y=cy-math.sin(a)*r*0.78
+              if Y>H+20: continue
+              w=17; h=13
+              rot=math.degrees(-(a-math.pi/2))*0.55
+              if i in lit:
+                  o.append(f'<g transform="translate({X:.1f},{Y:.1f}) rotate({rot:.1f})"><rect x="{-w/2}" y="{-h/2}" width="{w}" height="{h}" rx="3" fill="{LIT}" stroke="{INK}" stroke-width="1.6"/><line x1="{-w/2+2}" y1="{-h/2-5}" x2="{w/2-2}" y2="{-h/2-5}" stroke="{INK}" stroke-width="1.6"/></g>')
+              else:
+                  o.append(f'<g transform="translate({X:.1f},{Y:.1f}) rotate({rot:.1f})"><rect x="{-w/2}" y="{-h/2}" width="{w}" height="{h}" rx="3" fill="url(#hatch)" stroke="{INK}" stroke-width="1.6"/><line x1="{-w/2+2}" y1="{-h/2-5}" x2="{w/2-2}" y2="{-h/2-5}" stroke="{INK}" stroke-width="1.6"/></g>')
+              if i in lit and i%9==0:
+                  sx=X+random.uniform(-90,90); sy=150+random.uniform(0,80)
+                  strings.append(f'<path d="M{sx:.0f} {sy:.0f} Q{(sx+X)/2+random.uniform(-30,30):.0f} {(sy+Y)/2:.0f} {X:.0f} {Y-9:.0f}" fill="none" stroke="#f3e6c4" stroke-width="1" opacity=".55"/>')
+          o.append('</g>')
+          o.append('<g filter="url(#rough)">'+''.join(strings)+'</g>')
+          # light cone from lamp
+          o.append('<path d="M780 70 L820 70 L1020 900 L580 900 Z" fill="url(#cone)" opacity=".85"/>')
+          o.append('<ellipse cx="800" cy="815" rx="250" ry="60" fill="url(#pool)"/>')
+          # lamp
+          o.append(f'<g filter="url(#rough)" stroke="{INK}" stroke-width="2.4" fill="none"><line x1="800" y1="0" x2="800" y2="48"/><path d="M768 72 Q800 40 832 72 Z" fill="{INK}"/><circle cx="800" cy="76" r="6" fill="#fff3cf" stroke="none"/></g>')
+          # empty tall chair (speaker) at center
+          ch=f'''<g filter="url(#rough)" stroke="{INK}" stroke-width="3" stroke-linejoin="round" fill="{PAPER}">
+          <path d="M752 520 L752 760 M848 520 L848 760"/>
+          <path d="M745 500 Q800 470 855 500 L852 690 L748 690 Z"/>
+          <path d="M755 515 Q800 492 845 515 L843 680 L757 680 Z" fill="url(#hatch2)" stroke-width="1.6"/>
+          <path d="M728 690 L872 690 L882 718 L718 718 Z"/>
+          <path d="M726 718 L730 820 M874 718 L870 820 M748 718 L752 800 M852 718 L848 800"/>
+          <path d="M718 690 Q708 640 724 610 M882 690 Q892 640 876 610" fill="none"/>
+          </g>'''
+          o.append(ch)
+          # big question mark shadow on floor
+          o.append(f'<text x="800" y="878" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="230" fill="{INK}" opacity=".8" transform="scale(1.6,0.34) translate(-300,1700)" filter="url(#blur3)">?</text>')
+          # small handwritten label
+          o.append(f'<g font-family="Georgia, serif" font-style="italic" fill="#fff3cf" opacity="1"><text x="70" y="842" font-size="34">140 / 250</text></g>')
+          o.append(f'<line x1="70" y1="856" x2="200" y2="856" stroke="{RED}" stroke-width="3"/>')
+          o.append(f'<rect width="{W}" height="{H}" fill="url(#vig)"/>')
+          o.append(f'<rect width="{W}" height="{H}" filter="url(#paper)" opacity=".9"/>')
+          o.append('</svg>')
+          open('skica.svg','w').write('\n'.join(o))
+          GEN
+          (cd /tmp/sk && python3 gen.py)
+          CH=$(command -v google-chrome || command -v google-chrome-stable || command -v chromium-browser || command -v chromium)
+          "$CH" --headless=new --no-sandbox --disable-gpu --hide-scrollbars --window-size=1600,900 --screenshot=/tmp/sk/s.png file:///tmp/sk/skica.svg
+          test -s /tmp/sk/s.png
+          if command -v convert >/dev/null; then convert /tmp/sk/s.png -resize 1400x788 -quality 80 -interlace Plane uploads/foto/skica-140-mandata.jpg; else python3 -m pip install -q --break-system-packages pillow && python3 -c "from PIL import Image; Image.open('/tmp/sk/s.png').convert('RGB').resize((1400, 788)).save('uploads/foto/skica-140-mandata.jpg', quality=80, optimize=True, progressive=True)"; fi
+          test "$(stat -c %s uploads/foto/skica-140-mandata.jpg)" -gt 50000
+          python3 - <<'PY'
+          import json, pathlib
+          A = r'''{
+           "id": "202611132235-1eab54",
+           "slug": "pogled-s-desna-sto-cetrdeset-mandata-a-ko-odgovara",
+           "kind": "analiza",
+           "section": "politika",
+           "headline": "Pogled s desna: sto četrdeset mandata, a ko odgovara?",
+           "lead": "Analiza iz ugla birača nacionalne orijentacije. Studentska lista je 25. oktobra osvojila apsolutnu većinu, 140 od 250 mandata. Za građanina kome su važni Kosovo, porodica i država koja zna šta hoće, ta pobeda otvara pitanje na koje lista još nema odgovor: ko odlučuje i u čije ime?",
+           "body": [
+            "„Lista nema lidera“, poručili su osnivači u septembru. Na mitingu je to zvučalo kao obećanje da niko neće biti iznad ljudi. U Skupštini, gde se usvaja budžet, biraju sudije i ratifikuju međunarodni ugovori, to zvuči drugačije. Građani znaju ko je nosilac liste, ali ne znaju ko poslanicima određuje pravac, ko piše zakone i ko ih povlači kad krenu naopako. Ako poslednju reč imaju plenumi, onda o državi odlučuju tela koja niko nije birao na izborima i koja ni pred kim ne polažu račune.",
+            "Profesor Milo Lompar upozoravao je još u julu da na listi treba obezbediti „ravnopravan odnos predstavnika građanske i nacionalne orijentacije“. U septembru su ga plenumi vetom skinuli sa liste, kao i rektora Vladana Đokića i druge. Profesor međunarodnog prava Dejan Mirović tražio je listu „zasnovanu na paritetu“ građanskih i nacionalnih kandidata, a posle Lomparovog uklanjanja ocenio je da Vučić „može i da otvori šampanjac“. Izborni rezultat ga je u tome demantovao, ali pitanje koje je postavio ostaje: koliko u novoj većini ima mesta za birače kojima nacionalno pitanje nije sporedno?",
+            "„Studentski plan“ ima jedanaest tačaka i najjači je tamo gde je pokret i nastao: u borbi protiv korupcije i organizovanog kriminala. Za desnog birača, međutim, prva pitanja su Kosovo i Metohija, Republika Srpska i odnos prema Evropskoj uniji. Analitičari su još prošlog juna primećivali da studentski program zaobilazi Evropsku uniju i Kosovo. Tada je to bila taktika da se pokret ne podeli. Sa 140 poslanika i odgovornošću za državu, ta taktika više nije opravdanje.",
+            "Lider Novog DSS-a Miloš Jovanović govorio je da Studentska lista ne može da pokrije „ceo spektar“ i da bez autentične desne ponude nema pobede. Pobedu su studenti ipak ostvarili sami. Ali deo njegove opomene se ostvario: posle 25. oktobra u Skupštini sede samo Studentska lista, SNS i manjinske stranke. Birač nacionalne orijentacije koji nije hteo da glasa za SNS danas nema svoju stranku u parlamentu. Njegov glas može da se čuje samo unutar nove većine, ako ga ona bude htela da čuje.",
+            "Lista je obećala da konsultacije u Skupštini „neće postati prostor za političke dogovore iza zatvorenih vrata“. Proporcionalni odbori i javno glasanje jesu dobar početak, i to treba reći. Ali vladanje jeste dogovaranje. Sa 140 poslanika lista ne mora da pregovara ni sa kim i upravo zato mora sama sebi da postavi granice. Studentska delegacija na galeriji 17. novembra lep je simbol. Simbol samo ne sme da preraste u nadzor, jer poslanik odgovara biračima, a ne galeriji.",
+            "Običan građanin ne traži od nove vlasti da bude savršena. Traži da zna šta ona misli o Kosovu, i kome da se obrati kad nešto krene loše. Studentska lista je pobedila jer je obećala odgovornost. Pravi test neće biti konstitutivna sednica, nego prvi dan kada nešto krene naopako. Tada će građani pitati ko je kriv i imaće pravo da dobiju ime, a ne plenum."
+           ],
+           "tags": [
+            "Studentska lista",
+            "Skupština Srbije",
+            "Kosovo",
+            "Izbori 2026"
+           ],
+           "people": [],
+           "places": [
+            "Beograd"
+           ],
+           "importance": 8,
+           "published": "2026-11-13T21:35:00+00:00",
+           "updated": "2026-11-13T21:35:00+00:00",
+           "sources": [
+            {
+             "name": "N1",
+             "url": "https://n1info.rs/vesti/blog-srbija-vanredni-parlamentarni-izbori-25-oktobar-2026/",
+             "title": "Vučić priznao poraz: U parlamentu studenti, SNS i manjinske stranke",
+             "spektar": "opozicija"
+            },
+            {
+             "name": "Danas",
+             "url": "https://www.danas.rs/vesti/politika/studentska-lista-konsultacije-skupstina-zahtevi/",
+             "title": "Studentska lista objavila izveštaj o današnjim konsultacijama sa SNS i šta su zahtevi",
+             "spektar": "opozicija"
+            },
+            {
+             "name": "Vreme",
+             "url": "https://vreme.com/vesti/zavrsene-konsultacije-pred-konstitutivnu-sednicu-skupstine/",
+             "title": "Završene konsultacije pred konstitutivnu sednicu Skupštine",
+             "spektar": "opozicija"
+            },
+            {
+             "name": "Wikipedia",
+             "url": "https://en.wikipedia.org/wiki/Student_List",
+             "title": "Student List",
+             "spektar": "centar"
+            },
+            {
+             "name": "N1",
+             "url": "https://n1info.rs/vesti/lompar-na-studentskoj-listi-da-budu-predstavnici-gradjanske-i-nacionalne-orijentacije-saradnja-s-opozicijom-ne-bi-bila-stetna/",
+             "title": "Lompar: Na studentskoj listi da budu predstavnici građanske i nacionalne orijentacije",
+             "spektar": "opozicija"
+            },
+            {
+             "name": "Gledaj.rs",
+             "url": "https://gledaj.rs/2026/09/07/mirovic-nakon-izbacivanja-sa-studentske-liste-mila-lompara-vucic-moze-da-otvori-sampanjac-i-mirno-raspise-izbore/",
+             "title": "Mirović: Nakon izbacivanja sa studentske liste Mila Lompara, Vučić može da otvori šampanjac",
+             "spektar": "desno"
+            },
+            {
+             "name": "Danas",
+             "url": "https://www.danas.rs/vesti/politika/jovanovic-pobeda-vucic-studentska-lista/",
+             "title": "Jovanović tvrdi: Studentska lista ne može da pokrije „ceo spektar“",
+             "spektar": "opozicija"
+            },
+            {
+             "name": "021",
+             "url": "https://www.021.rs/story/Info/Srbija/411529/Studenti-iz-svog-programa-izostavili-EU-i-Kosovo-Samo-da-nam-se-ne-ponovi-Kostunica.html",
+             "title": "Studenti iz svog programa izostavili EU i Kosovo",
+             "spektar": "centar"
+            }
+           ],
+           "source_titles": [
+            "Vučić priznao poraz: U parlamentu studenti, SNS i manjinske stranke",
+            "Studentska lista objavila izveštaj o današnjim konsultacijama sa SNS i šta su zahtevi",
+            "Završene konsultacije pred konstitutivnu sednicu Skupštine",
+            "Student List",
+            "Lompar: Na studentskoj listi da budu predstavnici građanske i nacionalne orijentacije",
+            "Mirović: Nakon izbacivanja sa studentske liste Mila Lompara, Vučić može da otvori šampanjac",
+            "Jovanović tvrdi: Studentska lista ne može da pokrije „ceo spektar“",
+            "Studenti iz svog programa izostavili EU i Kosovo"
+           ],
+           "author": "Analitički tim Prestonice",
+           "hidden": false,
+           "image": {
+            "src": "foto/skica-140-mandata.jpg",
+            "credit": "Prestonica",
+            "ilustracija": true,
+            "local": true,
+            "alt": "Skica: prazna stolica pod lampom usred skupštinske sale sa 140 osvetljenih mesta i senkama iza njih"
+           }
+          }'''
+          a = json.loads(A)
+          p = pathlib.Path("data/articles") / (a["id"] + ".json")
+          assert not p.exists()
+          p.write_text(json.dumps(a, ensure_ascii=False, indent=1), encoding="utf-8")
+          y = pathlib.Path("uploads/index.yaml")
+          t = y.read_text(encoding="utf-8")
+          o = "\n\nrezerva:"
+          assert t.count(o) == 1 and "skica-140-mandata" not in t
+          t = t.replace(o, '\n  - {fajl: skica-140-mandata.jpg, kljucne: [skica-140-mandata], autor: "Prestonica"}\n\nrezerva:')
+          y.write_text(t, encoding="utf-8")
+          print("STAV OBJAVLJEN")
+          PY
+          git rm -q .github/workflows/primeni.yml
+          git add -A data uploads
+          git commit -q -m "Pogled s desna: sto cetrdeset mandata, a ko odgovara?"
+          for i in 1 2 3 4 5 6; do
+            git pull --rebase -q origin main && git push -q origin HEAD:main && echo "PRIMENJENO" && exit 0
+            sleep 10
+          done
+          exit 1
