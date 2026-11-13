@@ -429,3 +429,76 @@
     });
   });
 })();
+
+/* ---------- sirok ekran: desno polje uzivo (sat, vreme, kursna lista) ---------- */
+(function () {
+  var box = document.querySelector("[data-live]");
+  if (!box || !window.matchMedia) return;
+  var mq = window.matchMedia("(min-width: 1680px)"), started = false;
+  var DAN = ["nedelja", "ponedeljak", "utorak", "sreda", "četvrtak", "petak", "subota"], DK = ["Ned", "Pon", "Uto", "Sre", "Čet", "Pet", "Sub"];
+  var MES = ["januar", "februar", "mart", "april", "maj", "jun", "jul", "avgust", "septembar", "oktobar", "novembar", "decembar"];
+  var WMO = {0: "Vedro", 1: "Pretežno vedro", 2: "Delimično oblačno", 3: "Oblačno", 45: "Magla", 48: "Magla", 51: "Rosulja", 53: "Rosulja", 55: "Rosulja", 61: "Slaba kiša", 63: "Kiša", 65: "Jaka kiša", 66: "Ledena kiša", 67: "Ledena kiša", 71: "Slab sneg", 73: "Sneg", 75: "Jak sneg", 77: "Sneg", 80: "Pljuskovi", 81: "Pljuskovi", 82: "Jaki pljuskovi", 85: "Snežni pljuskovi", 86: "Snežni pljuskovi", 95: "Grmljavina", 96: "Grmljavina", 99: "Grmljavina"};
+  var S = 'fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"';
+  var SUN = '<circle cx="12" cy="12" r="4.2" ' + S + '/><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.3 5.3l1.6 1.6M17.1 17.1l1.6 1.6M5.3 18.7l1.6-1.6M17.1 6.9l1.6-1.6" ' + S + '/>';
+  var CLOUD = '<path d="M7 18h10a4 4 0 0 0 .6-7.95A5.5 5.5 0 0 0 7.1 9.6 4.2 4.2 0 0 0 7 18z" ' + S + '/>';
+  var ICO = {
+    sun: SUN,
+    part: '<circle cx="8.5" cy="8.5" r="3.2" ' + S + '/><path d="M8.5 2.5v1.4M2.5 8.5h1.4M4.3 4.3l1 1M12.7 4.3l-1 1" ' + S + '/><path d="M9 19h8.5a3.4 3.4 0 0 0 .5-6.76 4.7 4.7 0 0 0-8.9-1.2A3.6 3.6 0 0 0 9 19z" ' + S + '/>',
+    cloud: CLOUD,
+    fog: '<path d="M4 9h16M6 13h12M4 17h16" ' + S + '/>',
+    rain: CLOUD + '<path d="M9 20.5l-.8 1.6M13 20.5l-.8 1.6M17 20.5l-.8 1.6" ' + S + '/>',
+    snow: CLOUD + '<path d="M9 21h.01M13 21h.01M17 21h.01" ' + S + ' stroke-width="3"/>',
+    storm: CLOUD + '<path d="M12.5 17.5l-2 3h3l-2 3" ' + S + '/>'
+  };
+  function ico(c) {
+    var k = c === 0 ? "sun" : c <= 2 ? "part" : c === 3 ? "cloud" : c <= 48 ? "fog" : c <= 67 || (c >= 80 && c <= 82) ? "rain" : c <= 86 ? "snow" : "storm";
+    return '<svg viewBox="0 0 24 24" aria-hidden="true">' + ICO[k] + "</svg>";
+  }
+  function bg() { return new Date(new Date().toLocaleString("en-US", { timeZone: "Europe/Belgrade" })); }
+  function sat() {
+    var d = bg(), t = box.querySelector("[data-g-time]"), dt = box.querySelector("[data-g-date]");
+    if (t) t.textContent = String(d.getHours()).padStart(2, "0") + ":" + String(d.getMinutes()).padStart(2, "0");
+    if (dt) dt.textContent = DAN[d.getDay()] + ", " + d.getDate() + ". " + MES[d.getMonth()];
+  }
+  function vreme() {
+    fetch("https://api.open-meteo.com/v1/forecast?latitude=44.82&longitude=20.46&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=Europe%2FBelgrade&forecast_days=4")
+      .then(function (r) { return r.ok ? r.json() : null; }).then(function (j) {
+        if (!j || !j.current) return;
+        var c = j.current, d = j.daily;
+        box.querySelector("[data-g-temp]").textContent = Math.round(c.temperature_2m) + "°";
+        box.querySelector("[data-g-opis]").textContent = WMO[c.weather_code] || "";
+        box.querySelector("[data-g-ico]").innerHTML = ico(c.weather_code);
+        box.querySelector("[data-g-feel]").textContent = "oseća se " + Math.round(c.apparent_temperature) + "° · vetar " + Math.round(c.wind_speed_10m) + " km/h";
+        var html = "";
+        for (var i = 1; i < 4 && d && d.time && i < d.time.length; i++) {
+          var dd = new Date(d.time[i] + "T12:00:00");
+          html += "<li>" + DK[dd.getDay()] + ico(d.weather_code[i]) + "<b>" + Math.round(d.temperature_2m_max[i]) + "° <span>" + Math.round(d.temperature_2m_min[i]) + "°</span></b></li>";
+        }
+        box.querySelector("[data-g-days]").innerHTML = html;
+      }).catch(function () {});
+  }
+  function kurs() {
+    fetch("https://kurs.resenje.org/api/v1/rates/today").then(function (r) { return r.ok ? r.json() : null; }).then(function (j) {
+      if (!j || !j.rates) return;
+      var want = ["EUR", "USD", "CHF", "GBP", "BAM"], by = {};
+      j.rates.forEach(function (x) { by[x.code] = x; });
+      var html = "";
+      want.forEach(function (c) {
+        var x = by[c]; if (!x) return;
+        var v = x.exchange_middle / (x.parity || 1);
+        html += "<li><span>1 " + c + "</span><i></i><b>" + v.toFixed(2).replace(".", ",") + " <small>din</small></b></li>";
+      });
+      if (html) box.querySelector("[data-g-fx]").innerHTML = html;
+    }).catch(function () {});
+  }
+  function start() {
+    if (started || !mq.matches) return;
+    started = true;
+    sat(); vreme(); kurs();
+    setInterval(sat, 20000);
+    setInterval(function () { if (!document.hidden) vreme(); }, 20 * 60000);
+    setInterval(function () { if (!document.hidden) kurs(); }, 60 * 60000);
+  }
+  start();
+  if (mq.addEventListener) mq.addEventListener("change", start);
+})();

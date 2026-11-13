@@ -826,3 +826,40 @@ mark{background:color-mix(in srgb,var(--gold) 30%,transparent);color:inherit;bor
 @media (prefers-reduced-motion:reduce){.g-ring,.g-radar::before{animation:none}.g-side{animation:none;opacity:1}}
 }
 @media print{.gutters{display:none!important}}
+/* sirok ekran: desno polje uzivo (vreme, kurs, gorivo) i znak P. pored zaglavlja */
+.m-emb{display:none}
+@media (min-width:1680px) and (hover:hover) and (pointer:fine){
+.g-live{width:min(calc(var(--gw) - 64px),320px)}
+.g-pulse{position:relative;height:44px;overflow:hidden;margin-bottom:12px;border-radius:12px;background:color-mix(in srgb,var(--ink) 5%,transparent)}
+.g-pulse svg{position:absolute;left:0;top:0;width:200%;height:100%;animation:g-tok 6s linear infinite}
+.g-wave{fill:none;stroke:var(--brand);stroke-width:2;stroke-linejoin:round;stroke-linecap:round;opacity:.75}
+@keyframes g-tok{to{transform:translateX(-50%)}}
+.g-on{position:absolute;right:10px;top:50%;transform:translateY(-50%);display:inline-flex;align-items:center;gap:6px;font:800 10.5px var(--sans);letter-spacing:.18em;text-transform:uppercase;color:var(--ink-2);background:var(--bg);padding:3px 8px;border-radius:999px}
+.g-on i{width:7px;height:7px;border-radius:50%;background:var(--brand);animation:g-blink 1.6s ease-in-out infinite}
+@keyframes g-blink{50%{opacity:.25}}
+.g-clock{margin:0 0 16px;display:flex;align-items:baseline;gap:10px;color:var(--ink-3);font:600 12.5px var(--sans)}
+.g-clock b{font:800 26px var(--sans);color:var(--ink);letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+.g-box{margin:0 0 16px}
+.g-wx{display:flex;align-items:center;gap:12px;margin:2px 0 8px}
+.g-ico{width:40px;height:40px;flex:none;color:var(--ink-2)}
+.g-ico svg{width:100%;height:100%;display:block}
+.g-wx>b{font:800 34px var(--sans);color:var(--ink);letter-spacing:-.03em;line-height:1}
+.g-wd{display:grid;font:600 13px var(--sans);color:var(--ink-2);line-height:1.3}
+.g-wd small{font-size:11.5px;color:var(--ink-3)}
+.g-days{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+.g-days li{display:grid;justify-items:center;gap:2px;padding:7px 4px;border-radius:10px;background:color-mix(in srgb,var(--ink) 4%,transparent);font:700 11px var(--sans);color:var(--ink-3);text-transform:uppercase;letter-spacing:.08em}
+.g-days li svg{width:22px;height:22px;color:var(--ink-2)}
+.g-days li b{font:800 12.5px var(--sans);color:var(--ink);letter-spacing:0;text-transform:none}
+.g-days li b span{color:var(--ink-3);font-weight:600}
+.g-list small{font-weight:600;color:var(--ink-3)}
+.g-fx li span{font-variant-numeric:tabular-nums}
+.m-emb{display:grid;place-items:center;position:absolute;top:8px;width:72px;height:72px;z-index:2;border-radius:50%;
+  background:radial-gradient(circle at 35% 30%,#1c2b5e,#0d1730 70%);color:#fff;font:900 40px/1 var(--display,Georgia,serif);text-decoration:none;
+  box-shadow:0 10px 28px -14px rgba(13,23,48,.6),inset 0 0 0 1.5px rgba(255,255,255,.16);transition:transform .5s var(--ease,ease)}
+.m-emb span{position:relative;display:inline-block;padding:0 4px 7px 0;transform:translate(1px,-1px)}
+.m-emb i{font-style:normal;color:#e5293f;margin-left:1px}
+.m-emb span::after{content:"";position:absolute;left:0;right:0;bottom:0;height:3px;border-radius:2px;background:linear-gradient(90deg,#fff 0 78%,#e5293f 78%)}
+.m-emb:hover{transform:rotate(-6deg) scale(1.04)}
+.m-emb-l{left:calc((100vw - 1240px) / 4 - 36px)}
+.m-emb-r{right:calc((100vw - 1240px) / 4 - 36px)}
+}

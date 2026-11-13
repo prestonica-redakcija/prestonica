@@ -103,7 +103,7 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
                 tag_counter[t] += 1 + a["_score"]
     teme = [t for t, _ in tag_counter.most_common(12)]
 
-    w = {"kurs": widgets.kurs() if live_widgets else [], "vreme": widgets.vreme() if live_widgets else None}
+    w = {"kurs": widgets.kurs() if live_widgets else [], "vreme": widgets.vreme() if live_widgets else None, "gorivo": widgets.gorivo() if live_widgets else None}
     videos = [dict(v) for v in (state.get("videos") or []) if not v.get("skip") and v.get("live") != "upcoming"]
     if any("naslov" in v for v in videos):
         videos = [v for v in videos if "naslov" in v]
