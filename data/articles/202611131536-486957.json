@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T14:36:13.763478+00:00",
- "updated": "2026-11-13T14:36:13.763478+00:00",
+ "updated": "2026-11-13T15:20:51.769133+00:00",
  "sources": [
   {
    "name": "N1",
@@ -41,11 +41,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/rektor-djokic-siguran-sam-da-me-i-danas-prisluskuju/",
    "title": "Rektor Đokić: Siguran sam da me i danas prisluškuju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/rektor-djokic-siguran-sam-da-i-danas-u-mom-kabinetu-postoje-uredjaji-za-prisluskivanje/",
+   "title": "Rektor Đokić: Siguran sam da i danas u mom kabinetu postoje uređaji za prisluškivanje",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Rektor: Siguran sam da i danas u mom kabinetu postoje uređaji za priskuškivanje",
-  "Rektor Đokić: Siguran sam da me i danas prisluškuju"
+  "Rektor Đokić: Siguran sam da me i danas prisluškuju",
+  "Rektor Đokić: Siguran sam da i danas u mom kabinetu postoje uređaji za prisluškivanje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Gedung_Rektorat_Unesa.jpg",
   "alt": "Rektor Đokić: siguran sam da me i danas prisluškuju, tvrdi i da ga prate"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
