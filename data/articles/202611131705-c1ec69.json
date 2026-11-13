@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T16:05:38.576057+00:00",
- "updated": "2026-11-13T16:05:38.576057+00:00",
+ "updated": "2026-11-13T18:04:42.403667+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -39,11 +39,18 @@
    "url": "https://www.kurir.rs/sport/fudbal/10161466/optuznica-u-splitu-protiv-22-pripadnika-torcide-zbog-nacistickih-i-antisemitskih-uzvika",
    "title": "NACISTIČKI POZDRAVI I JEZIVI POKLIČI: Torcidaši optuženi za širenje mržnje, jedan pobegao",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/optuznica-u-splitu-torcida/",
+   "title": "Optužnica u Splitu protiv 22 pripadnika Torcide zbog nacističkih i antisemitskih uzvika",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Optužnica u Splitu protiv 22 pripadnika Torcide zbog nacističkih i antisemitskih uzvika",
-  "NACISTIČKI POZDRAVI I JEZIVI POKLIČI: Torcidaši optuženi za širenje mržnje, jedan pobegao"
+  "NACISTIČKI POZDRAVI I JEZIVI POKLIČI: Torcidaši optuženi za širenje mržnje, jedan pobegao",
+  "Optužnica u Splitu protiv 22 pripadnika Torcide zbog nacističkih i antisemitskih uzvika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Split_BW_2024-10-02_12-32-06.jpg",
   "alt": "Optužnica u Splitu protiv 22 pripadnika Torcide zbog antisemitskih i nacističkih uzvika"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

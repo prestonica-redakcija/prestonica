@@ -31,17 +31,24 @@
  ],
  "importance": 4,
  "published": "2026-11-13T06:40:00.551823+00:00",
- "updated": "2026-11-13T06:40:00.551823+00:00",
+ "updated": "2026-11-13T18:04:42.403667+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1169405/cedomir-antic-studentska-lista-plenum-nova-vlast",
    "title": "Otrežnjenje posle izbora! Profesor Antić: Plenumi su protivzakoniti, a traženje dosijea na RTS-u pokazuje pravo lice \"slobode\" (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Standard",
+   "url": "https://standard.rs/2026/11/13/revolucionarni-zanos-i-institucionalna-zamka/",
+   "title": "Revolucionarni zanos i institucionalna zamka",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Otrežnjenje posle izbora! Profesor Antić: Plenumi su protivzakoniti, a traženje dosijea na RTS-u pokazuje pravo lice \"slobode\" (VIDEO)"
+  "Otrežnjenje posle izbora! Profesor Antić: Plenumi su protivzakoniti, a traženje dosijea na RTS-u pokazuje pravo lice \"slobode\" (VIDEO)",
+  "Revolucionarni zanos i institucionalna zamka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Cedomir_Antic-mc.rs.jpg",
   "alt": "Antić upozorava novu većinu: promene kroz institucije, ne kroz revoluciju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -28,7 +28,7 @@
  ],
  "importance": 7,
  "published": "2026-11-12T18:15:31.976665+00:00",
- "updated": "2026-11-13T17:49:53.400888+00:00",
+ "updated": "2026-11-13T18:04:42.403667+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -107,6 +107,18 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/297600/omoguceno-snabdevanje-nis-a-sirovom-naftom-do-66000-tona-iz-drzavnih-rezervi/vest",
    "title": "Omogućeno snabdevanje NIS-a sirovom naftom do 66.000 tona iz državnih rezervi",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/vlada-srbije-u-tehnickom-mandatu-odobrila-nis-u-koriscenje-nafte-iz-drzavnih-rezervi-zbog-problema-sa-janaf-om",
+   "title": "Vlada Srbije u tehničkom mandatu odobrila NIS-u korišćenje nafte iz državnih rezervi zbog problema sa JANAF-om",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/nis-nafta-drzavne-rezerve/",
+   "title": "Vlada Srbije u tehničkom mandatu: Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -122,7 +134,9 @@
   "Vlada Srbije: Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi",
   "Država pritekla u pomoć NIS-u: Stiže nafta",
   "Vlada Srbije odobrila NIS-u 66.000 tona nafte iz rezervi zbog oštećenja JANAF-a",
-  "Omogućeno snabdevanje NIS-a sirovom naftom do 66.000 tona iz državnih rezervi"
+  "Omogućeno snabdevanje NIS-a sirovom naftom do 66.000 tona iz državnih rezervi",
+  "Vlada Srbije u tehničkom mandatu odobrila NIS-u korišćenje nafte iz državnih rezervi zbog problema sa JANAF-om",
+  "Vlada Srbije u tehničkom mandatu: Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -134,7 +148,7 @@
   "local": true,
   "alt": "NIS traži od države sirovu naftu i dizel iz rezervi zbog prekida isporuke preko JANAF-a"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-13T17:35:00.377973+00:00",
  "verzija": 3
