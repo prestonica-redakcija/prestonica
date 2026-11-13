@@ -551,5 +551,6 @@
   addEventListener("scroll", req, { passive: true });
   addEventListener("resize", req);
   if (mq.addEventListener) mq.addEventListener("change", req);
+  if (window.ResizeObserver) { var ro = new ResizeObserver(req); for (var n = 0; n < sides.length; n++) ro.observe(sides[n]); }
   place(); setTimeout(place, 700);
 })();
