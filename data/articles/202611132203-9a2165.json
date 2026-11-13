@@ -31,17 +31,31 @@
  ],
  "importance": 6,
  "published": "2026-11-13T21:03:23.574833+00:00",
- "updated": "2026-11-13T21:03:23.574833+00:00",
+ "updated": "2026-11-13T21:33:05.259057+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/297641/cene-nafte-porasle-zbog-pada-nada-u-diplomatsko-resenje-sukoba-sad-i-irana/vest",
    "title": "Cene nafte porasle zbog pada nada u diplomatsko rešenje sukoba SAD i Irana",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/252003/nafta-brent-oko-96-dolara-nakon-trampove-izjave-o-iranu/vest",
+   "title": "Cene nafte porasle zbog pada nada u diplomatsko rešenje sukoba SAD i Irana",
+   "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1670976/cena-nafte-amerika-iran-rat-bliskom-istoku",
+   "title": "CENE NAFTE PORASLE: Trgovcima pada nada u diplomatsko rešenje sukoba SAD i Irana",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Cene nafte porasle zbog pada nada u diplomatsko rešenje sukoba SAD i Irana"
+  "Cene nafte porasle zbog pada nada u diplomatsko rešenje sukoba SAD i Irana",
+  "Cene nafte porasle zbog pada nada u diplomatsko rešenje sukoba SAD i Irana",
+  "CENE NAFTE PORASLE: Trgovcima pada nada u diplomatsko rešenje sukoba SAD i Irana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Journalist_Brent_Pere_at_the_Opinion_Festival_2022_in_Paide,_Estonia.jpg",
   "alt": "Cena nafte porasla nakon Trampove izjave da SAD nije potreban sporazum sa Iranom"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

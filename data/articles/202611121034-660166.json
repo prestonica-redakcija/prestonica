@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-12T09:34:19.061671+00:00",
- "updated": "2026-11-13T21:18:20.991480+00:00",
+ "updated": "2026-11-13T21:33:05.259057+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -45,12 +45,19 @@
    "url": "https://insajder.net/prenosimo/irgc-dva-tankera-za-naftu-eksplodirala-nakon-sto-su-naisla-na-pomorsku-minu",
    "title": "IRGC: Dva tankera za naftu eksplodirala nakon što su naišla na pomorsku minu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10161717/dva-tankera-za-naftu-eksplodirala-nakon-sto-su-naisli-na-pomorsku-minu",
+   "title": "NOVI INCIDENT U ORMUSKOM MOREUZU: Dva tankera za naftu eksplodirala nakon što su naišli na pomorsku minu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "IRGC: Zapalila se dva naftna tankera nakon eksplozija u Ormuskom moreuzu",
   "\"EKSPLODIRAO TANKER U ORMUSKOM MOREUZU\" Oglasila se mornarica Iranske revolucionarne garde: Naleteo na pomorsku minu",
-  "IRGC: Dva tankera za naftu eksplodirala nakon što su naišla na pomorsku minu"
+  "IRGC: Dva tankera za naftu eksplodirala nakon što su naišla na pomorsku minu",
+  "NOVI INCIDENT U ORMUSKOM MOREUZU: Dva tankera za naftu eksplodirala nakon što su naišli na pomorsku minu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "local": true,
   "alt": "Iranska garda: dva tankera zapalila su se posle eksplozija u Ormuskom moreuzu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

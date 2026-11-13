@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T11:07:47.950991+00:00",
- "updated": "2026-11-13T21:03:23.574833+00:00",
+ "updated": "2026-11-13T21:33:05.259057+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -79,6 +79,12 @@
    "url": "https://www.kurir.rs/region/crna-gora/10161707/podgorica-uhapsen-muskarac-pronadjeni-ksalol-buprenorfin-marihuana",
    "title": "POLICIJA UPALA U STAN U PODGORICI - IMALI ŠTA DA VIDE: Muškarac (31) uhapšen zbog sumnje na trgovinu drogom (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/297646/mup-u-srbiji-i-sloveniji-uhapsena-organizovana-kriminalna-grupa-za-krijumcarenje-droge/vest",
+   "title": "MUP: U Srbiji i Sloveniji uhapšena organizovana kriminalna grupa za krijumčarenje droge",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -89,7 +95,8 @@
   "MUP: Zaplenjeno 12 kilograma kokaina, traga se za jednom osobom",
   "MUP: Zaplenjeno 12 kilograma kokaina, traga se za jednom osobom",
   "Srpska policija uhapsila više članova organizovane kriminalne grupe zbog krijumčarenja droge",
-  "POLICIJA UPALA U STAN U PODGORICI - IMALI ŠTA DA VIDE: Muškarac (31) uhapšen zbog sumnje na trgovinu drogom (FOTO)"
+  "POLICIJA UPALA U STAN U PODGORICI - IMALI ŠTA DA VIDE: Muškarac (31) uhapšen zbog sumnje na trgovinu drogom (FOTO)",
+  "MUP: U Srbiji i Sloveniji uhapšena organizovana kriminalna grupa za krijumčarenje droge"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -102,6 +109,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Topola_Kr%C3%B3lewska,_mleczarnia_(2).jpg",
   "alt": "Kod Topole zaplenjeno oko 90 kilograma marihuane, uhapšena četvorica osumnjičenih"
  },
- "novo_od_pisanja": 7,
- "boost": 1.56
+ "novo_od_pisanja": 8,
+ "boost": 1.6
 }
