@@ -24,17 +24,24 @@
  "places": [],
  "importance": 5,
  "published": "2026-11-14T12:11:17.675693+00:00",
- "updated": "2026-11-14T12:11:17.675693+00:00",
+ "updated": "2026-11-14T12:26:06.820197+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/roditelji-punoletnih-osoba-sa-smetnjama-u-razvoju-da-li-smo-prevareni/",
    "title": "Roditelji punoletnih osoba sa smetnjama u razvoju: Da li smo prevareni?",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/roditelji-negovatelji-bez-resenja-i-naknada-gladni-i-bolesni-ne-mogu-da-cekaju/",
+   "title": "Roditelji-negovatelji bez rešenja i naknada: Gladni i bolesni ne mogu da čekaju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Roditelji punoletnih osoba sa smetnjama u razvoju: Da li smo prevareni?"
+  "Roditelji punoletnih osoba sa smetnjama u razvoju: Da li smo prevareni?",
+  "Roditelji-negovatelji bez rešenja i naknada: Gladni i bolesni ne mogu da čekaju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -45,5 +52,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Roditelji punoletnih osoba sa smetnjama u razvoju još čekaju rešenja o statusu negovatelja"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

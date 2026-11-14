@@ -26,17 +26,24 @@
  ],
  "importance": 4,
  "published": "2026-11-14T12:11:17.675693+00:00",
- "updated": "2026-11-14T12:11:17.675693+00:00",
+ "updated": "2026-11-14T12:26:06.820197+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/info/drustvo/284921/mup-apelovao-na-vozace-i-pesake-zbog-vremenskih-uslova/vest",
    "title": "MUP izdao hitan apel građanima",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/297712/mup-potreban-dodatni-oprez-pesaka-i-vozaca-zbog-smanjene-vidljivosti/vest",
+   "title": "MUP: Potreban dodatni oprez pešaka i vozača zbog smanjene vidljivosti",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "MUP izdao hitan apel građanima"
+  "MUP izdao hitan apel građanima",
+  "MUP: Potreban dodatni oprez pešaka i vozača zbog smanjene vidljivosti"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "MUP apeluje na pešake i vozače da budu oprezniji zbog kraćih dana i slabe vidljivosti"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
