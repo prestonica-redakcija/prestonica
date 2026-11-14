@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T07:28:25.888253+00:00",
- "updated": "2026-11-14T07:28:25.888253+00:00",
+ "updated": "2026-11-14T11:11:39.945067+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -43,11 +43,18 @@
    "url": "https://www.danas.rs/svet/avioni-saobracaj-amerika/",
    "title": "Ponovo uspostavljen avionski saobraćaj u Americi",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/vazdusni-saobracaj-sad-evropa-posledice/",
+   "title": "Obustava vazdušnog saobraćaja u SAD odrazila se i na Evropu: Posledice bi mogle da se osećaju još danima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Letovi u SAD ponovo uspostavljeni posle velikog zastoja: Hiljade otkazanih polazaka, posledice će trajati danima",
-  "Ponovo uspostavljen avionski saobraćaj u Americi"
+  "Ponovo uspostavljen avionski saobraćaj u Americi",
+  "Obustava vazdušnog saobraćaja u SAD odrazila se i na Evropu: Posledice bi mogle da se osećaju još danima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Letovi u SAD ponovo dozvoljeni posle višesatne obustave, kašnjenja se nastavljaju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

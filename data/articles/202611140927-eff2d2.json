@@ -26,16 +26,23 @@
  ],
  "importance": 4,
  "published": "2026-11-14T08:27:55.345332+00:00",
- "updated": "2026-11-14T08:27:55.345332+00:00",
+ "updated": "2026-11-14T11:11:39.945067+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/svet/politika/297685/vlada-sad-pristala-da-obustavi-pritiske-na-epl-i-fejsbuk-da-ogranice-pracenje-ice/vest",
    "title": "Vlada SAD pristala da obustavi pritiske na Epl i Fejsbuk da ograniče praćenje ICE",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/planeta/252038/sad-obustavlja-pritisak-na-epl-i-fejsbuk-zbog-ice-platformi/vest",
+   "title": "Vlada SAD pristala da obustavi pritiske na Epl i Fejsbuk da ograniče praćenje ICE",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
+  "Vlada SAD pristala da obustavi pritiske na Epl i Fejsbuk da ograniče praćenje ICE",
   "Vlada SAD pristala da obustavi pritiske na Epl i Fejsbuk da ograniče praćenje ICE"
  ],
  "author": "Redakcija Prestonice",
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vlada SAD pristala da obustavi pritiske na Epl i Fejsbuk oko praćenja ICE"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

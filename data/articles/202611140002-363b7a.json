@@ -35,7 +35,7 @@
  ],
  "importance": 7,
  "published": "2026-11-13T23:02:34.532386+00:00",
- "updated": "2026-11-14T10:56:44.442500+00:00",
+ "updated": "2026-11-14T11:11:39.945067+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -96,6 +96,12 @@
    "url": "https://www.b92.net/info/svet/284914/bela-kuca-potvrdila-sastanak-sija-putina-i-trampa/vest",
    "title": "Bela kuća potvrdila: Tramp će održati sastanak sa Putinom i Sijem",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/284907/kina-i-sad-razgovarale-o-carinama-i-trgovini-uoci-sastanka-sija-i-trampa/vest",
+   "title": "Kina i SAD razgovarale o carinama: Sve oči uprte u predstojeći susret Trampa i Sija",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -108,7 +114,8 @@
   "Oglasila se Bela kuća o sastanku Trampa, Putina i Sija",
   "BELA KUĆA POTVRDILA: Tramp će se sastati sa Sijem i Putinom u Šenženu u četvrtak",
   "Bela kuća potvrdila: Tramp će se sastati sa Sijem i Putinom u Šenženu u četvrtak",
-  "Bela kuća potvrdila: Tramp će održati sastanak sa Putinom i Sijem"
+  "Bela kuća potvrdila: Tramp će održati sastanak sa Putinom i Sijem",
+  "Kina i SAD razgovarale o carinama: Sve oči uprte u predstojeći susret Trampa i Sija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -121,8 +128,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(18-06-2022).jpg",
   "alt": "Tramp, Si i Putin prema pisanju Njujork posta sastaju se narednog četvrtka u Šenženu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.56,
+ "novo_od_pisanja": 3,
+ "boost": 1.6,
  "prepisano": "2026-11-14T10:41:58.069815+00:00",
  "verzija": 2
 }
