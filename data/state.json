@@ -3609,18 +3609,24 @@
   "https://informer.rs/politika/vesti/1169794/vladimir-gajic-kruisk-branko-stamenkovic": "2026-11-14T10:41:58.069815+00:00",
   "https://www.kurir.rs/stars/10161934/marko-luis-o-borbi-sa-tumorom": "2026-11-14T10:41:58.069815+00:00",
   "https://www.danas.rs/svet/lokalni-izbori-slovenija-zoran-jankovic/": "2026-11-14T10:41:58.069815+00:00",
-  "https://www.b92.net/info/svet/284909/putin-pomilovao-rusku-blogerku-lercek/vest": "2026-11-14T10:41:58.069815+00:00"
+  "https://www.b92.net/info/svet/284909/putin-pomilovao-rusku-blogerku-lercek/vest": "2026-11-14T10:41:58.069815+00:00",
+  "https://www.tanjug.rs/svet/politika/297702/bela-kuca-potvrdila-tramp-ce-se-sastati-sa-sijem-i-putinom-u-senzenu-u-cetvrtak/vest": "2026-11-14T10:56:44.442500+00:00",
+  "https://www.b92.net/info/svet/284914/bela-kuca-potvrdila-sastanak-sija-putina-i-trampa/vest": "2026-11-14T10:56:44.442500+00:00",
+  "https://www.tanjug.rs/svet/drustvo/297703/putin-pomilovao-rusku-blogerku-lercek-koja-boluje-od-raka-u-cetvrtom-stadijumu/vest": "2026-11-14T10:56:44.442500+00:00",
+  "https://www.tanjug.rs/srbija/drustvo/297707/u-manastiru-svetih-vraca-kozme-i-damjana-u-zocistu-proslavljena-hramovna-slava/vest": "2026-11-14T10:56:44.442500+00:00",
+  "https://insajder.net/prenosimo/istraga-protiv-bivseg-ministra-u-orbanovoj-vladi-madarske-vlasti-pronasle-gotovo-20-miliona-dolara-u-gotovini-deo-bio-zakopan-u-sumama": "2026-11-14T10:56:44.442500+00:00",
+  "https://nova.rs/vesti/drustvo/zbog-havarije-na-vodovodu-poplavljen-deo-vozdovca-stanari-ljermontove-ulice-bez-vode/": "2026-11-14T10:56:44.442500+00:00",
+  "https://www.euronews.rs/svet/fokus/252051/pad-outlooka-i-teamsa-vratio-svet-na-faks-i-fiksni-telefon/vest": "2026-11-14T10:56:44.442500+00:00",
+  "https://n1info.rs/vesti/gradjani-po-cetvrti-put-u-akciji-krecenja-i-farbanja-mostarske-petlje/": "2026-11-14T10:56:44.442500+00:00",
+  "https://nova.rs/vesti/politika/kako-su-potpise-podrske-prikupile-liste-liberalno-zelene-stranke-cale-ovo-je-za-tebe-narodne-stranke-i-stranke-rusko-srpskog-jedinstva/": "2026-11-14T10:56:44.442500+00:00",
+  "https://nova.rs/vesti/svet/sad-izgubile-status-zemlje-u-kojoj-su-male-boginje-iskorenjene/": "2026-11-14T10:56:44.442500+00:00",
+  "https://n1info.rs/svet/sad-izgubile-status-zemlje-u-kojoj-su-male-boginje-iskorenjene-u-novembru-pet-smrtnih-slucajeva/": "2026-11-14T10:56:44.442500+00:00",
+  "https://www.tanjug.rs/srbija/drustvo/297705/do-10-centimetara-snega-u-zlatiborskom-okrugu-putevi-prohodniobavezna-zimska-oprema/vest": "2026-11-14T10:56:44.442500+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-13T20:08+00:00",
-   "novih": 7,
-   "ukupno": 970,
-   "sekundi": 267.4
-  },
   {
    "vreme": "2026-11-13T20:20+00:00",
    "novih": 4,
@@ -3974,6 +3980,12 @@
    "novih": 5,
    "ukupno": 1091,
    "sekundi": 188.2
+  },
+  {
+   "vreme": "2026-11-14T10:58+00:00",
+   "novih": 4,
+   "ukupno": 1095,
+   "sekundi": 115.9
   }
  ],
  "licnosti_foto": {
@@ -6530,7 +6542,7 @@
    ]
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -30166,6 +30178,88 @@
      "credit": "Wikimedia Commons / Medija centar Beograd / CC BY 3.0",
      "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%93%D0%B0%D1%98%D0%B8%D1%9B_(cropped).jpg",
      "naslov": "Владимир Гајић (cropped).jpg"
+    }
+   ]
+  },
+  "t:mostarska petlja": {
+   "t": 1794653830.6335297,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/%D0%9C%D0%BE%D1%81%D1%82%D0%B0%D1%80%D1%81%D0%BA%D0%B0_%D0%BF%D0%B5%D1%82%D1%99%D0%B03.jpg/1920px-%D0%9C%D0%BE%D1%81%D1%82%D0%B0%D1%80%D1%81%D0%BA%D0%B0_%D0%BF%D0%B5%D1%82%D1%99%D0%B03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4608,
+     "h": 3456,
+     "god": 2017,
+     "credit": "Wikimedia Commons / autor / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D1%81%D1%82%D0%B0%D1%80%D1%81%D0%BA%D0%B0_%D0%BF%D0%B5%D1%82%D1%99%D0%B03.jpg",
+     "naslov": "Мостарска петља3.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Elaeagnus_angustifolia_Mostarska_petlja.jpg/1920px-Elaeagnus_angustifolia_Mostarska_petlja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3072,
+     "h": 2304,
+     "god": 2015,
+     "credit": "Wikimedia Commons / Gmihail at Serbian Wikipedia / CC BY-SA 3.0 rs",
+     "link": "https://commons.wikimedia.org/wiki/File:Elaeagnus_angustifolia_Mostarska_petlja.jpg",
+     "naslov": "Elaeagnus angustifolia Mostarska petlja.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Lagerstroemia_indica%2C_Mostarska_petlja.jpg/1920px-Lagerstroemia_indica%2C_Mostarska_petlja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2304,
+     "h": 2304,
+     "god": 2015,
+     "credit": "Wikimedia Commons / Gmihail at Serbian Wikipedia / CC BY-SA 3.0 rs",
+     "link": "https://commons.wikimedia.org/wiki/File:Lagerstroemia_indica,_Mostarska_petlja.jpg",
+     "naslov": "Lagerstroemia indica, Mostarska petlja.jpg"
+    }
+   ]
+  },
+  "t:zlatibor": {
+   "t": 1794653861.5410142,
+   "items": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Zlatibor_landscape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1170,
+     "h": 1139,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Grati / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Zlatibor_landscape.jpg",
+     "naslov": "Zlatibor landscape.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/A_view_on_Zlatibor.JPG/1920px-A_view_on_Zlatibor.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3264,
+     "h": 2176,
+     "god": 2010,
+     "credit": "Wikimedia Commons / Bukephalos / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:A_view_on_Zlatibor.JPG",
+     "naslov": "A view on Zlatibor.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Pine_Trees_on_Mt._Zlatibor.jpg/1920px-Pine_Trees_on_Mt._Zlatibor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3264,
+     "h": 2448,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Marko Randjic / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Pine_Trees_on_Mt._Zlatibor.jpg",
+     "naslov": "Pine Trees on Mt. Zlatibor.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Zlatibor_wheel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1477,
+     "h": 1851,
+     "god": 2023,
+     "credit": "Wikimedia Commons / EmiliaITČA / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Zlatibor_wheel.jpg",
+     "naslov": "Zlatibor wheel.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/The_cattle_on_Mt._Zlatibor.jpg/1920px-The_cattle_on_Mt._Zlatibor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3264,
+     "h": 2448,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Marko Randjic / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:The_cattle_on_Mt._Zlatibor.jpg",
+     "naslov": "The cattle on Mt. Zlatibor.jpg"
     }
    ]
   }

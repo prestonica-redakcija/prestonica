@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T08:42:43.998285+00:00",
- "updated": "2026-11-14T10:12:21.469261+00:00",
+ "updated": "2026-11-14T10:56:44.442500+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,18 @@
    "url": "https://www.telegraf.rs/vesti/beograd/4432922-kompletan-spisak-iskljucenja-vode-zbog-havarije-na-mrezi-u-ljermontovoj-poplava",
    "title": "Kompletan spisak isključenja vode zbog havarije na mreži: U Ljermontovoj poplava",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/zbog-havarije-na-vodovodu-poplavljen-deo-vozdovca-stanari-ljermontove-ulice-bez-vode/",
+   "title": "Zbog havarije na vodovodu poplavljen deo Voždovca, stanari Ljermontove ulice bez vode",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Zbog havarije na vodovodu poplavljen deo Voždovca, stanari Ljermontove ulice bez vode",
-  "Kompletan spisak isključenja vode zbog havarije na mreži: U Ljermontovoj poplava"
+  "Kompletan spisak isključenja vode zbog havarije na mreži: U Ljermontovoj poplava",
+  "Zbog havarije na vodovodu poplavljen deo Voždovca, stanari Ljermontove ulice bez vode"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Vozdovac_park,May_2010.jpg",
   "alt": "Havarija na magistralnoj cevi poplavila deo Voždovca, stanari Ljermontove bez vode"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

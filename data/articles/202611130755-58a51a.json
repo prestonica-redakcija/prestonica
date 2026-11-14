@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T06:55:05.526438+00:00",
- "updated": "2026-11-14T09:42:30.036471+00:00",
+ "updated": "2026-11-14T10:56:44.442500+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -182,6 +182,12 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1671067/evropljani-zele-ovo-rade-plata-dobra-ali-nekoliko-zanimanja-skoro-nema-zainteresovanih-tesko-pogodite-koja",
    "title": "EVROPLjANI NE ŽELE OVO DA RADE: Plata dobra, ali za nekoliko zanimanja skoro da nema zainteresovanih - teško je da pogodite za koja!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/252051/pad-outlooka-i-teamsa-vratio-svet-na-faks-i-fiksni-telefon/vest",
+   "title": "Japan se vratio faksu, bolnice receptima na papiru: Šta je otkrio veliki prekid Microsoftovih servisa?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -209,7 +215,8 @@
   "MAJKROSOFT SE OPORAVIO POSLE GLOBALNOG KOLAPSA: Servisi ponovo rade, evo šta je izazvalo haos",
   "Majkrosoft: Usluge u potpunosti obnovljene nakon globalnog prekida rada",
   "Kraj globalnog kolapsa: Majkrosoft potvrdio da servisi ponovo rade, poznato šta je izazvalo prekid",
-  "EVROPLjANI NE ŽELE OVO DA RADE: Plata dobra, ali za nekoliko zanimanja skoro da nema zainteresovanih - teško je da pogodite za koja!"
+  "EVROPLjANI NE ŽELE OVO DA RADE: Plata dobra, ali za nekoliko zanimanja skoro da nema zainteresovanih - teško je da pogodite za koja!",
+  "Japan se vratio faksu, bolnice receptima na papiru: Šta je otkrio veliki prekid Microsoftovih servisa?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -222,7 +229,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg",
   "alt": "Veliki prekid u radu Microsofta: Outlook i Teams satima nedostupni širom sveta"
  },
- "novo_od_pisanja": 11,
+ "novo_od_pisanja": 12,
  "boost": 1.6,
  "prepisano": "2026-11-13T15:35:52.267094+00:00",
  "verzija": 4

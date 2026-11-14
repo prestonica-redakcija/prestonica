@@ -30,17 +30,24 @@
  ],
  "importance": 3,
  "published": "2026-11-14T10:41:58.069815+00:00",
- "updated": "2026-11-14T10:41:58.069815+00:00",
+ "updated": "2026-11-14T10:56:44.442500+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/info/svet/284909/putin-pomilovao-rusku-blogerku-lercek/vest",
    "title": "Putin potpisao ukaz; Pomilovana ruska blogerka",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/297703/putin-pomilovao-rusku-blogerku-lercek-koja-boluje-od-raka-u-cetvrtom-stadijumu/vest",
+   "title": "Putin pomilovao rusku blogerku Lerček, koja boluje od raka u četvrtom stadijumu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Putin potpisao ukaz; Pomilovana ruska blogerka"
+  "Putin potpisao ukaz; Pomilovana ruska blogerka",
+  "Putin pomilovao rusku blogerku Lerček, koja boluje od raka u četvrtom stadijumu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_17-11-2021_(cropped).jpg",
   "alt": "Putin pomilovao blogerku Valeriju Čekalinu, poznatu kao Lerček"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
