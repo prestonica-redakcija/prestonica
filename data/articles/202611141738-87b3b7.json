@@ -33,7 +33,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T16:38:51.082216+00:00",
- "updated": "2026-11-14T16:38:51.082216+00:00",
+ "updated": "2026-11-14T16:53:45.316588+00:00",
  "sources": [
   {
    "name": "N1",
@@ -46,11 +46,18 @@
    "url": "https://www.danas.rs/svet/premijer-hrvatske-uprkos-smrti-pacijenta-nema-potrebe-za-ostavkom-ministarke-zdravlja/",
    "title": "Premijer Hrvatske: Uprkos smrti pacijenta, nema potrebe za ostavkom ministarke zdravlja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/premijer-hrvatske-uprkos-smrti-pacijenta-nema-potrebe-za-ostavkom-ministarke-zdravstva/",
+   "title": "Premijer Hrvatske: Uprkos smrti pacijenta nema potrebe za ostavkom ministarke zdravstva",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Premijer Hrvatske: Uprkos smrti pacijenta nema potrebe za ostavkom ministarke zdravstva",
-  "Premijer Hrvatske: Uprkos smrti pacijenta, nema potrebe za ostavkom ministarke zdravlja"
+  "Premijer Hrvatske: Uprkos smrti pacijenta, nema potrebe za ostavkom ministarke zdravlja",
+  "Premijer Hrvatske: Uprkos smrti pacijenta nema potrebe za ostavkom ministarke zdravstva"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +70,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Andrej_Plenkovi%C4%87.jpg",
   "osoba": "Andrej Plenković",
   "alt": "Plenković: nema potrebe za ostavkom ministarke zdravstva zbog smrti pacijenta u Zagrebu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

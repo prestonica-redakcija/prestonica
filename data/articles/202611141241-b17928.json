@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-14T11:41:26.868148+00:00",
- "updated": "2026-11-14T14:10:23.845554+00:00",
+ "updated": "2026-11-14T16:53:45.316588+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,12 +48,19 @@
    "url": "https://insajder.net/prenosimo/zbog-radova-na-mrezi-u-ponedeljak-iskljucenja-struje-u-vise-mesta-u-zapadnoj-srbiji",
    "title": "Zbog radova na mreži u ponedeljak isključenja struje u više mesta u zapadnoj Srbiji",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/sa-studentskom-listom-se-sastalo-i-odeljenje-stejt-departmenta-borba-protiv-kriminala/",
+   "title": "\"Kriminalne mreže sa Zapadnog Balkana pretnja i za Amerikance\": Odeljenje Stejt departmenta nakon sastanka sa Studentskom listom",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Zbog radova na mreži isključenja struje u više mesta u zapadnoj Srbiji",
   "„Transnacionalne kriminalne mreže na Zapadnom Balkanu pretnja Amerikancima“: Odeljenje Stejt departmenta se oglasilo nakon posete Srbiji",
-  "Zbog radova na mreži u ponedeljak isključenja struje u više mesta u zapadnoj Srbiji"
+  "Zbog radova na mreži u ponedeljak isključenja struje u više mesta u zapadnoj Srbiji",
+  "\"Kriminalne mreže sa Zapadnog Balkana pretnja i za Amerikance\": Odeljenje Stejt departmenta nakon sastanka sa Studentskom listom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "local": true,
   "alt": "Stejt department: Kriminalne mreže na Zapadnom Balkanu prete i Amerikancima"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
