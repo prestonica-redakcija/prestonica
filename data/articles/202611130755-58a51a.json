@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T06:55:05.526438+00:00",
- "updated": "2026-11-14T07:58:08.762756+00:00",
+ "updated": "2026-11-14T08:13:11.892749+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -140,6 +140,12 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1671036/microsoft-ponovo-uspostavio-rad-platformi-kolaps-trajao-24-sata-nastao-zbog-tehnickog-problema",
    "title": "\"MICROSOFT\" PONOVO USPOSTAVIO RAD PLATFORMI: Kolaps trajao 24 sata, nastao zbog tehničkog problema",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/284790/evropa-u-potrazi-za-nastavnicima-i-medicinarima/vest",
+   "title": "Nije samo do plate... Nema dovoljno nastavnika i medicinara: Sve manje Evropljana želi da radi ove poslove",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -160,7 +166,8 @@
   "Globalni kvar u Majkrosoftu ušao u drugi dan: Stale bolnice, aerodromi, sudovi i škole, oglasila se i kompanija",
   "‘Veoma nam je žao’: Majkrosoftovo izvinjenje zbog prekida u radu servisa",
   "Kolaps Microsoft servisa trajao duže od 24 sata: Evo šta je izazvalo globalni haos, štetu mere u milijardama",
-  "\"MICROSOFT\" PONOVO USPOSTAVIO RAD PLATFORMI: Kolaps trajao 24 sata, nastao zbog tehničkog problema"
+  "\"MICROSOFT\" PONOVO USPOSTAVIO RAD PLATFORMI: Kolaps trajao 24 sata, nastao zbog tehničkog problema",
+  "Nije samo do plate... Nema dovoljno nastavnika i medicinara: Sve manje Evropljana želi da radi ove poslove"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -173,7 +180,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg",
   "alt": "Veliki prekid u radu Microsofta: Outlook i Teams satima nedostupni širom sveta"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-13T15:35:52.267094+00:00",
  "verzija": 4

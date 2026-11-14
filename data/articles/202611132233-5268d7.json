@@ -25,7 +25,7 @@
  ],
  "importance": 7,
  "published": "2026-11-13T21:33:05.259057+00:00",
- "updated": "2026-11-13T22:17:48.595213+00:00",
+ "updated": "2026-11-14T08:13:11.892749+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -50,13 +50,20 @@
    "url": "https://www.kurir.rs/planeta/10161725/hitna-zabrana-poletanja-svih-aviona-na-celoj-teritoriji-sad",
    "title": "PANIKA U AMERICI: Hitna zabrana poletanja svih aviona na celoj teritoriji SAD! Ovo su razlozi!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/252029/zasto-su-bili-prizemljeni-svi-letovi-u-sad/vest",
+   "title": "Nezapamćen haos na američkom nebu: Šta do sada znamo o problemu koji je prizemljio letove u čitavoj zemlji?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Obustava letova u SAD: Naređena zabrana poletanja širom zemlje iz \"bezbednosnih razloga“",
   "Obustavljeni svi letovi iz SAD",
   "Svi letovi u SAD prizemljeni zbog \"vanrednih okolnosti i bezbednosnih razloga\"",
-  "PANIKA U AMERICI: Hitna zabrana poletanja svih aviona na celoj teritoriji SAD! Ovo su razlozi!"
+  "PANIKA U AMERICI: Hitna zabrana poletanja svih aviona na celoj teritoriji SAD! Ovo su razlozi!",
+  "Nezapamćen haos na američkom nebu: Šta do sada znamo o problemu koji je prizemljio letove u čitavoj zemlji?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "local": true,
   "alt": "FAA naredila obustavu svih poletanja u SAD iz bezbednosnih razloga"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

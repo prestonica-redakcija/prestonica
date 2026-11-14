@@ -3456,18 +3456,27 @@
   "https://www.tanjug.rs/ekonomija/svet/297682/kina-i-sad-razgovarale-o-carinama-i-trgovini-na-prvom-sastanku-trgovinskog-saveta/vest": "2026-11-14T07:58:08.762756+00:00",
   "https://www.novosti.rs/vesti/politika/1671038/vazno-gostovanje-vucic-veceras-pink-18-30-casova": "2026-11-14T07:58:08.762756+00:00",
   "https://n1info.rs/biznis/84000-dece-u-srbiji-bez-decjeg-dodatka-uprkos-riziku-od-siromastva/": "2026-11-14T07:58:08.762756+00:00",
-  "https://www.kurir.rs/zabava/zivot/10161812/majka-marka-kukurina-bila-u-bolnici-u-kojoj-je-umro-kristijan-josip-peris": "2026-11-14T07:58:08.762756+00:00"
+  "https://www.kurir.rs/zabava/zivot/10161812/majka-marka-kukurina-bila-u-bolnici-u-kojoj-je-umro-kristijan-josip-peris": "2026-11-14T07:58:08.762756+00:00",
+  "https://www.b92.net/biz/svet/vesti/284790/evropa-u-potrazi-za-nastavnicima-i-medicinarima/vest": "2026-11-14T08:13:11.892749+00:00",
+  "https://www.kurir.rs/planeta/10161819/Tramp-se": "2026-11-14T08:13:11.892749+00:00",
+  "https://www.kurir.rs/planeta/10161825/viktor-orban-fides-madjarska-pronadjen-novac-suma": "2026-11-14T08:13:11.892749+00:00",
+  "https://www.tanjug.rs/ekonomija/srbija/297684/vitezi-odlaze-se-uspostavljanje-putnickog-saobracaja-na-pruzi-beograd-budimpesta/vest": "2026-11-14T08:13:11.892749+00:00",
+  "https://www.telegraf.rs/vesti/svet/4432881-tanker-udario-u-kruzer-sa-vise-od-130-putnika-brod-se-prevrnuo-ljudi-zavrsili-u-vodi-a-onda-se-desilo-cudo": "2026-11-14T08:13:11.892749+00:00",
+  "https://www.euronews.rs/svet/fokus/252029/zasto-su-bili-prizemljeni-svi-letovi-u-sad/vest": "2026-11-14T08:13:11.892749+00:00",
+  "https://www.tanjug.rs/ekonomija/srbija/297681/ivan-bojicic-u-petak-isplaceno-nesto-manje-od-1300-deponenata-alta-banke-u-stecaju/vest": "2026-11-14T08:13:11.892749+00:00",
+  "https://www.tanjug.rs/ekonomija/srbija/297683/banka-postanska-stedionica-isplaceni-u-petak-svi-zakazani-klijenti-alta-banke-poslednja-isplata-u-2347-casova/vest": "2026-11-14T08:13:11.892749+00:00",
+  "https://www.euronews.rs/biznis/biznis-vesti/252025/postanska-stedionica-nastavlja-isplatu-klijenata-alta-banke/vest": "2026-11-14T08:13:11.892749+00:00",
+  "https://www.novosti.rs/ekonomija/vesti/1671043/oglasila-banka-postanska-stedionica-isplaceni-svi-zakazani-klijenti-alta-banke-poslednji-deponent-usluzen-pred-ponoc": "2026-11-14T08:13:11.892749+00:00",
+  "https://nova.rs/zabava/film/jedna-od-najgorih-stvari-koje-sam-ikada-uradio-uloga-koju-je-morgan-friman-prihvatio-samo-da-bi-mogao-da-plati-kiriju/": "2026-11-14T08:13:11.892749+00:00",
+  "https://nova.rs/emisije/probudi-se-cela-emisija-13112026/": "2026-11-14T08:13:11.892749+00:00",
+  "https://www.kurir.rs/stars/10161821/ostra-poruka-o-musko-zenskim-odnosima-jovane-jeremic": "2026-11-14T08:13:11.892749+00:00",
+  "https://informer.rs/politika/vesti/1169755/dragan-j-vucicevic-prijava-napad-na-infromer": "2026-11-14T08:13:11.892749+00:00",
+  "https://www.danas.rs/svet/medene-klopke-spijuni-agenti/": "2026-11-14T08:13:11.892749+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-13T17:24+00:00",
-   "novih": 6,
-   "ukupno": 919,
-   "sekundi": 262.0
-  },
   {
    "vreme": "2026-11-13T17:38+00:00",
    "novih": 6,
@@ -3821,6 +3830,12 @@
    "novih": 3,
    "ukupno": 1047,
    "sekundi": 138.3
+  },
+  {
+   "vreme": "2026-11-14T08:15+00:00",
+   "novih": 3,
+   "ukupno": 1050,
+   "sekundi": 127.4
   }
  ],
  "licnosti_foto": {
@@ -6474,7 +6489,7 @@
    },
    "ininic": {
     "since_id": "2121413056882160077",
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -6482,7 +6497,7 @@
    },
    "sviublokade_fdu": {
     "since_id": "2120560395492495772",
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "dragandjilas": {
     "since_id": null,
@@ -6530,11 +6545,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "studentblokade": {
     "since_id": "2121235052155543772",
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -6606,7 +6621,7 @@
    },
    "boristadic58": {
     "since_id": null,
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "srdjanmil037": {
     "since_id": "2121485221874815005",
@@ -6658,7 +6673,7 @@
    },
    "borakonj": {
     "since_id": "2121480055557595446",
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "narodnipokrets": {
     "since_id": "2120601957350195572",
@@ -6666,67 +6681,67 @@
    },
    "direktnors": {
     "since_id": "2121341320329416863",
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "crtars": {
     "since_id": "2121266154312470704",
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "veceivan": {
     "since_id": "2121303796001222914",
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "repjoewilson": {
     "since_id": "2120984500146696436",
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "jugoslavcosic": {
     "since_id": "2121378612750561670",
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "tvnova_s": {
     "since_id": "2121365119317811436",
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "oljautisak": {
     "since_id": null,
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "srdjan_nogo": {
     "since_id": "2120938654998630563",
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "agrifblokira": {
     "since_id": null,
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "etfblokada": {
     "since_id": "2120930020059136372",
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "nastraninaroda": {
-    "since_id": "2121342229339918554",
-    "t": 1794641440.5614524
+    "since_id": "2121514165751951806",
+    "t": 1794644078.978274
    },
    "bcenzure": {
     "since_id": "2121503012086493405",
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "bezstraha26279": {
-    "since_id": "2121497004450681301",
-    "t": 1794641440.5614524
+    "since_id": "2121515956061237549",
+    "t": 1794644078.978274
    },
    "lazidetektor": {
     "since_id": "2121337308553363922",
-    "t": 1794641440.5614524
+    "t": 1794644078.978274
    },
    "nedeljniknin": {
     "since_id": "2121498365598777506",
@@ -6751,6 +6766,32 @@
   },
   "posts": [
    {
+    "id": "2121515956061237549",
+    "x": "BezStraha26279",
+    "ime": "BezStraga",
+    "grupa": "",
+    "uloga": "",
+    "text": "VUČIĆEVOG SENDVIČARA\nOSTAVILA ŽENA ! ( video)\n\nIVAN MONTOJA KOJI JE POBEGAO ZBOG RADOJA ZVICERA U EMIRATE,\n\nDOŽIVEO JE IZBORNI PORAZ !\n\nNJEGOVA ŽENA DIJANA DILAJN  NAŠLA JE PRAVOG SLATKIŠA ! https://t.co/8C7B6GBz3e https://t.co/lth3ALjhGA",
+    "published": "2026-11-14T08:09:54.000+00:00",
+    "lajk": 1,
+    "prikazi": false,
+    "rubrika": "drustvo",
+    "tema": "Privatni život Ivana Montoje i ruganje, tabloidni sadržaj"
+   },
+   {
+    "id": "2121514165751951806",
+    "x": "NaStraniNaroda",
+    "ime": "Vukša Dragović",
+    "grupa": "",
+    "uloga": "",
+    "text": "🚨U 10.00 sam na Informer TV!\n\nVidimo se! 🎙️🔊",
+    "published": "2026-11-14T08:02:47.000+00:00",
+    "lajk": 7,
+    "prikazi": false,
+    "rubrika": "mediji",
+    "tema": "Najava gostovanja na Informer TV"
+   },
+   {
     "id": "2121512424646049986",
     "x": "sns_srbija",
     "ime": "SNS",
@@ -6762,6 +6803,20 @@
     "prikazi": true,
     "rubrika": "politika",
     "tema": "SNS: poslednje nedelje kao proces propadanja Srbije i terora nad građanima"
+   },
+   {
+    "id": "2121509424598843462",
+    "x": "BezStraha26279",
+    "ime": "BezStraga",
+    "grupa": "",
+    "uloga": "",
+    "text": "USA ❤️USKAČE U POMOĆ PROTIV \n\nVUČIĆEVE KRIMINALNE HOBOTNICE !\n👇👇👇\nTransnacionalne kriminalne mreže na Zapadnom Balkanu predstavljaju pretnju Amerikancima daleko izvan regiona. U Beogradu, INL se pridružio pomoćniku državnog sekretara Hanrahanu na sastanku sa Studentskim https://t.co/domGUObZIW",
+    "published": "2026-11-14T07:43:57.000+00:00",
+    "lajk": 24,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "SAD i INL o kriminalnim mrežama na Balkanu, sastanak sa Studentskom listom",
+    "vest": "202611140843-ca408b"
    },
    {
     "id": "2121504404067299684",
@@ -28891,6 +28946,14 @@
      "naslov": "Semafor Ustanička ulica.jpg"
     }
    ]
+  },
+  "t:agencija za osiguranje depozita": {
+   "t": 1794644016.2294722,
+   "items": []
+  },
+  "t:policijska stanica vozdovac": {
+   "t": 1794644040.3534548,
+   "items": []
   }
  },
  "x_objave": {

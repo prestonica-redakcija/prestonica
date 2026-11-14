@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T21:33:05.259057+00:00",
- "updated": "2026-11-13T22:32:42.790055+00:00",
+ "updated": "2026-11-14T08:13:11.892749+00:00",
  "sources": [
   {
    "name": "N1",
@@ -62,6 +62,12 @@
    "url": "https://www.danas.rs/svet/sudar-kruzera-i-tankera-nju-orleans/",
    "title": "Sudar kruzera i tankera kod Nju Orleansa (VIDEO)",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4432881-tanker-udario-u-kruzer-sa-vise-od-130-putnika-brod-se-prevrnuo-ljudi-zavrsili-u-vodi-a-onda-se-desilo-cudo",
+   "title": "Tanker udario u kruzer sa više od 130 putnika: Brod se prevrnuo, ljudi završili u vodi, a onda se desilo čudo",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -69,7 +75,8 @@
   "TEŽAK SUDAR NA MISISIPIJU: Tanker udario u kruzer, brod delimično potonuo! (VIDEO)",
   "Dramatičan snimak sa Misisipija: Tanker udario u kruzer, plovilo završilo delimično pod vodom",
   "Sudar tankera i kruzera na Misisipiju kod Nju Orleansa: Prevrnuo se brod sa oko 130 putnika",
-  "Sudar kruzera i tankera kod Nju Orleansa (VIDEO)"
+  "Sudar kruzera i tankera kod Nju Orleansa (VIDEO)",
+  "Tanker udario u kruzer sa više od 130 putnika: Brod se prevrnuo, ljudi završili u vodi, a onda se desilo čudo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -81,6 +88,6 @@
   "local": true,
   "alt": "Tanker udario u usidreni kruzer na Misisipiju kod Nju Orleansa, brod delimično potonuo"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
