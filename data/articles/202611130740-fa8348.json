@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T06:40:00.551823+00:00",
- "updated": "2026-11-14T06:13:55.665713+00:00",
+ "updated": "2026-11-14T18:23:09.130061+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,12 +44,19 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/297666/amss-zadrzavanja-samo-za-teretnjake-na-izlazu-u-batrovcima-tri-sata/vest",
    "title": "AMSS: Zadržavanja samo za teretnjake na izlazu u Batrovcima - tri sata",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10162316/amss-zadrzavanja-granicni-prelazi-batrovci-gradina",
+   "title": "Kamioni na Batrovcima čekaju 3 sata, autobusi na Gradini 20 minuta: AMSS objavio stanje na prelazima tokom večeri",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Bez zadržavanja na rampama auto-puteva i na putničkim terminalima graničnih prelaza",
   "Granični prelazi prohodni, evo gde čekaju kamioni",
-  "AMSS: Zadržavanja samo za teretnjake na izlazu u Batrovcima - tri sata"
+  "AMSS: Zadržavanja samo za teretnjake na izlazu u Batrovcima - tri sata",
+  "Kamioni na Batrovcima čekaju 3 sata, autobusi na Gradini 20 minuta: AMSS objavio stanje na prelazima tokom večeri"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Batrovci_284.jpg",
   "alt": "Putnička vozila bez čekanja na granicama, kamioni na Batrovcima čekaju tri sata"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

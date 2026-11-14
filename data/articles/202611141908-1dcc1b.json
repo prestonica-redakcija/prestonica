@@ -31,17 +31,38 @@
  ],
  "importance": 4,
  "published": "2026-11-14T18:08:19.042509+00:00",
- "updated": "2026-11-14T18:08:19.042509+00:00",
+ "updated": "2026-11-14T18:23:09.130061+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/desetine-hiljada-ljudi-na-protestima-u-portugaliji-zbog-nedostiznih-cena-stanovanja",
    "title": "Desetine hiljada ljudi na protestima u Portugaliji zbog nedostižnih cena stanovanja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10162307/protesti-portugalija-cene-stanova-kirija-stambena-kriza",
+   "title": "MASOVNI PROTESTI U PORTUGALIJI: Desetine hiljada ljudi na ulicama zbog cena stanova i kirija, traže hitne promene",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/u-portugaliji-najveci-protest-dosad-desetine-hiljada-ljudi-marsiralo-u-vise-od-30-gradova/",
+   "title": "U Portugaliji najveći protest dosad, desetine hiljada ljudi marširalo u više od 30 gradova",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/protesti-u-portugaliji-zbog-stambene-krize/",
+   "title": "Desetine hiljada protestovalo u Portugaliji zbog stambene krize",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Desetine hiljada ljudi na protestima u Portugaliji zbog nedostižnih cena stanovanja"
+  "Desetine hiljada ljudi na protestima u Portugaliji zbog nedostižnih cena stanovanja",
+  "MASOVNI PROTESTI U PORTUGALIJI: Desetine hiljada ljudi na ulicama zbog cena stanova i kirija, traže hitne promene",
+  "U Portugaliji najveći protest dosad, desetine hiljada ljudi marširalo u više od 30 gradova",
+  "Desetine hiljada protestovalo u Portugaliji zbog stambene krize"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +73,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Desetine hiljada ljudi protestovale u više od 30 gradova Portugalije zbog cena stanovanja"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

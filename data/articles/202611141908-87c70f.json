@@ -25,7 +25,7 @@
  "places": [],
  "importance": 6,
  "published": "2026-11-14T18:08:19.042509+00:00",
- "updated": "2026-11-14T18:08:19.042509+00:00",
+ "updated": "2026-11-14T18:23:09.130061+00:00",
  "sources": [
   {
    "name": "B92",
@@ -38,11 +38,18 @@
    "url": "https://www.telegraf.rs/4433114-studenti-objavili-glavne-stavke-programa-za-privredu-i-finansije",
    "title": "Studenti objavili glavne stavke programa za privredu i finansije",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10162301/studentska-lista-objavila-glavne-tacke-programa-za-privredu-i-finansije",
+   "title": "DOMAĆA PROIZVODNJA, INOVACIJE I STABILNA RADNA MESTA: Studentska lista objavila glavne tačke programa za privredu i finansije: \"Javni novac trošićemo odgovorno\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Studenti objavili glavne stavke programa za privredu i finansije",
-  "Studenti objavili glavne stavke programa za privredu i finansije"
+  "Studenti objavili glavne stavke programa za privredu i finansije",
+  "DOMAĆA PROIZVODNJA, INOVACIJE I STABILNA RADNA MESTA: Studentska lista objavila glavne tačke programa za privredu i finansije: \"Javni novac trošićemo odgovorno\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Studentska lista objavila program za privredu i finansije: javni ugovori i progresivniji porezi"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
