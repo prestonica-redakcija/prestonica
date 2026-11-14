@@ -24,17 +24,24 @@
  ],
  "importance": 4,
  "published": "2026-11-14T09:42:30.036471+00:00",
- "updated": "2026-11-14T09:42:30.036471+00:00",
+ "updated": "2026-11-14T10:26:58.795880+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/dve-osobe-uhapsene-na-prelazu-sid-zaplenjeno-vise-od-34000-tableta-sa-liste-psihoaktivnih-supstanci/",
    "title": "Dve osobe uhapšene na prelazu Šid, zaplenjeno više od 34.000 tableta sa liste psihoaktivnih supstanci",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/297697/sremska-mitrovica-uhapsene-dve-osobe-zbog-opojnih-droga-oduzeto-34150-tableta/vest",
+   "title": "Sremska Mitrovica: Uhapšene dve osobe zbog opojnih droga, oduzeto 34.150 tableta",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Dve osobe uhapšene na prelazu Šid, zaplenjeno više od 34.000 tableta sa liste psihoaktivnih supstanci"
+  "Dve osobe uhapšene na prelazu Šid, zaplenjeno više od 34.000 tableta sa liste psihoaktivnih supstanci",
+  "Sremska Mitrovica: Uhapšene dve osobe zbog opojnih droga, oduzeto 34.150 tableta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%80%D0%B5%D0%BC%D1%81%D0%BA%D0%B0_%D0%9C%D0%B8%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%86%D0%B0_-_%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D0%BD%D0%B0_%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D0%B0_%D0%B4%D0%B5%D1%82%D0%B0%D1%99_025.jpg",
   "alt": "Na prelazu Šid zaplenjeno 34.150 tableta, uhapšene dve osobe"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

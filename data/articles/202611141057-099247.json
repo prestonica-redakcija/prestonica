@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T09:57:14.437650+00:00",
- "updated": "2026-11-14T10:12:21.469261+00:00",
+ "updated": "2026-11-14T10:26:58.795880+00:00",
  "sources": [
   {
    "name": "N1",
@@ -50,12 +50,19 @@
    "url": "https://nova.rs/vesti/svet/nadjeno-18-miliona-dolara-tokom-istrage-protiv-ministra-iz-orbanove-ere-novac-bio-zakopan-u-sumi/",
    "title": "Nađeno 18 miliona dolara tokom istrage protiv ministra iz Orbanove ere, novac bio zakopan u šumi",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/297701/pronadeno-gotovo-20-miliona-dolara-u-gotovini-u-istrazi-protiv-orbanovog-ministra/vest",
+   "title": "Pronađeno gotovo 20 miliona dolara u gotovini u istrazi protiv Orbanovog ministra",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Milioni dolara pronađeni zakopani u šumama u okviru istrage protiv bivšeg Orbanovog ministra",
   "„Orban dokazano mafijaški bos, zvanično kraj mafije Fides-KDNP“: Pronađeno oko 19,5 miliona dolara skrivene gotovine, deo bio zakopan u šumi",
-  "Nađeno 18 miliona dolara tokom istrage protiv ministra iz Orbanove ere, novac bio zakopan u šumi"
+  "Nađeno 18 miliona dolara tokom istrage protiv ministra iz Orbanove ere, novac bio zakopan u šumi",
+  "Pronađeno gotovo 20 miliona dolara u gotovini u istrazi protiv Orbanovog ministra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_and_Viktor_Orb%C3%A1n_(2016-02-17)_11.jpg",
   "alt": "U istrazi protiv bivšeg Orbanovog ministra zaplenjeno 19,5 miliona dolara gotovine"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

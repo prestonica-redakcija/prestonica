@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T09:27:26.914112+00:00",
- "updated": "2026-11-14T09:57:14.437650+00:00",
+ "updated": "2026-11-14T10:26:58.795880+00:00",
  "sources": [
   {
    "name": "N1",
@@ -46,12 +46,19 @@
    "url": "https://www.danas.rs/vesti/drustvo/organizacije-legitimitet-novoizabranih-saveta-nacionalnih-manjina-zahteva-siru-javnu-raspravu/",
    "title": "Organizacije: Legitimitet novoizabranih saveta nacionalnih manjina zahteva širu javnu raspravu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/nvo-legitimitet-novoizabranih-saveta-nacionalnih-manjina-zahteva-siru-javnu-raspravu/",
+   "title": "NVO: Legitimitet novoizabranih saveta nacionalnih manjina zahteva širu javnu raspravu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "NVO: Legitimitet novoizabranih saveta nacionalnih manjina zahteva širu javnu raspravu",
   "Organizacije: Legitimitet novoizabranih saveta nacionalnih manjina zahteva širu javnu raspravu",
-  "Organizacije: Legitimitet novoizabranih saveta nacionalnih manjina zahteva širu javnu raspravu"
+  "Organizacije: Legitimitet novoizabranih saveta nacionalnih manjina zahteva širu javnu raspravu",
+  "NVO: Legitimitet novoizabranih saveta nacionalnih manjina zahteva širu javnu raspravu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +70,6 @@
   "local": true,
   "alt": "Organizacije traže širu raspravu o legitimitetu novih saveta nacionalnih manjina"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
