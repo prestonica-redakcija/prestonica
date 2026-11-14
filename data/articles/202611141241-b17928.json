@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-14T11:41:26.868148+00:00",
- "updated": "2026-11-14T11:41:26.868148+00:00",
+ "updated": "2026-11-14T14:10:23.845554+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/nil-stejt-department/",
    "title": "„Transnacionalne kriminalne mreže na Zapadnom Balkanu pretnja Amerikancima“: Odeljenje Stejt departmenta se oglasilo nakon posete Srbiji",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/zbog-radova-na-mrezi-u-ponedeljak-iskljucenja-struje-u-vise-mesta-u-zapadnoj-srbiji",
+   "title": "Zbog radova na mreži u ponedeljak isključenja struje u više mesta u zapadnoj Srbiji",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Zbog radova na mreži isključenja struje u više mesta u zapadnoj Srbiji",
-  "„Transnacionalne kriminalne mreže na Zapadnom Balkanu pretnja Amerikancima“: Odeljenje Stejt departmenta se oglasilo nakon posete Srbiji"
+  "„Transnacionalne kriminalne mreže na Zapadnom Balkanu pretnja Amerikancima“: Odeljenje Stejt departmenta se oglasilo nakon posete Srbiji",
+  "Zbog radova na mreži u ponedeljak isključenja struje u više mesta u zapadnoj Srbiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Stejt department: Kriminalne mreže na Zapadnom Balkanu prete i Amerikancima"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

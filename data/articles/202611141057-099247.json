@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T09:57:14.437650+00:00",
- "updated": "2026-11-14T10:56:44.442500+00:00",
+ "updated": "2026-11-14T14:10:23.845554+00:00",
  "sources": [
   {
    "name": "N1",
@@ -68,6 +68,12 @@
    "url": "https://insajder.net/prenosimo/istraga-protiv-bivseg-ministra-u-orbanovoj-vladi-madarske-vlasti-pronasle-gotovo-20-miliona-dolara-u-gotovini-deo-bio-zakopan-u-sumama",
    "title": "Istraga protiv bivšeg ministra u Orbanovoj vladi: Mađarske vlasti pronašle gotovo 20 miliona dolara u gotovini, deo bio zakopan u šumama",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/region/video-advokat-bivseg-orbanovog-ministra-tvrdi-da-zakopani-novac-ne-pripada-njegovom-klijentu/",
+   "title": "(VIDEO) Advokat bivšeg Orbanovog ministra tvrdi da zakopani novac ne pripada njegovom klijentu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -76,7 +82,8 @@
   "Nađeno 18 miliona dolara tokom istrage protiv ministra iz Orbanove ere, novac bio zakopan u šumi",
   "Pronađeno gotovo 20 miliona dolara u gotovini u istrazi protiv Orbanovog ministra",
   "Ko je sakrio milijarde koje su pronađene zakopane u šumi? Velika misterija u istrazi protiv Orbanovog ministra",
-  "Istraga protiv bivšeg ministra u Orbanovoj vladi: Mađarske vlasti pronašle gotovo 20 miliona dolara u gotovini, deo bio zakopan u šumama"
+  "Istraga protiv bivšeg ministra u Orbanovoj vladi: Mađarske vlasti pronašle gotovo 20 miliona dolara u gotovini, deo bio zakopan u šumama",
+  "(VIDEO) Advokat bivšeg Orbanovog ministra tvrdi da zakopani novac ne pripada njegovom klijentu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -89,8 +96,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_and_Viktor_Orb%C3%A1n_(2016-02-17)_11.jpg",
   "alt": "U istrazi protiv bivšeg Orbanovog ministra zaplenjeno 19,5 miliona dolara gotovine"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-14T10:56:44.442500+00:00",
  "verzija": 2
 }

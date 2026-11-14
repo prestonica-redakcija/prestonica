@@ -26,7 +26,7 @@
  ],
  "importance": 2,
  "published": "2026-11-13T10:08:15.452290+00:00",
- "updated": "2026-11-14T10:56:44.442500+00:00",
+ "updated": "2026-11-14T14:10:23.845554+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -57,6 +57,12 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/297707/u-manastiru-svetih-vraca-kozme-i-damjana-u-zocistu-proslavljena-hramovna-slava/vest",
    "title": "U manastiru Svetih Vrača Kozme i Damjana u Zočištu proslavljena hramovna slava",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4433006-u-manastiru-svetih-vraca-kozme-i-damjana-na-kosovu-i-metohiji-proslavljena-hramovna-slava",
+   "title": "U manastiru Svetih Vrača Kozme i Damjana na Kosovu i Metohiji proslavljena hramovna slava",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -64,7 +70,8 @@
   "Slavimo Svete Vrače Kozmu i Damjana: Ovu molitvu sutra svi vernici izgovaraju za zdravlje",
   "Srpska pravoslavna crkva danas slavi dan Svetih Vrača Kozme i Damjana",
   "Danas su Sveti Kozma i Damjan, ali znate li zašto ih zovu besrebrenicima? Razlog seže u srž pravoslavlja",
-  "U manastiru Svetih Vrača Kozme i Damjana u Zočištu proslavljena hramovna slava"
+  "U manastiru Svetih Vrača Kozme i Damjana u Zočištu proslavljena hramovna slava",
+  "U manastiru Svetih Vrača Kozme i Damjana na Kosovu i Metohiji proslavljena hramovna slava"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +84,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Manastir_Sopo%C4%87ani_-_Sveti_vra%C4%8Di_Pantelejmon_i_Kozma.jpg",
   "alt": "Srpska pravoslavna crkva u subotu slavi Svete Vrače Kozmu i Damjana"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }
