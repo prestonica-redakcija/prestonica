@@ -29,17 +29,24 @@
  ],
  "importance": 5,
  "published": "2026-11-14T07:13:30.386991+00:00",
- "updated": "2026-11-14T07:13:30.386991+00:00",
+ "updated": "2026-11-14T07:28:25.888253+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/nikola-jovanovic-objaviti-sve-ugovore-sa-oznakom-drzavne-tajne-u-beogradu/",
    "title": "Nikola Jovanović: Objaviti sve ugovore sa oznakom državne tajne u Beogradu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/cls-trazi-objavljivanje-ugovora-sa-oznakom-drzavne-tajne-u-okviru-projekta-beograd-pametan-grad/",
+   "title": "CLS traži objavljivanje ugovora sa oznakom državne tajne u okviru projekta \"Beograd pametan grad\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Nikola Jovanović: Objaviti sve ugovore sa oznakom državne tajne u Beogradu"
+  "Nikola Jovanović: Objaviti sve ugovore sa oznakom državne tajne u Beogradu",
+  "CLS traži objavljivanje ugovora sa oznakom državne tajne u okviru projekta \"Beograd pametan grad\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Centar za lokalnu samoupravu traži objavljivanje tajnih ugovora iz projekta Beograd pametan grad"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

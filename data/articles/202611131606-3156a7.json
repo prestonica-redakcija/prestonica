@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T15:06:05.158544+00:00",
- "updated": "2026-11-14T06:58:44.340246+00:00",
+ "updated": "2026-11-14T07:28:25.888253+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -54,12 +54,19 @@
    "url": "https://n1info.rs/svet/bundestag-prosirio-ovlascenja-bezbednosnim-sluzbama/",
    "title": "Bundestag proširio ovlašćenja bezbednosnim službama",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/bundestag-prosirio-ovlascenja-bezbednosnim-sluzbama/",
+   "title": "Bundestag proširio ovlašćenja bezbednosnim službama",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Bundestag usvojio veliku reformu obaveštajnih službi Nemačke",
   "NEMAČKE TAJNE SLUŽBE DOBIJAJU NOVA OVLAŠĆENJA! Bundestag doneo kontroverznu odluku, opozicija upozorava na opasne posledice",
   "Prekretnica za nemačku policiju i obaveštajne službe – ali kakva?",
+  "Bundestag proširio ovlašćenja bezbednosnim službama",
   "Bundestag proširio ovlašćenja bezbednosnim službama"
  ],
  "author": "Redakcija Prestonice",
@@ -73,6 +80,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Bundestag_-_Palais_du_Reichstag.jpg",
   "alt": "Bundestag usvojio reformu obaveštajnih službi, šira ovlašćenja BND-u i BfV-u"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

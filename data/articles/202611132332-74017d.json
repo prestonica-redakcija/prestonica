@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T22:32:42.790055+00:00",
- "updated": "2026-11-13T22:47:31.284862+00:00",
+ "updated": "2026-11-14T07:28:25.888253+00:00",
  "sources": [
   {
    "name": "B92",
@@ -58,13 +58,20 @@
    "url": "https://www.kurir.rs/planeta/10161763/u-madjarskoj-pronadjeno-zakopanih-vise-od-sest-milijardi-forinti",
    "title": "PRONAĐENE MILIJARDE ZAKOPANE U ŠUMAMA! Haos u Mađarskoj: Peter Mađar prozvao Viktora Orbana:",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4432872-milijarde-u-kesu-pronadjene-zakopane-u-sumama-i-skrivene-u-zgradama-oglasila-se-orbanova-stranka",
+   "title": "Milijarde u kešu pronađene zakopane u šumama i skrivene u zgradama: Oglasila se Orbanova stranka",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Pronađene milijarde u šumama u Mađarskoj; Mađar poslao oštru poruku FOTO/VIDEO",
   "Nikad viđena zaplena u Mađarskoj: Milijarde bile zakopane u šumama, Peter Mađar poslao oštru poruku Orbanu",
   "Pronađene milijarde u šumama u Mađarskoj; Mađar poslao oštru poruku FOTO/VIDEO",
-  "PRONAĐENE MILIJARDE ZAKOPANE U ŠUMAMA! Haos u Mađarskoj: Peter Mađar prozvao Viktora Orbana:"
+  "PRONAĐENE MILIJARDE ZAKOPANE U ŠUMAMA! Haos u Mađarskoj: Peter Mađar prozvao Viktora Orbana:",
+  "Milijarde u kešu pronađene zakopane u šumama i skrivene u zgradama: Oglasila se Orbanova stranka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +84,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Viktor_Orb%C3%A1n_cropped.jpg",
   "alt": "Mađarska: zaplenjeno više od pet milijardi forinti gotovine u istrazi protiv Seštaka"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

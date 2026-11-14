@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T23:47:11.188732+00:00",
- "updated": "2026-11-14T06:28:53.076027+00:00",
+ "updated": "2026-11-14T07:28:25.888253+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -69,6 +69,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/vreme-temperatura-danas/",
    "title": "Vreme danas: Osetno hladnije, najviše devet stepeni",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/rhmz-u-srbiji-danas-osetno-hladnije-temperatura-do-10-stepeni",
+   "title": "RHMZ: U Srbiji danas osetno hladnije, temperatura do 10 stepeni",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -77,7 +83,8 @@
   "U Srbiji danas osetno hladnije, na planinama pada sneg: Najviša dnevna do 9 °C",
   "U Srbiji danas osetno hladnije, temperatura do 10 stepeni",
   "Danas osetno hladnije, temperatura do 10 stepeni",
-  "Vreme danas: Osetno hladnije, najviše devet stepeni"
+  "Vreme danas: Osetno hladnije, najviše devet stepeni",
+  "RHMZ: U Srbiji danas osetno hladnije, temperatura do 10 stepeni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -89,8 +96,8 @@
   "local": true,
   "alt": "Hladni front doneo pad temperature od 15 do 20 stepeni, na zapadu Srbije pada sneg"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-14T06:28:53.076027+00:00",
  "verzija": 2
 }

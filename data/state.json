@@ -3413,18 +3413,30 @@
   "https://www.tanjug.rs/svet/politika/297675/rubio-nema-potrebe-za-daljim-napadima-na-iran-vasington-ih-je-vec-ekonomski-slomio/vest": "2026-11-14T07:13:30.386991+00:00",
   "https://www.telegraf.rs/vesti/svet/4432866-rubio-nema-potrebe-za-daljim-napadima-na-iran": "2026-11-14T07:13:30.386991+00:00",
   "https://www.danas.rs/zivot/strucnjaci-upozoravaju-drvene-daske-za-secenje-nikada-ne-bi-trebalo-da-perete-u-masini-za-sudove/": "2026-11-14T07:13:30.386991+00:00",
-  "https://www.telegraf.rs/vesti/srbija/4432853-pariz-u-srcu-vrnjacke-banje-plato-kod-biblioteke-koji-neodoljivo-podseca-na-slavni-monmartr": "2026-11-14T07:13:30.386991+00:00"
+  "https://www.telegraf.rs/vesti/srbija/4432853-pariz-u-srcu-vrnjacke-banje-plato-kod-biblioteke-koji-neodoljivo-podseca-na-slavni-monmartr": "2026-11-14T07:13:30.386991+00:00",
+  "https://www.euronews.rs/svet/fokus/252021/rubio-nema-potrebe-za-novim-vojnim-udarima-na-iran/vest": "2026-11-14T07:28:25.888253+00:00",
+  "https://insajder.net/prenosimo/rhmz-u-srbiji-danas-osetno-hladnije-temperatura-do-10-stepeni": "2026-11-14T07:28:25.888253+00:00",
+  "https://www.telegraf.rs/4432871-skupstina-u-pristini-ostala-bez-kvoruma-nije-bilo-rasprave-o-izmeni-zakona-o-specijalizovanim-vecima": "2026-11-14T07:28:25.888253+00:00",
+  "https://nova.rs/vesti/svet/bundestag-prosirio-ovlascenja-bezbednosnim-sluzbama/": "2026-11-14T07:28:25.888253+00:00",
+  "https://www.b92.net/info/kosovo/284869/sednica-skupstine-u-pristini-prekinuta-zbog-nedostatka-kvoruma/vest": "2026-11-14T07:28:25.888253+00:00",
+  "https://www.telegraf.rs/vesti/svet/4432872-milijarde-u-kesu-pronadjene-zakopane-u-sumama-i-skrivene-u-zgradama-oglasila-se-orbanova-stranka": "2026-11-14T07:28:25.888253+00:00",
+  "https://www.novosti.rs/vesti/politika/1671028/hanrahan-sad-zele-nastave-strateski-dijalog-novom-vladom-srbije": "2026-11-14T07:28:25.888253+00:00",
+  "https://nova.rs/vesti/drustvo/cls-trazi-objavljivanje-ugovora-sa-oznakom-drzavne-tajne-u-okviru-projekta-beograd-pametan-grad/": "2026-11-14T07:28:25.888253+00:00",
+  "https://n1info.rs/vesti/u-jednom-uglu-dolovac-u-drugom-stefanovic-struka-kaze-da-je-od-okrsaja-vaznije-sta-ce-biti-sa-predmetima/": "2026-11-14T07:28:25.888253+00:00",
+  "https://nova.rs/vesti/biznis/gradski-budzet-grada-vranja-kraci-za-216-miliona/": "2026-11-14T07:28:25.888253+00:00",
+  "https://insajder.net/teme/porfesor-stanojevic-za-insajder-poljoprivrednicima-treba-predvidivost-bez-sela-i-ljudi-nema-poljoprivrede-video": "2026-11-14T07:28:25.888253+00:00",
+  "https://www.euronews.rs/svet/fokus/252018/letovi-u-sad-nastavljeni-posle-visesatne-obustave/vest": "2026-11-14T07:28:25.888253+00:00",
+  "https://www.danas.rs/svet/avioni-saobracaj-amerika/": "2026-11-14T07:28:25.888253+00:00",
+  "https://www.b92.net/info/hronika/284864/muskarac-stradao-u-saobracajnoj-nesreci-na-novom-beogradu/vest": "2026-11-14T07:28:25.888253+00:00",
+  "https://insajder.net/prenosimo/hitna-pomoc-poginuli-pesak-na-novom-beogradu-i-zena-u-pozaru-u-sremcici": "2026-11-14T07:28:25.888253+00:00",
+  "https://nova.rs/vesti/hronika/pesak-poginuo-na-novom-beogradu-jedna-osoba-u-pozaru-u-sremcici/": "2026-11-14T07:28:25.888253+00:00",
+  "https://n1info.rs/vesti/pesak-poginuo-na-novom-beogradu-jedna-osoba-u-pozaru-u-sremcici/": "2026-11-14T07:28:25.888253+00:00",
+  "https://informer.rs/politika/kolumne/1169745/kolumna-dragan-j-vucicevic-politika": "2026-11-14T07:28:25.888253+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-13T16:37+00:00",
-   "novih": 4,
-   "ukupno": 901,
-   "sekundi": 112.5
-  },
   {
    "vreme": "2026-11-13T16:52+00:00",
    "novih": 5,
@@ -3778,6 +3790,12 @@
    "novih": 2,
    "ukupno": 1035,
    "sekundi": 112.9
+  },
+  {
+   "vreme": "2026-11-14T07:31+00:00",
+   "novih": 6,
+   "ukupno": 1041,
+   "sekundi": 192.3
   }
  ],
  "licnosti_foto": {
@@ -6344,7 +6362,7 @@
    ]
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -6431,7 +6449,7 @@
    },
    "ininic": {
     "since_id": "2121413056882160077",
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -6439,7 +6457,7 @@
    },
    "sviublokade_fdu": {
     "since_id": "2120560395492495772",
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "dragandjilas": {
     "since_id": null,
@@ -6487,11 +6505,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "studentblokade": {
     "since_id": "2121235052155543772",
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -6563,7 +6581,7 @@
    },
    "boristadic58": {
     "since_id": null,
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "srdjanmil037": {
     "since_id": "2121485221874815005",
@@ -6615,7 +6633,7 @@
    },
    "borakonj": {
     "since_id": "2121480055557595446",
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "narodnipokrets": {
     "since_id": "2120601957350195572",
@@ -6623,67 +6641,67 @@
    },
    "direktnors": {
     "since_id": "2121341320329416863",
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "crtars": {
     "since_id": "2121266154312470704",
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "veceivan": {
     "since_id": "2121303796001222914",
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "repjoewilson": {
     "since_id": "2120984500146696436",
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "jugoslavcosic": {
     "since_id": "2121378612750561670",
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "tvnova_s": {
     "since_id": "2121365119317811436",
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "oljautisak": {
     "since_id": null,
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "srdjan_nogo": {
     "since_id": "2120938654998630563",
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "agrifblokira": {
     "since_id": null,
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "etfblokada": {
     "since_id": "2120930020059136372",
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "nastraninaroda": {
     "since_id": "2121342229339918554",
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "bcenzure": {
-    "since_id": "2121366360143929375",
-    "t": 1794638741.9740028
+    "since_id": "2121503012086493405",
+    "t": 1794641440.5614524
    },
    "bezstraha26279": {
-    "since_id": "2121487369081860235",
-    "t": 1794638741.9740028
+    "since_id": "2121497004450681301",
+    "t": 1794641440.5614524
    },
    "lazidetektor": {
     "since_id": "2121337308553363922",
-    "t": 1794638741.9740028
+    "t": 1794641440.5614524
    },
    "nedeljniknin": {
     "since_id": "2121498365598777506",
@@ -6708,6 +6726,32 @@
   },
   "posts": [
    {
+    "id": "2121503012086493405",
+    "x": "Bcenzure",
+    "ime": "Bez Cenzure",
+    "grupa": "",
+    "uloga": "",
+    "text": "Nova kolumna Srđana Škora \n\nStudentski cunami    \n\nKuknjava Vučića i ekipe nikako da prestane. Oni nikako da shvate šta se dogodilo i da su zauvek počišćeni sa političke scene Srbije. Nastavili su da prozivaju pobednike na izborima kako ne znaju ništa, kako nisu dovoljno https://t.co/arnR777zCn",
+    "published": "2026-11-14T07:18:28.000+00:00",
+    "lajk": 0,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Kolumna Srđana Škora o Vučiću i Studentskoj listi nakon izbora"
+   },
+   {
+    "id": "2121502931442651481",
+    "x": "Bcenzure",
+    "ime": "Bez Cenzure",
+    "grupa": "",
+    "uloga": "",
+    "text": "Nova kolumna Srđana Škora \n\nStudentski cunami    \n\nKuknjava Vučića i ekipe nikako da prestane. Oni nikako da shvate šta se dogodilo i da su zauvek počišćeni sa političke scene Srbije. Nastavili su da prozivaju pobednike na izborima kako ne znaju ništa, kako nisu dovoljno https://t.co/xITOLYlBUg",
+    "published": "2026-11-14T07:18:09.000+00:00",
+    "lajk": 0,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Kolumna Srđana Škora o Vučiću i Studentskoj listi nakon izbora"
+   },
+   {
     "id": "2121498365598777506",
     "x": "NedeljnikNIN",
     "ime": "NIN",
@@ -6719,6 +6763,19 @@
     "prikazi": true,
     "rubrika": "svet",
     "tema": "Budzet Nemacke za 2027: vise novca za Bundesver i socijalu"
+   },
+   {
+    "id": "2121497004450681301",
+    "x": "BezStraha26279",
+    "ime": "BezStraga",
+    "grupa": "",
+    "uloga": "",
+    "text": "BASTA &amp; CECA GLUMAC !\n\nNAKON TRECEG ILI ČETVRTOG RAZVODA BASTA SE IZ NS PRESELIO U BG I ODMAH SE UDOMIO KOD SVETLANE CECE GLUMAC \n\nKOJA JE RADILA U DOSTA JAKIH FIRMI KRIZNI MARKETING I KOJA JE POZNATA U GRADU \n\nBASTA JE VIDEO SVOJ INTERES U NJOJ DA MOŽE DA MU POMOGNE U PROPALOJ https://t.co/JujfNdW7NT https://t.co/WYlC9NG47z",
+    "published": "2026-11-14T06:54:36.000+00:00",
+    "lajk": 15,
+    "prikazi": false,
+    "rubrika": "drustvo",
+    "tema": "Privatni život Baste i Svetlane Cece Glumac"
    },
    {
     "id": "2121487369081860235",
@@ -28615,6 +28672,156 @@
   "t:marko rubio": {
    "t": 1794640463.6807938,
    "items": []
+  },
+  "t:zagorka dolovac": {
+   "t": 1794641336.921562,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Zagorka_Dolovac_2015.jpg/1920px-Zagorka_Dolovac_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3216,
+     "h": 2136,
+     "god": 2015,
+     "credit": "Wikimedia Commons / Medija centar / CC BY 3.0 rs",
+     "link": "https://commons.wikimedia.org/wiki/File:Zagorka_Dolovac_2015.jpg",
+     "naslov": "Zagorka Dolovac 2015.jpg"
+    }
+   ]
+  },
+  "t:vranje": {
+   "t": 1794641349.7981236,
+   "items": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Vranje_collage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1024,
+     "h": 1821,
+     "god": 2018,
+     "credit": "Wikimedia Commons / Zeks127 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Vranje_collage.jpg",
+     "naslov": "Vranje collage.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Innenraum_des_Kloster_des_Heiligen_Nikolaus%2C_Vranje_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1536,
+     "h": 2048,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Elmie / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Innenraum_des_Kloster_des_Heiligen_Nikolaus,_Vranje_II.jpg",
+     "naslov": "Innenraum des Kloster des Heiligen Nikolaus, Vranje II.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Altes_Rathaus_von_Vranje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1536,
+     "h": 2048,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Elmie / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Altes_Rathaus_von_Vranje.jpg",
+     "naslov": "Altes Rathaus von Vranje.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Die_Wei%C3%9Fe_Br%C3%BCcke_in_Vranje.jpg/1920px-Die_Wei%C3%9Fe_Br%C3%BCcke_in_Vranje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2048,
+     "h": 1536,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Elmie / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Die_Wei%C3%9Fe_Br%C3%BCcke_in_Vranje.jpg",
+     "naslov": "Die Weiße Brücke in Vranje.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Kloster_des_Heiligen_Nikolaus%2C_Vranje.jpg/1920px-Kloster_des_Heiligen_Nikolaus%2C_Vranje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2048,
+     "h": 1536,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Elmie / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Kloster_des_Heiligen_Nikolaus,_Vranje.jpg",
+     "naslov": "Kloster des Heiligen Nikolaus, Vranje.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Blick_%C3%BCber_Vranje.jpg/1920px-Blick_%C3%BCber_Vranje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2048,
+     "h": 1536,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Elmie / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Blick_%C3%BCber_Vranje.jpg",
+     "naslov": "Blick über Vranje.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Stadtpark_Vranje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1536,
+     "h": 2048,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Elmie / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Stadtpark_Vranje.jpg",
+     "naslov": "Stadtpark Vranje.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Smog_in_Vranje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1536,
+     "h": 2048,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Elmie / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Smog_in_Vranje.jpg",
+     "naslov": "Smog in Vranje.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Innenraum_des_Kloster_des_Heiligen_Nikolaus%2C_Vranje_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1536,
+     "h": 2048,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Elmie / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Innenraum_des_Kloster_des_Heiligen_Nikolaus,_Vranje_I.jpg",
+     "naslov": "Innenraum des Kloster des Heiligen Nikolaus, Vranje I.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Narodni_muzej_Vranje%2C_postavka_7.jpg/1920px-Narodni_muzej_Vranje%2C_postavka_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2592,
+     "h": 1944,
+     "god": 2014,
+     "credit": "Wikimedia Commons / Djordje Stakić / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Narodni_muzej_Vranje,_postavka_7.jpg",
+     "naslov": "Narodni muzej Vranje, postavka 7.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Narodni_muzej_Vranje%2C_postavka_22.jpg/1920px-Narodni_muzej_Vranje%2C_postavka_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 1944,
+     "h": 2592,
+     "god": 2014,
+     "credit": "Wikimedia Commons / Djordje Stakić / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Narodni_muzej_Vranje,_postavka_22.jpg",
+     "naslov": "Narodni muzej Vranje, postavka 22.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Narodni_muzej_Vranje%2C_postavka_3.jpg/1920px-Narodni_muzej_Vranje%2C_postavka_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2592,
+     "h": 1944,
+     "god": 2014,
+     "credit": "Wikimedia Commons / Djordje Stakić / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Narodni_muzej_Vranje,_postavka_3.jpg",
+     "naslov": "Narodni muzej Vranje, postavka 3.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Narodni_muzej_Vranje%2C_postavka_28.jpg/1920px-Narodni_muzej_Vranje%2C_postavka_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2592,
+     "h": 1944,
+     "god": 2014,
+     "credit": "Wikimedia Commons / Djordje Stakić / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Narodni_muzej_Vranje,_postavka_28.jpg",
+     "naslov": "Narodni muzej Vranje, postavka 28.jpg"
+    }
+   ]
+  },
+  "t:ipard": {
+   "t": 1794641364.8597388,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Information_panel_IPARD_Krk.jpg/1920px-Information_panel_IPARD_Krk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4032,
+     "h": 3024,
+     "god": 2019,
+     "credit": "Wikimedia Commons / Paul Braun / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Information_panel_IPARD_Krk.jpg",
+     "naslov": "Information panel IPARD Krk.jpg"
+    }
+   ]
   }
  },
  "x_objave": {
@@ -30376,6 +30583,24 @@
    "wd": "",
    "t": 1794640488.7301385,
    "ok": false,
+   "foto": null
+  },
+  "Vukša Dragović": {
+   "ime": "Vukša Dragović",
+   "uloga": "podnosilac prijava REM-u",
+   "oblast": "drustvo",
+   "wd": "",
+   "t": 1794641453.6885736,
+   "ok": false,
+   "foto": null
+  },
+  "Šon Dafi": {
+   "ime": "Šon Dafi",
+   "uloga": "ministar saobraćaja SAD",
+   "oblast": "svet",
+   "wd": "",
+   "t": 1794641453.688646,
+   "ok": true,
    "foto": null
   }
  },
