@@ -27,16 +27,23 @@
  ],
  "importance": 3,
  "published": "2026-11-14T15:54:19.911335+00:00",
- "updated": "2026-11-14T15:54:19.911335+00:00",
+ "updated": "2026-11-14T16:09:08.123200+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/politika/ds-usvojena-beogradska-deklaracija-kojom-se-pozivaju-zene-da-oblikuju-politicke-prioritete/",
    "title": "DS: Usvojena Beogradska deklaracija kojom se pozivaju žene da oblikuju političke prioritete",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/ds-usvojena-beogradska-deklaracija-kojom-se-pozivaju-zene-da-oblikuju-politicke-prioritete/",
+   "title": "DS: Usvojena Beogradska deklaracija kojom se pozivaju žene da oblikuju političke prioritete",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "DS: Usvojena Beogradska deklaracija kojom se pozivaju žene da oblikuju političke prioritete",
   "DS: Usvojena Beogradska deklaracija kojom se pozivaju žene da oblikuju političke prioritete"
  ],
  "author": "Redakcija Prestonice",
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Za_pravednu_Srbiju_%E2%80%93_Demokratska_stranka_1.jpg",
   "alt": "DS: na regionalnoj konferenciji u Beogradu potpisana deklaracija o ulozi žena u politici"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

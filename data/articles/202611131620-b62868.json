@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T15:20:51.769133+00:00",
- "updated": "2026-11-14T15:54:19.911335+00:00",
+ "updated": "2026-11-14T16:09:08.123200+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -68,6 +68,12 @@
    "url": "https://www.tanjug.rs/svet/hronika/297778/cetvoro-poginulih-oko-30-povredenih-u-sudaru-autobusa-sa-hodocasnicima-u-indiji/vest",
    "title": "Četvoro poginulih, oko 30 povređenih u sudaru autobusa sa hodočasnicima u Indiji",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/284994/saobracajna-nesreca-u-indiji/vest",
+   "title": "Autobusi puni hodočasnika sudarili se u Indiji: Ima poginulih i desetine povređenih",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -76,7 +82,8 @@
   "U sudaru autobusa i kamiona na severoistoku Indije poginule 24 osobe",
   "U sudaru autobusa i kamiona na severoistoku Indije poginule 24 osobe",
   "Tragedija! Ogroman broj poginulih u sudaru minibusa i kamiona",
-  "Četvoro poginulih, oko 30 povređenih u sudaru autobusa sa hodočasnicima u Indiji"
+  "Četvoro poginulih, oko 30 povređenih u sudaru autobusa sa hodočasnicima u Indiji",
+  "Autobusi puni hodočasnika sudarili se u Indiji: Ima poginulih i desetine povređenih"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -89,6 +96,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:PM_Modi_at_Kaziranga_Park.jpg",
   "alt": "U sudaru kamiona i autobusa u indijskoj državi Asam poginule najmanje 23 osobe"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }
