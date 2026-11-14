@@ -40,7 +40,7 @@
  ],
  "importance": 6,
  "published": "2026-11-14T07:43:16.069693+00:00",
- "updated": "2026-11-14T07:58:08.762756+00:00",
+ "updated": "2026-11-14T12:11:17.675693+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -53,11 +53,18 @@
    "url": "https://www.b92.net/info/politika/284877/studentska-lista-zapocela-diplomatsku-ofanzivu-analiticari-srbija-mora-da-nastavi-da-gradi-mostove/vest",
    "title": "Studentska lista započela diplomatsku ofanzivu; Analitičari: \"Srbija mora da nastavi da gradi mostove\"",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/najave-emisija/novi-dan-diplomatska-ofanziva-studentske-liste/",
+   "title": "Novi dan: Diplomatska ofanziva Studentske liste",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "STUDENTSKA LISTA POČELA DIPLOMATSKU OFANZIVU! Analitičari: Srbija mora da nastavi da gradi MOSTOVE PRIJATELJSTVA s najvećim svetskim silama!",
-  "Studentska lista započela diplomatsku ofanzivu; Analitičari: \"Srbija mora da nastavi da gradi mostove\""
+  "Studentska lista započela diplomatsku ofanzivu; Analitičari: \"Srbija mora da nastavi da gradi mostove\"",
+  "Novi dan: Diplomatska ofanziva Studentske liste"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "local": true,
   "alt": "Studentska lista razgovarala sa diplomatama SAD i Rusije, na redu Kanada, Italija i Egipat"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

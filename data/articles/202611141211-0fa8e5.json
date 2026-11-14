@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T11:11:39.945067+00:00",
- "updated": "2026-11-14T11:11:39.945067+00:00",
+ "updated": "2026-11-14T12:11:17.675693+00:00",
  "sources": [
   {
    "name": "N1",
@@ -41,9 +41,16 @@
    "url": "https://www.danas.rs/vesti/ekonomija/oglasena-prodaja-imovine-fabrike-secera-zrenjanin-po-pocetnoj-ceni-od-171-milion-dinara/",
    "title": "Oglašena prodaja imovine Fabrike šećera Zrenjanin po početnoj ceni od 171 milion dinara",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/oglasena-prodaja-imovine-fabrike-secera-zrenjanin-po-pocetnoj-ceni-od-171-milion-dinara/",
+   "title": "Oglašena prodaja imovine Fabrike šećera Zrenjanin po početnoj ceni od 171 milion dinara",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Oglašena prodaja imovine Fabrike šećera Zrenjanin po početnoj ceni od 171 milion dinara",
   "Oglašena prodaja imovine Fabrike šećera Zrenjanin po početnoj ceni od 171 milion dinara",
   "Oglašena prodaja imovine Fabrike šećera Zrenjanin po početnoj ceni od 171 milion dinara"
  ],
@@ -56,5 +63,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Imovina Fabrike šećera Zrenjanin na prodaji po početnoj ceni od 171 milion dinara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

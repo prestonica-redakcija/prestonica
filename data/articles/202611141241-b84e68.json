@@ -29,16 +29,23 @@
  ],
  "importance": 5,
  "published": "2026-11-14T11:41:26.868148+00:00",
- "updated": "2026-11-14T11:41:26.868148+00:00",
+ "updated": "2026-11-14T12:11:17.675693+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/297717/jevtic-nesaradnja-sa-srpskom-listom-nanece-stetu-interesima-i-opstanku-srba-na-kim/vest",
    "title": "Jevtić: Nesaradnja sa Srpskom listom naneće štetu interesima i opstanku Srba na KiM",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/252061/dalibor-jevtic-saradnja-sa-srpskom-listom-je-neizbezna/vest",
+   "title": "Jevtić: Nesaradnja sa Srpskom listom naneće štetu interesima i opstanku Srba na KiM",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
+  "Jevtić: Nesaradnja sa Srpskom listom naneće štetu interesima i opstanku Srba na KiM",
   "Jevtić: Nesaradnja sa Srpskom listom naneće štetu interesima i opstanku Srba na KiM"
  ],
  "author": "Redakcija Prestonice",
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Dalibor_Jevtic-mc.rs.jpg",
   "alt": "Jevtić: Nova vlada neće moći bez Srpske liste, razjedinjavanje šteti Srbima na KiM"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
