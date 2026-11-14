@@ -24,7 +24,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T04:11:09.682052+00:00",
- "updated": "2026-11-13T23:17:21.565081+00:00",
+ "updated": "2026-11-14T04:00:08.855424+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -61,6 +61,12 @@
    "url": "https://biznis.telegraf.rs/info-biz/4432813-srednji-kurs-dinara-za-evro-u-ponedeljak-1176103-dinara",
    "title": "Srednji kurs dinara za evro u ponedeljak 117,6103 dinara",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/251980/kurs-dinara-za-evro-u-ponedeljak-1176103/vest",
+   "title": "NBS: Srednji kurs dinara za evro u ponedeljak 117,6103",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -69,7 +75,8 @@
   "Srednji kurs dinara za evro danas 117,6203 dinara, za dolar 106,3475",
   "DAN POČEO SA NOVIM KURSOM: Dinar oslabio prema dolaru, evo koliki je srednji kurs evra",
   "Srednji kurs dinara za evro u ponedeljak 117,6103 dinara",
-  "Srednji kurs dinara za evro u ponedeljak 117,6103 dinara"
+  "Srednji kurs dinara za evro u ponedeljak 117,6103 dinara",
+  "NBS: Srednji kurs dinara za evro u ponedeljak 117,6103"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -81,8 +88,8 @@
   "local": true,
   "alt": "Srednji kurs evra danas 117,6203 dinara, dolar 106,1938 dinara"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-13T17:05:05.351051+00:00",
  "verzija": 2
 }
