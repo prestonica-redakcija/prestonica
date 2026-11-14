@@ -3395,18 +3395,20 @@
   "https://www.tanjug.rs/svet/drustvo/297671/sad-nastavljeni-letovi-nakon-visecasovne-obustave-uz-kasnjenja-i-otkazivanja/vest": "2026-11-14T06:43:55.072383+00:00",
   "https://informer.rs/politika/vesti/1169736/lider-opozicije-aleksandar-vucic-tv-pink": "2026-11-14T06:43:55.072383+00:00",
   "https://www.tanjug.rs/svet/drustvo/297672/danas-ponovo-protesti-u-francuskoj-ocekuje-se-do-60000-demonstranata-u-parizu/vest": "2026-11-14T06:43:55.072383+00:00",
-  "https://www.telegraf.rs/vesti/svet/4432860-francuzi-se-ne-smiruju-subota-je-dan-za-novi-protest-na-nogama-70000-policajaca-i-zandarma": "2026-11-14T06:43:55.072383+00:00"
+  "https://www.telegraf.rs/vesti/svet/4432860-francuzi-se-ne-smiruju-subota-je-dan-za-novi-protest-na-nogama-70000-policajaca-i-zandarma": "2026-11-14T06:43:55.072383+00:00",
+  "https://www.tanjug.rs/srbija/drustvo/297622/danas-je-svetski-dan-dijabetesa-zdravim-navikama-moguce-spreciti-nastanak-bolesti/vest": "2026-11-14T06:58:44.340246+00:00",
+  "https://n1info.rs/magazin/zdravlje/svetski-dan-dijabetesa-godinama-moze-da-se-razvija-bez-simptoma/": "2026-11-14T06:58:44.340246+00:00",
+  "https://www.kurir.rs/planeta/10161782/nastavljeni-letovi-u-sad-posle-visecasovne-obustave": "2026-11-14T06:58:44.340246+00:00",
+  "https://www.kurir.rs/planeta/10161786/danas-ponovo-protesti-u-francuskoj": "2026-11-14T06:58:44.340246+00:00",
+  "https://n1info.rs/svet/bundestag-prosirio-ovlascenja-bezbednosnim-sluzbama/": "2026-11-14T06:58:44.340246+00:00",
+  "https://www.kurir.rs/zabava/zanimljivosti/10161230/kako-izgleda-zivot-u-najcudnijem-selu-na-svetu": "2026-11-14T06:58:44.340246+00:00",
+  "https://www.danas.rs/vesti/drustvo/postoji-dobra-volja-da-li-ce-slucaj-osporenog-doktorata-sinise-malog-konacno-dobiti-epilog/": "2026-11-14T06:58:44.340246+00:00",
+  "https://www.b92.net/info/svet/284866/ukinuta-zabrana-letova-u-sad/vest": "2026-11-14T06:58:44.340246+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-13T16:09+00:00",
-   "novih": 8,
-   "ukupno": 893,
-   "sekundi": 225.3
-  },
   {
    "vreme": "2026-11-13T16:22+00:00",
    "novih": 4,
@@ -3760,6 +3762,12 @@
    "novih": 5,
    "ukupno": 1031,
    "sekundi": 162.1
+  },
+  {
+   "vreme": "2026-11-14T07:00+00:00",
+   "novih": 2,
+   "ukupno": 1033,
+   "sekundi": 106.6
   }
  ],
  "licnosti_foto": {
@@ -6326,7 +6334,7 @@
    ]
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -28545,6 +28553,33 @@
   "t:zuti prsluci": {
    "t": 1794638737.5313861,
    "items": []
+  },
+  "t:sinisa mali": {
+   "t": 1794639561.4652696,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Sini%C5%A1a_Mali.jpg/1920px-Sini%C5%A1a_Mali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2200,
+     "h": 3264,
+     "god": 2015,
+     "credit": "Wikimedia Commons / Ministarstvo finansija Republike Srbije / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sini%C5%A1a_Mali.jpg",
+     "naslov": "Siniša Mali.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Sini%C5%A1a_Mali_%28cropped_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1559,
+     "h": 2079,
+     "god": 2015,
+     "credit": "Wikimedia Commons / Ministarstvo finansija Republike Srbije / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sini%C5%A1a_Mali_(cropped_1).jpg",
+     "naslov": "Siniša Mali (cropped 1).jpg"
+    }
+   ]
+  },
+  "t:son dafi": {
+   "t": 1794639576.7573855,
+   "items": []
   }
  },
  "x_objave": {
@@ -30283,6 +30318,21 @@
    "t": 1794638751.249763,
    "ok": true,
    "foto": null
+  },
+  "Vladan Đokić": {
+   "ime": "Vladan Đokić",
+   "uloga": "rektor Univerziteta u Beogradu",
+   "oblast": "drustvo",
+   "wd": "Q106692922",
+   "t": 1794639586.9238393,
+   "ok": true,
+   "foto": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Rektor_Univerziteta_u_Beogradu_Vladan_%C4%90oki%C4%87_na_tribini_u_Vrbasu_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Wikimedia Commons / Mašina / CC BY-SA 3.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Rektor_Univerziteta_u_Beogradu_Vladan_%C4%90oki%C4%87_na_tribini_u_Vrbasu_(cropped).jpg",
+    "w": 311,
+    "h": 415
+   }
   }
  },
  "ankete": [

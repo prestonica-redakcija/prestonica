@@ -27,17 +27,31 @@
  ],
  "importance": 3,
  "published": "2026-11-13T20:03:56.560711+00:00",
- "updated": "2026-11-13T20:03:56.560711+00:00",
+ "updated": "2026-11-14T06:58:44.340246+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/drustvo/297622/sutra-svetski-dan-dijabetesa-zdravim-navikama-moguce-spreciti-nastanak-bolesti/vest",
    "title": "Sutra Svetski dan dijabetesa, zdravim navikama moguće sprečiti nastanak bolesti",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/297622/danas-je-svetski-dan-dijabetesa-zdravim-navikama-moguce-spreciti-nastanak-bolesti/vest",
+   "title": "Danas je Svetski dan dijabetesa, zdravim navikama moguće sprečiti nastanak bolesti",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/magazin/zdravlje/svetski-dan-dijabetesa-godinama-moze-da-se-razvija-bez-simptoma/",
+   "title": "Svetski dan dijabetesa: Godinama može da se razvija bez simptoma",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Sutra Svetski dan dijabetesa, zdravim navikama moguće sprečiti nastanak bolesti"
+  "Sutra Svetski dan dijabetesa, zdravim navikama moguće sprečiti nastanak bolesti",
+  "Danas je Svetski dan dijabetesa, zdravim navikama moguće sprečiti nastanak bolesti",
+  "Svetski dan dijabetesa: Godinama može da se razvija bez simptoma"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +62,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Sutra je Svetski dan dijabetesa, kampanja posvećena prevenciji i ranom otkrivanju"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

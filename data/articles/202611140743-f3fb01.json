@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T06:43:55.072383+00:00",
- "updated": "2026-11-14T06:43:55.072383+00:00",
+ "updated": "2026-11-14T06:58:44.340246+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4432860-francuzi-se-ne-smiruju-subota-je-dan-za-novi-protest-na-nogama-70000-policajaca-i-zandarma",
    "title": "Francuzi se ne smiruju: Subota je dan za novi protest, na nogama 70.000 policajaca i žandarma",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10161786/danas-ponovo-protesti-u-francuskoj",
+   "title": "NOVI PROTESTI U FRANCUSKOJ: Demonstracije u pedesetak gradova, očekuje se 60.000 ljudi u Parizu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Danas ponovo protesti u Francuskoj, očekuje se do 60.000 demonstranata u Parizu",
-  "Francuzi se ne smiruju: Subota je dan za novi protest, na nogama 70.000 policajaca i žandarma"
+  "Francuzi se ne smiruju: Subota je dan za novi protest, na nogama 70.000 policajaca i žandarma",
+  "NOVI PROTESTI U FRANCUSKOJ: Demonstracije u pedesetak gradova, očekuje se 60.000 ljudi u Parizu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Novi protesti zbog životnih troškova u Francuskoj, na ulicama 70.000 policajaca i žandarma"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

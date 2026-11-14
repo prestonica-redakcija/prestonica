@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-14T06:43:55.072383+00:00",
- "updated": "2026-11-14T06:43:55.072383+00:00",
+ "updated": "2026-11-14T06:58:44.340246+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4432625-najvaznije-vesti-iz-sveta-za-13-novembar-2026-godine",
    "title": "Obustavljeni svi letovi u SAD, Izrael razvija moćno oružje: Šta se juče desilo u svetu?",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10161782/nastavljeni-letovi-u-sad-posle-visecasovne-obustave",
+   "title": "PRESTALA ZABRANA U AMERICI: Nastavljeni letovi posle višečasovne obustave! Kolaps na aerodromima, uz kašnjenja i otkazivanja",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "SAD: Nastavljeni letovi nakon višečasovne obustave, uz kašnjenja i otkazivanja",
-  "Obustavljeni svi letovi u SAD, Izrael razvija moćno oružje: Šta se juče desilo u svetu?"
+  "Obustavljeni svi letovi u SAD, Izrael razvija moćno oružje: Šta se juče desilo u svetu?",
+  "PRESTALA ZABRANA U AMERICI: Nastavljeni letovi posle višečasovne obustave! Kolaps na aerodromima, uz kašnjenja i otkazivanja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "SAD: Letovi nastavljeni posle višečasovne obustave, kašnjenja se očekuju danima"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
