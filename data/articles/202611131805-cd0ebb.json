@@ -28,16 +28,23 @@
  ],
  "importance": 3,
  "published": "2026-11-13T17:05:05.351051+00:00",
- "updated": "2026-11-13T17:05:05.351051+00:00",
+ "updated": "2026-11-14T02:15:58.167254+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/297585/macura-vise-od-polovine-zena-u-srbiji-zainteresovano-za-rad-u-zelenim-sektorima/vest",
    "title": "Macura: Više od polovine žena u Srbiji zainteresovano za rad u zelenim sektorima",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4432740-macura-vise-od-polovine-zena-u-srbiji-zainteresovano-za-rad-u-zelenim-sektorima",
+   "title": "Macura: Više od polovine žena u Srbiji zainteresovano za rad u zelenim sektorima",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
+  "Macura: Više od polovine žena u Srbiji zainteresovano za rad u zelenim sektorima",
   "Macura: Više od polovine žena u Srbiji zainteresovano za rad u zelenim sektorima"
  ],
  "author": "Redakcija Prestonice",
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Foreign_Secretary_Ed_Miliband_attends_COP31_in_T%C3%BCrkiye_(55648509449).jpg",
   "alt": "Macura: za rad u zelenim sektorima zainteresovano 52,7 odsto žena u Srbiji"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
