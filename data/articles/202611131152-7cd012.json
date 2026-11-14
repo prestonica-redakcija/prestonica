@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T10:52:55.361705+00:00",
- "updated": "2026-11-13T11:07:47.950991+00:00",
+ "updated": "2026-11-14T08:42:43.998285+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -48,12 +48,19 @@
    "url": "https://n1info.rs/vesti/beograd-ostaje-prijava-odgovorni-direkcija-ugovora-sa-powerchina/",
    "title": "\"Beograd ostaje\" podneo krivičnu prijavu protiv odgovornih u vezi sa rušenjem starog i gradnjom novog savskog mosta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/krivicna-prijava-direkciji-za-gradjevinsko-zemljiste-i-izgradnju-beograda-i-vladi-republike-srbije-zbog-ugovora-sa-powerchina/",
+   "title": "Krivična prijava Direkciji za građevinsko zemljište i izgradnju Beograda i Vladi Republike Srbije zbog Ugovora sa PowerChina",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Krivična prijava zbog ugovora o izgradnji novog i uklanjanju Starog savskog mosta",
   "\"Beograd ostaje\" podneo krivičnu prijavu protiv odgovornih lica u Direkciji za građevinsko zemljište i Vladi u vezi sa rušenjem starog i gradnjom novog mosta preko Save",
-  "\"Beograd ostaje\" podneo krivičnu prijavu protiv odgovornih u vezi sa rušenjem starog i gradnjom novog savskog mosta"
+  "\"Beograd ostaje\" podneo krivičnu prijavu protiv odgovornih u vezi sa rušenjem starog i gradnjom novog savskog mosta",
+  "Krivična prijava Direkciji za građevinsko zemljište i izgradnju Beograda i Vladi Republike Srbije zbog Ugovora sa PowerChina"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:2021-04-11_PowerChina_Solar_Plants_002.jpg",
   "alt": "Krivična prijava zbog ugovora o novom i uklanjanju Starog savskog mosta"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

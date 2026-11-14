@@ -3496,18 +3496,19 @@
   "https://nova.rs/vesti/drustvo/dragi-studenti-ne-ponavljajte-greske-u-zdravstvu/": "2026-11-14T08:27:55.345332+00:00",
   "https://www.tanjug.rs/svet/politika/297685/vlada-sad-pristala-da-obustavi-pritiske-na-epl-i-fejsbuk-da-ogranice-pracenje-ice/vest": "2026-11-14T08:27:55.345332+00:00",
   "https://www.youtube.com/watch?v=hjHB6ngpBAI": "2026-11-14T08:27:55.345332+00:00",
-  "https://www.youtube.com/watch?v=MqQR5XK1gFU": "2026-11-14T08:27:55.345332+00:00"
+  "https://www.youtube.com/watch?v=MqQR5XK1gFU": "2026-11-14T08:27:55.345332+00:00",
+  "https://n1info.rs/biznis/postanska-stedionica-u-petak-isplaceni-svi-zakazani-klijenti-poslednji-dobio-novac-oko-ponoci/": "2026-11-14T08:42:43.998285+00:00",
+  "https://nova.rs/vesti/drustvo/krivicna-prijava-direkciji-za-gradjevinsko-zemljiste-i-izgradnju-beograda-i-vladi-republike-srbije-zbog-ugovora-sa-powerchina/": "2026-11-14T08:42:43.998285+00:00",
+  "https://www.euronews.rs/svet/planeta/252026/kina-i-sad-odrzale-prvi-sastanak-trgovinskog-saveta/vest": "2026-11-14T08:42:43.998285+00:00",
+  "https://n1info.rs/vesti/zbog-havarije-na-vodovodu-poplavljen-deo-vozdovca-stanari-ljermontove-ulice-bez-vode/": "2026-11-14T08:42:43.998285+00:00",
+  "https://informer.rs/politika/vesti/1169763/nenad-rasic-kim-studentska-lista": "2026-11-14T08:42:43.998285+00:00",
+  "https://www.kurir.rs/stars/10161838/aleksis-plastik-osudio-veljkovu-reakciju-na-kostim-reagovala-jelena-karleusa": "2026-11-14T08:42:43.998285+00:00",
+  "https://www.kurir.rs/zabava/zanimljivosti/10110829/prepodne-ili-pre-podne-evo-kako-se-pravilno-pise-jedna-od-cestih-nedoumica-u-srpskom-jeziku": "2026-11-14T08:42:43.998285+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-13T17:52+00:00",
-   "novih": 3,
-   "ukupno": 928,
-   "sekundi": 161.0
-  },
   {
    "vreme": "2026-11-13T18:08+00:00",
    "novih": 6,
@@ -3861,6 +3862,12 @@
    "novih": 6,
    "ukupno": 1056,
    "sekundi": 175.7
+  },
+  {
+   "vreme": "2026-11-14T08:44+00:00",
+   "novih": 2,
+   "ukupno": 1058,
+   "sekundi": 88.4
   }
  ],
  "licnosti_foto": {
@@ -6426,7 +6433,7 @@
    ]
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -29080,6 +29087,47 @@
   "t:fejsbuk": {
    "t": 1794644975.807652,
    "items": []
+  },
+  "t:nenad rasic": {
+   "t": 1794645799.0644875,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Nenad_Ra%C5%A1i%C4%87_i_Aljbin_Kurti_2.jpg/1920px-Nenad_Ra%C5%A1i%C4%87_i_Aljbin_Kurti_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3000,
+     "h": 2000,
+     "god": 2022,
+     "credit": "Wikimedia Commons / Kabinet Premijera Kosova / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Nenad_Ra%C5%A1i%C4%87_i_Aljbin_Kurti_2.jpg",
+     "naslov": "Nenad Rašić i Aljbin Kurti 2.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Nenad_Ra%C5%A1i%C4%87_i_Aljbin_Kurti.jpg/1920px-Nenad_Ra%C5%A1i%C4%87_i_Aljbin_Kurti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3000,
+     "h": 2000,
+     "god": 2022,
+     "credit": "Wikimedia Commons / Kabinet Premijera Kosova / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Nenad_Ra%C5%A1i%C4%87_i_Aljbin_Kurti.jpg",
+     "naslov": "Nenad Rašić i Aljbin Kurti.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Nenad_Ra%C5%A1i%C4%87_i_Aljbin_Kurti3.jpg/1920px-Nenad_Ra%C5%A1i%C4%87_i_Aljbin_Kurti3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3000,
+     "h": 2000,
+     "god": 2022,
+     "credit": "Wikimedia Commons / Kabinet Premijera Kosova / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Nenad_Ra%C5%A1i%C4%87_i_Aljbin_Kurti3.jpg",
+     "naslov": "Nenad Rašić i Aljbin Kurti3.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ministar_Nenad_Ra%C5%A1i%C4%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1036,
+     "h": 696,
+     "god": 2022,
+     "credit": "Wikimedia Commons / REPUBLIC OF KOSOVO MINISTRY OF COMMUNITIES AND RETURN / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Ministar_Nenad_Ra%C5%A1i%C4%87.jpg",
+     "naslov": "Ministar Nenad Rašić.jpg"
+    }
+   ]
   }
  },
  "x_objave": {

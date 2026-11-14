@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-14T08:13:11.892749+00:00",
- "updated": "2026-11-14T08:27:55.345332+00:00",
+ "updated": "2026-11-14T08:42:43.998285+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -71,6 +71,12 @@
    "url": "https://www.danas.rs/vesti/ekonomija/postanska-stedionica-prvog-dana-isplaceni-svi-klijenti-alta-banke-sa-zakazanim-terminima/",
    "title": "Poštanska štedionica: Prvog dana isplaćeni svi klijenti Alta banke sa zakazanim terminima",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/postanska-stedionica-u-petak-isplaceni-svi-zakazani-klijenti-poslednji-dobio-novac-oko-ponoci/",
+   "title": "Poštanska štedionica: U petak isplaćeni svi zakazani klijenti, poslednji dobio novac oko ponoći",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -80,7 +86,8 @@
   "OGLASILA SE BANKA POŠTANSKA ŠTEDIONICA: Isplaćeni svi zakazani klijenti Alta banke, poslednji deponent uslužen pred ponoć",
   "BPŠ: U petak isplaćeni svi zakazani klijenti Alta banke u stečaju, danas nastavak isključivo za termine zakazane za subotu",
   "Oglasila se Banka Poštanska štedionica: Isplaćeni u petak svi zakazani klijenti Alta banke",
-  "Poštanska štedionica: Prvog dana isplaćeni svi klijenti Alta banke sa zakazanim terminima"
+  "Poštanska štedionica: Prvog dana isplaćeni svi klijenti Alta banke sa zakazanim terminima",
+  "Poštanska štedionica: U petak isplaćeni svi zakazani klijenti, poslednji dobio novac oko ponoći"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -92,6 +99,6 @@
   "local": true,
   "alt": "Isplata deponenata Alta banke u stečaju se nastavlja, termin zakazalo 17.193 klijenta"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
