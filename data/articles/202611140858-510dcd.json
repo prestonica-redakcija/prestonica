@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-14T07:58:08.762756+00:00",
- "updated": "2026-11-14T09:27:26.914112+00:00",
+ "updated": "2026-11-14T13:55:13.517072+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,12 +46,19 @@
    "url": "https://insajder.net/prenosimo/kina-i-sad-razgovarale-o-carinama-i-trgovini-na-prvom-sastanku-trgovinskog-saveta",
    "title": "Kina i SAD razgovarale o carinama i trgovini na prvom sastanku trgovinskog saveta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1671162/prvi-sastanak-trgovinskog-saveta-kine-sad-fokus-poljoprivredi-carinskom-paketu-60-milijardi-dolara",
+   "title": "PRVI SASTANAK TRGOVINSKOG SAVETA KINE I SAD: Fokus na poljoprivredi i carinskom paketu od 60 milijardi dolara",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Kina i SAD razgovarale o carinama i trgovini na prvom sastanku trgovinskog saveta",
   "Kina i SAD razgovarale o carinama i trgovini na prvom sastanku trgovinskog saveta",
-  "Kina i SAD razgovarale o carinama i trgovini na prvom sastanku trgovinskog saveta"
+  "Kina i SAD razgovarale o carinama i trgovini na prvom sastanku trgovinskog saveta",
+  "PRVI SASTANAK TRGOVINSKOG SAVETA KINE I SAD: Fokus na poljoprivredi i carinskom paketu od 60 milijardi dolara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +70,6 @@
   "local": true,
   "alt": "Kina i SAD održale prvi sastanak trgovinskog saveta, razgovarano o carinama"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
