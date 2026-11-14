@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T06:55:05.526438+00:00",
- "updated": "2026-11-14T08:57:38.232948+00:00",
+ "updated": "2026-11-14T09:12:38.337999+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -158,6 +158,12 @@
    "url": "https://n1info.rs/svet/letovi-u-sad-ponovo-dozvoljeni-haos-na-aerodromima-se-nastavlja-oko-15-miliona-putnika-pogodjeno-poremecajima/",
    "title": "Letovi u SAD ponovo dozvoljeni – haos na aerodromima se nastavlja, oko 1,5 miliona putnika pogođeno poremećajima",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10161854/majkrosoft-otklonio-probleme",
+   "title": "MAJKROSOFT SE OPORAVIO POSLE GLOBALNOG KOLAPSA: Servisi ponovo rade, evo šta je izazvalo haos",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -181,7 +187,8 @@
   "\"MICROSOFT\" PONOVO USPOSTAVIO RAD PLATFORMI: Kolaps trajao 24 sata, nastao zbog tehničkog problema",
   "Nije samo do plate... Nema dovoljno nastavnika i medicinara: Sve manje Evropljana želi da radi ove poslove",
   "Majkrosoft: Usluge u potpunosti obnovljene nakon globalnog prekida rada",
-  "Letovi u SAD ponovo dozvoljeni – haos na aerodromima se nastavlja, oko 1,5 miliona putnika pogođeno poremećajima"
+  "Letovi u SAD ponovo dozvoljeni – haos na aerodromima se nastavlja, oko 1,5 miliona putnika pogođeno poremećajima",
+  "MAJKROSOFT SE OPORAVIO POSLE GLOBALNOG KOLAPSA: Servisi ponovo rade, evo šta je izazvalo haos"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -194,7 +201,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg",
   "alt": "Veliki prekid u radu Microsofta: Outlook i Teams satima nedostupni širom sveta"
  },
- "novo_od_pisanja": 7,
+ "novo_od_pisanja": 8,
  "boost": 1.6,
  "prepisano": "2026-11-13T15:35:52.267094+00:00",
  "verzija": 4

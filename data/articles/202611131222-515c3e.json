@@ -29,17 +29,24 @@
  ],
  "importance": 4,
  "published": "2026-11-13T11:22:43.987932+00:00",
- "updated": "2026-11-13T11:22:43.987932+00:00",
+ "updated": "2026-11-14T09:12:38.337999+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/direktor-pete-gimnazije-opstruise-povratak-nastavnice/",
    "title": "Roditelji učenika Pete gimnazije: Direktor opstruiše povratak nastavnice na posao",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/direktor-pete-beogradske-gimnazije-opstruise-sudsku-odluku-i-nastavlja-sa-pritiscima-na-zaposlene/",
+   "title": "Direktor Pete beogradske gimnazije opstruiše sudsku odluku i nastavlja sa pritiscima na zaposlene",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Roditelji učenika Pete gimnazije: Direktor opstruiše povratak nastavnice na posao"
+  "Roditelji učenika Pete gimnazije: Direktor opstruiše povratak nastavnice na posao",
+  "Direktor Pete beogradske gimnazije opstruiše sudsku odluku i nastavlja sa pritiscima na zaposlene"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Roditelji Pete gimnazije optužuju direktora da ne sprovodi sudsku odluku o nastavnici"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

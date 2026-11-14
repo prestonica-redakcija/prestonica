@@ -1,0 +1,54 @@
+{
+ "id": "202611141012-903e73",
+ "slug": "propusti-u-bluetooth-alarmima-za-automobile-mogli-bi-da-ugroze-2-2",
+ "kind": "vest",
+ "section": "drustvo",
+ "headline": "Propusti u Bluetooth alarmima za automobile mogli bi da ugroze 2,2 miliona vozila",
+ "lead": "Istraživači sa Univerziteta Kalifornije u San Dijegu otkrili su ozbiljne bezbednosne propuste u dodatnim Bluetooth sistemima za zaštitu vozila, kako prenosi Kurir. Vlasnici često ni ne znaju da ti uređaji postoje u njihovim automobilima.",
+ "body": [
+  "Prema navodima Kurira, istraživači su analizirali šest sistema za daljinsko upravljanje automobilima putem Bluetooth veze. Kritične propuste našli su u tri: KARR, CarLink i Rockledge. Procenjuju da bi najmanje 2,2 miliona automobila moglo da bude izloženo riziku.",
+  "U fokusu je sistem KARR, koji su auto-kuće ugrađivale u vozila da ih zaštite od krađe dok stoje na prodajnim placevima. Uređaj je, navodi Kurir, često ostajao u automobilu i nakon prodaje, čak i kada kupac nije želeo da plati dodatnu uslugu. Istraživači su utvrdili da i takvi neaktivirani sistemi mogu da budu ranjivi.",
+  "Napadač u dometu Bluetooth veze može da iskoristi propust u komunikaciji između uređaja i telefona. Kod ranjivog KARR sistema to omogućava slanje komandi za otključavanje i zaključavanje vrata, aktiviranje sirene i treptanje svetala. Moguće je i sprečiti pokretanje motora dok automobil nije upaljen, što su istraživači i demonstrirali.",
+  "Među markama koje se pominju u istraživanju su Honda, Toyota, Mazda, Ford i Jeep. Najviše pogođenih vozila prodato je preko auto-kuća u južnoj Kaliforniji, navodi Kurir.",
+  "Istraživači savetuju vozačima da potraže nalepnice na staklu sa oznakama KARR ili SWDS, mada one same nisu konačna potvrda da je vozilo ranjivo. Kod nekih vozila modul se nalazi ispod instrument-table na vozačevoj strani. Ne preporučuje se samostalno skidanje obloga, već obraćanje ovlašćenom servisu ili proizvođaču sistema, a vlasnici uređaja treba da instaliraju objavljenu zakrpu.",
+  "Istraživači upozoravaju i da proizvođači moraju da obezbede sigurnu komunikaciju između automobila i telefona, kao i da vlasnici budu obavešteni o opremi koja je već ugrađena. Prema Kuriru, pri kupovini polovnog vozila vredi proveriti i dodatnu elektronsku opremu."
+ ],
+ "tags": [
+  "bezbednost vozila",
+  "Bluetooth",
+  "KARR",
+  "automobili",
+  "sajber bezbednost",
+  "krađa vozila"
+ ],
+ "people": [],
+ "places": [
+  "San Dijego",
+  "Južna Kalifornija"
+ ],
+ "importance": 3,
+ "published": "2026-11-14T09:12:38.337999+00:00",
+ "updated": "2026-11-14T09:12:38.337999+00:00",
+ "sources": [
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10161548/kako-bluetooth-moze-da-ugrozi-vasu-bezbednost-automobila",
+   "title": "Pogledajte ispod instrument-table: U autu možda imate uređaj za koji ne znate, a haker tako može da otvori vrata!",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Pogledajte ispod instrument-table: U autu možda imate uređaj za koji ne znate, a haker tako može da otvori vrata!"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.921,
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/ThinkPad_X220_Bluetooth_Daughter_Card_%28BDC-3%29_and_BDC_slot.jpg/1920px-ThinkPad_X220_Bluetooth_Daughter_Card_%28BDC-3%29_and_BDC_slot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Wikimedia Commons / Siarhei V / CC BY-SA 4.0",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:ThinkPad_X220_Bluetooth_Daughter_Card_(BDC-3)_and_BDC_slot.jpg",
+  "alt": "Propusti u Bluetooth alarmima za automobile mogli bi da ugroze 2,2 miliona vozila"
+ }
+}

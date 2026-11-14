@@ -27,17 +27,24 @@
  ],
  "importance": 7,
  "published": "2026-11-13T08:53:53.111687+00:00",
- "updated": "2026-11-13T08:53:53.111687+00:00",
+ "updated": "2026-11-14T09:12:38.337999+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/biznis/organizacija-koja-je-srbiji-poverila-odrzavanje-ekspa-za-novars-zelimo-saradnju-sa-novom-vladom-naredne-nedelje-su-kljucne/",
    "title": "Organizacija koja je Srbiji poverila održavanje Ekspa za Nova.rs: Želimo saradnju sa novom vladom, naredne nedelje su ključne",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/284893/medjunarodni-biro-za-izlozbe-bie-zatrazio-potvrdu-od-srbije-da-radovi-za-ekspo-teku-po-planu/vest",
+   "title": "BIE zatražio potvrdu od Srbije da radovi za EXPO 2027 teku po planu: \"Naredne nedelje su od ključnog značaja\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Organizacija koja je Srbiji poverila održavanje Ekspa za Nova.rs: Želimo saradnju sa novom vladom, naredne nedelje su ključne"
+  "Organizacija koja je Srbiji poverila održavanje Ekspa za Nova.rs: Želimo saradnju sa novom vladom, naredne nedelje su ključne",
+  "BIE zatražio potvrdu od Srbije da radovi za EXPO 2027 teku po planu: \"Naredne nedelje su od ključnog značaja\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%83%D1%80%D1%87%D0%B8%D0%BD_-_%D0%92%D0%BE%D1%98%D0%B2%D0%BE%D1%92%D0%B0%D0%BD%D1%81%D0%BA%D0%B0_%D1%83%D0%BB%D0%B8%D1%86%D0%B0.jpg",
   "alt": "BIE traži od srpskih vlasti potvrdu da radovi na Ekspu idu po planu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

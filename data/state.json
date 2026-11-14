@@ -3512,18 +3512,25 @@
   "https://www.danas.rs/vesti/politika/ds-potpisi-izbone-liste/": "2026-11-14T08:57:38.232948+00:00",
   "https://www.kurir.rs/crna-hronika/10161848/tragicna-nesreca-na-novom-beogradu-poginuo-pesak": "2026-11-14T08:57:38.232948+00:00",
   "https://www.kurir.rs/zabava/zena/10066970/tvrdokorne-mrlje-na-plasticnom-posudju-vise-nece-biti-problem": "2026-11-14T08:57:38.232948+00:00",
-  "https://informer.rs/politika/vesti/1169768/informer-gledanost-dejan-vukelic": "2026-11-14T08:57:38.232948+00:00"
+  "https://informer.rs/politika/vesti/1169768/informer-gledanost-dejan-vukelic": "2026-11-14T08:57:38.232948+00:00",
+  "https://www.kurir.rs/techvision/vesti/10161854/majkrosoft-otklonio-probleme": "2026-11-14T09:12:38.337999+00:00",
+  "https://www.tanjug.rs/svet/drustvo/297689/svi-putnici-i-clanovi-posade-preziveli-sudar-tankera-i-broda-na-misisipiju/vest": "2026-11-14T09:12:38.337999+00:00",
+  "https://www.danas.rs/kultura/prva-medjunarodna-nagrada-za-film-ruka-pravde/": "2026-11-14T09:12:38.337999+00:00",
+  "https://www.novosti.rs/vesti/politika/1671056/skupstina-tzv-kosovo-prekid-kvorum-najnovije-vesti": "2026-11-14T09:12:38.337999+00:00",
+  "https://nova.rs/vesti/drustvo/direktor-pete-beogradske-gimnazije-opstruise-sudsku-odluku-i-nastavlja-sa-pritiscima-na-zaposlene/": "2026-11-14T09:12:38.337999+00:00",
+  "https://www.b92.net/biz/srbija/vesti/284893/medjunarodni-biro-za-izlozbe-bie-zatrazio-potvrdu-od-srbije-da-radovi-za-ekspo-teku-po-planu/vest": "2026-11-14T09:12:38.337999+00:00",
+  "https://www.b92.net/biz/srbija/vesti/284890/kako-ce-odluka-nbs-uticati-na-rate-kredita-i-kurs-dinara-nikolic-nema-razloga-za-veliku-zabrinutost/vest": "2026-11-14T09:12:38.337999+00:00",
+  "https://n1info.rs/vesti/beogradski-odbor-ds-sumnja-u-verodstojnost-potpisa-podrske-pojedinim-listama-trazi-proveru/": "2026-11-14T09:12:38.337999+00:00",
+  "https://www.kurir.rs/stars/10161868/ana-i-predrag-rajkovic-odmaraju-u-najluksuznijem-rizortu": "2026-11-14T09:12:38.337999+00:00",
+  "https://www.kurir.rs/techvision/vesti/10161548/kako-bluetooth-moze-da-ugrozi-vasu-bezbednost-automobila": "2026-11-14T09:12:38.337999+00:00",
+  "https://informer.rs/politika/vesti/1169771/aleksandar-vucic-poruka-sns": "2026-11-14T09:12:38.337999+00:00",
+  "https://www.danas.rs/zivot/zasto-macka-prede/": "2026-11-14T09:12:38.337999+00:00",
+  "https://www.youtube.com/watch?v=Bu0A-jwPtiY": "2026-11-14T09:12:38.337999+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-13T18:22+00:00",
-   "novih": 6,
-   "ukupno": 940,
-   "sekundi": 172.1
-  },
   {
    "vreme": "2026-11-13T18:36+00:00",
    "novih": 2,
@@ -3877,6 +3884,12 @@
    "novih": 3,
    "ukupno": 1061,
    "sekundi": 138.4
+  },
+  {
+   "vreme": "2026-11-14T09:15+00:00",
+   "novih": 3,
+   "ukupno": 1064,
+   "sekundi": 158.8
   }
  ],
  "licnosti_foto": {
@@ -4026,6 +4039,30 @@
   }
  },
  "videos": [
+  {
+   "id": "Bu0A-jwPtiY",
+   "title": "Da li je SNS uopšte stranka ili nešto sasvim drugo? Nemanja RUJEVIĆ",
+   "kanal": "Bez cenzure",
+   "published": "2026-11-14T09:00:36+00:00",
+   "thumb": "https://i.ytimg.com/vi/Bu0A-jwPtiY/hqdefault.jpg",
+   "live": "none",
+   "desc": "Da li je SNS uopšte stranka ili nešto sasvim drugo? Nemanja RUJEVIĆ",
+   "spektar": "desnica",
+   "viewers": null,
+   "naslov": "Nemanja Rujević o tome da li je SNS uopšte stranka ili nešto sasvim drugo",
+   "opis": "U snimku kanala Bez cenzure Nemanja Rujević govori o tome da li je SNS uopšte stranka ili nešto sasvim drugo. Iz naslova i opisa snimka ne vidi se povod razgovora ni dalji detalji.",
+   "tekst": [
+    "Snimak je objavljen na kanalu Bez cenzure, a govornik je Nemanja Rujević. Tema je priroda Srpske napredne stranke i pitanje da li se ona može smatrati običnom političkom strankom."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "SNS",
+    "Nemanja Rujević",
+    "Bez cenzure",
+    "politički sistem"
+   ],
+   "slug": "nemanja-rujevic-o-tome-da-li-je-sns-uopste-stranka-ili-bu0a-jwptiy"
+  },
   {
    "id": "pJTebFeQaOs",
    "title": "VIKEND INFO JUTRO - Tri nedelje anarhije i bezakonja",
@@ -5114,32 +5151,6 @@
     "emisija"
    ],
    "slug": "3d-nova-dimenzija-dana-cela-emisija-od-13-novembra-2026-7lodzganxvo"
-  },
-  {
-   "id": "tLumr_Z4hSw",
-   "title": "Aleksandar Čupić: Politika ne mora da bude prljava rabota! | BEZ PARDONA",
-   "kanal": "Bez cenzure",
-   "published": "2026-11-13T19:00:14+00:00",
-   "thumb": "https://i.ytimg.com/vi/tLumr_Z4hSw/hqdefault.jpg",
-   "live": "none",
-   "desc": "Može li čovek koji je navikao da obrađuje zemlju, podiže šestoro dece i predaje studentima da sačuva svoju neposrednost i skromnost kada postane jedno od najprepoznatljivijih lica u Srbiji? Gost novog izdanja emisije BEZ PARDONA je profesor Saobraćajnog fakulteta i budući narodni poslanik Studentske liste Aleksandar Čupić, čovek koji je svojim besedama, emocijom i nezaboravnom obradom pesme „Ajde Jano“ osvojio simpatije javnosti. Razgovarali smo o njegovom neobičnom životnom putu, porodici, poljoprivredi i životu na selu, ali i o veri, ličnim gubicima i iskustvima koja su oblikovala njegov pogled na svet. Čupić otkriva kako ga je rad sa zemljom naučio strpljenju, skromnosti i prihvatanju neu",
-   "spektar": "desnica",
-   "viewers": null,
-   "naslov": "Aleksandar Čupić u emisiji Bez pardona o životu, porodici i politici",
-   "opis": "U emisiji Bez pardona gost je profesor Saobraćajnog fakulteta i budući narodni poslanik Studentske liste Aleksandar Čupić. Razgovor se vodi o njegovom životnom putu, porodici, poljoprivredi i životu na selu, kao i o veri i ličnim gubicima.",
-   "tekst": [
-    "U novom izdanju emisije Bez pardona gostuje Aleksandar Čupić, profesor Saobraćajnog fakulteta i budući narodni poslanik Studentske liste. Prema opisu emisije, javnost je simpatije prema njemu stekla besedama, emocijom i obradom pesme „Ajde Jano“.",
-    "Razgovor se bavi njegovim neobičnim životnim putem, porodicom, poljoprivredom i životom na selu, ali i verom, ličnim gubicima i iskustvima koja su oblikovala njegov pogled na svet.",
-    "Čupić, kako se navodi u opisu, govori i o tome kako ga je rad sa zemljom naučio strpljenju, skromnosti i prihvatanju neizvesnosti."
-   ],
-   "rubrika": "politika",
-   "oznake": [
-    "Aleksandar Čupić",
-    "Studentska lista",
-    "Bez pardona",
-    "Saobraćajni fakultet"
-   ],
-   "slug": "aleksandar-cupic-u-emisiji-bez-pardona-o-zivotu-porodici-i-tlumr-z4hsw"
   },
   {
    "id": "PAyhAX7DU7A",
@@ -6521,11 +6532,11 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2121294241905226076",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "parandilovicnls": {
     "since_id": "2121333645222809626",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "ininic": {
     "since_id": "2121413056882160077",
@@ -6541,47 +6552,47 @@
    },
    "dragandjilas": {
     "since_id": null,
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "marinikatepic": {
     "since_id": null,
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "bibislav": {
     "since_id": "2121264606609838574",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "savomanojlovic": {
     "since_id": "2120927384484634735",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "zdravkoponos": {
     "since_id": null,
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "pavlegrbovic": {
     "since_id": "2121350708360351908",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "avucic": {
     "since_id": "2121327308808311093",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "anabrnabic": {
     "since_id": "2121262394538119408",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "milos_vucevic": {
     "since_id": "2121200499131388075",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "sns_srbija": {
     "since_id": "2121517461371764795",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "vlada_srbije": {
     "since_id": null,
@@ -6625,39 +6636,39 @@
    },
    "markodjuric": {
     "since_id": "2121317324322205730",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "nstarovic": {
     "since_id": null,
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "milenkojovanov": {
     "since_id": null,
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "acasapic": {
     "since_id": null,
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "borkostef": {
     "since_id": "2121178166140231682",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "dobrinacelnik": {
     "since_id": "2121516005138583791",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "jeremic_vuk": {
     "since_id": null,
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "boristadic58": {
     "since_id": null,
@@ -6665,51 +6676,51 @@
    },
    "srdjanmil037": {
     "since_id": "2121485221874815005",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "zoranlutovac": {
     "since_id": "2121316106233135418",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "pajticbojan": {
     "since_id": null,
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "n_zelenovic": {
     "since_id": "2121185851040248170",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "boskoobradovic": {
     "since_id": null,
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "sasaradulovich": {
     "since_id": "2121265202784035082",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "zaklina_prva": {
     "since_id": "2121231297439764713",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "stevanoccrp": {
     "since_id": "2121292561989947646",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "igorbrakus": {
     "since_id": null,
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "radoholicar": {
     "since_id": "2121347823732133902",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "borakonj": {
     "since_id": "2121518615287541859",
@@ -6717,7 +6728,7 @@
    },
    "narodnipokrets": {
     "since_id": "2120601957350195572",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "direktnors": {
     "since_id": "2121341320329416863",
@@ -6784,27 +6795,40 @@
     "t": 1794646748.4580562
    },
    "nedeljniknin": {
-    "since_id": "2121513468721291713",
-    "t": 1794644995.3199086
+    "since_id": "2121528568610246780",
+    "t": 1794647659.9403577
    },
    "trajkovic_rada": {
     "since_id": "2121286224870617178",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "stateinl": {
     "since_id": "2121283689338261736",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "tvbalkaninfo": {
     "since_id": "2121174010532950438",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    },
    "1152justice": {
     "since_id": "2121015729269182500",
-    "t": 1794644995.3199086
+    "t": 1794647659.9403577
    }
   },
   "posts": [
+   {
+    "id": "2121528568610246780",
+    "x": "NedeljnikNIN",
+    "ime": "NIN",
+    "grupa": "",
+    "uloga": "",
+    "text": "Feljton: Valerij Lobanovski i Arigo Saki: Fudbalski Lenjin i njegov šegrt (3): Vizija fudbala Lobanovskog\n https://t.co/1bFPy4ZYCa",
+    "published": "2026-11-14T09:00:01.000+00:00",
+    "lajk": 0,
+    "prikazi": false,
+    "rubrika": "sport",
+    "tema": "Feljton o fudbalskim trenerima Lobanovskom i Sakiju"
+   },
    {
     "id": "2121524849814159806",
     "x": "Bcenzure",
@@ -29211,6 +29235,137 @@
      "credit": "Wikimedia Commons / DEMOKRATSKA STRANKA DS / CC BY 2.0",
      "link": "https://commons.wikimedia.org/wiki/File:Za_pravednu_Srbiju_%E2%80%93_Demokratska_stranka_2.jpg",
      "naslov": "Za pravednu Srbiju – Demokratska stranka 2.jpg"
+    }
+   ]
+  },
+  "t:bluetooth": {
+   "t": 1794647626.752724,
+   "items": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bluetooth_headset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1280,
+     "h": 828,
+     "god": 2004,
+     "credit": "Wikimedia Commons / Ed g2s / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bluetooth_headset.jpg",
+     "naslov": "Bluetooth headset.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/B%C3%A9k%C3%A9scsaba%2C_TeceoBluetoothCorrected.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1536,
+     "h": 2048,
+     "god": 2022,
+     "credit": "Wikimedia Commons / Bolondkamion / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:B%C3%A9k%C3%A9scsaba,_TeceoBluetoothCorrected.jpg",
+     "naslov": "Békéscsaba, TeceoBluetoothCorrected.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/B%C3%A9k%C3%A9scsaba%2C_TeceoBluetooth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1536,
+     "h": 2048,
+     "god": 2022,
+     "credit": "Wikimedia Commons / Bolondkamion / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:B%C3%A9k%C3%A9scsaba,_TeceoBluetooth.jpg",
+     "naslov": "Békéscsaba, TeceoBluetooth.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.5.jpg/1920px-Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4032,
+     "h": 3024,
+     "god": 2020,
+     "credit": "Wikimedia Commons / www.digitalpush.net / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.5.jpg",
+     "naslov": "Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.5.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.3.jpg/1920px-Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4032,
+     "h": 3024,
+     "god": 2020,
+     "credit": "Wikimedia Commons / www.digitalpush.net / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.3.jpg",
+     "naslov": "Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.3.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.4.jpg/1920px-Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4032,
+     "h": 3024,
+     "god": 2020,
+     "credit": "Wikimedia Commons / www.digitalpush.net / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.4.jpg",
+     "naslov": "Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.4.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.jpg/1920px-Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3024,
+     "h": 4032,
+     "god": 2020,
+     "credit": "Wikimedia Commons / www.digitalpush.net / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.jpg",
+     "naslov": "Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/ThinkPad_X220_Bluetooth_Daughter_Card_%28BDC-3%29_and_BDC_slot.jpg/1920px-ThinkPad_X220_Bluetooth_Daughter_Card_%28BDC-3%29_and_BDC_slot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2706,
+     "h": 1163,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Siarhei V / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:ThinkPad_X220_Bluetooth_Daughter_Card_(BDC-3)_and_BDC_slot.jpg",
+     "naslov": "ThinkPad X220 Bluetooth Daughter Card (BDC-3) and BDC slot.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/USB-Bluetooth.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1575,
+     "h": 1008,
+     "god": 2007,
+     "credit": "Wikimedia Commons / BafS / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:USB-Bluetooth.JPG",
+     "naslov": "USB-Bluetooth.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.2.jpg/1920px-Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3024,
+     "h": 4032,
+     "god": 2020,
+     "credit": "Wikimedia Commons / www.digitalpush.net / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.2.jpg",
+     "naslov": "Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.2.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Bluetooth_Special_Interest_Group_1.jpg/1920px-Bluetooth_Special_Interest_Group_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4160,
+     "h": 3120,
+     "god": 2021,
+     "credit": "Wikimedia Commons / Pokechu22 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bluetooth_Special_Interest_Group_1.jpg",
+     "naslov": "Bluetooth Special Interest Group 1.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Bluetooth_Special_Interest_Group_2.jpg/1920px-Bluetooth_Special_Interest_Group_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4160,
+     "h": 3120,
+     "god": 2021,
+     "credit": "Wikimedia Commons / Pokechu22 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bluetooth_Special_Interest_Group_2.jpg",
+     "naslov": "Bluetooth Special Interest Group 2.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/DELL_TrueMobile_350_Bluetooth_card.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1038,
+     "h": 566,
+     "god": 2007,
+     "credit": "Wikimedia Commons / User:Omegatron / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:DELL_TrueMobile_350_Bluetooth_card.jpg",
+     "naslov": "DELL TrueMobile 350 Bluetooth card.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Bluetoothbox.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1280,
+     "h": 720,
+     "god": 2023,
+     "credit": "Wikimedia Commons / Traktor600 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bluetoothbox.jpg",
+     "naslov": "Bluetoothbox.jpg"
     }
    ]
   }
