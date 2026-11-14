@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T07:58:08.762756+00:00",
- "updated": "2026-11-14T07:58:08.762756+00:00",
+ "updated": "2026-11-14T10:41:58.069815+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -42,11 +42,18 @@
    "url": "https://www.telegraf.rs/vesti/beograd/4432877-zatvoren-deo-ustanicke-ulice",
    "title": "Zatvoren deo Ustaničke ulice",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/pukla-vodovodna-cev-u-ustanickoj-ulici-u-beogradu-zatvoren-deo-ulice-za-saobracaj-preusmerene-pojedine-autobuske-linije",
+   "title": "Pukla vodovodna cev u Ustaničkoj ulici u Beogradu: Zatvoren deo ulice za saobraćaj, preusmerene pojedine autobuske linije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Deo Ustaničke ulica poplavljen, saobraćaj blokiran kod SC Šumice (FOTO, VIDEO)",
-  "Zatvoren deo Ustaničke ulice"
+  "Zatvoren deo Ustaničke ulice",
+  "Pukla vodovodna cev u Ustaničkoj ulici u Beogradu: Zatvoren deo ulice za saobraćaj, preusmerene pojedine autobuske linije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Semafor_Ustani%C4%8Dka_ulica.jpg",
   "alt": "Pukla vodovodna cev u Ustaničkoj, saobraćaj obustavljen kod Šumica"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

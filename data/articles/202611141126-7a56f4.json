@@ -27,17 +27,24 @@
  ],
  "importance": 6,
  "published": "2026-11-14T10:26:58.795880+00:00",
- "updated": "2026-11-14T10:26:58.795880+00:00",
+ "updated": "2026-11-14T10:41:58.069815+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/biz/srbija/vesti/284908/narodna-banka-srbije-uvela-nova-pravila-za-menjacnice/vest",
    "title": "NBS uvodi nova pravila za menjačnice: Evo šta to znači za građane",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1671097/narodna-banka-srbije-nova-pravila-menjacnice-rokovi-strani-novac-najnovije-vesti",
+   "title": "NBS UVODI NOVA PRAVILA ZA MENjAČNICE: Nova odluka na snazi do 15. januara 2027, evo šta znači za građane koji kupuju evre",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "NBS uvodi nova pravila za menjačnice: Evo šta to znači za građane"
+  "NBS uvodi nova pravila za menjačnice: Evo šta to znači za građane",
+  "NBS UVODI NOVA PRAVILA ZA MENjAČNICE: Nova odluka na snazi do 15. januara 2027, evo šta znači za građane koji kupuju evre"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "NBS privremeno menja pravila za menjačnice: rokovi i obaveza prodaje efektive bankama"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-14T09:57:14.437650+00:00",
- "updated": "2026-11-14T09:57:14.437650+00:00",
+ "updated": "2026-11-14T10:41:58.069815+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,25 @@
    "url": "https://www.novosti.rs/vesti/politika/1671071/zabrana-slobode-misli-govora-vucevic-ocenio-srbija-prolazi-kroz-period-urusavanja-pritisaka-gradjane-video",
    "title": "ZABRANA SLOBODE MISLI I GOVORA: Vučević ocenio da Srbija prolazi kroz period urušavanja i pritisaka na građane (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1169795/milos-vucevic-studentska-lista-politika-izbori",
+   "title": "Vučević poslao udarnu poruku: \"Period nakon izbora obeležen propadanjem Srbije i terorom nad građanima\" (VIDEO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10161917/milos-vucevic-u-toku-je-proces-propadanja-srbije",
+   "title": "\"PERIOD NAKON IZBORA OBELEŽEN JE PROPADANJEM SRBIJE\"! Vučević: Bukvalno teror nad građanima (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Vučević: Period nakon izbora obeležen propadanjem Srbije i terorom nad građanima",
-  "ZABRANA SLOBODE MISLI I GOVORA: Vučević ocenio da Srbija prolazi kroz period urušavanja i pritisaka na građane (VIDEO)"
+  "ZABRANA SLOBODE MISLI I GOVORA: Vučević ocenio da Srbija prolazi kroz period urušavanja i pritisaka na građane (VIDEO)",
+  "Vučević poslao udarnu poruku: \"Period nakon izbora obeležen propadanjem Srbije i terorom nad građanima\" (VIDEO)",
+  "\"PERIOD NAKON IZBORA OBELEŽEN JE PROPADANJEM SRBIJE\"! Vučević: Bukvalno teror nad građanima (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +72,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Donald_Tusk_and_Milo%C5%A1_Vu%C4%8Devi%C4%87_in_Belgrade_(2024).jpg",
   "alt": "Vučević: Period posle izbora je proces propadanja Srbije i pritisaka na građane"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
