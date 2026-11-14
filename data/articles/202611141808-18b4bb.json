@@ -28,17 +28,24 @@
  ],
  "importance": 3,
  "published": "2026-11-14T17:08:37.152081+00:00",
- "updated": "2026-11-14T17:08:37.152081+00:00",
+ "updated": "2026-11-14T17:23:37.502562+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/svet/politika/297792/mask-neki-kljucni-dogovori-envidije-koji-nisu-potpisani-propasce-nakon-ostavke-huanga/vest",
    "title": "Mask: Neki ključni dogovori Envidije, koji nisu potpisani, propašće nakon ostavke Huanga",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/252099/ilon-mask-odlaskom-huanga-propadaju-kljucni-dogovori/vest",
+   "title": "Mask: Neki ključni dogovori Envidije koji nisu potpisani propašće nakon ostavke Huanga",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Mask: Neki ključni dogovori Envidije, koji nisu potpisani, propašće nakon ostavke Huanga"
+  "Mask: Neki ključni dogovori Envidije, koji nisu potpisani, propašće nakon ostavke Huanga",
+  "Mask: Neki ključni dogovori Envidije koji nisu potpisani propašće nakon ostavke Huanga"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Mask tvrdi da će neki dogovori Envidije bez potpisa propasti posle Huangove ostavke"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -41,7 +41,7 @@
  ],
  "importance": 7,
  "published": "2026-11-14T13:55:13.517072+00:00",
- "updated": "2026-11-14T16:24:04.540307+00:00",
+ "updated": "2026-11-14T17:23:37.502562+00:00",
  "sources": [
   {
    "name": "B92",
@@ -60,12 +60,19 @@
    "url": "https://www.tanjug.rs/svet/politika/297735/njujork-tajms-rusija-u-pregovorima-o-ukrajini-trazi-povlacenje-nato-na-pozicije-iz-1997/vest",
    "title": "Njujork Tajms: Rusija u pregovorima o Ukrajini traži povlačenje NATO na pozicije iz 1997.",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10162271/njujork-tajms-otkrio-ruske-zahteve-putin-trazi-povlacenje-nato-a-na-granice-iz-1997",
+   "title": "NJUJORK TAJMS DOŠAO DO TAJNOG DOKUMENTA MOSKVE! Otkriveni Putinovi zahtevi, Rusija traži velike promene u Evropi",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Procurio dokument sa pregovora; Ovo je Putinov glavni zahtev",
   "OVO SU ZAHTEVI RUSIJE NA PREGOVORIMA SA UKRAJINOM: Moskva traži povlačenje NATO na pozicije iz 1997. godine! Moskva dostavila dokument!",
-  "Njujork Tajms: Rusija u pregovorima o Ukrajini traži povlačenje NATO na pozicije iz 1997."
+  "Njujork Tajms: Rusija u pregovorima o Ukrajini traži povlačenje NATO na pozicije iz 1997.",
+  "NJUJORK TAJMS DOŠAO DO TAJNOG DOKUMENTA MOSKVE! Otkriveni Putinovi zahtevi, Rusija traži velike promene u Evropi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +84,6 @@
   "local": true,
   "alt": "NYT: Rusija na pregovorima u Abu Dabiju traži povlačenje NATO na položaje iz 1997"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

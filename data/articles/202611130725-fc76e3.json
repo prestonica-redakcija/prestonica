@@ -36,7 +36,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T06:25:04.737283+00:00",
- "updated": "2026-11-13T06:40:00.551823+00:00",
+ "updated": "2026-11-14T17:23:37.502562+00:00",
  "sources": [
   {
    "name": "B92",
@@ -49,11 +49,18 @@
    "url": "https://www.b92.net/info/svet/284547/zelenski-tvrdi-da-su-ponovo-uvedena-ogranicenja-za-starsild-spejseks-negira/vest",
    "title": "Zelenski zahteva momentalno objašnjenje – Trampov čovek odmah reagovao; Rade to malo po malo?",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/297796/zelenski-kritikovao-spejseks-zbog-ogranicenja-brzine-starsild-satelitskih-terminala/vest",
+   "title": "Zelenski kritikovao SpejsEks zbog ograničenja brzine Staršild satelitskih terminala",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Zelenski zahteva momentalno objašnjenje – Trampov čovek odmah reagovao; Rade to malo po malo?",
-  "Zelenski zahteva momentalno objašnjenje – Trampov čovek odmah reagovao; Rade to malo po malo?"
+  "Zelenski zahteva momentalno objašnjenje – Trampov čovek odmah reagovao; Rade to malo po malo?",
+  "Zelenski kritikovao SpejsEks zbog ograničenja brzine Staršild satelitskih terminala"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Starlink_Dish_20250111_101122.jpg",
   "alt": "Kijev traži objašnjenje zbog ograničenja sistema Staršild, SpejsEks poriče promene"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

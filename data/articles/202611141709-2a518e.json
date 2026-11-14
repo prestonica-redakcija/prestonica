@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-14T16:09:08.123200+00:00",
- "updated": "2026-11-14T16:09:08.123200+00:00",
+ "updated": "2026-11-14T17:23:37.502562+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4433051-ukrali-dragocenosti-vredne-35-miliona-iz-kuca-u-kraljevu-i-novom-pazaru-uhapseni-muskarci-iz-nisa-i-raske",
    "title": "Ukrali dragocenosti vredne 3,5 miliona iz kuća u Kraljevu i Novom Pazaru: Uhapšeni muškarci iz Niša i Raške",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10162266/uhapseni-teska-kradja-kraljevo-novi-pazar-35-miliona",
+   "title": "UPADALI U KUĆE, IZNELI VIŠE OD 3,5 MILIONA DINARA! Uhapšen dvojac koji je \"operisao\" u Novom Pazaru i Kraljevu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Uhapšeni zbog krađe novca i drugih vrednosti iz kuća u Kraljevu i Novom Pazaru",
-  "Ukrali dragocenosti vredne 3,5 miliona iz kuća u Kraljevu i Novom Pazaru: Uhapšeni muškarci iz Niša i Raške"
+  "Ukrali dragocenosti vredne 3,5 miliona iz kuća u Kraljevu i Novom Pazaru: Uhapšeni muškarci iz Niša i Raške",
+  "UPADALI U KUĆE, IZNELI VIŠE OD 3,5 MILIONA DINARA! Uhapšen dvojac koji je \"operisao\" u Novom Pazaru i Kraljevu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Kraljevo,_centar_02.jpg",
   "alt": "Dvojica uhapšena zbog krađe preko 3,5 miliona dinara iz kuća u Kraljevu i Novom Pazaru"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

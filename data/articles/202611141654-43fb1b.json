@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T15:54:19.911335+00:00",
- "updated": "2026-11-14T16:24:04.540307+00:00",
+ "updated": "2026-11-14T17:23:37.502562+00:00",
  "sources": [
   {
    "name": "N1",
@@ -43,11 +43,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/romska-partija-glavna-rasprava-po-tuzbi-protiv-medija-dragana-j-vucicevica-22-januara/",
    "title": "Romska partija: Glavna rasprava po tužbi protiv medija Dragana J. Vučićevića 22. januara",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/glavna-rasprava-po-tuzbi-romske-partije-protiv-medija-dragana-j-vucicevica-22-januara/",
+   "title": "Glavna rasprava po tužbi Romske partije protiv medija Dragana J. Vučićevića 22. januara",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Zakazana glavna rasprava po tužbi Romske partije protiv Informera",
-  "Romska partija: Glavna rasprava po tužbi protiv medija Dragana J. Vučićevića 22. januara"
+  "Romska partija: Glavna rasprava po tužbi protiv medija Dragana J. Vučićevića 22. januara",
+  "Glavna rasprava po tužbi Romske partije protiv medija Dragana J. Vučićevića 22. januara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "local": true,
   "alt": "Glavna rasprava po tužbi Romske partije protiv Informera zakazana za 22. januar"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
