@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-14T15:24:29.110893+00:00",
- "updated": "2026-11-14T16:09:08.123200+00:00",
+ "updated": "2026-11-14T16:24:04.540307+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -44,11 +44,18 @@
    "url": "https://www.tanjug.rs/srbija/politika/297779/prva-konferencija-cpac-balkans-u-januaru-2027-u-beogradu-vucic-jedan-od-ucesnika/vest",
    "title": "Prva konferencija CPAC Balkans u januaru 2027. u Beogradu, Vučić jedan od učesnika",
    "spektar": "centar"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1169881/cpac-balkan-beograd-aleksandar-vucic",
+   "title": "CPAC Balkans stiže u Beograd u januaru 2027. godine: Najavljeno učešće Aleksandra Vučića",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "CPAC BALKANS STIŽE U BEOGRAD U JANUARU 2027. GODINE: Najavljeno učešće Aleksandra Vučića",
-  "Prva konferencija CPAC Balkans u januaru 2027. u Beogradu, Vučić jedan od učesnika"
+  "Prva konferencija CPAC Balkans u januaru 2027. u Beogradu, Vučić jedan od učesnika",
+  "CPAC Balkans stiže u Beograd u januaru 2027. godine: Najavljeno učešće Aleksandra Vučića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:El_Grande_Maradona,_Beograd,_Dor%C4%87ol,_2020.jpg",
   "alt": "CPAC Balkans u januaru 2027. u Beogradu, najavljeno učešće Aleksandra Vučića"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

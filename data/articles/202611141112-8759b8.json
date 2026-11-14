@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-14T10:12:21.469261+00:00",
- "updated": "2026-11-14T15:24:29.110893+00:00",
+ "updated": "2026-11-14T16:24:04.540307+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -44,10 +44,17 @@
    "url": "https://www.telegraf.rs/4433040-studentska-lista-najavila-uspostavljanje-nove-institucije",
    "title": "Studentska lista najavila uspostavljanje nove institucije",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/285002/studentska-lista-najavila-uspostavljanje-nove-institucije/vest",
+   "title": "Studentska lista najavila uspostavljanje nove institucije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "“Srpske institucije na Kosovu zloupotrebljavane za političke pritiske”: Smena rukovodilaca kao nužan potez nove vlasti",
+  "Studentska lista najavila uspostavljanje nove institucije",
   "Studentska lista najavila uspostavljanje nove institucije"
  ],
  "author": "Redakcija Prestonice",
@@ -61,6 +68,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Studentska lista najavila smenu rukovodilaca srpskih institucija na Kosovu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

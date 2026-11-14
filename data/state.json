@@ -3944,18 +3944,25 @@
   "https://www.telegraf.rs/vesti/hronika/4433051-ukrali-dragocenosti-vredne-35-miliona-iz-kuca-u-kraljevu-i-novom-pazaru-uhapseni-muskarci-iz-nisa-i-raske": "2026-11-14T16:09:08.123200+00:00",
   "https://www.b92.net/info/svet/284967/toi-pregovaraci-i-posrednici-strahuju-da-bi-netanjahu-mogao-da-obnovi-rat-sa-iranom/vest": "2026-11-14T16:09:08.123200+00:00",
   "https://www.euronews.rs/svet/planeta/252086/netanjahu-napadom-na-iran-rusi-sporazum/vest": "2026-11-14T16:09:08.123200+00:00",
-  "https://www.kurir.rs/zabava/zena/10161036/da-li-prasak-za-pecivo-moze-da-se-pokvari": "2026-11-14T16:09:08.123200+00:00"
+  "https://www.kurir.rs/zabava/zena/10161036/da-li-prasak-za-pecivo-moze-da-se-pokvari": "2026-11-14T16:09:08.123200+00:00",
+  "https://www.tanjug.rs/svet/politika/297735/njujork-tajms-rusija-u-pregovorima-o-ukrajini-trazi-povlacenje-nato-na-pozicije-iz-1997/vest": "2026-11-14T16:24:04.540307+00:00",
+  "https://www.tanjug.rs/ekonomija/srbija/297782/turisticka-ponuda-zlatibora-na-medunarodnom-sajmu-turizma-philoxenia-2026-u-solunu/vest": "2026-11-14T16:24:04.540307+00:00",
+  "https://informer.rs/politika/vesti/1169881/cpac-balkan-beograd-aleksandar-vucic": "2026-11-14T16:24:04.540307+00:00",
+  "https://www.danas.rs/vesti/drustvo/romska-partija-glavna-rasprava-po-tuzbi-protiv-medija-dragana-j-vucicevica-22-januara/": "2026-11-14T16:24:04.540307+00:00",
+  "https://nova.rs/sport/fudbal/oglasila-se-er-srbija-i-objasnila-zbog-cega-su-zaustavljeni-navijaci-crne-gore/": "2026-11-14T16:24:04.540307+00:00",
+  "https://www.b92.net/info/politika/285002/studentska-lista-najavila-uspostavljanje-nove-institucije/vest": "2026-11-14T16:24:04.540307+00:00",
+  "https://www.tanjug.rs/srbija/politika/297788/linta-medunarodni-predstavnici-da-traze-oslobadanje-devet-uhapsenih-srba/vest": "2026-11-14T16:24:04.540307+00:00",
+  "https://nova.rs/vesti/politika/studenti-uvode-nova-pravila-u-skupstinu-naprednjaci-ne-znaju-sta-da-ocekuju-neizvesno-da-li-ce-dobiti-neku-funkciju-u-parlamentu/": "2026-11-14T16:24:04.540307+00:00",
+  "https://www.danas.rs/vesti/ekonomija/studenti-odlazeca-vlast-poljoprivrednici/": "2026-11-14T16:24:04.540307+00:00",
+  "https://www.novosti.rs/ekonomija/vesti/1671210/vazno-sve-gradjane-nbs-promenila-pravila-kupoprodaji-deviza": "2026-11-14T16:24:04.540307+00:00",
+  "https://www.tanjug.rs/svet/politika/297784/brod-pogoden-dronom-u-crnom-moru-u-rumunskim-vodama/vest": "2026-11-14T16:24:04.540307+00:00",
+  "https://www.b92.net/info/svet/284999/dron-pogodio-brod-u-teritorijalnim-vodama-rumunije/vest": "2026-11-14T16:24:04.540307+00:00",
+  "https://www.kurir.rs/crna-hronika/10162206/decak-ubica-iz-ribnikara-ostao-jedini-pacijent-na-klinici": "2026-11-14T16:24:04.540307+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-14T01:32+00:00",
-   "novih": 0,
-   "ukupno": 1020,
-   "sekundi": 75.7
-  },
   {
    "vreme": "2026-11-14T01:47+00:00",
    "novih": 0,
@@ -4309,6 +4316,12 @@
    "novih": 7,
    "ukupno": 1214,
    "sekundi": 169.9
+  },
+  {
+   "vreme": "2026-11-14T16:26+00:00",
+   "novih": 6,
+   "ukupno": 1220,
+   "sekundi": 170.8
   }
  ],
  "licnosti_foto": {
@@ -6971,7 +6984,7 @@
    ]
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -32548,6 +32561,60 @@
   "t:netanjahu": {
    "t": 1794672653.9526486,
    "items": []
+  },
+  "t:miodrag linta": {
+   "t": 1794673470.1246538,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Miodrag_Linta-mc.rs.jpg/1920px-Miodrag_Linta-mc.rs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2739,
+     "h": 1819,
+     "god": 2012,
+     "credit": "Wikimedia Commons / Medija centar Beograd / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Miodrag_Linta-mc.rs.jpg",
+     "naslov": "Miodrag Linta-mc.rs.jpg"
+    }
+   ]
+  },
+  "t:sluzbeni glasnik": {
+   "t": 1794673517.4832187,
+   "items": []
+  },
+  "t:crno more": {
+   "t": 1794673533.9473135,
+   "items": []
+  },
+  "t:delta dunava": {
+   "t": 1794673535.9781833,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/%D0%9B%D0%BE%D0%BA%D0%B2%D0%B0%D1%9A%D0%B8%2C_%D0%94%D0%B5%D0%BB%D1%82%D0%B0_%D0%94%D1%83%D0%BD%D0%B0%D0%B2%D0%B0.jpg/1920px-%D0%9B%D0%BE%D0%BA%D0%B2%D0%B0%D1%9A%D0%B8%2C_%D0%94%D0%B5%D0%BB%D1%82%D0%B0_%D0%94%D1%83%D0%BD%D0%B0%D0%B2%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3000,
+     "h": 4000,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Анђела Бицић / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%BE%D0%BA%D0%B2%D0%B0%D1%9A%D0%B8,_%D0%94%D0%B5%D0%BB%D1%82%D0%B0_%D0%94%D1%83%D0%BD%D0%B0%D0%B2%D0%B0.jpg",
+     "naslov": "Локвањи, Делта Дунава.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/%D0%93%D0%B0%D0%BB%D0%B5%D0%B1%D0%BE%D0%B2%D0%B8%2C_%D0%94%D0%B5%D0%BB%D1%82%D0%B0_%D0%94%D1%83%D0%BD%D0%B0%D0%B2%D0%B0.jpg/1920px-%D0%93%D0%B0%D0%BB%D0%B5%D0%B1%D0%BE%D0%B2%D0%B8%2C_%D0%94%D0%B5%D0%BB%D1%82%D0%B0_%D0%94%D1%83%D0%BD%D0%B0%D0%B2%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3000,
+     "h": 4000,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Анђела Бицић / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%B0%D0%BB%D0%B5%D0%B1%D0%BE%D0%B2%D0%B8,_%D0%94%D0%B5%D0%BB%D1%82%D0%B0_%D0%94%D1%83%D0%BD%D0%B0%D0%B2%D0%B0.jpg",
+     "naslov": "Галебови, Делта Дунава.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/%D0%9B%D0%BE%D0%BA%D0%B2%D0%B0%D1%9A%D0%B8%2C_%D0%94%D0%B5%D0%BB%D1%82%D0%B0_%D0%94%D1%83%D0%BD%D0%B0%D0%B2%D0%B0_2.jpg/1920px-%D0%9B%D0%BE%D0%BA%D0%B2%D0%B0%D1%9A%D0%B8%2C_%D0%94%D0%B5%D0%BB%D1%82%D0%B0_%D0%94%D1%83%D0%BD%D0%B0%D0%B2%D0%B0_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3000,
+     "h": 4000,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Анђела Бицић / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%BE%D0%BA%D0%B2%D0%B0%D1%9A%D0%B8,_%D0%94%D0%B5%D0%BB%D1%82%D0%B0_%D0%94%D1%83%D0%BD%D0%B0%D0%B2%D0%B0_2.jpg",
+     "naslov": "Локвањи, Делта Дунава 2.jpg"
+    }
+   ]
   }
  },
  "x_objave": {
