@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T18:04:42.403667+00:00",
- "updated": "2026-11-13T18:04:42.403667+00:00",
+ "updated": "2026-11-14T12:40:54.901064+00:00",
  "sources": [
   {
    "name": "B92",
@@ -43,11 +43,18 @@
    "url": "https://biznis.telegraf.rs/info-biz/4432624-potres-u-nemackoj-auto-industriji-gigant-zaustavlja-ulaganja-razmatra-i-zatvaranje-fabrika",
    "title": "Potres u nemačkoj auto-industriji: Gigant zaustavlja ulaganja, razmatra i zatvaranje fabrika!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1671137/mercedes-zaustavlja-sva-ulaganja-nemackoj-kompanija-razmatra-zatvaranje-fabrika-proizvodnja-mogla-preseli-inostranstvo",
+   "title": "MERCEDES ZAUSTAVLjA SVA ULAGANjA U NEMAČKOJ: Kompanija razmatra zatvaranje fabrika, proizvodnja bi mogla da se preseli u inostranstvo",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Nemački gigant u škripcu: Na pomolu zatvaranje fabrika? \"Prinuđeni smo...\"",
-  "Potres u nemačkoj auto-industriji: Gigant zaustavlja ulaganja, razmatra i zatvaranje fabrika!"
+  "Potres u nemačkoj auto-industriji: Gigant zaustavlja ulaganja, razmatra i zatvaranje fabrika!",
+  "MERCEDES ZAUSTAVLjA SVA ULAGANjA U NEMAČKOJ: Kompanija razmatra zatvaranje fabrika, proizvodnja bi mogla da se preseli u inostranstvo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Concesionario_de_Mercedes-Benz,_M%C3%BAnich,_Alemania,_2013-03-30,_DD_25.JPG",
   "alt": "Mercedes-Benz obustavlja ulaganja u nemačke fabrike i razmatra zatvaranje pogona"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

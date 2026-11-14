@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-14T06:43:55.072383+00:00",
- "updated": "2026-11-14T08:27:55.345332+00:00",
+ "updated": "2026-11-14T12:40:54.901064+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -54,13 +54,20 @@
    "url": "https://insajder.net/prenosimo/sad-nastavljeni-letovi-nakon-visecasovne-obustave-uz-kasnjenja-i-otkazivanja",
    "title": "SAD: Nastavljeni letovi nakon višečasovne obustave, uz kašnjenja i otkazivanja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/u-sad-otkazano-vise-od-2500-letova/",
+   "title": "U SAD otkazano više od 2.500 letova",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "SAD: Nastavljeni letovi nakon višečasovne obustave, uz kašnjenja i otkazivanja",
   "Obustavljeni svi letovi u SAD, Izrael razvija moćno oružje: Šta se juče desilo u svetu?",
   "PRESTALA ZABRANA U AMERICI: Nastavljeni letovi posle višečasovne obustave! Kolaps na aerodromima, uz kašnjenja i otkazivanja",
-  "SAD: Nastavljeni letovi nakon višečasovne obustave, uz kašnjenja i otkazivanja"
+  "SAD: Nastavljeni letovi nakon višečasovne obustave, uz kašnjenja i otkazivanja",
+  "U SAD otkazano više od 2.500 letova"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,6 +79,6 @@
   "local": true,
   "alt": "SAD: Letovi nastavljeni posle višečasovne obustave, kašnjenja se očekuju danima"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

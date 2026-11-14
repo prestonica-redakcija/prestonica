@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-14T11:26:31.676479+00:00",
- "updated": "2026-11-14T11:56:23.752030+00:00",
+ "updated": "2026-11-14T12:40:54.901064+00:00",
  "sources": [
   {
    "name": "N1",
@@ -46,12 +46,19 @@
    "url": "https://nova.rs/vesti/drustvo/direktorka-je-sama-donela-odluku-nismo-imali-nikakav-uvid-ministarstvo-zdravlja-odgovorilo-na-pitanja-novars-povodom-iseljavanja-pacijenata-iz-klinike-za-neurologiju-i-psihijatriju-za-decu-i-omladinu/",
    "title": "\"Direktorka je sama donela odluku, nismo imali nikakav uvid\": Ministarstvo zdravlja odgovorilo na pitanja Nova.rs povodom iseljavanja pacijenata iz Klinike za neurologiju i psihijatriju za decu i omladinu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/ministarstvo-direktorka-donela-odluku-o-iseljenju-klinike/",
+   "title": "Ministarstvo zdravlja: Direktorka sama donela odluku o iseljenju Klinike za neurologiju i psihijatriju za decu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Zbog havarije na Klinici za neurologiju i psihijatriju za decu i omladinu, otpušteni i premešteni svi pacijenti, osim K.K.",
   "Havarija u Klinici za neurologiju i psihijatriju za decu i omladinu: Svi pacijenti, osim K. K., otpušteni ili premešteni u \"Lazu Lazarevića\"",
-  "\"Direktorka je sama donela odluku, nismo imali nikakav uvid\": Ministarstvo zdravlja odgovorilo na pitanja Nova.rs povodom iseljavanja pacijenata iz Klinike za neurologiju i psihijatriju za decu i omladinu"
+  "\"Direktorka je sama donela odluku, nismo imali nikakav uvid\": Ministarstvo zdravlja odgovorilo na pitanja Nova.rs povodom iseljavanja pacijenata iz Klinike za neurologiju i psihijatriju za decu i omladinu",
+  "Ministarstvo zdravlja: Direktorka sama donela odluku o iseljenju Klinike za neurologiju i psihijatriju za decu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Gedenktafel_Schumannstr_15_(Mitte)_Laza_Lazarevi%C4%87.jpg",
   "alt": "Klinika za neurologiju i psihijatriju za decu i omladinu ispražnjena zbog havarije"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

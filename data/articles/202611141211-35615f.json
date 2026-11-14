@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T11:11:39.945067+00:00",
- "updated": "2026-11-14T12:26:06.820197+00:00",
+ "updated": "2026-11-14T12:40:54.901064+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -43,10 +43,17 @@
    "url": "https://www.tanjug.rs/srbija/politika/297725/reljanovic-sa-poslanikom-evropskog-parlamenta-iz-parlamentarne-grupe-levica/vest",
    "title": "Reljanović sa poslanikom Evropskog parlamenta iz parlamentarne grupe Levica",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/252067/studenti-u-blokadi-danas-sa-evroposlanikom-levice-u-beogradu/vest",
+   "title": "Reljanović sa poslanikom Evropskog parlamenta iz parlamentarne grupe Levica",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Predstavnik Studentske liste na sastanku s članom italijanskog Pokreta pet zvezda",
+  "Reljanović sa poslanikom Evropskog parlamenta iz parlamentarne grupe Levica",
   "Reljanović sa poslanikom Evropskog parlamenta iz parlamentarne grupe Levica"
  ],
  "author": "Redakcija Prestonice",
@@ -60,6 +67,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata_2.jpg",
   "alt": "Studenti i Mario Reljanović sastaju se sa evroposlanikom iz grupe Levica"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

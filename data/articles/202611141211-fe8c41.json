@@ -26,17 +26,24 @@
  ],
  "importance": 4,
  "published": "2026-11-14T11:11:39.945067+00:00",
- "updated": "2026-11-14T11:11:39.945067+00:00",
+ "updated": "2026-11-14T12:40:54.901064+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10161956/POVECAN-RIZIK-OD-NESRECA-HITNO-SE-OGLASILI-IZ-MUP-Ove-godine-stradalo-97-pesaka-obezbedite-se-reflektujucim-prslukom-video",
    "title": "POVEĆAN RIZIK OD NESREĆA, HITNO SE OGLASILI IZ MUP: Ove godine stradalo 97 pešaka, obezbedite se reflektujućim prslukom! (video)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4432978-alarmantni-podaci-mup-a-385-ljudi-poginulo-u-saobracaju-od-pocetka-godine-medju-njima-97-pesaka",
+   "title": "Alarmantni podaci MUP-a: 385 ljudi poginulo u saobraćaju od početka godine, među njima 97 pešaka",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "POVEĆAN RIZIK OD NESREĆA, HITNO SE OGLASILI IZ MUP: Ove godine stradalo 97 pešaka, obezbedite se reflektujućim prslukom! (video)"
+  "POVEĆAN RIZIK OD NESREĆA, HITNO SE OGLASILI IZ MUP: Ove godine stradalo 97 pešaka, obezbedite se reflektujućim prslukom! (video)",
+  "Alarmantni podaci MUP-a: 385 ljudi poginulo u saobraćaju od početka godine, među njima 97 pešaka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Novi_Beograd_-_The_SIV_building.jpg",
   "alt": "MUP apeluje na oprez u saobraćaju: od početka godine poginulo 97 pešaka"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

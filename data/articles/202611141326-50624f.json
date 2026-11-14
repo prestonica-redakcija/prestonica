@@ -25,17 +25,24 @@
  ],
  "importance": 3,
  "published": "2026-11-14T12:26:06.820197+00:00",
- "updated": "2026-11-14T12:26:06.820197+00:00",
+ "updated": "2026-11-14T12:40:54.901064+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10162000/teska-saobracajna-nesreca-u-stepojevcu",
    "title": "VOZAČ \"AUDIJA\" POKOSIO PEŠAKA U STEPOJEVCU: Muškarac zadobio više preloma, bore mu se za život!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4432955-audi-tesko-povredio-pesaka-stravican-udes-u-stepojevcu",
+   "title": "Audi teško povredio pešaka: Stravičan udes u Stepojevcu!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "VOZAČ \"AUDIJA\" POKOSIO PEŠAKA U STEPOJEVCU: Muškarac zadobio više preloma, bore mu se za život!"
+  "VOZAČ \"AUDIJA\" POKOSIO PEŠAKA U STEPOJEVCU: Muškarac zadobio više preloma, bore mu se za život!",
+  "Audi teško povredio pešaka: Stravičan udes u Stepojevcu!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Stepojevac,_Centar_sela,_06.JPG",
   "alt": "Pešak teško povređen u Stepojevcu nakon udesa sa automobilom Audi A4"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

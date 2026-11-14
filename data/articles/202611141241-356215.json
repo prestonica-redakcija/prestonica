@@ -25,17 +25,24 @@
  ],
  "importance": 7,
  "published": "2026-11-14T11:41:26.868148+00:00",
- "updated": "2026-11-14T11:41:26.868148+00:00",
+ "updated": "2026-11-14T12:40:54.901064+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/ekonomija/vesti/1671116/objavljena-odluka-povecanju-penzija-svakih-10-000-dinara-dobijate-750-dinara-vise-evo-koliko-iznosi",
    "title": "OBJAVLjENA ODLUKA O POVEĆANjU PENZIJA: Na svakih 10.000 dinara dobijate 750 dinara više - evo koliko će iznosi!",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/284938/bice-povecanja-penzija-od-decembra-rast-od-75-odsto-evo-koliko-ce-sada-iznostiti/vest",
+   "title": "Biće povećanja penzija od decembra: Rast od 7,5 odsto; Evo koliko će sada iznostiti",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "OBJAVLjENA ODLUKA O POVEĆANjU PENZIJA: Na svakih 10.000 dinara dobijate 750 dinara više - evo koliko će iznosi!"
+  "OBJAVLjENA ODLUKA O POVEĆANjU PENZIJA: Na svakih 10.000 dinara dobijate 750 dinara više - evo koliko će iznosi!",
+  "Biće povećanja penzija od decembra: Rast od 7,5 odsto; Evo koliko će sada iznostiti"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Penzije u Srbiji rastu 7,5 odsto od decembra, objavljeno rešenje Fonda PIO"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
