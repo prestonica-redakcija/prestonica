@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T16:35:21.948288+00:00",
- "updated": "2026-11-13T22:17:48.595213+00:00",
+ "updated": "2026-11-14T03:00:35.628792+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -49,12 +49,19 @@
    "url": "https://www.kurir.rs/planeta/10161528/turska-i-katar-potpisali-sporazum-o-medjusobnoj-odbrani",
    "title": "NOVI SAVEZ MENJA ODNOS SNAGA Turska i Katar potpisali važan sporazum: Oglasio se Erdogan posle tajnih razgovora",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4432822-turska-i-katar-dodatno-ucvrscuju-savez-potpisan-sporazum-koji-menja-odnose-dve-zemlje",
+   "title": "Turska i Katar dodatno učvršćuju savez: Potpisan sporazum koji menja odnose dve zemlje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Turska i Katar potpisali sporazum o međusobnoj odbrani i još četiri sporazuma",
   "Erdogan ima plan; Potpisan važan sporazum",
-  "NOVI SAVEZ MENJA ODNOS SNAGA Turska i Katar potpisali važan sporazum: Oglasio se Erdogan posle tajnih razgovora"
+  "NOVI SAVEZ MENJA ODNOS SNAGA Turska i Katar potpisali važan sporazum: Oglasio se Erdogan posle tajnih razgovora",
+  "Turska i Katar dodatno učvršćuju savez: Potpisan sporazum koji menja odnose dve zemlje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:North_view_of_Tursk%C3%A1_street_in_%C4%8Cimice,_Prague.jpg",
   "alt": "Turska i Katar potpisali sporazum o međusobnoj odbrani i još četiri dokumenta"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
