@@ -4060,18 +4060,20 @@
   "https://www.novosti.rs/ekonomija/vesti/1671237/kupujete-plac-kucu-nasedajte-oglas-ovo-troskovi-prikljucak-struju-vodu-evo-cega-zavise": "2026-11-14T18:23:09.130061+00:00",
   "https://www.novosti.rs/vesti/politika/1671224/vucic-najavio-poteze-opozicije-snazno-cemo-boriti-srbiju": "2026-11-14T18:23:09.130061+00:00",
   "https://www.kurir.rs/vesti/biznis/10162299/kolika-plata-vam-je-potrebna-za-stan-u-beogradu-i-zasto-banke-ne-popustaju-uslove-za-ucesce": "2026-11-14T18:23:09.130061+00:00",
-  "https://www.kurir.rs/zabava/zanimljivosti/10162297/svadbeni-obicaji-plemena-tidung": "2026-11-14T18:23:09.130061+00:00"
+  "https://www.kurir.rs/zabava/zanimljivosti/10162297/svadbeni-obicaji-plemena-tidung": "2026-11-14T18:23:09.130061+00:00",
+  "https://www.youtube.com/watch?v=AK3xeEGeZCQ": "2026-11-14T18:37:59.441001+00:00",
+  "https://www.telegraf.rs/vesti/jugosfera/4433134-andrej-plenkovic-nema-potrebe-da-ministarka-zdravlja-podnese-ostavku": "2026-11-14T18:37:59.441001+00:00",
+  "https://nova.rs/vesti/drustvo/gledajte-uzivo-dnevnik-tv-nova-14-11-2026/": "2026-11-14T18:37:59.441001+00:00",
+  "https://www.telegraf.rs/sport/fudbal/4433136-oglasilo-se-ministarstvo-spoljnih-poslova-crne-gore-nakon-vracanja-navijaca-sa-aerodroma-trazicemo": "2026-11-14T18:37:59.441001+00:00",
+  "https://nova.rs/vesti/politika/vucic-najavio-da-ce-biti-sef-poslanicke-grupe-u-skupstini-srbije-mi-cemo-se-ponasati-civilizovano-i-bicemo-onakvi-kakvi-jesmo/": "2026-11-14T18:37:59.441001+00:00",
+  "https://n1info.rs/video/novi-dan/press-safeta-bisevac-14-11-2026/": "2026-11-14T18:37:59.441001+00:00",
+  "https://www.tanjug.rs/srbija/politika/297811/vucic-firme-odlaze-iz-srbije-jedna-od-najmocnijih-firmi-nece-doci-na-ekspo/vest": "2026-11-14T18:37:59.441001+00:00",
+  "https://n1info.rs/vesti/moze-li-studentska-lista-stati-na-put-partijskom-kadrovanju/": "2026-11-14T18:37:59.441001+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-14T03:46+00:00",
-   "novih": 0,
-   "ukupno": 1020,
-   "sekundi": 63.3
-  },
   {
    "vreme": "2026-11-14T04:01+00:00",
    "novih": 0,
@@ -4425,6 +4427,12 @@
    "novih": 6,
    "ukupno": 1262,
    "sekundi": 224.1
+  },
+  {
+   "vreme": "2026-11-14T18:40+00:00",
+   "novih": 3,
+   "ukupno": 1265,
+   "sekundi": 179.0
   }
  ],
  "licnosti_foto": {
@@ -4574,6 +4582,30 @@
   }
  },
  "videos": [
+  {
+   "id": "AK3xeEGeZCQ",
+   "title": "Vučić: Očekujem da će da prave cirkuc",
+   "kanal": "Srpska napredna stranka",
+   "published": "2026-11-14T18:23:46+00:00",
+   "thumb": "https://i.ytimg.com/vi/AK3xeEGeZCQ/hqdefault.jpg",
+   "live": "none",
+   "desc": "",
+   "spektar": "stranka",
+   "viewers": null,
+   "naslov": "Vučić u snimku SNS-a navodi da očekuje da će da prave cirkus",
+   "opis": "Snimak je objavljen na kanalu Srpske napredne stranke. Prema naslovu, Vučić izjavljuje da očekuje da će neko da pravi cirkus, a iz dostupnih podataka nije jasno na koga se izjava odnosi ni šta je povod.",
+   "tekst": [
+    "Snimak je objavljen na zvaničnom kanalu Srpske napredne stranke, pa je reč o stranačkom materijalu. U naslovu se citira Vučić, koji kaže da očekuje da će \"da prave cirkus\".",
+    "Iz dostupnih podataka ne vidi se na koga se izjava odnosi, kada i gde je data, niti o kojoj temi je reč."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "Vučić",
+    "Srpska napredna stranka",
+    "SNS"
+   ],
+   "slug": "vucic-u-snimku-sns-a-navodi-da-ocekuje-da-ce-da-prave-cirkus-ak3xeegezcq"
+  },
   {
    "id": "rOQH8xnumRw",
    "title": "Vremenska prognoza 15. novembar 2026.",
@@ -6308,30 +6340,6 @@
     "država"
    ],
    "slug": "advokat-jelena-pavlovic-drzava-ne-sme-da-im-odmaze-wk0xxru5eg8"
-  },
-  {
-   "id": "drhsSxkWRLI",
-   "title": "Vučić: Imam samo jedno pitanje: kako su se oni pojavili u Gračanici, a ja ne mogu?",
-   "kanal": "Srpska napredna stranka",
-   "published": "2026-11-13T18:38:21+00:00",
-   "thumb": "https://i.ytimg.com/vi/drhsSxkWRLI/hqdefault.jpg",
-   "live": "none",
-   "desc": "",
-   "spektar": "stranka",
-   "viewers": null,
-   "naslov": "Vučić pita kako su se oni pojavili u Gračanici, a on ne može",
-   "opis": "Na snimku sa kanala Srpske napredne stranke Aleksandar Vučić postavlja pitanje kako su se „oni“ pojavili u Gračanici, a on ne može. Opis snimka ne sadrži dodatne podatke.",
-   "tekst": [
-    "Prema naslovu snimka, Vučić kaže da ima samo jedno pitanje: kako su se oni pojavili u Gračanici, a on ne može.",
-    "Iz dostupnih podataka nije jasno na koga se odnosi izjava niti u kom kontekstu je data."
-   ],
-   "rubrika": "politika",
-   "oznake": [
-    "Aleksandar Vučić",
-    "Srpska napredna stranka",
-    "Gračanica"
-   ],
-   "slug": "vucic-pita-kako-su-se-oni-pojavili-u-gracanici-a-on-ne-moze-drhssxkwrli"
   },
   {
    "id": "F00WsI9IR84",
@@ -33376,6 +33384,10 @@
   },
   "t:puls srbije": {
    "t": 1794680649.1656034,
+   "items": []
+  },
+  "t:srbija protiv terora": {
+   "t": 1794681516.208025,
    "items": []
   }
  },

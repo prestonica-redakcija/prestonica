@@ -33,7 +33,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T15:24:29.110893+00:00",
- "updated": "2026-11-14T16:24:04.540307+00:00",
+ "updated": "2026-11-14T18:37:59.441001+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -52,12 +52,19 @@
    "url": "https://nova.rs/sport/fudbal/oglasila-se-er-srbija-i-objasnila-zbog-cega-su-zaustavljeni-navijaci-crne-gore/",
    "title": "Oglasila se Er Srbija i objasnila zbog čega su zaustavljeni navijači Crne Gore u Beogradu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/sport/fudbal/4433136-oglasilo-se-ministarstvo-spoljnih-poslova-crne-gore-nakon-vracanja-navijaca-sa-aerodroma-trazicemo",
+   "title": "Oglasilo se Ministarstvo spoljnih poslova Crne Gore nakon vraćanja navijača sa aerodroma iz Beograda",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Navijačima iz Crne Gore onemogućeno da sa „Nikole Tesle“ otputuju za Kipar, najavili bojkot Er Srbije",
   "Navijači Crne Gore zaustavljeni u Beogradu, prete bojkotom Er Srbije",
-  "Oglasila se Er Srbija i objasnila zbog čega su zaustavljeni navijači Crne Gore u Beogradu"
+  "Oglasila se Er Srbija i objasnila zbog čega su zaustavljeni navijači Crne Gore u Beogradu",
+  "Oglasilo se Ministarstvo spoljnih poslova Crne Gore nakon vraćanja navijača sa aerodroma iz Beograda"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +77,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Navija%C4%8Di_Crne_Gore_na_utakmici_protiv_Srbije_2.jpg",
   "alt": "Navijači Crne Gore vraćeni sa beogradskog aerodroma, najavljuju bojkot Er Srbije"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

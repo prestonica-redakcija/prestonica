@@ -34,17 +34,24 @@
  ],
  "importance": 6,
  "published": "2026-11-14T17:53:15.382543+00:00",
- "updated": "2026-11-14T17:53:15.382543+00:00",
+ "updated": "2026-11-14T18:37:59.441001+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1671224/vucic-gost-pink-ocekujem-prave-cirkus-dovodjenjem-ljudi-galeriju",
    "title": "VUČIĆ GOST TV PINK: Očekujem da će da prave cirkus sa dovođenjem ljudi na galeriju",
    "spektar": "vlast"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=AK3xeEGeZCQ",
+   "title": "Vučić: Očekujem da će da prave cirkuc",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
-  "VUČIĆ GOST TV PINK: Očekujem da će da prave cirkus sa dovođenjem ljudi na galeriju"
+  "VUČIĆ GOST TV PINK: Očekujem da će da prave cirkus sa dovođenjem ljudi na galeriju",
+  "Vučić: Očekujem da će da prave cirkuc"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Narodna_skupstina_Srbije.jpg",
   "alt": "Vučić na Pinku: opozicija će kandidovati Stojana Radenovića za predsednika skupštine"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
