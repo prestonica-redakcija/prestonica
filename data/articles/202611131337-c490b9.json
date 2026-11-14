@@ -29,7 +29,7 @@
  ],
  "importance": 7,
  "published": "2026-11-13T12:37:08.947386+00:00",
- "updated": "2026-11-13T13:06:51.847616+00:00",
+ "updated": "2026-11-14T18:08:19.042509+00:00",
  "sources": [
   {
    "name": "N1",
@@ -54,13 +54,20 @@
    "url": "https://www.danas.rs/vesti/drustvo/bia-milan-radoicic-rusija/",
    "title": "Bivši inspektor BIA: Milan Radoičić napustio Srbiju, otišao u Rusiju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/nema-pasos-dva-puta-mesecno-mora-da-se-javlja-u-policiju-zabranjeno-mu-da-napusta-srbiju-a-on-otputovao-u-rusiju-bivsi-inspektor-bia-usao-u-trag-milanu-radoicicu/",
+   "title": "Nema pasoš, dva puta mesečno mora da se javlja u policiju, zabranjeno mu da napušta Srbiju, a on - otputovao u Rusiju: Bivši inspektor BIA \"ušao u trag\" Milanu Radoičiću",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Zvezdanović: Milan Radoičić napustio zemlju, otišao u Rusiju",
   "Bivši inspektor BIA: Milan Radoičić napustio zemlju, otišao u Rusiju",
   "Bivši inspektor BIA: Milan Radoičić otišao u Rusiju",
-  "Bivši inspektor BIA: Milan Radoičić napustio Srbiju, otišao u Rusiju"
+  "Bivši inspektor BIA: Milan Radoičić napustio Srbiju, otišao u Rusiju",
+  "Nema pasoš, dva puta mesečno mora da se javlja u policiju, zabranjeno mu da napušta Srbiju, a on - otputovao u Rusiju: Bivši inspektor BIA \"ušao u trag\" Milanu Radoičiću"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,6 +79,6 @@
   "local": true,
   "alt": "Bivši inspektor BIA tvrdi da je Milan Radoičić otišao u Rusiju"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

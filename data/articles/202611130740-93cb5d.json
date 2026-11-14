@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T06:40:00.551823+00:00",
- "updated": "2026-11-13T18:04:42.403667+00:00",
+ "updated": "2026-11-14T18:08:19.042509+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -44,11 +44,18 @@
    "url": "https://standard.rs/2026/11/13/revolucionarni-zanos-i-institucionalna-zamka/",
    "title": "Revolucionarni zanos i institucionalna zamka",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1671230/trazice-50-dosijea-vucic-desavanjima-rts",
+   "title": "\"TRAŽIĆE 50 DOSIJEA\": Vučić o dešavanjima u RTS-u",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Otrežnjenje posle izbora! Profesor Antić: Plenumi su protivzakoniti, a traženje dosijea na RTS-u pokazuje pravo lice \"slobode\" (VIDEO)",
-  "Revolucionarni zanos i institucionalna zamka"
+  "Revolucionarni zanos i institucionalna zamka",
+  "\"TRAŽIĆE 50 DOSIJEA\": Vučić o dešavanjima u RTS-u"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Cedomir_Antic-mc.rs.jpg",
   "alt": "Antić upozorava novu većinu: promene kroz institucije, ne kroz revoluciju"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
