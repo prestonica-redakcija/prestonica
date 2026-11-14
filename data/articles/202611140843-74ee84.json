@@ -36,17 +36,24 @@
  ],
  "importance": 7,
  "published": "2026-11-14T07:43:16.069693+00:00",
- "updated": "2026-11-14T07:43:16.069693+00:00",
+ "updated": "2026-11-14T08:57:38.232948+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10161804/paket-prosirenja-eu-za-2026-ocene-za-srbiju-crnu-goru-i-ostale-kandidate",
    "title": "CRNA GORA PRED VRATIMA EU, SRBIJA NA PREKRETNICI Marta Kos tvrdi da je Beograd ovde zapeo - Objavljen izveštaj - Ko grabi ka članstvu, a ko stoji u mestu",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/284888/objavljen-novi-izvestaj-marte-kos/vest",
+   "title": "Novi izveštaj Marte Kos: Srbija ima priliku za novi početak, BiH se udaljava, a evo gde je Crna Gora",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "CRNA GORA PRED VRATIMA EU, SRBIJA NA PREKRETNICI Marta Kos tvrdi da je Beograd ovde zapeo - Objavljen izveštaj - Ko grabi ka članstvu, a ko stoji u mestu"
+  "CRNA GORA PRED VRATIMA EU, SRBIJA NA PREKRETNICI Marta Kos tvrdi da je Beograd ovde zapeo - Objavljen izveštaj - Ko grabi ka članstvu, a ko stoji u mestu",
+  "Novi izveštaj Marte Kos: Srbija ima priliku za novi početak, BiH se udaljava, a evo gde je Crna Gora"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Kralji%C4%8Dina_pla%C5%BEa_(Milo%C4%8Der,_Crna_Gora)_07.jpg",
   "alt": "Paket proširenja EU: Crna Gora cilja 2028, Srbija nazadovala u temeljnim oblastima"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

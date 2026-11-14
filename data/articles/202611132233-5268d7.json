@@ -3,21 +3,23 @@
  "slug": "faa-naredila-obustavu-svih-poletanja-u-sad-iz-bezbednosnih-razloga",
  "kind": "vest",
  "section": "svet",
- "headline": "FAA naredila obustavu svih poletanja u SAD iz bezbednosnih razloga",
- "lead": "Savezna uprava za vazduhoplovstvo SAD (FAA) naredila je u petak obustavu svih odlazećih letova na teritoriji zemlje, uz pozivanje na bezbednosne razloge. Uzrok mere i trajanje za sada nisu objavljeni.",
+ "headline": "Zabrana poletanja u SAD trajala preko četiri sata zbog poremećaja u mreži kontrole letenja",
+ "lead": "Nacionalna zabrana poletanja u SAD, koju je FAA uvela u petak, ukinuta je posle četiri sata i 21 minut. Američki ministar saobraćaja Šon Dafi rekao je da je uzrok nestabilnost zastarele telekomunikacione infrastrukture kontrole letenja, a ministar unutrašnje bezbednosti Markvejn Malin izjavio je da nema znakova sajber napada, prenosi Telegraf.",
  "body": [
-  "Vanredna naredba stupila je na snagu u petak u 15.54 po istočnoameričkom vremenu, navodi B92. Svim avionima koji treba da polete naloženo je da ostanu na zemlji do daljeg.",
-  "Euronews Srbija navodi da je FAA kao razlog navela „vanredne okolnosti i bezbednosne razloge“. Obaveštenje je kratko, a u njemu stoji da „svi letovi koji treba da polete moraju ostati prizemljeni do daljeg obaveštenja“.",
-  "Prema objavljenom obaveštenju, o međunarodnim letovima koji pristižu u SAD odlučuje se od slučaja do slučaja, piše B92.",
-  "B92 navodi da FAA za sada javno nije saopštila šta je izazvalo ovu meru niti koliko dugo će ona trajati.",
-  "Potpuna obustava poletanja na nacionalnom nivou izuzetno je retka, prenosi Euronews Srbija pozivajući se na NBC News. Podsećaju da je FAA sličnu, do tada nezabeleženu meru uvela nakon terorističkih napada 11. septembra 2001, kada je obustavljen celokupan civilni vazdušni saobraćaj, a avioni u vazduhu upućeni na najbliže dostupne aerodrome."
+  "Federalna uprava za vazduhoplovstvo (FAA) naredila je obustavu poletanja u 15.54 po istočnoameričkom vremenu, a prve nepravilnosti u radarskim podacima i komunikaciji kontrolora i aviona zabeležene su oko 15.36, navodi Telegraf. Zabrana je ukinuta u 20.15, odnosno u 02.15 u subotu po vremenu u Srbiji. Ranije su B92 i Euronews Srbija javljali da je FAA kao razlog navela „vanredne okolnosti i bezbednosne razloge“, a da se o međunarodnim letovima koji stižu u SAD odlučuje od slučaja do slučaja.",
+  "Dafi je na konferenciji za novinare u Beloj kući rekao da su mrežni svičevi i ruteri starije generacije bili preopterećeni podacima, zbog čega su informacije koje su kontrolori dobijali postale nestabilne i nepouzdane. Prema njegovim rečima, problemi su pogodili centre oblasne i prilazne kontrole letenja (TRACON). Naglasio je da nije bilo potpunog gubitka radarskih podataka ni radio-veze, ali da je nestabilnost bila dovoljan razlog za preventivnu zabranu. U trenutku uvođenja mere u američkom vazdušnom prostoru bilo je više od 3.500 aviona.",
+  "CBS News, pozivajući se na izvore upoznate sa događajem, navodi da je ažuriranje privatne komunikacione mreže FAA moglo da izazove ponovno pokretanje sistema, a potom i prekid rada. Mrežom upravlja kompanija L3Harris. Telegraf navodi da taj scenario još nije potvrđen kao konačan nalaz tehničke istrage. Malin je izjavio da dosadašnje provere nisu pokazale da je reč o sajber napadu ili namernoj sabotaži.",
+  "Prema podacima servisa FlightAware koje prenosi CBS News, tokom petka je otkazano više od 4.000, a kasnilo je preko 10.000 letova. Reč je o ukupnim poremećajima tog dana, a ne samo o posledicama ovog kvara. Cirium je do 19.05 po istočnoameričkom vremenu registrovao 827 letova koji nisu stigli na planirano odredište: 670 aviona vratilo se na polazni aerodrom, a 157 je sletelo na alternativne. Poremećaji su zahvatili aerodrome u Njujorku, Atlanti, Bostonu, Majamiju, Los Anđelesu i San Francisku.",
+  "United Airlines je najavio otkazivanje većine preostalih večernjih letova, JetBlue je obustavio gotovo sve preostale polaske uz izuzetke za pojedine transatlantske letove, a Air Canada je otkazala preostale letove između Kanade i SAD. FAA je potvrdila da su sistemi pre ponovnog puštanja poletanja testirani, ali saobraćaj se nije odmah normalizovao jer su avio-kompanije morale da usklade avione i posade.",
+  "Telegraf se poziva na CBS News i dokumentaciju prema kojoj je bezbednosna analiza za FAA iz novembra 2023. upozorila da je mreža FAA Telecommunications Infrastructure (FTI) zastarela i da deo nje zavisi od tehnologije koju savremena infrastruktura više ne podržava. Euronews Srbija, pozivajući se na NBC News, podseća da je potpuna obustava poletanja na nacionalnom nivou izuzetno retka i da je sličnu meru FAA uvela nakon napada 11. septembra 2001."
  ],
  "tags": [
   "FAA",
   "SAD",
+  "kontrola letenja",
   "avio-saobraćaj",
-  "obustava letova",
-  "bezbednost"
+  "Šon Dafi",
+  "zabrana poletanja"
  ],
  "people": [],
  "places": [
@@ -25,7 +27,7 @@
  ],
  "importance": 7,
  "published": "2026-11-13T21:33:05.259057+00:00",
- "updated": "2026-11-14T08:13:11.892749+00:00",
+ "updated": "2026-11-14T08:57:38.232948+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -56,6 +58,12 @@
    "url": "https://www.euronews.rs/svet/fokus/252029/zasto-su-bili-prizemljeni-svi-letovi-u-sad/vest",
    "title": "Nezapamćen haos na američkom nebu: Šta do sada znamo o problemu koji je prizemljio letove u čitavoj zemlji?",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://aero.telegraf.rs/aerodromi/4432893-poletanja-sirom-sad-obustavljena-na-vise-od-cetiri-sata-faa-otkrila-sta-je-izazvalo-veliki-poremecaj",
+   "title": "Poletanja širom SAD obustavljena na više od četiri sata: FAA otkrila šta je izazvalo veliki poremećaj",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -63,7 +71,8 @@
   "Obustavljeni svi letovi iz SAD",
   "Svi letovi u SAD prizemljeni zbog \"vanrednih okolnosti i bezbednosnih razloga\"",
   "PANIKA U AMERICI: Hitna zabrana poletanja svih aviona na celoj teritoriji SAD! Ovo su razlozi!",
-  "Nezapamćen haos na američkom nebu: Šta do sada znamo o problemu koji je prizemljio letove u čitavoj zemlji?"
+  "Nezapamćen haos na američkom nebu: Šta do sada znamo o problemu koji je prizemljio letove u čitavoj zemlji?",
+  "Poletanja širom SAD obustavljena na više od četiri sata: FAA otkrila šta je izazvalo veliki poremećaj"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -75,6 +84,8 @@
   "local": true,
   "alt": "FAA naredila obustavu svih poletanja u SAD iz bezbednosnih razloga"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 0,
+ "boost": 1.32,
+ "prepisano": "2026-11-14T08:57:38.232948+00:00",
+ "verzija": 2
 }

@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T06:55:05.526438+00:00",
- "updated": "2026-11-14T08:13:11.892749+00:00",
+ "updated": "2026-11-14T08:57:38.232948+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -146,6 +146,18 @@
    "url": "https://www.b92.net/biz/svet/vesti/284790/evropa-u-potrazi-za-nastavnicima-i-medicinarima/vest",
    "title": "Nije samo do plate... Nema dovoljno nastavnika i medicinara: Sve manje Evropljana želi da radi ove poslove",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/297688/majkrosoft-usluge-u-potpunosti-obnovljene-nakon-globalnog-prekida-rada/vest",
+   "title": "Majkrosoft: Usluge u potpunosti obnovljene nakon globalnog prekida rada",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/letovi-u-sad-ponovo-dozvoljeni-haos-na-aerodromima-se-nastavlja-oko-15-miliona-putnika-pogodjeno-poremecajima/",
+   "title": "Letovi u SAD ponovo dozvoljeni – haos na aerodromima se nastavlja, oko 1,5 miliona putnika pogođeno poremećajima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -167,7 +179,9 @@
   "‘Veoma nam je žao’: Majkrosoftovo izvinjenje zbog prekida u radu servisa",
   "Kolaps Microsoft servisa trajao duže od 24 sata: Evo šta je izazvalo globalni haos, štetu mere u milijardama",
   "\"MICROSOFT\" PONOVO USPOSTAVIO RAD PLATFORMI: Kolaps trajao 24 sata, nastao zbog tehničkog problema",
-  "Nije samo do plate... Nema dovoljno nastavnika i medicinara: Sve manje Evropljana želi da radi ove poslove"
+  "Nije samo do plate... Nema dovoljno nastavnika i medicinara: Sve manje Evropljana želi da radi ove poslove",
+  "Majkrosoft: Usluge u potpunosti obnovljene nakon globalnog prekida rada",
+  "Letovi u SAD ponovo dozvoljeni – haos na aerodromima se nastavlja, oko 1,5 miliona putnika pogođeno poremećajima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -180,7 +194,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg",
   "alt": "Veliki prekid u radu Microsofta: Outlook i Teams satima nedostupni širom sveta"
  },
- "novo_od_pisanja": 5,
+ "novo_od_pisanja": 7,
  "boost": 1.6,
  "prepisano": "2026-11-13T15:35:52.267094+00:00",
  "verzija": 4
