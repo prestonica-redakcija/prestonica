@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T06:55:05.526438+00:00",
- "updated": "2026-11-14T09:12:38.337999+00:00",
+ "updated": "2026-11-14T09:27:26.914112+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -164,6 +164,18 @@
    "url": "https://www.kurir.rs/techvision/vesti/10161854/majkrosoft-otklonio-probleme",
    "title": "MAJKROSOFT SE OPORAVIO POSLE GLOBALNOG KOLAPSA: Servisi ponovo rade, evo šta je izazvalo haos",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/majkrosoft-usluge-u-potpunosti-obnovljene-nakon-globalnog-prekida-rada",
+   "title": "Majkrosoft: Usluge u potpunosti obnovljene nakon globalnog prekida rada",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/252037/majkrosoft-outlook-teams-i-copilot-ponovo-dostupni/vest",
+   "title": "Kraj globalnog kolapsa: Majkrosoft potvrdio da servisi ponovo rade, poznato šta je izazvalo prekid",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -188,7 +200,9 @@
   "Nije samo do plate... Nema dovoljno nastavnika i medicinara: Sve manje Evropljana želi da radi ove poslove",
   "Majkrosoft: Usluge u potpunosti obnovljene nakon globalnog prekida rada",
   "Letovi u SAD ponovo dozvoljeni – haos na aerodromima se nastavlja, oko 1,5 miliona putnika pogođeno poremećajima",
-  "MAJKROSOFT SE OPORAVIO POSLE GLOBALNOG KOLAPSA: Servisi ponovo rade, evo šta je izazvalo haos"
+  "MAJKROSOFT SE OPORAVIO POSLE GLOBALNOG KOLAPSA: Servisi ponovo rade, evo šta je izazvalo haos",
+  "Majkrosoft: Usluge u potpunosti obnovljene nakon globalnog prekida rada",
+  "Kraj globalnog kolapsa: Majkrosoft potvrdio da servisi ponovo rade, poznato šta je izazvalo prekid"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -201,7 +215,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg",
   "alt": "Veliki prekid u radu Microsofta: Outlook i Teams satima nedostupni širom sveta"
  },
- "novo_od_pisanja": 8,
+ "novo_od_pisanja": 10,
  "boost": 1.6,
  "prepisano": "2026-11-13T15:35:52.267094+00:00",
  "verzija": 4

@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-14T07:58:08.762756+00:00",
- "updated": "2026-11-14T08:42:43.998285+00:00",
+ "updated": "2026-11-14T09:27:26.914112+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -40,9 +40,16 @@
    "url": "https://www.euronews.rs/svet/planeta/252026/kina-i-sad-odrzale-prvi-sastanak-trgovinskog-saveta/vest",
    "title": "Kina i SAD razgovarale o carinama i trgovini na prvom sastanku trgovinskog saveta",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/kina-i-sad-razgovarale-o-carinama-i-trgovini-na-prvom-sastanku-trgovinskog-saveta",
+   "title": "Kina i SAD razgovarale o carinama i trgovini na prvom sastanku trgovinskog saveta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Kina i SAD razgovarale o carinama i trgovini na prvom sastanku trgovinskog saveta",
   "Kina i SAD razgovarale o carinama i trgovini na prvom sastanku trgovinskog saveta",
   "Kina i SAD razgovarale o carinama i trgovini na prvom sastanku trgovinskog saveta"
  ],
@@ -56,6 +63,6 @@
   "local": true,
   "alt": "Kina i SAD održale prvi sastanak trgovinskog saveta, razgovarano o carinama"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

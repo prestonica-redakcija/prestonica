@@ -29,17 +29,24 @@
  ],
  "importance": 5,
  "published": "2026-11-13T11:37:37.701046+00:00",
- "updated": "2026-11-13T11:37:37.701046+00:00",
+ "updated": "2026-11-14T09:27:26.914112+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/politika/slavica-djukic-dejanovic-zelim-novoj-vladi-i-novom-skupstinskom-sazivu-ogroman-uspeh/",
    "title": "Slavica Đukić Dejanović: Želim novoj vladi i novom skupštinskom sazivu ogroman uspeh",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10161870/slavica-djukic-dejanovic-o-krizi-u-sps-u-i-studentskoj-listi",
+   "title": "SLAVICA ĐUKIĆ DEJANOVIĆ O KRIZI U SPS-u I STUDENTSKOJ LISTI: Socijalistima potrebno podmlađivanje stranačkih struktura, novoj vlasti treba dati šansu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Slavica Đukić Dejanović: Želim novoj vladi i novom skupštinskom sazivu ogroman uspeh"
+  "Slavica Đukić Dejanović: Želim novoj vladi i novom skupštinskom sazivu ogroman uspeh",
+  "SLAVICA ĐUKIĆ DEJANOVIĆ O KRIZI U SPS-u I STUDENTSKOJ LISTI: Socijalistima potrebno podmlađivanje stranačkih struktura, novoj vlasti treba dati šansu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Hashim_Thaci,_Michael_Spindelegger,_Ivica_Dacic.jpg",
   "alt": "Đukić Dejanović: SPS je imala i teže situacije, potrebno je podmlađivanje stranke"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

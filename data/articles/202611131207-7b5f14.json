@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T11:07:47.950991+00:00",
- "updated": "2026-11-13T22:17:48.595213+00:00",
+ "updated": "2026-11-14T09:27:26.914112+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -109,6 +109,12 @@
    "url": "https://www.tanjug.rs/srbija/hronika/297654/mup-pancevo-kod-30-godisnjaka-pronadeno-vise-kilograma-narkotika/vest",
    "title": "MUP Pančevo: Kod 30-godišnjaka pronađeno više kilograma narkotika",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4432891-policija-nasla-drogu-u-stanu-u-podgorici-uhapsen-muskarac-zbog-sumnje-da-ju-je-pripremao-za-ulicnu-prodaju",
+   "title": "Policija našla drogu u stanu u Podgorici: Uhapšen muškarac zbog sumnje da ju je pripremao za uličnu prodaju",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -124,7 +130,8 @@
   "MUP: Hapšenja u Srbiji i Sloveniji zbog krijumčarenja droge kamionima, zaplenjeni hašiš, marihuana i kokain",
   "Policija upala u stan u Pančevu i ostala zatečena: Pronađeno više od 7 kilograma različitih droga",
   "Švercovali kokain u posebno napravljenim bunkerima u kamionima: U zajedničkoj akciji srpske i slovenačke policije uhapšeno 6 osoba",
-  "MUP Pančevo: Kod 30-godišnjaka pronađeno više kilograma narkotika"
+  "MUP Pančevo: Kod 30-godišnjaka pronađeno više kilograma narkotika",
+  "Policija našla drogu u stanu u Podgorici: Uhapšen muškarac zbog sumnje da ju je pripremao za uličnu prodaju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -137,6 +144,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Topola_Kr%C3%B3lewska,_mleczarnia_(2).jpg",
   "alt": "Kod Topole zaplenjeno oko 90 kilograma marihuane, uhapšena četvorica osumnjičenih"
  },
- "novo_od_pisanja": 12,
+ "novo_od_pisanja": 13,
  "boost": 1.6
 }

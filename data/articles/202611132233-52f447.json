@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T21:33:05.259057+00:00",
- "updated": "2026-11-14T09:12:38.337999+00:00",
+ "updated": "2026-11-14T09:27:26.914112+00:00",
  "sources": [
   {
    "name": "N1",
@@ -72,6 +72,12 @@
    "url": "https://www.tanjug.rs/svet/drustvo/297689/svi-putnici-i-clanovi-posade-preziveli-sudar-tankera-i-broda-na-misisipiju/vest",
    "title": "Svi putnici i članovi posade preživeli sudar tankera i broda na Misisipiju",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/sudar-tankera-i-broda-na-misisipiju-preziveli-svi-putnici-i-clanovi-posade",
+   "title": "Sudar tankera i broda na Misisipiju, preživeli svi putnici i članovi posade",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -81,7 +87,8 @@
   "Sudar tankera i kruzera na Misisipiju kod Nju Orleansa: Prevrnuo se brod sa oko 130 putnika",
   "Sudar kruzera i tankera kod Nju Orleansa (VIDEO)",
   "Tanker udario u kruzer sa više od 130 putnika: Brod se prevrnuo, ljudi završili u vodi, a onda se desilo čudo",
-  "Svi putnici i članovi posade preživeli sudar tankera i broda na Misisipiju"
+  "Svi putnici i članovi posade preživeli sudar tankera i broda na Misisipiju",
+  "Sudar tankera i broda na Misisipiju, preživeli svi putnici i članovi posade"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -93,8 +100,8 @@
   "local": true,
   "alt": "Tanker udario u usidreni kruzer na Misisipiju kod Nju Orleansa, brod delimično potonuo"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-14T09:12:38.337999+00:00",
  "verzija": 2
 }
