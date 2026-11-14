@@ -25,17 +25,24 @@
  ],
  "importance": 3,
  "published": "2026-11-13T06:40:00.551823+00:00",
- "updated": "2026-11-13T06:40:00.551823+00:00",
+ "updated": "2026-11-14T05:44:13.646567+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/drustvo/297400/bez-zadrzavanja-na-rampama-auto-puteva-i-na-putnickim-terminalima-granicnih-prelaza/vest",
    "title": "Bez zadržavanja na rampama auto-puteva i na putničkim terminalima graničnih prelaza",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4432858-granicni-prelazi-prohodni-evo-gde-cekaju-kamioni",
+   "title": "Granični prelazi prohodni, evo gde čekaju kamioni",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Bez zadržavanja na rampama auto-puteva i na putničkim terminalima graničnih prelaza"
+  "Bez zadržavanja na rampama auto-puteva i na putničkim terminalima graničnih prelaza",
+  "Granični prelazi prohodni, evo gde čekaju kamioni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Batrovci_284.jpg",
   "alt": "Putnička vozila bez čekanja na granicama, kamioni na Batrovcima čekaju tri sata"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
