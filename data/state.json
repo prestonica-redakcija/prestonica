@@ -3349,18 +3349,14 @@
   "https://www.telegraf.rs/vesti/srbija/4432816-danas-mereno-letnjih-27-stepeni-veceras-sneg-veje-kao-usred-zime-temperatura-opala-na-0-evo-gde-i-grmi": "2026-11-13T23:47:11.188732+00:00",
   "https://nova.rs/magazin/vremenska-prognoza/danas-osetno-hladnije-temperatura-od-1-do-11-stepeni-na-planinama-slab-sneg/": "2026-11-13T23:47:11.188732+00:00",
   "https://www.kurir.rs/zabava/zena/10161184/sta-u-kuci-ne-smete-da-cistite-sircetom": "2026-11-13T23:47:11.188732+00:00",
-  "https://biznis.telegraf.rs/info-biz/4432325-privreda-ove-susedne-zemlje-porasla-za-25-u-trecem-kvartalu": "2026-11-14T00:02:00.333556+00:00"
+  "https://biznis.telegraf.rs/info-biz/4432325-privreda-ove-susedne-zemlje-porasla-za-25-u-trecem-kvartalu": "2026-11-14T00:02:00.333556+00:00",
+  "https://www.tanjug.rs/svet/politika/297568/vang-na-sastanku-sa-coom-kina-i-juzna-koreja-za-jacanje-saradnje-i-unapredenje-odnosa/vest": "2026-11-14T00:17:04.431967+00:00",
+  "https://www.kurir.rs/planeta/10161502/vang-na-sastanku-sa-coom": "2026-11-14T00:17:04.431967+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-13T09:25+00:00",
-   "novih": 4,
-   "ukupno": 723,
-   "sekundi": 120.8
-  },
   {
    "vreme": "2026-11-13T09:42+00:00",
    "novih": 9,
@@ -3714,6 +3710,12 @@
    "novih": 0,
    "ukupno": 1019,
    "sekundi": 57.8
+  },
+  {
+   "vreme": "2026-11-14T00:18+00:00",
+   "novih": 1,
+   "ukupno": 1020,
+   "sekundi": 85.1
   }
  ],
  "licnosti_foto": {
