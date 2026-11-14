@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T07:24:40.418171+00:00",
- "updated": "2026-11-13T12:22:12.455840+00:00",
+ "updated": "2026-11-14T07:13:30.386991+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -47,12 +47,19 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1670785/plate-7-000-evra-mesecno-tri-evropske-zemlje-traze-radnike-srbije-ovo-zanimanja-koja-najvise-placaju",
    "title": "PLATE I DO 7.000 EVRA MESEČNO: Tri evropske zemlje traže radnike iz Srbije, a ovo su zanimanja koja se najviše plaćaju",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/kultura/ovo-su-glumci-koji-najvise-zaradjuju-na-televiziji-danas/",
+   "title": "Ovo su glumci koji najviše zarađuju na televiziji danas",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Država sa najvišim platama u Evropi traži radnike: Zarada može da dostigne i 7.000 evra mesečno",
   "Država sa najvišim platama u Evropi očajnički traži radnike: Zarade dostižu i 7.000 evra mesečno",
-  "PLATE I DO 7.000 EVRA MESEČNO: Tri evropske zemlje traže radnike iz Srbije, a ovo su zanimanja koja se najviše plaćaju"
+  "PLATE I DO 7.000 EVRA MESEČNO: Tri evropske zemlje traže radnike iz Srbije, a ovo su zanimanja koja se najviše plaćaju",
+  "Ovo su glumci koji najviše zarađuju na televiziji danas"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "local": true,
   "alt": "Luksemburg olakšava zapošljavanje stranaca za 20 deficitarnih zanimanja"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

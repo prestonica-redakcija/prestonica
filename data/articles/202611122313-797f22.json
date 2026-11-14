@@ -35,7 +35,7 @@
  ],
  "importance": 5,
  "published": "2026-11-12T22:13:42.855898+00:00",
- "updated": "2026-11-13T07:54:24.252839+00:00",
+ "updated": "2026-11-14T07:13:30.386991+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -54,12 +54,19 @@
    "url": "https://nova.rs/vesti/svet/dodik-medju-kandidatima-za-predsednika-nove-vlade-republike-srpske-i-moj-sin-igor/",
    "title": "Dodik: Među kandidatima za predsednika nove Vlade Republike Srpske i moj sin Igor",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/od-americke-crne-liste-do-premijerske-fotelje-ko-je-igor-dodik-kandidat-za-sefa-vlade-rs/",
+   "title": "Od američke crne liste do premijerske fotelje: Ko je Igor Dodik, kandidat za šefa Vlade RS",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Dodik: Među kandidatima za premijera Republike Srpske i moj sin Igor",
   "Dodik: Među kandidatima za predsednika nove Vlade Republike Srpske i moj sin Igor",
-  "Dodik: Među kandidatima za predsednika nove Vlade Republike Srpske i moj sin Igor"
+  "Dodik: Među kandidatima za predsednika nove Vlade Republike Srpske i moj sin Igor",
+  "Od američke crne liste do premijerske fotelje: Ko je Igor Dodik, kandidat za šefa Vlade RS"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "osoba": "Milorad Dodik",
   "alt": "Dodik: Među kandidatima za premijera Republike Srpske i njegov sin Igor"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
