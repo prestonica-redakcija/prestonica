@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T11:37:37.701046+00:00",
- "updated": "2026-11-14T07:58:08.762756+00:00",
+ "updated": "2026-11-14T19:07:47.024800+00:00",
  "sources": [
   {
    "name": "N1",
@@ -53,13 +53,27 @@
    "url": "https://biznis.telegraf.rs/info-biz/4432876-pocela-isplata-novca-klijentima-alta-banke-evo-koliko-je-ljudi-vec-dobilo-svoje-depozite",
    "title": "Počela isplata novca klijentima Alta banke: Evo koliko je ljudi već dobilo svoje depozite",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/297819/banka-postanska-stedionica-isplaceno-vise-od-sedam-odsto-sredstava-klijentima-alta-banke/vest",
+   "title": "Banka Poštanska štedionica: Isplaćeno više od sedam odsto sredstava klijentima Alta banke",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/285028/isplaceno-vise-od-sedam-odsto-sredstava-klijentima-alta-banke/vest",
+   "title": "Isplaćeno više od sedam odsto sredstava klijentima Alta banke",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Ruski državljani u velikom broju došli po svoj novac, gužva ispred Poštanske u Kraljice Marije",
   "BEZ VEĆIH GUŽVI ISPRED EKPOZITURA POŠTANSKE ŠTEDIONICE: Isplata osiguranih depozita klijentima Alta banke teče uredno (FOTO)",
   "Ruski državljani došli po svoj novac, velika gužva ispred Poštanske štedionice",
-  "Počela isplata novca klijentima Alta banke: Evo koliko je ljudi već dobilo svoje depozite"
+  "Počela isplata novca klijentima Alta banke: Evo koliko je ljudi već dobilo svoje depozite",
+  "Banka Poštanska štedionica: Isplaćeno više od sedam odsto sredstava klijentima Alta banke",
+  "Isplaćeno više od sedam odsto sredstava klijentima Alta banke"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,6 +86,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Banka_po%C5%A1tanska_%C5%A1tedionica,_Pan%C4%8Devo.jpg",
   "alt": "Počela isplata osiguranih depozita Alta banke, gužva ispred Poštanske štedionice"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

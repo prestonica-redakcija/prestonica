@@ -37,7 +37,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T10:52:55.361705+00:00",
- "updated": "2026-11-13T13:21:48.977057+00:00",
+ "updated": "2026-11-14T19:07:47.024800+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -50,11 +50,18 @@
    "url": "https://www.euronews.rs/svet/fokus/251908/kriza-u-izraelu-ajzenkot-formira-vladu/vest",
    "title": "Hoće li Netanjahu žrtvovati mir zarad vlasti? Drama u Knesetu i strah od eskalacije na Bliskom istoku",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/netanjahu-pozvao-ajzenkota-u-vladu-nacionalnog-jedinstva-bez-preduslova",
+   "title": "Netanjahu pozvao Ajzenkota u vladu nacionalnog jedinstva, bez preduslova",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Hoće li Netanjahu žrtvovati mir zarad vlasti? Drama u Knesetu i strah od eskalacije na Bliskom istoku",
-  "Hoće li Netanjahu žrtvovati mir zarad vlasti? Drama u Knesetu i strah od eskalacije na Bliskom istoku"
+  "Hoće li Netanjahu žrtvovati mir zarad vlasti? Drama u Knesetu i strah od eskalacije na Bliskom istoku",
+  "Netanjahu pozvao Ajzenkota u vladu nacionalnog jedinstva, bez preduslova"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "osoba": "Benjamin Netanjahu",
   "alt": "Ajzenkot dobio mandat za vladu u Izraelu, Netanjahu predlaže vladu jedinstva"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

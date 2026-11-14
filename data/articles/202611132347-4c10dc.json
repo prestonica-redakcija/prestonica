@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T22:47:31.284862+00:00",
- "updated": "2026-11-14T12:55:47.674622+00:00",
+ "updated": "2026-11-14T19:07:47.024800+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -46,12 +46,19 @@
    "url": "https://n1info.rs/vesti/sneg-pao-na-divcibarama/",
    "title": "Sneg pao na Divčibarama",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4433064-sledece-sedmice-prolecno-vreme-ovaj-dan-bice-najtopliji-temperatura-do-23c-sneg-oko-ovog-datuma-evo-i-gde",
+   "title": "Sledeće sedmice PROLEĆNO vreme! Ovaj dan biće najtopliji, temperatura do 23°C: SNEG oko ovog datuma, evo i gde",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "TARA I ZLATIBOR SE ZABELELI, SNEG PADA I U UŽICU! Vremenski rolerkoster - od prolećne temperature do zimske idile za samo nekoliko sati (FOTO/VIDEO)",
   "Zabelela se Bosna i Hercegovina: Sneg pao u više gradova, a evo kakvo će biti vreme danas",
-  "Sneg pao na Divčibarama"
+  "Sneg pao na Divčibarama",
+  "Sledeće sedmice PROLEĆNO vreme! Ovaj dan biće najtopliji, temperatura do 23°C: SNEG oko ovog datuma, evo i gde"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:U%C5%BEice,_pogled_sa_magistrale.jpg",
   "alt": "Sneg pao u Užicu, zabeleli se Zlatibor i Tara nakon toplog dana"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-14T18:08:19.042509+00:00",
- "updated": "2026-11-14T18:08:19.042509+00:00",
+ "updated": "2026-11-14T19:07:47.024800+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,12 +51,19 @@
    "url": "https://www.telegraf.rs/4433131-vucic-izabran-sam-za-sefa-nase-poslanicke-grupe-u-skupstini-srbije",
    "title": "Vučić: \"Izabran sam za šefa naše poslaničke grupe u Skupštini Srbije\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/vucic-izabran-sam-za-sefa-nase-poslanicke-grupe-u-skupstini-srbije",
+   "title": "Vučić: Izabran sam za šefa naše poslaničke grupe u Skupštini Srbije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Vučić: Izabran sam za šefa naše poslaničke grupe u Skupštini Srbije",
   "Vučić: \"Izabran sam za šefa naše poslaničke grupe u Skupštini Srbije\"",
-  "Vučić: \"Izabran sam za šefa naše poslaničke grupe u Skupštini Srbije\""
+  "Vučić: \"Izabran sam za šefa naše poslaničke grupe u Skupštini Srbije\"",
+  "Vučić: Izabran sam za šefa naše poslaničke grupe u Skupštini Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,5 +74,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučić izabran za šefa poslaničke grupe, naziv grupe biće poznat početkom sedmice"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
