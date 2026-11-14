@@ -32,17 +32,24 @@
  ],
  "importance": 6,
  "published": "2026-11-13T20:03:56.560711+00:00",
- "updated": "2026-11-13T20:03:56.560711+00:00",
+ "updated": "2026-11-14T07:58:08.762756+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1169602/studentska-lista-bia",
    "title": "Gašenje BIA kao prvi cilj plenumaša?! Stručnjaci upozoravaju: Srbiji bi za obnovu službe trebalo 20 godina",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1169751/studentska-lista-bia-vladimir-djukanovic",
+   "title": "\"Studentska lista želi da rasformira BIA!\" Đukanović upozorava: \"Cilj je da Srbija ostane bez zaštite\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Gašenje BIA kao prvi cilj plenumaša?! Stručnjaci upozoravaju: Srbiji bi za obnovu službe trebalo 20 godina"
+  "Gašenje BIA kao prvi cilj plenumaša?! Stručnjaci upozoravaju: Srbiji bi za obnovu službe trebalo 20 godina",
+  "\"Studentska lista želi da rasformira BIA!\" Đukanović upozorava: \"Cilj je da Srbija ostane bez zaštite\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Informer tvrdi da je plenum odlučio da rasformira BIA, sagovornici lista upozoravaju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T06:55:05.526438+00:00",
- "updated": "2026-11-14T07:43:16.069693+00:00",
+ "updated": "2026-11-14T07:58:08.762756+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -134,6 +134,12 @@
    "url": "https://www.telegraf.rs/hi-tech/info-tech/4432873-kolaps-microsoft-servisa-trajao-duze-od-24-sata-evo-sta-je-izazvalo-globalni-haos-stetu-mere-u-milijardama",
    "title": "Kolaps Microsoft servisa trajao duže od 24 sata: Evo šta je izazvalo globalni haos, štetu mere u milijardama",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1671036/microsoft-ponovo-uspostavio-rad-platformi-kolaps-trajao-24-sata-nastao-zbog-tehnickog-problema",
+   "title": "\"MICROSOFT\" PONOVO USPOSTAVIO RAD PLATFORMI: Kolaps trajao 24 sata, nastao zbog tehničkog problema",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -153,7 +159,8 @@
   "KVAR U MAJKROSOFTU: Traje više od 18 sati, pogodio sve od bolnica do aerodroma u više desetina zemalja",
   "Globalni kvar u Majkrosoftu ušao u drugi dan: Stale bolnice, aerodromi, sudovi i škole, oglasila se i kompanija",
   "‘Veoma nam je žao’: Majkrosoftovo izvinjenje zbog prekida u radu servisa",
-  "Kolaps Microsoft servisa trajao duže od 24 sata: Evo šta je izazvalo globalni haos, štetu mere u milijardama"
+  "Kolaps Microsoft servisa trajao duže od 24 sata: Evo šta je izazvalo globalni haos, štetu mere u milijardama",
+  "\"MICROSOFT\" PONOVO USPOSTAVIO RAD PLATFORMI: Kolaps trajao 24 sata, nastao zbog tehničkog problema"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -166,7 +173,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg",
   "alt": "Veliki prekid u radu Microsofta: Outlook i Teams satima nedostupni širom sveta"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-13T15:35:52.267094+00:00",
  "verzija": 4
