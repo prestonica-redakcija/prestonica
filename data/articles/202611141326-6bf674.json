@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-14T12:26:06.820197+00:00",
- "updated": "2026-11-14T12:40:54.901064+00:00",
+ "updated": "2026-11-14T13:10:45.383513+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -43,11 +43,18 @@
    "url": "https://nova.rs/vesti/hronika/vjt-u-beogradu-tvrdi-da-je-najefikasnije-tuzilastvo-u-srbiji-sprema-odgovor-na-izvestaj-komisije/",
    "title": "VJT u Beogradu tvrdi da je najefikasnije tužilaštvo u Srbiji, sprema odgovor na Izveštaj Komisije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/beogradski-vjt-tvrdi-da-je-najefikasnije-tuzilastvo-u-srbiji-najavljuje-odgovor-na-izvestaj-komisije/",
+   "title": "Beogradski VJT tvrdi da je najefikasnije tužilaštvo u Srbiji, najavljuje odgovor na izveštaj Komisije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "VJT u Beogradu tvrdi da je najefikasnije tužilaštvo u Srbiji, sprema odgovor na Izveštaj Komisije",
-  "VJT u Beogradu tvrdi da je najefikasnije tužilaštvo u Srbiji, sprema odgovor na Izveštaj Komisije"
+  "VJT u Beogradu tvrdi da je najefikasnije tužilaštvo u Srbiji, sprema odgovor na Izveštaj Komisije",
+  "Beogradski VJT tvrdi da je najefikasnije tužilaštvo u Srbiji, najavljuje odgovor na izveštaj Komisije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "local": true,
   "alt": "VJT u Beogradu: najefikasnije smo tužilaštvo, spremamo odgovor na izveštaj Komisije"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

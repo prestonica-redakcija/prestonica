@@ -27,7 +27,7 @@
  ],
  "importance": 7,
  "published": "2026-11-13T21:33:05.259057+00:00",
- "updated": "2026-11-14T08:57:38.232948+00:00",
+ "updated": "2026-11-14T13:10:45.383513+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -64,6 +64,12 @@
    "url": "https://aero.telegraf.rs/aerodromi/4432893-poletanja-sirom-sad-obustavljena-na-vise-od-cetiri-sata-faa-otkrila-sta-je-izazvalo-veliki-poremecaj",
    "title": "Poletanja širom SAD obustavljena na više od četiri sata: FAA otkrila šta je izazvalo veliki poremećaj",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10162056/visesatne-obustave-svih-polazaka-otkazano-preko-2-500-letova-u-sad",
+   "title": "HAOS NA AERODROMIMA U AMERICI: Višesatne obustave svih polazaka, otkazano preko 2.500 letova",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -72,7 +78,8 @@
   "Svi letovi u SAD prizemljeni zbog \"vanrednih okolnosti i bezbednosnih razloga\"",
   "PANIKA U AMERICI: Hitna zabrana poletanja svih aviona na celoj teritoriji SAD! Ovo su razlozi!",
   "Nezapamćen haos na američkom nebu: Šta do sada znamo o problemu koji je prizemljio letove u čitavoj zemlji?",
-  "Poletanja širom SAD obustavljena na više od četiri sata: FAA otkrila šta je izazvalo veliki poremećaj"
+  "Poletanja širom SAD obustavljena na više od četiri sata: FAA otkrila šta je izazvalo veliki poremećaj",
+  "HAOS NA AERODROMIMA U AMERICI: Višesatne obustave svih polazaka, otkazano preko 2.500 letova"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -84,8 +91,8 @@
   "local": true,
   "alt": "FAA naredila obustavu svih poletanja u SAD iz bezbednosnih razloga"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-14T08:57:38.232948+00:00",
  "verzija": 2
 }

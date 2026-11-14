@@ -36,7 +36,7 @@
  ],
  "importance": 8,
  "published": "2026-11-13T20:33:40.498022+00:00",
- "updated": "2026-11-14T12:40:54.901064+00:00",
+ "updated": "2026-11-14T13:10:45.383513+00:00",
  "sources": [
   {
    "name": "N1",
@@ -85,6 +85,12 @@
    "url": "https://nova.rs/vesti/hronika/vjt-u-nisu-uhapsena-sedmorica-policajaca-iz-bora-zbog-mucenja-osumnjicenih-za-ubistvo-danke-ilic/",
    "title": "VJT u Nišu: Uhapšena sedmorica policajaca iz Bora zbog mučenja osumnjičenih za ubistvo Danke Ilić",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4432989-uhapseni-policajci-iz-bora-osumnjiceni-za-mucenje-optuzenih-za-smrt-danke-ilic",
+   "title": "Uhapšeni policajci iz Bora osumnjičeni za mučenje optuženih za smrt Danke Ilić",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -95,7 +101,8 @@
   "Uhapšeno još sedam policajaca zbog smrti brata optuženog za ubistvo Danke Ilić",
   "Nova.rs: Uhapšeno još sedam policajaca iz PU Bor zbog smrti Dalibora Dragijevića",
   "VJT u Nišu: Uhapšena sedmorica policajaca iz Bora zbog mučenja osumnjičenih za ubistvo Danke Ilić",
-  "VJT u Nišu: Uhapšena sedmorica policajaca iz Bora zbog mučenja osumnjičenih za ubistvo Danke Ilić"
+  "VJT u Nišu: Uhapšena sedmorica policajaca iz Bora zbog mučenja osumnjičenih za ubistvo Danke Ilić",
+  "Uhapšeni policajci iz Bora osumnjičeni za mučenje optuženih za smrt Danke Ilić"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -107,8 +114,8 @@
   "local": true,
   "alt": "Uhapšeno još sedam policajaca iz Bora zbog smrti Dalibora Dragijevića"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-14T12:40:54.901064+00:00",
  "verzija": 2
 }

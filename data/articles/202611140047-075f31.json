@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T23:47:11.188732+00:00",
- "updated": "2026-11-14T12:55:47.674622+00:00",
+ "updated": "2026-11-14T13:10:45.383513+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -81,6 +81,12 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4432970-sneg-veje-kao-usred-zime-temperatura-u-minusu-pogledajte-snimke-vejavice-ali-i-video-snega-sa-grmljavinom",
    "title": "Sneg veje kao usred zime! Temperatura u minusu: Pogledajte snimke vejavice, ali i video snega sa grmljavinom",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/297711/na-kopaoniku-sneg-temperatura-oko-minus-tri-stepena-u-ostatku-srbije-oko-osam-stepeni/vest",
+   "title": "Na Kopaoniku sneg, temperatura oko minus tri stepena, u ostatku Srbije oko osam stepeni",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -91,7 +97,8 @@
   "Danas osetno hladnije, temperatura do 10 stepeni",
   "Vreme danas: Osetno hladnije, najviše devet stepeni",
   "RHMZ: U Srbiji danas osetno hladnije, temperatura do 10 stepeni",
-  "Sneg veje kao usred zime! Temperatura u minusu: Pogledajte snimke vejavice, ali i video snega sa grmljavinom"
+  "Sneg veje kao usred zime! Temperatura u minusu: Pogledajte snimke vejavice, ali i video snega sa grmljavinom",
+  "Na Kopaoniku sneg, temperatura oko minus tri stepena, u ostatku Srbije oko osam stepeni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -103,8 +110,8 @@
   "local": true,
   "alt": "Hladni front doneo pad temperature od 15 do 20 stepeni, na zapadu Srbije pada sneg"
  },
- "novo_od_pisanja": 2,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-14T06:28:53.076027+00:00",
  "verzija": 2
 }

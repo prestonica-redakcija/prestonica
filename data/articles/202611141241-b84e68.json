@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-14T11:41:26.868148+00:00",
- "updated": "2026-11-14T12:40:54.901064+00:00",
+ "updated": "2026-11-14T13:10:45.383513+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,12 +48,19 @@
    "url": "https://insajder.net/prenosimo/jevtic-nova-vlada-srbije-nece-moci-da-izbegne-saradnju-sa-srpskom-listom-kada-se-suoci-sa-realnim-problemima-srba-na-kim",
    "title": "Jevtić: Nova vlada Srbije neće moći da izbegne saradnju sa Srpskom listom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/297730/odalovic-ako-ne-bude-saradnje-sa-srpskom-listom-gubi-se-kontakt-sa-srbima-na-kim/vest",
+   "title": "Odalović: Ako ne bude saradnje sa Srpskom listom, gubi se kontakt sa Srbima na KiM",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Jevtić: Nesaradnja sa Srpskom listom naneće štetu interesima i opstanku Srba na KiM",
   "Jevtić: Nesaradnja sa Srpskom listom naneće štetu interesima i opstanku Srba na KiM",
-  "Jevtić: Nova vlada Srbije neće moći da izbegne saradnju sa Srpskom listom"
+  "Jevtić: Nova vlada Srbije neće moći da izbegne saradnju sa Srpskom listom",
+  "Odalović: Ako ne bude saradnje sa Srpskom listom, gubi se kontakt sa Srbima na KiM"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Dalibor_Jevtic-mc.rs.jpg",
   "alt": "Jevtić: Nova vlada neće moći bez Srpske liste, razjedinjavanje šteti Srbima na KiM"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
