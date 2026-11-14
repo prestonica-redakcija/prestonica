@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T10:08:15.452290+00:00",
- "updated": "2026-11-14T14:54:43.260500+00:00",
+ "updated": "2026-11-14T15:09:42.068093+00:00",
  "sources": [
   {
    "name": "N1",
@@ -49,11 +49,18 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/252082/bhp-raskinuo-ugovore-za-centralni-timok-i-borsko/vest",
    "title": "Kanadska kompanija Mundoro Capital stekla osam istražnih licenci u istočnoj Srbiji",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/297746/kanadska-kompanija-mundoro-capital-stekla-osam-istraznih-licenci-u-istocnoj-srbiji/vest",
+   "title": "Kanadska kompanija Mundoro Capital stekla osam istražnih licenci u istočnoj Srbiji",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "eKapija: Rudarska kompanija BHP odustala od osam istražnih licenci u istočnoj Srbiji",
   "Rudarski gigant BHP odustao od istraživanja bakra i zlata u istočnoj Srbiji",
+  "Kanadska kompanija Mundoro Capital stekla osam istražnih licenci u istočnoj Srbiji",
   "Kanadska kompanija Mundoro Capital stekla osam istražnih licenci u istočnoj Srbiji"
  ],
  "author": "Redakcija Prestonice",
@@ -66,6 +73,6 @@
   "local": true,
   "alt": "BHP odustao od osam istražnih licenci u istočnoj Srbiji, zadržava dva projekta"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

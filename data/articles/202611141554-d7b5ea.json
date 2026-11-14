@@ -38,17 +38,24 @@
  ],
  "importance": 7,
  "published": "2026-11-14T14:54:43.260500+00:00",
- "updated": "2026-11-14T14:54:43.260500+00:00",
+ "updated": "2026-11-14T15:09:42.068093+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/teme/sofronijevic-za-insajder-vlada-donela-zakljucak-o-raskidu-ugovora-za-generalstab",
    "title": "Sofronijević za Insajder: Vlada donela zaključak o raskidu ugovora za Generalštab",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/sofronijevic-ugovor-kusner-generalstab-raskid/",
+   "title": "Sofronijević: Zaključak o raskidu ugovora sa Kušnerom donet u avgustu, završetak formalizacije iduće nedelje",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Sofronijević za Insajder: Vlada donela zaključak o raskidu ugovora za Generalštab"
+  "Sofronijević za Insajder: Vlada donela zaključak o raskidu ugovora za Generalštab",
+  "Sofronijević: Zaključak o raskidu ugovora sa Kušnerom donet u avgustu, završetak formalizacije iduće nedelje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Nikola_Selakovi%C4%87_in_February_2026_(cropped).jpg",
   "osoba": "Nikola Selaković",
   "alt": "Vlada u avgustu donela zaključak o raskidu ugovora sa Kušnerovom firmom za Generalštab"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

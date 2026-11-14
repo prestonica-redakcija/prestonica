@@ -28,17 +28,24 @@
  ],
  "importance": 4,
  "published": "2026-11-14T13:40:24.733503+00:00",
- "updated": "2026-11-14T13:40:24.733503+00:00",
+ "updated": "2026-11-14T15:09:42.068093+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/beogradski-vodovod-u-toku-normalizacija-snabdevanja-vodom-u-delovima-novog-beograda-zemuna-i-surcina",
    "title": "Beogradski vodovod: U toku normalizacija snabdevanja vodom u delovima Novog Beograda, Zemuna i Surčina",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/beograd/4433031-otklonjen-kvar-normalizacija-vodosnabdevanja-u-opstinama-novi-beograd-i-zemun",
+   "title": "Otklonjen kvar! Normalizacija vodosnabdevanja na Novom Beogradu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Beogradski vodovod: U toku normalizacija snabdevanja vodom u delovima Novog Beograda, Zemuna i Surčina"
+  "Beogradski vodovod: U toku normalizacija snabdevanja vodom u delovima Novog Beograda, Zemuna i Surčina",
+  "Otklonjen kvar! Normalizacija vodosnabdevanja na Novom Beogradu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:FAP_2022_BK_JKP_Beogradski_vodovod_i_kanalizacija.jpg",
   "alt": "Normalizacija vodosnabdevanja u delovima Novog Beograda, Zemuna i Surčina nakon kvara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

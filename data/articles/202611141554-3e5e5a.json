@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-14T14:54:43.260500+00:00",
- "updated": "2026-11-14T14:54:43.260500+00:00",
+ "updated": "2026-11-14T15:09:42.068093+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://www.kurir.rs/planeta/10162131/dva-vatrogasca-poginula-pozar-atina-urusavanje-zgrade",
    "title": "ZGRADA SE URUŠILA NA VATROGASCE, DVOJICA POGINULA: Tragedija tokom gašenja požara kod Atine, ima i povređenih",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4433017-zgrada-se-obrusila-na-vatrogasce-dvojica-izgubila-zivot-tragedija-kod-atine",
+   "title": "Zgrada se obrušila na vatrogasce, dvojica izgubila život: Tragedija kod Atine",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Dva vatrogasca poginula u urušavanju zgrade tokom gašenja požara u Grčkoj",
-  "ZGRADA SE URUŠILA NA VATROGASCE, DVOJICA POGINULA: Tragedija tokom gašenja požara kod Atine, ima i povređenih"
+  "ZGRADA SE URUŠILA NA VATROGASCE, DVOJICA POGINULA: Tragedija tokom gašenja požara kod Atine, ima i povređenih",
+  "Zgrada se obrušila na vatrogasce, dvojica izgubila život: Tragedija kod Atine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Atina%27da_g%C3%BCn_bat%C4%B1m%C4%B1.jpg",
   "alt": "Dva vatrogasca poginula kod Atine kada se urušila zgrada u kojoj je gorelo"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
