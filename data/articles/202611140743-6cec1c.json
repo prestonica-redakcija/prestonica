@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-14T06:43:55.072383+00:00",
- "updated": "2026-11-14T06:43:55.072383+00:00",
+ "updated": "2026-11-14T08:27:55.345332+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,11 +46,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4432865-uklonjena-bomba-u-dablinu-bila-je-blizu-mesta-gde-je-odrzana-vecera-u-okviru-samita-eu",
    "title": "Uklonjena bomba u Dablinu, bila je blizu mesta gde je održana večera u okviru samita EU",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/irska-policija-uklonjena-bomba-u-dablinu-blizu-mesta-gde-je-odrzana-vecera-u-okviru-samita-eu",
+   "title": "Irska policija: Uklonjena bomba u Dablinu, blizu mesta gde je održana večera u okviru samita EU",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Uklonjena bomba u Dablinu, blizu mesta gde je održana večera u okviru samita EU",
-  "Uklonjena bomba u Dablinu, bila je blizu mesta gde je održana večera u okviru samita EU"
+  "Uklonjena bomba u Dablinu, bila je blizu mesta gde je održana večera u okviru samita EU",
+  "Irska policija: Uklonjena bomba u Dablinu, blizu mesta gde je održana večera u okviru samita EU"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:D%C4%85blin_Monument.JPG",
   "alt": "U Dablinu uklonjena eksplozivna naprava blizu mesta večere lidera na samitu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

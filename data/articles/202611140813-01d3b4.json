@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-14T07:13:30.386991+00:00",
- "updated": "2026-11-14T07:58:08.762756+00:00",
+ "updated": "2026-11-14T08:27:55.345332+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -62,6 +62,12 @@
    "url": "https://www.kurir.rs/planeta/10161808/rubio-nema-potrebe-za-daljim-napadima-na-iran",
    "title": "RUBIO: Nema potrebe za daljim napadima na Iran, ekonomske posledice su već dovoljno teške",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/rubio-nema-potrebe-za-daljim-napadima-na-iran-vasington-ih-je-vec-ekonomski-slomio",
+   "title": "Rubio: Nema potrebe za daljim napadima na Iran, Vašington ih je već ekonomski slomio",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -69,7 +75,8 @@
   "Rubio: Nema potrebe za daljim napadima na Iran",
   "Rubio tvrdi da SAD ne moraju ponovo vojno da udare na Iran: \"Prava pobeda je da nikada ne dođu do nuklearnog oružja\"",
   "RUBIO: Nema potrebe za daljim napadima na Iran",
-  "RUBIO: Nema potrebe za daljim napadima na Iran, ekonomske posledice su već dovoljno teške"
+  "RUBIO: Nema potrebe za daljim napadima na Iran, ekonomske posledice su već dovoljno teške",
+  "Rubio: Nema potrebe za daljim napadima na Iran, Vašington ih je već ekonomski slomio"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -81,6 +88,6 @@
   "local": true,
   "alt": "Rubio: dalja vojna akcija protiv Irana nije potrebna, prava pobeda je sprečavanje nuklearnog oružja"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

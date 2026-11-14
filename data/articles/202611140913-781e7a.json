@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-14T08:13:11.892749+00:00",
- "updated": "2026-11-14T08:13:11.892749+00:00",
+ "updated": "2026-11-14T08:27:55.345332+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -53,13 +53,34 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1671043/oglasila-banka-postanska-stedionica-isplaceni-svi-zakazani-klijenti-alta-banke-poslednji-deponent-usluzen-pred-ponoc",
    "title": "OGLASILA SE BANKA POŠTANSKA ŠTEDIONICA: Isplaćeni svi zakazani klijenti Alta banke, poslednji deponent uslužen pred ponoć",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/banka-postanska-stedionica-isplaceni-u-petak-svi-zakazani-klijenti-alta-banke-poslednja-isplata-u-2347-sati",
+   "title": "BPŠ: U petak isplaćeni svi zakazani klijenti Alta banke u stečaju, danas nastavak isključivo za termine zakazane za subotu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/284882/isplaceni-u-petak-svi-zakazani-klijenti-alta-banke/vest",
+   "title": "Oglasila se Banka Poštanska štedionica: Isplaćeni u petak svi zakazani klijenti Alta banke",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/postanska-stedionica-prvog-dana-isplaceni-svi-klijenti-alta-banke-sa-zakazanim-terminima/",
+   "title": "Poštanska štedionica: Prvog dana isplaćeni svi klijenti Alta banke sa zakazanim terminima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Ivan Bojičić: U petak isplaćeno nešto manje od 1.300 deponenata Alta banke u stečaju",
   "Banka Poštanska štedionica: Isplaćeni u petak svi zakazani klijenti Alta banke, poslednja isplata u 23.47 časova",
   "Nastavlja se isplata klijentima Alta banke u stečaju: Termin do sada zakazalo 17.193 deponenata",
-  "OGLASILA SE BANKA POŠTANSKA ŠTEDIONICA: Isplaćeni svi zakazani klijenti Alta banke, poslednji deponent uslužen pred ponoć"
+  "OGLASILA SE BANKA POŠTANSKA ŠTEDIONICA: Isplaćeni svi zakazani klijenti Alta banke, poslednji deponent uslužen pred ponoć",
+  "BPŠ: U petak isplaćeni svi zakazani klijenti Alta banke u stečaju, danas nastavak isključivo za termine zakazane za subotu",
+  "Oglasila se Banka Poštanska štedionica: Isplaćeni u petak svi zakazani klijenti Alta banke",
+  "Poštanska štedionica: Prvog dana isplaćeni svi klijenti Alta banke sa zakazanim terminima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,5 +91,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Isplata deponenata Alta banke u stečaju se nastavlja, termin zakazalo 17.193 klijenta"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

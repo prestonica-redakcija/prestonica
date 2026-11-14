@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T23:32:17.971916+00:00",
- "updated": "2026-11-14T08:13:11.892749+00:00",
+ "updated": "2026-11-14T08:27:55.345332+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -68,6 +68,18 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/297684/vitezi-odlaze-se-uspostavljanje-putnickog-saobracaja-na-pruzi-beograd-budimpesta/vest",
    "title": "Vitezi: Odlaže se uspostavljanje putničkog saobraćaja na pruzi Beograd-Budimpešta",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/vitezi-odlozen-pocetak-putnickog-saobracaja-na-pruzi-budimpesta-beograd-otkrivene-softverske-greske",
+   "title": "Vitezi: Odložen početak putničkog saobraćaja na pruzi Budimpešta–Beograd, otkrivene softverske greške",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/284881/vitezi-odlaze-se-uspostavljanje-putnickog-saobracaja-na-pruzi-beograd-budimpesta/vest",
+   "title": "Odlaže se uspostavljanje putničkog saobraćaja na pruzi Beograd-Budimpešta: Ovo je razlog",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -76,7 +88,9 @@
   "Ponovo se odlaže puštanje u saobraćaj brze pruge do Budimpešte: Softverska greška mora da bude ispravljena",
   "ODLAŽE PUŠTANjE U SAOBRAĆAJ BRZE PRUGE DO BUDIMPEŠTE: Softverska greška mora da bude ispravljena",
   "Odložen početak putničkog saobraćaja na pruzi Budimpešta–Beograd, otkrivene softverske greške",
-  "Vitezi: Odlaže se uspostavljanje putničkog saobraćaja na pruzi Beograd-Budimpešta"
+  "Vitezi: Odlaže se uspostavljanje putničkog saobraćaja na pruzi Beograd-Budimpešta",
+  "Vitezi: Odložen početak putničkog saobraćaja na pruzi Budimpešta–Beograd, otkrivene softverske greške",
+  "Odlaže se uspostavljanje putničkog saobraćaja na pruzi Beograd-Budimpešta: Ovo je razlog"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -88,8 +102,8 @@
   "local": true,
   "alt": "Ponovo odložen početak putničkog saobraćaja na pruzi Budimpešta–Beograd"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-14T07:58:08.762756+00:00",
  "verzija": 2
 }

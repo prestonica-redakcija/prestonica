@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T12:07:30.942141+00:00",
- "updated": "2026-11-13T12:07:30.942141+00:00",
+ "updated": "2026-11-14T08:27:55.345332+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -51,12 +51,19 @@
    "url": "https://www.telegraf.rs/vesti/svet/4432439-iran-upozorava-na-snazan-odgovor-na-svaku-novu-pretnju",
    "title": "Iran tvrdi da ima izuzetno razorno oružje u svom arsenalu: Bojeve glave od dve tone i dometom od 1.500 km!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/252010/kriza-na-bliskom-istoku-najnovije-vesti-za-14-novembar/vest",
+   "title": "KRIZA NA BLISKOM ISTOKU Još jedan tanker u plamenu nakon naleta na minu, Iran preti raketama dometa 1.500 km",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "KRIZA NA BLISKOM ISTOKU Iran raspolaže raketama sa bojevim glavama od dve tone i dometom od 1.500 km, saopštila IRGC",
   "\"Lansiramo rakete sa bojevim glavama od dve tone\"; Amerikanci, pogođeni ste FOTO",
-  "Iran tvrdi da ima izuzetno razorno oružje u svom arsenalu: Bojeve glave od dve tone i dometom od 1.500 km!"
+  "Iran tvrdi da ima izuzetno razorno oružje u svom arsenalu: Bojeve glave od dve tone i dometom od 1.500 km!",
+  "KRIZA NA BLISKOM ISTOKU Još jedan tanker u plamenu nakon naleta na minu, Iran preti raketama dometa 1.500 km"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,5 +74,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Zamenik komandanta IRGC tvrdi da Iran gađa ciljeve na 1.500 km raketama od dve tone"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

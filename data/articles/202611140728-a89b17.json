@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-14T06:28:53.076027+00:00",
- "updated": "2026-11-14T06:28:53.076027+00:00",
+ "updated": "2026-11-14T08:27:55.345332+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,11 +47,32 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4432857-srpski-putevi-pod-snegom-ovo-su-deonice-na-kojima-je-potrebna-paznja-ima-i-magle",
    "title": "Srpski putevi pod snegom: Ovo su deonice na kojima je potrebna pažnja, ima i magle",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/putevi-srbije-sneg-do-pet-centimetara-na-putevima-u-zapadnoj-srbiji-oprez-zbog-magle-odrona-i-moguce-poledice",
+   "title": "Putevi Srbije: Sneg do pet centimetara na putevima u zapadnoj Srbiji, oprez zbog magle, odrona i moguće poledice",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/amss-upozorio-na-mokre-kolovoze-maglu-i-odrone/",
+   "title": "AMSS upozorio na mokre kolovoze, maglu i odrone",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/amss-upozorio-na-mokre-kolovoze-maglu-i-odrone/",
+   "title": "AMSS upozorio na mokre kolovoze, maglu i odrone",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Putevi Srbije: Sneg do pet centimetara i vlažni kolovozi na nekim deonicama, magla i poledica",
-  "Srpski putevi pod snegom: Ovo su deonice na kojima je potrebna pažnja, ima i magle"
+  "Srpski putevi pod snegom: Ovo su deonice na kojima je potrebna pažnja, ima i magle",
+  "Putevi Srbije: Sneg do pet centimetara na putevima u zapadnoj Srbiji, oprez zbog magle, odrona i moguće poledice",
+  "AMSS upozorio na mokre kolovoze, maglu i odrone",
+  "AMSS upozorio na mokre kolovoze, maglu i odrone"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +83,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Putevi Srbije: sneg do pet centimetara na deonicama u zapadnoj Srbiji, mestimično magla i poledica"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

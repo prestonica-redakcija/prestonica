@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T08:09:16.680226+00:00",
- "updated": "2026-11-13T13:21:48.977057+00:00",
+ "updated": "2026-11-14T08:27:55.345332+00:00",
  "sources": [
   {
    "name": "N1",
@@ -58,6 +58,12 @@
    "url": "https://insajder.net/prenosimo/bez-skupstine-fss-fifa-i-uefa-ocenile-da-nisu-ispunjeni-uslovi-za-njeno-odrzavanje",
    "title": "Bez Skupštine FSS: FIFA i UEFA ocenile da nisu ispunjeni uslovi za njeno održavanje",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/sport/fudbal/testament-srpskog-fudbala/",
+   "title": "Testament srpskog fudbala",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -65,7 +71,8 @@
   "Dopis poslali generalni sekretari FIFA i UEFA: Otkazana konstitutivna sednica Fudbalskog saveza Srbije",
   "Nezapamćeno rasulo u srpskom fudbalu: FSS otkazao sednicu Skupštine, UEFA i FIFA rekli da nisu ispunjeni uslovi",
   "Oglasio se FSS, otkrio dalje korake nakon otkazivanja Skupštine: \"Nisu ispunjeni uslovi, UEFA i FIFA će...\"",
-  "Bez Skupštine FSS: FIFA i UEFA ocenile da nisu ispunjeni uslovi za njeno održavanje"
+  "Bez Skupštine FSS: FIFA i UEFA ocenile da nisu ispunjeni uslovi za njeno održavanje",
+  "Testament srpskog fudbala"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +84,6 @@
   "local": true,
   "alt": "Četvrti put otkazana konstitutivna sednica Skupštine FSS, FIFA i UEFA: nema uslova"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
