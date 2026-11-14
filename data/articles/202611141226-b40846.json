@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-14T11:26:31.676479+00:00",
- "updated": "2026-11-14T12:40:54.901064+00:00",
+ "updated": "2026-11-14T13:25:33.311736+00:00",
  "sources": [
   {
    "name": "N1",
@@ -52,13 +52,20 @@
    "url": "https://n1info.rs/vesti/ministarstvo-direktorka-donela-odluku-o-iseljenju-klinike/",
    "title": "Ministarstvo zdravlja: Direktorka sama donela odluku o iseljenju Klinike za neurologiju i psihijatriju za decu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4432994-ministarstvo-zdravlja-se-oglasilo-o-izmestanju-pacijenata-sa-klinike-za-deciju-psihijatriju",
+   "title": "Ministarstvo zdravlja se oglasilo o izmeštanju pacijenata sa Klinike za dečiju psihijatriju",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Zbog havarije na Klinici za neurologiju i psihijatriju za decu i omladinu, otpušteni i premešteni svi pacijenti, osim K.K.",
   "Havarija u Klinici za neurologiju i psihijatriju za decu i omladinu: Svi pacijenti, osim K. K., otpušteni ili premešteni u \"Lazu Lazarevića\"",
   "\"Direktorka je sama donela odluku, nismo imali nikakav uvid\": Ministarstvo zdravlja odgovorilo na pitanja Nova.rs povodom iseljavanja pacijenata iz Klinike za neurologiju i psihijatriju za decu i omladinu",
-  "Ministarstvo zdravlja: Direktorka sama donela odluku o iseljenju Klinike za neurologiju i psihijatriju za decu"
+  "Ministarstvo zdravlja: Direktorka sama donela odluku o iseljenju Klinike za neurologiju i psihijatriju za decu",
+  "Ministarstvo zdravlja se oglasilo o izmeštanju pacijenata sa Klinike za dečiju psihijatriju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Gedenktafel_Schumannstr_15_(Mitte)_Laza_Lazarevi%C4%87.jpg",
   "alt": "Klinika za neurologiju i psihijatriju za decu i omladinu ispražnjena zbog havarije"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

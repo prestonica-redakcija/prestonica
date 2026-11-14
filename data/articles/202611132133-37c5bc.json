@@ -36,7 +36,7 @@
  ],
  "importance": 8,
  "published": "2026-11-13T20:33:40.498022+00:00",
- "updated": "2026-11-14T13:10:45.383513+00:00",
+ "updated": "2026-11-14T13:25:33.311736+00:00",
  "sources": [
   {
    "name": "N1",
@@ -91,6 +91,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4432989-uhapseni-policajci-iz-bora-osumnjiceni-za-mucenje-optuzenih-za-smrt-danke-ilic",
    "title": "Uhapšeni policajci iz Bora osumnjičeni za mučenje optuženih za smrt Danke Ilić",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/297736/uhapseni-policajci-iz-bora-osumnjiceni-za-mucenje-optuzenih-za-smrt-danke-ilic/vest",
+   "title": "Uhapšeni policajci iz Bora osumnjičeni za mučenje optuženih za smrt Danke Ilić",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/vjt-uhapseni-policajci-mucenje-osumnjiceni-danka-ilic-ubistvo/",
+   "title": "VJT: Uhapšeno sedam policajaca zbog sumnje da su mučili osumnjičene za ubistvo Danke Ilić",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -102,7 +114,9 @@
   "Nova.rs: Uhapšeno još sedam policajaca iz PU Bor zbog smrti Dalibora Dragijevića",
   "VJT u Nišu: Uhapšena sedmorica policajaca iz Bora zbog mučenja osumnjičenih za ubistvo Danke Ilić",
   "VJT u Nišu: Uhapšena sedmorica policajaca iz Bora zbog mučenja osumnjičenih za ubistvo Danke Ilić",
-  "Uhapšeni policajci iz Bora osumnjičeni za mučenje optuženih za smrt Danke Ilić"
+  "Uhapšeni policajci iz Bora osumnjičeni za mučenje optuženih za smrt Danke Ilić",
+  "Uhapšeni policajci iz Bora osumnjičeni za mučenje optuženih za smrt Danke Ilić",
+  "VJT: Uhapšeno sedam policajaca zbog sumnje da su mučili osumnjičene za ubistvo Danke Ilić"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -114,8 +128,8 @@
   "local": true,
   "alt": "Uhapšeno još sedam policajaca iz Bora zbog smrti Dalibora Dragijevića"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-14T12:40:54.901064+00:00",
  "verzija": 2
 }
