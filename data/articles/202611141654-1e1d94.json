@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-14T15:54:19.911335+00:00",
- "updated": "2026-11-14T15:54:19.911335+00:00",
+ "updated": "2026-11-14T16:38:51.082216+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,18 @@
    "url": "https://nova.rs/vesti/biznis/studentski-pokret-subvencije-moraju-da-se-plate/",
    "title": "Studentski pokret: Subvencije moraju da se plate",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/studentski-pokret-odgovorio-ministru-u-tehnickom-mandatu-glamocicu-odluke-o-subvencijama-moraju-se-sprovoditi-po-utvrdenom-kalendaru",
+   "title": "Studentski pokret odgovorio ministru u tehničkom mandatu Glamočiću: Odluke o subvencijama moraju se sprovoditi po utvrđenom kalendaru",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Studentski pokret reaguje na Glamočića: Subvencije moraju biti isplaćene",
-  "Studentski pokret: Subvencije moraju da se plate"
+  "Studentski pokret: Subvencije moraju da se plate",
+  "Studentski pokret odgovorio ministru u tehničkom mandatu Glamočiću: Odluke o subvencijama moraju se sprovoditi po utvrđenom kalendaru"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Studentski pokret: Subvencije za ratare moraju biti isplaćene uprkos tehničkom mandatu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

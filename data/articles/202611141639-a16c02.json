@@ -34,7 +34,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T15:39:33.565169+00:00",
- "updated": "2026-11-14T15:39:33.565169+00:00",
+ "updated": "2026-11-14T16:38:51.082216+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,11 +47,18 @@
    "url": "https://nova.rs/vesti/svet/aviosaobracaj-u-sad-se-normalizuje-posle-otkazivanja-vise-od-2000-letova-zbog-kvara-sistema-komunikacija/",
    "title": "Aviosaobraćaj u SAD se normalizuje posle otkazivanja više od 2.000 letova zbog kvara sistema komunikacija",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/252092/sad-posle-kvara-faa-otkazano-vise-od-12500-letova/vest",
+   "title": "Avio-saobraćaj u SAD postepeno se normalizuje nakon masovnih otkazivanja letova",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Avio-saobraćaj u SAD postepeno se normalizuje nakon masovnih otkazivanja letova",
-  "Aviosaobraćaj u SAD se normalizuje posle otkazivanja više od 2.000 letova zbog kvara sistema komunikacija"
+  "Aviosaobraćaj u SAD se normalizuje posle otkazivanja više od 2.000 letova zbog kvara sistema komunikacija",
+  "Avio-saobraćaj u SAD postepeno se normalizuje nakon masovnih otkazivanja letova"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Avio-saobraćaj u SAD se vraća u normalu, brojke o otkazanim letovima se razlikuju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

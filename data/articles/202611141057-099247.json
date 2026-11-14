@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T09:57:14.437650+00:00",
- "updated": "2026-11-14T14:10:23.845554+00:00",
+ "updated": "2026-11-14T16:38:51.082216+00:00",
  "sources": [
   {
    "name": "N1",
@@ -74,6 +74,12 @@
    "url": "https://n1info.rs/region/video-advokat-bivseg-orbanovog-ministra-tvrdi-da-zakopani-novac-ne-pripada-njegovom-klijentu/",
    "title": "(VIDEO) Advokat bivšeg Orbanovog ministra tvrdi da zakopani novac ne pripada njegovom klijentu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/bbc-news-serbian/madjarska-pronasla-blizu-20-miliona-dolara-tokom-istrage-bivseg-orbanovog-ministra/",
+   "title": "Mađarska pronašla blizu 20 miliona dolara tokom istrage bivšeg Orbanovog ministra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -83,7 +89,8 @@
   "Pronađeno gotovo 20 miliona dolara u gotovini u istrazi protiv Orbanovog ministra",
   "Ko je sakrio milijarde koje su pronađene zakopane u šumi? Velika misterija u istrazi protiv Orbanovog ministra",
   "Istraga protiv bivšeg ministra u Orbanovoj vladi: Mađarske vlasti pronašle gotovo 20 miliona dolara u gotovini, deo bio zakopan u šumama",
-  "(VIDEO) Advokat bivšeg Orbanovog ministra tvrdi da zakopani novac ne pripada njegovom klijentu"
+  "(VIDEO) Advokat bivšeg Orbanovog ministra tvrdi da zakopani novac ne pripada njegovom klijentu",
+  "Mađarska pronašla blizu 20 miliona dolara tokom istrage bivšeg Orbanovog ministra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -96,8 +103,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_and_Viktor_Orb%C3%A1n_(2016-02-17)_11.jpg",
   "alt": "U istrazi protiv bivšeg Orbanovog ministra zaplenjeno 19,5 miliona dolara gotovine"
  },
- "novo_od_pisanja": 1,
- "boost": 1.48,
+ "novo_od_pisanja": 2,
+ "boost": 1.56,
  "prepisano": "2026-11-14T10:56:44.442500+00:00",
  "verzija": 2
 }
