@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T10:08:15.452290+00:00",
- "updated": "2026-11-13T11:22:43.987932+00:00",
+ "updated": "2026-11-14T14:54:43.260500+00:00",
  "sources": [
   {
    "name": "N1",
@@ -43,11 +43,18 @@
    "url": "https://www.danas.rs/vesti/ekonomija/rudarski-gigant-bhp-odustao-od-istrazivanja-bakra-i-zlata-u-istocnoj-srbiji/",
    "title": "Rudarski gigant BHP odustao od istraživanja bakra i zlata u istočnoj Srbiji",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/252082/bhp-raskinuo-ugovore-za-centralni-timok-i-borsko/vest",
+   "title": "Kanadska kompanija Mundoro Capital stekla osam istražnih licenci u istočnoj Srbiji",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "eKapija: Rudarska kompanija BHP odustala od osam istražnih licenci u istočnoj Srbiji",
-  "Rudarski gigant BHP odustao od istraživanja bakra i zlata u istočnoj Srbiji"
+  "Rudarski gigant BHP odustao od istraživanja bakra i zlata u istočnoj Srbiji",
+  "Kanadska kompanija Mundoro Capital stekla osam istražnih licenci u istočnoj Srbiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "local": true,
   "alt": "BHP odustao od osam istražnih licenci u istočnoj Srbiji, zadržava dva projekta"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

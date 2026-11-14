@@ -33,17 +33,24 @@
  ],
  "importance": 4,
  "published": "2026-11-14T13:55:13.517072+00:00",
- "updated": "2026-11-14T13:55:13.517072+00:00",
+ "updated": "2026-11-14T14:54:43.260500+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/politika/oglasio-se-dragan-djilas-napada-me-nepostojeci-sindikat-ciji-je-vodja-dugogodisnji-clan-sns-a-iz-ssp-je-iskljucen-jer-je-vredjao-zene-na-drustvenim-mrezama/",
    "title": "Oglasio se Dragan Đilas: Napada me nepostojeći sindikat čiji je vođa dugogodišnji član SNS, a iz SSP je isključen jer je vređao žene na društvenim mrežama",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10162106/novi-rat-dragan-djilas-nebojsa-aleksic",
+   "title": "HAOS ZBOG KRITIKE STUDENATA! Đilasa prozvao Nebojša Aleksić, lider SSP odgovorio: \"Napada me nepostojeći sindikat čiji je VOĐA DUGOGODIŠNJI ČLAN SNS\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Oglasio se Dragan Đilas: Napada me nepostojeći sindikat čiji je vođa dugogodišnji član SNS, a iz SSP je isključen jer je vređao žene na društvenim mrežama"
+  "Oglasio se Dragan Đilas: Napada me nepostojeći sindikat čiji je vođa dugogodišnji član SNS, a iz SSP je isključen jer je vređao žene na društvenim mrežama",
+  "HAOS ZBOG KRITIKE STUDENATA! Đilasa prozvao Nebojša Aleksić, lider SSP odgovorio: \"Napada me nepostojeći sindikat čiji je VOĐA DUGOGODIŠNJI ČLAN SNS\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Dragan_%C4%90ilas_na_konvenciji_u_Beogradi.jpg",
   "alt": "Đilas: Nisam napadao studente, pitao sam ko je bio na sastanku sa Martom Kos"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

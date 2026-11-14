@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-14T11:41:26.868148+00:00",
- "updated": "2026-11-14T13:25:33.311736+00:00",
+ "updated": "2026-11-14T14:54:43.260500+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -62,6 +62,12 @@
    "url": "https://www.kurir.rs/vesti/politika/10162036/moze-li-doci-do-saradnje-studentske-i-srpske-liste",
    "title": "MOGU LI SARAĐIVATI STUDENTSKA I SRPSKA LISTA? \"Političko razjedinjavanje ugrozilo bi opstanak Srba na KiM, saradnja je neizbežna\" (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/297750/drecun-veza-srpske-liste-i-vlade-u-beogradu-od-vitalnog-znacaja-za-opstanak-srba-na-kim/vest",
+   "title": "Drecun: Veza Srpske liste i vlade u Beogradu od vitalnog značaja za opstanak Srba na KiM",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -69,7 +75,8 @@
   "Jevtić: Nesaradnja sa Srpskom listom naneće štetu interesima i opstanku Srba na KiM",
   "Jevtić: Nova vlada Srbije neće moći da izbegne saradnju sa Srpskom listom",
   "Odalović: Ako ne bude saradnje sa Srpskom listom, gubi se kontakt sa Srbima na KiM",
-  "MOGU LI SARAĐIVATI STUDENTSKA I SRPSKA LISTA? \"Političko razjedinjavanje ugrozilo bi opstanak Srba na KiM, saradnja je neizbežna\" (VIDEO)"
+  "MOGU LI SARAĐIVATI STUDENTSKA I SRPSKA LISTA? \"Političko razjedinjavanje ugrozilo bi opstanak Srba na KiM, saradnja je neizbežna\" (VIDEO)",
+  "Drecun: Veza Srpske liste i vlade u Beogradu od vitalnog značaja za opstanak Srba na KiM"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -82,8 +89,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Dalibor_Jevtic-mc.rs.jpg",
   "alt": "Jevtić: Nova vlada neće moći bez Srpske liste, razjedinjavanje šteti Srbima na KiM"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-14T13:25:33.311736+00:00",
  "verzija": 2
 }

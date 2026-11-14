@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-14T11:26:31.676479+00:00",
- "updated": "2026-11-14T14:25:03.666886+00:00",
+ "updated": "2026-11-14T14:54:43.260500+00:00",
  "sources": [
   {
    "name": "N1",
@@ -63,6 +63,12 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/297749/ministarstvo-odluku-o-iseljavanju-donela-direktorka-na-osnovu-sopstvene-procene/vest",
    "title": "Ministarstvo: Odluku o iseljavanju donela direktorka, na osnovu sopstvene procene",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/284975/ministarstvo-zdravlja-odluku-o-iseljavanju-donela-direktorka-na-osnovu-sopstvene-procene/vest",
+   "title": "Ministarstvo zdravlja: \"Odluku o iseljavanju donela direktorka, na osnovu sopstvene procene\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -71,7 +77,8 @@
   "\"Direktorka je sama donela odluku, nismo imali nikakav uvid\": Ministarstvo zdravlja odgovorilo na pitanja Nova.rs povodom iseljavanja pacijenata iz Klinike za neurologiju i psihijatriju za decu i omladinu",
   "Ministarstvo zdravlja: Direktorka sama donela odluku o iseljenju Klinike za neurologiju i psihijatriju za decu",
   "Ministarstvo zdravlja se oglasilo o izmeštanju pacijenata sa Klinike za dečiju psihijatriju",
-  "Ministarstvo: Odluku o iseljavanju donela direktorka, na osnovu sopstvene procene"
+  "Ministarstvo: Odluku o iseljavanju donela direktorka, na osnovu sopstvene procene",
+  "Ministarstvo zdravlja: \"Odluku o iseljavanju donela direktorka, na osnovu sopstvene procene\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -84,8 +91,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Gedenktafel_Schumannstr_15_(Mitte)_Laza_Lazarevi%C4%87.jpg",
   "alt": "Klinika za neurologiju i psihijatriju za decu i omladinu ispražnjena zbog havarije"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-14T14:25:03.666886+00:00",
  "verzija": 2
 }

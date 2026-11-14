@@ -26,7 +26,7 @@
  ],
  "importance": 5,
  "published": "2026-11-14T13:40:24.733503+00:00",
- "updated": "2026-11-14T14:25:03.666886+00:00",
+ "updated": "2026-11-14T14:54:43.260500+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -39,10 +39,17 @@
    "url": "https://www.tanjug.rs/ekonomija/svet/297740/italija-meta-kaznjena-sa-805-miliona-evra-zbog-pristupa-slikama-korisnika-bez-saglasnosti/vest",
    "title": "Italija: Meta kažnjena sa 805 miliona evra zbog pristupa slikama korisnika bez saglasnosti",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/italija-meta-kaznjena-sa-805-miliona-evra-zbog-pristupa-slikama-korisnika-bez-saglasnosti",
+   "title": "Italija: Meta kažnjena sa 805 miliona evra zbog pristupa slikama korisnika bez saglasnosti",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Italija: Meta kažnjena sa 805 mln evra zbog pristupa slikama korisnika bez saglasnosti",
+  "Italija: Meta kažnjena sa 805 miliona evra zbog pristupa slikama korisnika bez saglasnosti",
   "Italija: Meta kažnjena sa 805 miliona evra zbog pristupa slikama korisnika bez saglasnosti"
  ],
  "author": "Redakcija Prestonice",
@@ -55,6 +62,6 @@
   "local": true,
   "alt": "Italija kaznila Metu sa 805 miliona evra zbog pristupa fotografijama korisnika"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

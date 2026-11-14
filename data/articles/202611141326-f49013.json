@@ -36,7 +36,7 @@
  ],
  "importance": 5,
  "published": "2026-11-14T12:26:06.820197+00:00",
- "updated": "2026-11-14T13:55:13.517072+00:00",
+ "updated": "2026-11-14T14:54:43.260500+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -55,12 +55,26 @@
    "url": "https://www.tanjug.rs/svet/politika/297743/dijaz-kanel-kuba-se-priprema-za-moguci-americki-vojni-napad/vest",
    "title": "Dijaz-Kanel: Kuba se priprema za mogući američki vojni napad",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/dijaz-kanel-kuba-se-priprema-za-mogucnost-americkog-vojnog-napada",
+   "title": "Dijaz-Kanel: Kuba se priprema za mogućnost američkog vojnog napada",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/planeta/252077/dijaz-kanel-kuba-se-priprema-za-mogucu-americku-agresiju/vest",
+   "title": "Kuba se priprema za mogući američki vojni napad: Dijaz-Kanel poručio da su odlučni da odbiju svaku agresiju",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "„Pripremamo se za mogući napad američke vojske“: Kubanski predsednik nakon pretnji Donalda Trampa",
   "KUBA SE SPREMA ZA AMERIČKI NAPAD! Predsednik Dijaz odgovorio na Trampove pretnje: Odlučni smo da odbacimo svaki pokušaj agresije na našu zemlju! (VIDEO)",
-  "Dijaz-Kanel: Kuba se priprema za mogući američki vojni napad"
+  "Dijaz-Kanel: Kuba se priprema za mogući američki vojni napad",
+  "Dijaz-Kanel: Kuba se priprema za mogućnost američkog vojnog napada",
+  "Kuba se priprema za mogući američki vojni napad: Dijaz-Kanel poručio da su odlučni da odbiju svaku agresiju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,6 +86,6 @@
   "local": true,
   "alt": "Dijaz-Kanel: Kuba se priprema za mogući američki napad nakon Trampovih izjava"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
