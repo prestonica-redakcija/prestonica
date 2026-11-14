@@ -27,17 +27,24 @@
  ],
  "importance": 5,
  "published": "2026-11-14T10:56:44.442500+00:00",
- "updated": "2026-11-14T10:56:44.442500+00:00",
+ "updated": "2026-11-14T11:56:23.752030+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/politika/kako-su-potpise-podrske-prikupile-liste-liberalno-zelene-stranke-cale-ovo-je-za-tebe-narodne-stranke-i-stranke-rusko-srpskog-jedinstva/",
    "title": "\"Kako su potpise podrške prikupile liste Liberalno-zelene stranke, \"Ćale ovo je za tebe\", Narodne stranke i Stranke rusko-srpskog jedinstva?\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10161975/ds-sumnjivi-potpisi-podrske-za-pojedine-stranke",
+   "title": "Kako su potpise podrške prikupile liste LIBERALNO-ZELENE STRANKE, \"ĆALE OVO JE ZA TEBE\", NARODNE STRANKE I STRANKE RUSKO-SRPSKOG JEDINSTVA?",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "\"Kako su potpise podrške prikupile liste Liberalno-zelene stranke, \"Ćale ovo je za tebe\", Narodne stranke i Stranke rusko-srpskog jedinstva?\""
+  "\"Kako su potpise podrške prikupile liste Liberalno-zelene stranke, \"Ćale ovo je za tebe\", Narodne stranke i Stranke rusko-srpskog jedinstva?\"",
+  "Kako su potpise podrške prikupile liste LIBERALNO-ZELENE STRANKE, \"ĆALE OVO JE ZA TEBE\", NARODNE STRANKE I STRANKE RUSKO-SRPSKOG JEDINSTVA?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Beogradska DS traži dokumentaciju o overi potpisa podrške izbornim listama"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

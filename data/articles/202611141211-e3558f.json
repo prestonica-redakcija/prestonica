@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-14T11:11:39.945067+00:00",
- "updated": "2026-11-14T11:26:31.676479+00:00",
+ "updated": "2026-11-14T11:56:23.752030+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -42,11 +42,25 @@
    "url": "https://www.tanjug.rs/svet/drustvo/297709/ukmto-pomorski-saobracaj-kroz-ormuz-opao-65-odsto-u-odnosu-na-predratni-period/vest",
    "title": "UKMTO: Pomorski saobraćaj kroz Ormuz opao 65 odsto u odnosu na predratni period",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/britanska-agencija-pomorski-saobracaj-kroz-ormuz-opao-65-odsto-u-odnosu-na-predratni-period",
+   "title": "Britanska agencija: Pomorski saobraćaj kroz Ormuz opao 65 odsto u odnosu na predratni period",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10161985/pomorski-saobracaj-kroz-ormuski-moreuz-opao-za-cak-65-odsto",
+   "title": "SVE SLABIJA PLOVIDBA MOREUZOM: Pomorski saobraćaj kroz Ormuz opao za čak 65 odsto",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "POSLEDICE SUKOBA SA IRANOM: Pomorski saobraćaj kroz Ormuz i dalje 65 odsto ispod predratnog nivoa",
-  "UKMTO: Pomorski saobraćaj kroz Ormuz opao 65 odsto u odnosu na predratni period"
+  "UKMTO: Pomorski saobraćaj kroz Ormuz opao 65 odsto u odnosu na predratni period",
+  "Britanska agencija: Pomorski saobraćaj kroz Ormuz opao 65 odsto u odnosu na predratni period",
+  "SVE SLABIJA PLOVIDBA MOREUZOM: Pomorski saobraćaj kroz Ormuz opao za čak 65 odsto"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +72,6 @@
   "local": true,
   "alt": "Saobraćaj kroz Ormuski moreuz i dalje oko 65 odsto ispod predratnog nivoa"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

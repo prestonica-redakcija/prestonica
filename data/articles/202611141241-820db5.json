@@ -28,17 +28,24 @@
  ],
  "importance": 4,
  "published": "2026-11-14T11:41:26.868148+00:00",
- "updated": "2026-11-14T11:41:26.868148+00:00",
+ "updated": "2026-11-14T11:56:23.752030+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/studenti-studentska-lista-pet-zvezda/",
    "title": "Još jedan diplomatski susret studenta i njihovog kandidata za poslanika: Na redu član Evropskog parlamenta iz italijanske partije Pet zvezda",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10161991/jos-jedan-diplomatski-susret-studentske-liste-dana-u-beogradu-sa-italijanskim-politicarem",
+   "title": "JOŠ JEDAN DIPLOMATSKI SUSRET STUDENTSKE LISTE Evo sa kim se sastaju danas u Beogradu: Član je Evropskog parlamenta iz italijanske partije Pet zvezda",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Još jedan diplomatski susret studenta i njihovog kandidata za poslanika: Na redu član Evropskog parlamenta iz italijanske partije Pet zvezda"
+  "Još jedan diplomatski susret studenta i njihovog kandidata za poslanika: Na redu član Evropskog parlamenta iz italijanske partije Pet zvezda",
+  "JOŠ JEDAN DIPLOMATSKI SUSRET STUDENTSKE LISTE Evo sa kim se sastaju danas u Beogradu: Član je Evropskog parlamenta iz italijanske partije Pet zvezda"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Studenti i kandidat Mario Reljanović sastaju se sa evroposlanikom Pokreta pet zvezda"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

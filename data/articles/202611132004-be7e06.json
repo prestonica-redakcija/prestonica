@@ -27,17 +27,24 @@
  ],
  "importance": 5,
  "published": "2026-11-13T19:04:21.286465+00:00",
- "updated": "2026-11-13T19:04:21.286465+00:00",
+ "updated": "2026-11-14T11:56:23.752030+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1169668/aleksandar-vucic-studentska-lista-eksperiment",
    "title": "\"Čudan eksperiment se sprovodi nad Srbijom\"! Vučić o idejama \"Studentske liste\": Kao da se neko zavitlava sa svima nama (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10161983/aleksandar-vucic-sns-studentska-lista",
+   "title": "\"ČINI MI SE KAO DA SE NEKO ZAVITLAVA SA SVIMA NAMA...\" Vučić o najjačoj vojsci na svetu i lekarima u svakom selu: I jedno i drugo su ordinarne gluposti i laži",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "\"Čudan eksperiment se sprovodi nad Srbijom\"! Vučić o idejama \"Studentske liste\": Kao da se neko zavitlava sa svima nama (VIDEO)"
+  "\"Čudan eksperiment se sprovodi nad Srbijom\"! Vučić o idejama \"Studentske liste\": Kao da se neko zavitlava sa svima nama (VIDEO)",
+  "\"ČINI MI SE KAO DA SE NEKO ZAVITLAVA SA SVIMA NAMA...\" Vučić o najjačoj vojsci na svetu i lekarima u svakom selu: I jedno i drugo su ordinarne gluposti i laži"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučić o idejama Studentske liste: tvrdnje o vojsci i lekarima su laži"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

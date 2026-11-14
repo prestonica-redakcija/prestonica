@@ -32,17 +32,24 @@
  ],
  "importance": 6,
  "published": "2026-11-14T11:11:39.945067+00:00",
- "updated": "2026-11-14T11:11:39.945067+00:00",
+ "updated": "2026-11-14T11:56:23.752030+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10161894/nenad-rasic-studentska-lista-sns",
    "title": "PORAZ SNS-a RAŠIĆ SLAVIO VIŠE NEGO SOPSTVENE POBEDE! Ministar u Kurtijevoj vladi: \"Bezuslovno smo podržali Studentsku listu, spreman sam da dođem u Beograd\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1671118/nenad-rasic-aljbin-kurti-studentska-lista-srbija-najnovije-vesti",
+   "title": "KURTIJEV MINISTAR: Bezuslovno smo podržali Studentsku listu (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "PORAZ SNS-a RAŠIĆ SLAVIO VIŠE NEGO SOPSTVENE POBEDE! Ministar u Kurtijevoj vladi: \"Bezuslovno smo podržali Studentsku listu, spreman sam da dođem u Beograd\""
+  "PORAZ SNS-a RAŠIĆ SLAVIO VIŠE NEGO SOPSTVENE POBEDE! Ministar u Kurtijevoj vladi: \"Bezuslovno smo podržali Studentsku listu, spreman sam da dođem u Beograd\"",
+  "KURTIJEV MINISTAR: Bezuslovno smo podržali Studentsku listu (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Ministar_Nenad_Ra%C5%A1i%C4%87.jpg",
   "alt": "Rašić: Bezuslovno smo podržali Studentsku listu, spreman sam da dođem u Beograd"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

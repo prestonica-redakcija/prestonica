@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-14T11:26:31.676479+00:00",
- "updated": "2026-11-14T11:26:31.676479+00:00",
+ "updated": "2026-11-14T11:56:23.752030+00:00",
  "sources": [
   {
    "name": "N1",
@@ -40,11 +40,18 @@
    "url": "https://nova.rs/vesti/drustvo/havarija-u-klinici-u-kojoj-je-kosta-kecmanovic-sva-deca-hitno-otpustena-on-jedini-ostao/",
    "title": "Havarija u Klinici za neurologiju i psihijatriju za decu i omladinu: Svi pacijenti, osim K. K., otpušteni ili premešteni u \"Lazu Lazarevića\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/direktorka-je-sama-donela-odluku-nismo-imali-nikakav-uvid-ministarstvo-zdravlja-odgovorilo-na-pitanja-novars-povodom-iseljavanja-pacijenata-iz-klinike-za-neurologiju-i-psihijatriju-za-decu-i-omladinu/",
+   "title": "\"Direktorka je sama donela odluku, nismo imali nikakav uvid\": Ministarstvo zdravlja odgovorilo na pitanja Nova.rs povodom iseljavanja pacijenata iz Klinike za neurologiju i psihijatriju za decu i omladinu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Zbog havarije na Klinici za neurologiju i psihijatriju za decu i omladinu, otpušteni i premešteni svi pacijenti, osim K.K.",
-  "Havarija u Klinici za neurologiju i psihijatriju za decu i omladinu: Svi pacijenti, osim K. K., otpušteni ili premešteni u \"Lazu Lazarevića\""
+  "Havarija u Klinici za neurologiju i psihijatriju za decu i omladinu: Svi pacijenti, osim K. K., otpušteni ili premešteni u \"Lazu Lazarevića\"",
+  "\"Direktorka je sama donela odluku, nismo imali nikakav uvid\": Ministarstvo zdravlja odgovorilo na pitanja Nova.rs povodom iseljavanja pacijenata iz Klinike za neurologiju i psihijatriju za decu i omladinu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Gedenktafel_Schumannstr_15_(Mitte)_Laza_Lazarevi%C4%87.jpg",
   "alt": "Klinika za neurologiju i psihijatriju za decu i omladinu ispražnjena zbog havarije"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
