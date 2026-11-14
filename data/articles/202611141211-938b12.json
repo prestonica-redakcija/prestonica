@@ -25,7 +25,7 @@
  ],
  "importance": 5,
  "published": "2026-11-14T11:11:39.945067+00:00",
- "updated": "2026-11-14T11:11:39.945067+00:00",
+ "updated": "2026-11-14T15:24:29.110893+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -38,11 +38,18 @@
    "url": "https://biznis.telegraf.rs/info-biz/4432923-pio-fond-doneo-odluku-od-decembra-se-isplacuje-92112-dinara-evo-na-koga-se-odnosi-naknada",
    "title": "PIO Fond doneo odluku! Od decembra se isplaćuje 92.112 dinara: Evo na koga se odnosi naknada",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/297764/pogrebni-troskovi-za-korisnike-penzija-od-decembra-92112-dinara/vest",
+   "title": "Pogrebni troškovi za korisnike penzija od decembra 92.112 dinara.",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "PIO FOND UVEĆAO NAKNADU: Ovi građani će imati pravo na 92.112 dinara, isplata od decembra",
-  "PIO Fond doneo odluku! Od decembra se isplaćuje 92.112 dinara: Evo na koga se odnosi naknada"
+  "PIO Fond doneo odluku! Od decembra se isplaćuje 92.112 dinara: Evo na koga se odnosi naknada",
+  "Pogrebni troškovi za korisnike penzija od decembra 92.112 dinara."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:PIO_fond_u_Kova%C4%8Dici.jpg",
   "alt": "Naknada pogrebnih troškova za korisnike penzija od decembra iznosiće 92.112 dinara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

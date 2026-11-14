@@ -26,17 +26,24 @@
  ],
  "importance": 3,
  "published": "2026-11-14T14:10:23.845554+00:00",
- "updated": "2026-11-14T14:10:23.845554+00:00",
+ "updated": "2026-11-14T15:24:29.110893+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1671167/ovo-smesno-zapravo-nije-antonela-riha-podelila-tvit-studentskoj-listi-foto",
    "title": "\"OVO JE SMEŠNO. ZAPRAVO, NIJE\" Antonela Riha podelila tvit o studentskoj listi (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10162172/antonela-riha-studentska-lista-bez-izjava-za-medije",
+   "title": "ANTONELA RIHA PODELILA TVIT O STUDENTSKOJ LISTI: \"Ovo je smešno. Zapravo nije\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "\"OVO JE SMEŠNO. ZAPRAVO, NIJE\" Antonela Riha podelila tvit o studentskoj listi (FOTO)"
+  "\"OVO JE SMEŠNO. ZAPRAVO, NIJE\" Antonela Riha podelila tvit o studentskoj listi (FOTO)",
+  "ANTONELA RIHA PODELILA TVIT O STUDENTSKOJ LISTI: \"Ovo je smešno. Zapravo nije\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Studentska lista neće davati izjave medijima, Antonela Riha reagovala na Iksu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-14T15:09:42.068093+00:00",
- "updated": "2026-11-14T15:09:42.068093+00:00",
+ "updated": "2026-11-14T15:24:29.110893+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,12 +48,26 @@
    "url": "https://nova.rs/vesti/hronika/mojsilovic-i-komandant-kfor-bezbednosna-situacija-na-kosovu-i-metohiji-izuzetno-osetljiva/",
    "title": "Mojsilović i komandant KFOR: Bezbednosna situacija na Kosovu i Metohiji izuzetno osetljiva",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/mojsilovic-i-komandant-kfor-bezbednosna-situacija-na-kosovu-i-metohiji-izuzetno-osetljiva/",
+   "title": "Mojsilović i komandant KFOR: Bezbednosna situacija na Kosovu i Metohiji izuzetno osetljiva",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4433027-mojsilovic-sa-komandantom-kfora-o-stanju-bezbednosti-na-kosovu-i-metohiji",
+   "title": "Mojsilović sa komandantom Kfora o stanju bezbednosti na Kosovu i Metohiji",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Milan Mojsilović sa komandantom Kfora o stanju bezbednosti na KiM",
   "Mojsilović sa komandantom Kfora razgovarao o stanju bezbednosti na Kosovu i Metohiji",
-  "Mojsilović i komandant KFOR: Bezbednosna situacija na Kosovu i Metohiji izuzetno osetljiva"
+  "Mojsilović i komandant KFOR: Bezbednosna situacija na Kosovu i Metohiji izuzetno osetljiva",
+  "Mojsilović i komandant KFOR: Bezbednosna situacija na Kosovu i Metohiji izuzetno osetljiva",
+  "Mojsilović sa komandantom Kfora o stanju bezbednosti na Kosovu i Metohiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +78,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Mojsilović i komandant Kfora razgovarali o bezbednosnoj situaciji na Kosovu i Metohiji"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

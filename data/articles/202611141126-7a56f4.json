@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-14T10:26:58.795880+00:00",
- "updated": "2026-11-14T15:09:42.068093+00:00",
+ "updated": "2026-11-14T15:24:29.110893+00:00",
  "sources": [
   {
    "name": "B92",
@@ -46,11 +46,18 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/297756/nbs-usvojila-nova-pravila-za-menjace-i-posebne-rokove-za-prodaju-efektive-bankama/vest",
    "title": "NBS usvojila nova pravila za menjače i posebne rokove za prodaju efektive bankama",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/nbs-usvojila-nova-pravila-za-menjace-i-posebne-rokove-za-prodaju-efektive-bankama",
+   "title": "NBS usvojila nova pravila za menjače i posebne rokove za prodaju efektive bankama",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "NBS uvodi nova pravila za menjačnice: Evo šta to znači za građane",
   "NBS UVODI NOVA PRAVILA ZA MENjAČNICE: Nova odluka na snazi do 15. januara 2027, evo šta znači za građane koji kupuju evre",
+  "NBS usvojila nova pravila za menjače i posebne rokove za prodaju efektive bankama",
   "NBS usvojila nova pravila za menjače i posebne rokove za prodaju efektive bankama"
  ],
  "author": "Redakcija Prestonice",
@@ -63,6 +70,6 @@
   "local": true,
   "alt": "NBS privremeno menja pravila za menjačnice: rokovi i obaveza prodaje efektive bankama"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

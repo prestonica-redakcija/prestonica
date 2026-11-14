@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T10:08:15.452290+00:00",
- "updated": "2026-11-14T15:09:42.068093+00:00",
+ "updated": "2026-11-14T15:24:29.110893+00:00",
  "sources": [
   {
    "name": "N1",
@@ -55,13 +55,20 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/297746/kanadska-kompanija-mundoro-capital-stekla-osam-istraznih-licenci-u-istocnoj-srbiji/vest",
    "title": "Kanadska kompanija Mundoro Capital stekla osam istražnih licenci u istočnoj Srbiji",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/284966/kanadjani-stekli-osam-istraznih-licenci-za-bakar-i-zlato-u-istocnoj-srbiji/vest",
+   "title": "Kanađani stekli osam istražnih licenci za bakar i zlato u istočnoj Srbiji",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "eKapija: Rudarska kompanija BHP odustala od osam istražnih licenci u istočnoj Srbiji",
   "Rudarski gigant BHP odustao od istraživanja bakra i zlata u istočnoj Srbiji",
   "Kanadska kompanija Mundoro Capital stekla osam istražnih licenci u istočnoj Srbiji",
-  "Kanadska kompanija Mundoro Capital stekla osam istražnih licenci u istočnoj Srbiji"
+  "Kanadska kompanija Mundoro Capital stekla osam istražnih licenci u istočnoj Srbiji",
+  "Kanađani stekli osam istražnih licenci za bakar i zlato u istočnoj Srbiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "local": true,
   "alt": "BHP odustao od osam istražnih licenci u istočnoj Srbiji, zadržava dva projekta"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

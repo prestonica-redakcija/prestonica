@@ -25,16 +25,23 @@
  ],
  "importance": 2,
  "published": "2026-11-14T14:39:50.710142+00:00",
- "updated": "2026-11-14T14:39:50.710142+00:00",
+ "updated": "2026-11-14T15:24:29.110893+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/297753/eps-raspisao-javnu-nabavku-za-remont-pumpi-u-vrednosti-od-495-miliona-dinara/vest",
    "title": "EPS raspisao javnu nabavku za remont pumpi u vrednosti od 4,95 miliona dinara",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/eps-raspisao-javnu-nabavku-za-remont-pumpi-u-vrednosti-od-495-miliona-dinara",
+   "title": "EPS raspisao javnu nabavku za remont pumpi u vrednosti od 4,95 miliona dinara",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "EPS raspisao javnu nabavku za remont pumpi u vrednosti od 4,95 miliona dinara",
   "EPS raspisao javnu nabavku za remont pumpi u vrednosti od 4,95 miliona dinara"
  ],
  "author": "Redakcija Prestonice",
@@ -47,5 +54,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Panorama_Djerdapske_klisure.jpg",
   "alt": "EPS raspisao nabavku za remont pumpi vrednu 4,95 miliona dinara bez PDV-a"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
