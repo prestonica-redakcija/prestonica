@@ -26,7 +26,7 @@
  ],
  "importance": 2,
  "published": "2026-11-14T14:10:23.845554+00:00",
- "updated": "2026-11-14T14:10:23.845554+00:00",
+ "updated": "2026-11-14T14:25:03.666886+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -39,11 +39,18 @@
    "url": "https://nova.rs/vesti/hronika/policija-je-uhapsila-drzavljanina-turske-m-b-47-zbog-sumnje-da-je-pocinio-krivicno-delo-nedozvoljen-promet-akciznih-proizvoda-saopstilo-je-danas-ministarstvo-unutrasnjih-poslova/",
    "title": "Uhapšen državljanin Turske na Gradini: Pokušao da prokrijumčari 79 kilograma kafe",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/297738/uhapsen-turski-drzavljanin-pokusao-da-prenese-79-kilograma-kafe-na-prelazu-gradina/vest",
+   "title": "Uhapšen turski državljanin, pokušao da prenese 79 kilograma kafe na prelazu Gradina",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "U Pirotu uhapšen državljanin Turske zbog sumnje na nedozvoljen promet akciznih proizvoda",
-  "Uhapšen državljanin Turske na Gradini: Pokušao da prokrijumčari 79 kilograma kafe"
+  "Uhapšen državljanin Turske na Gradini: Pokušao da prokrijumčari 79 kilograma kafe",
+  "Uhapšen turski državljanin, pokušao da prenese 79 kilograma kafe na prelazu Gradina"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:01-06-2025_-_Pirot_Fortress_21.jpg",
   "alt": "Na prelazu Gradina uhapšen državljanin Turske zbog 79 kilograma kafe bez dokumenata"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

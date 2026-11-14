@@ -32,17 +32,24 @@
  ],
  "importance": 5,
  "published": "2026-11-13T14:51:01.248263+00:00",
- "updated": "2026-11-13T14:51:01.248263+00:00",
+ "updated": "2026-11-14T14:25:03.666886+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1169578/aleksandar-vucic-teodosije-aljbin-kurti",
    "title": "Vučić progovorio o vladiki Teodosiju i Kurtiju: Važno je da narod ovo zna",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1169861/antonela-riha-studentska-lista-mediji",
+   "title": "Saberite se! Riha kritikuje Studentsku listu, ovo je razlog (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Vučić progovorio o vladiki Teodosiju i Kurtiju: Važno je da narod ovo zna"
+  "Vučić progovorio o vladiki Teodosiju i Kurtiju: Važno je da narod ovo zna",
+  "Saberite se! Riha kritikuje Studentsku listu, ovo je razlog (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Vladika_Teodosije.jpg",
   "osoba": "Teodosije",
   "alt": "Vučić kritikovao Kurtija zbog različitog tretmana posle posete Studentske liste Kosovu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

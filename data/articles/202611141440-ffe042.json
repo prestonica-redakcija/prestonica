@@ -30,17 +30,24 @@
  ],
  "importance": 6,
  "published": "2026-11-14T13:40:24.733503+00:00",
- "updated": "2026-11-14T13:40:24.733503+00:00",
+ "updated": "2026-11-14T14:25:03.666886+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/petrovic-inflatorni-pritisci-alta-banka-macura/",
    "title": "Petrović: Inflatorni pritisci vremenom će biti veći, trezor Alta banke bio prazan, Macura prikazivao fiktivne uplate",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/petrovi-inflatorni-pritisci-vremenom-e-biti-vei-trezor-alta-banke-bio-prazan-macura-prikazivao-fiktivne-uplate/",
+   "title": "Petrović: Trezor Alta banke bio prazan, Macura prikazivao fiktivne uplate",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Petrović: Inflatorni pritisci vremenom će biti veći, trezor Alta banke bio prazan, Macura prikazivao fiktivne uplate"
+  "Petrović: Inflatorni pritisci vremenom će biti veći, trezor Alta banke bio prazan, Macura prikazivao fiktivne uplate",
+  "Petrović: Trezor Alta banke bio prazan, Macura prikazivao fiktivne uplate"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Petrović: Rast kamatne stope posledica i državne potrošnje, gas od januara skuplji"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
