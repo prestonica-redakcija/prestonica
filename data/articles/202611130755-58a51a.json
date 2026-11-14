@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-13T06:55:05.526438+00:00",
- "updated": "2026-11-14T09:27:26.914112+00:00",
+ "updated": "2026-11-14T09:42:30.036471+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -176,6 +176,12 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/252037/majkrosoft-outlook-teams-i-copilot-ponovo-dostupni/vest",
    "title": "Kraj globalnog kolapsa: Majkrosoft potvrdio da servisi ponovo rade, poznato šta je izazvalo prekid",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1671067/evropljani-zele-ovo-rade-plata-dobra-ali-nekoliko-zanimanja-skoro-nema-zainteresovanih-tesko-pogodite-koja",
+   "title": "EVROPLjANI NE ŽELE OVO DA RADE: Plata dobra, ali za nekoliko zanimanja skoro da nema zainteresovanih - teško je da pogodite za koja!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -202,7 +208,8 @@
   "Letovi u SAD ponovo dozvoljeni – haos na aerodromima se nastavlja, oko 1,5 miliona putnika pogođeno poremećajima",
   "MAJKROSOFT SE OPORAVIO POSLE GLOBALNOG KOLAPSA: Servisi ponovo rade, evo šta je izazvalo haos",
   "Majkrosoft: Usluge u potpunosti obnovljene nakon globalnog prekida rada",
-  "Kraj globalnog kolapsa: Majkrosoft potvrdio da servisi ponovo rade, poznato šta je izazvalo prekid"
+  "Kraj globalnog kolapsa: Majkrosoft potvrdio da servisi ponovo rade, poznato šta je izazvalo prekid",
+  "EVROPLjANI NE ŽELE OVO DA RADE: Plata dobra, ali za nekoliko zanimanja skoro da nema zainteresovanih - teško je da pogodite za koja!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -215,7 +222,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg",
   "alt": "Veliki prekid u radu Microsofta: Outlook i Teams satima nedostupni širom sveta"
  },
- "novo_od_pisanja": 10,
+ "novo_od_pisanja": 11,
  "boost": 1.6,
  "prepisano": "2026-11-13T15:35:52.267094+00:00",
  "verzija": 4

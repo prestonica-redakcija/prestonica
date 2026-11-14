@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-13T21:03:23.574833+00:00",
- "updated": "2026-11-13T22:47:31.284862+00:00",
+ "updated": "2026-11-14T09:42:30.036471+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -59,13 +59,20 @@
    "url": "https://n1info.rs/svet/evropa-salje-tim-od-sest-clanica-na-narednu-rundu-pregovora-o-ukrajini/",
    "title": "Evropa šalje tim od šest članica na narednu rundu pregovora o Ukrajini",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/284899/kosta-potvrdio-ucesce-evrope-na-sledecim-pregovorima-o-ukrajini/vest",
+   "title": "Košta potvrdio: \"Šaljemo tim na pregovore\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Košta: Evropa će poslati tim diplomata na sledeću rundu pregovora o Ukrajini",
   "KOŠTA: Evropa će poslati tim diplomata na sledeću rundu pregovora o Ukrajini",
   "KOŠTA: Evropa će poslati tim diplomata na sledeću rundu pregovora o Ukrajini",
-  "Evropa šalje tim od šest članica na narednu rundu pregovora o Ukrajini"
+  "Evropa šalje tim od šest članica na narednu rundu pregovora o Ukrajini",
+  "Košta potvrdio: \"Šaljemo tim na pregovore\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +84,6 @@
   "local": true,
   "alt": "Košta: Evropa šalje tim diplomata na sledeću rundu pregovora o Ukrajini"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
