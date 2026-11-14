@@ -3744,18 +3744,24 @@
   "https://www.tanjug.rs/svet/politika/297727/rojters-tramp-rekao-savetnicima-da-nece-napasti-iran-ako-ne-bude-novih-provokacija/vest": "2026-11-14T12:40:54.901064+00:00",
   "https://www.kurir.rs/planeta/10162034/tramp-nece-napasti-iran-ako-ne-bude-novih-provokacija": "2026-11-14T12:40:54.901064+00:00",
   "https://www.telegraf.rs/vesti/svet/4432956-zelenski-otkrio-sta-su-amerikanci-trazili-od-ukrajine-za-ulazak-u-nato-moguc-referendum": "2026-11-14T12:40:54.901064+00:00",
-  "https://www.danas.rs/svet/zelenski-clanstvo-nato-uslov-sad/": "2026-11-14T12:40:54.901064+00:00"
+  "https://www.danas.rs/svet/zelenski-clanstvo-nato-uslov-sad/": "2026-11-14T12:40:54.901064+00:00",
+  "https://nova.rs/vesti/svet/gradjani-u-zagrebu-odali-pocast-pacijentu-za-ciju-smrt-su-osumnjicenai-medicinski-tehnicari/": "2026-11-14T12:55:47.674622+00:00",
+  "https://www.kurir.rs/planeta/10162039/izraelski-mandatar-optuzio-netanjahua": "2026-11-14T12:55:47.674622+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4432970-sneg-veje-kao-usred-zime-temperatura-u-minusu-pogledajte-snimke-vejavice-ali-i-video-snega-sa-grmljavinom": "2026-11-14T12:55:47.674622+00:00",
+  "https://www.kurir.rs/vesti/politika/10162011/novi-dss-upozorava-na-znacaj-obaveznog-vojnog-roka": "2026-11-14T12:55:47.674622+00:00",
+  "https://nova.rs/vesti/politika/ekoloski-ustanak-trazi-hitno-uklanjanje-cevi-iz-rakitske-reke-i-odgovornost-zbog-visegodisnjeg-nepostupanja-po-resenju/": "2026-11-14T12:55:47.674622+00:00",
+  "https://n1info.rs/vesti/sneg-pao-na-divcibarama/": "2026-11-14T12:55:47.674622+00:00",
+  "https://www.b92.net/biz/srbija/vesti/284938/lepe-vesti-za-najstarije-stize-povecanje-penzija-od-75/vest": "2026-11-14T12:55:47.674622+00:00",
+  "https://www.novosti.rs/ekonomija/poljoprivreda/1671139/prakticne-nastave-sud-profesorka-osudjena-zbog-nacina-usmrcivanja-18-sarana": "2026-11-14T12:55:47.674622+00:00",
+  "https://www.kurir.rs/stars/10162049/radnik-iz-budve-otkriva-tajne-poznatih-pevaca": "2026-11-14T12:55:47.674622+00:00",
+  "https://www.kurir.rs/crna-hronika/10162045/drama-na-klinici-sta-ce-biti-sa-decakom-ubicom": "2026-11-14T12:55:47.674622+00:00",
+  "https://www.kurir.rs/stars/10162040/veljko-raznatovic-i-skandal-oko-suknjice-reakcije-monaha": "2026-11-14T12:55:47.674622+00:00",
+  "https://www.kurir.rs/vesti/srbija/10162031/zimska-sluzba-u-kragujevcu-spremna-za-pocetak-sezone": "2026-11-14T12:55:47.674622+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-13T22:04+00:00",
-   "novih": 2,
-   "ukupno": 1000,
-   "sekundi": 117.1
-  },
   {
    "vreme": "2026-11-13T22:19+00:00",
    "novih": 3,
@@ -4109,6 +4115,12 @@
    "novih": 7,
    "ukupno": 1140,
    "sekundi": 214.4
+  },
+  {
+   "vreme": "2026-11-14T12:58+00:00",
+   "novih": 4,
+   "ukupno": 1144,
+   "sekundi": 137.9
   }
  ],
  "licnosti_foto": {
@@ -4753,7 +4765,7 @@
    "live": "live",
    "desc": "Ukoliko imate želju da podržite rad produkcije \"SRBIN.info\",  i „Centar”, donacije možete da uplatite i na sledeći način:\nU DINARIMA\n200-40751866-23 Banka Poštanska štedionica\n200-2623780101018-40 Banka Poštanska štedionica\n\nili putem PayPal ili Internet ili Kreditne karice:\nhttps://doniraj.srbin.info/ - UKOLIKO STE IZ SRBIJE\n\nU DEVIZAMA:\nIBAN: RS35200262378010100385, \nSWIFT: SBPORSBG,\n\nili putem PayPal ili Internet ili Kreditne karice:\nhttps://shop.srbin.info/en-eur - UKOLIKO STE IZ INOSTRANSTVA\n\nJednokratno ili mesečnom pretplatom:\nhttps://bit.ly/srbininfo-coffee\nKorisnik: Nibrs d.o.o\nSvrha uplate: Donacija za Srbin.info; \n\nMesečnom pretplatom, kliknite na linkove \n------------------------",
    "spektar": "desnica",
-   "viewers": "702",
+   "viewers": "667",
    "naslov": "Uživo na Srbin.info o raspadu sistema, hapšenjima, bekstvima i studentima",
    "opis": "U programu uživo na kanalu Srbin.info, prema naslovu, govori se o stanju u sistemu, hapšenjima, bekstvima i studentima. U naslovu se pominju Dijana, Višekruna, Čeda i Fiki, a opis snimka sadrži samo podatke o uplati donacija.",
    "tekst": [
@@ -6778,7 +6790,7 @@
    ]
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -31334,6 +31346,10 @@
      "naslov": "Обреновац 26.JPG"
     }
    ]
+  },
+  "t:poljoprivredni univerzitet u krakovu": {
+   "t": 1794660983.7248507,
+   "items": []
   }
  },
  "x_objave": {

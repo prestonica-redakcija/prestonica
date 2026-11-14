@@ -31,17 +31,24 @@
  ],
  "importance": 4,
  "published": "2026-11-14T12:40:54.901064+00:00",
- "updated": "2026-11-14T12:40:54.901064+00:00",
+ "updated": "2026-11-14T12:55:47.674622+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/info/svet/284944/ajzenkot-optuzio-netanjahua-za-podsticanje-rasizma-protiv-izraelskih-arapa/vest",
    "title": "Ajzenkot: \"Netanjahu podstiče nasilnu i rasističku kampanju protiv Arapa\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10162039/izraelski-mandatar-optuzio-netanjahua",
+   "title": "MANDATAR OPTUŽIO NETANJAHUA: \"Podstiče nasilnu i rasističku kampanju protiv arapskih građana Izraela",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Ajzenkot: \"Netanjahu podstiče nasilnu i rasističku kampanju protiv Arapa\""
+  "Ajzenkot: \"Netanjahu podstiče nasilnu i rasističku kampanju protiv Arapa\"",
+  "MANDATAR OPTUŽIO NETANJAHUA: \"Podstiče nasilnu i rasističku kampanju protiv arapskih građana Izraela"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Gadi_Eisenkot_2_(cropped_-_WD).jpg",
   "osoba": "Gadi Ajzenkot",
   "alt": "Ajzenkot optužio Netanjahua da podstiče rasističku kampanju protiv izraelskih Arapa"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

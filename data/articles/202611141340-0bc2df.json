@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T12:40:54.901064+00:00",
- "updated": "2026-11-14T12:40:54.901064+00:00",
+ "updated": "2026-11-14T12:55:47.674622+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://insajder.net/prenosimo/osam-minuta-tisine-u-zagrebu-gradani-odali-pocast-preminulom-pacijentu-psihijatrijske-klinike-sveti-ivan",
    "title": "Osam minuta tišine u Zagrebu: Građani odali počast preminulom pacijentu psihijatrijske klinike \"Sveti Ivan\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/gradjani-u-zagrebu-odali-pocast-pacijentu-za-ciju-smrt-su-osumnjicenai-medicinski-tehnicari/",
+   "title": "Građani u Zagrebu odali počast pacijentu za čiju smrt su osumnjičenai medicinski tehničari",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Građani u Zagrebu odali poštu Perišu, za čiju smrt su u Klinici za psihijatriju osumnjičeni medicinski tehničari",
-  "Osam minuta tišine u Zagrebu: Građani odali počast preminulom pacijentu psihijatrijske klinike \"Sveti Ivan\""
+  "Osam minuta tišine u Zagrebu: Građani odali počast preminulom pacijentu psihijatrijske klinike \"Sveti Ivan\"",
+  "Građani u Zagrebu odali počast pacijentu za čiju smrt su osumnjičenai medicinski tehničari"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Kroatisch_Nationaal_Theater_(Zagreb).jpg",
   "alt": "U Zagrebu osam minuta tišine za pacijenta preminulog u Klinici za psihijatriju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

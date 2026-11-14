@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T14:36:13.763478+00:00",
- "updated": "2026-11-13T14:51:01.248263+00:00",
+ "updated": "2026-11-14T12:55:47.674622+00:00",
  "sources": [
   {
    "name": "N1",
@@ -41,11 +41,18 @@
    "url": "https://www.danas.rs/vesti/klimatske-promene/ekoloski-ustanak-trazi-izvrsenje-resenja-o-uklanjanje-cevi-iz-rakitske-reke/",
    "title": "Ekološki ustanak traži izvršenje rešenja o uklanjanje cevi iz Rakitske reke",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/ekoloski-ustanak-trazi-hitno-uklanjanje-cevi-iz-rakitske-reke-i-odgovornost-zbog-visegodisnjeg-nepostupanja-po-resenju/",
+   "title": "Ekološki ustanak traži hitno uklanjanje cevi iz Rakitske reke i odgovornost zbog višegodišnjeg nepostupanja po rešenju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Ekološki ustanak traži izvršenje rešenja o uklanjanju cevi iz Rakitske reke",
-  "Ekološki ustanak traži izvršenje rešenja o uklanjanje cevi iz Rakitske reke"
+  "Ekološki ustanak traži izvršenje rešenja o uklanjanje cevi iz Rakitske reke",
+  "Ekološki ustanak traži hitno uklanjanje cevi iz Rakitske reke i odgovornost zbog višegodišnjeg nepostupanja po rešenju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +65,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Babu%C5%A1nica01.jpg",
   "alt": "Ekološki ustanak traži izvršenje rešenja o uklanjanju cevi iz Rakitske reke"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

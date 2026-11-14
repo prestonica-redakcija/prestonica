@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T22:47:31.284862+00:00",
- "updated": "2026-11-14T08:27:55.345332+00:00",
+ "updated": "2026-11-14T12:55:47.674622+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -40,11 +40,18 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4432884-zabelela-se-bosna-i-hercegovina-sneg-pao-u-vise-gradova-a-evo-kakvo-ce-danas-biti-vreme",
    "title": "Zabelela se Bosna i Hercegovina: Sneg pao u više gradova, a evo kakvo će biti vreme danas",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/sneg-pao-na-divcibarama/",
+   "title": "Sneg pao na Divčibarama",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "TARA I ZLATIBOR SE ZABELELI, SNEG PADA I U UŽICU! Vremenski rolerkoster - od prolećne temperature do zimske idile za samo nekoliko sati (FOTO/VIDEO)",
-  "Zabelela se Bosna i Hercegovina: Sneg pao u više gradova, a evo kakvo će biti vreme danas"
+  "Zabelela se Bosna i Hercegovina: Sneg pao u više gradova, a evo kakvo će biti vreme danas",
+  "Sneg pao na Divčibarama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,6 +64,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:U%C5%BEice,_pogled_sa_magistrale.jpg",
   "alt": "Sneg pao u Užicu, zabeleli se Zlatibor i Tara nakon toplog dana"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
