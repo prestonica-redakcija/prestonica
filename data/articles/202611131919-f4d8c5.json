@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T18:19:36.713290+00:00",
- "updated": "2026-11-13T23:32:17.971916+00:00",
+ "updated": "2026-11-14T02:30:49.889695+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -45,12 +45,19 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10161585/sofex-26-vezba-specijalnih-jedinica-srbija-bugarska-grcka-rumunija",
    "title": "Međunarodna vežba specijalnih snaga \"SOFEX 26\": Specijalci Srbije, Bugarske, Grčke i Rumunije uvežbavali zajedničke operacije",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4432736-mo-pripadnici-vojske-srbije-na-medjunarodnoj-vezbi-specijalnih-snaga-sofex-26",
+   "title": "Ministarstvo odbrane: Pripadnici Vojske Srbije na međunarodnoj vežbi specijalnih snaga \"SOFEX 26\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Ministarstvo odbrane: Pripadnici Vojske Srbije na međunarodnoj vežbi specijalnih snaga \"SOFEX 26\"",
   "Ministarstvo odbrane: Pripadnici Vojske Srbije učestvovali na međunarodnoj vežbi specijalnih snaga „SOFEX 26“",
-  "Međunarodna vežba specijalnih snaga \"SOFEX 26\": Specijalci Srbije, Bugarske, Grčke i Rumunije uvežbavali zajedničke operacije"
+  "Međunarodna vežba specijalnih snaga \"SOFEX 26\": Specijalci Srbije, Bugarske, Grčke i Rumunije uvežbavali zajedničke operacije",
+  "Ministarstvo odbrane: Pripadnici Vojske Srbije na međunarodnoj vežbi specijalnih snaga \"SOFEX 26\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "local": true,
   "alt": "Vojska Srbije i specijalne jedinice tri zemlje održale vežbu \"SOFEX 26\" u Pančevu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
