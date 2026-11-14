@@ -3909,18 +3909,16 @@
   "https://www.b92.net/info/hronika/284980/rade-basta-osumnjicen-za-zloupotrebu-polozaja-tuzilastvo-trazi-pritvor-do-30-dana/vest": "2026-11-14T15:24:29.110893+00:00",
   "https://www.tanjug.rs/svet/politika/297762/afd-nominovao-bivseg-fudbalera-tomasa-bertolda-za-predsednika-nemacke/vest": "2026-11-14T15:24:29.110893+00:00",
   "https://www.telegraf.rs/vesti/svet/4433034-afd-nominovao-bivseg-fudbalera-za-predsednika-nemacke": "2026-11-14T15:24:29.110893+00:00",
-  "https://www.danas.rs/svet/francuska-mladi-zuti-prsluci-demonstracije/": "2026-11-14T15:24:29.110893+00:00"
+  "https://www.danas.rs/svet/francuska-mladi-zuti-prsluci-demonstracije/": "2026-11-14T15:24:29.110893+00:00",
+  "https://nova.rs/vesti/biznis/ministarka-sofronijevic-vlada-u-avgustu-donela-zakljucak-o-raskidu-ugovora-za-generalstab/": "2026-11-14T15:39:33.565169+00:00",
+  "https://www.tanjug.rs/svet/drustvo/297768/avio-saobracaj-u-sad-postepeno-se-normalizuje-nakon-masovnih-otkazivanja-letova/vest": "2026-11-14T15:39:33.565169+00:00",
+  "https://nova.rs/vesti/svet/aviosaobracaj-u-sad-se-normalizuje-posle-otkazivanja-vise-od-2000-letova-zbog-kvara-sistema-komunikacija/": "2026-11-14T15:39:33.565169+00:00",
+  "https://www.tanjug.rs/svet/hronika/297766/u-belgiji-uhapsen-muskarac-osumnjicen-za-ucesce-u-genocidu-u-ruandi/vest": "2026-11-14T15:39:33.565169+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-14T00:47+00:00",
-   "novih": 0,
-   "ukupno": 1020,
-   "sekundi": 57.6
-  },
   {
    "vreme": "2026-11-14T01:03+00:00",
    "novih": 0,
@@ -4274,6 +4272,12 @@
    "novih": 11,
    "ukupno": 1201,
    "sekundi": 244.5
+  },
+  {
+   "vreme": "2026-11-14T15:41+00:00",
+   "novih": 2,
+   "ukupno": 1203,
+   "sekundi": 104.1
   }
  ],
  "licnosti_foto": {
@@ -4423,6 +4427,30 @@
   }
  },
  "videos": [
+  {
+   "id": "iOifaa3Qxeo",
+   "title": "Ko će postavljati pravila igre u Skupštini?",
+   "kanal": "Kurir",
+   "published": "2026-11-14T15:28:18+00:00",
+   "thumb": "https://i.ytimg.com/vi/iOifaa3Qxeo/hqdefault.jpg",
+   "live": "none",
+   "desc": "#Kurir #KurirTV #KurirTelevizija  #kurirtvuzivo\n\nPOSETI SAJT KURIRA:\n➤ Zvanični sajt: https://www.kurir.rs/\n\nGLEDAJ NA KURIRU:\n➤ Crveni karton:https://www.kurir.rs/tv/emisije/Crveni-karton\n➤ Ni 5 ni 6: https://www.kurir.rs/tv/emisije/Ni-5-ni-6\n➤ Puls Srbije: https://www.kurir.rs/tv/emisije/Puls-Srbije\n➤ Puls Srbije vikend: https://www.kurir.rs/tv/emisije/Puls-Srbije-vikend\n➤ Pusti brigu: https://www.kurir.rs/tv/emisije/Pusti-brigu\n➤ Redakcija: https://www.kurir.rs/tv/emisije/Redakcija\n➤ Stars: https://www.kurir.rs/tv/emisije/Stars\n➤ Stars specijal: https://www.kurir.rs/tv/emisije/Stars-specijal\n➤ Sa Žikom po Srbiji: https://www.kurir.rs/tv/emisije/Sa-Zikom-po-Srbiji\n➤ Usijanje: https://www.k",
+   "spektar": "vlast",
+   "viewers": null,
+   "naslov": "Ko će postavljati pravila igre u Skupštini?",
+   "opis": "Kurir televizija u snimku otvara pitanje ko će postavljati pravila igre u Skupštini. Iz dostupnog opisa nije moguće utvrditi ko su sagovornici niti koji je povod teme.",
+   "tekst": [
+    "Snimak objavljen na kanalu Kurir televizije bavi se pitanjem ko će u Skupštini postavljati pravila igre, kako stoji u naslovu.",
+    "Opis snimka sadrži uglavnom spisak emisija i linkove ka sajtu Kurira, pa nema dodatnih podataka o učesnicima, konkretnim temama ni povodu."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "Skupština",
+    "Kurir televizija",
+    "Kurir"
+   ],
+   "slug": "ko-ce-postavljati-pravila-igre-u-skupstini-ioifaa3qxeo"
+  },
   {
    "id": "IgBAgIiCaY8",
    "title": "Siniša Kovačević - Nisam znao da li će Vučić okrvaviti ruke 25. oktobra!",
@@ -6338,33 +6366,6 @@
    "slug": "konsultacije-uoci-konstitutivne-sednice-novog-saziva-kic3urjhvh8"
   },
   {
-   "id": "r-uD3pLEP2M",
-   "title": "Vlasnik restorana \"27\" i Kričak prvi put \"oči u oči\" posle optužbi za jezivo mučenje",
-   "kanal": "Kurir",
-   "published": "2026-11-13T15:10:28+00:00",
-   "thumb": "https://i.ytimg.com/vi/r-uD3pLEP2M/hqdefault.jpg",
-   "live": "none",
-   "desc": "#Kurir #KurirTV #KurirTelevizija  #kurirtvuzivo\n\nU beogradskoj Palati pravde, kako Kurir saznaje, od jutros je pojačano obezbeđenje a u zgradi su prisutni i pripadnici Žandarmerije! Kako naš izvor otkriva, razlog za \"opsadno stanje\" je prisustvo vrha MUP-a u Višem javnom tužilaštvu u Beogradu i to zbog saslušanju u istrazi koja je nedavno zbog zloupotreba u istrazi slučaja ubistva Aleksandra Nešovića u restoranu \"27\" na Senjaku pokrenuta protiv bivšeg načelnika UKP-a Marka Krička i načelnika Službe za borbu protiv kriminala Boška Sekulovića. \n\nPOSETI SAJT KURIRA:\n➤ Zvanični sajt: https://www.kurir.rs/\n\nGLEDAJ NA KURIRU:\n➤ Crveni karton:https://www.kurir.rs/tv/emisije/Crveni-karton\n➤ Ni 5 ni ",
-   "spektar": "vlast",
-   "viewers": null,
-   "naslov": "Kričak i vlasnik restorana 27 prvi put licem u lice posle optužbi za mučenje",
-   "opis": "Kurir navodi da je u beogradskoj Palati pravde pojačano obezbeđenje zbog dolaska vrha MUP-a u Više javno tužilaštvo. Reč je o saslušanju u istrazi protiv bivšeg načelnika UKP-a Marka Kričaka i načelnika Službe za borbu protiv kriminala Boška Sekulovića.",
-   "tekst": [
-    "Prema pisanju Kurira, u beogradskoj Palati pravde od jutros je pojačano obezbeđenje, a u zgradi su prisutni i pripadnici Žandarmerije. Izvor Kurira kao razlog navodi prisustvo vrha MUP-a u Višem javnom tužilaštvu u Beogradu.",
-    "Povod je saslušanje u istrazi koja je nedavno pokrenuta zbog zloupotreba u istrazi slučaja ubistva Aleksandra Nešovića u restoranu 27 na Senjaku. Istraga se vodi protiv bivšeg načelnika UKP-a Marka Kričaka i načelnika Službe za borbu protiv kriminala Boška Sekulovića.",
-    "Prema naslovu snimka, vlasnik restorana i Kričak prvi put su se našli licem u lice nakon optužbi za mučenje."
-   ],
-   "rubrika": "hronika",
-   "oznake": [
-    "Marko Kričak",
-    "Boško Sekulović",
-    "restoran 27",
-    "Više javno tužilaštvo u Beogradu",
-    "MUP"
-   ],
-   "slug": "kricak-i-vlasnik-restorana-27-prvi-put-licem-u-lice-posle-r-ud3plep2m"
-  },
-  {
    "id": "MFNOA8g-IWE",
    "title": "Akcije pomoći manastira | Oko Magazin #shorts #rts",
    "kanal": "RTS",
@@ -6943,7 +6944,7 @@
    ]
   }
  ],
- "_novi_snimci": false,
+ "_novi_snimci": true,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -32436,6 +32437,10 @@
   "t:ilze ajgner": {
    "t": 1794670036.902893,
    "items": []
+  },
+  "t:ruanda": {
+   "t": 1794670822.3938332,
+   "items": []
   }
  },
  "x_objave": {
@@ -34382,6 +34387,15 @@
    "oblast": "politika",
    "wd": "",
    "t": 1794668178.3775418,
+   "ok": true,
+   "foto": null
+  },
+  "Markvejn Malin": {
+   "ime": "Markvejn Malin",
+   "uloga": "ministar unutrašnje bezbednosti SAD",
+   "oblast": "svet",
+   "wd": "",
+   "t": 1794670836.8943675,
    "ok": true,
    "foto": null
   }

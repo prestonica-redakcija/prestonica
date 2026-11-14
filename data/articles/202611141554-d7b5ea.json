@@ -38,7 +38,7 @@
  ],
  "importance": 7,
  "published": "2026-11-14T14:54:43.260500+00:00",
- "updated": "2026-11-14T15:24:29.110893+00:00",
+ "updated": "2026-11-14T15:39:33.565169+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -57,12 +57,19 @@
    "url": "https://www.kurir.rs/vesti/politika/10162165/ministarstvo-o-raskidu-ugovora-o-generalstabu",
    "title": "MINISTARSTVO O RASKIDU UGOVORA ZA GENERALŠTAB SA KUŠNEROVOM FIRMOM: Formalizacija sledeće nedelje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/ministarka-sofronijevic-vlada-u-avgustu-donela-zakljucak-o-raskidu-ugovora-za-generalstab/",
+   "title": "Ministarka Sofronijević: Vlada u avgustu donela zaključak o raskidu ugovora za Generalštab",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Sofronijević za Insajder: Vlada donela zaključak o raskidu ugovora za Generalštab",
   "Sofronijević: Zaključak o raskidu ugovora sa Kušnerom donet u avgustu, završetak formalizacije iduće nedelje",
-  "MINISTARSTVO O RASKIDU UGOVORA ZA GENERALŠTAB SA KUŠNEROVOM FIRMOM: Formalizacija sledeće nedelje"
+  "MINISTARSTVO O RASKIDU UGOVORA ZA GENERALŠTAB SA KUŠNEROVOM FIRMOM: Formalizacija sledeće nedelje",
+  "Ministarka Sofronijević: Vlada u avgustu donela zaključak o raskidu ugovora za Generalštab"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +83,6 @@
   "osoba": "Nikola Selaković",
   "alt": "Vlada u avgustu donela zaključak o raskidu ugovora sa Kušnerovom firmom za Generalštab"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
