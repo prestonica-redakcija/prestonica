@@ -33,16 +33,23 @@
  ],
  "importance": 4,
  "published": "2026-11-14T11:26:31.676479+00:00",
- "updated": "2026-11-14T11:26:31.676479+00:00",
+ "updated": "2026-11-14T11:41:26.868148+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/297704/vulin-sa-lihacovom-o-nastavku-saradnje-na-zapocetim-energetskim-projektima/vest",
    "title": "Vulin sa Lihačovom o nastavku saradnje na započetim energetskim projektima",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/252052/vulin-i-rosatom-o-energetskim-projektima/vest",
+   "title": "Vulin sa Lihačovom o nastavku saradnje na započetim energetskim projektima",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
+  "Vulin sa Lihačovom o nastavku saradnje na započetim energetskim projektima",
   "Vulin sa Lihačovom o nastavku saradnje na započetim energetskim projektima"
  ],
  "author": "Redakcija Prestonice",
@@ -55,5 +62,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Aleksandar_Vulin,_Rasim_Ljajic,_Toma_Fila-mc.rs.jpg",
   "alt": "Vulin i Lihačov razgovarali o nastavku saradnje na energetskim projektima"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

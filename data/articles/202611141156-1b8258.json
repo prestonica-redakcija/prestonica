@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T10:56:44.442500+00:00",
- "updated": "2026-11-14T10:56:44.442500+00:00",
+ "updated": "2026-11-14T11:41:26.868148+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,18 @@
    "url": "https://nova.rs/vesti/svet/sad-izgubile-status-zemlje-u-kojoj-su-male-boginje-iskorenjene/",
    "title": "SAD izgubile status zemlje u kojoj su male boginje iskorenjene",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/sad-male-boginje-status/",
+   "title": "„Dramatičan preokret“: SAD izgubile status zemlje u kojoj su male boginje iskorenjene",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "SAD izgubile status zemlje u kojoj su male boginje iskorenjene: U novembru pet smrtnih slučajeva",
-  "SAD izgubile status zemlje u kojoj su male boginje iskorenjene"
+  "SAD izgubile status zemlje u kojoj su male boginje iskorenjene",
+  "„Dramatičan preokret“: SAD izgubile status zemlje u kojoj su male boginje iskorenjene"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "SAD izgubile status zemlje u kojoj su male boginje eliminisane, prenosi WSJ"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

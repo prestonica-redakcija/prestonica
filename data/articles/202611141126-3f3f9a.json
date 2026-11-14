@@ -34,7 +34,7 @@
  ],
  "importance": 3,
  "published": "2026-11-14T10:26:58.795880+00:00",
- "updated": "2026-11-14T10:26:58.795880+00:00",
+ "updated": "2026-11-14T11:41:26.868148+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,11 +47,18 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10161918/todorovic-od-ponedeljka-ponovo-raste-temperatura-sredinom-nedelje-preko-18-stepeni",
    "title": "NEDELJKO TODOROVIĆ NAJAVIO NOVI VREMENSKI OBRT: Temperatura pala za 10 stepeni za 15 minuta, a evo kada stiže novo zahlađenje - Ovo nas čeka do kraja novembra",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/meteorolog-todorovic-zahladenje-ce-trajati-dva-dana-od-ponedeljka-porast-temperatura",
+   "title": "Meteorolog Todorović: Zahlađenje će trajati dva dana, od ponedeljka porast temperatura",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Nedeljko Todorović: Zahlađenje će trajati dva dana, od ponedeljka porast temperatura",
-  "NEDELJKO TODOROVIĆ NAJAVIO NOVI VREMENSKI OBRT: Temperatura pala za 10 stepeni za 15 minuta, a evo kada stiže novo zahlađenje - Ovo nas čeka do kraja novembra"
+  "NEDELJKO TODOROVIĆ NAJAVIO NOVI VREMENSKI OBRT: Temperatura pala za 10 stepeni za 15 minuta, a evo kada stiže novo zahlađenje - Ovo nas čeka do kraja novembra",
+  "Meteorolog Todorović: Zahlađenje će trajati dva dana, od ponedeljka porast temperatura"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Todorović: Zahlađenje traje do ponedeljka, sredinom nedelje preko 18 stepeni"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
