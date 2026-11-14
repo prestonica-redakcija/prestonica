@@ -3362,12 +3362,6 @@
  "fokus": [],
  "runs": [
   {
-   "vreme": "2026-11-13T12:39+00:00",
-   "novih": 6,
-   "ukupno": 802,
-   "sekundi": 161.1
-  },
-  {
    "vreme": "2026-11-13T12:55+00:00",
    "novih": 6,
    "ukupno": 808,
@@ -3720,6 +3714,12 @@
    "novih": 0,
    "ukupno": 1020,
    "sekundi": 54.3
+  },
+  {
+   "vreme": "2026-11-14T03:31+00:00",
+   "novih": 0,
+   "ukupno": 1020,
+   "sekundi": 76.1
   }
  ],
  "licnosti_foto": {
@@ -3869,6 +3869,33 @@
   }
  },
  "videos": [
+  {
+   "id": "fxjhjnmP1AE",
+   "title": "Die Geburtstagswoche des Grauens für Merz. Mit Rasmus Buchsteiner",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-14T03:30:13+00:00",
+   "thumb": "https://i.ytimg.com/vi/fxjhjnmP1AE/hqdefault.jpg",
+   "live": "none",
+   "desc": "Nach etlichen Stunden Verhandlungsmarathon im Haushaltsausschuss bleiben zentrale Konflikte um Stromsteuer und kalte Progression ungelöst. Während die SPD entspannt zuschaut, wächst der Frust über leere Versprechen zur Schuldenbremse und einen teils scheinbar abwesenden Kanzler. Gordon Repinski und Rasmus Buchsteiner analysieren, warum die Koalition im Klein-Klein feststeckt und Friedrich Merz unter Druck gerät.\n\nAußerdem geht es um die Unions-Kandidatin für das Bundespräsidentenamt, Ilse Aigner. Die pragmatische Politikerin genießt auch bei politischen Gegnern hohes Ansehen und positioniert sich als verbindendes Element in Zeiten der Spaltung. \nRepinski und Buchsteiner besprechen, wie Aigne",
+   "spektar": "centar",
+   "viewers": null,
+   "naslov": "Merc pod pritiskom posle maratonskih pregovora o budžetu i kandidatura Ilze Ajgner",
+   "opis": "U emisiji POLITICO Europe Gordon Repinski i Rasmus Buchsteiner analiziraju budžetske sporove u nemačkoj koaliciji i položaj kancelara Fridriha Merca. Govore i o Ilze Ajgner, kandidatkinji Unije za mesto saveznog predsednika.",
+   "tekst": [
+    "U emisiji se analizira ishod višečasovnih pregovora u budžetskom odboru Bundestaga. Prema opisu, ključni sporovi oko poreza na struju i takozvane hladne progresije ostali su nerešeni.",
+    "Voditelji Gordon Repinski i Rasmus Buchsteiner razmatraju zašto koalicija, kako se navodi, zapada u sitne sporove i zašto Fridrih Merc dolazi pod pritisak. Opisuju se i rastuće nezadovoljstvo zbog neispunjenih obećanja o kočnici zaduživanja i utisak da je kancelar delimično odsutan, dok SPD mirno posmatra.",
+    "Druga tema je Ilze Ajgner, kandidatkinja Unije za mesto saveznog predsednika. U opisu se navodi da je reč o pragmatičnoj političarki koja uživa ugled i među političkim protivnicima i koja se predstavlja kao spona u vremenima podeljenosti."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "Fridrih Merc",
+    "Ilze Ajgner",
+    "Nemačka koalicija",
+    "SPD",
+    "budžetski odbor"
+   ],
+   "slug": "merc-pod-pritiskom-posle-maratonskih-pregovora-o-budzetu-i-fxjhjnmp1ae"
+  },
   {
    "id": "kwoJMWwnMmc",
    "title": "Šta Srbija mora na putu ka EU?",
@@ -6073,32 +6100,6 @@
    "slug": "tino-chrupalla-pod-pritiskom-u-afd-zbog-kritike-americke-shzb5-svivm"
   },
   {
-   "id": "Xc12c7R8COk",
-   "title": "Inside the Israeli election with Jonathan Freedland | Westminster Insider",
-   "kanal": "POLITICO Europe",
-   "published": "2026-11-11T13:20:18+00:00",
-   "thumb": "https://i.ytimg.com/vi/Xc12c7R8COk/hqdefault.jpg",
-   "live": "none",
-   "desc": "Jonathan Freedland, Guardian columnist and host of the Unholy podcast, brings us everything we need to know from Israel's crucial election.\n\nVisit our website: https://www.politico.eu/\n\n-------- Social Media --------\nFollow us on Twitter: https://twitter.com/POLITICOEurope | https://twitter.com/LivePOLITICO\nFollow us on Facebook: https://www.facebook.com/POLITICOeu\nFollow us on LinkedIn: https://linkedin.com/company/politico-europe/",
-   "spektar": "centar",
-   "viewers": null,
-   "naslov": "Izbori u Izraelu: Džonatan Fridlend o ključnim temama u emisiji Westminster Insider",
-   "opis": "U emisiji Westminster Insider portala Politico Europe gostuje Džonatan Fridlend, kolumnista lista Guardian i voditelj podkasta Unholy. Govori o onome što treba znati o izraelskim izborima, koji se u opisu snimka nazivaju presudnim.",
-   "tekst": [
-    "U emisiji Westminster Insider, koju producira Politico Europe, gostuje Džonatan Fridlend, kolumnista britanskog lista Guardian i voditelj podkasta Unholy.",
-    "Tema razgovora su izbori u Izraelu, koje opis snimka predstavlja kao presudne. Fridlend iznosi svoj uvid u ono što je važno znati o izbornom procesu."
-   ],
-   "rubrika": "svet",
-   "oznake": [
-    "Izrael",
-    "izbori u Izraelu",
-    "Džonatan Fridlend",
-    "Guardian",
-    "Politico Europe"
-   ],
-   "slug": "izbori-u-izraelu-dzonatan-fridlend-o-kljucnim-temama-u-xc12c7r8cok"
-  },
-  {
    "id": "STl3skSe-LA",
    "title": "INTERVJU: Teša Tešanović - Sad je trenutak da se sruši ceo kartel! (11.11.2026)",
    "kanal": "Slavija Info",
@@ -6285,7 +6286,7 @@
    ]
   }
  ],
- "_novi_snimci": false,
+ "_novi_snimci": true,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
