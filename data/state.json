@@ -3363,12 +3363,6 @@
  "fokus": [],
  "runs": [
   {
-   "vreme": "2026-11-13T13:26+00:00",
-   "novih": 11,
-   "ukupno": 823,
-   "sekundi": 311.2
-  },
-  {
    "vreme": "2026-11-13T13:38+00:00",
    "novih": 3,
    "ukupno": 826,
@@ -3721,6 +3715,12 @@
    "novih": 0,
    "ukupno": 1020,
    "sekundi": 70.3
+  },
+  {
+   "vreme": "2026-11-14T04:15+00:00",
+   "novih": 0,
+   "ukupno": 1020,
+   "sekundi": 51.4
   }
  ],
  "licnosti_foto": {
