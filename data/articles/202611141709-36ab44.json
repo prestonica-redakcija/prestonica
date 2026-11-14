@@ -25,17 +25,24 @@
  ],
  "importance": 4,
  "published": "2026-11-14T16:09:08.123200+00:00",
- "updated": "2026-11-14T16:09:08.123200+00:00",
+ "updated": "2026-11-14T17:08:37.152081+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/297777/ugostiteljske-usluge-za-godinu-dana-poskupele-za-56-odsto/vest",
    "title": "Ugostiteljske usluge za godinu dana poskupele za 5,6 odsto",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/285001/ugostitelji-za-godinu-dana-digli-cene-56-odsto/vest",
+   "title": "Ugostitelji za godinu dana digli cene 5,6 odsto",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Ugostiteljske usluge za godinu dana poskupele za 5,6 odsto"
+  "Ugostiteljske usluge za godinu dana poskupele za 5,6 odsto",
+  "Ugostitelji za godinu dana digli cene 5,6 odsto"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Ugostiteljske usluge u oktobru skuplje za 5,6 odsto nego pre godinu dana"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

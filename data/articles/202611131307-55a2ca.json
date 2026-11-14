@@ -30,17 +30,24 @@
  ],
  "importance": 6,
  "published": "2026-11-13T12:07:30.942141+00:00",
- "updated": "2026-11-13T12:07:30.942141+00:00",
+ "updated": "2026-11-14T17:08:37.152081+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/najave-emisija/dan-uzivo-zahtev-za-ponistavanje-vucicevih-pomilovanja/",
    "title": "Dan uživo: Zahtev za poništavanje Vučićevih pomilovanja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/video/dan-uzivo/dan-uzivo-13112026/",
+   "title": "Dan uživo (13.11.2026)",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Dan uživo: Zahtev za poništavanje Vučićevih pomilovanja"
+  "Dan uživo: Zahtev za poništavanje Vučićevih pomilovanja",
+  "Dan uživo (13.11.2026)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Upravni_sud_Zagreb.jpg",
   "alt": "Anketna komisija traži tužbu za poništavanje Vučićevih pomilovanja"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

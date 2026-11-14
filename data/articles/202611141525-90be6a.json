@@ -35,7 +35,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T14:25:03.666886+00:00",
- "updated": "2026-11-14T14:25:03.666886+00:00",
+ "updated": "2026-11-14T17:08:37.152081+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -54,12 +54,19 @@
    "url": "https://www.youtube.com/watch?v=d3_DADMu94c",
    "title": "Sve što sam govorio se ostvarilo.",
    "spektar": "desnica"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4433093-donald-tusk-ironicno-o-istrazi-protiv-orbanovog-brata-i-bivseg-ministra",
+   "title": "\"Dragi Viktore...\" Donald Tusk ismejao Orbana zbog zakopanih dolara u šumi! O ovom komentaru priča ceo svet",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "„Dragi Viktore, impresioniran sam kao nikada pre“: Donald Tusk ismejao Orbana na društvenim mrežama",
   "\"DRAGI VIKTORE, IMPRESIONIRAO SI ME KAO NIKAD DO SADA!\" Tusk brutalno ismejao Orbana nakon što su pronađeni zakopani milioni: \"Poštujem tvoju kreativnost\"",
-  "Sve što sam govorio se ostvarilo."
+  "Sve što sam govorio se ostvarilo.",
+  "\"Dragi Viktore...\" Donald Tusk ismejao Orbana zbog zakopanih dolara u šumi! O ovom komentaru priča ceo svet"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,5 +78,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Donald_Tusk_visits_Moldova_-_2024_-_03.jpg",
   "alt": "Tusk ironično o Orbanu nakon zaplene gotovine u istrazi protiv bivšeg ministra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

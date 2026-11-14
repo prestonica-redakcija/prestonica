@@ -32,17 +32,24 @@
  ],
  "importance": 5,
  "published": "2026-11-14T11:41:26.868148+00:00",
- "updated": "2026-11-14T11:41:26.868148+00:00",
+ "updated": "2026-11-14T17:08:37.152081+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/bisevac-nova-skupstinska-vecina-bice-na-velikom-i-ozbiljnom-ispitu-naprednjaci-ce-se-truditi-da-opstruisu-rad/",
    "title": "Biševac: Nova skupštinska većina biće na velikom i ozbiljnom ispitu, naprednjaci će se truditi da opstruišu rad",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/dijalog/licni-stavovi/slava-studentima-danasu-i-televizijama-n1-i-nova-s/",
+   "title": "Slava studentima, Danasu i televizijama N1 i Nova S",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Biševac: Nova skupštinska većina biće na velikom i ozbiljnom ispitu, naprednjaci će se truditi da opstruišu rad"
+  "Biševac: Nova skupštinska većina biće na velikom i ozbiljnom ispitu, naprednjaci će se truditi da opstruišu rad",
+  "Slava studentima, Danasu i televizijama N1 i Nova S"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Novinarka Danasa za N1: Studentsku listu u parlamentu čeka ozbiljan ispit"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

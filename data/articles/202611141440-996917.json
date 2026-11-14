@@ -3,19 +3,20 @@
  "slug": "italija-kaznila-metu-sa-805-miliona-evra-zbog-pristupa-fotografijama",
  "kind": "vest",
  "section": "ekonomija",
- "headline": "Italija kaznila Metu sa 805 miliona evra zbog pristupa fotografijama korisnika",
- "lead": "Italijanska agencija za zaštitu podataka kaznila je kompaniju Meta Platforms Ireland sa 805 miliona evra. Povod je pristup sadržaju iz galerija Android telefona italijanskih korisnika bez posebnog i informisanog pristanka.",
+ "headline": "Italija kaznila Metu sa 805 miliona evra, rok za saglasnost korisnika je 60 dana",
+ "lead": "Italijanski regulator za zaštitu podataka kaznio je Metu sa 805 miliona evra zbog Fejsbukove funkcije predloga iz galerije na Android telefonima, a kompanija ima 60 dana da pribavi posebnu i izričitu saglasnost korisnika. Prema navodima Politika koje prenosi Nova, reč je o najvećoj kazni koju je taj regulator ikada izrekao.",
  "body": [
-  "Kako prenosi Tanjug pozivajući se na „Garante Privacy“, kazna se odnosi na pristup fotografijama, video-zapisima i metapodacima iz galerija telefona sa operativnim sistemom Android.",
-  "Reč je o Fejsbukovoj funkciji „Dobijajte predloge iz galerije prilikom pregledanja“, uvedenoj 2023. godine. Ona korisnicima predlaže fotografije i video-snimke sa telefona za objavljivanje.",
-  "Prema navodima italijanskog regulatora, istraga je pokazala da je funkcija bila podrazumevano uključena. Dozvola za pristup galeriji obuhvatala je više različitih funkcija, a korisnici nisu jasno obavešteni o tome šta zapravo odobravaju.",
-  "U izvoru koji nam je dostupan ne navodi se odgovor kompanije Meta na odluku niti da li će kazna biti osporena."
+  "Kazna se odnosi na funkciju „Dobijajte predloge iz galerije prilikom pregledanja“, uvedenu 2023. godine, koja korisnicima predlaže fotografije i video-snimke sa telefona za objavljivanje. Kako prenosi Tanjug pozivajući se na „Garante Privacy“, reč je o pristupu fotografijama, video-zapisima i metapodacima iz galerija telefona. Regulator je saopštio da funkcija krši italijanski zakon kojim se sprovodi Direktiva Evropske unije o privatnosti u elektronskim komunikacijama.",
+  "Prema navodima regulatora, istraga je pokazala da je funkcija bila podrazumevano uključena. Pristup galeriji tražio se jedinstvenom dozvolom za celu aplikaciju, koja obuhvata više funkcija sa različitim potrebama. Zahtevu za odobrenje prethodilo je opšte upozorenje iz kojeg korisnici, kako se navodi, nisu mogli da razumeju da zapravo odobravaju predlaganje fotografija i video-zapisa.",
+  "U saopštenju stoji: „Ako se odobri u potpunosti, ta vrsta dozvole omogućava aplikaciji pristup celokupnoj arhivi fotografija na uređaju, a da pritom ni korisnik, ni nadležni organi, ne mogu da provere koji se podaci zapravo koriste“.",
+  "Regulator je, prema pisanju Nove, odbio prigovor kompanije da nije nadležan i da je za slučaj nadležan irski organ. Obrazložio je to time što propisi o privatnosti u elektronskim komunikacijama ne predviđaju mehanizam jedinstvene kontaktne tačke.",
+  "Pored kazne, Meta ima rok od 60 dana da pribavi posebnu i izričitu saglasnost za ovu funkciju, kao i da jasno objasni šta ona radi i kako se može isključiti. Američka kompanija ima pravo žalbe na odluku. U izvorima koji su nam dostupni ne navodi se odgovor Mete na odluku niti da li će je osporiti."
  ],
  "tags": [
   "Meta",
-  "Fejsbuk",
-  "zaštita podataka",
   "Italija",
+  "zaštita podataka",
+  "Fejsbuk",
   "kazna",
   "privatnost"
  ],
@@ -26,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-14T13:40:24.733503+00:00",
- "updated": "2026-11-14T15:24:29.110893+00:00",
+ "updated": "2026-11-14T17:08:37.152081+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,13 +52,20 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/252079/meta-kaznjena-sa-805-miliona-evra-zbog-pristupa-galeriji/vest",
    "title": "Paprena kazna za Metu u Italiji: Zbog pristupa fotografijama iz galerija korisnika moraju da plate 805 miliona evra",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/italija-kaznila-kompaniju-meta-sa-805-milina-evra-zbog-nedozvoljenog-koriscenja-fotografija/",
+   "title": "Italija kaznila kompaniju „Meta” sa 805 milina evra zbog nedozvoljenog korišćenja fotografija",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Italija: Meta kažnjena sa 805 mln evra zbog pristupa slikama korisnika bez saglasnosti",
   "Italija: Meta kažnjena sa 805 miliona evra zbog pristupa slikama korisnika bez saglasnosti",
   "Italija: Meta kažnjena sa 805 miliona evra zbog pristupa slikama korisnika bez saglasnosti",
-  "Paprena kazna za Metu u Italiji: Zbog pristupa fotografijama iz galerija korisnika moraju da plate 805 miliona evra"
+  "Paprena kazna za Metu u Italiji: Zbog pristupa fotografijama iz galerija korisnika moraju da plate 805 miliona evra",
+  "Italija kaznila kompaniju „Meta” sa 805 milina evra zbog nedozvoljenog korišćenja fotografija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +77,8 @@
   "local": true,
   "alt": "Italija kaznila Metu sa 805 miliona evra zbog pristupa fotografijama korisnika"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 0,
+ "boost": 1.32,
+ "prepisano": "2026-11-14T17:08:37.152081+00:00",
+ "verzija": 2
 }

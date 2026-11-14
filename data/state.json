@@ -3985,18 +3985,24 @@
   "https://www.kurir.rs/stars/10162218/sta-natasa-kovacevic-kaze-o-veljku-raznatovicu-i-kostimu-bubamare": "2026-11-14T16:53:45.316588+00:00",
   "https://www.kurir.rs/vesti/politika/10162245/Djurdjevic-Stamenkovski": "2026-11-14T16:53:45.316588+00:00",
   "https://www.kurir.rs/stars/10162244/poslednje-upozorenje-zeljka-mitrovica": "2026-11-14T16:53:45.316588+00:00",
-  "https://www.kurir.rs/crna-hronika/10162138/hapsenje-15-policajaca-rusi-optuznicu-za-nestanak-danke-ilic": "2026-11-14T16:53:45.316588+00:00"
+  "https://www.kurir.rs/crna-hronika/10162138/hapsenje-15-policajaca-rusi-optuznicu-za-nestanak-danke-ilic": "2026-11-14T16:53:45.316588+00:00",
+  "https://www.telegraf.rs/vesti/svet/4433093-donald-tusk-ironicno-o-istrazi-protiv-orbanovog-brata-i-bivseg-ministra": "2026-11-14T17:08:37.152081+00:00",
+  "https://nova.rs/vesti/svet/italija-kaznila-kompaniju-meta-sa-805-milina-evra-zbog-nedozvoljenog-koriscenja-fotografija/": "2026-11-14T17:08:37.152081+00:00",
+  "https://n1info.rs/video/dan-uzivo/dan-uzivo-13112026/": "2026-11-14T17:08:37.152081+00:00",
+  "https://www.danas.rs/dijalog/licni-stavovi/slava-studentima-danasu-i-televizijama-n1-i-nova-s/": "2026-11-14T17:08:37.152081+00:00",
+  "https://www.telegraf.rs/4433097-drzavni-sekretar-u-vladi-srbije-razresen-duznosti": "2026-11-14T17:08:37.152081+00:00",
+  "https://www.b92.net/biz/srbija/vesti/285001/ugostitelji-za-godinu-dana-digli-cene-56-odsto/vest": "2026-11-14T17:08:37.152081+00:00",
+  "https://www.tanjug.rs/ekonomija/svet/297793/helenik-enerdzi-ubrzava-regionalni-rast-i-u-rumuniju-ulaze-vise-od-milijardu-evra/vest": "2026-11-14T17:08:37.152081+00:00",
+  "https://www.euronews.rs/biznis/biznis-vesti/252089/wsj-kina-siri-mrezu-spijunaze-radi-zapadne-tehnologije/vest": "2026-11-14T17:08:37.152081+00:00",
+  "https://www.tanjug.rs/svet/politika/297792/mask-neki-kljucni-dogovori-envidije-koji-nisu-potpisani-propasce-nakon-ostavke-huanga/vest": "2026-11-14T17:08:37.152081+00:00",
+  "https://informer.rs/politika/kolumne/1169894/nebojsa-bakarec-kolumna-studenti-u-blokadi": "2026-11-14T17:08:37.152081+00:00",
+  "https://www.youtube.com/watch?v=0V0MR7hHUcU": "2026-11-14T17:08:37.152081+00:00",
+  "https://www.youtube.com/watch?v=FmJcnR43p3A": "2026-11-14T17:08:37.152081+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-14T02:16+00:00",
-   "novih": 0,
-   "ukupno": 1020,
-   "sekundi": 56.8
-  },
   {
    "vreme": "2026-11-14T02:31+00:00",
    "novih": 0,
@@ -4350,6 +4356,12 @@
    "novih": 4,
    "ukupno": 1229,
    "sekundi": 169.3
+  },
+  {
+   "vreme": "2026-11-14T17:11+00:00",
+   "novih": 4,
+   "ukupno": 1233,
+   "sekundi": 146.5
   }
  ],
  "licnosti_foto": {
@@ -4499,6 +4511,29 @@
   }
  },
  "videos": [
+  {
+   "id": "0V0MR7hHUcU",
+   "title": "Milan St. Protić - Svaki pojedinac treba iz sebe da izvuče svoj maksimum!",
+   "kanal": "Bez cenzure",
+   "published": "2026-11-14T17:01:17+00:00",
+   "thumb": "https://i.ytimg.com/vi/0V0MR7hHUcU/hqdefault.jpg",
+   "live": "none",
+   "desc": "Milan St. Protić - Svaki pojedinac treba iz sebe da izvuče svoj maksimum!",
+   "spektar": "desnica",
+   "viewers": null,
+   "naslov": "Milan St. Protić: svaki pojedinac treba da izvuče iz sebe svoj maksimum",
+   "opis": "Milan St. Protić u snimku kanala Bez cenzure iznosi stav da svaki pojedinac treba da izvuče iz sebe svoj maksimum. Iz naslova i opisa snimka nije vidljiv širi povod ni kontekst razgovora.",
+   "tekst": [
+    "Snimak kanala Bez cenzure donosi izlaganje Milana St. Protića, koji u snimku tvrdi da svaki pojedinac treba da izvuče iz sebe svoj maksimum."
+   ],
+   "rubrika": "drustvo",
+   "oznake": [
+    "Milan St. Protić",
+    "Bez cenzure",
+    "lični razvoj"
+   ],
+   "slug": "milan-st-protic-svaki-pojedinac-treba-da-izvuce-iz-sebe-0v0mr7hhucu"
+  },
   {
    "id": "FmJcnR43p3A",
    "title": "Branićemo narod, branićemo ovu državu, branićemo našu svetu crkvu.",
@@ -5563,30 +5598,6 @@
     "Nedeljko Todorović"
    ],
    "slug": "nagli-prelazak-sa-leta-na-zimu-temperatura-pala-za-petnaest-hk7ho5wxzfc"
-  },
-  {
-   "id": "Bu0A-jwPtiY",
-   "title": "Da li je SNS uopšte stranka ili nešto sasvim drugo? Nemanja RUJEVIĆ",
-   "kanal": "Bez cenzure",
-   "published": "2026-11-14T09:00:36+00:00",
-   "thumb": "https://i.ytimg.com/vi/Bu0A-jwPtiY/hqdefault.jpg",
-   "live": "none",
-   "desc": "Da li je SNS uopšte stranka ili nešto sasvim drugo? Nemanja RUJEVIĆ",
-   "spektar": "desnica",
-   "viewers": null,
-   "naslov": "Nemanja Rujević o tome da li je SNS uopšte stranka ili nešto sasvim drugo",
-   "opis": "U snimku kanala Bez cenzure Nemanja Rujević govori o tome da li je SNS uopšte stranka ili nešto sasvim drugo. Iz naslova i opisa snimka ne vidi se povod razgovora ni dalji detalji.",
-   "tekst": [
-    "Snimak je objavljen na kanalu Bez cenzure, a govornik je Nemanja Rujević. Tema je priroda Srpske napredne stranke i pitanje da li se ona može smatrati običnom političkom strankom."
-   ],
-   "rubrika": "politika",
-   "oznake": [
-    "SNS",
-    "Nemanja Rujević",
-    "Bez cenzure",
-    "politički sistem"
-   ],
-   "slug": "nemanja-rujevic-o-tome-da-li-je-sns-uopste-stranka-ili-bu0a-jwptiy"
   },
   {
    "id": "C5-Ew-Jn2kw",
@@ -33023,6 +33034,26 @@
   },
   "t:sudjenje u negotinu": {
    "t": 1794675328.51734,
+   "items": []
+  },
+  "t:helenik enerdzi": {
+   "t": 1794676143.2832053,
+   "items": []
+  },
+  "t:pet ociju": {
+   "t": 1794676159.4028435,
+   "items": []
+  },
+  "t:ilon mask": {
+   "t": 1794676174.1413417,
+   "items": []
+  },
+  "t:nebojsa bakarec": {
+   "t": 1794676190.3297968,
+   "items": []
+  },
+  "t:studenti u blokadi": {
+   "t": 1794676190.5172713,
    "items": []
   }
  },
