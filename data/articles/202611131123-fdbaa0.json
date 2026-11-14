@@ -26,17 +26,24 @@
  ],
  "importance": 3,
  "published": "2026-11-13T10:23:10.475153+00:00",
- "updated": "2026-11-13T10:23:10.475153+00:00",
+ "updated": "2026-11-14T00:02:00.333556+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/297457/bugarska-privreda-porasla-za-25-odsto-u-trecem-kvartalu-potrosnja-glavni-pokretac-rasta/vest",
    "title": "Bugarska privreda porasla za 2,5 odsto u trećem kvartalu, potrošnja glavni pokretač rasta",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4432325-privreda-ove-susedne-zemlje-porasla-za-25-u-trecem-kvartalu",
+   "title": "Privreda ove susedne zemlje porasla za 2,5% u trećem kvartalu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Bugarska privreda porasla za 2,5 odsto u trećem kvartalu, potrošnja glavni pokretač rasta"
+  "Bugarska privreda porasla za 2,5 odsto u trećem kvartalu, potrošnja glavni pokretač rasta",
+  "Privreda ove susedne zemlje porasla za 2,5% u trećem kvartalu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Bugarski BDP u trećem kvartalu porastao 2,5 odsto, rast vuče domaća potrošnja"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
