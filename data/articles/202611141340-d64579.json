@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T12:40:54.901064+00:00",
- "updated": "2026-11-14T13:40:24.733503+00:00",
+ "updated": "2026-11-14T14:39:50.710142+00:00",
  "sources": [
   {
    "name": "B92",
@@ -50,12 +50,19 @@
    "url": "https://www.euronews.rs/svet/planeta/252068/gadi-ajzenkot-optuzio-netanjahua-za-kampanju-protiv-arapa/vest",
    "title": "Ajzenkot optužio Netanjahua za podsticanje kampanje protiv arapskih građana Izraela",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/ajzenkot-netanjahu-podstice-nasilnu-i-rasisticku-kampanju-protiv-arapskih-gradana-izraela",
+   "title": "Ajzenkot: Netanjahu podstiče \"nasilnu i rasističku\" kampanju protiv arapskih građana Izraela",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Ajzenkot: \"Netanjahu podstiče nasilnu i rasističku kampanju protiv Arapa\"",
   "MANDATAR OPTUŽIO NETANJAHUA: \"Podstiče nasilnu i rasističku kampanju protiv arapskih građana Izraela",
-  "Ajzenkot optužio Netanjahua za podsticanje kampanje protiv arapskih građana Izraela"
+  "Ajzenkot optužio Netanjahua za podsticanje kampanje protiv arapskih građana Izraela",
+  "Ajzenkot: Netanjahu podstiče \"nasilnu i rasističku\" kampanju protiv arapskih građana Izraela"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "osoba": "Gadi Ajzenkot",
   "alt": "Ajzenkot optužio Netanjahua da podstiče rasističku kampanju protiv izraelskih Arapa"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

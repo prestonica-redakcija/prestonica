@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-14T12:40:54.901064+00:00",
- "updated": "2026-11-14T12:40:54.901064+00:00",
+ "updated": "2026-11-14T14:39:50.710142+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -44,11 +44,18 @@
    "url": "https://nova.rs/vesti/hronika/aleksandar-radic-pred-vucicev-poraz-informacije-su-govorile-da-se-sprema-drzavni-udar/",
    "title": "Aleksandar Radić: Pred Vučićev poraz informacije su govorile da se sprema državni udar",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/radic-u-noci-izbora-se-pripremao-drzavni-udar-ali-se-sve-u-sekundi-promenilo/",
+   "title": "Radić: U noći izbora se pripremao državni udar, ali se sve u sekundi promenilo",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Aleksandar Radić iz egzila: Pred Vučićev poraz informacije su govorile da se sprema državni udar, u sekundi se sve promenilo",
-  "Aleksandar Radić: Pred Vučićev poraz informacije su govorile da se sprema državni udar"
+  "Aleksandar Radić: Pred Vučićev poraz informacije su govorile da se sprema državni udar",
+  "Radić: U noći izbora se pripremao državni udar, ali se sve u sekundi promenilo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Radić iz egzila o paralelnim strukturama, tužilaštvo proverava kako je govorio za RTS"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
