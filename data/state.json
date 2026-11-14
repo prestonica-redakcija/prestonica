@@ -3385,18 +3385,22 @@
   "https://informer.rs/politika/vesti/1169727/branimir-nestorovic-nova-vlada-gradjani": "2026-11-14T06:28:53.076027+00:00",
   "https://www.kurir.rs/zabava/pop-kultura/10161233/kako-izgleda-vila-tamare-eklston": "2026-11-14T06:28:53.076027+00:00",
   "https://www.kurir.rs/crna-hronika/10161776/poginuo-muskarac-na-novom-beogradu-pretrcavao-ulicu-van-pesackog-prelaza": "2026-11-14T06:28:53.076027+00:00",
-  "https://www.b92.net/info/svet/284862/bbc-putin-nije-spreman-za-kraj-rata/vest": "2026-11-14T06:28:53.076027+00:00"
+  "https://www.b92.net/info/svet/284862/bbc-putin-nije-spreman-za-kraj-rata/vest": "2026-11-14T06:28:53.076027+00:00",
+  "https://www.euronews.rs/svet/fokus/252019/tramp-putin-i-si-u-cetvrtak-potencijalno-na-sastanku-u-kini/vest": "2026-11-14T06:43:55.072383+00:00",
+  "https://www.danas.rs/kolumna/milan-st-protic/sta-ce-biti-najteze/": "2026-11-14T06:43:55.072383+00:00",
+  "https://n1info.rs/biznis/forbes-pregled-nedelje-nikad-uzbudljivija-poslovna-sedmica-hotel-jugoslavija/": "2026-11-14T06:43:55.072383+00:00",
+  "https://www.tanjug.rs/svet/politika/297652/uklonjena-bomba-u-dablinu-blizu-mesta-gde-je-odrzana-vecera-u-okviru-samita-eu/vest": "2026-11-14T06:43:55.072383+00:00",
+  "https://www.telegraf.rs/vesti/svet/4432865-uklonjena-bomba-u-dablinu-bila-je-blizu-mesta-gde-je-odrzana-vecera-u-okviru-samita-eu": "2026-11-14T06:43:55.072383+00:00",
+  "https://www.telegraf.rs/vesti/svet/4432625-najvaznije-vesti-iz-sveta-za-13-novembar-2026-godine": "2026-11-14T06:43:55.072383+00:00",
+  "https://www.tanjug.rs/svet/drustvo/297671/sad-nastavljeni-letovi-nakon-visecasovne-obustave-uz-kasnjenja-i-otkazivanja/vest": "2026-11-14T06:43:55.072383+00:00",
+  "https://informer.rs/politika/vesti/1169736/lider-opozicije-aleksandar-vucic-tv-pink": "2026-11-14T06:43:55.072383+00:00",
+  "https://www.tanjug.rs/svet/drustvo/297672/danas-ponovo-protesti-u-francuskoj-ocekuje-se-do-60000-demonstranata-u-parizu/vest": "2026-11-14T06:43:55.072383+00:00",
+  "https://www.telegraf.rs/vesti/svet/4432860-francuzi-se-ne-smiruju-subota-je-dan-za-novi-protest-na-nogama-70000-policajaca-i-zandarma": "2026-11-14T06:43:55.072383+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-13T15:54+00:00",
-   "novih": 6,
-   "ukupno": 885,
-   "sekundi": 203.6
-  },
   {
    "vreme": "2026-11-13T16:09+00:00",
    "novih": 8,
@@ -3750,6 +3754,12 @@
    "novih": 4,
    "ukupno": 1026,
    "sekundi": 146.2
+  },
+  {
+   "vreme": "2026-11-14T06:46+00:00",
+   "novih": 5,
+   "ukupno": 1031,
+   "sekundi": 162.1
   }
  ],
  "licnosti_foto": {
@@ -3899,6 +3909,31 @@
   }
  },
  "videos": [
+  {
+   "id": "haPzLjNSv5Q",
+   "title": "Politički analitičar Đorđe Vukadinović gost Jutarnjeg programa RTS-a",
+   "kanal": "RTS",
+   "published": "2026-11-14T06:39:22+00:00",
+   "thumb": "https://i.ytimg.com/vi/haPzLjNSv5Q/hqdefault.jpg",
+   "live": "none",
+   "desc": "Label and copyright : RTS\r\nZabranjeno svako kopiranje video i/ili audio snimaka i postavljanje na druge kanale!",
+   "spektar": "vlast",
+   "viewers": null,
+   "naslov": "Politički analitičar Đorđe Vukadinović gost Jutarnjeg programa RTS-a",
+   "opis": "Politički analitičar Đorđe Vukadinović gostovao je u Jutarnjem programu RTS-a. Iz naslova i opisa snimka ne vidi se koje su teme razmatrane u razgovoru.",
+   "tekst": [
+    "U snimku je gostovanje politološkog komentatora Đorđa Vukadinovića u emisiji Jutarnji program Radio-televizije Srbije.",
+    "Opis snimka sadrži samo napomenu o autorskim pravima, pa konkretne teme razgovora nisu navedene."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "Đorđe Vukadinović",
+    "RTS",
+    "Jutarnji program",
+    "politička analiza"
+   ],
+   "slug": "politicki-analiticar-djordje-vukadinovic-gost-jutarnjeg-hapzljnsv5q"
+  },
   {
    "id": "fxjhjnmP1AE",
    "title": "Die Geburtstagswoche des Grauens für Merz. Mit Rasmus Buchsteiner",
@@ -6193,31 +6228,6 @@
    "skip": true
   },
   {
-   "id": "NxIxAUGJ9kc",
-   "title": "Vremenska prognoza 11. novembar 2026.",
-   "kanal": "RTS",
-   "published": "2026-11-10T18:02:24+00:00",
-   "thumb": "https://i.ytimg.com/vi/NxIxAUGJ9kc/hqdefault.jpg",
-   "live": "none",
-   "desc": "I sutra će biti pretežno oblačno, mestimično sa kišom, više padavina očekuje se u drugom delu dana na severu Srbije. Duvaće slab i umeren jugoistočni vetar. Jutarnje temperature od 5 do 10, najviše dnevne od 11 do 18 stepeni. U Beogradu sutra oblačno, kišovito ali toplije vreme. Jutarnja temperatura oko 10, najviša dnevna 17 stepeni.\n\nhttps://admin.rts.rs/lat/vesti/vreme/6080420/vremenska-prognoza-11-novembar-2026.html\n\nLabel and copyright : RTS\r\nZabranjeno svako kopiranje video i/ili audio snimaka i postavljanje na druge kanale!",
-   "spektar": "vlast",
-   "viewers": null,
-   "naslov": "Vremenska prognoza za 11. novembar 2026: oblačno, mestimično sa kišom",
-   "opis": "RTS najavljuje za sutra pretežno oblačno vreme, mestimično sa kišom, a više padavina u drugom delu dana na severu Srbije. Jutarnje temperature biće od 5 do 10, a najviše dnevne od 11 do 18 stepeni. U Beogradu se očekuje kišovito, ali toplije vreme, sa najvišom dnevnom temperaturom oko 17 stepeni.",
-   "rubrika": "drustvo",
-   "oznake": [
-    "vremenska prognoza",
-    "RTS",
-    "Srbija",
-    "Beograd"
-   ],
-   "slug": "vremenska-prognoza-za-11-novembar-2026-oblacno-mestimicno-nxixaugj9kc",
-   "tekst": [
-    "Prema prognozi, duvaće slab i umeren jugoistočni vetar. Jutarnje temperature biće od 5 do 10, a najviše dnevne od 11 do 18 stepeni.",
-    "U Beogradu se najavljuje oblačno, kišovito ali toplije vreme, sa jutarnjom temperaturom oko 10 i najvišom dnevnom od 17 stepeni."
-   ]
-  },
-  {
    "id": "jirt2orAGa8",
    "title": "Informer je samo pokazna vežba.",
    "kanal": "Vukša Dragović",
@@ -6316,7 +6326,7 @@
    ]
   }
  ],
- "_novi_snimci": false,
+ "_novi_snimci": true,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -6403,7 +6413,7 @@
    },
    "ininic": {
     "since_id": "2121413056882160077",
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -6411,7 +6421,7 @@
    },
    "sviublokade_fdu": {
     "since_id": "2120560395492495772",
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "dragandjilas": {
     "since_id": null,
@@ -6459,11 +6469,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "studentblokade": {
     "since_id": "2121235052155543772",
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -6535,7 +6545,7 @@
    },
    "boristadic58": {
     "since_id": null,
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "srdjanmil037": {
     "since_id": "2121485221874815005",
@@ -6587,7 +6597,7 @@
    },
    "borakonj": {
     "since_id": "2121480055557595446",
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "narodnipokrets": {
     "since_id": "2120601957350195572",
@@ -6595,67 +6605,67 @@
    },
    "direktnors": {
     "since_id": "2121341320329416863",
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "crtars": {
     "since_id": "2121266154312470704",
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "veceivan": {
     "since_id": "2121303796001222914",
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "repjoewilson": {
     "since_id": "2120984500146696436",
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "jugoslavcosic": {
     "since_id": "2121378612750561670",
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "tvnova_s": {
     "since_id": "2121365119317811436",
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "oljautisak": {
     "since_id": null,
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "srdjan_nogo": {
     "since_id": "2120938654998630563",
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "agrifblokira": {
     "since_id": null,
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "etfblokada": {
     "since_id": "2120930020059136372",
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "nastraninaroda": {
     "since_id": "2121342229339918554",
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "bcenzure": {
     "since_id": "2121366360143929375",
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "bezstraha26279": {
-    "since_id": "2121336233930768460",
-    "t": 1794635973.1180432
+    "since_id": "2121487369081860235",
+    "t": 1794638741.9740028
    },
    "lazidetektor": {
     "since_id": "2121337308553363922",
-    "t": 1794635973.1180432
+    "t": 1794638741.9740028
    },
    "nedeljniknin": {
     "since_id": "2121483266951659776",
@@ -6679,6 +6689,19 @@
    }
   },
   "posts": [
+   {
+    "id": "2121487369081860235",
+    "x": "BezStraha26279",
+    "ime": "BezStraga",
+    "grupa": "",
+    "uloga": "",
+    "text": "USA POMAŽE SRBIJI PROTIV MAFIJE !\n\nPROMENOM VLASTI\nAMERIKA ĆE PREKO INL-A I STEJT DEPARTAMENTA POMOĆI ĆE  U BORBI PROTIV ORGANIZOVANOG KRIMINALA I KORUPCIJE UGLAVNOM KROZ TEHNIČKU POMOĆ, OBUKU I EKSPERTIZU I LOGISTIKU\n\nINL ĆE POMOĆI :\nOBUKA I SAVETOVANJE ZA POLICIJU, TUŽIOCE I https://t.co/FzxyppjJdj https://t.co/lCNBsicqSJ",
+    "published": "2026-11-14T06:16:18.000+00:00",
+    "lajk": 31,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Tvrdnja da bi SAD posle promene vlasti pomogle Srbiji protiv kriminala"
+   },
    {
     "id": "2121485221874815005",
     "x": "srdjanmil037",
@@ -28396,6 +28419,132 @@
   "t:branimir nestorovic": {
    "t": 1794637778.1519,
    "items": []
+  },
+  "t:ustav": {
+   "t": 1794638668.4323635,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Plze%C5%88_-_Pre%C5%A1ovsk%C3%A1_-_View_West_along_N%C3%A1rodn%C3%AD_pam%C3%A1tkov%C3%BD_%C3%BAstav.jpg/1920px-Plze%C5%88_-_Pre%C5%A1ovsk%C3%A1_-_View_West_along_N%C3%A1rodn%C3%AD_pam%C3%A1tkov%C3%BD_%C3%BAstav.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3982,
+     "h": 5974,
+     "god": 2011,
+     "credit": "Wikimedia Commons / Txllxt TxllxT / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Plze%C5%88_-_Pre%C5%A1ovsk%C3%A1_-_View_West_along_N%C3%A1rodn%C3%AD_pam%C3%A1tkov%C3%BD_%C3%BAstav.jpg",
+     "naslov": "Plzeň - Prešovská - View West along Národní památkový ústav.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Cedule_N%C3%A1rodn%C3%AD_pam%C3%A1tkov%C3%BD_%C3%BAstav%2C_Kun%C5%A1t%C3%A1t.jpg/1920px-Cedule_N%C3%A1rodn%C3%AD_pam%C3%A1tkov%C3%BD_%C3%BAstav%2C_Kun%C5%A1t%C3%A1t.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 1944,
+     "h": 2592,
+     "god": 2016,
+     "credit": "Wikimedia Commons / Jarda 75 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Cedule_N%C3%A1rodn%C3%AD_pam%C3%A1tkov%C3%BD_%C3%BAstav,_Kun%C5%A1t%C3%A1t.jpg",
+     "naslov": "Cedule Národní památkový ústav, Kunštát.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/N%C3%A1rodn%C3%AD_pam%C3%A1tkov%C3%BD_%C3%BAstav_Bouzov.jpg/1920px-N%C3%A1rodn%C3%AD_pam%C3%A1tkov%C3%BD_%C3%BAstav_Bouzov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 1944,
+     "h": 2592,
+     "god": 2016,
+     "credit": "Wikimedia Commons / Jarda 75 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:N%C3%A1rodn%C3%AD_pam%C3%A1tkov%C3%BD_%C3%BAstav_Bouzov.jpg",
+     "naslov": "Národní památkový ústav Bouzov.jpg"
+    }
+   ]
+  },
+  "t:azotara": {
+   "t": 1794638687.5974424,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/16._2025_May_17_Vojlovica_%2820%29_Azotara_Laslovarga.jpg/1920px-16._2025_May_17_Vojlovica_%2820%29_Azotara_Laslovarga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4160,
+     "h": 3120,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Laslovarga / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:16._2025_May_17_Vojlovica_(20)_Azotara_Laslovarga.jpg",
+     "naslov": "16. 2025 May 17 Vojlovica (20) Azotara Laslovarga.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/16._2025_May_17_Vojlovica_%2823%29_Azotara_Laslovarga.jpg/1920px-16._2025_May_17_Vojlovica_%2823%29_Azotara_Laslovarga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4160,
+     "h": 3120,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Laslovarga / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:16._2025_May_17_Vojlovica_(23)_Azotara_Laslovarga.jpg",
+     "naslov": "16. 2025 May 17 Vojlovica (23) Azotara Laslovarga.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/16._2025_May_17_Vojlovica_%2822%29_Azotara_Laslovarga.jpg/1920px-16._2025_May_17_Vojlovica_%2822%29_Azotara_Laslovarga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4160,
+     "h": 3120,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Laslovarga / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:16._2025_May_17_Vojlovica_(22)_Azotara_Laslovarga.jpg",
+     "naslov": "16. 2025 May 17 Vojlovica (22) Azotara Laslovarga.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/16._2025_May_17_Vojlovica_%2819%29_Azotara_Laslovarga.jpg/1920px-16._2025_May_17_Vojlovica_%2819%29_Azotara_Laslovarga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4160,
+     "h": 3120,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Laslovarga / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:16._2025_May_17_Vojlovica_(19)_Azotara_Laslovarga.jpg",
+     "naslov": "16. 2025 May 17 Vojlovica (19) Azotara Laslovarga.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/16._2025_May_17_Vojlovica_%2825%29_Azotara_Laslovarga.jpg/1920px-16._2025_May_17_Vojlovica_%2825%29_Azotara_Laslovarga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4160,
+     "h": 3120,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Laslovarga / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:16._2025_May_17_Vojlovica_(25)_Azotara_Laslovarga.jpg",
+     "naslov": "16. 2025 May 17 Vojlovica (25) Azotara Laslovarga.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/16._2025_May_17_Vojlovica_%2824%29_Azotara_Laslovarga.jpg/1920px-16._2025_May_17_Vojlovica_%2824%29_Azotara_Laslovarga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3120,
+     "h": 4160,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Laslovarga / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:16._2025_May_17_Vojlovica_(24)_Azotara_Laslovarga.jpg",
+     "naslov": "16. 2025 May 17 Vojlovica (24) Azotara Laslovarga.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/16._2025_May_17_Vojlovica_%2821%29_Azotara_Laslovarga.jpg/1920px-16._2025_May_17_Vojlovica_%2821%29_Azotara_Laslovarga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4160,
+     "h": 3120,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Laslovarga / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:16._2025_May_17_Vojlovica_(21)_Azotara_Laslovarga.jpg",
+     "naslov": "16. 2025 May 17 Vojlovica (21) Azotara Laslovarga.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/16._2025_May_17_Vojlovica_%2826%29_Azotara_Laslovarga.jpg/1920px-16._2025_May_17_Vojlovica_%2826%29_Azotara_Laslovarga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3120,
+     "h": 4160,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Laslovarga / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:16._2025_May_17_Vojlovica_(26)_Azotara_Laslovarga.jpg",
+     "naslov": "16. 2025 May 17 Vojlovica (26) Azotara Laslovarga.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/16._2025_May_17_Vojlovica_%2827%29_Azotara_Laslovarga.jpg/1920px-16._2025_May_17_Vojlovica_%2827%29_Azotara_Laslovarga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3120,
+     "h": 4160,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Laslovarga / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:16._2025_May_17_Vojlovica_(27)_Azotara_Laslovarga.jpg",
+     "naslov": "16. 2025 May 17 Vojlovica (27) Azotara Laslovarga.jpg"
+    }
+   ]
+  },
+  "t:pariz": {
+   "t": 1794638736.6563356,
+   "items": []
+  },
+  "t:zuti prsluci": {
+   "t": 1794638737.5313861,
+   "items": []
   }
  },
  "x_objave": {
@@ -30123,6 +30272,15 @@
    "oblast": "politika",
    "wd": "",
    "t": 1794603902.5430148,
+   "ok": true,
+   "foto": null
+  },
+  "Emanuel Makron": {
+   "ime": "Emanuel Makron",
+   "uloga": "predsednik Francuske",
+   "oblast": "svet",
+   "wd": "",
+   "t": 1794638751.249763,
    "ok": true,
    "foto": null
   }
