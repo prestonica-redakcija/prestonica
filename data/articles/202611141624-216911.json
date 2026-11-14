@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T15:24:29.110893+00:00",
- "updated": "2026-11-14T15:24:29.110893+00:00",
+ "updated": "2026-11-14T15:54:19.911335+00:00",
  "sources": [
   {
    "name": "N1",
@@ -45,11 +45,18 @@
    "url": "https://nova.rs/vesti/svet/bozinovic-odbacio-navode-o-prebijanju-53-migranta-na-granici-sa-bih-hrvatska-policija-nema-takva-saznanja/",
    "title": "Božinović odbacio navode o prebijanju 53 migranta na granici sa BiH: Hrvatska policija nema takva saznanja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/region/hrvatski-ministar-nemamo-infromacije-o-premlacivanju-migranata-na-granici-s-bih/",
+   "title": "Hrvatski ministar: Nemamo infromacije o premlaćivanju migranata na granici s BiH",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Hrvatski ministar: Nemamo infromacije o premlaćivanju migranata na granici s BiH",
-  "Božinović odbacio navode o prebijanju 53 migranta na granici sa BiH: Hrvatska policija nema takva saznanja"
+  "Božinović odbacio navode o prebijanju 53 migranta na granici sa BiH: Hrvatska policija nema takva saznanja",
+  "Hrvatski ministar: Nemamo infromacije o premlaćivanju migranata na granici s BiH"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Magnus_Brunner_and_Davor_Bo%C5%BEinovic.jpg",
   "alt": "Božinović: hrvatska policija nema saznanja o prebijanju migranata na granici sa BiH"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

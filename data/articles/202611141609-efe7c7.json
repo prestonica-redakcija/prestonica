@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-14T15:09:42.068093+00:00",
- "updated": "2026-11-14T15:24:29.110893+00:00",
+ "updated": "2026-11-14T15:54:19.911335+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -60,6 +60,12 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4433027-mojsilovic-sa-komandantom-kfora-o-stanju-bezbednosti-na-kosovu-i-metohiji",
    "title": "Mojsilović sa komandantom Kfora o stanju bezbednosti na Kosovu i Metohiji",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/nacelnik-generalstaba-vojske-srbije-i-komandant-kfora-razgovarali-o-bezbednosti-na-kosovu-i-metohiji",
+   "title": "Načelnik Generalštaba Vojske Srbije i komandant Kfora razgovarali o bezbednosti na Kosovu i Metohiji",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -67,7 +73,8 @@
   "Mojsilović sa komandantom Kfora razgovarao o stanju bezbednosti na Kosovu i Metohiji",
   "Mojsilović i komandant KFOR: Bezbednosna situacija na Kosovu i Metohiji izuzetno osetljiva",
   "Mojsilović i komandant KFOR: Bezbednosna situacija na Kosovu i Metohiji izuzetno osetljiva",
-  "Mojsilović sa komandantom Kfora o stanju bezbednosti na Kosovu i Metohiji"
+  "Mojsilović sa komandantom Kfora o stanju bezbednosti na Kosovu i Metohiji",
+  "Načelnik Generalštaba Vojske Srbije i komandant Kfora razgovarali o bezbednosti na Kosovu i Metohiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -79,6 +86,6 @@
   "local": true,
   "alt": "Mojsilović i komandant Kfora razgovarali o bezbednosnoj situaciji na Kosovu i Metohiji"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

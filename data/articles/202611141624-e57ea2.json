@@ -33,7 +33,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T15:24:29.110893+00:00",
- "updated": "2026-11-14T15:24:29.110893+00:00",
+ "updated": "2026-11-14T15:54:19.911335+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,11 +46,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4433034-afd-nominovao-bivseg-fudbalera-za-predsednika-nemacke",
    "title": "AfD nominovao bivšeg fudbalera za predsednika Nemačke",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/afd-nominovao-bivseg-fudbalera-tomasa-bertolda-za-predsednika-nemacke",
+   "title": "AfD nominovao bivšeg fudbalera Tomasa Bertolda za predsednika Nemačke",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "AfD nominovao bivšeg fudbalera Tomasa Bertolda za predsednika Nemačke",
-  "AfD nominovao bivšeg fudbalera za predsednika Nemačke"
+  "AfD nominovao bivšeg fudbalera za predsednika Nemačke",
+  "AfD nominovao bivšeg fudbalera Tomasa Bertolda za predsednika Nemačke"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "AfD nominovala bivšeg fudbalera Tomasa Bertolda za predsednika Nemačke"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
