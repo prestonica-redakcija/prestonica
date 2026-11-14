@@ -3431,18 +3431,23 @@
   "https://insajder.net/prenosimo/hitna-pomoc-poginuli-pesak-na-novom-beogradu-i-zena-u-pozaru-u-sremcici": "2026-11-14T07:28:25.888253+00:00",
   "https://nova.rs/vesti/hronika/pesak-poginuo-na-novom-beogradu-jedna-osoba-u-pozaru-u-sremcici/": "2026-11-14T07:28:25.888253+00:00",
   "https://n1info.rs/vesti/pesak-poginuo-na-novom-beogradu-jedna-osoba-u-pozaru-u-sremcici/": "2026-11-14T07:28:25.888253+00:00",
-  "https://informer.rs/politika/kolumne/1169745/kolumna-dragan-j-vucicevic-politika": "2026-11-14T07:28:25.888253+00:00"
+  "https://informer.rs/politika/kolumne/1169745/kolumna-dragan-j-vucicevic-politika": "2026-11-14T07:28:25.888253+00:00",
+  "https://www.tanjug.rs/srbija/politika/297678/sednica-skupstine-u-pristini-ponovo-prekinuta-zbog-nedostatka-kvoruma/vest": "2026-11-14T07:43:16.069693+00:00",
+  "https://www.euronews.rs/srbija/politika/252023/pristina-ponovo-prekinuta-sednica-skupstine-zbog-kvoruma/vest": "2026-11-14T07:43:16.069693+00:00",
+  "https://www.novosti.rs/ekonomija/vesti/1671029/banka-postanska-stedionica-bojan-kekic-likvidnost-isplata-novca-najnovije-vesti": "2026-11-14T07:43:16.069693+00:00",
+  "https://www.telegraf.rs/hi-tech/info-tech/4432873-kolaps-microsoft-servisa-trajao-duze-od-24-sata-evo-sta-je-izazvalo-globalni-haos-stetu-mere-u-milijardama": "2026-11-14T07:43:16.069693+00:00",
+  "https://www.danas.rs/vesti/ekonomija/postanska-stedionica-stabilna/": "2026-11-14T07:43:16.069693+00:00",
+  "https://n1info.rs/vesti/odlozen-pocetak-putnickog-saobracaja-na-pruzi-budimpestabeograd-otkrivene-softverske-greske/": "2026-11-14T07:43:16.069693+00:00",
+  "https://biznis.telegraf.rs/info-biz/4432875-ponovo-se-odlaze-pustanje-u-saobracaj-brze-pruge-do-budimpeste-softverska-greska-mora-da-bude-ispravljena": "2026-11-14T07:43:16.069693+00:00",
+  "https://www.kurir.rs/planeta/10161808/RUBIO-Nema-potrebe-za-daljim-napadima-na-Iran": "2026-11-14T07:43:16.069693+00:00",
+  "https://www.kurir.rs/vesti/politika/10161804/paket-prosirenja-eu-za-2026-ocene-za-srbiju-crnu-goru-i-ostale-kandidate": "2026-11-14T07:43:16.069693+00:00",
+  "https://www.kurir.rs/vesti/politika/10161418/sastanci-studentske-liste-sa-stranim-diplomatama": "2026-11-14T07:43:16.069693+00:00",
+  "https://www.b92.net/info/svet/284872/oglasio-se-dmitrij-poljanski-nakon-sastanka-stalnog-saveta-oebs/vest": "2026-11-14T07:43:16.069693+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-13T16:52+00:00",
-   "novih": 5,
-   "ukupno": 906,
-   "sekundi": 158.6
-  },
   {
    "vreme": "2026-11-13T17:08+00:00",
    "novih": 7,
@@ -3796,6 +3801,12 @@
    "novih": 6,
    "ukupno": 1041,
    "sekundi": 192.3
+  },
+  {
+   "vreme": "2026-11-14T07:45+00:00",
+   "novih": 3,
+   "ukupno": 1044,
+   "sekundi": 118.2
   }
  ],
  "licnosti_foto": {
@@ -28822,6 +28833,10 @@
      "naslov": "Information panel IPARD Krk.jpg"
     }
    ]
+  },
+  "t:prosirenje eu": {
+   "t": 1794642224.8849359,
+   "items": []
   }
  },
  "x_objave": {
@@ -30600,6 +30615,54 @@
    "oblast": "svet",
    "wd": "",
    "t": 1794641453.688646,
+   "ok": true,
+   "foto": null
+  },
+  "Kaja Kalas": {
+   "ime": "Kaja Kalas",
+   "uloga": "visoka predstavnica EU za spoljnu politiku",
+   "oblast": "politika",
+   "wd": "",
+   "t": 1794642270.6136985,
+   "ok": true,
+   "foto": null
+  },
+  "Antonio Košta": {
+   "ime": "Antonio Košta",
+   "uloga": "predsednik Evropskog saveta",
+   "oblast": "politika",
+   "wd": "Q610788",
+   "t": 1794642270.6900923,
+   "ok": true,
+   "foto": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Antonio_Costa_Portrait_2024_%28cropped%29.jpg/500px-Antonio_Costa_Portrait_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Wikimedia Commons / Frédéric Sierakowski - European Council / Attribution",
+    "link": "https://commons.wikimedia.org/wiki/File:Antonio_Costa_Portrait_2024_(cropped).jpg",
+    "w": 3067,
+    "h": 4092
+   }
+  },
+  "Robert Fico": {
+   "ime": "Robert Fico",
+   "uloga": "premijer Slovačke",
+   "oblast": "politika",
+   "wd": "Q57606",
+   "t": 1794642270.754352,
+   "ok": true,
+   "foto": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Robert_Fico_%2854359433078%29_%28cropped%29.jpg/500px-Robert_Fico_%2854359433078%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Wikimedia Commons / Gage Skidmore from Surprise, AZ, United States of America / CC BY-SA 2.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Robert_Fico_(54359433078)_(cropped).jpg",
+    "w": 3475,
+    "h": 4629
+   }
+  },
+  "Aleksandar Bocan-Harčenko": {
+   "ime": "Aleksandar Bocan-Harčenko",
+   "uloga": "ambasador Rusije u Srbiji",
+   "oblast": "politika",
+   "wd": "",
+   "t": 1794642270.754446,
    "ok": true,
    "foto": null
   }

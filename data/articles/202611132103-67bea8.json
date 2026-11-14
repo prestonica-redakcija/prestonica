@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-13T20:03:56.560711+00:00",
- "updated": "2026-11-13T22:03:00.333562+00:00",
+ "updated": "2026-11-14T07:43:16.069693+00:00",
  "sources": [
   {
    "name": "N1",
@@ -51,12 +51,19 @@
    "url": "https://www.euronews.rs/biznis/novac/251996/banka-postanska-stedionica-kekic-tvrdi-da-je-stabilna/vest",
    "title": "Čelnik Poštanske štedionice - Kako je sprečeno povlačenje 2 milijarde dinara: Tražili smo kontrolu NBS",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1671029/banka-postanska-stedionica-bojan-kekic-likvidnost-isplata-novca-najnovije-vesti",
+   "title": "BANKA POŠTANSKA ŠTEDIONICA: Sprečeno povlačenje dve milijarde dinara, puna likvidnost do kraja novembra",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Čelnik Poštanske štedionice kaže da je sprečeno povlačenje dve milijarde dinara, pominje \"jedno državno preduzeće\"",
   "Čelnik Poštanske štedionice: \"Sprečeno povlačenje dve milijarde dinara\"",
-  "Čelnik Poštanske štedionice - Kako je sprečeno povlačenje 2 milijarde dinara: Tražili smo kontrolu NBS"
+  "Čelnik Poštanske štedionice - Kako je sprečeno povlačenje 2 milijarde dinara: Tražili smo kontrolu NBS",
+  "BANKA POŠTANSKA ŠTEDIONICA: Sprečeno povlačenje dve milijarde dinara, puna likvidnost do kraja novembra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Po%C5%A1tanska_%C5%A1tedionica_Pan%C4%8Devo.jpg",
   "alt": "Šef Poštanske štedionice objasnio zašto je zaustavio isplatu velike gotovine klijentu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

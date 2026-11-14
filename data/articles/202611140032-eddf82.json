@@ -31,17 +31,31 @@
  ],
  "importance": 6,
  "published": "2026-11-13T23:32:17.971916+00:00",
- "updated": "2026-11-13T23:32:17.971916+00:00",
+ "updated": "2026-11-14T07:43:16.069693+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/ekonomija/odlozen-saobracaj-budimpesta-beograd/",
    "title": "Odložen početak putničkog saobraćaja na pruzi Budimpešta–Beograd",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/odlozen-pocetak-putnickog-saobracaja-na-pruzi-budimpestabeograd-otkrivene-softverske-greske/",
+   "title": "Odložen početak putničkog saobraćaja na pruzi Budimpešta–Beograd, otkrivene softverske greške",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4432875-ponovo-se-odlaze-pustanje-u-saobracaj-brze-pruge-do-budimpeste-softverska-greska-mora-da-bude-ispravljena",
+   "title": "Ponovo se odlaže puštanje u saobraćaj brze pruge do Budimpešte: Softverska greška mora da bude ispravljena",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Odložen početak putničkog saobraćaja na pruzi Budimpešta–Beograd"
+  "Odložen početak putničkog saobraćaja na pruzi Budimpešta–Beograd",
+  "Odložen početak putničkog saobraćaja na pruzi Budimpešta–Beograd, otkrivene softverske greške",
+  "Ponovo se odlaže puštanje u saobraćaj brze pruge do Budimpešte: Softverska greška mora da bude ispravljena"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Ponovo odložen početak putničkog saobraćaja na pruzi Budimpešta–Beograd"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
