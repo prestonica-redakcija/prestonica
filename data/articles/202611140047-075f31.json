@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-13T23:47:11.188732+00:00",
- "updated": "2026-11-14T04:29:51.859646+00:00",
+ "updated": "2026-11-14T06:13:55.665713+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -51,12 +51,26 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4432749-u-srbiji-danas-osetno-hladnije-na-planinama-pada-sneg-najvisa-dnevna-do-9-c",
    "title": "U Srbiji danas osetno hladnije, na planinama pada sneg: Najviša dnevna do 9 °C",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/297668/u-srbiji-danas-osetno-hladnije-temperatura-do-10-stepeni/vest",
+   "title": "U Srbiji danas osetno hladnije, temperatura do 10 stepeni",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/vremenska-prognoza-14-novembar-2026/",
+   "title": "Danas osetno hladnije, temperatura do 10 stepeni",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Danas osetno hladnije, temperatura od 1 do 11 stepeni: Na planinama slab sneg",
   "Danas mereno letnjih 27 stepeni, večeras SNEG! Veje kao usred zime, temperatura opala na 0: EVO gde i GRMI",
-  "U Srbiji danas osetno hladnije, na planinama pada sneg: Najviša dnevna do 9 °C"
+  "U Srbiji danas osetno hladnije, na planinama pada sneg: Najviša dnevna do 9 °C",
+  "U Srbiji danas osetno hladnije, temperatura do 10 stepeni",
+  "Danas osetno hladnije, temperatura do 10 stepeni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +82,6 @@
   "local": true,
   "alt": "Hladni front doneo pad temperature od 15 do 20 stepeni, na zapadu Srbije pada sneg"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
