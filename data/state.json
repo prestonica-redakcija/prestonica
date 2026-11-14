@@ -3357,18 +3357,13 @@
   "https://www.euronews.rs/biznis/biznis-vesti/251999/nbs-objavila-poziv-za-devetomesecnu-praksu-za-studente/vest": "2026-11-14T03:00:35.628792+00:00",
   "https://www.telegraf.rs/vesti/svet/4432822-turska-i-katar-dodatno-ucvrscuju-savez-potpisan-sporazum-koji-menja-odnose-dve-zemlje": "2026-11-14T03:00:35.628792+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/251980/kurs-dinara-za-evro-u-ponedeljak-1176103/vest": "2026-11-14T04:00:08.855424+00:00",
-  "https://www.telegraf.rs/vesti/srbija/4432749-u-srbiji-danas-osetno-hladnije-na-planinama-pada-sneg-najvisa-dnevna-do-9-c": "2026-11-14T04:29:51.859646+00:00"
+  "https://www.telegraf.rs/vesti/srbija/4432749-u-srbiji-danas-osetno-hladnije-na-planinama-pada-sneg-najvisa-dnevna-do-9-c": "2026-11-14T04:29:51.859646+00:00",
+  "https://www.kurir.rs/vesti/beograd/10161147/planirani-radovi-iskljucenja-struje-u-beogradu14-novembra-2026": "2026-11-14T04:44:44.143404+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-13T13:54+00:00",
-   "novih": 6,
-   "ukupno": 832,
-   "sekundi": 166.4
-  },
   {
    "vreme": "2026-11-13T14:08+00:00",
    "novih": 6,
@@ -3722,6 +3717,12 @@
    "novih": 0,
    "ukupno": 1020,
    "sekundi": 50.4
+  },
+  {
+   "vreme": "2026-11-14T04:46+00:00",
+   "novih": 0,
+   "ukupno": 1020,
+   "sekundi": 121.9
   }
  ],
  "licnosti_foto": {
@@ -6375,7 +6376,7 @@
    },
    "ininic": {
     "since_id": "2121413056882160077",
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -6383,7 +6384,7 @@
    },
    "sviublokade_fdu": {
     "since_id": "2120560395492495772",
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "dragandjilas": {
     "since_id": null,
@@ -6431,11 +6432,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "studentblokade": {
     "since_id": "2121235052155543772",
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -6507,7 +6508,7 @@
    },
    "boristadic58": {
     "since_id": null,
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "srdjanmil037": {
     "since_id": "2121234128859209766",
@@ -6559,7 +6560,7 @@
    },
    "borakonj": {
     "since_id": "2121317761259385154",
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "narodnipokrets": {
     "since_id": "2120601957350195572",
@@ -6567,67 +6568,67 @@
    },
    "direktnors": {
     "since_id": "2121341320329416863",
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "crtars": {
     "since_id": "2121266154312470704",
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "veceivan": {
     "since_id": "2121303796001222914",
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "repjoewilson": {
     "since_id": "2120984500146696436",
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "jugoslavcosic": {
     "since_id": "2121378612750561670",
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "tvnova_s": {
     "since_id": "2121365119317811436",
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "oljautisak": {
     "since_id": null,
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "srdjan_nogo": {
     "since_id": "2120938654998630563",
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "agrifblokira": {
     "since_id": null,
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "etfblokada": {
     "since_id": "2120930020059136372",
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "nastraninaroda": {
     "since_id": "2121342229339918554",
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "bcenzure": {
     "since_id": "2121366360143929375",
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "bezstraha26279": {
     "since_id": "2121336233930768460",
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "lazidetektor": {
     "since_id": "2121337308553363922",
-    "t": 1794628823.7907364
+    "t": 1794631559.0877306
    },
    "nedeljniknin": {
     "since_id": "2121377581396042003",
