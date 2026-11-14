@@ -31,17 +31,31 @@
  ],
  "importance": 4,
  "published": "2026-11-14T09:57:14.437650+00:00",
- "updated": "2026-11-14T09:57:14.437650+00:00",
+ "updated": "2026-11-14T10:12:21.469261+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/region/milioni-dolara-pronadjeni-zakopani-u-sumama-u-okviru-istrage-protiv-bivseg-orbanovog-ministra/",
    "title": "Milioni dolara pronađeni zakopani u šumama u okviru istrage protiv bivšeg Orbanovog ministra",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/orban-mafijaski-bos-skrivena-gotovina/",
+   "title": "„Orban dokazano mafijaški bos, zvanično kraj mafije Fides-KDNP“: Pronađeno oko 19,5 miliona dolara skrivene gotovine, deo bio zakopan u šumi",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/nadjeno-18-miliona-dolara-tokom-istrage-protiv-ministra-iz-orbanove-ere-novac-bio-zakopan-u-sumi/",
+   "title": "Nađeno 18 miliona dolara tokom istrage protiv ministra iz Orbanove ere, novac bio zakopan u šumi",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Milioni dolara pronađeni zakopani u šumama u okviru istrage protiv bivšeg Orbanovog ministra"
+  "Milioni dolara pronađeni zakopani u šumama u okviru istrage protiv bivšeg Orbanovog ministra",
+  "„Orban dokazano mafijaški bos, zvanično kraj mafije Fides-KDNP“: Pronađeno oko 19,5 miliona dolara skrivene gotovine, deo bio zakopan u šumi",
+  "Nađeno 18 miliona dolara tokom istrage protiv ministra iz Orbanove ere, novac bio zakopan u šumi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_and_Viktor_Orb%C3%A1n_(2016-02-17)_11.jpg",
   "alt": "U istrazi protiv bivšeg Orbanovog ministra zaplenjeno 19,5 miliona dolara gotovine"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

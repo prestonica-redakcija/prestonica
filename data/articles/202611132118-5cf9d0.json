@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T20:18:47.027296+00:00",
- "updated": "2026-11-14T03:00:35.628792+00:00",
+ "updated": "2026-11-14T10:12:21.469261+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -38,11 +38,18 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/251999/nbs-objavila-poziv-za-devetomesecnu-praksu-za-studente/vest",
    "title": "NBS objavila poziv studentima za obavljanje prakse, rok za prijavu 27. novembar",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1671081/nbs-objavila-poziv-studentima-prijave-27-novembra-evo-cemu-rec",
+   "title": "NBS OBJAVILA POZIV STUDENTIMA: Prijave do 27. novembra - evo o čemu je reč!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "NBS objavila poziv studentima za obavljanje prakse, rok za prijavu 27. novembar",
-  "NBS objavila poziv studentima za obavljanje prakse, rok za prijavu 27. novembar"
+  "NBS objavila poziv studentima za obavljanje prakse, rok za prijavu 27. novembar",
+  "NBS OBJAVILA POZIV STUDENTIMA: Prijave do 27. novembra - evo o čemu je reč!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,6 +61,6 @@
   "local": true,
   "alt": "NBS raspisala poziv studentima za praksu, prijave se primaju do 27. novembra"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

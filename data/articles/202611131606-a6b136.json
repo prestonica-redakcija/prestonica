@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-13T15:06:05.158544+00:00",
- "updated": "2026-11-13T15:06:05.158544+00:00",
+ "updated": "2026-11-14T10:12:21.469261+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -40,11 +40,18 @@
    "url": "https://biznis.telegraf.rs/info-biz/4432578-sefica-hrvatske-ina-prodala-akcije-mol-a-za-skoro-40-miliona-dinara-evo-sta-se-krije-iza-velike-transakcije",
    "title": "Šefica hrvatske INA prodala akcije MOL-a za skoro 40 miliona dinara: Evo šta se krije iza velike transakcije",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/284711/sefica-hrvatske-ina-prodala-25000-akcija-mol-a/vest",
+   "title": "Šefica hrvatske INA prodala 25.000 akcija MOL-a",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Predsednica Upravnog odbora INA prodala 25.000 akcija MOL-a",
-  "Šefica hrvatske INA prodala akcije MOL-a za skoro 40 miliona dinara: Evo šta se krije iza velike transakcije"
+  "Šefica hrvatske INA prodala akcije MOL-a za skoro 40 miliona dinara: Evo šta se krije iza velike transakcije",
+  "Šefica hrvatske INA prodala 25.000 akcija MOL-a"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Predsednica Upravnog odbora INA prodala 25.000 akcija MOL-a vrednih oko 39,2 miliona dinara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
