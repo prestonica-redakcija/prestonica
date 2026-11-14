@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T10:12:21.469261+00:00",
- "updated": "2026-11-14T12:55:47.674622+00:00",
+ "updated": "2026-11-14T13:40:24.733503+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -38,11 +38,18 @@
    "url": "https://www.kurir.rs/vesti/politika/10162011/novi-dss-upozorava-na-znacaj-obaveznog-vojnog-roka",
    "title": "ODUSTAJANJE OD OBAVEZNOG VOJNOG ROKA JE POGREŠNO! Novi DSS apeluje na skupštinsku većinu: To bi osetno oslabilo odbrambene sposobnosti zemlje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/novi-dss-odustajanje-od-obaveznog-vojnog-roka-direktno-bi-oslabilo-odbrambene-sposobnosti-zemlje",
+   "title": "Novi DSS: Odustajanje od obaveznog vojnog roka direktno bi oslabilo odbrambene sposobnosti zemlje",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Novi DSS poziva na hitno vraćanje obaveznog služenja vojske",
-  "ODUSTAJANJE OD OBAVEZNOG VOJNOG ROKA JE POGREŠNO! Novi DSS apeluje na skupštinsku većinu: To bi osetno oslabilo odbrambene sposobnosti zemlje"
+  "ODUSTAJANJE OD OBAVEZNOG VOJNOG ROKA JE POGREŠNO! Novi DSS apeluje na skupštinsku većinu: To bi osetno oslabilo odbrambene sposobnosti zemlje",
+  "Novi DSS: Odustajanje od obaveznog vojnog roka direktno bi oslabilo odbrambene sposobnosti zemlje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,6 +61,6 @@
   "local": true,
   "alt": "Novi DSS traži hitno vraćanje obaveznog vojnog roka"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

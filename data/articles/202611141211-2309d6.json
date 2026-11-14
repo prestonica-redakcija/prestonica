@@ -24,17 +24,24 @@
  "places": [],
  "importance": 3,
  "published": "2026-11-14T11:11:39.945067+00:00",
- "updated": "2026-11-14T11:11:39.945067+00:00",
+ "updated": "2026-11-14T13:40:24.733503+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/ekonomija/vesti/1671108/kripto-trziste-izgubilo-1-23-milijarde-dolara-24-sata-bitkoin-pao-ispod-68-000-dolara-optimisti-pretrpeli-najvece-gubitke",
    "title": "KRIPTO-TRŽIŠTE IZGUBILO 1,23 MILIJARDE DOLARA ZA 24 SATA: Bitkoin pao ispod 68.000 dolara, optimisti pretrpeli najveće gubitke",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1671108/milijardu-dolara-24-sata-bitkoin-osetno-pao-optimisti-izgubili-milijarde",
+   "title": "MILIJARDU DOLARA ZA 24 SATA! Bitkoin osetno pao, optimisti izgubili milijarde",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "KRIPTO-TRŽIŠTE IZGUBILO 1,23 MILIJARDE DOLARA ZA 24 SATA: Bitkoin pao ispod 68.000 dolara, optimisti pretrpeli najveće gubitke"
+  "KRIPTO-TRŽIŠTE IZGUBILO 1,23 MILIJARDE DOLARA ZA 24 SATA: Bitkoin pao ispod 68.000 dolara, optimisti pretrpeli najveće gubitke",
+  "MILIJARDU DOLARA ZA 24 SATA! Bitkoin osetno pao, optimisti izgubili milijarde"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -45,5 +52,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Bitkoin pao ispod 68.000 dolara, na kripto-tržištu likvidirano 1,23 milijarde dolara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

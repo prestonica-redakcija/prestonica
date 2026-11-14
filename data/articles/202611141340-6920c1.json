@@ -24,7 +24,7 @@
  ],
  "importance": 3,
  "published": "2026-11-14T12:40:54.901064+00:00",
- "updated": "2026-11-14T12:40:54.901064+00:00",
+ "updated": "2026-11-14T13:40:24.733503+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -37,11 +37,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4432958-na-kucu-u-obrenovcu-bacen-molotovljev-koktel-plamen-se-odmah-prosirio",
    "title": "Na kuću u Obrenovcu bačen Molotovljev koktel, plamen se odmah proširio",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/bacen-molotovljev-koktel-na-kucu-u-obrenovcu/",
+   "title": "Bačen Molotovljev koktel na kuću u Obrenovcu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "HOROR U OBRENOVCU! NA KUĆU BACILI MOLOTOVLJEV KOKTEL: Vatra uhvatila garažu i fasadu, policija na nogama!",
-  "Na kuću u Obrenovcu bačen Molotovljev koktel, plamen se odmah proširio"
+  "Na kuću u Obrenovcu bačen Molotovljev koktel, plamen se odmah proširio",
+  "Bačen Molotovljev koktel na kuću u Obrenovcu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD-%D0%BF%D0%BB%D0%BE%D1%87%D0%B0_%D0%97%D0%B0%D0%B3%D0%BE%D1%80%D0%BA%D0%B8_%D0%9C%D0%B8%D1%9B%D0%B8%D1%9B,_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D1%86.jpg",
   "alt": "Molotovljev koktel bačen na kuću u Obrenovcu, požar brzo ugašen, nema povređenih"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

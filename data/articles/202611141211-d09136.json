@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T11:11:39.945067+00:00",
- "updated": "2026-11-14T11:26:31.676479+00:00",
+ "updated": "2026-11-14T13:40:24.733503+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -42,10 +42,17 @@
    "url": "https://n1info.rs/vesti/kamberi-ocekujemo-da-nova-vlast-pokaze-spremnost-da-prekine-praksu-ignorisanja-problema-albanaca/",
    "title": "Kamberi: Očekujemo da nova vlast pokaže spremnost da prekine praksu ignorisanja problema Albanaca",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/kamberi-albanska-koalicija",
+   "title": "Kamberi: Očekujemo da nova vlast pokaže spremnost da prekine praksu ignorisanja problema Albanaca",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Nova vlast da prestane da ignoriše probleme Albanaca",
+  "Kamberi: Očekujemo da nova vlast pokaže spremnost da prekine praksu ignorisanja problema Albanaca",
   "Kamberi: Očekujemo da nova vlast pokaže spremnost da prekine praksu ignorisanja problema Albanaca"
  ],
  "author": "Redakcija Prestonice",
@@ -59,6 +66,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Narodna_skupstina_Srbije.jpg",
   "alt": "Kamberi: Nova vlast da albanska pitanja tretira kao pitanje vladavine prava"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
