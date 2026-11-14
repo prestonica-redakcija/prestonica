@@ -33,7 +33,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T16:38:51.082216+00:00",
- "updated": "2026-11-14T17:23:37.502562+00:00",
+ "updated": "2026-11-14T17:38:28.614915+00:00",
  "sources": [
   {
    "name": "N1",
@@ -58,13 +58,20 @@
    "url": "https://www.tanjug.rs/svet/politika/297799/plenkovic-nema-razloga-za-ostavku-ministarke-zdravlja-zbog-slucaja-peris/vest",
    "title": "Plenković: Nema razloga za ostavku ministarke zdravlja zbog slučaja Periš",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/premijer-hrvatske-uprkos-smrti-pacijenta-nema-potrebe-za-ostavkom-ministarke-zdravstva",
+   "title": "Premijer Hrvatske: Uprkos smrti pacijenta nema potrebe za ostavkom ministarke zdravstva",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Premijer Hrvatske: Uprkos smrti pacijenta nema potrebe za ostavkom ministarke zdravstva",
   "Premijer Hrvatske: Uprkos smrti pacijenta, nema potrebe za ostavkom ministarke zdravlja",
   "Premijer Hrvatske: Uprkos smrti pacijenta nema potrebe za ostavkom ministarke zdravstva",
-  "Plenković: Nema razloga za ostavku ministarke zdravlja zbog slučaja Periš"
+  "Plenković: Nema razloga za ostavku ministarke zdravlja zbog slučaja Periš",
+  "Premijer Hrvatske: Uprkos smrti pacijenta nema potrebe za ostavkom ministarke zdravstva"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -78,6 +85,6 @@
   "osoba": "Andrej Plenković",
   "alt": "Plenković: nema potrebe za ostavkom ministarke zdravstva zbog smrti pacijenta u Zagrebu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
