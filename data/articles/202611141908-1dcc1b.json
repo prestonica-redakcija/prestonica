@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-14T18:08:19.042509+00:00",
- "updated": "2026-11-14T18:23:09.130061+00:00",
+ "updated": "2026-11-14T18:52:48.876839+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -56,13 +56,20 @@
    "url": "https://www.danas.rs/svet/protesti-u-portugaliji-zbog-stambene-krize/",
    "title": "Desetine hiljada protestovalo u Portugaliji zbog stambene krize",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/297817/hiljade-ljudi-protestovale-sirom-portugala-zbog-stambene-krize-i-visokih-cena-zakupa/vest",
+   "title": "Hiljade ljudi protestovale širom Portugala zbog stambene krize i visokih cena zakupa",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Desetine hiljada ljudi na protestima u Portugaliji zbog nedostižnih cena stanovanja",
   "MASOVNI PROTESTI U PORTUGALIJI: Desetine hiljada ljudi na ulicama zbog cena stanova i kirija, traže hitne promene",
   "U Portugaliji najveći protest dosad, desetine hiljada ljudi marširalo u više od 30 gradova",
-  "Desetine hiljada protestovalo u Portugaliji zbog stambene krize"
+  "Desetine hiljada protestovalo u Portugaliji zbog stambene krize",
+  "Hiljade ljudi protestovale širom Portugala zbog stambene krize i visokih cena zakupa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,6 +81,6 @@
   "local": true,
   "alt": "Desetine hiljada ljudi protestovale u više od 30 gradova Portugalije zbog cena stanovanja"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
