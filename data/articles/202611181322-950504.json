@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T12:22:09.404277+00:00",
- "updated": "2026-11-18T12:36:52.310335+00:00",
+ "updated": "2026-11-18T23:32:31.441862+00:00",
  "sources": [
   {
    "name": "N1",
@@ -56,13 +56,20 @@
    "url": "https://www.danas.rs/vesti/drustvo/rhmz-upozorava-obilna-kisa-i-jak-vetar-popodne-i-uvece/",
    "title": "RHMZ upozorava: Obilna kiša i jak vetar popodne i uveče",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/magazin/vremenska-prognoza/danas-naoblacenje-i-kisa-temperatura-do-19-stepeni-uvece-jak-vetar/",
+   "title": "Danas naoblačenje i kiša, temperatura do 19 stepeni: Uveče jak vetar",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "RHMZ upozorio na veliku kišu i jak vetar popodne i uveče",
   "Republički hidrometeorološki zavod upozorio na obilnu kišu i jak vetar popodne i uveče",
   "RHMZ: Upozorenje za područje Srbije na lokalno obilne pljuskove i olujni vetar",
-  "RHMZ upozorava: Obilna kiša i jak vetar popodne i uveče"
+  "RHMZ upozorava: Obilna kiša i jak vetar popodne i uveče",
+  "Danas naoblačenje i kiša, temperatura do 19 stepeni: Uveče jak vetar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,6 +81,6 @@
   "local": true,
   "alt": "RHMZ upozorava na obilnu kišu i jak vetar popodne i uveče, ponegde do 50 milimetara"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
