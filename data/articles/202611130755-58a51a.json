@@ -1,0 +1,250 @@
+{
+ "id": "202611130755-58a51a",
+ "slug": "veliki-prekid-u-radu-microsofta-outlook-i-teams-satima-nedostupni",
+ "kind": "vest",
+ "section": "ekonomija",
+ "headline": "Microsoft: ažuriranje servera nije donelo stabilan oporavak, u Evropi napredak",
+ "lead": "Microsoft je saopštio da je na pogođene servere primenio ažurirane verzije programa, ali da to nije donelo stabilan oporavak, iako beleži \"ohrabrujući napredak u oporavku u Evropi\". Prekid u radu Outlooka i Teamsa traje više od 18 sati, a kompanija navodi da nije obaveštena o zlonamernoj aktivnosti.",
+ "body": [
+  "Prema saopštenju koje prenosi BBC, dostupnost servisa i isporuka imejlova poboljšavaju se u sve većem delu infrastrukture. Japan je, kako stoji u saopštenju, komparativno stabilniji, a situacija u Severnoj Americi se takođe popravlja. Kompanija upozorava da pojedini korisnici i dalje mogu imati probleme i da je usredsređena na rešavanje preostalih problema. Insajder i Večernje novosti, koji objavljuju isti tekst, pozivaju se na Independent, prema kome Outlook i Teams i dalje nisu dostupni.",
+  "Problemi su počeli u četvrtak, 12. novembra. Prema podacima servisa Downdetector, koje navodi Nova, broj prijava problema sa Outlookom dostigao je gotovo 140.000 iz 74 zemlje. Microsoft za svoje poslovne alatke navodi gotovo 500 miliona korisnika, dok Nova pominje više od 430 miliona korisnika aplikacija Microsoft 365, pa je stvaran broj pogođenih verovatno znatno veći od broja prijava.",
+  "Microsoft je ranije objasnio da prekid nije izazvan sajber napadom ni uobičajenim porastom saobraćaja. Prema pisanju Telegrafa i Nove, veći broj servera neočekivano je postao nedostupan, saobraćaj je preusmeren na preostale servere, a oni su se preopteretili. Telegraf navodi da su pojedini serveri ponovo prestajali da odgovaraju kada bi im se vratilo opterećenje. Euronews Srbija piše da je kompanija najpre javila pozitivne rezultate nakon ponovnog pokretanja infrastrukture, a kasnije na mreži Iks navela da stabilan oporavak nije potvrđen.",
+  "Insajder i Večernje novosti navode da su poremećaji pogodili bolnice, aerodrome, sudove, policiju i škole, kao i alatke veštačke inteligencije. Telegraf piše da je OpenAI istraživao probleme sa povezivanjem sa Microsoftovim servisima, a da je probleme prijavio i Anthropic. Nova navodi da su pogođene i službe vlade Singapura i australijska obaveštajna agencija, te da su pojedine ordinacije u Velikoj Britaniji savetovale pacijente da se za hitne zahteve javljaju telefonom.",
+  "Prema CNN-u, koji prenose Euronews Srbija, Nova i Insajder, neki zaposleni u američkim kompanijama ranije su završili radni dan. U Australiji su pojedine firme imale poteškoće sa fakturama, škole sa nastavom na mreži, a distributivni centri za supermarkete sa radom. Australijski mediji javili su i o prekidu prenosa uživo iz sudova. Telegraf navodi da je Workhorse Group zbog poremećaja odložio objavu finansijskih rezultata sa 12. na 16. novembar.",
+  "Tobi Mari, profesor računarstva na Univerzitetu u Melburnu, upozorio je da incident ukazuje na rizike zavisnosti globalne privrede od malog broja velikih tehnoloških kompanija. Australijski stručnjak za bezbednost Troj Hant rekao je za BBC da posledice mogu biti dalekosežne."
+ ],
+ "tags": [
+  "Microsoft",
+  "Outlook",
+  "Teams",
+  "prekid usluga",
+  "Copilot",
+  "oporavak sistema"
+ ],
+ "people": [
+  "Tobi Mari"
+ ],
+ "places": [
+  "Sjedinjene Američke Države",
+  "Australija",
+  "Melburn"
+ ],
+ "importance": 5,
+ "published": "2026-11-13T06:55:05.526438+00:00",
+ "updated": "2026-11-14T15:09:42.068093+00:00",
+ "sources": [
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/251866/microsoft-pao-outlook-i-teams-nedostupni-milionima-ljudi/vest",
+   "title": "Microsoft pao: Milioni korisnika širom sveta ostali bez Outlooka i Teamsa",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/it/majkrosoft-alati-ne-rade-sirom-sveta/",
+   "title": "Majkrosoft alati ne rade širom sveta",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10160962/problemi-sa-microsoft-servisima-outlook-teams-i-copilot",
+   "title": "Pao Ooutlook, problemi širom sveta: Microsoft ne uspeva da reši kvar, hiljade korisnika ostalo bez mejla",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/majkrosoft-pokusava-da-resi-globalni-prekid-rada-outlooka-i-teamsa-ali-priznaje-da-popravke-ne-idu-kako-se-ocekivalo/",
+   "title": "Majkrosoft pokušava da reši globalni prekid rada Outlooka i Teamsa, ali priznaje da popravke ne idu \"kako se očekivalo\"",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/hi-tech/info-tech/4432302-microsoft-servisi-pali-sirom-sveta-problemi-pogodili-cak-i-chatgpt",
+   "title": "Microsoft servisi pali širom sveta: Problemi pogodili čak i ChatGPT",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/globalni-kolaps-majkrosofta-otkriveno-sta-je-poslo-po-zlu-pogodjeni-chatgpt-drzavne-sluzbe-i-milioni-korisnika/",
+   "title": "Globalni kolaps Majkrosofta, otkriveno šta je pošlo po zlu: Pogođeni ChatGPT, državne službe i milioni korisnika",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/251888/microsoft-365-globalni-prekid-rada-pogodeni-outlook-i-teams/vest",
+   "title": "Microsoft u globalnom prekidu rada: Odbačene sumnje na sajber-napad, problem potpuno druge prirode",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/ai/10161020/problemi-sa-microsoft-servisima-pogodili-i-chatgpt",
+   "title": "Tehnološka apokalipsa širom sveta: Padom Microsofta pao i ChatGPT, oglasili se iz kompanije - evo šta se dešava",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/saveti/10161083/iskoristite-chatgpt-u-viberu-za-bolju-organizaciju",
+   "title": "Ne izlazite iz Vibera, a koristite ChatGPT: Evo i kako",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/251946/majkrosoft-o-kvaru-na-svojoj-mrezi/vest",
+   "title": "Oglasio se Microsoft: Evo šta se dešava sa kvarom",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/majkrosoft-ohrabrujuci-napredak-u-obnavljanju-usluga-u-evropi/",
+   "title": "Majkrosoft: Ohrabrujući napredak u obnavljanju usluga u Evropi",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/297547/kvar-u-majkrosoftu-traje-vise-od-18-sati-pogodio-sve-od-bolnica-do-aerodroma/vest",
+   "title": "Kvar u Majkrosoftu traje više od 18 sati, pogodio sve od bolnica do aerodroma",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/kvar-u-majkrosoftu-traje-vise-od-18-sati-pogodene-bolnice-aerodromi-sudovi-i-skole",
+   "title": "Kvar u Majkrosoftu traje više od 18 sati: Pogođene bolnice, aerodromi, sudovi i škole",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1670879/microsoft-kvar-outlook-teams",
+   "title": "KVAR U MAJKROSOFTU: Traje više od 18 sati, pogodio sve od bolnica do aerodroma u više desetina zemalja",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/251965/majkrosoft-kvar-drugi-dan-outlook-i-teams-i-dalje-van-rada/vest",
+   "title": "Globalni kvar u Majkrosoftu ušao u drugi dan: Stale bolnice, aerodromi, sudovi i škole, oglasila se i kompanija",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/bbc-news-serbian/veoma-nam-je-zao-majkrosoftovo-izvinjenje-zbog-prekida-u-radu-servisa/",
+   "title": "‘Veoma nam je žao’: Majkrosoftovo izvinjenje zbog prekida u radu servisa",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/hi-tech/info-tech/4432873-kolaps-microsoft-servisa-trajao-duze-od-24-sata-evo-sta-je-izazvalo-globalni-haos-stetu-mere-u-milijardama",
+   "title": "Kolaps Microsoft servisa trajao duže od 24 sata: Evo šta je izazvalo globalni haos, štetu mere u milijardama",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1671036/microsoft-ponovo-uspostavio-rad-platformi-kolaps-trajao-24-sata-nastao-zbog-tehnickog-problema",
+   "title": "\"MICROSOFT\" PONOVO USPOSTAVIO RAD PLATFORMI: Kolaps trajao 24 sata, nastao zbog tehničkog problema",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/284790/evropa-u-potrazi-za-nastavnicima-i-medicinarima/vest",
+   "title": "Nije samo do plate... Nema dovoljno nastavnika i medicinara: Sve manje Evropljana želi da radi ove poslove",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/297688/majkrosoft-usluge-u-potpunosti-obnovljene-nakon-globalnog-prekida-rada/vest",
+   "title": "Majkrosoft: Usluge u potpunosti obnovljene nakon globalnog prekida rada",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/letovi-u-sad-ponovo-dozvoljeni-haos-na-aerodromima-se-nastavlja-oko-15-miliona-putnika-pogodjeno-poremecajima/",
+   "title": "Letovi u SAD ponovo dozvoljeni – haos na aerodromima se nastavlja, oko 1,5 miliona putnika pogođeno poremećajima",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10161854/majkrosoft-otklonio-probleme",
+   "title": "MAJKROSOFT SE OPORAVIO POSLE GLOBALNOG KOLAPSA: Servisi ponovo rade, evo šta je izazvalo haos",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/majkrosoft-usluge-u-potpunosti-obnovljene-nakon-globalnog-prekida-rada",
+   "title": "Majkrosoft: Usluge u potpunosti obnovljene nakon globalnog prekida rada",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/252037/majkrosoft-outlook-teams-i-copilot-ponovo-dostupni/vest",
+   "title": "Kraj globalnog kolapsa: Majkrosoft potvrdio da servisi ponovo rade, poznato šta je izazvalo prekid",
+   "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1671067/evropljani-zele-ovo-rade-plata-dobra-ali-nekoliko-zanimanja-skoro-nema-zainteresovanih-tesko-pogodite-koja",
+   "title": "EVROPLjANI NE ŽELE OVO DA RADE: Plata dobra, ali za nekoliko zanimanja skoro da nema zainteresovanih - teško je da pogodite za koja!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/252051/pad-outlooka-i-teamsa-vratio-svet-na-faks-i-fiksni-telefon/vest",
+   "title": "Japan se vratio faksu, bolnice receptima na papiru: Šta je otkrio veliki prekid Microsoftovih servisa?",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/usluge-majkrosofta-ponovo-rade/",
+   "title": "Usluge Majkrosofta ponovo rade",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10161736/microsoft-se-izvinjava-zbog-prekida-servisa",
+   "title": "Microsoft se izvinjava korisnicima širom sveta: Outlook, Teams i Copilot pali, a razlog problema iznenadio je mnoge!",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Microsoft pao: Milioni korisnika širom sveta ostali bez Outlooka i Teamsa",
+  "Majkrosoft alati ne rade širom sveta",
+  "Pao Ooutlook, problemi širom sveta: Microsoft ne uspeva da reši kvar, hiljade korisnika ostalo bez mejla",
+  "Majkrosoft pokušava da reši globalni prekid rada Outlooka i Teamsa, ali priznaje da popravke ne idu \"kako se očekivalo\"",
+  "Microsoft servisi pali širom sveta: Problemi pogodili čak i ChatGPT",
+  "Globalni kolaps Majkrosofta, otkriveno šta je pošlo po zlu: Pogođeni ChatGPT, državne službe i milioni korisnika",
+  "Microsoft u globalnom prekidu rada: Odbačene sumnje na sajber-napad, problem potpuno druge prirode",
+  "Tehnološka apokalipsa širom sveta: Padom Microsofta pao i ChatGPT, oglasili se iz kompanije - evo šta se dešava",
+  "Ne izlazite iz Vibera, a koristite ChatGPT: Evo i kako",
+  "Oglasio se Microsoft: Evo šta se dešava sa kvarom",
+  "Majkrosoft: Ohrabrujući napredak u obnavljanju usluga u Evropi",
+  "Kvar u Majkrosoftu traje više od 18 sati, pogodio sve od bolnica do aerodroma",
+  "Kvar u Majkrosoftu traje više od 18 sati: Pogođene bolnice, aerodromi, sudovi i škole",
+  "KVAR U MAJKROSOFTU: Traje više od 18 sati, pogodio sve od bolnica do aerodroma u više desetina zemalja",
+  "Globalni kvar u Majkrosoftu ušao u drugi dan: Stale bolnice, aerodromi, sudovi i škole, oglasila se i kompanija",
+  "‘Veoma nam je žao’: Majkrosoftovo izvinjenje zbog prekida u radu servisa",
+  "Kolaps Microsoft servisa trajao duže od 24 sata: Evo šta je izazvalo globalni haos, štetu mere u milijardama",
+  "\"MICROSOFT\" PONOVO USPOSTAVIO RAD PLATFORMI: Kolaps trajao 24 sata, nastao zbog tehničkog problema",
+  "Nije samo do plate... Nema dovoljno nastavnika i medicinara: Sve manje Evropljana želi da radi ove poslove",
+  "Majkrosoft: Usluge u potpunosti obnovljene nakon globalnog prekida rada",
+  "Letovi u SAD ponovo dozvoljeni – haos na aerodromima se nastavlja, oko 1,5 miliona putnika pogođeno poremećajima",
+  "MAJKROSOFT SE OPORAVIO POSLE GLOBALNOG KOLAPSA: Servisi ponovo rade, evo šta je izazvalo haos",
+  "Majkrosoft: Usluge u potpunosti obnovljene nakon globalnog prekida rada",
+  "Kraj globalnog kolapsa: Majkrosoft potvrdio da servisi ponovo rade, poznato šta je izazvalo prekid",
+  "EVROPLjANI NE ŽELE OVO DA RADE: Plata dobra, ali za nekoliko zanimanja skoro da nema zainteresovanih - teško je da pogodite za koja!",
+  "Japan se vratio faksu, bolnice receptima na papiru: Šta je otkrio veliki prekid Microsoftovih servisa?",
+  "Usluge Majkrosofta ponovo rade",
+  "Microsoft se izvinjava korisnicima širom sveta: Outlook, Teams i Copilot pali, a razlog problema iznenadio je mnoge!"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 3.684,
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg/1920px-Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Wikimedia Commons / 3aFW / CC0",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg",
+  "alt": "Veliki prekid u radu Microsofta: Outlook i Teams satima nedostupni širom sveta"
+ },
+ "novo_od_pisanja": 14,
+ "boost": 1.6,
+ "prepisano": "2026-11-13T15:35:52.267094+00:00",
+ "verzija": 4
+}

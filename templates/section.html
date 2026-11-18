@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% from "macros.html" import card, row, shead, label, rcls %}
+{% block desc %}{{ meta.naziv }}: najnovije vesti i analize na portalu {{ portal.ime }}.{% endblock %}
+{% block main %}
+<section class="sec-hero r-{{ key }}">
+  <span class="sec-ring" aria-hidden="true"></span>
+  <div>
+    <span class="eyebrow">Rubrika</span>
+    <h1>{{ meta.naziv }}</h1>
+    <p>{{ items|length + (1 if lead else 0) }} tekstova · osvežava se na svakih {{ portal.osvezavanje_minuta }} minuta</p>
+  </div>
+  <a class="btn btn-ghost" href="{{ root }}pretraga.html?s={{ key }}">Pretraži rubriku</a>
+</section>
+
+{% if lead %}
+<div class="layout">
+  <div class="col-main">
+    {{ card(lead, root, rubrike, 'xl') }}
+    <div class="grid3 mt">
+      {% for a in items[:9] %}{{ card(a, root, rubrike, 'md') }}{% endfor %}
+    </div>
+    {% if items|length > 9 %}
+    {{ shead('Starije', 'r-' ~ key) }}
+    <ol class="rows rows-wide">{% for a in items[9:] %}{{ row(a, root, rubrike) }}{% endfor %}</ol>
+    {% endif %}
+  </div>
+  <aside class="col-side">
+    <div class="panel">
+      <div class="panel-h"><span class="shead-dot"></span><h2>Najnovije sa portala</h2></div>
+      <ol class="rows">{% for a in latest %}{{ row(a, root, rubrike) }}{% endfor %}</ol>
+    </div>
+  </aside>
+</div>
+{% else %}
+<div class="empty"><span class="ring" aria-hidden="true"><i></i></span><h2>Uskoro prvi tekstovi</h2><p>Sistem puni ovu rubriku pri sledećem osvežavanju.</p><a class="btn btn-primary" href="{{ root }}index.html">Na naslovnu</a></div>
+{% endif %}
+{% endblock %}

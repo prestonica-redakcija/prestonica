@@ -1,0 +1,53 @@
+{
+ "id": "202611121930-d41742",
+ "slug": "helsing-predstavio-clarity-evropsku-ai-platformu-za-analizu-podataka",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Helsing predstavio Clarity, evropsku AI platformu za analizu podataka sa bojišta",
+ "lead": "Nemačka odbrambena kompanija Helsing predstavila je softversku platformu Clarity, koja uz pomoć veštačke inteligencije treba da vojskama olakša obradu podataka sa bojišta. Kako prenosi Kurir, kompanija tako ulazi na tržište na kojem već deluje američki Palantir.",
+ "body": [
+  "Prema navodima koje prenosi Kurir, Clarity prikuplja i analizira podatke sa dronova, satelita, vojnih izveštaja i javno dostupnih izvora, a zatim ih povezuje u jasniju operativnu sliku. Cilj je da komandanti brže prepoznaju položaje, procene situaciju i dobiju preporuke za moguće reakcije.",
+  "Helsing navodi da se platforma oslanja na stotine specijalizovanih AI agenata obučenih za rad sa vojnim podacima. Oni paralelno obrađuju različite izvore, upoređuju podatke i procenjuju pouzdanost zaključaka, a korisnicima prikazuju dokaze na kojima počivaju preporuke. Sistem može i da predloži kako bi se situacija mogla rešiti i da pripremi podatke za odgovarajući sistem naoružanja.",
+  "Kompanija ističe da konačnu odgovornost za odobravanje napada zadržavaju ljudi, odnosno da softver nije zamišljen kao sistem koji samostalno odlučuje o udaru.",
+  "Kurir navodi da se Helsing tako suprotstavlja Palantiru, čiji se Maven sistem koristi u vojnim strukturama SAD i NATO-a. Dodaje se da evropske države sve češće razmatraju ko kontroliše softver, podatke i infrastrukturu u odbrani, što kompanijama poput Helsinga otvara prostor da ponude alternativu američkim rešenjima. Kao kontekst navodi se i da Helsing već isporučuje dronove i druge odbrambene sisteme Ukrajini.",
+  "Prema istom izvoru, kompanija nije objavila sve tehničke detalje o radu platforme, niti je poznato koliko je njena efikasnost proverena u različitim operativnim uslovima."
+ ],
+ "tags": [
+  "Helsing",
+  "Clarity",
+  "veštačka inteligencija",
+  "Palantir",
+  "odbrambena tehnologija",
+  "NATO"
+ ],
+ "people": [],
+ "places": [
+  "Ukrajina",
+  "Nemačka"
+ ],
+ "importance": 3,
+ "published": "2026-11-12T18:30:23.368476+00:00",
+ "updated": "2026-11-12T18:30:23.368476+00:00",
+ "sources": [
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/ai/10160556/helsing-predstavlja-clarity-ai-za-analizu-vojnih-podataka",
+   "title": "Evropski Palantir stiže na bojno polje: Stotine AI agenata analiziraju podatke sa fronta",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Evropski Palantir stiže na bojno polje: Stotine AI agenata analiziraju podatke sa fronta"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.607,
+ "image": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sankt_Olai_kirke_Helsing_r_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Wikimedia Commons / Blumensaadt at da.wikipedia / CC BY-SA 2.5",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:Sankt_Olai_kirke_Helsing_r_005.jpg",
+  "alt": "Helsing predstavio Clarity, evropsku AI platformu za analizu podataka sa bojišta"
+ }
+}

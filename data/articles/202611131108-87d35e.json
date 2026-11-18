@@ -1,0 +1,60 @@
+{
+ "id": "202611131108-87d35e",
+ "slug": "majkrosoft-pad-usluga-nije-sajber-napad-vec-kvar-sopstvenih-servera",
+ "kind": "vest",
+ "section": "ekonomija",
+ "headline": "Majkrosoft: pad usluga nije sajber napad, već kvar sopstvenih servera",
+ "lead": "Majkrosoft (Microsoft) tvrdi da globalni pad njegovih usluga nije izazvao hakerski napad, već problem u sopstvenoj infrastrukturi. Prekid je pogodio korisnike u desetinama država, a pojedine državne službe imale su ozbiljne poteškoće, navodi Večernje novosti.",
+ "body": [
+  "Prema objašnjenju kompanije koje prenose Novosti, uzrok je „povećano opterećenje“ u više regiona. Kako su pojasnili iz Majkrosofta, nije reč o prevelikom broju korisnika, već o tome da je određeni broj servera neočekivano prestao da radi, pa preostali nisu mogli da obrade sve zahteve.",
+  "Kompanija je u jednom trenutku saopštila da vidi „pozitivne rezultate“ popravki, a potom je priznala da oporavak ne ide prema planu. Upozorila je da se usluge mogu ponovo srušiti čim se korisnici povežu, zbog čega testira alternativne načine pristupa alatima bez potpunog zagušenja sistema.",
+  "Novosti navode da pad pogađa alate poput Autluka (Outlook), Timsa (Teams) i Kopilota (Copilot) i da, prema podacima koje prenosi BBC, traje više od 10 sati. Daundetektor (Downdetector) je objavio da se problem za sat vremena proširio na 74 države, a prijave u vezi s Autlukom dostigle su gotovo 140.000 u četvrtak kasno popodne po srednjoevropskom vremenu, što je više od 2000 puta iznad uobičajenog.",
+  "U Singapuru su vlasti građanima poručile da za hitne stvari koriste pozivne centre, a australijski Novi Južni Vels zamolio je ljude da odlože dolazak u kancelarije. Predstavnički dom američkog Kongresa objavio je da je prekid pogodio i njegove korisnike. Australijsko lekarsko udruženje poručilo je da nega pacijenata nije ugrožena jer bolnice mogu da pređu na papirne recepte. Među pogođenim institucijama u Australiji su, navodi se, obaveštajna služba i savezna policija.",
+  "Australijski ministar za sajber bezbednost Toni Berk rekao je da Majkrosoft smatra da je situacija slična slučaju Kraudstrajka (CrowdStrike), kada je ažuriranje „pošlo po zlu“. Stručnjak za bezbednost Troj Hant ocenio je da je Majkrosoft veliki deo „kičme“ interneta, a Pol Spejn iz kompanije Gorila tehnolodži (Gorilla Technology) rekao je da, ako nije reč o napadu, pad ukazuje na „neverovatnu nesposobnost“.",
+  "Banke, univerziteti i institucije širom sveta, prema pisanju Novosti, upozoravaju klijente na prevarante koji šalju lažne imejlove i SMS poruke s ponudom „IT podrške“ kako bi došli do podataka ili podmetnuli zlonamerne aplikacije. Tekst Novosti preuzet je delom iz izvora BBC i Index, a nezavisnu potvrdu navedenih podataka nismo imali."
+ ],
+ "tags": [
+  "Majkrosoft",
+  "pad sistema",
+  "Autluk",
+  "Timsa",
+  "Kopilot",
+  "sajber bezbednost"
+ ],
+ "people": [
+  "Toni Berk",
+  "Troj Hant",
+  "Pol Spejn"
+ ],
+ "places": [
+  "Singapur",
+  "Australija",
+  "Novi Južni Vels",
+  "SAD"
+ ],
+ "importance": 6,
+ "published": "2026-11-13T10:08:15.452290+00:00",
+ "updated": "2026-11-13T10:08:15.452290+00:00",
+ "sources": [
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1670719/majkrosoft-otkrio-uzrok-pada-sistema-razmere-kvara-ogromne",
+   "title": "MAJKROSOFT OTKRIO UZROK PADA SISTEMA: Razmere kvara su ogromne",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "MAJKROSOFT OTKRIO UZROK PADA SISTEMA: Razmere kvara su ogromne"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 2.443,
+ "image": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/BIANCA_TIM%C8%98A_STOICESCU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Wikimedia Commons / Ioanairinciuc / CC0",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:BIANCA_TIM%C8%98A_STOICESCU.jpg",
+  "alt": "Majkrosoft: pad usluga nije sajber napad, već kvar sopstvenih servera"
+ }
+}

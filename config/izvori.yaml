@@ -1,0 +1,80 @@
+# =====================================================================
+#  IZVORI VESTI
+#  spektar: vlast  = mediji bliski bivšoj vlasti (SNS)
+#           opozicija = mediji kritični prema bivšoj vlasti
+#           centar = agencije i mediji bez izražene orijentacije
+#  poverenje: 0-1, koliko izvor nosi težine u rangiranju
+#  ukljucen: false = izvor se preskače
+#
+#  Namerno su uključeni izvori sa obe strane spektra: sistem uporedno
+#  čita kako ko izveštava i piše uravnoteženu vest.
+#  Politika.rs, Vreme i RSE zabranjuju automatsko preuzimanje (robots.txt),
+#  pa nisu uključeni.
+# =====================================================================
+
+izvori:
+  # --- AGENCIJE I CENTAR ---
+  - {id: tanjug-pol,   naziv: Tanjug,  url: "https://www.tanjug.rs/rss/srbija/politika", rubrika: politika,  spektar: centar, poverenje: 0.95, ukljucen: true}
+  - {id: tanjug-eko,   naziv: Tanjug,  url: "https://www.tanjug.rs/rss/ekonomija",       rubrika: ekonomija, spektar: centar, poverenje: 0.95, ukljucen: true}
+  - {id: tanjug-dru,   naziv: Tanjug,  url: "https://www.tanjug.rs/rss/srbija/drustvo",  rubrika: drustvo,   spektar: centar, poverenje: 0.90, ukljucen: true}
+  - {id: tanjug-svet,  naziv: Tanjug,  url: "https://www.tanjug.rs/rss/svet",            rubrika: svet,      spektar: centar, poverenje: 0.90, ukljucen: true}
+  - {id: tanjug-hron,  naziv: Tanjug,  url: "https://www.tanjug.rs/rss/srbija/hronika",  rubrika: hronika,   spektar: centar, poverenje: 0.85, ukljucen: true}
+  - {id: euronews-pol, naziv: Euronews Srbija, url: "https://www.euronews.rs/rss/srbija/politika", rubrika: politika,  spektar: centar, poverenje: 0.90, ukljucen: true}
+  - {id: euronews-biz, naziv: Euronews Srbija, url: "https://www.euronews.rs/rss/biznis",          rubrika: ekonomija, spektar: centar, poverenje: 0.90, ukljucen: true}
+  - {id: euronews-svet,naziv: Euronews Srbija, url: "https://www.euronews.rs/rss/svet",            rubrika: svet,      spektar: centar, poverenje: 0.85, ukljucen: true}
+  - {id: b92,          naziv: B92,     url: "https://www.b92.net/rss/b92/info",          rubrika: politika,  spektar: centar, poverenje: 0.80, ukljucen: true}
+  - {id: b92-biz,      naziv: B92,     url: "https://www.b92.net/rss/biz",               rubrika: ekonomija, spektar: centar, poverenje: 0.80, ukljucen: true}
+
+  - {id: politico,     naziv: Politico Europe, url: "https://www.politico.eu/feed/",           rubrika: svet,      spektar: centar, poverenje: 0.85, ukljucen: true}
+
+  # --- MEDIJI KRITIČNI PREMA BIVŠOJ VLASTI ---
+  - {id: n1,           naziv: N1,      url: "https://n1info.rs/feed/",                   rubrika: politika,  spektar: opozicija, poverenje: 0.85, ukljucen: true}
+  - {id: nova,         naziv: Nova,    url: "https://nova.rs/feed/",                     rubrika: politika,  spektar: opozicija, poverenje: 0.75, ukljucen: true}
+  - {id: danas,        naziv: Danas,   url: "https://www.danas.rs/feed/",                rubrika: politika,  spektar: opozicija, poverenje: 0.82, ukljucen: true}
+  - {id: radar,        naziv: Radar,   url: "https://radar.nova.rs/feed/",               rubrika: politika,  spektar: opozicija, poverenje: 0.72, ukljucen: true}
+  - {id: birn,         naziv: BIRN,    url: "https://birn.rs/", sitemap: "https://birn.rs/post-sitemap1.xml", rubrika: drustvo, spektar: opozicija, poverenje: 0.78, ukljucen: true}
+  - {id: telegraf,     naziv: Telegraf, url: "https://www.telegraf.rs/rss",           rubrika: politika,  spektar: vlast,     poverenje: 0.45, ukljucen: true}
+  - {id: insajder,     naziv: Insajder, url: "https://insajder.net/feed",              rubrika: politika,  spektar: opozicija, poverenje: 0.78, ukljucen: true}
+  - {id: srbija-danas, naziv: Srbija Danas, url: "https://www.sd.rs/rss.xml",         rubrika: politika,  spektar: vlast,     poverenje: 0.42, ukljucen: false}  # odbija servere (403)
+  # Politika: robots.txt zabranjuje /rss i nema javne mape sajta, zato je ne preuzimamo. NIN: sajt nije dostupan našem alatu.
+
+  # --- MEDIJI BLISKI BIVŠOJ VLASTI ---
+  - {id: standard,     naziv: Standard, url: "https://standard.rs/feed/",              rubrika: politika,  spektar: centar,    poverenje: 0.6,  ukljucen: true}
+  - {id: novosti-pol,  naziv: Večernje novosti, url: "https://www.novosti.rs/rss/vesti/politika", rubrika: politika,  spektar: vlast, poverenje: 0.75, ukljucen: true}
+  - {id: novosti-eko,  naziv: Večernje novosti, url: "https://www.novosti.rs/rss/ekonomija",      rubrika: ekonomija, spektar: vlast, poverenje: 0.75, ukljucen: true}
+  - {id: kurir,        naziv: Kurir,   url: "https://www.kurir.rs/rss",                  rubrika: politika,  spektar: vlast, poverenje: 0.65, ukljucen: true}
+  - {id: informer-pol, naziv: Informer, url: "https://informer.rs/rss/politika",         rubrika: politika,  spektar: vlast, poverenje: 0.55, ukljucen: true}
+
+  # --- YOUTUBE KANALI, EMISIJE I STRANKE ---
+  # YouTube kanal se dodaje ovako (channel_id se vidi u adresi kanala):
+  # - {id: primer-yt, naziv: Naziv kanala, url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCxxxxxxxx", rubrika: politika, spektar: centar, poverenje: 0.5, tip: izjava, ukljucen: true}
+  # tip: izjava = tvrdnje se prenose kao izjave, nikad kao utvrđene činjenice
+  # Radi preko zvaničnog YouTube Data API-ja (tajna YOUTUBE_API_KEY); bez ključa se preskače.
+  - {id: slavija-info, naziv: Slavija Info,  youtube_kanal: UCJunj8ud-lYQCS_Ufe0iJ6Q, url: "https://www.youtube.com/@SLAVIJAINFO", rubrika: politika, spektar: desnica, poverenje: 0.45, tip: izjava, ukljucen: true}
+  - {id: srbin-info,   naziv: Srbin.info,    youtube_kanal: UCoppO_UUIoudrxIQ3M4lJcQ, url: "https://www.youtube.com/@srbininfo",   rubrika: politika, spektar: desnica, poverenje: 0.40, tip: izjava, ukljucen: true}
+  - {id: vuksa-dragovic, naziv: Vukša Dragović, youtube_kanal: UCPND_B-35uYPz1tLkoMScBw, url: "https://www.youtube.com/@VuksaDragovic", rubrika: politika, spektar: desnica, poverenje: 0.40, tip: izjava, ukljucen: true}
+  - {id: nps-yt,       naziv: Narodni pokret Srbije, youtube_kanal: UCMcEyUEVMBONmsi-JoQM_eg, url: "https://www.youtube.com/@Narodni.Pokret.Srbije", rubrika: politika, spektar: stranka, poverenje: 0.50, tip: izjava, ukljucen: true}
+  # Zvanični kanali stranaka (isto pravilo za sve). Isključeni čekaju tačan link kanala.
+  - {id: sns-yt,  naziv: Srpska napredna stranka, youtube_kanal: UC00LEcknopICxyghUArwjXw, url: "https://www.youtube.com", rubrika: politika, spektar: stranka, poverenje: 0.50, tip: izjava, ukljucen: true}
+  - {id: nls-yt,  naziv: Novo lice Srbije,        youtube_trazi: "Novo lice Srbije",        url: "https://www.youtube.com", rubrika: politika, spektar: stranka, poverenje: 0.50, tip: izjava, ukljucen: false}
+  - {id: ssp-yt,  naziv: Stranka slobode i pravde, youtube_trazi: "Stranka slobode i pravde", url: "https://www.youtube.com", rubrika: politika, spektar: stranka, poverenje: 0.50, tip: izjava, ukljucen: false}
+  - {id: sps-yt,  naziv: Socijalistička partija Srbije, youtube_trazi: "Socijalistička partija Srbije", url: "https://www.youtube.com", rubrika: politika, spektar: stranka, poverenje: 0.50, tip: izjava, ukljucen: false}
+  - {id: dveri-yt, naziv: Dveri,                  youtube_trazi: "Dveri",                    url: "https://www.youtube.com", rubrika: politika, spektar: stranka, poverenje: 0.50, tip: izjava, ukljucen: false}
+  - {id: bez-cenzure,  naziv: Bez cenzure,   youtube_kanal: UCMp8c8qd5XT8H17Y7xC_YFw, url: "https://www.youtube.com/@BezCenzure",  rubrika: politika, spektar: desnica, poverenje: 0.45, tip: izjava, ukljucen: true}
+
+  # --- ISKLJUČENO (proveriti uslove korišćenja pre uključivanja) ---
+  - {id: blic,         naziv: Blic,    url: "https://www.blic.rs/rss/danasnje-vesti",    rubrika: politika,  spektar: centar, poverenje: 0.75, ukljucen: false}
+  - {id: bbc-srpski,   naziv: BBC na srpskom, url: "https://www.bbc.com/serbian/lat/index.xml", rubrika: svet, spektar: centar, poverenje: 0.90, ukljucen: false}
+
+  # --- Video kanali medija: služe SAMO za video stranu i snimke uz vesti (vesti ovih medija već stižu preko RSS-a) ---
+  - {id: n1-yt,       naziv: N1,              youtube_handle: "@N1Srbija",       youtube_trazi: "N1 Srbija",        url: "https://www.youtube.com", rubrika: politika, spektar: opozicija, poverenje: 0.6, tip: izjava, samo_video: true, ukljucen: true}
+  - {id: nova-yt,     naziv: Nova,            youtube_handle: "@NOVAStv", url: "https://www.youtube.com", rubrika: politika, spektar: opozicija, poverenje: 0.6, tip: izjava, samo_video: true, ukljucen: true}
+  - {id: euronews-yt, naziv: Euronews Srbija, youtube_handle: "@EuronewsSrbija", youtube_trazi: "Euronews Srbija",  url: "https://www.youtube.com", rubrika: politika, spektar: centar,    poverenje: 0.6, tip: izjava, samo_video: true, ukljucen: true}
+  - {id: tanjug-yt,   naziv: Tanjug,          youtube_handle: "@TanjugTV",       youtube_trazi: "Tanjug",           url: "https://www.youtube.com", rubrika: politika, spektar: centar,    poverenje: 0.6, tip: izjava, samo_video: true, ukljucen: true}
+  - {id: kurir-yt,    naziv: Kurir,           youtube_handle: "@KurirTV",        youtube_trazi: "Kurir TV",         url: "https://www.youtube.com", rubrika: politika, spektar: vlast,     poverenje: 0.5, tip: izjava, samo_video: true, ukljucen: true}
+  - {id: informer-yt, naziv: Informer,        youtube_handle: "@InformerTV",     youtube_trazi: "Informer TV",      url: "https://www.youtube.com", rubrika: politika, spektar: vlast,     poverenje: 0.45, tip: izjava, samo_video: true, ukljucen: true}
+  - {id: balkaninfo-yt, naziv: Balkan Info,   youtube_trazi: "Balkan Info",      url: "https://www.youtube.com", rubrika: politika, spektar: desnica,   poverenje: 0.4, tip: izjava, samo_video: true, ukljucen: false}
+  - {id: politico-yt, naziv: POLITICO Europe, youtube_handle: "@POLITICOEurope", youtube_trazi: "POLITICO Europe",  url: "https://www.youtube.com", rubrika: svet,     spektar: centar,    poverenje: 0.6, tip: izjava, samo_video: true, ukljucen: true}
+  - {id: rts-yt,      naziv: RTS,             youtube_handle: "@OkoRTS", url: "https://www.youtube.com", rubrika: politika, spektar: vlast,  poverenje: 0.6, tip: izjava, samo_video: true, ukljucen: true}
+  - {id: insajder-yt, naziv: Insajder,        youtube_handle: "@insajdervideo", url: "https://www.youtube.com", rubrika: politika, spektar: opozicija, poverenje: 0.6, tip: izjava, samo_video: true, ukljucen: true}
+  - {id: rts-main-yt, naziv: RTS,             youtube_handle: "@RTSSajtZvanicniKanal", url: "https://www.youtube.com", rubrika: politika, spektar: vlast, poverenje: 0.6, tip: izjava, samo_video: true, ukljucen: true}

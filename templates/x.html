@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% from "macros.html" import xcard %}
+{% block desc %}Objave političara, institucija, aktivista i novinara na mreži X, povezane sa vestima na portalu {{ portal.ime }}.{% endblock %}
+{% block main %}
+<section class="sec-hero">
+  <span class="sec-ring" aria-hidden="true"></span>
+  <div><span class="eyebrow">Mreža X</span><h1>Na mrežama</h1><p>Šta govore političari, analitičari, novinari, aktivisti i studenti, od najnovijeg. Prikazujemo objave ličnosti od javnog značaja, sa svih strana.</p></div>
+</section>
+{% if xgrupe|length > 1 %}
+<div class="f-group vid-filter xfilter" role="group" aria-label="Grupe">
+  <button class="f-chip on" type="button" data-xf="">Sve</button>
+  {% for k, naziv in xgrupe %}<button class="f-chip" type="button" data-xf="{{ k }}">{{ naziv }}</button>{% endfor %}
+</div>
+{% endif %}
+<div class="xgrid">
+  {% for p in posts %}
+  <div class="xcell" data-xg="{{ p.grupa }}"{% if loop.index > 30 %} hidden{% endif %}>
+    {{ xcard(p) }}
+    {% if p._art %}<a class="xrel" href="{{ root }}{{ p._art._url }}">Vest: {{ p._art.headline }} →</a>{% endif %}
+  </div>
+  {% endfor %}
+</div>
+<div class="xmore-wrap"><button class="btn xmore" type="button" id="xmore">Prikaži još objava</button></div>
+<script>
+(function(){
+  var g='',cells=[].slice.call(document.querySelectorAll('.xcell')),shown=30,more=document.getElementById('xmore');
+  function draw(){var n=0;cells.forEach(function(c){var ok=!g||c.getAttribute('data-xg')===g;if(ok)n++;c.hidden=!(ok&&n<=shown);});more.parentNode.hidden=n<=shown;}
+  var b=document.querySelectorAll('[data-xf]');
+  b.forEach(function(x){x.addEventListener('click',function(){g=x.getAttribute('data-xf');shown=30;b.forEach(function(y){y.classList.toggle('on',y===x);});draw();});});
+  more.addEventListener('click',function(){shown+=30;draw();});
+  draw();
+})();
+</script>
+{% endblock %}

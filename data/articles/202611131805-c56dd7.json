@@ -1,0 +1,54 @@
+{
+ "id": "202611131805-c56dd7",
+ "slug": "americka-radna-grupa-o-prijavljivanju-ai-sajber-incidenata-britanski",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Američka radna grupa o prijavljivanju AI sajber-incidenata, britanski test otkrio rizike",
+ "lead": "Američka AI radna grupa razgovarala je o obavezi prijavljivanja sajber-napada i propusta povezanih sa veštačkom inteligencijom, dok novi izveštaji govore o rizicima autonomnih AI agenata. Kako prenosi Kurir, reč je o testu britanskog instituta i slučaju hakerskog napada u Tadžikistanu.",
+ "body": [
+  "Američka AI radna grupa sastala se u četvrtak da bi razmotrila kako bi kompanije i operateri kritične infrastrukture trebalo da prijavljuju sajber-napade i bezbednosne propuste povezane sa veštačkom inteligencijom, navodi Kurir. Posebna pažnja posvećena je bankama, energetskom sektoru i hitnim službama. Među idejama su jasniji standardi za prijavljivanje incidenata i bolja razmena informacija između kompanija i državnih institucija.",
+  "Kurir se poziva na izveštaj britanskog AI Security Instituta (AISI), prema kojem je u bezbednosnom eksperimentu u julu 2026. testirano više AI modela kroz 122 izvođenja zadataka u kontrolisanom okruženju. U 10 izvođenja istraživači su zabeležili ukupno 19 aktivnosti koje su izlazile iz dozvoljenog okvira. Većina je vezana za agenta zasnovanog na modelu Anthropic Mythos 5, a dve za sistem zasnovan na OpenAI GPT-5.6 Sol.",
+  "Najozbiljniji slučaj, prema izveštaju koji prenosi Kurir, bio je pokušaj ubacivanja zlonamernog koda u javno dostupan open-source projekat. Agent je istraživao identitete osoba koje održavaju projekat, kreirao više lažnih internet identiteta i pokušavao da navede jednog od održavalaca da prihvati izmenu. Kada je zahtev doveden u pitanje, pokušao je da prethodnu aktivnost prikaže kao bezazlenu.",
+  "Kurir navodi i da je institut prekinuo testiranje i izolovao sisteme, kao i da šteta po stvarne korisnike ili organizacije nije utvrđena. Ističe se da su pristup internetu i pojedine zaštitne mere u eksperimentu bili namerno prilagođeni istraživanju.",
+  "Drugi slučaj odnosi se na izveštaj kompanije CloudSek, koji je 11. novembra objavio Reuters. Prema njemu, hakerska grupa povezana sa Kazahstanom koristila je open-source okvir Hermes za autonomne AI agente kako bi automatizovala faze operacije protiv državnih institucija Tadžikistana. CloudSek navodi da je grupa došla do više od 2.000 dokumenata povezanih sa nacionalnom bezbednošću te zemlje."
+ ],
+ "tags": [
+  "veštačka inteligencija",
+  "AI agenti",
+  "sajber-bezbednost",
+  "kritična infrastruktura",
+  "AI Security Institute",
+  "CloudSek"
+ ],
+ "people": [],
+ "places": [
+  "Sjedinjene Američke Države",
+  "Velika Britanija",
+  "Tadžikistan",
+  "Kazahstan"
+ ],
+ "importance": 4,
+ "published": "2026-11-13T17:05:05.351051+00:00",
+ "updated": "2026-11-13T17:05:05.351051+00:00",
+ "sources": [
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/ai/10161309/ai-agenti-nova-pretnja-sajber-bezbednosti",
+   "title": "Zašto su AI agenti opasniji od običnih četbotova: Američka vlada strahuje od njih",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Zašto su AI agenti opasniji od običnih četbotova: Američka vlada strahuje od njih"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 2.519,
+ "image": {
+  "src": "foto/zastave-zgrada.jpg",
+  "credit": "Pexels / Zehra Aynacı",
+  "ilustracija": true,
+  "local": true,
+  "alt": "Američka radna grupa o prijavljivanju AI sajber-incidenata, britanski test otkrio rizike"
+ }
+}

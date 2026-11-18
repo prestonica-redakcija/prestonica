@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% from "macros.html" import vcard %}
+{% block desc %}Video vesti: najvažniji snimci dana iz politike, ekonomije i društva, uz kratko objašnjenje.{% endblock %}
+{% block main %}
+<section class="sec-hero sec-hero-sm">
+  <span class="sec-ring" aria-hidden="true"></span>
+  <div><span class="eyebrow">{% if live_now %}<i class="pulse"></i> {{ live_now|length }} uživo · {% endif %}Video vesti</span><h1>Video</h1><p>Najvažniji snimci dana, uz kratko objašnjenje o čemu je reč.</p></div>
+</section>
+{% if vrubrike|length > 1 %}
+<div class="f-group vid-filter" role="group" aria-label="Rubrika">
+  <button class="f-chip on" type="button" data-vk="">Sve</button>
+  {% for k in vrubrike %}<button class="f-chip r-{{ k }}" type="button" data-vk="{{ k }}"><i></i>{{ rubrike[k].naziv }}</button>{% endfor %}
+</div>
+{% endif %}
+<div id="vid-all">
+  <div class="vid-lead">{{ vcard(lead, root, rubrike, 'lg') }}</div>
+  {% for dan, items in days %}
+  <section class="vid-day">
+    <div class="shead"><span class="shead-dot"></span><h2>{{ dan }}</h2><span class="shead-line"></span></div>
+    <div class="vid-grid vid-grid-3">{% for v in items %}{{ vcard(v, root, rubrike) }}{% endfor %}</div>
+  </section>
+  {% endfor %}
+</div>
+{% endblock %}

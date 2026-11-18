@@ -1,0 +1,50 @@
+{
+ "id": "202611151811-1e69c5",
+ "slug": "microsoft-upozorava-na-fising-kampanju-koja-koristi-nedavni-kvar",
+ "kind": "vest",
+ "section": "drustvo",
+ "headline": "Microsoft upozorava na fišing kampanju koja koristi nedavni kvar Exchange Online servisa",
+ "lead": "Microsoft je upozorio da prevaranti koriste nedavni prekid rada servisa Exchange Online za slanje lažnih obaveštenja o izgubljenim mejlovima. Linkovi u porukama vode na stranice za krađu pristupnih podataka, prenosi Kurir.",
+ "body": [
+  "Kako navodi Kurir, Microsoftov tim za obaveštavanje o sajber pretnjama upozorio je na kampanju koja se pojavila nakon problema sa servisom Exchange Online. Poruke se pozivaju na stvarni incident, označen šifrom EX1550543, kako bi delovale kao zvanično obaveštenje kompanije.",
+  "Primaocima se, prema opisu iz izvora, poručuje da su njihovi mejlovi zadržani tokom prekida rada i da će biti obrisani ako ih ne vrate u određenom roku. Za to je ponuđen link koji, prema tvrdnjama pošiljaoca, omogućava ponovno preuzimanje poruka.",
+  "Microsoft navodi da su uočene poruke sa naslovima koji upućuju na prekid rada servisa, a kao pošiljalac se pojavljuju nazivi poput „Outage Notification“ i „Service Health“. Linkovi ne vode na zvanične stranice kompanije, već na druge adrese, gde korisnici mogu biti izloženi pokušaju krađe lozinki, korisničkih imena ili drugih podataka za pristup nalozima.",
+  "Za sada nema potvrde da su napadači došli do podataka određenog broja korisnika, niti da je kampanja dovela do instaliranja zlonamernih programa na uređaje, piše Kurir. Podsetimo, korisnici Microsoft 365 imali su ranije poteškoće sa pristupom servisima, među njima Outlook i Teams. Kompanija je saopštila da je osnovni problem otklonjen i da prekid nije bio posledica sajber napada, već tehničkih problema u radu infrastrukture.",
+  "Microsoft savetuje korisnicima i administratorima da stanje servisa proveravaju isključivo preko zvaničnog Microsoft 365 administrativnog centra i da ne otvaraju linkove iz neočekivanih poruka, čak ni kada pominju stvaran incident. Posebnu pažnju treba obratiti na poruke koje stvaraju osećaj hitnosti. Ko je već uneo lozinku na takvoj stranici, treba da je promeni preko zvaničnog sajta i proveri aktivnost naloga, a preporučuje se i višefaktorska autentifikacija."
+ ],
+ "tags": [
+  "Microsoft",
+  "fišing",
+  "Exchange Online",
+  "sajber bezbednost",
+  "Microsoft 365",
+  "internet prevara"
+ ],
+ "people": [],
+ "places": [],
+ "importance": 4,
+ "published": "2026-11-15T17:11:37.746892+00:00",
+ "updated": "2026-11-15T17:11:37.746892+00:00",
+ "sources": [
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10161959/microsoft-upozorava-nova-fising-prevara-nakon-kvara",
+   "title": "Microsoft upozorio korisnike: Posle velikog kvara pojavila se nova internet prevara!",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Microsoft upozorio korisnike: Posle velikog kvara pojavila se nova internet prevara!"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.923,
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg/1920px-Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Wikimedia Commons / 3aFW / CC0",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:Microsoft-Zentrale_in_M%C3%BCnchen_von_der_Anni-Albers-Stra%C3%9Fe_aus.jpg",
+  "alt": "Microsoft upozorava na fišing kampanju koja koristi nedavni kvar Exchange Online servisa"
+ }
+}

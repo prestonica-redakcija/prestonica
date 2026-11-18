@@ -1,0 +1,66 @@
+{
+ "id": "202611130839-5cf391",
+ "slug": "globalni-pad-majkrosoftovih-usluga-outlook-i-teams-satima-nedostupni",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Globalni pad Majkrosoftovih usluga: Outlook i Teams satima nedostupni u desetinama zemalja",
+ "lead": "Milioni korisnika širom sveta ostali su satima bez pristupa Majkrosoftovim servisima Outlook i Teams, što je poremetilo rad firmi, škola i javnih službi. Majkrosoft tvrdi da nije reč o hakerskom napadu, već o kvaru u sopstvenoj infrastrukturi.",
+ "body": [
+  "Veliki globalni poremećaj ostavio je milione korisnika bez elektronske pošte Outlook, platforme Teams i drugih alata koje koriste kompanije, obrazovne ustanove i javne službe, prenosi Tanjug pozivajući se na CNN. Posledice su, prema tim navodima, bile najizraženije u Sjedinjenim Državama i Australiji, ali su se osetile i drugde.",
+  "Kurir navodi da su pogođeni i Copilot i da je prekid trajao više od 10 sati. Prema podacima sajta Downdetector, koji prenosi Kurir, problem se za sat vremena proširio na 74 zemlje, a prijave u vezi sa Outlook-om dostigle su skoro 140.000, više od 2.000 puta iznad uobičajenog broja.",
+  "Majkrosoft je, kako prenosi Kurir, odbacio sumnje na sajber napad i objasnio da je reč o „povećanom opterećenju“ u nekoliko regiona. Prema tom objašnjenju, određeni broj servera neočekivano je prestao da radi, pa preostali nisu mogli da obrade sve zahteve. Kompanija je upozorila da se servisi mogu ponovo srušiti kada se korisnici povežu i da testira alternativne načine vraćanja pristupa.",
+  "Prema izveštajima koje prenosi Tanjug, pojedini zaposleni u američkim firmama ranije su završili radni dan, u Australiji su neke firme imale problema sa štampanjem faktura, a neke škole nisu mogle da održe nastavu na internetu. Kurir dodaje da je Predstavnički dom SAD objavio da je prekid uticao i na njegove korisnike, a da su u Australiji bile pogođene i obaveštajna služba i savezna policija.",
+  "Australijski ministar za sajber bezbednost Toni Berk rekao je, prema Kuriru, da Majkrosoft veruje da je situacija slična slučaju Kraudstrajk, kada je ažuriranje pošlo po zlu. Stručnjak za bezbednost Pol Spejn ocenio je da prekid, ako nije napad, ukazuje na „neverovatnu nesposobnost“, dok Troj Hant upozorava da je Majkrosoft veliki deo „kičme“ interneta.",
+  "Kurir navodi i da banke, univerziteti i institucije upozoravaju klijente na lažne e-poruke i SMS poruke koje se predstavljaju kao „IT podrška“. Singapurske vlasti, prema istom izvoru, savetovale su građanima da koriste kol-centre za hitne slučajeve, dok je australijska država Novi Južni Vels zamolila ljude da odlože dolazak u kancelarije."
+ ],
+ "tags": [
+  "Majkrosoft",
+  "Outlook",
+  "Teams",
+  "globalni kvar",
+  "sajber bezbednost",
+  "Copilot"
+ ],
+ "people": [
+  "Toni Berk",
+  "Troj Hant",
+  "Pol Spejn"
+ ],
+ "places": [
+  "Sjedinjene Američke Države",
+  "Australija",
+  "Singapur"
+ ],
+ "importance": 5,
+ "published": "2026-11-13T07:39:34.793761+00:00",
+ "updated": "2026-11-13T07:39:34.793761+00:00",
+ "sources": [
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/kompanije/297414/globalni-kvar-majkrosofta-milioni-korisnika-bez-pristupa-outlook-u-i-teams-u/vest",
+   "title": "Globalni kvar Majkrosofta: Milioni korisnika bez pristupa Outlook-u i Teams-u",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10160860/globalni-pad-majkrosofta-serveri-prestali-da-rade",
+   "title": "GLOBALNI PAD MAJKROSOFTA, POGOĐENA \"KIČMA\" INTERNETA! Za sat vremena kvar prijavljen u 74 zemlje, na udaru firme, zdravstvo, čak i američki Kongres",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Globalni kvar Majkrosofta: Milioni korisnika bez pristupa Outlook-u i Teams-u",
+  "GLOBALNI PAD MAJKROSOFTA, POGOĐENA \"KIČMA\" INTERNETA! Za sat vremena kvar prijavljen u 74 zemlje, na udaru firme, zdravstvo, čak i američki Kongres"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 3.613,
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Adtranz_Flexity_Outlook.jpg/1920px-Adtranz_Flexity_Outlook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Wikimedia Commons / Alexandre Prevot / CC BY-SA 2.0",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:Adtranz_Flexity_Outlook.jpg",
+  "alt": "Globalni pad Majkrosoftovih usluga: Outlook i Teams satima nedostupni u desetinama zemalja"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "202611151413-cc1e5d",
+ "slug": "kako-da-proverite-da-li-je-neko-povezan-na-vas-whatsapp-nalog",
+ "kind": "vest",
+ "section": "drustvo",
+ "headline": "Kako da proverite da li je neko povezan na vaš WhatsApp nalog",
+ "lead": "Kako navodi Kurir, WhatsApp nalog može da bude povezan sa tuđim uređajem bez znanja vlasnika, pa se korisnicima savetuje da u podešavanjima provere listu povezanih uređaja. Nacionalni CERT Srbije ranije je upozorio na fišing poruke koje vode do takvog povezivanja.",
+ "body": [
+  "Prema pisanju Kurira, reč je o opciji „Povezani uređaji“, koja omogućava da se isti nalog koristi na računaru, tabletu ili drugom telefonu. Moguće je povezati do četiri dodatna uređaja. Kurir navodi da to ne znači da neko automatski može da pročita svaku poruku, ali da nepoznat uređaj na listi jeste razlog za proveru.",
+  "Kako se navodi, neovlašćeno povezivanje može da se desi ako neko ima kratak pristup otključanom telefonu, pa pokrene povezivanje i skenira QR kod. Dodatni uređaj posle toga može da ostane povezan dok vlasnik normalno koristi aplikaciju.",
+  "Provera se, prema Kurirovom opisu, radi u podešavanjima aplikacije, u opciji „Povezani uređaji“, gde se vide uređaji i podaci o njihovoj aktivnosti. Na Androidu se podešavanjima može pristupiti i preko menija sa tri tačke. Uređaj koji korisnik ne prepoznaje uklanja se opcijom „Odjavi se“.",
+  "Kurir podseća da je Nacionalni CERT Srbije ranije upozorio na fišing kampanju na WhatsAppu. Poruke su stizale sa poznatih brojeva, a prijatelji ili članovi porodice navodno su tražili da se glasa za nekoga na takmičenju. Klik na link mogao je da omogući napadaču da poveže svoj uređaj, čita poruke, vidi kontakte i šalje poruke u ime vlasnika naloga.",
+  "Kurir navodi i da end-to-end enkripcija ne štiti od uređaja koji je već povezan sa nalogom, jer on ima pristup razgovorima. Kao dodatne mere pominju se redovna provera liste uređaja, uključena obaveštenja aplikacije, zaključavanje telefona i biometrijska zaštita aplikacije. Korisnicima se savetuje i da nikome ne šalju verifikacione kodove ni PIN, a da u slučaju sumnje na zloupotrebu o tome obaveste kontakte drugim putem."
+ ],
+ "tags": [
+  "WhatsApp",
+  "Nacionalni CERT",
+  "fišing",
+  "digitalna bezbednost",
+  "povezani uređaji"
+ ],
+ "people": [],
+ "places": [
+  "Srbija"
+ ],
+ "importance": 3,
+ "published": "2026-11-15T13:13:43.589100+00:00",
+ "updated": "2026-11-15T13:13:43.589100+00:00",
+ "sources": [
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/saveti/10161515/kako-da-proverite-povezane-uredjaje-na-whatsappu",
+   "title": "Neko možda čita vaše WhatsApp poruke: Jedna skrivena opcija može da otkrije ko sve ima pristup vašim razgovorima",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Neko možda čita vaše WhatsApp poruke: Jedna skrivena opcija može da otkrije ko sve ima pristup vašim razgovorima"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.919,
+ "image": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/WhatsApp_Chatting_with_Dark_Mode.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Wikimedia Commons / VincentLR / CC BY-SA 4.0",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:WhatsApp_Chatting_with_Dark_Mode.jpg",
+  "alt": "Kako da proverite da li je neko povezan na vaš WhatsApp nalog"
+ }
+}

@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block desc %}Ličnosti iz vesti: političari, sportisti, umetnici i drugi, sve izjave i aktivnosti na jednom mestu, iz svih medija.<script>
+(function(){var b=document.querySelectorAll('button[data-pf]'),c=document.querySelectorAll('.pp-card[data-pf]');
+b.forEach(function(x){x.addEventListener('click',function(){var g=x.getAttribute('data-pf');b.forEach(function(y){y.classList.toggle('on',y===x)});c.forEach(function(k){k.hidden=!!g&&k.getAttribute('data-pf')!==g})})})})();
+</script>
+{% endblock %}
+{% block main %}
+<section class="sec-hero">
+  <span class="sec-ring" aria-hidden="true"></span>
+  <div><span class="eyebrow">Ko šta kaže</span><h1>Ličnosti</h1><p>Ljudi o kojima se piše: politika, svet, sport, kultura i društvo. Izjave i aktivnosti iz svih medija, na jednom mestu.</p></div>
+  <a class="btn btn-ghost" href="{{ root }}pretraga.html">Pretraži po imenu</a>
+</section>
+{% if oblasti|length > 1 %}
+<div class="f-group vid-filter ppfilter" role="group" aria-label="Oblasti">
+  <button class="f-chip on" type="button" data-pf="">Svi</button>
+  {% for k, naziv in oblasti %}<button class="f-chip" type="button" data-pf="{{ k }}">{{ naziv }}</button>{% endfor %}
+</div>
+{% endif %}
+<div class="pp-grid">
+  {% for c in cards %}
+  <a class="pp-card" href="{{ root }}{{ c.slug }}.html" data-pf="{{ c._obl }}">
+    <span class="pp-big"><span class="pp-ini" aria-hidden="true">{{ c._ini }}</span>{% if c.img %}<img src="{{ c.img.src }}" alt="{{ c.ime }}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">{% endif %}</span>
+    <span class="pp-name">{{ c.ime }}</span>
+    <span class="pp-role">{{ c.uloga }}</span>
+    <span class="pp-n"><b>{{ c.n7 }}</b> {{ 'tekst' if c.n7 == 1 else 'tekstova' }} ove nedelje</span>
+    {% if c.last %}<span class="pp-last">{{ c.last.headline }}</span>{% else %}<span class="pp-last pp-muted">Još bez objava</span>{% endif %}
+  </a>
+  {% endfor %}
+</div>
+<script>
+(function(){var b=document.querySelectorAll('button[data-pf]'),c=document.querySelectorAll('.pp-card[data-pf]');
+b.forEach(function(x){x.addEventListener('click',function(){var g=x.getAttribute('data-pf');b.forEach(function(y){y.classList.toggle('on',y===x)});c.forEach(function(k){k.hidden=!!g&&k.getAttribute('data-pf')!==g})})})})();
+</script>
+{% endblock %}

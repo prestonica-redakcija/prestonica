@@ -1,0 +1,141 @@
+{
+ "id": "202611132233-5268d7",
+ "slug": "faa-naredila-obustavu-svih-poletanja-u-sad-iz-bezbednosnih-razloga",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Zabrana poletanja u SAD trajala preko četiri sata zbog poremećaja u mreži kontrole letenja",
+ "lead": "Nacionalna zabrana poletanja u SAD, koju je FAA uvela u petak, ukinuta je posle četiri sata i 21 minut. Američki ministar saobraćaja Šon Dafi rekao je da je uzrok nestabilnost zastarele telekomunikacione infrastrukture kontrole letenja, a ministar unutrašnje bezbednosti Markvejn Malin izjavio je da nema znakova sajber napada, prenosi Telegraf.",
+ "body": [
+  "Federalna uprava za vazduhoplovstvo (FAA) naredila je obustavu poletanja u 15.54 po istočnoameričkom vremenu, a prve nepravilnosti u radarskim podacima i komunikaciji kontrolora i aviona zabeležene su oko 15.36, navodi Telegraf. Zabrana je ukinuta u 20.15, odnosno u 02.15 u subotu po vremenu u Srbiji. Ranije su B92 i Euronews Srbija javljali da je FAA kao razlog navela „vanredne okolnosti i bezbednosne razloge“, a da se o međunarodnim letovima koji stižu u SAD odlučuje od slučaja do slučaja.",
+  "Dafi je na konferenciji za novinare u Beloj kući rekao da su mrežni svičevi i ruteri starije generacije bili preopterećeni podacima, zbog čega su informacije koje su kontrolori dobijali postale nestabilne i nepouzdane. Prema njegovim rečima, problemi su pogodili centre oblasne i prilazne kontrole letenja (TRACON). Naglasio je da nije bilo potpunog gubitka radarskih podataka ni radio-veze, ali da je nestabilnost bila dovoljan razlog za preventivnu zabranu. U trenutku uvođenja mere u američkom vazdušnom prostoru bilo je više od 3.500 aviona.",
+  "CBS News, pozivajući se na izvore upoznate sa događajem, navodi da je ažuriranje privatne komunikacione mreže FAA moglo da izazove ponovno pokretanje sistema, a potom i prekid rada. Mrežom upravlja kompanija L3Harris. Telegraf navodi da taj scenario još nije potvrđen kao konačan nalaz tehničke istrage. Malin je izjavio da dosadašnje provere nisu pokazale da je reč o sajber napadu ili namernoj sabotaži.",
+  "Prema podacima servisa FlightAware koje prenosi CBS News, tokom petka je otkazano više od 4.000, a kasnilo je preko 10.000 letova. Reč je o ukupnim poremećajima tog dana, a ne samo o posledicama ovog kvara. Cirium je do 19.05 po istočnoameričkom vremenu registrovao 827 letova koji nisu stigli na planirano odredište: 670 aviona vratilo se na polazni aerodrom, a 157 je sletelo na alternativne. Poremećaji su zahvatili aerodrome u Njujorku, Atlanti, Bostonu, Majamiju, Los Anđelesu i San Francisku.",
+  "United Airlines je najavio otkazivanje većine preostalih večernjih letova, JetBlue je obustavio gotovo sve preostale polaske uz izuzetke za pojedine transatlantske letove, a Air Canada je otkazala preostale letove između Kanade i SAD. FAA je potvrdila da su sistemi pre ponovnog puštanja poletanja testirani, ali saobraćaj se nije odmah normalizovao jer su avio-kompanije morale da usklade avione i posade.",
+  "Telegraf se poziva na CBS News i dokumentaciju prema kojoj je bezbednosna analiza za FAA iz novembra 2023. upozorila da je mreža FAA Telecommunications Infrastructure (FTI) zastarela i da deo nje zavisi od tehnologije koju savremena infrastruktura više ne podržava. Euronews Srbija, pozivajući se na NBC News, podseća da je potpuna obustava poletanja na nacionalnom nivou izuzetno retka i da je sličnu meru FAA uvela nakon napada 11. septembra 2001."
+ ],
+ "tags": [
+  "FAA",
+  "SAD",
+  "kontrola letenja",
+  "avio-saobraćaj",
+  "Šon Dafi",
+  "zabrana poletanja"
+ ],
+ "people": [],
+ "places": [
+  "SAD"
+ ],
+ "importance": 7,
+ "published": "2026-11-13T21:33:05.259057+00:00",
+ "updated": "2026-11-15T08:31:03.722073+00:00",
+ "sources": [
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/252008/faa-obustavila-sva-poletanja-u-sad-iz-bezbednosnih-razloga/vest",
+   "title": "Obustava letova u SAD: Naređena zabrana poletanja širom zemlje iz \"bezbednosnih razloga“",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/284832/faa-obustavila-sve-letove-iz-sad-zbog-bezbednosnih-razloga/vest",
+   "title": "Obustavljeni svi letovi iz SAD",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/letovi-sjedinjene-americke-drzave-prizemljeni-bezbednosni-razlog/",
+   "title": "Svi letovi u SAD prizemljeni zbog \"vanrednih okolnosti i bezbednosnih razloga\"",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10161725/hitna-zabrana-poletanja-svih-aviona-na-celoj-teritoriji-sad",
+   "title": "PANIKA U AMERICI: Hitna zabrana poletanja svih aviona na celoj teritoriji SAD! Ovo su razlozi!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/252029/zasto-su-bili-prizemljeni-svi-letovi-u-sad/vest",
+   "title": "Nezapamćen haos na američkom nebu: Šta do sada znamo o problemu koji je prizemljio letove u čitavoj zemlji?",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://aero.telegraf.rs/aerodromi/4432893-poletanja-sirom-sad-obustavljena-na-vise-od-cetiri-sata-faa-otkrila-sta-je-izazvalo-veliki-poremecaj",
+   "title": "Poletanja širom SAD obustavljena na više od četiri sata: FAA otkrila šta je izazvalo veliki poremećaj",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10162056/visesatne-obustave-svih-polazaka-otkazano-preko-2-500-letova-u-sad",
+   "title": "HAOS NA AERODROMIMA U AMERICI: Višesatne obustave svih polazaka, otkazano preko 2.500 letova",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/285061/teretni-i-putnicki-avioni-u-majamiju-sudarili-se-na-aerodromu/vest",
+   "title": "Haos na aerodromu: Sudarila se dva aviona, ima povređenih VIDEO",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/297884/u-sad-za-danas-otkazano-vise-od-900-letova/vest",
+   "title": "U SAD za danas otkazano više od 900 letova",
+   "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/planeta/252132/sudar-aviona-ups-a-i-kopa-erlajnsa-na-aerodromu-u-majamiju/vest",
+   "title": "Sudar dva aviona na aerodromu u Majamiju: Ima povređenih, sve zabeleženo kamerom (VIDEO)",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/297855/kameron-ne-treba-kriviti-bregzit-za-probleme-velike-britanije/vest",
+   "title": "Kameron: Ne treba kriviti Bregzit za probleme Velike Britanije",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/u-sad-danas-otkazano-preko-900-letova-posledice-kvara-u-kontroli-letenja-i-dalje-remete-saobracaj",
+   "title": "U SAD danas otkazano preko 900 letova: Posledice kvara u kontroli letenja i dalje remete saobraćaj",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/drama-na-aerodromu-u-majamiju-sudarila-se-dva-aviona-putnici-vristali-od-straha-ima-povredjenih/",
+   "title": "Drama na aerodromu u Majamiju: Sudarila se dva aviona, putnici vrištali od straha, ima povređenih",
+   "spektar": "opozicija"
+  }
+ ],
+ "source_titles": [
+  "Obustava letova u SAD: Naređena zabrana poletanja širom zemlje iz \"bezbednosnih razloga“",
+  "Obustavljeni svi letovi iz SAD",
+  "Svi letovi u SAD prizemljeni zbog \"vanrednih okolnosti i bezbednosnih razloga\"",
+  "PANIKA U AMERICI: Hitna zabrana poletanja svih aviona na celoj teritoriji SAD! Ovo su razlozi!",
+  "Nezapamćen haos na američkom nebu: Šta do sada znamo o problemu koji je prizemljio letove u čitavoj zemlji?",
+  "Poletanja širom SAD obustavljena na više od četiri sata: FAA otkrila šta je izazvalo veliki poremećaj",
+  "HAOS NA AERODROMIMA U AMERICI: Višesatne obustave svih polazaka, otkazano preko 2.500 letova",
+  "Haos na aerodromu: Sudarila se dva aviona, ima povređenih VIDEO",
+  "U SAD za danas otkazano više od 900 letova",
+  "Sudar dva aviona na aerodromu u Majamiju: Ima povređenih, sve zabeleženo kamerom (VIDEO)",
+  "Kameron: Ne treba kriviti Bregzit za probleme Velike Britanije",
+  "U SAD danas otkazano preko 900 letova: Posledice kvara u kontroli letenja i dalje remete saobraćaj",
+  "Drama na aerodromu u Majamiju: Sudarila se dva aviona, putnici vrištali od straha, ima povređenih"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 2.22,
+ "image": {
+  "src": "foto/zastave-zgrada.jpg",
+  "credit": "Pexels / Zehra Aynacı",
+  "ilustracija": true,
+  "local": true,
+  "alt": "FAA naredila obustavu svih poletanja u SAD iz bezbednosnih razloga"
+ },
+ "novo_od_pisanja": 7,
+ "boost": 1.6,
+ "prepisano": "2026-11-14T08:57:38.232948+00:00",
+ "verzija": 2,
+ "video_id": "5oqhjufheck"
+}

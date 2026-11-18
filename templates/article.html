@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+{% from "macros.html" import card, label, rcls, yt as ytp, share, xpost, anketa as anketa_m, xfollow %}
+{% block desc %}{{ a.lead }}{% endblock %}
+{% block meta %}
+<meta property="og:title" content="{{ a.headline }}">
+<meta property="og:description" content="{{ a.lead }}">
+<meta property="og:type" content="article">
+{% if a._og and domain %}<meta property="og:image" content="https://{{ domain }}/{{ a._og }}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:alt" content="{{ a.headline }}"><meta name="twitter:image" content="https://{{ domain }}/{{ a._og }}"><meta name="twitter:image:alt" content="{{ a.headline }}">{% elif not a.image.local %}<meta property="og:image" content="{{ a.image.src }}">{% elif domain %}<meta property="og:image" content="https://{{ domain }}/{{ a|img('', 'l') }}">{% endif %}
+<meta name="twitter:title" content="{{ a.headline }}"><meta name="twitter:description" content="{{ a.lead|truncate(190) }}">
+{% if domain %}<meta property="og:url" content="https://{{ domain }}/{{ a._url }}">{% endif %}
+<meta property="article:section" content="{{ label(a, rubrike) }}">{% for t in a.tags[:6] %}<meta property="article:tag" content="{{ t }}">{% endfor %}
+<meta property="article:published_time" content="{{ a.published }}">
+<script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"NewsArticle" if a.kind == 'vest' else "OpinionNewsArticle","headline":a.headline[:110],"description":a.lead,"inLanguage":"sr-Latn","datePublished":a.published,"dateModified":a.updated,"articleSection":label(a, rubrike),"keywords":a.tags|join(", "),"mainEntityOfPage":{"@type":"WebPage","@id":"https://" ~ domain ~ "/" ~ a._url},"image":(["https://" ~ domain ~ "/" ~ a._og] if a._og else []),"author":{"@type":"Organization","name":a.author,"url":"https://" ~ domain ~ "/o-nama.html"},"publisher":{"@type":"NewsMediaOrganization","name":portal.ime,"url":"https://" ~ domain ~ "/","logo":{"@type":"ImageObject","url":"https://" ~ domain ~ "/og/logo.png","width":512,"height":512}}}|tojson }}</script>
+{% endblock %}
+{% block main %}
+<article class="art {{ rcls(a) }}" data-article>
+  <nav class="crumbs" aria-label="Putanja">
+    <a href="{{ root }}index.html">Naslovna</a><span aria-hidden="true">›</span>
+    <a href="{{ root }}{{ 'analize' if a.kind in ('analiza','autorski') else a.section }}.html">{{ label(a, rubrike) }}</a>
+  </nav>
+  <header class="art-head">
+    <span class="chip chip-lg">{{ label(a, rubrike) }}</span>
+    <h1>{{ a.headline }}</h1>
+    <p class="art-lead">{{ a.lead }}</p>
+    <div class="art-meta">
+      <span class="avatar" aria-hidden="true">{{ portal.ime[0] }}</span>
+      <span class="art-by"><b>{{ a.author }}</b><span>{{ a._date_long }}{% if a.updated != a.published %} · ažurirano <time data-t="{{ a.updated }}"></time>{% endif %} · {{ a._minutes }} min čitanja</span></span>
+      <span class="art-share">{{ share(a._url, a.headline) }}</span>
+    </div>
+  </header>
+
+  <figure class="art-fig">
+    <img src="{{ a|img(root, 'l') }}" alt="{{ a.image.alt or a.headline }}">
+    <figcaption>{% if a.image.ilustracija %}<span class="ill">Ilustracija</span>{% endif %}Foto: {{ a.image.credit }}</figcaption>
+  </figure>
+
+  <div class="art-wrap">
+    <div class="art-body">
+      {% for p in a.body %}<p>{{ p }}</p>{% if loop.index == 2 and vid %}<figure class="art-yt">{{ ytp(vid.id, vid._h, '', '', vid.live == 'live', True) }}<figcaption><b>Video:</b> {% if vid._url %}<a href="{{ root }}{{ vid._url }}">{{ vid._h }}</a>{% else %}{{ vid._h }}{% endif %}{% if vid.kanal %} · Izvor: {{ vid.kanal }}{% endif %}</figcaption></figure>{% endif %}{% endfor %}
+      {% if vid and a.body|length < 2 %}<figure class="art-yt">{{ ytp(vid.id, vid._h, '', '', False, True) }}<figcaption><b>Video:</b> {{ vid._h }}{% if vid.kanal %} · Izvor: {{ vid.kanal }}{% endif %}</figcaption></figure>{% endif %}
+      {% if a._people %}
+      <div class="art-people"><span class="eyebrow">Ličnosti u tekstu</span>
+        <div class="pp-row">{% for p in a._people %}<a class="pp-chip" href="{{ root }}{{ p.slug }}.html"><span class="pp-av">{{ p.ime.split()[0][0] }}{{ p.ime.split()[-1][0] }}</span><span><b>{{ p.ime }}</b><small>{{ p.uloga }}</small></span></a>{% endfor %}</div>
+      </div>
+      {% endif %}
+      {% if a._x %}
+      <section class="xreak">
+        <div class="shead"><span class="shead-dot"></span><h2>Reakcije na mreži X</h2><span class="shead-line"></span></div>
+        {% for p in a._x %}{{ xpost(p) }}{% endfor %}
+      </section>
+      {% endif %}
+      <div class="share-box"><span class="eyebrow">Podeli vest</span>{{ share(a._url, a.headline, True) }}</div>
+      {{ xfollow() }}
+      {% if a.tags %}<div class="tags art-tags">{% for t in a.tags %}<a class="tag" href="{{ root }}pretraga.html?q={{ t|urlencode }}">{{ t }}</a>{% endfor %}</div>{% endif %}
+      {% set kom = (portal.komentari or {}) %}
+      {% if kom.hyvor_website_id %}
+      <section class="komentari" id="komentari">
+        <div class="shead"><span class="shead-dot"></span><h2>Komentari</h2><span class="shead-line"></span></div>
+        <hyvor-talk-comments website-id="{{ kom.hyvor_website_id }}" page-id="{{ a.id }}" loading="lazy" colors="os"></hyvor-talk-comments>
+        <script async src="https://talk.hyvor.com/embed/embed.js" type="module"></script>
+      </section>
+      {% endif %}
+    </div>
+    <aside class="art-side">
+      {% if a.sources %}
+      <div class="panel srcbox">
+        <div class="panel-h"><span class="shead-dot"></span><h2>Izvori</h2></div>
+        <ul>
+          {% for s in a.sources[:8] %}
+          <li><a href="{{ s.url }}" target="_blank" rel="noopener nofollow"><span class="sp sp-{{ s.spektar }}" title="{{ s.spektar }}"></span><span><b>{{ s.name }}</b><span>{{ s.title }}</span></span></a></li>
+          {% endfor %}
+        </ul>
+        <p class="panel-note"><span class="sp sp-centar"></span>centar <span class="sp sp-vlast"></span>blizak bivšoj vlasti <span class="sp sp-opozicija"></span>kritičan prema bivšoj vlasti <span class="sp sp-desnica"></span>desni YouTube / emisije <span class="sp sp-stranka"></span>stranka</p>
+      </div>
+      {% endif %}
+      {% if anketa and anketa.vest == a.id %}{{ anketa_m(anketa, ankete_api, root) }}{% endif %}
+      <div class="panel note">
+        <h3>Kako nastaje ovaj tekst</h3>
+        <p>{% if a.kind == 'autorski' %}Autorski tekst uredništva.{% elif a.kind == 'analiza' %}Analiza je mišljenje redakcije zasnovano na činjenicama iz navedenih izvora.{% else %}Vest je sažetak izveštavanja navedenih medija, napisan po <a href="{{ root }}o-nama.html">uređivačkoj politici</a> Prestonice.{% endif %}</p>
+      </div>
+    </aside>
+  </div>
+</article>
+
+{% if related %}
+<section class="related">
+  <div class="shead"><span class="shead-dot"></span><h2>Povezano</h2><span class="shead-line"></span></div>
+  <div class="grid4">{% for r in related %}{{ card(r, root, rubrike, 'md', false) }}{% endfor %}</div>
+</section>
+{% endif %}
+{% endblock %}

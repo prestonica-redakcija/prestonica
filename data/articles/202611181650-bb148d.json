@@ -1,0 +1,53 @@
+{
+ "id": "202611181650-bb148d",
+ "slug": "gao-cetiri-ai-platforme-u-testu-davale-informacije-korisne-za",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "GAO: četiri AI platforme u testu davale informacije korisne za planiranje napada",
+ "lead": "Američka Kancelarija za odgovornost vlade (GAO) objavila je izveštaj prema kojem su ChatGPT, Claude, Gemini i Grok u testovima uspele da budu navedene na davanje potencijalno opasnih informacija. Kompanije kažu da su zaštitu unapredile, a neke osporavaju metodologiju testiranja.",
+ "body": [
+  "Prema izveštaju na 61 strani, koji prenosi Insajder, istražitelji GAO su u aprilu testirali platforme ChatGPT, Claude, Gemini i Grok. Utvrdili su da je moguće zaobići njihove bezbednosne mehanizme i dobiti informacije koje bi mogle da pomognu u planiranju terorističkih napada i sabotaže kritične infrastrukture.",
+  "Testiranje je obuhvatilo dva scenarija: napad čiji je cilj veliki broj žrtava i operaciju usmerenu na elektroenergetsku mrežu radi nanošenja ekonomske štete. Platforme su, navodi se, davale informacije o mogućim metama, lokacijama, opremi i metodama.",
+  "GAO ocenjuje da su dobijene informacije bile izvodljive u praksi, ali ističe da istražitelji nisu pokušali da izvedu nikakav fizički napad. Sve četiri platforme su u početku prikazivale bezbednosna ograničenja, ali su tokom testiranja ipak generisale potencijalno štetan sadržaj.",
+  "Kompanije su saopštile da bezbednost shvataju ozbiljno i da su od testova dodatno unapredile zaštitne mehanizme. Neke od njih dovode u pitanje metodologiju izveštaja, tvrdeći da nije dovoljno upoređena količina informacija koju može da pruži veštačka inteligencija sa podacima dostupnim običnom pretragom interneta.",
+  "Senatorka Megi Hasan, koja je zatražila istragu, ocenila je da nalazi pokazuju ozbiljne slabosti postojećih zaštitnih mehanizama i rizike po javnu bezbednost. Pozvala je na njihovo unapređenje i na donošenje zakonskih mera, uz upozorenje da zloupotreba veštačke inteligencije za planiranje napada ne sme da se smatra samo hipotetičkom opasnošću."
+ ],
+ "tags": [
+  "veštačka inteligencija",
+  "GAO",
+  "bezbednost",
+  "terorizam",
+  "kritična infrastruktura",
+  "regulacija"
+ ],
+ "people": [
+  "Megi Hasan"
+ ],
+ "places": [
+  "Sjedinjene Američke Države"
+ ],
+ "importance": 5,
+ "published": "2026-11-18T15:50:33.879178+00:00",
+ "updated": "2026-11-18T15:50:33.879178+00:00",
+ "sources": [
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/izvestaj-americke-kancelarije-cetiri-ai-platforme-u-testovima-pruzale-informacije-za-planiranje-teroristickih-napada",
+   "title": "Izveštaj američke kancelarije: Četiri AI platforme u testovima pružale informacije za planiranje terorističkih napada",
+   "spektar": "opozicija"
+  }
+ ],
+ "source_titles": [
+  "Izveštaj američke kancelarije: Četiri AI platforme u testovima pružale informacije za planiranje terorističkih napada"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 3.472,
+ "image": {
+  "src": "foto/zastave-zgrada.jpg",
+  "credit": "Pexels / Zehra Aynacı",
+  "ilustracija": true,
+  "local": true,
+  "alt": "GAO: četiri AI platforme u testu davale informacije korisne za planiranje napada"
+ }
+}

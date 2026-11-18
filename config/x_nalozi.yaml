@@ -1,0 +1,63 @@
+# =====================================================================
+#  X NALOZI ZA STRANICU "MREŽE": ličnosti, ne mediji.
+#  Vesti medija već stižu preko RSS-a u rubrike, pa se ovde prate ljudi: šta govore političari,
+#  analitičari, novinari kao ličnosti, aktivisti i studenti.
+#  Portal prati i sve koje prati nalog @Prestonicars (zapratiš nalog u X aplikaciji, portal ga preuzme za dan),
+#  osim naloga sa spiska "iskljuci".
+#  x = korisničko ime bez @, grupa = vlast | opozicija | studenti | aktivisti | novinari | institucije
+#  Svaki nalog proveren na X-u 12. novembra 2026: ime, oznaka verifikacije, broj pratilaca.
+# =====================================================================
+nalozi:
+  # --- vlast ---
+  - {x: avucic,           ime: Aleksandar Vučić,      grupa: vlast, uloga: "Predsednik Srbije"}
+  - {x: anabrnabic,       ime: Ana Brnabić,           grupa: vlast, uloga: "Srpska napredna stranka"}
+  - {x: milos_vucevic,    ime: Miloš Vučević,         grupa: vlast, uloga: "Srpska napredna stranka"}
+  - {x: markodjuric,      ime: Marko Đurić,           grupa: vlast, uloga: "Srpska napredna stranka"}
+  - {x: nstarovic,        ime: Nemanja Starović,      grupa: vlast, uloga: "Srpska napredna stranka"}
+  - {x: MilenkoJovanov,   ime: Milenko Jovanov,       grupa: vlast, uloga: "Srpska napredna stranka"}
+  - {x: Vladimir_Orlic,   ime: Vladimir Orlić,        grupa: vlast, uloga: "Srpska napredna stranka"}
+  - {x: AcaSapic,         ime: Aleksandar Šapić,      grupa: vlast, uloga: "Srpska napredna stranka"}
+  - {x: sns_srbija,       ime: SNS,                   grupa: vlast, uloga: "Srpska napredna stranka"}
+  # --- opozicija ---
+  - {x: MiikiAleksic,     ime: Miroslav Aleksić,      grupa: opozicija, uloga: "Narodni pokret Srbije"}
+  - {x: NarodniPokretS,   ime: Narodni pokret Srbije, grupa: opozicija, uloga: "Narodni pokret Srbije"}
+  - {x: ParandilovicNLS,  ime: Miloš Parandilović,    grupa: opozicija, uloga: "Novo lice Srbije"}
+  - {x: DraganDjilas,     ime: Dragan Đilas,          grupa: opozicija, uloga: "Stranka slobode i pravde"}
+  - {x: MarinikaTepic,    ime: Marinika Tepić,        grupa: opozicija, uloga: "Stranka slobode i pravde"}
+  - {x: BorkoStef,        ime: Borko Stefanović,      grupa: opozicija, uloga: "Stranka slobode i pravde"}
+  - {x: dusannikezic,     ime: Dušan Nikezić,         grupa: opozicija, uloga: "Stranka slobode i pravde"}
+  - {x: RadomirLazovic,   ime: Radomir Lazović,       grupa: opozicija, uloga: "Zeleno-levi front"}
+  - {x: Bibislav,         ime: Biljana Đorđević,      grupa: opozicija, uloga: "Zeleno-levi front"}
+  - {x: dobrinacelnik,    ime: Dobrica Veselinović,   grupa: opozicija, uloga: "Zeleno-levi front"}
+  - {x: SavoManojlovic,   ime: Savo Manojlović,       grupa: opozicija, uloga: "Kreni-Promeni"}
+  - {x: ZdravkoPonos,     ime: Zdravko Ponoš,         grupa: opozicija, uloga: "Srce"}
+  - {x: PavleGrbovic,     ime: Pavle Grbović,         grupa: opozicija, uloga: "Pokret slobodnih građana"}
+  - {x: jeremic_vuk,      ime: Vuk Jeremić,           grupa: opozicija, uloga: "Narodna stranka"}
+  - {x: BorisTadic58,     ime: Boris Tadić,           grupa: opozicija, uloga: "Socijaldemokratska stranka"}
+  - {x: srdjanmil037,     ime: Srđan Milivojević,     grupa: opozicija, uloga: "Demokratska stranka"}
+  - {x: ZoranLutovac,     ime: Zoran Lutovac,         grupa: opozicija, uloga: "Demokratska stranka"}
+  - {x: PajticBojan,      ime: Bojan Pajtić,          grupa: opozicija}
+  - {x: n_zelenovic,      ime: Nebojša Zelenović,     grupa: opozicija}
+  - {x: BoskoObradovic,   ime: Boško Obradović,       grupa: opozicija}
+  - {x: SasaRadulovich,   ime: Saša Radulović,        grupa: opozicija, uloga: "Dosta je bilo"}
+  - {x: Ceda_Jovanovic,   ime: Čedomir Jovanović,     grupa: opozicija, uloga: "Liberalno demokratska partija"}
+  # --- novinari i analitičari (kao ličnosti) ---
+  - {x: zaklina_prva,     ime: Žaklina Tatalović,     grupa: novinari}
+  - {x: StevanOCCRP,      ime: Stevan Dojčinović,     grupa: novinari}
+  - {x: DinkoGruhonjic,   ime: Dinko Gruhonjić,       grupa: novinari}
+  - {x: IgorBrakus,       ime: Igor Brakus,           grupa: novinari}
+  - {x: Radoholicar,      ime: Boban Stojanović,      grupa: novinari, uloga: "Politikolog"}
+  - {x: BoraKonj,         ime: Bora,                  grupa: novinari}
+  # --- aktivisti ---
+  - {x: INinic,           ime: Ivan Ninić,            grupa: aktivisti, uloga: "Advokat"}
+  # --- studenti ---
+  - {x: studentblokade,   ime: Studenti u blokadi,    grupa: studenti}
+  - {x: sviublokade_fdu,  ime: FDU u blokadi,         grupa: studenti}
+  # --- institucije ---
+  - {x: Vlada_Srbije,     ime: Vlada Srbije,          grupa: institucije}
+
+# Mediji se ne prikazuju na stranici Mreže, ni kad ih prati nalog @Prestonicars.
+iskljuci: [n1srbija, novarsonline, OnlineDanas, NedeljnikVreme, Insajder_net, BIRNSrbija, KRIKrs, Raskrikavanje,
+           Blic_online, blicpolitika, KurirVesti, RTS_Vesti, InformerRS, NovostiOnline, politikaonline,
+           euronewsrs, rtvpink, b92, nova_s, Telegrafrs, Alo_Online, espreso_rs, mondo_rs, NIN_rs, Radar_nedeljnik,
+           CINSerbia, istinomer, Raskrikavanje_rs, VOAnews, RFE_RL, slobodnaevropa, BBCnasrpskom, DW_srpski]

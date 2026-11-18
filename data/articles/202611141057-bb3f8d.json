@@ -1,0 +1,57 @@
+{
+ "id": "202611141057-bb3f8d",
+ "slug": "istrazivaci-univerziteta-ruhr-razvili-dron-za-pregled-pukotina-unutar",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Istraživači univerziteta Ruhr razvili dron za pregled pukotina unutar betonskih mostova",
+ "lead": "Istraživači sa Univerziteta Ruhr razvili su mali autonomni dron koji uz pomoć veštačke inteligencije traži pukotine u šupljinama betonskih mostova. Kako prenose Večernje novosti, uređaj je za sada u fazi laboratorijskog testiranja.",
+ "body": [
+  "Sistem su razvili istraživači David Miler i Rafael Dirska, navodi se u saopštenju univerziteta koje je objavio portal Interesting Engineering, a prenosi Klix. Dron samostalno planira putanju leta, a podatke sa inspekcije čuva na SD kartici.",
+  "Zbog malih dimenzija može da leti kroz uske i mračne šuplje delove mostova i da skenira njihove zidove. Koristi tehnologiju istovremene lokalizacije i mapiranja (SLAM), pa sam određuje svoj položaj i pravi mapu prostora, bez spoljašnjih sistema za pozicioniranje.",
+  "U saopštenju se navodi da u Nemačkoj hiljade mostova svake godine moraju da prođu inspekciju. Mnogi su građeni između šezdesetih i osamdesetih godina prošlog veka i nisu projektovani za današnji obim saobraćaja. Istraživač Patrik Herbers ocenio je da je klasičan rad inspektora sa podlogom za pisanje i kamerom zahtevan i podložan greškama.",
+  "„Naš dron može da učini inspekcije bezbednijim, bržim i jeftinijim“, izjavio je Miler.",
+  "Dron se testira u laboratoriji za letenje u univerzitetskom centru ZESS, a tim planira i probu na stvarnom mostu. Marsel Nojhauzen izjavio je da žele da pokažu da uređaj radi i van laboratorije.",
+  "Istraživači naglašavaju da dron neće zameniti inspektore: on bi prikupljao podatke i označavao kritična mesta, a konačnu procenu oštećenja i dalje bi donosili stručnjaci. Smatraju da bi tehnologija mogla da ubrza digitalizaciju inspekcija i ublaži nedostatak stručnjaka za kontrolu mostova."
+ ],
+ "tags": [
+  "dron",
+  "veštačka inteligencija",
+  "mostovi",
+  "inspekcija infrastrukture",
+  "Nemačka",
+  "tehnologija"
+ ],
+ "people": [
+  "David Miler",
+  "Rafael Dirska",
+  "Patrik Herbers",
+  "Marsel Nojhauzen"
+ ],
+ "places": [
+  "Nemačka"
+ ],
+ "importance": 2,
+ "published": "2026-11-14T09:57:14.437650+00:00",
+ "updated": "2026-11-14T09:57:14.437650+00:00",
+ "sources": [
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1671075/dron-zamena-inspektore-miler-nas-dron-moze-ucini-inspekcije-bezbednijim-brzim-jeftinijim",
+   "title": "DRON - ZAMENA ZA INSPEKTORE: Miler: \"Naš dron može da učini inspekcije bezbednijim, bržim i jeftinijim\"",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "DRON - ZAMENA ZA INSPEKTORE: Miler: \"Naš dron može da učini inspekcije bezbednijim, bržim i jeftinijim\""
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 2.054,
+ "image": {
+  "src": "foto/zastave-zgrada.jpg",
+  "credit": "Pexels / Zehra Aynacı",
+  "ilustracija": true,
+  "local": true,
+  "alt": "Istraživači univerziteta Ruhr razvili dron za pregled pukotina unutar betonskih mostova"
+ }
+}

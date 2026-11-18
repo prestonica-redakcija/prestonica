@@ -1,0 +1,51 @@
+{
+ "id": "202611151214-7bbd5d",
+ "slug": "pred-slave-raste-rizik-od-laznih-internet-prodavnica-i-fising-poruka",
+ "kind": "vest",
+ "section": "drustvo",
+ "headline": "Pred slave raste rizik od lažnih internet prodavnica i fišing poruka",
+ "lead": "Tokom slavske kupovine preko interneta građani mogu naići na lažne prodavnice i poruke koje traže podatke sa kartice, upozorava Kurir pozivajući se na CERT, Poštu Srbije i Narodnu banku Srbije. Savet je da se prodavac proveri pre uplate.",
+ "body": [
+  "Kako navodi Kurir, na društvenim mrežama se pojavljuju oglasi za torte, slavske kolače i dekoraciju po cenama znatno nižim od uobičajenih. Prevaranti, piše taj portal, mogu da preuzmu fotografije pravih proizvoda i naprave profil koji liči na stranicu poznate radnje, a zatim traže avans. Kada uplata stigne, prodavac prestaje da odgovara, a roba ne stiže.",
+  "Druga zamka su SMS poruke, imejlovi i poruke u aplikacijama za dopisivanje. Od primaoca se traži da potvrdi porudžbinu, plati navodne troškove dostave ili ažurira podatke, a link vodi na stranicu koja imitira sajt pošte ili kurirske službe. Prema navodima Kurira, Pošta Srbije upozorava da se njeno ime i logo zloupotrebljavaju i da od korisnika ne traži da na taj način plaćaju isporuku.",
+  "Kurir navodi i da se prevaranti predstavljaju kao prodavci koji hoće da vrate novac ili potvrde uplatu, pa traže broj kartice, CVV kod, fotografiju kartice ili podatke za elektronsko bankarstvo. Narodna banka Srbije, prema tom tekstu, upozorava da se podaci o kartici ne unose na stranice do kojih se stiže preko sumnjivih linkova i da se PIN ne koristi pri kupovini preko interneta.",
+  "Među savetima za proveru prodavca su provera imena, kontakta, adrese i uslova kupovine, kao i traženje iskustava kupaca izvan same prodavnice. Treba obratiti pažnju i na domen, jer se lažni sajtovi često razlikuju od pravih samo po jednom slovu ili dodatku. Kurir napominuje da oznaka HTTPS i katanac govore samo da je veza šifrovana, a ne da je prodavnica pouzdana.",
+  "Ko posumnja da je prevaren, treba da sačuva prepisku, oglas, adresu sajta i potvrdu o uplati i da se odmah javi banci zvaničnim telefonom ili preko aplikacije. Prema Kuriru, banka može da uputi korisnika u mogućnosti blokade kartice i prijave sporne transakcije. Nacionalni CERT je, kako se navodi, prošlog novembra ukazao da se u prazničnim periodima i tokom akcijskih prodaja povećava rizik od fišinga i lažnih internet prodavnica."
+ ],
+ "tags": [
+  "internet prevare",
+  "fišing",
+  "slavska sezona",
+  "CERT",
+  "Pošta Srbije",
+  "bezbednost kupovine"
+ ],
+ "people": [],
+ "places": [
+  "Srbija"
+ ],
+ "importance": 3,
+ "published": "2026-11-15T11:14:38.014410+00:00",
+ "updated": "2026-11-15T11:14:38.014410+00:00",
+ "sources": [
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10161818/kako-prepoznati-prevare-tokom-slavske-sezone",
+   "title": "Slavska prevara kruži internetom: \"Pecaju\" na torte i kolače, možete ostati bez novca za slavsku trpezu",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Slavska prevara kruži internetom: \"Pecaju\" na torte i kolače, možete ostati bez novca za slavsku trpezu"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.917,
+ "image": {
+  "src": "foto/beograd-fasada.jpg",
+  "credit": "Pexels / Zehra Aynacı",
+  "ilustracija": true,
+  "local": true,
+  "alt": "Pred slave raste rizik od lažnih internet prodavnica i fišing poruka"
+ }
+}

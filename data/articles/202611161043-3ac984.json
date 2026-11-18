@@ -1,0 +1,61 @@
+{
+ "id": "202611161043-3ac984",
+ "slug": "japanski-superkompjuter-fugaku-meta-hakerskog-napada-moguce-curenje",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Japanski superkompjuter Fugaku meta hakerskog napada, moguće curenje podataka",
+ "lead": "Operativni sistem japanskog superkompjutera Fugaku bio je meta hakerskog napada, pa postoji mogućnost da su podaci korisnika kompromitovani. Rad računara je privremeno obustavljen, saopštili su institut Riken i japansko Ministarstvo nauke.",
+ "body": [
+  "Institut Riken i japansko Ministarstvo nauke saopštili su danas da je operativni sistem Fugakua, jednog od najmoćnijih računarskih sistema na svetu, bio meta hakerskog napada, prenosi Kjodo, a prenose Tanjug i Telegraf.",
+  "Rad superkompjutera je privremeno obustavljen. Institut istražuje kada je došlo do neovlašćenog pristupa, kako je incident otkriven i kolika je eventualna šteta.",
+  "Ministarstvo obrazovanja, kulture, sporta, nauke i tehnologije zatražilo je od instituta da utvrdi obim incidenta i da što pre omogući ponovno stavljanje sistema u funkciju.",
+  "Prema navodima Ministarstva, koje navodi Telegraf, Riken je incident prvi put prijavio u petak kao slučaj narušavanja informacione bezbednosti, a potom je povremeno dostavljao nove informacije o obustavi rada i mogućem curenju podataka. Kompromitovani sistem koristi se za pristup superkompjuteru i upravljanje njime, a moguće je da su podaci o korisnicima, uključujući lične informacije, dospeli u neovlašćene ruke.",
+  "Fugaku su zajednički razvili Riken i kompanija Fudžitsu, a pun rad je počeo u martu 2021. godine. Nalazi se u Centru za računarske nauke instituta Riken u Kobeu, a koristi se za složene simulacije u naučnim istraživanjima, kao i u razvoju industrijskih i vojnih tehnologija, pojašnjava Kjodo. Izveštavanje Tanjuga i Telegrafa u osnovi se poklapa."
+ ],
+ "tags": [
+  "Fugaku",
+  "superkompjuter",
+  "hakerski napad",
+  "Riken",
+  "Japan",
+  "informaciona bezbednost"
+ ],
+ "people": [],
+ "places": [
+  "Japan",
+  "Tokio",
+  "Kobe"
+ ],
+ "importance": 4,
+ "published": "2026-11-16T09:43:46.335130+00:00",
+ "updated": "2026-11-16T09:43:46.335130+00:00",
+ "sources": [
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/298097/japanski-superkompjuter-fugaku-pod-hakerskim-napadom-moguce-curenje-podataka/vest",
+   "title": "Japanski superkompjuter Fugaku pod hakerskim napadom, moguće curenje podataka",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://ubrzanje.telegraf.rs/nauka-i-privreda/4433735-jedan-od-najmocnijih-racunarskih-sistema-na-svetu-pod-hakerskim-napadom-moguce-curenje-podataka",
+   "title": "Jedan od najmoćnijih računarskih sistema na svetu pod hakerskim napadom: Moguće curenje podataka",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Japanski superkompjuter Fugaku pod hakerskim napadom, moguće curenje podataka",
+  "Jedan od najmoćnijih računarskih sistema na svetu pod hakerskim napadom: Moguće curenje podataka"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 3.335,
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/RIKEN_R-CCS_Fugaku.jpg/1920px-RIKEN_R-CCS_Fugaku.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Wikimedia Commons / Barsaka2 / CC0",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:RIKEN_R-CCS_Fugaku.jpg",
+  "alt": "Japanski superkompjuter Fugaku meta hakerskog napada, moguće curenje podataka"
+ }
+}

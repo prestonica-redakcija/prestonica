@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block main %}
+<article class="doc">
+{% if page == 'o-nama' %}
+  <span class="eyebrow">O nama</span>
+  <h1>Kako radi {{ portal.ime }}</h1>
+  <p class="art-lead">{{ portal.opis }} Prioriteti su politika, ekonomija i društvo.</p>
+  <h2>Kako nastaju vesti</h2>
+  <p>Portal na svakih {{ portal.osvezavanje_minuta }} minuta pregleda vesti agencija i medija sa svih strana političkog spektra. Ista priča iz više izvora spaja se u jednu vest, napisanu našim rečima, uz jasno navođenje svih izvora i linkove ka originalima. Tekstove priprema automatizovani urednički sistem zasnovan na veštačkoj inteligenciji, po pravilima ispod, a uredništvo nadzire objave i ispravlja ih kada je potrebno.</p>
+  <h2>Uređivačka politika</h2>
+  <ul>
+    <li><b>Vesti su neutralne.</b> Svaka tvrdnja ima izvor. Kada mediji različitih orijentacija izveštavaju različito, navodimo obe verzije.</li>
+    <li><b>Kritikujemo svakoga.</b> Vlast, opoziciju, institucije i interesne grupe merimo istim aršinom.</li>
+    <li><b>Analize su jasno označene</b> i polaze od vrednosti desnog centra: slobodno tržište, odgovorno trošenje javnog novca, vladavina prava, porodica i nacionalni interes Srbije.</li>
+    <li><b>Ne izmišljamo.</b> Ne objavljujemo brojke, citate ni tvrdnje kojih nema u izvorima. Poštujemo pretpostavku nevinosti.</li>
+    <li><b>Fotografije</b> su iz naše arhive, sa Wikimedia Commons i Unsplash-a, uz potpis autora. Kada fotografija nije sa samog događaja, označena je kao ilustracija.</li>
+  </ul>
+  <h2>Ispravke</h2>
+  <p>Ako primetite grešku, pišite nam na <b>{{ portal.impresum.kontakt }}</b>. Ispravke objavljujemo u najkraćem roku.</p>
+{% elif page == 'impresum' %}
+  <span class="eyebrow">Impresum</span>
+  <h1>Impresum</h1>
+  <dl class="imp">
+    <dt>Naziv medija</dt><dd>{{ portal.ime }}</dd>
+    <dt>Izdavač</dt><dd>{{ imp.izdavac }}</dd>
+    {% if imp.sediste %}<dt>Sedište</dt><dd>{{ imp.sediste }}</dd>{% endif %}
+    {% if imp.maticni_broj %}<dt>Matični broj</dt><dd>{{ imp.maticni_broj }}</dd>{% endif %}
+    {% if imp.pib %}<dt>PIB</dt><dd>{{ imp.pib }}</dd>{% endif %}
+    {% if imp.odgovorni_urednik %}<dt>Odgovorni urednik</dt><dd>{{ imp.odgovorni_urednik }}</dd>{% endif %}
+    <dt>Kontakt</dt><dd>{{ imp.kontakt }}</dd>
+    {% if imp.registarski_broj %}<dt>Registar medija</dt><dd>{{ imp.registarski_broj }}</dd>{% endif %}
+  </dl>
+{% else %}
+  <div class="empty"><span class="ring" aria-hidden="true"><i></i></span><h1>Stranica nije pronađena</h1><p>Možda je vest premeštena. Pokušajte pretragu.</p>
+  <div class="empty-actions"><a class="btn btn-primary" href="{{ root }}index.html">Naslovna</a><a class="btn btn-ghost" href="{{ root }}pretraga.html">Pretraga</a></div></div>
+{% endif %}
+</article>
+{% endblock %}

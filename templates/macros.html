@@ -1,0 +1,118 @@
+{% macro label(a, rubrike) -%}
+{%- if a.kind == 'analiza' -%}Analiza{%- elif a.kind == 'autorski' -%}Autorski tekst{%- else -%}{{ rubrike[a.section].naziv if a.section in rubrike else a.section }}{%- endif -%}
+{%- endmacro %}
+
+{% macro rcls(a) -%}r-{{ 'analiza' if a.kind in ('analiza','autorski') else a.section }}{%- endmacro %}
+
+{% macro srcline(a) -%}
+{%- set names = [] -%}{%- for s in a.sources -%}{%- if s.name not in names -%}{%- set _ = names.append(s.name) -%}{%- endif -%}{%- endfor -%}
+{%- if names -%}{{ names[:3]|join(', ') }}{% if names|length > 3 %} +{{ names|length - 3 }}{% endif %}{%- else -%}{{ a.author }}{%- endif -%}
+{%- endmacro %}
+
+{% macro card(a, root, rubrike, size='md', show_lead=true) -%}
+<article class="card card-{{ size }} {{ rcls(a) }}">
+  <a class="card-link" href="{{ root }}{{ a._url }}">
+    <div class="card-ph">
+      <img src="{{ a|img(root, 'l' if size == 'xl' else 'm') }}" alt="{{ a.image.alt or a.headline }}" loading="lazy" decoding="async">
+      <span class="chip">{{ label(a, rubrike) }}</span>
+      {% if a._video %}<span class="card-play" title="Vest sa videom"><svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path d="M8 5v14l11-7z" fill="currentColor"/></svg>Video</span>{% endif %}
+    </div>
+    <div class="card-bd">
+      <h3 class="card-h">{{ a.headline }}</h3>
+      {% if show_lead %}<p class="card-p">{{ a.lead }}</p>{% endif %}
+      <div class="card-meta">
+        <span class="src-pill">{{ srcline(a) }}</span>
+        {% if a.prepisano %}<span class="upd-tag">ažurirano</span>{% endif %}<time datetime="{{ a.prepisano or a.published }}" data-t="{{ a.prepisano or a.published }}">{{ a._time }}</time>
+      </div>
+    </div>
+  </a>
+</article>
+{%- endmacro %}
+
+{% macro row(a, root, rubrike) -%}
+<li class="row {{ rcls(a) }}">
+  <a href="{{ root }}{{ a._url }}">
+    <span class="row-th"><img src="{{ a|img(root, 's') }}" alt="" loading="lazy" decoding="async"></span>
+    <span class="row-bd">
+      <span class="row-meta"><b>{{ label(a, rubrike) }}</b><time data-t="{{ a.prepisano or a.published }}">{{ a._time }}</time></span>
+      <span class="row-h">{{ a.headline }}</span>
+    </span>
+  </a>
+</li>
+{%- endmacro %}
+
+{% macro shead(title, cls='', href=None, root='') -%}
+<div class="shead {{ cls }}">
+  <span class="shead-dot" aria-hidden="true"></span>
+  <h2>{{ title }}</h2>
+  <span class="shead-line" aria-hidden="true"></span>
+  {% if href %}<a class="more" href="{{ root }}{{ href }}">Sve vesti <span aria-hidden="true">→</span></a>{% endif %}
+</div>
+{%- endmacro %}
+
+{% macro yt(id, title, kanal='', time='', live=False, big=False) -%}
+<div class="yt {% if big %}yt-big{% endif %}" data-yt="{{ id }}" role="button" tabindex="0" aria-label="Pusti video: {{ title }}">
+  <img src="https://i.ytimg.com/vi/{{ id }}/{{ 'maxresdefault' if big else 'hqdefault' }}.jpg" onerror="this.src='https://i.ytimg.com/vi/{{ id }}/hqdefault.jpg'" alt="" loading="lazy">
+  <span class="yt-play" aria-hidden="true"><svg viewBox="0 0 24 24" width="26" height="26"><path d="M8 5v14l11-7z" fill="currentColor"/></svg></span>
+  {% if live %}<span class="yt-live"><i class="pulse"></i>UŽIVO</span>{% endif %}
+  {% if kanal %}<span class="yt-meta"><b>{{ kanal }}</b>{% if time %} · {{ time }}{% endif %}</span>{% endif %}
+</div>
+{%- endmacro %}
+
+{% macro vcard(v, root, rubrike, size='md') -%}
+<article class="vc vc-{{ size }} r-{{ v.rubrika or 'politika' }}" id="v-{{ v.id }}" data-vr="{{ v.rubrika or 'politika' }}">
+  {{ yt(v.id, v._h, '', '', v.live == 'live', size == 'lg') }}
+  <div class="vc-bd">
+    <div class="vc-k"><span class="chip">{{ rubrike[v.rubrika].naziv if v.rubrika in rubrike else 'Video' }}</span><time data-t="{{ v.published }}">{{ v._time }}</time></div>
+    <h3><a class="vc-l" href="{{ root }}{{ v._url }}">{{ v._h }}</a></h3>
+    {% if v.opis %}<p>{{ v.opis }}</p>{% endif %}
+    <div class="vc-f"><span class="vc-src">Izvor: {{ v.kanal }}</span><span class="vc-act">{{ share_btn(v._url, v._h) }}<a class="vc-a" href="{{ root }}{{ v._url }}">{{ 'Ceo snimak i tekst' if size == 'lg' else 'Otvori' }} <span aria-hidden="true">→</span></a></span></div>
+  </div>
+</article>
+{%- endmacro %}
+
+{% macro share(path, title, labels=False, cls='') -%}
+<div class="share {{ cls }} {% if labels %}share-lg{% endif %}" data-share data-path="{{ path }}" data-title="{{ title }}"><button type="button" class="sh sh-x" data-net="x" aria-label="X" title="X"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M17.75 3h3.07l-6.7 7.66L22 21h-6.17l-4.83-6.32L5.47 21H2.4l7.17-8.2L2 3h6.32l4.37 5.78L17.75 3zm-1.08 16.2h1.7L7.4 4.73H5.58l11.09 14.47z"/></svg>{% if labels %}<span>X</span>{% endif %}</button><button type="button" class="sh sh-facebook" data-net="facebook" aria-label="Facebook" title="Facebook"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M14 8.5V6.8c0-.8.2-1.3 1.4-1.3H17V2.3C16.7 2.2 15.6 2 14.4 2 11.9 2 10.2 3.5 10.2 6.3v2.2H7.5V12h2.7v10h3.8V12h2.8l.4-3.5H14z"/></svg>{% if labels %}<span>Facebook</span>{% endif %}</button><button type="button" class="sh sh-whatsapp" data-net="whatsapp" aria-label="WhatsApp" title="WhatsApp"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.3-.5 0-1 .2-3.3-.7-2.8-1.1-4.5-3.9-4.7-4.1-.1-.2-1.1-1.5-1.1-2.9s.7-2.1 1-2.4c.3-.3.6-.3.8-.3h.6c.2 0 .4 0 .6.5l.9 2.1c.1.2.1.4 0 .6l-.3.5-.4.5c-.1.1-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.4 2.4 1.5.3.1.5.1.6-.1l.9-1.1c.2-.3.4-.2.7-.1l2 .9c.3.2.5.2.6.4 0 .1 0 .7-.1 1.2z"/></svg>{% if labels %}<span>WhatsApp</span>{% endif %}</button><button type="button" class="sh sh-viber" data-net="viber" aria-label="Viber" title="Viber"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M11.4 2C6.6 2 3 3.6 3 10.2c0 3.2.9 5.4 2.7 6.6V21l3-2.3c.9.2 1.8.3 2.7.3 4.8 0 8.6-1.6 8.6-8.8S16.2 2 11.4 2zm4.1 12.4c-.4.7-1.4 1.2-2.1 1-.9-.3-3.3-1.4-4.9-3.5-1.1-1.4-1.6-2.7-1.7-3.4-.1-.8.6-1.7 1.2-1.9.3-.1.6 0 .8.2l1 1.4c.2.3.1.7-.1.9l-.4.4c-.2.2-.2.5 0 .8.5.9 1.3 1.8 2.3 2.3.3.2.6.1.8-.1l.4-.4c.3-.3.7-.3 1-.1l1.4.9c.3.3.4.6.3.9z"/></svg>{% if labels %}<span>Viber</span>{% endif %}</button><button type="button" class="sh sh-telegram" data-net="telegram" aria-label="Telegram" title="Telegram"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M21.9 4.3 18.7 19.4c-.2 1-.9 1.3-1.7.8l-4.8-3.6-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.9 8.9-8c.4-.3-.1-.5-.6-.2L6.5 13.1l-4.7-1.5c-1-.3-1-1 .2-1.5L20.5 3c.9-.3 1.6.2 1.4 1.3z"/></svg>{% if labels %}<span>Telegram</span>{% endif %}</button><button type="button" class="sh sh-linkedin" data-net="linkedin" aria-label="LinkedIn" title="LinkedIn"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5zM3 9.5h4V21H3V9.5zm6.5 0h3.8v1.6h.1c.5-1 1.8-2 3.8-2 4 0 4.8 2.6 4.8 6V21h-4v-5.3c0-1.3 0-2.9-1.8-2.9s-2.1 1.4-2.1 2.8V21h-4V9.5z"/></svg>{% if labels %}<span>LinkedIn</span>{% endif %}</button><button type="button" class="sh sh-email" data-net="email" aria-label="E-pošta" title="E-pošta"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="3" fill="none" stroke="currentColor" stroke-width="2"/><path d="m4 7 8 6 8-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>{% if labels %}<span>E-pošta</span>{% endif %}</button><button type="button" class="sh sh-copy" data-net="copy" aria-label="Kopiraj link" title="Kopiraj link"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M10 14a4.5 4.5 0 0 0 6.4 0l3-3a4.5 4.5 0 0 0-6.4-6.4l-1 1M14 10a4.5 4.5 0 0 0-6.4 0l-3 3a4.5 4.5 0 0 0 6.4 6.4l1-1" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>{% if labels %}<span>Kopiraj link</span>{% endif %}</button><button type="button" class="sh sh-native" data-net="native" aria-label="Još opcija" title="Još opcija" hidden data-native><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="18" cy="5" r="2.6" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="6" cy="12" r="2.6" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="18" cy="19" r="2.6" fill="none" stroke="currentColor" stroke-width="2"/><path d="m8.3 10.8 7.4-4.4M8.3 13.2l7.4 4.4" stroke="currentColor" stroke-width="2"/></svg>{% if labels %}<span>Još opcija</span>{% endif %}</button></div>
+{%- endmacro %}
+
+{% macro share_btn(path, title) -%}
+<button type="button" class="sh-pop" data-share-pop data-path="{{ path }}" data-title="{{ title }}" aria-label="Podeli"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><circle cx="18" cy="5" r="2.6" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="6" cy="12" r="2.6" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="18" cy="19" r="2.6" fill="none" stroke="currentColor" stroke-width="2"/><path d="m8.3 10.8 7.4-4.4M8.3 13.2l7.4 4.4" stroke="currentColor" stroke-width="2"/></svg><span>Podeli</span></button>
+{%- endmacro %}
+
+{% macro xcard(p) -%}
+<article class="xcard" data-xg="{{ p.grupa }}">
+  <header class="xc-head">
+    <span class="xc-av" aria-hidden="true">{{ (p.ime or p.x)[0]|upper }}{% if p.img %}<img src="{{ p.img }}" alt="" width="44" height="44" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">{% endif %}</span>
+    <span class="xc-who"><b>{{ p.ime }}</b><a href="https://x.com/{{ p.x }}" target="_blank" rel="noopener nofollow">@{{ p.x }}</a></span>
+    <svg class="xc-logo" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M18.2 2.3h3.4l-7.4 8.4 8.7 11h-6.8l-5.3-6.9-6.1 6.9H1.3l7.9-9L.9 2.3h7l4.8 6.3 5.5-6.3zm-1.2 17.4h1.9L7.1 4.2H5.1l11.9 15.5z"/></svg>
+  </header>
+  <p class="xc-text">{{ p.text|xtext }}</p>
+  <footer class="xc-foot">
+    <time data-t="{{ p.published }}">{{ p._time }}</time>{% if p._grupa %}<span class="xc-tag">{{ p._grupa }}</span>{% endif %}{% if p.lajk %}<span class="xc-like">♥ {{ p.lajk }}</span>{% endif %}
+    <a class="xc-open" href="https://x.com/{{ p.x }}/status/{{ p.id }}" target="_blank" rel="noopener nofollow">Otvori na X ↗</a>
+  </footer>
+</article>
+{%- endmacro %}
+
+{% macro xpost(p) -%}
+<figure class="xpost" data-xg="{{ p.grupa }}">
+  <blockquote class="x-embed" data-dnt="true" data-lang="sr" data-conversation="none"><p lang="sr"><a href="https://x.com/{{ p.x }}/status/{{ p.id }}">Objava @{{ p.x }} na mreži X</a></p></blockquote>
+  <figcaption><b>{{ p.ime }}</b>{% if p._grupa %} · {{ p._grupa }}{% endif %}{% if p.tema %} · {{ p.tema }}{% endif %}</figcaption>
+</figure>
+{%- endmacro %}
+
+{% macro anketa(p, api, root, compact=False) -%}
+<section class="poll{% if compact %} poll-c{% endif %}" data-anketa="{{ p.id }}" data-api="{{ api }}" data-open="{{ 1 if p._otvorena else 0 }}" aria-label="Pitanje dana">
+  <div class="poll-h"><span class="poll-dot" aria-hidden="true"></span><span class="poll-eyebrow">{{ 'Pitanje dana' if p.izvor == 'dnevna' else 'Anketa' }}</span></div>
+  <h3 class="poll-q">{{ p.pitanje }}</h3>
+  <ol class="poll-o">
+    {% for o in p.opcije %}<li><button class="poll-b" type="button" data-o="{{ loop.index0 }}"{% if not p._otvorena %} disabled{% endif %}><span class="poll-t">{{ o }}</span><span class="poll-bar" aria-hidden="true"></span><span class="poll-pct"></span></button></li>{% endfor %}
+  </ol>
+  <p class="poll-f"><span class="poll-n">{% if p._otvorena %}Glasanje je anonimno · rezultati posle glasa{% else %}Anketa je završena{% endif %}</span><a href="{{ root }}ankete.html">Sve ankete</a></p>
+  <a class="poll-x" href="https://x.com/intent/follow?screen_name=Prestonicars" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M17.75 3h3.07l-6.7 7.66L22 21h-6.17l-4.83-6.32L5.47 21H2.4l7.17-8.2L2 3h6.32l4.37 5.78L17.75 3zm-1.08 16.2h1.7L7.4 4.73H5.58l11.09 14.47z"/></svg><span>Ankete i najvažnije vesti prvi vidite na X-u, @Prestonicars</span></a>
+</section>
+{%- endmacro %}
+
+{% macro xfollow(cls='') -%}
+<a class="xfollow {{ cls }}" href="https://x.com/intent/follow?screen_name=Prestonicars" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M17.75 3h3.07l-6.7 7.66L22 21h-6.17l-4.83-6.32L5.47 21H2.4l7.17-8.2L2 3h6.32l4.37 5.78L17.75 3zm-1.08 16.2h1.7L7.4 4.73H5.58l11.09 14.47z"/></svg><span>Pratite Prestonicu na X-u</span><b>@Prestonicars</b></a>
+{%- endmacro %}

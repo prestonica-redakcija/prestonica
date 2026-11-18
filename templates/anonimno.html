@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block desc %}Nezvanične dojave i informacije koje je redakcija odabrala. Nisu potvrđene.{% endblock %}
+{% block main %}
+<section class="sec-hero an-hero">
+  <span class="sec-ring" aria-hidden="true"></span>
+  <div><span class="eyebrow">Nezvanično</span><h1>Anonimno</h1><p>Dojave, fotografije i informacije iz nezvaničnih izvora. Redakcija ih bira, ali ih nije potvrdila: mogu biti tačne, a ne moraju. Ako ste pomenuti i želite ispravku ili uklanjanje, pišite na redakcija@prestonica.rs.</p></div>
+</section>
+<div class="an-list">
+  {% for it in items %}
+  <article class="an-card" id="a-{{ it.id }}">
+    <div class="an-meta"><span class="an-badge">Neprovereno</span><time datetime="{{ it.vreme }}">{{ it._time }}</time>{% if it.izvor %}<span class="an-src">{{ it.izvor }}</span>{% endif %}</div>
+    {% if it.foto %}<img class="an-img" src="{{ root }}foto/a/{{ it.foto }}" alt="" loading="lazy">{% endif %}
+    {% for p in it._pasusi %}<p>{{ p }}</p>{% endfor %}
+    {% if it.link %}<a class="an-link" href="{{ it.link }}" target="_blank" rel="noopener nofollow ugc">{{ it._domen }} ↗</a>{% endif %}
+  </article>
+  {% endfor %}
+</div>
+{% endblock %}

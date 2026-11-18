@@ -1,0 +1,55 @@
+{
+ "id": "202611161810-8776f2",
+ "slug": "francuska-banka-credit-mutuel-arkea-izgubila-skoro-100-miliona-evra-u",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Francuska banka Crédit Mutuel Arkéa izgubila skoro 100 miliona evra u sajbernapadu",
+ "lead": "Francuska banka Crédit Mutuel Arkéa izgubila je blizu 100 miliona evra u sajbernapadu, kako prenosi Kurir. Banka tvrdi da su sredstva klijenata ostala netaknuta, a francuske vlasti vode istragu.",
+ "body": [
+  "Prema navodima koje prenosi Kurir, napadači nisu fizički upali u banku, već su iskoristili slabosti u digitalnoj infrastrukturi i pokrenuli niz lažnih transakcija sa računa same banke. Novac nije nestao odjednom, već je tokom nekoliko dana prebacivan kroz više finansijskih institucija.",
+  "Prvi tragovi napada pojavili su se 27. oktobra, kada je banka otkrila da je kompromitovan informacioni sistem jednog spoljnog pružaoca usluga. Veza sa partnerom je prekinuta, a predsednik banke Žilijen Karmona objasnio je da su napadači možda već ranije došli do informacija koje su im omogućile dalji prodor. Banka nije javno otkrila ko je taj pružalac usluga niti kako su napadači došli do podataka.",
+  "Napadači su koristili lažne IBAN brojeve povezane sa Fortuneo, digitalnom bankom iz iste grupacije, i preko sistema instant plaćanja pokretali naloge sa računa Crédit Mutuel Arkéa. Izvlačenje novca počelo je 1. novembra, a razmere prevare banka je otkrila 3. novembra. Prema navodima rukovodstva, novac je išao na unapred otvorene račune u drugim evropskim bankama, a zatim na platforme za trgovanje kriptovalutama.",
+  "Karmona je napad opisao kao operaciju koja je verovatno bila potpomognuta naprednom veštačkom inteligencijom. Kurir navodi da nije objasnio koje su alate kriminalci navodno koristili ni u kojoj fazi, pa se uloga veštačke inteligencije za sada ne može smatrati potvrđenom.",
+  "Banka je blokirala spoljne pristupe, uklonila lažne naloge i promenila podatke za autentifikaciju. Deo novca je zamrznut ili vraćen, a potraga za ostatkom se nastavlja. Konačan povraćeni iznos nije objavljen, a identitet odgovornih nije utvrđen.",
+  "Prema proceni rukovodstva, šteta iznosi oko jedan odsto sopstvenog kapitala banke, odnosno otprilike jednu tromesečnu dobit. Kompanija tvrdi da njena finansijska stabilnost nije ugrožena."
+ ],
+ "tags": [
+  "sajber napad",
+  "Crédit Mutuel Arkéa",
+  "Francuska",
+  "banke",
+  "IBAN",
+  "kriptovalute"
+ ],
+ "people": [
+  "Žilijen Karmona"
+ ],
+ "places": [
+  "Francuska"
+ ],
+ "importance": 4,
+ "published": "2026-11-16T17:10:41.798039+00:00",
+ "updated": "2026-11-16T17:10:41.798039+00:00",
+ "sources": [
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10163804/sajber-napad-na-banku-odneo-skoro-100-miliona-evra",
+   "title": "Hakeri izvukli skoro 100 miliona evra iz banke: Nisu im trebali maska ni oružje, već lažni računi",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Hakeri izvukli skoro 100 miliona evra iz banke: Nisu im trebali maska ni oružje, već lažni računi"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 2.318,
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Accueil_du_si%C3%A8ge_social_du_Cr%C3%A9dit_Mutuel_Ark%C3%A9a.jpg/1920px-Accueil_du_si%C3%A8ge_social_du_Cr%C3%A9dit_Mutuel_Ark%C3%A9a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Wikimedia Commons / FJaffres / CC BY-SA 4.0",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:Accueil_du_si%C3%A8ge_social_du_Cr%C3%A9dit_Mutuel_Ark%C3%A9a.jpg",
+  "alt": "Francuska banka Crédit Mutuel Arkéa izgubila skoro 100 miliona evra u sajbernapadu"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "202611150005-e121a5",
+ "slug": "strucnjaci-upozoravaju-koje-finansijske-podatke-ne-treba-deliti-sa",
+ "kind": "vest",
+ "section": "drustvo",
+ "headline": "Stručnjaci upozoravaju koje finansijske podatke ne treba deliti sa četbotovima",
+ "lead": "Finansijski stručnjaci upozoravaju da korisnici veštačke inteligencije ne bi trebalo da unose podatke koji otkrivaju identitet ili omogućavaju pristup bankovnim računima. Kako navodi Kurir pozivajući se na izjave datte HuffPostu, takvi podaci povećavaju rizik od krađe identiteta i zloupotreba.",
+ "body": [
+  "Kurir prenosi da se četbotovi poput ChatGPT-a sve češće koriste za lične finansije, od kućnog budžeta i analize troškova do saveta o štednji, ulaganjima i otplati dugova. Upozorenje se, navodi se, odnosi na velike jezičke modele, među kojima su ChatGPT, Claude, Grok i Gemini.",
+  "Među podacima koje ne treba deliti navode se brojevi bankovnih računa, kreditnih i debitnih kartica, lozinke i PIN-ovi, brojevi ličnih dokumenata ili socijalnog osiguranja, celoviti bankovni izvodi, poreske prijave i dokumenta o kreditima. Takva dokumenta često na jednom mestu sadrže ime i prezime, adresu, podatke o poslodavcu i o računu.",
+  "Nava Knafo, upravnica rizika u National Bank Financial, rekla je za HuffPost da klijentima toplo preporučuje da ne dele ništa što ih može identifikovati ili omogućiti pristup računima. Prema njenim rečima, u zavisnosti od podešavanja platforme, razgovori se mogu čuvati, pregledati ili koristiti za poboljšanje modela, a nijedan digitalni sistem nije potpuno imun na bezbednosne proboje.",
+  "Knafo je dodala: \"Četbotovi takođe nisu vezani obavezama poverljivosti i bezbednosti koje se primenjuju na banke i licencirane savetnike.\"",
+  "Guru Sahajpal iz kompanije Cognizant izjavio je za HuffPost da AI alatu generalno nisu potrebne takve informacije i da njihovo nepotrebno deljenje može dovesti do neovlašćenog pristupa računima ili zloupotrebe podataka. Kristina Roman iz kompanije Experian navela je da alati mogu biti korisni za finansijsku edukaciju, na primer za pitanja o planiranju budžeta, osnovama kreditnog rejtinga, otplati dugova ili štednji, uz korišćenje opštih ili anonimizovanih podataka."
+ ],
+ "tags": [
+  "veštačka inteligencija",
+  "privatnost podataka",
+  "krađa identiteta",
+  "lične finansije",
+  "četbotovi"
+ ],
+ "people": [
+  "Nava Knafo",
+  "Guru Sahajpal",
+  "Kristina Roman"
+ ],
+ "places": [],
+ "importance": 3,
+ "published": "2026-11-14T23:05:43.476877+00:00",
+ "updated": "2026-11-14T23:05:43.476877+00:00",
+ "sources": [
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/zabava/zanimljivosti/10157449/ova-podatke-nikada-nemojte-deliti-s-vestackom-inteligencijom",
+   "title": "Ova podatke nikada nemojte deliti s veštačkom inteligencijom: Stručnjaci upozoravaju na rizik koji svi zanemaruju",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Ova podatke nikada nemojte deliti s veštačkom inteligencijom: Stručnjaci upozoravaju na rizik koji svi zanemaruju"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.889,
+ "image": {
+  "src": "foto/beograd-fasada.jpg",
+  "credit": "Pexels / Zehra Aynacı",
+  "ilustracija": true,
+  "local": true,
+  "alt": "Stručnjaci upozoravaju koje finansijske podatke ne treba deliti sa četbotovima"
+ }
+}

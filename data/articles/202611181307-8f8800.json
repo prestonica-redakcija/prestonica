@@ -1,0 +1,72 @@
+{
+ "id": "202611181307-8f8800",
+ "slug": "startap-otkrio-propust-u-javi-uz-pomoc-vestacke-inteligencije-orakl",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Startap otkrio propust u Javi uz pomoć veštačke inteligencije, Orakl objavio ažuriranje",
+ "lead": "Kompanija za sajber-bezbednost \"Kalif\" otkrila je, uz pomoć veštačke inteligencije, propust u funkcijama za memoriju u programskom jeziku Java, koji koriste vodeće kompanije, banke, bolnice i vlade. Orakl, vlasnik Jave, nije direktno potvrdio grešku, ali je objavio \"kritično ažuriranje\".",
+ "body": [
+  "Kako je preneo BBC, a prenose Tanjug i Telegraf, startap \"Kalif\" pronašao je grešku u funkcijama Jave koje upravljaju memorijom. Java je treći najpopularniji programski jezik na svetu, a koristi je, kako se navodi, gotovo svaka vodeća svetska kompanija, među njima \"Epl\" i \"Amazon\", kao i mnoge banke, bolnice i vlade.",
+  "Telegraf navodi da je propust nazvan \"Java4Shell\" i da napadaču omogućava da na daljinu izvrši neželjene komande unutar memorijskog sistema Jave. U ovom slučaju u ulozi napadača bio je model \"GPT-6 Sajber\" kompanije \"OpenAI\", koji je nedavno predstavljen, ali još nije dostupan javnosti.",
+  "Prema Telegrafu, postoji bojazan da bi hakeri mogli da otkriju istu grešku ako propust ne bude otklonjen. Kompanija \"Orakl\", vlasnik Jave, nije direktno potvrdila postojanje greške, ali je u utorak objavila \"kritično ažuriranje\" za koje navodi da sadrži ispravke bezbednosnih slabosti. Isti izvor navodi da nije jasno da li su neke platforme ili kompanije pogođene ovim incidentom.",
+  "Telegraf podseća da je do otkrića došlo nakon niza tehnoloških problema, uključujući veliki prekid u radu sistema Majkrosofta. Američka NSA saopštila je da su njeni sistemi za internu komunikaciju u utorak bili van funkcije zbog \"planiranog rutinskog održavanja\" i nije precizirala da li je to povezano sa greškom u Javi. \"Epl\" je prijavio prekid rada više servisa usled internog ažuriranja, a kvar na mreži doveo je do prizemljenja svih letova u SAD.",
+  "Američki državni sekretar Marko Rubio izjavio je da ne postoji nikakav dokaz da su ovi incidenti međusobno povezani. Stručnjak za veštačku inteligenciju Tobi Volš ocenio je da AI sada otkriva mnogo više propusta i znatno brže, uključujući one koje ljudi sami ne bi mogli da uoče."
+ ],
+ "tags": [
+  "Java",
+  "sajber bezbednost",
+  "veštačka inteligencija",
+  "Orakl",
+  "Kalif",
+  "OpenAI"
+ ],
+ "people": [
+  "Marko Rubio",
+  "Tobi Volš"
+ ],
+ "places": [
+  "London",
+  "Sjedinjene Američke Države"
+ ],
+ "importance": 5,
+ "published": "2026-11-18T12:07:07.965704+00:00",
+ "updated": "2026-11-18T12:22:09.404277+00:00",
+ "sources": [
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/298778/otkriven-bezbednosni-propust-u-programskom-jeziku-java/vest",
+   "title": "Otkriven bezbednosni propust u programskom jeziku Java",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://ubrzanje.telegraf.rs/ubrzanje-ai/4435271-bezbednosni-propust-u-programskom-jeziku-koji-koriste-vodece-kompanije-objavljeno-kriticno-azuriranje",
+   "title": "Bezbednosni propust u programskom jeziku koji koriste vodeće kompanije: Objavljeno \"kritično ažuriranje\"",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/vestacka-inteligencija-otkrila-ozbiljan-bezbednosni-propust-u-programskom-jeziku-java",
+   "title": "Veštačka inteligencija otkrila ozbiljan bezbednosni propust u programskom jeziku Java",
+   "spektar": "opozicija"
+  }
+ ],
+ "source_titles": [
+  "Otkriven bezbednosni propust u programskom jeziku Java",
+  "Bezbednosni propust u programskom jeziku koji koriste vodeće kompanije: Objavljeno \"kritično ažuriranje\"",
+  "Veštačka inteligencija otkrila ozbiljan bezbednosni propust u programskom jeziku Java"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 3.599,
+ "image": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Kalif_Raymond_2019_12-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Wikimedia Commons / Chipermc / CC BY-SA 4.0",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:Kalif_Raymond_2019_12-08.jpg",
+  "alt": "Startap otkrio propust u Javi uz pomoć veštačke inteligencije, Orakl objavio ažuriranje"
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
+}
