@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T22:32:55.430931+00:00",
- "updated": "2026-11-18T22:32:55.430931+00:00",
+ "updated": "2026-11-18T22:47:45.423273+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -46,11 +46,25 @@
    "url": "https://www.kurir.rs/planeta/10166259/hegset-stigao-u-venecuelu-i-objavio-novi-vojni-sporazum",
    "title": "TRAMPOV MINISTAR RATA IZNENADA STIGAO U KARAKAS! Venecuela i Amerika potpisale vojni sporazum! Dve države će razmenjivati obaveštajne podatke (FOTO/VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/252703/hegset-zajednicka-obuka-i-razmena-obavestajnih-podataka/vest",
+   "title": "Hegset: SAD i Venecuela postigli novi sporazum o vojnoj saradnji",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/sad-i-venecuela-vojne-veze/",
+   "title": "SAD i Venecuela potpisale su sporazum o ponovnom uspostavljanju vojnih veza",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "SAD i Venecuela potpisale su sporazum o ponovnom uspostavljanju vojnih veza",
-  "TRAMPOV MINISTAR RATA IZNENADA STIGAO U KARAKAS! Venecuela i Amerika potpisale vojni sporazum! Dve države će razmenjivati obaveštajne podatke (FOTO/VIDEO)"
+  "TRAMPOV MINISTAR RATA IZNENADA STIGAO U KARAKAS! Venecuela i Amerika potpisale vojni sporazum! Dve države će razmenjivati obaveštajne podatke (FOTO/VIDEO)",
+  "Hegset: SAD i Venecuela postigli novi sporazum o vojnoj saradnji",
+  "SAD i Venecuela potpisale su sporazum o ponovnom uspostavljanju vojnih veza"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +75,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Hegset u Karakasu: SAD i Venecuela dogovorile vojnu saradnju i razmenu podataka"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

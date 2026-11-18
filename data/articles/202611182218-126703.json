@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T21:18:23.312560+00:00",
- "updated": "2026-11-18T21:18:23.312560+00:00",
+ "updated": "2026-11-18T22:47:45.423273+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -45,9 +45,16 @@
    "url": "https://insajder.net/prenosimo/cena-nafte-brent-pala-ispod-91-dolar-za-barel-a-americki-wti-na-oko-83-dolara",
    "title": "Cena nafte Brent pala ispod 91 dolar za barel, a američki WTI na oko 83 dolara",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/252706/cene-nafte-pale-brent-ispod-91-wti-ispod-83-dolara/vest",
+   "title": "Cena nafte Brent pala ispod 91 dolar za barel, a američki WTI na oko 83 dolara",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
+  "Cena nafte Brent pala ispod 91 dolar za barel, a američki WTI na oko 83 dolara",
   "Cena nafte Brent pala ispod 91 dolar za barel, a američki WTI na oko 83 dolara",
   "Cena nafte Brent pala ispod 91 dolar za barel, a američki WTI na oko 83 dolara"
  ],
@@ -61,5 +68,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Journalist_Brent_Pere_at_the_Opinion_Festival_2022_in_Paide,_Estonia.jpg",
   "alt": "Cena nafte Brent pala ispod 91 dolar za barel, WTI na oko 83 dolara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

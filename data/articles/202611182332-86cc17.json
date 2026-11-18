@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-18T22:32:55.430931+00:00",
- "updated": "2026-11-18T22:32:55.430931+00:00",
+ "updated": "2026-11-18T22:47:45.423273+00:00",
  "sources": [
   {
    "name": "N1",
@@ -49,12 +49,19 @@
    "url": "https://www.kurir.rs/planeta/10166303/albanija-kupuje-americke-rakete-himars",
    "title": "ALBANIJA KUPUJE AMERIČKE SISTEME \"HIMARS\": \"Važan korak u produbljivanju strateškog partnerstva\" Vašingtona i Tirane",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/sad-odobrile-prodaju-raketnih-sistema-himars-albaniji",
+   "title": "SAD odobrile prodaju raketnih sistema HIMARS Albaniji",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Albanija kupuje sisteme HIMARS",
   "Albanija kupuje sisteme HIMARS",
-  "ALBANIJA KUPUJE AMERIČKE SISTEME \"HIMARS\": \"Važan korak u produbljivanju strateškog partnerstva\" Vašingtona i Tirane"
+  "ALBANIJA KUPUJE AMERIČKE SISTEME \"HIMARS\": \"Važan korak u produbljivanju strateškog partnerstva\" Vašingtona i Tirane",
+  "SAD odobrile prodaju raketnih sistema HIMARS Albaniji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,5 +73,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:First_HIMARS_live-fire_marks_milestone_for_Estonia_(9178052).jpg",
   "alt": "Albanija kupuje dva raketna sistema HIMARS, Vašington odobrio prodaju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
