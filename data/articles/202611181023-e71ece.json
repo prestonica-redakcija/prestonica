@@ -28,17 +28,24 @@
  ],
  "importance": 3,
  "published": "2026-11-18T09:23:20.980251+00:00",
- "updated": "2026-11-18T09:23:20.980251+00:00",
+ "updated": "2026-11-18T23:02:29.714678+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/drustvo/298694/pojacana-kontrola-saobracaja-roadpol-do-22-novembra-prvog-dana-1097-prekrsaja/vest",
    "title": "Pojačana kontrola saobraćaja ROADPOL do 22. novembra, prvog dana 1.097 prekršaja",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/razno/286207/na-danasnji-dan-19-novembar/vest",
+   "title": "Na današnji dan, 19. novembar",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Pojačana kontrola saobraćaja ROADPOL do 22. novembra, prvog dana 1.097 prekršaja"
+  "Pojačana kontrola saobraćaja ROADPOL do 22. novembra, prvog dana 1.097 prekršaja",
+  "Na današnji dan, 19. novembar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Akcija ROADPOL: prvog dana otkriveno 1.097 prekršaja vozača teretnih vozila i autobusa"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

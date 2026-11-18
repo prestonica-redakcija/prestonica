@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-18T13:06:51.494242+00:00",
- "updated": "2026-11-18T13:06:51.494242+00:00",
+ "updated": "2026-11-18T23:02:29.714678+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,11 +44,18 @@
    "url": "https://www.kurir.rs/zabava/pop-kultura/10165812/hulio-iglesijas-pod-istragom-u-spaniji-po-tuzbi-dve-bivse-zaposlene",
    "title": "Španski sud ponovo otvorio istragu protiv Hulija Iglesijasa: Prihvatio deo tužbe dve bivše zaposlene",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/zabava/sudbine/spanski-sud-ponovo-pokrenuo-postupak-protiv-hulija-iglesijasa-dve-zene-tvrde-da-ih-je-pevac-seksualno-i-fizicki-zlostavljao/",
+   "title": "Španski sud ponovo pokrenuo postupak protiv Hulija Iglesijasa: Dve žene tvrde da ih je pevač seksualno i fizički zlostavljao",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Sud u Španiji prihvatio tužbu protiv Iglesijasa zbog sumnje na seksualne delikte",
-  "Španski sud ponovo otvorio istragu protiv Hulija Iglesijasa: Prihvatio deo tužbe dve bivše zaposlene"
+  "Španski sud ponovo otvorio istragu protiv Hulija Iglesijasa: Prihvatio deo tužbe dve bivše zaposlene",
+  "Španski sud ponovo pokrenuo postupak protiv Hulija Iglesijasa: Dve žene tvrde da ih je pevač seksualno i fizički zlostavljao"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Španski sud pokrenuo istragu protiv Hulija Iglesijasa po tužbi dve bivše zaposlene"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

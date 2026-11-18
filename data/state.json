@@ -5996,18 +5996,18 @@
   "https://www.euronews.rs/biznis/biznis-vesti/252706/cene-nafte-pale-brent-ispod-91-wti-ispod-83-dolara/vest": "2026-11-18T22:47:45.423273+00:00",
   "https://n1info.rs/svet/severna-koreja-prosiruje-nuklearno-postrojenje-za-obogacivanje-uranijuma/": "2026-11-18T22:47:45.423273+00:00",
   "https://www.telegraf.rs/4435677-milica-djurdjevic-stamenkovski-otkrila-zasto-nije-poslanik-u-novom-sazivu-skupstine-srbije": "2026-11-18T22:47:45.423273+00:00",
-  "https://informer.rs/politika/vesti/1171224/dragan-jovanovic-pijan-narodna-skupstina": "2026-11-18T22:47:45.423273+00:00"
+  "https://informer.rs/politika/vesti/1171224/dragan-jovanovic-pijan-narodna-skupstina": "2026-11-18T22:47:45.423273+00:00",
+  "https://nova.rs/zabava/sudbine/spanski-sud-ponovo-pokrenuo-postupak-protiv-hulija-iglesijasa-dve-zene-tvrde-da-ih-je-pevac-seksualno-i-fizicki-zlostavljao/": "2026-11-18T23:02:29.714678+00:00",
+  "https://www.b92.net/info/razno/286207/na-danasnji-dan-19-novembar/vest": "2026-11-18T23:02:29.714678+00:00",
+  "https://n1info.rs/vesti/nenad-matej-presi-goran-bulajic-oprostaj/": "2026-11-18T23:02:29.714678+00:00",
+  "https://www.tanjug.rs/svet/drustvo/298997/sad-povecana-potraznja-za-hranom-i-generatorima-nakon-prekida-rada-tehnoloskih-sistema/vest": "2026-11-18T23:02:29.714678+00:00",
+  "https://www.kurir.rs/planeta/10166311/panika-u-americi-povecana-potraznja-za-hranom-posle-prekida-rada-tehnoloskih-sistema": "2026-11-18T23:02:29.714678+00:00",
+  "https://www.telegraf.rs/vesti/svet/4435674-sad-povecana-potraznja-za-hranom-generatorima-nakon-prekida-rada-tehnoloskih-sistema": "2026-11-18T23:02:29.714678+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-18T08:12+00:00",
-   "novih": 6,
-   "ukupno": 2300,
-   "sekundi": 250.5
-  },
   {
    "vreme": "2026-11-18T08:27+00:00",
    "novih": 3,
@@ -6361,6 +6361,12 @@
    "novih": 0,
    "ukupno": 2649,
    "sekundi": 283.5
+  },
+  {
+   "vreme": "2026-11-18T23:06+00:00",
+   "novih": 2,
+   "ukupno": 2651,
+   "sekundi": 269.8
   }
  ],
  "licnosti_foto": {
@@ -9028,7 +9034,7 @@
    "slug": "radna-grupa-gost-predrag-azdejkovic-i-tema-medijskog-mraka-mrvjz4lu8-8"
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -62416,6 +62422,28 @@
      "naslov": "Emergency response efforts for Tropical Storm Debby at Camp Blanding Joint Training Center, Florida, Aug. 4, 2024 11.jpg"
     }
    ]
+  },
+  "t:pad mig 29": {
+   "t": 1795042980.80792,
+   "items": []
+  },
+  "t:matej peris": {
+   "t": 1795042981.0526998,
+   "items": []
+  },
+  "t:kostko": {
+   "t": 1795043003.2638972,
+   "items": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/9_kompania_14_pp_%2828.II.1927%29_-_w_%C5%9Brodku_mjr_J%C3%B3zef_Kostko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1670,
+     "h": 923,
+     "god": 2023,
+     "credit": "Wikimedia Commons / Szczur14pp / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:9_kompania_14_pp_(28.II.1927)_-_w_%C5%9Brodku_mjr_J%C3%B3zef_Kostko.jpg",
+     "naslov": "9 kompania 14 pp (28.II.1927) - w środku mjr Józef Kostko.jpg"
+    }
+   ]
   }
  },
  "x_objave": {
@@ -62557,7 +62585,8 @@
    "202611131820-99faa8",
    "202611131820-c8520f",
    "202611132203-1076ed",
-   "202611182247-dcd8bb"
+   "202611182247-dcd8bb",
+   "202611182247-c58ac8"
   ],
   "istorija": [
    {
@@ -63405,6 +63434,12 @@
     "id": "anketa:a202611181922",
     "x": "2123183117490131196",
     "link": true
+   },
+   {
+    "t": 1795043021.7496142,
+    "id": "202611182247-c58ac8",
+    "x": "2123190435778797987",
+    "link": false
    }
   ],
   "ankete": {
