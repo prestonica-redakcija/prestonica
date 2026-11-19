@@ -26,17 +26,24 @@
  ],
  "importance": 5,
  "published": "2026-11-18T14:36:05.770455+00:00",
- "updated": "2026-11-18T14:36:05.770455+00:00",
+ "updated": "2026-11-19T05:59:16.631536+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/298831/clan-upravnog-odbora-feda-kristofer-voler-podrzao-podizanje-kamate-za-50-baznih-poena/vest",
    "title": "Član Upravnog odbora Feda Kristofer Voler podržao podizanje kamate za 50 baznih poena",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/252636/fed-voler-trazi-povecanje-kamate-za-50-baznih-poena/vest",
+   "title": "Fed podeljen oko kamata: Voler traži povećanje od 50 baznih poena u decembru",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Član Upravnog odbora Feda Kristofer Voler podržao podizanje kamate za 50 baznih poena"
+  "Član Upravnog odbora Feda Kristofer Voler podržao podizanje kamate za 50 baznih poena",
+  "Fed podeljen oko kamata: Voler traži povećanje od 50 baznih poena u decembru"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Voler: Fed bi u decembru trebalo da podigne kamatu za 50 baznih poena"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

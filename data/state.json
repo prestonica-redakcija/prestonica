@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.euronews.rs/biznis/biznis-vesti/251922/eu-razmatra-zabranu-uvlacecih-kvaka-na-automobilima/vest": "2026-11-14T05:59:03.198945+00:00",
-  "https://www.kurir.rs/zabava/pop-kultura/10160948/slavisa-curovic-o-zivotu-i-detinjstvu": "2026-11-14T05:59:03.198945+00:00",
   "https://www.tanjug.rs/srbija/drustvo/297668/u-srbiji-danas-osetno-hladnije-temperatura-do-10-stepeni/vest": "2026-11-14T06:13:55.665713+00:00",
   "https://n1info.rs/vesti/vremenska-prognoza-14-novembar-2026/": "2026-11-14T06:13:55.665713+00:00",
   "https://www.tanjug.rs/srbija/drustvo/297666/amss-zadrzavanja-samo-za-teretnjake-na-izlazu-u-batrovcima-tri-sata/vest": "2026-11-14T06:13:55.665713+00:00",
@@ -5974,18 +5972,14 @@
   "https://www.telegraf.rs/vesti/srbija/4435604-obilne-padavine-ponovo-stizu-u-srbiju-evo-i-kada-otkrivamo-kada-i-gde-preti-olujni-vetar-temperatura-do-20": "2026-11-19T04:30:03.197904+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/252711/kurs-evra-danas-kursna-lista-nbs-za-19-novembar/vest": "2026-11-19T04:44:53.003825+00:00",
   "https://www.kurir.rs/planeta/10166328/trilateralni-sastanak-sija-trampa-i-putina-na-samitu-apec-u-sendzenu-u-kini": "2026-11-19T04:59:42.571922+00:00",
-  "https://www.telegraf.rs/4435695-danas-nastavak-konstitutivne-sednice-rasprava-o-kandidatima-za-predsednika-skupstine": "2026-11-19T05:14:36.377349+00:00"
+  "https://www.telegraf.rs/4435695-danas-nastavak-konstitutivne-sednice-rasprava-o-kandidatima-za-predsednika-skupstine": "2026-11-19T05:14:36.377349+00:00",
+  "https://n1info.rs/vesti/19-novembar-lokalni-pljuskovi-vremenska-prognoza/": "2026-11-19T05:59:16.631536+00:00",
+  "https://www.euronews.rs/biznis/biznis-vesti/252636/fed-voler-trazi-povecanje-kamate-za-50-baznih-poena/vest": "2026-11-19T05:59:16.631536+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-18T15:11+00:00",
-   "novih": 4,
-   "ukupno": 2475,
-   "sekundi": 340.2
-  },
   {
    "vreme": "2026-11-18T15:25+00:00",
    "novih": 0,
@@ -6339,6 +6333,12 @@
    "novih": 0,
    "ukupno": 2652,
    "sekundi": 276.2
+  },
+  {
+   "vreme": "2026-11-19T06:03+00:00",
+   "novih": 0,
+   "ukupno": 2652,
+   "sekundi": 274.9
   }
  ],
  "licnosti_foto": {
@@ -9007,7 +9007,7 @@
    "slug": "radna-grupa-gost-predrag-azdejkovic-i-tema-medijskog-mraka-mrvjz4lu8-8"
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",

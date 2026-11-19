@@ -26,17 +26,24 @@
  ],
  "importance": 3,
  "published": "2026-11-18T06:39:33.089480+00:00",
- "updated": "2026-11-18T06:39:33.089480+00:00",
+ "updated": "2026-11-19T05:59:16.631536+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/srbija/politika/252559/vremenska-prognoza-za-srbiju-danas-kisa-i-do-19-stepeni/vest",
    "title": "Danas do 19 stepeni uz pljuskove: Pogledajte kakvo nas vreme čeka do kraja nedelje i kada stiže zahlađenje",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/19-novembar-lokalni-pljuskovi-vremenska-prognoza/",
+   "title": "I danas nas očekuju lokalni pljuskovi",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Danas do 19 stepeni uz pljuskove: Pogledajte kakvo nas vreme čeka do kraja nedelje i kada stiže zahlađenje"
+  "Danas do 19 stepeni uz pljuskove: Pogledajte kakvo nas vreme čeka do kraja nedelje i kada stiže zahlađenje",
+  "I danas nas očekuju lokalni pljuskovi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Danas do 19 stepeni uz kišu, od vikenda stiže nagli pad temperature"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
