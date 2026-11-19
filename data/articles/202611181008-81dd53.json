@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T09:08:30.451343+00:00",
- "updated": "2026-11-19T09:12:47.015713+00:00",
+ "updated": "2026-11-19T09:27:37.018336+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -584,6 +584,48 @@
    "url": "https://www.telegraf.rs/vesti/svet/4435785-tramp-tesko-je-odreci-se-nuklearnog-oruzja-putin-zajednicki-interes-oko-ukrajine-si-ucimo-iz-istorije",
    "title": "Tramp: \"Teško je odreći se nuklearnog oružja\", Putin: Zajednički interes oko Ukrajine, Si: \"Učimo iz istorije\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/istorijski-samit-u-sendzenu-poceo-trilateralni-sastanak-si-dinpinga-donalda-trampa-i-vladimira-putina",
+   "title": "Istorijski samit u Šendženu: Počeo trilateralni sastanak Si Đinpinga, Donalda Trampa i Vladimira Putina",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/bbc-news-serbian/si-djinping-zapoceo-istorijski-trilateralni-sastanak-sa-trampom-i-putinom/",
+   "title": "Si Đinping započeo istorijski trilateralni sastanak sa Trampom i Putinom",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/252740/putin-tramp-i-si-na-prvom-trilateralnom-sastanku-u-senzenu/vest",
+   "title": "Počeo prvi trilateralni sastanak Putina, Trampa i Sija: Poziv na saradnju i očuvanje svetskog mira",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/video-tramp-pokusao-da-uhvati-sija-za-ruku-pogledajte-reakciju-kineskog-predsednika/",
+   "title": "VIDEO Tramp pokušao da uhvati Sija za ruku? Pogledajte reakciju kineskog predsednika",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/tusk-tramp-putin-senzen/",
+   "title": "„Bože, sačuvaj nas takvih prijatelja“: Tusk o sastanku Trampa i Putina u Šenženu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/sport/kosarka/4435792-jokic-dobio-jedno-od-najcudnijih-pitanja-od-kada-igra-u-nba-nikola-kratko-odgovorio-ne",
+   "title": "Jokić dobio jedno od najčudnijih pitanja od kada igra u NBA, Nikola kratko odgovorio: \"Ne\"",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/jetset/holivud/4435808-poginuo-poznati-glumac-66-auto-ga-pokosio-na-pesackom-prelazu",
+   "title": "Poginuo poznati glumac (66): Auto ga pokosio na pešačkom prelazu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -677,7 +719,14 @@
   "Francuski ministar Baro: Od sastanka Trampa, Sija i Putina u Kini neće biti ništa",
   "\"Ovo je apsolutna noćna mora\": Saveznici u strahu od sastanka Trampa, Sija i Putina",
   "Umro čuveni glumac: Udario ga auto dok je prelazio ulicu, danima u bolnici čekao operaciju",
-  "Tramp: \"Teško je odreći se nuklearnog oružja\", Putin: Zajednički interes oko Ukrajine, Si: \"Učimo iz istorije\""
+  "Tramp: \"Teško je odreći se nuklearnog oružja\", Putin: Zajednički interes oko Ukrajine, Si: \"Učimo iz istorije\"",
+  "Istorijski samit u Šendženu: Počeo trilateralni sastanak Si Đinpinga, Donalda Trampa i Vladimira Putina",
+  "Si Đinping započeo istorijski trilateralni sastanak sa Trampom i Putinom",
+  "Počeo prvi trilateralni sastanak Putina, Trampa i Sija: Poziv na saradnju i očuvanje svetskog mira",
+  "VIDEO Tramp pokušao da uhvati Sija za ruku? Pogledajte reakciju kineskog predsednika",
+  "„Bože, sačuvaj nas takvih prijatelja“: Tusk o sastanku Trampa i Putina u Šenženu",
+  "Jokić dobio jedno od najčudnijih pitanja od kada igra u NBA, Nikola kratko odgovorio: \"Ne\"",
+  "Poginuo poznati glumac (66): Auto ga pokosio na pešačkom prelazu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -690,7 +739,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(14-12-2021).jpg",
   "alt": "Si i Putin održali 50. susret u Šenženu uoči samita sa Trampom"
  },
- "novo_od_pisanja": 6,
+ "novo_od_pisanja": 13,
  "boost": 1.6,
  "prepisano": "2026-11-19T08:57:57.933205+00:00",
  "verzija": 17

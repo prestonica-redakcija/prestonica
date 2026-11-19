@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-19T09:12:47.015713+00:00",
- "updated": "2026-11-19T09:12:47.015713+00:00",
+ "updated": "2026-11-19T09:27:37.018336+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -42,11 +42,32 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4435782-uzeli-preko-dva-miliona-od-novog-sada-za-izmisljene-manifestacije-uhapsene-dve-osobe-oglasilo-se-tuzilastvo",
    "title": "Uzeli preko dva miliona od Novog Sada za izmišljene manifestacije: Uhapšene dve osobe, oglasilo se tužilaštvo",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/299063/u-novom-sadu-uhapseni-osumnjiceni-da-su-ostetili-budzet-za-vise-od-dva-miliona-dinara/vest",
+   "title": "U Novom Sadu uhapšeni osumnjičeni da su oštetili budžet za više od dva miliona dinara",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/286266/uhapsene-dve-osobe-u-novom-sadu-zbog-zloupotrebe-polozaja-proneverili-vise-od-dva-miliona-dinara/vest",
+   "title": "Uhapšene dve osobe u Novom Sadu zbog zloupotrebe položaja: Proneverili više od dva miliona dinara",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/uhapsene-dve-osobe-dobili-novac-za-projekte-iz-budzeta-grada-novog-sada-a-nisu-ih-sproveli/",
+   "title": "Uhapšene dve osobe: Dobili novac za projekte iz budžeta Grada Novog Sada, a nisu ih sproveli",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Dve osobe uhapšene zbog zloupotrebe službenog položaja: Uzeli novac za projekte koje nisu realizovali",
-  "Uzeli preko dva miliona od Novog Sada za izmišljene manifestacije: Uhapšene dve osobe, oglasilo se tužilaštvo"
+  "Uzeli preko dva miliona od Novog Sada za izmišljene manifestacije: Uhapšene dve osobe, oglasilo se tužilaštvo",
+  "U Novom Sadu uhapšeni osumnjičeni da su oštetili budžet za više od dva miliona dinara",
+  "Uhapšene dve osobe u Novom Sadu zbog zloupotrebe položaja: Proneverili više od dva miliona dinara",
+  "Uhapšene dve osobe: Dobili novac za projekte iz budžeta Grada Novog Sada, a nisu ih sproveli"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +79,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Dunavska_street_in_Novi_Sad.jpg",
   "alt": "Novi Sad: uhapšena dva osumnjičena da su za devet nesprovedenih projekata dobili 2,1 milion dinara"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

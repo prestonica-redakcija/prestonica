@@ -33,7 +33,7 @@
  ],
  "importance": 7,
  "published": "2026-11-18T09:23:20.980251+00:00",
- "updated": "2026-11-18T15:20:41.939533+00:00",
+ "updated": "2026-11-19T09:27:37.018336+00:00",
  "sources": [
   {
    "name": "N1",
@@ -142,6 +142,24 @@
    "url": "https://n1info.rs/vesti/policajac-uhapsen-zbog-zlostavljanja-decaka-u-policijskoj-stanici-u-novom-sadu/",
    "title": "Policajac uhapšen zbog zlostavljanja dečaka u policijskoj stanici u Novom Sadu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/299058/dragijevic-i-jankovic-dovedeni-u-sud-danas-prvi-put-iznose-odbranu/vest",
+   "title": "Dragijević i Janković dovedeni u sud, danas prvi put iznose odbranu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10166506/optuzeni-za-ubistvo-danke-ilic-dovedeni-u-sud",
+   "title": "OPTUŽENI ZA UBISTVO DANKE ILIĆ DOVEDENI U SUD, NJENI RODITELJI NISU DOŠLI: Dragijević i Janković prvi put iznose odbranu (FOTO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/286267/optuzeni-za-ubistvo-danke-ilic-prvi-put-iznose-odbranu/vest",
+   "title": "Počinje glavni pretres na suđenju za ubistvo Danke Ilić; Optuženi prvi put iznose odbranu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -162,7 +180,10 @@
   "Identifikovan policajac osumnjičen za fizičko zlostavljanje maloletnika u Odžacima",
   "OJT u Novom Sadu: Identifikovan policajac osumnjičen za fizičko zlostavljanje maloletnika u Odžacima",
   "Uhapšen policajac osumnjičen da je zlostavljao maloletnika u Odžacima: „Odveli su ga u policijsku stanicu i pretukli“",
-  "Policajac uhapšen zbog zlostavljanja dečaka u policijskoj stanici u Novom Sadu"
+  "Policajac uhapšen zbog zlostavljanja dečaka u policijskoj stanici u Novom Sadu",
+  "Dragijević i Janković dovedeni u sud, danas prvi put iznose odbranu",
+  "OPTUŽENI ZA UBISTVO DANKE ILIĆ DOVEDENI U SUD, NJENI RODITELJI NISU DOŠLI: Dragijević i Janković prvi put iznose odbranu (FOTO)",
+  "Počinje glavni pretres na suđenju za ubistvo Danke Ilić; Optuženi prvi put iznose odbranu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -174,7 +195,7 @@
   "local": true,
   "alt": "Sedmorici policajaca iz Bora određen pritvor od 30 dana zbog sumnje na zlostavljanje"
  },
- "novo_od_pisanja": 9,
+ "novo_od_pisanja": 12,
  "boost": 1.6,
  "prepisano": "2026-11-18T10:22:49.423310+00:00",
  "verzija": 2

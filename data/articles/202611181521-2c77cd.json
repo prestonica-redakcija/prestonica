@@ -31,17 +31,24 @@
  ],
  "importance": 4,
  "published": "2026-11-18T14:21:15.621414+00:00",
- "updated": "2026-11-18T14:21:15.621414+00:00",
+ "updated": "2026-11-19T09:27:37.018336+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/slovenacki-muzicar-se-izvinio-zbog-izvodjenja-pesme-oj-kosovo-kosovo-u-briselu/",
    "title": "Slovenački muzičar se izvinio zbog izvođenja pesme \"Oj Kosovo, Kosovo\" u Briselu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10166492/marko-hatlak-se-izvinio-zbog-izvodjenja-pesme-oj-kosovo-kosovo",
+   "title": "POSLE MARTE KOS, ZA \"OJ KOSOVO, KOSOVO\" U BRISELU IZVINJAVA SE I BEND! Oglasio se slovenački muzičar: Nenamerna greška",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Slovenački muzičar se izvinio zbog izvođenja pesme \"Oj Kosovo, Kosovo\" u Briselu"
+  "Slovenački muzičar se izvinio zbog izvođenja pesme \"Oj Kosovo, Kosovo\" u Briselu",
+  "POSLE MARTE KOS, ZA \"OJ KOSOVO, KOSOVO\" U BRISELU IZVINJAVA SE I BEND! Oglasio se slovenački muzičar: Nenamerna greška"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Guri_i_Plakes_and_Drenica_River_in_Kosovo.jpg",
   "alt": "Slovenački muzičar se izvinio zbog pesme \"Oj Kosovo, Kosovo\" na koncertu u Briselu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

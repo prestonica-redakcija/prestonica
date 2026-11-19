@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T12:07:07.965704+00:00",
- "updated": "2026-11-19T09:12:47.015713+00:00",
+ "updated": "2026-11-19T09:27:37.018336+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -135,6 +135,18 @@
    "url": "https://nova.rs/vesti/politika/blog-uzivo-treci-dan-konstitutivne-sednice-da-li-ce-danas-konacno-biti-izabran-predsednik-skupstine/",
    "title": "BLOG UŽIVO Treći dan konstitutivne sednice: Da li će danas konačno biti izabran predsednik Skupštine",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/299059/nastavljena-konstitutivna-sednica-rasprava-o-kandidatima-za-predsedsednika-skupstine/vest",
+   "title": "Nastavljena konstitutivna sednica, rasprava o kandidatima za predsedsednika Skupštine",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/politika/blog-uzivo-nastavljena-konstitutivna-sednica-skupstine-treci-dan-rasprave-o-izboru-predsednika-parlamenta",
+   "title": "BLOG UŽIVO Nastavljena konstitutivna sednica Skupštine: Treći dan rasprave o izboru predsednika parlamenta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -154,7 +166,9 @@
   "TREĆI DAN KONSTITUTIVNE SEDNICE Nastavak rasprave o kandidatima za predsednika Skupštine Srbije",
   "UŽIVO Konstitutivna sednica Skupštine: Poslanici nastavljaju raspravu o kandidatima za predsednika parlamenta",
   "TREĆI DAN KONSTITUTIVNE SEDNICE SKUPŠTINE: Poslanici biraju predsednika parlamenta (VIDEO)",
-  "BLOG UŽIVO Treći dan konstitutivne sednice: Da li će danas konačno biti izabran predsednik Skupštine"
+  "BLOG UŽIVO Treći dan konstitutivne sednice: Da li će danas konačno biti izabran predsednik Skupštine",
+  "Nastavljena konstitutivna sednica, rasprava o kandidatima za predsedsednika Skupštine",
+  "BLOG UŽIVO Nastavljena konstitutivna sednica Skupštine: Treći dan rasprave o izboru predsednika parlamenta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -166,7 +180,7 @@
   "local": true,
   "alt": "Brnabić na konstitutivnoj sednici uporedila naučne radove Radenovića i Čupića"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-19T09:12:47.015713+00:00",
  "verzija": 4

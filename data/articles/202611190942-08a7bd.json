@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-19T08:42:57.783545+00:00",
- "updated": "2026-11-19T08:42:57.783545+00:00",
+ "updated": "2026-11-19T09:27:37.018336+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,11 +44,18 @@
    "url": "https://www.euronews.rs/svet/fokus/252729/ilon-mask-osecam-se-glupo-zbog-500-miliona-dolara/vest",
    "title": "Mask: Pogrešio sam što sam potrošio 500 miliona dolara na podršku republikancima",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/mask-osecam-se-prilicno-glupo-sto-sam-potrosio-gotovo-500-miliona-dolara-na-podrsku-republikancima-na-meduizborima",
+   "title": "Mask: Osećam se \"prilično glupo\" što sam potrošio gotovo 500 miliona dolara na podršku republikancima na međuizborima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Mask: Pogrešio sam što sam potrošio 500 miliona dolara na podršku republikancima",
-  "Mask: Pogrešio sam što sam potrošio 500 miliona dolara na podršku republikancima"
+  "Mask: Pogrešio sam što sam potrošio 500 miliona dolara na podršku republikancima",
+  "Mask: Osećam se \"prilično glupo\" što sam potrošio gotovo 500 miliona dolara na podršku republikancima na međuizborima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Za_pravednu_Srbiju_%E2%80%93_Demokratska_stranka_2.jpg",
   "alt": "Mask: Osećam se glupo zbog skoro 500 miliona dolara uloženih u republikance"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

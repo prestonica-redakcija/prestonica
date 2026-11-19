@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-18T16:35:38.664870+00:00",
- "updated": "2026-11-19T06:28:59.522202+00:00",
+ "updated": "2026-11-19T09:27:37.018336+00:00",
  "sources": [
   {
    "name": "B92",
@@ -47,12 +47,19 @@
    "url": "https://n1info.rs/region/fotovideo-tramvaj-bez-sina-poceo-da-saobraca-ulicama-ljubljane/",
    "title": "(FOTO/VIDEO) Tramvaj bez šina počeo da saobraća ulicama Ljubljane",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/magazin/lifestyle/tramvaj-bez-sina-nova-atrakcija-ljubljane/",
+   "title": "Tramvaj bez šina, nova atrakcija Ljubljane",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Potpuni kolaps u Beogradu: Potop na ulicama; Automobili mile FOTO",
   "NEBO SE OTVORILO, POTOP U BEOGRADU! Ulicama teku reke, tramvaji stoje, automobili mile... Mrak pao u vreme ručka, gromovi pucaju na sve strane (VIDEO)",
-  "(FOTO/VIDEO) Tramvaj bez šina počeo da saobraća ulicama Ljubljane"
+  "(FOTO/VIDEO) Tramvaj bez šina počeo da saobraća ulicama Ljubljane",
+  "Tramvaj bez šina, nova atrakcija Ljubljane"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Rio_Tinto_Mar%C5%A1_sa_Drine!_Slavija,_Beograd,_2021.jpg",
   "alt": "Pljusak u Beogradu usporio saobraćaj, pojedine ulice pod vodom"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
