@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T21:18:23.312560+00:00",
- "updated": "2026-11-19T07:43:22.625567+00:00",
+ "updated": "2026-11-19T07:58:17.672461+00:00",
  "sources": [
   {
    "name": "N1",
@@ -63,6 +63,12 @@
    "url": "https://www.b92.net/info/svet/286228/ekrem-imamoglu-osudjen-na-zatvor-cetvrta-kazna-i-zabrana-politike/vest",
    "title": "Četvrta zatvorska kazna za Erdoganovog političkog rivala: Imamoglu osuđen zbog izborne manipulacije",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/bivsi-gradonacelnik-isanbula-ekrem-imamoglu-cetvrti-put-osuden-na-zatvorsku-kaznu",
+   "title": "Bivši gradonačelnik Isanbula Ekrem Imamoglu četvrti put osuđen na zatvorsku kaznu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -70,7 +76,8 @@
   "ERDOGANOV LJUTI RIVAL OSTAJE U PRITVORU: Bivši gradonačelnik Istanbula Ekrem Imamoglu četvrti put osuđen na zatvorsku kaznu",
   "Imamoglu ponovo osuđen",
   "Bivši gradonačelnik Istanbula Ekrem Imamoglu četvrti put osuđen na zatvorsku kaznu",
-  "Četvrta zatvorska kazna za Erdoganovog političkog rivala: Imamoglu osuđen zbog izborne manipulacije"
+  "Četvrta zatvorska kazna za Erdoganovog političkog rivala: Imamoglu osuđen zbog izborne manipulacije",
+  "Bivši gradonačelnik Isanbula Ekrem Imamoglu četvrti put osuđen na zatvorsku kaznu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -83,6 +90,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Ekrem_%C4%B0mamo%C4%9Flu_in_May_2023.jpg",
   "alt": "Imamoglu osuđen na dve godine i mesec dana zatvora, to mu je četvrta kazna"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

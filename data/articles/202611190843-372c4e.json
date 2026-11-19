@@ -28,17 +28,24 @@
  ],
  "importance": 6,
  "published": "2026-11-19T07:43:22.625567+00:00",
- "updated": "2026-11-19T07:43:22.625567+00:00",
+ "updated": "2026-11-19T07:58:17.672461+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/politika/ministar-berisa-pritiskao-zaposlene-da-idu-na-miting-sns-a/",
    "title": "Ministar Beriša pritiskao zaposlene da idu na miting SNS-a",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/danas-ministar-berisa-pritiskao-zaposlene-da-idu-na-miting-sns/",
+   "title": "Danas: Ministar Beriša pritiskao zaposlene da idu na miting SNS",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Ministar Beriša pritiskao zaposlene da idu na miting SNS-a"
+  "Ministar Beriša pritiskao zaposlene da idu na miting SNS-a",
+  "Danas: Ministar Beriša pritiskao zaposlene da idu na miting SNS"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Beriša zaposlenima poslao mejl da je prisustvo skupu 27. juna obavezno, navodi Danas"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

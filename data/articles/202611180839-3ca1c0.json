@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T07:39:11.103045+00:00",
- "updated": "2026-11-19T06:14:04.945422+00:00",
+ "updated": "2026-11-19T07:58:17.672461+00:00",
  "sources": [
   {
    "name": "N1",
@@ -115,6 +115,12 @@
    "url": "https://www.danas.rs/dijalog/licni-stavovi/aleksandar-vucic-na-rezervnom-polozaju/",
    "title": "Aleksandar Vučić na rezervnom položaju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "BIRN",
+   "url": "https://birn.rs/krivicna-prijava-protiv-aleksandra-sapica-nakon-provere-imovine/",
+   "title": "Agencija podnela krivičnu prijavu protiv Aleksandra Šapića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -131,7 +137,8 @@
   "Sindikat Fakulteta tehničkih nauka u Novom Sadu podneo krivičnu prijavu protiv dekana ovog fakulteta",
   "Sindikat Fakulteta tehničkih nauka u Novom Sadu podneo krivičnu prijavu protiv dekana Borisa Dumnića",
   "Ko je Boris Dumnić, dekan novosadskog FTN-a protiv koga su kolege podnele krivičnu prijavu: Uveo policiju na fakultet, podržao listu Aleksandra Vučića",
-  "Aleksandar Vučić na rezervnom položaju"
+  "Aleksandar Vučić na rezervnom položaju",
+  "Agencija podnela krivičnu prijavu protiv Aleksandra Šapića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -144,7 +151,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Fakultet_sporta_i_fizi%C4%8Dkog_vaspitanja_Univerziteta_u_Novom_Sadu_05.jpg",
   "alt": "Određen pritvor dekanu novosadskog DIF-a i bivšem dekanu zbog zloupotrebe položaja"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-18T08:53:31.635657+00:00",
  "verzija": 2
