@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T09:08:30.451343+00:00",
- "updated": "2026-11-19T13:40:41.851211+00:00",
+ "updated": "2026-11-19T13:55:37.708422+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -2270,6 +2270,186 @@
    "url": "https://www.danas.rs/svet/zeljka-cvijanovic-srbija-cupic-rs-cestitka/",
    "title": "Željka Cvijanović čestitala izbor Čupića za predsednika Skupštine: „Uverena sam da ćemo jačati saradnju Republike Srpske i Srbije“",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299047/delovi-bangladesa-paralisani-zbog-protesta-stranke-bivse-premijerke-seik-hasine/vest",
+   "title": "Delovi Bangladeša paralisani zbog protesta stranke bivše premijerke Šeik Hasine",
+   "spektar": "centar"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1171286/aida-corovic-studentska-lista-program",
+   "title": "Aida Ćorović obelodanila pravi program Studentske liste: Srbi genocidaši, Informer ugasiti, a Vučića uhapsiti (VIDEO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/299074/sutra-presuda-dabeticu-optuzenom-za-ubistvo-transrodne-osobe/vest",
+   "title": "Sutra presuda Dabetiću, optuženom za ubistvo transrodne osobe",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/policija-rasklopila-kamion-u-novom-sadu-u-tajnim-bunkerima-krili-skoro-300000-tableta-ksalola/",
+   "title": "Policija rasklopila kamion u Novom Sadu: U tajnim bunkerima krili skoro 300.000 tableta \"ksalola\"",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/region/policajac-poginuo-u-saobracajnoj-nesreci-na-putu-bijeljina-zvornik/",
+   "title": "Policajac poginuo u saobraćajnoj nesreći na putu Bijeljina-Zvornik",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10166890/huti-pogodili-najvisu-zgradu-u-rijadu",
+   "title": "BUKTI RIJAD, HUTI NAPALI ŽESTOKO! Pogođena najviša zgrada, padaju delovi fasade, ljudi hitno evakuisani iz područja! Nanet žestok udarac (VIDEO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/srpska-akademija-nauka-i-umetnosti-obelezila-svoj-dan",
+   "title": "Srpska akademija nauka i umetnosti obeležila svoj dan",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10166895/eksperti-za-kurir-o-novom-predsedniku-skupstine",
+   "title": "\"ČUPIĆ JE NENAMETLJIV, NAUČNIK I ČOVEK KOJI IMA AUTORITET\" Eksperti za Kurir o novom predsedniku Skupštine",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/srbija/10166945/svetski-dan-deteta-u-loznici",
+   "title": "LOZNICA SUTRA OBELEŽAVA SVETSKI DAN DETETA: Bogat program za najmlađe",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/region/dodik-cestitao-cupicu-izabran-je-na-osnovu-programa-koji-na-dobar-nacin-prepoznaje-interese-rs/",
+   "title": "Dodik čestitao Čupiću: Izabran je na osnovu programa koji na dobar način prepoznaje interese RS",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://ona.telegraf.rs/lifestyle/ljubav/4435917-ti-samo-budi-dovoljno-daleko-kultna-pesma-krije-pricu-o-fatalnoj-ljubavi-jelene-i-gorana",
+   "title": "\"Ti samo budi dovoljno daleko\": Kultna pesma krije priču o fatalnoj ljubavi Jelene i Gorana",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1672781/vucic-novoj-vladi-cete-izaberete-jednog-velikog-tajkuna-bas-kao-sto-ste-velikog-tajkuna-izabrali-predsednika",
+   "title": "VUČIĆ O NOVOJ VLADI: Vi ćete da izaberete jednog velikog tajkuna, baš kao što ste velikog tajkuna izabrali i za predsednika",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10166930/kako-je-cupic-postao-v-d-predsednika-republike",
+   "title": "ČUPIĆ NIJE SAMO NOVI PREDSEDNIK SKUPŠTINE! Otac šestoro dece, poljoprivrednik i docent- postao i V.D. PREDSEDNIKA SRBIJE!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/nekretnine/4436022-ostrvo-legendarnog-milijardera-dobija-novo-lice-ulozeno-bogatstvo-a-pristup-imaju-samo-odabrani",
+   "title": "Ostrvo legendarnog milijardera dobija novo lice: Uloženo bogatstvo, a pristup imaju samo odabrani",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/pop-i-kultura/film-tv/4436025-novak-djokovic-u-holivudskom-filmu-fokerovi-stize-snajka-sa-de-nirom-i-ovenom-vilsonom-pogledajte-scenu",
+   "title": "Novak Đoković u holivudskom filmu \"Fokerovi - stiže snajka\" sa De Nirom i Ovenom Vilsonom: Pogledajte scenu",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10166957/medvedev-evropski-lideri-sami-sebe-uklonili-sa-spiska-ljudi-koji-uticu-na-donosenje-odluka",
+   "title": "\"NEKA SE URSULICE, MAKRONČIĆI, MERCOVI I KALASOVKE NE IZNENADE\" Medvedev kaže su lideri EU sami sebe uklonili sa spiska ljudi koji utiču na donošenje odluka",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286373/medvedev-porucio-evropljanima-da-su-sami-krivi/vest",
+   "title": "\"Ursulice, Makrončići, Mercovi i ostale Kalasovke pogledajte fotografiju...\"",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/sport/fudbal/4436030-ivan-perisic-ponovo-stize-kod-djenara-gatuza",
+   "title": "Ivan Perišić ponovo stiže kod Đenara Gatuza?",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4436031-ovako-su-studenti-reagovali-na-izbor-aleksandra-cupica-za-predsednika-narodne-skupstine",
+   "title": "Ovako su studenti reagovali na izbor Aleksandra Čupića za predsednika Narodne Skupštine",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/zeleni-kutak/flaster-na-klaster-srbija-donosi-zakone-iz-oblasti-zastite-zivotne-sredine-ali-ih-ne-sprovodi/",
+   "title": "\"Flaster na klaster\": Srbija donosi zakone iz oblasti zaštite životne sredine ali ih ne sprovodi",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/beograd-dobio-forum-za-ideje-saradnju-i-razvoj-kreativne-industrije/",
+   "title": "Beograd dobio Forum za ideje, saradnju i razvoj kreativne industrije",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/sport/evroliga/penjaroja-otkrio-stanje-s-apovredjenim-igracima-pa-hvalio-alimpijevica/",
+   "title": "Penjaroja otkrio stanje sa povređenim igračima, pa hvalio Alimpijevića",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/sport/tenis/10166965/zverev-se-naradio-a-odmora-nema-ni-kada-je-bezbedan",
+   "title": "ZVEREV SE NARADIO, A ODMORA NEMA! Čak i kada je \"bezbedan\" najboljeg na svetu čeka napor",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/stars/10166971/andreana-cekic-pokrenula-rijaliti-sa-pevacicama",
+   "title": "ANDREANA ČEKIĆ POKRENULA RIJALITI SA PEVAČICAMA! Uselila se u velelepnu kuću sa tri koleginice, a ima još jedno iznenađenje",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10166944/incident-na-vozdovcu-molotovljev-koktel-bacen-na-restoran",
+   "title": "DRAMA NA VOŽDOVCU! MOLOTOVLJEV KOKTEL BAČEN NA RESTORAN: Požar zahvatio baštu, napadač pobegao",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10166973/velika-britanija-salje-vise-od-1-000-dronova-dugog-dometa-ukrajini",
+   "title": "OVO ĆE RAZBESNETI PUTINA! NATO država šalje silnu vojnu pomoć Ukrajini, više od 1.000 dronova dugog dometa moći će da razaraju ciljeve duboko u Rusiji",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4436034-tramp-najavio-sporazume-sad-u-jugoistocnoj-aziji-vrede-vise-od-17-milijardi-dolara",
+   "title": "Tramp najavio sporazume SAD u jugoistočnoj Aziji: Vrede više od 17 milijardi dolara",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/252788/aleksandar-cupic-se-izvinio-balintu-pastoru-u-skupstini/vest",
+   "title": "Aleksandar Čupić se izvinio Balintu Pastoru i osudio incident ispred Skupštine",
+   "spektar": "centar"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1171396/hapsenje-vuksa-dragovic-plenum",
+   "title": "\"Plenum mi je već presudio!\" Vukša Dragović šokirao objavom: Izglasali su moje hapšenje do Nove godine (FOTO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/andrijas-mandic-aleksandar-cupic-cestitke/",
+   "title": "Andrija Mandić čestitao Čupiću: „Uveren sam u bratsku saradnju, posebno u procesu evrointegracija“",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -2644,7 +2824,37 @@
   "Srpska akademija nauka i umetnosti obeležila svoj dan",
   "INDONEZIJA I KINA RAZVIJA 10 PAMETNIH GRADOVA: Vrednost projekata 71,8 milijardi dolara",
   "Vučević, Brnabić i Jovanov: U Srbiji koju vodi Studentska lista nema pravde, prava i zakona",
-  "Željka Cvijanović čestitala izbor Čupića za predsednika Skupštine: „Uverena sam da ćemo jačati saradnju Republike Srpske i Srbije“"
+  "Željka Cvijanović čestitala izbor Čupića za predsednika Skupštine: „Uverena sam da ćemo jačati saradnju Republike Srpske i Srbije“",
+  "Delovi Bangladeša paralisani zbog protesta stranke bivše premijerke Šeik Hasine",
+  "Aida Ćorović obelodanila pravi program Studentske liste: Srbi genocidaši, Informer ugasiti, a Vučića uhapsiti (VIDEO)",
+  "Sutra presuda Dabetiću, optuženom za ubistvo transrodne osobe",
+  "Policija rasklopila kamion u Novom Sadu: U tajnim bunkerima krili skoro 300.000 tableta \"ksalola\"",
+  "Policajac poginuo u saobraćajnoj nesreći na putu Bijeljina-Zvornik",
+  "BUKTI RIJAD, HUTI NAPALI ŽESTOKO! Pogođena najviša zgrada, padaju delovi fasade, ljudi hitno evakuisani iz područja! Nanet žestok udarac (VIDEO)",
+  "Srpska akademija nauka i umetnosti obeležila svoj dan",
+  "\"ČUPIĆ JE NENAMETLJIV, NAUČNIK I ČOVEK KOJI IMA AUTORITET\" Eksperti za Kurir o novom predsedniku Skupštine",
+  "LOZNICA SUTRA OBELEŽAVA SVETSKI DAN DETETA: Bogat program za najmlađe",
+  "Dodik čestitao Čupiću: Izabran je na osnovu programa koji na dobar način prepoznaje interese RS",
+  "\"Ti samo budi dovoljno daleko\": Kultna pesma krije priču o fatalnoj ljubavi Jelene i Gorana",
+  "VUČIĆ O NOVOJ VLADI: Vi ćete da izaberete jednog velikog tajkuna, baš kao što ste velikog tajkuna izabrali i za predsednika",
+  "ČUPIĆ NIJE SAMO NOVI PREDSEDNIK SKUPŠTINE! Otac šestoro dece, poljoprivrednik i docent- postao i V.D. PREDSEDNIKA SRBIJE!",
+  "Ostrvo legendarnog milijardera dobija novo lice: Uloženo bogatstvo, a pristup imaju samo odabrani",
+  "Novak Đoković u holivudskom filmu \"Fokerovi - stiže snajka\" sa De Nirom i Ovenom Vilsonom: Pogledajte scenu",
+  "\"NEKA SE URSULICE, MAKRONČIĆI, MERCOVI I KALASOVKE NE IZNENADE\" Medvedev kaže su lideri EU sami sebe uklonili sa spiska ljudi koji utiču na donošenje odluka",
+  "\"Ursulice, Makrončići, Mercovi i ostale Kalasovke pogledajte fotografiju...\"",
+  "Ivan Perišić ponovo stiže kod Đenara Gatuza?",
+  "Ovako su studenti reagovali na izbor Aleksandra Čupića za predsednika Narodne Skupštine",
+  "\"Flaster na klaster\": Srbija donosi zakone iz oblasti zaštite životne sredine ali ih ne sprovodi",
+  "Beograd dobio Forum za ideje, saradnju i razvoj kreativne industrije",
+  "Penjaroja otkrio stanje sa povređenim igračima, pa hvalio Alimpijevića",
+  "ZVEREV SE NARADIO, A ODMORA NEMA! Čak i kada je \"bezbedan\" najboljeg na svetu čeka napor",
+  "ANDREANA ČEKIĆ POKRENULA RIJALITI SA PEVAČICAMA! Uselila se u velelepnu kuću sa tri koleginice, a ima još jedno iznenađenje",
+  "DRAMA NA VOŽDOVCU! MOLOTOVLJEV KOKTEL BAČEN NA RESTORAN: Požar zahvatio baštu, napadač pobegao",
+  "OVO ĆE RAZBESNETI PUTINA! NATO država šalje silnu vojnu pomoć Ukrajini, više od 1.000 dronova dugog dometa moći će da razaraju ciljeve duboko u Rusiji",
+  "Tramp najavio sporazume SAD u jugoistočnoj Aziji: Vrede više od 17 milijardi dolara",
+  "Aleksandar Čupić se izvinio Balintu Pastoru i osudio incident ispred Skupštine",
+  "\"Plenum mi je već presudio!\" Vukša Dragović šokirao objavom: Izglasali su moje hapšenje do Nove godine (FOTO)",
+  "Andrija Mandić čestitao Čupiću: „Uveren sam u bratsku saradnju, posebno u procesu evrointegracija“"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -2657,7 +2867,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(14-12-2021).jpg",
   "alt": "Si i Putin održali 50. susret u Šenženu uoči samita sa Trampom"
  },
- "novo_od_pisanja": 287,
+ "novo_od_pisanja": 317,
  "boost": 1.6,
  "prepisano": "2026-11-19T08:57:57.933205+00:00",
  "verzija": 17

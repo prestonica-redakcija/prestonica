@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-18T07:54:01.598419+00:00",
- "updated": "2026-11-18T08:08:49.260074+00:00",
+ "updated": "2026-11-19T13:55:37.708422+00:00",
  "sources": [
   {
    "name": "N1",
@@ -49,12 +49,19 @@
    "url": "https://www.danas.rs/vesti/drustvo/roditelji-ucenika-jovine-gimnazije-necemo-prihvatiti-nametnuto-resenje-za-v-d-direktora/",
    "title": "Roditelji učenika Jovine gimnazije: „Nećemo prihvatiti nametnuto rešenje za v. d. direktora“",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/roditelji-jovinih-djaka-podrzali-novu-vd-direktorku/",
+   "title": "Roditelji Jovinih đaka podržali novu v.d. direktorku",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Roditelji učenika Jovine gimnazije: Nećemo prihvatiti nametnuto rešenje za v. d. direktora",
   "Roditelji učenika neće prihvatiti nijedno nametnuto rešenje za v. d. direktora Jovine, upozoravaju pokrajinskog sekretara da ne nameće svog kandidata",
-  "Roditelji učenika Jovine gimnazije: „Nećemo prihvatiti nametnuto rešenje za v. d. direktora“"
+  "Roditelji učenika Jovine gimnazije: „Nećemo prihvatiti nametnuto rešenje za v. d. direktora“",
+  "Roditelji Jovinih đaka podržali novu v.d. direktorku"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Great_City_Hospital_of_Novi_Sad.jpg",
   "alt": "Roditelji traže da Otot danas imenuje Maju Milutinović za v. d. direktora Jovine"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
