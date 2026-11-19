@@ -28,17 +28,31 @@
  ],
  "importance": 4,
  "published": "2026-11-19T11:11:51.082473+00:00",
- "updated": "2026-11-19T11:11:51.082473+00:00",
+ "updated": "2026-11-19T11:26:46.370283+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/ekonomija/muskarci-trziste-rada-sagorevanje-posao/",
    "title": "Više od polovine muškaraca na tržištu rada u Srbiji doživelo sagorevanje na poslu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/299104/medunarodni-dan-muskaraca-u-srbiji-vise-od-polovine-dozivelo-sagorevanje-na-poslu/vest",
+   "title": "Međunarodni dan muškaraca: U Srbiji više od polovine doživelo sagorevanje na poslu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/karijera/4435896-svaki-drugi-muskarac-u-srbiji-doziveo-sagorevanje-na-poslu-alarmantni-podaci-na-medjunarodni-dan-muskaraca",
+   "title": "Svaki drugi muškarac u Srbiji doživeo sagorevanje na poslu: Alarmantni podaci na Međunarodni dan muškaraca",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Više od polovine muškaraca na tržištu rada u Srbiji doživelo sagorevanje na poslu"
+  "Više od polovine muškaraca na tržištu rada u Srbiji doživelo sagorevanje na poslu",
+  "Međunarodni dan muškaraca: U Srbiji više od polovine doživelo sagorevanje na poslu",
+  "Svaki drugi muškarac u Srbiji doživeo sagorevanje na poslu: Alarmantni podaci na Međunarodni dan muškaraca"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +64,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Infostud_osnivaci.jpg",
   "alt": "Istraživanje: više od polovine muškaraca u Srbiji doživelo sagorevanje na poslu"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
