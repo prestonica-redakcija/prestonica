@@ -189,6 +189,14 @@ def main() -> None:
             if "naslov" in v and not v.get("slug"):
                 v["slug"] = (slugify(v["naslov"], 60) + "-" + v["id"].lower().replace("_", "-")).strip("-")
         state["videos"] = vlist
+        # Trajna arhiva: stranica snimka ostaje dostupna i kad snimak ispadne iz tekuće liste (inače Google šalje čitaoce na praznu stranicu)
+        arh = state.setdefault("video_arhiva", {})
+        for v in vlist:
+            if v.get("slug") and "naslov" in v and not v.get("skip"):
+                arh[v["id"]] = {k: v[k] for k in ("id", "title", "kanal", "published", "naslov", "opis", "tekst", "rubrika", "oznake", "slug", "spektar") if k in v}
+        if len(arh) > 3000:
+            for vid in sorted(arh, key=lambda i: arh[i].get("published", ""))[: len(arh) - 3000]:
+                del arh[vid]
 
         seen = state.setdefault("seen", {})
         cutoff = (now - timedelta(days=5)).isoformat()

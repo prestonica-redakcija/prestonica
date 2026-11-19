@@ -192,7 +192,7 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
 
     def render(tpl: str, path: str, **ctx):
         depth = path.count("/")
-        html = env.get_template(tpl).render(**base_ctx, root="../" * depth, page_path=path, **ctx)
+        html = env.get_template(tpl).render(**base_ctx, root=ctx.pop("root", "../" * depth), page_path=path, **ctx)
         (out / path).write_text(html, encoding="utf-8")
 
     # Skupština: izbor vesti, objava i snimaka; na dan sednice ide i na vrh naslovne
@@ -214,6 +214,21 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
 
     (out / "video").mkdir(exist_ok=True)
     art_by_url = {a["_url"]: a for a in visible}
+    # stariji snimci iz trajne arhive: nisu u listama, ali njihova stranica ostaje živa
+    _tekuci = {v["id"] for v in videos}
+    stari = []
+    for rec in (state.get("video_arhiva") or {}).values():
+        if rec.get("id") in _tekuci or not rec.get("slug") or pravila.blokira(rec):
+            continue
+        v = dict(rec)
+        dt = parse_iso(v["published"]).astimezone(tz)
+        v.update({"_time": f"{dt.day}. {SR_MON_SHORT[dt.month - 1]} {dt:%H:%M}", "_dan": sr_date(dt), "_h": v.get("naslov") or v["title"],
+                  "_article": None, "_url": "video/" + v["slug"] + ".html", "live": "none"})
+        stari.append(v)
+    for v in stari:
+        more = [x for x in videos if x.get("rubrika") == v.get("rubrika")][:6]
+        more += [x for x in videos if x not in more][: 6 - len(more)]
+        render("video_page.html", v["_url"], v=v, more=more, art=None, active="video", title=v["_h"])
     for v in videos:
         more = [x for x in videos if x is not v and x.get("rubrika") == v.get("rubrika")][:6]
         more += [x for x in videos if x is not v and x not in more][: 6 - len(more)]
@@ -248,7 +263,8 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
     render("search.html", "pretraga.html", active="pretraga", title="Pretraga", teme=teme)
     render("page.html", "o-nama.html", page="o-nama", active="", title="O nama")
     render("page.html", "impresum.html", page="impresum", active="", title="Impresum", imp=cfg.portal.get("impresum", {}))
-    render("page.html", "404.html", page="404", active="", title="Stranica nije pronađena")
+    # 404 se prikazuje na bilo kojoj dubini adrese, pa svi linkovi na njoj moraju da budu apsolutni
+    render("page.html", "404.html", page="404", active="", title="Stranica nije pronađena", root="/")
 
     # --- ličnosti ---
     if people:
@@ -312,7 +328,7 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
     } for v in videos if v.get("naslov")]
     (out / "search.json").write_text(json.dumps(idx, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
-    _feeds(cfg, out, by_date, [v["_url"] for v in videos])
+    _feeds(cfg, out, by_date, [v["_url"] for v in videos] + [v["_url"] for v in stari])
     if cfg.portal.get("domen"):
         (out / "CNAME").write_text(cfg.portal["domen"] + "\n")
     (out / ".nojekyll").write_text("")

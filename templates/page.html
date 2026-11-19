@@ -35,8 +35,9 @@
     {% if imp.registarski_broj %}<dt>Registar medija</dt><dd>{{ imp.registarski_broj }}</dd>{% endif %}
   </dl>
 {% else %}
-  <div class="empty"><span class="ring" aria-hidden="true"><i></i></span><h1>Stranica nije pronađena</h1><p>Možda je vest premeštena. Pokušajte pretragu.</p>
+  <div class="empty"><span class="ring" aria-hidden="true"><i></i></span><h1>Stranica nije pronađena</h1><p id="nf-t">Možda je vest premeštena. Pokušajte pretragu.</p>
   <div class="empty-actions"><a class="btn btn-primary" href="{{ root }}index.html">Naslovna</a><a class="btn btn-ghost" href="{{ root }}pretraga.html">Pretraga</a></div></div>
+  <script>(function(){var p=location.pathname;if(/^\/video\/.+\.html$/.test(p)&&p.indexOf("/video/vesti/")!==0){document.getElementById("nf-t").textContent="Ovaj snimak više nije dostupan. Prebacujemo vas na najnovije video vesti.";setTimeout(function(){location.replace("/video.html")},1500)}else{var m=p.match(/\/(vesti\/[^\/]+\.html)$/);if(m&&p!=="/"+m[1])location.replace("/"+m[1])}})();</script>
 {% endif %}
 </article>
 {% endblock %}
