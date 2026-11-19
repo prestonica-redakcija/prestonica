@@ -29,17 +29,24 @@
  ],
  "importance": 5,
  "published": "2026-11-19T11:41:37.474927+00:00",
- "updated": "2026-11-19T11:41:37.474927+00:00",
+ "updated": "2026-11-19T12:26:15.353983+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/vucic-sns-odluka-o-pomilovanju-dijane-hrkalovic-je-pravicna-i-ispravna/",
    "title": "Vučić (SNS): Odluka o pomilovanju Dijane Hrkalović je pravična i ispravna",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/vucic-o-pomilovanju-dijane-hrkalovic-odluka-je-pravicna-i-ispravna",
+   "title": "Vučić o pomilovanju Dijane Hrkalović: Odluka je pravična i ispravna",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Vučić (SNS): Odluka o pomilovanju Dijane Hrkalović je pravična i ispravna"
+  "Vučić (SNS): Odluka o pomilovanju Dijane Hrkalović je pravična i ispravna",
+  "Vučić o pomilovanju Dijane Hrkalović: Odluka je pravična i ispravna"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučić: Pomilovanje Dijane Hrkalović je pravična odluka, za Novosađane nije siguran"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

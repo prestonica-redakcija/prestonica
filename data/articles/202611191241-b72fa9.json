@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-19T11:41:37.474927+00:00",
- "updated": "2026-11-19T11:41:37.474927+00:00",
+ "updated": "2026-11-19T12:26:15.353983+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,12 +48,19 @@
    "url": "https://www.danas.rs/vesti/drustvo/pokrajinski-sekretarijat-za-obrazovanje-profesorica-srpskog-jezika-katarina-kovacevic-nova-direktorica-jovine-gimnazije/",
    "title": "Pokrajinski sekretarijat za obrazovanje: Profesorica srpskog jezika Katarina Kovačević nova direktorica Jovine gimnazije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/pokrajinski-sekretarijat-katarina-kovacevic-vd-direktora-gimnazije-jovan-jovanovic-zmaj-u-novom-sadu",
+   "title": "Pokrajinski sekretarijat: Katarina Kovačević v.d direktora Gimnazije \"Jovan Jovanović Zmaj\" u Novom Sadu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Pokrajinski sekretarijat imenovao Katarinu Kovačević za vršioca dužnosti direktora \"Jovine gimnazije\"",
   "Imenovan v.d. direktora Jovine gimnazije",
-  "Pokrajinski sekretarijat za obrazovanje: Profesorica srpskog jezika Katarina Kovačević nova direktorica Jovine gimnazije"
+  "Pokrajinski sekretarijat za obrazovanje: Profesorica srpskog jezika Katarina Kovačević nova direktorica Jovine gimnazije",
+  "Pokrajinski sekretarijat: Katarina Kovačević v.d direktora Gimnazije \"Jovan Jovanović Zmaj\" u Novom Sadu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +71,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Katarina Kovačević imenovana za v. d. direktorke Jovine gimnazije u Novom Sadu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

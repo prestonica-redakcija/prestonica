@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T08:08:49.260074+00:00",
- "updated": "2026-11-19T11:56:27.978966+00:00",
+ "updated": "2026-11-19T12:26:15.353983+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -53,13 +53,20 @@
    "url": "https://www.tanjug.rs/ekonomija/svet/299129/suficit-na-tekucem-racunu-evrozone-u-septembru-stabilan-na-12-milijardi-evra/vest",
    "title": "Suficit na tekućem računu evrozone u septembru stabilan na 12 milijardi evra",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/evropska-centralna-banka-suficit-na-tekucem-racunu-evrozone-u-septembru-stabilan-na-12-milijardi-evra",
+   "title": "Evropska centralna banka: Suficit na tekućem računu evrozone u septembru stabilan na 12 milijardi evra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "SINIŠA MALI GOST TANJUG TV: Ekonomija i dalje radi, uprkos neizvesnosti",
   "SINIŠA MALI ZA TANJUG TV: Ekonomija je i dalje stabilna, na računu imamo preko 500 milijardi danara",
   "SINIŠA MALI ZA TANJUG TV: Ekonomija je i dalje stabilna, na računu imamo preko 500 milijardi dinara",
-  "Suficit na tekućem računu evrozone u septembru stabilan na 12 milijardi evra"
+  "Suficit na tekućem računu evrozone u septembru stabilan na 12 milijardi evra",
+  "Evropska centralna banka: Suficit na tekućem računu evrozone u septembru stabilan na 12 milijardi evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,6 @@
   "local": true,
   "alt": "Mali: Ekonomija je stabilna, penzije rastu 7,5 odsto, minimalac od januara 600 evra"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
