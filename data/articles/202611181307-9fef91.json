@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T12:07:07.965704+00:00",
- "updated": "2026-11-19T09:57:20.733664+00:00",
+ "updated": "2026-11-19T11:11:51.082473+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -153,6 +153,12 @@
    "url": "https://nova.rs/vesti/politika/blog-uivo-trei-dan-konstitutivne-sednice-vui-ponovo-govori-i-opstruie-izbor-predsednika-skuptine/",
    "title": "BLOG UŽIVO Treći dan konstitutivne sednice: Vučić ponovo govori i opstruiše izbor predsednika Skupštine",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1672713/jovo-bakic-aleksandar-vucic-studentska-lista-skupstina-srbije",
+   "title": "HAOS U SKUPŠTINI: Jovo Bakić urlao iz sveg glasa, a onda mu Vučić odgovorio",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -175,7 +181,8 @@
   "BLOG UŽIVO Treći dan konstitutivne sednice: Da li će danas konačno biti izabran predsednik Skupštine",
   "Nastavljena konstitutivna sednica, rasprava o kandidatima za predsedsednika Skupštine",
   "BLOG UŽIVO Nastavljena konstitutivna sednica Skupštine: Treći dan rasprave o izboru predsednika parlamenta",
-  "BLOG UŽIVO Treći dan konstitutivne sednice: Vučić ponovo govori i opstruiše izbor predsednika Skupštine"
+  "BLOG UŽIVO Treći dan konstitutivne sednice: Vučić ponovo govori i opstruiše izbor predsednika Skupštine",
+  "HAOS U SKUPŠTINI: Jovo Bakić urlao iz sveg glasa, a onda mu Vučić odgovorio"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -187,7 +194,7 @@
   "local": true,
   "alt": "Brnabić na konstitutivnoj sednici uporedila naučne radove Radenovića i Čupića"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-19T09:12:47.015713+00:00",
  "verzija": 4

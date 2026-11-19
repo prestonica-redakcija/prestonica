@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T09:08:30.451343+00:00",
- "updated": "2026-11-19T10:56:49.993173+00:00",
+ "updated": "2026-11-19T11:11:51.082473+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -896,6 +896,102 @@
    "url": "https://nova.rs/vesti/svet/plenkovic-ocekuje-od-srbije-obnovu-dijaloga-o-nestalima/",
    "title": "Plenković očekuje od Srbije obnovu dijaloga o nestalima",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299041/takaici-japan-ce-nastaviti-dijalog-sa-kinom-i-rusijom-radi-zastite-svojih-nacionalnih-interesa/vest",
+   "title": "Takaiči: Japan će nastaviti dijalog sa Kinom i Rusijom radi zaštite svojih nacionalnih interesa",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/saveti/10166501/kako-zakljucati-whatsapp-viber-aplikacije",
+   "title": "Kako da zaključate WhatsApp, Viber i druge aplikacije na telefonu: Zaštitite privatne poruke od neželjenih pogleda",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/ukrajina-zadala-novi-udarac-putinu-napadnut-kljucni-most-zeleznicki-saobracaj-potpuno-obustavljen/",
+   "title": "Ukrajina zadala novi udarac Putinu: Napadnut ključni most, železnički saobraćaj potpuno obustavljen",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/magazin/lifestyle/vestacka-inteligencija-birala-koga-ce-spasiti-iz-mora-grok-iznenadio-svojim-odgovorom/",
+   "title": "Veštačka inteligencija birala koga će spasiti iz mora - Grok iznenadio svojim odgovorom",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/magazin/lifestyle/tata-nije-pomoc-tata-je-roditelj-na-velikoj-konferenciji-u-beogradu-otvara-se-pitanje-o-kojem-se-u-srbiji-jos-uvek-cuti/",
+   "title": "\"Tata nije pomoć. Tata je roditelj\": Na velikoj konferenciji u Beogradu otvara se pitanje o kojem se u Srbiji još uvek ćuti",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10166670/putina-pitali-da-li-je-trilaterani-sastanak-u-sendzenu-nova-jalta",
+   "title": "PUTINA PITALI DA LI JE TRILATERALNI SASTANAK U ŠENDŽENU NOVA JALTA: Pogledajte kako je reagovao ruski predsednik (VIDEO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/plenkovic-ocekuje-od-srbije-obnovu-dijaloga-o-nestalima/",
+   "title": "Plenković očekuje od Srbije obnovu dijaloga o nestalima",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/plenkovic-ocekuje-od-srbije-obnovu-dijaloga-o-nestalima/",
+   "title": "Plenković očekuje od Srbije obnovu dijaloga o nestalima",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4435889-ocekuje-nas-reforma-ujedinjenih-nacija-evo-sta-su-dogovorili-tramp-si-i-putin",
+   "title": "Očekuje nas reforma Ujedinjenih nacija: Evo šta su dogovorili Tramp, Si i Putin",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/okoncan-istorijski-susret-trojice-najmocnijih-lidera-tramp-putin-i-si-otvorili-pitanje-koje-brine-ceo-svet/",
+   "title": "Okončan istorijski susret trojice najmoćnijih lidera: Tramp, Putin i Si otvorili pitanje koje brine ceo svet",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/parun-kada-bi-u-nedelju-ponovo-bili-raspisani-izbori-sns-ne-bi-presao-10-15-odsto/",
+   "title": "Parun: Kada bi u nedelju ponovo bili raspisani izbori, SNS ne bi prešao 10-15 odsto",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/hi-tech/zanimljivosti-hi-tech/4434992-ikea-nam-je-otkrila-kako-nastaje-namestaj",
+   "title": "IKEA nam je otkrila kako nastaje nameštaj: Od zavirivanja u tuđe stanove do veštačke inteligencije",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286315/sta-se-desilo-putin-prvi-izasao-sedam-minuta-kasnije-tramp-na-putu-ka-avionu-video/vest",
+   "title": "Šta se desilo? Putin prvi izašao; Sedam minuta kasnije, Tramp na putu ka avionu VIDEO",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/sport/fudbal/10166685/vensan-kompani-otvorio-dusu",
+   "title": "VENSAN KOMPANI OTVORIO DUŠU O BORBI KROZ KOJU JE PROŠAO: \"Ljudi na kraju kažu puno, a zapravo ne kažu ništa...\"",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10166694/zajednicko-saopstenje-sija-trampa-i-putina-sa-trilateralnog-sastanka-u-sendzenu",
+   "title": "OBJAVLJENO ZAJEDNIČKO SAOPŠTENJE SIJA, TRAMPA I PUTINA! Evo šta su se lideri sveta dogovorili na istorijskom trilateralnom sastanku - ovo su 4 KLJUČNE TAČKE",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/?p=4090416",
+   "title": "Vučić odgovorio Bakiću: Promenio sam naslov knjige",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -1041,7 +1137,23 @@
   "„Operacija bez presedana“: Krimski most treći put na udaru ukrajinskih snaga ove nedelje",
   "Prodaja NIS-a i dalje neizvesna: Pregovori još uvek daleko od završetka?",
   "Problemi susreta Sija, Trampa i Putina : Koliku korist zaista ima svet i kakva je poveznica sa Jaltom?",
-  "Plenković očekuje od Srbije obnovu dijaloga o nestalima"
+  "Plenković očekuje od Srbije obnovu dijaloga o nestalima",
+  "Takaiči: Japan će nastaviti dijalog sa Kinom i Rusijom radi zaštite svojih nacionalnih interesa",
+  "Kako da zaključate WhatsApp, Viber i druge aplikacije na telefonu: Zaštitite privatne poruke od neželjenih pogleda",
+  "Ukrajina zadala novi udarac Putinu: Napadnut ključni most, železnički saobraćaj potpuno obustavljen",
+  "Veštačka inteligencija birala koga će spasiti iz mora - Grok iznenadio svojim odgovorom",
+  "\"Tata nije pomoć. Tata je roditelj\": Na velikoj konferenciji u Beogradu otvara se pitanje o kojem se u Srbiji još uvek ćuti",
+  "PUTINA PITALI DA LI JE TRILATERALNI SASTANAK U ŠENDŽENU NOVA JALTA: Pogledajte kako je reagovao ruski predsednik (VIDEO)",
+  "Plenković očekuje od Srbije obnovu dijaloga o nestalima",
+  "Plenković očekuje od Srbije obnovu dijaloga o nestalima",
+  "Očekuje nas reforma Ujedinjenih nacija: Evo šta su dogovorili Tramp, Si i Putin",
+  "Okončan istorijski susret trojice najmoćnijih lidera: Tramp, Putin i Si otvorili pitanje koje brine ceo svet",
+  "Parun: Kada bi u nedelju ponovo bili raspisani izbori, SNS ne bi prešao 10-15 odsto",
+  "IKEA nam je otkrila kako nastaje nameštaj: Od zavirivanja u tuđe stanove do veštačke inteligencije",
+  "Šta se desilo? Putin prvi izašao; Sedam minuta kasnije, Tramp na putu ka avionu VIDEO",
+  "VENSAN KOMPANI OTVORIO DUŠU O BORBI KROZ KOJU JE PROŠAO: \"Ljudi na kraju kažu puno, a zapravo ne kažu ništa...\"",
+  "OBJAVLJENO ZAJEDNIČKO SAOPŠTENJE SIJA, TRAMPA I PUTINA! Evo šta su se lideri sveta dogovorili na istorijskom trilateralnom sastanku - ovo su 4 KLJUČNE TAČKE",
+  "Vučić odgovorio Bakiću: Promenio sam naslov knjige"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -1054,7 +1166,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(14-12-2021).jpg",
   "alt": "Si i Putin održali 50. susret u Šenženu uoči samita sa Trampom"
  },
- "novo_od_pisanja": 58,
+ "novo_od_pisanja": 74,
  "boost": 1.6,
  "prepisano": "2026-11-19T08:57:57.933205+00:00",
  "verzija": 17

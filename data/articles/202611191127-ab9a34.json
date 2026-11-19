@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-19T10:27:11.486532+00:00",
- "updated": "2026-11-19T10:27:11.486532+00:00",
+ "updated": "2026-11-19T11:11:51.082473+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,12 +51,19 @@
    "url": "https://www.telegraf.rs/vesti/svet/4435847-danski-parlament-ratifikovao-sporazum-koji-prosiruje-ulogu-vojske-sad-na-grenlandu",
    "title": "Danski parlament ratifikovao sporazum koji proširuje ulogu vojske SAD na Grenlandu",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/danski-parlament-odobrio-bezbednosni-sporazum-sa-grenlandom-i-sad/",
+   "title": "Danski parlament odobrio bezbednosni sporazum sa Grenlandom i SAD",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Danski parlament ratifikovao sporazum koji proširuje ulogu vojske SAD na Grenlandu",
   "Ratifikovan bezbednosni sporazum sa Trampom o Grenlandu: Jednoglasna podrška u danskom Parlamentu",
-  "Danski parlament ratifikovao sporazum koji proširuje ulogu vojske SAD na Grenlandu"
+  "Danski parlament ratifikovao sporazum koji proširuje ulogu vojske SAD na Grenlandu",
+  "Danski parlament odobrio bezbednosni sporazum sa Grenlandom i SAD"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,5 +75,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Skien_Hjellevannet_Fl%C3%B8tningsmonumentet_Skien_kirke_Grenland_Telemark_Norway_(2025.10.18).jpg",
   "alt": "Danski parlament jednoglasno ratifikovao sporazum sa SAD o Grenlandu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

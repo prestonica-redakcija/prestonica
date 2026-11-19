@@ -31,17 +31,24 @@
  ],
  "importance": 6,
  "published": "2026-11-19T08:57:57.933205+00:00",
- "updated": "2026-11-19T08:57:57.933205+00:00",
+ "updated": "2026-11-19T11:11:51.082473+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/biznis/poslanica-sanja-fric-otkriva-stav-studentske-liste-o-ekspu/",
    "title": "Poslanica Sanja Fric otkriva stav Studentske liste o Ekspu: Predaja objekata 1. decembra je pitanje za odlazeći režim",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10166673/sta-ocekivati-od-projekta-ekspo-2027",
+   "title": "SANJA FRIC OTKRILA STAV STUDENTSKE LISTE O EKSPU: Bezbednost ljudi je ispred rokova, za ugovore i kašnjenja odgovornost je na tehničkoj vladi",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Poslanica Sanja Fric otkriva stav Studentske liste o Ekspu: Predaja objekata 1. decembra je pitanje za odlazeći režim"
+  "Poslanica Sanja Fric otkriva stav Studentske liste o Ekspu: Predaja objekata 1. decembra je pitanje za odlazeći režim",
+  "SANJA FRIC OTKRILA STAV STUDENTSKE LISTE O EKSPU: Bezbednost ljudi je ispred rokova, za ugovore i kašnjenja odgovornost je na tehničkoj vladi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata_2.jpg",
   "alt": "Fric: Studentska lista još nema nadležnost nad Ekspom, odgovornost je na tehničkoj vladi"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

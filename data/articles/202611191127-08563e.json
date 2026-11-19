@@ -26,7 +26,7 @@
  ],
  "importance": 5,
  "published": "2026-11-19T10:27:11.486532+00:00",
- "updated": "2026-11-19T10:41:57.187938+00:00",
+ "updated": "2026-11-19T11:11:51.082473+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -69,6 +69,12 @@
    "url": "https://n1info.rs/vesti/deponenti-alta-banke-u-stecaju-mogu-podneti-reklamaciju-u-vezi-sa-isplatom-osiguranih-depozita/",
    "title": "Deponenti Alta banke u stečaju mogu podneti reklamaciju u vezi sa isplatom osiguranih depozita",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/deponenti-alta-banke-u-stecaju-mogu-da-podnesu-reklamaciju-u-vezi-sa-isplatom-osiguranih-depozita",
+   "title": "Deponenti Alta banke u stečaju mogu da podnesu reklamaciju u vezi sa isplatom osiguranih depozita",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -78,7 +84,8 @@
   "Važno obaveštenje u vezi sa isplatom depozita Alta banke: Ovo je adresa za primedbe građana",
   "Poznato gde se mogu podneti primedbe u vezi sa isplatom depozita Alta banke",
   "VAŽNO OBAVEŠTENjE ZA GRAĐANE: Primedbe u vezi sa isplatom depozita Alta banke mogu se podneti na ovim adresama",
-  "Deponenti Alta banke u stečaju mogu podneti reklamaciju u vezi sa isplatom osiguranih depozita"
+  "Deponenti Alta banke u stečaju mogu podneti reklamaciju u vezi sa isplatom osiguranih depozita",
+  "Deponenti Alta banke u stečaju mogu da podnesu reklamaciju u vezi sa isplatom osiguranih depozita"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -91,6 +98,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Banka_po%C5%A1tanska_%C5%A1tedionica,_Pan%C4%8Devo.jpg",
   "alt": "Primedbe na isplatu depozita Alta banke podnose se banci, Poštanskoj štedionici ili AOD"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
