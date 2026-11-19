@@ -30,17 +30,24 @@
  ],
  "importance": 6,
  "published": "2026-11-19T09:42:30.100573+00:00",
- "updated": "2026-11-19T09:42:30.100573+00:00",
+ "updated": "2026-11-19T09:57:20.733664+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1672671/teror-srbiji-nastavio-nocas-napadnuta-devojka-odzacima-vucic-pokazao-fotografiju-lica-poslanici-studentske-liste-smejali",
    "title": "\"TEROR U SRBIJI SE NASTAVIO I NOĆAS\" Napadnuta devojka u Odžacima: Vučić pokazao fotografiju lica, poslanici Studentske liste se smejali",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1171295/aleksandar-vucic",
+   "title": "Monstruozno! \"Prebili devojku od 19 godina\": Vučić o detaljima napada na predsednicu opštine Odžaci i njenu ćerku (FOTO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "\"TEROR U SRBIJI SE NASTAVIO I NOĆAS\" Napadnuta devojka u Odžacima: Vučić pokazao fotografiju lica, poslanici Studentske liste se smejali"
+  "\"TEROR U SRBIJI SE NASTAVIO I NOĆAS\" Napadnuta devojka u Odžacima: Vučić pokazao fotografiju lica, poslanici Studentske liste se smejali",
+  "Monstruozno! \"Prebili devojku od 19 godina\": Vučić o detaljima napada na predsednicu opštine Odžaci i njenu ćerku (FOTO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Tomislav_Nikolic,_Rudy_Giuliani,_Aleksandar_Vucic-mc.rs.jpg",
   "alt": "Vučić u Skupštini: u Odžacima napadnuta predsednica opštine i njena ćerka"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

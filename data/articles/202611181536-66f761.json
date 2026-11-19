@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T14:36:05.770455+00:00",
- "updated": "2026-11-19T09:42:30.100573+00:00",
+ "updated": "2026-11-19T09:57:20.733664+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -54,13 +54,20 @@
    "url": "https://www.danas.rs/vesti/drustvo/hitno-upozorenje-rhmz-orkanski-udari-vetra/",
    "title": "Hitno upozorenje RHMZ: Večeras se očekuju orkanski udari vetra",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/299073/upozorenje-rhmz-tokom-veceri-olujni-i-orkanski-udari-vetra/vest",
+   "title": "Upozorenje RHMZ: Tokom večeri olujni i orkanski udari vetra",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "MUP: Loši vremenski uslovi otežavaju vožnju, potreban oprez u saobraćaju",
   "HITNO SE OGLASIO MUP ZBOG NEVREMENA: Obilne padavine i jaki udari vetra otežavaju saobraćaj, vozite oprezno",
   "MUP upozorava vozače: Budite oprezni zbog kiše i jakih udara vetra",
-  "Hitno upozorenje RHMZ: Večeras se očekuju orkanski udari vetra"
+  "Hitno upozorenje RHMZ: Večeras se očekuju orkanski udari vetra",
+  "Upozorenje RHMZ: Tokom večeri olujni i orkanski udari vetra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,6 +79,6 @@
   "local": true,
   "alt": "MUP upozorava vozače na obilne padavine i jak vetar, RHMZ izdao crveni meteoalarm"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

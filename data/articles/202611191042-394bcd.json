@@ -33,17 +33,38 @@
  ],
  "importance": 7,
  "published": "2026-11-19T09:42:30.100573+00:00",
- "updated": "2026-11-19T09:42:30.100573+00:00",
+ "updated": "2026-11-19T09:57:20.733664+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/rhmz-i-mup-upozoravaju-na-olujni-vetar-preporuka-da-se-ne-krece-na-put-i-da-se-zastiti-imovina",
    "title": "RHMZ i MUP upozoravaju na olujni vetar: Preporuka da se ne kreće na put i da se zaštiti imovina",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/299076/mup-upozorava-na-jaku-oluju-sa-snaznim-naletima-vetra-u-vojvodini-i-u-beogradu/vest",
+   "title": "MUP upozorava na jaku oluju sa snažnim naletima vetra u Vojvodini i u Beogradu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10166537/apel-mup-a-izbegavajte-putovanje-tokom-oluje",
+   "title": "HITNO UPOZORENJE MUP-A, NE KREĆITE NA PUT! Stiže oluja sa udarima vetra od 100 km na čas: Postoji opasnost po ljude i životinje, evo kako da se zaštitite",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4435825-mup-poslao-hitno-sms-upozorenje",
+   "title": "MUP poslao hitno SMS upozorenje!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "RHMZ i MUP upozoravaju na olujni vetar: Preporuka da se ne kreće na put i da se zaštiti imovina"
+  "RHMZ i MUP upozoravaju na olujni vetar: Preporuka da se ne kreće na put i da se zaštiti imovina",
+  "MUP upozorava na jaku oluju sa snažnim naletima vetra u Vojvodini i u Beogradu",
+  "HITNO UPOZORENJE MUP-A, NE KREĆITE NA PUT! Stiže oluja sa udarima vetra od 100 km na čas: Postoji opasnost po ljude i životinje, evo kako da se zaštitite",
+  "MUP poslao hitno SMS upozorenje!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +75,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "RHMZ i MUP upozoravaju na olujni vetar preko 100 km/h u Vojvodini i Beogradu"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
