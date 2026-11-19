@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-19T10:41:57.187938+00:00",
- "updated": "2026-11-19T10:41:57.187938+00:00",
+ "updated": "2026-11-19T10:56:49.993173+00:00",
  "sources": [
   {
    "name": "N1",
@@ -41,11 +41,18 @@
    "url": "https://www.kurir.rs/crna-hronika/10166591/radnik-eps-a-povredjen-na-trafostanici",
    "title": "RADNIK TEŠKO POVREĐEN KOD VRANJA: Radili oko trafostanice u selu Donje Trebešinje, pa došlo do nesreće",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/povredjena-tri-radnika-na-trafostanici/",
+   "title": "Povređena tri radnika na trafostanici",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Trojica radnika povređena na trafostanici kod Vranja, jedan prebačen u KC Niš",
-  "RADNIK TEŠKO POVREĐEN KOD VRANJA: Radili oko trafostanice u selu Donje Trebešinje, pa došlo do nesreće"
+  "RADNIK TEŠKO POVREĐEN KOD VRANJA: Radili oko trafostanice u selu Donje Trebešinje, pa došlo do nesreće",
+  "Povređena tri radnika na trafostanici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Die_Wei%C3%9Fe_Br%C3%BCcke_in_Vranje.jpg",
   "alt": "Radnik EPS-a povređen na trafostanici kod Vranja, još dvojica tražila pomoć lekara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

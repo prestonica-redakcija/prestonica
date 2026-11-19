@@ -27,7 +27,7 @@
  ],
  "importance": 7,
  "published": "2026-11-18T10:22:49.423310+00:00",
- "updated": "2026-11-19T09:57:20.733664+00:00",
+ "updated": "2026-11-19T10:56:49.993173+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -100,6 +100,12 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/252737/inflaciona-ocekivanja-finansijskog-sektora-u-srbiji-porasla/vest",
    "title": "NBS: Inflaciona očekivanja za godinu dana unapred porasla na četiri odsto u oktobru",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/magazin/vremenska-prognoza/po-novoj-prognozi-evropskih-meteorologa-zima-ce-biti/",
+   "title": "Stigla nova prognoza za zimu 2026/2027: Evo šta čeka Balkan i kada bi mogao da stigne preokret",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -114,7 +120,8 @@
   "Šta nas čeka sa cenama u narednih godinu dana? Stigla nova prognoza o inflaciji, evo šta NBS očekuje",
   "INFLACIONA OČEKIVANjA ZA SRBIJU: Finansijeri podigli prognozu na četiri odsto, stanovništvo očekuje dvocifren rast cena",
   "Cena nafte blago porasla",
-  "NBS: Inflaciona očekivanja za godinu dana unapred porasla na četiri odsto u oktobru"
+  "NBS: Inflaciona očekivanja za godinu dana unapred porasla na četiri odsto u oktobru",
+  "Stigla nova prognoza za zimu 2026/2027: Evo šta čeka Balkan i kada bi mogao da stigne preokret"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -126,7 +133,7 @@
   "local": true,
   "alt": "Narodna banka Srbije podigla projekciju inflacije za 2027. na 4,9 odsto"
  },
- "novo_od_pisanja": 2,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-19T08:57:57.933205+00:00",
  "verzija": 2

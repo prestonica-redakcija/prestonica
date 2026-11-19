@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T13:21:45.117791+00:00",
- "updated": "2026-11-19T10:41:57.187938+00:00",
+ "updated": "2026-11-19T10:56:49.993173+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -94,6 +94,12 @@
    "url": "https://www.b92.net/info/politika/286214/skupstina-sednice-narodne-skupstine/vest",
    "title": "Rasprava o kandidatima za predsednika; Kraj se ne nazire; \"Studentska lista\" povukla sve govornike FOTO",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/286214/konstitutivna-sednica-skupstine-srbije-19-novembar/vest",
+   "title": "Rasprava o kandidatima za predsednika; Nazire se kraj?; \"Studentska lista\" povukla sve govornike FOTO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -106,7 +112,8 @@
   "Rasprava o Čupićevom zvanju; Studentska lista: \"Navedeno je da je docent\"; Vučić ponavlja da nije profesor",
   "ODAKLE ČUPIĆU DEVET NEKRETNINA I ZAŠTO SE PREDSTAVLjA KAO PROFESOR? Od lidera opozicije Aleksandra Vučića stigla direktna pitanja u Skupštini",
   "Aleksandar Čupić - \"poljoprivrednik\" sa sedam stanova i dve garaže. \"Novo lice\". Stara stranka.",
-  "Rasprava o kandidatima za predsednika; Kraj se ne nazire; \"Studentska lista\" povukla sve govornike FOTO"
+  "Rasprava o kandidatima za predsednika; Kraj se ne nazire; \"Studentska lista\" povukla sve govornike FOTO",
+  "Rasprava o kandidatima za predsednika; Nazire se kraj?; \"Studentska lista\" povukla sve govornike FOTO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -118,7 +125,7 @@
   "local": true,
   "alt": "Vučić u Skupštini pitao Čupića za sedam stanova, osporio i zvanje profesora"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-19T08:13:12.764108+00:00",
  "verzija": 3

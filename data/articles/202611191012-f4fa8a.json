@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-19T09:12:47.015713+00:00",
- "updated": "2026-11-19T10:41:57.187938+00:00",
+ "updated": "2026-11-19T10:56:49.993173+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -73,6 +73,12 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4435867-oglasio-se-mup-uhapsen-dvojac-iz-kaca-ostetili-budzet-novog-sada-za-preko-dva-miliona-dinara",
    "title": "OGLASIO SE MUP: Uhapšen dvojac iz Kaća, oštetili budžet Novog Sada za preko dva miliona dinara!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10166641/uzeli-pare-za-manifestacije-koje-se-nisu-desile-i-ostetili-grad-novi-sad",
+   "title": "UZELI PARE ZA MANIFESTACIJE KOJE SE NIKADA NISU DESILE: Hapšenje zbog zloupotraba u Novom Sadu!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -82,7 +88,8 @@
   "Uhapšene dve osobe u Novom Sadu zbog zloupotrebe položaja: Proneverili više od dva miliona dinara",
   "Uhapšene dve osobe: Dobili novac za projekte iz budžeta Grada Novog Sada, a nisu ih sproveli",
   "Uhapšena dva zastupnika udruženja građana, sumnja se da su budžet Novog Sada oštetiti za više od dva miliona dinara",
-  "OGLASIO SE MUP: Uhapšen dvojac iz Kaća, oštetili budžet Novog Sada za preko dva miliona dinara!"
+  "OGLASIO SE MUP: Uhapšen dvojac iz Kaća, oštetili budžet Novog Sada za preko dva miliona dinara!",
+  "UZELI PARE ZA MANIFESTACIJE KOJE SE NIKADA NISU DESILE: Hapšenje zbog zloupotraba u Novom Sadu!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -95,8 +102,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Dunavska_street_in_Novi_Sad.jpg",
   "alt": "Novi Sad: uhapšena dva osumnjičena da su za devet nesprovedenih projekata dobili 2,1 milion dinara"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-19T10:41:57.187938+00:00",
  "verzija": 2
 }

@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T08:57:57.933205+00:00",
- "updated": "2026-11-19T10:12:13.177653+00:00",
+ "updated": "2026-11-19T10:56:49.993173+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -49,12 +49,19 @@
    "url": "https://nova.rs/vesti/hronika/jtok-predmet-ubistva-olivera-ivanovica-u-predistraznoj-fazi-protiv-nn-lica/",
    "title": "JTOK: Predmet ubistva Olivera Ivanovića u predistražnoj fazi protiv NN lica",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10166632/istraga-ubistva-olivera-ivanovica",
+   "title": "JTOK O UBISTVU OLIVERA IVANOVIĆA: Predmet se nalazi u predistražnoj fazi, naredba o sprovođenju istrage još uvek nije doneta",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Skoro devet godina posle ubistva Olivera Ivanovića, u Srbiji nema ni istrage",
   "TOK za Vreme: Predmet ubistva Olivera Ivanovića u predistražnoj fazi protiv NN lica",
-  "JTOK: Predmet ubistva Olivera Ivanovića u predistražnoj fazi protiv NN lica"
+  "JTOK: Predmet ubistva Olivera Ivanovića u predistražnoj fazi protiv NN lica",
+  "JTOK O UBISTVU OLIVERA IVANOVIĆA: Predmet se nalazi u predistražnoj fazi, naredba o sprovođenju istrage još uvek nije doneta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "osoba": "Oliver Ivanović",
   "alt": "JTOK: u slučaju ubistva Olivera Ivanovića istraga nije naređena, predmet u predistražnoj fazi"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

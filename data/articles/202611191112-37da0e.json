@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-19T10:12:13.177653+00:00",
- "updated": "2026-11-19T10:41:57.187938+00:00",
+ "updated": "2026-11-19T10:56:49.993173+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -57,13 +57,20 @@
    "url": "https://informer.rs/politika/vesti/1171324/milan-zdravkovic-pomoc-drzave-fond-za-nauku",
    "title": "\"Milanče, 300.000 evra, Milanče\"! Vučić oduvao blokaderskog profesora u Skupštini: Vi ste najgori parazitski sloj koji je ova država ikada imala",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1672682/vucic-rusili-srbiju-isto-vreme-uzimali-milione-nje-video",
+   "title": "VUČIĆ O SL: Rušili su Srbiju, a u isto vreme uzimali milione od nje (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "\"VI STE NAJGORI PARAZITSKI SLOJ KOJI JE OVA DRŽAVA IKADA IMALA\" Vučić raskrinkao SL: Rušili su Srbiju, a u isto vreme uzimali milione od nje",
   "VUČIĆ RASKRINKAO SL: Rušili su Srbiju, a u isto vreme uzimali milione od nje",
   "VUČIĆ RASKRINKAO SL: Rušili su Srbiju, a u isto vreme uzimali milione od nje (VIDEO)",
-  "\"Milanče, 300.000 evra, Milanče\"! Vučić oduvao blokaderskog profesora u Skupštini: Vi ste najgori parazitski sloj koji je ova država ikada imala"
+  "\"Milanče, 300.000 evra, Milanče\"! Vučić oduvao blokaderskog profesora u Skupštini: Vi ste najgori parazitski sloj koji je ova država ikada imala",
+  "VUČIĆ O SL: Rušili su Srbiju, a u isto vreme uzimali milione od nje (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +83,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Philip_Hammond_%26_Aleksandar_Vu%C4%8Di%C4%87_in_London_2014.jpg",
   "alt": "Vučić u Skupštini tvrdi da su poslanici Studentske liste uzimali novac od države"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

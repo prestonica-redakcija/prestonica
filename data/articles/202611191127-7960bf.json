@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T10:27:11.486532+00:00",
- "updated": "2026-11-19T10:27:11.486532+00:00",
+ "updated": "2026-11-19T10:56:49.993173+00:00",
  "sources": [
   {
    "name": "N1",
@@ -45,11 +45,25 @@
    "url": "https://nova.rs/vesti/politika/pobeda-studentske-liste-mozda-poslednja-prilika-za-bolji-zivot-gradjana-srbije-na-kim-vuciceva-politika-propala/",
    "title": "\"Pobeda Studentske liste možda poslednja prilika za bolji život građana Srbije na KiM, Vučićeva politika propala \"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/299059/poslanici-srbija-pobeduje-radenovic-bolji-kandidat-za-predsednika-parlamenta/vest",
+   "title": "Poslanici \"Srbija pobeđuje\": Radenović bolji kandidat za predsednika parlamenta",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/mozda-poslednja-prilika-za-bolji-zivot-gradjana-srbije-na-kim-je-pobeda-studentske-liste-kaze-koordinator-nacionalnog-konventa-o-eu/",
+   "title": "Možda poslednja prilika za bolji život građana Srbije na KiM je pobeda Studentske liste, kaže koordinator Nacionalnog konventa o EU",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Mijačić: Pobeda Studentske liste možda poslednja prilika za bolji život građana Srbije na KiM",
-  "\"Pobeda Studentske liste možda poslednja prilika za bolji život građana Srbije na KiM, Vučićeva politika propala \""
+  "\"Pobeda Studentske liste možda poslednja prilika za bolji život građana Srbije na KiM, Vučićeva politika propala \"",
+  "Poslanici \"Srbija pobeđuje\": Radenović bolji kandidat za predsednika parlamenta",
+  "Možda poslednja prilika za bolji život građana Srbije na KiM je pobeda Studentske liste, kaže koordinator Nacionalnog konventa o EU"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +76,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Aleksandar_Vu%C4%8Di%C4%87_(2024).jpg",
   "osoba": "Aleksandar Vučić",
   "alt": "Mijačić: Pobeda Studentske liste možda poslednja prilika za bolji život građana na Kosovu"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
