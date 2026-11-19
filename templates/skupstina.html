@@ -153,7 +153,7 @@ function prenos(){
   if(document.hidden)return;
   fetch("/api/ankete/prenos",{cache:"no-store"}).then(function(r){return r.ok?r.json():null}).then(function(j){
     if(!j||!j.yt)return;
-    if(j.naslov)document.getElementById("sk-naslov").textContent=j.naslov;
+    if(j.naslov)document.getElementById("sk-naslov").textContent=j.naslov.charAt(0).toUpperCase()+j.naslov.slice(1);
     if(j.yt!==fr.getAttribute("data-yt")){
       fr.setAttribute("data-yt",j.yt);
       fr.innerHTML='<iframe id="sk-iframe" src="https://www.youtube-nocookie.com/embed/'+encodeURIComponent(j.yt)+'?rel=0&playsinline=1&autoplay=1&mute=1" title="Prenos sednice Narodne skupštine" allow="accelerometer; autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>';

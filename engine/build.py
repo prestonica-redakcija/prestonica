@@ -195,8 +195,14 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
         html = env.get_template(tpl).render(**base_ctx, root="../" * depth, page_path=path, **ctx)
         (out / path).write_text(html, encoding="utf-8")
 
+    # Skupština: izbor vesti, objava i snimaka; na dan sednice ide i na vrh naslovne
+    from . import skupstina as _sk
+    _ski = _sk.izbor(by_date, xposts, videos)
+    _sks = state.get("skupstina") or {}
+    _sk_dan = bool(_sks.get("yt")) and (_sks.get("live") == "live" or (bool(_sks.get("uzivo_t")) and age_hours(_sks["uzivo_t"]) < 12))
     render("index.html", "index.html", hero=hero, top=top, sections=sections, opinion=opinion,
-           latest=by_date[:12], teme=teme, active="naslovna", title=None, videos=videos[:4], xnaslovna=_x_home(xposts))
+           latest=by_date[:12], teme=teme, active="naslovna", title=None, videos=videos[:4], xnaslovna=_x_home(xposts),
+           sk=_sks, sk_dan=_sk_dan, sk_vesti=[a for a in _ski["vesti"] if age_hours(a["published"]) < 30][:5], sk_snimci=_ski["snimci"][:3])
     if videos:
         days: list[tuple[str, list]] = []
         for v in videos[1:]:
@@ -230,8 +236,6 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
         render("x.html", "mreze.html", posts=xposts[:150], active="mreze", title="Na mrežama",
                xgrupe=[(k, v) for k, v in xgrupe.items() if any(p.get("grupa") == k for p in xposts)])
     # Skupština: prenos uživo, razgovor čitalaca i sve o parlamentu na jednom mestu
-    from . import skupstina as _sk
-    _ski = _sk.izbor(by_date, xposts, videos)
     render("skupstina.html", "skupstina.html", sk=state.get("skupstina") or {}, sk_vesti=_ski["vesti"][:40], sk_objave=_ski["objave"][:30],
            sk_snimci=_ski["snimci"][:12], active="skupstina", title="Skupština uživo", kom=cfg.portal.get("komentari") or {})
     if api and polls:

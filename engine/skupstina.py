@@ -58,6 +58,7 @@ def osvezi(cfg, state: dict) -> None:
         naslov = _lat(re.sub(r"<[^>]+>|\s+", " ", m.group(1)).strip())[:160] if m else ""
     except Exception:
         naslov = ""
+    naslov = naslov[:1].upper() + naslov[1:]
     live = sk.get("live", "none") if sk.get("yt") == yt else "none"
     try:
         from . import fetch
@@ -67,6 +68,8 @@ def osvezi(cfg, state: dict) -> None:
     except Exception as e:
         log.info("Skupština: status prenosa nije proveren: %s", e)
     sk.update({"yt": yt, "live": live, "naslov": naslov, "provereno": now_utc().isoformat()})
+    if live == "live":
+        sk["uzivo_t"] = now_utc().isoformat()   # kad je prenos poslednji put viđen uživo (naslovna ističe Skupštinu tog dana)
     log.info("Skupština: snimak %s, status %s", yt, live)
 
 

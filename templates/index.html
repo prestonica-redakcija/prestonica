@@ -2,6 +2,20 @@
 {% from "macros.html" import anketa as anketa_m %}
 {% from "macros.html" import card, row, shead, label, rcls, srcline, yt, vcard, xpost %}
 {% block main %}
+{% if sk_dan %}
+<section class="sk-home">
+  <div class="sk-home-v">
+    {{ yt(sk.yt, 'Prenos sednice Narodne skupštine', 'Narodna skupština Republike Srbije', '', sk.live == 'live', True) }}
+  </div>
+  <div class="sk-home-b">
+    <span class="eyebrow">{% if sk.live == 'live' %}<i class="pulse"></i> Skupština uživo{% else %}Skupština danas{% endif %}</span>
+    <h2><a href="{{ root }}skupstina.html">{{ sk.naslov or 'Sednica Narodne skupštine' }}</a></h2>
+    {% if sk_vesti %}<ul class="sk-home-l">{% for a in sk_vesti %}<li><time data-t="{{ a.prepisano or a.published }}">{{ a._time }}</time><a href="{{ root }}{{ a._url }}">{{ a.headline }}</a></li>{% endfor %}</ul>{% endif %}
+    <a class="btn btn-primary" href="{{ root }}skupstina.html">Prati prenos i uključi se u razgovor →</a>
+  </div>
+  {% if sk_snimci %}<div class="sk-home-s vid-grid">{% for v in sk_snimci %}{{ vcard(v, root, rubrike) }}{% endfor %}</div>{% endif %}
+</section>
+{% endif %}
 {% if hero %}
 <section class="front">
   <article class="hero {{ rcls(hero) }}">
