@@ -26,17 +26,24 @@
  ],
  "importance": 6,
  "published": "2026-11-19T10:27:11.486532+00:00",
- "updated": "2026-11-19T10:27:11.486532+00:00",
+ "updated": "2026-11-19T10:41:57.187938+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/299088/kerim-nismo-toliko-blizu-zavrsetka-pregovora-o-prodaji-nis-a/vest",
    "title": "Kerim: Nismo toliko blizu završetka pregovora o prodaji NIS-a",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/286290/kerim-nismo-toliko-blizu-zavrsetka-pregovora-o-prodaji-nis-a/vest",
+   "title": "\"Nismo toliko blizu završetka pregovora o prodaji NIS-a\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Kerim: Nismo toliko blizu završetka pregovora o prodaji NIS-a"
+  "Kerim: Nismo toliko blizu završetka pregovora o prodaji NIS-a",
+  "\"Nismo toliko blizu završetka pregovora o prodaji NIS-a\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Kerim: Prodaja ruskog udela u NIS-u nije tako blizu kako se čini"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

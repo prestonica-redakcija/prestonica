@@ -27,17 +27,24 @@
  ],
  "importance": 5,
  "published": "2026-11-19T10:27:11.486532+00:00",
- "updated": "2026-11-19T10:27:11.486532+00:00",
+ "updated": "2026-11-19T10:41:57.187938+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/portparol-ek-evropska-komisija-bila-meta-sajber-napada-mozda-doslo-do-ugrozavanja-velike-kolicine-licnih-podataka",
    "title": "Portparol EK: Evropska komisija bila meta sajber napada, možda došlo do ugrožavanja velike količine ličnih podataka",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299089/evropska-komisija-bila-meta-sajber-napada/vest",
+   "title": "Evropska komisija bila meta sajber napada",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Portparol EK: Evropska komisija bila meta sajber napada, možda došlo do ugrožavanja velike količine ličnih podataka"
+  "Portparol EK: Evropska komisija bila meta sajber napada, možda došlo do ugrožavanja velike količine ličnih podataka",
+  "Evropska komisija bila meta sajber napada"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Evropska komisija meta sajber napada, moguće ugrožavanje velike količine ličnih podataka"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

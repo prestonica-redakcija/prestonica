@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T09:08:30.451343+00:00",
- "updated": "2026-11-19T10:27:11.486532+00:00",
+ "updated": "2026-11-19T10:41:57.187938+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -788,6 +788,54 @@
    "url": "https://www.kurir.rs/sport/kosarka/10166578/nikolu-topica-posle-raka-povreda-i-operacija-snasao-novi-problem",
    "title": "OVO VEĆ POSTAJE NEMOGUĆE! Nikolu Topića posle raka, povreda i operacija snašao novi problem",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/286275/mup-i-rhmz-se-hitno-oglasili-poslate-poruke-da-ce-vreme-biti-opasno/vest",
+   "title": "Hitno se oglasili MUP i RHMZ; Čeka nas velika opasnost; \"Ne izlazite iz kuća...\" FOTO",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299092/tusk-o-trampovom-srdacnom-susretu-sa-putinom-boze-sacuvaj-nas-takvih-prijatelja/vest",
+   "title": "Tusk o Trampovom srdačnom susretu sa Putinom: Bože, sačuvaj nas takvih prijatelja",
+   "spektar": "centar"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=zSD5TmQU80Q",
+   "title": "Brnabić: Imamo prava da čujemo odgovore na neka pitanja",
+   "spektar": "stranka"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4435852-ovo-je-spisak-svih-zvanicnika-koji-su-prisustvovali-istorijskom-trilateralnom-sastanku-trampa-sija-i-putina",
+   "title": "Ovo je spisak svih zvaničnika koji su prisustvovali istorijskom trilateralnom sastanku Trampa, Sija i Putina",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4435834-rat-sa-iranom-mogao-bi-da-promeni-svetsko-trziste-nafte-stiglo-upozorenje-na-dugorocne-posledice",
+   "title": "Rat sa Iranom mogao bi da promeni svetsko tržište nafte: Stiglo upozorenje na dugoročne posledice",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/kreni-promeni-trazi-od-skupstine-da-im-dostavi-informacije-koji-je-fakultet-zavrsila-ana-brnabic/",
+   "title": "Kreni-promeni traži od Skupštine da im dostavi informacije koji je fakultet završila Ana Brnabić",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/kreni-promeni-pita-gde-i-koji-fakultet-je-zavrsila-ana-brnabic/",
+   "title": "Kreni-Promeni pita gde i koji fakultet je završila Ana Brnabić",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://ona.telegraf.rs/on/4435809-radio-sam-kao-kondukter-prodavao-lubenice-a-razveo-se-posle-17-godina-nas-poznati-glumac-otvorio-dusu",
+   "title": "\"Radio sam kao kondukter, prodavao lubenice, a razveo se posle 17 godina\": Naš poznati glumac otvorio dušu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -915,7 +963,15 @@
   "Vanredna situacija u Smederevu: Smeće danima na ulicama, udruženja traže hitnu reakciju Ministarstva",
   "Hrvatska ponovila šta očekuje od nove vlasti u Srbiji; Prioritet su nestali",
   "OGLASIO SE ANDREJ PLENKOVIĆ: Hrvatski premijer otkrio šta očekuje od nove vlasti u Srbiji",
-  "OVO VEĆ POSTAJE NEMOGUĆE! Nikolu Topića posle raka, povreda i operacija snašao novi problem"
+  "OVO VEĆ POSTAJE NEMOGUĆE! Nikolu Topića posle raka, povreda i operacija snašao novi problem",
+  "Hitno se oglasili MUP i RHMZ; Čeka nas velika opasnost; \"Ne izlazite iz kuća...\" FOTO",
+  "Tusk o Trampovom srdačnom susretu sa Putinom: Bože, sačuvaj nas takvih prijatelja",
+  "Brnabić: Imamo prava da čujemo odgovore na neka pitanja",
+  "Ovo je spisak svih zvaničnika koji su prisustvovali istorijskom trilateralnom sastanku Trampa, Sija i Putina",
+  "Rat sa Iranom mogao bi da promeni svetsko tržište nafte: Stiglo upozorenje na dugoročne posledice",
+  "Kreni-promeni traži od Skupštine da im dostavi informacije koji je fakultet završila Ana Brnabić",
+  "Kreni-Promeni pita gde i koji fakultet je završila Ana Brnabić",
+  "\"Radio sam kao kondukter, prodavao lubenice, a razveo se posle 17 godina\": Naš poznati glumac otvorio dušu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -928,7 +984,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(14-12-2021).jpg",
   "alt": "Si i Putin održali 50. susret u Šenženu uoči samita sa Trampom"
  },
- "novo_od_pisanja": 40,
+ "novo_od_pisanja": 48,
  "boost": 1.6,
  "prepisano": "2026-11-19T08:57:57.933205+00:00",
  "verzija": 17

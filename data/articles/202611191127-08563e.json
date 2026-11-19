@@ -26,7 +26,7 @@
  ],
  "importance": 5,
  "published": "2026-11-19T10:27:11.486532+00:00",
- "updated": "2026-11-19T10:27:11.486532+00:00",
+ "updated": "2026-11-19T10:41:57.187938+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,13 +51,34 @@
    "url": "https://biznis.telegraf.rs/info-biz/4435843-vazno-obavestenje-u-vezi-sa-isplatom-depozita-alta-banke-ovo-je-adresa-za-primedbe-gradjana",
    "title": "Važno obaveštenje u vezi sa isplatom depozita Alta banke: Ovo je adresa za primedbe građana",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/286299/primedbe-u-vezi-sa-isplatom-depozita-alta-banke-mogu-se-podneti-toj-banci-bps-i-aod/vest",
+   "title": "Poznato gde se mogu podneti primedbe u vezi sa isplatom depozita Alta banke",
+   "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1672694/vazno-obavestenje-gradjane-primedbe-vezi-isplatom-depozita-alta-banke-mogu-podneti-ovim-adresama",
+   "title": "VAŽNO OBAVEŠTENjE ZA GRAĐANE: Primedbe u vezi sa isplatom depozita Alta banke mogu se podneti na ovim adresama",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/deponenti-alta-banke-u-stecaju-mogu-podneti-reklamaciju-u-vezi-sa-isplatom-osiguranih-depozita/",
+   "title": "Deponenti Alta banke u stečaju mogu podneti reklamaciju u vezi sa isplatom osiguranih depozita",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Primedbe u vezi sa isplatom depozita Alta banke mogu se podneti toj banci, Banci Poštanska štedionica i AOD",
   "Važno obaveštenje za klijente Alta banke: Objavljeno kome građani mogu da podnesu prigovore",
   "Agencija za osiguranje depozita objavila gde se mogu podneti primedbe u vezi sa isplatom depozita Alta banke",
-  "Važno obaveštenje u vezi sa isplatom depozita Alta banke: Ovo je adresa za primedbe građana"
+  "Važno obaveštenje u vezi sa isplatom depozita Alta banke: Ovo je adresa za primedbe građana",
+  "Poznato gde se mogu podneti primedbe u vezi sa isplatom depozita Alta banke",
+  "VAŽNO OBAVEŠTENjE ZA GRAĐANE: Primedbe u vezi sa isplatom depozita Alta banke mogu se podneti na ovim adresama",
+  "Deponenti Alta banke u stečaju mogu podneti reklamaciju u vezi sa isplatom osiguranih depozita"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,5 +90,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Banka_po%C5%A1tanska_%C5%A1tedionica,_Pan%C4%8Devo.jpg",
   "alt": "Primedbe na isplatu depozita Alta banke podnose se banci, Poštanskoj štedionici ili AOD"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

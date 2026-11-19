@@ -28,17 +28,24 @@
  ],
  "importance": 3,
  "published": "2026-11-19T09:27:37.018336+00:00",
- "updated": "2026-11-19T09:27:37.018336+00:00",
+ "updated": "2026-11-19T10:41:57.187938+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/299054/kancelarija-za-it-dobitnik-medunarodne-nagrade-za-digitalno-resenje-ebolovanje/vest",
    "title": "Kancelarija za IT dobitnik međunarodne nagrade za digitalno rešenje eBolovanje",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/nagradjena-kancelarija-za-it-za-e-bolovanje/",
+   "title": "Nagrađena Kancelarija za IT za e-Bolovanje",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Kancelarija za IT dobitnik međunarodne nagrade za digitalno rešenje eBolovanje"
+  "Kancelarija za IT dobitnik međunarodne nagrade za digitalno rešenje eBolovanje",
+  "Nagrađena Kancelarija za IT za e-Bolovanje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Kancelarija za IT i eUpravu dobila međunarodnu nagradu za rešenje eBolovanje"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
