@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-18T12:22:09.404277+00:00",
- "updated": "2026-11-18T12:36:52.310335+00:00",
+ "updated": "2026-11-19T06:14:04.945422+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.euronews.rs/svet/fokus/252619/si-dinping-na-apec-u-2026-pozvao-na-jacanje-saradnje/vest",
    "title": "\"Kina je spremna da sarađuje sa svim stranama\": Si Đinping se obratio na samitu APEC-a na kojom učestuju Putin i Tramp",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299009/si-dinping-kina-je-predvodnik-ekonomske-saradnje-azijsko-pacifickog-regiona/vest",
+   "title": "Si Đinping: Kina je predvodnik ekonomske saradnje Azijsko-pacifičkog regiona",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Si Đinping pozvao na zajedničku izgradnju azijsko-pacifičke zajednice i prosperitet",
-  "\"Kina je spremna da sarađuje sa svim stranama\": Si Đinping se obratio na samitu APEC-a na kojom učestuju Putin i Tramp"
+  "\"Kina je spremna da sarađuje sa svim stranama\": Si Đinping se obratio na samitu APEC-a na kojom učestuju Putin i Tramp",
+  "Si Đinping: Kina je predvodnik ekonomske saradnje Azijsko-pacifičkog regiona"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +65,6 @@
   "local": true,
   "alt": "Si Đinping na APEC samitu u Šenženu: Kina spremna na saradnju sa svim stranama"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -24,17 +24,24 @@
  ],
  "importance": 3,
  "published": "2026-11-18T12:22:09.404277+00:00",
- "updated": "2026-11-18T12:22:09.404277+00:00",
+ "updated": "2026-11-19T06:14:04.945422+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/298793/kompanija-ey-sutra-dodeljuje-priznanje-preduzetnik-godine/vest",
    "title": "Kompanija EY sutra dodeljuje priznanje preduzetnik godine",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/kompanije/298793/kompanija-ey-danas-dodeljuje-priznanje-preduzetnik-godine/vest",
+   "title": "Kompanija EY danas dodeljuje priznanje preduzetnik godine",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Kompanija EY sutra dodeljuje priznanje preduzetnik godine"
+  "Kompanija EY sutra dodeljuje priznanje preduzetnik godine",
+  "Kompanija EY danas dodeljuje priznanje preduzetnik godine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -45,5 +52,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "EY sutra u Beogradu dodeljuje priznanje Preduzetnik godine, u konkurenciji 20 kompanija"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T17:05:06.413216+00:00",
- "updated": "2026-11-19T05:14:36.377349+00:00",
+ "updated": "2026-11-19T06:14:04.945422+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -47,10 +47,17 @@
    "url": "https://www.telegraf.rs/4435695-danas-nastavak-konstitutivne-sednice-rasprava-o-kandidatima-za-predsednika-skupstine",
    "title": "Danas nastavak konstitutivne sednice, rasprava o kandidatima za predsednika Skupštine",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/298955/danas-nastavak-konstitutivne-sednice-rasprava-o-kandidatima-za-predsednika-skupstine/vest",
+   "title": "Danas nastavak konstitutivne sednice, rasprava o kandidatima za predsednika Skupštine",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Opet spavanje u skupštini: Došli da odlučuju o sudbini građana, a ne mogu ni da ostanu budni! (VIDEO)",
+  "Danas nastavak konstitutivne sednice, rasprava o kandidatima za predsednika Skupštine",
   "Danas nastavak konstitutivne sednice, rasprava o kandidatima za predsednika Skupštine"
  ],
  "author": "Redakcija Prestonice",
@@ -65,6 +72,6 @@
   "osoba": "Milenko Jovanov",
   "alt": "Konstitutivna sednica: poslanici raspravljaju o kandidatima za predsednika Skupštine"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
