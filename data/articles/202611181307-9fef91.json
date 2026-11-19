@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T12:07:07.965704+00:00",
- "updated": "2026-11-19T11:11:51.082473+00:00",
+ "updated": "2026-11-19T12:55:58.104980+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -159,6 +159,12 @@
    "url": "https://www.novosti.rs/vesti/politika/1672713/jovo-bakic-aleksandar-vucic-studentska-lista-skupstina-srbije",
    "title": "HAOS U SKUPŠTINI: Jovo Bakić urlao iz sveg glasa, a onda mu Vučić odgovorio",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/dodik-cestitao-cupicu-izbor-za-predsednika-skupstine-srbije-srbiju-nosimo-u-srcu-iznad-svega/",
+   "title": "Dodik čestitao Čupiću izbor za predsednika Skupštine Srbije: „Srbiju nosimo u srcu iznad svega“",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -182,7 +188,8 @@
   "Nastavljena konstitutivna sednica, rasprava o kandidatima za predsedsednika Skupštine",
   "BLOG UŽIVO Nastavljena konstitutivna sednica Skupštine: Treći dan rasprave o izboru predsednika parlamenta",
   "BLOG UŽIVO Treći dan konstitutivne sednice: Vučić ponovo govori i opstruiše izbor predsednika Skupštine",
-  "HAOS U SKUPŠTINI: Jovo Bakić urlao iz sveg glasa, a onda mu Vučić odgovorio"
+  "HAOS U SKUPŠTINI: Jovo Bakić urlao iz sveg glasa, a onda mu Vučić odgovorio",
+  "Dodik čestitao Čupiću izbor za predsednika Skupštine Srbije: „Srbiju nosimo u srcu iznad svega“"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -194,7 +201,7 @@
   "local": true,
   "alt": "Brnabić na konstitutivnoj sednici uporedila naučne radove Radenovića i Čupića"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-19T09:12:47.015713+00:00",
  "verzija": 4

@@ -29,7 +29,7 @@
  ],
  "importance": 7,
  "published": "2026-11-19T09:27:37.018336+00:00",
- "updated": "2026-11-19T10:12:13.177653+00:00",
+ "updated": "2026-11-19T12:55:58.104980+00:00",
  "sources": [
   {
    "name": "N1",
@@ -48,12 +48,19 @@
    "url": "https://nova.rs/vesti/hronika/ostanite-kod-kuce-udaljite-se-od-prozora-moguca-ostecenja-infrastrukture-mup-izdao-upozorenje-zbog-obilnih-padavina/",
    "title": "Ostanite kod kuće, udaljite se od prozora, moguća oštećenja infrastrukture: MUP izdao upozorenje zbog obilnih padavina",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4435887-budite-oprezni-i-ostanite-informisani-oluja-stize-u-srbiju-ocekuje-se-orkanski-udari-vetra-od-110-kmh",
+   "title": "Budite oprezni i ostanite informisani! Oluja stiže u Srbiju: Očekuju se orkanski udari vetra od 110 km/h",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Izdato upozorenje na jaku oluju: Ostanite kod kuće, udaljite se od prozora, moguća oštećenja infrastrukture",
   "Izdato hitno upozorenje, građanima stižu SMS poruke zbog nadolazeće oluje: Ostanite kod kuće i udaljite se od prozora",
-  "Ostanite kod kuće, udaljite se od prozora, moguća oštećenja infrastrukture: MUP izdao upozorenje zbog obilnih padavina"
+  "Ostanite kod kuće, udaljite se od prozora, moguća oštećenja infrastrukture: MUP izdao upozorenje zbog obilnih padavina",
+  "Budite oprezni i ostanite informisani! Oluja stiže u Srbiju: Očekuju se orkanski udari vetra od 110 km/h"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Jeep_Renegade_-_Sektor_za_vanredne_situacije_MUPa_Srbije.jpg",
   "alt": "Upozorenje na jaku oluju: udari vetra do 110 km/h u Vojvodini, zapadnoj Srbiji i Beogradu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

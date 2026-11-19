@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T12:22:09.404277+00:00",
- "updated": "2026-11-19T04:30:03.197904+00:00",
+ "updated": "2026-11-19T12:55:58.104980+00:00",
  "sources": [
   {
    "name": "N1",
@@ -68,6 +68,12 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4435604-obilne-padavine-ponovo-stizu-u-srbiju-evo-i-kada-otkrivamo-kada-i-gde-preti-olujni-vetar-temperatura-do-20",
    "title": "Obilne padavine ponovo stižu u Srbiju, EVO I kada: Otkrivamo kada i gde preti olujni vetar! Temperatura do 20",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4435911-orkansko-nevreme-stize-i-u-region-evo-gde-ce-biti-najkriticnije-prete-obilne-padavine-i-vetrovi-od-100-kmh",
+   "title": "Orkansko nevreme stiže i u region! Evo gde će biti najkritičnije: Prete obilne padavine i vetrovi od 100 km/h",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -76,7 +82,8 @@
   "RHMZ: Upozorenje za područje Srbije na lokalno obilne pljuskove i olujni vetar",
   "RHMZ upozorava: Obilna kiša i jak vetar popodne i uveče",
   "Danas naoblačenje i kiša, temperatura do 19 stepeni: Uveče jak vetar",
-  "Obilne padavine ponovo stižu u Srbiju, EVO I kada: Otkrivamo kada i gde preti olujni vetar! Temperatura do 20"
+  "Obilne padavine ponovo stižu u Srbiju, EVO I kada: Otkrivamo kada i gde preti olujni vetar! Temperatura do 20",
+  "Orkansko nevreme stiže i u region! Evo gde će biti najkritičnije: Prete obilne padavine i vetrovi od 100 km/h"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -88,8 +95,8 @@
   "local": true,
   "alt": "RHMZ upozorava na obilnu kišu i jak vetar popodne i uveče, ponegde do 50 milimetara"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-19T04:30:03.197904+00:00",
  "verzija": 2
 }
