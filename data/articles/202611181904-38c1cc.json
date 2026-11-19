@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-18T18:04:39.821974+00:00",
- "updated": "2026-11-18T18:04:39.821974+00:00",
+ "updated": "2026-11-19T17:39:04.987733+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,11 +44,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4435536-sest-sati-zadrzavanja-za-vozace-teretnjaka-na-izlazu-iz-zemlje",
    "title": "Šest sati zadržavanja za vozače teretnjaka na izlazu iz zemlje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/299260/amss-zadrzavanja-za-teretna-vozila-na-izlazu-najduza-na-granicnom-prelazu-batrovci-sedam-sati/vest",
+   "title": "AMSS: Zadržavanja za teretna vozila na izlazu, najduža na graničnom prelazu Batrovci - sedam sati",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Teretnjaci čekaju po šest sati na izlazu iz zemlje na Batrovcima, Bezdanu i S. Rači",
-  "Šest sati zadržavanja za vozače teretnjaka na izlazu iz zemlje"
+  "Šest sati zadržavanja za vozače teretnjaka na izlazu iz zemlje",
+  "AMSS: Zadržavanja za teretna vozila na izlazu, najduža na graničnom prelazu Batrovci - sedam sati"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Batrovci_288.jpg",
   "alt": "Teretnjaci na izlazu iz Srbije čekaju do šest sati na tri granična prelaza"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
