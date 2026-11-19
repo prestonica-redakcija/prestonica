@@ -1,0 +1,170 @@
+{% extends "base.html" %}
+{% from "macros.html" import row, xcard, vcard, shead %}
+{% block desc %}Skupština Srbije uživo: prenos sednica, razgovor čitalaca i sve vesti, objave i snimci o radu parlamenta na jednom mestu.{% endblock %}
+{% block main %}
+<section class="sk-top">
+  <div class="sk-head">
+    <span class="eyebrow" id="sk-stanje">{% if sk.live == 'live' %}<i class="pulse"></i> Uživo{% else %}Snimak poslednjeg prenosa{% endif %}</span>
+    <h1>Skupština Srbije</h1>
+    <p id="sk-naslov">{{ sk.naslov or 'Prenos sednica Narodne skupštine i razgovor čitalaca u realnom vremenu.' }}</p>
+  </div>
+  <div class="sk-stage">
+    <div class="sk-player">
+      <div class="sk-frame" id="sk-frame" data-yt="{{ sk.yt or '' }}" data-live="{{ '1' if sk.live == 'live' else '0' }}">
+        {% if sk.yt %}
+        <iframe id="sk-iframe" src="https://www.youtube-nocookie.com/embed/{{ sk.yt }}?rel=0&amp;playsinline=1{% if sk.live == 'live' %}&amp;autoplay=1&amp;mute=1{% endif %}" title="Prenos sednice Narodne skupštine" allow="accelerometer; autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>
+        {% else %}
+        <div class="sk-empty">Prenos trenutno nije dostupan. Stranica se sama osvežava čim sednica počne.</div>
+        {% endif %}
+      </div>
+      <div class="sk-credit">
+        <span>Prenos: Narodna skupština Republike Srbije</span>
+        <a href="https://www.parlament.gov.rs/prenosi/sednice-narodne-skupstine.2083.html" target="_blank" rel="noopener">Zvanična stranica prenosa ↗</a>
+      </div>
+    </div>
+    <aside class="sk-chat" id="sk-chat" data-api="/api/ankete/chat" aria-label="Razgovor uživo">
+      <header class="skc-head">
+        <b><i class="pulse"></i> Razgovor uživo</b>
+        <span id="skc-broj"></span>
+      </header>
+      <div class="skc-list" id="skc-list" role="log" aria-live="polite">
+        <div class="skc-info" id="skc-info">Učitavanje razgovora...</div>
+      </div>
+      <button class="skc-new" id="skc-new" type="button" hidden>Nove poruke ↓</button>
+      <div class="skc-reply" id="skc-reply" hidden><span id="skc-reply-t"></span><button type="button" id="skc-reply-x" aria-label="Otkaži odgovor">×</button></div>
+      <form class="skc-form" id="skc-form" autocomplete="off">
+        <input id="skc-ime" type="text" maxlength="24" placeholder="Vaše ime ili nadimak" aria-label="Ime ili nadimak">
+        <div class="skc-row">
+          <textarea id="skc-tekst" rows="1" maxlength="300" placeholder="Napišite poruku..." aria-label="Poruka"></textarea>
+          <button class="btn btn-primary" type="submit" id="skc-send">Pošalji</button>
+        </div>
+        <p class="skc-note" id="skc-note">Poruke se objavljuju odmah. Budite pristojni: pretnje i pozivi na nasilje se brišu.</p>
+      </form>
+    </aside>
+  </div>
+</section>
+
+{% if sk_vesti %}
+<section class="sk-sec">
+  {{ shead('Najnovije iz Skupštine') }}
+  <ul class="rows rows-wide sk-rows{% if sk_vesti|length > 12 %} zatvoreno{% endif %}" id="sk-rows">
+    {% for a in sk_vesti %}{{ row(a, root, rubrike) }}{% endfor %}
+  </ul>
+  {% if sk_vesti|length > 12 %}<div class="xmore-wrap"><button class="btn" type="button" id="sk-rows-more">Prikaži sve vesti ({{ sk_vesti|length }})</button></div>{% endif %}
+</section>
+{% endif %}
+
+{% if sk_objave %}
+<section class="sk-sec">
+  {{ shead('Na mrežama o Skupštini') }}
+  <div class="xgrid">
+    {% for p in sk_objave %}<div class="xcell sk-x"{% if loop.index > 9 %} hidden{% endif %}>{{ xcard(p) }}</div>{% endfor %}
+  </div>
+  {% if sk_objave|length > 9 %}<div class="xmore-wrap"><button class="btn" type="button" data-sk-more=".sk-x">Prikaži još objava</button></div>{% endif %}
+</section>
+{% endif %}
+
+{% if sk_snimci %}
+<section class="sk-sec">
+  {{ shead('Snimci') }}
+  <div class="vid-grid vid-grid-3">{% for v in sk_snimci %}{{ vcard(v, root, rubrike) }}{% endfor %}</div>
+</section>
+{% endif %}
+
+{% if kom.hyvor_website_id %}
+<section class="sk-sec komentari" id="komentari">
+  {{ shead('Komentari') }}
+  <hyvor-talk-comments website-id="{{ kom.hyvor_website_id }}" page-id="skupstina" loading="lazy" colors="os"></hyvor-talk-comments>
+  <script async src="https://talk.hyvor.com/embed/embed.js" type="module"></script>
+</section>
+{% endif %}
+
+<script>
+(function(){
+"use strict";
+var box=document.getElementById("sk-chat"); if(!box) return;
+var API=box.getAttribute("data-api"), list=document.getElementById("skc-list"), form=document.getElementById("skc-form"),
+    ime=document.getElementById("skc-ime"), tekst=document.getElementById("skc-tekst"), note=document.getElementById("skc-note"),
+    nov=document.getElementById("skc-new"), rep=document.getElementById("skc-reply"), repT=document.getElementById("skc-reply-t"),
+    broj=document.getElementById("skc-broj"), send=document.getElementById("skc-send");
+var last=0, odg=0, poruke={}, prvo=true, tiho=0, timer=null, busy=false, NOTE=note.textContent;
+function ls(k,v){try{if(v===undefined)return localStorage.getItem(k);localStorage.setItem(k,v)}catch(e){return null}}
+var kljuc=ls("prestonica_stat_kljuc")||"";
+ime.value=ls("prestonica_chat_ime")||"";
+function boja(s){var h=0;for(var i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))%360;return"hsl("+h+" 62% 46%)"}
+function sat(t){var d=new Date(t);return("0"+d.getHours()).slice(-2)+":"+("0"+d.getMinutes()).slice(-2)}
+function dole(){return list.scrollHeight-list.scrollTop-list.clientHeight<80}
+function naDno(){list.scrollTop=list.scrollHeight;nov.hidden=true}
+function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e}
+function dodaj(m){
+  if(poruke[m.id])return; poruke[m.id]=m;
+  var r=el("div","skc-m"); r.id="skc-"+m.id;
+  var av=el("span","skc-av",(m.ime||"?").charAt(0).toUpperCase()); av.style.background=boja(m.ime||"?");
+  var bd=el("div","skc-bd"), hd=el("div","skc-hd");
+  var nm=el("b",null,m.ime); nm.style.color=boja(m.ime||"?");
+  hd.appendChild(nm); hd.appendChild(el("time",null,sat(m.t)));
+  bd.appendChild(hd);
+  if(m.odg&&m.odgIme){var q=el("div","skc-q"); q.appendChild(el("b",null,m.odgIme+": ")); q.appendChild(document.createTextNode(m.odgTekst||"")); q.addEventListener("click",function(){var o=document.getElementById("skc-"+m.odg);if(o){o.scrollIntoView({block:"center",behavior:"smooth"});o.classList.add("hl");setTimeout(function(){o.classList.remove("hl")},1600)}}); bd.appendChild(q)}
+  bd.appendChild(el("p",null,m.tekst));
+  var ak=el("div","skc-ak"), b=el("button",null,"Odgovori"); b.type="button";
+  b.addEventListener("click",function(){odg=m.id;repT.textContent="Odgovor za "+m.ime+": "+m.tekst.slice(0,70);rep.hidden=false;tekst.focus()});
+  ak.appendChild(b);
+  if(kljuc){var x=el("button","skc-del","Obriši"); x.type="button"; x.addEventListener("click",function(){if(!x.dataset.p){x.dataset.p="1";x.textContent="Potvrdi brisanje";return} fetch(API+"/brisi",{method:"POST",headers:{"Content-Type":"application/json","X-Kljuc":kljuc},body:JSON.stringify({id:m.id})}).then(function(r){if(r.ok)r0.remove()})}); ak.appendChild(x)}
+  bd.appendChild(ak);
+  r.appendChild(av); r.appendChild(bd); var r0=r;
+  list.appendChild(r);
+}
+function ucitaj(){
+  if(busy||document.hidden)return; busy=true;
+  fetch(API+"?posle="+last,{cache:"no-store"}).then(function(r){return r.ok?r.json():Promise.reject(r.status)}).then(function(j){
+    var info=document.getElementById("skc-info"), bio=dole(), n=(j.poruke||[]).length;
+    (j.obrisane||[]).forEach(function(id){var o=document.getElementById("skc-"+id);if(o)o.remove()});
+    (j.poruke||[]).forEach(function(m){dodaj(m);if(m.id>last)last=m.id});
+    if(info){if(Object.keys(poruke).length)info.remove();else info.textContent="Još nema poruka. Budite prvi koji će nešto napisati."}
+    if(j.ukupno!=null)broj.textContent=j.ukupno+(j.ukupno===1?" poruka":" poruka danas");
+    if(n){tiho=0;if(prvo||bio)naDno();else nov.hidden=false}else tiho++;
+    prvo=false;
+  }).catch(function(){var info=document.getElementById("skc-info");if(info)info.textContent="Razgovor trenutno nije dostupan. Pokušavamo ponovo."}).then(function(){busy=false;zakazi()});
+}
+function zakazi(){clearTimeout(timer);timer=setTimeout(ucitaj,tiho<10?4000:tiho<40?7000:12000)}
+document.addEventListener("visibilitychange",function(){if(!document.hidden){tiho=0;ucitaj()}});
+nov.addEventListener("click",naDno);
+list.addEventListener("scroll",function(){if(dole())nov.hidden=true});
+document.getElementById("skc-reply-x").addEventListener("click",function(){odg=0;rep.hidden=true});
+tekst.addEventListener("input",function(){tekst.style.height="auto";tekst.style.height=Math.min(120,tekst.scrollHeight)+"px"});
+tekst.addEventListener("keydown",function(e){if(e.key==="Enter"&&!e.shiftKey){e.preventDefault();form.requestSubmit?form.requestSubmit():form.dispatchEvent(new Event("submit",{cancelable:true}))}});
+function poruka(t,greska){note.textContent=t;note.classList.toggle("err",!!greska);if(greska)setTimeout(function(){note.textContent=NOTE;note.classList.remove("err")},5000)}
+form.addEventListener("submit",function(e){
+  e.preventDefault();
+  var i=ime.value.trim(), t=tekst.value.trim();
+  if(i.length<2){poruka("Upišite ime ili nadimak (najmanje 2 slova).",1);ime.focus();return}
+  if(!t)return;
+  ls("prestonica_chat_ime",i); send.disabled=true;
+  fetch(API,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({ime:i,tekst:t,odg:odg})}).then(function(r){return r.json().then(function(j){return{ok:r.ok,j:j}})}).then(function(x){
+    if(!x.ok){poruka(x.j.greska||"Poruka nije poslata.",1);return}
+    tekst.value="";tekst.style.height="auto";odg=0;rep.hidden=true;tiho=0;clearTimeout(timer);busy=false;prvo=true;ucitaj();
+  }).catch(function(){poruka("Poruka nije poslata. Proverite vezu.",1)}).then(function(){send.disabled=false});
+});
+ucitaj();
+
+// prenos: proverava da li je Skupština postavila novi snimak, bez ponovnog učitavanja stranice
+var fr=document.getElementById("sk-frame");
+function prenos(){
+  if(document.hidden)return;
+  fetch("/api/ankete/prenos",{cache:"no-store"}).then(function(r){return r.ok?r.json():null}).then(function(j){
+    if(!j||!j.yt)return;
+    if(j.naslov)document.getElementById("sk-naslov").textContent=j.naslov;
+    if(j.yt!==fr.getAttribute("data-yt")){
+      fr.setAttribute("data-yt",j.yt);
+      fr.innerHTML='<iframe id="sk-iframe" src="https://www.youtube-nocookie.com/embed/'+encodeURIComponent(j.yt)+'?rel=0&playsinline=1&autoplay=1&mute=1" title="Prenos sednice Narodne skupštine" allow="accelerometer; autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>';
+      document.getElementById("sk-stanje").innerHTML='<i class="pulse"></i> Novi prenos';
+    }
+  }).catch(function(){});
+}
+setInterval(prenos,90000);
+
+var rm=document.getElementById("sk-rows-more");if(rm)rm.addEventListener("click",function(){document.getElementById("sk-rows").classList.remove("zatvoreno");rm.parentNode.hidden=true});
+document.querySelectorAll("[data-sk-more]").forEach(function(b){b.addEventListener("click",function(){var c=[].slice.call(document.querySelectorAll(b.getAttribute("data-sk-more")+"[hidden]"));c.slice(0,12).forEach(function(x){x.hidden=false});if(c.length<=12)b.parentNode.hidden=true})});
+})();
+</script>
+{% endblock %}

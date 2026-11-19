@@ -168,6 +168,7 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
         "newsletter": (cfg.portal.get("newsletter") or {}).get("akcija_url", ""),
         "ticker": [a for a in by_date if a["kind"] == "vest"][:6], "domain": cfg.portal.get("domen", ""),
         "has_people": bool(people), "live_now": live_now, "has_videos": bool(videos), "has_x": bool(xposts),
+        "sk_live": (state.get("skupstina") or {}).get("live") == "live",
     }
 
     # --- ankete čitalaca ---
@@ -228,6 +229,11 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
             p["_art"] = art_by_id.get(p.get("vest", ""))
         render("x.html", "mreze.html", posts=xposts[:150], active="mreze", title="Na mrežama",
                xgrupe=[(k, v) for k, v in xgrupe.items() if any(p.get("grupa") == k for p in xposts)])
+    # Skupština: prenos uživo, razgovor čitalaca i sve o parlamentu na jednom mestu
+    from . import skupstina as _sk
+    _ski = _sk.izbor(by_date, xposts, videos)
+    render("skupstina.html", "skupstina.html", sk=state.get("skupstina") or {}, sk_vesti=_ski["vesti"][:40], sk_objave=_ski["objave"][:30],
+           sk_snimci=_ski["snimci"][:12], active="skupstina", title="Skupština uživo", kom=cfg.portal.get("komentari") or {})
     if api and polls:
         render("ankete.html", "ankete.html", polls=polls[:120], active="ankete", title="Ankete čitalaca")
     (out / "ankete.json").write_text(json.dumps([{"id": p["id"], "opcije": len(p["opcije"]), "kraj": p["kraj"]} for p in polls[:60]],

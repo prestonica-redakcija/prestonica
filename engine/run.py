@@ -432,6 +432,14 @@ def main() -> None:
         except Exception as e:
             log.warning("Ličnosti: %s", e)
 
+    # 6d. Skupština: koji snimak parlament trenutno prenosi i da li je prenos u toku
+    if live:
+        try:
+            from . import skupstina
+            skupstina.osvezi(cfg, state)
+        except Exception as e:
+            log.warning("Skupština: %s", e)
+
     # 7. Sajt
     build.build(cfg, articles, state, live_widgets=not args.fixtures)
     state.setdefault("runs", []).append({"vreme": now_utc().isoformat(timespec="minutes"), "novih": new_count,

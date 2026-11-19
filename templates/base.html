@@ -70,6 +70,7 @@
       <a class="nav-logo" href="{{ root }}index.html" aria-label="{{ portal.ime }}, naslovna" tabindex="-1">P<i>.</i></a>
       <a class="nav-a {% if active == 'naslovna' %}on{% endif %}" href="{{ root }}index.html">Naslovna</a>
       {% for k, r in rubrike.items() %}<a class="nav-a r-{{ k }} {% if active == k %}on{% endif %}" href="{{ root }}{{ k }}.html"><i></i>{{ r.naziv }}</a>{% endfor %}
+      <a class="nav-a {% if active == 'skupstina' %}on{% endif %}" href="{{ root }}skupstina.html">{% if sk_live %}<span class="nav-live">UŽIVO</span>{% endif %}Skupština</a>
       <a class="nav-a r-analiza {% if active == 'analize' %}on{% endif %}" href="{{ root }}analize.html"><i></i>Analize</a>
       {% if has_videos %}<a class="nav-a {% if active == 'video' %}on{% endif %}" href="{{ root }}video.html">{% if live_now %}<span class="nav-live">UŽIVO</span>{% endif %}Video</a>{% endif %}
       {% if has_people %}<a class="nav-a {% if active == 'licnosti' %}on{% endif %}" href="{{ root }}licnosti.html">Ličnosti</a>{% endif %}
