@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.euronews.rs/biznis/biznis-vesti/251980/kurs-dinara-za-evro-u-ponedeljak-1176103/vest": "2026-11-14T04:00:08.855424+00:00",
   "https://www.telegraf.rs/vesti/srbija/4432749-u-srbiji-danas-osetno-hladnije-na-planinama-pada-sneg-najvisa-dnevna-do-9-c": "2026-11-14T04:29:51.859646+00:00",
   "https://www.kurir.rs/vesti/beograd/10161147/planirani-radovi-iskljucenja-struje-u-beogradu14-novembra-2026": "2026-11-14T04:44:44.143404+00:00",
   "https://www.kurir.rs/zabava/zena/10159484/smesa-za-pohovanje-sa-pivom": "2026-11-14T04:59:34.083519+00:00",
@@ -5976,18 +5975,13 @@
   "https://www.telegraf.rs/vesti/svet/4435051-rubio-se-oglasio-o-mogucem-susretu-trampa-i-kim-dzong-una-on-bi-to-voleo-videcemo": "2026-11-19T00:31:50.563546+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/252607/uber-i-momenta-pokrenuli-pilot-robotaksija-u-minhenu/vest": "2026-11-19T01:01:42.389012+00:00",
   "https://biznis.telegraf.rs/info-biz/4435350-predsednicki-kandidat-eduar-filip-upozorava-na-finansijsku-krizu-u-francuskoj": "2026-11-19T01:16:38.226149+00:00",
-  "https://www.telegraf.rs/4435569-macura-zastita-dece-od-nasilja-mora-biti-prioritet-celog-drustva": "2026-11-19T02:16:01.022475+00:00"
+  "https://www.telegraf.rs/4435569-macura-zastita-dece-od-nasilja-mora-biti-prioritet-celog-drustva": "2026-11-19T02:16:01.022475+00:00",
+  "https://www.kurir.rs/planeta/10166123/razgovarali-putin-i-takaici": "2026-11-19T04:15:14.792603+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-18T13:28+00:00",
-   "novih": 10,
-   "ukupno": 2434,
-   "sekundi": 403.9
-  },
   {
    "vreme": "2026-11-18T13:42+00:00",
    "novih": 5,
@@ -6341,6 +6335,12 @@
    "novih": 0,
    "ukupno": 2651,
    "sekundi": 209.0
+  },
+  {
+   "vreme": "2026-11-19T04:18+00:00",
+   "novih": 0,
+   "ukupno": 2651,
+   "sekundi": 205.3
   }
  ],
  "licnosti_foto": {
@@ -6490,6 +6490,33 @@
   }
  },
  "videos": [
+  {
+   "id": "kjszs0TJBDY",
+   "title": "Die Koalition der Wartenden: Europa blickt nach Shenzhen",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-19T03:56:00+00:00",
+   "thumb": "https://i.ytimg.com/vi/kjszs0TJBDY/hqdefault.jpg",
+   "live": "none",
+   "desc": "Donald Trump, Xi Jinping und Wladimir Putin verhandeln in Shenzhen womöglich über die neue Weltordnung – und Europa guckt zu. Eine „Koalition der Willigen“ aus Dutzenden Staats- und Regierungschefs sucht gleichzeitig in Berlin nach einer Antwort auf die drohende Verschiebung und plant ein weiteres finanzielles Signal an Moskau, damit Putin den Ukraine-Krieg beendet. Darüber spricht Rixa Fürsen mit Hans von der Burchard.\n\n\n\nIm 200-Sekunden-Interview warnt der CDU-Außenexperte Roderich Kiesewetter erneut vor den Folgen eines schnellen, von Washington diktierten Friedens. Er fordert, aus den Willigen nun Entschlossene zu machen.\n\n\n\nInnenpolitisch liefert die schwarz-rote Koalition derweil ein s",
+   "spektar": "centar",
+   "viewers": null,
+   "naslov": "Evropa posmatra Šenžen dok koalicija voljnih u Berlinu traži odgovor",
+   "opis": "U emisiji POLITICO Europe govori se o tome da Tramp, Si Điping i Putin možda u Šenženu razgovaraju o novom svetskom poretku, dok Evropa čeka. Novinarka Rixa Fürsen razgovara sa Hansom von der Burchardom, a gost je i Roderich Kiesewetter iz CDU.",
+   "tekst": [
+    "U emisiji se navodi da Donald Tramp, Si Điping i Vladimir Putin u Šenženu možda pregovaraju o novom svetskom poretku, dok Evropa to prati sa strane. Istovremeno se u Berlinu okuplja „koalicija voljnih“ sa desetinama državnih i vladinih lidera, koja traži odgovor na moguće odlaganje i planira novi finansijski signal Moskvi kako bi Putin okončao rat u Ukrajini.",
+    "O tome razgovaraju Rixa Fürsen i Hans von der Burchard.",
+    "U intervjuu od 200 sekundi Roderich Kiesewetter, spoljnopolitički stručnjak CDU, ponovo upozorava na posledice brzog mira koji bi diktirao Vašington. On u snimku traži da se od „voljnih“ naprave „odlučni“."
+   ],
+   "rubrika": "svet",
+   "oznake": [
+    "Koalicija voljnih",
+    "Roderich Kiesewetter",
+    "Ukrajina",
+    "Šenžen",
+    "POLITICO Europe"
+   ],
+   "slug": "evropa-posmatra-senzen-dok-koalicija-voljnih-u-berlinu-kjszs0tjbdy"
+  },
   {
    "id": "LT3fI-ByzJw",
    "title": "Završena je konstitutivna sednica 15. saziva Narodne skupštine Srbije! #informer",
@@ -8559,33 +8586,6 @@
    "slug": "intervju-sa-advokatom-jovanom-rajicem-na-kanalu-slavija-info-mmve4nvntgy"
   },
   {
-   "id": "T8v9oKX1c2w",
-   "title": "Will the EU's next Russia sanctions bite?",
-   "kanal": "POLITICO Europe",
-   "published": "2026-11-17T05:00:00+00:00",
-   "thumb": "https://i.ytimg.com/vi/T8v9oKX1c2w/hqdefault.jpg",
-   "live": "none",
-   "desc": "Europe’s sports rulebook is getting an update. EU Sports Commissioner Glenn Micallef joins us to discuss illegal sports streaming, the future of FIFA President Gianni Infantino and the controversy over Russian athletes returning to international competitions.\n\n\n\nAlso on the podcast: Zoya and Ian discuss the EU's upcoming 22nd round of sanctions against Russia and growing questions over how well existing measures are enforced.\n\n\n\nAnd our colleague Sonja Rijnen takes us inside the fiercely competitive — and sometimes bizarre — exam process for landing a job at the EU institutions.\n\n\n\nDid you take the AD5 exam for a shot at working at the EU institutions? How did it go? Let us know by messaging",
-   "spektar": "centar",
-   "viewers": null,
-   "naslov": "Novi paket sankcija Rusiji i pravila evropskog sporta u podkastu Politika Evrope",
-   "opis": "U podkastu POLITICO Europe gostuje evropski komesar za sport Glen Mikalef, koji govori o ilegalnom strimovanju sportskih prenosa, budućnosti predsednika FIFA Đanija Infantina i povratku ruskih sportista na međunarodna takmičenja. Voditelji razgovaraju i o 22. paketu sankcija EU protiv Rusije i pitanju sprovođenja postojećih mera.",
-   "tekst": [
-    "U podkastu POLITICO Europe tema je ažuriranje evropskih sportskih pravila. Gost je komesar EU za sport Glen Mikalef, sa kojim se razgovara o ilegalnom strimovanju sportskih događaja, budućnosti predsednika FIFA Đanija Infantina i kontroverzi oko povratka ruskih sportista na međunarodna takmičenja.",
-    "Voditelji Zoja i Ijan razmatraju i predstojeći 22. krug sankcija Evropske unije protiv Rusije, kao i sve veće sumnje u to koliko se postojeće mere zaista sprovode.",
-    "Reporterka Sonja Rejnen u posebnom prilogu opisuje konkurentski, a ponekad i neobičan postupak testiranja za zapošljavanje u institucijama EU."
-   ],
-   "rubrika": "politika",
-   "oznake": [
-    "EU",
-    "Glen Mikalef",
-    "Rusija",
-    "sankcije",
-    "FIFA"
-   ],
-   "slug": "novi-paket-sankcija-rusiji-i-pravila-evropskog-sporta-u-t8v9okx1c2w"
-  },
-  {
    "id": "0sQylubV5p4",
    "title": "Vremenska prognoza 17. novembar 2026.",
    "kanal": "RTS",
@@ -9008,7 +9008,7 @@
    "slug": "radna-grupa-gost-predrag-azdejkovic-i-tema-medijskog-mraka-mrvjz4lu8-8"
   }
  ],
- "_novi_snimci": false,
+ "_novi_snimci": true,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -9099,11 +9099,11 @@
    },
    "parandilovicnls": {
     "since_id": "2123125546464977211",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "ininic": {
     "since_id": "2122800978407911633",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -9111,15 +9111,15 @@
    },
    "sviublokade_fdu": {
     "since_id": "2123151589007663348",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "dragandjilas": {
     "since_id": "2121691848313884992",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "marinikatepic": {
     "since_id": "2122007271508959331",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "radomirlazovic": {
     "since_id": null,
@@ -9159,11 +9159,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "studentblokade": {
     "since_id": "2123165869782274121",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -9219,11 +9219,11 @@
    },
    "borkostef": {
     "since_id": "2122273891993481658",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "dobrinacelnik": {
     "since_id": "2123134821962854809",
@@ -9235,7 +9235,7 @@
    },
    "boristadic58": {
     "since_id": "2122445695164522856",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "srdjanmil037": {
     "since_id": "2123094781513314610",
@@ -9287,7 +9287,7 @@
    },
    "borakonj": {
     "since_id": "2123100586472055073",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "narodnipokrets": {
     "since_id": "2123148949066559561",
@@ -9295,67 +9295,67 @@
    },
    "direktnors": {
     "since_id": "2123158749955100963",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "crtars": {
     "since_id": "2123084470769127692",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "veceivan": {
     "since_id": "2122994926497521950",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "repjoewilson": {
     "since_id": "2123168794965327988",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "jugoslavcosic": {
     "since_id": "2123147946694787141",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "tvnova_s": {
     "since_id": "2123164462773346669",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "oljautisak": {
     "since_id": null,
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "srdjan_nogo": {
     "since_id": "2123172597076811881",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "agrifblokira": {
     "since_id": "2123100557560647893",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "etfblokada": {
     "since_id": "2123122303156326695",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "nastraninaroda": {
     "since_id": "2123199346522878294",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "bcenzure": {
     "since_id": "2123154417302024600",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "bezstraha26279": {
     "since_id": "2123124258780099051",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "lazidetektor": {
     "since_id": "2123171666419237024",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "nedeljniknin": {
     "since_id": "2123189512260161941",
@@ -9371,11 +9371,11 @@
    },
    "tvbalkaninfo": {
     "since_id": "2123145868773822473",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "1152justice": {
     "since_id": "2121015729269182500",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    },
    "zatrijebacki": {
     "since_id": "2123197296737132921",
@@ -9407,7 +9407,7 @@
    },
    "masinars": {
     "since_id": "2123151022168121649",
-    "t": 1795057257.5416384
+    "t": 1795061744.5489073
    }
   },
   "posts": [
