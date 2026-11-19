@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T15:05:51.985503+00:00",
- "updated": "2026-11-19T18:09:09.074594+00:00",
+ "updated": "2026-11-19T22:51:55.207085+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -54,12 +54,19 @@
    "url": "https://www.danas.rs/svet/iaea-severna-koreja-uranijum/",
    "title": "IAEA: Severna Koreja proširuje svoje glavno postrojenje za obogaćivanje uranijuma",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/iaea-severna-koreja-prosiruje-svoje-glavno-postrojenje-za-obogacivanje-uranijuma",
+   "title": "IAEA: Severna Koreja proširuje svoje glavno postrojenje za obogaćivanje uranijuma",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "IAEA: Severna Koreja širi postrojenje za obogaćivanje uranijuma u ​​Jongbjonu",
   "IAEA: Severna Koreja širi postrojenje za obogaćivanje uranijuma u ​​Jongbjonu",
   "Severna Koreja proširuje nuklearno postrojenje za obogaćivanje uranijuma",
+  "IAEA: Severna Koreja proširuje svoje glavno postrojenje za obogaćivanje uranijuma",
   "IAEA: Severna Koreja proširuje svoje glavno postrojenje za obogaćivanje uranijuma"
  ],
  "author": "Redakcija Prestonice",
@@ -72,6 +79,6 @@
   "local": true,
   "alt": "Grosi: Severna Koreja proširila postrojenje za obogaćivanje uranijuma u Jongbjonu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

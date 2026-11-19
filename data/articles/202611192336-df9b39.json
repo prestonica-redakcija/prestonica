@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T22:36:59.049247+00:00",
- "updated": "2026-11-19T22:36:59.049247+00:00",
+ "updated": "2026-11-19T22:51:55.207085+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -44,11 +44,18 @@
    "url": "https://www.telegraf.rs/vesti/beograd/4436308-haos-kod-dobanovacke-petlje-vetar-prevrnuo-prikolicu-kamiona-saobracaj-obustavljen",
    "title": "Haos kod Dobanovačke petlje: Vetar prevrnuo prikolicu kamiona, saobraćaj obustavljen",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/299315/na-petlji-kod-dobanovaca-obustavljen-saobracaj-zbog-nezgode/vest",
+   "title": "Na petlji kod Dobanovaca obustavljen saobraćaj zbog nezgode",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "DRAMATIČNE SCENE NA DOBANOVAČKOJ PETLJI Vetar prevrnuo prikolicu, saobraćaj obustavljen iz pravca Beograda ka Batajnici (VIDEO)",
-  "Haos kod Dobanovačke petlje: Vetar prevrnuo prikolicu kamiona, saobraćaj obustavljen"
+  "Haos kod Dobanovačke petlje: Vetar prevrnuo prikolicu kamiona, saobraćaj obustavljen",
+  "Na petlji kod Dobanovaca obustavljen saobraćaj zbog nezgode"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vetar prevrnuo prikolicu kamiona kod Dobanovačke petlje, saobraćaj obustavljen"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

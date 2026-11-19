@@ -29,7 +29,7 @@
  ],
  "importance": 7,
  "published": "2026-11-19T09:27:37.018336+00:00",
- "updated": "2026-11-19T13:25:55.933564+00:00",
+ "updated": "2026-11-19T22:51:55.207085+00:00",
  "sources": [
   {
    "name": "N1",
@@ -60,6 +60,12 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4435853-oprez-ovi-delovi-srbije-bice-na-udaru-orkanskog-vetra-od-110-kmh-pljustace-moguci-i-obilniji-pljuskovi",
    "title": "OPREZ! Ovi delovi Srbije biće na udaru orkanskog vetra od 110 km/h: Pljuštaće, mogući i obilniji pljuskovi",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/286514/vetar-prevrnuo-prikolicu-kamiona-kod-beograda-izdato-upozorenje-na-orkanske-udare-do-110-kmh/vest",
+   "title": "Vetar prevrnuo prikolicu kamiona kod Beograda; Izdato upozorenje: \"Ostanite u kućama i udaljite se od prozora\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -67,7 +73,8 @@
   "Izdato hitno upozorenje, građanima stižu SMS poruke zbog nadolazeće oluje: Ostanite kod kuće i udaljite se od prozora",
   "Ostanite kod kuće, udaljite se od prozora, moguća oštećenja infrastrukture: MUP izdao upozorenje zbog obilnih padavina",
   "Budite oprezni i ostanite informisani! Oluja stiže u Srbiju: Očekuju se orkanski udari vetra od 110 km/h",
-  "OPREZ! Ovi delovi Srbije biće na udaru orkanskog vetra od 110 km/h: Pljuštaće, mogući i obilniji pljuskovi"
+  "OPREZ! Ovi delovi Srbije biće na udaru orkanskog vetra od 110 km/h: Pljuštaće, mogući i obilniji pljuskovi",
+  "Vetar prevrnuo prikolicu kamiona kod Beograda; Izdato upozorenje: \"Ostanite u kućama i udaljite se od prozora\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,8 +87,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Jeep_Renegade_-_Sektor_za_vanredne_situacije_MUPa_Srbije.jpg",
   "alt": "Upozorenje na jaku oluju: udari vetra do 110 km/h u Vojvodini, zapadnoj Srbiji i Beogradu"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-19T13:25:55.933564+00:00",
  "verzija": 2
 }
