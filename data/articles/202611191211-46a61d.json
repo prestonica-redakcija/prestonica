@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-19T11:11:51.082473+00:00",
- "updated": "2026-11-19T11:41:37.474927+00:00",
+ "updated": "2026-11-19T11:56:27.978966+00:00",
  "sources": [
   {
    "name": "N1",
@@ -38,11 +38,25 @@
    "url": "https://www.danas.rs/vesti/drustvo/gimnazija-u-prokuplju-prijavila-pretnje-policija-i-tuzilastvo-istrazuju/",
    "title": "Gimnazija u Prokuplju prijavila pretnje, policija i tužilaštvo istražuju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/299119/gimnaziji-u-prokuplju-stigla-preteca-poruka-policija-obavestila-visa-javna-tuzilastva-u-prokuplju-i-beogradu/vest",
+   "title": "Gimnaziji u Prokuplju stigla preteća poruka, policija obavestila Viša javna tužilaštva u Prokuplju i Beogradu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4435926-alarm-u-prokuplju-gimnaziji-stigla-preteca-poruka-policija-odmah-reagovala-obavestena-i-tuzilastva",
+   "title": "Alarm u Prokuplju! Gimnaziji stigla preteća poruka, policija odmah reagovala, obaveštena i tužilaštva",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Nadležni istražuju preteću poruku koja je stigla na mejl adresu Gimnazije u Prokuplju",
-  "Gimnazija u Prokuplju prijavila pretnje, policija i tužilaštvo istražuju"
+  "Gimnazija u Prokuplju prijavila pretnje, policija i tužilaštvo istražuju",
+  "Gimnaziji u Prokuplju stigla preteća poruka, policija obavestila Viša javna tužilaštva u Prokuplju i Beogradu",
+  "Alarm u Prokuplju! Gimnaziji stigla preteća poruka, policija odmah reagovala, obaveštena i tužilaštva"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,6 +69,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Monument_to_Zoran_%C4%90in%C4%91i%C4%87_in_Prokuplje,_september_2024_03.jpg",
   "alt": "Policija i tužilaštvo istražuju preteću poruku poslatu na imejl Gimnazije u Prokuplju"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

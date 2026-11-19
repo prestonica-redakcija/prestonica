@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-19T11:11:51.082473+00:00",
- "updated": "2026-11-19T11:11:51.082473+00:00",
+ "updated": "2026-11-19T11:56:27.978966+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -53,13 +53,27 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4435873-podignuta-optuznica-za-iznudu-u-galeriji-pretio-biznismenu-za-novac-traze-najmanje-5-godina-robije",
    "title": "Podignuta optužnica za iznudu u \"Galeriji\"! Hofman pretio biznismenu za novac, traže najmanje 5 godina robije",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10166737/miljanu-hofmanu-preti-pet-godina-robije-zbog-reketiranja",
+   "title": "MILJANU HOFMANU PRETI 5 GODINA ROBIJE ZBOG REKETIRANJA U TC \"GALERIJA\": Optužen Vidović, vlasniku resotana i hotela pretio: Polivaćemo vas kiselinom!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/miljan-hofman-iznuda-novca-galerija/",
+   "title": "Miljan Hofman optužen za pokušaj iznude novca u Tržnom centru Galerija",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Hofman optužen da je pokušao da iznudi novac u Tržnom centru Galerija",
   "Hofman optužen da je pokušao da iznudi novac",
   "Podignuta optužnica za iznudu u \"Galeriji\": Pretio biznismenu i tražio novac",
-  "Podignuta optužnica za iznudu u \"Galeriji\"! Hofman pretio biznismenu za novac, traže najmanje 5 godina robije"
+  "Podignuta optužnica za iznudu u \"Galeriji\"! Hofman pretio biznismenu za novac, traže najmanje 5 godina robije",
+  "MILJANU HOFMANU PRETI 5 GODINA ROBIJE ZBOG REKETIRANJA U TC \"GALERIJA\": Optužen Vidović, vlasniku resotana i hotela pretio: Polivaćemo vas kiselinom!",
+  "Miljan Hofman optužen za pokušaj iznude novca u Tržnom centru Galerija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,5 +85,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Galerija_Marije_Ujevi%C4%87_Galetovi%C4%87.jpg",
   "alt": "Tužilaštvo podnelo optužni predlog protiv M. V. zbog pokušaja iznude u Galeriji"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
