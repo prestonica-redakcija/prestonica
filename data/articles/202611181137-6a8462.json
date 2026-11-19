@@ -24,17 +24,24 @@
  ],
  "importance": 3,
  "published": "2026-11-18T10:37:45.202839+00:00",
- "updated": "2026-11-18T10:37:45.202839+00:00",
+ "updated": "2026-11-19T01:01:42.389012+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/298751/uber-pokrenuo-testiranje-robotaksija-u-minhenu-u-saradnji-sa-kineskom-firmom-momenta/vest",
    "title": "Uber pokrenuo testiranje robotaksija u Minhenu u saradnji sa kineskom firmom Momenta",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/252607/uber-i-momenta-pokrenuli-pilot-robotaksija-u-minhenu/vest",
+   "title": "Taksiji bez vozača stižu na ulice Evrope: Uber i kineski gigant pokrenuli testiranje u Minhenu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Uber pokrenuo testiranje robotaksija u Minhenu u saradnji sa kineskom firmom Momenta"
+  "Uber pokrenuo testiranje robotaksija u Minhenu u saradnji sa kineskom firmom Momenta",
+  "Taksiji bez vozača stižu na ulice Evrope: Uber i kineski gigant pokrenuli testiranje u Minhenu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Momenta,_former_Folkets_hus_in_Bergeforsen_01.jpg",
   "alt": "Uber i kineska Momenta pokrenuli pilot-projekat robotaksija u Minhenu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
