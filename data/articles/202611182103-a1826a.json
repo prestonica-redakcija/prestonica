@@ -26,7 +26,7 @@
  ],
  "importance": 2,
  "published": "2026-11-18T20:03:52.519422+00:00",
- "updated": "2026-11-19T10:27:11.486532+00:00",
+ "updated": "2026-11-19T22:07:04.252500+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -57,6 +57,12 @@
    "url": "https://www.kurir.rs/crna-hronika/10166517/dvojica-maskiranih-pljackasa-ukrali-100-000-evra",
    "title": "\"RADNICI\" NA KOLICIMA IZVEZLI SEF SA 100.000 EVRA I SATOVIMA: Uveliko traje potraga za lopovima iz centra Beograda",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4435977-ispovest-vlasnika-sefa-iz-centra-beograda-prerusili-se-u-radnike-odneli-100000-komsije-im-nudile-vodu",
+   "title": "Ispovest vlasnika sefa iz centra Beograda: Prerušili se u radnike, odneli 100.000 €, komšije im nudile vodu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -64,7 +70,8 @@
   "Kako su ga izneli neopaženo usred dana? Lopovi iz kuće u centru Beograda odneli sef sa 100.000 evra",
   "Genijalna prevara u centru Beograda: Obukli radnička odela i u kolicima izvezli sef sa 100.000 evra",
   "IZNELI SEF IZ KUĆE U BEOGRADU NAOČIGLED PROLAZNIKA! Detalji filmske pljačke usred dana: Ukrali 100.000 evra i skupocene satove - smislili genijala plan",
-  "\"RADNICI\" NA KOLICIMA IZVEZLI SEF SA 100.000 EVRA I SATOVIMA: Uveliko traje potraga za lopovima iz centra Beograda"
+  "\"RADNICI\" NA KOLICIMA IZVEZLI SEF SA 100.000 EVRA I SATOVIMA: Uveliko traje potraga za lopovima iz centra Beograda",
+  "Ispovest vlasnika sefa iz centra Beograda: Prerušili se u radnike, odneli 100.000 €, komšije im nudile vodu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,8 +84,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Stari_%C5%BEelezni%C4%8Dki_most_nad_Savom,_Beograd.jpg",
   "alt": "Provala u kuću u centru Beograda: odnet sef sa oko 100.000 evra i satovima"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-19T10:27:11.486532+00:00",
  "verzija": 2
 }

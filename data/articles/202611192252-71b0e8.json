@@ -32,16 +32,23 @@
  ],
  "importance": 6,
  "published": "2026-11-19T21:52:16.770069+00:00",
- "updated": "2026-11-19T21:52:16.770069+00:00",
+ "updated": "2026-11-19T22:07:04.252500+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/bakic-studentska-lista-sest-potpredsednika/",
    "title": "Bakić: Studentska lista pobedila među manjinskim narodima, zato predlaže svih šest potpredsednika",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/bakic-studentska-lista-pobedila-medju-manjinskim-narodima-zato-predlaze-svih-sest-potpredsednika/",
+   "title": "Bakić: Studentska lista pobedila među manjinskim narodima, zato predlaže svih šest potpredsednika",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Bakić: Studentska lista pobedila među manjinskim narodima, zato predlaže svih šest potpredsednika",
   "Bakić: Studentska lista pobedila među manjinskim narodima, zato predlaže svih šest potpredsednika"
  ],
  "author": "Redakcija Prestonice",
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Bakić: Studentska lista predlaže svih šest potpredsednika Skupštine zbog podrške manjina"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

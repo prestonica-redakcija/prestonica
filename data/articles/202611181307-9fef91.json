@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T12:07:07.965704+00:00",
- "updated": "2026-11-19T21:52:16.770069+00:00",
+ "updated": "2026-11-19T22:07:04.252500+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -195,6 +195,18 @@
    "url": "https://nova.rs/vesti/politika/americka-ambasada-cestitala-cupicu-izbor-za-predsednika-skupstine/",
    "title": "Američka ambasada čestitala Čupiću izbor za predsednika Skupštine",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10167388/OGLASILA-SE-AMBASADA-SAD-O-IZBORU-CUPICA-ZA-PREDSEDNIKA-SKUPSTINE-Sjedinjene-Americke-Drzave-raduju-se-saradnji-sa-novim-rukovodstvom-Srbije",
+   "title": "OGLASILA SE AMBASADA SAD O IZBORU ČUPIĆA ZA PREDSEDNIKA SKUPŠTINE: \"Sjedinjene Američke Države raduju se saradnji sa novim rukovodstvom Srbije\"",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/252804/marta-kos-cestitala-aleksandru-cupicu-izbor-u-skupstini/vest",
+   "title": "Marta Kos čestitala Čupiću izbor za predsednika Skupštine Srbije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -224,7 +236,9 @@
   "Čupić izabran za predsednika Skupštine; Završena rasprava o kandidatima za potpredsednike, počelo glasanje prozivkom",
   "Ambasada SAD u Beogradu čestitala Čupiću izbor za predsednika Skupštine Srbije",
   "Američka ambasada čestitala Čupiću izbor za predsednika Skupštine",
-  "Američka ambasada čestitala Čupiću izbor za predsednika Skupštine"
+  "Američka ambasada čestitala Čupiću izbor za predsednika Skupštine",
+  "OGLASILA SE AMBASADA SAD O IZBORU ČUPIĆA ZA PREDSEDNIKA SKUPŠTINE: \"Sjedinjene Američke Države raduju se saradnji sa novim rukovodstvom Srbije\"",
+  "Marta Kos čestitala Čupiću izbor za predsednika Skupštine Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -236,7 +250,7 @@
   "local": true,
   "alt": "Brnabić na konstitutivnoj sednici uporedila naučne radove Radenovića i Čupića"
  },
- "novo_od_pisanja": 10,
+ "novo_od_pisanja": 12,
  "boost": 1.6,
  "prepisano": "2026-11-19T09:12:47.015713+00:00",
  "verzija": 4
