@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://insajder.net/prenosimo/u-belgiji-uhapsen-muskarac-osumnjicen-za-ucesce-u-genocidu-u-ruandi": "2026-11-14T23:20:38.449153+00:00",
-  "https://n1info.rs/magazin/scitech/italija-kaznila-metu-zbog-koriscenja-fotografija-i-video-zapisa-korisnika-androida-bez-saglasnosti/": "2026-11-14T23:20:38.449153+00:00",
-  "https://www.tanjug.rs/svet/politika/297771/voks-trazi-reviziju-drzavljanstava-vise-od-300000-spanaca-marokanskog-porekla/vest": "2026-11-14T23:20:38.449153+00:00",
-  "https://insajder.net/prenosimo/krajnje-desnicarska-stranka-voks-trazi-preispitivanje-drzavljanstava-vise-od-300000-spanaca-marokanskog-porekla-tvrdeci-da-su-stecena-nezakonito": "2026-11-14T23:20:38.449153+00:00",
-  "https://www.b92.net/info/svet/285057/jermenija-zeli-u-eu-pasinjan-najavio-zahtev-za-clanstvo/vest": "2026-11-14T23:20:38.449153+00:00",
-  "https://insajder.net/prenosimo/pasinjan-jermenija-ce-postati-clanica-eu-za-20-godina": "2026-11-14T23:20:38.449153+00:00",
   "https://www.kurir.rs/vesti/drustvo/10162157/dom-zdravlja-nis-dermoskopski-pregledi-koze-mladeza": "2026-11-14T23:35:27.349465+00:00",
   "https://www.kurir.rs/vesti/beograd/10162356/izmene-u-radu-javnog-prevoza-zbog-radova-u-geteovoj-ulici": "2026-11-14T23:35:27.349465+00:00",
   "https://www.kurir.rs/vesti/srbija/10162441/velika-posecenost-zlatibora-tokom-jesenjeg-raspusta": "2026-11-14T23:50:17.556708+00:00",
@@ -6875,18 +6869,18 @@
   "https://radar.nova.rs/ekonomija/ekspo-oprema-skaj-solusn-zadrzava/": "2026-11-19T23:06:45.062247+00:00",
   "https://www.kurir.rs/stars/10167372/jovana-jeremic-otkrila-ime-za-sina-pa-sokirala-izjavom-o-prosirenju-porodice": "2026-11-19T23:06:45.062247+00:00",
   "https://www.kurir.rs/zabava/zena/10166797/zasto-usisivac-slabije-vuce-nego-ranije": "2026-11-19T23:06:45.062247+00:00",
-  "https://radar.nova.rs/drustvo/bia-u-cacku-nadzor-ozon-press-ds/": "2026-11-19T23:06:45.062247+00:00"
+  "https://radar.nova.rs/drustvo/bia-u-cacku-nadzor-ozon-press-ds/": "2026-11-19T23:06:45.062247+00:00",
+  "https://www.kurir.rs/planeta/10167431/vojadzer-1-prva-letelica-koja-je-dostigla-udaljenost-od-jednog-svetlosnog-dana": "2026-11-19T23:21:39.139419+00:00",
+  "https://n1info.rs/english/news/serbian-parliament-elects-deputy-speakers-appoints-secretary-general/": "2026-11-19T23:21:39.139419+00:00",
+  "https://www.kurir.rs/planeta/10167435/uginula-omiljena-nilska-kobila-fiona-koji-je-progutala-strikanu-kapu": "2026-11-19T23:21:39.139419+00:00",
+  "https://www.danas.rs/zivot/veterinari-u-sinsinatiju-pokusavaju-da-pomognu-nilskom-konju-fioni-da-izbaci-progutanu-kapu/": "2026-11-19T23:21:39.139419+00:00",
+  "https://www.tanjug.rs/svet/hronika/299304/haiti-najmanje-34-clana-bandi-ubijena-u-akciji-policije/vest": "2026-11-19T23:21:39.139419+00:00",
+  "https://www.kurir.rs/planeta/10167394/haiti-ubijena-34-clana-bandi-policijska-operacija": "2026-11-19T23:21:39.139419+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-19T08:32+00:00",
-   "novih": 5,
-   "ukupno": 2695,
-   "sekundi": 237.1
-  },
   {
    "vreme": "2026-11-19T08:50+00:00",
    "novih": 9,
@@ -7240,6 +7234,12 @@
    "novih": 7,
    "ukupno": 2858,
    "sekundi": 472.0
+  },
+  {
+   "vreme": "2026-11-19T23:26+00:00",
+   "novih": 1,
+   "ukupno": 2859,
+   "sekundi": 307.2
   }
  ],
  "licnosti_foto": {
@@ -7451,7 +7451,7 @@
    "live": "live",
    "desc": "🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com/pal/d/6706348057034752",
    "spektar": "desnica",
-   "viewers": "539",
+   "viewers": "910",
    "naslov": "Uživo iz Skupštine: vanredna konferencija Studentske liste",
    "opis": "Prenos uživo sa vanredne konferencije Studentske liste održane u Skupštini. Prema naslovu kanala Srbin.info, povod je Vučićev odlazak iz parlamenta, što je stav iz naslova snimka.",
    "tekst": [
@@ -21645,14 +21645,6 @@
   }
  },
  "foto_cache": {
-  "t:rat protiv irana": {
-   "t": 1794525238.2453268,
-   "items": []
-  },
-  "t:dzej di vens": {
-   "t": 1794525238.4664369,
-   "items": []
-  },
   "t:finska": {
    "t": 1794526124.005417,
    "items": []
@@ -59201,6 +59193,191 @@
      "naslov": "Webb and the Deep Space Network (01HE5JBMEVP7EJKJD12XE590VQ).jpg"
     }
    ]
+  },
+  "t:haiti": {
+   "t": 1795130531.2573855,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/ISS020-E-43300_-_View_of_Haiti.jpg/1920px-ISS020-E-43300_-_View_of_Haiti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4256,
+     "h": 2832,
+     "god": 2009,
+     "credit": "Wikimedia Commons / Earth Science and Remote Sensing Unit, Lyndon B. Johnson Spa / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:ISS020-E-43300_-_View_of_Haiti.jpg",
+     "naslov": "ISS020-E-43300 - View of Haiti.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Tour_the_USNS_Comfort_and_the_medical_site_at_Port-Au-Prince%2C_Haiti_in_November_2019_-_48.jpg/1920px-Tour_the_USNS_Comfort_and_the_medical_site_at_Port-Au-Prince%2C_Haiti_in_November_2019_-_48.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3360,
+     "h": 2240,
+     "god": 2019,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Tour_the_USNS_Comfort_and_the_medical_site_at_Port-Au-Prince,_Haiti_in_November_2019_-_48.jpg",
+     "naslov": "Tour the USNS Comfort and the medical site at Port-Au-Prince, Haiti in November 2019 - 48.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Haiti_National_Police_%28HNP%29_graduation_day_on_10_January_2025_taken_by_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_58.jpg/1920px-Haiti_National_Police_%28HNP%29_graduation_day_on_10_January_2025_taken_by_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_58.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5040,
+     "h": 3360,
+     "god": 2025,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Haiti_National_Police_(HNP)_graduation_day_on_10_January_2025_taken_by_the_United_States_Embassy_in_Port-au-Prince,_Haiti_-_58.jpg",
+     "naslov": "Haiti National Police (HNP) graduation day on 10 January 2025 taken by the United States Embassy in Port-au-Prince, Haiti - 58.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Haiti_Tech_Summit_2019_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_on_22_June_2019_-_8.jpg/1920px-Haiti_Tech_Summit_2019_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_on_22_June_2019_-_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3360,
+     "h": 2240,
+     "god": 2019,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Haiti_Tech_Summit_2019_at_the_United_States_Embassy_in_Port-au-Prince,_Haiti_on_22_June_2019_-_8.jpg",
+     "naslov": "Haiti Tech Summit 2019 at the United States Embassy in Port-au-Prince, Haiti on 22 June 2019 - 8.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Haiti_National_Police_%28HNP%29_graduation_day_on_10_January_2025_taken_by_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_2.jpg/1920px-Haiti_National_Police_%28HNP%29_graduation_day_on_10_January_2025_taken_by_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6480,
+     "h": 4320,
+     "god": 2025,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Haiti_National_Police_(HNP)_graduation_day_on_10_January_2025_taken_by_the_United_States_Embassy_in_Port-au-Prince,_Haiti_-_2.jpg",
+     "naslov": "Haiti National Police (HNP) graduation day on 10 January 2025 taken by the United States Embassy in Port-au-Prince, Haiti - 2.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/4th_of_July_celebration_2024_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_53.jpg/1920px-4th_of_July_celebration_2024_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_53.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3150,
+     "h": 4725,
+     "god": 2024,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:4th_of_July_celebration_2024_at_the_United_States_Embassy_in_Port-au-Prince,_Haiti_-_53.jpg",
+     "naslov": "4th of July celebration 2024 at the United States Embassy in Port-au-Prince, Haiti - 53.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/4th_of_July_2019_celebration_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_72.jpg/1920px-4th_of_July_2019_celebration_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_72.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2880,
+     "h": 4320,
+     "god": 2019,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:4th_of_July_2019_celebration_at_the_United_States_Embassy_in_Port-au-Prince,_Haiti_-_72.jpg",
+     "naslov": "4th of July 2019 celebration at the United States Embassy in Port-au-Prince, Haiti - 72.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Haiti_Tech_Summit_2019_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_on_22_June_2019_-_22.jpg/1920px-Haiti_Tech_Summit_2019_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_on_22_June_2019_-_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3360,
+     "h": 2240,
+     "god": 2019,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Haiti_Tech_Summit_2019_at_the_United_States_Embassy_in_Port-au-Prince,_Haiti_on_22_June_2019_-_22.jpg",
+     "naslov": "Haiti Tech Summit 2019 at the United States Embassy in Port-au-Prince, Haiti on 22 June 2019 - 22.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/4th_of_July_2019_celebration_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_24.jpg/1920px-4th_of_July_2019_celebration_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2880,
+     "h": 4320,
+     "god": 2019,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:4th_of_July_2019_celebration_at_the_United_States_Embassy_in_Port-au-Prince,_Haiti_-_24.jpg",
+     "naslov": "4th of July 2019 celebration at the United States Embassy in Port-au-Prince, Haiti - 24.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/4th_of_July_celebration_2024_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_15.jpg/1920px-4th_of_July_celebration_2024_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 8256,
+     "h": 5504,
+     "god": 2024,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:4th_of_July_celebration_2024_at_the_United_States_Embassy_in_Port-au-Prince,_Haiti_-_15.jpg",
+     "naslov": "4th of July celebration 2024 at the United States Embassy in Port-au-Prince, Haiti - 15.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Soldiers_from_Guatemala_and_El_Salvador_arrive_for_United_Nations%27_sanctioned_Multinational_Security_Support_%28MSS%29_mission_%28MSSM%29_to_the_Republic_of_Haiti_arrive_on_3_January_2025_-_48.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6480,
+     "h": 4320,
+     "god": 2025,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Soldiers_from_Guatemala_and_El_Salvador_arrive_for_United_Nations%27_sanctioned_Multinational_Security_Support_(MSS)_mission_(MSSM)_to_the_Republic_of_Haiti_arrive_on_3_January_2025_-_48.jpg",
+     "naslov": "Soldiers from Guatemala and El Salvador arrive for United Nations' sanctioned Multinational Security Support (MSS) mission (MSSM) to the Republic of Haiti arrive on 3 January 2025 - 48.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Soldiers_from_Guatemala_and_El_Salvador_arrive_for_United_Nations%27_sanctioned_Multinational_Security_Support_%28MSS%29_mission_%28MSSM%29_to_the_Republic_of_Haiti_arrive_on_3_January_2025_-_55.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4320,
+     "h": 6480,
+     "god": 2025,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Soldiers_from_Guatemala_and_El_Salvador_arrive_for_United_Nations%27_sanctioned_Multinational_Security_Support_(MSS)_mission_(MSSM)_to_the_Republic_of_Haiti_arrive_on_3_January_2025_-_55.jpg",
+     "naslov": "Soldiers from Guatemala and El Salvador arrive for United Nations' sanctioned Multinational Security Support (MSS) mission (MSSM) to the Republic of Haiti arrive on 3 January 2025 - 55.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Soldiers_from_Guatemala_and_El_Salvador_arrive_for_United_Nations%27_sanctioned_Multinational_Security_Support_%28MSS%29_mission_%28MSSM%29_to_the_Republic_of_Haiti_arrive_on_3_January_2025_-_56.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6480,
+     "h": 4320,
+     "god": 2025,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Soldiers_from_Guatemala_and_El_Salvador_arrive_for_United_Nations%27_sanctioned_Multinational_Security_Support_(MSS)_mission_(MSSM)_to_the_Republic_of_Haiti_arrive_on_3_January_2025_-_56.jpg",
+     "naslov": "Soldiers from Guatemala and El Salvador arrive for United Nations' sanctioned Multinational Security Support (MSS) mission (MSSM) to the Republic of Haiti arrive on 3 January 2025 - 56.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/4th_of_July_celebration_2024_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_59.jpg/1920px-4th_of_July_celebration_2024_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_59.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3180,
+     "h": 4770,
+     "god": 2024,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:4th_of_July_celebration_2024_at_the_United_States_Embassy_in_Port-au-Prince,_Haiti_-_59.jpg",
+     "naslov": "4th of July celebration 2024 at the United States Embassy in Port-au-Prince, Haiti - 59.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Haiti_Tech_Summit_2019_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_on_22_June_2019_-_43.jpg/1920px-Haiti_Tech_Summit_2019_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_on_22_June_2019_-_43.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2240,
+     "h": 3360,
+     "god": 2019,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Haiti_Tech_Summit_2019_at_the_United_States_Embassy_in_Port-au-Prince,_Haiti_on_22_June_2019_-_43.jpg",
+     "naslov": "Haiti Tech Summit 2019 at the United States Embassy in Port-au-Prince, Haiti on 22 June 2019 - 43.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/4th_of_July_2019_celebration_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_44.jpg/1920px-4th_of_July_2019_celebration_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_44.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2880,
+     "h": 4320,
+     "god": 2019,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:4th_of_July_2019_celebration_at_the_United_States_Embassy_in_Port-au-Prince,_Haiti_-_44.jpg",
+     "naslov": "4th of July 2019 celebration at the United States Embassy in Port-au-Prince, Haiti - 44.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Haiti_visit_by_United_States_Ambassador_Linda_Thomas-Greenfield_on_July_22_2024_-_80.jpg/1920px-Haiti_visit_by_United_States_Ambassador_Linda_Thomas-Greenfield_on_July_22_2024_-_80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5040,
+     "h": 3360,
+     "god": 2024,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Haiti_visit_by_United_States_Ambassador_Linda_Thomas-Greenfield_on_July_22_2024_-_80.jpg",
+     "naslov": "Haiti visit by United States Ambassador Linda Thomas-Greenfield on July 22 2024 - 80.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/4th_of_July_celebration_2024_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_64.jpg/1920px-4th_of_July_celebration_2024_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_64.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3313,
+     "h": 4969,
+     "god": 2024,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:4th_of_July_celebration_2024_at_the_United_States_Embassy_in_Port-au-Prince,_Haiti_-_64.jpg",
+     "naslov": "4th of July celebration 2024 at the United States Embassy in Port-au-Prince, Haiti - 64.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/4th_of_July_2019_celebration_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_97.jpg/1920px-4th_of_July_2019_celebration_at_the_United_States_Embassy_in_Port-au-Prince%2C_Haiti_-_97.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2240,
+     "h": 3360,
+     "god": 2019,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:4th_of_July_2019_celebration_at_the_United_States_Embassy_in_Port-au-Prince,_Haiti_-_97.jpg",
+     "naslov": "4th of July 2019 celebration at the United States Embassy in Port-au-Prince, Haiti - 97.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/U.S._International_Development_Finance_Corporation_%28DFC%29_President_and_CEO_Adam_Boehler_visit_to_Port-au-Prince%2C_Haiti_on_October_14%2C_2020_-_23.jpg/1920px-U.S._International_Development_Finance_Corporation_%28DFC%29_President_and_CEO_Adam_Boehler_visit_to_Port-au-Prince%2C_Haiti_on_October_14%2C_2020_-_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3144,
+     "h": 2096,
+     "god": 2020,
+     "credit": "Wikimedia Commons / U.S. Embassy Haiti / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:U.S._International_Development_Finance_Corporation_(DFC)_President_and_CEO_Adam_Boehler_visit_to_Port-au-Prince,_Haiti_on_October_14,_2020_-_23.jpg",
+     "naslov": "U.S. International Development Finance Corporation (DFC) President and CEO Adam Boehler visit to Port-au-Prince, Haiti on October 14, 2020 - 23.jpg"
+    }
+   ]
   }
  },
  "x_objave": {
@@ -59373,12 +59550,6 @@
    "202611192252-5293f6"
   ],
   "istorija": [
-   {
-    "t": 1794525271.9993923,
-    "id": "202611121816-a1b391",
-    "x": "2121018836220797155",
-    "link": true
-   },
    {
     "t": 1794527023.4117293,
     "id": "202611130013-f3193c",
@@ -62807,8 +62978,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-19T23:10:07.297117+00:00",
-  "uzivo_t": "2026-11-19T23:10:07.297135+00:00"
+  "provereno": "2026-11-19T23:22:28.299768+00:00",
+  "uzivo_t": "2026-11-19T23:22:28.299779+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {

@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T16:24:49.299204+00:00",
- "updated": "2026-11-19T16:24:49.299204+00:00",
+ "updated": "2026-11-19T23:21:39.139419+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://www.telegraf.rs/english/4436023-this-is-how-eus-marta-kos-congratulated-aleksandar-cupic-on-his-election-as-president-of-serbian-assembly",
    "title": "This is how EU's Marta Kos congratulated Aleksandar Cupic on his election as president of Serbian Assembly",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/english/news/serbian-parliament-elects-deputy-speakers-appoints-secretary-general/",
+   "title": "Serbian Parliament elects deputy speakers, appoints secretary general",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Marta Kos congratulates Cupic on election as Serbian Parliament Speaker",
-  "This is how EU's Marta Kos congratulated Aleksandar Cupic on his election as president of Serbian Assembly"
+  "This is how EU's Marta Kos congratulated Aleksandar Cupic on his election as president of Serbian Assembly",
+  "Serbian Parliament elects deputy speakers, appoints secretary general"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Marta_Kos_2024_(cropped).jpg",
   "osoba": "Marta Kos",
   "alt": "Marta Kos čestitala Aleksandru Čupiću izbor za predsednika Skupštine Srbije"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
