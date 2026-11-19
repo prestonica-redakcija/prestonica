@@ -33,7 +33,7 @@
  ],
  "importance": 8,
  "published": "2026-11-19T13:25:55.933564+00:00",
- "updated": "2026-11-19T13:40:41.851211+00:00",
+ "updated": "2026-11-19T15:24:53.435010+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -64,6 +64,12 @@
    "url": "https://www.danas.rs/vesti/politika/princ-filip-cestitao-cupicu-podsetio-na-zavet-karadjordja-i-kralja-petra/",
    "title": "Princ Filip čestitao Čupiću, podsetio na zavet Karađorđa i kralja Petra",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10167104/cestitke-karadjordjevica-novom-predsedniku-cupicu",
+   "title": "Karađorđevići čestitali novom predsedniku Skupštine Aleksandru Čupiću: Filip podsetio na Karađorđa i kralja Petra",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -71,7 +77,8 @@
   "„Srećno u radu, predsedniče Čupiću“: Dodik čestitao na izboru za predsednika Narodne skupštine Srbije",
   "Princ Filip čestitao Čupiću, podsetio na zavet Karađorđa i kralja Petra i poručio: „Studenti su probudili nadu“",
   "\"SREĆNO U RADU, PREDSEDNIČE ČUPIĆU!\" Milorad Dodik čestitao novoizabranom presedniku Skupštine Srbije",
-  "Princ Filip čestitao Čupiću, podsetio na zavet Karađorđa i kralja Petra"
+  "Princ Filip čestitao Čupiću, podsetio na zavet Karađorđa i kralja Petra",
+  "Karađorđevići čestitali novom predsedniku Skupštine Aleksandru Čupiću: Filip podsetio na Karađorđa i kralja Petra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -85,6 +92,6 @@
   "osoba": "Milorad Dodik",
   "alt": "Čupić izabran za predsednika Skupštine, čestitali studenti, princ Filip i Dodik"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

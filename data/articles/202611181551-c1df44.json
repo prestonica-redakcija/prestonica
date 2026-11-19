@@ -23,7 +23,7 @@
  "places": [],
  "importance": 3,
  "published": "2026-11-18T14:51:00.912567+00:00",
- "updated": "2026-11-18T14:51:00.912567+00:00",
+ "updated": "2026-11-19T15:24:53.435010+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -36,11 +36,18 @@
    "url": "https://biznis.telegraf.rs/info-biz/4435405-novi-pad-kriptovaluta-bitkoin-pao-ispod-58400-evra-trziste-u-ekstremnom-strahu",
    "title": "Novi pad kriptovaluta: Bitkoin pao ispod 58.400 evra, tržište u \"ekstremnom strahu\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/299211/bitkoin-blago-porastao-na-58120-evra-itirijum-za-144-odsto-na-1645-evra/vest",
+   "title": "Bitkoin blago porastao na 58.120 evra, itirijum za 1,44 odsto na 1.645 evra",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Bitkoin pao za 1,72 odsto na 58.320 evra, itirijum za 1,95 odsto na 1.630 evra",
-  "Novi pad kriptovaluta: Bitkoin pao ispod 58.400 evra, tržište u \"ekstremnom strahu\""
+  "Novi pad kriptovaluta: Bitkoin pao ispod 58.400 evra, tržište u \"ekstremnom strahu\"",
+  "Bitkoin blago porastao na 58.120 evra, itirijum za 1,44 odsto na 1.645 evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Bitkoin pao za 1,72 odsto na 58.324 evra, tržište u zoni ekstremnog straha"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

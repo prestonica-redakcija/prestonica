@@ -23,17 +23,24 @@
  ],
  "importance": 3,
  "published": "2026-11-18T14:51:00.912567+00:00",
- "updated": "2026-11-18T14:51:00.912567+00:00",
+ "updated": "2026-11-19T15:24:53.435010+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/298857/promet-na-beogradskoj-berzi-oko-54-miliona-dinara-indeksi-u-plusu/vest",
    "title": "Promet na Beogradskoj berzi oko 5,4 miliona dinara, indeksi u plusu",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/299205/promet-na-beogradskoj-berzi-oko-47-miliona-dinara-indeksi-mesovito/vest",
+   "title": "Promet na Beogradskoj berzi oko 4,7 miliona dinara, indeksi mešovito",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Promet na Beogradskoj berzi oko 5,4 miliona dinara, indeksi u plusu"
+  "Promet na Beogradskoj berzi oko 5,4 miliona dinara, indeksi u plusu",
+  "Promet na Beogradskoj berzi oko 4,7 miliona dinara, indeksi mešovito"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -44,5 +51,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Beogradska berza: promet 5,4 miliona dinara, Belex15 porastao 1,51 odsto"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
