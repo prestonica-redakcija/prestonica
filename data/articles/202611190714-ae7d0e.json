@@ -32,17 +32,24 @@
  ],
  "importance": 4,
  "published": "2026-11-19T06:14:04.945422+00:00",
- "updated": "2026-11-19T06:14:04.945422+00:00",
+ "updated": "2026-11-19T06:28:59.522202+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/aleksandar-ivkovic-sednica-radikalski-pristup-sns-a-studentska-lista-minimizira-konfrontiranje/",
    "title": "Ivković: Radikalski pristup SNS-a, Studentska lista minimizira konfrontiranje - dugoročno dobra strategija",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/ivkovic-radikalski-pristup-sns-a-studentska-lista-minimizira-konfrontiranje-sto-je-dugorocno-dobra-strategija/",
+   "title": "Ivković: Radikalski pristup SNS-a, Studentska lista minimizira konfrontiranje što je dugoročno dobra strategija",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Ivković: Radikalski pristup SNS-a, Studentska lista minimizira konfrontiranje - dugoročno dobra strategija"
+  "Ivković: Radikalski pristup SNS-a, Studentska lista minimizira konfrontiranje - dugoročno dobra strategija",
+  "Ivković: Radikalski pristup SNS-a, Studentska lista minimizira konfrontiranje što je dugoročno dobra strategija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:07.07.2026_%C3%8Entrevederea_pre%C8%99edintelui_Comisiei_pentru_integrare_european%C4%83,_Marcel_SPATARI,_cu_reprezentan%C8%9Bi_%E2%80%9EEuropean_Western_Balkans%E2%80%9D,_Nikola_BURAZER_%C8%99i_Aleksandar_IVKOVI%C4%86_-_55379769210.jpg",
   "alt": "Ivković o sednici Skupštine: SNS nastupa radikalski, Studentska lista izbegava sukob"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T13:21:45.117791+00:00",
- "updated": "2026-11-18T19:19:10.385711+00:00",
+ "updated": "2026-11-19T06:28:59.522202+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -75,6 +75,12 @@
    "url": "https://www.b92.net/info/politika/286130/rasprava-o-cupicevom-zvanju-studentska-lista-navedeno-je-da-je-docent-vucic-ponavlja-da-nije-profesor/vest",
    "title": "Rasprava o Čupićevom zvanju; Studentska lista: \"Navedeno je da je docent\"; Vučić ponavlja da nije profesor",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1672594/odakle-cupicu-devet-nekretnina-zasto-predstavlja-kao-profesor-lidera-opozicije-aleksandra-vucica-stigla-direktna-pitanja-skupstini",
+   "title": "ODAKLE ČUPIĆU DEVET NEKRETNINA I ZAŠTO SE PREDSTAVLjA KAO PROFESOR? Od lidera opozicije Aleksandra Vučića stigla direktna pitanja u Skupštini",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -84,7 +90,8 @@
   "Rasprava o zvanju Čupića; Studentska lista: \"Navedeno je da je docent\"; Vučić ponavlja da nije profesor",
   "”ČUPIĆU, DA LI IMATE SEDAM STANOVA?” Vučić u Skupštini: Reč je o docentu, a ne profesoru",
   "Ovo je totalni hit! Informer pitao Čupića o stanovima i garažama: Ovo je njegov odgovor (VIDEO)",
-  "Rasprava o Čupićevom zvanju; Studentska lista: \"Navedeno je da je docent\"; Vučić ponavlja da nije profesor"
+  "Rasprava o Čupićevom zvanju; Studentska lista: \"Navedeno je da je docent\"; Vučić ponavlja da nije profesor",
+  "ODAKLE ČUPIĆU DEVET NEKRETNINA I ZAŠTO SE PREDSTAVLjA KAO PROFESOR? Od lidera opozicije Aleksandra Vučića stigla direktna pitanja u Skupštini"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -96,8 +103,8 @@
   "local": true,
   "alt": "Vučić u Skupštini pitao Čupića za sedam stanova, osporio i zvanje profesora"
  },
- "novo_od_pisanja": 2,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-18T16:50:09.531165+00:00",
  "verzija": 2
 }

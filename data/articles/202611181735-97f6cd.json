@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-18T16:35:38.664870+00:00",
- "updated": "2026-11-18T16:35:38.664870+00:00",
+ "updated": "2026-11-19T06:28:59.522202+00:00",
  "sources": [
   {
    "name": "B92",
@@ -41,11 +41,18 @@
    "url": "https://www.kurir.rs/vesti/beograd/10165997/nevreme-u-beogradu-reke-teku-ulicama",
    "title": "NEBO SE OTVORILO, POTOP U BEOGRADU! Ulicama teku reke, tramvaji stoje, automobili mile... Mrak pao u vreme ručka, gromovi pucaju na sve strane (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/region/fotovideo-tramvaj-bez-sina-poceo-da-saobraca-ulicama-ljubljane/",
+   "title": "(FOTO/VIDEO) Tramvaj bez šina počeo da saobraća ulicama Ljubljane",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Potpuni kolaps u Beogradu: Potop na ulicama; Automobili mile FOTO",
-  "NEBO SE OTVORILO, POTOP U BEOGRADU! Ulicama teku reke, tramvaji stoje, automobili mile... Mrak pao u vreme ručka, gromovi pucaju na sve strane (VIDEO)"
+  "NEBO SE OTVORILO, POTOP U BEOGRADU! Ulicama teku reke, tramvaji stoje, automobili mile... Mrak pao u vreme ručka, gromovi pucaju na sve strane (VIDEO)",
+  "(FOTO/VIDEO) Tramvaj bez šina počeo da saobraća ulicama Ljubljane"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Rio_Tinto_Mar%C5%A1_sa_Drine!_Slavija,_Beograd,_2021.jpg",
   "alt": "Pljusak u Beogradu usporio saobraćaj, pojedine ulice pod vodom"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
