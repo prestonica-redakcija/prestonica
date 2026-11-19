@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T06:09:32.935768+00:00",
- "updated": "2026-11-18T08:53:31.635657+00:00",
+ "updated": "2026-11-19T14:10:30.893903+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -42,11 +42,18 @@
    "url": "https://n1info.rs/vesti/studentska-lista-najavljuje-progresivno-oporezivanje-da-li-ce-poreska-reforma-zaista-doneti-vece-plate-gradjanima-sa-najnizim-primanjima/",
    "title": "Studentska lista najavljuje progresivno oporezivanje: Da li će poreska reforma zaista doneti veće plate građanima sa najnižim primanjima?",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/252782/studentska-lista-predlaze-progresivno-oporezivanje-zarada/vest",
+   "title": "Manji porezi na plate, veći na imovinu: Šta donosi poreska reforma koju predlaže Studentska lista?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Studentska lista najavljuje progresivno oporezivanje: Da li će poreska reforma zaista doneti veće plate građanima sa najnižim primanjima?",
-  "Studentska lista najavljuje progresivno oporezivanje: Da li će poreska reforma zaista doneti veće plate građanima sa najnižim primanjima?"
+  "Studentska lista najavljuje progresivno oporezivanje: Da li će poreska reforma zaista doneti veće plate građanima sa najnižim primanjima?",
+  "Manji porezi na plate, veći na imovinu: Šta donosi poreska reforma koju predlaže Studentska lista?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +65,6 @@
   "local": true,
   "alt": "Studentska lista predlaže progresivni porez, stručnjaci kažu da je plan nedovoljno razrađen"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
