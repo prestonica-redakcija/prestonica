@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T08:23:45.633717+00:00",
- "updated": "2026-11-18T08:38:44.569466+00:00",
+ "updated": "2026-11-19T12:11:22.520849+00:00",
  "sources": [
   {
    "name": "N1",
@@ -53,12 +53,19 @@
    "url": "https://www.danas.rs/svet/si-putin-apec-tramp/",
    "title": "Si Đinping i Vladimir Putin se obratili na samitu APEC-a, čeka se dolazak Donalda Trampa",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286346/putin-otkrio-o-cemu-se-razgovaralo-u-senzenu/vest",
+   "title": "Putin se obratio",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Si Đinping i Vladimir Putin hvalili jedan drugog u Šenženu, čeka se dolazak Trampa",
   "Si Đinping i Vladimir Putin poslali poruke sa samita APEC-a: Sada se čeka Donald Tramp",
-  "Si Đinping i Vladimir Putin se obratili na samitu APEC-a, čeka se dolazak Donalda Trampa"
+  "Si Đinping i Vladimir Putin se obratili na samitu APEC-a, čeka se dolazak Donalda Trampa",
+  "Putin se obratio"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_17-11-2021_(cropped).jpg",
   "alt": "Si i Putin na samitu APEC-a u Šenženu, očekuje se dolazak Trampa"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

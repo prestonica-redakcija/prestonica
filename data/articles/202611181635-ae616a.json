@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-18T15:35:51.985472+00:00",
- "updated": "2026-11-19T09:27:37.018336+00:00",
+ "updated": "2026-11-19T12:11:22.520849+00:00",
  "sources": [
   {
    "name": "N1",
@@ -49,12 +49,19 @@
    "url": "https://www.kurir.rs/vesti/politika/10166471/nuns-poziva-poslanika-vladimira-djukanovica-na-izvinjenje-novinaru-dusanu-cavicu-kojeg-je-opsovao",
    "title": "\"POZIVAMO ĐUKANOVIĆA DA SE JAVNO IZVINI ČAVIĆU\"! NUNS: Narodni poslanici da se prema novinarima ophode pristojno i sa poštovanjem",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/uns-vladimir-djukanovic-da-se-izvini-dusanu-cavicu-zbog-uvreda/",
+   "title": "UNS: Vladimir Đukanović da se izvini Dušanu Čaviću zbog uvreda",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Đukanović vređao Dušana Čavića zbog pitanja koliko košta jaje, NUNS osuđuje",
   "NUNS osudio vređanje novinara Dušana Čavića u Parlamentu, traži izvinjenje Đukanovića",
-  "\"POZIVAMO ĐUKANOVIĆA DA SE JAVNO IZVINI ČAVIĆU\"! NUNS: Narodni poslanici da se prema novinarima ophode pristojno i sa poštovanjem"
+  "\"POZIVAMO ĐUKANOVIĆA DA SE JAVNO IZVINI ČAVIĆU\"! NUNS: Narodni poslanici da se prema novinarima ophode pristojno i sa poštovanjem",
+  "UNS: Vladimir Đukanović da se izvini Dušanu Čaviću zbog uvreda"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "osoba": "Vladimir Đukanović",
   "alt": "NUNS osudio psovku poslanika Đukanovića novinaru Dušanu Čaviću u Skupštini"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

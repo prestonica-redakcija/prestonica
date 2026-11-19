@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-19T11:11:51.082473+00:00",
- "updated": "2026-11-19T11:56:27.978966+00:00",
+ "updated": "2026-11-19T12:11:22.520849+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -65,6 +65,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/miljan-hofman-iznuda-novca-galerija/",
    "title": "Miljan Hofman optužen za pokušaj iznude novca u Tržnom centru Galerija",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/miljan-hofman-optuzen-za-pokusaj-iznude-novca-u-trznom-centru-galerija/",
+   "title": "Miljan Hofman optužen za pokušaj iznude novca u Tržnom centru Galerija",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -73,6 +79,7 @@
   "Podignuta optužnica za iznudu u \"Galeriji\": Pretio biznismenu i tražio novac",
   "Podignuta optužnica za iznudu u \"Galeriji\"! Hofman pretio biznismenu za novac, traže najmanje 5 godina robije",
   "MILJANU HOFMANU PRETI 5 GODINA ROBIJE ZBOG REKETIRANJA U TC \"GALERIJA\": Optužen Vidović, vlasniku resotana i hotela pretio: Polivaćemo vas kiselinom!",
+  "Miljan Hofman optužen za pokušaj iznude novca u Tržnom centru Galerija",
   "Miljan Hofman optužen za pokušaj iznude novca u Tržnom centru Galerija"
  ],
  "author": "Redakcija Prestonice",
@@ -86,6 +93,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Galerija_Marije_Ujevi%C4%87_Galetovi%C4%87.jpg",
   "alt": "Tužilaštvo podnelo optužni predlog protiv M. V. zbog pokušaja iznude u Galeriji"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

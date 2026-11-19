@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T16:20:32.901185+00:00",
- "updated": "2026-11-19T11:41:37.474927+00:00",
+ "updated": "2026-11-19T12:11:22.520849+00:00",
  "sources": [
   {
    "name": "N1",
@@ -77,6 +77,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/tuzilastvo-predlozilo-pritvor-od-30-za-gorskog-matovica-kako-ne-bi-uticao-na-svedoke/",
    "title": "Tužilaštvo predložilo pritvor od 30 dana za Gorskog Matovića kako ne bi uticao na svedoke",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10166757/saslusan-gorski-matovic-tuzilastvo-predlozilo-pritvor",
+   "title": "SASLUŠAN GORSKI MATOVIĆ ZBOG PRETNJI SMRĆU: Tužilaštvo zatražilo da mu se odredi pritvor da ne bi ostvario pretnje",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/gorski-matovic-saslusan-u-novom-sadu-pretio-smrcu-vecem-broju-ljudi-tuzilastvo-trazi-pritvor/",
+   "title": "Gorski Matović saslušan u Novom Sadu: Pretio smrću većem broju ljudi, tužilaštvo traži pritvor",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -87,7 +99,9 @@
   "Uhapšen G.M. zbog pretnji po život većem broju osoba na Novom naselju u Novom Sadu 25. oktobra",
   "Novo hapšenje u Novom Sadu: Uhapšen muškarac kojeg je Vučić ranije pomilovao",
   "Gorski Matović saslušan u Novom Sadu: Pretio smrću većem broju ljudi, tužilaštvo traži pritvor",
-  "Tužilaštvo predložilo pritvor od 30 dana za Gorskog Matovića kako ne bi uticao na svedoke"
+  "Tužilaštvo predložilo pritvor od 30 dana za Gorskog Matovića kako ne bi uticao na svedoke",
+  "SASLUŠAN GORSKI MATOVIĆ ZBOG PRETNJI SMRĆU: Tužilaštvo zatražilo da mu se odredi pritvor da ne bi ostvario pretnje",
+  "Gorski Matović saslušan u Novom Sadu: Pretio smrću većem broju ljudi, tužilaštvo traži pritvor"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -100,8 +114,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Dunavska_street_in_Novi_Sad.jpg",
   "alt": "Novi Sad: uhapšen osumnjičeni za pretnje građanima na Novom naselju na dan izbora"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-19T11:26:46.370283+00:00",
  "verzija": 2
 }

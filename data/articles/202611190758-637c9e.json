@@ -31,17 +31,24 @@
  ],
  "importance": 6,
  "published": "2026-11-19T06:58:47.335790+00:00",
- "updated": "2026-11-19T06:58:47.335790+00:00",
+ "updated": "2026-11-19T12:11:22.520849+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10165660/potresni-oprostaji-od-poginulog-pilota-gorana-bulajica",
    "title": "NEBESKI OBILIĆ! PILOT BULAJIĆ SVESNO IZABRAO SMRT DA BI SPASAO TUĐE ŽIVOTE: Poginuo nedaleko od mesta na kom je stradao njegov kolega, prijatelj i imenjak",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10166771/sahrana-pilota-gorana-bulajica",
+   "title": "POZNATI MESTO I VREME SAHRANE PILOTA GORANA BULAJIĆA: Heroj Srbije nastradao u padu vojnog aviona kod Stare Pazove",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "NEBESKI OBILIĆ! PILOT BULAJIĆ SVESNO IZABRAO SMRT DA BI SPASAO TUĐE ŽIVOTE: Poginuo nedaleko od mesta na kom je stradao njegov kolega, prijatelj i imenjak"
+  "NEBESKI OBILIĆ! PILOT BULAJIĆ SVESNO IZABRAO SMRT DA BI SPASAO TUĐE ŽIVOTE: Poginuo nedaleko od mesta na kom je stradao njegov kolega, prijatelj i imenjak",
+  "POZNATI MESTO I VREME SAHRANE PILOTA GORANA BULAJIĆA: Heroj Srbije nastradao u padu vojnog aviona kod Stare Pazove"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Stara_Pazova_-_Trg_Zorana_%C4%90in%C4%91i%C4%91a.jpg",
   "alt": "Posle pada mig-29 kod Stare Pazove opraštaju se od majora Gorana Bulajića"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

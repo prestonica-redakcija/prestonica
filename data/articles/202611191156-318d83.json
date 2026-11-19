@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-19T10:56:49.993173+00:00",
- "updated": "2026-11-19T11:56:27.978966+00:00",
+ "updated": "2026-11-19T12:11:22.520849+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -58,13 +58,27 @@
    "url": "https://n1info.rs/svet/medjunarodni-sud-pravde-snage-mjanmara-imale-nameru-da-uniste-muslimansku-manjinu-rohindza/",
    "title": "Međunarodni sud pravde: Snage Mjanmara imale nameru da unište muslimansku manjinu Rohindža",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/bbc-news-serbian/mjanmar-osudjen-za-genocid-nad-rohindzama/",
+   "title": "Mjanmar osuđen za genocid nad Rohindžama",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/medjunarodni-krivicni-sud-vojska-mjanmara-htela-da-unisti-muslimansku-manjinu-rohindza/",
+   "title": "Međunarodni krivični sud: Vojska Mjanmara htela da uništi muslimansku manjinu Rohindža",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "ICJ: U Mjanmaru 2017. ubijeno 10.000 Rohindža, počinjeni masovni zločini",
   "ICJ: U Mjanmaru 2017. ubijeno 10.000 Rohindža, počinjeni masovni zločini",
   "Najviši sud UN: Dokazi ukazuju da su snage Mjanmara 2017. godine ubile oko 10.000 Rohindža",
-  "Međunarodni sud pravde: Snage Mjanmara imale nameru da unište muslimansku manjinu Rohindža"
+  "Međunarodni sud pravde: Snage Mjanmara imale nameru da unište muslimansku manjinu Rohindža",
+  "Mjanmar osuđen za genocid nad Rohindžama",
+  "Međunarodni krivični sud: Vojska Mjanmara htela da uništi muslimansku manjinu Rohindža"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +90,6 @@
   "local": true,
   "alt": "Međunarodni sud pravde: u Mjanmaru 2017. ubijeno oko 10.000 Rohindža"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
