@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T09:42:30.100573+00:00",
- "updated": "2026-11-19T09:57:20.733664+00:00",
+ "updated": "2026-11-19T10:27:11.486532+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -43,11 +43,25 @@
    "url": "https://informer.rs/politika/vesti/1171295/aleksandar-vucic",
    "title": "Monstruozno! \"Prebili devojku od 19 godina\": Vučić o detaljima napada na predsednicu opštine Odžaci i njenu ćerku (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/299059/vucic-zavrsicemo-izlaganja-i-pre-13h-nocas-napadnuta-predsednica-opstine-odzaci/vest",
+   "title": "Vučić: Završićemo izlaganja i pre 13h; noćas napadnuta predsednica opštine Odžaci",
+   "spektar": "centar"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=2YkiiwC3ouk",
+   "title": "Vučić: Noćas napadnute predsednica opštine Inđija i njena ćerka",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
   "\"TEROR U SRBIJI SE NASTAVIO I NOĆAS\" Napadnuta devojka u Odžacima: Vučić pokazao fotografiju lica, poslanici Studentske liste se smejali",
-  "Monstruozno! \"Prebili devojku od 19 godina\": Vučić o detaljima napada na predsednicu opštine Odžaci i njenu ćerku (FOTO)"
+  "Monstruozno! \"Prebili devojku od 19 godina\": Vučić o detaljima napada na predsednicu opštine Odžaci i njenu ćerku (FOTO)",
+  "Vučić: Završićemo izlaganja i pre 13h; noćas napadnuta predsednica opštine Odžaci",
+  "Vučić: Noćas napadnute predsednica opštine Inđija i njena ćerka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,6 +74,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tomislav_Nikolic,_Rudy_Giuliani,_Aleksandar_Vucic-mc.rs.jpg",
   "alt": "Vučić u Skupštini: u Odžacima napadnuta predsednica opštine i njena ćerka"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

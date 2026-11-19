@@ -24,7 +24,7 @@
  ],
  "importance": 4,
  "published": "2026-11-19T09:57:20.733664+00:00",
- "updated": "2026-11-19T10:12:13.177653+00:00",
+ "updated": "2026-11-19T10:27:11.486532+00:00",
  "sources": [
   {
    "name": "N1",
@@ -43,12 +43,19 @@
    "url": "https://www.b92.net/info/politika/286283/vlada-srbije-u-tehnickom-mandatu-odrzala-sednicu-usvojene-odluke-zbog-funkcionisanja-institucija/vest",
    "title": "Vlada Srbije u tehničkom mandatu održala sednicu; Usvojene odluke zbog funkcionisanja institucija",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10166556/vlade-srbije-u-tehnickom-mandatu-donela-vise-odluka-za-nesmetan-rad-institucija",
+   "title": "VLADA REPUBLIKE SRBIJE U TEHNIČKOM MANDATU ODRŽALA REDOVNU SEDNICU: Usvojeno više odluka potrebnih za dalji rad institucija!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "\"Potrebni za rad institucija\": Vlada usvojila više odluka, ali nije saopštila o kojim odlukama je reč",
   "Vlada Srbije usvojila više odluka ali nije saopštila o kojim odlukama je reč",
-  "Vlada Srbije u tehničkom mandatu održala sednicu; Usvojene odluke zbog funkcionisanja institucija"
+  "Vlada Srbije u tehničkom mandatu održala sednicu; Usvojene odluke zbog funkcionisanja institucija",
+  "VLADA REPUBLIKE SRBIJE U TEHNIČKOM MANDATU ODRŽALA REDOVNU SEDNICU: Usvojeno više odluka potrebnih za dalji rad institucija!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Slika1536_Vlada_Srbije.jpg",
   "alt": "Vlada u tehničkom mandatu usvojila više odluka, u saopštenju nisu navedene koje"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

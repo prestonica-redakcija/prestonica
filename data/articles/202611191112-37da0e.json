@@ -32,17 +32,24 @@
  ],
  "importance": 5,
  "published": "2026-11-19T10:12:13.177653+00:00",
- "updated": "2026-11-19T10:12:13.177653+00:00",
+ "updated": "2026-11-19T10:27:11.486532+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1672682/ste-najgori-parazitski-sloj-koji-ova-drzava-ikada-imala-vucic-raskrinkao-rusili-srbiju-isto-vreme-uzimali-milione-nje",
    "title": "\"VI STE NAJGORI PARAZITSKI SLOJ KOJI JE OVA DRŽAVA IKADA IMALA\" Vučić raskrinkao SL: Rušili su Srbiju, a u isto vreme uzimali milione od nje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1672682/vucic-raskrinkao-rusili-srbiju-isto-vreme-uzimali-milione-nje",
+   "title": "VUČIĆ RASKRINKAO SL: Rušili su Srbiju, a u isto vreme uzimali milione od nje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "\"VI STE NAJGORI PARAZITSKI SLOJ KOJI JE OVA DRŽAVA IKADA IMALA\" Vučić raskrinkao SL: Rušili su Srbiju, a u isto vreme uzimali milione od nje"
+  "\"VI STE NAJGORI PARAZITSKI SLOJ KOJI JE OVA DRŽAVA IKADA IMALA\" Vučić raskrinkao SL: Rušili su Srbiju, a u isto vreme uzimali milione od nje",
+  "VUČIĆ RASKRINKAO SL: Rušili su Srbiju, a u isto vreme uzimali milione od nje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Philip_Hammond_%26_Aleksandar_Vu%C4%8Di%C4%87_in_London_2014.jpg",
   "alt": "Vučić u Skupštini tvrdi da su poslanici Studentske liste uzimali novac od države"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

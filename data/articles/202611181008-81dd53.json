@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T09:08:30.451343+00:00",
- "updated": "2026-11-19T10:12:13.177653+00:00",
+ "updated": "2026-11-19T10:27:11.486532+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -764,6 +764,30 @@
    "url": "https://www.telegraf.rs/vesti/svet/4435835-trilateralni-sastanak-lidera-kine-sad-i-rusije-je-zavrsen-trampova-kolona-vozila-krenula-na-aerodrom",
    "title": "Trilateralni sastanak lidera Kine, SAD i Rusije je završen: Trampova kolona vozila krenula na aerodrom",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/teme/vanredna-situacija-u-smederevu-smece-danima-na-ulicama-udruzenja-traze-hitnu-reakciju-ministarstva",
+   "title": "Vanredna situacija u Smederevu: Smeće danima na ulicama, udruženja traže hitnu reakciju Ministarstva",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/region/286294/plenkovic-od-nove-vlade-srbije-ocekujemo-obnovu-dijaloga-o-pitanju-nestalih/vest",
+   "title": "Hrvatska ponovila šta očekuje od nove vlasti u Srbiji; Prioritet su nestali",
+   "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1672692/andrej-plenkovic-srbija-vcast-studentska-lista-najnovije-vesti",
+   "title": "OGLASIO SE ANDREJ PLENKOVIĆ: Hrvatski premijer otkrio šta očekuje od nove vlasti u Srbiji",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/sport/kosarka/10166578/nikolu-topica-posle-raka-povreda-i-operacija-snasao-novi-problem",
+   "title": "OVO VEĆ POSTAJE NEMOGUĆE! Nikolu Topića posle raka, povreda i operacija snašao novi problem",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -887,7 +911,11 @@
   "Uspeli su da prevare ljude! Među poslanicima Studentske liste Pajtićeva mezimica: Ona sad odlučuje o sudbini Srbije (FOTO)",
   "Si upozorio Trampa zbog Tajvana, razgovarali i o veštačkoj inteligenciji: Novi detalji susreta dva lidera",
   "Ne treba nam samo vladavina prava, već i vladavina istine! Dragomir ANĐELKOVIĆ",
-  "Trilateralni sastanak lidera Kine, SAD i Rusije je završen: Trampova kolona vozila krenula na aerodrom"
+  "Trilateralni sastanak lidera Kine, SAD i Rusije je završen: Trampova kolona vozila krenula na aerodrom",
+  "Vanredna situacija u Smederevu: Smeće danima na ulicama, udruženja traže hitnu reakciju Ministarstva",
+  "Hrvatska ponovila šta očekuje od nove vlasti u Srbiji; Prioritet su nestali",
+  "OGLASIO SE ANDREJ PLENKOVIĆ: Hrvatski premijer otkrio šta očekuje od nove vlasti u Srbiji",
+  "OVO VEĆ POSTAJE NEMOGUĆE! Nikolu Topića posle raka, povreda i operacija snašao novi problem"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -900,7 +928,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(14-12-2021).jpg",
   "alt": "Si i Putin održali 50. susret u Šenženu uoči samita sa Trampom"
  },
- "novo_od_pisanja": 36,
+ "novo_od_pisanja": 40,
  "boost": 1.6,
  "prepisano": "2026-11-19T08:57:57.933205+00:00",
  "verzija": 17
