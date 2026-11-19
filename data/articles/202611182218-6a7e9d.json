@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T21:18:23.312560+00:00",
- "updated": "2026-11-18T21:47:59.827911+00:00",
+ "updated": "2026-11-19T17:09:20.799157+00:00",
  "sources": [
   {
    "name": "N1",
@@ -52,12 +52,19 @@
    "url": "https://informer.rs/politika/vesti/1171225/jovo-bakic-informer-cenzura",
    "title": "Je l' to ta demokratija i sloboda govora?! Cenzor Jovo Bakić bi da zabrani Informer",
    "spektar": "vlast"
+  },
+  {
+   "name": "Bez cenzure",
+   "url": "https://www.youtube.com/watch?v=mP8mkCYYzK4",
+   "title": "Vučićevi skupštinski govori su verbalna dijareja! Jovo BAKIĆ",
+   "spektar": "desnica"
   }
  ],
  "source_titles": [
   "Jovo Bakić: \"Verbalna dijareja\" Vučića, naravno da Informer treba da bude zabranjen, kao i još neki mediji",
   "Jovo Bakić o Vučićevim govorima u Skupštini: „Verbalna dijareja“, Informer i slični mediji truju javnost",
-  "Je l' to ta demokratija i sloboda govora?! Cenzor Jovo Bakić bi da zabrani Informer"
+  "Je l' to ta demokratija i sloboda govora?! Cenzor Jovo Bakić bi da zabrani Informer",
+  "Vučićevi skupštinski govori su verbalna dijareja! Jovo BAKIĆ"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "local": true,
   "alt": "Bakić na KTV-u: Informer treba zabraniti, ali ne samo taj medij"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
