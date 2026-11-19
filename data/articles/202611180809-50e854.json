@@ -31,17 +31,24 @@
  ],
  "importance": 7,
  "published": "2026-11-18T07:09:41.921646+00:00",
- "updated": "2026-11-18T07:09:41.921646+00:00",
+ "updated": "2026-11-19T07:28:30.060675+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10164828/studentska-lista-kontinuitet-u-spoljnoj-politici-srbije",
    "title": "STUDENTSKA LISTA ZADRŽAVA KURS PREMA RUSIJI, KINI I SAD: Nema sankcija Moskvi, priznanja Kosova ni odricanja od Republike Srpske",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286225/rusija-kina-i-iran-postavili-uslove-za-nastavak-inspekcija-iranskih-postrojenja/vest",
+   "title": "Rusija, Kina i Iran protiv SAD",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "STUDENTSKA LISTA ZADRŽAVA KURS PREMA RUSIJI, KINI I SAD: Nema sankcija Moskvi, priznanja Kosova ni odricanja od Republike Srpske"
+  "STUDENTSKA LISTA ZADRŽAVA KURS PREMA RUSIJI, KINI I SAD: Nema sankcija Moskvi, priznanja Kosova ni odricanja od Republike Srpske",
+  "Rusija, Kina i Iran protiv SAD"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Studentska lista u programu: bez sankcija Rusiji i priznanja Kosova"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

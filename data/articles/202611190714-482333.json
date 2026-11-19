@@ -31,16 +31,23 @@
  ],
  "importance": 5,
  "published": "2026-11-19T06:14:04.945422+00:00",
- "updated": "2026-11-19T06:14:04.945422+00:00",
+ "updated": "2026-11-19T07:28:30.060675+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/fabrika-nutrifeed-solutions-trajk-zaposleni-plate-obustavljena-proizvodnja/",
    "title": "Najavili štrajk zbog neisplaćenih plata, pa proglašeni tehnološkim viškom: Radnici fabrike u Pojatama traže svoj novac",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/najavili-strajk-zbog-neisplacenih-plata-pa-proglaseni-tehnoloskim-viskom-radnici-fabrike-u-pojatama-traze-svoj-novac/",
+   "title": "Najavili štrajk zbog neisplaćenih plata, pa proglašeni tehnološkim viškom: Radnici fabrike u Pojatama traže svoj novac",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Najavili štrajk zbog neisplaćenih plata, pa proglašeni tehnološkim viškom: Radnici fabrike u Pojatama traže svoj novac",
   "Najavili štrajk zbog neisplaćenih plata, pa proglašeni tehnološkim viškom: Radnici fabrike u Pojatama traže svoj novac"
  ],
  "author": "Redakcija Prestonice",
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Zapis-0530-Pojate-hrast-kod-crkve_20160208_9605.jpg",
   "alt": "Radnici fabrike stočne hrane u Pojatama tvrde da su posle štrajka proglašeni viškom"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
