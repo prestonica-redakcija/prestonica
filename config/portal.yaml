@@ -89,8 +89,8 @@ x_objave:
   tiho_od_do: [1, 6]           # bez objava od 01 do 06 po beogradskom vremenu
   prag_vaznosti: 5             # vesti važnosti 5 i više (od 10), plus sve analize
   najstarije_sati: 6
-  link_od_vaznosti: 9          # link samo za udarne vesti (9 i 10) i analize; ostalo grafička kartica
-  linkova_dnevno: 4            # najviše 4 objave sa linkom dnevno (link je ~13x skuplji)
+  link_od_vaznosti: 7          # link za važnije vesti (7 i više) i analize; ostalo grafička kartica
+  linkova_dnevno: 8            # najviše 8 objava sa linkom dnevno (link je ~13x skuplji)
   kartica_i_uz_link: false     # uz link X sam pravi pregled stranice
 
 # Ličnosti: profil dobija svako ko se pojavi u najmanje min_tekstova tekstova za poslednjih dana (sport, kultura, svet...)
