@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T14:51:00.912567+00:00",
- "updated": "2026-11-18T14:51:00.912567+00:00",
+ "updated": "2026-11-19T08:42:57.783545+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -43,11 +43,18 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10165941/radarski-snimci-otkrivaju-kada-stize-oluja",
    "title": "Sprema se najjači udar kiše, evo kada će biti najgore! Radarski snimci otkrivaju kretanje nevremena iz sata u sat (MAPE)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/magazin/vremenska-prognoza/snimak-nevremena-u-srbiji/",
+   "title": "(MAPA) Evo u koliko sati danas kreće nevreme u Srbiji i snimak radara pokazuje koliko će dugo da traje: Izdato upozorenje za olujni vetar",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Snimak radara pokazuje da stiže još jače nevreme u Srbiju večeras: Evo u koliko sati kreće najjača kiša i kada će konačno stati",
-  "Sprema se najjači udar kiše, evo kada će biti najgore! Radarski snimci otkrivaju kretanje nevremena iz sata u sat (MAPE)"
+  "Sprema se najjači udar kiše, evo kada će biti najgore! Radarski snimci otkrivaju kretanje nevremena iz sata u sat (MAPE)",
+  "(MAPA) Evo u koliko sati danas kreće nevreme u Srbiji i snimak radara pokazuje koliko će dugo da traje: Izdato upozorenje za olujni vetar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Upozorenje zbog obilne kiše i olujnog vetra u Srbiji, najjači pljuskovi večeras"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

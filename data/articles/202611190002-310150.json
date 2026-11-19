@@ -33,17 +33,31 @@
  ],
  "importance": 5,
  "published": "2026-11-18T23:02:29.714678+00:00",
- "updated": "2026-11-18T23:02:29.714678+00:00",
+ "updated": "2026-11-19T08:42:57.783545+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/nenad-matej-presi-goran-bulajic-oprostaj/",
    "title": "Otac Splićanina koji se udavio u Beogradu se oprostio od pilota Gorana Bulajića, koji mu je tražio sina",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/otac-mateja-perisa-oprostio-se-od-poginulog-pilota-vojske-srbije-gorana-bulajica",
+   "title": "Otac Mateja Periša oprostio se od poginulog pilota Vojske Srbije Gorana Bulajića",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/nenad-peris-se-emotivnom-porukom-oprostio-od-poginulog-srpskog-pilota-koji-je-ucestvovao-u-potrazi-za-njegovim-sinom-matejem/",
+   "title": "Nenad Periš se emotivnom porukom oprostio od poginulog srpskog pilota koji je učestvovao u potrazi za njegovim sinom Matejem",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Otac Splićanina koji se udavio u Beogradu se oprostio od pilota Gorana Bulajića, koji mu je tražio sina"
+  "Otac Splićanina koji se udavio u Beogradu se oprostio od pilota Gorana Bulajića, koji mu je tražio sina",
+  "Otac Mateja Periša oprostio se od poginulog pilota Vojske Srbije Gorana Bulajića",
+  "Nenad Periš se emotivnom porukom oprostio od poginulog srpskog pilota koji je učestvovao u potrazi za njegovim sinom Matejem"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +69,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Stara_Pazova_railway_station_(155).jpg",
   "alt": "Otac Mateja Periša oprostio se od pilota Bulajića koji je ronio u potrazi za njegovim sinom"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
