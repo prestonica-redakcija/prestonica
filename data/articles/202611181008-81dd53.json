@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T09:08:30.451343+00:00",
- "updated": "2026-11-19T07:58:17.672461+00:00",
+ "updated": "2026-11-19T08:13:12.764108+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -452,6 +452,48 @@
    "url": "https://www.euronews.rs/svet/fokus/252725/donald-tramp-zaspao-na-samitu-apec/vest",
    "title": "Zatvorene oči tokom govora Sija i šminka na nadlanici: Tramp ponovo u centru pažnje na samitu APEC-a",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299028/kim-dzong-un-posetio-pomorski-univerzitet-i-kljucna-gradilista-u-severnoj-koreji/vest",
+   "title": "Kim Džong Un posetio pomorski univerzitet i ključna gradilišta u Severnoj Koreji",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299032/bliski-saradnik-kim-dzong-una-vratio-se-u-severnu-koreju-nakon-posete-rusiji/vest",
+   "title": "Bliski saradnik Kim Džong Una vratio se u Severnu Koreju nakon posete Rusiji",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299029/kusner-i-vitkof-putuju-u-berlin-na-razgovore-sa-zelenskim-i-evropskim-liderima/vest",
+   "title": "Kušner i Vitkof putuju u Berlin na razgovore sa Zelenskim i evropskim liderima",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4435733-neocekivano-pogledajte-snimak-si-trazio-od-trampa-ruku-da-ga-pridrzi-na-stepenicama",
+   "title": "NEOČEKIVANO Pogledajte snimak: Si tražio od Trampa ruku da ga pridrži na stepenicama",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10166405/putinu-zahvalili-na-samitu-apec-na-ruskom-jeziku-odgovorio-im-na-kineskom",
+   "title": "PUTINU NA SAMITU APEC UČESNICI ZAHVALILI NA RUSKOM JEZIKU: Evo kako im je šef Kremlja odgovorio",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/srdacan-susret-trampa-i-putina-u-kini-imamo-odlican-odnos-vec-dugi-niz-godina/",
+   "title": "Srdačan susret Trampa i Putina u Kini: „Imamo odličan odnos već dugi niz godina“",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/252721/putinov-nuklearni-kofer-snimljen-na-samitu-apec-u-senzenu/vest",
+   "title": "Ruski nuklearni kofer u centru pažnje u Kini: Putin pred samitom sa Trampom i Sijem demonstrira vojnu moć",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -523,7 +565,14 @@
   "RUSKI MEDIJI MASOVNO DELE SNIMAK PUTINA I TRAMPA! Predsednik SAD nazvao lidera Kremlja prijateljem, Ušakov poručuje da je Putin \"odlično raspoložen\" (VIDEO)",
   "Učesnici samita APEC-a zahvalili Putinu na ruskom jeziku, on im odgovorio na kineskom",
   "Berlin domaćin sastanka o Ukrajini: Pomoć EU i stav o pregovorima sa Rusijom u fokusu",
-  "Zatvorene oči tokom govora Sija i šminka na nadlanici: Tramp ponovo u centru pažnje na samitu APEC-a"
+  "Zatvorene oči tokom govora Sija i šminka na nadlanici: Tramp ponovo u centru pažnje na samitu APEC-a",
+  "Kim Džong Un posetio pomorski univerzitet i ključna gradilišta u Severnoj Koreji",
+  "Bliski saradnik Kim Džong Una vratio se u Severnu Koreju nakon posete Rusiji",
+  "Kušner i Vitkof putuju u Berlin na razgovore sa Zelenskim i evropskim liderima",
+  "NEOČEKIVANO Pogledajte snimak: Si tražio od Trampa ruku da ga pridrži na stepenicama",
+  "PUTINU NA SAMITU APEC UČESNICI ZAHVALILI NA RUSKOM JEZIKU: Evo kako im je šef Kremlja odgovorio",
+  "Srdačan susret Trampa i Putina u Kini: „Imamo odličan odnos već dugi niz godina“",
+  "Ruski nuklearni kofer u centru pažnje u Kini: Putin pred samitom sa Trampom i Sijem demonstrira vojnu moć"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -536,7 +585,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(14-12-2021).jpg",
   "alt": "Si i Putin održali 50. susret u Šenženu uoči samita sa Trampom"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 7,
  "boost": 1.6,
  "prepisano": "2026-11-19T07:58:17.672461+00:00",
  "verzija": 15

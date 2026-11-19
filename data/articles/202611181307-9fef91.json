@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T12:07:07.965704+00:00",
- "updated": "2026-11-19T07:43:22.625567+00:00",
+ "updated": "2026-11-19T08:13:12.764108+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -81,6 +81,12 @@
    "url": "https://www.danas.rs/vesti/politika/nastavak-konstitutivne-sednice-skupstine-srbije-u-10-casova-na-dnevnom-redu-i-dalje-izbor-predsednika-parlamenta/",
    "title": "Nastavak konstitutivne sednice Skupštine Srbije u 10 časova: Na dnevnom redu i dalje izbor predsednika parlamenta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4435737-narodna-skupstina-sednica-za-izbor-predsednika-parlamenta",
+   "title": "Nastavak konstitutivne sednice: Na dnevnom redu je izbor predsednika parlamenta",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -91,7 +97,8 @@
   "Danas nastavak konstitutivne sednice, treći dan rasprave o kandidatima za predsednika Skupštine",
   "Treći dan konstitutivne sednice Skupštine: Na dnevnom redu izbor predsednika parlamenta",
   "DANAS NASTAVAK KONSTITUTIVNE SEDNICE: Rasprava o kandidatima za predsednika Skupštine",
-  "Nastavak konstitutivne sednice Skupštine Srbije u 10 časova: Na dnevnom redu i dalje izbor predsednika parlamenta"
+  "Nastavak konstitutivne sednice Skupštine Srbije u 10 časova: Na dnevnom redu i dalje izbor predsednika parlamenta",
+  "Nastavak konstitutivne sednice: Na dnevnom redu je izbor predsednika parlamenta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -103,8 +110,8 @@
   "local": true,
   "alt": "Brnabić na konstitutivnoj sednici uporedila naučne radove Radenovića i Čupića"
  },
- "novo_od_pisanja": 1,
- "boost": 1.56,
+ "novo_od_pisanja": 2,
+ "boost": 1.6,
  "prepisano": "2026-11-19T06:43:56.892649+00:00",
  "verzija": 2
 }

@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-19T07:43:22.625567+00:00",
- "updated": "2026-11-19T07:43:22.625567+00:00",
+ "updated": "2026-11-19T08:13:12.764108+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,9 +44,16 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4435722-u-domovima-zdravlja-veliki-broj-pregleda-dece-zbog-respiratornih-i-stomacnih-tegoba",
    "title": "U domovima zdravlja veliki broj pregleda dece zbog respiratornih i stomačnih tegoba",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/u-domovima-zdravlja-veliki-broj-pregleda-dece-zbog-respiratornih-i-stomacnih-tegoba",
+   "title": "U domovima zdravlja veliki broj pregleda dece zbog respiratornih i stomačnih tegoba",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "U domovima zdravlja veliki broj pregleda dece zbog respiratornih i stomačnih tegoba",
   "U domovima zdravlja veliki broj pregleda dece zbog respiratornih i stomačnih tegoba",
   "U domovima zdravlja veliki broj pregleda dece zbog respiratornih i stomačnih tegoba"
  ],
@@ -59,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Domovi zdravlja i dalje pod pritiskom: mnogo dece sa respiratornim i stomačnim infekcijama"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

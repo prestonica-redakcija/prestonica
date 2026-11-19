@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T07:28:30.060675+00:00",
- "updated": "2026-11-19T07:43:22.625567+00:00",
+ "updated": "2026-11-19T08:13:12.764108+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -41,11 +41,18 @@
    "url": "https://nova.rs/vesti/biznis/cls-skupstina-grada-beograda-ce-u-ponedeljak-usvojiti-treci-rebalans-budzeta-ove-godine/",
    "title": "CLS: Skupština grada Beograda će u ponedeljak usvojiti treći rebalans budžeta ove godine",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/cls-beograd-u-ponedeljak-usvaja-treci-rebalans-budzeta-drzava-krpi-rupe/",
+   "title": "CLS: Beograd u ponedeljak usvaja treći rebalans budžeta, država \"krpi rupe\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "CLS: Skupština Grada Beograda će u ponedeljak usvojiti treći rebalans budžeta",
-  "CLS: Skupština grada Beograda će u ponedeljak usvojiti treći rebalans budžeta ove godine"
+  "CLS: Skupština grada Beograda će u ponedeljak usvojiti treći rebalans budžeta ove godine",
+  "CLS: Beograd u ponedeljak usvaja treći rebalans budžeta, država \"krpi rupe\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +65,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%B2%D0%B0_%D0%B2%D0%B0%D1%80%D0%BE%D1%88%D0%BA%D0%B0_%D0%B1%D0%BE%D0%BB%D0%BD%D0%B8%D1%86%D0%B0_%D1%83_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%83_(First_Town_Hospital,_Belgrade,_Serbia).jpg",
   "alt": "CLS: Treći rebalans budžeta Beograda na sednici Skupštine grada u ponedeljak"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

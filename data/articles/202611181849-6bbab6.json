@@ -27,7 +27,7 @@
  ],
  "importance": 7,
  "published": "2026-11-18T17:49:59.775747+00:00",
- "updated": "2026-11-18T20:48:30.213933+00:00",
+ "updated": "2026-11-19T08:13:12.764108+00:00",
  "sources": [
   {
    "name": "N1",
@@ -40,11 +40,18 @@
    "url": "https://www.politico.eu/article/epp-moves-to-suspend-serbias-former-ruling-party/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
    "title": "EPP moves to suspend Serbia’s former ruling party",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/english/4435731-european-peoples-party-proposes-suspension-of-serbian-progressive-party",
+   "title": "European People's Party proposes suspension of Serbian Progressive Party",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "European People’s Party to propose suspending Serbian Progressive Party’s associate membership",
-  "EPP moves to suspend Serbia’s former ruling party"
+  "EPP moves to suspend Serbia’s former ruling party",
+  "European People's Party proposes suspension of Serbian Progressive Party"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +65,6 @@
   "osoba": "Ratko Mladić",
   "alt": "Predsedništvo EPP navodno predlaže suspenziju SNS-a kao pridruženog člana"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
