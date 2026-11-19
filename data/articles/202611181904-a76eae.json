@@ -39,7 +39,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T18:04:39.821974+00:00",
- "updated": "2026-11-19T08:13:12.764108+00:00",
+ "updated": "2026-11-19T18:09:09.074594+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -64,13 +64,20 @@
    "url": "https://nova.rs/emisije/probudi-se-cela-emisija-18112026/",
    "title": "Probudi se - Cela emisija - 18.11.2026.",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/emisije/medju-nama-cela-emisija-18112026/",
+   "title": "Među nama - Cela emisija - 18.11.2026.",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "SVET I MI - CELA EMISIJA - 17. novembar 2026.",
   "Među nama - Cela emisija - 17.11.2026.",
   "Dnevnik - Cela emisija - 17.11.2026.",
-  "Probudi se - Cela emisija - 18.11.2026."
+  "Probudi se - Cela emisija - 18.11.2026.",
+  "Među nama - Cela emisija - 18.11.2026."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -82,6 +89,6 @@
   "local": true,
   "alt": "Svet i mi: Evropa traži mesto za pregovaračkim stolom o Ukrajini, Rusija nije pristala"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
