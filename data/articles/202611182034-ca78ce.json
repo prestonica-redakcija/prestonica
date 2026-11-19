@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T19:34:13.571108+00:00",
- "updated": "2026-11-18T19:34:13.571108+00:00",
+ "updated": "2026-11-19T23:36:31.686264+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,11 +43,32 @@
    "url": "https://www.kurir.rs/planeta/10166198/zelenski-najavio-sastanak-koalicije-voljnih-u-berlinu",
    "title": "ZELENSKI NAJAVIO SASTANAK \"KOALICIJE VOLJNIH\" U BERLINU: Ukrajina očekuje konkretne pakete vojne i finansijske podrške",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299319/zelenski-se-sastao-sa-vitkofom-kusnerom-i-evropskim-savetnicima/vest",
+   "title": "Zelenski se sastao sa Vitkofom, Kušnerom i evropskim savetnicima",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10167438/zelenski-se-sastao-sa-vitkofom-kusnerom-i-evropskim-savetnicima",
+   "title": "\"KOALICIJA VOLJNIH\" U BERLINU: Zelenski se sastao sa Vitkofom, Kušnerom i evropskim savetnicima",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4436357-zelenski-se-sastao-sa-vitkofom-kusnerom-i-evropskim-savetnicima",
+   "title": "Zelenski se sastao sa Vitkofom, Kušnerom i evropskim savetnicima",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Zelenski najavio sastanak \"Koalicije voljnih\" u Berlinu",
-  "ZELENSKI NAJAVIO SASTANAK \"KOALICIJE VOLJNIH\" U BERLINU: Ukrajina očekuje konkretne pakete vojne i finansijske podrške"
+  "ZELENSKI NAJAVIO SASTANAK \"KOALICIJE VOLJNIH\" U BERLINU: Ukrajina očekuje konkretne pakete vojne i finansijske podrške",
+  "Zelenski se sastao sa Vitkofom, Kušnerom i evropskim savetnicima",
+  "\"KOALICIJA VOLJNIH\" U BERLINU: Zelenski se sastao sa Vitkofom, Kušnerom i evropskim savetnicima",
+  "Zelenski se sastao sa Vitkofom, Kušnerom i evropskim savetnicima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +80,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Berlin_Mitte_June_2023_01.jpg",
   "alt": "Zelenski najavio sastanak \"Koalicije voljnih\" u Berlinu za sutra"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

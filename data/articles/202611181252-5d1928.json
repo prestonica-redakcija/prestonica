@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T11:52:09.273954+00:00",
- "updated": "2026-11-18T22:17:52.084922+00:00",
+ "updated": "2026-11-19T23:36:31.686264+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -47,12 +47,19 @@
    "url": "https://www.telegraf.rs/4435661-studentska-lista-se-oglasila-o-generalstabu",
    "title": "Studentska lista se oglasila o Generalštabu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4436359-oglasili-se-predstavnici-studentske-liste-nakon-sednice-skupstine",
+   "title": "Oglasili se poslanici Studentske liste nakon sednice Skupštine Srbije",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Poslanik Studentske liste Miroslav Andrić: Jedan od prvih zadataka suštinska promena načina rada Skupštine",
   "\"OVO ĆE BITI JEDAN OD PRVIH ZADATAKA NOVE SKUPŠTINE\" Studentska lista se oglasila saopštenjem o Generalštabu",
-  "Studentska lista se oglasila o Generalštabu"
+  "Studentska lista se oglasila o Generalštabu",
+  "Oglasili se poslanici Studentske liste nakon sednice Skupštine Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "local": true,
   "alt": "Andrić: Prvi zadatak nove Skupštine je suštinska promena načina rada"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
