@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.kurir.rs/vesti/beograd/10161147/planirani-radovi-iskljucenja-struje-u-beogradu14-novembra-2026": "2026-11-14T04:44:44.143404+00:00",
   "https://www.kurir.rs/zabava/zena/10159484/smesa-za-pohovanje-sa-pivom": "2026-11-14T04:59:34.083519+00:00",
   "https://www.telegraf.rs/vesti/srbija/4432858-granicni-prelazi-prohodni-evo-gde-cekaju-kamioni": "2026-11-14T05:44:13.646567+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/251937/polovni-elektricni-automobili-u-srbiji-rast-interesovanja/vest": "2026-11-14T05:44:13.646567+00:00",
@@ -5976,18 +5975,13 @@
   "https://biznis.telegraf.rs/info-biz/4435350-predsednicki-kandidat-eduar-filip-upozorava-na-finansijsku-krizu-u-francuskoj": "2026-11-19T01:16:38.226149+00:00",
   "https://www.telegraf.rs/4435569-macura-zastita-dece-od-nasilja-mora-biti-prioritet-celog-drustva": "2026-11-19T02:16:01.022475+00:00",
   "https://www.kurir.rs/planeta/10166123/razgovarali-putin-i-takaici": "2026-11-19T04:15:14.792603+00:00",
-  "https://www.telegraf.rs/vesti/srbija/4435604-obilne-padavine-ponovo-stizu-u-srbiju-evo-i-kada-otkrivamo-kada-i-gde-preti-olujni-vetar-temperatura-do-20": "2026-11-19T04:30:03.197904+00:00"
+  "https://www.telegraf.rs/vesti/srbija/4435604-obilne-padavine-ponovo-stizu-u-srbiju-evo-i-kada-otkrivamo-kada-i-gde-preti-olujni-vetar-temperatura-do-20": "2026-11-19T04:30:03.197904+00:00",
+  "https://www.euronews.rs/biznis/biznis-vesti/252711/kurs-evra-danas-kursna-lista-nbs-za-19-novembar/vest": "2026-11-19T04:44:53.003825+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-18T13:57+00:00",
-   "novih": 5,
-   "ukupno": 2444,
-   "sekundi": 354.1
-  },
   {
    "vreme": "2026-11-18T14:10+00:00",
    "novih": 1,
@@ -6341,6 +6335,12 @@
    "novih": 0,
    "ukupno": 2651,
    "sekundi": 285.4
+  },
+  {
+   "vreme": "2026-11-19T04:49+00:00",
+   "novih": 1,
+   "ukupno": 2652,
+   "sekundi": 273.7
   }
  ],
  "licnosti_foto": {
