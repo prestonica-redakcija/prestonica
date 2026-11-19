@@ -24,17 +24,38 @@
  ],
  "importance": 3,
  "published": "2026-11-19T04:44:53.003825+00:00",
- "updated": "2026-11-19T04:44:53.003825+00:00",
+ "updated": "2026-11-19T07:43:22.625567+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/biznis/biznis-vesti/252711/kurs-evra-danas-kursna-lista-nbs-za-19-novembar/vest",
    "title": "Objavljena kursna lista NBS: Kurs evra ostaje gotovo nepromenjen, dinar blago oslabio prema dolaru",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/299022/srednji-kurs-dinara-za-evro-danas-1176326-dinara-za-dolar-1072801/vest",
+   "title": "Srednji kurs dinara za evro danas 117,6326 dinara, za dolar 107,2801",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/nbs-objavila-danasnji-kurs-evra/",
+   "title": "NBS objavila današnji kurs evra",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1672617/danasnja-kursna-lista-pogledajte-koliko-dinara-danas-treba-izdvojiti-evro",
+   "title": "DANAŠNjA KURSNA LISTA: Pogledajte koliko dinara danas treba izdvojiti za evro",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Objavljena kursna lista NBS: Kurs evra ostaje gotovo nepromenjen, dinar blago oslabio prema dolaru"
+  "Objavljena kursna lista NBS: Kurs evra ostaje gotovo nepromenjen, dinar blago oslabio prema dolaru",
+  "Srednji kurs dinara za evro danas 117,6326 dinara, za dolar 107,2801",
+  "NBS objavila današnji kurs evra",
+  "DANAŠNjA KURSNA LISTA: Pogledajte koliko dinara danas treba izdvojiti za evro"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -45,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "NBS: srednji kurs evra 117,6326 dinara, dinar blago oslabio prema dolaru"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

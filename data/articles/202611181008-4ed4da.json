@@ -26,7 +26,7 @@
  "places": [],
  "importance": 3,
  "published": "2026-11-18T09:08:30.451343+00:00",
- "updated": "2026-11-18T12:22:09.404277+00:00",
+ "updated": "2026-11-19T07:43:22.625567+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -45,12 +45,19 @@
    "url": "https://n1info.rs/magazin/lifestyle/kembridzov-recnik-proglasio-rec-godine-za-2026/",
    "title": "Kembridžov rečnik proglasio reč godine za 2026.",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/zabava/zanimljivosti/10165994/kembricki-recnik-proglasio-rec-godine-za-2026",
+   "title": "Kembrički rečnik proglasio reč godine za 2026: Da se ne zaboravi šta znači",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "„Čovek“ proglašen za reč godine Kembričkog rečnika za 2026. godinu",
   "Kembrički rečnik proglasio reč godine za 2026: Da se ne zaboravi šta znači!",
-  "Kembridžov rečnik proglasio reč godine za 2026."
+  "Kembridžov rečnik proglasio reč godine za 2026.",
+  "Kembrički rečnik proglasio reč godine za 2026: Da se ne zaboravi šta znači"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "local": true,
   "alt": "Kembrički rečnik za reč godine 2026. proglasio reč „čovek“"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

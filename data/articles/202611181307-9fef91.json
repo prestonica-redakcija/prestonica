@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T12:07:07.965704+00:00",
- "updated": "2026-11-19T06:43:56.892649+00:00",
+ "updated": "2026-11-19T07:43:22.625567+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -75,6 +75,12 @@
    "url": "https://www.novosti.rs/vesti/politika/1672599/danas-nastavak-konstitutivne-sednice-rasprava-kandidatima-predsednika-skupstine",
    "title": "DANAS NASTAVAK KONSTITUTIVNE SEDNICE: Rasprava o kandidatima za predsednika Skupštine",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/nastavak-konstitutivne-sednice-skupstine-srbije-u-10-casova-na-dnevnom-redu-i-dalje-izbor-predsednika-parlamenta/",
+   "title": "Nastavak konstitutivne sednice Skupštine Srbije u 10 časova: Na dnevnom redu i dalje izbor predsednika parlamenta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -84,7 +90,8 @@
   "Izjava Stojana Radenovića o izboru za predsednika Skupštine: Evo šta je rekao o Čupiću",
   "Danas nastavak konstitutivne sednice, treći dan rasprave o kandidatima za predsednika Skupštine",
   "Treći dan konstitutivne sednice Skupštine: Na dnevnom redu izbor predsednika parlamenta",
-  "DANAS NASTAVAK KONSTITUTIVNE SEDNICE: Rasprava o kandidatima za predsednika Skupštine"
+  "DANAS NASTAVAK KONSTITUTIVNE SEDNICE: Rasprava o kandidatima za predsednika Skupštine",
+  "Nastavak konstitutivne sednice Skupštine Srbije u 10 časova: Na dnevnom redu i dalje izbor predsednika parlamenta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -96,8 +103,8 @@
   "local": true,
   "alt": "Brnabić na konstitutivnoj sednici uporedila naučne radove Radenovića i Čupića"
  },
- "novo_od_pisanja": 0,
- "boost": 1.48,
+ "novo_od_pisanja": 1,
+ "boost": 1.56,
  "prepisano": "2026-11-19T06:43:56.892649+00:00",
  "verzija": 2
 }

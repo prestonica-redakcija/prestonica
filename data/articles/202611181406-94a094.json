@@ -29,17 +29,24 @@
  ],
  "importance": 3,
  "published": "2026-11-18T13:06:51.494242+00:00",
- "updated": "2026-11-18T13:06:51.494242+00:00",
+ "updated": "2026-11-19T07:43:22.625567+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1171065/aleksandar-vucic-bojan-dimitrijevic-pikac",
    "title": "\"Evo, ušao ovaj što se naspavao, obojio sve bojanke\"! Vučić urnebesno prozvao Pikca - Cirkus u Skupštini",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10166380/vucic-prokomentarisao-dolazak-bojana-dimitrijevica-pikca-na-sednicu-skupstine",
+   "title": "\"EVO, UŠAO OVAJ ŠTO SE NASPAVAO JUČE, OBOJIO SVE BOJANKE\" Pikac ušao u Skupštinu, a Vučić reagovao: Evo šta je onda glumac uradio",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "\"Evo, ušao ovaj što se naspavao, obojio sve bojanke\"! Vučić urnebesno prozvao Pikca - Cirkus u Skupštini"
+  "\"Evo, ušao ovaj što se naspavao, obojio sve bojanke\"! Vučić urnebesno prozvao Pikca - Cirkus u Skupštini",
+  "\"EVO, UŠAO OVAJ ŠTO SE NASPAVAO JUČE, OBOJIO SVE BOJANKE\" Pikac ušao u Skupštinu, a Vučić reagovao: Evo šta je onda glumac uradio"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučić u Skupštini prozvao Bojana Dimitrijevića zbog kašnjenja na sednicu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
