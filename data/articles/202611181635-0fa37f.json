@@ -27,17 +27,24 @@
  ],
  "importance": 6,
  "published": "2026-11-18T15:35:51.985472+00:00",
- "updated": "2026-11-18T15:35:51.985472+00:00",
+ "updated": "2026-11-19T14:40:18.539936+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/biznis/nbs-blokirala-racune-kineskoj-firmi-koja-je-rekonstruisala-nadstresnicu/",
    "title": "Narodna banka Srbije blokirala račune kineskoj firmi koja je rekonstruisala nadstrešnicu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/286394/nbs-blokirala-racune-kineskoj-firmi-koja-je-rekonstruisala-nadstresnicu-u-novom-sadu/vest",
+   "title": "NBS blokirala račune kineskoj firmi koja je rekonstruisala nadstrešnicu u Novom Sadu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Narodna banka Srbije blokirala račune kineskoj firmi koja je rekonstruisala nadstrešnicu"
+  "Narodna banka Srbije blokirala račune kineskoj firmi koja je rekonstruisala nadstrešnicu",
+  "NBS blokirala račune kineskoj firmi koja je rekonstruisala nadstrešnicu u Novom Sadu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Meeting_M_Sakhawat_Hossain_And_Liu_Weimin_At_CCECC_Headquarters_China_2025-08-19_(PID-0000269).jpg",
   "alt": "Blokirani računi beogradskog ogranka kineske kompanije CCECC, navodi Vreme"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
