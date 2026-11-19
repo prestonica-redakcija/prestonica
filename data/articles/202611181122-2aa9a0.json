@@ -28,7 +28,7 @@
  ],
  "importance": 7,
  "published": "2026-11-18T10:22:49.423310+00:00",
- "updated": "2026-11-18T12:51:42.454605+00:00",
+ "updated": "2026-11-19T08:28:06.592224+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -59,6 +59,12 @@
    "url": "https://www.b92.net/biz/srbija/vesti/285993/inflacija-u-srbiji-u-2026-iznosi-32-odsto-a-u-2027-bice-49-odsto/vest",
    "title": "Inflacija u Srbiji: U 2026. iznosi 3,2 odsto, a u 2027. biće 4,9 odsto",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/286111/prognoze-ek-ocekuje-se-rast-bdp-a-srbije/vest",
+   "title": "Prognoze EK: Očekuje se rast BDP-a Srbije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -66,7 +72,8 @@
   "NBS: Prosečna inflacija u ovoj godini 3,2 odsto - dogodine 4,9 odsto umesto prognoziranih 4,3",
   "Nova prognoza Narodne banke Srbije: Inflacija u 2027. skače na 4,9 odsto",
   "Inflacija raste za 50 odsto: Prosečan rast cena sa 3,2 odsto u 2026. ide na 4,9 odsto u 2027. godini",
-  "Inflacija u Srbiji: U 2026. iznosi 3,2 odsto, a u 2027. biće 4,9 odsto"
+  "Inflacija u Srbiji: U 2026. iznosi 3,2 odsto, a u 2027. biće 4,9 odsto",
+  "Prognoze EK: Očekuje se rast BDP-a Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -78,6 +85,6 @@
   "local": true,
   "alt": "Narodna banka Srbije podigla projekciju inflacije za 2027. na 4,9 odsto"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

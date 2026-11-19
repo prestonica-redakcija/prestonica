@@ -24,17 +24,24 @@
  ],
  "importance": 5,
  "published": "2026-11-18T21:33:09.611818+00:00",
- "updated": "2026-11-18T21:33:09.611818+00:00",
+ "updated": "2026-11-19T08:28:06.592224+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/298988/raspisan-javni-poziv-za-podsticaje-za-premiju-osiguranja-biljaka-i-zivotinja/vest",
    "title": "Raspisan Javni poziv za podsticaje za premiju osiguranja biljaka i životinja",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/agro-biz/4435755-raspisan-javni-poziv-za-podsticaje-za-poljoprivrednu-premiju-ko-ostvaruje-pravo-na-25-miliona",
+   "title": "Raspisan Javni poziv za podsticaje za poljoprivrednu premiju: Ko ostvaruje pravo na 2,5 miliona",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Raspisan Javni poziv za podsticaje za premiju osiguranja biljaka i životinja"
+  "Raspisan Javni poziv za podsticaje za premiju osiguranja biljaka i životinja",
+  "Raspisan Javni poziv za podsticaje za poljoprivrednu premiju: Ko ostvaruje pravo na 2,5 miliona"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -45,5 +52,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Raspisan javni poziv za podsticaje za premiju osiguranja useva i životinja"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

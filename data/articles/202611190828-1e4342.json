@@ -37,7 +37,7 @@
  ],
  "importance": 7,
  "published": "2026-11-19T07:28:30.060675+00:00",
- "updated": "2026-11-19T08:13:12.764108+00:00",
+ "updated": "2026-11-19T08:28:06.592224+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -50,10 +50,17 @@
    "url": "https://n1info.rs/vesti/pocinje-glavni-pretres-u-slucaju-ubistva-danke-ilic/",
    "title": "Počinje glavni pretres u slučaju ubistva Danke Ilić",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/glavni-pretres-ubistvo-danke-ilic/",
+   "title": "Počinje glavni pretres u slučaju ubistva Danke Ilić",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "DEJAN DRAGIJEVIĆ I SRĐAN JANKOVIĆ DANAS PRED SUDOM ZBOG UBISTVA MALE DANKE ILIĆ: Počinje glavni pretres u Negotinu, ova faza suđenja otvorena za javnost",
+  "Počinje glavni pretres u slučaju ubistva Danke Ilić",
   "Počinje glavni pretres u slučaju ubistva Danke Ilić"
  ],
  "author": "Redakcija Prestonice",
@@ -66,6 +73,6 @@
   "local": true,
   "alt": "Počinje glavni pretres za ubistvo dvogodišnje Danke Ilić u Negotinu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

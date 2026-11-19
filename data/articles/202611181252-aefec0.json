@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T11:52:09.273954+00:00",
- "updated": "2026-11-18T12:07:07.965704+00:00",
+ "updated": "2026-11-19T08:28:06.592224+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -48,12 +48,19 @@
    "url": "https://n1info.rs/vesti/poslanica-sl-sanja-belic-kaze-da-ce-cupic-biti-i-na-celu-odbora-za-prava-deteta/",
    "title": "Poslanica SL Sanja Belić kaže da će Čupić biti i na čelu Odbora za prava deteta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10165773/aleksandar-cupic-bice-na-celu-odbora-za-prava-deteta",
+   "title": "POSLANICA SANJA BELIĆ SA STUDENTSKE LISTE OTKRILA: Aleksandar Čupić će biti i na čelu Odbora za prava deteta, to su ODLIČNE vesti!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Belić: Čupić će da vodi i Odbor za prava deteta",
   "NAKON OVAPLOĆENjA ANTIČKOG IDEALA, ČUPIĆ JE I GOROSTAS: Poslanica Studentske liste Sanja Belić objasnila predlog za predsednika Skupštine",
-  "Poslanica SL Sanja Belić kaže da će Čupić biti i na čelu Odbora za prava deteta"
+  "Poslanica SL Sanja Belić kaže da će Čupić biti i na čelu Odbora za prava deteta",
+  "POSLANICA SANJA BELIĆ SA STUDENTSKE LISTE OTKRILA: Aleksandar Čupić će biti i na čelu Odbora za prava deteta, to su ODLIČNE vesti!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "local": true,
   "alt": "Belić: Čupić bi, kao predsednik Skupštine, vodio i Odbor za prava deteta"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -26,17 +26,24 @@
  ],
  "importance": 4,
  "published": "2026-11-19T08:13:12.764108+00:00",
- "updated": "2026-11-19T08:13:12.764108+00:00",
+ "updated": "2026-11-19T08:28:06.592224+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/udruzenje-da-se-zna-pozvalo-studensku-listu-da-donese-zakon-o-istopolnim-zajednicama/",
    "title": "Udruženje Da se zna! pozvalo Studensku listu da donese Zakon o istopolnim zajednicama",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/udruzenje-da-se-zna-zakon-o-istopolnim-zajednicama-uvrstiti-medju-prioritete/",
+   "title": "Udruženje Da se zna: Zakon o istopolnim zajednicama uvrstiti među prioritete",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Udruženje Da se zna! pozvalo Studensku listu da donese Zakon o istopolnim zajednicama"
+  "Udruženje Da se zna! pozvalo Studensku listu da donese Zakon o istopolnim zajednicama",
+  "Udruženje Da se zna: Zakon o istopolnim zajednicama uvrstiti među prioritete"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Dragoslava_Barzut_-_Da_se_zna!.jpg",
   "alt": "Da se zna traži od nove većine zakon o istopolnim zajednicama u prvih šest meseci"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

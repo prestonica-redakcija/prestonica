@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-18T06:39:33.089480+00:00",
- "updated": "2026-11-19T07:58:17.672461+00:00",
+ "updated": "2026-11-19T08:28:06.592224+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -57,6 +57,12 @@
    "url": "https://www.b92.net/info/drustvo/286234/vremenska-prognoza-za-viken-i-zimu-kisa-kisa-sneg/vest",
    "title": "Sledi nova tura potopa u Srbiji; \"Spasiće\" nas jedino Karpati? A onda stižu ledeni dani",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/286234/vremenska-prognoza-za-vikend-i-zimu/vest",
+   "title": "Srbiju čekaju ledeni dani",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -64,7 +70,8 @@
   "I danas nas očekuju lokalni pljuskovi",
   "TEMPERATURA PADA NA 11 STEPENI, A ONDA SLEDI JOŠ VEĆI PREOKRET: Ristić za Kurir najavio kakvo nas vreme čeka u decembru - Evo kada sneg stiže u Beograd",
   "RHMZ: Kad stiže novo naoblačenje i kakvo nas vreme očekuje narednih dana?",
-  "Sledi nova tura potopa u Srbiji; \"Spasiće\" nas jedino Karpati? A onda stižu ledeni dani"
+  "Sledi nova tura potopa u Srbiji; \"Spasiće\" nas jedino Karpati? A onda stižu ledeni dani",
+  "Srbiju čekaju ledeni dani"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +83,6 @@
   "local": true,
   "alt": "Danas do 19 stepeni uz kišu, od vikenda stiže nagli pad temperature"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }
