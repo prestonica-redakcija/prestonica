@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-19T12:26:15.353983+00:00",
- "updated": "2026-11-19T14:40:18.539936+00:00",
+ "updated": "2026-11-19T14:55:09.557996+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,12 +48,19 @@
    "url": "https://biznis.telegraf.rs/info-biz/4435996-ugalj-iz-indonezije-stize-u-srbiju-prve-barze-krenule-iz-rumunske-luke-oglasili-se-iz-elektroprivrede-srbije",
    "title": "Ugalj iz Indonezije stiže u Srbiju: Prve barže krenule iz rumunske luke, oglasili se iz Elektroprivrede Srbije",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1672822/eps-ugalj-indonezija-konstanca",
+   "title": "EPS: Prve barže sa indonežanskim ugljem iz luke Konstanca krenule ka Srbiji",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "EPS: Prve barže sa indonežanskim ugljem iz luke Konstanca krenule ka Srbiji",
   "Prve barže sa indonežanskim ugljem krenule ka Srbiji",
-  "Ugalj iz Indonezije stiže u Srbiju: Prve barže krenule iz rumunske luke, oglasili se iz Elektroprivrede Srbije"
+  "Ugalj iz Indonezije stiže u Srbiju: Prve barže krenule iz rumunske luke, oglasili se iz Elektroprivrede Srbije",
+  "EPS: Prve barže sa indonežanskim ugljem iz luke Konstanca krenule ka Srbiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Granada_Avenida_de_la_Constitucion_21_Hotel_Tent_b.jpg",
   "alt": "Prve barže sa indonežanskim ugljem iz Konstance krenule ka Srbiji"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

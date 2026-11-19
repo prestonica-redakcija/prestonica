@@ -29,17 +29,24 @@
  ],
  "importance": 4,
  "published": "2026-11-18T21:33:09.611818+00:00",
- "updated": "2026-11-18T21:33:09.611818+00:00",
+ "updated": "2026-11-19T14:55:09.557996+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/drustvo/298985/ambasada-izraela-dodelila-medalje-pravednika-medu-nacijama-u-nisu/vest",
    "title": "Ambasada Izraela dodelila Medalje pravednika među nacijama u Nišu",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4435805-ambasada-izraela-urucila-medalje-pravednik-medju-narodima-u-nisu-priznanje-srbima-koji-su-spasavali-jevreje",
+   "title": "Ambasada Izraela uručila medalje \"Pravednik među narodima“ u Nišu: Priznanje Srbima koji su spasavali Jevreje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Ambasada Izraela dodelila Medalje pravednika među nacijama u Nišu"
+  "Ambasada Izraela dodelila Medalje pravednika među nacijama u Nišu",
+  "Ambasada Izraela uručila medalje \"Pravednik među narodima“ u Nišu: Priznanje Srbima koji su spasavali Jevreje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Ambasada_izraela_w_warszawie.JPG",
   "alt": "U Nišu dodeljene medalje Pravednik među narodima četiri porodice"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
