@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.kurir.rs/vesti/srbija/10162441/velika-posecenost-zlatibora-tokom-jesenjeg-raspusta": "2026-11-14T23:50:17.556708+00:00",
-  "https://www.kurir.rs/zabava/zena/10150564/koliko-je-novca-dovoljno-da-date-kumi-za-vencanje": "2026-11-14T23:50:17.556708+00:00",
   "https://biznis.telegraf.rs/info-biz/4433211-banka-postanska-stedionica-isplaceno-vise-od-7-odsto-sredstava-klijentima-alta-banke": "2026-11-15T00:05:08.512139+00:00",
   "https://biznis.telegraf.rs/info-biz/4433045-zlatibor-krcat-u-vreme-jesenjeg-raspusta-vise-od-50000-gostiju-dnevno-smestaji-skoro-puni": "2026-11-15T00:05:08.512139+00:00",
   "https://www.kurir.rs/vesti/srbija/10162438/udruzenje-paraplegicara-i-kvadriplegicara-kraguj-obelezilo-dve-decenije": "2026-11-15T00:05:08.512139+00:00",
@@ -6879,18 +6877,16 @@
   "https://www.telegraf.rs/vesti/svet/4436357-zelenski-se-sastao-sa-vitkofom-kusnerom-i-evropskim-savetnicima": "2026-11-19T23:36:31.686264+00:00",
   "https://www.telegraf.rs/4436359-oglasili-se-predstavnici-studentske-liste-nakon-sednice-skupstine": "2026-11-19T23:36:31.686264+00:00",
   "https://www.b92.net/info/politika/286517/obratili-se-poslanici-studentske-liste-cupic-vreme-je-da-preuzmemo-odgovornost-video/vest": "2026-11-19T23:36:31.686264+00:00",
-  "https://www.kurir.rs/vesti/politika/10167440/konferencija-studentske-liste": "2026-11-19T23:36:31.686264+00:00"
+  "https://www.kurir.rs/vesti/politika/10167440/konferencija-studentske-liste": "2026-11-19T23:36:31.686264+00:00",
+  "https://www.telegraf.rs/4436360-cupic-nakon-sednice-skupstine-nadam-se-da-sam-pokazao-da-cu-biti-predsednik-svih-poslanika": "2026-11-19T23:51:20.430617+00:00",
+  "https://nova.rs/magazin/vremenska-prognoza/u-srbiji-danas-pre-podne-suncano-tokom-dana-kisa/": "2026-11-19T23:51:20.430617+00:00",
+  "https://www.danas.rs/vesti/politika/manjinska-inicijativa-romi-u-srbiji-bez-samostalnog-predstavnika-u-skupstini-od-2007-godine/": "2026-11-19T23:51:20.430617+00:00",
+  "https://insajder.net/prenosimo/direktor-majkrosofta-vestacka-inteligencija-bi-mogla-da-izazove-brojne-probleme": "2026-11-19T23:51:20.430617+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-19T09:05+00:00",
-   "novih": 8,
-   "ukupno": 2712,
-   "sekundi": 456.2
-  },
   {
    "vreme": "2026-11-19T09:18+00:00",
    "novih": 3,
@@ -7244,6 +7240,12 @@
    "novih": 2,
    "ukupno": 2861,
    "sekundi": 335.3
+  },
+  {
+   "vreme": "2026-11-19T23:55+00:00",
+   "novih": 2,
+   "ukupno": 2863,
+   "sekundi": 274.0
   }
  ],
  "licnosti_foto": {
@@ -10033,23 +10035,23 @@
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "bibislav": {
     "since_id": "2123404577495986296",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "savomanojlovic": {
-    "since_id": "2123475413452083601",
-    "t": 1795127913.8520598
+    "since_id": "2123546565013070121",
+    "t": 1795132314.2646747
    },
    "zdravkoponos": {
     "since_id": "2123476746787860570",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "pavlegrbovic": {
     "since_id": "2123343121509413100",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "avucic": {
     "since_id": "2123531971506606293",
@@ -10137,11 +10139,11 @@
    },
    "dobrinacelnik": {
     "since_id": "2123461953905459269",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "jeremic_vuk": {
     "since_id": "2123007427536732502",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
@@ -10149,51 +10151,51 @@
    },
    "srdjanmil037": {
     "since_id": "2123426905680388191",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "zoranlutovac": {
     "since_id": "2123533913687798242",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "pajticbojan": {
     "since_id": "2123010476577554657",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "n_zelenovic": {
-    "since_id": "2123519585186107556",
-    "t": 1795127913.8520598
+    "since_id": "2123561201799921899",
+    "t": 1795132314.2646747
    },
    "boskoobradovic": {
     "since_id": "2122592273707712867",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "sasaradulovich": {
     "since_id": "2123464267466756198",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "zaklina_prva": {
     "since_id": "2123537420226588733",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "stevanoccrp": {
     "since_id": "2123435490518892707",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "igorbrakus": {
     "since_id": "2123460909590831246",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "radoholicar": {
     "since_id": "2123165000919326944",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "borakonj": {
     "since_id": "2123527622189527388",
@@ -10201,7 +10203,7 @@
    },
    "narodnipokrets": {
     "since_id": "2123148949066559561",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "direktnors": {
     "since_id": "2123517855039627691",
@@ -10268,16 +10270,16 @@
     "t": 1795129778.466086
    },
    "nedeljniknin": {
-    "since_id": "2123536796273479735",
-    "t": 1795127913.8520598
+    "since_id": "2123551895629480428",
+    "t": 1795132314.2646747
    },
    "trajkovic_rada": {
     "since_id": "2122991868078088331",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "stateinl": {
     "since_id": "2122430104034816504",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "tvbalkaninfo": {
     "since_id": "2123145868773822473",
@@ -10288,32 +10290,32 @@
     "t": 1795129778.466086
    },
    "zatrijebacki": {
-    "since_id": "2123480535599296707",
-    "t": 1795127913.8520598
+    "since_id": "2123547539249168585",
+    "t": 1795132314.2646747
    },
    "srbininfo": {
     "since_id": "2123536223364952269",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "mfaserbia": {
     "since_id": "2123398253513425287",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "izlaz_dot_com": {
-    "since_id": "2123538060847587632",
-    "t": 1795127913.8520598
+    "since_id": "2123550643860152633",
+    "t": 1795132314.2646747
    },
    "tihinavezi": {
-    "since_id": "2123523969273770266",
-    "t": 1795127913.8520598
+    "since_id": "2123561139388690888",
+    "t": 1795132314.2646747
    },
    "relativizacija": {
     "since_id": "2123535874268835935",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "seanmilanovic": {
     "since_id": "2122143504902041610",
-    "t": 1795127913.8520598
+    "t": 1795132314.2646747
    },
    "masinars": {
     "since_id": "2123552902409048327",
@@ -10321,6 +10323,32 @@
    }
   },
   "posts": [
+   {
+    "id": "2123561201799921899",
+    "x": "n_zelenovic",
+    "ime": "Nebojša Zelenović",
+    "grupa": "opozicija",
+    "uloga": "",
+    "text": "Kako te bre nije sramota? https://t.co/IMiW5rHYmQ",
+    "published": "2026-11-19T23:36:59.000+00:00",
+    "lajk": 3,
+    "prikazi": false,
+    "rubrika": "politika",
+    "tema": "Kratka objava bez jasnog konteksta"
+   },
+   {
+    "id": "2123561139388690888",
+    "x": "TihiNaVezi",
+    "ime": "Tihi na vezi",
+    "grupa": "",
+    "uloga": "",
+    "text": "VUČIĆU, BRNABIĆKA, DAČIĆU, VRAĆAJTE VILE, AUTOMOBILE I POKLONE! DOSTA STE ŽIVELI NA GRBAČI NARODA!\n \nGospodo, bilo je lepo dok je trajalo. Državne vile, službeni automobili, vozači, obezbeđenje, posluga, prijemi i sve ostale pogodnosti koje idu uz visoke državne funkcije. Ali https://t.co/kTmbf643fM",
+    "published": "2026-11-19T23:36:44.000+00:00",
+    "lajk": 11,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Poziv da funkcioneri vrate državne vile, automobile i poklone"
+   },
    {
     "id": "2123552902409048327",
     "x": "MasinaRS",
@@ -10335,6 +10363,19 @@
     "tema": "Mirjana Radaković izabrana za generalnu sekretarku Skupštine"
    },
    {
+    "id": "2123551895629480428",
+    "x": "NedeljnikNIN",
+    "ime": "NIN",
+    "grupa": "",
+    "uloga": "",
+    "text": "Najgore vreme za večeru: Dijetetičari otkrivaju kada je poslednji obrok preblizu spavanju\n https://t.co/xqtjpeWvPR",
+    "published": "2026-11-19T23:00:00.000+00:00",
+    "lajk": 0,
+    "prikazi": false,
+    "rubrika": "drustvo",
+    "tema": "Savet o vremenu večere pre spavanja"
+   },
+   {
     "id": "2123551519362453514",
     "x": "studentblokade",
     "ime": "Studenti u blokadi",
@@ -10346,6 +10387,20 @@
     "prikazi": true,
     "rubrika": "politika",
     "tema": "Mirjana Radaković novi generalni sekretar Narodne skupštine"
+   },
+   {
+    "id": "2123550643860152633",
+    "x": "izlaz_dot_com",
+    "ime": "IZLAZ.com",
+    "grupa": "",
+    "uloga": "",
+    "text": "Novi potpredsednici Skupštine sa Studentske liste: Lekarke, profesorka, umetnik i stručnjaci za međunarodne odnose\n\nhttps://t.co/McPQUGVjdb",
+    "published": "2026-11-19T22:55:01.000+00:00",
+    "lajk": 21,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Novi potpredsednici Skupštine sa Studentske liste",
+    "vest": "202611200006-c5887a"
    },
    {
     "id": "2123550065583092059",
@@ -10400,6 +10455,33 @@
     "prikazi": false,
     "rubrika": "politika",
     "tema": "Uvrede i pretnje upućene pristalicama vlasti"
+   },
+   {
+    "id": "2123547539249168585",
+    "x": "Zatrijebacki",
+    "ime": "Bobi",
+    "grupa": "",
+    "uloga": "",
+    "text": "Шта се крчка?🤭\nPolitico:\"Some of the officials familiar with the call described Trump’s tone as strongly critical of Europe’s ongoing support for Kyiv, while others said he was just communicating in his usual forthright style.\"\nhttps://t.co/khGlgETk68",
+    "published": "2026-11-19T22:42:41.000+00:00",
+    "lajk": 0,
+    "prikazi": true,
+    "rubrika": "svet",
+    "tema": "Politico: Trampov kritički ton prema evropskoj podršci Kijevu",
+    "vest": "202611192351-b1e3fc"
+   },
+   {
+    "id": "2123546565013070121",
+    "x": "SavoManojlovic",
+    "ime": "Savo Manojlović",
+    "grupa": "opozicija",
+    "uloga": "Kreni-Promeni",
+    "text": "KP Live: Vučić više nikada ne može da dobije izbore https://t.co/61Fp0m7FSI",
+    "published": "2026-11-19T22:38:49.000+00:00",
+    "lajk": 57,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Tvrdnja da Vučić više ne može da dobije izbore"
    },
    {
     "id": "2123543723917070714",
@@ -20857,85 +20939,6 @@
     "rubrika": "drustvo",
     "tema": "Vučević o pogibiji pilota majora Gorana Bulajića",
     "vest": "202611171914-f85420"
-   },
-   {
-    "id": "2122969327905431623",
-    "x": "BezStraha26279",
-    "ime": "BezStraga",
-    "grupa": "",
-    "uloga": "",
-    "text": "DJURO JOVANIĆ -ROBIJA\n\nJE OTIŠAO PO UZORU NA KOLEGE U MUP U LAŽNU PENZIJU JED JE SVESTAN DA IDE NA ROBIJU\n\nDJURO JE PORED PLJAČKE VOJSKE SRBIJE PRISLUŠKIVANJA OPOZICIJE UČESTVOVAO I U SNABDEVANJU TERORISTE \n\nMILANA SMRADOJIČIĆA SA PREKO 6 TONA ORUŽIJA I DAVAO JE SVU LOGISTIJU U https://t.co/lLTAo3DJJh https://t.co/16GyYVwXDW",
-    "published": "2026-11-18T08:25:05.000+00:00",
-    "lajk": 60,
-    "prikazi": false,
-    "rubrika": "politika",
-    "tema": "Uvredljive optužbe na račun Đure Jovanića i drugih"
-   },
-   {
-    "id": "2122969117304995902",
-    "x": "Zatrijebacki",
-    "ime": "Bobi",
-    "grupa": "",
-    "uloga": "",
-    "text": "BORBA:\"I sada treba da povjerujemo da su se djeca crnogorske crvene buržoazije sasvim slučajno okupila oko „studentske“ liste?\nDa je sasvim slučajno podršku toj listi pružio Milo Đukanović, čiji je DPS politički nasljednik Saveza komunista Crne Gore?\" https://t.co/PzhJzu2tIj",
-    "published": "2026-11-18T08:24:15.000+00:00",
-    "lajk": 1,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Borba o Studentskoj listi i podršci Mila Đukanovića u Crnoj Gori"
-   },
-   {
-    "id": "2122967633863565451",
-    "x": "nstarovic",
-    "ime": "Nemanja Starović",
-    "grupa": "vlast",
-    "uloga": "Srpska napredna stranka",
-    "text": "Најискреније саучешће породици. Нека му Господ подари Рајско насеље. https://t.co/fBLJjBmBHc",
-    "published": "2026-11-18T08:18:21.000+00:00",
-    "lajk": 0,
-    "prikazi": true,
-    "rubrika": "drustvo",
-    "tema": "Saučešće porodici (verovatno povodom pogibije pilota)"
-   },
-   {
-    "id": "2122967416611184669",
-    "x": "DirektnoRS",
-    "ime": "Direktno",
-    "grupa": "",
-    "uloga": "",
-    "text": "Prema prvim, nezvaničnim informacijama iz istrage, drama iza zatvorenih vrata trajala je nekoliko dana.\nhttps://t.co/mkkcbJAuzO",
-    "published": "2026-11-18T08:17:29.000+00:00",
-    "lajk": 0,
-    "prikazi": true,
-    "rubrika": "hronika",
-    "tema": "Nezvanične informacije iz istrage o danima zatočeništva",
-    "vest": "202611180854-432b18"
-   },
-   {
-    "id": "2122967021218349469",
-    "x": "MasinaRS",
-    "ime": "Mašina",
-    "grupa": "",
-    "uloga": "",
-    "text": "Počinje nova faza a zna se ko prati sve iz minuta u minut :) Uskoro i na Mašini noviteti, bićemo u institucijama, na ulicama - uživo, kroz analize i serijale. Gde treba, kad treba - jer treba.\n\nNaš rad možete podržati donacijama. Link sa informacijama u opisu profila. Vidimo se! https://t.co/a0UtOlHWiw",
-    "published": "2026-11-18T08:15:55.000+00:00",
-    "lajk": 3,
-    "prikazi": false,
-    "rubrika": "mediji",
-    "tema": "Mašina najavljuje novu fazu rada i traži donacije"
-   },
-   {
-    "id": "2122966943275618394",
-    "x": "sns_srbija",
-    "ime": "SNS",
-    "grupa": "vlast",
-    "uloga": "Srpska napredna stranka",
-    "text": "Јованов @MilenkoJovanov: Србија треба да чује истину\nhttps://t.co/1zdqUUQ278 https://t.co/sz5Oh8obzW",
-    "published": "2026-11-18T08:15:36.000+00:00",
-    "lajk": 7,
-    "prikazi": false,
-    "rubrika": "politika",
-    "tema": "SNS promo: Jovanov, Srbija treba da čuje istinu"
    }
   ],
   "pratim": [
@@ -59370,6 +59373,20 @@
      "naslov": "U.S. International Development Finance Corporation (DFC) President and CEO Adam Boehler visit to Port-au-Prince, Haiti on October 14, 2020 - 23.jpg"
     }
    ]
+  },
+  "t:nacionalni savet": {
+   "t": 1795132300.491329,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Nacionalni_savet_Slova%C4%8Dke_republike_-_panoramio.jpg/1920px-Nacionalni_savet_Slova%C4%8Dke_republike_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3264,
+     "h": 2448,
+     "god": 2011,
+     "credit": "Wikimedia Commons / Mister No / CC BY 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Nacionalni_savet_Slova%C4%8Dke_republike_-_panoramio.jpg",
+     "naslov": "Nacionalni savet Slovačke republike - panoramio.jpg"
+    }
+   ]
   }
  },
  "x_objave": {
@@ -59543,12 +59560,6 @@
    "202611200006-923bfc"
   ],
   "istorija": [
-   {
-    "t": 1794527023.4117293,
-    "id": "202611130013-f3193c",
-    "x": "2121026182242242959",
-    "link": true
-   },
    {
     "t": 1794527920.5670493,
     "id": "202611130028-519bed",
@@ -62995,8 +63006,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-19T23:37:39.217600+00:00",
-  "uzivo_t": "2026-11-19T23:37:39.217618+00:00"
+  "provereno": "2026-11-19T23:52:11.065611+00:00",
+  "uzivo_t": "2026-11-19T23:52:11.065629+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {

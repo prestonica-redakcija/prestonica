@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T19:49:06.120965+00:00",
- "updated": "2026-11-19T06:14:04.945422+00:00",
+ "updated": "2026-11-19T23:51:20.430617+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,12 +48,19 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/299004/u-srbiji-danas-oblacno-posle-podne-i-uvece-mestimicno-sa-kisom-do-19-stepeni/vest",
    "title": "U Srbiji danas oblačno, posle podne i uveče mestimično sa kišom, do 19 stepeni",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/magazin/vremenska-prognoza/u-srbiji-danas-pre-podne-suncano-tokom-dana-kisa/",
+   "title": "U Srbiji danas pre podne sunčano, tokom dana kiša",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "RHMZ: I u toku večeri oblačano, mestimično sa kišom i pljuskovima sa grmljavinom",
   "Kiša i grmljavina i tokom večeri: RHMZ najavljuje lokalno obilne pljuskove",
-  "U Srbiji danas oblačno, posle podne i uveče mestimično sa kišom, do 19 stepeni"
+  "U Srbiji danas oblačno, posle podne i uveče mestimično sa kišom, do 19 stepeni",
+  "U Srbiji danas pre podne sunčano, tokom dana kiša"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "local": true,
   "alt": "RHMZ: večeras kiša i pljuskovi, sutra pojačan vetar koji uveče može biti olujni"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
