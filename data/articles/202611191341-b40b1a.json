@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-19T12:41:11.680229+00:00",
- "updated": "2026-11-19T12:41:11.680229+00:00",
+ "updated": "2026-11-19T13:40:41.851211+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/drustvo/299139/rzs-stopa-rizika-od-siromastva-medu-decom-u-srbiji-pala-sa-244-na-204-odsto/vest",
    "title": "RZS: Stopa rizika od siromaštva među decom u Srbiji pala sa 24,4 na 20,4 odsto",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/rzs-stopa-rizika-od-siromastva-medu-decom-u-srbiji-pala-za-cetiri-odsto",
+   "title": "RZS: Stopa rizika od siromaštva među decom u Srbiji pala za četiri odsto",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "RZS: Stopa rizika od siromaštva među decom u Srbiji pala sa 24,4 na 20,4 odsto"
+  "RZS: Stopa rizika od siromaštva među decom u Srbiji pala sa 24,4 na 20,4 odsto",
+  "RZS: Stopa rizika od siromaštva među decom u Srbiji pala za četiri odsto"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "RZS: stopa rizika od siromaštva među decom pala sa 24,4 na 20,4 odsto"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

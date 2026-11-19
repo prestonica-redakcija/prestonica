@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-19T11:11:51.082473+00:00",
- "updated": "2026-11-19T13:25:55.933564+00:00",
+ "updated": "2026-11-19T13:40:41.851211+00:00",
  "sources": [
   {
    "name": "N1",
@@ -58,6 +58,12 @@
    "url": "https://www.b92.net/info/hronika/286368/preteci-mejlovi-stigli-na-fakultete-u-beogradu/vest",
    "title": "Preteći mejlovi stigli na fakultete u Beogradu",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/299164/na-adrese-nekoliko-fakulteta-u-beogradu-stigao-mejl-pretece-sadrzine/vest",
+   "title": "Na adrese nekoliko fakulteta u Beogradu stigao mejl preteće sadržine",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -65,7 +71,8 @@
   "Gimnazija u Prokuplju prijavila pretnje, policija i tužilaštvo istražuju",
   "Gimnaziji u Prokuplju stigla preteća poruka, policija obavestila Viša javna tužilaštva u Prokuplju i Beogradu",
   "Alarm u Prokuplju! Gimnaziji stigla preteća poruka, policija odmah reagovala, obaveštena i tužilaštva",
-  "Preteći mejlovi stigli na fakultete u Beogradu"
+  "Preteći mejlovi stigli na fakultete u Beogradu",
+  "Na adrese nekoliko fakulteta u Beogradu stigao mejl preteće sadržine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -78,8 +85,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Monument_to_Zoran_%C4%90in%C4%91i%C4%87_in_Prokuplje,_september_2024_03.jpg",
   "alt": "Policija i tužilaštvo istražuju preteću poruku poslatu na imejl Gimnazije u Prokuplju"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-19T13:25:55.933564+00:00",
  "verzija": 2
 }

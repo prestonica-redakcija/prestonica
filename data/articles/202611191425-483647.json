@@ -33,7 +33,7 @@
  ],
  "importance": 8,
  "published": "2026-11-19T13:25:55.933564+00:00",
- "updated": "2026-11-19T13:25:55.933564+00:00",
+ "updated": "2026-11-19T13:40:41.851211+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -52,12 +52,26 @@
    "url": "https://nova.rs/vesti/politika/princ-filip-cestitao-cupicu-podsetio-na-zavet-karadjordja-i-kralja-petra-i-porucio-studenti-su-probudili-nadu/",
    "title": "Princ Filip čestitao Čupiću, podsetio na zavet Karađorđa i kralja Petra i poručio: „Studenti su probudili nadu“",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10166932/dodik-cestitao-cupicu-izbor-za-predsednika-skupstine-srbije",
+   "title": "\"SREĆNO U RADU, PREDSEDNIČE ČUPIĆU!\" Milorad Dodik čestitao novoizabranom presedniku Skupštine Srbije",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/princ-filip-cestitao-cupicu-podsetio-na-zavet-karadjordja-i-kralja-petra/",
+   "title": "Princ Filip čestitao Čupiću, podsetio na zavet Karađorđa i kralja Petra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Studenti u blokadi čestitali Čupiću izbor za predsednika (VIDEO)",
   "„Srećno u radu, predsedniče Čupiću“: Dodik čestitao na izboru za predsednika Narodne skupštine Srbije",
-  "Princ Filip čestitao Čupiću, podsetio na zavet Karađorđa i kralja Petra i poručio: „Studenti su probudili nadu“"
+  "Princ Filip čestitao Čupiću, podsetio na zavet Karađorđa i kralja Petra i poručio: „Studenti su probudili nadu“",
+  "\"SREĆNO U RADU, PREDSEDNIČE ČUPIĆU!\" Milorad Dodik čestitao novoizabranom presedniku Skupštine Srbije",
+  "Princ Filip čestitao Čupiću, podsetio na zavet Karađorđa i kralja Petra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,5 +84,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Milorad_Dodik_2026_(cropped).jpg",
   "osoba": "Milorad Dodik",
   "alt": "Čupić izabran za predsednika Skupštine, čestitali studenti, princ Filip i Dodik"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
