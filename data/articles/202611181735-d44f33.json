@@ -28,16 +28,23 @@
  ],
  "importance": 4,
  "published": "2026-11-18T16:35:38.664870+00:00",
- "updated": "2026-11-18T16:35:38.664870+00:00",
+ "updated": "2026-11-19T01:16:38.226149+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/298782/predsednicki-kandidat-eduar-filip-upozorava-na-finansijsku-krizu-u-francuskoj/vest",
    "title": "Predsednički kandidat Eduar Filip upozorava na finansijsku krizu u Francuskoj",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4435350-predsednicki-kandidat-eduar-filip-upozorava-na-finansijsku-krizu-u-francuskoj",
+   "title": "Predsednički kandidat Eduar Filip upozorava na finansijsku krizu u Francuskoj",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
+  "Predsednički kandidat Eduar Filip upozorava na finansijsku krizu u Francuskoj",
   "Predsednički kandidat Eduar Filip upozorava na finansijsku krizu u Francuskoj"
  ],
  "author": "Redakcija Prestonice",
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Filip upozorava da je Francuska ušla u prvu fazu finansijske krize"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
