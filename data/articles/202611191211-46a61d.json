@@ -3,19 +3,21 @@
  "slug": "policija-i-tuzilastvo-istrazuju-pretecu-poruku-poslatu-na-imejl",
  "kind": "vest",
  "section": "hronika",
- "headline": "Policija i tužilaštvo istražuju preteću poruku poslatu na imejl Gimnazije u Prokuplju",
- "lead": "Policija i tužilaštvo istražuju preteću poruku koja je stigla na zvaničnu imejl adresu Gimnazije u Prokuplju, potvrđeno je u prokupačkoj Policijskoj upravi. Škola je nakon prijema poruke pokrenula bezbednosne procedure.",
+ "headline": "Preteće poruke stigle i na fakultete u Beogradu, evakuisani studenti i profesori",
+ "lead": "Preteće poruke stigle su na mejl adrese više beogradskih fakulteta, među njima i Filološkog, a studenti i profesori su evakuisani iz zgrada, navodi B92. Ranije je preteća poruka stigla i na imejl Gimnazije u Prokuplju, o čemu policija i tužilaštva već vode postupak.",
  "body": [
-  "Kako prenosi N1, pozivajući se na portal Južne vesti, nadležni istražuju poruku upućenu na zvaničnu imejl adresu prokupačke Gimnazije. Zvaničnih informacija o sadržaju poruke za sada nema, kao ni podataka o tome odakle je i sa koje adrese poslata.",
-  "Iz prokupačke policije navode da je prijavljeno da je pretećа poruka stigla na imejl jedne škole u Prokuplju. Kako su rekli, policija je odmah preduzela sve mere i radnje iz svoje nadležnosti i obavestila Više javno tužilaštvo u Prokuplju, kao i Više javno tužilaštvo u Beogradu, Posebno odeljenje za visokotehnološki kriminal.",
-  "Škola je nakon prijema imejla pokrenula bezbednosne procedure i obavestila nadležne organe. Zasedao je školski Tim za krizne situacije.",
-  "Iz Tima su saopštili da je održan hitan sastanak radi procene bezbednosti, utvrđivanja daljih koraka i pružanja podrške učenicima i zaposlenima. Za petak je, u skladu sa trenutnom situacijom, zakazana protivpožarna vežba."
+  "B92 javlja da su preteće poruke stigle na mejl adrese više fakulteta u Beogradu, a da je među njima i Filološki fakultet. Prema istom izvoru, studenti i profesori su odmah evakuisani iz zgrada.",
+  "Kako B92 prenosi saznanja Tanjuga, u toku je rad policije na utvrđivanju navoda iz poruka. Izvori ne navode sadržaj poruka, tačan spisak fakulteta ni to da li je neko osumnjičen.",
+  "Ranije je iz Policijske uprave u Prokuplju potvrđeno da je preteća poruka stigla na zvaničnu imejl adresu Gimnazije u Prokuplju. Kako je prenosio N1, pozivajući se na Južne vesti, policija je preduzela mere iz svoje nadležnosti i obavestila Više javno tužilaštvo u Prokuplju, kao i Više javno tužilaštvo u Beogradu, Posebno odeljenje za visokotehnološki kriminal.",
+  "Škola u Prokuplju pokrenula je bezbednosne procedure, a školski Tim za krizne situacije održao je hitan sastanak radi procene bezbednosti, utvrđivanja daljih koraka i podrške učenicima i zaposlenima. Za petak je, u skladu sa trenutnom situacijom, zakazana protivpožarna vežba.",
+  "U dostupnim izvorima nema podataka o tome da li su poruke poslate na fakultete u Beogradu i na gimnaziju u Prokuplju povezane."
  ],
  "tags": [
-  "Prokuplje",
-  "Gimnazija",
-  "pretnja",
-  "bezbednost u školama",
+  "preteće poruke",
+  "evakuacija",
+  "fakulteti",
+  "Filološki fakultet",
+  "Gimnazija Prokuplje",
   "visokotehnološki kriminal"
  ],
  "people": [],
@@ -25,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-19T11:11:51.082473+00:00",
- "updated": "2026-11-19T11:56:27.978966+00:00",
+ "updated": "2026-11-19T13:25:55.933564+00:00",
  "sources": [
   {
    "name": "N1",
@@ -50,13 +52,20 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4435926-alarm-u-prokuplju-gimnaziji-stigla-preteca-poruka-policija-odmah-reagovala-obavestena-i-tuzilastva",
    "title": "Alarm u Prokuplju! Gimnaziji stigla preteća poruka, policija odmah reagovala, obaveštena i tužilaštva",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/286368/preteci-mejlovi-stigli-na-fakultete-u-beogradu/vest",
+   "title": "Preteći mejlovi stigli na fakultete u Beogradu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Nadležni istražuju preteću poruku koja je stigla na mejl adresu Gimnazije u Prokuplju",
   "Gimnazija u Prokuplju prijavila pretnje, policija i tužilaštvo istražuju",
   "Gimnaziji u Prokuplju stigla preteća poruka, policija obavestila Viša javna tužilaštva u Prokuplju i Beogradu",
-  "Alarm u Prokuplju! Gimnaziji stigla preteća poruka, policija odmah reagovala, obaveštena i tužilaštva"
+  "Alarm u Prokuplju! Gimnaziji stigla preteća poruka, policija odmah reagovala, obaveštena i tužilaštva",
+  "Preteći mejlovi stigli na fakultete u Beogradu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +78,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Monument_to_Zoran_%C4%90in%C4%91i%C4%87_in_Prokuplje,_september_2024_03.jpg",
   "alt": "Policija i tužilaštvo istražuju preteću poruku poslatu na imejl Gimnazije u Prokuplju"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 0,
+ "boost": 1.32,
+ "prepisano": "2026-11-19T13:25:55.933564+00:00",
+ "verzija": 2
 }
