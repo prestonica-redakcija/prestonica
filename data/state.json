@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.telegraf.rs/vesti/srbija/4432749-u-srbiji-danas-osetno-hladnije-na-planinama-pada-sneg-najvisa-dnevna-do-9-c": "2026-11-14T04:29:51.859646+00:00",
   "https://www.kurir.rs/vesti/beograd/10161147/planirani-radovi-iskljucenja-struje-u-beogradu14-novembra-2026": "2026-11-14T04:44:44.143404+00:00",
   "https://www.kurir.rs/zabava/zena/10159484/smesa-za-pohovanje-sa-pivom": "2026-11-14T04:59:34.083519+00:00",
   "https://www.telegraf.rs/vesti/srbija/4432858-granicni-prelazi-prohodni-evo-gde-cekaju-kamioni": "2026-11-14T05:44:13.646567+00:00",
@@ -5976,18 +5975,13 @@
   "https://www.euronews.rs/biznis/biznis-vesti/252607/uber-i-momenta-pokrenuli-pilot-robotaksija-u-minhenu/vest": "2026-11-19T01:01:42.389012+00:00",
   "https://biznis.telegraf.rs/info-biz/4435350-predsednicki-kandidat-eduar-filip-upozorava-na-finansijsku-krizu-u-francuskoj": "2026-11-19T01:16:38.226149+00:00",
   "https://www.telegraf.rs/4435569-macura-zastita-dece-od-nasilja-mora-biti-prioritet-celog-drustva": "2026-11-19T02:16:01.022475+00:00",
-  "https://www.kurir.rs/planeta/10166123/razgovarali-putin-i-takaici": "2026-11-19T04:15:14.792603+00:00"
+  "https://www.kurir.rs/planeta/10166123/razgovarali-putin-i-takaici": "2026-11-19T04:15:14.792603+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4435604-obilne-padavine-ponovo-stizu-u-srbiju-evo-i-kada-otkrivamo-kada-i-gde-preti-olujni-vetar-temperatura-do-20": "2026-11-19T04:30:03.197904+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-18T13:42+00:00",
-   "novih": 5,
-   "ukupno": 2439,
-   "sekundi": 352.0
-  },
   {
    "vreme": "2026-11-18T13:57+00:00",
    "novih": 5,
@@ -6341,6 +6335,12 @@
    "novih": 0,
    "ukupno": 2651,
    "sekundi": 205.3
+  },
+  {
+   "vreme": "2026-11-19T04:34+00:00",
+   "novih": 0,
+   "ukupno": 2651,
+   "sekundi": 285.4
   }
  ],
  "licnosti_foto": {
@@ -9008,7 +9008,7 @@
    "slug": "radna-grupa-gost-predrag-azdejkovic-i-tema-medijskog-mraka-mrvjz4lu8-8"
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -9095,7 +9095,7 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2122706531619889216",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "parandilovicnls": {
     "since_id": "2123125546464977211",
@@ -9123,39 +9123,39 @@
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "bibislav": {
     "since_id": "2122724404803129461",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "savomanojlovic": {
     "since_id": "2123076951875141806",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "zdravkoponos": {
     "since_id": "2122731192650695085",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "pavlegrbovic": {
     "since_id": "2123154171507413496",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "avucic": {
     "since_id": "2123105846263779827",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "anabrnabic": {
     "since_id": "2123117894347432226",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "milos_vucevic": {
     "since_id": "2123015273867624512",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "sns_srbija": {
     "since_id": "2123089007118541130",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "vlada_srbije": {
     "since_id": null,
@@ -9199,23 +9199,23 @@
    },
    "markodjuric": {
     "since_id": "2121317324322205730",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "nstarovic": {
     "since_id": "2122967633863565451",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "milenkojovanov": {
     "since_id": "2123121166059487542",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "acasapic": {
     "since_id": null,
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "borkostef": {
     "since_id": "2122273891993481658",
@@ -9227,11 +9227,11 @@
    },
    "dobrinacelnik": {
     "since_id": "2123134821962854809",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "jeremic_vuk": {
     "since_id": "2123007427536732502",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "boristadic58": {
     "since_id": "2122445695164522856",
@@ -9239,51 +9239,51 @@
    },
    "srdjanmil037": {
     "since_id": "2123094781513314610",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "zoranlutovac": {
     "since_id": "2123075553049616473",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "pajticbojan": {
     "since_id": "2123010476577554657",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "n_zelenovic": {
     "since_id": "2123019273408848125",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "boskoobradovic": {
     "since_id": "2122592273707712867",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "sasaradulovich": {
     "since_id": "2123063214086779069",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "zaklina_prva": {
     "since_id": "2123170451312570871",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "stevanoccrp": {
     "since_id": "2123010576351736189",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "igorbrakus": {
     "since_id": "2123090227522670597",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "radoholicar": {
     "since_id": "2123165000919326944",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "borakonj": {
     "since_id": "2123100586472055073",
@@ -9291,7 +9291,7 @@
    },
    "narodnipokrets": {
     "since_id": "2123148949066559561",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "direktnors": {
     "since_id": "2123158749955100963",
@@ -9359,15 +9359,15 @@
    },
    "nedeljniknin": {
     "since_id": "2123189512260161941",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "trajkovic_rada": {
     "since_id": "2122991868078088331",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "stateinl": {
     "since_id": "2122430104034816504",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "tvbalkaninfo": {
     "since_id": "2123145868773822473",
@@ -9379,31 +9379,31 @@
    },
    "zatrijebacki": {
     "since_id": "2123197296737132921",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "srbininfo": {
     "since_id": "2123215836626428264",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "mfaserbia": {
     "since_id": "2123042695689994354",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "izlaz_dot_com": {
     "since_id": "2123177878514708483",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "tihinavezi": {
     "since_id": "2123144990154993860",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "relativizacija": {
     "since_id": "2122776315505893424",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "seanmilanovic": {
     "since_id": "2122143504902041610",
-    "t": 1795058151.5759137
+    "t": 1795062634.1809666
    },
    "masinars": {
     "since_id": "2123151022168121649",

@@ -3,19 +3,19 @@
  "slug": "rhmz-upozorava-na-obilnu-kisu-i-jak-vetar-popodne-i-uvece-ponegde-do",
  "kind": "vest",
  "section": "drustvo",
- "headline": "RHMZ upozorava na obilnu kišu i jak vetar popodne i uveče, ponegde do 50 milimetara",
- "lead": "Republički hidrometeorološki zavod upozorio je da se danas popodne i uveče u velikom delu Srbije očekuju obilne padavine, a sutra krajem dana jak i olujni vetar. Najviše kiše, od 30 do 50 milimetara, mogla bi da padne u pojasu od južne Bačke i zapadne Srbije do istoka zemlje.",
+ "headline": "Danas suvo do podne, popodne obilna kiša, a pred veče olujni udari vetra",
+ "lead": "Posle sunčanog i toplog prepodneva, u Srbiji se danas popodne i uveče očekuju obilna kiša, pljuskovi i sve jači južni i jugozapadni vetar sa olujnim udarima, navodi Telegraf. Jak i olujni vetar za kraj dana najavljivao je ranije i RHMZ.",
  "body": [
-  "Kako navode N1 i Insajder, pozivajući se na RHMZ, najveća verovatnoća za obilne padavine je u oblasti od južne Bačke, Srema i zapadne Srbije, preko Beograda, Šumadije, Pomoravlja i južnog Banata, do istoka zemlje. Na tom prostoru se očekuje od 30 do 50 milimetara kiše.",
-  "Prema upozorenju zavoda, danas će u zoni najjačih pljuskova duvati jak i olujni vetar, dok se sutra krajem dana jak i olujni, pretežno zapadni i jugozapadni vetar očekuje u većini predela.",
-  "Za Beograd RHMZ najavljuje nestabilno vreme sa kišom popodne i uveče. U pojedinim delovima grada moguće su i pljuskovi sa grmljavinom, a očekivana količina padavina je više od 30 milimetara za 12 sati.",
-  "Oba medija prenose isto upozorenje Zavoda, bez dodatnih navoda o mogućim posledicama ili merama nadležnih službi."
+  "Prema prognozi koju prenosi Telegraf, četvrtak će u Srbiji biti pretežno oblačan i topao za ovo doba godine, ponegde sa slabom kišom. Pre podne se očekuje uglavnom suvo vreme sa sunčanim intervalima.",
+  "Posle podne i uveče, sa severozapada i zapada, stiže jače naoblačenje sa obilnom kišom i pljuskovima, a ponegde i grmljavina. Južni i jugozapadni vetar biće u pojačanju, a krajem dana sa olujnim udarima, naročito na planinama.",
+  "Jutarnja temperatura kretaće se od 6 do 12 stepeni, a najviša dnevna od 14 do 20. U Timočkoj i Negotinskoj krajini maksimum će biti do 13 stepeni.",
+  "U Beogradu se očekuje isti raspored: pre podne uglavnom suvo, a posle podne i uveče obilna kiša i pljuskovi. Vetar će krajem dana biti veoma jak. Jutarnja temperatura biće oko 11, a najviša dnevna 19 stepeni.",
+  "Republički hidrometeorološki zavod je u sredu, kako su preneli N1 i Insajder, upozorio na obilne padavine od 30 do 50 milimetara u pojasu od južne Bačke i zapadne Srbije do istoka zemlje. Za Beograd je najavio više od 30 milimetara kiše za 12 sati, a za kraj četvrtka jak i olujni, pretežno zapadni i jugozapadni vetar u većini predela."
  ],
  "tags": [
-  "RHMZ",
   "vremenska prognoza",
-  "upozorenje",
-  "kiša",
+  "RHMZ",
+  "obilne padavine",
   "olujni vetar",
   "Beograd"
  ],
@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T12:22:09.404277+00:00",
- "updated": "2026-11-18T23:32:31.441862+00:00",
+ "updated": "2026-11-19T04:30:03.197904+00:00",
  "sources": [
   {
    "name": "N1",
@@ -62,6 +62,12 @@
    "url": "https://nova.rs/magazin/vremenska-prognoza/danas-naoblacenje-i-kisa-temperatura-do-19-stepeni-uvece-jak-vetar/",
    "title": "Danas naoblačenje i kiša, temperatura do 19 stepeni: Uveče jak vetar",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4435604-obilne-padavine-ponovo-stizu-u-srbiju-evo-i-kada-otkrivamo-kada-i-gde-preti-olujni-vetar-temperatura-do-20",
+   "title": "Obilne padavine ponovo stižu u Srbiju, EVO I kada: Otkrivamo kada i gde preti olujni vetar! Temperatura do 20",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -69,7 +75,8 @@
   "Republički hidrometeorološki zavod upozorio na obilnu kišu i jak vetar popodne i uveče",
   "RHMZ: Upozorenje za područje Srbije na lokalno obilne pljuskove i olujni vetar",
   "RHMZ upozorava: Obilna kiša i jak vetar popodne i uveče",
-  "Danas naoblačenje i kiša, temperatura do 19 stepeni: Uveče jak vetar"
+  "Danas naoblačenje i kiša, temperatura do 19 stepeni: Uveče jak vetar",
+  "Obilne padavine ponovo stižu u Srbiju, EVO I kada: Otkrivamo kada i gde preti olujni vetar! Temperatura do 20"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -81,6 +88,8 @@
   "local": true,
   "alt": "RHMZ upozorava na obilnu kišu i jak vetar popodne i uveče, ponegde do 50 milimetara"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 0,
+ "boost": 1.32,
+ "prepisano": "2026-11-19T04:30:03.197904+00:00",
+ "verzija": 2
 }
