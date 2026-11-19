@@ -34,7 +34,7 @@
  ],
  "importance": 3,
  "published": "2026-11-18T22:32:55.430931+00:00",
- "updated": "2026-11-18T22:47:45.423273+00:00",
+ "updated": "2026-11-19T00:02:00.880219+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -53,12 +53,19 @@
    "url": "https://www.b92.net/info/svet/286199/poplave-na-floridi-proglaseno-vanredno-stanje/vest",
    "title": "Katastrofa na Floridi: Srušio se krov sinagoge, automobili zarobljeni u vodi; Proglašeno vanredno stanje VIDEO",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10166321/vanredno-stanje-na-floridi-zbog-obilnih-kisa",
+   "title": "VANREDNO STANJE NA FLORIDI ZBOG OBILNIH PADAVINA: Srušio se krov sinagoge, automobili zarobljeni u vodi (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Obilne padavine izazvale poplave na jugu Floride, urušio se krov sinagoge",
   "Obilne padavine izazvale poplave na jugu Floride, urušio se krov sinagoge, automobili zarobljeni u vodi",
-  "Katastrofa na Floridi: Srušio se krov sinagoge, automobili zarobljeni u vodi; Proglašeno vanredno stanje VIDEO"
+  "Katastrofa na Floridi: Srušio se krov sinagoge, automobili zarobljeni u vodi; Proglašeno vanredno stanje VIDEO",
+  "VANREDNO STANJE NA FLORIDI ZBOG OBILNIH PADAVINA: Srušio se krov sinagoge, automobili zarobljeni u vodi (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:St._Paul_Missionary_Baptist_Church,_Leon_County,_Florida.jpg",
   "alt": "Poplave na jugu Floride: vanredno stanje u Holivudu, urušio se krov sinagoge"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

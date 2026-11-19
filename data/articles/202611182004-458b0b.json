@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T19:04:16.654942+00:00",
- "updated": "2026-11-18T20:48:30.213933+00:00",
+ "updated": "2026-11-19T00:02:00.880219+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1672565/moravski-koridor-koridori-srbije-nagrada-auto-put",
    "title": "KORIDORI SRBIJE: Moravski koridor dobitnik nagrade Međunarodne putne organizacije u Ženevi",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/koridori-srbije-moravski-koridor-dobitnik-nagrade-medunarodne-putne-organizacije-u-zenevi",
+   "title": "Koridori Srbije: Moravski koridor dobitnik nagrade Međunarodne putne organizacije u Ženevi",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Moravski koridor dobitnik nagrade Međunarodne putne organizacije u Ženevi",
-  "KORIDORI SRBIJE: Moravski koridor dobitnik nagrade Međunarodne putne organizacije u Ženevi"
+  "KORIDORI SRBIJE: Moravski koridor dobitnik nagrade Međunarodne putne organizacije u Ženevi",
+  "Koridori Srbije: Moravski koridor dobitnik nagrade Međunarodne putne organizacije u Ženevi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,6 +64,6 @@
   "local": true,
   "alt": "Moravski koridor dobio nagradu Međunarodne putne organizacije u Ženevi"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

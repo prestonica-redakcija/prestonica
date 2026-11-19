@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T14:51:00.912567+00:00",
- "updated": "2026-11-18T15:05:51.985503+00:00",
+ "updated": "2026-11-19T00:02:00.880219+00:00",
  "sources": [
   {
    "name": "N1",
@@ -50,12 +50,19 @@
    "url": "https://insajder.net/prenosimo/ek-osnovala-kancelariju-za-sankcije-za-sprovodenje-zaduzen-specijalni-izaslanik-danijelson",
    "title": "EK osnovala Kancelariju za sankcije, za sprovođenje zadužen specijalni izaslanik Danijelson",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10165937/ek-osnovala-kancelariju-za-sankcije",
+   "title": "EVROPSKA KOMISIJA OSNOVALA KANCELARIJU ZA SANKCIJE EU: Novi izaslanik Šveđanin Lars Danijelson",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Evropska komisija osnovala Kancelariju za sankcije, novi izaslanik Šveđanin Lars Danijelson",
   "EU osnovala posebnu kancelariju za sankcije, švedski diplomata specijalni izaslanik",
-  "EK osnovala Kancelariju za sankcije, za sprovođenje zadužen specijalni izaslanik Danijelson"
+  "EK osnovala Kancelariju za sankcije, za sprovođenje zadužen specijalni izaslanik Danijelson",
+  "EVROPSKA KOMISIJA OSNOVALA KANCELARIJU ZA SANKCIJE EU: Novi izaslanik Šveđanin Lars Danijelson"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,6 @@
   "local": true,
   "alt": "Evropska komisija osnovala Kancelariju za sankcije, izaslanik postaje Lars Danijelson"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

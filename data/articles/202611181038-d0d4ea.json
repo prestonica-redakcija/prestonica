@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-18T09:38:07.290944+00:00",
- "updated": "2026-11-18T20:33:38.635525+00:00",
+ "updated": "2026-11-19T00:02:00.880219+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -64,6 +64,12 @@
    "url": "https://www.danas.rs/svet/kolika-je-inflacija-u-oktobru-u-evrozoni/",
    "title": "Kolika je inflacija u oktobru u evrozoni?",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4435204-inflacija-u-evrozoni-potvrdjena-na-cetiri-odsto-u-oktobru-najvisa-za-tri-godine",
+   "title": "Inflacija u evrozoni potvrđena na četiri odsto u oktobru, najviša za tri godine",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -72,7 +78,8 @@
   "Inflacija u evrozoni četiri odsto, najviša u poslednje tri godine",
   "Inflacija u EU četiri odsto",
   "Kolika je inflacija u oktobru u evrozoni?",
-  "Kolika je inflacija u oktobru u evrozoni?"
+  "Kolika je inflacija u oktobru u evrozoni?",
+  "Inflacija u evrozoni potvrđena na četiri odsto u oktobru, najviša za tri godine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -84,8 +91,8 @@
   "local": true,
   "alt": "Inflacija u Britaniji u oktobru 3,6 odsto, najviša u poslednjih godinu dana"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-18T20:18:46.152812+00:00",
  "verzija": 2
 }
