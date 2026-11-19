@@ -913,3 +913,12 @@ mark{background:color-mix(in srgb,var(--gold) 30%,transparent);color:inherit;bor
 .an-img{display:block;width:100%;height:auto;border-radius:10px;margin:0 0 14px}
 .an-link{display:inline-block;margin-top:2px;font:800 13px var(--sans);color:var(--brand);text-decoration:none}
 .an-link:hover{text-decoration:underline}
+
+/* traka za kolačiće */
+.kolacici{position:fixed;left:50%;bottom:max(16px,env(safe-area-inset-bottom,0px));transform:translateX(-50%);z-index:95;width:min(680px,calc(100% - 24px));background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:14px;box-shadow:0 12px 40px rgba(0,0,0,.22);padding:14px 16px;display:flex;gap:14px;align-items:center}
+.kolacici p{margin:0;font-size:14px;line-height:1.45;color:var(--ink-2);flex:1}
+.kolacici a{color:inherit;text-decoration:underline}
+.kolacici div{display:flex;gap:8px;flex:none}
+.kolacici button{font:inherit;font-size:14px;font-weight:700;padding:9px 14px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--ink);cursor:pointer}
+.kolacici button.da{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+@media (max-width:560px){.kolacici{flex-direction:column;align-items:stretch}.kolacici div{justify-content:flex-end}}

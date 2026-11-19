@@ -245,6 +245,12 @@ tr:hover td{background:var(--panel2)}
   </section>
 
   <section class="grid g3">
+    <div class="card"><h2>Novi i povratnici</h2><p class="sub" id="povTxt">Čitaoci koji su prihvatili kolačić</p><div class="bars" id="bPov"></div></div>
+    <div class="card"><h2>Koliko dana dolaze</h2><p class="sub">Broj različitih dana u kojima je čitalac bio na portalu</p><div class="bars" id="bDana"></div></div>
+    <div class="card"><h2>Posle koliko se vraćaju</h2><p class="sub">Razmak između dva dolaska istog čitaoca</p><div class="bars" id="bRaz"></div></div>
+  </section>
+
+  <section class="grid g3">
     <div class="card"><h2>Izvori saobraćaja</h2><p class="sub">Odakle čitaoci dolaze na portal</p><div class="bars" id="bIzv"></div></div>
     <div class="card"><h2>Sajtovi i mreže koji šalju čitaoce</h2><p class="sub">Tačna adresa sa koje je kliknut link</p><div class="bars" id="bRef"></div></div>
     <div class="card"><h2>Rubrike</h2><p class="sub">Pregledi i prosečno vreme po rubrici</p><div class="bars" id="bRub"></div></div>
@@ -264,7 +270,7 @@ tr:hover td{background:var(--panel2)}
   </section>
 
   <div class="note" id="note" hidden></div>
-  <div class="foot"><span>Bez kolačića. IP adrese se ne čuvaju; posetilac se prepoznaje samo u toku jednog dana.</span><span id="nbState"></span><button id="logout">Odjavi ključ</button></div>
+  <div class="foot"><span>IP adrese se ne čuvaju. Posetilac se prepoznaje u toku jednog dana; povratnici se broje samo uz prihvaćen kolačić.</span><span id="nbState"></span><button id="logout">Odjavi ključ</button></div>
 </main>
 </div>
 
@@ -432,6 +438,11 @@ function render(){
   bars("#bZem",data.zemlje,{lim:12,name:function(r){return country(r.k)}});
   bars("#bGr",data.gradovi,{lim:12,name:function(r){return(r.k||"Nepoznato")+(r.z&&r.z!=="RS"?", "+country(r.z):"")}});
   bars("#bPr",data.pregledaci,{lim:10});
+  var pv=data.povratnici||{}, z=pv.zbir||{};
+  bars("#bPov",z.sa?[{k:"Novi čitaoci",v:z.novi||0},{k:"Povratnici",v:z.stari||0}]:[],{color:function(r){return r.k==="Povratnici"?"var(--c3)":"var(--c1)"}});
+  bars("#bDana",pv.dani||[]);
+  bars("#bRaz",pv.razmaci||[]);
+  $("#povTxt").textContent=z.sa?n(z.sa)+" čitalaca sa kolačićem · "+pf.format(pv.sn||1)+" dolazaka po danu"+(pv.dp?" · vraćaju se posle "+pf.format(pv.dp)+" dana u proseku":""):"Meri se od 19.11.2026, samo za čitaoce koji prihvate kolačić";
   $("#mixleg").innerHTML=MIX.map(function(m){return'<span><i style="background:'+m[2]+'"></i>'+m[1]+'</span>'}).join("");
   if(!(data.ukupno||{}).v&&period!=="sve"){var nt=$("#note");nt.hidden=false;nt.textContent="Za ovaj period još nema pregleda. Statistika se beleži od trenutka uključenja; stariji podaci ne postoje."}
 }
