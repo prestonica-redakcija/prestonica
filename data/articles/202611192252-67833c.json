@@ -28,16 +28,23 @@
  ],
  "importance": 3,
  "published": "2026-11-19T21:52:16.770069+00:00",
- "updated": "2026-11-19T21:52:16.770069+00:00",
+ "updated": "2026-11-19T22:22:07.133412+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/odrzano-prvo-rociste-aktivisti-pokreta-tvrdjava-tuzilastvo-trazi-godinu-dana-zatvora/",
    "title": "Održano prvo ročište aktivisti pokreta Tvrđava, tužilaštvo traži godinu dana zatvora",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/rociste-aktivisti-pokreta-tvrdjava/",
+   "title": "Održano prvo ročište aktivisti pokreta Tvrđava, tužilaštvo traži godinu dana zatvora",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Održano prvo ročište aktivisti pokreta Tvrđava, tužilaštvo traži godinu dana zatvora",
   "Održano prvo ročište aktivisti pokreta Tvrđava, tužilaštvo traži godinu dana zatvora"
  ],
  "author": "Redakcija Prestonice",
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Smederevo_city_administration.JPG",
   "alt": "Smederevo: počelo suđenje aktivisti pokreta Tvrđava, traži se godina zatvora"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

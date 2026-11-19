@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-19T21:52:16.770069+00:00",
- "updated": "2026-11-19T21:52:16.770069+00:00",
+ "updated": "2026-11-19T22:22:07.133412+00:00",
  "sources": [
   {
    "name": "N1",
@@ -43,11 +43,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/pokret-za-novi-pocetak-vojvodjanskih-madjara-podneo-krivicnu-prijavu-i-tri-predstavke-zbog-mogucih-zloupotreba-licnih-podataka-biraca/",
    "title": "Pokret za novi početak vojvođanskih Mađara podneo krivičnu prijavu i tri predstavke zbog mogućih zloupotreba ličnih podataka birača",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/pokret-za-novi-pocetak-vojvodjanskih-madjara-podneo-krivicnu-prijavu-i-tri-predstavke-zbog-snimka/",
+   "title": "Pokret za novi početak vojvođanskih Mađara podneo krivičnu prijavu i tri predstavke zbog snimka",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Pokret za novi početak vojvođanskih Mađara podneo krivičnu prijavu i tri predstavke zbog snimka",
-  "Pokret za novi početak vojvođanskih Mađara podneo krivičnu prijavu i tri predstavke zbog mogućih zloupotreba ličnih podataka birača"
+  "Pokret za novi početak vojvođanskih Mađara podneo krivičnu prijavu i tri predstavke zbog mogućih zloupotreba ličnih podataka birača",
+  "Pokret za novi početak vojvođanskih Mađara podneo krivičnu prijavu i tri predstavke zbog snimka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Pokret vojvođanskih Mađara podneo krivičnu prijavu i tri predstavke zbog audio-snimka"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

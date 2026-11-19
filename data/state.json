@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://www.danas.rs/vesti/drustvo/novi-sad-pritvor-za-maloletnika-zbog-sumnje-da-je-zapalio-auto/": "2026-11-14T22:21:03.280284+00:00",
-  "https://www.tanjug.rs/svet/politika/297837/blumberg-pentagon-razmatra-povlacenje-ukupno-5000-americkih-vojnika-iz-evrope/vest": "2026-11-14T22:21:03.280284+00:00",
-  "https://www.euronews.rs/svet/fokus/252123/sad-u-evropi-povlace-oko-5000-vojnika-najvise-iz-nemacke/vest": "2026-11-14T22:21:03.280284+00:00",
-  "https://informer.rs/politika/vesti/1169955/vuksa-dragovic-policija": "2026-11-14T22:21:03.280284+00:00",
   "https://insajder.net/prenosimo/hrvatska-ministarka-zdravlja-hrstic-smrt-perisa-u-jankomiru-je-izolovan-incident": "2026-11-14T22:35:57.430555+00:00",
   "https://insajder.net/prenosimo/policija-u-hongkongu-od-ponedeljka-uvodi-prepoznavanje-lica-uz-pomoc-ai": "2026-11-14T22:35:57.430555+00:00",
   "https://www.novosti.rs/vesti/politika/1671274/vucic-kao-lider-opozicije-najveci-strah-njegovih-protivnika": "2026-11-14T22:35:57.430555+00:00",
@@ -6858,18 +6854,20 @@
   "https://www.kurir.rs/stars/10167406/ljiljana-jevremovic-o-marini-tucakovic": "2026-11-19T22:07:04.252500+00:00",
   "https://www.kurir.rs/stars/10167396/grofica-udarila-na-aneli": "2026-11-19T22:07:04.252500+00:00",
   "https://www.telegraf.rs/4436267-natasa-tasic-rom-znaci-covek-u-romskom-jeziku-ne-postoji-rec-mrznja-zelim-da-srbija-bude-jaka-kao-nekada": "2026-11-19T22:07:04.252500+00:00",
-  "https://informer.rs/politika/vesti/1171529/radio-beograd-studentska-lista-pritisci": "2026-11-19T22:07:04.252500+00:00"
+  "https://informer.rs/politika/vesti/1171529/radio-beograd-studentska-lista-pritisci": "2026-11-19T22:07:04.252500+00:00",
+  "https://www.tanjug.rs/srbija/politika/299059/cupic-izabran-za-predsednika-skupstine-zavrsena-rasprava-o-kandidatima-za-potpredsednike-u-toku-glasanje-prozivkom/vest": "2026-11-19T22:22:07.133412+00:00",
+  "https://www.b92.net/info/svet/286510/iran-odbacuje-trampove-tvrdnje-o-hemijskom-i-bioloskom-oruzju/vest": "2026-11-19T22:22:07.133412+00:00",
+  "https://nova.rs/vesti/politika/pokret-za-novi-pocetak-vojvodjanskih-madjara-podneo-krivicnu-prijavu-i-tri-predstavke-zbog-snimka/": "2026-11-19T22:22:07.133412+00:00",
+  "https://www.danas.rs/vesti/drustvo/rociste-aktivisti-pokreta-tvrdjava/": "2026-11-19T22:22:07.133412+00:00",
+  "https://www.kurir.rs/region/crna-gora/10167369/nevreme-crna-gora-podgorica-cetinje-tivat-bez-struje": "2026-11-19T22:22:07.133412+00:00",
+  "https://www.telegraf.rs/vesti/jugosfera/4436328-budva-pod-vodom-zbog-nevremena-vise-naselja-u-crnoj-gori-ostalo-bez-struje": "2026-11-19T22:22:07.133412+00:00",
+  "https://informer.rs/politika/vesti/1171533/aleksandar-vucic-teror-studentska-lista": "2026-11-19T22:22:07.133412+00:00",
+  "https://www.kurir.rs/crna-hronika/10167412/automobilom-sleteli-sa-puta-u-selu-solotusa-kod-bajine-baste": "2026-11-19T22:22:07.133412+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-19T07:32+00:00",
-   "novih": 5,
-   "ukupno": 2676,
-   "sekundi": 270.2
-  },
   {
    "vreme": "2026-11-19T07:49+00:00",
    "novih": 5,
@@ -7223,6 +7221,12 @@
    "novih": 6,
    "ukupno": 2836,
    "sekundi": 384.3
+  },
+  {
+   "vreme": "2026-11-19T22:26+00:00",
+   "novih": 3,
+   "ukupno": 2839,
+   "sekundi": 284.8
   }
  ],
  "licnosti_foto": {
@@ -7408,7 +7412,7 @@
    "live": "live",
    "desc": "🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com/pal/d/6706348057034752",
    "spektar": "desnica",
-   "viewers": "444",
+   "viewers": "424",
    "naslov": "Uživo iz Skupštine: vanredna konferencija Studentske liste",
    "opis": "Prenos uživo sa vanredne konferencije Studentske liste održane u Skupštini. Prema naslovu kanala Srbin.info, povod je Vučićev odlazak iz parlamenta, što je stav iz naslova snimka.",
    "tekst": [
@@ -9895,7 +9899,7 @@
    "slug": "radna-grupa-gost-predrag-azdejkovic-o-medijskoj-situaciji-1h3bsxc9kvi"
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -21273,7 +21277,7 @@
     "uloga": ""
    }
   ],
-  "pratim_t": 1795040386.711958,
+  "pratim_t": 1795126991.7330222,
   "profil": {
    "markodjuric": {
     "img": "https://pbs.twimg.com/profile_images/1707667706005106688/zQTpxjeE_200x200.jpg",
@@ -21563,27 +21567,27 @@
    "nedeljniknin": {
     "img": "https://pbs.twimg.com/profile_images/1244288102975393794/0Y7KzTMq_200x200.jpg",
     "ime_x": "NIN",
-    "t": 1794866977.0851064
+    "t": 1795126991.9439037
    },
    "trajkovic_rada": {
     "img": "https://pbs.twimg.com/profile_images/988529556213641216/aeIAT3BL_200x200.jpg",
     "ime_x": "Rada Trajkovic",
-    "t": 1794866977.0851085
+    "t": 1795126991.9439054
    },
    "stateinl": {
     "img": "https://pbs.twimg.com/profile_images/1940484769629732864/DTX23aie_200x200.jpg",
     "ime_x": "US Dept of State INL",
-    "t": 1794866977.0851095
+    "t": 1795126991.9439063
    },
    "tvbalkaninfo": {
     "img": "https://pbs.twimg.com/profile_images/918418162034540544/Bdqosspf_200x200.jpg",
     "ime_x": "Balkan INFO",
-    "t": 1794866977.085111
+    "t": 1795126991.9439073
    },
    "1152justice": {
     "img": "https://pbs.twimg.com/profile_images/2119934149360250880/CvP6SEbb_200x200.jpg",
     "ime_x": "11 52 Justice Foundation",
-    "t": 1794866977.0851116
+    "t": 1795126991.9439085
    },
    "zatrijebacki": {
     "img": "https://pbs.twimg.com/profile_images/1877128327649009664/_yMATd6Z_200x200.jpg",
@@ -21598,27 +21602,27 @@
    "mfaserbia": {
     "img": "https://pbs.twimg.com/profile_images/1796245444369981440/aILEn5YG_200x200.jpg",
     "ime_x": "MFA Serbia",
-    "t": 1794866977.0850961
+    "t": 1795126991.9438922
    },
    "izlaz_dot_com": {
     "img": "https://pbs.twimg.com/profile_images/1968223567926980608/SaroulL2_200x200.png",
     "ime_x": "IZLAZ.com",
-    "t": 1794866977.0851016
+    "t": 1795126991.943898
    },
    "tihinavezi": {
     "img": "https://pbs.twimg.com/profile_images/2116560334244716544/jXrPWWTP_200x200.jpg",
     "ime_x": "Tihi na vezi",
-    "t": 1794866977.0851035
+    "t": 1795126991.9438999
    },
    "relativizacija": {
     "img": "https://pbs.twimg.com/profile_images/2040031273226240000/64INmqHM_200x200.jpg",
     "ime_x": "Relativizacija",
-    "t": 1794866977.085105
+    "t": 1795126991.9439018
    },
    "seanmilanovic": {
     "img": "https://pbs.twimg.com/profile_images/1555348695448576000/yBB0Rpal_200x200.jpg",
     "ime_x": "Nenad Milanović",
-    "t": 1794866977.0851057
+    "t": 1795126991.9439027
    },
    "masinars": {
     "img": "https://pbs.twimg.com/profile_images/2000930981046362113/mH6yO5Nb_200x200.jpg",
@@ -21628,176 +21632,6 @@
   }
  },
  "foto_cache": {
-  "t:aba liga": {
-   "t": 1794521659.3026254,
-   "items": []
-  },
-  "t:vojkan zivkovic": {
-   "t": 1794521659.570916,
-   "items": []
-  },
-  "t:sudijska komisija": {
-   "t": 1794521659.8276627,
-   "items": []
-  },
-  "t:donald tramp": {
-   "t": 1794521701.5015807,
-   "items": []
-  },
-  "t:pentagon": {
-   "t": 1794521702.695155,
-   "items": [
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/PENTAGON_2.jpg/1920px-PENTAGON_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3512,
-     "h": 2486,
-     "god": 2020,
-     "credit": "Wikimedia Commons / Valerios Art / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:PENTAGON_2.jpg",
-     "naslov": "PENTAGON 2.jpg"
-    }
-   ]
-  },
-  "t:milorad dodik": {
-   "t": 1794521713.5443077,
-   "items": [
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Visit_of_Milorad_Dodik_to_the_EC_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1574,
-     "h": 2014,
-     "god": 2022,
-     "credit": "Wikimedia Commons / Lukasz Kobus - European Commission / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Visit_of_Milorad_Dodik_to_the_EC_(cropped).jpg",
-     "naslov": "Visit of Milorad Dodik to the EC (cropped).jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Milorad_Dodik_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1898,
-     "h": 2848,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Medija centar Beograd / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Milorad_Dodik_(cropped).jpg",
-     "naslov": "Milorad Dodik (cropped).jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Milorad_Dodik_%282022-11-28%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1283,
-     "h": 1811,
-     "god": 2022,
-     "credit": "Wikimedia Commons / European Commission / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Milorad_Dodik_(2022-11-28).jpg",
-     "naslov": "Milorad Dodik (2022-11-28).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Viktor_Orb%C3%A1n_greeting_Milorad_Dodik_at_CPAC_Hungary_2026.jpg/1920px-Viktor_Orb%C3%A1n_greeting_Milorad_Dodik_at_CPAC_Hungary_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3790,
-     "h": 1730,
-     "god": 2026,
-     "credit": "Wikimedia Commons / Elekes Andor / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Viktor_Orb%C3%A1n_greeting_Milorad_Dodik_at_CPAC_Hungary_2026.jpg",
-     "naslov": "Viktor Orbán greeting Milorad Dodik at CPAC Hungary 2026.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Milorad_Dodik_%282019-03-04%29.jpg/1920px-Milorad_Dodik_%282019-03-04%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5568,
-     "h": 3712,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Mauro Bottaro - European Commission / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Milorad_Dodik_(2019-03-04).jpg",
-     "naslov": "Milorad Dodik (2019-03-04).jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Milorad_Dodik_%282024-02-21%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1880,
-     "h": 1160,
-     "god": 2024,
-     "credit": "Wikimedia Commons / Presidential Executive Office of Russia / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Milorad_Dodik_(2024-02-21).jpg",
-     "naslov": "Milorad Dodik (2024-02-21).jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Milorad_Dodik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1549,
-     "h": 1037,
-     "god": 2010,
-     "credit": "Wikimedia Commons / DEMOKRATSKA STRANKA DS / CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Milorad_Dodik.jpg",
-     "naslov": "Milorad Dodik.jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Milorad_Dodik_%282011-06-06%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1851,
-     "h": 1278,
-     "god": 2011,
-     "credit": "Wikimedia Commons / European Commission / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Milorad_Dodik_(2011-06-06).jpg",
-     "naslov": "Milorad Dodik (2011-06-06).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Milorad_Dodik_%282019-03-04%29_%28cropped%29.jpg/1920px-Milorad_Dodik_%282019-03-04%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2310,
-     "h": 3078,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Mauro Bottaro - European Commission / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Milorad_Dodik_(2019-03-04)_(cropped).jpg",
-     "naslov": "Milorad Dodik (2019-03-04) (cropped).jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Milorad_Dodik_%282023-05-23%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1880,
-     "h": 1160,
-     "god": 2023,
-     "credit": "Wikimedia Commons / Presidential Executive Office of Russia / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Milorad_Dodik_(2023-05-23).jpg",
-     "naslov": "Milorad Dodik (2023-05-23).jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Milorad_Dodik_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1555,
-     "h": 1037,
-     "god": 2010,
-     "credit": "Wikimedia Commons / DEMOKRATSKA STRANKA DS / CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Milorad_Dodik_1.jpg",
-     "naslov": "Milorad Dodik 1.jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Milorad_Dodik_and_Vladimir_Putin_%282018-09-30%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1880,
-     "h": 1160,
-     "god": 2018,
-     "credit": "Wikimedia Commons / Пресс-служба Президента Российской Федерации / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Milorad_Dodik_and_Vladimir_Putin_(2018-09-30)_02.jpg",
-     "naslov": "Milorad Dodik and Vladimir Putin (2018-09-30) 02.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Milorad_Dodik_2016-mc.rs.jpg/1920px-Milorad_Dodik_2016-mc.rs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4288,
-     "h": 2848,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Medija centar Beograd / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Milorad_Dodik_2016-mc.rs.jpg",
-     "naslov": "Milorad Dodik 2016-mc.rs.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Milorad_Dodik_i_KK_Partizan_01.jpg/1920px-Milorad_Dodik_i_KK_Partizan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4000,
-     "h": 2667,
-     "god": 2023,
-     "credit": "Wikimedia Commons / Hatorcat / CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:Milorad_Dodik_i_KK_Partizan_01.jpg",
-     "naslov": "Milorad Dodik i KK Partizan 01.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/%CE%A3%CF%85%CE%BD%CE%AC%CE%BD%CF%84%CE%B7%CF%83%CE%B7_%CF%84%CE%BF%CF%85_%CE%A5%CF%80%CE%BF%CF%85%CF%81%CE%B3%CE%BF%CF%8D_%CE%95%CE%BE%CF%89%CF%84%CE%B5%CF%81%CE%B9%CE%BA%CF%8E%CE%BD_%CE%9D._%CE%94%CE%AD%CE%BD%CE%B4%CE%B9%CE%B1_%CE%BC%CE%B5_%CF%84%CE%BF_%CE%BC%CE%AD%CE%BB%CE%BF%CF%82_%CF%84%CE%BF%CF%85_%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%BF%CF%8D_%CE%93%CF%81%CE%B1%CF%86%CE%B5%CE%AF%CE%BF%CF%85_%CE%92%CE%BF%CF%83%CE%BD%CE%AF%CE%B1%CF%82-%CE%95%CF%81%CE%B6%CE%B5%CE%B3%CE%BF%CE%B2%CE%AF%CE%BD%CE%B7%CF%82_Milorad_Dodik_%28%CE%A3%CE%B1%CF%81%CE%AC%CE%B3%CE%B5%CE%B2%CE%BF%2C_31.05.2022%29_01.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3000,
-     "h": 2000,
-     "god": 2022,
-     "credit": "Wikimedia Commons / Υπουργείο Εξωτερικών / CC BY-SA 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%CE%A3%CF%85%CE%BD%CE%AC%CE%BD%CF%84%CE%B7%CF%83%CE%B7_%CF%84%CE%BF%CF%85_%CE%A5%CF%80%CE%BF%CF%85%CF%81%CE%B3%CE%BF%CF%8D_%CE%95%CE%BE%CF%89%CF%84%CE%B5%CF%81%CE%B9%CE%BA%CF%8E%CE%BD_%CE%9D._%CE%94%CE%AD%CE%BD%CE%B4%CE%B9%CE%B1_%CE%BC%CE%B5_%CF%84%CE%BF_%CE%BC%CE%AD%CE%BB%CE%BF%CF%82_%CF%84%CE%BF%CF%85_%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%BF%CF%8D_%CE%93%CF%81%CE%B1%CF%86%CE%B5%CE%AF%CE%BF%CF%85_%CE%92%CE%BF%CF%83%CE%BD%CE%AF%CE%B1%CF%82-%CE%95%CF%81%CE%B6%CE%B5%CE%B3%CE%BF%CE%B2%CE%AF%CE%BD%CE%B7%CF%82_Milorad_Dodik_(%CE%A3%CE%B1%CF%81%CE%AC%CE%B3%CE%B5%CE%B2%CE%BF,_31.05.2022)_01.jpg",
-     "naslov": "Συνάντηση του Υπουργού Εξωτερικών Ν. Δένδια με το μέλος του Συλλογικού Γραφείου Βοσνίας-Ερζεγοβίνης Milorad Dodik (Σαράγεβο, 31.05.2022) 01.jpg"
-    }
-   ]
-  },
   "t:novi pazar": {
    "t": 1794522547.4891553,
    "items": [
@@ -58930,6 +58764,205 @@
   "t:inzenjerska komora srbije": {
    "t": 1795126079.2190728,
    "items": []
+  },
+  "t:crna gora": {
+   "t": 1795126955.5573816,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Kralji%C4%8Dina_pla%C5%BEa_%28Milo%C4%8Der%2C_Crna_Gora%29_07.jpg/1920px-Kralji%C4%8Dina_pla%C5%BEa_%28Milo%C4%8Der%2C_Crna_Gora%29_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4142,
+     "h": 2655,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Miomir Magdevski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Kralji%C4%8Dina_pla%C5%BEa_(Milo%C4%8Der,_Crna_Gora)_07.jpg",
+     "naslov": "Kraljičina plaža (Miločer, Crna Gora) 07.jpg"
+    }
+   ]
+  },
+  "t:bajina basta": {
+   "t": 1795126985.964187,
+   "items": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bajina_Ba%C5%A1ta_en_hiver.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1030,
+     "h": 502,
+     "god": 2005,
+     "credit": "Wikimedia Commons / Nešo Marić, permission accordée à en:User:Ijelisavcic / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_en_hiver.jpg",
+     "naslov": "Bajina Bašta en hiver.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Bajina_Ba%C5%A1ta_062.jpg/1920px-Bajina_Ba%C5%A1ta_062.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_062.jpg",
+     "naslov": "Bajina Bašta 062.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Bajina_Ba%C5%A1ta_036.jpg/1920px-Bajina_Ba%C5%A1ta_036.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2304,
+     "h": 3456,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_036.jpg",
+     "naslov": "Bajina Bašta 036.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Bajina_Ba%C5%A1ta_088.jpg/1920px-Bajina_Ba%C5%A1ta_088.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_088.jpg",
+     "naslov": "Bajina Bašta 088.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Bajina_Ba%C5%A1ta_076.jpg/1920px-Bajina_Ba%C5%A1ta_076.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_076.jpg",
+     "naslov": "Bajina Bašta 076.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Bajina_Ba%C5%A1ta_056.jpg/1920px-Bajina_Ba%C5%A1ta_056.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_056.jpg",
+     "naslov": "Bajina Bašta 056.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Bajina_Ba%C5%A1ta_026.jpg/1920px-Bajina_Ba%C5%A1ta_026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_026.jpg",
+     "naslov": "Bajina Bašta 026.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Bajina_Ba%C5%A1ta_082.jpg/1920px-Bajina_Ba%C5%A1ta_082.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2304,
+     "h": 3456,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_082.jpg",
+     "naslov": "Bajina Bašta 082.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Bajina_Ba%C5%A1ta_086.jpg/1920px-Bajina_Ba%C5%A1ta_086.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2304,
+     "h": 3456,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_086.jpg",
+     "naslov": "Bajina Bašta 086.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bajina_Ba%C5%A1ta_051.jpg/1920px-Bajina_Ba%C5%A1ta_051.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_051.jpg",
+     "naslov": "Bajina Bašta 051.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Bajina_Ba%C5%A1ta_057.jpg/1920px-Bajina_Ba%C5%A1ta_057.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_057.jpg",
+     "naslov": "Bajina Bašta 057.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Bajina_Ba%C5%A1ta_006.jpg/1920px-Bajina_Ba%C5%A1ta_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_006.jpg",
+     "naslov": "Bajina Bašta 006.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Bajina_Ba%C5%A1ta_041.jpg/1920px-Bajina_Ba%C5%A1ta_041.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_041.jpg",
+     "naslov": "Bajina Bašta 041.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Bajina_Ba%C5%A1ta_015.jpg/1920px-Bajina_Ba%C5%A1ta_015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2304,
+     "h": 3456,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_015.jpg",
+     "naslov": "Bajina Bašta 015.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Bajina_Ba%C5%A1ta_013.jpg/1920px-Bajina_Ba%C5%A1ta_013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_013.jpg",
+     "naslov": "Bajina Bašta 013.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bajina_Ba%C5%A1ta_079.jpg/1920px-Bajina_Ba%C5%A1ta_079.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_079.jpg",
+     "naslov": "Bajina Bašta 079.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Bajina_Ba%C5%A1ta_089.jpg/1920px-Bajina_Ba%C5%A1ta_089.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_089.jpg",
+     "naslov": "Bajina Bašta 089.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Bajina_Ba%C5%A1ta_030.jpg/1920px-Bajina_Ba%C5%A1ta_030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2304,
+     "h": 3456,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_030.jpg",
+     "naslov": "Bajina Bašta 030.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Bajina_Ba%C5%A1ta_093.jpg/1920px-Bajina_Ba%C5%A1ta_093.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_093.jpg",
+     "naslov": "Bajina Bašta 093.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Bajina_Ba%C5%A1ta_067.jpg/1920px-Bajina_Ba%C5%A1ta_067.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_067.jpg",
+     "naslov": "Bajina Bašta 067.jpg"
+    }
+   ]
   }
  },
  "x_objave": {
@@ -59100,18 +59133,6 @@
    "202611191824-c6da17"
   ],
   "istorija": [
-   {
-    "t": 1794521729.3429744,
-    "id": "202611122229-0133c8",
-    "x": "2121003977324282243",
-    "link": true
-   },
-   {
-    "t": 1794521731.5846326,
-    "id": "202611122229-4b019a",
-    "x": "2121003986698608900",
-    "link": true
-   },
    {
     "t": 1794522595.1573765,
     "id": "202611122000-3ee521",
@@ -62570,8 +62591,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-19T22:09:57.307985+00:00",
-  "uzivo_t": "2026-11-19T22:09:57.308002+00:00"
+  "provereno": "2026-11-19T22:23:21.366603+00:00",
+  "uzivo_t": "2026-11-19T22:23:21.366620+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {

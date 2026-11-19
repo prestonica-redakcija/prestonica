@@ -39,17 +39,24 @@
  ],
  "importance": 7,
  "published": "2026-11-18T17:20:03.173673+00:00",
- "updated": "2026-11-18T17:20:03.173673+00:00",
+ "updated": "2026-11-19T22:22:07.133412+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/bbc-news-serbian/prvi-put-smo-gledali-skupstinu-utisci-studenata-i-poslanika/",
    "title": "‘Prvi put smo gledali Skupštinu’: Utisci studenata i poslanika",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286510/iran-odbacuje-trampove-tvrdnje-o-hemijskom-i-bioloskom-oruzju/vest",
+   "title": "\"Trampe, već smo gledali ovaj scenario\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "‘Prvi put smo gledali Skupštinu’: Utisci studenata i poslanika"
+  "‘Prvi put smo gledali Skupštinu’: Utisci studenata i poslanika",
+  "\"Trampe, već smo gledali ovaj scenario\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Konstitutivna sednica Skupštine: dug Vučićev govor i podeljeni utisci studenata i poslanika"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
