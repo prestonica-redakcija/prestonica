@@ -30,16 +30,23 @@
  ],
  "importance": 4,
  "published": "2026-11-19T12:26:15.353983+00:00",
- "updated": "2026-11-19T12:26:15.353983+00:00",
+ "updated": "2026-11-19T13:10:56.804851+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/299133/cadez-i-laminger-o-mogucnosti-primene-nemackog-modela-finansiranja-msp-u-srbiji/vest",
    "title": "Čadež i Laminger o mogućnosti primene nemačkog modela finansiranja MSP u Srbiji",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4435948-cadez-i-laminger-o-mogucnosti-primene-nemackog-modela-finansiranja-msp-u-srbiji",
+   "title": "Čadež i Laminger o mogućnosti primene nemačkog modela finansiranja MSP u Srbiji",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
+  "Čadež i Laminger o mogućnosti primene nemačkog modela finansiranja MSP u Srbiji",
   "Čadež i Laminger o mogućnosti primene nemačkog modela finansiranja MSP u Srbiji"
  ],
  "author": "Redakcija Prestonice",
@@ -51,5 +58,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Čadež i Laminger razgovarali o primeni nemačkog modela finansiranja malih i srednjih preduzeća"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

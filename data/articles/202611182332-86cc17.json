@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-18T22:32:55.430931+00:00",
- "updated": "2026-11-18T23:32:31.441862+00:00",
+ "updated": "2026-11-19T13:10:56.804851+00:00",
  "sources": [
   {
    "name": "N1",
@@ -61,6 +61,12 @@
    "url": "https://www.danas.rs/svet/stejt-department-odobrio-prodaju-raketnih-sistema-albaniji/",
    "title": "Stejt department odobrio prodaju raketnih sistema Albaniji",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/hi-tech/kripto/4435895-moze-li-amerika-da-kupuje-bitkoin-bez-kongresa",
+   "title": "Može li Amerika da kupuje bitkoin bez Kongresa?",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -68,7 +74,8 @@
   "Albanija kupuje sisteme HIMARS",
   "ALBANIJA KUPUJE AMERIČKE SISTEME \"HIMARS\": \"Važan korak u produbljivanju strateškog partnerstva\" Vašingtona i Tirane",
   "SAD odobrile prodaju raketnih sistema HIMARS Albaniji",
-  "Stejt department odobrio prodaju raketnih sistema Albaniji"
+  "Stejt department odobrio prodaju raketnih sistema Albaniji",
+  "Može li Amerika da kupuje bitkoin bez Kongresa?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -81,6 +88,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:First_HIMARS_live-fire_marks_milestone_for_Estonia_(9178052).jpg",
   "alt": "Albanija kupuje dva raketna sistema HIMARS, Vašington odobrio prodaju"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

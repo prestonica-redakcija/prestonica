@@ -30,17 +30,24 @@
  ],
  "importance": 7,
  "published": "2026-11-19T12:41:11.680229+00:00",
- "updated": "2026-11-19T12:41:11.680229+00:00",
+ "updated": "2026-11-19T13:10:56.804851+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/299141/brnabic-dobili-smo-zvanicno-obavestenje-o-predlogu-suspenzije-iz-epp-ostajemo-clan/vest",
    "title": "Brnabić: Dobili smo zvanično obaveštenje o predlogu suspenzije iz EPP, ostajemo član",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/286359/brnabic-dobili-smo-zvanicno-obavestenje-o-predlogu-suspenzije-iz-epp/vest",
+   "title": "Brnabić: \"Dobili smo zvanično obaveštenje o predlogu suspenzije iz EPP\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Brnabić: Dobili smo zvanično obaveštenje o predlogu suspenzije iz EPP, ostajemo član"
+  "Brnabić: Dobili smo zvanično obaveštenje o predlogu suspenzije iz EPP, ostajemo član",
+  "Brnabić: \"Dobili smo zvanično obaveštenje o predlogu suspenzije iz EPP\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Ana_Brnabi%C4%87_2023.jpg",
   "osoba": "Ana Brnabić",
   "alt": "Brnabić: SNS dobila obaveštenje o predlogu suspenzije iz EPP, ostaje član"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
