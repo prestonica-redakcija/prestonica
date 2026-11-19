@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T08:08:49.260074+00:00",
- "updated": "2026-11-18T12:36:52.310335+00:00",
+ "updated": "2026-11-19T08:57:57.933205+00:00",
  "sources": [
   {
    "name": "N1",
@@ -68,6 +68,18 @@
    "url": "https://www.tanjug.rs/srbija/politika/298802/poslanici-studentske-liste-cupic-dobar-izbor-za-predsednika-skupstine/vest",
    "title": "Poslanici Studentske liste: Čupić dobar izbor za predsednika Skupštine",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/poslanica-sl-ocekujem-da-ce-konstituisanje-skupstine-biti-zavrseno-danas/",
+   "title": "Poslanica SL: Očekujem da će konstituisanje skupštine biti završeno danas",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/poslanica-studentske-liste-ocekujem-da-ce-konstituisanje-skupstine-biti-zavrseno-danas/",
+   "title": "Poslanica Studentske liste: Očekujem da će konstituisanje skupštine biti završeno danas",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -76,7 +88,9 @@
   "Sara Valentik sa Studentske liste: Kada bude izabran novi predsednik Skupštine, svi će morati da poštuju Poslovnik",
   "\"OČEKUJEMO EFIKASNIJI RAD PARLAMENTA\"! Sara Valentik (SL): Kada bude izabran novi predsednik Skupštine, svi će morati da poštuju Poslovnik",
   "Ovo je najmlađa poslanica Studentske liste u Skupštini: Sara (26) je poljoprivrednica sa masterom",
-  "Poslanici Studentske liste: Čupić dobar izbor za predsednika Skupštine"
+  "Poslanici Studentske liste: Čupić dobar izbor za predsednika Skupštine",
+  "Poslanica SL: Očekujem da će konstituisanje skupštine biti završeno danas",
+  "Poslanica Studentske liste: Očekujem da će konstituisanje skupštine biti završeno danas"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -88,8 +102,8 @@
   "local": true,
   "alt": "Valentik očekuje efikasniji rad Skupštine nakon izbora predsednika parlamenta"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-18T12:36:52.310335+00:00",
  "verzija": 2
 }

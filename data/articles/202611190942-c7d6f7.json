@@ -36,7 +36,7 @@
  ],
  "importance": 5,
  "published": "2026-11-19T08:42:57.783545+00:00",
- "updated": "2026-11-19T08:42:57.783545+00:00",
+ "updated": "2026-11-19T08:57:57.933205+00:00",
  "sources": [
   {
    "name": "B92",
@@ -49,11 +49,18 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4435176-crna-gora-poslala-jasnu-poruku-hrvatskoj-necemo-prihvatiti-jednostrano-odredjivanje-granice",
    "title": "Crna Gora poslala jasnu poruku Hrvatskoj: \"Nećemo prihvatiti jednostrano određivanje granice!\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/region/crna-gora/10166413/hrvatska-blokirala-crnoj-gori-zatvaranje-poglavlja-15",
+   "title": "HRVATSKA BLOKIRALA CRNOJ GORI ZATVARANJE JOŠ JEDNOG POGLAVLJA! Plenković: \"Nema popuštanja\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Preokret – rampa za Crnu Goru u EU; Blokadu \"lupili\" Hrvati",
-  "Crna Gora poslala jasnu poruku Hrvatskoj: \"Nećemo prihvatiti jednostrano određivanje granice!\""
+  "Crna Gora poslala jasnu poruku Hrvatskoj: \"Nećemo prihvatiti jednostrano određivanje granice!\"",
+  "HRVATSKA BLOKIRALA CRNOJ GORI ZATVARANJE JOŠ JEDNOG POGLAVLJA! Plenković: \"Nema popuštanja\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,5 +72,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Kralji%C4%8Dina_pla%C5%BEa_(Milo%C4%8Der,_Crna_Gora)_07.jpg",
   "alt": "Crna Gora odbija jednostrano određivanje granice, Hrvatska navodno blokira poglavlje 15"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

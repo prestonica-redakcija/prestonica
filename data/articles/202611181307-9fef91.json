@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T12:07:07.965704+00:00",
- "updated": "2026-11-19T08:42:57.783545+00:00",
+ "updated": "2026-11-19T08:57:57.933205+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -99,6 +99,30 @@
    "url": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-treci-dan-izbori-2026/",
    "title": "(BLOG) Konstitutivna sednica Skupštine - treći dan zasedanja: Vučić rekao da će do 13h \"završiti sve svoje\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10166441/konstitutivna-sednica-skupstina-srbije-treci-dan",
+   "title": "UŽIVO TREĆI DAN SKUPŠTINE Posle dva burna dana, nastavlja se rasprava, poslanici danas biraju predsednika parlamenta",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/najave-emisija/dan-uzivo-od-1630h-izbor-predsednika-treci-dan/",
+   "title": "Dan uživo od 16.30h: Izbor predsednika - treći dan",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/252736/skupstina-srbije-uzivo-nastavak-zasedanja/vest",
+   "title": "TREĆI DAN KONSTITUTIVNE SEDNICE Nastavak rasprave o kandidatima za predsednika Skupštine Srbije",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/onstitutivna-sednica-treci-dan-predsednik/",
+   "title": "UŽIVO Konstitutivna sednica Skupštine: Poslanici nastavljaju raspravu o kandidatima za predsednika parlamenta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -112,7 +136,11 @@
   "Nastavak konstitutivne sednice Skupštine Srbije u 10 časova: Na dnevnom redu i dalje izbor predsednika parlamenta",
   "Nastavak konstitutivne sednice: Na dnevnom redu je izbor predsednika parlamenta",
   "Treći dan konstitutivne sednice: Poslanici i danas raspravljaju o kandidatima za predsednika Skupštine (FOTO/VIDEO)",
-  "(BLOG) Konstitutivna sednica Skupštine - treći dan zasedanja: Vučić rekao da će do 13h \"završiti sve svoje\""
+  "(BLOG) Konstitutivna sednica Skupštine - treći dan zasedanja: Vučić rekao da će do 13h \"završiti sve svoje\"",
+  "UŽIVO TREĆI DAN SKUPŠTINE Posle dva burna dana, nastavlja se rasprava, poslanici danas biraju predsednika parlamenta",
+  "Dan uživo od 16.30h: Izbor predsednika - treći dan",
+  "TREĆI DAN KONSTITUTIVNE SEDNICE Nastavak rasprave o kandidatima za predsednika Skupštine Srbije",
+  "UŽIVO Konstitutivna sednica Skupštine: Poslanici nastavljaju raspravu o kandidatima za predsednika parlamenta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -124,7 +152,7 @@
   "local": true,
   "alt": "Brnabić na konstitutivnoj sednici uporedila naučne radove Radenovića i Čupića"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-19T08:42:57.783545+00:00",
  "verzija": 3

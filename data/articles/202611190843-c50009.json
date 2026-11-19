@@ -31,17 +31,24 @@
  ],
  "importance": 3,
  "published": "2026-11-19T07:43:22.625567+00:00",
- "updated": "2026-11-19T07:43:22.625567+00:00",
+ "updated": "2026-11-19T08:57:57.933205+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/bbc-news-serbian/spor-o-nacistickoj-proslosti-van-gogove-slike-pa-rekordna-prodaja-1904-miliona-dolara/",
    "title": "Spor o nacističkoj prošlosti Van Gogove slike, pa rekordna prodaja – 190,4 miliona dolara",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/pop-i-kultura/art/4435744-van-gogova-slika-kestenovi-u-cvetu-prodata-na-aukciji-za-1734-miliona-evra",
+   "title": "Van Gogova slika \"Kestenovi u cvetu\" prodata na aukciji za 173,4 miliona evra",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Spor o nacističkoj prošlosti Van Gogove slike, pa rekordna prodaja – 190,4 miliona dolara"
+  "Spor o nacističkoj prošlosti Van Gogove slike, pa rekordna prodaja – 190,4 miliona dolara",
+  "Van Gogova slika \"Kestenovi u cvetu\" prodata na aukciji za 173,4 miliona evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Evening_landscape_at_moonrise_-_Van_Gogh.jpg",
   "alt": "Van Gogov \"Kestenovi u cvatu\" prodat za 190,4 miliona dolara, nov aukcijski rekord"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

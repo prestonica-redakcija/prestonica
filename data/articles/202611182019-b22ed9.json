@@ -28,17 +28,24 @@
  ],
  "importance": 5,
  "published": "2026-11-18T19:19:10.385711+00:00",
- "updated": "2026-11-18T19:19:10.385711+00:00",
+ "updated": "2026-11-19T08:57:57.933205+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1672540/vucic-podelio-snimak-sednice-skupstine-sve-zapisi-dobiju-rec-video",
    "title": "VUČIĆ PODELIO SNIMAK SA SEDNICE SKUPŠTINE: \"Sve ih zapiši da dobiju reč\" (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/252732/podignut-poslovnik-u-skupstini-da-li-znaci-dobijanje-reci/vest",
+   "title": "Da li poslanici automatski dobijaju reč kada podignu Poslovnik? Evo šta propisuju pravila Narodne skupštine",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "VUČIĆ PODELIO SNIMAK SA SEDNICE SKUPŠTINE: \"Sve ih zapiši da dobiju reč\" (VIDEO)"
+  "VUČIĆ PODELIO SNIMAK SA SEDNICE SKUPŠTINE: \"Sve ih zapiši da dobiju reč\" (VIDEO)",
+  "Da li poslanici automatski dobijaju reč kada podignu Poslovnik? Evo šta propisuju pravila Narodne skupštine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Mikheil_Kavelashvili_meeting_Aleksandar_Vu%C4%8Di%C4%87_in_Serbia.jpg",
   "alt": "Poslanici Studentske liste podigli zbirke propisa u sali, Vučić zatražio da svi dobiju reč"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
