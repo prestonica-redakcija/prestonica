@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.tanjug.rs/svet/politika/297568/vang-na-sastanku-sa-coom-kina-i-juzna-koreja-za-jacanje-saradnje-i-unapredenje-odnosa/vest": "2026-11-14T00:17:04.431967+00:00",
-  "https://www.kurir.rs/planeta/10161502/vang-na-sastanku-sa-coom": "2026-11-14T00:17:04.431967+00:00",
   "https://www.telegraf.rs/4432740-macura-vise-od-polovine-zena-u-srbiji-zainteresovano-za-rad-u-zelenim-sektorima": "2026-11-14T02:15:58.167254+00:00",
   "https://www.telegraf.rs/vesti/srbija/4432736-mo-pripadnici-vojske-srbije-na-medjunarodnoj-vezbi-specijalnih-snaga-sofex-26": "2026-11-14T02:30:49.889695+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/251999/nbs-objavila-poziv-za-devetomesecnu-praksu-za-studente/vest": "2026-11-14T03:00:35.628792+00:00",
@@ -5978,18 +5976,13 @@
   "https://insajder.net/prenosimo/koridori-srbije-moravski-koridor-dobitnik-nagrade-medunarodne-putne-organizacije-u-zenevi": "2026-11-19T00:02:00.880219+00:00",
   "https://www.kurir.rs/planeta/10166321/vanredno-stanje-na-floridi-zbog-obilnih-kisa": "2026-11-19T00:02:00.880219+00:00",
   "https://www.kurir.rs/planeta/10165937/ek-osnovala-kancelariju-za-sankcije": "2026-11-19T00:02:00.880219+00:00",
-  "https://biznis.telegraf.rs/info-biz/4435204-inflacija-u-evrozoni-potvrdjena-na-cetiri-odsto-u-oktobru-najvisa-za-tri-godine": "2026-11-19T00:02:00.880219+00:00"
+  "https://biznis.telegraf.rs/info-biz/4435204-inflacija-u-evrozoni-potvrdjena-na-cetiri-odsto-u-oktobru-najvisa-za-tri-godine": "2026-11-19T00:02:00.880219+00:00",
+  "https://www.telegraf.rs/vesti/svet/4435051-rubio-se-oglasio-o-mogucem-susretu-trampa-i-kim-dzong-una-on-bi-to-voleo-videcemo": "2026-11-19T00:31:50.563546+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-18T09:42+00:00",
-   "novih": 4,
-   "ukupno": 2333,
-   "sekundi": 270.6
-  },
   {
    "vreme": "2026-11-18T09:59+00:00",
    "novih": 8,
@@ -6343,6 +6336,12 @@
    "novih": 0,
    "ukupno": 2651,
    "sekundi": 153.7
+  },
+  {
+   "vreme": "2026-11-19T00:35+00:00",
+   "novih": 0,
+   "ukupno": 2651,
+   "sekundi": 232.5
   }
  ],
  "licnosti_foto": {
@@ -9101,11 +9100,11 @@
    },
    "parandilovicnls": {
     "since_id": "2123125546464977211",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "ininic": {
     "since_id": "2122800978407911633",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -9113,15 +9112,15 @@
    },
    "sviublokade_fdu": {
     "since_id": "2123151589007663348",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "dragandjilas": {
     "since_id": "2121691848313884992",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "marinikatepic": {
     "since_id": "2122007271508959331",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "radomirlazovic": {
     "since_id": null,
@@ -9161,11 +9160,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "studentblokade": {
     "since_id": "2123165869782274121",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -9221,11 +9220,11 @@
    },
    "borkostef": {
     "since_id": "2122273891993481658",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "dobrinacelnik": {
     "since_id": "2123134821962854809",
@@ -9237,7 +9236,7 @@
    },
    "boristadic58": {
     "since_id": "2122445695164522856",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "srdjanmil037": {
     "since_id": "2123094781513314610",
@@ -9289,7 +9288,7 @@
    },
    "borakonj": {
     "since_id": "2123100586472055073",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "narodnipokrets": {
     "since_id": "2123148949066559561",
@@ -9297,67 +9296,67 @@
    },
    "direktnors": {
     "since_id": "2123158749955100963",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "crtars": {
     "since_id": "2123084470769127692",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "veceivan": {
     "since_id": "2122994926497521950",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "repjoewilson": {
     "since_id": "2123168794965327988",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "jugoslavcosic": {
     "since_id": "2123147946694787141",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "tvnova_s": {
     "since_id": "2123164462773346669",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "oljautisak": {
     "since_id": null,
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "srdjan_nogo": {
     "since_id": "2123172597076811881",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "agrifblokira": {
     "since_id": "2123100557560647893",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "etfblokada": {
     "since_id": "2123122303156326695",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "nastraninaroda": {
-    "since_id": "2123173095754330198",
-    "t": 1795043870.1640882
+    "since_id": "2123199346522878294",
+    "t": 1795048342.1174824
    },
    "bcenzure": {
     "since_id": "2123154417302024600",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "bezstraha26279": {
     "since_id": "2123124258780099051",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "lazidetektor": {
     "since_id": "2123171666419237024",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "nedeljniknin": {
     "since_id": "2123189512260161941",
@@ -9373,11 +9372,11 @@
    },
    "tvbalkaninfo": {
     "since_id": "2123145868773822473",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "1152justice": {
     "since_id": "2121015729269182500",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    },
    "zatrijebacki": {
     "since_id": "2123197296737132921",
@@ -9409,10 +9408,23 @@
    },
    "masinars": {
     "since_id": "2123151022168121649",
-    "t": 1795043870.1640882
+    "t": 1795048342.1174824
    }
   },
   "posts": [
+   {
+    "id": "2123199346522878294",
+    "x": "NaStraniNaroda",
+    "ime": "Vukša Dragović",
+    "grupa": "",
+    "uloga": "",
+    "text": "Ovi rekoše da se poljoprivreda raspada kada su dolazili na vlast, evo već danas investitori. https://t.co/SGaQbFUlG0",
+    "published": "2026-11-18T23:39:06.000+00:00",
+    "lajk": 25,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Poljoprivreda i investitori, komentar o novoj vlasti"
+   },
    {
     "id": "2123197296737132921",
     "x": "Zatrijebacki",
@@ -20060,20 +20072,6 @@
     "rubrika": "politika",
     "tema": "Vukićević: sramota što policija nije reagovala",
     "vest": "202611171003-3630de"
-   },
-   {
-    "id": "2122620260847104193",
-    "x": "izlaz_dot_com",
-    "ime": "IZLAZ.com",
-    "grupa": "",
-    "uloga": "",
-    "text": "Srušio se vojni avion kod Stare Pazove, poginuo pilot\n\nhttps://t.co/hlX8IZMhON",
-    "published": "2026-11-17T09:18:01.000+00:00",
-    "lajk": 0,
-    "prikazi": true,
-    "rubrika": "hronika",
-    "tema": "Pad vojnog aviona kod Stare Pazove, poginuo pilot",
-    "vest": "202611170003-655e01"
    }
   ],
   "pratim": [
