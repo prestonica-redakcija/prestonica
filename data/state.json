@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.telegraf.rs/vesti/srbija/4432736-mo-pripadnici-vojske-srbije-na-medjunarodnoj-vezbi-specijalnih-snaga-sofex-26": "2026-11-14T02:30:49.889695+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/251999/nbs-objavila-poziv-za-devetomesecnu-praksu-za-studente/vest": "2026-11-14T03:00:35.628792+00:00",
   "https://www.telegraf.rs/vesti/svet/4432822-turska-i-katar-dodatno-ucvrscuju-savez-potpisan-sporazum-koji-menja-odnose-dve-zemlje": "2026-11-14T03:00:35.628792+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/251980/kurs-dinara-za-evro-u-ponedeljak-1176103/vest": "2026-11-14T04:00:08.855424+00:00",
@@ -5986,12 +5985,6 @@
  "fokus": [],
  "runs": [
   {
-   "vreme": "2026-11-18T11:41+00:00",
-   "novih": 1,
-   "ukupno": 2380,
-   "sekundi": 251.8
-  },
-  {
    "vreme": "2026-11-18T11:58+00:00",
    "novih": 7,
    "ukupno": 2387,
@@ -6344,6 +6337,12 @@
    "novih": 0,
    "ukupno": 2651,
    "sekundi": 207.9
+  },
+  {
+   "vreme": "2026-11-19T02:35+00:00",
+   "novih": 0,
+   "ukupno": 2651,
+   "sekundi": 255.0
   }
  ],
  "licnosti_foto": {
