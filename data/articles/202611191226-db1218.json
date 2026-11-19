@@ -37,17 +37,24 @@
  ],
  "importance": 7,
  "published": "2026-11-19T11:26:46.370283+00:00",
- "updated": "2026-11-19T11:26:46.370283+00:00",
+ "updated": "2026-11-19T11:41:37.474927+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/politika/ekskluzivno-dokument-epp-o-sns-ovih-sedam-zahteva-moraju-da-ispune/",
    "title": "EKSKLUZIVNO Dokument EPP o SNS: Traže saradnju u istragama o Informeru, procesuiranje zbog Banjske i prekid saradnje sa Šešeljem i Putinom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/dokument-epp-o-sns-traze-saradnju-u-istragama-o-informeru-nadstresnici-procesuiranje-zbog-banske-prekid-saradnje-sa-seseljem-i-putinom/",
+   "title": "Dokument EPP o SNS: Traže saradnju u istragama o Informeru, nadstrešnici, procesuiranje zbog Banjske, prekid saradnje sa Šešeljem i Putinom",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "EKSKLUZIVNO Dokument EPP o SNS: Traže saradnju u istragama o Informeru, procesuiranje zbog Banjske i prekid saradnje sa Šešeljem i Putinom"
+  "EKSKLUZIVNO Dokument EPP o SNS: Traže saradnju u istragama o Informeru, procesuiranje zbog Banjske i prekid saradnje sa Šešeljem i Putinom",
+  "Dokument EPP o SNS: Traže saradnju u istragama o Informeru, nadstrešnici, procesuiranje zbog Banjske, prekid saradnje sa Šešeljem i Putinom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Nova: EPP od SNS traži promene u sedam oblasti, uz godinu dana praćenja"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

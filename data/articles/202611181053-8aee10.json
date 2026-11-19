@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-18T09:53:09.456475+00:00",
- "updated": "2026-11-18T09:53:09.456475+00:00",
+ "updated": "2026-11-19T11:41:37.474927+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/savet-roditelja-mokranjca-podrzao-nastavnike-traze-od-nadleznih-da-zaustave-dalju-degradaciju-skole/",
    "title": "Savet roditelja \"Mokranjca\" podržao nastavnike, traže od nadležnih da \"zaustave dalju degradaciju škole\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/savet-roditelja-u-muzickoj-skoli-mokranjac-podrska-inicijativi-nastavnickog-veca/",
+   "title": "Savet roditelja u Muzičkoj školi Mokranjac: Podrška inicijativi Nastavničkog veća",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Savet roditelja \"Mokranjca\" podržao nastavnike, traže od nadležnih da \"zaustave dalju degradaciju škole\""
+  "Savet roditelja \"Mokranjca\" podržao nastavnike, traže od nadležnih da \"zaustave dalju degradaciju škole\"",
+  "Savet roditelja u Muzičkoj školi Mokranjac: Podrška inicijativi Nastavničkog veća"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Muzi%C4%8Dka_%C5%A1kola_Mokranjac_Beograd.jpg",
   "alt": "Savet roditelja \"Mokranjca\" podržao smenu vršioca dužnosti direktora škole"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

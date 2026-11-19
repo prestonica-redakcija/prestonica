@@ -25,17 +25,24 @@
  ],
  "importance": 4,
  "published": "2026-11-19T11:11:51.082473+00:00",
- "updated": "2026-11-19T11:11:51.082473+00:00",
+ "updated": "2026-11-19T11:41:37.474927+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/nadlezni-istrazuju-pretecu-poruku-koja-je-stigla-na-mejl-adresu-gimnazije-u-prokuplju/",
    "title": "Nadležni istražuju preteću poruku koja je stigla na mejl adresu Gimnazije u Prokuplju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/gimnazija-u-prokuplju-prijavila-pretnje-policija-i-tuzilastvo-istrazuju/",
+   "title": "Gimnazija u Prokuplju prijavila pretnje, policija i tužilaštvo istražuju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Nadležni istražuju preteću poruku koja je stigla na mejl adresu Gimnazije u Prokuplju"
+  "Nadležni istražuju preteću poruku koja je stigla na mejl adresu Gimnazije u Prokuplju",
+  "Gimnazija u Prokuplju prijavila pretnje, policija i tužilaštvo istražuju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Monument_to_Zoran_%C4%90in%C4%91i%C4%87_in_Prokuplje,_september_2024_03.jpg",
   "alt": "Policija i tužilaštvo istražuju preteću poruku poslatu na imejl Gimnazije u Prokuplju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

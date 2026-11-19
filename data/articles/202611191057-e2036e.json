@@ -28,17 +28,24 @@
  ],
  "importance": 4,
  "published": "2026-11-19T09:57:20.733664+00:00",
- "updated": "2026-11-19T09:57:20.733664+00:00",
+ "updated": "2026-11-19T11:41:37.474927+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/299075/unikredit-postigao-dogovor-sa-nemackom-vladom-o-preuzimanju-komercbanke/vest",
    "title": "Unikredit postigao dogovor sa nemačkom vladom o preuzimanju Komercbanke",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/286303/unikredit-postigao-dogovor-sa-nemackom-vladom-o-preuzimanju-komercbanke/vest",
+   "title": "Postignut dogovor: Preuzimaju Komercbanku",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Unikredit postigao dogovor sa nemačkom vladom o preuzimanju Komercbanke"
+  "Unikredit postigao dogovor sa nemačkom vladom o preuzimanju Komercbanke",
+  "Postignut dogovor: Preuzimaju Komercbanku"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Unikredit i nemačka vlada dogovorili budućnost Komercbanke, sedište ostaje u Frankfurtu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
