@@ -329,6 +329,7 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
     (out / "search.json").write_text(json.dumps(idx, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
     _feeds(cfg, out, by_date, [v["_url"] for v in videos] + [v["_url"] for v in stari])
+    _produkcija(cfg, out, by_date, state)
     if cfg.portal.get("domen"):
         (out / "CNAME").write_text(cfg.portal["domen"] + "\n")
     (out / ".nojekyll").write_text("")
@@ -438,7 +439,58 @@ def _feeds(cfg: Config, out: Path, arts: list[dict], extra: list[str] | None = N
                   f"<news:language>sr</news:language></news:publication><news:publication_date>{a['published']}</news:publication_date>"
                   f"<news:title>{escape(a['headline'])}</news:title></news:news></url>" for a in news)
         + "</urlset>", encoding="utf-8")
-    (out / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /statistika.html\nSitemap: {base}sitemap.xml\nSitemap: {base}news-sitemap.xml\n")
+    (out / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /statistika.html\nDisallow: /produkcija.json\nDisallow: /komanda-sw.js\nDisallow: /komanda.webmanifest\nSitemap: {base}sitemap.xml\nSitemap: {base}news-sitemap.xml\n")
     stat = Path(__file__).resolve().parent.parent / "static" / "statistika.html"
     if stat.exists():
         (out / "statistika.html").write_text(stat.read_text(encoding="utf-8"), encoding="utf-8")
+    # ljuska interne aplikacije (ikonica na telefonu)
+    for ime in ("komanda.webmanifest", "komanda-sw.js"):
+        f = Path(__file__).resolve().parent.parent / "static" / ime
+        if f.exists():
+            (out / ime).write_text(f.read_text(encoding="utf-8"), encoding="utf-8")
+
+
+def _produkcija(cfg: Config, out: Path, arts: list[dict], state: dict) -> None:
+    """Stanje objavljivanja za internu aplikaciju: koliko je objavljeno, iz kojih
+    rubrika i izvora, i kako je prošao zadnji ciklus. Fajl GitHub Actions šalje
+    servisu statistike; na sajtu ostaje samo kao pomoćni zapis."""
+    from collections import Counter
+    from datetime import datetime, timedelta, timezone
+
+    tz = timezone(timedelta(hours=1))                    # beogradsko vreme, zimsko
+    danas = datetime.now(tz).date().isoformat()
+
+    def dan_od(s: str) -> str:
+        try:
+            return datetime.fromisoformat(str(s).replace("Z", "+00:00")).astimezone(tz).date().isoformat()
+        except Exception:
+            return ""
+
+    danasnji = [a for a in arts if dan_od(a.get("published", "")) == danas]
+    runs = [r for r in (state.get("runs") or []) if isinstance(r, dict)]
+    danas_runs = [r for r in runs if dan_od(r.get("vreme", "")) == danas]
+    zadnji = runs[-1] if runs else {}
+
+    rubrike = Counter(a.get("section") or "ostalo" for a in danasnji)
+    izvori: Counter = Counter()
+    for a in danasnji:
+        for s in a.get("sources") or []:
+            if isinstance(s, dict) and s.get("name"):
+                izvori[s["name"]] += 1
+
+    nazivi = {k: (v.get("naziv") or k) for k, v in (cfg.portal.get("rubrike") or {}).items()}
+    podatak = {
+        "dan": danas,
+        "novih": len(danasnji),
+        "ukupno": int(zadnji.get("ukupno") or len(arts)),
+        "ciklusa": len(danas_runs),
+        "vreme": zadnji.get("vreme", ""),
+        "sekundi": zadnji.get("sekundi", 0),
+        "zadnji_novih": int(zadnji.get("novih") or 0),
+        "greske": int(state.get("greske_danas") or 0),
+        "rubrike": [{"k": nazivi.get(k, k), "v": v} for k, v in rubrike.most_common(20)],
+        "izvori": [{"k": k, "v": v} for k, v in izvori.most_common(25)],
+        "videa": len(state.get("video_arhiva") or []),
+        "x_objava": len(state.get("x_objave") or []),
+    }
+    (out / "produkcija.json").write_text(json.dumps(podatak, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")

@@ -40,6 +40,54 @@ Fajlove menjaš direktno na GitHub-u (olovka "Edit"), ili mi kažeš u razgovoru
 5. **DNS** kod registra: A zapisi `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153` i CNAME `www` → `<tvoj-github-nalog>.github.io`.
 6. **Prvo pokretanje**: Actions → "Osvežavanje portala" → *Run workflow*. Posle toga ide samo, na 15 minuta.
 
+## Interna aplikacija "Komanda" (ikonica na telefonu)
+
+Adresa: `prestonica.rs/statistika.html`. Zaključana PIN-om, isključena iz Google-a (`robots.txt`), radi kao aplikacija kad se doda na početni ekran. Pet kartica u jednoj aplikaciji:
+
+| Kartica | Šta pokazuje | Odakle podaci |
+|---|---|---|
+| **Portal** | pregledi, posetioci, vreme čitanja, pročitanost, najčitaniji tekstovi, izvori, zemlje, gradovi, uređaji, novi i povratnici, uživo | sopstveno merenje: brojač u `templates/base.html` → Worker → D1 |
+| **Google** | GA4 pregledi/korisnici/sesije i Search Console klikovi, impresije, CTR, pozicije, upiti, strane | Google Analytics 4 Data API + Search Console API |
+| **Video** | pretplatnici, pregledi po dnevniku, lajkovi, komentari | YouTube Data API |
+| **X** | pratioci, impresije, angažovanje, poređenje link-objava i kartica | X API v2 |
+| **Produkcija** | koliko tekstova dnevno, po rubrici i izvoru, stanje ciklusa od 15 minuta | `produkcija.json` iz builda → Worker |
+
+### Postavljanje servisa (jednokratno)
+
+Servis je `cloudflare/stat-worker.js`, ruta `prestonica.rs/api/stat*`. Na Cloudflare-u:
+
+1. **Baza**: Workers & Pages → D1 → *Create database*, ime `prestonica-stat`. Tabele se prave same pri prvom pozivu.
+2. **Worker**: *Create Worker*, ime `prestonica-stat`, nalepi sadržaj `cloudflare/stat-worker.js`.
+3. **Veza sa bazom**: Settings → Bindings → D1 database, ime promenljive **`DB`** → `prestonica-stat`.
+4. **Ruta**: Settings → Domains & Routes → *Add route* → `prestonica.rs/api/stat*`, zona `prestonica.rs`.
+5. **Tajne** (Settings → Variables and Secrets → *Encrypt*):
+
+| Tajna | Obavezna | Šta je |
+|---|---|---|
+| `STAT_KLJUC` | da | PIN za ulaz u aplikaciju |
+| `STAT_SO` | da | bilo kakav dug slučajan niz; so za otiske posetilaca |
+| `STAT_UPIS` | za Produkciju | isti niz dodati i kao GitHub secret `STAT_UPIS` |
+| `GOOGLE_SA_EMAIL`, `GOOGLE_SA_KEY` | za Google | servisni nalog: e-adresa i privatni ključ (ceo PEM, sa `-----BEGIN PRIVATE KEY-----`) |
+| `GA4_PROPERTY_ID` | za Google | broj imanja iz GA4 (Admin → Property Settings) |
+| `GSC_SITE_URL` | ne | podrazumevano `https://prestonica.rs/` |
+| `YT_API_KEY`, `YT_CHANNEL_ID` | za Video | API ključ i ID kanala (`UC...`) |
+| `X_BEARER` | za X | Bearer token iz X Developer portala |
+
+### Google strana (nalog `redakcija@prestonica.rs`)
+
+1. Google Cloud Console → novi projekat → uključi **Google Analytics Data API** i **Search Console API**.
+2. IAM → Service Accounts → novi nalog → Keys → *Add key* → JSON. Iz fajla uzmi `client_email` i `private_key`.
+3. GA4 → Admin → Property Access Management → dodaj tu e-adresu kao **Viewer**.
+4. Search Console → Settings → Users and permissions → dodaj tu e-adresu kao **Full** ili **Restricted**.
+
+Search Console podaci kasne 1-3 dana; aplikacija to piše na kartici da pad ne bi izgledao kao pad saobraćaja.
+
+### Dodavanje na telefon
+
+iPhone: otvori adresu u Safariju → *Podeli* → **Dodaj na početni ekran**. Android (Chrome): meni ⋮ → **Instaliraj aplikaciju**. Posle toga se otvara bez adresne linije, PIN se unosi jednom.
+
+Aplikacija pamti PIN u pregledaču, drži ljusku u kešu da se otvara trenutno, a brojeve nikad ne kešira. Portal se osvežava na 30 sekundi (uživo) i 5 minuta (izveštaj), Google na 10 minuta, YouTube i X na 30 minuta zbog kvota.
+
 ## Lokalno testiranje
 ```
 pip install -r requirements.txt

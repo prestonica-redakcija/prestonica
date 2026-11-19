@@ -68,6 +68,18 @@ jobs:
         run: |
           if [ -n "$MAX_VESTI" ]; then python -m engine.run --max "$MAX_VESTI"; else python -m engine.run; fi
 
+      - name: Pošalji stanje produkcije internoj aplikaciji
+        if: ${{ env.STAT_UPIS != '' }}
+        continue-on-error: true
+        env:
+          STAT_UPIS: ${{ secrets.STAT_UPIS }}
+        run: |
+          if [ -f site/produkcija.json ]; then
+            curl -sS -m 20 -X POST "https://prestonica.rs/api/stat/produkcija" \
+              -H "X-Upis: $STAT_UPIS" -H "Content-Type: application/json" \
+              --data-binary @site/produkcija.json >/dev/null && echo "Produkcija poslata"
+          fi
+
       - name: Sačuvaj arhivu u repozitorijum
         run: |
           git config user.name "prestonica-bot"
