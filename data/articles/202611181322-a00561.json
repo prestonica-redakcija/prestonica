@@ -27,16 +27,23 @@
  ],
  "importance": 4,
  "published": "2026-11-18T12:22:09.404277+00:00",
- "updated": "2026-11-18T12:22:09.404277+00:00",
+ "updated": "2026-11-19T02:16:01.022475+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/298789/macura-zastita-dece-od-nasilja-mora-biti-prioritet-celog-drustva/vest",
    "title": "Macura: Zaštita dece od nasilja mora biti prioritet celog društva",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4435569-macura-zastita-dece-od-nasilja-mora-biti-prioritet-celog-drustva",
+   "title": "Macura: Zaštita dece od nasilja mora biti prioritet celog društva",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
+  "Macura: Zaštita dece od nasilja mora biti prioritet celog društva",
   "Macura: Zaštita dece od nasilja mora biti prioritet celog društva"
  ],
  "author": "Redakcija Prestonice",
@@ -48,5 +55,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Macura: zaštita dece od nasilja mora biti prioritet celog društva"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
