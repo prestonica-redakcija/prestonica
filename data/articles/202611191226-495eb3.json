@@ -29,17 +29,24 @@
  ],
  "importance": 7,
  "published": "2026-11-19T11:26:46.370283+00:00",
- "updated": "2026-11-19T11:26:46.370283+00:00",
+ "updated": "2026-11-19T21:22:29.423055+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/svet/jutarnji-list-epp-vucic/",
    "title": "Jutarnji list: Nekada je bio njihov „najveći Srbin od krvi i mesa“, sada ga se odriču, Vučić je na pragu još jednog teškog udarca",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286499/raste-verovatnoca-velikih-americkih-udara-na-iran/vest",
+   "title": "Tramp pred teškom odlukom",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Jutarnji list: Nekada je bio njihov „najveći Srbin od krvi i mesa“, sada ga se odriču, Vučić je na pragu još jednog teškog udarca"
+  "Jutarnji list: Nekada je bio njihov „najveći Srbin od krvi i mesa“, sada ga se odriču, Vučić je na pragu još jednog teškog udarca",
+  "Tramp pred teškom odlukom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "EPP navodno predlaže suspenziju SNS-a na godinu dana, odluka početkom decembra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
