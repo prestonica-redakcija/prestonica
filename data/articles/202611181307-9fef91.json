@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T12:07:07.965704+00:00",
- "updated": "2026-11-19T13:10:56.804851+00:00",
+ "updated": "2026-11-19T21:37:28.519496+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -171,6 +171,18 @@
    "url": "https://www.tanjug.rs/srbija/politika/299059/u-skupstini-srbije-pauza-do-1540-casova/vest",
    "title": "U Skupštini Srbije pauza do 15.40 časova",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/299059/cupic-izabran-za-predsednika-skupstine-zavrsena-rasprava-o-kandidatima-za-potpredsednike-pocelo-glasanje-prozivkom/vest",
+   "title": "Čupić izabran za predsednika Skupštine; Završena rasprava o kandidatima za potpredsednike, počelo glasanje prozivkom",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/ambasada-sad-cestitala-cupicu/",
+   "title": "Ambasada SAD u Beogradu čestitala Čupiću izbor za predsednika Skupštine Srbije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -196,7 +208,9 @@
   "BLOG UŽIVO Treći dan konstitutivne sednice: Vučić ponovo govori i opstruiše izbor predsednika Skupštine",
   "HAOS U SKUPŠTINI: Jovo Bakić urlao iz sveg glasa, a onda mu Vučić odgovorio",
   "Dodik čestitao Čupiću izbor za predsednika Skupštine Srbije: „Srbiju nosimo u srcu iznad svega“",
-  "U Skupštini Srbije pauza do 15.40 časova"
+  "U Skupštini Srbije pauza do 15.40 časova",
+  "Čupić izabran za predsednika Skupštine; Završena rasprava o kandidatima za potpredsednike, počelo glasanje prozivkom",
+  "Ambasada SAD u Beogradu čestitala Čupiću izbor za predsednika Skupštine Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -208,7 +222,7 @@
   "local": true,
   "alt": "Brnabić na konstitutivnoj sednici uporedila naučne radove Radenovića i Čupića"
  },
- "novo_od_pisanja": 6,
+ "novo_od_pisanja": 8,
  "boost": 1.6,
  "prepisano": "2026-11-19T09:12:47.015713+00:00",
  "verzija": 4
