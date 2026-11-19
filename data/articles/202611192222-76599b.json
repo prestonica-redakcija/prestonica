@@ -30,17 +30,24 @@
  ],
  "importance": 3,
  "published": "2026-11-19T21:22:29.423055+00:00",
- "updated": "2026-11-19T21:22:29.423055+00:00",
+ "updated": "2026-11-19T21:52:16.770069+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10167363/natasa-tasic-knezevic-govor-koji-je-dirnuo-skupstinu",
    "title": "SUZE U SKUPŠTINI SRBIJE Nataša održala govor na koji niko nije ostao imun: Ovo su kadrovi kakve do sada nismo mogli videli u Parlamentu (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/252862/emotivan-govor-natasa-tasic-knezevic-u-skupstini-srbije/vest",
+   "title": "Nataša Tasić Knežević emotivnim govorom u Skupštini pozvala na dijalog: \"Moramo da vidimo ljudsko jedni u drugima\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "SUZE U SKUPŠTINI SRBIJE Nataša održala govor na koji niko nije ostao imun: Ovo su kadrovi kakve do sada nismo mogli videli u Parlamentu (FOTO)"
+  "SUZE U SKUPŠTINI SRBIJE Nataša održala govor na koji niko nije ostao imun: Ovo su kadrovi kakve do sada nismo mogli videli u Parlamentu (FOTO)",
+  "Nataša Tasić Knežević emotivnim govorom u Skupštini pozvala na dijalog: \"Moramo da vidimo ljudsko jedni u drugima\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Tasić Knežević u prvom govoru u Skupštini pozvala na dijalog i poštovanje manjina"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
