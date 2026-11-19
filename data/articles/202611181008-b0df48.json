@@ -26,17 +26,24 @@
  ],
  "importance": 4,
  "published": "2026-11-18T09:08:30.451343+00:00",
- "updated": "2026-11-18T09:08:30.451343+00:00",
+ "updated": "2026-11-19T09:12:47.015713+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/298705/evropski-indeksi-uglavnom-u-padu-nafta-brent-92-dolara-u-fokusu-podaci-o-inflaciji-i-fed/vest",
    "title": "Evropski indeksi uglavnom u padu, nafta Brent 92 dolara, u fokusu podaci o inflaciji i Fed",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/299052/evropski-indeksi-u-plusu-nafta-brent-92-dolara-antropik-izlazi-na-berzu-nasdak/vest",
+   "title": "Evropski indeksi u plusu, nafta Brent 92 dolara, Antropik izlazi na berzu Nasdak",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Evropski indeksi uglavnom u padu, nafta Brent 92 dolara, u fokusu podaci o inflaciji i Fed"
+  "Evropski indeksi uglavnom u padu, nafta Brent 92 dolara, u fokusu podaci o inflaciji i Fed",
+  "Evropski indeksi u plusu, nafta Brent 92 dolara, Antropik izlazi na berzu Nasdak"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Evropske berze u padu, nafta Brent oko 92 dolara, investitori čekaju podatke o inflaciji"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

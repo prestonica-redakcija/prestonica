@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-19T08:42:57.783545+00:00",
- "updated": "2026-11-19T08:42:57.783545+00:00",
+ "updated": "2026-11-19T09:12:47.015713+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,18 @@
    "url": "https://www.danas.rs/vesti/politika/el-sarag-studentska-lista-necemo-opstruisati-rad-parlamenta/",
    "title": "El Sarag (Studentska lista): Nećemo opstruisati rad parlamenta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/sara-el-sarag-vucic-namerno-opstruise-rad-parlamenta-jer-nakon-konstituisanja-vise-nece-imati-tu-mogucnost/",
+   "title": "Sara El Sarag: Vučić namerno opstruiše rad parlamenta, jer nakon konstituisanja više neće imati tu mogućnost",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Sara El Sarag: Vučić namerno opstruiše rad parlamenta, jer nakon konstituisanja više neće imati tu mogućnost",
-  "El Sarag (Studentska lista): Nećemo opstruisati rad parlamenta"
+  "El Sarag (Studentska lista): Nećemo opstruisati rad parlamenta",
+  "Sara El Sarag: Vučić namerno opstruiše rad parlamenta, jer nakon konstituisanja više neće imati tu mogućnost"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "El Sarag: Većina neće opstruisati parlament, Vučić po njenoj oceni odugovlači"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -28,16 +28,23 @@
  ],
  "importance": 5,
  "published": "2026-11-19T08:28:06.592224+00:00",
- "updated": "2026-11-19T08:28:06.592224+00:00",
+ "updated": "2026-11-19T09:12:47.015713+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/rektor-djokic-umesto-partijske-lojalnosti-imamo-kompetenciju-i-principijelnost/",
    "title": "Rektor Đokić: Umesto partijske lojalnosti imamo kompetenciju i principijelnost",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/rektor-djokic-umesto-partijske-lojalnosti-imamo-kompetenciju-i-principijelnost/",
+   "title": "Rektor Đokić: Umesto partijske lojalnosti imamo kompetenciju i principijelnost",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Rektor Đokić: Umesto partijske lojalnosti imamo kompetenciju i principijelnost",
   "Rektor Đokić: Umesto partijske lojalnosti imamo kompetenciju i principijelnost"
  ],
  "author": "Redakcija Prestonice",
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Vladan_%C4%90oki%C4%87_na_protestu.jpg",
   "alt": "Rektor Đokić: Nakon pobede Studentske liste ima šanse za značajne promene"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

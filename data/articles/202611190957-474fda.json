@@ -30,27 +30,36 @@
  ],
  "importance": 6,
  "published": "2026-11-19T08:57:57.933205+00:00",
- "updated": "2026-11-19T08:57:57.933205+00:00",
+ "updated": "2026-11-19T09:12:47.015713+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/skoro-devet-godina-posle-ubistva-olivera-ivanovica-u-srbiji-nema-ni-istrage/",
    "title": "Skoro devet godina posle ubistva Olivera Ivanovića, u Srbiji nema ni istrage",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/tok-za-vreme-predmet-ubistva-olivera-ivanovica-u-predistraznoj-fazi-protiv-nn-lica/",
+   "title": "TOK za Vreme: Predmet ubistva Olivera Ivanovića u predistražnoj fazi protiv NN lica",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Skoro devet godina posle ubistva Olivera Ivanovića, u Srbiji nema ni istrage"
+  "Skoro devet godina posle ubistva Olivera Ivanovića, u Srbiji nema ni istrage",
+  "TOK za Vreme: Predmet ubistva Olivera Ivanovića u predistražnoj fazi protiv NN lica"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
  "score_at_pub": 2.92,
  "image": {
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Oliver_Ivanovi%C4%87_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Oliver_Ivanovi%C4%87.jpg/1920px-Oliver_Ivanovi%C4%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credit": "Wikimedia Commons / Medija centar Beograd / CC BY-SA 3.0",
   "ilustracija": false,
   "local": false,
-  "link": "https://commons.wikimedia.org/wiki/File:Oliver_Ivanovi%C4%87_(cropped).jpg",
+  "link": "https://commons.wikimedia.org/wiki/File:Oliver_Ivanovi%C4%87.jpg",
   "alt": "JTOK: u slučaju ubistva Olivera Ivanovića istraga nije naređena, predmet u predistražnoj fazi"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

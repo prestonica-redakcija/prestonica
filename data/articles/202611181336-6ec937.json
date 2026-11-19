@@ -24,17 +24,24 @@
  ],
  "importance": 3,
  "published": "2026-11-18T12:36:52.310335+00:00",
- "updated": "2026-11-18T12:36:52.310335+00:00",
+ "updated": "2026-11-19T09:12:47.015713+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/298803/dom-zdravlja-nis-za-mestane-sela-donja-trnava-organizovani-pregledi-u-okviru-mobilne-ambulante/vest",
    "title": "Dom zdravlja Niš: Za meštane sela Donja Trnava organizovani pregledi u okviru mobilne ambulante",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/299051/dom-zdravlja-nis-organizuje-preventivne-preglede-21-11-u-okviru-akcije-otvorena-vrata/vest",
+   "title": "Dom zdravlja Niš organizuje preventivne preglede 21. 11. u okviru akcije ''Otvorena vrata''",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Dom zdravlja Niš: Za meštane sela Donja Trnava organizovani pregledi u okviru mobilne ambulante"
+  "Dom zdravlja Niš: Za meštane sela Donja Trnava organizovani pregledi u okviru mobilne ambulante",
+  "Dom zdravlja Niš organizuje preventivne preglede 21. 11. u okviru akcije ''Otvorena vrata''"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Dom_zdravlja_Ni%C5%A1.jpg",
   "alt": "Mobilna ambulanta Doma zdravlja Niš pregledala meštane sela Donja Trnava"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
