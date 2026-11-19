@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-19T10:41:57.187938+00:00",
- "updated": "2026-11-19T11:11:51.082473+00:00",
+ "updated": "2026-11-19T12:41:11.680229+00:00",
  "sources": [
   {
    "name": "N1",
@@ -53,13 +53,20 @@
    "url": "https://insajder.net/prenosimo/nesreca-na-trafostanici-kod-vranja-povredena-trojica-radnika-jedan-transportovan-u-nis",
    "title": "Nesreća na trafostanici kod Vranja: Povređena trojica radnika, jedan zbrinut u Kliničkom centru u Nišu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4435964-nesreca-na-radu-kod-vranja-radnike-udarila-struja-momak-19-zadobio-teske-povrede",
+   "title": "Nesreća na radu kod Vranja: Radnike udarila struja, momak (19) zadobio teške povrede",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Trojica radnika povređena na trafostanici kod Vranja, jedan prebačen u KC Niš",
   "RADNIK TEŠKO POVREĐEN KOD VRANJA: Radili oko trafostanice u selu Donje Trebešinje, pa došlo do nesreće",
   "Povređena tri radnika na trafostanici",
-  "Nesreća na trafostanici kod Vranja: Povređena trojica radnika, jedan zbrinut u Kliničkom centru u Nišu"
+  "Nesreća na trafostanici kod Vranja: Povređena trojica radnika, jedan zbrinut u Kliničkom centru u Nišu",
+  "Nesreća na radu kod Vranja: Radnike udarila struja, momak (19) zadobio teške povrede"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,6 +79,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Die_Wei%C3%9Fe_Br%C3%BCcke_in_Vranje.jpg",
   "alt": "Radnik EPS-a povređen na trafostanici kod Vranja, još dvojica tražila pomoć lekara"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

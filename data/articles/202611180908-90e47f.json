@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T08:08:49.260074+00:00",
- "updated": "2026-11-19T08:57:57.933205+00:00",
+ "updated": "2026-11-19T12:41:11.680229+00:00",
  "sources": [
   {
    "name": "N1",
@@ -80,6 +80,12 @@
    "url": "https://nova.rs/vesti/politika/poslanica-studentske-liste-ocekujem-da-ce-konstituisanje-skupstine-biti-zavrseno-danas/",
    "title": "Poslanica Studentske liste: Očekujem da će konstituisanje skupštine biti završeno danas",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/252315/ko-je-aleksandar-cupic-novi-predsednik-skupstine-srbije/vest",
+   "title": "Novi predsednik Skupštine Srbije: Profesor, poljoprivrednik i čovek koji je pevao \"Srbija se budi\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -90,7 +96,8 @@
   "Ovo je najmlađa poslanica Studentske liste u Skupštini: Sara (26) je poljoprivrednica sa masterom",
   "Poslanici Studentske liste: Čupić dobar izbor za predsednika Skupštine",
   "Poslanica SL: Očekujem da će konstituisanje skupštine biti završeno danas",
-  "Poslanica Studentske liste: Očekujem da će konstituisanje skupštine biti završeno danas"
+  "Poslanica Studentske liste: Očekujem da će konstituisanje skupštine biti završeno danas",
+  "Novi predsednik Skupštine Srbije: Profesor, poljoprivrednik i čovek koji je pevao \"Srbija se budi\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -102,8 +109,8 @@
   "local": true,
   "alt": "Valentik očekuje efikasniji rad Skupštine nakon izbora predsednika parlamenta"
  },
- "novo_od_pisanja": 2,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-18T12:36:52.310335+00:00",
  "verzija": 2
 }

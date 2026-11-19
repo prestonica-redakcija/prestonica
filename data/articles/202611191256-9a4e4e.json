@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T11:56:27.978966+00:00",
- "updated": "2026-11-19T12:11:22.520849+00:00",
+ "updated": "2026-11-19T12:41:11.680229+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,25 @@
    "url": "https://n1info.rs/vesti/odlozena-sednica-skupstine-kosova-na-kojoj-je-najavljeno-razmatranje-zakona-o-specijalnim-vecima/",
    "title": "Odložena sednica Skupštine Kosova na kojoj je najavljeno razmatranje Zakona o specijalnim većima",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/299146/odlozena-sednica-pristinske-skupstine-o-zakonu-o-specijalizovanim-vecima/vest",
+   "title": "Odložena sednica prištinske skupštine o Zakonu o Specijalizovanim većima",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4435970-odlozena-sednica-pristinske-skupstine-o-zakonu-o-specijalizovanim-vecima",
+   "title": "Odložena sednica prištinske skupštine o Zakonu o Specijalizovanim većima",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Odložna sednica Skupštine Kosova na kojoj je najavljeno razmatranje Zakona o specijalijalnim većima",
-  "Odložena sednica Skupštine Kosova na kojoj je najavljeno razmatranje Zakona o specijalnim većima"
+  "Odložena sednica Skupštine Kosova na kojoj je najavljeno razmatranje Zakona o specijalnim većima",
+  "Odložena sednica prištinske skupštine o Zakonu o Specijalizovanim većima",
+  "Odložena sednica prištinske skupštine o Zakonu o Specijalizovanim većima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,6 +74,6 @@
   "osoba": "Aljbin Kurti",
   "alt": "Sednica Skupštine Kosova o Zakonu o specijalnim većima odložena na neodređeno vreme"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

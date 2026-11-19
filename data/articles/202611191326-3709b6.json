@@ -29,17 +29,24 @@
  ],
  "importance": 5,
  "published": "2026-11-19T12:26:15.353983+00:00",
- "updated": "2026-11-19T12:26:15.353983+00:00",
+ "updated": "2026-11-19T12:41:11.680229+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/299136/eps-prve-barze-sa-indonezanskim-ugljem-iz-luke-konstanca-krenule-ka-srbiji/vest",
    "title": "EPS: Prve barže sa indonežanskim ugljem iz luke Konstanca krenule ka Srbiji",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/286352/eps-prve-barze-sa-indonezanskim-ugljem-iz-luke-konstanca-krenule-ka-srbiji/vest",
+   "title": "Prve barže sa indonežanskim ugljem krenule ka Srbiji",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "EPS: Prve barže sa indonežanskim ugljem iz luke Konstanca krenule ka Srbiji"
+  "EPS: Prve barže sa indonežanskim ugljem iz luke Konstanca krenule ka Srbiji",
+  "Prve barže sa indonežanskim ugljem krenule ka Srbiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Granada_Avenida_de_la_Constitucion_21_Hotel_Tent_b.jpg",
   "alt": "Prve barže sa indonežanskim ugljem iz Konstance krenule ka Srbiji"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
