@@ -33,7 +33,7 @@
  ],
  "importance": 3,
  "published": "2026-11-18T18:49:24.545913+00:00",
- "updated": "2026-11-18T19:49:06.120965+00:00",
+ "updated": "2026-11-19T10:12:13.177653+00:00",
  "sources": [
   {
    "name": "B92",
@@ -58,13 +58,20 @@
    "url": "https://www.kurir.rs/planeta/10166208/princ-hari-porucio-da-je-spreman-da-ratuje-protiv-rusije",
    "title": "PRINC HARI SPREMAN DA IDE U RAT! Poručio da je voljan da se priključi vojsci i da se bori protiv Rusije!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4435793-dramaticna-poruka-princa-harija-ponovo-bih-se-pridruzio-vojsci-da-se-borim-protiv-rusa",
+   "title": "Dramatična poruka princa Harija: \"Ponovo bih se pridružio vojsci da se borim protiv Rusa\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Princ Hari šokirao izjavom: \"Spreman sam da se vratim u vojsku i borim protiv Rusije\"",
   "Princ Hari bi se borio protiv Rusije: \"Pretnja bi sve trebalo da nas zabrine!\"",
   "Britanski princ Hari poručio da je spreman da se vrati u vojsku i bori protiv Rusije",
-  "PRINC HARI SPREMAN DA IDE U RAT! Poručio da je voljan da se priključi vojsci i da se bori protiv Rusije!"
+  "PRINC HARI SPREMAN DA IDE U RAT! Poručio da je voljan da se priključi vojsci i da se bori protiv Rusije!",
+  "Dramatična poruka princa Harija: \"Ponovo bih se pridružio vojsci da se borim protiv Rusa\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +83,6 @@
   "local": true,
   "alt": "Princ Hari: ponovo bih služio vojsku ako zatreba, pretnja iz Rusije treba da zabrine sve"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

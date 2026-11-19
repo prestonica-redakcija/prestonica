@@ -30,17 +30,24 @@
  ],
  "importance": 5,
  "published": "2026-11-19T09:57:20.733664+00:00",
- "updated": "2026-11-19T09:57:20.733664+00:00",
+ "updated": "2026-11-19T10:12:13.177653+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/mekic-sumnja-se-da-se-u-srbiju-uvozi-zamrznuto-svinjsko-mesto-koje-se-prodaje-kao-sveze/",
    "title": "Mekić: Sumnja se da se u Srbiju uvozi zamrznuto svinjsko mesto, koje se prodaje kao sveže",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/akademik-mekic-sumnja-se-da-se-u-srbiju-uvozi-zamrznuto-svinjsko-meso-koje-se-prodaje-kao-sveze/",
+   "title": "Akademik Mekić: Sumnja se da se u Srbiju uvozi zamrznuto svinjsko meso, koje se prodaje kao sveže",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Mekić: Sumnja se da se u Srbiju uvozi zamrznuto svinjsko mesto, koje se prodaje kao sveže"
+  "Mekić: Sumnja se da se u Srbiju uvozi zamrznuto svinjsko mesto, koje se prodaje kao sveže",
+  "Akademik Mekić: Sumnja se da se u Srbiju uvozi zamrznuto svinjsko meso, koje se prodaje kao sveže"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Mekić upozorava na sumnju da se zamrznuto svinjsko meso prodaje kao sveže"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

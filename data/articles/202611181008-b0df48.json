@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-18T09:08:30.451343+00:00",
- "updated": "2026-11-19T09:42:30.100573+00:00",
+ "updated": "2026-11-19T10:12:13.177653+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,13 +51,20 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1672669/najnovije-cene-nafte-brent-blagom-plusu-sve-oci-uprte-debi-antropika-nasdaku",
    "title": "NAJNOVIJE CENE NAFTE: Brent u blagom plusu, sve oči uprte u debi Antropika na Nasdaku",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/252746/antropik-izlazi-na-nasdak-brent-iznad-92-dolara/vest",
+   "title": "Evropski indeksi u plusu, nafta Brent 92 dolara, Antropik izlazi na berzu Nasdak",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Evropski indeksi uglavnom u padu, nafta Brent 92 dolara, u fokusu podaci o inflaciji i Fed",
   "Evropski indeksi u plusu, nafta Brent 92 dolara, Antropik izlazi na berzu Nasdak",
   "Evropski indeksi u plusu, nafta Brent 92 dolara, Antropik izlazi na berzu Nasdak",
-  "NAJNOVIJE CENE NAFTE: Brent u blagom plusu, sve oči uprte u debi Antropika na Nasdaku"
+  "NAJNOVIJE CENE NAFTE: Brent u blagom plusu, sve oči uprte u debi Antropika na Nasdaku",
+  "Evropski indeksi u plusu, nafta Brent 92 dolara, Antropik izlazi na berzu Nasdak"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "local": true,
   "alt": "Evropske berze u padu, nafta Brent oko 92 dolara, investitori čekaju podatke o inflaciji"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
