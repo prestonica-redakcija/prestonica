@@ -3,20 +3,20 @@
  "slug": "nbs-srednji-kurs-evra-117-6326-dinara-dinar-blago-oslabio-prema-dolaru",
  "kind": "vest",
  "section": "ekonomija",
- "headline": "NBS: srednji kurs evra 117,6326 dinara, dinar blago oslabio prema dolaru",
- "lead": "Zvanični srednji kurs dinara za evro danas iznosi 117,6326, što je neznatna promena u odnosu na sredu, objavila je Narodna banka Srbije. Prema dolaru, indikativni kurs je 107,1628 dinara.",
+ "headline": "NBS: srednji kurs evra u petak 117,6412 dinara, neznatna promena u odnosu na četvrtak",
+ "lead": "Zvanični srednji kurs dinara za evro u petak iznosiće 117,6412, što je neznatna promena u odnosu na četvrtak, objavila je Narodna banka Srbije, prenosi Tanjug. Indikativni kurs prema dolaru iznosi 107,0049 dinara.",
  "body": [
-  "Kako prenosi Euronews Srbija, pozivajući se na kursnu listu Narodne banke Srbije (NBS), zvanični srednji kurs za evro danas iznosi 117,6326 dinara. Promena u odnosu na sredu je neznatna.",
-  "Prema podacima koje navodi Euronews Srbija, dinar je prema evru niži za 0,2 odsto u odnosu na pre mesec dana. Na godišnjem nivou razlika iznosi 0,4 odsto, a od početka godine 0,3 odsto.",
-  "Indikativni kurs dinara prema dolaru danas iznosi 107,1628 dinara za dolar. Euronews Srbija navodi da je dinar prema američkoj valuti slabiji za 0,12 odsto.",
-  "Kurs dinara prema dolaru niži je za 2,4 odsto u odnosu na pre mesec dana, za 5,6 odsto na godišnjem nivou i za 6,8 odsto od početka godine, navodi isti medij."
+  "Prema podacima koje je Tanjug preneo u četvrtak uveče, dinar će prema evru biti slabiji za 0,2 odsto u odnosu na pre mesec dana. Na godišnjem nivou, kao i od početka godine, razlika iznosi po 0,3 odsto.",
+  "Indikativni kurs dinara prema dolaru, navodi Tanjug, iznosi 107,0049 dinara za dolar i jači je za 0,3 odsto. Agencija u prenetom delu vesti ne navodi druge uporedne podatke za američku valutu.",
+  "Za četvrtak je NBS utvrdila srednji kurs od 117,6326 dinara za evro, kako je prenosio Euronews Srbija pozivajući se na kursnu listu NBS. Indikativni kurs za dolar tog dana iznosio je 107,1628 dinara.",
+  "Euronews Srbija je za četvrtak navodio i da je dinar prema evru slabiji za 0,2 odsto u odnosu na pre mesec dana, za 0,4 odsto na godišnjem nivou i za 0,3 odsto od početka godine. Prema dolaru, kako je navedeno, dinar je bio niži za 2,4 odsto u odnosu na pre mesec dana, za 5,6 odsto na godišnjem nivou i za 6,8 odsto od početka godine."
  ],
  "tags": [
   "kurs dinara",
   "NBS",
   "evro",
   "dolar",
-  "kursna lista"
+  "devizni kurs"
  ],
  "people": [],
  "places": [
@@ -24,7 +24,7 @@
  ],
  "importance": 3,
  "published": "2026-11-19T04:44:53.003825+00:00",
- "updated": "2026-11-19T08:57:57.933205+00:00",
+ "updated": "2026-11-19T21:07:41.759857+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -55,6 +55,12 @@
    "url": "https://biznis.telegraf.rs/info-biz/4435753-narodna-banka-objavila-srednji-kurs-evo-kakav-je-danas-odnos-dinara-prema-evru",
    "title": "Narodna banka objavila srednji kurs, evo kakav je danas odnos dinara prema evru",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/299297/srednji-kurs-dinara-za-evro-u-petak-1176412-dinara/vest",
+   "title": "Srednji kurs dinara za evro u petak 117,6412 dinara",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -62,7 +68,8 @@
   "Srednji kurs dinara za evro danas 117,6326 dinara, za dolar 107,2801",
   "NBS objavila današnji kurs evra",
   "DANAŠNjA KURSNA LISTA: Pogledajte koliko dinara danas treba izdvojiti za evro",
-  "Narodna banka objavila srednji kurs, evo kakav je danas odnos dinara prema evru"
+  "Narodna banka objavila srednji kurs, evo kakav je danas odnos dinara prema evru",
+  "Srednji kurs dinara za evro u petak 117,6412 dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,6 +81,8 @@
   "local": true,
   "alt": "NBS: srednji kurs evra 117,6326 dinara, dinar blago oslabio prema dolaru"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 0,
+ "boost": 1.4,
+ "prepisano": "2026-11-19T21:07:41.759857+00:00",
+ "verzija": 2
 }
