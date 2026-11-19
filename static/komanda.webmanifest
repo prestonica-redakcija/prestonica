@@ -1,0 +1,22 @@
+{
+  "name": "Prestonica Komanda",
+  "short_name": "Prestonica",
+  "description": "Interna komandna tabla: portal, Google, YouTube, X i produkcija.",
+  "lang": "sr-Latn",
+  "dir": "ltr",
+  "start_url": "/statistika.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0d1730",
+  "theme_color": "#0d1730",
+  "categories": ["news", "productivity", "business"],
+  "icons": [
+    { "src": "/og/logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/og/logo.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Portal", "url": "/statistika.html" },
+    { "name": "Naslovna strana", "url": "/" }
+  ]
+}

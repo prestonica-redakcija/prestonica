@@ -4,12 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex, nofollow">
-<title>Statistika · Prestonica</title>
+<title>Prestonica · Komanda</title>
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="Statistika">
+<meta name="apple-mobile-web-app-title" content="Prestonica">
 <meta name="theme-color" content="#0d1730">
+<link rel="manifest" href="/komanda.webmanifest">
 <link rel="apple-touch-icon" href="/og/logo.png">
 <link rel="icon" href="/og/logo.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -179,12 +180,55 @@ tr:hover td{background:var(--panel2)}
 .skel{color:transparent!important;background:linear-gradient(90deg,var(--line2),var(--line),var(--line2));background-size:200% 100%;animation:sh 1.2s infinite;border-radius:8px}
 @keyframes sh{to{background-position:-200% 0}}
 .note{background:var(--panel2);border:1px dashed var(--line);border-radius:12px;padding:12px 14px;color:var(--ink2);font-size:13px}
+/* kartice aplikacije */
+.view{display:none;gap:16px;grid-template-columns:minmax(0,1fr)}
+.view.on{display:grid}
+.tabbar{position:fixed;left:0;right:0;bottom:0;z-index:40;
+  padding:8px max(16px,env(safe-area-inset-right,0px)) calc(env(safe-area-inset-bottom,0px) + 8px) max(16px,env(safe-area-inset-left,0px));
+  background:color-mix(in srgb,var(--panel) 94%,transparent);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-top:1px solid var(--line)}
+.tabbar .wrap{display:flex;gap:4px}
+main{padding-bottom:84px}
+.tabbar button{flex:1;border:0;background:transparent;color:var(--mut);padding:8px 4px 6px;border-radius:12px;cursor:pointer;
+  display:grid;justify-items:center;gap:3px;font-weight:700;font-size:11px;letter-spacing:.2px}
+.tabbar button svg{width:21px;height:21px}
+.tabbar button.on{color:var(--acc);background:var(--panel2)}
+.tabbar button b{display:none}
+@media (min-width:760px){main{padding-bottom:0}
+  .tabbar{position:static;margin:0 0 2px;padding:0 0 10px;background:none;border:0;border-bottom:1px solid var(--line)}
+  .tabbar .wrap{gap:6px}.tabbar button{flex:0 0 auto;grid-auto-flow:column;align-items:center;font-size:13.5px;padding:8px 14px}
+  .tabbar button b{display:inline}}
+/* liste sa dva broja */
+.rows{display:grid;gap:0}
+.rows .r{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 12px;align-items:center;padding:10px 0;border-top:1px solid var(--line2);font-size:13px}
+.rows .r:first-child{border-top:0}
+.rows .r .nm{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:600}
+.rows .r .nm small{display:block;font-weight:600;color:var(--mut);font-size:11.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rows .r .num{font-weight:800;font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
+.rows .r .num span{display:block;font-weight:600;color:var(--mut);font-size:11.5px}
+.rows .r .tr{grid-column:1/-1;height:5px;background:var(--bar);border-radius:99px;overflow:hidden;margin-top:4px}
+.rows .r .tr i{display:block;height:100%;border-radius:99px;background:var(--acc)}
+/* stanje izvora */
+.setup{background:var(--panel2);border:1px dashed var(--line);border-radius:12px;padding:16px;color:var(--ink2);font-size:13px;line-height:1.55}
+.setup b{color:var(--ink)}
+.setup code{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:1px 5px;font-size:12px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+.pill{display:inline-flex;align-items:center;gap:6px;font-size:11.5px;font-weight:800;letter-spacing:.3px;text-transform:uppercase;
+  background:var(--panel2);border:1px solid var(--line);border-radius:999px;padding:3px 10px;color:var(--mut)}
+.pill.ok{color:var(--good);border-color:color-mix(in srgb,var(--good) 35%,var(--line))}
+.pill.no{color:var(--warn);border-color:color-mix(in srgb,var(--warn) 35%,var(--line))}
+.ytrow{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:4px 12px;align-items:center;padding:12px 0;border-top:1px solid var(--line2)}
+.ytrow:first-child{border-top:0}
+.ytrow .no{font:800 13px/1 Manrope;color:var(--mut);width:18px}
+.ytrow .ti{min-width:0}
+.ytrow .ti a{font-weight:700;text-decoration:none;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.ytrow .ti small{color:var(--mut);font-size:11.5px}
+.ytrow .st{text-align:right;font-variant-numeric:tabular-nums;font-size:12.5px;white-space:nowrap}
+.ytrow .st b{font-size:15px}
 </style>
 </head>
 <body>
 <header class="top">
   <div class="wrap">
-    <a class="logo" href="/">PRESTONICA<b>.</b><small>Statistika</small></a>
+    <a class="logo" href="/">PRESTONICA<b>.</b><small>Komanda</small></a>
     <span class="live" id="livePill" title="Jedinstveni posetioci u poslednjih 5 minuta"><span class="dot"></span><span id="liveTxt">—</span></span>
     <span class="sp"></span>
     <div class="seg" id="seg">
@@ -204,15 +248,24 @@ tr:hover td{background:var(--panel2)}
 
 <div class="wrap">
 <section class="gate card" id="gate" hidden>
-  <h1>Statistika portala</h1>
-  <p>Unesi ključ za pristup. Čuva se samo u ovom pregledaču.</p>
-  <form id="gateForm"><input type="password" id="key" placeholder="Ključ (STAT_KLJUC)" autocomplete="current-password" required>
+  <h1>Komandna tabla</h1>
+  <p>Portal, Google, YouTube i X na jednom mestu. Unesi PIN za pristup; čuva se samo u ovom pregledaču.</p>
+  <form id="gateForm"><input type="password" id="key" placeholder="PIN za pristup" autocomplete="current-password" required>
   <label><input type="checkbox" id="nb" checked> Ne broji moje posete portalu sa ovog uređaja</label>
-  <button class="btn pri" type="submit" style="width:100%;padding:12px">Otvori statistiku</button>
+  <button class="btn pri" type="submit" style="width:100%;padding:12px">Otvori komandnu tablu</button>
   <div class="err" id="gErr"></div></form>
 </section>
 
 <main id="app" hidden>
+<nav class="tabbar" id="tabbar"><div class="wrap">
+  <button data-v="portal" class="on"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l5-6 4 4 5-7 4 5"/><path d="M3 21h18"/></svg><b>Portal</b></button>
+  <button data-v="google"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg><b>Google</b></button>
+  <button data-v="video"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="5" width="20" height="14" rx="4"/><path d="M10 9.5l5 2.5-5 2.5z"/></svg><b>Video</b></button>
+  <button data-v="x"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.2 3h3.3l-7.2 8.2L21.5 21h-6.1l-4.3-5.6L6 21H2.7l7.5-8.6L2.5 3h6.2l4 5.3zm-1.1 16h1.8L7.1 4.8H5.2z"/></svg><b>X</b></button>
+  <button data-v="prod"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 3h11l4 4v14H5z"/><path d="M9 9h7M9 13h7M9 17h4"/></svg><b>Produkcija</b></button>
+</div></nav>
+
+<div class="view on" id="v-portal">
   <section class="grid k6" id="kpis"></section>
 
   <section class="grid g21">
@@ -268,9 +321,70 @@ tr:hover td{background:var(--panel2)}
     <div class="card"><h2>Gradovi</h2><p class="sub">Približno, prema mreži</p><div class="bars" id="bGr"></div></div>
     <div class="card"><h2>Pregledači i aplikacije</h2><p class="sub">Uključujući ugrađene pregledače u X, Facebook i Instagram aplikacijama</p><div class="bars" id="bPr"></div></div>
   </section>
+</div>
+
+<div class="view" id="v-google">
+  <section class="grid k6" id="gKpis"></section>
+  <section class="grid g21">
+    <div class="card">
+      <div class="hd"><div><h2>Google saobraćaj kroz vreme</h2><p class="sub" id="gChSub">Google Analytics 4</p></div></div>
+      <div class="chart" id="gChart" style="height:260px"><div class="tip" id="gTip"></div></div>
+      <div class="legend" style="margin-top:10px"><span><i style="background:var(--acc)"></i>Pregledi (GA4)</span><span><i style="background:var(--c3)"></i>Klikovi iz pretrage</span></div>
+    </div>
+    <div class="card"><h2>Kanali dolaska</h2><p class="sub">Kako GA4 grupiše izvore</p><div class="bars" id="gKanali"></div>
+      <h2 style="margin-top:20px">Zemlje</h2><p class="sub">Korisnici po zemlji</p><div class="bars" id="gZemlje"></div></div>
+  </section>
+  <section class="grid g2">
+    <div class="card"><div class="hd"><div><h2>Šta se traži na Google-u</h2><p class="sub">Upiti koji vode na Prestonicu · Search Console</p></div>
+      <div class="tabs" id="gqTabs"><button data-s="imp" class="on">Po impresijama</button><button data-s="klik">Po klikovima</button><button data-s="poz">Po poziciji</button></div></div>
+      <div class="rows" id="gUpiti"></div></div>
+    <div class="card"><h2>Strane u Google pretrazi</h2><p class="sub">Klikovi, impresije, CTR i prosečna pozicija</p><div class="rows" id="gStrane"></div></div>
+  </section>
+  <section class="grid g2">
+    <div class="card"><h2>Najčitanije po GA4</h2><p class="sub">Za uporedbu sa sopstvenim merenjem</p><div class="rows" id="gStraneGa"></div></div>
+    <div class="card"><h2>Pretraga po uređaju i stanje izvora</h2><p class="sub">Search Console podaci kasne 1-3 dana</p><div class="bars" id="gUredjaji"></div>
+      <div class="setup" id="gInfo" style="margin-top:16px"></div></div>
+  </section>
+</div>
+
+<div class="view" id="v-video">
+  <section class="grid k6" id="yKpis"></section>
+  <section class="card"><div class="hd"><div><h2>Dnevnik i ostali videi</h2><p class="sub" id="ySub">Poslednjih 25 objava na kanalu</p></div>
+    <div class="tabs" id="yTabs"><button data-s="objavljen" class="on">Najnovije</button><button data-s="pregledi">Najgledanije</button></div></div>
+    <div id="yLista"></div></section>
+  <section class="grid g2">
+    <div class="card"><h2>Pregledi po videu</h2><p class="sub">Poslednje objave, poređane po gledanosti</p><div class="bars" id="yBars"></div></div>
+    <div class="card"><h2>Stanje izvora</h2><p class="sub">Šta aplikacija može da pročita sa YouTube-a</p><div class="setup" id="yInfo"></div></div>
+  </section>
+</div>
+
+<div class="view" id="v-x">
+  <section class="grid k6" id="xKpis"></section>
+  <section class="card"><div class="hd"><div><h2>Objave @Prestonicars</h2><p class="sub" id="xSub">Poslednjih 50 objava, bez odgovora</p></div>
+    <div class="tabs" id="xTabs"><button data-s="vreme" class="on">Najnovije</button><button data-s="imp">Po impresijama</button><button data-s="lajk">Po lajkovima</button></div></div>
+    <div class="rows" id="xLista"></div></section>
+  <section class="grid g2">
+    <div class="card"><h2>Linkovi protiv kartica</h2><p class="sub">Da li objava sa linkom prolazi bolje</p><div class="bars" id="xLink"></div>
+      <div class="note" id="xLinkTxt" style="margin-top:12px"></div></div>
+    <div class="card"><h2>Stanje izvora</h2><p class="sub">X API i kvote</p><div class="setup" id="xInfo"></div></div>
+  </section>
+</div>
+
+<div class="view" id="v-prod">
+  <section class="grid k6" id="pKpis"></section>
+  <section class="grid g21">
+    <div class="card"><h2>Objavljeno po danu</h2><p class="sub" id="pSub">Koliko tekstova portal objavi dnevno</p><div class="bars" id="pDani"></div></div>
+    <div class="card"><h2>Zadnje osvežavanje</h2><p class="sub">Stanje automatskog ciklusa</p><div class="rows" id="pStanje"></div></div>
+  </section>
+  <section class="grid g3">
+    <div class="card"><h2>Po rubrikama</h2><p class="sub">Raspodela objavljenog</p><div class="bars" id="pRub"></div></div>
+    <div class="card"><h2>Po izvorima</h2><p class="sub">Koji mediji su najčešće temelj vesti</p><div class="bars" id="pIzv"></div></div>
+    <div class="card"><h2>Stanje izvora</h2><p class="sub">Upis iz GitHub Actions</p><div class="setup" id="pInfo"></div></div>
+  </section>
+</div>
 
   <div class="note" id="note" hidden></div>
-  <div class="foot"><span>IP adrese se ne čuvaju. Posetilac se prepoznaje u toku jednog dana; povratnici se broje samo uz prihvaćen kolačić.</span><span id="nbState"></span><button id="logout">Odjavi ključ</button></div>
+  <div class="foot"><span>IP adrese se ne čuvaju. Posetilac se prepoznaje u toku jednog dana; povratnici se broje samo uz prihvaćen kolačić.</span><span id="nbState"></span><button id="logout">Odjavi se</button></div>
 </main>
 </div>
 
@@ -307,7 +421,7 @@ function range(){
 // ---- mreža
 function get(path){
   return fetch(API+path,{headers:{"X-Kljuc":key},cache:"no-store"}).then(function(r){
-    if(r.status===401){var e=new Error("Pogrešan ključ.");e.auth=1;throw e}
+    if(r.status===401){var e=new Error("Pogrešan PIN.");e.auth=1;throw e}
     if(r.status===503)return r.json().then(function(j){throw new Error(j.greska||"Servis nije podešen.")});
     if(!r.ok)throw new Error("Statistika trenutno nije dostupna ("+r.status+").");
     return r.json();
@@ -322,7 +436,7 @@ function loadReport(){
 }
 function loadLive(){return get("/uzivo").then(renderLive).catch(function(e){if(e.auth)fail(e)})}
 function fail(e){
-  if(e.auth){ls(K,null);key="";showGate("Ključ nije ispravan. Unesi ga ponovo.");return}
+  if(e.auth){ls(K,null);key="";showGate("PIN nije ispravan. Unesi ga ponovo.");return}
   var nt=$("#note");nt.hidden=false;nt.textContent=e.message;
 }
 
@@ -466,6 +580,238 @@ function csv(){
   var a=document.createElement("a");a.href=URL.createObjectURL(new Blob([s],{type:"text/csv;charset=utf-8"}));a.download="prestonica-statistika-"+new Date().toISOString().slice(0,10)+".csv";document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);a.remove()},500);
 }
 
+/* ================= kartice: Google, Video, X, Produkcija ================= */
+
+var view="portal", ucitano={}, gq="imp", ys="objavljen", xs="vreme";
+var gData=null, yData=null, xData=null, pData=null;
+
+function rows(id,arr,opt){
+  opt=opt||{};var box=$(id);
+  if(!arr||!arr.length){box.innerHTML='<div class="empty">Nema podataka za ovaj period.</div>';return}
+  var max=Math.max.apply(null,arr.map(function(r){return Math.abs(opt.traka?opt.traka(r):0)}).concat([1]));
+  box.innerHTML=arr.slice(0,opt.lim||20).map(function(r){
+    var t=opt.traka?pct(Math.abs(opt.traka(r)),max):0;
+    return'<div class="r"><div class="nm" title="'+esc(opt.ime(r))+'">'+(opt.veza?'<a href="'+esc(opt.veza(r))+'" target="_blank" rel="noopener" style="text-decoration:none">'+esc(opt.ime(r))+'</a>':esc(opt.ime(r)))+
+      (opt.pod?'<small>'+esc(opt.pod(r))+'</small>':"")+'</div><div class="num">'+opt.broj(r)+(opt.broj2?'<span>'+opt.broj2(r)+'</span>':"")+'</div>'+
+      (opt.traka?'<div class="tr"><i style="width:'+t.toFixed(1)+'%;background:'+(opt.boja||"var(--acc)")+'"></i></div>':"")+'</div>'}).join("");
+}
+function kpi(id,cards){
+  $(id).innerHTML=cards.map(function(c){return'<div class="card kpi'+(c[3]?" hl":"")+'"><div class="l">'+c[0]+'</div><div class="v">'+c[1]+'</div><div class="d">'+(c[2]||"")+'</div></div>'}).join("");
+}
+function stanje(ok,tekst,uputstvo){
+  return'<span class="pill '+(ok?"ok":"no")+'">'+(ok?"radi":"nije podešeno")+'</span> '+tekst+(uputstvo?'<div style="margin-top:10px">'+uputstvo+'</div>':"");
+}
+// dve linije na istom grafiku, iste logike dodira kao glavni grafik
+function linije(boxId,tipId,pts,ser){
+  var box=$(boxId),W=box.clientWidth||600,H=box.clientHeight||260,L=46,R=12,T=12,B=26;
+  if(!pts.length){box.innerHTML='<div class="empty">Nema podataka.</div>';return}
+  var top1=Math.max.apply(null,pts.map(function(p){return p[ser[0].k]||0}).concat([1]));
+  var mag=Math.pow(10,Math.floor(Math.log10(top1))),nice=[1,2,2.5,5,10].map(function(m){return m*mag}).find(function(m){return m*4>=top1})||top1,top=nice*4;
+  var top2=Math.max.apply(null,pts.map(function(p){return p[ser[1].k]||0}).concat([1]));
+  var x=function(i){return L+(pts.length<2?0:(W-L-R)*i/(pts.length-1))};
+  var y=function(v,mx){return T+(H-T-B)*(1-(v||0)/(mx||1))};
+  var g="";
+  for(var i=0;i<=4;i++){var yy=y(nice*i,top);g+='<line x1="'+L+'" x2="'+(W-R)+'" y1="'+yy+'" y2="'+yy+'" stroke="var(--line)" stroke-dasharray="'+(i?"3 4":"0")+'"/><text x="'+(L-8)+'" y="'+(yy+4)+'" text-anchor="end" font-size="11" fill="var(--mut)">'+n(nice*i)+'</text>'}
+  var every=Math.max(1,Math.ceil(pts.length/(W<520?5:9)));
+  pts.forEach(function(p,i){if(i%every===0)g+='<text x="'+x(i)+'" y="'+(H-8)+'" text-anchor="middle" font-size="11" fill="var(--mut)">'+p.lab+'</text>'});
+  ser.forEach(function(s,si){
+    var mx=si?top2:top,d=pts.map(function(p,i){return(i?"L":"M")+x(i).toFixed(1)+","+y(p[s.k],mx).toFixed(1)}).join("");
+    if(!si){g+='<defs><linearGradient id="gg" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="var(--acc)" stop-opacity=".25"/><stop offset="1" stop-color="var(--acc)" stop-opacity="0"/></linearGradient></defs>'+
+      '<path d="'+d+"L"+x(pts.length-1)+","+y(0,mx)+"L"+x(0)+","+y(0,mx)+'Z" fill="url(#gg)"/>'}
+    g+='<path d="'+d+'" fill="none" stroke="'+s.c+'" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"'+(si?' stroke-dasharray="0"':"")+'/>';
+  });
+  g+='<line id="c2" x1="0" x2="0" y1="'+T+'" y2="'+(H-B)+'" stroke="var(--ink2)" stroke-opacity=".35" visibility="hidden"/>';
+  g+='<rect x="'+L+'" y="0" width="'+(W-L-R)+'" height="'+H+'" fill="transparent" id="h2"/>';
+  var tip=$(tipId);box.innerHTML='<svg viewBox="0 0 '+W+' '+H+'" preserveAspectRatio="none" role="img" aria-label="Grafik">'+g+'</svg>';box.appendChild(tip);
+  var hit=box.querySelector("#h2"),cur=box.querySelector("#c2");
+  function mv(ev){var rc=box.getBoundingClientRect(),cx=(ev.touches?ev.touches[0].clientX:ev.clientX)-rc.left;
+    var i=Math.max(0,Math.min(pts.length-1,Math.round((cx-L)/((W-L-R)/Math.max(1,pts.length-1)))));var p=pts[i];
+    cur.setAttribute("x1",x(i));cur.setAttribute("x2",x(i));cur.setAttribute("visibility","visible");
+    tip.innerHTML=p.lab+ser.map(function(s){return'<br><b>'+n(p[s.k])+'</b> '+s.ime}).join("");
+    tip.style.left=Math.max(80,Math.min(W-80,x(i)))+"px";tip.style.top=y(p[ser[0].k],top)+"px";tip.style.opacity=1}
+  hit.addEventListener("mousemove",mv);hit.addEventListener("touchmove",mv,{passive:true});hit.addEventListener("touchstart",mv,{passive:true});
+  hit.addEventListener("mouseleave",function(){cur.setAttribute("visibility","hidden");tip.style.opacity=0});
+}
+function dan(k){k=String(k||"");if(/^\d{8}$/.test(k))k=k.slice(0,4)+"-"+k.slice(4,6)+"-"+k.slice(6);return k}
+function kratko(k){var a=dan(k).split("-");return a.length===3?(+a[2])+"."+(+a[1])+".":k}
+
+/* ---- Google */
+function loadGoogle(){
+  var r=range();
+  return get("/google?od="+r[0]+"&do="+r[1]).then(function(j){gData=j;gData.label=r[2];renderGoogle()}).catch(function(e){
+    $("#gInfo").innerHTML=stanje(false,esc(e.message),'Dodaj tajne <code>GOOGLE_SA_EMAIL</code>, <code>GOOGLE_SA_KEY</code> i <code>GA4_PROPERTY_ID</code> u Cloudflare servis, pa osveži.');
+    if(e.auth)fail(e)});
+}
+function renderGoogle(){
+  var a=gData.ga4||{},s=gData.gsc||{},az=a.zbir||{},sz=s.zbir||{};
+  kpi("#gKpis",[
+    ["Pregledi (GA4)",a.greska?"—":n(az.pregledi),gData.label,1],
+    ["Korisnici",a.greska?"—":n(az.korisnici),(az.novi?n(az.novi)+" novih":"")],
+    ["Prosek sesije",a.greska?"—":dur(az.trajanje),(az.angazovanje?pf.format(az.angazovanje)+"% angažovanih":"")],
+    ["Klikovi iz pretrage",s.greska?"—":n(sz.klik),"Search Console"],
+    ["Impresije",s.greska?"—":n(sz.imp),(sz.ctr?"CTR "+pf.format(sz.ctr)+"%":"")],
+    ["Prosečna pozicija",s.greska?"—":(sz.poz?pf.format(sz.poz):"—"),"niže je bolje"]
+  ]);
+  var m={};(a.poDanu||[]).forEach(function(x){m[dan(x.k)]={ga:x.v}});
+  (s.poDanu||[]).forEach(function(x){var k=dan(x.k);m[k]=m[k]||{};m[k].klik=x.klik});
+  var pts=Object.keys(m).sort().map(function(k){return{lab:kratko(k),ga:m[k].ga||0,klik:m[k].klik||0}});
+  linije("#gChart","#gTip",pts,[{k:"ga",ime:"pregleda (GA4)",c:"var(--acc)"},{k:"klik",ime:"klikova iz pretrage",c:"var(--c3)"}]);
+  $("#gChSub").textContent=gData.label+(a.greska?" · GA4 nije dostupan":"")+(s.greska?" · Search Console nije dostupan":"");
+  bars("#gKanali",(a.kanali||[]).map(function(r){return{k:r.k||"Nepoznato",v:r.v}}),{lim:8,extra:function(r){return""}});
+  bars("#gZemlje",(a.zemlje||[]).map(function(r){return{k:r.k||"Nepoznato",v:r.v}}),{lim:10});
+  bars("#gUredjaji",(s.uredjaji||[]).map(function(r){return{k:({DESKTOP:"Računar",MOBILE:"Mobilni",TABLET:"Tablet"})[r.k]||r.k,v:r.klik}}),{});
+  renderUpiti();
+  rows("#gStrane",(s.strane||[]).slice().sort(function(x,y){return y.klik-x.klik}),{lim:20,
+    ime:function(r){try{return new URL(r.k).pathname}catch(e){return r.k}},pod:function(r){return"CTR "+pf.format(r.ctr)+"% · pozicija "+pf.format(r.poz)},
+    veza:function(r){return r.k},broj:function(r){return n(r.klik)},broj2:function(r){return n(r.imp)+" imp."},traka:function(r){return r.klik}});
+  rows("#gStraneGa",a.strane||[],{lim:20,ime:function(r){return(r.k.split(" · ")[1]||r.k.split(" · ")[0]||"").slice(0,120)},
+    pod:function(r){return r.k.split(" · ")[0]},broj:function(r){return n(r.v)},broj2:function(r){return n(r.v2)+" korisnika"},traka:function(r){return r.v}});
+  $("#gInfo").innerHTML=stanje(!a.greska&&!s.greska,
+    (a.greska?"GA4: "+esc(a.greska)+"<br>":"GA4 čita imanje bez greške.<br>")+(s.greska?"Search Console: "+esc(s.greska):"Search Console čita <code>"+esc(gData.sajt||"")+"</code>."),
+    '<b>Zašto se GA4 i sopstveno merenje razlikuju:</b> GA4 ne broji čitaoce koji blokiraju skripte, a sopstveno merenje radi sa našeg domena i vidi skoro sve. Razlika od 20-40% je normalna. Search Console kasni 1-3 dana.');
+}
+function renderUpiti(){
+  var u=((gData.gsc||{}).upiti||[]).slice();
+  if(gq==="klik")u.sort(function(a,b){return b.klik-a.klik});
+  else if(gq==="poz")u=u.filter(function(r){return r.imp>=10}).sort(function(a,b){return a.poz-b.poz});
+  else u.sort(function(a,b){return b.imp-a.imp});
+  rows("#gUpiti",u,{lim:25,ime:function(r){return r.k},pod:function(r){return"CTR "+pf.format(r.ctr)+"% · pozicija "+pf.format(r.poz)},
+    broj:function(r){return gq==="klik"?n(r.klik):gq==="poz"?pf.format(r.poz):n(r.imp)},
+    broj2:function(r){return gq==="klik"?n(r.imp)+" imp.":n(r.klik)+" klik."},traka:function(r){return gq==="poz"?r.imp:(gq==="klik"?r.klik:r.imp)}});
+}
+
+/* ---- YouTube */
+function loadYoutube(){
+  return get("/youtube").then(function(j){yData=j;renderYt()}).catch(function(e){
+    $("#yInfo").innerHTML=stanje(false,esc(e.message),'Dodaj tajne <code>YT_API_KEY</code> i <code>YT_CHANNEL_ID</code> u Cloudflare servis.');
+    if(e.auth)fail(e)});
+}
+function trajanjeISO(d){var m=/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/.exec(d||"");if(!m)return"";var h=+(m[1]||0),mi=+(m[2]||0),s=+(m[3]||0);return(h?h+":"+String(mi).padStart(2,"0"):mi)+":"+String(s).padStart(2,"0")}
+function renderYt(){
+  var k=yData.kanal||{},v=yData.videi||[];
+  var zadnjih7=v.filter(function(x){return Date.now()-new Date(x.objavljen).getTime()<7*864e5});
+  var sum=function(a,f){return a.reduce(function(s,x){return s+f(x)},0)};
+  var prosek=v.length?sum(v,function(x){return x.pregledi})/v.length:0;
+  kpi("#yKpis",[
+    ["Pretplatnici",k.skriveni?"skriveno":n(k.pretplatnici),esc(k.ime||""),1],
+    ["Ukupno pregleda",n(k.pregledi),"ceo kanal"],
+    ["Objavljenih videa",n(k.videa),""],
+    ["Objava za 7 dana",n(zadnjih7.length),zadnjih7.length?n(sum(zadnjih7,function(x){return x.pregledi}))+" pregleda":""],
+    ["Prosek po videu",n(prosek),"poslednjih "+v.length],
+    ["Reakcije",n(sum(v,function(x){return x.lajkovi})),n(sum(v,function(x){return x.komentari}))+" komentara"]
+  ]);
+  var l=v.slice();
+  if(ys==="pregledi")l.sort(function(a,b){return b.pregledi-a.pregledi});
+  $("#yLista").innerHTML=l.length?l.map(function(x,i){
+    var d=new Date(x.objavljen);
+    return'<div class="ytrow"><div class="no">'+(i+1)+'</div><div class="ti"><a href="https://www.youtube.com/watch?v='+esc(x.id)+'" target="_blank" rel="noopener">'+esc(x.naslov)+'</a>'+
+      '<small>'+d.toLocaleDateString("sr-Latn-RS",{day:"numeric",month:"short"})+" "+d.toLocaleTimeString("sr-Latn-RS",{hour:"2-digit",minute:"2-digit"})+(x.trajanje?" · "+trajanjeISO(x.trajanje):"")+'</small></div>'+
+      '<div class="st"><b>'+n(x.pregledi)+'</b> pregleda<br><span style="color:var(--mut)">'+n(x.lajkovi)+' ♥ · '+n(x.komentari)+' kom.</span></div></div>'}).join(""):'<div class="empty">Kanal još nema objavljenih videa.</div>';
+  $("#ySub").textContent=v.length+" objava · "+(yData._kes?"podatak star "+Math.round(yData._kes/60)+" min":"svež podatak");
+  bars("#yBars",v.slice().sort(function(a,b){return b.pregledi-a.pregledi}).map(function(x){return{k:x.naslov,v:x.pregledi}}),{lim:12});
+  $("#yInfo").innerHTML=stanje(true,'Javni podaci kanala: pretplatnici, pregledi, lajkovi i komentari po videu.',
+    '<b>Šta ovde ne može:</b> zadržavanje gledalaca, izvori saobraćaja i vreme gledanja su u YouTube Analytics i traže da se kanal <code>redakcija@prestonica.rs</code> poveže preko OAuth-a. Reci mi kad želiš i to, dodaje se na isti servis.');
+}
+
+/* ---- X */
+function loadX(){
+  return get("/x-mreza").then(function(j){xData=j;renderX()}).catch(function(e){
+    $("#xInfo").innerHTML=stanje(false,esc(e.message),'Dodaj tajnu <code>X_BEARER</code> (Bearer token iz X Developer portala) u Cloudflare servis.');
+    if(e.auth)fail(e)});
+}
+function renderX(){
+  var na=xData.nalog||{},o=xData.objave||[];
+  var sum=function(a,f){return a.reduce(function(s,x){return s+f(x)},0)};
+  var imp=sum(o,function(x){return x.imp}),ang=sum(o,function(x){return x.lajk+x.rt+x.odg+x.cit});
+  var zadnjih7=o.filter(function(x){return Date.now()-new Date(x.vreme).getTime()<7*864e5});
+  kpi("#xKpis",[
+    ["Pratioci",n(na.pratioci),"@"+esc(na.ime||""),1],
+    ["Impresije",imp?n(imp):"—","poslednjih "+o.length+" objava"],
+    ["Angažovanje",n(ang),imp?pf.format(pct(ang,imp))+"% od impresija":""],
+    ["Objava za 7 dana",n(zadnjih7.length),""],
+    ["Prosek po objavi",o.length&&imp?n(imp/o.length):"—","impresija"],
+    ["Ukupno objava",n(na.objava),""]
+  ]);
+  var l=o.slice();
+  if(xs==="imp")l.sort(function(a,b){return b.imp-a.imp});
+  else if(xs==="lajk")l.sort(function(a,b){return(b.lajk+b.rt)-(a.lajk+a.rt)});
+  rows("#xLista",l,{lim:50,ime:function(r){return r.tekst.replace(/\s+/g," ")},
+    pod:function(r){var d=new Date(r.vreme);return d.toLocaleDateString("sr-Latn-RS",{day:"numeric",month:"short"})+" "+d.toLocaleTimeString("sr-Latn-RS",{hour:"2-digit",minute:"2-digit"})+(r.linkKlik?" · sa linkom":" · kartica")},
+    veza:function(r){return"https://x.com/"+(na.ime||"Prestonicars")+"/status/"+r.id},
+    broj:function(r){return r.imp?n(r.imp):"—"},broj2:function(r){return n(r.lajk)+" ♥ · "+n(r.rt)+" RT"},traka:function(r){return r.imp||r.lajk}});
+  $("#xSub").textContent=o.length?o.length+" objava · "+(xData._kes?"podatak star "+Math.round(xData._kes/60)+" min":"svež podatak"):"Objave nisu dostupne (kvota ili dozvole)";
+  var sa=o.filter(function(x){return x.linkKlik}),bez=o.filter(function(x){return!x.linkKlik});
+  var pr=function(a){return a.length?sum(a,function(x){return x.imp})/a.length:0};
+  bars("#xLink",[{k:"Objave sa linkom ("+sa.length+")",v:Math.round(pr(sa))},{k:"Objave bez linka ("+bez.length+")",v:Math.round(pr(bez))}],
+    {color:function(r){return r.k.indexOf("sa linkom")>=0?"var(--c1)":"var(--c4)"}});
+  $("#xLinkTxt").textContent=sa.length&&bez.length
+    ? (pr(sa)>pr(bez)?"Objave sa linkom prolaze bolje: "+n(pr(sa))+" prema "+n(pr(bez))+" impresija u proseku. Granica od 8 link-objava dnevno se isplati.":
+       "Kartice bez linka prolaze bolje: "+n(pr(bez))+" prema "+n(pr(sa))+" impresija u proseku. Razmisli o manjem broju link-objava.")
+    : "Treba više objava oba tipa da bi poređenje imalo smisla.";
+  $("#xInfo").innerHTML=stanje(true,'Nalog i objave se čitaju sa X API-ja, keširano 30 minuta da se ne troši kvota.',
+    '<b>Napomena:</b> impresije X daje samo za sopstvene objave i samo na plaćenim nivoima. Ako su impresije prazne, nivo pristupa ih ne daje.');
+}
+
+/* ---- Produkcija */
+function loadProd(){
+  return get("/produkcija").then(function(j){pData=j;renderProd()}).catch(function(e){
+    $("#pInfo").innerHTML=stanje(false,esc(e.message),"");
+    if(e.auth)fail(e)});
+}
+function renderProd(){
+  var d=pData.dani||[],z=pData.poslednje||{};
+  if(!d.length){
+    kpi("#pKpis",[["Objavljeno danas","—",""],["Ukupno tekstova","—",""],["Ciklusa danas","—",""],["Prosek dnevno","—",""],["Rubrika","—",""],["Izvora","—",""]]);
+    $("#pInfo").innerHTML=stanje(false,esc(pData.napomena||"Nema podataka."),'U <code>.github/workflows/osvezavanje.yml</code> treba korak koji šalje <code>produkcija.json</code> servisu, i tajna <code>STAT_UPIS</code>.');
+    return;
+  }
+  var pros=d.reduce(function(s,x){return s+(x.novih||0)},0)/d.length;
+  kpi("#pKpis",[
+    ["Objavljeno danas",n(z.novih||0),z.dan||"",1],
+    ["Ukupno tekstova",n(z.ukupno||0),"u arhivi"],
+    ["Ciklusa danas",n(z.ciklusa||0),"na 15 minuta"],
+    ["Prosek dnevno",pf.format(pros),"poslednjih "+d.length+" dana"],
+    ["Rubrika u igri",n((z.rubrike||[]).length),""],
+    ["Izvora iskorišćeno",n((z.izvori||[]).length),""]
+  ]);
+  bars("#pDani",d.slice().reverse().map(function(x){return{k:kratko(x.dan),v:x.novih||0}}),{lim:60});
+  $("#pSub").textContent="Poslednjih "+d.length+" dana · ukupno "+n(d.reduce(function(s,x){return s+(x.novih||0)},0))+" novih tekstova";
+  var min=z.sekundi?Math.round(z.sekundi):0;
+  rows("#pStanje",[
+    {k:"Zadnji ciklus",v:z.vreme?new Date(z.vreme).toLocaleString("sr-Latn-RS",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"}):"—"},
+    {k:"Trajanje ciklusa",v:min?min+" s":"—"},
+    {k:"Novih u zadnjem ciklusu",v:n(z.zadnji_novih||0)},
+    {k:"Tekstova u arhivi",v:n(z.ukupno||0)},
+    {k:"Greške",v:z.greske?n(z.greske):"nema"},
+    {k:"Upis primljen",v:z.t?new Date(z.t).toLocaleString("sr-Latn-RS",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"}):"—"}
+  ],{ime:function(r){return r.k},broj:function(r){return esc(String(r.v))}});
+  bars("#pRub",(z.rubrike||[]).map(function(r){return{k:r.k,v:r.v}}),{lim:10});
+  bars("#pIzv",(z.izvori||[]).map(function(r){return{k:r.k,v:r.v}}),{lim:12});
+  $("#pInfo").innerHTML=stanje(true,"Portal svakim osvežavanjem šalje stanje servisu. Čuva se 120 dana.","");
+}
+
+/* ---- prebacivanje kartica */
+var UCITAJ={portal:function(){return Promise.all([loadReport(),loadLive()])},google:loadGoogle,video:loadYoutube,x:loadX,prod:loadProd};
+function prikazi(v,ponovo){
+  view=v;ls("prestonica_stat_view",v);
+  document.querySelectorAll("#tabbar button").forEach(function(b){b.classList.toggle("on",b.dataset.v===v)});
+  document.querySelectorAll(".view").forEach(function(d){d.classList.toggle("on",d.id==="v-"+v)});
+  $("#seg").style.display=(v==="portal"||v==="google")?"":"none";
+  $("#custom").style.display=(v==="portal"||v==="google")?"":"none";
+  $("#livePill").style.display=v==="portal"?"":"none";
+  $("#note").hidden=true;
+  if(ponovo||!ucitano[v]){ucitano[v]=true;UCITAJ[v]()}
+  else if(v==="google"&&gData)renderGoogle();
+  scrollTo({top:0});
+}
+$("#tabbar").addEventListener("click",function(e){var b=e.target.closest("button");if(b)prikazi(b.dataset.v)});
+$("#gqTabs").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;gq=b.dataset.s;
+  document.querySelectorAll("#gqTabs button").forEach(function(x){x.classList.toggle("on",x===b)});if(gData)renderUpiti()});
+$("#yTabs").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;ys=b.dataset.s;
+  document.querySelectorAll("#yTabs button").forEach(function(x){x.classList.toggle("on",x===b)});if(yData)renderYt()});
+$("#xTabs").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;xs=b.dataset.s;
+  document.querySelectorAll("#xTabs button").forEach(function(x){x.classList.toggle("on",x===b)});if(xData)renderX()});
+
 // ---- ulaz
 function showGate(msg){$("#app").hidden=true;$("#gate").hidden=false;$("#gErr").textContent=msg||"";$("#key").focus()}
 function start(){
@@ -473,24 +819,29 @@ function start(){
   $("#nbState").textContent=ls(NB)==="1"?"Tvoje posete sa ovog uređaja se ne broje.":"";
   document.querySelectorAll("#seg button").forEach(function(b){b.classList.toggle("on",b.dataset.p===period)});
   $("#custom").classList.toggle("on",period==="custom");
-  loadReport();loadLive();
+  prikazi(ls("prestonica_stat_view")||"portal",true);
 }
 $("#gateForm").addEventListener("submit",function(e){e.preventDefault();key=$("#key").value.trim();if(!key)return;ls(K,key);if($("#nb").checked)ls(NB,"1");else ls(NB,null);start()});
 $("#logout").addEventListener("click",function(){ls(K,null);key="";showGate()});
 $("#seg").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;period=b.dataset.p;ls("prestonica_stat_period",period);document.querySelectorAll("#seg button").forEach(function(x){x.classList.toggle("on",x===b)});$("#custom").classList.toggle("on",period==="custom");
-  if(period==="custom"&&!$("#dOd").value){var t=new Date();$("#dDo").value=t.toISOString().slice(0,10);$("#dOd").value=new Date(t-6*864e5).toISOString().slice(0,10)}loadReport()});
-["#dOd","#dDo"].forEach(function(s){$(s).addEventListener("change",function(){if(period==="custom")loadReport()})});
-$("#refresh").addEventListener("click",function(){loadReport();loadLive()});
+  if(period==="custom"&&!$("#dOd").value){var t=new Date();$("#dDo").value=t.toISOString().slice(0,10);$("#dOd").value=new Date(t-6*864e5).toISOString().slice(0,10)}
+  ucitano.portal=view==="portal";ucitano.google=view==="google";UCITAJ[view]()});
+["#dOd","#dDo"].forEach(function(s){$(s).addEventListener("change",function(){if(period==="custom"){ucitano.portal=view==="portal";ucitano.google=view==="google";UCITAJ[view]()}})});
+$("#refresh").addEventListener("click",function(){prikazi(view,true)});
 $("#chTabs").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;metric=b.dataset.m;document.querySelectorAll("#chTabs button").forEach(function(x){x.classList.toggle("on",x===b)});$("#chTitle").textContent=metric==="v"?"Pregledi kroz vreme":"Posetioci kroz vreme";if(data)renderChart()});
 document.querySelector("thead").addEventListener("click",function(e){var th=e.target.closest("th");if(!th||!data)return;var k=th.dataset.k;if(k===sortK)sortAsc=!sortAsc;else{sortK=k;sortAsc=k==="naslov"||k==="i"}renderTable()});
 $("#sortSel").addEventListener("change",function(e){sortK=e.target.value;sortAsc=false;if(data)renderTable()});
 $("#q").addEventListener("input",function(e){q=e.target.value.trim();if(data)renderTable()});
 $("#moreBtn").addEventListener("click",function(){showAll=!showAll;renderTable()});
 $("#csv").addEventListener("click",csv);
-var rt;addEventListener("resize",function(){clearTimeout(rt);rt=setTimeout(function(){if(data)renderChart()},150)});
-setInterval(function(){if(key&&!document.hidden)loadLive()},30000);
-setInterval(function(){if(key&&!document.hidden&&(period==="danas"||period==="7"||period==="30"||period==="90"||period==="sve"))loadReport()},300000);
-document.addEventListener("visibilitychange",function(){if(!document.hidden&&key){loadLive();if(data&&Date.now()-data.generisano>120000)loadReport()}});
+var rt;addEventListener("resize",function(){clearTimeout(rt);rt=setTimeout(function(){
+  if(view==="portal"&&data)renderChart();if(view==="google"&&gData)renderGoogle()},150)});
+setInterval(function(){if(key&&!document.hidden&&view==="portal")loadLive()},30000);
+setInterval(function(){if(key&&!document.hidden&&view==="portal"&&period!=="juce"&&period!=="custom")loadReport()},300000);
+document.addEventListener("visibilitychange",function(){if(document.hidden||!key)return;
+  if(view==="portal"){loadLive();if(data&&Date.now()-data.generisano>120000)loadReport()}
+  else if(view==="google"&&gData&&Date.now()-gData.generisano>600000)loadGoogle()});
+if("serviceWorker"in navigator)addEventListener("load",function(){navigator.serviceWorker.register("/komanda-sw.js").catch(function(){})});
 if(key)start();else showGate();
 })();
 </script>
