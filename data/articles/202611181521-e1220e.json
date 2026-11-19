@@ -24,7 +24,7 @@
  ],
  "importance": 2,
  "published": "2026-11-18T14:21:15.621414+00:00",
- "updated": "2026-11-19T08:57:57.933205+00:00",
+ "updated": "2026-11-19T23:06:45.062247+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,12 +43,19 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/299048/svetski-dan-deteta-obelezava-se-sutra/vest",
    "title": "Svetski dan deteta obeležava se sutra",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/razno/286513/na-danasnji-dan-20-novembar/vest",
+   "title": "Na današnji dan, 20. novembar",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Dom zdravlja Niš na Svetski dan deteta 20. novembra organizuje akciju savetovanja",
   "Dom zdravlja Niš na Svetski dan deteta 20. novembra organizuje akciju savetovanja",
-  "Svetski dan deteta obeležava se sutra"
+  "Svetski dan deteta obeležava se sutra",
+  "Na današnji dan, 20. novembar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Dom_zdravlja_Ni%C5%A1.jpg",
   "alt": "Dom zdravlja Niš na Svetski dan deteta organizuje savetodavnu akciju za roditelje"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
