@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-18T06:39:33.089480+00:00",
- "updated": "2026-11-19T05:59:16.631536+00:00",
+ "updated": "2026-11-19T07:13:46.214234+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -39,11 +39,25 @@
    "url": "https://n1info.rs/vesti/19-novembar-lokalni-pljuskovi-vremenska-prognoza/",
    "title": "I danas nas očekuju lokalni pljuskovi",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10164951/vremenska-prognoza-za-decembar-ristic-otkrio-kada-stize-sneg-u-beograd",
+   "title": "TEMPERATURA PADA NA 11 STEPENI, A ONDA SLEDI JOŠ VEĆI PREOKRET: Ristić za Kurir najavio kakvo nas vreme čeka u decembru - Evo kada sneg stiže u Beograd",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/vreme-vremenska-prognoza-19-novembar/",
+   "title": "RHMZ: Kad stiže novo naoblačenje i kakvo nas vreme očekuje narednih dana?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Danas do 19 stepeni uz pljuskove: Pogledajte kakvo nas vreme čeka do kraja nedelje i kada stiže zahlađenje",
-  "I danas nas očekuju lokalni pljuskovi"
+  "I danas nas očekuju lokalni pljuskovi",
+  "TEMPERATURA PADA NA 11 STEPENI, A ONDA SLEDI JOŠ VEĆI PREOKRET: Ristić za Kurir najavio kakvo nas vreme čeka u decembru - Evo kada sneg stiže u Beograd",
+  "RHMZ: Kad stiže novo naoblačenje i kakvo nas vreme očekuje narednih dana?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,6 +69,6 @@
   "local": true,
   "alt": "Danas do 19 stepeni uz kišu, od vikenda stiže nagli pad temperature"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
