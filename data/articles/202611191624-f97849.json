@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-19T15:24:53.435010+00:00",
- "updated": "2026-11-19T15:39:53.923901+00:00",
+ "updated": "2026-11-19T16:09:38.569905+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://www.b92.net/biz/svet/vesti/286418/krenula-gradnja-gasovoda-za-izvoz-gasa-u-evropu/vest",
    "title": "Krenula gradnja gasovoda za izvoz gasa u Evropu",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/252820/alzir-poceo-radove-na-transsaharskom-gasovodu-ka-evropi/vest",
+   "title": "Alžir pokrenuo izgradnju gasovoda sa Nigerijom i Nigerom za izvoz gasa u Evropu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Alžir pokrenuo izgradnju gasovoda sa Nigerijom i Nigerom za izvoz gasa u Evropu",
-  "Krenula gradnja gasovoda za izvoz gasa u Evropu"
+  "Krenula gradnja gasovoda za izvoz gasa u Evropu",
+  "Alžir pokrenuo izgradnju gasovoda sa Nigerijom i Nigerom za izvoz gasa u Evropu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +65,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Pirogues_sur_le_fleuve_Niger,_fermeture_de_la_fronti%C3%A8re_Niger_B%C3%A9nin_25.jpg",
   "alt": "Alžir počeo radove na svojoj deonici transsaharskog gasovoda ka Evropi"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
