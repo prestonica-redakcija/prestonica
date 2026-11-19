@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T09:08:30.451343+00:00",
- "updated": "2026-11-19T09:27:37.018336+00:00",
+ "updated": "2026-11-19T09:42:30.100573+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -626,6 +626,60 @@
    "url": "https://www.telegraf.rs/jetset/holivud/4435808-poginuo-poznati-glumac-66-auto-ga-pokosio-na-pesackom-prelazu",
    "title": "Poginuo poznati glumac (66): Auto ga pokosio na pešačkom prelazu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299060/si-pozvao-velike-sile-da-izvuku-pouke-iz-istorije-i-zajednicki-rade-na-ocuvanju-mira/vest",
+   "title": "Si pozvao velike sile da izvuku pouke iz istorije i zajednički rade na očuvanju mira",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299062/tramp-istorijski-razgovori-sa-rusijom-i-kinom-otvaraju-nov-pravac-u-spoljnoj-politici/vest",
+   "title": "Tramp: Istorijski razgovori sa Rusijom i Kinom otvaraju nov pravac u spoljnoj politici",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299064/mitrovic-samit-u-senzenu-pokazatelj-da-velike-sile-zele-da-doprinesu-stabilizaciji/vest",
+   "title": "Mitrović: Samit u Šenženu pokazatelj da velike sile žele da doprinesu stabilizaciji",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286273/istorijski-sastanak-putina-sija-i-trampa/vest",
+   "title": "Ceo svet je stao; Ako se ne dogovore sledi haos? FOTO/VIDEO",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4435811-oglasio-se-andrej-plenkovic-evo-sta-hrvatska-ocekuje-od-nove-vlade-srbije",
+   "title": "Oglasio se Andrej Plenković: Evo šta Hrvatska očekuje od nove vlade Srbije",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://ljubimci.telegraf.rs/vesti-i-dogadjaji/svet-ljubimci/4435729-svetski-dan-mravojeda-19-novembar",
+   "title": "Njegov jezik \"udari\" 150 puta za minut: Mravojed odlično čuje kretanje mrava, ali je \"slep kod očiju\"",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4435812-pogledajte-kako-je-vucic-dosao-na-3-dan-zasedanja-skupstine-i-ko-ga-je-prvi-sacekao",
+   "title": "Pogledajte kako je Vučić došao na 3. dan zasedanja Skupštine i ko ga je prvi sačekao",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=UUQxZdmDZ5g",
+   "title": "Vučić: Treći dan skupštinskog zasedanja, spreman za novu borbu",
+   "spektar": "stranka"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/sport/kosarka/jokica-pitali-da-li-ce-igrati-gta-za-kojim-je-poludeo-ceo-svet-njegov-odgovor-ce-oduseviti-fanove-druge-igrice/",
+   "title": "Jokića pitali da li će igrati GTA 6 za kojim je poludeo ceo svet, njegov odgovor će oduševiti fanove druge igrice",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -726,7 +780,16 @@
   "VIDEO Tramp pokušao da uhvati Sija za ruku? Pogledajte reakciju kineskog predsednika",
   "„Bože, sačuvaj nas takvih prijatelja“: Tusk o sastanku Trampa i Putina u Šenženu",
   "Jokić dobio jedno od najčudnijih pitanja od kada igra u NBA, Nikola kratko odgovorio: \"Ne\"",
-  "Poginuo poznati glumac (66): Auto ga pokosio na pešačkom prelazu"
+  "Poginuo poznati glumac (66): Auto ga pokosio na pešačkom prelazu",
+  "Si pozvao velike sile da izvuku pouke iz istorije i zajednički rade na očuvanju mira",
+  "Tramp: Istorijski razgovori sa Rusijom i Kinom otvaraju nov pravac u spoljnoj politici",
+  "Mitrović: Samit u Šenženu pokazatelj da velike sile žele da doprinesu stabilizaciji",
+  "Ceo svet je stao; Ako se ne dogovore sledi haos? FOTO/VIDEO",
+  "Oglasio se Andrej Plenković: Evo šta Hrvatska očekuje od nove vlade Srbije",
+  "Njegov jezik \"udari\" 150 puta za minut: Mravojed odlično čuje kretanje mrava, ali je \"slep kod očiju\"",
+  "Pogledajte kako je Vučić došao na 3. dan zasedanja Skupštine i ko ga je prvi sačekao",
+  "Vučić: Treći dan skupštinskog zasedanja, spreman za novu borbu",
+  "Jokića pitali da li će igrati GTA 6 za kojim je poludeo ceo svet, njegov odgovor će oduševiti fanove druge igrice"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -739,7 +802,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(14-12-2021).jpg",
   "alt": "Si i Putin održali 50. susret u Šenženu uoči samita sa Trampom"
  },
- "novo_od_pisanja": 13,
+ "novo_od_pisanja": 22,
  "boost": 1.6,
  "prepisano": "2026-11-19T08:57:57.933205+00:00",
  "verzija": 17

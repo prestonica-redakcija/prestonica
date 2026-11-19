@@ -36,7 +36,7 @@
  ],
  "importance": 5,
  "published": "2026-11-19T07:13:46.214234+00:00",
- "updated": "2026-11-19T07:13:46.214234+00:00",
+ "updated": "2026-11-19T09:42:30.100573+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -55,12 +55,19 @@
    "url": "https://www.kurir.rs/planeta/10166139/rusi-ponovo-napali-objekat-naftogasa-u-poltavskoj-oblasti",
    "title": "ŽESTOK UDAR RUSKIH SNAGA! Ponovo bombardovan ključni ukrajinski energetski objekat u Poltavskoj oblasti",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299066/zbog-ruskih-napada-bez-struje-potrosaci-u-pet-ukrajinskih-oblasti/vest",
+   "title": "Zbog ruskih napada bez struje potrošači u pet ukrajinskih oblasti",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Ruske snage napale energetska postrojenja i lučku infrastrukturu u Ukrajini",
   "Ruske snage napale energetska postrojenja i lučku infrastrukturu u Ukrajini",
-  "ŽESTOK UDAR RUSKIH SNAGA! Ponovo bombardovan ključni ukrajinski energetski objekat u Poltavskoj oblasti"
+  "ŽESTOK UDAR RUSKIH SNAGA! Ponovo bombardovan ključni ukrajinski energetski objekat u Poltavskoj oblasti",
+  "Zbog ruskih napada bez struje potrošači u pet ukrajinskih oblasti"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,5 +78,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Rusija i Naftogas: napadi na energetsku i lučku infrastrukturu u Ukrajini"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

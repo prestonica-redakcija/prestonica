@@ -29,17 +29,24 @@
  ],
  "importance": 6,
  "published": "2026-11-19T09:12:47.015713+00:00",
- "updated": "2026-11-19T09:12:47.015713+00:00",
+ "updated": "2026-11-19T09:42:30.100573+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/djukic-najvazniji-izazovi-nove-vlade-stanje-drzavne-kase-i-rezim-fiksnog-deviznog-kursa/",
    "title": "Đukić: Najvažniji izazovi nove vlade - stanje državne kase i režim fiksnog deviznog kursa",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/stanje-u-drzavnoj-kasi-i-devizni-kurs-ekonomista-djordje-djukic-o-najvaznijim-izazovima-nove-vlade-srbije/",
+   "title": "Stanje u državnoj kasi i devizni kurs: Ekonomista Đorđe Đukić o najvažnijim izazovima nove Vlade Srbije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Đukić: Najvažniji izazovi nove vlade - stanje državne kase i režim fiksnog deviznog kursa"
+  "Đukić: Najvažniji izazovi nove vlade - stanje državne kase i režim fiksnog deviznog kursa",
+  "Stanje u državnoj kasi i devizni kurs: Ekonomista Đorđe Đukić o najvažnijim izazovima nove Vlade Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Đukić: državna kasa i fiksni devizni kurs najveći izazovi nove vlade"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
