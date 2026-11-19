@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T09:08:30.451343+00:00",
- "updated": "2026-11-19T19:23:40.557770+00:00",
+ "updated": "2026-11-19T19:38:14.401263+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -6206,6 +6206,144 @@
    "url": "https://nova.rs/vesti/svet/u-francuskoj-pred-predsednicke-izbore-ista-pravila-za-influensere-kao-i-za-rtv/",
    "title": "U Francuskoj pred predsedničke izbore ista pravila za influensere kao i za RTV",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/zvanicnici-eu-na-sastanku-koalicije-voljnih-nastavljamo-podrsku-ukrajini-nove-sankcije-rusiji",
+   "title": "Zvaničnici EU na sastanku Koalicije voljnih: Nastavljamo podršku Ukrajini, nove sankcije Rusiji",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/299282/duric-demantovao-kupovinu-i-useljenje-u-vilu-ocekujem-promptnu-reakciju-nadleznih/vest",
+   "title": "Đurić demantovao kupovinu i useljenje u vilu: Očekujem promptnu reakciju nadležnih",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4436152-naslovne-strane-sutrasnjih-novina-prelistavanje-stampe-za-petak-20-novembar-2026-godine",
+   "title": "NASLOVNE STRANE SUTRAŠNJIH NOVINA: Prelistavanje štampe za petak, 20. novembar 2026. godine",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/252846/naslovne-strane-dnevne-stampe-za-petak-20-novembar/vest",
+   "title": "Naslovne strane dnevne štampe za petak, 20. novembar",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/286415/rekordan-izlazak-na-berzu-prikupljeno-813-milijarde-dolara/vest",
+   "title": "Rekordan izlazak na berzu: Prikupljeno 81,3 milijarde dolara",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10167306/soskic-o-novom-sazivu-skupstine-srbije",
+   "title": "ŠOŠKIĆ O VLADI I SKUPŠTINI \"Ovo će biti prva 3 zadatka pred novim Parlamentom\"",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/sport/fudbal/kamenom-pogodio-sudiju-pa-na-osam-godina-izbacen-iz-fudbala-video/",
+   "title": "Kamenom pogodio sudiju, pa na osam godina izbačen iz fudbala VIDEO",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/orbanov-otac-na-pruzi-zet-u-nekretninama-vucicev-covek-u-energetici-ko-je-sve-profitirao-od-poslova-u-srbiji/",
+   "title": "Od „Orbanove Ruande“ do milijardi evra: Ovi poslovi povezuju Vučića, Orbana i njihove najbliže saradnike",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/sport/fudbal/4436243-zvezda-u-petak-pusta-u-prodaju-ulaznice-za-mec-sa-radnikom-na-stadion-rajko-mitic-za-samo-400-dinara",
+   "title": "Zvezda u petak pušta u prodaju ulaznice za meč sa Radnikom, na stadion \"Rajko Mitić\" za samo 400 dinara",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4436212-sta-znaci-crveni-meteoalarm-i-zasto-je-toliko-opasan-ovo-treba-da-znaju-svi-gradjani-srbije",
+   "title": "Šta znači crveni meteoalarm i zašto je toliko opasan? Ovo treba da znaju svi građani Srbije",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/sport/kosarka/evroliga/10167307/kosarkasi-dubaija-savladali-makabi-u-13-kolu-evrolige",
+   "title": "SRBI ZABLISTALI U POBEDI DUBAIJA: Makabi pao u Limasolu, Dangubić i Petrušev dali doprinos",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=xOPGoGeSc-Q",
+   "title": "Đukanović: Žele da podele Srbiju",
+   "spektar": "stranka"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10167310/makron-moramo-ponovo-da-otvorimo-pitanje-clanstva-ukrajine-u-nato-u",
+   "title": "\"SADA JE PRAVI TRENUTAK ZA TO\" Makron poručio iz Berlina: \"Moramo ponovo da otvorimo pitanje članstva Ukrajine u NATO-u\"",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/kusner-rusiji-odgovaraju-bezbednosne-garancije-za-ukrajinu-slicne-onima-koje-daje-nato/",
+   "title": "Kušner: Rusiji odgovaraju bezbednosne garancije za Ukrajinu slične onima koje daje NATO",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/ekspo-studenti-sinisa-mali/",
+   "title": "Ko je državu uvalio u problem? Mali upozorava da Ekspa možda neće biti, SL poručuje: Ne prebacujte odgovornost na nas",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/stars/10167316/posvadjali-se-boki-13-i-jelena-karleusa",
+   "title": "\"BLOKIRALA ME JE JECA\" Boki 13 otkrio da je puklo prijateljstvo: Odvratno je i šokantno, ali biće interesantno",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1171512/vera-radovic-studentska-lista-nova-vlast",
+   "title": "Blamaža za blamažom! Poslanica se pogubila, ne zna ni kojoj listi pripada a kamoli koju napada (VIDEO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/jetset/vesti-jetset/4436229-danijel-alibabic-o-sabotazi-na-estradi-pa-komentarisao-mariju-serifovic-i-ucesce-na-evroviziji-to-bi",
+   "title": "Danijel Alibabić o sabotaži na estradi, pa komentarisao Mariju Šerifović i učešće na Evroviziji: \"To bi...\"",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10167317/studentska-lista-konferencija-za-medije-20-11-ispred-palate-pravde",
+   "title": "STUDENTSKA LISTA SE SUTRA U 10 SATI OBRAĆA JAVNOSTI: Konferencija za medije ispred Palate pravde",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/vrednost-antropika-berza/",
+   "title": "Vrednost Antropika skočila na dva biliona dolara nakon izlaska na berzu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286476/sprecen-teroristicki-napad-u-nemackoj-mladic-izradio-oruzje-na-3d-stampacu/vest",
+   "title": "Sprečen teroristički napad; Policija pronašla oružje i municiju",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4436218-hrvatska-poslala-153-vojnika-u-nato-misiju-na-kosovu",
+   "title": "Hrvatska poslala 153 vojnika u NATO misiju na Kosovu",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/predstavnici-nove-i-radara-razgovarali-sa-diplomatama-o-stanju-u-medijima-i-njihovoj-buducnosti/",
+   "title": "Predstavnici Nove i Radara razgovarali sa diplomatama o stanju u medijima i njihovoj budućnosti",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -7236,7 +7374,30 @@
   "Zašto je sezona slava baš zimi? Nije slučajno što se od novembra do januara gotovo ne izlazi iz gostiju",
   "Nastavlja se pakleni početak sezone slavnog beogradskog košarkaškog kluba",
   "Radivojević: Institucija koja apsolutno nije pokazala svoju svrhu je Zaštitnik građana",
-  "U Francuskoj pred predsedničke izbore ista pravila za influensere kao i za RTV"
+  "U Francuskoj pred predsedničke izbore ista pravila za influensere kao i za RTV",
+  "Zvaničnici EU na sastanku Koalicije voljnih: Nastavljamo podršku Ukrajini, nove sankcije Rusiji",
+  "Đurić demantovao kupovinu i useljenje u vilu: Očekujem promptnu reakciju nadležnih",
+  "NASLOVNE STRANE SUTRAŠNJIH NOVINA: Prelistavanje štampe za petak, 20. novembar 2026. godine",
+  "Naslovne strane dnevne štampe za petak, 20. novembar",
+  "Rekordan izlazak na berzu: Prikupljeno 81,3 milijarde dolara",
+  "ŠOŠKIĆ O VLADI I SKUPŠTINI \"Ovo će biti prva 3 zadatka pred novim Parlamentom\"",
+  "Kamenom pogodio sudiju, pa na osam godina izbačen iz fudbala VIDEO",
+  "Od „Orbanove Ruande“ do milijardi evra: Ovi poslovi povezuju Vučića, Orbana i njihove najbliže saradnike",
+  "Zvezda u petak pušta u prodaju ulaznice za meč sa Radnikom, na stadion \"Rajko Mitić\" za samo 400 dinara",
+  "Šta znači crveni meteoalarm i zašto je toliko opasan? Ovo treba da znaju svi građani Srbije",
+  "SRBI ZABLISTALI U POBEDI DUBAIJA: Makabi pao u Limasolu, Dangubić i Petrušev dali doprinos",
+  "Đukanović: Žele da podele Srbiju",
+  "\"SADA JE PRAVI TRENUTAK ZA TO\" Makron poručio iz Berlina: \"Moramo ponovo da otvorimo pitanje članstva Ukrajine u NATO-u\"",
+  "Kušner: Rusiji odgovaraju bezbednosne garancije za Ukrajinu slične onima koje daje NATO",
+  "Ko je državu uvalio u problem? Mali upozorava da Ekspa možda neće biti, SL poručuje: Ne prebacujte odgovornost na nas",
+  "\"BLOKIRALA ME JE JECA\" Boki 13 otkrio da je puklo prijateljstvo: Odvratno je i šokantno, ali biće interesantno",
+  "Blamaža za blamažom! Poslanica se pogubila, ne zna ni kojoj listi pripada a kamoli koju napada (VIDEO)",
+  "Danijel Alibabić o sabotaži na estradi, pa komentarisao Mariju Šerifović i učešće na Evroviziji: \"To bi...\"",
+  "STUDENTSKA LISTA SE SUTRA U 10 SATI OBRAĆA JAVNOSTI: Konferencija za medije ispred Palate pravde",
+  "Vrednost Antropika skočila na dva biliona dolara nakon izlaska na berzu",
+  "Sprečen teroristički napad; Policija pronašla oružje i municiju",
+  "Hrvatska poslala 153 vojnika u NATO misiju na Kosovu",
+  "Predstavnici Nove i Radara razgovarali sa diplomatama o stanju u medijima i njihovoj budućnosti"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -7249,7 +7410,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(14-12-2021).jpg",
   "alt": "Si i Putin održali 50. susret u Šenženu uoči samita sa Trampom"
  },
- "novo_od_pisanja": 943,
+ "novo_od_pisanja": 966,
  "boost": 1.6,
  "prepisano": "2026-11-19T08:57:57.933205+00:00",
  "verzija": 17
