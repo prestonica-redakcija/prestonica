@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.kurir.rs/planeta/10162058/brazil-proglasio-vanredno-stanje-zbog-vise-od-5-000-pozara": "2026-11-15T04:47:58.866998+00:00",
-  "https://www.kurir.rs/zabava/zena/10160389/kako-dinstati-luk-da-ne-zagori": "2026-11-15T04:47:58.866998+00:00",
   "https://www.kurir.rs/zabava/zanimljivosti/10160674/vujica-vulicevic-podigao-manastir-posle-ubistva-karadjordja": "2026-11-15T05:47:32.535386+00:00",
   "https://www.kurir.rs/vesti/drustvo/10162128/vremenska-prognoza-kisa-danas-toplije-do-20-stepeni": "2026-11-15T06:02:16.621359+00:00",
   "https://www.telegraf.rs/vesti/srbija/4433244-paznja-na-auto-putevima-u-srbiji-ima-magle": "2026-11-15T06:02:16.621359+00:00",
@@ -6891,18 +6889,13 @@
   "https://www.kurir.rs/planeta/10166645/vise-bozicnih-vasara-u-nemackoj-otkazano-zbog-finansijskih-i-organizacionih-problema": "2026-11-20T04:04:30.128065+00:00",
   "https://www.telegraf.rs/vesti/srbija/4436201-vase-malo-nekome-znaci-mnogo-evo-gde-danas-mozete-dati-krv": "2026-11-20T04:19:22.490652+00:00",
   "https://www.kurir.rs/vesti/srbija/10166903/smece-pluta-ulicama-smedereva": "2026-11-20T04:34:10.218874+00:00",
-  "https://www.kurir.rs/vesti/beograd/10166786/bez-vode-danas-u-beogradu": "2026-11-20T04:34:10.218874+00:00"
+  "https://www.kurir.rs/vesti/beograd/10166786/bez-vode-danas-u-beogradu": "2026-11-20T04:34:10.218874+00:00",
+  "https://www.kurir.rs/vesti/srbija/10166810/nedelja-italijanske-kuhinje-u-vranju": "2026-11-20T04:49:04.128210+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-19T14:01+00:00",
-   "novih": 2,
-   "ukupno": 2798,
-   "sekundi": 348.0
-  },
   {
    "vreme": "2026-11-19T14:14+00:00",
    "novih": 1,
@@ -7256,6 +7249,12 @@
    "novih": 0,
    "ukupno": 2867,
    "sekundi": 181.4
+  },
+  {
+   "vreme": "2026-11-20T04:53+00:00",
+   "novih": 0,
+   "ukupno": 2867,
+   "sekundi": 293.6
   }
  ],
  "licnosti_foto": {
@@ -10046,23 +10045,23 @@
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "bibislav": {
     "since_id": "2123404577495986296",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "savomanojlovic": {
     "since_id": "2123546565013070121",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "zdravkoponos": {
     "since_id": "2123476746787860570",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "pavlegrbovic": {
     "since_id": "2123343121509413100",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "avucic": {
     "since_id": "2123531971506606293",
@@ -10150,11 +10149,11 @@
    },
    "dobrinacelnik": {
     "since_id": "2123461953905459269",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "jeremic_vuk": {
     "since_id": "2123007427536732502",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
@@ -10162,51 +10161,51 @@
    },
    "srdjanmil037": {
     "since_id": "2123426905680388191",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "zoranlutovac": {
     "since_id": "2123533913687798242",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "pajticbojan": {
     "since_id": "2123010476577554657",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "n_zelenovic": {
     "since_id": "2123561201799921899",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "boskoobradovic": {
     "since_id": "2122592273707712867",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "sasaradulovich": {
     "since_id": "2123464267466756198",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "zaklina_prva": {
     "since_id": "2123537420226588733",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "stevanoccrp": {
     "since_id": "2123435490518892707",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "igorbrakus": {
     "since_id": "2123460909590831246",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "radoholicar": {
     "since_id": "2123165000919326944",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "borakonj": {
     "since_id": "2123527622189527388",
@@ -10214,7 +10213,7 @@
    },
    "narodnipokrets": {
     "since_id": "2123148949066559561",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "direktnors": {
     "since_id": "2123517855039627691",
@@ -10282,15 +10281,15 @@
    },
    "nedeljniknin": {
     "since_id": "2123551895629480428",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "trajkovic_rada": {
     "since_id": "2122991868078088331",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "stateinl": {
     "since_id": "2122430104034816504",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "tvbalkaninfo": {
     "since_id": "2123145868773822473",
@@ -10302,31 +10301,31 @@
    },
    "zatrijebacki": {
     "since_id": "2123547539249168585",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "srbininfo": {
     "since_id": "2123536223364952269",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "mfaserbia": {
     "since_id": "2123398253513425287",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "izlaz_dot_com": {
     "since_id": "2123550643860152633",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "tihinavezi": {
     "since_id": "2123577928709472539",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "relativizacija": {
     "since_id": "2123535874268835935",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "seanmilanovic": {
     "since_id": "2123585025610248682",
-    "t": 1795145694.4931033
+    "t": 1795150158.80865
    },
    "masinars": {
     "since_id": "2123552902409048327",
@@ -21655,29 +21654,6 @@
   }
  },
  "foto_cache": {
-  "t:vozdovac": {
-   "t": 1794544891.2123969,
-   "items": [
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/%D0%92%D0%BE%D0%B6%D0%B4%D0%BE%D0%B2%D0%B0%D1%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1600,
-     "h": 1200,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Artemco / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BE%D0%B6%D0%B4%D0%BE%D0%B2%D0%B0%D1%86.jpg",
-     "naslov": "Вождовац.jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Vozdovac_park%2CMay_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1600,
-     "h": 1200,
-     "god": 2010,
-     "credit": "Wikimedia Commons / Gmihail at Serbian Wikipedia / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Vozdovac_park,May_2010.jpg",
-     "naslov": "Vozdovac park,May 2010.jpg"
-    }
-   ]
-  },
   "t:ostojicevo": {
    "t": 1794547580.884582,
    "items": [
@@ -63174,8 +63150,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-20T04:34:28.470199+00:00",
-  "uzivo_t": "2026-11-20T04:34:28.470211+00:00"
+  "provereno": "2026-11-20T04:49:33.548769+00:00",
+  "uzivo_t": "2026-11-20T04:49:33.548782+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {
