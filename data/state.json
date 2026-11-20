@@ -1,12 +1,5 @@
 {
  "seen": {
-  "https://www.euronews.rs/svet/fokus/252235/izraelska-vojska-ubijen-komandant-hamasa-u-juznoj-gazi/vest": "2026-11-15T21:54:02.625461+00:00",
-  "https://www.b92.net/info/svet/285246/stranka-centra-podrzala-magdalenu-andeson-u-formiranju-nove-vlade-svedske/vest": "2026-11-15T21:54:02.625461+00:00",
-  "https://nova.rs/vesti/hronika/advokat-iz-kraljeva-podneo-krivicnu-prijavu-protiv-dragana-j-vucicevica-u-ime-97-gradjana/": "2026-11-15T21:54:02.625461+00:00",
-  "https://www.telegraf.rs/vesti/srbija/4433561-teretni-saobracaj-privremeno-obustavljen-na-putu-ka-granicnom-prelazu-sid": "2026-11-15T21:54:02.625461+00:00",
-  "https://www.novosti.rs/vesti/politika/1671504/branko-milutinovic-studentska-lista-nordeus-prenijer-studentske-liste": "2026-11-15T21:54:02.625461+00:00",
-  "https://insajder.net/prenosimo/skoro-400-ljudi-uhapseno-na-danasnjim-protestima-u-francuskoj": "2026-11-15T21:54:02.625461+00:00",
-  "https://www.kurir.rs/stars/10163044/milena-kacavenda-o-marku-janjusevicu-sve-je-lagao": "2026-11-15T21:54:02.625461+00:00",
   "https://www.tanjug.rs/svet/hronika/298021/skoro-400-ljudi-uhapseno-na-danasnjim-protestima-u-francuskoj/vest": "2026-11-15T22:08:50.250428+00:00",
   "https://www.tanjug.rs/srbija/drustvo/298023/teretni-saobracaj-privremeno-obustavljen-na-putu-ka-granicnom-prelazu-sid/vest": "2026-11-15T22:08:50.250428+00:00",
   "https://www.kurir.rs/vesti/drustvo/10163064/putevi-srbije-obustavljen-saobracaj-za-kamione-kod-adasevaca-ka-sidu": "2026-11-15T22:08:50.250428+00:00",
@@ -7213,18 +7206,18 @@
   "https://www.tanjug.rs/svet/politika/299594/tramp-huang-zasluzuje-drugu-sansu-voleo-bih-da-se-vrati-na-celo-nvidije/vest": "2026-11-20T21:41:32.412931+00:00",
   "https://biznis.telegraf.rs/info-biz/4436993-tramp-huang-zasluzuje-drugu-sansu-voleo-bih-da-se-iskreno-izvini-i-vrati-na-posao": "2026-11-20T21:41:32.412931+00:00",
   "https://www.kurir.rs/zabava/pop-kultura/10166708/transrodna-glumica-hanter-sejfer-na-listi-za-bondovu-devojku": "2026-11-20T21:41:32.412931+00:00",
-  "https://www.kurir.rs/stars/10168439/hasan-dudic-izneo-sok-detalje-borbe-za-zivot-pa-otkrio-sve-o-svadji-sa-zlatom": "2026-11-20T21:41:32.412931+00:00"
+  "https://www.kurir.rs/stars/10168439/hasan-dudic-izneo-sok-detalje-borbe-za-zivot-pa-otkrio-sve-o-svadji-sa-zlatom": "2026-11-20T21:41:32.412931+00:00",
+  "https://www.kurir.rs/planeta/10168421/danska-proteruje-ruskog-vojnog-atasea-i-uvodi-vizna-ogranicenja-za-ruse": "2026-11-20T21:56:34.046498+00:00",
+  "https://nova.rs/vesti/drustvo/munja-pogodila-avion-er-srbije-na-letu-za-mostar-otkazan-povratak-letelica-upucena-na-pregled/": "2026-11-20T21:56:34.046498+00:00",
+  "https://www.b92.net/info/politika/286821/aleksandra-stimac-studentska-lista-je-blizu-resenja-za-sastav-nove-vlade/vest": "2026-11-20T21:56:34.046498+00:00",
+  "https://www.kurir.rs/vesti/drustvo/10168451/kamioni-na-batrovcima-cekaju-pet-sati": "2026-11-20T21:56:34.046498+00:00",
+  "https://n1info.rs/svet/tramp-kaze-uvesce-visoke-namete-kompanijama-koje-grade-data-centre-van-zemlje/": "2026-11-20T21:56:34.046498+00:00",
+  "https://www.kurir.rs/stars/rijaliti/10168448/intimna-pitanja-u-eliti-10": "2026-11-20T21:56:34.046498+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-20T07:07+00:00",
-   "novih": 1,
-   "ukupno": 2890,
-   "sekundi": 285.0
-  },
   {
    "vreme": "2026-11-20T07:23+00:00",
    "novih": 3,
@@ -7578,6 +7571,12 @@
    "novih": 1,
    "ukupno": 3213,
    "sekundi": 280.7
+  },
+  {
+   "vreme": "2026-11-20T22:02+00:00",
+   "novih": 3,
+   "ukupno": 3216,
+   "sekundi": 383.6
   }
  ],
  "licnosti_foto": {
@@ -22004,10 +22003,6 @@
   }
  },
  "foto_cache": {
-  "t:dejan kukric": {
-   "t": 1794606567.6096926,
-   "items": []
-  },
   "t:skoplje": {
    "t": 1794607416.9110825,
    "items": []
@@ -58039,6 +58034,14 @@
   "t:fondovi eu": {
    "t": 1795210086.6719358,
    "items": []
+  },
+  "t:analiza": {
+   "t": 1795211861.0220711,
+   "items": []
+  },
+  "t:samit eu i zapadni balkan": {
+   "t": 1795211861.2512257,
+   "items": []
   }
  },
  "x_objave": {
@@ -61652,8 +61655,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-20T21:42:40.602711+00:00",
-  "uzivo_t": "2026-11-20T21:42:40.602732+00:00"
+  "provereno": "2026-11-20T21:58:23.111884+00:00",
+  "uzivo_t": "2026-11-20T21:58:23.111902+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {

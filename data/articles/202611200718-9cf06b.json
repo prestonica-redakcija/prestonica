@@ -3,21 +3,21 @@
  "slug": "na-prelazu-batrovci-teretna-vozila-na-izlaz-cekaju-sest-sati-putnicki",
  "kind": "vest",
  "section": "drustvo",
- "headline": "Na prelazu Batrovci teretna vozila na izlaz čekaju šest sati, putnički saobraćaj bez zadržavanja",
- "lead": "Na graničnom prelazu Batrovci teretna vozila na izlaz iz Srbije čekaju šest sati, dok na putničkim terminalima nema zadržavanja. Podaci se odnose na stanje u 5.00 časova, prenosi Tanjug.",
+ "headline": "Kamioni na Batrovcima na izlaz čekaju pet sati, na Sremskoj Rači dva, putnička vozila prolaze bez zadržavanja",
+ "lead": "Teretna vozila na izlazu iz Srbije na prelazu Batrovci uveče čekaju pet sati, što je sat manje nego ujutru, saopštio je AMSS. Na Sremskoj Rači zadržavanje je poraslo na dva sata, dok putnička vozila i dalje prolaze bez čekanja.",
  "body": [
-  "Prema informacijama Uprave granične policije dobijenim u 5.00 časova, kako navodi Tanjug, kamioni na prelazu Batrovci na izlaz čekaju šest sati. Na prelazu Sremska Rača zadržavanje teretnih vozila iznosi sat vremena.",
-  "Na putničkim terminalima graničnih prelaza u Srbiji, prema istim informacijama, nema zadržavanja vozila.",
-  "Zadržavanja nema ni na naplatnim stanicama na auto-putevima, navodi Auto-moto savez Srbije, a prenosi Tanjug.",
-  "U naslovu vesti Tanjug navodi i da su putevi bez snega."
+  "Prema najnovijim podacima Auto-moto saveza Srbije, koje prenosi Kurir, kamioni na graničnom prelazu Batrovci na izlaz iz zemlje čekaju pet sati. Na Sremskoj Rači zadržavanje teretnih vozila iznosi dva sata.",
+  "Ujutru je situacija bila drugačija. Prema informacijama Uprave granične policije iz 5.00 časova, koje je preneo Tanjug, na Batrovcima se na izlaz čekalo šest sati, a na Sremskoj Rači sat vremena.",
+  "Na putničkim terminalima graničnih prelaza nema zadržavanja ni u najnovijem izveštaju, koji se zasniva na informacijama Uprave granične policije od 17.15 časova. Ni ujutru na putničkim terminalima nije bilo čekanja.",
+  "Prema podacima preduzeća „Putevi Srbije“, na naplatnim stanicama na auto-putevima nema zadržavanja. Isto je ujutru navodio AMSS, a Tanjug je tada dodao i da su putevi bez snega."
  ],
  "tags": [
-  "granični prelaz Batrovci",
-  "teretna vozila",
+  "granični prelazi",
+  "Batrovci",
   "Sremska Rača",
-  "Uprava granične policije",
-  "Auto-moto savez Srbije",
-  "saobraćaj"
+  "AMSS",
+  "teretna vozila",
+  "Uprava granične policije"
  ],
  "people": [],
  "places": [
@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T06:18:15.014670+00:00",
- "updated": "2026-11-20T20:42:03.328969+00:00",
+ "updated": "2026-11-20T21:56:34.046498+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -52,13 +52,20 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/299580/teretnjaci-cekaju-pet-sati-na-izlazu-iz-zemlje-na-batrovcima/vest",
    "title": "Teretnjaci čekaju pet sati na izlazu iz zemlje na Batrovcima",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10168451/kamioni-na-batrovcima-cekaju-pet-sati",
+   "title": "Kamioni na Batrovcima čekaju 5 sati: AMSS objavio stanje na granicama tokom večeri, evo kakva je situacija za putnička vozila",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Na graničnom prelazu Batrovci teretna vozila čekaju 6 sati na izlaz, putevi bez snega",
   "Na graničnom prelazu Batrovci teretna vozila čekaju šest sati na izlaz, putevi bez snega",
   "AMSS: Teretnjaci čekaju 5 sati na izlazu iz zemlje",
-  "Teretnjaci čekaju pet sati na izlazu iz zemlje na Batrovcima"
+  "Teretnjaci čekaju pet sati na izlazu iz zemlje na Batrovcima",
+  "Kamioni na Batrovcima čekaju 5 sati: AMSS objavio stanje na granicama tokom večeri, evo kakva je situacija za putnička vozila"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Grani%C4%8Dni_prelaz_Batrovci_in_the_evening_(1).jpg",
   "alt": "Na prelazu Batrovci teretna vozila na izlaz čekaju šest sati, putnički saobraćaj bez zadržavanja"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 0,
+ "boost": 1.32,
+ "prepisano": "2026-11-20T21:56:34.046498+00:00",
+ "verzija": 2
 }
