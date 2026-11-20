@@ -40,7 +40,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T12:30:42.075846+00:00",
- "updated": "2026-11-20T12:30:42.075846+00:00",
+ "updated": "2026-11-20T13:15:18.596243+00:00",
  "sources": [
   {
    "name": "N1",
@@ -53,11 +53,18 @@
    "url": "https://nova.rs/vesti/hronika/evropski-sud-za-ljudska-prava-o-pomilovanjima-za-napade-na-studente/",
    "title": "Evropski sud za ljudska prava traži izjašnjenje Srbije o Vučićevim pomilovanjima optuženih za napade na studente",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/bcljp-evropski-sud-za-ljudska-prava-trazi-izjasnjenje-srbije-o-pomilovanjima-optuzenih-za-napade-na-studente",
+   "title": "BCLJP: Evropski sud za ljudska prava traži izjašnjenje Srbije o pomilovanjima optuženih za napade na studente",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Evropski sud za ljudska prava traži izjašnjenje Srbije o Vučićevom pomilovanjima optuženih za napade na studente",
-  "Evropski sud za ljudska prava traži izjašnjenje Srbije o Vučićevim pomilovanjima optuženih za napade na studente"
+  "Evropski sud za ljudska prava traži izjašnjenje Srbije o Vučićevim pomilovanjima optuženih za napade na studente",
+  "BCLJP: Evropski sud za ljudska prava traži izjašnjenje Srbije o pomilovanjima optuženih za napade na studente"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,5 +75,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Evropski sud traži od Vlade Srbije izjašnjenje o pomilovanjima za napade na studente"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

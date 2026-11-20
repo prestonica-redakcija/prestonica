@@ -3,22 +3,22 @@
  "slug": "janaf-zavrsni-radovi-na-sanaciji-ostecenog-naftovoda-nis-jos-bez",
  "kind": "vest",
  "section": "ekonomija",
- "headline": "JANAF: završni radovi na sanaciji oštećenog naftovoda, NIS još bez potrebnih količina nafte",
- "lead": "Jadranski naftovod (JANAF) saopštio je da se na mestu oštećenja izvode završni radovi na sanaciji cevi. Zbog havarije od 6. novembra Naftna industrija Srbije ne dobija potrebne količine sirove nafte tim putem.",
+ "headline": "JANAF: naftovod kod Prvče oštećen tokom radova spoljnog izvođača, sanacija pred krajem",
+ "lead": "Hrvatski JANAF saopštio je da izvodi završne radove na oštećenoj cevi naftovoda kod naselja Prvča blizu Nove Gradiške. Naftovod je oštećen 6. novembra tokom radova na revitalizaciji koje je izvodio spoljni izvođač, a NIS od tada, prema navodima Danasa, ne dobija potrebne količine nafte tom trasom.",
  "body": [
-  "Kako prenosi Danas, JANAF navodi da se na mestu oštećenja izvode završni radovi na sanaciji cevi. Zbog radova i očekivanih vremenskih uslova povremeno je moguće osećanje mirisa nafte u okolnom području.",
-  "Aktivnosti na sanaciji lokalnog zagađenja, navode iz JANAF-a, nastavljaju se pod kontinuiranim nadzorom nezavisne ovlašćene kompanije.",
-  "U JANAF-u kažu i da je deonica naftovoda proteklih dana drenirana u kontrolisanim uslovima. Prikupljena nafta prevezena je autocisternama na njihove terminale, zbog čega je povećan saobraćaj cisterni na području izvođenja radova.",
-  "Do oštećenja cevi i isticanja nafte došlo je 6. novembra, tokom radova na deonici Sisak–Slavonski Brod. Od tada NIS, prema navodima Danasa, ne dobija potrebne količine sirove nafte ovim naftovodom.",
+  "Prema saopštenju na veb stranici JANAF-a, koje prenose Telegraf Biznis, Tanjug i Euronews Srbija, havarija se dogodila na magistralnom pravcu Sisak–Slavonski Brod, na području naselja Prvča kod Nove Gradiške. Do oštećenja je došlo tokom radova na revitalizaciji naftovoda koje je izvodio spoljni izvođač.",
+  "Kompanija navodi da bi se u okolnom području zbog radova i očekivanih vremenskih uslova povremeno mogao osetiti miris nafte. Radovi na sanaciji lokalnog zagađenja nastavljaju se uz kontinuirani nadzor nezavisne ovlašćene kompanije.",
+  "U JANAF-u kažu da je deonica naftovoda prethodnih dana kontrolisano ispražnjena, a prikupljena nafta autocisternama je prevezena do njihovih terminala. Zbog toga je povećan broj cisterni koje saobraćaju na području izvođenja radova.",
+  "Kako navodi Danas, NIS od 6. novembra ne dobija potrebne količine sirove nafte ovim naftovodom. U izvorima nema podataka o tome kada bi snabdevanje moglo biti u potpunosti obnovljeno.",
   "Ministarstvo rudarstva i energetike ranije je saopštilo da je tržište dobro snabdeveno naftnim derivatima i da nema razloga za zabrinutost kada je reč o snabdevenosti građana i privrede."
  ],
  "tags": [
   "JANAF",
-  "NIS",
   "naftovod",
-  "snabdevanje naftom",
+  "NIS",
   "sanacija",
-  "Ministarstvo rudarstva i energetike"
+  "Prvča",
+  "snabdevanje naftom"
  ],
  "people": [],
  "places": [
@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T09:17:09.352450+00:00",
- "updated": "2026-11-20T13:00:21.398102+00:00",
+ "updated": "2026-11-20T13:15:18.596243+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -52,13 +52,27 @@
    "url": "https://www.tanjug.rs/ekonomija/region/299449/janaf-izvodi-zavrsne-radove-na-sanaciji-ostecenog-naftovoda/vest",
    "title": "JANAF izvodi završne radove na sanaciji oštećenog naftovoda",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4436703-janaf-se-oglasio-povodom-radova-na-ostecenju-naftovoda-ovo-su-poslednje-informacije",
+   "title": "JANAF se oglasio povodom radova na oštećenju naftovoda: Ovo su poslednje informacije",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/252938/janaf-privodi-kraju-popravku-ostecenog-naftovoda-kod-prvce/vest",
+   "title": "JANAF završava sanaciju oštećenog naftovoda: Zašto bi se u okolini mogao osećati miris nafte?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "JANAF: Na mestu oštećenja naftovoda izvode se završni radovi na sanaciji cevi",
   "JANAF: Na mestu oštećenja naftovoda izvode se završni radovi na sanaciji cevi",
   "JANAF: U toku završni radovi na sanaciji naftovoda",
-  "JANAF izvodi završne radove na sanaciji oštećenog naftovoda"
+  "JANAF izvodi završne radove na sanaciji oštećenog naftovoda",
+  "JANAF se oglasio povodom radova na oštećenju naftovoda: Ovo su poslednje informacije",
+  "JANAF završava sanaciju oštećenog naftovoda: Zašto bi se u okolini mogao osećati miris nafte?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +84,8 @@
   "local": true,
   "alt": "JANAF: završni radovi na sanaciji oštećenog naftovoda, NIS još bez potrebnih količina nafte"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 0,
+ "boost": 1.4,
+ "prepisano": "2026-11-20T13:15:18.596243+00:00",
+ "verzija": 2
 }

@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T13:00:21.398102+00:00",
- "updated": "2026-11-20T13:00:21.398102+00:00",
+ "updated": "2026-11-20T13:15:18.596243+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,11 +46,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4436680-verujemo-da-je-mozda-ziva-prva-ispovest-majke-danke-ilic-posle-svedocenja-ledi-krv-u-zilama",
    "title": "\"VERUJEMO DA JE MOŽDA ŽIVA\": Prva ispovest majke Danke Ilić posle svedočenja ledi krv u žilama",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/sudenje-dragijevicu-i-jankovicu-u-negotinu-svedocila-majka-ubijene-danke-ilic",
+   "title": "Suđenje Dragijeviću i Jankoviću u Negotinu: Svedočila majka ubijene Danke Ilić",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Na suđenju Dragijeviću i Jankoviću svedočila majka ubijene Danke Ilić",
-  "\"VERUJEMO DA JE MOŽDA ŽIVA\": Prva ispovest majke Danke Ilić posle svedočenja ledi krv u žilama"
+  "\"VERUJEMO DA JE MOŽDA ŽIVA\": Prva ispovest majke Danke Ilić posle svedočenja ledi krv u žilama",
+  "Suđenje Dragijeviću i Jankoviću u Negotinu: Svedočila majka ubijene Danke Ilić"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Stara_razglednica_Poljoprvredne_skole_u_Negotinu,_snimljeno_oko_1900.jpg",
   "alt": "Majka Danke Ilić svedočila u Negotinu: nada da je devojčica živa još postoji"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

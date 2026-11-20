@@ -33,7 +33,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T06:18:15.014670+00:00",
- "updated": "2026-11-20T07:02:54.044340+00:00",
+ "updated": "2026-11-20T13:15:18.596243+00:00",
  "sources": [
   {
    "name": "N1",
@@ -46,11 +46,18 @@
    "url": "https://nova.rs/vesti/politika/dimitrijevic-kad-ispunimo-uslove-pitacemo-gradjane-da-li-zele-u-eu-ili-ne/",
    "title": "Dimitrijević: Kad ispunimo uslove, pitaćemo građane da li žele u EU ili ne",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10167806/ana-dimitrijevic-sl-pitacemo-gradjane-da-li-zele-u-eu-ili-ne",
+   "title": "\"KAD ISPUNIMO USLOVE PITAĆEMO GRAĐANE DA LI ŽELE U EU ILI NE\" Ana Dimitrijević (SL): Posle toliko godina treba pitati narod šta želi",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Dimitrijević: Kad ispunimo uslove, pitaćemo građane da li žele u EU ili ne",
-  "Dimitrijević: Kad ispunimo uslove, pitaćemo građane da li žele u EU ili ne"
+  "Dimitrijević: Kad ispunimo uslove, pitaćemo građane da li žele u EU ili ne",
+  "\"KAD ISPUNIMO USLOVE PITAĆEMO GRAĐANE DA LI ŽELE U EU ILI NE\" Ana Dimitrijević (SL): Posle toliko godina treba pitati narod šta želi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "local": true,
   "alt": "Dimitrijević: građani će biti pitani o članstvu u EU kada Srbija ispuni uslove"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
