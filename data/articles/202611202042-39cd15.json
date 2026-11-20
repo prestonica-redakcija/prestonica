@@ -29,17 +29,24 @@
  ],
  "importance": 6,
  "published": "2026-11-20T19:42:27.284633+00:00",
- "updated": "2026-11-20T19:42:27.284633+00:00",
+ "updated": "2026-11-20T21:26:42.799671+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/teme/aleksandra-stimac-blizu-smo-resenja-za-novu-vladu-u-skupstinu-ne-dolazimo-da-glasamo-na-zvonce-video",
    "title": "Aleksandra Štimac: Blizu smo rešenja za novu vladu, u Skupštinu ne dolazimo da glasamo na zvonce (VIDEO)",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4436987-aleksandra-stimac-blizu-smo-resenja-za-novu-vladu-dolazimo-da-kontrolisemo-izvrsnu-vlast",
+   "title": "Aleksandra Štimac: Blizu smo rešenja za novu vladu, dolazimo da kontrolišemo izvršnu vlast",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Aleksandra Štimac: Blizu smo rešenja za novu vladu, u Skupštinu ne dolazimo da glasamo na zvonce (VIDEO)"
+  "Aleksandra Štimac: Blizu smo rešenja za novu vladu, u Skupštinu ne dolazimo da glasamo na zvonce (VIDEO)",
+  "Aleksandra Štimac: Blizu smo rešenja za novu vladu, dolazimo da kontrolišemo izvršnu vlast"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Štimac: Studentska lista blizu rešenja za vladu, razmatra se manji broj ministarstava"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
