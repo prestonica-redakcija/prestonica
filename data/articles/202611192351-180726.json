@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T22:51:55.207085+00:00",
- "updated": "2026-11-19T22:51:55.207085+00:00",
+ "updated": "2026-11-20T07:17:48.554799+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -45,11 +45,18 @@
    "url": "https://www.kurir.rs/planeta/10167366/tramp-ne-zurim-sa-napadom-na-iran-sacekacu-do-pocetka-naredne-godine",
    "title": "TRAMP: Ne žurim sa napadom na Iran, sačekaću do početka naredne godine",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/252859/kriza-na-bliskom-istoku-najnovije-vesti-za-20-novembar/vest",
+   "title": "KRIZA NA BLISKOM ISTOKU Tramp: Ne žurim sa napadom na Iran, sačekaću do početka naredne godine",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Tramp \"ne žuri\" sa odlukom o napadu na Iran: Videćemo šta će se desiti nakon početka godine",
-  "TRAMP: Ne žurim sa napadom na Iran, sačekaću do početka naredne godine"
+  "TRAMP: Ne žurim sa napadom na Iran, sačekaću do početka naredne godine",
+  "KRIZA NA BLISKOM ISTOKU Tramp: Ne žurim sa napadom na Iran, sačekaću do početka naredne godine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu,_February_2023.jpg",
   "osoba": "Benjamin Netanjahu",
   "alt": "Tramp: Ne žurim sa odlukom o napadu na Iran, videćemo šta će biti posle Nove godine"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

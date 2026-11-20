@@ -26,17 +26,24 @@
  ],
  "importance": 3,
  "published": "2026-11-20T06:18:15.014670+00:00",
- "updated": "2026-11-20T06:18:15.014670+00:00",
+ "updated": "2026-11-20T07:17:48.554799+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/posle-jucerasnjeg-nevremena-ponovo-pljuskovi/",
    "title": "Posle jučerašnjeg nevremena, ponovo pljuskovi - gde nas danas očekuje kiša",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/vreme-vremenska-prognoza-20-novembar/",
+   "title": "Sunce, pa kiša i pljuskovi: Kakvo nas vreme očekuje narednih dana?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Posle jučerašnjeg nevremena, ponovo pljuskovi - gde nas danas očekuje kiša"
+  "Posle jučerašnjeg nevremena, ponovo pljuskovi - gde nas danas očekuje kiša",
+  "Sunce, pa kiša i pljuskovi: Kakvo nas vreme očekuje narednih dana?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Danas u Srbiji sunčano pre podne, posle podne kiša i pljuskovi, do 20 stepeni"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

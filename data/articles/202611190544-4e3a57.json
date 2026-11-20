@@ -24,7 +24,7 @@
  ],
  "importance": 3,
  "published": "2026-11-19T04:44:53.003825+00:00",
- "updated": "2026-11-20T06:33:19.742913+00:00",
+ "updated": "2026-11-20T07:17:48.554799+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -79,6 +79,12 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1672958/srednji-kurs-dinar-evro-devize-nbs-najnovije-vesti",
    "title": "KURS DINARA PREMA EVRU ZA 20.11: Ovo je današnja vrednost",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/nbs-objavila-danasnju-kurs-evra/",
+   "title": "NBS objavila današnju kurs evra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -90,7 +96,8 @@
   "Srednji kurs dinara za evro u petak 117,6412 dinara",
   "Ovo je današnji srednji kurs evra",
   "Kurs evra gotovo nepromenjen, dinar ojačao prema dolaru: Objavljena kursna lista Narodne banke Srbije",
-  "KURS DINARA PREMA EVRU ZA 20.11: Ovo je današnja vrednost"
+  "KURS DINARA PREMA EVRU ZA 20.11: Ovo je današnja vrednost",
+  "NBS objavila današnju kurs evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -102,7 +109,7 @@
   "local": true,
   "alt": "NBS: srednji kurs evra 117,6326 dinara, dinar blago oslabio prema dolaru"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-19T21:07:41.759857+00:00",
  "verzija": 2

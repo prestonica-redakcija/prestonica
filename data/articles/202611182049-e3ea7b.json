@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T19:49:06.120965+00:00",
- "updated": "2026-11-20T00:06:12.740649+00:00",
+ "updated": "2026-11-20T07:17:48.554799+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -60,6 +60,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/vreme-danas-pre-podne-suncano-tokom-dana-kisa/",
    "title": "Danas pre podne sunčano, tokom dana kiša",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/rhmz-posle-suncanog-prepodneva-naoblacenje-sa-kisom-i-pljuskovima-temperatura-do-20-stepeni",
+   "title": "RHMZ: Posle sunčanog prepodneva naoblačenje sa kišom i pljuskovima, temperatura do 20 stepeni",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -67,7 +73,8 @@
   "Kiša i grmljavina i tokom večeri: RHMZ najavljuje lokalno obilne pljuskove",
   "U Srbiji danas oblačno, posle podne i uveče mestimično sa kišom, do 19 stepeni",
   "U Srbiji danas pre podne sunčano, tokom dana kiša",
-  "Danas pre podne sunčano, tokom dana kiša"
+  "Danas pre podne sunčano, tokom dana kiša",
+  "RHMZ: Posle sunčanog prepodneva naoblačenje sa kišom i pljuskovima, temperatura do 20 stepeni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -79,6 +86,6 @@
   "local": true,
   "alt": "RHMZ: večeras kiša i pljuskovi, sutra pojačan vetar koji uveče može biti olujni"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

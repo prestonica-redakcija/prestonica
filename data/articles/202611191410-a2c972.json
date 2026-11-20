@@ -29,17 +29,38 @@
  ],
  "importance": 7,
  "published": "2026-11-19T13:10:56.804851+00:00",
- "updated": "2026-11-19T13:10:56.804851+00:00",
+ "updated": "2026-11-20T07:17:48.554799+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/studenti-cestitali-cupicu-verujemo-da-ce-doprineti-vracanju-ugleda-toj-instituciji-i-funkciji-koju-obavlja/",
    "title": "Studenti čestitali Čupiću: Verujemo da će doprineti vraćanju ugleda toj instituciji i funkciji koju obavlja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/kardinal-i-beogradski-nadbiskup-ladislav-nemet-cestitao-cupicu-na-izboru-za-predsednika-skupstine/",
+   "title": "Kardinal i beogradski nadbiskup Ladislav Nemet čestitao Čupiću na izboru za predsednika Skupštine",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/kardinal-i-beogradski-nadbiskup-ladislav-nemet-cestitao-cupicu-na-izboru-za-predsednika-skupstine/",
+   "title": "Kardinal i beogradski nadbiskup Ladislav Nemet čestitao Čupiću na izboru za predsednika Skupštine",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/kardinal-i-beogradski-nadbiskup-ladislav-nemet-cestitao-cupicu-na-izboru-za-predsednika-skupstine/",
+   "title": "Kardinal i beogradski nadbiskup Ladislav Nemet čestitao Čupiću na izboru za predsednika Skupštine",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Studenti čestitali Čupiću: Verujemo da će doprineti vraćanju ugleda toj instituciji i funkciji koju obavlja"
+  "Studenti čestitali Čupiću: Verujemo da će doprineti vraćanju ugleda toj instituciji i funkciji koju obavlja",
+  "Kardinal i beogradski nadbiskup Ladislav Nemet čestitao Čupiću na izboru za predsednika Skupštine",
+  "Kardinal i beogradski nadbiskup Ladislav Nemet čestitao Čupiću na izboru za predsednika Skupštine",
+  "Kardinal i beogradski nadbiskup Ladislav Nemet čestitao Čupiću na izboru za predsednika Skupštine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +71,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Studenti pozdravili izbor Aleksandra Čupića za predsednika Skupštine Srbije"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

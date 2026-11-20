@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-20T06:48:04.211596+00:00",
+ "updated": "2026-11-20T07:17:48.554799+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -67,6 +67,12 @@
    "url": "https://www.tanjug.rs/svet/politika/299329/ruski-napad-balistickim-raketama-ostetio-tri-mosta-u-kijevu-saobracaj-otezan/vest",
    "title": "Ruski napad balističkim raketama oštetio tri mosta u Kijevu, saobraćaj otežan",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/ruski-napad-balistickim-raketama-na-tri-mosta-u-kijevu-tri-osobe-poginule/",
+   "title": "Ruski napad balističkim raketama na tri mosta u Kijevu, tri osobe poginule",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -74,7 +80,8 @@
   "Rusi pokrenuli masovni napad – seva iznad Kijeva VIDEO",
   "STIGLA PUTINOVA OSVETA ZA KRIMSKI MOST! Počelo masovno bombardovanje Ukrajine i Kijeva, ima mrtvih i ranjenih, pogođeni mostovi, odjekuju snažne eksplozije!",
   "Putinova osveta za rušenje Krimskog mosta?! Masovan ruski napad na Ukrajinu, evo šta je uništeno",
-  "Ruski napad balističkim raketama oštetio tri mosta u Kijevu, saobraćaj otežan"
+  "Ruski napad balističkim raketama oštetio tri mosta u Kijevu, saobraćaj otežan",
+  "Ruski napad balističkim raketama na tri mosta u Kijevu, tri osobe poginule"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -88,6 +95,6 @@
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
