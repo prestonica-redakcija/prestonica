@@ -29,17 +29,24 @@
  ],
  "importance": 3,
  "published": "2026-11-19T13:25:55.933564+00:00",
- "updated": "2026-11-19T13:25:55.933564+00:00",
+ "updated": "2026-11-20T08:17:14.944279+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/region/299151/hrvatski-sofaskor-osvojio-guglovu-nagradu-za-najbolju-sportsku-aplikaciju-u-sad/vest",
    "title": "Hrvatski Sofaskor osvojio Guglovu nagradu za najbolju sportsku aplikaciju u SAD",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://ubrzanje.telegraf.rs/start-up/4435988-hrvatski-sofaskor-osvojio-nagradu-za-najbolju-aplikaciju-u-sad-imaju-vise-od-50-miliona-korisnika-mescno",
+   "title": "Hrvatski Sofaskor osvojio nagradu za najbolju aplikaciju u SAD: Imaju više od 50 miliona korisnika mesčno",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Hrvatski Sofaskor osvojio Guglovu nagradu za najbolju sportsku aplikaciju u SAD"
+  "Hrvatski Sofaskor osvojio Guglovu nagradu za najbolju sportsku aplikaciju u SAD",
+  "Hrvatski Sofaskor osvojio nagradu za najbolju aplikaciju u SAD: Imaju više od 50 miliona korisnika mesčno"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Hrvatski Sofaskor dobio Guglovu nagradu za najbolju sportsku aplikaciju u SAD"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

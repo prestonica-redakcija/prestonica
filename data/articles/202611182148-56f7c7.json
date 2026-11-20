@@ -37,7 +37,7 @@
  ],
  "importance": 5,
  "published": "2026-11-18T20:48:30.213933+00:00",
- "updated": "2026-11-18T20:48:30.213933+00:00",
+ "updated": "2026-11-20T08:17:14.944279+00:00",
  "sources": [
   {
    "name": "N1",
@@ -50,11 +50,18 @@
    "url": "https://www.danas.rs/svet/istraga-tramp-porodica/",
    "title": "Najava istrage porodice Tramp",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/trampova-porodica-na-udaru-kongresa-demokrate-otvaraju-pitanja-korupcije-milionskih-poslova-i-slucaja-epstin/",
+   "title": "Trampova porodica na udaru Kongresa: Demokrate otvaraju pitanja korupcije, milionskih poslova i slučaja Epstin",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Posle pobede demokrata, kongresmen najavljuje istragu poslova Trampove porodice - uključujući i Epstinov slučaj",
-  "Najava istrage porodice Tramp"
+  "Najava istrage porodice Tramp",
+  "Trampova porodica na udaru Kongresa: Demokrate otvaraju pitanja korupcije, milionskih poslova i slučaja Epstin"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,5 +72,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Garsija najavio istrage porodice Tramp i slučaja Epstin, Bela kuća osporava zahteve"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

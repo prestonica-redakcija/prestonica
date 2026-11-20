@@ -32,17 +32,24 @@
  ],
  "importance": 5,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-20T06:33:19.742913+00:00",
+ "updated": "2026-11-20T08:17:14.944279+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10167185/sok-detalji-sa-sudjenja-za-ubistvo-danke-ilic",
    "title": "JANKOVIĆ PRIZNAO DA JE TRAGAO ZA DANKOM, A DRAGIJEVIĆ INSPEKTORE VODIO DO MESTA GDE JE TELO: Šok na suđenju za ubistvo devojčice, tvrde da je sve zbog ovoga",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/286541/sudjenje-optuzenima-za-ubistvo-danke-ilic-nastavlja-se-u-negotinu/vest",
+   "title": "Roditelji Danke Ilić danas u sudnici oči u oči sa optuženima za njeno ubistvo",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "JANKOVIĆ PRIZNAO DA JE TRAGAO ZA DANKOM, A DRAGIJEVIĆ INSPEKTORE VODIO DO MESTA GDE JE TELO: Šok na suđenju za ubistvo devojčice, tvrde da je sve zbog ovoga"
+  "JANKOVIĆ PRIZNAO DA JE TRAGAO ZA DANKOM, A DRAGIJEVIĆ INSPEKTORE VODIO DO MESTA GDE JE TELO: Šok na suđenju za ubistvo devojčice, tvrde da je sve zbog ovoga",
+  "Roditelji Danke Ilić danas u sudnici oči u oči sa optuženima za njeno ubistvo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Suđenje za ubistvo Danke Ilić: optuženi negirali delo, tvrde da su priznali pod torturom"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
