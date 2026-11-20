@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-19T10:56:49.993173+00:00",
- "updated": "2026-11-20T14:44:40.690492+00:00",
+ "updated": "2026-11-20T15:14:23.783204+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -136,6 +136,12 @@
    "url": "https://n1info.rs/svet/vlada-mjanmara-odbacila-presudu-za-genocid/",
    "title": "Vlada Mjanmara odbacila presudu za genocid",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/286642/sad-organizovale-aukciju-zakupa-morskog-tla-kod-obale-americke-samoe/vest",
+   "title": "Prvi put u istoriji: Amerika prodaje more",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -155,7 +161,8 @@
   "\"Ovo je naš tračak nade\": Šta istorijska presuda za genocid u Mjanmaru donosi proteranim Rohindžama?",
   "Mjanmar odbacio presudu za genocid",
   "Mjanmar smatra da je presuda Međunarodnog suda pravde o genocidu nepravedna",
-  "Vlada Mjanmara odbacila presudu za genocid"
+  "Vlada Mjanmara odbacila presudu za genocid",
+  "Prvi put u istoriji: Amerika prodaje more"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -167,7 +174,7 @@
   "local": true,
   "alt": "Međunarodni sud pravde: u Mjanmaru 2017. ubijeno oko 10.000 Rohindža"
  },
- "novo_od_pisanja": 9,
+ "novo_od_pisanja": 10,
  "boost": 1.6,
  "prepisano": "2026-11-19T12:41:11.680229+00:00",
  "verzija": 2

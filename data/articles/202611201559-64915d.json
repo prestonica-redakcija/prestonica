@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T14:59:34.956011+00:00",
- "updated": "2026-11-20T14:59:34.956011+00:00",
+ "updated": "2026-11-20T15:14:23.783204+00:00",
  "sources": [
   {
    "name": "B92",
@@ -48,11 +48,18 @@
    "url": "https://www.kurir.rs/sport/kosarka/10167870/vlade-djurovic-srecko-jaric-me-po-kaficima-ogovarao-zbog-drazena-petrovica",
    "title": "\"JARIĆ SE ŽALIO PO KAFIĆIMA NA MENE, A SVE ZBOG DRAŽENA PETROVIĆA\" Vlade Đurović povukao hrabar potez, pa se našao u situaciji koju nije očekivao!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299446/pistorijus-razgovori-sa-putinom-su-neophodni-ali-ne-u-moskvi/vest",
+   "title": "Pistorijus: Razgovori sa Putinom su neophodni, ali ne u Moskvi",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Putin povukao potez koji niko nije očekivao",
-  "\"JARIĆ SE ŽALIO PO KAFIĆIMA NA MENE, A SVE ZBOG DRAŽENA PETROVIĆA\" Vlade Đurović povukao hrabar potez, pa se našao u situaciji koju nije očekivao!"
+  "\"JARIĆ SE ŽALIO PO KAFIĆIMA NA MENE, A SVE ZBOG DRAŽENA PETROVIĆA\" Vlade Đurović povukao hrabar potez, pa se našao u situaciji koju nije očekivao!",
+  "Pistorijus: Razgovori sa Putinom su neophodni, ali ne u Moskvi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +70,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Rusija pozvala Nemačku, Francusku i Britaniju u Moskvu na razgovore o bezbednosti"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

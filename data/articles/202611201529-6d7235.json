@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T14:29:45.124535+00:00",
- "updated": "2026-11-20T14:29:45.124535+00:00",
+ "updated": "2026-11-20T15:14:23.783204+00:00",
  "sources": [
   {
    "name": "N1",
@@ -48,12 +48,19 @@
    "url": "https://nova.rs/vesti/svet/zaharova-srbija-nece-da-uvodi-sankcije-i-izda-zemlju-koja-je-uvek-podrzavala/",
    "title": "Zaharova: Srbija neće da uvodi sankcije i izda zemlju koja je uvek podržavala",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4436803-zaharova-srbija-ne-uvodi-sankcije-rusiji-uprkos-pritiscima-eu",
+   "title": "Oglasila se Zaharova: \"Srbija ne želi da izda zemlju koja se uvek zalagala za njene interese!\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Zaharova: Srbija neće da uvodi sankcije i izda zemlju koja je uvek podržavala",
   "Moskva se oglasila: Srbija neće da uvodi sankcije Rusiji i izda nas",
-  "Zaharova: Srbija neće da uvodi sankcije i izda zemlju koja je uvek podržavala"
+  "Zaharova: Srbija neće da uvodi sankcije i izda zemlju koja je uvek podržavala",
+  "Oglasila se Zaharova: \"Srbija ne želi da izda zemlju koja se uvek zalagala za njene interese!\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,5 +73,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Maria_Zakharova_(cropped)_(2).jpg",
   "osoba": "Marija Zaharova",
   "alt": "Zaharova: Srbija se ne pridružuje sankcijama Rusiji jer ne želi da izda saveznika"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
