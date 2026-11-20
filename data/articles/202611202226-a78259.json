@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T21:26:42.799671+00:00",
- "updated": "2026-11-20T21:26:42.799671+00:00",
+ "updated": "2026-11-20T21:41:32.412931+00:00",
  "sources": [
   {
    "name": "N1",
@@ -41,11 +41,25 @@
    "url": "https://www.danas.rs/svet/region/munja-pogodila-avion-er-srbije-na-letu-za-mostar-letelica-upucena-na-tehnicki-pregled/",
    "title": "Munja pogodila avion „Er Srbije“ na letu za Mostar – letelica upućena na tehnički pregled",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10168432/avion-er-srbije-pogodila-munja-na-letu-za-mostar",
+   "title": "MUNJA POGODILA AVION ER SRBIJE: Drama na letu za Mostar, otkazan povratak za Beograd",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/286820/avion-er-srbije-udario-grom-tokom-leta-za-mostar-povratni-let-otkazan/vest",
+   "title": "Avion Er Srbije udario grom tokom leta za Mostar",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Munja pogodila avion \"Er Srbije\" na letu za Mostar: Otkazan povratak, letelica upućena na pregled",
-  "Munja pogodila avion „Er Srbije“ na letu za Mostar – letelica upućena na tehnički pregled"
+  "Munja pogodila avion „Er Srbije“ na letu za Mostar – letelica upućena na tehnički pregled",
+  "MUNJA POGODILA AVION ER SRBIJE: Drama na letu za Mostar, otkazan povratak za Beograd",
+  "Avion Er Srbije udario grom tokom leta za Mostar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +71,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Mixed_meat_platter_at_Bella_Vista_Restaurant_in_Mostar,_Bosnia_and_Herzegovina_(2025).jpg",
   "alt": "Munja pogodila avion Er Srbije na letu za Mostar, povratni let otkazan"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

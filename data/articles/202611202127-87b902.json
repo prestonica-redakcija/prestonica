@@ -27,17 +27,24 @@
  ],
  "importance": 3,
  "published": "2026-11-20T20:27:04.269565+00:00",
- "updated": "2026-11-20T20:27:04.269565+00:00",
+ "updated": "2026-11-20T21:41:32.412931+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/region/drzavljanin-rusije-uhapsen-u-ulcinju-zbog-sumnje-da-je-organizovao-grupu-nelegalnih-bankara/",
    "title": "Državljanin Rusije uhapšen u Ulcinju zbog sumnje da je organizovao grupu nelegalnih bankara",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/region/rus-uhapsen-u-ulcinju-zbog-sumnje-na-nelegalne-bankarske-poslove-policija-zatekla-i-23-ukrajinca/",
+   "title": "Rus uhapšen u Ulcinju zbog sumnje na nelegalne bankarske poslove: Policija zatekla i 23 Ukrajinca",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Državljanin Rusije uhapšen u Ulcinju zbog sumnje da je organizovao grupu nelegalnih bankara"
+  "Državljanin Rusije uhapšen u Ulcinju zbog sumnje da je organizovao grupu nelegalnih bankara",
+  "Rus uhapšen u Ulcinju zbog sumnje na nelegalne bankarske poslove: Policija zatekla i 23 Ukrajinca"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:2025-06-02_Ulcinj_1.jpg",
   "alt": "U Ulcinju uhapšen državljanin Rusije osumnjičen za nelegalno bankarstvo"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

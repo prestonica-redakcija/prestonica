@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T20:27:04.269565+00:00",
- "updated": "2026-11-20T21:11:49.962208+00:00",
+ "updated": "2026-11-20T21:41:32.412931+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -68,6 +68,12 @@
    "url": "https://nova.rs/vesti/politika/kosta-cestitao-cupicu-radujem-se-sto-cu-ga-uskoro-ugostiti-u-briselu-na-sastanku-uzivo/",
    "title": "Košta čestitao Čupiću: \"Radujem se što ću ga uskoro ugostiti u Briselu na sastanku uživo\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253001/antonio-kosta-cestitao-cupicu-i-najavio-susret-u-briselu/vest",
+   "title": "Antonio Košta čestitao Čupiću imenovanje za predsednika Skupštine Srbije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -76,7 +82,8 @@
   "Košta čestitao Čupiću imenovanje za predsednika Skupštine; \"Radujem se susretu u Briselu\"",
   "Košta čestitao Čupiću na imenovanju za predsednika Skupštine: Radujem se skorom susretu u Briselu",
   "Predsednik Evropskog saveta: Radujem se skorašnjem sastanku s Čupićem",
-  "Košta čestitao Čupiću: \"Radujem se što ću ga uskoro ugostiti u Briselu na sastanku uživo\""
+  "Košta čestitao Čupiću: \"Radujem se što ću ga uskoro ugostiti u Briselu na sastanku uživo\"",
+  "Antonio Košta čestitao Čupiću imenovanje za predsednika Skupštine Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -88,6 +95,6 @@
   "local": true,
   "alt": "Košta čestitao Čupiću izbor za predsednika Skupštine i najavio susret u Briselu"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
