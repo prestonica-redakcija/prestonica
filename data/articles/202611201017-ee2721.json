@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T09:17:09.352450+00:00",
- "updated": "2026-11-20T10:01:42.782858+00:00",
+ "updated": "2026-11-20T10:16:32.399954+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -71,6 +71,18 @@
    "url": "https://www.tanjug.rs/srbija/hronika/299379/dacic-u-medunarodnoj-akciji-mozaik-uhapseno-je-sest-osoba-i-spaseno-devetoro-dece/vest",
    "title": "Dačić: U međunarodnoj akciji ''Mozaik\" uhapšeno je šest osoba i spaseno devetoro dece",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/sestoro-uhapsenih-u-medunarodnoj-akciji-protiv-seksualnog-zlostavljanja-dece",
+   "title": "Šestoro uhapšenih u međunarodnoj akciji protiv seksualnog zlostavljanja dece",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10167689/akcija-mozaik-uhapseno-sest-osoba-zbog-zlostavljanja-dece",
+   "title": "DEVETORO DECE SPAŠENO IZ KANDŽI MANIJAKA Predstavljali se kao devojčice preko lažnih profila da bi dobili intimne snimke maloletnika: Uhapšeno šest osoba",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -79,7 +91,9 @@
   "Velika akcija srpske policije: Uhapšeno šest osoba zbog seksualnog zlostavljanja dece",
   "Srpska policija uhapsila šest osoba zbog sumnje da su seksualno zlostavljali decu preko interneta, spaseno devetoro dece",
   "MUP: Šestoro uhapšenih u međunarodnoj akciji protiv seksualnog zlostavljanja dece",
-  "Dačić: U međunarodnoj akciji ''Mozaik\" uhapšeno je šest osoba i spaseno devetoro dece"
+  "Dačić: U međunarodnoj akciji ''Mozaik\" uhapšeno je šest osoba i spaseno devetoro dece",
+  "Šestoro uhapšenih u međunarodnoj akciji protiv seksualnog zlostavljanja dece",
+  "DEVETORO DECE SPAŠENO IZ KANDŽI MANIJAKA Predstavljali se kao devojčice preko lažnih profila da bi dobili intimne snimke maloletnika: Uhapšeno šest osoba"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -93,6 +107,6 @@
   "osoba": "Ivica Dačić",
   "alt": "U međunarodnoj akciji \"Mozaik\" u Srbiji uhapšeno šest osoba, spaseno devetoro dece"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }

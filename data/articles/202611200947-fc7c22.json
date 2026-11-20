@@ -29,17 +29,24 @@
  ],
  "importance": 4,
  "published": "2026-11-20T08:47:00.852620+00:00",
- "updated": "2026-11-20T08:47:00.852620+00:00",
+ "updated": "2026-11-20T10:16:32.399954+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/veljanovski-vucic-poslednji-covek-koji-bi-imao-pravo-da-kritikuje-rts/",
    "title": "Veljanovski: Vučić poslednji čovek koji bi imao pravo da kritikuje RTS",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/veljanovski-vucic-poslednji-covek-koji-bi-imao-pravo-da-kritikuje-rts/",
+   "title": "Veljanovski: Vučić je poslednji čovek koji bi imao pravo da kritikuje RTS",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Veljanovski: Vučić poslednji čovek koji bi imao pravo da kritikuje RTS"
+  "Veljanovski: Vučić poslednji čovek koji bi imao pravo da kritikuje RTS",
+  "Veljanovski: Vučić je poslednji čovek koji bi imao pravo da kritikuje RTS"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Veljanovski: Aleksandar Vučić poslednji ima pravo da kritikuje RTS"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
