@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-20T07:47:34.312460+00:00",
- "updated": "2026-11-20T07:47:34.312460+00:00",
+ "updated": "2026-11-20T09:46:49.864928+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/ekonomija/taksisti-protest-23-novembar/",
    "title": "Taksisti najavili protest u 23. novembra ispred Skupštine grada",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/strukovno-udruzenje-taksi-preduzetnika-beograda-najavilo-protest-ispred-skupstine-grada-zbog-izmena-odluke-o-taksi-prevozu",
+   "title": "Strukovno udruženje taksi preduzetnika Beograda najavilo protest ispred Skupštine grada zbog izmena Odluke o taksi prevozu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Taksisti najavili protest u 23. novembra ispred Skupštine grada"
+  "Taksisti najavili protest u 23. novembra ispred Skupštine grada",
+  "Strukovno udruženje taksi preduzetnika Beograda najavilo protest ispred Skupštine grada zbog izmena Odluke o taksi prevozu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Khush_Mahal_or_Sitab_Khan_Palace_near_Warangal_fort_in_Warangal,_Telangana_008.jpg",
   "alt": "Taksisti najavili protest ispred Skupštine grada zbog izmena odluke o taksi prevozu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

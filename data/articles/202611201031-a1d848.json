@@ -28,17 +28,24 @@
  ],
  "importance": 6,
  "published": "2026-11-20T09:31:54.346816+00:00",
- "updated": "2026-11-20T09:31:54.346816+00:00",
+ "updated": "2026-11-20T09:46:49.864928+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/pada-zavesa-poslenjeg-cina-drame-odlazeceg-rezima-kraj-postupka-vjt-protiv-studenata-uhapsenih-na-vidovdan/",
    "title": "\"Pada zavesa poslednjeg čina drame odlazećeg režima\": Kraj postupka VJT protiv studenata uhapšenih na Vidovdan",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/zvanicno-slobodni-kraj-postupka-vjt-protiv-studenata-uhapsenih-nakon-vidovdanskog-protesta/",
+   "title": "Zvanično slobodni: Kraj postupka VJT protiv studenata uhapšenih nakon vidovdanskog protesta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "\"Pada zavesa poslednjeg čina drame odlazećeg režima\": Kraj postupka VJT protiv studenata uhapšenih na Vidovdan"
+  "\"Pada zavesa poslednjeg čina drame odlazećeg režima\": Kraj postupka VJT protiv studenata uhapšenih na Vidovdan",
+  "Zvanično slobodni: Kraj postupka VJT protiv studenata uhapšenih nakon vidovdanskog protesta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Apelacioni_sud_-_panoramio.jpg",
   "alt": "Tužilaštvo odustalo od optužnice protiv devetoro studenata uhapšenih posle Vidovdanskog protesta"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T23:36:31.686264+00:00",
- "updated": "2026-11-20T09:31:54.346816+00:00",
+ "updated": "2026-11-20T09:46:49.864928+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -82,6 +82,18 @@
    "url": "https://www.b92.net/info/politika/286581/cupic-o-predsednickim-izborima/vest",
    "title": "Aleksandar Čupić otkrio kada će biti raspisani predsednički izbori",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/cupic-predsednicki-izbori-ce-biti-raspisani-u-narednih-nekoliko-dana-u-roku-predvidenom-propisima",
+   "title": "Čupić: Predsednički izbori će biti raspisani u narednih nekoliko dana, u roku predviđenom propisima",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4436526-oglasio-se-aleksandar-cupic-otkrio-kada-se-raspisuju-predsednicki-izbori-rok-je-veoma-kratak",
+   "title": "Oglasio se Aleksandar Čupić! Otkrio kada se raspisuju predsednički izbori: \"Rok je veoma kratak\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -92,7 +104,9 @@
   "ČUPIĆ: Predsednički izbori biće raspisani u narednih nekoliko dana",
   "Čupić o raspisivanju predsedničkih izbora: Rok je veoma kratak",
   "ČUPIĆ OTKRIO KADA ĆE RASPISATI PREDSEDNIČKE IZBORE! Oglasio se predsednik Skupštine: \"Rok je veoma kratak...\"",
-  "Aleksandar Čupić otkrio kada će biti raspisani predsednički izbori"
+  "Aleksandar Čupić otkrio kada će biti raspisani predsednički izbori",
+  "Čupić: Predsednički izbori će biti raspisani u narednih nekoliko dana, u roku predviđenom propisima",
+  "Oglasio se Aleksandar Čupić! Otkrio kada se raspisuju predsednički izbori: \"Rok je veoma kratak\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -104,8 +118,8 @@
   "local": true,
   "alt": "Čupić: biću predsednik svih poslanika, Studentska lista slavi izbor rukovodstva Skupštine"
  },
- "novo_od_pisanja": 0,
- "boost": 1.56,
+ "novo_od_pisanja": 2,
+ "boost": 1.6,
  "prepisano": "2026-11-20T09:31:54.346816+00:00",
  "verzija": 2
 }

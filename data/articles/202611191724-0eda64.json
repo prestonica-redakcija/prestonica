@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T16:24:49.299204+00:00",
- "updated": "2026-11-20T09:17:09.352450+00:00",
+ "updated": "2026-11-20T09:46:49.864928+00:00",
  "sources": [
   {
    "name": "N1",
@@ -56,13 +56,20 @@
    "url": "https://www.telegraf.rs/english/4436449-us-embassy-in-serbia-reacts-to-election-of-aleksandar-cupic-as-president-of-national-assembly",
    "title": "US Embassy in Serbia reacts to election of Aleksandar Cupic as President of National Assembly",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/english/news/parliament-speaker-cupic-presidential-vote-to-be-called-in-coming-days/",
+   "title": "Parliament Speaker Cupic: Presidential vote to be called in coming days",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Marta Kos congratulates Cupic on election as Serbian Parliament Speaker",
   "This is how EU's Marta Kos congratulated Aleksandar Cupic on his election as president of Serbian Assembly",
   "Serbian Parliament elects deputy speakers, appoints secretary general",
-  "US Embassy in Serbia reacts to election of Aleksandar Cupic as President of National Assembly"
+  "US Embassy in Serbia reacts to election of Aleksandar Cupic as President of National Assembly",
+  "Parliament Speaker Cupic: Presidential vote to be called in coming days"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +83,6 @@
   "osoba": "Marta Kos",
   "alt": "Marta Kos čestitala Aleksandru Čupiću izbor za predsednika Skupštine Srbije"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
