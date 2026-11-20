@@ -31,7 +31,7 @@
  ],
  "importance": 7,
  "published": "2026-11-19T13:10:56.804851+00:00",
- "updated": "2026-11-20T15:29:22.589468+00:00",
+ "updated": "2026-11-20T16:28:52.999328+00:00",
  "sources": [
   {
    "name": "N1",
@@ -74,6 +74,12 @@
    "url": "https://www.telegraf.rs/4436818-antonijevic-cestitao-cupicuvazno-da-parlament-doprinosi-kulturi-tolerancije",
    "title": "Antonijević čestitao Čupiću:Važno da parlament doprinosi kulturi tolerancije",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/252966/antonijevic-cestitao-cupicu-izbor-za-predsednika-skupstine/vest",
+   "title": "Antonijević čestitao Čupiću: Važno da parlament doprinosi kulturi tolerancije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -83,7 +89,8 @@
   "Kardinal i beogradski nadbiskup Ladislav Nemet čestitao Čupiću na izboru za predsednika Skupštine",
   "Mali: Izbor potpredsednika Skupštine pokazao da u toj instituciji nema demokratije",
   "Poverenik za zaštitu ravnopravnosti Antonijević čestitao Čupiću izbor za predsednika Skupštine",
-  "Antonijević čestitao Čupiću:Važno da parlament doprinosi kulturi tolerancije"
+  "Antonijević čestitao Čupiću:Važno da parlament doprinosi kulturi tolerancije",
+  "Antonijević čestitao Čupiću: Važno da parlament doprinosi kulturi tolerancije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -95,8 +102,8 @@
   "local": true,
   "alt": "Studenti pozdravili izbor Aleksandra Čupića za predsednika Skupštine Srbije"
  },
- "novo_od_pisanja": 1,
- "boost": 1.48,
+ "novo_od_pisanja": 2,
+ "boost": 1.56,
  "prepisano": "2026-11-20T10:16:32.399954+00:00",
  "verzija": 2
 }

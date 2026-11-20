@@ -31,16 +31,23 @@
  ],
  "importance": 6,
  "published": "2026-11-20T16:13:56.213312+00:00",
- "updated": "2026-11-20T16:13:56.213312+00:00",
+ "updated": "2026-11-20T16:28:52.999328+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/tuzilastvo-u-kraljevu-formiralo-tri-predmeta-zbog-prijava-o-krsenju-izbornih-propisa/",
    "title": "Tužilaštvo u Kraljevu formiralo tri predmeta zbog prijava o kršenju izbornih propisa",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/tuzilastvo-u-kraljevu-formiralo-tri-predmeta-zbog-prijava-o-krsenju-izbornih-propisa/",
+   "title": "Tužilaštvo u Kraljevu formiralo tri predmeta zbog prijava o kršenju izbornih propisa",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Tužilaštvo u Kraljevu formiralo tri predmeta zbog prijava o kršenju izbornih propisa",
   "Tužilaštvo u Kraljevu formiralo tri predmeta zbog prijava o kršenju izbornih propisa"
  ],
  "author": "Redakcija Prestonice",
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Kraljevo,_centar_04.jpg",
   "alt": "Tužilaštvo u Kraljevu formiralo tri predmeta zbog prijava o kršenju izbornih propisa"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T10:46:29.454937+00:00",
- "updated": "2026-11-20T11:45:57.885434+00:00",
+ "updated": "2026-11-20T16:28:52.999328+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/299414/drustvo-za-zastitu-i-proucavanje-ptica-srbije-izgradnja-solarnih-elektrana-u-barandi-i-opovu-ugrozilo-bi-retke-vrste/vest",
    "title": "Društvo za zaštitu i proučavanje ptica Srbije: Izgradnja solarnih elektrana u Barandi i Opovu ugrozilo bi retke vrste",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/zeleni-kutak/od-ribnjaka-do-gradjevinskog-zemljista-ptice-donjeg-potamisje-ponovo-ugrozava-megalomanska-solarna-elektrana/",
+   "title": "Od ribnjaka do građevinskog zemljišta: Ptice Donjeg Potamišje ponovo ugrožava megalomanska solarna elektrana",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Društvo za zaštitu ptica: Megalomanska solarna elektrana u Banatu ugrožava prirodna staništa",
-  "Društvo za zaštitu i proučavanje ptica Srbije: Izgradnja solarnih elektrana u Barandi i Opovu ugrozilo bi retke vrste"
+  "Društvo za zaštitu i proučavanje ptica Srbije: Izgradnja solarnih elektrana u Barandi i Opovu ugrozilo bi retke vrste",
+  "Od ribnjaka do građevinskog zemljišta: Ptice Donjeg Potamišje ponovo ugrožava megalomanska solarna elektrana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Nonato_albuquerque_anunca_fim_do_barra_pesada_opovo-13231388.jpg",
   "alt": "Društvo za zaštitu ptica traži odbacivanje plana solarne elektrane kod Opova"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

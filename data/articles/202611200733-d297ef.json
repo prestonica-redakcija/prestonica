@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-20T15:59:02.730825+00:00",
+ "updated": "2026-11-20T16:28:52.999328+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -157,6 +157,18 @@
    "url": "https://insajder.net/prenosimo/ministar-odbrane-poljske-tri-ruska-objekta-pala-na-nasoj-teritoriji-tokom-noci",
    "title": "Ministar odbrane Poljske: Tri ruska objekta pala na našoj teritoriji tokom noći",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/poginuo-radnik-na-gradilistu-u-leskovcu/",
+   "title": "Poginuo radnik na gradilištu u Leskovcu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/poginuo-radnik-na-gradilistu-u-leskovcu/",
+   "title": "Poginuo radnik na gradilištu u Leskovcu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -179,7 +191,9 @@
   "NOVI DETALJI INCIDENTA U POLJSKOJ! Pale dve ruske rakete i dron, objavljena fotografija (FOTO)",
   "U ruskim noćnim napadima na Ukrajinu poginulo 14 ljudi",
   "Rute: Podignuti NATO avioni nakon pada projektila na teritoriju Poljske",
-  "Ministar odbrane Poljske: Tri ruska objekta pala na našoj teritoriji tokom noći"
+  "Ministar odbrane Poljske: Tri ruska objekta pala na našoj teritoriji tokom noći",
+  "Poginuo radnik na gradilištu u Leskovcu",
+  "Poginuo radnik na gradilištu u Leskovcu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -193,7 +207,7 @@
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-20T15:59:02.730825+00:00",
  "verzija": 5

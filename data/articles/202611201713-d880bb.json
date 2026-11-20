@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T16:13:56.213312+00:00",
- "updated": "2026-11-20T16:13:56.213312+00:00",
+ "updated": "2026-11-20T16:28:52.999328+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://www.telegraf.rs/4436836-vucic-hvala-vam-za-ljubav-hvala-vam-za-podrsku-pobeda-ce-doci",
    "title": "Vučić: Hvala vam za ljubav, hvala vam za podršku, pobeda će doći",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673157/vucic-poslao-mocnu-poruku-pobeda-doci-mnogo-brze-nego-sto-neki-ocekuju-video",
+   "title": "VUČIĆ POSLAO MOĆNU PORUKU: Pobeda će doći mnogo brže nego što neki očekuju (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Vučić: Uplašen sam za budućnost Srbije, pobeda će doći brže nego što neki očekuju",
-  "Vučić: Hvala vam za ljubav, hvala vam za podršku, pobeda će doći"
+  "Vučić: Hvala vam za ljubav, hvala vam za podršku, pobeda će doći",
+  "VUČIĆ POSLAO MOĆNU PORUKU: Pobeda će doći mnogo brže nego što neki očekuju (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučić: Razočaran sam poslanicima Studentske liste, pobeda će doći brže nego što neki očekuju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
