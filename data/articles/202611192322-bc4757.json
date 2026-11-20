@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-19T22:22:07.133412+00:00",
- "updated": "2026-11-19T22:22:07.133412+00:00",
+ "updated": "2026-11-20T00:06:12.740649+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -44,11 +44,18 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4436328-budva-pod-vodom-zbog-nevremena-vise-naselja-u-crnoj-gori-ostalo-bez-struje",
    "title": "Budva pod vodom, zbog nevremena više naselja u Crnoj Gori ostalo bez struje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/nevreme-pogodilo-crnu-goru-podgorica-cetinje-i-tivat-bez-struje-vetar-oborio-krov-u-kotoru",
+   "title": "Nevreme pogodilo Crnu Goru: Podgorica, Cetinje i Tivat bez struje, vetar oborio krov u Kotoru",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "NEVREME OSTAVILO DEO CRNE GORE BEZ STRUJE: Podgorica, Cetinje i Tivat pogođeni prekidima u snabdevanju",
-  "Budva pod vodom, zbog nevremena više naselja u Crnoj Gori ostalo bez struje"
+  "Budva pod vodom, zbog nevremena više naselja u Crnoj Gori ostalo bez struje",
+  "Nevreme pogodilo Crnu Goru: Podgorica, Cetinje i Tivat bez struje, vetar oborio krov u Kotoru"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Kralji%C4%8Dina_pla%C5%BEa_(Milo%C4%8Der,_Crna_Gora)_07.jpg",
   "alt": "Nevreme u Crnoj Gori: bez struje delovi Podgorice, Cetinja i Tivta, Budva pod vodom"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

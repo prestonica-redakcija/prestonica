@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://biznis.telegraf.rs/info-biz/4433211-banka-postanska-stedionica-isplaceno-vise-od-7-odsto-sredstava-klijentima-alta-banke": "2026-11-15T00:05:08.512139+00:00",
-  "https://biznis.telegraf.rs/info-biz/4433045-zlatibor-krcat-u-vreme-jesenjeg-raspusta-vise-od-50000-gostiju-dnevno-smestaji-skoro-puni": "2026-11-15T00:05:08.512139+00:00",
-  "https://www.kurir.rs/vesti/srbija/10162438/udruzenje-paraplegicara-i-kvadriplegicara-kraguj-obelezilo-dve-decenije": "2026-11-15T00:05:08.512139+00:00",
   "https://www.telegraf.rs/vesti/svet/4433162-eksplozija-u-rudniku-u-kolumbiji-dva-rudara-poginula-dvojica-nestala": "2026-11-15T00:34:56.710666+00:00",
   "https://biznis.telegraf.rs/info-biz/4433111-ugostiteljske-usluge-za-godinu-dana-poskupele-za-56-odsto": "2026-11-15T01:04:41.266740+00:00",
   "https://www.telegraf.rs/4433115-linta-medjunarodni-predstavnici-da-traze-oslobadjanje-devet-uhapsenih-srba": "2026-11-15T02:04:19.429207+00:00",
@@ -6881,18 +6878,19 @@
   "https://www.telegraf.rs/4436360-cupic-nakon-sednice-skupstine-nadam-se-da-sam-pokazao-da-cu-biti-predsednik-svih-poslanika": "2026-11-19T23:51:20.430617+00:00",
   "https://nova.rs/magazin/vremenska-prognoza/u-srbiji-danas-pre-podne-suncano-tokom-dana-kisa/": "2026-11-19T23:51:20.430617+00:00",
   "https://www.danas.rs/vesti/politika/manjinska-inicijativa-romi-u-srbiji-bez-samostalnog-predstavnika-u-skupstini-od-2007-godine/": "2026-11-19T23:51:20.430617+00:00",
-  "https://insajder.net/prenosimo/direktor-majkrosofta-vestacka-inteligencija-bi-mogla-da-izazove-brojne-probleme": "2026-11-19T23:51:20.430617+00:00"
+  "https://insajder.net/prenosimo/direktor-majkrosofta-vestacka-inteligencija-bi-mogla-da-izazove-brojne-probleme": "2026-11-19T23:51:20.430617+00:00",
+  "https://insajder.net/prenosimo/nevreme-pogodilo-crnu-goru-podgorica-cetinje-i-tivat-bez-struje-vetar-oborio-krov-u-kotoru": "2026-11-20T00:06:12.740649+00:00",
+  "https://biznis.telegraf.rs/info-biz/4436296-ovo-je-danasnji-srednji-kurs-evra": "2026-11-20T00:06:12.740649+00:00",
+  "https://www.telegraf.rs/4436361-oglasili-se-studenti-posle-izbora-6-potpredsednika-skupstine-sa-studentske-liste": "2026-11-20T00:06:12.740649+00:00",
+  "https://www.danas.rs/vesti/drustvo/vreme-danas-pre-podne-suncano-tokom-dana-kisa/": "2026-11-20T00:06:12.740649+00:00",
+  "https://www.euronews.rs/biznis/biznis-vesti/252816/bitkoin-porastao-na-5812063-evra-indeks-na-nivou-10/vest": "2026-11-20T00:06:12.740649+00:00",
+  "https://insajder.net/prenosimo/prve-poruke-novog-rukovodstva-skupstine-slobodne-institucije-pravda-i-jednaka-prava-za-sve-gradane": "2026-11-20T00:06:12.740649+00:00",
+  "https://www.kurir.rs/zabava/pop-kultura/10166782/florens-pju-odgovorila-na-kritike-da-koristi-ozempik": "2026-11-20T00:06:12.740649+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-19T09:18+00:00",
-   "novih": 3,
-   "ukupno": 2715,
-   "sekundi": 344.9
-  },
   {
    "vreme": "2026-11-19T09:32+00:00",
    "novih": 5,
@@ -7246,6 +7244,12 @@
    "novih": 2,
    "ukupno": 2863,
    "sekundi": 274.0
+  },
+  {
+   "vreme": "2026-11-20T00:11+00:00",
+   "novih": 1,
+   "ukupno": 2864,
+   "sekundi": 308.0
   }
  ],
  "licnosti_foto": {
@@ -59561,12 +59565,6 @@
   ],
   "istorija": [
    {
-    "t": 1794527920.5670493,
-    "id": "202611130028-519bed",
-    "x": "2121029945137004653",
-    "link": true
-   },
-   {
     "t": 1794546664.0830703,
     "id": "202611130013-7aae4f",
     "x": "2121108561199878242",
@@ -62849,6 +62847,15 @@
    "t": 1795131457.9121838,
    "ok": true,
    "foto": null
+  },
+  "Marija Bjelobrk": {
+   "ime": "Marija Bjelobrk",
+   "uloga": "potpredsednica Skupštine Srbije",
+   "oblast": "politika",
+   "wd": "",
+   "t": 1795133216.3861408,
+   "ok": true,
+   "foto": null
   }
  },
  "ankete": [
@@ -63006,8 +63013,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-19T23:52:11.065611+00:00",
-  "uzivo_t": "2026-11-19T23:52:11.065629+00:00"
+  "provereno": "2026-11-20T00:06:57.352818+00:00",
+  "uzivo_t": "2026-11-20T00:06:57.352832+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {

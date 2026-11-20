@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T12:07:07.965704+00:00",
- "updated": "2026-11-19T23:51:20.430617+00:00",
+ "updated": "2026-11-20T00:06:12.740649+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -225,6 +225,12 @@
    "url": "https://www.telegraf.rs/4436360-cupic-nakon-sednice-skupstine-nadam-se-da-sam-pokazao-da-cu-biti-predsednik-svih-poslanika",
    "title": "Čupić nakon sednice Skupštine: \"Nadam se da sam pokazao da ću biti predsednik svih poslanika\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4436361-oglasili-se-studenti-posle-izbora-6-potpredsednika-skupstine-sa-studentske-liste",
+   "title": "Oglasili se studenti posle izbora 6 potpredsednika Skupštine sa Studentske liste",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -259,7 +265,8 @@
   "Marta Kos čestitala Čupiću izbor za predsednika Skupštine Srbije",
   "Čupić izabran za predsednika Skupštine; Završena rasprava o kandidatima za potpredsednike, u toku glasanje prozivkom",
   "Žestoka rasprava Vučića i Bakića u Skupštini: Govorili o crkvi, patrijarhu i kandidatima za potpredsednike",
-  "Čupić nakon sednice Skupštine: \"Nadam se da sam pokazao da ću biti predsednik svih poslanika\""
+  "Čupić nakon sednice Skupštine: \"Nadam se da sam pokazao da ću biti predsednik svih poslanika\"",
+  "Oglasili se studenti posle izbora 6 potpredsednika Skupštine sa Studentske liste"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -271,7 +278,7 @@
   "local": true,
   "alt": "Brnabić na konstitutivnoj sednici uporedila naučne radove Radenovića i Čupića"
  },
- "novo_od_pisanja": 15,
+ "novo_od_pisanja": 16,
  "boost": 1.6,
  "prepisano": "2026-11-19T09:12:47.015713+00:00",
  "verzija": 4
