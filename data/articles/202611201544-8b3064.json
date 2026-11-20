@@ -32,7 +32,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T14:44:40.690492+00:00",
- "updated": "2026-11-20T14:44:40.690492+00:00",
+ "updated": "2026-11-20T14:59:34.956011+00:00",
  "sources": [
   {
    "name": "B92",
@@ -45,11 +45,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4436783-vladimir-marinkovic-odrzao-niz-sastanaka-sa-americkim-kongresmenima-u-vasingtonu",
    "title": "Vladimir Marinković održao niz sastanaka sa američkim kongresmenima u Vašingtonu",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/286702/marinkovic-u-vasingtonu-s-americkim-kongresmenima-o-jacanju-odnosa-srbije-i-amerike/vest",
+   "title": "Marinković u Vašingtonu s američkim kongresmenima o jačanju odnosa Srbije i Amerike",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Marinković u Vašingtonu sa američkim kongresmenima; Razogovri o jačanju odnosa Srbije i Amerike",
-  "Vladimir Marinković održao niz sastanaka sa američkim kongresmenima u Vašingtonu"
+  "Vladimir Marinković održao niz sastanaka sa američkim kongresmenima u Vašingtonu",
+  "Marinković u Vašingtonu s američkim kongresmenima o jačanju odnosa Srbije i Amerike"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Marinković u Vašingtonu razgovarao sa kongresmenima o odnosima Srbije i SAD"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

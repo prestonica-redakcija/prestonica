@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T14:44:40.690492+00:00",
- "updated": "2026-11-20T14:44:40.690492+00:00",
+ "updated": "2026-11-20T14:59:34.956011+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -39,11 +39,18 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/299492/nedeljni-promet-na-beogradskoj-berzi-oko-4236-miliona-dinara-indeksi-u-plusu/vest",
    "title": "Nedeljni promet na Beogradskoj berzi oko 42,36 miliona dinara, indeksi u plusu",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1673159/berzanski-izvestaj-beogradskoj-berzi-ostvaren-promet-gotovo-9-7-miliona-dinara",
+   "title": "BERZANSKI IZVEŠTAJ: Na Beogradskoj berzi ostvaren promet od gotovo 9,7 miliona dinara",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Promet na Beogradskoj berzi oko 9,7 miliona dinara, indeksi u minusu",
-  "Nedeljni promet na Beogradskoj berzi oko 42,36 miliona dinara, indeksi u plusu"
+  "Nedeljni promet na Beogradskoj berzi oko 42,36 miliona dinara, indeksi u plusu",
+  "BERZANSKI IZVEŠTAJ: Na Beogradskoj berzi ostvaren promet od gotovo 9,7 miliona dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Beogradska berza: nedeljni indeksi u plusu, a petak završen u minusu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
