@@ -37,17 +37,24 @@
  ],
  "importance": 7,
  "published": "2026-11-19T23:36:31.686264+00:00",
- "updated": "2026-11-19T23:36:31.686264+00:00",
+ "updated": "2026-11-20T05:18:48.613825+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/info/politika/286517/obratili-se-poslanici-studentske-liste-cupic-vreme-je-da-preuzmemo-odgovornost-video/vest",
    "title": "Obratili se poslanici Studentske liste; Čupić: \"Vreme je da preuzmemo odgovornost\" VIDEO",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4436382-cupic-posle-izbora-u-skupstini-sada-je-vreme-da-studentska-lista-preuzme-odgovornost",
+   "title": "Čupić posle izbora u Skupštini: Sada je vreme da Studentska lista preuzme odgovornost",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Obratili se poslanici Studentske liste; Čupić: \"Vreme je da preuzmemo odgovornost\" VIDEO"
+  "Obratili se poslanici Studentske liste; Čupić: \"Vreme je da preuzmemo odgovornost\" VIDEO",
+  "Čupić posle izbora u Skupštini: Sada je vreme da Studentska lista preuzme odgovornost"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Aleksandar Čupić izabran za predsednika Skupštine Srbije, potpredsednici sa Studentske liste"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
