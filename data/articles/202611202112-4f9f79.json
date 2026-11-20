@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T20:12:12.983346+00:00",
- "updated": "2026-11-20T20:42:03.328969+00:00",
+ "updated": "2026-11-20T21:11:49.962208+00:00",
  "sources": [
   {
    "name": "N1",
@@ -47,11 +47,18 @@
    "url": "https://nova.rs/vesti/politika/rse-moskva-ministru-nenadu-popovicu-poverila-borbu-protiv-stranog-mesanja/",
    "title": "RSE: Moskva ministru Nenadu Popoviću poverila borbu protiv \"stranog mešanja\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/rse-moskva-ministru-iz-srbije-poverila-borbu-protiv-stranog-mesanja/",
+   "title": "RSE: Moskva ministru iz Srbije poverila borbu protiv stranog mešanja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "RSE: Moskva ministru Nenadu Popoviću poverila borbu protiv \"stranog mešanja\"",
-  "RSE: Moskva ministru Nenadu Popoviću poverila borbu protiv \"stranog mešanja\""
+  "RSE: Moskva ministru Nenadu Popoviću poverila borbu protiv \"stranog mešanja\"",
+  "RSE: Moskva ministru iz Srbije poverila borbu protiv stranog mešanja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Nenad_Popovic-MC.jpg",
   "alt": "Nenad Popović koordinator borbe protiv \"stranog mešanja\" u pokretu Jedinstvene Rusije"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

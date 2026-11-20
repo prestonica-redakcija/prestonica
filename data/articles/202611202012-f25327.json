@@ -26,17 +26,24 @@
  ],
  "importance": 3,
  "published": "2026-11-20T19:12:42.424725+00:00",
- "updated": "2026-11-20T19:12:42.424725+00:00",
+ "updated": "2026-11-20T21:11:49.962208+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/299569/pio-fond-medunarodni-dani-razgovora-sa-bih-1-decembra-u-ns-a-2decembra-u-bg/vest",
    "title": "PIO Fond: Međunarodni dani razgovora sa BiH 1. decembra u NS, a 2.decembra u BG",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/252999/fond-pio-dani-razgovora-sa-bih-1-i-2-decembra/vest",
+   "title": "PIO fond organizuje razgovore sa građanima o penzijama iz Srbije i BiH",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "PIO Fond: Međunarodni dani razgovora sa BiH 1. decembra u NS, a 2.decembra u BG"
+  "PIO Fond: Međunarodni dani razgovora sa BiH 1. decembra u NS, a 2.decembra u BG",
+  "PIO fond organizuje razgovore sa građanima o penzijama iz Srbije i BiH"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:PIO_fond_u_Kova%C4%8Dici.jpg",
   "alt": "Razgovori o penzijama sa BiH 1. decembra u Novom Sadu, a 2. decembra u Beogradu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
