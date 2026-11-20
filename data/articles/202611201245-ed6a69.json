@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T11:45:57.885434+00:00",
- "updated": "2026-11-20T12:00:57.155901+00:00",
+ "updated": "2026-11-20T12:45:30.692320+00:00",
  "sources": [
   {
    "name": "N1",
@@ -56,13 +56,20 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4436640-kancelarija-za-kim-se-oglasila-povodom-rusenja-na-jezeru-gazivode",
    "title": "Kancelarija za KiM se oglasila povodom rušenja na jezeru Gazivode!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/252926/kancelarija-za-kim-trazi-reakciju-zbog-rusenja-na-gazivodama/vest",
+   "title": "Kancelarija za Kosovo i Metohiju: Obavestićemo međunarodnu javnost o rušenju srpske imovine na KiM",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Kancelarija za KiM o rušenju na Gazivodama: Obavestićemo sve međunarodne predstavnike",
   "KANCELARIJA ZA KiM O NOVOM RUŠENjU SRPSKE IMOVINE NA GAZIVODAMA: Obavestićemo međunaordnu javnost uz zahtev za konkretnu akciju",
   "Kancelarija za KiM: Obavestićemo međunarodnu javnost o rušenju srpske imovine na Kosovu i Metohiji",
-  "Kancelarija za KiM se oglasila povodom rušenja na jezeru Gazivode!"
+  "Kancelarija za KiM se oglasila povodom rušenja na jezeru Gazivode!",
+  "Kancelarija za Kosovo i Metohiju: Obavestićemo međunarodnu javnost o rušenju srpske imovine na KiM"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -75,6 +82,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Gazivode_Lake_in_Ribari%C4%87e,_half-desiccated_01.jpg",
   "alt": "Kancelarija za KiM: Obavestićemo međunarodne predstavnike o rušenju vikendica na Gazivodama"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T23:36:31.686264+00:00",
- "updated": "2026-11-20T11:31:01.625476+00:00",
+ "updated": "2026-11-20T12:45:30.692320+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -106,6 +106,12 @@
    "url": "https://nova.rs/vesti/politika/dan-nakon-izbora-za-predsednika-skupstine-cupic-sa-studentima-uklanja-grafite-sa-zgrade-fakulteta-video/",
    "title": "Dan nakon izbora za predsednika Skupštine, Čupić sa studentima uklanja grafite sa zgrade fakulteta VIDEO",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/aleksandar-cupic-grafiti/",
+   "title": "Aleksandar Čupić sa studentima uklanja grafite SNS sa zidova fakulteta (VIDEO)",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -120,7 +126,8 @@
   "Čupić: Predsednički izbori će biti raspisani u narednih nekoliko dana, u roku predviđenom propisima",
   "Oglasio se Aleksandar Čupić! Otkrio kada se raspisuju predsednički izbori: \"Rok je veoma kratak\"",
   "Dan uživo: Najava raspisivanja predsedničkih izbora",
-  "Dan nakon izbora za predsednika Skupštine, Čupić sa studentima uklanja grafite sa zgrade fakulteta VIDEO"
+  "Dan nakon izbora za predsednika Skupštine, Čupić sa studentima uklanja grafite sa zgrade fakulteta VIDEO",
+  "Aleksandar Čupić sa studentima uklanja grafite SNS sa zidova fakulteta (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -132,7 +139,7 @@
   "local": true,
   "alt": "Čupić: biću predsednik svih poslanika, Studentska lista slavi izbor rukovodstva Skupštine"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-20T11:31:01.625476+00:00",
  "verzija": 3
