@@ -33,7 +33,7 @@
  ],
  "importance": 3,
  "published": "2026-11-19T11:56:27.978966+00:00",
- "updated": "2026-11-20T11:16:08.898553+00:00",
+ "updated": "2026-11-20T17:43:12.187852+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -58,13 +58,20 @@
    "url": "https://nova.rs/zabava/showbiz/otkazan-koncert-dina-merlina-u-splitu-vise-od-20000-gradjana-potpisalo-peticiju/",
    "title": "Otkazan koncert Dina Merlina u Splitu: Više od 20.000 građana potpisalo peticiju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/zabava/showbiz/oglasio-se-tim-dina-merlina-nakon-otkazivanja-koncerta-u-splitu-ukljucicemo-medjunarodni-pravni-tim/",
+   "title": "Oglasio se tim Dina Merlina nakon otkazivanja koncerta u Splitu: \"Uključićemo međunarodni pravni tim\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "ŠTA JE SA KARMOM DINA MERLINA? Otkazan mu koncert Srbiji, sad ga neće ni Hrvati! Zbog honorara od 140.000 € skoro 20.000 ljudi potpisalo peticiju",
   "Otkazan koncert Dina Merlina u Splitu: 20.000 besnih Hrvata potpisalo peticiju, oglasio se gradonačelnik",
   "OTKAZAN KONCERT DINA MERLINA U SPLITU: 20.000 ljudi potpisalo peticiju, gradonačelnik se HITNO oglasio",
-  "Otkazan koncert Dina Merlina u Splitu: Više od 20.000 građana potpisalo peticiju"
+  "Otkazan koncert Dina Merlina u Splitu: Više od 20.000 građana potpisalo peticiju",
+  "Oglasio se tim Dina Merlina nakon otkazivanja koncerta u Splitu: \"Uključićemo međunarodni pravni tim\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +84,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Pastrmajlijada_Shtip_2025_%E2%80%94_Concert_by_Dino_Merlin_(1).jpg",
   "alt": "Peticija protiv Merlinovog koncerta u Splitu, grad navodi da je honorar 140.000 evra"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
