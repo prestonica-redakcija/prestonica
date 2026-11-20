@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-20T06:33:19.742913+00:00",
+ "updated": "2026-11-20T06:48:04.211596+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -61,13 +61,20 @@
    "url": "https://www.telegraf.rs/vesti/svet/4436389-putinova-osveta-za-rusenje-krimskog-mosta-masovan-ruski-napad-na-ukrajinu-evo-sta-je-unisteno",
    "title": "Putinova osveta za rušenje Krimskog mosta?! Masovan ruski napad na Ukrajinu, evo šta je uništeno",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299329/ruski-napad-balistickim-raketama-ostetio-tri-mosta-u-kijevu-saobracaj-otezan/vest",
+   "title": "Ruski napad balističkim raketama oštetio tri mosta u Kijevu, saobraćaj otežan",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Moskva: Ruska vojska pokrenula masovni napad na Ukrajinu",
   "Rusi pokrenuli masovni napad – seva iznad Kijeva VIDEO",
   "STIGLA PUTINOVA OSVETA ZA KRIMSKI MOST! Počelo masovno bombardovanje Ukrajine i Kijeva, ima mrtvih i ranjenih, pogođeni mostovi, odjekuju snažne eksplozije!",
-  "Putinova osveta za rušenje Krimskog mosta?! Masovan ruski napad na Ukrajinu, evo šta je uništeno"
+  "Putinova osveta za rušenje Krimskog mosta?! Masovan ruski napad na Ukrajinu, evo šta je uništeno",
+  "Ruski napad balističkim raketama oštetio tri mosta u Kijevu, saobraćaj otežan"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,5 +87,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Vitali_Klitschko_in_2024.jpg",
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
