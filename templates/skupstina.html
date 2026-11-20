@@ -4,17 +4,17 @@
 {% block main %}
 <section class="sk-top">
   <div class="sk-head">
-    <span class="eyebrow" id="sk-stanje">{% if sk.live == 'live' %}<i class="pulse"></i> Uživo{% else %}Snimak poslednjeg prenosa{% endif %}</span>
+    <span class="eyebrow" id="sk-stanje">{% if sk.live == 'live' and not sk.nedostupan %}<i class="pulse"></i> Uživo{% elif sk.nedostupan %}Prenos nije dostupan{% else %}Snimak poslednjeg prenosa{% endif %}</span>
     <h1>Skupština Srbije</h1>
     <p id="sk-naslov">{{ sk.naslov or 'Prenos sednica Narodne skupštine i razgovor čitalaca u realnom vremenu.' }}</p>
   </div>
   <div class="sk-stage">
     <div class="sk-player">
-      <div class="sk-frame" id="sk-frame" data-yt="{{ sk.yt or '' }}" data-live="{{ '1' if sk.live == 'live' else '0' }}">
-        {% if sk.yt %}
+      <div class="sk-frame" id="sk-frame" data-yt="{{ sk.yt if sk.yt and not sk.nedostupan else '' }}" data-live="{{ '1' if sk.live == 'live' else '0' }}">
+        {% if sk.yt and not sk.nedostupan %}
         <iframe id="sk-iframe" src="https://www.youtube-nocookie.com/embed/{{ sk.yt }}?rel=0&amp;playsinline=1{% if sk.live == 'live' %}&amp;autoplay=1&amp;mute=1{% endif %}" title="Prenos sednice Narodne skupštine" allow="accelerometer; autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>
         {% else %}
-        <div class="sk-empty">Prenos trenutno nije dostupan. Stranica se sama osvežava čim sednica počne.</div>
+        <div class="sk-empty">{% if sk.nedostupan %}Skupština je uklonila snimak ovog prenosa sa svog kanala. Sednicu možete pratiti na zvaničnoj stranici prenosa, a ispod su vesti, objave i snimci sa sednice.{% else %}Sednica trenutno nije u toku. Stranica se sama osvežava čim prenos počne.{% endif %}</div>
         {% endif %}
       </div>
       <div class="sk-credit">

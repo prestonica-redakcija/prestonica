@@ -2,8 +2,8 @@
 // trenutno i kad je mreža loša. Podaci (/api/stat) se NIKADA ne keširaju -
 // brojevi u aplikaciji su uvek sa servisa, nikad stari.
 
-const KES = "komanda-v1";
-const LJUSKA = ["/statistika.html", "/komanda.webmanifest", "/og/logo.png"];
+const KES = "komanda-v2";
+const LJUSKA = ["/statistika.html", "/komanda.webmanifest", "/og/ikona-192.png", "/og/ikona-512.png"];
 
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(KES).then((c) => c.addAll(LJUSKA)).then(() => self.skipWaiting()).catch(() => self.skipWaiting()));

@@ -198,6 +198,27 @@ def fetch_nas_kanal(cid: str, limit: int = 12) -> list[dict]:
     return out
 
 
+def video_dostupan(vid: str) -> bool:
+    """Da li YouTube snimak i dalje postoji i sme da se ugradi.
+
+    Ide preko oEmbed-a: bez API ključa i bez kvote. Uklonjen, privatan ili
+    zabranjen za ugradnju snimak vraća 401/403/404. Ako sam YouTube ne odgovori,
+    vraćamo True da privremeni kvar mreže ne skine prenos sa portala."""
+    if not vid:
+        return False
+    try:
+        r = requests.get("https://www.youtube.com/oembed",
+                         params={"url": f"https://www.youtube.com/watch?v={vid}", "format": "json"},
+                         headers={"User-Agent": UA}, timeout=10)
+    except Exception as e:
+        log.info("Provera dostupnosti snimka %s nije uspela: %s", vid, e)
+        return True
+    if r.status_code in (401, 403, 404):
+        log.info("Snimak %s više nije dostupan na YouTube-u (%s)", vid, r.status_code)
+        return False
+    return True
+
+
 def live_status(ids: list[str]) -> dict[str, dict]:
     """Za listu video ID-jeva vraća da li je snimak uživo (1 jedinica kvote za do 50 videa)."""
     import os

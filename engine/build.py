@@ -168,7 +168,8 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
         "newsletter": (cfg.portal.get("newsletter") or {}).get("akcija_url", ""),
         "ticker": [a for a in by_date if a["kind"] == "vest"][:6], "domain": cfg.portal.get("domen", ""),
         "has_people": bool(people), "live_now": live_now, "has_videos": bool(videos), "has_x": bool(xposts),
-        "sk_live": (state.get("skupstina") or {}).get("live") == "live",
+        "sk_live": (state.get("skupstina") or {}).get("live") == "live"
+                   and not (state.get("skupstina") or {}).get("nedostupan"),
     }
 
     # --- ankete čitalaca ---
@@ -199,7 +200,9 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
     from . import skupstina as _sk
     _ski = _sk.izbor(by_date, xposts, videos)
     _sks = state.get("skupstina") or {}
-    _sk_dan = bool(_sks.get("yt")) and (_sks.get("live") == "live" or (bool(_sks.get("uzivo_t")) and age_hours(_sks["uzivo_t"]) < 12))
+    _sk_dan = (bool(_sks.get("yt")) and not _sks.get("nedostupan")
+               and (_sks.get("live") == "live"
+                    or (bool(_sks.get("uzivo_t")) and age_hours(_sks["uzivo_t"]) < 12)))
     # Naš snimak ide u sopstveni blok na naslovnoj, pa se ne ponavlja u mreži ispod
     nas_video = next((v for v in videos if v.get("nas") and age_hours(v["published"]) < 48), None)
     ostali_v = [v for v in videos if v is not nas_video]
