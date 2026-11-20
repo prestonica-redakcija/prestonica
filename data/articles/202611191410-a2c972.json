@@ -31,7 +31,7 @@
  ],
  "importance": 7,
  "published": "2026-11-19T13:10:56.804851+00:00",
- "updated": "2026-11-20T10:16:32.399954+00:00",
+ "updated": "2026-11-20T15:29:22.589468+00:00",
  "sources": [
   {
    "name": "N1",
@@ -68,6 +68,12 @@
    "url": "https://n1info.rs/vesti/poverenik-za-zastitu-ravnopravnosti-antonijevic-cestitao-cupicu-izbor-za-predsednika-skupstine/",
    "title": "Poverenik za zaštitu ravnopravnosti Antonijević čestitao Čupiću izbor za predsednika Skupštine",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4436818-antonijevic-cestitao-cupicuvazno-da-parlament-doprinosi-kulturi-tolerancije",
+   "title": "Antonijević čestitao Čupiću:Važno da parlament doprinosi kulturi tolerancije",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -76,7 +82,8 @@
   "Kardinal i beogradski nadbiskup Ladislav Nemet čestitao Čupiću na izboru za predsednika Skupštine",
   "Kardinal i beogradski nadbiskup Ladislav Nemet čestitao Čupiću na izboru za predsednika Skupštine",
   "Mali: Izbor potpredsednika Skupštine pokazao da u toj instituciji nema demokratije",
-  "Poverenik za zaštitu ravnopravnosti Antonijević čestitao Čupiću izbor za predsednika Skupštine"
+  "Poverenik za zaštitu ravnopravnosti Antonijević čestitao Čupiću izbor za predsednika Skupštine",
+  "Antonijević čestitao Čupiću:Važno da parlament doprinosi kulturi tolerancije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -88,8 +95,8 @@
   "local": true,
   "alt": "Studenti pozdravili izbor Aleksandra Čupića za predsednika Skupštine Srbije"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-20T10:16:32.399954+00:00",
  "verzija": 2
 }

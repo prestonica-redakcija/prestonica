@@ -29,17 +29,24 @@
  ],
  "importance": 4,
  "published": "2026-11-20T12:00:57.155901+00:00",
- "updated": "2026-11-20T12:00:57.155901+00:00",
+ "updated": "2026-11-20T15:29:22.589468+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/299417/srpski-menadzeri-imamo-velika-ocekivanja-ai-najveci-izazov-za-srpsku-privredu-u-2027/vest",
    "title": "Srpski menadžeri: Imamo velika očekivanja, AI najveći izazov za srpsku privredu u 2027.",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4436733-lideri-srpske-privrede-otkrili-sta-nas-ceka-u-2027-vestacka-inteligencija-najveca-sansa-ali-i-izazov",
+   "title": "Lideri srpske privrede otkrili šta nas čeka u 2027: Veštačka inteligencija najveća šansa, ali i izazov",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Srpski menadžeri: Imamo velika očekivanja, AI najveći izazov za srpsku privredu u 2027."
+  "Srpski menadžeri: Imamo velika očekivanja, AI najveći izazov za srpsku privredu u 2027.",
+  "Lideri srpske privrede otkrili šta nas čeka u 2027: Veštačka inteligencija najveća šansa, ali i izazov"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Nordeus_headquarters_building,_New_Belgrade.jpg",
   "alt": "Forum menadžera: veštačka inteligencija najveći izazov i šansa za privredu u 2027"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

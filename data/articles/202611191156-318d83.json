@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-19T10:56:49.993173+00:00",
- "updated": "2026-11-20T15:14:23.783204+00:00",
+ "updated": "2026-11-20T15:29:22.589468+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -142,6 +142,18 @@
    "url": "https://www.b92.net/biz/svet/vesti/286642/sad-organizovale-aukciju-zakupa-morskog-tla-kod-obale-americke-samoe/vest",
    "title": "Prvi put u istoriji: Amerika prodaje more",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286720/bernam-ruska-povreda-poljskog-vazdusnog-prostora-potpuno-neprihvatljiva/vest",
+   "title": "London žestoko reagovao: \"To je neprihvatljivo\"",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/manojlovic-optuzni-predlog-protiv-sapica-nije-dovoljan-ocekujemo-osudjujucu-presudu/",
+   "title": "Manojlović: Optužni predlog protiv Šapića nije dovoljan, očekujemo osuđujuću presudu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -162,7 +174,9 @@
   "Mjanmar odbacio presudu za genocid",
   "Mjanmar smatra da je presuda Međunarodnog suda pravde o genocidu nepravedna",
   "Vlada Mjanmara odbacila presudu za genocid",
-  "Prvi put u istoriji: Amerika prodaje more"
+  "Prvi put u istoriji: Amerika prodaje more",
+  "London žestoko reagovao: \"To je neprihvatljivo\"",
+  "Manojlović: Optužni predlog protiv Šapića nije dovoljan, očekujemo osuđujuću presudu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -174,7 +188,7 @@
   "local": true,
   "alt": "Međunarodni sud pravde: u Mjanmaru 2017. ubijeno oko 10.000 Rohindža"
  },
- "novo_od_pisanja": 10,
+ "novo_od_pisanja": 12,
  "boost": 1.6,
  "prepisano": "2026-11-19T12:41:11.680229+00:00",
  "verzija": 2

@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-19T10:27:11.486532+00:00",
- "updated": "2026-11-19T11:26:46.370283+00:00",
+ "updated": "2026-11-20T15:29:22.589468+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -82,6 +82,12 @@
    "url": "https://www.danas.rs/vesti/ekonomija/alta-banka-reklamacija-isplata-osiguranih-depozita/",
    "title": "Na koji način deponenti Alta banke u stečaju mogu da podensu reklamaciju u vezi sa isplatom osiguranih depozita?",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4436819-vise-od-25000-deponenata-alta-banke-u-stecaju-zakazalo-isplatu-na-raspolaganju-jos-vise-od-14000-termina",
+   "title": "Više od 25.000 deponenata Alta banke u stečaju zakazalo isplatu: Na raspolaganju još više od 14.000 termina",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -93,7 +99,8 @@
   "VAŽNO OBAVEŠTENjE ZA GRAĐANE: Primedbe u vezi sa isplatom depozita Alta banke mogu se podneti na ovim adresama",
   "Deponenti Alta banke u stečaju mogu podneti reklamaciju u vezi sa isplatom osiguranih depozita",
   "Deponenti Alta banke u stečaju mogu da podnesu reklamaciju u vezi sa isplatom osiguranih depozita",
-  "Na koji način deponenti Alta banke u stečaju mogu da podensu reklamaciju u vezi sa isplatom osiguranih depozita?"
+  "Na koji način deponenti Alta banke u stečaju mogu da podensu reklamaciju u vezi sa isplatom osiguranih depozita?",
+  "Više od 25.000 deponenata Alta banke u stečaju zakazalo isplatu: Na raspolaganju još više od 14.000 termina"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -106,8 +113,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Banka_po%C5%A1tanska_%C5%A1tedionica,_Pan%C4%8Devo.jpg",
   "alt": "Primedbe na isplatu depozita Alta banke podnose se banci, Poštanskoj štedionici ili AOD"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-19T11:26:46.370283+00:00",
  "verzija": 2
 }

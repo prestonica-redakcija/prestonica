@@ -24,7 +24,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T14:44:40.690492+00:00",
- "updated": "2026-11-20T15:14:23.783204+00:00",
+ "updated": "2026-11-20T15:29:22.589468+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -37,11 +37,18 @@
    "url": "https://insajder.net/prenosimo/srbija-otkupila-drzavne-obveznice-za-15-milijardi-dinara-otkup-i-u-cilju-jacanja-likvidnosti-postanske-stedionice",
    "title": "Srbija otkupila državne obveznice za 15 milijardi dinara: Otkup i u cilju jačanja likvidnosti Poštanske štedionice",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/286709/republika-srbija-otkupila-dvanaestogodisnje-drzavne-obveznice-u-iznosu-od-15-mlrd-din/vest",
+   "title": "Srbija otkupila dvanaestogodišnje državne obveznice u iznosu od 15 milijardi dinara",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Republika Srbija otkupila dvanaestogodišnje državne obveznice u iznosu od 15 milijardi din",
-  "Srbija otkupila državne obveznice za 15 milijardi dinara: Otkup i u cilju jačanja likvidnosti Poštanske štedionice"
+  "Srbija otkupila državne obveznice za 15 milijardi dinara: Otkup i u cilju jačanja likvidnosti Poštanske štedionice",
+  "Srbija otkupila dvanaestogodišnje državne obveznice u iznosu od 15 milijardi dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,6 +60,6 @@
   "local": true,
   "alt": "Srbija otkupila dvanaestogodišnje dinarske obveznice vredne 15 milijardi dinara"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
