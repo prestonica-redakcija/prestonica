@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-19T12:41:11.680229+00:00",
- "updated": "2026-11-19T13:40:41.851211+00:00",
+ "updated": "2026-11-20T02:35:20.824067+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -40,11 +40,18 @@
    "url": "https://insajder.net/prenosimo/rzs-stopa-rizika-od-siromastva-medu-decom-u-srbiji-pala-za-cetiri-odsto",
    "title": "RZS: Stopa rizika od siromaštva među decom u Srbiji pala za četiri odsto",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4436192-rzs-stopa-rizika-od-siromastva-medju-decom-u-srbiji-pala-sa-244-na-204-odsto",
+   "title": "RZS: Stopa rizika od siromaštva među decom u Srbiji pala sa 24,4 na 20,4 odsto",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "RZS: Stopa rizika od siromaštva među decom u Srbiji pala sa 24,4 na 20,4 odsto",
-  "RZS: Stopa rizika od siromaštva među decom u Srbiji pala za četiri odsto"
+  "RZS: Stopa rizika od siromaštva među decom u Srbiji pala za četiri odsto",
+  "RZS: Stopa rizika od siromaštva među decom u Srbiji pala sa 24,4 na 20,4 odsto"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,6 +63,6 @@
   "local": true,
   "alt": "RZS: stopa rizika od siromaštva među decom pala sa 24,4 na 20,4 odsto"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
