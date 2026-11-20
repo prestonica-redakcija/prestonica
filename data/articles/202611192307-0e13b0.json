@@ -32,17 +32,31 @@
  ],
  "importance": 4,
  "published": "2026-11-19T22:07:04.252500+00:00",
- "updated": "2026-11-19T22:07:04.252500+00:00",
+ "updated": "2026-11-20T10:31:22.846463+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10167402/nova-svadja-bakica-i-vucica",
    "title": "OSKAR, CANE SUBOTIĆ I VRAČARSKI KLAN DOVELI VUČIĆA I BAKIĆA PONOVO U KLINČ Pale žestoke reči na kraju rasprave: Obojica će biti kažnjeni oduzimanje dela plate",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/koliko-narodnog-poslanika-kosta-opomena-u-skupstini-a-koliko-oduzimanje-reci/",
+   "title": "Koliko narodnog poslanika košta opomena u Skupštini, a koliko oduzimanje reči",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/koliko-narodnog-poslanika-kosta-opomena-u-skupstini-a-koliko-oduzimanje-reci/",
+   "title": "Koliko narodnog poslanika košta opomena u Skupštini, a koliko oduzimanje reči",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "OSKAR, CANE SUBOTIĆ I VRAČARSKI KLAN DOVELI VUČIĆA I BAKIĆA PONOVO U KLINČ Pale žestoke reči na kraju rasprave: Obojica će biti kažnjeni oduzimanje dela plate"
+  "OSKAR, CANE SUBOTIĆ I VRAČARSKI KLAN DOVELI VUČIĆA I BAKIĆA PONOVO U KLINČ Pale žestoke reči na kraju rasprave: Obojica će biti kažnjeni oduzimanje dela plate",
+  "Koliko narodnog poslanika košta opomena u Skupštini, a koliko oduzimanje reči",
+  "Koliko narodnog poslanika košta opomena u Skupštini, a koliko oduzimanje reči"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +67,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Bakić i Vučić ponovo u raspravi u Skupštini, obojica dobili opomene"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

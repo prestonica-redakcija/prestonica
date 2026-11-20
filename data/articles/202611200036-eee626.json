@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T23:36:31.686264+00:00",
- "updated": "2026-11-20T09:46:49.864928+00:00",
+ "updated": "2026-11-20T10:31:22.846463+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -94,6 +94,12 @@
    "url": "https://www.telegraf.rs/4436526-oglasio-se-aleksandar-cupic-otkrio-kada-se-raspisuju-predsednicki-izbori-rok-je-veoma-kratak",
    "title": "Oglasio se Aleksandar Čupić! Otkrio kada se raspisuju predsednički izbori: \"Rok je veoma kratak\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/najave-emisija/dan-uzivo-najava-raspisivanja-predsednickih-izbora/",
+   "title": "Dan uživo: Najava raspisivanja predsedničkih izbora",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -106,7 +112,8 @@
   "ČUPIĆ OTKRIO KADA ĆE RASPISATI PREDSEDNIČKE IZBORE! Oglasio se predsednik Skupštine: \"Rok je veoma kratak...\"",
   "Aleksandar Čupić otkrio kada će biti raspisani predsednički izbori",
   "Čupić: Predsednički izbori će biti raspisani u narednih nekoliko dana, u roku predviđenom propisima",
-  "Oglasio se Aleksandar Čupić! Otkrio kada se raspisuju predsednički izbori: \"Rok je veoma kratak\""
+  "Oglasio se Aleksandar Čupić! Otkrio kada se raspisuju predsednički izbori: \"Rok je veoma kratak\"",
+  "Dan uživo: Najava raspisivanja predsedničkih izbora"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -118,7 +125,7 @@
   "local": true,
   "alt": "Čupić: biću predsednik svih poslanika, Studentska lista slavi izbor rukovodstva Skupštine"
  },
- "novo_od_pisanja": 2,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-20T09:31:54.346816+00:00",
  "verzija": 2
