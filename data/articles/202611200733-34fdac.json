@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-20T08:02:26.603888+00:00",
+ "updated": "2026-11-20T08:47:00.852620+00:00",
  "sources": [
   {
    "name": "B92",
@@ -75,6 +75,12 @@
    "url": "https://nova.rs/vesti/hronika/zapalila-se-fabrika-u-prijepolju-nema-informacija-o-povredjenima/",
    "title": "Zapalila se fabrika u Prijepolju, nema informacija o povređenima",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/pozar-u-fabrici-trendeks-u-prijepolju-nema-povredenih",
+   "title": "Požar u fabrici Trendeks u Prijepolju, nema povređenih",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -85,7 +91,8 @@
   "Zapalila se fabrika u Prijepolju, nema informacija o povređenima",
   "Prijepolje: Veliki požar u krugu fabrike „Trenteks”",
   "Zapalila se fabrika u Prijepolju, lokalizovan požar",
-  "Zapalila se fabrika u Prijepolju, nema informacija o povređenima"
+  "Zapalila se fabrika u Prijepolju, nema informacija o povređenima",
+  "Požar u fabrici Trendeks u Prijepolju, nema povređenih"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -98,8 +105,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Crkva_Svetog_proroka_Ilije_u_Jabuci,_Prijepolje_01.jpg",
   "alt": "Veliki požar u fabrici Trendtex u Prijepolju, za sada nema podataka o povređenima"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-20T08:02:26.603888+00:00",
  "verzija": 2
 }

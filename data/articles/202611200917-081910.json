@@ -32,17 +32,24 @@
  ],
  "importance": 6,
  "published": "2026-11-20T08:17:14.944279+00:00",
- "updated": "2026-11-20T08:17:14.944279+00:00",
+ "updated": "2026-11-20T08:47:00.852620+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1672966/sinisa-mali-pink-gostovanje",
    "title": "MALI ZA TV PINK: U trećem kvartalu rast BDP je 4% i mi smo u ovom trenutku najbrža rastuća ekonomija u Evropi",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/286560/mali-najavio-rast-bdp-a-od-35-do-37-srbija-u-ovom-trenutku-najbrze-rastuca-ekonomija-u-evropi/vest",
+   "title": "Mali najavio rast BDP-a od 3,5 do 3,7%: \"Srbija u ovom trenutku najbrže rastuća ekonomija u Evropi\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "MALI ZA TV PINK: U trećem kvartalu rast BDP je 4% i mi smo u ovom trenutku najbrža rastuća ekonomija u Evropi"
+  "MALI ZA TV PINK: U trećem kvartalu rast BDP je 4% i mi smo u ovom trenutku najbrža rastuća ekonomija u Evropi",
+  "Mali najavio rast BDP-a od 3,5 do 3,7%: \"Srbija u ovom trenutku najbrže rastuća ekonomija u Evropi\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Sini%C5%A1a_Mali_(cropped_1).jpg",
   "alt": "Mali: rast BDP u trećem kvartalu 4 odsto, Srbija najbrža ekonomija u Evropi"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

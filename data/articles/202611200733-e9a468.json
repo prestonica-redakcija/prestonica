@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-20T08:17:14.944279+00:00",
+ "updated": "2026-11-20T08:47:00.852620+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -45,11 +45,18 @@
    "url": "https://www.b92.net/info/hronika/286541/sudjenje-optuzenima-za-ubistvo-danke-ilic-nastavlja-se-u-negotinu/vest",
    "title": "Roditelji Danke Ilić danas u sudnici oči u oči sa optuženima za njeno ubistvo",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/danas-se-nastavlja-sudjenje-za-ubistvo-danke-ilic-2-ocekuje-se-saslusanje-njenih-roditelja/",
+   "title": "Danas se nastavlja suđenje za ubistvo Danke Ilić (2): Očekuje se saslušanje njenih roditelja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "JANKOVIĆ PRIZNAO DA JE TRAGAO ZA DANKOM, A DRAGIJEVIĆ INSPEKTORE VODIO DO MESTA GDE JE TELO: Šok na suđenju za ubistvo devojčice, tvrde da je sve zbog ovoga",
-  "Roditelji Danke Ilić danas u sudnici oči u oči sa optuženima za njeno ubistvo"
+  "Roditelji Danke Ilić danas u sudnici oči u oči sa optuženima za njeno ubistvo",
+  "Danas se nastavlja suđenje za ubistvo Danke Ilić (2): Očekuje se saslušanje njenih roditelja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "local": true,
   "alt": "Suđenje za ubistvo Danke Ilić: optuženi negirali delo, tvrde da su priznali pod torturom"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

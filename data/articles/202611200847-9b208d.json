@@ -33,7 +33,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T07:47:34.312460+00:00",
- "updated": "2026-11-20T07:47:34.312460+00:00",
+ "updated": "2026-11-20T08:47:00.852620+00:00",
  "sources": [
   {
    "name": "B92",
@@ -46,11 +46,25 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4436429-napeto-u-hrvatskoj-za-danas-zakazan-veliki-protesti-srednjoskolaca-i-studenata-u-pet-gradova",
    "title": "Napeto u Hrvatskoj: Za danas zakazan veliki protesti srednjoškolaca i studenata u pet gradova",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299348/danas-generalni-strajk-u-italiji-protesti-u-oko-100-gradova/vest",
+   "title": "Danas generalni štrajk u Italiji, protesti u oko 100 gradova",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/region/hrvatska/10167582/protest-srednjoslokaca-i-studenata-u-hrvatskoj",
+   "title": "NAPETO U HRVATSKOJ! Za danas zakazan protest srednjoškolaca i studenata u 5 gradova, ministar poručuje da iza svega stoji međunarodni pokret - ovo su zahtevi",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "\"Dižu\" se i hrvatski studenti i srednjoškolci",
-  "Napeto u Hrvatskoj: Za danas zakazan veliki protesti srednjoškolaca i studenata u pet gradova"
+  "Napeto u Hrvatskoj: Za danas zakazan veliki protesti srednjoškolaca i studenata u pet gradova",
+  "Danas generalni štrajk u Italiji, protesti u oko 100 gradova",
+  "NAPETO U HRVATSKOJ! Za danas zakazan protest srednjoškolaca i studenata u 5 gradova, ministar poručuje da iza svega stoji međunarodni pokret - ovo su zahtevi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +75,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Štrajk mladih u Hrvatskoj: bojkot nastave i protesti u pet gradova"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
