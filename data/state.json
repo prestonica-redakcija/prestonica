@@ -6890,18 +6890,13 @@
   "https://www.telegraf.rs/vesti/srbija/4436201-vase-malo-nekome-znaci-mnogo-evo-gde-danas-mozete-dati-krv": "2026-11-20T04:19:22.490652+00:00",
   "https://www.kurir.rs/vesti/srbija/10166903/smece-pluta-ulicama-smedereva": "2026-11-20T04:34:10.218874+00:00",
   "https://www.kurir.rs/vesti/beograd/10166786/bez-vode-danas-u-beogradu": "2026-11-20T04:34:10.218874+00:00",
-  "https://www.kurir.rs/vesti/srbija/10166810/nedelja-italijanske-kuhinje-u-vranju": "2026-11-20T04:49:04.128210+00:00"
+  "https://www.kurir.rs/vesti/srbija/10166810/nedelja-italijanske-kuhinje-u-vranju": "2026-11-20T04:49:04.128210+00:00",
+  "https://www.kurir.rs/vesti/beograd/10166923/bez-struje-danas-u-beogradu": "2026-11-20T05:03:51.843709+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-19T14:14+00:00",
-   "novih": 1,
-   "ukupno": 2799,
-   "sekundi": 267.4
-  },
   {
    "vreme": "2026-11-19T14:29+00:00",
    "novih": 1,
@@ -7255,6 +7250,12 @@
    "novih": 0,
    "ukupno": 2867,
    "sekundi": 293.6
+  },
+  {
+   "vreme": "2026-11-20T05:07+00:00",
+   "novih": 1,
+   "ukupno": 2868,
+   "sekundi": 211.5
   }
  ],
  "licnosti_foto": {
@@ -59528,6 +59529,110 @@
      "naslov": "Rodna kuća Radivoja Ćirpanova u Čurugu.jpg"
     }
    ]
+  },
+  "t:beograd": {
+   "t": 1795151056.8903508,
+   "items": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Beograd_collage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1024,
+     "h": 2048,
+     "god": 2018,
+     "credit": "Wikimedia Commons / Zeks127 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Beograd_collage.jpg",
+     "naslov": "Beograd collage.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Austrian_Embassy_in_Belgrade_%28Ambasada_Austrije_u_Beogradu%29.jpg/1920px-Austrian_Embassy_in_Belgrade_%28Ambasada_Austrije_u_Beogradu%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3985,
+     "h": 3456,
+     "god": 2021,
+     "credit": "Wikimedia Commons / Petar Milošević / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Austrian_Embassy_in_Belgrade_(Ambasada_Austrije_u_Beogradu).jpg",
+     "naslov": "Austrian Embassy in Belgrade (Ambasada Austrije u Beogradu).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Stari_%C5%BEelezni%C4%8Dki_most_nad_Savom%2C_Beograd.jpg/1920px-Stari_%C5%BEelezni%C4%8Dki_most_nad_Savom%2C_Beograd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5272,
+     "h": 3948,
+     "god": 2023,
+     "credit": "Wikimedia Commons / Petar Milošević / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Stari_%C5%BEelezni%C4%8Dki_most_nad_Savom,_Beograd.jpg",
+     "naslov": "Stari železnički most nad Savom, Beograd.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/%D0%9F%D1%80%D0%B2%D0%B0_%D0%B2%D0%B0%D1%80%D0%BE%D1%88%D0%BA%D0%B0_%D0%B1%D0%BE%D0%BB%D0%BD%D0%B8%D1%86%D0%B0_%D1%83_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%83_%28First_Town_Hospital%2C_Belgrade%2C_Serbia%29.jpg/1920px-%D0%9F%D1%80%D0%B2%D0%B0_%D0%B2%D0%B0%D1%80%D0%BE%D1%88%D0%BA%D0%B0_%D0%B1%D0%BE%D0%BB%D0%BD%D0%B8%D1%86%D0%B0_%D1%83_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%83_%28First_Town_Hospital%2C_Belgrade%2C_Serbia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4484,
+     "h": 3332,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Petar Milošević / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%B2%D0%B0_%D0%B2%D0%B0%D1%80%D0%BE%D1%88%D0%BA%D0%B0_%D0%B1%D0%BE%D0%BB%D0%BD%D0%B8%D1%86%D0%B0_%D1%83_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%83_(First_Town_Hospital,_Belgrade,_Serbia).jpg",
+     "naslov": "Прва варошка болница у Београду (First Town Hospital, Belgrade, Serbia).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Beograd_ekoloski_protest_against_Rio_Tinto_10_aug_2024_%284%29.jpg/1920px-Beograd_ekoloski_protest_against_Rio_Tinto_10_aug_2024_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4896,
+     "h": 3264,
+     "god": 2024,
+     "credit": "Wikimedia Commons / SergioOren / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Beograd_ekoloski_protest_against_Rio_Tinto_10_aug_2024_(4).jpg",
+     "naslov": "Beograd ekoloski protest against Rio Tinto 10 aug 2024 (4).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Rio_Tinto_Mar%C5%A1_sa_Drine%21_Slavija%2C_Beograd%2C_2021.jpg/1920px-Rio_Tinto_Mar%C5%A1_sa_Drine%21_Slavija%2C_Beograd%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4032,
+     "h": 3024,
+     "god": 2021,
+     "credit": "Wikimedia Commons / Tunic Youth / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Rio_Tinto_Mar%C5%A1_sa_Drine!_Slavija,_Beograd,_2021.jpg",
+     "naslov": "Rio Tinto Marš sa Drine! Slavija, Beograd, 2021.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Belgrade_or_Beograd_%28%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%29%2C_Serbia_2022-08_-_Mall_entrance_and_Starbucks.jpg/1920px-Belgrade_or_Beograd_%28%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%29%2C_Serbia_2022-08_-_Mall_entrance_and_Starbucks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4032,
+     "h": 3024,
+     "god": 2022,
+     "credit": "Wikimedia Commons / Sharon Hahn Darlin / CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Belgrade_or_Beograd_(%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4),_Serbia_2022-08_-_Mall_entrance_and_Starbucks.jpg",
+     "naslov": "Belgrade or Beograd (Београд), Serbia 2022-08 - Mall entrance and Starbucks.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/El_Grande_Maradona%2C_Beograd%2C_Dor%C4%87ol%2C_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1416,
+     "h": 796,
+     "god": 2020,
+     "credit": "Wikimedia Commons / Tunic Youth / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:El_Grande_Maradona,_Beograd,_Dor%C4%87ol,_2020.jpg",
+     "naslov": "El Grande Maradona, Beograd, Dorćol, 2020.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Etnografski_muzej_Beograd_Nimca_35.jpg/1920px-Etnografski_muzej_Beograd_Nimca_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4000,
+     "h": 2248,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Владимир Нимчевић / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Etnografski_muzej_Beograd_Nimca_35.jpg",
+     "naslov": "Etnografski muzej Beograd Nimca 35.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Angel%2C_Louis_Armstrong_%282002%29%2C_Blok_45%2C_Novi_Beograd.jpg/1920px-Angel%2C_Louis_Armstrong_%282002%29%2C_Blok_45%2C_Novi_Beograd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4032,
+     "h": 3024,
+     "god": 2019,
+     "credit": "Wikimedia Commons / Tunic Youth / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Angel,_Louis_Armstrong_(2002),_Blok_45,_Novi_Beograd.jpg",
+     "naslov": "Angel, Louis Armstrong (2002), Blok 45, Novi Beograd.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Beograd_ekoloski_protest_against_Rio_Tinto_10_aug_2024_%283%29.jpg/1920px-Beograd_ekoloski_protest_against_Rio_Tinto_10_aug_2024_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4896,
+     "h": 3264,
+     "god": 2024,
+     "credit": "Wikimedia Commons / SergioOren / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Beograd_ekoloski_protest_against_Rio_Tinto_10_aug_2024_(3).jpg",
+     "naslov": "Beograd ekoloski protest against Rio Tinto 10 aug 2024 (3).jpg"
+    }
+   ]
   }
  },
  "x_objave": {
@@ -59698,7 +59803,8 @@
    "202611191824-c6da17",
    "202611192307-6774b2",
    "202611192252-5293f6",
-   "202611200006-923bfc"
+   "202611200006-923bfc",
+   "202611200106-d8244c"
   ],
   "istorija": [
    {
@@ -60468,6 +60574,12 @@
     "id": "202611200006-923bfc",
     "x": "2123561315369366001",
     "link": true
+   },
+   {
+    "t": 1795151068.1184566,
+    "id": "202611200106-d8244c",
+    "x": "2123643614999752783",
+    "link": false
    }
   ],
   "ankete": {
@@ -63150,8 +63262,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-20T04:49:33.548769+00:00",
-  "uzivo_t": "2026-11-20T04:49:33.548782+00:00"
+  "provereno": "2026-11-20T05:04:35.265427+00:00",
+  "uzivo_t": "2026-11-20T05:04:35.265447+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {
