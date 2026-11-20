@@ -35,7 +35,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-20T08:17:14.944279+00:00",
+ "updated": "2026-11-20T08:32:13.821191+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -84,6 +84,12 @@
    "url": "https://www.tanjug.rs/svet/politika/299340/tri-osobe-poginule-15-povredeno-u-ruskom-raketnom-napadu-na-kijev/vest",
    "title": "Tri osobe poginule, 15 povređeno u ruskom raketnom napadu na Kijev",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/foto-video-rusija-pokrenula-masovan-napad-na-ukrajinu-pogodjena-tri-mosta-u-kijevu-ima-mrtvih-i-ranjenih-grad-ostao-bez-struje-i-vode/",
+   "title": "FOTO, VIDEO Rusija pokrenula masovan napad na Ukrajinu: Pogođena tri mosta u Kijevu, ima mrtvih i ranjenih, grad ostao bez struje i vode",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -94,7 +100,8 @@
   "Ruski napad balističkim raketama oštetio tri mosta u Kijevu, saobraćaj otežan",
   "Ruski napad balističkim raketama na tri mosta u Kijevu, tri osobe poginule",
   "Počela Putinova osveta; Gore FOTO/VIDEO",
-  "Tri osobe poginule, 15 povređeno u ruskom raketnom napadu na Kijev"
+  "Tri osobe poginule, 15 povređeno u ruskom raketnom napadu na Kijev",
+  "FOTO, VIDEO Rusija pokrenula masovan napad na Ukrajinu: Pogođena tri mosta u Kijevu, ima mrtvih i ranjenih, grad ostao bez struje i vode"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -108,8 +115,8 @@
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-20T08:17:14.944279+00:00",
  "verzija": 2
 }

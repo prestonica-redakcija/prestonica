@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-19T23:06:45.062247+00:00",
- "updated": "2026-11-19T23:21:39.139419+00:00",
+ "updated": "2026-11-20T08:32:13.821191+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,12 +48,19 @@
    "url": "https://www.kurir.rs/planeta/10167431/vojadzer-1-prva-letelica-koja-je-dostigla-udaljenost-od-jednog-svetlosnog-dana",
    "title": "OGLASILA SE NASA: Vojadžer 1 prva letelica koja je dostigla udaljenost od jednog svetlosnog dana",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/nasa-vojadzer-1-prva-letelica-koja-je-dostigla-udaljenost-od-jednog-svetlosnog-dana",
+   "title": "NASA: Vojadžer 1 prva letelica koja je dostigla udaljenost od jednog svetlosnog dana",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "NASA: Vojadžer 1 prva letelica koja je dostigla udaljenost od jednog svetlosnog dana",
   "OGLASILA SE NASA: Vojadžer 1 prva letelica koja je dostigla udaljenost od jednog svetlosnog dana",
-  "OGLASILA SE NASA: Vojadžer 1 prva letelica koja je dostigla udaljenost od jednog svetlosnog dana"
+  "OGLASILA SE NASA: Vojadžer 1 prva letelica koja je dostigla udaljenost od jednog svetlosnog dana",
+  "NASA: Vojadžer 1 prva letelica koja je dostigla udaljenost od jednog svetlosnog dana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Webb_and_the_Deep_Space_Network_(01HE5JBMEVP7EJKJD12XE590VQ).jpg",
   "alt": "NASA: Vojadžer 1 stigao na udaljenost od jednog svetlosnog dana od Zemlje"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

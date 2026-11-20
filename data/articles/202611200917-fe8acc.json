@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T08:17:14.944279+00:00",
- "updated": "2026-11-20T08:17:14.944279+00:00",
+ "updated": "2026-11-20T08:32:13.821191+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -45,11 +45,18 @@
    "url": "https://www.euronews.rs/srbija/politika/252879/rjabkov-razmatra-se-poseta-evropskih-pregovaraca-moskvi/vest",
    "title": "Rjabkov: Razmatra se poseta evropskih pregovarača Moskvi",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/da-li-bi-kijev-odustao-od-donbasa-za-clanstvo-ukrajine-u-nato/",
+   "title": "Da li bi Kijev odustao od Donbasa za članstvo Ukrajine u NATO?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Rjabkov: Razmatra se poseta evropskih pregovarača Moskvi",
-  "Rjabkov: Razmatra se poseta evropskih pregovarača Moskvi"
+  "Rjabkov: Razmatra se poseta evropskih pregovarača Moskvi",
+  "Da li bi Kijev odustao od Donbasa za članstvo Ukrajine u NATO?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Rjabkov: Moskva razmatra posetu evropskih pregovarača, članstvo Ukrajine u NATO neprihvatljivo"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
