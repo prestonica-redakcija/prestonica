@@ -32,17 +32,24 @@
  ],
  "importance": 7,
  "published": "2026-11-19T07:13:46.214234+00:00",
- "updated": "2026-11-19T07:13:46.214234+00:00",
+ "updated": "2026-11-20T07:02:54.044340+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10165955/sta-donosi-konstituisanje-nove-skupstine-srbije",
    "title": "POČEO DA TEČE USTAVNI ROK ZA FORMIRANJE IZVRŠNE VLASTI! Srbija najkasnije do Sretenja mora da dobije novu Vladu!",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/286522/konstituisana-skupstina-srbije-ovo-su-dalji-koraci-za-aleksandra-cupica/vest",
+   "title": "Konstituisana nova Skupština Srbije – ovo su koraci koje Čupić treba da preduzme",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "POČEO DA TEČE USTAVNI ROK ZA FORMIRANJE IZVRŠNE VLASTI! Srbija najkasnije do Sretenja mora da dobije novu Vladu!"
+  "POČEO DA TEČE USTAVNI ROK ZA FORMIRANJE IZVRŠNE VLASTI! Srbija najkasnije do Sretenja mora da dobije novu Vladu!",
+  "Konstituisana nova Skupština Srbije – ovo su koraci koje Čupić treba da preduzme"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Konstituisan novi saziv skupštine, počeo rok od 90 dana za izbor Vlade"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

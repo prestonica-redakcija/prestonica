@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-19T06:58:47.335790+00:00",
- "updated": "2026-11-20T06:48:04.211596+00:00",
+ "updated": "2026-11-20T07:02:54.044340+00:00",
  "sources": [
   {
    "name": "N1",
@@ -71,6 +71,12 @@
    "url": "https://www.b92.net/info/hronika/286521/hitna-pomoc-cetiri-osobe-lakse-povredjene-u-tri-udesa-u-beogradu/vest",
    "title": "Hitna pomoć: Četiri osobe lakše povređene u tri udesa u Beogradu",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/cetiri-osobe-lakse-povredjene-u-tri-saobracajne-nezgode/",
+   "title": "Ćetiri osobe lakše povređene u tri saobraćajne nezgode",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -80,7 +86,8 @@
   "Tokom noći 12 osoba povređeno u sedam saobraćajnih nezgoda u Beogradu",
   "Hitna pomoć: Tokom noći 12 osoba povređeno u sedam saobraćajnih nezgoda u Beogradu",
   "ČETIRI OSOBE POVREĐENE U TRI SAOBRAĆAJNE NESREĆE: Oglasila se Hitna pomoć",
-  "Hitna pomoć: Četiri osobe lakše povređene u tri udesa u Beogradu"
+  "Hitna pomoć: Četiri osobe lakše povređene u tri udesa u Beogradu",
+  "Ćetiri osobe lakše povređene u tri saobraćajne nezgode"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -93,6 +100,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Austrian_Embassy_in_Belgrade_(Ambasada_Austrije_u_Beogradu).jpg",
   "alt": "Beograd: u sedam saobraćajnih nezgoda povređeno 12 osoba, jedan muškarac izboden nožem"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
