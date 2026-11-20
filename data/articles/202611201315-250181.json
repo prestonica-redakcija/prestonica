@@ -26,17 +26,24 @@
  ],
  "importance": 6,
  "published": "2026-11-20T12:15:46.806740+00:00",
- "updated": "2026-11-20T12:15:46.806740+00:00",
+ "updated": "2026-11-20T12:30:42.075846+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/biznis/poreska-uprava-blokirala-racune-kineske-kompanije-ccecc/",
    "title": "SAZNAJEMO Računi kineske kompanije CCECC, koja je rekonstruisala Železničku stanicu u Novom Sadu, blokirani po nalogu Poreske uprave",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/poreska-uprava-blokirala-racune-kineske-kompanije-ccecc-koja-je-radila-rekonstrukciju-zeleznicke-stanice-u-novom-sadu/",
+   "title": "Poreska uprava blokirala račune kineske kompanije CCECC, koja je radila rekonstrukciju Železničke stanice u Novom Sadu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "SAZNAJEMO Računi kineske kompanije CCECC, koja je rekonstruisala Železničku stanicu u Novom Sadu, blokirani po nalogu Poreske uprave"
+  "SAZNAJEMO Računi kineske kompanije CCECC, koja je rekonstruisala Železničku stanicu u Novom Sadu, blokirani po nalogu Poreske uprave",
+  "Poreska uprava blokirala račune kineske kompanije CCECC, koja je radila rekonstrukciju Železničke stanice u Novom Sadu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Gustavo_Petro_of_Colombia_at_meeting_of_the_Construction_Consortium_CCECC_in_Beijing,_People%27s_Republic_of_China_on_24_October_2023_-_3.jpg",
   "alt": "Računi kineske firme CCECC blokirani po rešenju Poreske uprave"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

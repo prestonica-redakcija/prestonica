@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T11:01:26.183950+00:00",
- "updated": "2026-11-20T11:01:26.183950+00:00",
+ "updated": "2026-11-20T12:30:42.075846+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,12 +51,19 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4436598-sud-obustavio-postupak-protiv-9-studenata-optuzenih-za-pripremu-nasilne-promene-ustavnog-poretka",
    "title": "Sud obustavio postupak protiv 9 studenata optuženih za pripremu nasilne promene ustavnog poretka",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10167892/okoncan-postupak-protiv-devetoro-studenata",
+   "title": "ZVANIČNO SLOBODNI: Sud obustavio postupak protiv 9 studenata za pokušaj nasilne promene ustavnog poretka",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Sud obustavio postupak protiv 9 optuženih za pripremu nasilne promene ustavnog poretka",
   "Sud obustavio postupak protiv devetoro optuženih za pripremu nasilne promene ustavnog poretka",
-  "Sud obustavio postupak protiv 9 studenata optuženih za pripremu nasilne promene ustavnog poretka"
+  "Sud obustavio postupak protiv 9 studenata optuženih za pripremu nasilne promene ustavnog poretka",
+  "ZVANIČNO SLOBODNI: Sud obustavio postupak protiv 9 studenata za pokušaj nasilne promene ustavnog poretka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,5 +74,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Obustavljen postupak protiv devetoro optuženih za pripremu nasilne promene poretka"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

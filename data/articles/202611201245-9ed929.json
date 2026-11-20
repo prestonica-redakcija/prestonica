@@ -25,7 +25,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T11:45:57.885434+00:00",
- "updated": "2026-11-20T12:00:57.155901+00:00",
+ "updated": "2026-11-20T12:30:42.075846+00:00",
  "sources": [
   {
    "name": "N1",
@@ -68,6 +68,12 @@
    "url": "https://www.danas.rs/vesti/ekonomija/objavljene-nove-cene-goriva-koje-ce-vaziti-do-27-novembra/",
    "title": "Objavljene nove cene goriva koje će važiti do 27. novembra",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/ministarstvo-unutrasnje-i-spoljne-trgovine-objavilo-nove-cene-goriva-za-narednih-sedam-dana",
+   "title": "Ministarstvo unutrašnje i spoljne trgovine objavilo nove cene goriva za narednih sedam dana",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -77,7 +83,8 @@
   "U narednih sedam dana benzin jeftiniji za tri dinara - 204, dizel nepromenjen-236 dinara",
   "NOVE CENE GORIVA U SRBIJI: Poznato koliko ćemo plaćati benzin i dizel",
   "Objavljene nove cene goriva: Benzin pojeftinio",
-  "Objavljene nove cene goriva koje će važiti do 27. novembra"
+  "Objavljene nove cene goriva koje će važiti do 27. novembra",
+  "Ministarstvo unutrašnje i spoljne trgovine objavilo nove cene goriva za narednih sedam dana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -89,6 +96,6 @@
   "local": true,
   "alt": "Benzin jeftiniji tri dinara, evrodizel ostaje na 236 dinara po litru"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

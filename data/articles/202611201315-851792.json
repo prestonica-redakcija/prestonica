@@ -26,7 +26,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T12:15:46.806740+00:00",
- "updated": "2026-11-20T12:15:46.806740+00:00",
+ "updated": "2026-11-20T12:30:42.075846+00:00",
  "sources": [
   {
    "name": "N1",
@@ -39,10 +39,17 @@
    "url": "https://nova.rs/vesti/biznis/kreni-promeni-postanska-stedionica-vise-od-20-dana-ne-izvrsava-pojedina-medjunarodna-placanja/",
    "title": "Kreni-Promeni: Poštanska štedionica više od 20 dana ne izvršava pojedina međunarodna plaćanja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/kreni-promeni-postanska-stedionica-vise-od-20-dana-ne-izvrsava-pojedina-medjunarodna-placanja/",
+   "title": "Kreni-Promeni: Poštanska štedionica više od 20 dana ne izvršava pojedina međunarodna plaćanja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Kreni-promeni tvrdi da Poštanska štedionica duže od 20 dana ne izvršava neke međunarodne naloge",
+  "Kreni-Promeni: Poštanska štedionica više od 20 dana ne izvršava pojedina međunarodna plaćanja",
   "Kreni-Promeni: Poštanska štedionica više od 20 dana ne izvršava pojedina međunarodna plaćanja"
  ],
  "author": "Redakcija Prestonice",
@@ -55,5 +62,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Po%C5%A1tanska_%C5%A1tedionica_-_panoramio.jpg",
   "alt": "Kreni-promeni tvrdi da Poštanska štedionica više od 20 dana ne izvršava međunarodne naloge"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -34,7 +34,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T07:47:34.312460+00:00",
- "updated": "2026-11-20T11:31:01.625476+00:00",
+ "updated": "2026-11-20T12:30:42.075846+00:00",
  "sources": [
   {
    "name": "B92",
@@ -77,6 +77,12 @@
    "url": "https://www.danas.rs/svet/strajk-mladih-u-hrvatskoj/",
    "title": "Štrajk mladih u Hrvatskoj: Objavljen program sa 22 zahteva, poznato koje škole i fakulteti učestvuju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/italija-strajk-24-casa/",
+   "title": "Štrajk u više od 100 gradova Italije: Radnicima i studentima priključili se i lideri opozicije, besni na Meloni (VIDEO)",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -86,7 +92,8 @@
   "NAPETO U HRVATSKOJ! Za danas zakazan protest srednjoškolaca i studenata u 5 gradova, ministar poručuje da iza svega stoji međunarodni pokret - ovo su zahtevi",
   "Danas generalni štrajk u Italiji, protesti u oko 100 gradova",
   "Učenici srednjih škola i studenti u Hrvatskoj pozvani na celodnevni bojkot nastave",
-  "Štrajk mladih u Hrvatskoj: Objavljen program sa 22 zahteva, poznato koje škole i fakulteti učestvuju"
+  "Štrajk mladih u Hrvatskoj: Objavljen program sa 22 zahteva, poznato koje škole i fakulteti učestvuju",
+  "Štrajk u više od 100 gradova Italije: Radnicima i studentima priključili se i lideri opozicije, besni na Meloni (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -98,8 +105,8 @@
   "local": true,
   "alt": "Štrajk mladih u Hrvatskoj: bojkot nastave i protesti u pet gradova"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-20T11:16:08.898553+00:00",
  "verzija": 2
 }
