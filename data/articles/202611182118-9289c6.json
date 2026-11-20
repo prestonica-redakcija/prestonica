@@ -31,17 +31,24 @@
  ],
  "importance": 5,
  "published": "2026-11-18T20:18:46.152812+00:00",
- "updated": "2026-11-18T20:18:46.152812+00:00",
+ "updated": "2026-11-20T08:02:26.603888+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/info/svet/286187/putin-u-kinu-poneo-i-nuklearnu-aktovku/vest",
    "title": "\"Nuklearna aktovka\" je u Kini; Ako Putin izda naređenje sve staje VIDEO",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286542/iran-ako-vrhovni-vodja-izda-naredjenje-teheran-napada/vest",
+   "title": "\"Ako vrhovni vođa izda naređenje...\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "\"Nuklearna aktovka\" je u Kini; Ako Putin izda naređenje sve staje VIDEO"
+  "\"Nuklearna aktovka\" je u Kini; Ako Putin izda naređenje sve staje VIDEO",
+  "\"Ako vrhovni vođa izda naređenje...\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Putin_with_flag_of_Russia.jpg",
   "alt": "Uz Putina u Šenženu i ruska nuklearna aktovka, uoči sastanka sa Trampom i Si Đinpingom"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

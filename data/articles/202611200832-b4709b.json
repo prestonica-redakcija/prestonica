@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T07:32:37.259856+00:00",
- "updated": "2026-11-20T07:32:37.259856+00:00",
+ "updated": "2026-11-20T08:02:26.603888+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,11 +46,18 @@
    "url": "https://insajder.net/prenosimo/sud-potvrdio-ponistavanje-diplome-ekremu-imamogluu-cime-mu-je-onemogucena-kandidatura-za-predsednika-turske",
    "title": "Sud potvrdio poništavanje diplome Ekremu Imamogluu, čime mu je onemogućena kandidatura za predsednika Turske",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4436358-imamogluu-ponistena-diploma-onemoguceno-mu-da-se-kandiduje-za-predsednika-turske",
+   "title": "Imamogluu poništena diploma, onemogućeno mu da se kandiduje za predsednika Turske",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Imamogluu poništena diploma, onemogućeno mu da se kandiduje za predsednika Turske",
-  "Sud potvrdio poništavanje diplome Ekremu Imamogluu, čime mu je onemogućena kandidatura za predsednika Turske"
+  "Sud potvrdio poništavanje diplome Ekremu Imamogluu, čime mu je onemogućena kandidatura za predsednika Turske",
+  "Imamogluu poništena diploma, onemogućeno mu da se kandiduje za predsednika Turske"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Agnieszka_Turska-Kawa_2026.jpg",
   "alt": "Turski sud odbio žalbu Imamogluu, poništena diploma blokira kandidaturu za predsednika"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
