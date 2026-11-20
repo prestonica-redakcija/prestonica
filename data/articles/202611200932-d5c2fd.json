@@ -35,17 +35,24 @@
  ],
  "importance": 6,
  "published": "2026-11-20T08:32:13.821191+00:00",
- "updated": "2026-11-20T08:32:13.821191+00:00",
+ "updated": "2026-11-20T09:02:13.737109+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/kossev-najavljena-novih-rusenja-objekata-na-gazivodama-blizu-vile-koja-se-povezuje-sa-radoicicem/",
    "title": "KoSSev: Najavljena nova rušenja objekata na Gazivodama, blizu vile koja se povezuje sa Radoičićem",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/najavljeno-novo-rusenje-objekata-na-gazivodama/",
+   "title": "Najavljeno novo rušenje objekata na Gazivodama",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "KoSSev: Najavljena nova rušenja objekata na Gazivodama, blizu vile koja se povezuje sa Radoičićem"
+  "KoSSev: Najavljena nova rušenja objekata na Gazivodama, blizu vile koja se povezuje sa Radoičićem",
+  "Najavljeno novo rušenje objekata na Gazivodama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Gazivode_Lake_in_Ribari%C4%87e,_half-desiccated_01.jpg",
   "alt": "Kosovska policija potvrdila pripreme za nova rušenja objekata na Gazivodama"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

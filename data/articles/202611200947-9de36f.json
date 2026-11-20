@@ -29,17 +29,24 @@
  ],
  "importance": 4,
  "published": "2026-11-20T08:47:00.852620+00:00",
- "updated": "2026-11-20T08:47:00.852620+00:00",
+ "updated": "2026-11-20T09:02:13.737109+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/ekonomija/vesti/1672991/kriza-nemackoj-avio-kompaniji-planiraju-ukidanje-1-000-radnih-mesta",
    "title": "KRIZA U NEMAČKOJ AVIO KOMPANIJI: Planiraju ukidanje 1.000 radnih mesta",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/299354/lufthansa-planira-ukidanje-oko-1000-radnih-mesta-u-frankfurtu-i-minhenu/vest",
+   "title": "Lufthansa planira ukidanje oko 1.000 radnih mesta u Frankfurtu i Minhenu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "KRIZA U NEMAČKOJ AVIO KOMPANIJI: Planiraju ukidanje 1.000 radnih mesta"
+  "KRIZA U NEMAČKOJ AVIO KOMPANIJI: Planiraju ukidanje 1.000 radnih mesta",
+  "Lufthansa planira ukidanje oko 1.000 radnih mesta u Frankfurtu i Minhenu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Airbus_A350-941_D-AIXV_Lufthansa_from_Toulouse_(6000_ft.).jpg",
   "alt": "Lufthansa planira ukidanje oko 1.000 radnih mesta u Frankfurtu i Minhenu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

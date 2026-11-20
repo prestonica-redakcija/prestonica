@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-19T06:58:47.335790+00:00",
- "updated": "2026-11-20T07:02:54.044340+00:00",
+ "updated": "2026-11-20T09:02:13.737109+00:00",
  "sources": [
   {
    "name": "N1",
@@ -77,6 +77,18 @@
    "url": "https://nova.rs/vesti/hronika/cetiri-osobe-lakse-povredjene-u-tri-saobracajne-nezgode/",
    "title": "Ćetiri osobe lakše povređene u tri saobraćajne nezgode",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/troje-dece-i-dve-odrasle-osobe-povredjene-u-saobracajnim-nesrecama-u-nisu/",
+   "title": "Troje dece i dve odrasle osobe povređene u saobraćajnim nesrećama u Nišu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/troje-dece-i-dvoje-odraslih-povredjeno-u-udesima-u-nisu/",
+   "title": "Troje dece i dvoje odraslih povređeno u udesima u Nišu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -87,7 +99,9 @@
   "Hitna pomoć: Tokom noći 12 osoba povređeno u sedam saobraćajnih nezgoda u Beogradu",
   "ČETIRI OSOBE POVREĐENE U TRI SAOBRAĆAJNE NESREĆE: Oglasila se Hitna pomoć",
   "Hitna pomoć: Četiri osobe lakše povređene u tri udesa u Beogradu",
-  "Ćetiri osobe lakše povređene u tri saobraćajne nezgode"
+  "Ćetiri osobe lakše povređene u tri saobraćajne nezgode",
+  "Troje dece i dve odrasle osobe povređene u saobraćajnim nesrećama u Nišu",
+  "Troje dece i dvoje odraslih povređeno u udesima u Nišu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -100,6 +114,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Austrian_Embassy_in_Belgrade_(Ambasada_Austrije_u_Beogradu).jpg",
   "alt": "Beograd: u sedam saobraćajnih nezgoda povređeno 12 osoba, jedan muškarac izboden nožem"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }
