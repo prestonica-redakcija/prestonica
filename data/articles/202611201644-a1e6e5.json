@@ -29,17 +29,24 @@
  ],
  "importance": 5,
  "published": "2026-11-20T15:44:08.662564+00:00",
- "updated": "2026-11-20T15:44:08.662564+00:00",
+ "updated": "2026-11-20T23:25:51.055306+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/kuga-zivine-u-jagodini-na-ulazima-i-izlazima-sa-pijaca-postavljene-dezinfekcione-barijere/",
    "title": "Kuga živine u Jagodini - na ulazima i izlazima sa pijaca postavljene dezinfekcione barijere",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/agro-biz/4436892-jagodina-proglasena-zarazenim-podrucjem-zbog-atipicne-kuge-zivine",
+   "title": "Jagodina proglašena zaraženim područjem zbog atipične kuge živine",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Kuga živine u Jagodini - na ulazima i izlazima sa pijaca postavljene dezinfekcione barijere"
+  "Kuga živine u Jagodini - na ulazima i izlazima sa pijaca postavljene dezinfekcione barijere",
+  "Jagodina proglašena zaraženim područjem zbog atipične kuge živine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Police_automobiles_parking_in_Jagodina.jpg",
   "alt": "Atipična kuga živine u Jagodini: zabranjena prodaja žive živine na pijacama"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
