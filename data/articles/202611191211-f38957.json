@@ -26,17 +26,24 @@
  ],
  "importance": 3,
  "published": "2026-11-19T11:11:51.082473+00:00",
- "updated": "2026-11-19T11:11:51.082473+00:00",
+ "updated": "2026-11-20T02:05:34.373335+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/299098/otvoren-9-regionalni-poslovni-forum-u-novom-sadu-ucestvuje-vise-od-200-privrednika/vest",
    "title": "Otvoren 9. regionalni poslovni forum u Novom Sadu, učestvuje više od 200 privrednika",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4436199-regionalni-poslovni-forum-okupio-vise-od-300-pravnika-na-zlatiboru",
+   "title": "Regionalni poslovni forum okupio više od 300 pravnika na Zlatiboru",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Otvoren 9. regionalni poslovni forum u Novom Sadu, učestvuje više od 200 privrednika"
+  "Otvoren 9. regionalni poslovni forum u Novom Sadu, učestvuje više od 200 privrednika",
+  "Regionalni poslovni forum okupio više od 300 pravnika na Zlatiboru"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Maja_Gojkovi%C4%87_2019.jpg",
   "osoba": "Maja Gojković",
   "alt": "U Novom Sadu otvoren deveti regionalni poslovni forum, okupio više od 200 privrednika"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
