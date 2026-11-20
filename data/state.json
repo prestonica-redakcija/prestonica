@@ -6885,18 +6885,13 @@
   "https://www.danas.rs/vesti/drustvo/vreme-danas-pre-podne-suncano-tokom-dana-kisa/": "2026-11-20T00:06:12.740649+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/252816/bitkoin-porastao-na-5812063-evra-indeks-na-nivou-10/vest": "2026-11-20T00:06:12.740649+00:00",
   "https://insajder.net/prenosimo/prve-poruke-novog-rukovodstva-skupstine-slobodne-institucije-pravda-i-jednaka-prava-za-sve-gradane": "2026-11-20T00:06:12.740649+00:00",
-  "https://www.kurir.rs/zabava/pop-kultura/10166782/florens-pju-odgovorila-na-kritike-da-koristi-ozempik": "2026-11-20T00:06:12.740649+00:00"
+  "https://www.kurir.rs/zabava/pop-kultura/10166782/florens-pju-odgovorila-na-kritike-da-koristi-ozempik": "2026-11-20T00:06:12.740649+00:00",
+  "https://birn.rs/komisija-vrhovnog-tuzilastva-ispitivala-bekstvo-cuja-guanghaja-i-dzona-milera/": "2026-11-20T00:21:00.835496+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-19T09:32+00:00",
-   "novih": 5,
-   "ukupno": 2720,
-   "sekundi": 296.8
-  },
   {
    "vreme": "2026-11-19T09:49+00:00",
    "novih": 7,
@@ -7250,6 +7245,12 @@
    "novih": 1,
    "ukupno": 2864,
    "sekundi": 308.0
+  },
+  {
+   "vreme": "2026-11-20T00:24+00:00",
+   "novih": 1,
+   "ukupno": 2865,
+   "sekundi": 238.9
   }
  ],
  "licnosti_foto": {
@@ -10011,15 +10012,15 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2122706531619889216",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "parandilovicnls": {
     "since_id": "2123524304394473590",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "ininic": {
     "since_id": "2123548696931442944",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -10027,15 +10028,15 @@
    },
    "sviublokade_fdu": {
     "since_id": "2123543689855390002",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "dragandjilas": {
     "since_id": "2121691848313884992",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "marinikatepic": {
     "since_id": "2122007271508959331",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "radomirlazovic": {
     "since_id": null,
@@ -10059,27 +10060,27 @@
    },
    "avucic": {
     "since_id": "2123531971506606293",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "anabrnabic": {
     "since_id": "2123117894347432226",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "milos_vucevic": {
     "since_id": "2123498293443600791",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "sns_srbija": {
     "since_id": "2123548834164822444",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "studentblokade": {
-    "since_id": "2123551519362453514",
-    "t": 1795129778.466086
+    "since_id": "2123557931698262151",
+    "t": 1795134099.378043
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -10115,31 +10116,31 @@
    },
    "markodjuric": {
     "since_id": "2123478035995271377",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "nstarovic": {
     "since_id": "2122967633863565451",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "milenkojovanov": {
     "since_id": "2123419985561182395",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "acasapic": {
     "since_id": null,
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "borkostef": {
     "since_id": "2123462233250566382",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "dobrinacelnik": {
     "since_id": "2123461953905459269",
@@ -10151,7 +10152,7 @@
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "srdjanmil037": {
     "since_id": "2123426905680388191",
@@ -10203,7 +10204,7 @@
    },
    "borakonj": {
     "since_id": "2123527622189527388",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "narodnipokrets": {
     "since_id": "2123148949066559561",
@@ -10211,67 +10212,67 @@
    },
    "direktnors": {
     "since_id": "2123517855039627691",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "crtars": {
     "since_id": "2123084470769127692",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "veceivan": {
     "since_id": "2122994926497521950",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "repjoewilson": {
     "since_id": "2123523673885708524",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "jugoslavcosic": {
     "since_id": "2123147946694787141",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "tvnova_s": {
     "since_id": "2123525668344418406",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "oljautisak": {
     "since_id": null,
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "srdjan_nogo": {
     "since_id": "2123527863307735237",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "agrifblokira": {
     "since_id": "2123526752442200223",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "etfblokada": {
     "since_id": "2123443984156504503",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "nastraninaroda": {
     "since_id": "2123507872986550718",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "bcenzure": {
     "since_id": "2123522759749783653",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "bezstraha26279": {
     "since_id": "2123515728745971834",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "lazidetektor": {
     "since_id": "2123535925011775560",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "nedeljniknin": {
     "since_id": "2123551895629480428",
@@ -10287,11 +10288,11 @@
    },
    "tvbalkaninfo": {
     "since_id": "2123145868773822473",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "1152justice": {
     "since_id": "2121015729269182500",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    },
    "zatrijebacki": {
     "since_id": "2123547539249168585",
@@ -10323,7 +10324,7 @@
    },
    "masinars": {
     "since_id": "2123552902409048327",
-    "t": 1795129778.466086
+    "t": 1795134099.378043
    }
   },
   "posts": [
@@ -10352,6 +10353,20 @@
     "prikazi": true,
     "rubrika": "politika",
     "tema": "Poziv da funkcioneri vrate državne vile, automobile i poklone"
+   },
+   {
+    "id": "2123557931698262151",
+    "x": "studentblokade",
+    "ime": "Studenti u blokadi",
+    "grupa": "studenti",
+    "uloga": "",
+    "text": "Из народа за народ.\n\nНаши посланици. https://t.co/10gb1VeL61",
+    "published": "2026-11-19T23:23:59.000+00:00",
+    "lajk": 2958,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Studenti u blokadi: Из народа за народ, naši poslanici",
+    "vest": "202611200006-c5887a"
    },
    {
     "id": "2123552902409048327",
@@ -20929,20 +20944,6 @@
     "rubrika": "hronika",
     "tema": "Pritvor dekanu Fakulteta sporta u Novom Sadu Patriku Dridu",
     "vest": "202611180854-97696d"
-   },
-   {
-    "id": "2122970044485279758",
-    "x": "milos_vucevic",
-    "ime": "Miloš Vučević",
-    "grupa": "vlast",
-    "uloga": "Srpska napredna stranka",
-    "text": "Србија је остала без без једног од најбољих пилота Војске Србије, јунака, патриоте мајора Горана Булајића.\n\nСа дубоким поштовањем и великим поносом памтићемо његову храброст, посвећеност позиву и часну службу својој отаџбини и свом народу.\n\nЊеговој породици, пријатељима, https://t.co/8q8jiME65d",
-    "published": "2026-11-18T08:27:56.000+00:00",
-    "lajk": 3,
-    "prikazi": true,
-    "rubrika": "drustvo",
-    "tema": "Vučević o pogibiji pilota majora Gorana Bulajića",
-    "vest": "202611171914-f85420"
    }
   ],
   "pratim": [
@@ -59391,6 +59392,18 @@
      "naslov": "Nacionalni savet Slovačke republike - panoramio.jpg"
     }
    ]
+  },
+  "t:cuj guanghaj": {
+   "t": 1795134093.7189286,
+   "items": []
+  },
+  "t:dzon miler": {
+   "t": 1795134093.937335,
+   "items": []
+  },
+  "t:vise javno tuzilastvo": {
+   "t": 1795134094.1646876,
+   "items": []
   }
  },
  "x_objave": {
@@ -63013,8 +63026,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-20T00:06:57.352818+00:00",
-  "uzivo_t": "2026-11-20T00:06:57.352832+00:00"
+  "provereno": "2026-11-20T00:21:54.716250+00:00",
+  "uzivo_t": "2026-11-20T00:21:54.716273+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {
