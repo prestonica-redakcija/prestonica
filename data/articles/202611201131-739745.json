@@ -28,17 +28,24 @@
  ],
  "importance": 6,
  "published": "2026-11-20T10:31:22.846463+00:00",
- "updated": "2026-11-20T10:31:22.846463+00:00",
+ "updated": "2026-11-20T11:16:08.898553+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/srbija/politika/252898/sinisa-mali-o-ekspu-2027-i-studentskoj-listi/vest",
    "title": "Mali pozvao Studentsku listu da donese odluku u vezi sa održavanjem izložbe EXPO 2027",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4436603-ministar-u-tehnickom-mandatu-pozvao-studenstku-listu-da-donese-odluku-u-vezi-sa-odrzavanjem-izlozbe-ekspo2027",
+   "title": "Ministar u tehničkom mandatu pozvao Studenstku listu da donese odluku u vezi sa održavanjem izložbe Ekspo2027",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Mali pozvao Studentsku listu da donese odluku u vezi sa održavanjem izložbe EXPO 2027"
+  "Mali pozvao Studentsku listu da donese odluku u vezi sa održavanjem izložbe EXPO 2027",
+  "Ministar u tehničkom mandatu pozvao Studenstku listu da donese odluku u vezi sa održavanjem izložbe Ekspo2027"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Mali apeluje na Studentsku listu da se jasno odredi prema Ekspu 2027"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

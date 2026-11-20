@@ -27,17 +27,24 @@
  ],
  "importance": 5,
  "published": "2026-11-20T11:01:26.183950+00:00",
- "updated": "2026-11-20T11:01:26.183950+00:00",
+ "updated": "2026-11-20T11:16:08.898553+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1673053/oglasio-seselj-nakon-informacije-policiji-dosla-uniformisana-policija",
    "title": "OGLASIO SE ŠEŠELj NAKON INFORMACIJE DA JE U POLICIJI: je došla uniformisana policija...",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673053/oglasio-seselj-nakon-informacije-policiji-sinoc-dosla-uniformisana-policija",
+   "title": "OGLASIO SE ŠEŠELj NAKON INFORMACIJE DA JE U POLICIJI: Sinoć je došla uniformisana policija...",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "OGLASIO SE ŠEŠELj NAKON INFORMACIJE DA JE U POLICIJI: je došla uniformisana policija..."
+  "OGLASIO SE ŠEŠELj NAKON INFORMACIJE DA JE U POLICIJI: je došla uniformisana policija...",
+  "OGLASIO SE ŠEŠELj NAKON INFORMACIJE DA JE U POLICIJI: Sinoć je došla uniformisana policija..."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Snezana_Djordjevic_i_Vojislav_Seselj.jpg",
   "alt": "Šešelj: policija mi je uručila poziv na informativni razgovor po zahtevu tužilaštva"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
