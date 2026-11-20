@@ -29,17 +29,38 @@
  ],
  "importance": 5,
  "published": "2026-11-20T11:01:26.183950+00:00",
- "updated": "2026-11-20T11:01:26.183950+00:00",
+ "updated": "2026-11-20T11:31:01.625476+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10167714/vise-javno-tuzilastvo-u-beogradu-ce-se-zaliti-na-presudu-za-ubistvo-noe-milivojev",
    "title": "VIŠE TUŽILAŠTVO ĆE SE ŽALITI NA PRESUDU ZA UBISTVO NOE MILIVOJEV: Tražiće preinačenje presude u pogledu visine kazne",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/299393/tuzilac-stefanovic-najavilo-zalbu-na-presudu-dabeticu/vest",
+   "title": "Tužilac Stefanović najavilo žalbu na presudu Dabetiću",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/visi-sud-osudio-muskarca-zbog-ubistva-transrodne-devojke-na-14-godina-zatvora-tuzilastvo-najavilo-zalbu/",
+   "title": "Viši sud osudio muškarca zbog ubistva transrodne devojke na 14 godina zatvora, tužilaštvo najavilo žalbu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/dabeticu-14-godina-za-ubistvo-noe-milivojev-18-u-stanu-u-beogradu-tuzilastvo-najavilo-zalbu-na-presudu/",
+   "title": "Dabetiću 14 godina za ubistvo Noe Milivojev (18) u stanu u Beogradu: Tužilaštvo najavilo žalbu na presudu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "VIŠE TUŽILAŠTVO ĆE SE ŽALITI NA PRESUDU ZA UBISTVO NOE MILIVOJEV: Tražiće preinačenje presude u pogledu visine kazne"
+  "VIŠE TUŽILAŠTVO ĆE SE ŽALITI NA PRESUDU ZA UBISTVO NOE MILIVOJEV: Tražiće preinačenje presude u pogledu visine kazne",
+  "Tužilac Stefanović najavilo žalbu na presudu Dabetiću",
+  "Viši sud osudio muškarca zbog ubistva transrodne devojke na 14 godina zatvora, tužilaštvo najavilo žalbu",
+  "Dabetiću 14 godina za ubistvo Noe Milivojev (18) u stanu u Beogradu: Tužilaštvo najavilo žalbu na presudu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +71,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Tužilaštvo će se žaliti na presudu od 14 godina za ubistvo Noe Milivojev"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

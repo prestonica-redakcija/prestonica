@@ -34,7 +34,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T07:47:34.312460+00:00",
- "updated": "2026-11-20T11:16:08.898553+00:00",
+ "updated": "2026-11-20T11:31:01.625476+00:00",
  "sources": [
   {
    "name": "B92",
@@ -71,6 +71,12 @@
    "url": "https://n1info.rs/region/ucenici-srednjih-skola-i-studenti-u-hrvatskoj-pozvani-na-celodnevni-bojkot-nastave/",
    "title": "Učenici srednjih škola i studenti u Hrvatskoj pozvani na celodnevni bojkot nastave",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/strajk-mladih-u-hrvatskoj/",
+   "title": "Štrajk mladih u Hrvatskoj: Objavljen program sa 22 zahteva, poznato koje škole i fakulteti učestvuju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -79,7 +85,8 @@
   "Danas generalni štrajk u Italiji, protesti u oko 100 gradova",
   "NAPETO U HRVATSKOJ! Za danas zakazan protest srednjoškolaca i studenata u 5 gradova, ministar poručuje da iza svega stoji međunarodni pokret - ovo su zahtevi",
   "Danas generalni štrajk u Italiji, protesti u oko 100 gradova",
-  "Učenici srednjih škola i studenti u Hrvatskoj pozvani na celodnevni bojkot nastave"
+  "Učenici srednjih škola i studenti u Hrvatskoj pozvani na celodnevni bojkot nastave",
+  "Štrajk mladih u Hrvatskoj: Objavljen program sa 22 zahteva, poznato koje škole i fakulteti učestvuju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -91,8 +98,8 @@
   "local": true,
   "alt": "Štrajk mladih u Hrvatskoj: bojkot nastave i protesti u pet gradova"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-20T11:16:08.898553+00:00",
  "verzija": 2
 }
