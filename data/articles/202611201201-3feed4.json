@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T11:01:26.183950+00:00",
- "updated": "2026-11-20T11:31:01.625476+00:00",
+ "updated": "2026-11-20T11:45:57.885434+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -54,13 +54,41 @@
    "url": "https://nova.rs/vesti/hronika/dabeticu-14-godina-za-ubistvo-noe-milivojev-18-u-stanu-u-beogradu-tuzilastvo-najavilo-zalbu-na-presudu/",
    "title": "Dabetiću 14 godina za ubistvo Noe Milivojev (18) u stanu u Beogradu: Tužilaštvo najavilo žalbu na presudu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/299074/danas-presuda-dabeticu-optuzenom-za-ubistvo-transrodne-osobe/vest",
+   "title": "Danas presuda Dabetiću, optuženom za ubistvo transrodne osobe",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/299378/dabetic-za-ubistvo-transrodne-osobe-osuden-na-14-godina/vest",
+   "title": "Dabetić za ubistvo transrodne osobe osuđen na 14 godina",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/299388/dabetic-za-ubistvo-transrodne-osobe-osuden-na-kaznu-zatvora-od-14-godina/vest",
+   "title": "Dabetić za ubistvo transrodne osobe osuđen na kaznu zatvora od 14 godina",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/286593/dabetic-za-ubistvo-transrodne-osobe-osudjen-na-14-godina/vest",
+   "title": "Dabetić osuđen na 14 godina zbog ubistva transrodne osobe; Detalji zločina su strašni; Tužilaštvo: Žalićemo se",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "VIŠE TUŽILAŠTVO ĆE SE ŽALITI NA PRESUDU ZA UBISTVO NOE MILIVOJEV: Tražiće preinačenje presude u pogledu visine kazne",
   "Tužilac Stefanović najavilo žalbu na presudu Dabetiću",
   "Viši sud osudio muškarca zbog ubistva transrodne devojke na 14 godina zatvora, tužilaštvo najavilo žalbu",
-  "Dabetiću 14 godina za ubistvo Noe Milivojev (18) u stanu u Beogradu: Tužilaštvo najavilo žalbu na presudu"
+  "Dabetiću 14 godina za ubistvo Noe Milivojev (18) u stanu u Beogradu: Tužilaštvo najavilo žalbu na presudu",
+  "Danas presuda Dabetiću, optuženom za ubistvo transrodne osobe",
+  "Dabetić za ubistvo transrodne osobe osuđen na 14 godina",
+  "Dabetić za ubistvo transrodne osobe osuđen na kaznu zatvora od 14 godina",
+  "Dabetić osuđen na 14 godina zbog ubistva transrodne osobe; Detalji zločina su strašni; Tužilaštvo: Žalićemo se"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,6 +100,6 @@
   "local": true,
   "alt": "Tužilaštvo će se žaliti na presudu od 14 godina za ubistvo Noe Milivojev"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 7,
+ "boost": 1.56
 }

@@ -30,7 +30,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T06:18:15.014670+00:00",
- "updated": "2026-11-20T11:31:01.625476+00:00",
+ "updated": "2026-11-20T11:45:57.885434+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -49,12 +49,19 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4436468-stize-zahladjenje-temperatura-pada-i-za-vise-od-10-stepeni-evo-gde-ce-padati-sneg",
    "title": "Stiže ZAHLAĐENJE, temperatura pada i za više od 10 stepeni: Evo gde će padati SNEG",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/286617/vremenska-prognoza-za-narednu-nedelju/vest",
+   "title": "Preokret za vikend: Kiša i pljuskovi, a onda stiže i sneg",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "U Srbiji danas od sredine dana novo naoblačenje, temperature do 20 stepeni",
   "OTVARAJU SE BEČKA VRATA, STIŽE NOVI ZIMSKI UDAR NA SRBIJU: Ristić otkrio kog datuma će temperatura drastično pasti",
-  "Stiže ZAHLAĐENJE, temperatura pada i za više od 10 stepeni: Evo gde će padati SNEG"
+  "Stiže ZAHLAĐENJE, temperatura pada i za više od 10 stepeni: Evo gde će padati SNEG",
+  "Preokret za vikend: Kiša i pljuskovi, a onda stiže i sneg"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "local": true,
   "alt": "Danas kiša i pljuskovi u većem delu Srbije, od sutra postepeno zahlađenje"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

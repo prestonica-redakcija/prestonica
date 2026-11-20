@@ -32,7 +32,7 @@
  ],
  "importance": 8,
  "published": "2026-11-19T13:25:55.933564+00:00",
- "updated": "2026-11-20T11:16:08.898553+00:00",
+ "updated": "2026-11-20T11:45:57.885434+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -81,6 +81,12 @@
    "url": "https://www.danas.rs/vesti/politika/studenti-u-blokadi-objavili-skupstina-je-oslobodjena-foto/",
    "title": "Studenti u blokadi objavili: Skupština je oslobođena (FOTO)",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4436639-pogledajte-sta-je-predsednik-skupstine-cupic-radio-sa-studentima-jutro-nakon-sednice-koja-se-zavrsila-u-ponoc",
+   "title": "Pogledajte šta je predsednik Skupštine Čupić radio sa studentima jutro nakon sednice koja se završila u ponoć",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -91,7 +97,8 @@
   "Princ Filip čestitao Čupiću, podsetio na zavet Karađorđa i kralja Petra",
   "Karađorđevići čestitali novom predsedniku Skupštine Aleksandru Čupiću: Filip podsetio na Karađorđa i kralja Petra",
   "U Službenom glasniku objavljena odluka o izboru predsednika Narodne skupštine Aleksandra Čupića",
-  "Studenti u blokadi objavili: Skupština je oslobođena (FOTO)"
+  "Studenti u blokadi objavili: Skupština je oslobođena (FOTO)",
+  "Pogledajte šta je predsednik Skupštine Čupić radio sa studentima jutro nakon sednice koja se završila u ponoć"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -105,8 +112,8 @@
   "osoba": "Milorad Dodik",
   "alt": "Čupić izabran za predsednika Skupštine, čestitali studenti, princ Filip i Dodik"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-20T07:47:34.312460+00:00",
  "verzija": 2
 }

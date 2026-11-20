@@ -36,7 +36,7 @@
  ],
  "importance": 5,
  "published": "2026-11-19T08:42:57.783545+00:00",
- "updated": "2026-11-19T10:56:49.993173+00:00",
+ "updated": "2026-11-20T11:45:57.885434+00:00",
  "sources": [
   {
    "name": "B92",
@@ -67,6 +67,12 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4435859-hrvatska-blokirala-crnu-goru-u-zatvaranju-energetskog-poglavlja-eu",
    "title": "Hrvatska blokirala Crnoj Gori još jedno poglavlje za ulazak u EU",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286620/estonija-zatvara-granicu-s-rusijom/vest",
+   "title": "To je to, zatvaraju granicu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -74,7 +80,8 @@
   "Crna Gora poslala jasnu poruku Hrvatskoj: \"Nećemo prihvatiti jednostrano određivanje granice!\"",
   "HRVATSKA BLOKIRALA CRNOJ GORI ZATVARANJE JOŠ JEDNOG POGLAVLJA! Plenković: \"Nema popuštanja\"",
   "Hrvatska blokirala Crnoj Gori zatvaranje još jednog poglavlja: Nafta, gas i granica na moru u centru novog sukoba",
-  "Hrvatska blokirala Crnoj Gori još jedno poglavlje za ulazak u EU"
+  "Hrvatska blokirala Crnoj Gori još jedno poglavlje za ulazak u EU",
+  "To je to, zatvaraju granicu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -87,6 +94,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Kralji%C4%8Dina_pla%C5%BEa_(Milo%C4%8Der,_Crna_Gora)_07.jpg",
   "alt": "Crna Gora odbija jednostrano određivanje granice, Hrvatska navodno blokira poglavlje 15"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
