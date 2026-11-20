@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T11:31:01.625476+00:00",
- "updated": "2026-11-20T12:15:46.806740+00:00",
+ "updated": "2026-11-20T20:27:04.269565+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -53,13 +53,20 @@
    "url": "https://www.telegraf.rs/4436644-ko-je-mirjana-radakovic-nova-generalna-sekretarka-narodne-skupstine",
    "title": "Ko je Mirjana Radaković, nova generalna sekretarka Narodne skupštine",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/252956/ko-je-mirjana-radakovic-generalna-sekretarka-skupstine/vest",
+   "title": "Mirjana Radaković - novi generalni sekretar Skupštine Srbije: Decenije iskustva u državnim institucijama",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Ko je Mirjana Radaković, novi generalni sekretar Skupštine?",
   "Ko je Mirjana Radaković, novi generalni sekretar Skupštine? FOTO",
   "Novi sekretar Skupštine Srbije Mirjana Radaković: Od skupštine SFRJ i SRJ do Narodne skupštine - veliko iskustvo",
-  "Ko je Mirjana Radaković, nova generalna sekretarka Narodne skupštine"
+  "Ko je Mirjana Radaković, nova generalna sekretarka Narodne skupštine",
+  "Mirjana Radaković - novi generalni sekretar Skupštine Srbije: Decenije iskustva u državnim institucijama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,6 +79,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0_%D1%81%D0%BA%D1%83%D0%BF%D1%88%D1%82%D0%B8%D0%BD%D0%B0_%D0%A0%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B5_%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B5,_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_-_%D0%BF%D0%BE%D0%B3%D0%BB%D0%B5%D0%B4_%D0%BE%D0%B4_%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B3_%D0%B4%D0%B2%D0%BE%D1%80%D0%B0_(%D0%93%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B5_%D1%81%D0%BA%D1%83%D0%BF%D1%88%D1%82%D0%B8%D0%BD%D0%B5).jpg",
   "alt": "Mirjana Radaković izabrana za generalnog sekretara Narodne skupštine"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

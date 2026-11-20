@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-20T19:57:21.636399+00:00",
+ "updated": "2026-11-20T20:27:04.269565+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -229,6 +229,12 @@
    "url": "https://www.b92.net/info/svet/286791/volodimir-zelenski-reagovao-na-trampovu-izjavu-da-je-vladimir-putin-prijatelj/vest",
    "title": "Zelenski odbrusio Trampu: \"Putin je ubica\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4436967-rusi-poslali-dve-rakete-i-dron-poljska-vojska-i-nato-saveznici-nisu-uspeli-da-ih-obore-ministar-priznao",
+   "title": "Rusi poslali dve rakete i dron, poljska vojska i NATO saveznici nisu uspeli da ih obore: Ministar priznao",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -263,7 +269,8 @@
   "Zelenski, odbrojavanje je počelo!",
   "Tramp: Putin greškom slao bespilotne letelice i \"nekoliko malih raketa\" u Poljsku",
   "Poginuo radnik na gradilištu u Leskovcu",
-  "Zelenski odbrusio Trampu: \"Putin je ubica\""
+  "Zelenski odbrusio Trampu: \"Putin je ubica\"",
+  "Rusi poslali dve rakete i dron, poljska vojska i NATO saveznici nisu uspeli da ih obore: Ministar priznao"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -277,7 +284,7 @@
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-20T19:57:21.636399+00:00",
  "verzija": 7

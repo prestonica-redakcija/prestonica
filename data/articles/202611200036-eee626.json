@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T23:36:31.686264+00:00",
- "updated": "2026-11-20T20:12:12.983346+00:00",
+ "updated": "2026-11-20T20:27:04.269565+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -140,6 +140,18 @@
    "url": "https://www.telegraf.rs/4436960-oglasio-se-ambasador-eu-u-srbiji-nakon-sastanka-sa-aleksandrom-cupicem",
    "title": "Oglasio se ambasador EU u Srbiji nakon sastanka sa Aleksandrom Čupićem",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10168401/dzulijan-vasalo-ugostio-aleksandra-cupica",
+   "title": "AMBASADOR EU U SRBIJI UGOSTIO ALEKSANDRA ČUPIĆA \"Narodna skupština Srbije ima nepokolebljivog saveznika u EU\" (FOTO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/novi-sef-delegacije-eu-u-srbiji-ugostio-cupica/",
+   "title": "Novi šef Delegacije EU u Srbiji ugostio Čupića: \"Narodna skupština ima čvrstog saveznika u Uniji\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -160,7 +172,9 @@
   "(FOTO/VIDEO) Predsednik Skupštine Srbije Aleksandar Čupić, dan posle sednice, čistio i krečio fakultet",
   "Novi dan: Plan Studentske liste za EXPO",
   "Gledajte uživo Dnevnik TV Nova",
-  "Oglasio se ambasador EU u Srbiji nakon sastanka sa Aleksandrom Čupićem"
+  "Oglasio se ambasador EU u Srbiji nakon sastanka sa Aleksandrom Čupićem",
+  "AMBASADOR EU U SRBIJI UGOSTIO ALEKSANDRA ČUPIĆA \"Narodna skupština Srbije ima nepokolebljivog saveznika u EU\" (FOTO)",
+  "Novi šef Delegacije EU u Srbiji ugostio Čupića: \"Narodna skupština ima čvrstog saveznika u Uniji\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -172,7 +186,7 @@
   "local": true,
   "alt": "Čupić: biću predsednik svih poslanika, Studentska lista slavi izbor rukovodstva Skupštine"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-20T20:12:12.983346+00:00",
  "verzija": 4
