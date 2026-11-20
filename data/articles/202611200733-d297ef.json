@@ -35,7 +35,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-20T11:31:01.625476+00:00",
+ "updated": "2026-11-20T12:15:46.806740+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -132,6 +132,12 @@
    "url": "https://www.telegraf.rs/vesti/svet/4436591-u-poljskoj-se-srusile-dve-ruske-krstarece-rakete-i-dron-ovo-je-jos-jedna-provokacija",
    "title": "U Poljskoj se srušile dve ruske krstareće rakete i dron: \"Ovo je još jedna provokacija\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10167833/na-poljsku-pale-dve-ruske-rakete-i-dron",
+   "title": "NOVI DETALJI INCIDENTA U POLJSKOJ! Pale dve ruske rakete i dron, objavljena fotografija (FOTO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -150,7 +156,8 @@
   "Eksplozije u Poljskoj; Pogođeni su; Pale dve ruske rakete i dron VIDEO",
   "Dan nakon Putinove pretnje odmazdom, Rusija pogodila tri mosta u Kijevu: Eksplozija i u Poljskoj, podignuti borbeni avioni (VIDEO)",
   "Zelenski: Rusija lansirala više od 400 dronova i 110 raketa na Ukrajinu, poginulo osmoro",
-  "U Poljskoj se srušile dve ruske krstareće rakete i dron: \"Ovo je još jedna provokacija\""
+  "U Poljskoj se srušile dve ruske krstareće rakete i dron: \"Ovo je još jedna provokacija\"",
+  "NOVI DETALJI INCIDENTA U POLJSKOJ! Pale dve ruske rakete i dron, objavljena fotografija (FOTO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -164,7 +171,7 @@
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-20T11:31:01.625476+00:00",
  "verzija": 4

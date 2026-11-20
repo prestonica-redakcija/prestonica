@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T08:47:00.852620+00:00",
- "updated": "2026-11-20T10:01:42.782858+00:00",
+ "updated": "2026-11-20T12:15:46.806740+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -48,12 +48,19 @@
    "url": "https://insajder.net/prenosimo/lufthansa-planira-ukidanje-oko-1000-radnih-mesta-u-frankfurtu-i-minhenu",
    "title": "Lufthansa planira ukidanje oko 1.000 radnih mesta u Frankfurtu i Minhenu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/286621/lufthansa-planira-ukidanje-oko-1000-radnih-mesta-u-frankfurtu-i-minhenu/vest",
+   "title": "Kriza u poznatoj avio-kompaniji: Ukida oko 1.000 radnih mesta, planiraju i smanjenje plata",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "KRIZA U NEMAČKOJ AVIO KOMPANIJI: Planiraju ukidanje 1.000 radnih mesta",
   "Lufthansa planira ukidanje oko 1.000 radnih mesta u Frankfurtu i Minhenu",
-  "Lufthansa planira ukidanje oko 1.000 radnih mesta u Frankfurtu i Minhenu"
+  "Lufthansa planira ukidanje oko 1.000 radnih mesta u Frankfurtu i Minhenu",
+  "Kriza u poznatoj avio-kompaniji: Ukida oko 1.000 radnih mesta, planiraju i smanjenje plata"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Airbus_A350-941_D-AIXV_Lufthansa_from_Toulouse_(6000_ft.).jpg",
   "alt": "Lufthansa planira ukidanje oko 1.000 radnih mesta u Frankfurtu i Minhenu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

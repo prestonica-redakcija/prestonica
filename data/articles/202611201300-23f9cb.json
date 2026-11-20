@@ -27,17 +27,24 @@
  ],
  "importance": 5,
  "published": "2026-11-20T12:00:57.155901+00:00",
- "updated": "2026-11-20T12:00:57.155901+00:00",
+ "updated": "2026-11-20T12:15:46.806740+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10167831/milos-vucevic-o-iskljucenju-opozicije-u-skupstini",
    "title": "VUČEVIĆ POZVAO PATRIOTE DA SE OKUPE POD JEDAN BARJAK Osvrnuo se na dešavanja u Skupštini Srbije: \"Jučerašnji dan će biti upisan crnim slovima u istoriji\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673093/vucevic-desavanjima-skupstini-rezim-jucerasnji-dan-upisao-crnim-slovima-istoriju-srpskog-parlamentarizma",
+   "title": "VUČEVIĆ O DEŠAVANjIMA U SKUPŠTINI: Režim jučerašnji dan upisao crnim slovima u istoriju srpskog parlamentarizma",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "VUČEVIĆ POZVAO PATRIOTE DA SE OKUPE POD JEDAN BARJAK Osvrnuo se na dešavanja u Skupštini Srbije: \"Jučerašnji dan će biti upisan crnim slovima u istoriji\""
+  "VUČEVIĆ POZVAO PATRIOTE DA SE OKUPE POD JEDAN BARJAK Osvrnuo se na dešavanja u Skupštini Srbije: \"Jučerašnji dan će biti upisan crnim slovima u istoriji\"",
+  "VUČEVIĆ O DEŠAVANjIMA U SKUPŠTINI: Režim jučerašnji dan upisao crnim slovima u istoriju srpskog parlamentarizma"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Milo%C5%A1_Vu%C4%8Devi%C4%87_i_Milan_Mojsilovi%C4%87.jpg",
   "alt": "Vučević: jučerašnji dan u Skupštini biće upisan crnim slovima, poziva na okupljanje"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

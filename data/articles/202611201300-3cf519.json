@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T12:00:57.155901+00:00",
- "updated": "2026-11-20T12:00:57.155901+00:00",
+ "updated": "2026-11-20T12:15:46.806740+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://www.telegraf.rs/4436657-ovo-je-izjava-o-radi-trajkovic-od-pre-4-godine-zbog-koje-je-seselj-danas-isao-u-policiju-na-razgovor",
    "title": "Ovo je izjava o Radi Trajković od pre 4 godine zbog koje je Šešelj danas išao u policiju na razgovor",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/seselj-saslusan-u-svojstvu-gradjanina-zbog-rade-trajkovic/",
+   "title": "Šešelj saslušan u svojstvu građanina zbog izjave da bi Rada Trajković mogla da bude ubijena",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Šešelj saslušan u svojstvu građanina zbog izjave da bi Rada Trajković mogla da bude ubijena",
-  "Ovo je izjava o Radi Trajković od pre 4 godine zbog koje je Šešelj danas išao u policiju na razgovor"
+  "Ovo je izjava o Radi Trajković od pre 4 godine zbog koje je Šešelj danas išao u policiju na razgovor",
+  "Šešelj saslušan u svojstvu građanina zbog izjave da bi Rada Trajković mogla da bude ubijena"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Rada_Trajkovi%C4%87.jpg",
   "alt": "Šešelj dao izjavu u policiji zbog reči o mogućem stradanju Rade Trajković"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

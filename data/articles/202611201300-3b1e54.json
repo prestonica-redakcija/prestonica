@@ -38,17 +38,24 @@
  ],
  "importance": 7,
  "published": "2026-11-20T12:00:57.155901+00:00",
- "updated": "2026-11-20T12:00:57.155901+00:00",
+ "updated": "2026-11-20T12:15:46.806740+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/anem-tajni-nadzor-bia-nad-nasim-clanicama-ozonpressom-i-cemaforumom-trazimo-hitnu-istragu/",
    "title": "ANEM: Tajni nadzor BIA nad našim članicama, Ozonpressom i Cemaforumom, tražimo hitnu istragu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/bia-tajno-nadzirala-pet-novinara/",
+   "title": "ANEM: BIA tajno nadzirala pet novinara i aktivista u Moravičkom okrugu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "ANEM: Tajni nadzor BIA nad našim članicama, Ozonpressom i Cemaforumom, tražimo hitnu istragu"
+  "ANEM: Tajni nadzor BIA nad našim članicama, Ozonpressom i Cemaforumom, tražimo hitnu istragu",
+  "ANEM: BIA tajno nadzirala pet novinara i aktivista u Moravičkom okrugu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Aleksandar_Vulin,_Rasim_Ljajic,_Toma_Fila-mc.rs.jpg",
   "alt": "ANEM traži hitnu istragu o navodnom tajnom nadzoru BIA nad novinarima i aktivistima"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

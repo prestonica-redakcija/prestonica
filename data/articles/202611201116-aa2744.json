@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T10:16:32.399954+00:00",
- "updated": "2026-11-20T10:16:32.399954+00:00",
+ "updated": "2026-11-20T12:15:46.806740+00:00",
  "sources": [
   {
    "name": "N1",
@@ -49,12 +49,19 @@
    "url": "https://www.novosti.rs/vesti/politika/1673032/gazivode-kim-pristina-aljbin-kurti-vikendice-rusenje-najnovije-vesti",
    "title": "KURTI NASTAVLjA SA UDARIMA NA SRBE: Kod Gazivoda srušene još dve vikendice",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/srbi-na-kim/10167652/srusene-jos-dve-vikendica-na-gazivodama",
+   "title": "SRUŠENE JOŠ DVE VIKENDICE NA GAZIVODAMA! Vlasnicima četiri letnjikovca uručeni zahtevi za uklanjanje objekata (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Srušene još dve vikendice na Gazivodama, vlasnicima četiri objekta uručeno rešenje da ih sami uklone",
   "Kosovska policija: Na Gazivodama srušene dve vikendice, a još četiri objekta moraju da se uklone za osam dana",
-  "KURTI NASTAVLjA SA UDARIMA NA SRBE: Kod Gazivoda srušene još dve vikendice"
+  "KURTI NASTAVLjA SA UDARIMA NA SRBE: Kod Gazivoda srušene još dve vikendice",
+  "SRUŠENE JOŠ DVE VIKENDICE NA GAZIVODAMA! Vlasnicima četiri letnjikovca uručeni zahtevi za uklanjanje objekata (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,5 +73,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Jezero_Gazivode.jpg",
   "alt": "Na Gazivodama srušene još dve vikendice, vlasnicima četiri objekta rok od osam dana"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
