@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T07:02:54.044340+00:00",
- "updated": "2026-11-20T07:32:37.259856+00:00",
+ "updated": "2026-11-20T14:14:47.015911+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -52,12 +52,19 @@
    "url": "https://www.b92.net/info/svet/286525/ruska-raketa-pogodila-poljsku/vest",
    "title": "Ruska krstareća raketa pogodila evropsku zemlju; Izdato hitno upozorenje; \"Sklonite se odmah\" VIDEO",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/286632/lagard-pozvala-evropu-da-smanji-tehnolosku-zavisnost-i-ojaca-ekonomsku-samostalnost/vest",
+   "title": "Lagard upozorila Evropu: \"Osamostalite se\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Poljska izdala upozorenje na vazdušnu opasnost, obustavljeni letovi u Žešovu",
   "Evropska zemlja izdala hitno upozorenje na opasnost od napada; Stanovnicima rečeno: \"Tražite sklonište\"",
-  "Ruska krstareća raketa pogodila evropsku zemlju; Izdato hitno upozorenje; \"Sklonite se odmah\" VIDEO"
+  "Ruska krstareća raketa pogodila evropsku zemlju; Izdato hitno upozorenje; \"Sklonite se odmah\" VIDEO",
+  "Lagard upozorila Evropu: \"Osamostalite se\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +77,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:%C5%BDe%C5%A1ov,_kostel_(4).jpg",
   "alt": "Poljska upozorila na opasnost od vazdušnog napada u dva vojvodstva, obustavljeni letovi u Žešovu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
