@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T13:45:20.968361+00:00",
- "updated": "2026-11-20T15:14:23.783204+00:00",
+ "updated": "2026-11-20T15:59:02.730825+00:00",
  "sources": [
   {
    "name": "N1",
@@ -52,12 +52,19 @@
    "url": "https://nova.rs/vesti/hronika/vucic-suprotno-misljenju-suda-pomilovao-osudjenog-za-smrt-dvojice-radnika-u-lucanima/",
    "title": "Vučić suprotno mišljenju suda pomilovao osuđenog za smrt dvojice radnika u Lučanima",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/birn-vucic-suprotno-misljenju-suda-pomilovao-osudenog-za-smrt-dvojice-radnika-u-lucanima",
+   "title": "BIRN: Vučić suprotno mišljenju suda pomilovao osuđenog za smrt dvojice radnika u Lučanima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "BIRN: Vučić suprotno mišljenju suda pomilovao osuđenog za smrt radnika MB Namenske u Lučanima",
   "BIRN: Vučić suprotno mišljenju suda pomilovao osuđenog za smrt dvojice radnika u Lučanima",
-  "Vučić suprotno mišljenju suda pomilovao osuđenog za smrt dvojice radnika u Lučanima"
+  "Vučić suprotno mišljenju suda pomilovao osuđenog za smrt dvojice radnika u Lučanima",
+  "BIRN: Vučić suprotno mišljenju suda pomilovao osuđenog za smrt dvojice radnika u Lučanima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +77,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Vi%C4%8Da,_Lu%C4%8Dani.jpg",
   "alt": "BIRN: Vučić pomilovao osuđenog za smrt radnika u Lučanima uprkos mišljenju suda"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

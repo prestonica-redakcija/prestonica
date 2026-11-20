@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T14:29:45.124535+00:00",
- "updated": "2026-11-20T14:29:45.124535+00:00",
+ "updated": "2026-11-20T15:59:02.730825+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -40,11 +40,18 @@
    "url": "https://insajder.net/drustvo/izvestaj-dri-vise-od-15-milijardi-dinara-za-subvencije-a-elektricna-vozila-cine-manje-od-03-odsto-voznog-parka-u-srbiji",
    "title": "Izveštaj DRI: Više od 1,5 milijardi dinara za subvencije, a električna vozila čine manje od 0,3 odsto voznog parka u Srbiji",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/dri-elektricna-vozila-cine-03-odsto-voznog-parka-a-za-subvencije-utroseno-15-milijardi-dinara/",
+   "title": "DRI: Električna vozila čine 0,3 odsto voznog parka, a za subvencije utrošeno 1,5 milijardi dinara",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "DRI: Električna vozila čine manje od 0,3 odsto voznog parka, subvencije preko 1,5 milijarde dinara",
-  "Izveštaj DRI: Više od 1,5 milijardi dinara za subvencije, a električna vozila čine manje od 0,3 odsto voznog parka u Srbiji"
+  "Izveštaj DRI: Više od 1,5 milijardi dinara za subvencije, a električna vozila čine manje od 0,3 odsto voznog parka u Srbiji",
+  "DRI: Električna vozila čine 0,3 odsto voznog parka, a za subvencije utrošeno 1,5 milijardi dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "DRI: za subvencije za električna vozila izdvojeno preko 1,5 milijardi dinara, a efekti se ne prate"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

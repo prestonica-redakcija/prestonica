@@ -31,17 +31,24 @@
  ],
  "importance": 4,
  "published": "2026-11-20T15:14:23.783204+00:00",
- "updated": "2026-11-20T15:14:23.783204+00:00",
+ "updated": "2026-11-20T15:59:02.730825+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/biznis/vucicevic-vise-nije-suvlasnik-firme-best-media-team-preneo-svoj-udeo-na-vlasnika-tabloida-alo-sasu-blagojevica/",
    "title": "Vučićević više nije suvlasnik firme Best Media Team: Preneo svoj udeo na vlasnika tabloida Alo Sašu Blagojevića",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/vucicevic-vise-nije-suvlasnik-firme-koja-je-kupila-10-lokalnih-televizija-svoj-udeo-preneo-za-10000-dinara/",
+   "title": "Vučićević više nije suvlasnik firme koja je kupila 10 lokalnih televizija, svoj udeo preneo za 10.000 dinara",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Vučićević više nije suvlasnik firme Best Media Team: Preneo svoj udeo na vlasnika tabloida Alo Sašu Blagojevića"
+  "Vučićević više nije suvlasnik firme Best Media Team: Preneo svoj udeo na vlasnika tabloida Alo Sašu Blagojevića",
+  "Vučićević više nije suvlasnik firme koja je kupila 10 lokalnih televizija, svoj udeo preneo za 10.000 dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučićević prenuo udeo u firmi Best Media Team na Sašu Blagojevića za 10.000 dinara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

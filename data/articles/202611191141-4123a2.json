@@ -36,7 +36,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T10:41:57.187938+00:00",
- "updated": "2026-11-20T10:46:29.454937+00:00",
+ "updated": "2026-11-20T15:59:02.730825+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -55,12 +55,19 @@
    "url": "https://www.danas.rs/dijalog/pisma-citalaca/jovo-bakic-osvezenje-u-skupstinskim-klupama/",
    "title": "Jovo Bakić – osveženje u skupštinskim klupama",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Srbin.info",
+   "url": "https://www.youtube.com/watch?v=qO6S_6dkI98",
+   "title": "Skupština: Istorijski govor Jove Bakića! Objasnio zašto su Vučić i naprednjaci janjičari!",
+   "spektar": "desnica"
   }
  ],
  "source_titles": [
   "BLOG UŽIVO \"Hoćete li utišati ove besprizornike? Nećete? Onda ću ja glasnije govoriti\": Jovo Bakić \"preslišava\" naprednjake u Skupštini",
   "Čanak priznao: Vučić će od Jove Bakića napraviti budalu (VIDEO)",
-  "Jovo Bakić – osveženje u skupštinskim klupama"
+  "Jovo Bakić – osveženje u skupštinskim klupama",
+  "Skupština: Istorijski govor Jove Bakića! Objasnio zašto su Vučić i naprednjaci janjičari!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Nenad_%C4%8Canak.jpg",
   "alt": "Treći dan konstitutivne sednice: Bakić o tabloidima, Čanak o Vučiću kao debateru"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
