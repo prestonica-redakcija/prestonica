@@ -35,7 +35,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T19:57:21.636399+00:00",
- "updated": "2026-11-20T19:57:21.636399+00:00",
+ "updated": "2026-11-20T22:11:24.790366+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,10 +48,17 @@
    "url": "https://www.danas.rs/svet/mamdani-predstavio-plan-zatvaranja-zloglasnog-njujorskog-zatvora-na-rajkerovom-ostrvu-do-2032/",
    "title": "Mamdani predstavio plan zatvaranja zloglasnog njujorškog zatvora na Rajkerovom ostrvu do 2032.",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/mamdani-plan-zatvaranja-njujorskog-zatvora-rajkerovom-ostrvu-do-2032/",
+   "title": "Mamdani predstavio plan zatvaranja zloglasnog njujorškog zatvora na Rajkerovom ostrvu do 2032.",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Mamdani predstavio plan za zatvaranje zatvora na ostrvu Rajkers",
+  "Mamdani predstavio plan zatvaranja zloglasnog njujorškog zatvora na Rajkerovom ostrvu do 2032.",
   "Mamdani predstavio plan zatvaranja zloglasnog njujorškog zatvora na Rajkerovom ostrvu do 2032."
  ],
  "author": "Redakcija Prestonice",
@@ -64,5 +71,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Rama_Duwaji_and_Zohran_Mamdani_at_Knicks_Championship_Ceremony.jpg",
   "alt": "Mamdani predstavio plan zatvaranja Rajkersa, rok pomeren na 2032. godinu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
