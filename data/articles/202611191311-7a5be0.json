@@ -24,17 +24,24 @@
  "places": [],
  "importance": 4,
  "published": "2026-11-19T12:11:22.520849+00:00",
- "updated": "2026-11-19T12:11:22.520849+00:00",
+ "updated": "2026-11-20T10:46:29.454937+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/techvision/vesti/10166754/anthropic-postavlja-rekord-sa-ipo-om-od-81-3-milijarde-dolara",
    "title": "Anthropic oborio sve rekorde: IPO vredan 107 milijardi dolara, kompanija procenjena na 1,5 biliona",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/286363/imovina-100-najbogatijih-slovenaca-dostigla-rekordnih-1253-milijardi-evra/vest",
+   "title": "Najbogatiji Slovenci oborili rekord",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Anthropic oborio sve rekorde: IPO vredan 107 milijardi dolara, kompanija procenjena na 1,5 biliona"
+  "Anthropic oborio sve rekorde: IPO vredan 107 milijardi dolara, kompanija procenjena na 1,5 biliona",
+  "Najbogatiji Slovenci oborili rekord"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Nasdaq_Tower_May_2026.jpg",
   "alt": "Anthropic prikupio 81,3 milijarde dolara na IPO-u, najveća javna ponuda u istoriji"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
