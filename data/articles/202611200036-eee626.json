@@ -32,17 +32,38 @@
  ],
  "importance": 6,
  "published": "2026-11-19T23:36:31.686264+00:00",
- "updated": "2026-11-19T23:36:31.686264+00:00",
+ "updated": "2026-11-20T09:17:09.352450+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10167440/konferencija-studentske-liste",
    "title": "ISTORIJSKI DAN \"Jedna od najznačajnijih institucija od danas je predvođena ljudima sa Studentske liste\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/cupic-predsednicki-izbori-bice-raspisani-u-narednih-nekoliko-dana/",
+   "title": "Čupić: Predsednički izbori biće raspisani u narednih nekoliko dana",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/cupic-raspisacu-predsednicke-izbore-u-narednih-nekoliko-dana/",
+   "title": "Čupić: Raspisaću predsedničke izbore u narednih nekoliko dana",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/cupic-predsednicke-izbore-raspisacu-za-nekoliko-dana/",
+   "title": "Čupić: Predsedničke izbore raspisaću u narednih nekoliko dana",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "ISTORIJSKI DAN \"Jedna od najznačajnijih institucija od danas je predvođena ljudima sa Studentske liste\""
+  "ISTORIJSKI DAN \"Jedna od najznačajnijih institucija od danas je predvođena ljudima sa Studentske liste\"",
+  "Čupić: Predsednički izbori biće raspisani u narednih nekoliko dana",
+  "Čupić: Raspisaću predsedničke izbore u narednih nekoliko dana",
+  "Čupić: Predsedničke izbore raspisaću u narednih nekoliko dana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +74,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Čupić: biću predsednik svih poslanika, Studentska lista slavi izbor rukovodstva Skupštine"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

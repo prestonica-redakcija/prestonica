@@ -28,17 +28,24 @@
  ],
  "importance": 3,
  "published": "2026-11-20T08:02:26.603888+00:00",
- "updated": "2026-11-20T08:02:26.603888+00:00",
+ "updated": "2026-11-20T09:17:09.352450+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/techvision/vesti/10167520/gotovo-svi-zaposleni-postali-milioneri-berzanski-debi-ai-kompanije-anthropic-stvorio-5-100-novih-mi",
    "title": "Skoro svi zaposleni u ovoj kompaniji postali su milioneri preko noći: Ni Amerika ovo ne pamti!",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/286574/svi-zaposleni-u-antropiku-postali-milioneri/vest",
+   "title": "Svi zaposleni u Antropiku postali milioneri",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Skoro svi zaposleni u ovoj kompaniji postali su milioneri preko noći: Ni Amerika ovo ne pamti!"
+  "Skoro svi zaposleni u ovoj kompaniji postali su milioneri preko noći: Ni Amerika ovo ne pamti!",
+  "Svi zaposleni u Antropiku postali milioneri"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:CreditRich_Nasdaq_Tower_NYC.jpg",
   "alt": "Anthropic na berzi: oko 5.100 od 5.300 zaposlenih ima udele vredne preko milion dolara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -26,7 +26,7 @@
  ],
  "importance": 5,
  "published": "2026-11-19T10:56:49.993173+00:00",
- "updated": "2026-11-19T10:56:49.993173+00:00",
+ "updated": "2026-11-20T09:17:09.352450+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -39,11 +39,18 @@
    "url": "https://biznis.telegraf.rs/info-biz/4435866-akcije-ove-srpske-kompanije-iskljucene-sa-open-marketa-beogradske-berze",
    "title": "Akcije ove srpske kompanije isključene sa Open marketa Beogradske berze",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/beogradska-berza-iskljucila-akcije-energoprojekt-holdinga-sa-trzista/",
+   "title": "Beogradska berza isključila akcije Energoprojekt holdinga sa tržišta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Akcije Energoprojekt Holdinga isključene sa Open marketa Beogradske berze",
-  "Akcije ove srpske kompanije isključene sa Open marketa Beogradske berze"
+  "Akcije ove srpske kompanije isključene sa Open marketa Beogradske berze",
+  "Beogradska berza isključila akcije Energoprojekt holdinga sa tržišta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Visit_of_Barry_Lynn,_Executive_Director_of_the_Open_Market_Institute_,_to_the_European_Commission_(P-066151-00-01).jpg",
   "alt": "Akcije Energoprojekt Holdinga isključene sa Open marketa Beogradske berze"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
