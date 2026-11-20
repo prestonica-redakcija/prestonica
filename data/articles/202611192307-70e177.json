@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-19T22:07:04.252500+00:00",
- "updated": "2026-11-20T12:00:57.155901+00:00",
+ "updated": "2026-11-20T13:45:20.968361+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -40,11 +40,18 @@
    "url": "https://www.telegraf.rs/4436472-ko-je-adem-mavric-potredsednik-u-narodnoj-skupstini",
    "title": "Ko je Adem Mavrić, potredsednik u Narodnoj skupštini",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673129/cao-vlado--secas-hit-scena-narodne-skupstine-video",
+   "title": "\"ĆAO VLADO, JE L' ME SE SEĆAŠ\" Hit scena iz Narodne skupštine (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "HIT SCENA U SKUPŠTINI TOKOM GLASANJA ZA POTPREDSEDNIKE: Usame Zukorlić ustao, izgovorio OVO i dobio gromoglasan aplauz",
-  "Ko je Adem Mavrić, potredsednik u Narodnoj skupštini"
+  "Ko je Adem Mavrić, potredsednik u Narodnoj skupštini",
+  "\"ĆAO VLADO, JE L' ME SE SEĆAŠ\" Hit scena iz Narodne skupštine (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,6 +63,6 @@
   "local": true,
   "alt": "Zukorlić na glasanju za potpredsednike Skupštine podržao samo Adema Mavrića"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

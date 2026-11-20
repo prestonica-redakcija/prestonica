@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T13:30:11.562829+00:00",
- "updated": "2026-11-20T13:30:11.562829+00:00",
+ "updated": "2026-11-20T13:45:20.968361+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -39,11 +39,25 @@
    "url": "https://insajder.net/prenosimo/janaf-ponovo-pokrenuo-isporuku-nafte-do-rafinerije-u-pancevu",
    "title": "JANAF ponovo pokrenuo isporuku nafte do rafinerije u Pančevu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/299462/janaf-ponovo-pokrenuo-isporuku-nafte-do-rafinerije-u-pancevu/vest",
+   "title": "JANAF ponovo pokrenuo isporuku nafte do rafinerije u Pančevu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/janaf-nastavio-isporuku-nafte-nis-u/",
+   "title": "JANAF nastavio isporuku nafte NIS-u",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "JANAF ponovo pokrenuo isporuku nafte do rafinerije u Pančevu",
-  "JANAF ponovo pokrenuo isporuku nafte do rafinerije u Pančevu"
+  "JANAF ponovo pokrenuo isporuku nafte do rafinerije u Pančevu",
+  "JANAF ponovo pokrenuo isporuku nafte do rafinerije u Pančevu",
+  "JANAF nastavio isporuku nafte NIS-u"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +68,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "JANAF nastavio redovnu isporuku nafte za rafineriju u Pančevu"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -31,7 +31,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T13:15:18.596243+00:00",
- "updated": "2026-11-20T13:15:18.596243+00:00",
+ "updated": "2026-11-20T13:45:20.968361+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://www.danas.rs/vesti/politika/n1-cupic-ce-predstavljati-srbiju-na-samitu-eu-i-zapadnog-balkana-u-briselu/",
    "title": "N1: Čupić će predstavljati Srbiju na samitu EU i Zapadnog Balkana u Briselu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/cupic-ce-predstavljati-srbiju-na-samitu-eu-i-zapadnog-balkana-u-briselu/",
+   "title": "Čupić će predstavljati Srbiju na samitu EU i Zapadnog Balkana u Briselu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "N1 saznaje: Čupić će predstavljati Srbiju na samitu EU i Zapadnog Balkana u Briselu",
-  "N1: Čupić će predstavljati Srbiju na samitu EU i Zapadnog Balkana u Briselu"
+  "N1: Čupić će predstavljati Srbiju na samitu EU i Zapadnog Balkana u Briselu",
+  "Čupić će predstavljati Srbiju na samitu EU i Zapadnog Balkana u Briselu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Antonio_Costa_Portrait_2024_(cropped).jpg",
   "osoba": "Antonio Košta",
   "alt": "Čupić navodno predstavlja Srbiju na samitu EU i Zapadnog Balkana u Briselu 25. novembra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
