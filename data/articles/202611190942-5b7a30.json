@@ -26,17 +26,24 @@
  ],
  "importance": 6,
  "published": "2026-11-19T08:42:57.783545+00:00",
- "updated": "2026-11-19T08:42:57.783545+00:00",
+ "updated": "2026-11-20T18:13:05.140247+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/biznis/biznis-vesti/252730/evropska-komisija-rast-srbije-33-odsto-u-2026-godini/vest",
    "title": "Rast srpske privrede ubrzan na 3,3 odsto u 2026. godini: Kakve su prognoze Evropske komisije za naredne dve godine",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/sport/sport-ostalo/kakva-je-sudbina-srpskog-rukometa/",
+   "title": "Kakva je sudbina srpskog rukometa?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Rast srpske privrede ubrzan na 3,3 odsto u 2026. godini: Kakve su prognoze Evropske komisije za naredne dve godine"
+  "Rast srpske privrede ubrzan na 3,3 odsto u 2026. godini: Kakve su prognoze Evropske komisije za naredne dve godine",
+  "Kakva je sudbina srpskog rukometa?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Evropska komisija predviđa rast privrede Srbije od 3,3 odsto u 2026. godini"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

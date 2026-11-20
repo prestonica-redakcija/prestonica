@@ -1,0 +1,53 @@
+{
+ "id": "202611201913-e4c60c",
+ "slug": "evropska-komisija-potvrdila-sajber-napad-uz-upotrebu-ai-alata-istraga",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Evropska komisija potvrdila sajber-napad uz upotrebu AI alata, istraga još traje",
+ "lead": "Evropska komisija potvrdila je 19. novembra da je bila meta sajber-kampanje u kojoj su korišćeni alati veštačke inteligencije, a incident je otkriven još 22. oktobra. Kako prenosi Kurir, za sada nema potvrde da su podaci ukradeni, niti se zna ko stoji iza napada.",
+ "body": [
+  "Nakon otkrivanja incidenta nadležne službe Komisije preduzele su zaštitne mere i privremeno isključile nekoliko internih aplikacija. Većina sistema je u međuvremenu ponovo pokrenuta, ali pojedini servisi nisu bili dostupni u trenutku objavljivanja informacija o napadu, navodi Kurir.",
+  "Portparol Komisije Tomas Renije potvrdio je da je istraga u toku, ali nije rekao ko je organizovao napad niti šta mu je bio cilj. Komisija je saopštila da dosadašnja istraga nije pronašla dokaze o curenju podataka koje bi pogodilo zaposlene u celini, uz ocenu da je još rano za konačnu procenu razmera incidenta. Takođe je navela da nema saznanja o zahtevu za otkupninu.",
+  "Prema informacijama Politica, koje prenosi Kurir, pogođeni su interni sistemi za svakodnevne administrativne poslove: obračun plata, zahtevi za odsustvo, evidencija radnog vremena, refundacija zdravstvenih troškova i alati za prevođenje. Problemi su, prema tim navodima, trajali duže od deset dana. Komisija nije potvrdila da su napadači pristupili ličnim podacima zaposlenih.",
+  "Politico navodi i da je evropski tim za odgovor na računarske incidente CERT-EU identifikovao upotrebu alata ARTEX, javno dostupnog softvera zasnovanog na veštačkoj inteligenciji, namenjenog bezbednosnom testiranju sistema. Kurir ističe da Komisija nije javno imenovala ARTEX kao alat korišćen u ovom napadu niti je objasnila kako su napadači pristupili njenoj mreži.",
+  "Američki FBI je, prema istom izvoru, nedavno upozorio da kriminalci i grupe povezane sa državama zloupotrebljavaju ARTEX i da je u pojedinim napadima automatizacija omogućila prelazak od početnog pristupa do naloga sa visokim privilegijama za manje od tri sata. Reč je o opštem upozorenju, a ne o potvrdi povezanosti sa napadom na Komisiju, uprkos naslovu originalnog teksta u Kurir-u. CERT-EU upozorava da ovakvi alati mogu povećati broj i brzinu napada.",
+  "Komisija nije objasnila zašto javnost nije ranije obaveštena o incidentu, uz obrazloženje da bi objavljivanje detalja o bezbednosnim merama moglo ugroziti njihovu efikasnost. Stručnjaci preporučuju redovno ažuriranje sistema, zaštitu administrativnih interfejsa, višefaktorsku autentifikaciju i praćenje naloga sa visokim privilegijama."
+ ],
+ "tags": [
+  "Evropska komisija",
+  "sajber-napad",
+  "veštačka inteligencija",
+  "ARTEX",
+  "CERT-EU",
+  "FBI"
+ ],
+ "people": [
+  "Tomas Renije"
+ ],
+ "places": [],
+ "importance": 4,
+ "published": "2026-11-20T18:13:05.140247+00:00",
+ "updated": "2026-11-20T18:13:05.140247+00:00",
+ "sources": [
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10168147/sajber-napad-na-evropsku-komisiju-uz-ai-alat-artex",
+   "title": "Hakeri prodrli u sisteme Evropske komisije: FBI potvrdio na zloupotrebu AI alata na interne servise",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Hakeri prodrli u sisteme Evropske komisije: FBI potvrdio na zloupotrebu AI alata na interne servise"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.688,
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Zl%C3%ADn%2C_Artex_JM_%E2%80%93_centrum_koupelen.jpg/1920px-Zl%C3%ADn%2C_Artex_JM_%E2%80%93_centrum_koupelen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Wikimedia Commons / Palickap / CC BY 4.0",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:Zl%C3%ADn,_Artex_JM_%E2%80%93_centrum_koupelen.jpg",
+  "alt": "Evropska komisija potvrdila sajber-napad uz upotrebu AI alata, istraga još traje"
+ }
+}

@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-19T09:12:47.015713+00:00",
- "updated": "2026-11-19T13:10:56.804851+00:00",
+ "updated": "2026-11-20T18:13:05.140247+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,18 @@
    "url": "https://n1info.rs/video/novi-dan/press-cemalovic-dobili-smo-radikalski-cirkus-u-skupstini/",
    "title": "(PRESS) Ćemalović: Dobili smo “radikalski cirkus” u Skupštini",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/kolumna/marko-vidojkovic/nenormalno-ponasanje-u-skupstini/",
+   "title": "Nenormalno ponašanje u skupštini",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Ćemalović: Dobili smo “radikalski cirkus” u Skupštini - ispod njega su kupovina vremena i borba za dobijanje medijskog prostora",
-  "(PRESS) Ćemalović: Dobili smo “radikalski cirkus” u Skupštini"
+  "(PRESS) Ćemalović: Dobili smo “radikalski cirkus” u Skupštini",
+  "Nenormalno ponašanje u skupštini"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata_2.jpg",
   "alt": "Ćemalović na N1: ponašanje u Skupštini je kupovina vremena, Poslovnik treba menjati"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
