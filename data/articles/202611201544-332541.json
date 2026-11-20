@@ -31,17 +31,24 @@
  ],
  "importance": 6,
  "published": "2026-11-20T14:44:40.690492+00:00",
- "updated": "2026-11-20T14:44:40.690492+00:00",
+ "updated": "2026-11-20T16:13:56.213312+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/politika/molim-vas-da-ne-prilazite-vrlo-sam-bio-strpljiv-pogledajte-trenutak-kad-su-brnabic-i-jovanov-prisli-stolu-aleksandra-cupica-video/",
    "title": "\"Molim vas da ne prilazite, vrlo sam bio strpljiv\": Pogledajte trenutak kad su Brnabić i Jovanov prišli stolu Aleksandra Čupića VIDEO",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/nemojte-da-me-opominjete-ko-boga-vas-molim-kako-je-aleksandar-cupic-disciplinovao-vucica-u-skupstini-video/",
+   "title": "\"Nemojte da me opominjete ko Boga vas molim\": Kako je Aleksandar Čupić \"disciplinovao\" Vučića u Skupštini VIDEO",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "\"Molim vas da ne prilazite, vrlo sam bio strpljiv\": Pogledajte trenutak kad su Brnabić i Jovanov prišli stolu Aleksandra Čupića VIDEO"
+  "\"Molim vas da ne prilazite, vrlo sam bio strpljiv\": Pogledajte trenutak kad su Brnabić i Jovanov prišli stolu Aleksandra Čupića VIDEO",
+  "\"Nemojte da me opominjete ko Boga vas molim\": Kako je Aleksandar Čupić \"disciplinovao\" Vučića u Skupštini VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Belgrade_Pride_2019_-_Many_pride_participants_are_disappointed_with_Ana_Brnabi%C4%87.jpg",
   "alt": "Čupić izrekao opomene poslanicima SNS koji su prišli predsedavajućem u Skupštini"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

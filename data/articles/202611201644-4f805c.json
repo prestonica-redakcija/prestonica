@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T15:44:08.662564+00:00",
- "updated": "2026-11-20T15:59:02.730825+00:00",
+ "updated": "2026-11-20T16:13:56.213312+00:00",
  "sources": [
   {
    "name": "N1",
@@ -53,12 +53,19 @@
    "url": "https://aero.telegraf.rs/vojna-avijacija/4436829-bio-je-nas-ponos-nasa-cast-i-nasa-snaga-kolege-se-oprostile-od-majora-gorana-bulajica",
    "title": "Bio je naš ponos, naša čast i naša snaga: Kolege se oprostile od majora Gorana Bulajića",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/299523/komemoracija-majoru-goranu-bulajicu-odrzana-u-domu-vazduhoplovstva-u-zemunu/vest",
+   "title": "Komemoracija majoru Goranu Bulajiću održana u Domu vazduhoplovstva u Zemunu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Komemoracija majoru Goranu Bulajiću: Bio je naš ponos, naša čast i naša snaga",
   "Komemoracija majoru Goranu Bulajiću održana u Domu vazduhoplovstva u Zemunu",
-  "Bio je naš ponos, naša čast i naša snaga: Kolege se oprostile od majora Gorana Bulajića"
+  "Bio je naš ponos, naša čast i naša snaga: Kolege se oprostile od majora Gorana Bulajića",
+  "Komemoracija majoru Goranu Bulajiću održana u Domu vazduhoplovstva u Zemunu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Samuel_of_Bulgaria_Remains_Transfer_-_Aerial_Display_-_MiG-29_-_02.jpg",
   "alt": "Komemoracija majoru Goranu Bulajiću, pilotu stradalom u padu MiG-a 29"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
