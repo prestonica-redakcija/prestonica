@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-19T08:13:12.764108+00:00",
- "updated": "2026-11-19T09:27:37.018336+00:00",
+ "updated": "2026-11-20T20:12:12.983346+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -45,12 +45,19 @@
    "url": "https://insajder.net/prenosimo/udruzenje-da-se-zna-pozvalo-novu-parlamentarnu-vecinu-da-medu-prioritete-uvrsti-zakon-o-istopolnim-zajednicama",
    "title": "Udruženje Da se zna! pozvalo novu parlamentarnu većinu da među prioritete uvrsti Zakon o istopolnim zajednicama",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/nova-ko-je-sve-u-rukovodstvu-srpskog-parlamenta/",
+   "title": "„Nova“: Ko je sve u rukovodstvu srpskog parlamenta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Udruženje Da se zna! pozvalo Studensku listu da donese Zakon o istopolnim zajednicama",
   "Udruženje Da se zna: Zakon o istopolnim zajednicama uvrstiti među prioritete",
-  "Udruženje Da se zna! pozvalo novu parlamentarnu većinu da među prioritete uvrsti Zakon o istopolnim zajednicama"
+  "Udruženje Da se zna! pozvalo novu parlamentarnu većinu da među prioritete uvrsti Zakon o istopolnim zajednicama",
+  "„Nova“: Ko je sve u rukovodstvu srpskog parlamenta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +70,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Dragoslava_Barzut_-_Da_se_zna!.jpg",
   "alt": "Da se zna traži od nove većine zakon o istopolnim zajednicama u prvih šest meseci"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

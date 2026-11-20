@@ -29,7 +29,7 @@
  ],
  "importance": 7,
  "published": "2026-11-19T09:27:37.018336+00:00",
- "updated": "2026-11-20T17:58:15.400453+00:00",
+ "updated": "2026-11-20T20:12:12.983346+00:00",
  "sources": [
   {
    "name": "N1",
@@ -90,6 +90,12 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4436869-pljuskovi-sa-grmljavinom-veceras-ocekuju-ove-delove-srbije-evo-i-do-kada-otkrivamo-gde-ce-najvise-pljustati",
    "title": "Pljuskovi sa grmljavinom večeras očekuju OVE delove Srbije, EVO i do kada: Otkrivamo gde će najviše pljuštati",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286794/dronovi-ponovo-usli-u-vazdusni-prostor-moldavije/vest",
+   "title": "Ponovo su na udaru dronova; Dva upada za samo 24 sata FOTO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -102,7 +108,8 @@
   "Stižu pljuskovi sa grmljavinom: Ovi predeli Srbije biće prvi na udaru i to već uskoro! Najnovija prognoza!",
   "Kratkotrajni prestanak padavina u Beogradu, pa stiže nova grmljavinska oluja: Evo kada ponovo stižu pljuskovi",
   "Jako nevreme pogodilo Beograd; U prestonici pljušti i grmi; Hitno upozorenje: \"U naredna dva sata...\" VIDEO",
-  "Pljuskovi sa grmljavinom večeras očekuju OVE delove Srbije, EVO i do kada: Otkrivamo gde će najviše pljuštati"
+  "Pljuskovi sa grmljavinom večeras očekuju OVE delove Srbije, EVO i do kada: Otkrivamo gde će najviše pljuštati",
+  "Ponovo su na udaru dronova; Dva upada za samo 24 sata FOTO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -115,7 +122,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Jeep_Renegade_-_Sektor_za_vanredne_situacije_MUPa_Srbije.jpg",
   "alt": "Upozorenje na jaku oluju: udari vetra do 110 km/h u Vojvodini, zapadnoj Srbiji i Beogradu"
  },
- "novo_od_pisanja": 5,
+ "novo_od_pisanja": 6,
  "boost": 1.6,
  "prepisano": "2026-11-19T13:25:55.933564+00:00",
  "verzija": 2
