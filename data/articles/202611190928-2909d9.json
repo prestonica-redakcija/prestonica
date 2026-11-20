@@ -24,7 +24,7 @@
  ],
  "importance": 3,
  "published": "2026-11-19T08:28:06.592224+00:00",
- "updated": "2026-11-19T08:28:06.592224+00:00",
+ "updated": "2026-11-20T06:18:15.014670+00:00",
  "sources": [
   {
    "name": "N1",
@@ -37,11 +37,25 @@
    "url": "https://www.danas.rs/vesti/drustvo/putevi-srbije-oprez-zbog-magle/",
    "title": "Putevi Srbije: Oprez zbog magle",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/299323/putevi-srbije-najoptereceniji-putni-pravci-prohodni-i-bez-snega-moguca-magla/vest",
+   "title": "Putevi Srbije: Najopterećeniji putni pravci prohodni i bez snega, moguća magla",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4436390-putevi-srbije-najoptereceniji-putni-pravci-prohodni-i-bez-snega-moguca-magla",
+   "title": "Putevi su prohodni, ali magla i odroni traže oprez na više deonica u Srbiji",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Putevi Srbije: Putevi prohodni i nema snega, oprez zbog magle",
-  "Putevi Srbije: Oprez zbog magle"
+  "Putevi Srbije: Oprez zbog magle",
+  "Putevi Srbije: Najopterećeniji putni pravci prohodni i bez snega, moguća magla",
+  "Putevi su prohodni, ali magla i odroni traže oprez na više deonica u Srbiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Putevi u Srbiji prohodni i bez snega, vozače upozoravaju na maglu"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
