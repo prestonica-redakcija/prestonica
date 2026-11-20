@@ -34,17 +34,24 @@
  ],
  "importance": 5,
  "published": "2026-11-20T20:27:04.269565+00:00",
- "updated": "2026-11-20T20:27:04.269565+00:00",
+ "updated": "2026-11-20T22:41:17.921529+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/svet/da-li-je-putin-prijatelj-amerike-tramp-izbegao-direktan-odgovor/",
    "title": "Da li je Putin prijatelj Amerike? Tramp izbegao direktan odgovor",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/tramp-brani-to-sto-naziva-putina-prijateljem/",
+   "title": "Tramp brani to što naziva Putina prijateljem",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Da li je Putin prijatelj Amerike? Tramp izbegao direktan odgovor"
+  "Da li je Putin prijatelj Amerike? Tramp izbegao direktan odgovor",
+  "Tramp brani to što naziva Putina prijateljem"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_taking_the_Presidential_Oath,_7_May_2000.jpg",
   "alt": "Tramp o Putinu: lični odnos je dobar, ali ne može da govori u ime Amerike"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
