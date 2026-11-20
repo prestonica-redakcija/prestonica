@@ -1,0 +1,55 @@
+{
+ "id": "202611201828-70fa8f",
+ "slug": "americki-istrazivaci-razvili-mini-robota-za-pregled-cevi-sa",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Američki istraživači razvili mini robota za pregled cevi sa radioaktivnim otpadom",
+ "lead": "Istraživači iz nacionalne laboratorije Sandia razvili su malog robota SPIINE, namenjenog pregledu uskih cevi u kompleksu Hanford u američkoj državi Vašington. Uređaj još nije testiran u stvarnim uslovima na toj lokaciji, navodi Kurir.",
+ "body": [
+  "Kako prenosi Kurir, robot je dugačak 15,2 centimetra i širok oko 5,1 centimetar, pa može da prolazi kroz cevi prečnika od samo pet centimetara. Ima fleksibilno telo, prilagodljive točkove i kameru visoke rezolucije sa podesivim LED osvetljenjem. Za razliku od klasičnih kamera koje se guraju kroz cev, može sam da se kreće i prilagođava obliku prolaza.",
+  "Kompleks Hanford izgrađen je 1943. godine u okviru projekta Menhetn i u njemu se nalazio prvi industrijski reaktor za proizvodnju plutonijuma. Danas nije u proizvodnji, ali su na lokaciji ostale velike količine radioaktivnog otpada u podzemnim rezervoarima povezanim mrežom cevi. Te cevi su stare više decenija, prolaze stotinama metara pod zemljom i imaju brojne spojeve i krivine.",
+  "Prema navodima Kurira, iskopavanje cevi radi pregleda bilo bi skupo i nepraktično, a dosadašnji uređaji mogli su da pređu tek nekoliko metara i nisu savladavali oštre krivine od 90 stepeni. Projekat vodi mašinski inženjer Stiv Burger, a robotom se upravlja standardnim kontrolerom za video-igre. Konstrukcija omogućava i nošenje ultrazvučnih ili elektromagnetnih sondi za merenje debljine zidova cevi, čime bi se otkrivala korozija i oštećenja nevidljiva kameri.",
+  "Za kretanje na velikim udaljenostima robot koristi kabl koji prenosi energiju i podatke. Tim je razvio mogućnost da se duž istog kabla poveže više robota ili pogonskih modula, kako bi se smanjio otpor pri prolasku kroz mnogo krivina. Laboratorijske probe bile su uspešne, ali rad u pravoj mreži cevi mogao bi da otkrije nove prepreke.",
+  "Pre redovne upotrebe istraživači treba da reše još nekoliko problema, među kojima su čišćenje sočiva od taloga i mulja i sigurnosni mehanizam za slučaj da se robot zaglavi ili prestane da radi. Razmatraju i izradu minijaturnih ultrazvučnih senzora koji bi mogli da prođu kroz oštre krivine."
+ ],
+ "tags": [
+  "robot SPIINE",
+  "Hanford",
+  "radioaktivni otpad",
+  "laboratorija Sandia",
+  "inspekcija cevi"
+ ],
+ "people": [
+  "Stiv Burger"
+ ],
+ "places": [
+  "Hanford",
+  "Vašington",
+  "SAD"
+ ],
+ "importance": 2,
+ "published": "2026-11-20T17:28:25.010368+00:00",
+ "updated": "2026-11-20T17:28:25.010368+00:00",
+ "sources": [
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/ai/10168210/mali-robot-za-inspekciju-spiine-u-akciji",
+   "title": "Mini robot ulazi u cevi koje ljudi ne mogu da pregledaju: Napravljen za kontrolu radioaktivnog otpada",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Mini robot ulazi u cevi koje ljudi ne mogu da pregledaju: Napravljen za kontrolu radioaktivnog otpada"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.893,
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Hanford%2C_United_States_%28Unsplash%29.jpg/1920px-Hanford%2C_United_States_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Wikimedia Commons / Norma Melendez lovelynorma / CC0",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:Hanford,_United_States_(Unsplash).jpg",
+  "alt": "Američki istraživači razvili mini robota za pregled cevi sa radioaktivnim otpadom"
+ }
+}

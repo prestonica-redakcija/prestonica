@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T16:43:36.323561+00:00",
- "updated": "2026-11-20T17:13:25.084308+00:00",
+ "updated": "2026-11-20T17:28:25.010368+00:00",
  "sources": [
   {
    "name": "N1",
@@ -66,6 +66,18 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10168273/patrik-drid-jednoglasno-razresen-duznosti-dekana",
    "title": "PATRIK DRID JEDNOGLASNO RAZREŠEN DUŽNOSTI DEKANA: Ostao bez funkcije dok je u pritvoru",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/drustvo/usvojen-predlog-za-razresenje-dekana-novosadskog-dif-a-patrika-drida-konacna-odluka-pred-savetom-fakulteta-u-ponedeljak",
+   "title": "Usvojen predlog za razrešenje dekana novosadskog DIF-a Patrika Drida, konačna odluka pred Savetom fakulteta u ponedeljak",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/286761/nastavno-naucno-vece-glasalo-za-razresenje-patrika-drida-ceka-se-odluka-saveta/vest",
+   "title": "Nastavno-naučno veće glasalo za razrešenje Patrika Drida; Čeka se odluka Saveta",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -74,7 +86,9 @@
   "Patrik Drid jednoglasno razrešen dužnosti dekana novosadskog DIF-a: Odluku u ponedeljak treba da potvrdi Savet fakulteta",
   "Nastavno-naučno veće novosadskog DIF-a jednoglasno predložilo razrešenje Patrika Drida",
   "Nastavno-naučno veće novosadskog DIF jednoglasno predložilo razrešenje Patrika Drida",
-  "PATRIK DRID JEDNOGLASNO RAZREŠEN DUŽNOSTI DEKANA: Ostao bez funkcije dok je u pritvoru"
+  "PATRIK DRID JEDNOGLASNO RAZREŠEN DUŽNOSTI DEKANA: Ostao bez funkcije dok je u pritvoru",
+  "Usvojen predlog za razrešenje dekana novosadskog DIF-a Patrika Drida, konačna odluka pred Savetom fakulteta u ponedeljak",
+  "Nastavno-naučno veće glasalo za razrešenje Patrika Drida; Čeka se odluka Saveta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -87,6 +101,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Fakultet_sporta_i_fizi%C4%8Dkog_vaspitanja_Univerziteta_u_Novom_Sadu_02.jpg",
   "alt": "Nastavno-naučno veće jednoglasno predložilo razrešenje dekana DIF-a Patrika Drida"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

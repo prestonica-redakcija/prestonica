@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-20T16:43:36.323561+00:00",
+ "updated": "2026-11-20T17:28:25.010368+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -175,6 +175,18 @@
    "url": "https://nova.rs/vesti/hronika/radnik-poginuo-na-gradiilitu-u-leskovcu/",
    "title": "Radnik poginuo na gradiilištu u Leskovcu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299509/ministar-odbrane-poljske-tri-ruska-objekta-pala-na-nasoj-teritoriji-tokom-noci/vest",
+   "title": "Ministar odbrane Poljske: Tri ruska objekta pala na našoj teritoriji tokom noći",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/299551/poginuo-radnik-na-gradilistu-u-leskovcu/vest",
+   "title": "Poginuo radnik na gradilištu u Leskovcu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -200,7 +212,9 @@
   "Ministar odbrane Poljske: Tri ruska objekta pala na našoj teritoriji tokom noći",
   "Poginuo radnik na gradilištu u Leskovcu",
   "Poginuo radnik na gradilištu u Leskovcu",
-  "Radnik poginuo na gradiilištu u Leskovcu"
+  "Radnik poginuo na gradiilištu u Leskovcu",
+  "Ministar odbrane Poljske: Tri ruska objekta pala na našoj teritoriji tokom noći",
+  "Poginuo radnik na gradilištu u Leskovcu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -214,7 +228,7 @@
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-20T15:59:02.730825+00:00",
  "verzija": 5

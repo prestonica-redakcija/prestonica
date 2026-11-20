@@ -30,7 +30,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T06:18:15.014670+00:00",
- "updated": "2026-11-20T11:45:57.885434+00:00",
+ "updated": "2026-11-20T17:28:25.010368+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -55,13 +55,20 @@
    "url": "https://www.b92.net/info/drustvo/286617/vremenska-prognoza-za-narednu-nedelju/vest",
    "title": "Preokret za vikend: Kiša i pljuskovi, a onda stiže i sneg",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/rhmz-u-vecem-delu-srbije-do-kraja-dana-kisa-i-pljuskovi-sa-grmljavinom/",
+   "title": "RHMZ: U većem delu Srbije do kraja dana kiša i pljuskovi sa grmljavinom",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "U Srbiji danas od sredine dana novo naoblačenje, temperature do 20 stepeni",
   "OTVARAJU SE BEČKA VRATA, STIŽE NOVI ZIMSKI UDAR NA SRBIJU: Ristić otkrio kog datuma će temperatura drastično pasti",
   "Stiže ZAHLAĐENJE, temperatura pada i za više od 10 stepeni: Evo gde će padati SNEG",
-  "Preokret za vikend: Kiša i pljuskovi, a onda stiže i sneg"
+  "Preokret za vikend: Kiša i pljuskovi, a onda stiže i sneg",
+  "RHMZ: U većem delu Srbije do kraja dana kiša i pljuskovi sa grmljavinom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "local": true,
   "alt": "Danas kiša i pljuskovi u većem delu Srbije, od sutra postepeno zahlađenje"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
