@@ -40,7 +40,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T12:30:42.075846+00:00",
- "updated": "2026-11-20T13:15:18.596243+00:00",
+ "updated": "2026-11-20T13:30:11.562829+00:00",
  "sources": [
   {
    "name": "N1",
@@ -59,12 +59,26 @@
    "url": "https://insajder.net/prenosimo/bcljp-evropski-sud-za-ljudska-prava-trazi-izjasnjenje-srbije-o-pomilovanjima-optuzenih-za-napade-na-studente",
    "title": "BCLJP: Evropski sud za ljudska prava traži izjašnjenje Srbije o pomilovanjima optuženih za napade na studente",
    "spektar": "opozicija"
+  },
+  {
+   "name": "BIRN",
+   "url": "https://birn.rs/vucic-suprotno-misljenju-suda-pomilovao-osudjenog-za-smrt-radnika-u-lucanima/",
+   "title": "Vučić pomilovao Toma Stojića uprkos stavu suda",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/evropski-sud-za-ljudska-prava-vlada-srbije-pomilovanja/",
+   "title": "Evropski sud za ljudska prava traži od Vlade Srbije da se izjasni o Vučićevim pomilovanjima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Evropski sud za ljudska prava traži izjašnjenje Srbije o Vučićevom pomilovanjima optuženih za napade na studente",
   "Evropski sud za ljudska prava traži izjašnjenje Srbije o Vučićevim pomilovanjima optuženih za napade na studente",
-  "BCLJP: Evropski sud za ljudska prava traži izjašnjenje Srbije o pomilovanjima optuženih za napade na studente"
+  "BCLJP: Evropski sud za ljudska prava traži izjašnjenje Srbije o pomilovanjima optuženih za napade na studente",
+  "Vučić pomilovao Toma Stojića uprkos stavu suda",
+  "Evropski sud za ljudska prava traži od Vlade Srbije da se izjasni o Vučićevim pomilovanjima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +90,6 @@
   "local": true,
   "alt": "Evropski sud traži od Vlade Srbije izjašnjenje o pomilovanjima za napade na studente"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

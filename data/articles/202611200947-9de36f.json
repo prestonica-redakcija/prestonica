@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T08:47:00.852620+00:00",
- "updated": "2026-11-20T12:15:46.806740+00:00",
+ "updated": "2026-11-20T13:30:11.562829+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -54,13 +54,20 @@
    "url": "https://www.b92.net/biz/svet/vesti/286621/lufthansa-planira-ukidanje-oko-1000-radnih-mesta-u-frankfurtu-i-minhenu/vest",
    "title": "Kriza u poznatoj avio-kompaniji: Ukida oko 1.000 radnih mesta, planiraju i smanjenje plata",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1673120/kriza-trese-nemackog-avio-giganta-lufthansa-gasi-1-000-radnih-mesta-zbog-ogromnih-gubitaka",
+   "title": "KRIZA TRESE NEMAČKOG AVIO-GIGANTA: Lufthansa gasi 1.000 radnih mesta zbog ogromnih gubitaka",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "KRIZA U NEMAČKOJ AVIO KOMPANIJI: Planiraju ukidanje 1.000 radnih mesta",
   "Lufthansa planira ukidanje oko 1.000 radnih mesta u Frankfurtu i Minhenu",
   "Lufthansa planira ukidanje oko 1.000 radnih mesta u Frankfurtu i Minhenu",
-  "Kriza u poznatoj avio-kompaniji: Ukida oko 1.000 radnih mesta, planiraju i smanjenje plata"
+  "Kriza u poznatoj avio-kompaniji: Ukida oko 1.000 radnih mesta, planiraju i smanjenje plata",
+  "KRIZA TRESE NEMAČKOG AVIO-GIGANTA: Lufthansa gasi 1.000 radnih mesta zbog ogromnih gubitaka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Airbus_A350-941_D-AIXV_Lufthansa_from_Toulouse_(6000_ft.).jpg",
   "alt": "Lufthansa planira ukidanje oko 1.000 radnih mesta u Frankfurtu i Minhenu"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
