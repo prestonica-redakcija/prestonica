@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T16:28:52.999328+00:00",
- "updated": "2026-11-20T16:28:52.999328+00:00",
+ "updated": "2026-11-20T16:58:34.033371+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -40,11 +40,18 @@
    "url": "https://biznis.telegraf.rs/info-biz/4436844-vlada-srbije-u-tehnickom-mandatu-produzila-privremeno-smanjenje-akciza-na-derivate-nafte",
    "title": "Vlada Srbije u tehničkom mandatu produžila privremeno smanjenje akciza na derivate nafte",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/252972/vlada-srbije-produzila-smanjenje-akciza-na-gorivo/vest",
+   "title": "Vlada Srbije produžila smanjenje akciza na gorivo do 29. novembra",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Vlada produžila privremeno smanjenje akciza na derivate nafte za 25 odsto do 29. novembra",
-  "Vlada Srbije u tehničkom mandatu produžila privremeno smanjenje akciza na derivate nafte"
+  "Vlada Srbije u tehničkom mandatu produžila privremeno smanjenje akciza na derivate nafte",
+  "Vlada Srbije produžila smanjenje akciza na gorivo do 29. novembra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Vlada_Srbije_ulaz_5.jpg",
   "alt": "Vlada u tehničkom mandatu produžila smanjenje akciza na derivate nafte do 29. novembra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

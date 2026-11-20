@@ -30,17 +30,24 @@
  ],
  "importance": 6,
  "published": "2026-11-20T15:59:02.730825+00:00",
- "updated": "2026-11-20T15:59:02.730825+00:00",
+ "updated": "2026-11-20T16:58:34.033371+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/teme/tuzilastvo-proverava-radove-na-zeleznickoj-stanici-novi-beograd-urgencije-za-inspekciju-u-planu-vestacenja",
    "title": "Tužilaštvo proverava radove na Železničkoj stanici Novi Beograd: Urgencije za inspekciju, u planu veštačenja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/tuzilastvo-pokrenulo-istragu-o-radovima-na-zeleznickoj-stanici-novi-beograd/",
+   "title": "Tužilaštvo pokrenulo istragu o radovima na Železničkoj stanici Novi Beograd",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Tužilaštvo proverava radove na Železničkoj stanici Novi Beograd: Urgencije za inspekciju, u planu veštačenja"
+  "Tužilaštvo proverava radove na Železničkoj stanici Novi Beograd: Urgencije za inspekciju, u planu veštačenja",
+  "Tužilaštvo pokrenulo istragu o radovima na Železničkoj stanici Novi Beograd"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Potpisan_ugovor_za_izgradnju_mosta_na_Dunavu_kod_Ba%C4%8Dke_Palanke_(APV_1641)_(cropped).jpg",
   "osoba": "Aleksandra Sofronijević",
   "alt": "Treće osnovno tužilaštvo proverava radove na Železničkoj stanici Novi Beograd"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T16:13:56.213312+00:00",
- "updated": "2026-11-20T16:43:36.323561+00:00",
+ "updated": "2026-11-20T16:58:34.033371+00:00",
  "sources": [
   {
    "name": "N1",
@@ -39,10 +39,17 @@
    "url": "https://insajder.net/prenosimo/nis-postepeno-povecavanje-proizvodnje-goriva-u-rafineriji-pancevo",
    "title": "NIS: Postepeno povećavanje proizvodnje goriva u Rafineriji Pančevo",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/nis-postepeno-povecavanje-proizvodnje-goriva-u-rafineriji-pancevo/",
+   "title": "NIS: Postepeno povećavanje proizvodnje goriva u Rafineriji Pančevo",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "NIS za N1: U skladu sa dotokom nafte postepeno ćemo podizati obim proizvodnje goriva u Rafineriji",
+  "NIS: Postepeno povećavanje proizvodnje goriva u Rafineriji Pančevo",
   "NIS: Postepeno povećavanje proizvodnje goriva u Rafineriji Pančevo"
  ],
  "author": "Redakcija Prestonice",
@@ -55,6 +62,6 @@
   "local": true,
   "alt": "NIS: nastavljen transport nafte preko JANAF-a, proizvodnja goriva u Pančevu raste postepeno"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

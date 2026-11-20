@@ -33,17 +33,24 @@
  ],
  "importance": 7,
  "published": "2026-11-19T12:26:15.353983+00:00",
- "updated": "2026-11-19T12:26:15.353983+00:00",
+ "updated": "2026-11-20T16:58:34.033371+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/english/news/epp-review-sets-sweeping-conditions-for-sns-calls-for-break-with-putin-accountability-for-corruption/",
    "title": "EPP review sets sweeping conditions for SNS, calls for break with Putin, accountability for corruption",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286748/francuska-odgovorila-na-putinov-poziv-na-pregovore/vest",
+   "title": "Makronov odgovor Putinu: \"Može, ali...\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "EPP review sets sweeping conditions for SNS, calls for break with Putin, accountability for corruption"
+  "EPP review sets sweeping conditions for SNS, calls for break with Putin, accountability for corruption",
+  "Makronov odgovor Putinu: \"Može, ali...\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "EPP pripremila uslove za SNS: prekid saradnje sa Putinom i odgovornost za korupciju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
