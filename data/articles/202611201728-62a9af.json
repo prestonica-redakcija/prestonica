@@ -26,17 +26,24 @@
  ],
  "importance": 4,
  "published": "2026-11-20T16:28:52.999328+00:00",
- "updated": "2026-11-20T16:28:52.999328+00:00",
+ "updated": "2026-11-20T19:42:27.284633+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/299528/ruski-izvoz-lng-a-u-kinu-porastao-za-skoro-50-odsto-medugodisnje-na-87-miliona-tona/vest",
    "title": "Ruski izvoz LNG-a u Kinu porastao za skoro 50 odsto međugodišnje na 8,7 miliona tona",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/286760/ruski-izvoz-lng-a-u-kinu-skocio-skoro-50-odsto/vest",
+   "title": "Ruski izvoz LNG-a u Kinu skočio skoro 50 odsto",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Ruski izvoz LNG-a u Kinu porastao za skoro 50 odsto međugodišnje na 8,7 miliona tona"
+  "Ruski izvoz LNG-a u Kinu porastao za skoro 50 odsto međugodišnje na 8,7 miliona tona",
+  "Ruski izvoz LNG-a u Kinu skočio skoro 50 odsto"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Ruski izvoz tečnog gasa u Kinu porastao za 49,1 odsto, Rusija druga na kineskom tržištu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
