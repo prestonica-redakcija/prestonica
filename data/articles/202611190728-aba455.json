@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-19T06:28:59.522202+00:00",
- "updated": "2026-11-19T06:28:59.522202+00:00",
+ "updated": "2026-11-20T04:19:22.490652+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -44,10 +44,17 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4435597-vase-malo-nekome-znaci-mnogo-evo-gde-danas-mozete-dati-krv",
    "title": "Vaše malo nekome znači mnogo: Evo gde danas možete dati krv",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4436201-vase-malo-nekome-znaci-mnogo-evo-gde-danas-mozete-dati-krv",
+   "title": "Vaše malo nekome znači mnogo: Evo gde danas možete dati krv",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "BUDITE HUMANI I POMOZITE ONIMA KOJIMA JE NAJPOTREBNIJE! Pogledajte gde sve danas možete dobrovoljno dati krv u Srbiji",
+  "Vaše malo nekome znači mnogo: Evo gde danas možete dati krv",
   "Vaše malo nekome znači mnogo: Evo gde danas možete dati krv"
  ],
  "author": "Redakcija Prestonice",
@@ -60,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Crveni_Krst_concentration_camp_(2024-09-05)_01.jpg",
   "alt": "Gde se danas može dobrovoljno dati krv u Beogradu, Loznici, Obrenovcu i Palanci"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

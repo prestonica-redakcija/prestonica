@@ -6888,18 +6888,13 @@
   "https://www.telegraf.rs/vesti/svet/4436306-haiti-najmanje-34-clana-bandi-ubijena-u-akciji-policije": "2026-11-20T03:19:47.764711+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/252855/kurs-dinara-danas-1176412-za-evro-dolar-1070049/vest": "2026-11-20T04:04:30.128065+00:00",
   "https://www.tanjug.rs/svet/drustvo/299313/nekoliko-bozicnih-marketa-u-nemackoj-otkazano-zbog-manjka-novca-u-gradskim-kasama/vest": "2026-11-20T04:04:30.128065+00:00",
-  "https://www.kurir.rs/planeta/10166645/vise-bozicnih-vasara-u-nemackoj-otkazano-zbog-finansijskih-i-organizacionih-problema": "2026-11-20T04:04:30.128065+00:00"
+  "https://www.kurir.rs/planeta/10166645/vise-bozicnih-vasara-u-nemackoj-otkazano-zbog-finansijskih-i-organizacionih-problema": "2026-11-20T04:04:30.128065+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4436201-vase-malo-nekome-znaci-mnogo-evo-gde-danas-mozete-dati-krv": "2026-11-20T04:19:22.490652+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-19T13:32+00:00",
-   "novih": 5,
-   "ukupno": 2796,
-   "sekundi": 390.7
-  },
   {
    "vreme": "2026-11-19T13:46+00:00",
    "novih": 0,
@@ -7253,6 +7248,12 @@
    "novih": 1,
    "ukupno": 2867,
    "sekundi": 362.2
+  },
+  {
+   "vreme": "2026-11-20T04:24+00:00",
+   "novih": 0,
+   "ukupno": 2867,
+   "sekundi": 298.7
   }
  ],
  "licnosti_foto": {
@@ -7402,6 +7403,33 @@
   }
  },
  "videos": [
+  {
+   "id": "DMXU4vNXP8I",
+   "title": "Das Zaudern der Manuela Schwesig",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-20T04:03:00+00:00",
+   "thumb": "https://i.ytimg.com/vi/DMXU4vNXP8I/hqdefault.jpg",
+   "live": "none",
+   "desc": "Wer übernimmt die Macht in der SPD? Als wiedergewählte Ministerpräsidentin von Mecklenburg-Vorpommern ist Manuela Schwesig die ungekrönte Königin der Partei, doch bei der Frage nach dem Vorsitz taktiert sie noch. Rasmus Buchsteiner analysiert, warum sie zögert, wie sich Hubertus Heil in Stellung bringt und was das für Lars Klingbeil bedeutet.\n\nAuf den Straßen formiert sich weiter Protest von Jugendlichen: Die Initiative „Gen Z regelt“ demonstriert gegen die Wehrpflicht und für mehr Bildungsinvestitionen. Nach Ausschreitungen an Halloween erklärt Luis Bobga, Sprecher der Grünen Jugend, im 200-Sekunden-Interview, wie sich seine Organisation von Chaoten abgrenzt, wie der Frust wächst und warum ",
+   "spektar": "centar",
+   "viewers": null,
+   "naslov": "Zašto Manuela Švezig oklevа oko čela SPD i šta to znači za Klingbajla",
+   "opis": "U snimku novinar Rasmus Buksteiner analizira zašto Manuela Švezig, ponovo izabrana premijerka Meklenburga-Zapadne Pomeranije, taktizira oko pitanja predsedavanja SPD. Govori se i o tome kako se Hubertus Hajl pozicionira i kakve to posledice ima po Larsa Klingbajla. Drugi deo posvećen je protestima mladih protiv obaveznog vojnog roka.",
+   "tekst": [
+    "Snimak otvara pitanje ko će preuzeti vlast u nemačkoj Socijaldemokratskoj partiji (SPD). Manuela Švezig, ponovo izabrana za premijerku pokrajine Meklenburg-Zapadna Pomeranija, u snimku je opisana kao „neokrunjena kraljica“ stranke, ali se oko pitanja predsedavanja još uvek ne izjašnjava.",
+    "Novinar Rasmus Buksteiner analizira zašto ona oklева, kako se Hubertus Hajl postavlja u poziciju za moguće preuzimanje stranke i šta bi sve to moglo da znači za Larsa Klingbajla.",
+    "U drugom delu govori se o protestima mladih na ulicama. Inicijativa „Gen Z regelt“ demonstrira protiv obaveznog vojnog roka i za veća ulaganja u obrazovanje. Luis Bobga, portparol Zelene omladine, u intervjuu od 200 sekundi govori o tome kako se njegova organizacija ograđuje od izgrednika nakon nereda za Noć veštica i kako raste frustracija mladih."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "Manuela Švezig",
+    "SPD",
+    "Lars Klingbajl",
+    "Hubertus Hajl",
+    "Gen Z regelt"
+   ],
+   "slug": "zasto-manuela-svezig-okleva-oko-cela-spd-i-sta-to-znaci-za-dmxu4vnxp8i"
+  },
   {
    "id": "fMCcLIQGNCw",
    "title": "Stockpiling Britain: Does Westminster know something we don’t? | Westminster Insider",
@@ -9641,33 +9669,6 @@
     "Luksemburg"
    ],
    "slug": "preklapanje-nadleznosti-u-spoljnoj-politici-eu-kalas-suica-t3eeeiovi1a"
-  },
-  {
-   "id": "bongf6YZfcI",
-   "title": "Trump trifft Putin und Xi: Was bedeutet das für den Ukraine-Gipfel in Berlin?",
-   "kanal": "POLITICO Europe",
-   "published": "2026-11-18T04:06:00+00:00",
-   "thumb": "https://i.ytimg.com/vi/bongf6YZfcI/hqdefault.jpg",
-   "live": "none",
-   "desc": "Während der Kanzler die Koalition der Willigen morgen zur Ukraine-Unterstützung in Berlin versammelt, inszeniert sich Donald Trump heute schon am anderen Ende der Welt. Beim Gipfel im chinesischen Shenzhen trifft er auf Xi Jinping und Wladimir Putin, während seine Sondergesandten Steve Witkoff und Jared Kushner im Kanzleramt weitgehend schweigen müssen. Was dieses geopolitische Schattenspiel für den Westen bedeutet, analysiert Vize-Chefredakteurin Annett Meiritz zusammen mit Rixa Fürsen.\n\nWie blickt Europa auf dieses Dreiertreffen der Weltmächte, bei dem die EU nicht dabei ist? Marie-Agnes Strack-Zimmermann, Vorsitzende des EU-Verteidigungsausschusses, erklärt im 200-Sekunden-Interview, waru",
-   "spektar": "centar",
-   "viewers": null,
-   "naslov": "Tramp, Putin i Si u Šenženu: šta to znači za samit o Ukrajini u Berlinu",
-   "opis": "POLITICO Europe analizira susret Donalda Trampa sa Si Đinpingom i Vladimirom Putinom u kineskom Šenženu, dok kancelar u Berlinu okuplja koaliciju voljnih. U analizi učestvuju Anet Majric i Riksa Fírzen, a gostuje i Mari-Agnes Štrak-Cimerman.",
-   "tekst": [
-    "Prema opisu snimka, Donald Tramp se na samitu u kineskom Šenženu sastaje sa Si Đinpingom i Vladimirom Putinom. Istovremeno, nemački kancelar sutradan u Berlinu okuplja koaliciju voljnih radi podrške Ukrajini.",
-    "U snimku se navodi da Trampovi specijalni izaslanici Stiv Vitkof i Džared Kušner u kancelarijama kancelara u Berlinu uglavnom moraju da ćute. Ovaj odnos snaga opisuje se kao geopolitička senka igra, a zamenica glavnog urednika Anet Majric sa Riksom Fírzen analizira šta to znači za Zapad.",
-    "Otvara se i pitanje kako Evropa gleda na trilateralni susret svetskih sila na kojem EU ne učestvuje. U intervjuu od 200 sekundi govori Mari-Agnes Štrak-Cimerman, predsednica odbora za odbranu u EU, prema opisu snimka."
-   ],
-   "rubrika": "svet",
-   "oznake": [
-    "Donald Tramp",
-    "Vladimir Putin",
-    "Si Đinpingom",
-    "Ukrajina",
-    "koalicija voljnih"
-   ],
-   "slug": "tramp-putin-i-si-u-senzenu-sta-to-znaci-za-samit-o-ukrajini-bongf6yzfci"
   },
   {
    "id": "w8S2vesi4B4",
@@ -63171,8 +63172,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-20T04:06:00.728821+00:00",
-  "uzivo_t": "2026-11-20T04:06:00.728841+00:00"
+  "provereno": "2026-11-20T04:19:58.758733+00:00",
+  "uzivo_t": "2026-11-20T04:19:58.758745+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {
@@ -66056,6 +66057,29 @@
     "POLITICO"
    ],
    "slug": "zaliha-hrane-i-vode-u-britaniji-zasto-vlada-poziva-gradjane-fmccliqgncw",
+   "spektar": "centar"
+  },
+  "DMXU4vNXP8I": {
+   "id": "DMXU4vNXP8I",
+   "title": "Das Zaudern der Manuela Schwesig",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-20T04:03:00+00:00",
+   "naslov": "Zašto Manuela Švezig oklevа oko čela SPD i šta to znači za Klingbajla",
+   "opis": "U snimku novinar Rasmus Buksteiner analizira zašto Manuela Švezig, ponovo izabrana premijerka Meklenburga-Zapadne Pomeranije, taktizira oko pitanja predsedavanja SPD. Govori se i o tome kako se Hubertus Hajl pozicionira i kakve to posledice ima po Larsa Klingbajla. Drugi deo posvećen je protestima mladih protiv obaveznog vojnog roka.",
+   "tekst": [
+    "Snimak otvara pitanje ko će preuzeti vlast u nemačkoj Socijaldemokratskoj partiji (SPD). Manuela Švezig, ponovo izabrana za premijerku pokrajine Meklenburg-Zapadna Pomeranija, u snimku je opisana kao „neokrunjena kraljica“ stranke, ali se oko pitanja predsedavanja još uvek ne izjašnjava.",
+    "Novinar Rasmus Buksteiner analizira zašto ona oklева, kako se Hubertus Hajl postavlja u poziciju za moguće preuzimanje stranke i šta bi sve to moglo da znači za Larsa Klingbajla.",
+    "U drugom delu govori se o protestima mladih na ulicama. Inicijativa „Gen Z regelt“ demonstrira protiv obaveznog vojnog roka i za veća ulaganja u obrazovanje. Luis Bobga, portparol Zelene omladine, u intervjuu od 200 sekundi govori o tome kako se njegova organizacija ograđuje od izgrednika nakon nereda za Noć veštica i kako raste frustracija mladih."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "Manuela Švezig",
+    "SPD",
+    "Lars Klingbajl",
+    "Hubertus Hajl",
+    "Gen Z regelt"
+   ],
+   "slug": "zasto-manuela-svezig-okleva-oko-cela-spd-i-sta-to-znaci-za-dmxu4vnxp8i",
    "spektar": "centar"
   }
  }
