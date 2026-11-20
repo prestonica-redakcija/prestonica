@@ -36,7 +36,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T15:44:08.662564+00:00",
- "updated": "2026-11-20T20:12:12.983346+00:00",
+ "updated": "2026-11-20T20:56:59.466917+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -73,6 +73,12 @@
    "url": "https://www.kurir.rs/planeta/10168394/zatvorenik-vristao-od-bolova-i-molio-da-umre-tokom-smrtne-kazne",
    "title": "\"UZMI ME, BOŽE\"! Zatvorenik vrištao od bolova i molio da umre tokom SMRTNE KAZNE kakva se ne pamti u Americi! Egzekucija trajala čak 63 minuta! (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/osudjenik-na-smrt-u-teksasu-vristao-od-bolova-tokom-pogubljenja-koje-je-trajalo-duze-od-sat-vremena/",
+   "title": "Osuđenik na smrt u Teksasu vrištao od bolova tokom pogubljenja koje je trajalo duže od sat vremena",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -81,7 +87,8 @@
   "Pogubljenje u Teksasu trajalo duže od sat vremena zbog komplikacija s injekcijom",
   "Problemi tokom pogubljenja u Teksasu: Više neuspešnih pokušaja davanja smrtonosne injekcije",
   "\"Boli, oče, uzmi me!\": Zatvorenik vrištao i molio da umre tokom egzekucije kakva se ne pamti u Teksasu",
-  "\"UZMI ME, BOŽE\"! Zatvorenik vrištao od bolova i molio da umre tokom SMRTNE KAZNE kakva se ne pamti u Americi! Egzekucija trajala čak 63 minuta! (FOTO)"
+  "\"UZMI ME, BOŽE\"! Zatvorenik vrištao od bolova i molio da umre tokom SMRTNE KAZNE kakva se ne pamti u Americi! Egzekucija trajala čak 63 minuta! (FOTO)",
+  "Osuđenik na smrt u Teksasu vrištao od bolova tokom pogubljenja koje je trajalo duže od sat vremena"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -93,8 +100,8 @@
   "local": true,
   "alt": "U Teksasu pogubljen Reinaldo Denes, postupak trajao više od sat vremena"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-20T20:12:12.983346+00:00",
  "verzija": 2
 }

@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T15:59:02.730825+00:00",
- "updated": "2026-11-20T17:13:25.084308+00:00",
+ "updated": "2026-11-20T20:56:59.466917+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -49,12 +49,19 @@
    "url": "https://n1info.rs/vesti/insajder-tuzilastvo-proverava-radove-na-zeleznickoj-stanici-novi-beograd/",
    "title": "Insajder: Tužilaštvo proverava radove na Železničkoj stanici Novi Beograd",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/286802/tuzilastvo-proverava-radove-na-zeleznickoj-stanici-novi-beograd/vest",
+   "title": "Tužilaštvo proverava radove na Železničkoj stanici Novi Beograd",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Tužilaštvo proverava radove na Železničkoj stanici Novi Beograd: Urgencije za inspekciju, u planu veštačenja",
   "Tužilaštvo pokrenulo istragu o radovima na Železničkoj stanici Novi Beograd",
-  "Insajder: Tužilaštvo proverava radove na Železničkoj stanici Novi Beograd"
+  "Insajder: Tužilaštvo proverava radove na Železničkoj stanici Novi Beograd",
+  "Tužilaštvo proverava radove na Železničkoj stanici Novi Beograd"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "osoba": "Aleksandra Sofronijević",
   "alt": "Treće osnovno tužilaštvo proverava radove na Železničkoj stanici Novi Beograd"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

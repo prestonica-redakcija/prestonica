@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T13:00:21.398102+00:00",
- "updated": "2026-11-20T13:15:18.596243+00:00",
+ "updated": "2026-11-20T20:56:59.466917+00:00",
  "sources": [
   {
    "name": "N1",
@@ -41,11 +41,18 @@
    "url": "https://n1info.rs/vesti/ds-sajt-grada-beograani-platili-vie-od-145-miliona-evra/",
    "title": "DS: Sajt Grada Beograđani platili više od 14,5 miliona evra",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/grad-beograd-demokratska-stranka-ugovor/",
+   "title": "\"Pametan grad\", tajni ugovor i 21 milion evra: DS tvrdi da je Beograd preplatio projekat digitalizacije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "DS: Sajt Grada Beograđani platili više od 14,5 miliona evra Sajt Grada preplaćen bar 150 puta",
-  "DS: Sajt Grada Beograđani platili više od 14,5 miliona evra"
+  "DS: Sajt Grada Beograđani platili više od 14,5 miliona evra",
+  "\"Pametan grad\", tajni ugovor i 21 milion evra: DS tvrdi da je Beograd preplatio projekat digitalizacije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +65,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Za_pravednu_Srbiju_%E2%80%93_Demokratska_stranka_2.jpg",
   "alt": "DS: Beograđani za sajt digitalnih usluga grada platili preko 14,5 miliona evra"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
