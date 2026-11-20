@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-19T06:58:47.335790+00:00",
- "updated": "2026-11-20T18:13:05.140247+00:00",
+ "updated": "2026-11-20T18:57:45.637885+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -55,12 +55,19 @@
    "url": "https://n1info.rs/svet/danska-optuzila-rusiju-za-planiranje-ubista-americko-ukrajinskog-drzavljanina/",
    "title": "Danska optužila Rusiju za planiranje ubista američko-ukrajinskog državljanina na danskom tlu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/danska-optuzila-rusiju-za-planiranje-ubista-americko-ukrajinskog-drzavljanina-na-danskom-tlu/",
+   "title": "Danska optužila Rusiju za planiranje ubista američko-ukrajinskog državljanina na danskom tlu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Ruski državljanin optužen za špijuniranje zaposlenih u američkoj vojnoj kompaniji",
   "\"PREVIŠE JE PRIČE O DOBROJ UKRAJINI I LOŠOJ RUSIJI\" Ilon Mask tvrdi da su ruski vojnici primorani da idu na front i da je Amerika izvela puč u Ukrajini 2014.",
   "Ilon Mask ponovo šokirao: \"Ruski vojnici u Ukrajini zaslužuju više empatije\"",
+  "Danska optužila Rusiju za planiranje ubista američko-ukrajinskog državljanina na danskom tlu",
   "Danska optužila Rusiju za planiranje ubista američko-ukrajinskog državljanina na danskom tlu"
  ],
  "author": "Redakcija Prestonice",
@@ -73,6 +80,6 @@
   "local": true,
   "alt": "Ruski državljanin u SAD optužen da je špijunirao zaposlene u tehnološkoj kompaniji"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

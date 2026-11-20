@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-20T18:42:57.040601+00:00",
+ "updated": "2026-11-20T18:57:45.637885+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -217,6 +217,12 @@
    "url": "https://n1info.rs/svet/tramp-putin-greska-dronovi-poljska/",
    "title": "Tramp: Putin greškom slao bespilotne letelice i \"nekoliko malih raketa\" u Poljsku",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4436876-poginuo-radnik-na-gradilistu-u-leskovcu",
+   "title": "Poginuo radnik na gradilištu u Leskovcu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -249,7 +255,8 @@
   "Nekoliko sati posle Trampove izjave – novi incident u Poljskoj VIDEO",
   "Ministar odbrane Poljske: Tri ruska objekta pala na našu teritoriju tokom noći",
   "Zelenski, odbrojavanje je počelo!",
-  "Tramp: Putin greškom slao bespilotne letelice i \"nekoliko malih raketa\" u Poljsku"
+  "Tramp: Putin greškom slao bespilotne letelice i \"nekoliko malih raketa\" u Poljsku",
+  "Poginuo radnik na gradilištu u Leskovcu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -263,7 +270,7 @@
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-20T17:43:12.187852+00:00",
  "verzija": 6
