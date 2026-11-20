@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T06:18:15.014670+00:00",
- "updated": "2026-11-20T17:43:12.187852+00:00",
+ "updated": "2026-11-20T20:42:03.328969+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,12 +46,19 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4436899-amss-teretnjaci-cekaju-5-sati-na-izlazu-iz-zemlje",
    "title": "AMSS: Teretnjaci čekaju 5 sati na izlazu iz zemlje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/299580/teretnjaci-cekaju-pet-sati-na-izlazu-iz-zemlje-na-batrovcima/vest",
+   "title": "Teretnjaci čekaju pet sati na izlazu iz zemlje na Batrovcima",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Na graničnom prelazu Batrovci teretna vozila čekaju 6 sati na izlaz, putevi bez snega",
   "Na graničnom prelazu Batrovci teretna vozila čekaju šest sati na izlaz, putevi bez snega",
-  "AMSS: Teretnjaci čekaju 5 sati na izlazu iz zemlje"
+  "AMSS: Teretnjaci čekaju 5 sati na izlazu iz zemlje",
+  "Teretnjaci čekaju pet sati na izlazu iz zemlje na Batrovcima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Grani%C4%8Dni_prelaz_Batrovci_in_the_evening_(1).jpg",
   "alt": "Na prelazu Batrovci teretna vozila na izlaz čekaju šest sati, putnički saobraćaj bez zadržavanja"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T13:00:21.398102+00:00",
- "updated": "2026-11-20T15:29:22.589468+00:00",
+ "updated": "2026-11-20T20:42:03.328969+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,12 +47,19 @@
    "url": "https://www.kurir.rs/vesti/srbi-na-kim/10167976/srpska-lista-uprkos-upozorenjima-ek-srpske-kuce-na-gazivodama-se-ponovo-ruse",
    "title": "\"NASTAVAK KURTIJEVOG INSTITUCIONALNOG TERORA\" Srpska lista: Srpske kuće na Gazivodama se ponovo ruše uprkos upozorenjima Evropske komisije!",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/razno/286799/prelistavanje-stampe-za-21-novembar-2026-godine/vest",
+   "title": "Novine: \"Kurti opet ruši srpske vikendice na Gazivodama\"; \"Evropa željna hleba i mira\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Srpska lista: Uprkos upozorenjima Evropske komisije, srpske kuće na Gazivodama se ponovo ruše",
   "Srpska lista: Uprkos upozorenjima Evropske komisije, srpske kuće na Gazivodama se ponovo ruše",
-  "\"NASTAVAK KURTIJEVOG INSTITUCIONALNOG TERORA\" Srpska lista: Srpske kuće na Gazivodama se ponovo ruše uprkos upozorenjima Evropske komisije!"
+  "\"NASTAVAK KURTIJEVOG INSTITUCIONALNOG TERORA\" Srpska lista: Srpske kuće na Gazivodama se ponovo ruše uprkos upozorenjima Evropske komisije!",
+  "Novine: \"Kurti opet ruši srpske vikendice na Gazivodama\"; \"Evropa željna hleba i mira\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Gazivode_Lake.JPG",
   "alt": "Srpska lista traži hitnu obustavu rušenja objekata na Gazivodama"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

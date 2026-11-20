@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T16:13:56.213312+00:00",
- "updated": "2026-11-20T19:42:27.284633+00:00",
+ "updated": "2026-11-20T20:42:03.328969+00:00",
  "sources": [
   {
    "name": "B92",
@@ -52,13 +52,20 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4436951-potraga-za-detetom-koje-je-upalo-u-ribnicu-bice-nastavljena-i-tokom-noci",
    "title": "Potraga za detetom koje je upalo u Ribnicu biće nastavljena i tokom noći",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/region/potraga-za-detetom-koje-je-upalo-u-reku/",
+   "title": "Potraga za šestogodišnjim dečakom koji je upao u reku u Podgorici",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Trogodišnje dete upalo u reku; U toku potraga",
   "Dete (6) upalo u reku Ribnicu! Spalisačke ekipe ga traže",
   "POTRAGA ZA DEČAKOM (6) U PODGORICI NE PRESTAJE: Spasioci nastavljaju pretragu reke Ribnice i tokom noći",
-  "Potraga za detetom koje je upalo u Ribnicu biće nastavljena i tokom noći"
+  "Potraga za detetom koje je upalo u Ribnicu biće nastavljena i tokom noći",
+  "Potraga za šestogodišnjim dečakom koji je upao u reku u Podgorici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Podgorica,_panorama.jpg",
   "alt": "U Podgorici traje potraga za detetom koje je upalo u reku Ribnicu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

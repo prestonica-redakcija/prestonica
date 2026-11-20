@@ -24,17 +24,38 @@
  ],
  "importance": 4,
  "published": "2026-11-20T19:57:21.636399+00:00",
- "updated": "2026-11-20T19:57:21.636399+00:00",
+ "updated": "2026-11-20T20:42:03.328969+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/batut-broj-obolelih-od-gripa/",
    "title": "Batut: U Srbiji od 9. do 15. novembra zabeleženo 6.630 slučajeva oboljenja sličnih gripu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/batut-zabelezeno-6630-slucajeva-oboljenja-slicnih-gripu",
+   "title": "Batut: Zabeleženo 6.630 slučajeva oboljenja sličnih gripu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/299583/batut-prosle-nedelje-u-srbiji-6630-slucajeva-oboljenja-slicnih-gripu-belezi-se-pad/vest",
+   "title": "Batut: Prošle nedelje u Srbiji 6.630 slučajeva oboljenja sličnih gripu, beleži se pad",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4436976-batut-u-srbiji-6630-slucajeva-oboljenja-slicnih-gripu-belezi-se-pad",
+   "title": "Batut: U Srbiji 6.630 slučajeva oboljenja sličnih gripu, beleži se pad",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Batut: U Srbiji od 9. do 15. novembra zabeleženo 6.630 slučajeva oboljenja sličnih gripu"
+  "Batut: U Srbiji od 9. do 15. novembra zabeleženo 6.630 slučajeva oboljenja sličnih gripu",
+  "Batut: Zabeleženo 6.630 slučajeva oboljenja sličnih gripu",
+  "Batut: Prošle nedelje u Srbiji 6.630 slučajeva oboljenja sličnih gripu, beleži se pad",
+  "Batut: U Srbiji 6.630 slučajeva oboljenja sličnih gripu, beleži se pad"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:P%C3%A8re-Lachaise_-_Division_45_-_Estibal-La-Batut_02.jpg",
   "alt": "Batut: u Srbiji od 9. do 15. novembra 6.630 slučajeva oboljenja sličnih gripu"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
