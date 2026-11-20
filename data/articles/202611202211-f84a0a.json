@@ -35,7 +35,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T21:11:49.962208+00:00",
- "updated": "2026-11-20T21:11:49.962208+00:00",
+ "updated": "2026-11-20T22:26:21.460319+00:00",
  "sources": [
   {
    "name": "N1",
@@ -48,11 +48,18 @@
    "url": "https://www.danas.rs/svet/ni-posle-devetog-kruga-glasanja-u-sb-nije-jasnije-ko-ce-na-celo-ujedinjenih-nacija/",
    "title": "Ni posle devetog kruga glasanja u SB nije jasnije ko će na čelo Ujedinjenih nacija",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10168453/ni-u-devetom-glasanju-nije-postignut-dogovor-o-kandidatu-za-novog-generalnog-sekretara-un",
+   "title": "BEZ DOGOVORA O ŠEFU UN: Ni u devetom glasanju nije postignut dogovor o kandidatu za novog generalnog sekretara",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Ni posle devetog kruga glasanja u SB nije jasnije ko će na čelo Ujedinjenih nacija",
-  "Ni posle devetog kruga glasanja u SB nije jasnije ko će na čelo Ujedinjenih nacija"
+  "Ni posle devetog kruga glasanja u SB nije jasnije ko će na čelo Ujedinjenih nacija",
+  "BEZ DOGOVORA O ŠEFU UN: Ni u devetom glasanju nije postignut dogovor o kandidatu za novog generalnog sekretara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +70,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Ni posle devetog kruga glasanja u Savetu bezbednosti nema izbora novog šefa UN"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

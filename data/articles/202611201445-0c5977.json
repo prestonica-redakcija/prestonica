@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T13:45:20.968361+00:00",
- "updated": "2026-11-20T13:45:20.968361+00:00",
+ "updated": "2026-11-20T22:26:21.460319+00:00",
  "sources": [
   {
    "name": "N1",
@@ -40,11 +40,18 @@
    "url": "https://nova.rs/vesti/hronika/iz-luke-u-sremskoj-mitrovici-se-otkacilo-sest-barzi-i-elevator-plovila-stigla-do-sapca/",
    "title": "Iz luke u Sremskoj Mitrovici se otkačilo šest barži i elevator, plovila stigla do Šapca",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/srbija/10168405/drama-na-savi-plovila-otkacena-usled-vetra-i-vodostaja",
+   "title": "Nevreme otkačilo sedam plovila, reka ih odnela do Šapca: Tegljač \"Fruška gora\" ih vraća u luku",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Sedam plovila iz luke u Sremskoj Mitrovici Sava odnela do Šapca",
-  "Iz luke u Sremskoj Mitrovici se otkačilo šest barži i elevator, plovila stigla do Šapca"
+  "Iz luke u Sremskoj Mitrovici se otkačilo šest barži i elevator, plovila stigla do Šapca",
+  "Nevreme otkačilo sedam plovila, reka ih odnela do Šapca: Tegljač \"Fruška gora\" ih vraća u luku"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%80%D0%B5%D0%BC%D1%81%D0%BA%D0%B0_%D0%9C%D0%B8%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%86%D0%B0_-_%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D0%BD%D0%B0_%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D0%B0_%D0%B4%D0%B5%D1%82%D0%B0%D1%99_002.jpg",
   "alt": "Sedam plovila otkačilo se iz luke u Sremskoj Mitrovici, Sava ih nosila do Šapca"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

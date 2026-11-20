@@ -30,17 +30,24 @@
  ],
  "importance": 5,
  "published": "2026-11-20T22:11:24.790366+00:00",
- "updated": "2026-11-20T22:11:24.790366+00:00",
+ "updated": "2026-11-20T22:26:21.460319+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/vasalo-sa-cupicem-u-sprovodenju-reformi-skupstina-ima-pouzdanog-partnera-u-eu",
    "title": "Vasalo sa Čupićem: U sprovođenju reformi Skupština ima pouzdanog partnera u EU",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253002/cupic-u-rezidenciji-eu-sa-dzulijanom-vasalom/vest",
+   "title": "Vasalo primio Čupića u rezidenciji EU: Skupština Srbije ima pouzdanog partnera u Uniji",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Vasalo sa Čupićem: U sprovođenju reformi Skupština ima pouzdanog partnera u EU"
+  "Vasalo sa Čupićem: U sprovođenju reformi Skupština ima pouzdanog partnera u EU",
+  "Vasalo primio Čupića u rezidenciji EU: Skupština Srbije ima pouzdanog partnera u Uniji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vasalo ugostio Čupića u rezidenciji EU, poruka o partnerstvu u reformama"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
