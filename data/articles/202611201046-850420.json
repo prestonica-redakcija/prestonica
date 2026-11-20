@@ -29,17 +29,24 @@
  ],
  "importance": 3,
  "published": "2026-11-20T09:46:49.864928+00:00",
- "updated": "2026-11-20T09:46:49.864928+00:00",
+ "updated": "2026-11-20T13:00:21.398102+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/299373/u-vise-beogradskih-opstina-zbog-radova-planirana-iskljucenja-struje-23-novembra/vest",
    "title": "U više beogradskih opština zbog radova planirana isključenja struje 23. novembra",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/299450/najavljena-iskljucenja-struje-24-i-25-novembra-u-delovima-10-opstina-u-beogradu/vest",
+   "title": "Najavljena isključenja struje 24. i 25. novembra u delovima 10 opština u Beogradu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "U više beogradskih opština zbog radova planirana isključenja struje 23. novembra"
+  "U više beogradskih opština zbog radova planirana isključenja struje 23. novembra",
+  "Najavljena isključenja struje 24. i 25. novembra u delovima 10 opština u Beogradu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Belgrade_or_Beograd_(%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4),_Serbia_2022-08_-_Mall_entrance_and_Starbucks.jpg",
   "alt": "Isključenja struje 23. novembra na Zvezdari, Voždovcu, Čukarici i Novom Beogradu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -37,7 +37,7 @@
  ],
  "importance": 7,
  "published": "2026-11-19T22:51:55.207085+00:00",
- "updated": "2026-11-20T12:45:30.692320+00:00",
+ "updated": "2026-11-20T13:00:21.398102+00:00",
  "sources": [
   {
    "name": "N1",
@@ -56,12 +56,19 @@
    "url": "https://www.tanjug.rs/svet/politika/299443/telegraf-tramp-rekao-evropskim-zvanicnicima-da-uskrate-finansiranje-ukrajini/vest",
    "title": "Telegraf: Tramp rekao evropskim zvaničnicima da uskrate finansiranje Ukrajini",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286653/tramp-porucio-evropi-da-prestane-da-finansira-ukrajinu/vest",
+   "title": "Tramp ima poruku za Evropu: \"Samo prestanite\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Tramp poručio Evropi da bi okončanjem rata u Ukrajini mogla da sačuva živote i uštedi novac",
   "Evropska zemlja bi se mogla naći u velikoj nevolji; Direktno učestvuju u ratu u Ukrajini?",
-  "Telegraf: Tramp rekao evropskim zvaničnicima da uskrate finansiranje Ukrajini"
+  "Telegraf: Tramp rekao evropskim zvaničnicima da uskrate finansiranje Ukrajini",
+  "Tramp ima poruku za Evropu: \"Samo prestanite\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,6 +81,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(08-03-2024)_(cropped)_(higher_res).jpg",
   "alt": "Tramp evropskim liderima: kraj rata štedi živote i novac, navode zvaničnici"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

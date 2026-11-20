@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T09:17:09.352450+00:00",
- "updated": "2026-11-20T10:01:42.782858+00:00",
+ "updated": "2026-11-20T13:00:21.398102+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -46,12 +46,19 @@
    "url": "https://insajder.net/prenosimo/janaf-u-toku-zavrsni-radovi-na-sanaciji-naftovoda",
    "title": "JANAF: U toku završni radovi na sanaciji naftovoda",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/region/299449/janaf-izvodi-zavrsne-radove-na-sanaciji-ostecenog-naftovoda/vest",
+   "title": "JANAF izvodi završne radove na sanaciji oštećenog naftovoda",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "JANAF: Na mestu oštećenja naftovoda izvode se završni radovi na sanaciji cevi",
   "JANAF: Na mestu oštećenja naftovoda izvode se završni radovi na sanaciji cevi",
-  "JANAF: U toku završni radovi na sanaciji naftovoda"
+  "JANAF: U toku završni radovi na sanaciji naftovoda",
+  "JANAF izvodi završne radove na sanaciji oštećenog naftovoda"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +70,6 @@
   "local": true,
   "alt": "JANAF: završni radovi na sanaciji oštećenog naftovoda, NIS još bez potrebnih količina nafte"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

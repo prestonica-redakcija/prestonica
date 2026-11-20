@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T10:16:32.399954+00:00",
- "updated": "2026-11-20T10:31:22.846463+00:00",
+ "updated": "2026-11-20T13:00:21.398102+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -52,12 +52,19 @@
    "url": "https://www.novosti.rs/vesti/politika/1673026/dok-drugi-sklanjaju-oni-pristupaju-sns-vucic-pozdravio-vuksu-dragovica-poslao-snaznu-poruku-video",
    "title": "\"DOK SE DRUGI SKLANjAJU, ONI PRISTUPAJU SNS-u\" Vučić pozdravio Vukšu Dragovića i poslao snažnu poruku (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/vucic-vuksa-dragovic-pristupio-sns-dobrodosao-u-porodicu/",
+   "title": "Vučić: Vukša Dragović pristupio SNS, dobrodošao u porodicu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "VUKŠA DRAGOVIĆ POSTAO ČLAN SRPSKE NAPREDNE STRANKE! Vučić: Hvala za pristupnicu u ovim teškim danima, dobro došao u svoju drugu porodicu! (VIDEO)",
   "Veliko pojačanje za SNS! Vukša Dragović se učlanio u stranku, Vučić mu poručio: \"Dobrodošao u svoju drugu porodicu!\" (VIDEO)",
-  "\"DOK SE DRUGI SKLANjAJU, ONI PRISTUPAJU SNS-u\" Vučić pozdravio Vukšu Dragovića i poslao snažnu poruku (VIDEO)"
+  "\"DOK SE DRUGI SKLANjAJU, ONI PRISTUPAJU SNS-u\" Vučić pozdravio Vukšu Dragovića i poslao snažnu poruku (VIDEO)",
+  "Vučić: Vukša Dragović pristupio SNS, dobrodošao u porodicu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "local": true,
   "alt": "Vukša Dragović pristupio SNS-u, Vučić mu poručio da je dobrodošao u drugu porodicu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
