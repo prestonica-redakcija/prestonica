@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T14:29:45.124535+00:00",
- "updated": "2026-11-20T14:29:45.124535+00:00",
+ "updated": "2026-11-20T14:44:40.690492+00:00",
  "sources": [
   {
    "name": "N1",
@@ -48,11 +48,25 @@
    "url": "https://www.danas.rs/vesti/drustvo/mup-vulin-radoicic/",
    "title": "MUP: Granična policija prilikom Vulinovog leta za Moskvu radila u skladu sa zakonom, Radoičić nezakonito prešao granicu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/granicna-policija-milan-radoicic-ne-moze-da-predje-drzavnu-granicu-na-zakonit-nacin/",
+   "title": "Granična policija: Milan Radoičić ne može da pređe državnu granicu na zakonit način",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/299491/uprava-granicne-policije-postupamo-u-skladu-sa-zakonom-mediji-da-se-uzdrze-od-spekulacija/vest",
+   "title": "Uprava granične policije: Postupamo u skladu sa zakonom, mediji da se uzdrže od spekulacija",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "MUP Srbije: Granična policija prilikom Vulinovog leta za Moskvu radila u skladu sa zakonom",
-  "MUP: Granična policija prilikom Vulinovog leta za Moskvu radila u skladu sa zakonom, Radoičić nezakonito prešao granicu"
+  "MUP: Granična policija prilikom Vulinovog leta za Moskvu radila u skladu sa zakonom, Radoičić nezakonito prešao granicu",
+  "Granična policija: Milan Radoičić ne može da pređe državnu granicu na zakonit način",
+  "Uprava granične policije: Postupamo u skladu sa zakonom, mediji da se uzdrže od spekulacija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +78,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Aleksandar_Vulin_and_Dimitris_Avramopoulos.jpg",
   "alt": "MUP: Granična policija u slučaju Vulinovog leta za Moskvu postupala po zakonu"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -23,17 +23,24 @@
  "places": [],
  "importance": 3,
  "published": "2026-11-19T06:43:56.892649+00:00",
- "updated": "2026-11-19T06:43:56.892649+00:00",
+ "updated": "2026-11-20T14:44:40.690492+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/biznis/biznis-vesti/252653/kriptovalute-danas-koliko-vrede-bitcoin-i-etirijum/vest",
    "title": "Šta se događa na kripto tržištu? Bitkoin i vodeće digitalne valute beleže promene",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/299487/bitkoin-pao-za-343-odsto-na-56280-evra-itirijum-za-336-odsto-na-manje-od-1600-evra/vest",
+   "title": "Bitkoin pao za 3,43 odsto na 56.280 evra, itirijum za 3,36 odsto na manje od 1.600 evra",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Šta se događa na kripto tržištu? Bitkoin i vodeće digitalne valute beleže promene"
+  "Šta se događa na kripto tržištu? Bitkoin i vodeće digitalne valute beleže promene",
+  "Bitkoin pao za 3,43 odsto na 56.280 evra, itirijum za 3,36 odsto na manje od 1.600 evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -44,5 +51,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Bitkoin pao 1,72 odsto na 58.324 evra, indeks straha i pohlepe na nivou 11"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

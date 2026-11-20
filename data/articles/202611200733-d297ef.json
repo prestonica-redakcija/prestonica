@@ -35,7 +35,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-20T13:15:18.596243+00:00",
+ "updated": "2026-11-20T14:44:40.690492+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -144,6 +144,12 @@
    "url": "https://n1info.rs/svet/u-ruskim-nocnim-napadima-na-ukrajinu-poginulo-14-ljudi/",
    "title": "U ruskim noćnim napadima na Ukrajinu poginulo 14 ljudi",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299486/rute-podignuti-nato-avioni-nakon-pada-projektila-na-teritoriju-poljske/vest",
+   "title": "Rute: Podignuti NATO avioni nakon pada projektila na teritoriju Poljske",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -164,7 +170,8 @@
   "Zelenski: Rusija lansirala više od 400 dronova i 110 raketa na Ukrajinu, poginulo osmoro",
   "U Poljskoj se srušile dve ruske krstareće rakete i dron: \"Ovo je još jedna provokacija\"",
   "NOVI DETALJI INCIDENTA U POLJSKOJ! Pale dve ruske rakete i dron, objavljena fotografija (FOTO)",
-  "U ruskim noćnim napadima na Ukrajinu poginulo 14 ljudi"
+  "U ruskim noćnim napadima na Ukrajinu poginulo 14 ljudi",
+  "Rute: Podignuti NATO avioni nakon pada projektila na teritoriju Poljske"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -178,7 +185,7 @@
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
  },
- "novo_od_pisanja": 2,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-20T11:31:01.625476+00:00",
  "verzija": 4
