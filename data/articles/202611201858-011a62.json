@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T17:58:15.400453+00:00",
- "updated": "2026-11-20T18:13:05.140247+00:00",
+ "updated": "2026-11-20T18:28:08.249777+00:00",
  "sources": [
   {
    "name": "B92",
@@ -39,10 +39,17 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/299559/poreska-uprava-objavila-obavestenje-za-obveznike-koji-su-u-alta-banci-imali-racune/vest",
    "title": "Poreska uprava objavila obaveštenje za obveznike koji su u Alta banci imali račune",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/poreska-uprava-objavila-obavestenje-za-obveznike-koji-su-u-alta-banci-imali-racune",
+   "title": "Poreska uprava objavila obaveštenje za obveznike koji su u Alta banci imali račune",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Poreska uprava ima obaveštenje za one koji su u Alta banci imali račune",
+  "Poreska uprava objavila obaveštenje za obveznike koji su u Alta banci imali račune",
   "Poreska uprava objavila obaveštenje za obveznike koji su u Alta banci imali račune"
  ],
  "author": "Redakcija Prestonice",
@@ -56,6 +63,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Beograd_Narodna_banka_Srbije_Kralja_Petra_12_24.jpg",
   "alt": "Poreska uprava objavila uputstvo za obveznike koji su imali račune u Alta banci"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

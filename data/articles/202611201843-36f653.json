@@ -30,17 +30,24 @@
  ],
  "importance": 6,
  "published": "2026-11-20T17:43:12.187852+00:00",
- "updated": "2026-11-20T17:43:12.187852+00:00",
+ "updated": "2026-11-20T18:28:08.249777+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/gotovo-devet-biliona-dolara-izbrisano-sa-svetskih-berzi-ai-sektor-pod-pritiskom/",
    "title": "Gotovo devet biliona dolara izbrisano sa svetskih berzi, AI sektor pod pritiskom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/svetske-berze-u-ostrom-padu-vrednost-akcija-od-avgusta-manja-za-gotovo-devet-biliona-dolara",
+   "title": "Svetske berze u oštrom padu: Vrednost akcija od avgusta manja za gotovo devet biliona dolara",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Gotovo devet biliona dolara izbrisano sa svetskih berzi, AI sektor pod pritiskom"
+  "Gotovo devet biliona dolara izbrisano sa svetskih berzi, AI sektor pod pritiskom",
+  "Svetske berze u oštrom padu: Vrednost akcija od avgusta manja za gotovo devet biliona dolara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Svetske berze u padu: od avgustovskog vrha izbrisano gotovo devet biliona dolara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

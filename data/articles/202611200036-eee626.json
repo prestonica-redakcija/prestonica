@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T23:36:31.686264+00:00",
- "updated": "2026-11-20T14:44:40.690492+00:00",
+ "updated": "2026-11-20T18:28:08.249777+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -130,6 +130,12 @@
    "url": "https://n1info.rs/najave-emisija/novi-dan-plan-studentske-liste-za-expo/",
    "title": "Novi dan: Plan Studentske liste za EXPO",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/gledajte-uzivo-dnevnik-tv-nova20112026/",
+   "title": "Gledajte uživo Dnevnik TV Nova",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -148,7 +154,8 @@
   "Aleksandar Čupić sa studentima uklanja grafite SNS sa zidova fakulteta (VIDEO)",
   "ČUPIĆ SA STUDENTIMA UKLANJA GRAFITE SA FAKULTETA Novi predsednik parlamenta jutro nakon maratonske sednice uzeo četku u ruke i kreči zidove",
   "(FOTO/VIDEO) Predsednik Skupštine Srbije Aleksandar Čupić, dan posle sednice, čistio i krečio fakultet",
-  "Novi dan: Plan Studentske liste za EXPO"
+  "Novi dan: Plan Studentske liste za EXPO",
+  "Gledajte uživo Dnevnik TV Nova"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -160,7 +167,7 @@
   "local": true,
   "alt": "Čupić: biću predsednik svih poslanika, Studentska lista slavi izbor rukovodstva Skupštine"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-20T11:31:01.625476+00:00",
  "verzija": 3
