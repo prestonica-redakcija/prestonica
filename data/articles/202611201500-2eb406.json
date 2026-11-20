@@ -1,0 +1,50 @@
+{
+ "id": "202611201500-2eb406",
+ "slug": "signal-uvodi-blokadu-snimanja-ekrana-kako-ai-agenti-ne-bi-citali",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Signal uvodi blokadu snimanja ekrana kako AI agenti ne bi čitali privatne poruke",
+ "lead": "Aplikacija za šifrovanu razmenu poruka Signal objavila je da uvodi nova ograničenja snimanja ekrana na mobilnim telefonima. Cilj je da se AI agentima oteža pristup privatnim razgovorima korisnika.",
+ "body": [
+  "Signal je danas saopštio da uvodi nova podešavanja koja treba da spreče AI agente da pristupaju razmenama privatnih poruka na mobilnim telefonima, prenosi Tanjug pozivajući se na Rojters.",
+  "Nova podešavanja će po pravilu biti uključena i blokiraće pokušaje snimanja ekrana. Time se AI sistemima otežava da čitaju poruke vizuelnim pristupom sadržaju aplikacije, navodi Rojters.",
+  "Kada Signal otkrije pokušaj snimanja ekrana ili pristupa preko AI asistenta, korisniku će se prikazati obaveštenje. Uz njega će stajati i mogućnost da se ova zaštita isključi."
+ ],
+ "tags": [
+  "Signal",
+  "veštačka inteligencija",
+  "AI agenti",
+  "privatnost",
+  "šifrovane poruke",
+  "snimanje ekrana"
+ ],
+ "people": [],
+ "places": [
+  "San Francisko"
+ ],
+ "importance": 4,
+ "published": "2026-11-20T14:00:00.902236+00:00",
+ "updated": "2026-11-20T14:00:00.902236+00:00",
+ "sources": [
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/299432/aplikacija-signal-blokirala-snimanja-ekrana-zbog-ai-agenata-koji-citaju-poruke/vest",
+   "title": "Aplikacija Signal blokirala snimanja ekrana zbog AI agenata koji čitaju poruke",
+   "spektar": "centar"
+  }
+ ],
+ "source_titles": [
+  "Aplikacija Signal blokirala snimanja ekrana zbog AI agenata koji čitaju poruke"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 2.261,
+ "image": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Electric_Signaling_Device._-_DPLA_-_5c822619b761de05af8ab3927cfb41ae_%28page_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "Wikimedia Commons / Baker, John A / Public domain",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:Electric_Signaling_Device._-_DPLA_-_5c822619b761de05af8ab3927cfb41ae_(page_1).jpg",
+  "alt": "Signal uvodi blokadu snimanja ekrana kako AI agenti ne bi čitali privatne poruke"
+ }
+}

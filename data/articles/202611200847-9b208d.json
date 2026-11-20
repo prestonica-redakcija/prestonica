@@ -34,7 +34,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T07:47:34.312460+00:00",
- "updated": "2026-11-20T12:30:42.075846+00:00",
+ "updated": "2026-11-20T14:00:00.902236+00:00",
  "sources": [
   {
    "name": "B92",
@@ -83,6 +83,12 @@
    "url": "https://www.danas.rs/svet/italija-strajk-24-casa/",
    "title": "Štrajk u više od 100 gradova Italije: Radnicima i studentima priključili se i lideri opozicije, besni na Meloni (VIDEO)",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299431/neredi-tokom-protesta-u-italiji-generalni-strajk-poremetio-saobracaj-i-rad-skola/vest",
+   "title": "Neredi tokom protesta u Italiji, generalni štrajk poremetio saobraćaj i rad škola",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -93,7 +99,8 @@
   "Danas generalni štrajk u Italiji, protesti u oko 100 gradova",
   "Učenici srednjih škola i studenti u Hrvatskoj pozvani na celodnevni bojkot nastave",
   "Štrajk mladih u Hrvatskoj: Objavljen program sa 22 zahteva, poznato koje škole i fakulteti učestvuju",
-  "Štrajk u više od 100 gradova Italije: Radnicima i studentima priključili se i lideri opozicije, besni na Meloni (VIDEO)"
+  "Štrajk u više od 100 gradova Italije: Radnicima i studentima priključili se i lideri opozicije, besni na Meloni (VIDEO)",
+  "Neredi tokom protesta u Italiji, generalni štrajk poremetio saobraćaj i rad škola"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -105,8 +112,8 @@
   "local": true,
   "alt": "Štrajk mladih u Hrvatskoj: bojkot nastave i protesti u pet gradova"
  },
- "novo_od_pisanja": 2,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-20T11:16:08.898553+00:00",
  "verzija": 2
 }

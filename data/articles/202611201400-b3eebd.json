@@ -28,16 +28,23 @@
  ],
  "importance": 5,
  "published": "2026-11-20T13:00:21.398102+00:00",
- "updated": "2026-11-20T13:00:21.398102+00:00",
+ "updated": "2026-11-20T14:00:00.902236+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/299434/srpska-lista-uprkos-upozorenjima-evropske-komisije-srpske-kuce-na-gazivodama-se-ponovo-ruse/vest",
    "title": "Srpska lista: Uprkos upozorenjima Evropske komisije, srpske kuće na Gazivodama se ponovo ruše",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/252950/srpska-lista-uprkos-upozorenjima-evropske-komisije-srpske-kuce-na-gazivodama-se-ponovo-ruse/vest",
+   "title": "Srpska lista: Uprkos upozorenjima Evropske komisije, srpske kuće na Gazivodama se ponovo ruše",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
+  "Srpska lista: Uprkos upozorenjima Evropske komisije, srpske kuće na Gazivodama se ponovo ruše",
   "Srpska lista: Uprkos upozorenjima Evropske komisije, srpske kuće na Gazivodama se ponovo ruše"
  ],
  "author": "Redakcija Prestonice",
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Gazivode_Lake.JPG",
   "alt": "Srpska lista traži hitnu obustavu rušenja objekata na Gazivodama"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

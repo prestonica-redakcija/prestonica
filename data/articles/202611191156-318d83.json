@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-19T10:56:49.993173+00:00",
- "updated": "2026-11-20T13:45:20.968361+00:00",
+ "updated": "2026-11-20T14:00:00.902236+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -124,6 +124,12 @@
    "url": "https://www.danas.rs/svet/mjanmar-odbacio-presudu-za-genocid/",
    "title": "Mjanmar odbacio presudu za genocid",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299472/mjanmar-smatra-da-je-presuda-medunarodnog-suda-pravde-o-genocidu-nepravedna/vest",
+   "title": "Mjanmar smatra da je presuda Međunarodnog suda pravde o genocidu nepravedna",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -141,7 +147,8 @@
   "\"NAŠA ZEMLJA JE NEPRAVEDNO OPTUŽENA\" Mjanmar burno reagovao nakon što je proglašen krivim za GENOCID nad muslimanima iz naroda Rohindža",
   "Prvi put u istoriji jedna država proglašena odgovornom za genocid: Kako presuda o Mjanmaru može da utiče na slučaj Gaze?",
   "\"Ovo je naš tračak nade\": Šta istorijska presuda za genocid u Mjanmaru donosi proteranim Rohindžama?",
-  "Mjanmar odbacio presudu za genocid"
+  "Mjanmar odbacio presudu za genocid",
+  "Mjanmar smatra da je presuda Međunarodnog suda pravde o genocidu nepravedna"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -153,7 +160,7 @@
   "local": true,
   "alt": "Međunarodni sud pravde: u Mjanmaru 2017. ubijeno oko 10.000 Rohindža"
  },
- "novo_od_pisanja": 7,
+ "novo_od_pisanja": 8,
  "boost": 1.6,
  "prepisano": "2026-11-19T12:41:11.680229+00:00",
  "verzija": 2

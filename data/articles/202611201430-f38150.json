@@ -26,17 +26,24 @@
  ],
  "importance": 4,
  "published": "2026-11-20T13:30:11.562829+00:00",
- "updated": "2026-11-20T13:30:11.562829+00:00",
+ "updated": "2026-11-20T14:00:00.902236+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/299455/folksvagen-trazi-zamrzavanje-plata-na-dve-godine-i-ukidanje-pojedinih-dodataka/vest",
    "title": "Folksvagen traži zamrzavanje plata na dve godine i ukidanje pojedinih dodataka",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1673138/burno-volfsburgu-folksvagen-trazi-zamrzavanje-plata-dve-godine-radnici-spremaju-odgovor",
+   "title": "BURNO U VOLFSBURGU: Folksvagen traži zamrzavanje plata na dve godine, radnici spremaju odgovor",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Folksvagen traži zamrzavanje plata na dve godine i ukidanje pojedinih dodataka"
+  "Folksvagen traži zamrzavanje plata na dve godine i ukidanje pojedinih dodataka",
+  "BURNO U VOLFSBURGU: Folksvagen traži zamrzavanje plata na dve godine, radnici spremaju odgovor"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:2022-11-16_Warnstreik_Tarifrunde_IG_Metall_und_Elektro,_Beginn_Opernplatz_Hannover,_12.jpg",
   "alt": "Folksvagen traži zamrzavanje plata za 2027. i 2028. i ukidanje pojedinih dodataka"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
