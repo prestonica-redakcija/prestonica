@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-19T18:53:38.415827+00:00",
- "updated": "2026-11-19T18:53:38.415827+00:00",
+ "updated": "2026-11-20T19:27:33.174647+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -40,11 +40,18 @@
    "url": "https://nova.rs/vesti/drustvo/hala-sportova-u-paracinu-nosice-ime-anje-radonjic-stradale-u-padu-nadstresnice-u-novom-sadu/",
    "title": "Hala sportova u Paraćinu nosiće ime Anje Radonjić, stradale u padu nadstrešnice u Novom Sadu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/sport/ostali-sportovi/4436937-hala-sportova-u-paracinu-od-danas-nosi-ime-po-anji-radonjic-koja-je-nastradala-u-padu-nadstresnice",
+   "title": "Hala sportova u Paraćinu od danas nosi ime po Anji Radonjić koja je nastradala u padu nadstrešnice",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Hala sportova u Paraćinu nosiće ime Anje Radonjić, stradale u padu nadstrešnice u Novom Sadu",
-  "Hala sportova u Paraćinu nosiće ime Anje Radonjić, stradale u padu nadstrešnice u Novom Sadu"
+  "Hala sportova u Paraćinu nosiće ime Anje Radonjić, stradale u padu nadstrešnice u Novom Sadu",
+  "Hala sportova u Paraćinu od danas nosi ime po Anji Radonjić koja je nastradala u padu nadstrešnice"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Para%C4%87in_05.jpg",
   "alt": "Hala sportova u Paraćinu dobija ime Anje Radonjić, stradale u padu nadstrešnice"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

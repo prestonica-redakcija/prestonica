@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T16:28:52.999328+00:00",
- "updated": "2026-11-20T16:43:36.323561+00:00",
+ "updated": "2026-11-20T19:27:33.174647+00:00",
  "sources": [
   {
    "name": "N1",
@@ -54,13 +54,20 @@
    "url": "https://nova.rs/vesti/hronika/obustavljen-saobracaj-u-tunelu-laz-zbog-kvara-teretnog-vozila/",
    "title": "Obustavljen saobraćaj u tunelu \"Laz\" zbog kvara teretnog vozila",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/ponovo-uspostavljen-saobracaj-u-tunelu-laz/",
+   "title": "Ponovo uspostavljen saobraćaj u tunelu \"Laz\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Obustavljen saobraćaj u tunelu \"Laz\" zbog kvara teretnog vozila",
   "Kolaps u tunelu Laz na auto-putu Miloš Veliki: Kamion ostao u kvaru, vozila se preusmeravaju",
   "KOLAPS NA AUTO-PUTU MILOŠ VELIKI: Kamion se pokvario u tunelu Laz, obustavljen saobraćaj u oba smera",
-  "Obustavljen saobraćaj u tunelu \"Laz\" zbog kvara teretnog vozila"
+  "Obustavljen saobraćaj u tunelu \"Laz\" zbog kvara teretnog vozila",
+  "Ponovo uspostavljen saobraćaj u tunelu \"Laz\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Pakovra%C4%87e,_Auto-put_Milo%C5%A1_Veliki.jpg",
   "alt": "Obustavljen saobraćaj u tunelu Laz na auto-putu Miloš Veliki zbog kamiona u kvaru"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
