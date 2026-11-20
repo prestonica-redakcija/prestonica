@@ -36,16 +36,23 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-20T06:33:19.742913+00:00",
+ "updated": "2026-11-20T07:32:37.259856+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/cacani-pod-tajnim-nadzorom-bia-kao-da-mi-je-neko-virio-kroz-kljucaonicu-kupatila-dok-se-kupam/",
    "title": "Čačani pod tajnim nadzorom BIA: \"Kao da mi je neko virio kroz ključaonicu kupatila dok se kupam\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/cacani-pod-tajnim-nadzorom-bia-kao-da-mi-je-neko-virio-kroz-kljucaonicu-kupatila-dok-se-kupam/",
+   "title": "Čačani pod tajnim nadzorom BIA: \"Kao da mi je neko virio kroz ključaonicu kupatila dok se kupam\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Čačani pod tajnim nadzorom BIA: \"Kao da mi je neko virio kroz ključaonicu kupatila dok se kupam\"",
   "Čačani pod tajnim nadzorom BIA: \"Kao da mi je neko virio kroz ključaonicu kupatila dok se kupam\""
  ],
  "author": "Redakcija Prestonice",
@@ -58,5 +65,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:ELM-2084_MMR_radar_of_the_Cyprus_National_Guard.jpg",
   "alt": "Radar: BIA od 2022. prisluškivala novinare i aktiviste iz Čačka i Gornjeg Milanovca"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

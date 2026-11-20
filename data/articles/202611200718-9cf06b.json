@@ -27,17 +27,24 @@
  ],
  "importance": 3,
  "published": "2026-11-20T06:18:15.014670+00:00",
- "updated": "2026-11-20T06:18:15.014670+00:00",
+ "updated": "2026-11-20T07:32:37.259856+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/drustvo/299331/na-granicnom-prelazu-batrovci-teretna-vozila-cekaju-6-sati-na-izlaz-putevi-bez-snega/vest",
    "title": "Na graničnom prelazu Batrovci teretna vozila čekaju 6 sati na izlaz, putevi bez snega",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/na-granicnom-prelazu-batrovci-teretna-vozila-cekaju-sest-sati-na-izlaz-putevi-bez-snega",
+   "title": "Na graničnom prelazu Batrovci teretna vozila čekaju šest sati na izlaz, putevi bez snega",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Na graničnom prelazu Batrovci teretna vozila čekaju 6 sati na izlaz, putevi bez snega"
+  "Na graničnom prelazu Batrovci teretna vozila čekaju 6 sati na izlaz, putevi bez snega",
+  "Na graničnom prelazu Batrovci teretna vozila čekaju šest sati na izlaz, putevi bez snega"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Grani%C4%8Dni_prelaz_Batrovci_in_the_evening_(1).jpg",
   "alt": "Na prelazu Batrovci teretna vozila na izlaz čekaju šest sati, putnički saobraćaj bez zadržavanja"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
