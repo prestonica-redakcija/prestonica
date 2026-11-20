@@ -6889,18 +6889,14 @@
   "https://www.euronews.rs/biznis/biznis-vesti/252855/kurs-dinara-danas-1176412-za-evro-dolar-1070049/vest": "2026-11-20T04:04:30.128065+00:00",
   "https://www.tanjug.rs/svet/drustvo/299313/nekoliko-bozicnih-marketa-u-nemackoj-otkazano-zbog-manjka-novca-u-gradskim-kasama/vest": "2026-11-20T04:04:30.128065+00:00",
   "https://www.kurir.rs/planeta/10166645/vise-bozicnih-vasara-u-nemackoj-otkazano-zbog-finansijskih-i-organizacionih-problema": "2026-11-20T04:04:30.128065+00:00",
-  "https://www.telegraf.rs/vesti/srbija/4436201-vase-malo-nekome-znaci-mnogo-evo-gde-danas-mozete-dati-krv": "2026-11-20T04:19:22.490652+00:00"
+  "https://www.telegraf.rs/vesti/srbija/4436201-vase-malo-nekome-znaci-mnogo-evo-gde-danas-mozete-dati-krv": "2026-11-20T04:19:22.490652+00:00",
+  "https://www.kurir.rs/vesti/srbija/10166903/smece-pluta-ulicama-smedereva": "2026-11-20T04:34:10.218874+00:00",
+  "https://www.kurir.rs/vesti/beograd/10166786/bez-vode-danas-u-beogradu": "2026-11-20T04:34:10.218874+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-19T13:46+00:00",
-   "novih": 0,
-   "ukupno": 2796,
-   "sekundi": 373.5
-  },
   {
    "vreme": "2026-11-19T14:01+00:00",
    "novih": 2,
@@ -7254,6 +7250,12 @@
    "novih": 0,
    "ukupno": 2867,
    "sekundi": 298.7
+  },
+  {
+   "vreme": "2026-11-20T04:37+00:00",
+   "novih": 0,
+   "ukupno": 2867,
+   "sekundi": 181.4
   }
  ],
  "licnosti_foto": {
@@ -9929,7 +9931,7 @@
    "slug": "radna-grupa-gost-predrag-azdejkovic-o-medijskoj-situaciji-1h3bsxc9kvi"
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -63172,8 +63174,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-20T04:19:58.758733+00:00",
-  "uzivo_t": "2026-11-20T04:19:58.758745+00:00"
+  "provereno": "2026-11-20T04:34:28.470199+00:00",
+  "uzivo_t": "2026-11-20T04:34:28.470211+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {

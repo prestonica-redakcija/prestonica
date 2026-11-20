@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T19:49:06.120965+00:00",
- "updated": "2026-11-18T20:18:46.152812+00:00",
+ "updated": "2026-11-20T04:34:10.218874+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -67,6 +67,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/rukovodstvo-smedereva-u-toku-sledece-nedelje-biti-uspostavljeno-normalno-funkcionisanje-odvozenja-komunalnog-otpada/",
    "title": "Rukovodstvo Smedereva: U toku sledeće nedelje biti uspostavljeno normalno funkcionisanje odvoženja komunalnog otpada",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/srbija/10166903/smece-pluta-ulicama-smedereva",
+   "title": "GRAD SMEDEREVO: Normalizacija odvoženja komunalnog otpada očekuje se sledeće nedelje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -75,7 +81,8 @@
   "Grad Smederevo: Normalizacija odvoženja komunalnog otpada očekuje se sledeće nedelje",
   "Grad Smederevo: Normalizacija odvoženja komunalnog otpada očekuje se sledeće nedelje",
   "Grad Smederevo: Očekujemo da u toku sledeće nedelje bude uspostavljeno normalno odvoženje smeća",
-  "Rukovodstvo Smedereva: U toku sledeće nedelje biti uspostavljeno normalno funkcionisanje odvoženja komunalnog otpada"
+  "Rukovodstvo Smedereva: U toku sledeće nedelje biti uspostavljeno normalno funkcionisanje odvoženja komunalnog otpada",
+  "GRAD SMEDEREVO: Normalizacija odvoženja komunalnog otpada očekuje se sledeće nedelje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -88,6 +95,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Smederevska_tvr%C4%91ava_danas;_Smederevo_fortress_today_03.jpg",
   "alt": "Smederevo: redovno odvoženje smeća očekuje se tek sledeće nedelje"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

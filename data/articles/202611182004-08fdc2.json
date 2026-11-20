@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-18T19:04:16.654942+00:00",
- "updated": "2026-11-19T11:26:46.370283+00:00",
+ "updated": "2026-11-20T04:34:10.218874+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -50,12 +50,19 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10166499/kako-ce-se-kretati-nevreme-u-srbiji-danas",
    "title": "JOŠ JAČE NEVREME STIŽE U SRBIJU, POGLEDAJTE KAKO ĆE SE KRETATI IZ SATA U SAT: RHMZ izdao hitno upozorenje - Pljuskovi i nepogode sručiće se na ove delove",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/beograd/10166786/bez-vode-danas-u-beogradu",
+   "title": "BEZ VODE SU DANAS OVI DELOVI BARAJEVA: Na spisku 4 naselja i ove ulice",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "VIDEO \"Beograd na vodi\" ali stvarno: Apokaliptične slike poplavljenih ulica nakon obilne kiše, RHMZ upozorava da padavine ne prestaju ni večeras",
   "(MAPE) HITNO UPOZORENJE RHMZ, NEVREME NE POSUSTAJE! Pogledajte kretanje padavina iz sata u sat: Evo u kojim delovima Srbije će večeras pasti i do 50 litara kiše",
-  "JOŠ JAČE NEVREME STIŽE U SRBIJU, POGLEDAJTE KAKO ĆE SE KRETATI IZ SATA U SAT: RHMZ izdao hitno upozorenje - Pljuskovi i nepogode sručiće se na ove delove"
+  "JOŠ JAČE NEVREME STIŽE U SRBIJU, POGLEDAJTE KAKO ĆE SE KRETATI IZ SATA U SAT: RHMZ izdao hitno upozorenje - Pljuskovi i nepogode sručiće se na ove delove",
+  "BEZ VODE SU DANAS OVI DELOVI BARAJEVA: Na spisku 4 naselja i ove ulice"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "osoba": "Savo Manojlović",
   "alt": "RHMZ upozorava na obilne padavine, u Beogradu poplavljene ulice"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
