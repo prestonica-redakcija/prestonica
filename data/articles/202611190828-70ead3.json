@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-19T07:28:30.060675+00:00",
- "updated": "2026-11-20T06:18:15.014670+00:00",
+ "updated": "2026-11-20T07:47:34.312460+00:00",
  "sources": [
   {
    "name": "N1",
@@ -38,10 +38,17 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/299048/svetski-dan-deteta-obelezava-se-danas/vest",
    "title": "Svetski dan deteta obeležava se danas",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4436380-svetski-dan-deteta-obelezava-se-danas",
+   "title": "Svetski dan deteta obeležava se danas",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "SANU danas obeležava svoj Dan",
+  "Svetski dan deteta obeležava se danas",
   "Svetski dan deteta obeležava se danas"
  ],
  "author": "Redakcija Prestonice",
@@ -54,6 +61,6 @@
   "local": true,
   "alt": "SANU obeležava svoj Dan izložbom i svečanom proslavom u podne"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
