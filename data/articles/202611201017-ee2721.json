@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T09:17:09.352450+00:00",
- "updated": "2026-11-20T10:16:32.399954+00:00",
+ "updated": "2026-11-20T14:29:45.124535+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -83,6 +83,12 @@
    "url": "https://www.kurir.rs/crna-hronika/10167689/akcija-mozaik-uhapseno-sest-osoba-zbog-zlostavljanja-dece",
    "title": "DEVETORO DECE SPAŠENO IZ KANDŽI MANIJAKA Predstavljali se kao devojčice preko lažnih profila da bi dobili intimne snimke maloletnika: Uhapšeno šest osoba",
    "spektar": "vlast"
+  },
+  {
+   "name": "Standard",
+   "url": "https://standard.rs/2026/11/20/prekomponovanje-politicke-scene-u-srpskoj/",
+   "title": "Prekomponovanje političke scene u Srpskoj",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -93,7 +99,8 @@
   "MUP: Šestoro uhapšenih u međunarodnoj akciji protiv seksualnog zlostavljanja dece",
   "Dačić: U međunarodnoj akciji ''Mozaik\" uhapšeno je šest osoba i spaseno devetoro dece",
   "Šestoro uhapšenih u međunarodnoj akciji protiv seksualnog zlostavljanja dece",
-  "DEVETORO DECE SPAŠENO IZ KANDŽI MANIJAKA Predstavljali se kao devojčice preko lažnih profila da bi dobili intimne snimke maloletnika: Uhapšeno šest osoba"
+  "DEVETORO DECE SPAŠENO IZ KANDŽI MANIJAKA Predstavljali se kao devojčice preko lažnih profila da bi dobili intimne snimke maloletnika: Uhapšeno šest osoba",
+  "Prekomponovanje političke scene u Srpskoj"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -107,6 +114,6 @@
   "osoba": "Ivica Dačić",
   "alt": "U međunarodnoj akciji \"Mozaik\" u Srbiji uhapšeno šest osoba, spaseno devetoro dece"
  },
- "novo_od_pisanja": 6,
- "boost": 1.48
+ "novo_od_pisanja": 7,
+ "boost": 1.56
 }

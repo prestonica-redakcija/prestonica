@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T14:14:47.015911+00:00",
- "updated": "2026-11-20T14:14:47.015911+00:00",
+ "updated": "2026-11-20T14:29:45.124535+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -46,11 +46,18 @@
    "url": "https://informer.rs/politika/vesti/1171703/jtok-goran-ilic",
    "title": "Saznajemo: Formiran predmet u JTOK-u protiv tužioca Gorana Ilića po prijavi Stefanovića",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/299488/javno-tuzilastvo-za-organizovani-kriminal-formiralo-predmet-protiv-tuzioca-gorana-ilica/vest",
+   "title": "Javno tužilaštvo za organizovani kriminal formiralo predmet protiv tužioca Gorana Ilića",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "FORMIRAN PREDMET U JTOK-u PROTIV TUŽIOCA GORANA ILIĆA: Proverava se da li je zloupotrebio položaj i ometao pravdu",
-  "Saznajemo: Formiran predmet u JTOK-u protiv tužioca Gorana Ilića po prijavi Stefanovića"
+  "Saznajemo: Formiran predmet u JTOK-u protiv tužioca Gorana Ilića po prijavi Stefanovića",
+  "Javno tužilaštvo za organizovani kriminal formiralo predmet protiv tužioca Gorana Ilića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Nenad_Stefanovi%C4%87_1.jpg",
   "alt": "JTOK formirao predmet po prijavi Stefanovića protiv tužioca Gorana Ilića"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

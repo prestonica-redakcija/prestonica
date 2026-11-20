@@ -31,17 +31,24 @@
  ],
  "importance": 5,
  "published": "2026-11-20T12:30:42.075846+00:00",
- "updated": "2026-11-20T12:30:42.075846+00:00",
+ "updated": "2026-11-20T14:29:45.124535+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/snimak-s-nadzorne-kamere-napada-na-ekipu-n1-pogledajte-koliko-su-policajci-bili-udaljeni-i-kako-su-reagovali/",
    "title": "Snimak s nadzorne kamere napada na ekipu N1: Pogledajte koliko su policajci bili udaljeni i kako su reagovali",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/objavljen-snimak-napada-na-ekipu-n1-kod-cacilenda-video/",
+   "title": "Policajac hteo da reaguje, ali ga komandir zaustavio kad je osuđeni ubica lomio opremu N1: Objavljen snimak napada kod \"ćacilenda\" VIDEO",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Snimak s nadzorne kamere napada na ekipu N1: Pogledajte koliko su policajci bili udaljeni i kako su reagovali"
+  "Snimak s nadzorne kamere napada na ekipu N1: Pogledajte koliko su policajci bili udaljeni i kako su reagovali",
+  "Policajac hteo da reaguje, ali ga komandir zaustavio kad je osuđeni ubica lomio opremu N1: Objavljen snimak napada kod \"ćacilenda\" VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "N1 objavio snimak nadzorne kamere sa napada na njihovu ekipu kod Ćacilenda"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
