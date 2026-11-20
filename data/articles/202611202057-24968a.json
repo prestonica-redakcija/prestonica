@@ -24,7 +24,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T19:57:21.636399+00:00",
- "updated": "2026-11-20T20:42:03.328969+00:00",
+ "updated": "2026-11-20T23:10:57.680242+00:00",
  "sources": [
   {
    "name": "N1",
@@ -49,13 +49,20 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4436976-batut-u-srbiji-6630-slucajeva-oboljenja-slicnih-gripu-belezi-se-pad",
    "title": "Batut: U Srbiji 6.630 slučajeva oboljenja sličnih gripu, beleži se pad",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/batut-objavio-nove-podatke-vise-od-6-600-slucajeva-oboljenja-slicnih-gripu-za-sedam-dana/",
+   "title": "Batut objavio nove podatke: Više od 6.600 slučajeva oboljenja sličnih gripu za sedam dana",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Batut: U Srbiji od 9. do 15. novembra zabeleženo 6.630 slučajeva oboljenja sličnih gripu",
   "Batut: Zabeleženo 6.630 slučajeva oboljenja sličnih gripu",
   "Batut: Prošle nedelje u Srbiji 6.630 slučajeva oboljenja sličnih gripu, beleži se pad",
-  "Batut: U Srbiji 6.630 slučajeva oboljenja sličnih gripu, beleži se pad"
+  "Batut: U Srbiji 6.630 slučajeva oboljenja sličnih gripu, beleži se pad",
+  "Batut objavio nove podatke: Više od 6.600 slučajeva oboljenja sličnih gripu za sedam dana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:P%C3%A8re-Lachaise_-_Division_45_-_Estibal-La-Batut_02.jpg",
   "alt": "Batut: u Srbiji od 9. do 15. novembra 6.630 slučajeva oboljenja sličnih gripu"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

@@ -33,17 +33,24 @@
  ],
  "importance": 6,
  "published": "2026-11-20T09:17:09.352450+00:00",
- "updated": "2026-11-20T09:17:09.352450+00:00",
+ "updated": "2026-11-20T23:10:57.680242+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1171595/ana-dimitrijevic-studentska-lista-eu",
    "title": "Srbi, šta nije jasno?! Ovo je politika blokadera: Prvo priznanje Kosova i sankcije Rusiji, pa referendum o EU",
    "spektar": "vlast"
+  },
+  {
+   "name": "Radar",
+   "url": "https://radar.nova.rs/politika/kosovo-srbija-vucic-sns-studenti-srpska-lista/",
+   "title": "Vučićeva kosovska politika je propala",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Srbi, šta nije jasno?! Ovo je politika blokadera: Prvo priznanje Kosova i sankcije Rusiji, pa referendum o EU"
+  "Srbi, šta nije jasno?! Ovo je politika blokadera: Prvo priznanje Kosova i sankcije Rusiji, pa referendum o EU",
+  "Vučićeva kosovska politika je propala"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Dragan_%C4%90ilas_2019.png",
   "osoba": "Dragan Đilas",
   "alt": "Dimitrijević: o članstvu u EU građani bi odlučivali na referendumu, posle ispunjenih uslova"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

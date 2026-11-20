@@ -35,17 +35,24 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-20T06:33:19.742913+00:00",
+ "updated": "2026-11-20T23:10:57.680242+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/bbc-news-serbian/istorija-velika-ocekivanja-i-varnice-sta-donosi-novi-saziv-skupstine-srbije/",
    "title": "Istorija, velika očekivanja i varnice: Šta donosi novi saziv Skupštine Srbije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/razno/286835/na-danasnji-dan-21-novembar/vest",
+   "title": "Na današnji dan, 21. novembar",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Istorija, velika očekivanja i varnice: Šta donosi novi saziv Skupštine Srbije"
+  "Istorija, velika očekivanja i varnice: Šta donosi novi saziv Skupštine Srbije",
+  "Na današnji dan, 21. novembar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Novi saziv Skupštine Srbije: od 17. novembra teče rok od 90 dana za formiranje vlade"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

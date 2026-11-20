@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T22:11:24.790366+00:00",
- "updated": "2026-11-20T22:26:21.460319+00:00",
+ "updated": "2026-11-20T23:10:57.680242+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -43,11 +43,18 @@
    "url": "https://www.euronews.rs/srbija/politika/253002/cupic-u-rezidenciji-eu-sa-dzulijanom-vasalom/vest",
    "title": "Vasalo primio Čupića u rezidenciji EU: Skupština Srbije ima pouzdanog partnera u Uniji",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/299610/cupic-i-vasalo-razgovarali-o-evropskom-putu-srbije-i-reformama/vest",
+   "title": "Čupić i Vasalo razgovarali o evropskom putu Srbije i reformama",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Vasalo sa Čupićem: U sprovođenju reformi Skupština ima pouzdanog partnera u EU",
-  "Vasalo primio Čupića u rezidenciji EU: Skupština Srbije ima pouzdanog partnera u Uniji"
+  "Vasalo primio Čupića u rezidenciji EU: Skupština Srbije ima pouzdanog partnera u Uniji",
+  "Čupić i Vasalo razgovarali o evropskom putu Srbije i reformama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "local": true,
   "alt": "Vasalo ugostio Čupića u rezidenciji EU, poruka o partnerstvu u reformama"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

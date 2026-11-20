@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T22:26:21.460319+00:00",
- "updated": "2026-11-20T22:26:21.460319+00:00",
+ "updated": "2026-11-20T23:10:57.680242+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,11 +46,18 @@
    "url": "https://insajder.net/prenosimo/letonski-premijer-poziva-na-zatvaranje-granica-eu-za-sve-ruse",
    "title": "Letonski premijer poziva na zatvaranje granica EU za sve Ruse",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10168469/letonski-premijer-poziva-na-zatvaranje-granica-eu-za-sve-ruse",
+   "title": "\"ZATVORITI GRANICE EU ZA RUSE\"! Letonski premijer: \"Puštanje tolikog broja ljudi je previše opasno\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Letonski premijer poziva na zatvaranje granica EU za sve Ruse",
-  "Letonski premijer poziva na zatvaranje granica EU za sve Ruse"
+  "Letonski premijer poziva na zatvaranje granica EU za sve Ruse",
+  "\"ZATVORITI GRANICE EU ZA RUSE\"! Letonski premijer: \"Puštanje tolikog broja ljudi je previše opasno\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Letonski premijer traži da EU zatvori granice za sve ruske državljane"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
