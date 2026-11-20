@@ -1,14 +1,5 @@
 {
  "seen": {
-  "https://n1info.rs/svet/u-parizu-od-sutra-zabrana-okupljanja-u-blizini-odredjenih-srednjih-skola-i-fakulteta/": "2026-11-15T22:53:38.629745+00:00",
-  "https://www.kurir.rs/vesti/politika/10163074/milos-pavlovic-rts-ispunio-deo-zahteva-ali-ostavke-nije-bilo": "2026-11-15T22:53:38.629745+00:00",
-  "https://insajder.net/prenosimo/fon-der-lajen-evropa-planira-da-ucestvuje-u-pregovorima-e5-eu-o-ukrajini": "2026-11-15T22:53:38.629745+00:00",
-  "https://www.tanjug.rs/svet/hronika/298009/maskirani-muskarci-ukrali-u-kopenhagenu-retke-pokemon-karte-vredne-130000-evra/vest": "2026-11-15T22:53:38.629745+00:00",
-  "https://www.kurir.rs/planeta/10163009/u-kopenhagenu-ukradene-retke-pokemon-karte": "2026-11-15T22:53:38.629745+00:00",
-  "https://informer.rs/politika/vesti/1170249/milos-pavlovic-n1-nepismenost-izvinuo": "2026-11-15T22:53:38.629745+00:00",
-  "https://www.kurir.rs/stars/rijaliti/10162948/sofija-janicijevic-o-ucesnicima-elite-10": "2026-11-15T22:53:38.629745+00:00",
-  "https://www.kurir.rs/crna-hronika/10162939/velika-zaplena-u-kacarevu-nadjeno-skoro-7-kg-droge-odredjen-pritvor": "2026-11-15T22:53:38.629745+00:00",
-  "https://www.danas.rs/vesti/drustvo/gosti-utiska-nedelje-o-rts-u/": "2026-11-15T22:53:38.629745+00:00",
   "https://nova.rs/vesti/svet/neizvesni-lokalni-izbori-u-ljubljani-zoran-jankovic-prvi-put-posle-20-godina-ide-u-drugi-krug-protivnik-mu-je-luka-mesec/": "2026-11-15T23:08:29.190300+00:00",
   "https://radar.nova.rs/ekonomija/srbija-ce-2027-docekati-bez-budzeta/": "2026-11-15T23:08:29.190300+00:00",
   "https://radar.nova.rs/global/protesti-u-albaniji-reportaza-edi-rama/": "2026-11-15T23:08:29.190300+00:00",
@@ -7218,18 +7209,21 @@
   "https://www.tanjug.rs/svet/politika/299601/tramp-najavio-veto-na-zakone-demokrata-kad-preuzmu-kongres-2027-godine/vest": "2026-11-20T22:41:17.921529+00:00",
   "https://www.kurir.rs/planeta/10168460/tramp-najavio-veto-na-zakone-demokrata-kad-preuzmu-kongres-2027-godine": "2026-11-20T22:41:17.921529+00:00",
   "https://www.kurir.rs/zabava/zanimljivosti/10165628/koja-ste-istorijska-licnost-po-horoskopskom-znaku": "2026-11-20T22:41:17.921529+00:00",
-  "https://www.kurir.rs/stars/10168220/laura-planira-osvetu-gloriji-sta-se-desava": "2026-11-20T22:41:17.921529+00:00"
+  "https://www.kurir.rs/stars/10168220/laura-planira-osvetu-gloriji-sta-se-desava": "2026-11-20T22:41:17.921529+00:00",
+  "https://www.tanjug.rs/ekonomija/srbija/299600/fitch-potvrdio-pozitivne-izglede-srbije-za-dobijanje-investicionog-kreditnog-rejtinga/vest": "2026-11-20T22:56:03.386969+00:00",
+  "https://www.tanjug.rs/ekonomija/srbija/299607/nbs-fitch-ponovo-potvrdio-pozitivan-izgled-srbije-za-dobijanje-investicionog-rejtinga/vest": "2026-11-20T22:56:03.386969+00:00",
+  "https://insajder.net/prenosimo/ministarstvo-finansija-agencija-fitch-potvrdila-pozitivne-izgede-srbije-za-dobijanje-investicionog-kreditnog-rejtinga": "2026-11-20T22:56:03.386969+00:00",
+  "https://www.euronews.rs/biznis/biznis-vesti/253013/fitch-zadrzao-kreditni-rejting-srbije-na-bb/vest": "2026-11-20T22:56:03.386969+00:00",
+  "https://www.b92.net/info/svet/286830/putin-zeli-da-pregovore-o-ratu-u-ukrajini-prosiri-na-evropsku-bezbednost/vest": "2026-11-20T22:56:03.386969+00:00",
+  "https://n1info.rs/svet/moskva-kijev-rusija-ukrajina-napadi-20-novembar-2026-godine/": "2026-11-20T22:56:03.386969+00:00",
+  "https://www.tanjug.rs/ekonomija/svet/299605/evropska-komisija-eu-spremna-za-zimu-skladista-gasa-popunjena-70-odsto/vest": "2026-11-20T22:56:03.386969+00:00",
+  "https://insajder.net/prenosimo/evropska-komisija-eu-spremna-za-zimu-skladista-gasa-popunjena-70-odsto": "2026-11-20T22:56:03.386969+00:00",
+  "https://informer.rs/politika/vesti/1171819/agencija-fic-investicioni-rejting-srbija-mali": "2026-11-20T22:56:03.386969+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-20T08:09+00:00",
-   "novih": 6,
-   "ukupno": 2911,
-   "sekundi": 455.1
-  },
   {
    "vreme": "2026-11-20T08:23+00:00",
    "novih": 8,
@@ -7583,6 +7577,12 @@
    "novih": 1,
    "ukupno": 3227,
    "sekundi": 401.3
+  },
+  {
+   "vreme": "2026-11-20T23:01+00:00",
+   "novih": 2,
+   "ukupno": 3229,
+   "sekundi": 356.4
   }
  ],
  "licnosti_foto": {
@@ -10382,11 +10382,11 @@
    },
    "parandilovicnls": {
     "since_id": "2123886775957393459",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "ininic": {
     "since_id": "2123809134332055981",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -10394,15 +10394,15 @@
    },
    "sviublokade_fdu": {
     "since_id": "2123543689855390002",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "dragandjilas": {
     "since_id": "2121691848313884992",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "marinikatepic": {
     "since_id": "2122007271508959331",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "radomirlazovic": {
     "since_id": null,
@@ -10442,11 +10442,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "studentblokade": {
     "since_id": "2123809021022847349",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -10502,11 +10502,11 @@
    },
    "borkostef": {
     "since_id": "2123837042505155014",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "dobrinacelnik": {
     "since_id": "2123731645471580350",
@@ -10518,7 +10518,7 @@
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "srdjanmil037": {
     "since_id": "2123426905680388191",
@@ -10570,7 +10570,7 @@
    },
    "borakonj": {
     "since_id": "2123863780484669713",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "narodnipokrets": {
     "since_id": "2123734701261169003",
@@ -10578,67 +10578,67 @@
    },
    "direktnors": {
     "since_id": "2123866790531039308",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "crtars": {
     "since_id": "2123084470769127692",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "veceivan": {
     "since_id": "2123874716305838166",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "repjoewilson": {
     "since_id": "2123869192789094550",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "jugoslavcosic": {
     "since_id": "2123147946694787141",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "tvnova_s": {
     "since_id": "2123885908936048816",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "oljautisak": {
     "since_id": null,
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "srdjan_nogo": {
     "since_id": "2123527863307735237",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "agrifblokira": {
     "since_id": "2123785161347154262",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "etfblokada": {
     "since_id": "2123443984156504503",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "nastraninaroda": {
     "since_id": "2123867723964809437",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "bcenzure": {
     "since_id": "2123876697539842326",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "bezstraha26279": {
     "since_id": "2123889223510175783",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "lazidetektor": {
     "since_id": "2123861602600665190",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "nedeljniknin": {
     "since_id": "2123899183682003194",
@@ -10654,11 +10654,11 @@
    },
    "tvbalkaninfo": {
     "since_id": "2123145868773822473",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "1152justice": {
     "since_id": "2123584561330217393",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    },
    "zatrijebacki": {
     "since_id": "2123844027036709035",
@@ -10690,7 +10690,7 @@
    },
    "masinars": {
     "since_id": "2123883451694686690",
-    "t": 1795210944.9832597
+    "t": 1795215428.7582743
    }
   },
   "posts": [
@@ -22010,128 +22010,6 @@
   }
  },
  "foto_cache": {
-  "t:jemen": {
-   "t": 1794610083.089559,
-   "items": []
-  },
-  "t:uzice": {
-   "t": 1794610104.3577073,
-   "items": [
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Stari_Grad_U%C5%BEice_fortress.jpg/1920px-Stari_Grad_U%C5%BEice_fortress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3120,
-     "h": 4160,
-     "god": 2023,
-     "credit": "Wikimedia Commons / M. Stefanović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Stari_Grad_U%C5%BEice_fortress.jpg",
-     "naslov": "Stari Grad Užice fortress.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/University_of_Kragujevac%2C_Faculty_of_Pedagogy_U%C5%BEice.jpg/1920px-University_of_Kragujevac%2C_Faculty_of_Pedagogy_U%C5%BEice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3120,
-     "h": 4160,
-     "god": 2023,
-     "credit": "Wikimedia Commons / M. Stefanović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:University_of_Kragujevac,_Faculty_of_Pedagogy_U%C5%BEice.jpg",
-     "naslov": "University of Kragujevac, Faculty of Pedagogy Užice.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Stari_Grad%2C_U%C5%BEice_2023.jpg/1920px-Stari_Grad%2C_U%C5%BEice_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4160,
-     "h": 3120,
-     "god": 2023,
-     "credit": "Wikimedia Commons / M. Stefanović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Stari_Grad,_U%C5%BEice_2023.jpg",
-     "naslov": "Stari Grad, Užice 2023.jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Uzice-by-pedja-supurovic-05.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1200,
-     "h": 1600,
-     "god": 2007,
-     "credit": "Wikimedia Commons / Predrag Supurovic / CC BY 1.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Uzice-by-pedja-supurovic-05.JPG",
-     "naslov": "Uzice-by-pedja-supurovic-05.JPG"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Zeleznicka_stanica_Uzice_sa_lozionicom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1472,
-     "h": 906,
-     "god": 1928,
-     "credit": "Wikimedia Commons / Unknown authorUnknown author / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Zeleznicka_stanica_Uzice_sa_lozionicom.jpg",
-     "naslov": "Zeleznicka stanica Uzice sa lozionicom.jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Narrow-Gauge-Railway_Ostbahn-Extension_Stari-Grad_Uzice_Bridge-Djetinja_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1130,
-     "h": 1600,
-     "god": 1962,
-     "credit": "Wikimedia Commons / Издавач: Књижарско предузеће \"ПАПИР\" - Титово Ужице; Снимио: / Public domain",
-     "link": "https://commons.wikimedia.org/wiki/File:Narrow-Gauge-Railway_Ostbahn-Extension_Stari-Grad_Uzice_Bridge-Djetinja_(2).jpg",
-     "naslov": "Narrow-Gauge-Railway Ostbahn-Extension Stari-Grad Uzice Bridge-Djetinja (2).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/U%C5%BEice%2C_pogled_sa_magistrale.jpg/1920px-U%C5%BEice%2C_pogled_sa_magistrale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5184,
-     "h": 3456,
-     "god": 2024,
-     "credit": "Wikimedia Commons / BrankaVV / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:U%C5%BEice,_pogled_sa_magistrale.jpg",
-     "naslov": "Užice, pogled sa magistrale.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/85-045_uzice.jpg/1920px-85-045_uzice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2000,
-     "h": 1333,
-     "god": 2003,
-     "credit": "Wikimedia Commons / Herbert Ortner, Vienna, Austria / CC BY 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:85-045_uzice.jpg",
-     "naslov": "85-045 uzice.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Reka_%C4%90etinja%2C_U%C5%BEice_%281%29.jpg/1920px-Reka_%C4%90etinja%2C_U%C5%BEice_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4624,
-     "h": 3468,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Gzanag / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Reka_%C4%90etinja,_U%C5%BEice_(1).jpg",
-     "naslov": "Reka Đetinja, Užice (1).jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Pogled_sa_Starog_Grada_na_U%C5%BEice_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1734,
-     "h": 2312,
-     "god": 2023,
-     "credit": "Wikimedia Commons / Gzanag / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Pogled_sa_Starog_Grada_na_U%C5%BEice_(2).jpg",
-     "naslov": "Pogled sa Starog Grada na Užice (2).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Reka_%C4%90etinja%2C_U%C5%BEice_%282%29.jpg/1920px-Reka_%C4%90etinja%2C_U%C5%BEice_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3468,
-     "h": 4624,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Gzanag / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Reka_%C4%90etinja,_U%C5%BEice_(2).jpg",
-     "naslov": "Reka Đetinja, Užice (2).jpg"
-    }
-   ]
-  },
-  "t:sergej trifunovic": {
-   "t": 1794610120.3762708,
-   "items": [
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Spomenik_%C4%90in%C4%91i%C4%87u_01_08_2007_Sergej_Trifunovi%C4%87.jpg/1920px-Spomenik_%C4%90in%C4%91i%C4%87u_01_08_2007_Sergej_Trifunovi%C4%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2592,
-     "h": 1944,
-     "god": 2007,
-     "credit": "Wikimedia Commons / Miomir Magdevski / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Spomenik_%C4%90in%C4%91i%C4%87u_01_08_2007_Sergej_Trifunovi%C4%87.jpg",
-     "naslov": "Spomenik Đinđiću 01 08 2007 Sergej Trifunović.jpg"
-    }
-   ]
-  },
   "t:si djinpling": {
    "t": 1794610998.744798,
    "items": []
@@ -58084,6 +57962,14 @@
   "t:medjuizbori u sad": {
    "t": 1795214516.7880259,
    "items": []
+  },
+  "t:fic rejtings": {
+   "t": 1795215401.801957,
+   "items": []
+  },
+  "t:srbija": {
+   "t": 1795215403.4871688,
+   "items": []
   }
  },
  "x_objave": {
@@ -61697,8 +61583,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-20T22:42:22.132153+00:00",
-  "uzivo_t": "2026-11-20T22:42:22.132172+00:00"
+  "provereno": "2026-11-20T22:57:23.454392+00:00",
+  "uzivo_t": "2026-11-20T22:57:23.454408+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {

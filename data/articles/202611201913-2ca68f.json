@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T18:13:05.140247+00:00",
- "updated": "2026-11-20T22:41:17.921529+00:00",
+ "updated": "2026-11-20T22:56:03.386969+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -56,11 +56,18 @@
    "url": "https://www.b92.net/info/svet/286830/putin-ima-plan-ukrajina-je-samo-pocetak/vest",
    "title": "Putin ima plan: Ukrajina je samo početak",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286830/putin-zeli-da-pregovore-o-ratu-u-ukrajini-prosiri-na-evropsku-bezbednost/vest",
+   "title": "Putin ima plan: Ukrajina je samo početak",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "FT: Tramp želi mirovni sporazum između Ukrajine i Rusije do početka januara",
   "\"AMERIKANCIMA SE ŽURI, ALI PUTINU NE\": Tramp želi mirovni sporazum između Rusije i Ukrajine do početka januara",
+  "Putin ima plan: Ukrajina je samo početak",
   "Putin ima plan: Ukrajina je samo početak"
  ],
  "author": "Redakcija Prestonice",
@@ -74,6 +81,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%90%D0%B1%D1%83-%D0%94%D0%B0%D0%B1%D0%B8_(Abu_Dhabi)_-_panoramio_(1).jpg",
   "alt": "FT: Vašington traži mirovni sporazum Ukrajine i Rusije do početka januara"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -30,7 +30,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T22:26:21.460319+00:00",
- "updated": "2026-11-20T22:26:21.460319+00:00",
+ "updated": "2026-11-20T22:56:03.386969+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -49,12 +49,40 @@
    "url": "https://www.novosti.rs/vesti/politika/1673263/fic-rejtings-potvrdila-kreditni-rejting-srbije-pozitivnim-izgledima-dalje-povecanje-oglasio-sinisa-mali",
    "title": "FIČ REJTINGS POTVRDILA KREDITNI REJTING SRBIJE SA POZITIVNIM IZGLEDIMA ZA DALjE POVEĆANjE: Oglasio se Siniša Mali",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/299600/fitch-potvrdio-pozitivne-izglede-srbije-za-dobijanje-investicionog-kreditnog-rejtinga/vest",
+   "title": "Fitch potvrdio pozitivne izglede Srbije za dobijanje investicionog kreditnog rejtinga",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/299607/nbs-fitch-ponovo-potvrdio-pozitivan-izgled-srbije-za-dobijanje-investicionog-rejtinga/vest",
+   "title": "NBS: Fitch ponovo potvrdio pozitivan izgled Srbije za dobijanje investicionog rejtinga",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/ministarstvo-finansija-agencija-fitch-potvrdila-pozitivne-izgede-srbije-za-dobijanje-investicionog-kreditnog-rejtinga",
+   "title": "Ministarstvo finansija: Agencija Fitch potvrdila pozitivne izglede Srbije za dobijanje investicionog kreditnog rejtinga",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253013/fitch-zadrzao-kreditni-rejting-srbije-na-bb/vest",
+   "title": "NBS: Fitch ponovo potvrdio pozitivan izgled Srbije za dobijanje investicionog rejtinga",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Fitch potvrdio pozitivne izgede Srbije za dobijanje investicionog kreditnog rejtinga",
   "Srbija na korak od investicionog kreditnog rejtinga; Mali: \"Izgrađeni su stabilni ekonomski temelji\"",
-  "FIČ REJTINGS POTVRDILA KREDITNI REJTING SRBIJE SA POZITIVNIM IZGLEDIMA ZA DALjE POVEĆANjE: Oglasio se Siniša Mali"
+  "FIČ REJTINGS POTVRDILA KREDITNI REJTING SRBIJE SA POZITIVNIM IZGLEDIMA ZA DALjE POVEĆANjE: Oglasio se Siniša Mali",
+  "Fitch potvrdio pozitivne izglede Srbije za dobijanje investicionog kreditnog rejtinga",
+  "NBS: Fitch ponovo potvrdio pozitivan izgled Srbije za dobijanje investicionog rejtinga",
+  "Ministarstvo finansija: Agencija Fitch potvrdila pozitivne izglede Srbije za dobijanje investicionog kreditnog rejtinga",
+  "NBS: Fitch ponovo potvrdio pozitivan izgled Srbije za dobijanje investicionog rejtinga"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,5 +94,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Janet_Fitch_at_LA_Book_Fest_2025.jpg",
   "alt": "Fitch potvrdio rejting Srbije BB+ uz pozitivne izglede i veću prognozu rasta"
- }
+ },
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
