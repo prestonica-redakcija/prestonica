@@ -6884,18 +6884,13 @@
   "https://www.kurir.rs/zabava/pop-kultura/10166782/florens-pju-odgovorila-na-kritike-da-koristi-ozempik": "2026-11-20T00:06:12.740649+00:00",
   "https://birn.rs/komisija-vrhovnog-tuzilastva-ispitivala-bekstvo-cuja-guanghaja-i-dzona-milera/": "2026-11-20T00:21:00.835496+00:00",
   "https://biznis.telegraf.rs/info-biz/4436199-regionalni-poslovni-forum-okupio-vise-od-300-pravnika-na-zlatiboru": "2026-11-20T02:05:34.373335+00:00",
-  "https://www.telegraf.rs/vesti/srbija/4436192-rzs-stopa-rizika-od-siromastva-medju-decom-u-srbiji-pala-sa-244-na-204-odsto": "2026-11-20T02:35:20.824067+00:00"
+  "https://www.telegraf.rs/vesti/srbija/4436192-rzs-stopa-rizika-od-siromastva-medju-decom-u-srbiji-pala-sa-244-na-204-odsto": "2026-11-20T02:35:20.824067+00:00",
+  "https://www.kurir.rs/vesti/srbija/10166618/festival-zlatna-kap-u-curugu-okupio-80-izlagaca-i-predstavio-140-uzoraka-likera": "2026-11-20T03:04:51.928002+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-19T12:17+00:00",
-   "novih": 2,
-   "ukupno": 2782,
-   "sekundi": 375.4
-  },
   {
    "vreme": "2026-11-19T12:31+00:00",
    "novih": 4,
@@ -7249,6 +7244,12 @@
    "novih": 0,
    "ukupno": 2865,
    "sekundi": 258.6
+  },
+  {
+   "vreme": "2026-11-20T03:08+00:00",
+   "novih": 1,
+   "ukupno": 2866,
+   "sekundi": 201.4
   }
  ],
  "licnosti_foto": {
@@ -59397,6 +59398,164 @@
   "t:vise javno tuzilastvo": {
    "t": 1795134094.1646876,
    "items": []
+  },
+  "t:curug": {
+   "t": 1795143916.6205156,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%D0%A5%D1%80%D0%B0%D0%BC_%D0%92%D0%B0%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D1%9A%D0%B0_%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D1%9A%D0%B5%D0%B3_%D1%83_%D0%A7%D1%83%D1%80%D1%83%D0%B3%D1%83.jpg/1920px-%D0%A5%D1%80%D0%B0%D0%BC_%D0%92%D0%B0%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D1%9A%D0%B0_%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D1%9A%D0%B5%D0%B3_%D1%83_%D0%A7%D1%83%D1%80%D1%83%D0%B3%D1%83.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2804,
+     "h": 1497,
+     "god": 2015,
+     "credit": "Wikimedia Commons / Boris Dimitrov / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%A5%D1%80%D0%B0%D0%BC_%D0%92%D0%B0%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D1%9A%D0%B0_%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D1%9A%D0%B5%D0%B3_%D1%83_%D0%A7%D1%83%D1%80%D1%83%D0%B3%D1%83.jpg",
+     "naslov": "Храм Вазнесења Господњег у Чуругу.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/%C4%8Curug%2C_park_in_village_center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1024,
+     "h": 768,
+     "god": 2006,
+     "credit": "Wikimedia Commons / autor / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:%C4%8Curug,_park_in_village_center.jpg",
+     "naslov": "Čurug, park in village center.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/%D0%A1%D1%82%D0%B0%D1%80%D0%B0_%D0%A2%D0%B8%D1%81%D0%B0_%D0%BA%D0%BE%D0%B4_%D0%A7%D1%83%D1%80%D1%83%D0%B3%D0%B0.jpg/1920px-%D0%A1%D1%82%D0%B0%D1%80%D0%B0_%D0%A2%D0%B8%D1%81%D0%B0_%D0%BA%D0%BE%D0%B4_%D0%A7%D1%83%D1%80%D1%83%D0%B3%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4608,
+     "h": 3456,
+     "god": 2015,
+     "credit": "Wikimedia Commons / Ljilja7 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D0%B0%D1%80%D0%B0_%D0%A2%D0%B8%D1%81%D0%B0_%D0%BA%D0%BE%D0%B4_%D0%A7%D1%83%D1%80%D1%83%D0%B3%D0%B0.jpg",
+     "naslov": "Стара Тиса код Чуруга.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%D0%A1%D1%82%D0%B0%D1%80%D0%B0_%D0%A2%D0%B8%D1%81%D0%B0_%D0%BA%D0%BE%D0%B4_%D0%A7%D1%83%D1%80%D1%83%D0%B3%D0%B03.jpg/1920px-%D0%A1%D1%82%D0%B0%D1%80%D0%B0_%D0%A2%D0%B8%D1%81%D0%B0_%D0%BA%D0%BE%D0%B4_%D0%A7%D1%83%D1%80%D1%83%D0%B3%D0%B03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4407,
+     "h": 3335,
+     "god": 2013,
+     "credit": "Wikimedia Commons / Ljilja7 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D0%B0%D1%80%D0%B0_%D0%A2%D0%B8%D1%81%D0%B0_%D0%BA%D0%BE%D0%B4_%D0%A7%D1%83%D1%80%D1%83%D0%B3%D0%B03.jpg",
+     "naslov": "Стара Тиса код Чуруга3.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Crkva_Svetog_Vaznesenja_Gospodnjeg_u_%C4%8Curugu_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1600,
+     "h": 1067,
+     "god": 2023,
+     "credit": "Wikimedia Commons / Nevena Djurdjevic / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Crkva_Svetog_Vaznesenja_Gospodnjeg_u_%C4%8Curugu_3.jpg",
+     "naslov": "Crkva Svetog Vaznesenja Gospodnjeg u Čurugu 3.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Crkva_Svetog_Vaznesenja_Gospodnjeg_u_%C4%8Curugu_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1067,
+     "h": 1600,
+     "god": 2023,
+     "credit": "Wikimedia Commons / Nevena Djurdjevic / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Crkva_Svetog_Vaznesenja_Gospodnjeg_u_%C4%8Curugu_4.jpg",
+     "naslov": "Crkva Svetog Vaznesenja Gospodnjeg u Čurugu 4.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Spomen-bista_Radivoja_%C4%86irpanova_u_%C4%8Curugu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1200,
+     "h": 1800,
+     "god": 2017,
+     "credit": "Wikimedia Commons / autor / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Spomen-bista_Radivoja_%C4%86irpanova_u_%C4%8Curugu.jpg",
+     "naslov": "Spomen-bista Radivoja Ćirpanova u Čurugu.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Crkva_Svetog_Vaznesenja_Gospodnjeg_u_%C4%8Curugu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1600,
+     "h": 1067,
+     "god": 2023,
+     "credit": "Wikimedia Commons / Nevena Djurdjevic / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Crkva_Svetog_Vaznesenja_Gospodnjeg_u_%C4%8Curugu.jpg",
+     "naslov": "Crkva Svetog Vaznesenja Gospodnjeg u Čurugu.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Curug_sikopel.jpg/1920px-Curug_sikopel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2500,
+     "h": 1757,
+     "god": 2020,
+     "credit": "Wikimedia Commons / Wildan Muqorrobin / CC BY 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Curug_sikopel.jpg",
+     "naslov": "Curug sikopel.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Ro%C4%91ina_vetrenja%C4%8Da_u_%C4%8Curugu_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1067,
+     "h": 1600,
+     "god": 2023,
+     "credit": "Wikimedia Commons / Nevena Djurdjevic / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ro%C4%91ina_vetrenja%C4%8Da_u_%C4%8Curugu_2.jpg",
+     "naslov": "Rođina vetrenjača u Čurugu 2.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%D0%A1%D1%82%D0%B0%D1%80%D0%B0_%D0%A2%D0%B8%D1%81%D0%B0_%D0%BA%D0%BE%D0%B4_%D0%A7%D1%83%D1%80%D1%83%D0%B3%D0%B02.jpg/1920px-%D0%A1%D1%82%D0%B0%D1%80%D0%B0_%D0%A2%D0%B8%D1%81%D0%B0_%D0%BA%D0%BE%D0%B4_%D0%A7%D1%83%D1%80%D1%83%D0%B3%D0%B02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4528,
+     "h": 3175,
+     "god": 2014,
+     "credit": "Wikimedia Commons / Ljilja7 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D0%B0%D1%80%D0%B0_%D0%A2%D0%B8%D1%81%D0%B0_%D0%BA%D0%BE%D0%B4_%D0%A7%D1%83%D1%80%D1%83%D0%B3%D0%B02.jpg",
+     "naslov": "Стара Тиса код Чуруга2.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/%D0%A1%D1%82%D0%B0%D1%80%D0%B0_%D0%A2%D0%B8%D1%81%D0%B0_%D0%BA%D0%BE%D0%B4_%D0%A7%D1%83%D1%80%D1%83%D0%B3%D0%B04.jpg/1920px-%D0%A1%D1%82%D0%B0%D1%80%D0%B0_%D0%A2%D0%B8%D1%81%D0%B0_%D0%BA%D0%BE%D0%B4_%D0%A7%D1%83%D1%80%D1%83%D0%B3%D0%B04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3068,
+     "h": 2049,
+     "god": 2015,
+     "credit": "Wikimedia Commons / Ljilja7 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D0%B0%D1%80%D0%B0_%D0%A2%D0%B8%D1%81%D0%B0_%D0%BA%D0%BE%D0%B4_%D0%A7%D1%83%D1%80%D1%83%D0%B3%D0%B04.jpg",
+     "naslov": "Стара Тиса код Чуруга4.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Crkva_Svetog_Vaznesenja_Gospodnjeg_u_%C4%8Curugu_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1067,
+     "h": 1600,
+     "god": 2023,
+     "credit": "Wikimedia Commons / Nevena Djurdjevic / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Crkva_Svetog_Vaznesenja_Gospodnjeg_u_%C4%8Curugu_2.jpg",
+     "naslov": "Crkva Svetog Vaznesenja Gospodnjeg u Čurugu 2.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/%D0%92%D0%B5%D1%82%D1%80%D0%B5%D1%9A%D0%B0%D1%87%D0%B0_%D1%83_%D0%A7%D1%83%D1%80%D1%83%D0%B3%D1%83.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1536,
+     "h": 2560,
+     "god": 2015,
+     "credit": "Wikimedia Commons / Boris Dimitrov / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B5%D1%82%D1%80%D0%B5%D1%9A%D0%B0%D1%87%D0%B0_%D1%83_%D0%A7%D1%83%D1%80%D1%83%D0%B3%D1%83.jpg",
+     "naslov": "Ветрењача у Чуругу.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Ro%C4%91ina_vetrenja%C4%8Da_u_%C4%8Curugu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1600,
+     "h": 1067,
+     "god": 2023,
+     "credit": "Wikimedia Commons / Nevena Djurdjevic / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ro%C4%91ina_vetrenja%C4%8Da_u_%C4%8Curugu.jpg",
+     "naslov": "Rođina vetrenjača u Čurugu.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tempat_Wisata_Curug_Sikarim%2C_Dieng.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 901,
+     "h": 1600,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Rochman Zamani / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Tempat_Wisata_Curug_Sikarim,_Dieng.jpg",
+     "naslov": "Tempat Wisata Curug Sikarim, Dieng.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Rodna_ku%C4%87a_Radivoja_%C4%86irpanova_u_%C4%8Curugu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1800,
+     "h": 1200,
+     "god": 2017,
+     "credit": "Wikimedia Commons / autor / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Rodna_ku%C4%87a_Radivoja_%C4%86irpanova_u_%C4%8Curugu.jpg",
+     "naslov": "Rodna kuća Radivoja Ćirpanova u Čurugu.jpg"
+    }
+   ]
   }
  },
  "x_objave": {
@@ -63019,8 +63178,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-20T02:50:28.948072+00:00",
-  "uzivo_t": "2026-11-20T02:50:28.948087+00:00"
+  "provereno": "2026-11-20T03:05:28.861865+00:00",
+  "uzivo_t": "2026-11-20T03:05:28.861882+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {
