@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T09:17:09.352450+00:00",
- "updated": "2026-11-20T14:29:45.124535+00:00",
+ "updated": "2026-11-20T18:42:57.040601+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -89,6 +89,12 @@
    "url": "https://standard.rs/2026/11/20/prekomponovanje-politicke-scene-u-srpskoj/",
    "title": "Prekomponovanje političke scene u Srpskoj",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4436932-sergej-pasisnicenko-uhapsen-u-velikoj-policijskoj-akciji",
+   "title": "Sergej Pasisničenko uhapšen u velikoj policijskoj akciji",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -100,7 +106,8 @@
   "Dačić: U međunarodnoj akciji ''Mozaik\" uhapšeno je šest osoba i spaseno devetoro dece",
   "Šestoro uhapšenih u međunarodnoj akciji protiv seksualnog zlostavljanja dece",
   "DEVETORO DECE SPAŠENO IZ KANDŽI MANIJAKA Predstavljali se kao devojčice preko lažnih profila da bi dobili intimne snimke maloletnika: Uhapšeno šest osoba",
-  "Prekomponovanje političke scene u Srpskoj"
+  "Prekomponovanje političke scene u Srpskoj",
+  "Sergej Pasisničenko uhapšen u velikoj policijskoj akciji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -114,6 +121,6 @@
   "osoba": "Ivica Dačić",
   "alt": "U međunarodnoj akciji \"Mozaik\" u Srbiji uhapšeno šest osoba, spaseno devetoro dece"
  },
- "novo_od_pisanja": 7,
- "boost": 1.56
+ "novo_od_pisanja": 8,
+ "boost": 1.6
 }

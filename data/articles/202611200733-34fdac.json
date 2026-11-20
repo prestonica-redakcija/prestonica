@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-20T18:28:08.249777+00:00",
+ "updated": "2026-11-20T18:42:57.040601+00:00",
  "sources": [
   {
    "name": "B92",
@@ -93,6 +93,12 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4436917-gori-nekoliko-kuca-veliki-pozar-u-nisu-vatrogasci-na-terenu",
    "title": "Gori nekoliko kuća: Veliki požar u Nišu, vatrogasci na terenu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/srbija/10168339/VELIKI-POZAR-U-NISU-GORI-NEKOLIKO-KUCA-Vatrogasci-na-terenu-bore-se-sa-vatrenom-stihijom-VIDEO",
+   "title": "VELIKI POŽAR U NIŠU, GORI NEKOLIKO KUĆA: Vatrogasci na terenu, bore se sa vatrenom stihijom (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -106,7 +112,8 @@
   "Zapalila se fabrika u Prijepolju, nema informacija o povređenima",
   "Požar u fabrici Trendeks u Prijepolju, nema povređenih",
   "Vatrogasci satima na terenu u borbi sa vatrom: Ugašen požar u Prijepolju, objekat jedva prepoznatljiv",
-  "Gori nekoliko kuća: Veliki požar u Nišu, vatrogasci na terenu"
+  "Gori nekoliko kuća: Veliki požar u Nišu, vatrogasci na terenu",
+  "VELIKI POŽAR U NIŠU, GORI NEKOLIKO KUĆA: Vatrogasci na terenu, bore se sa vatrenom stihijom (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -119,7 +126,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Crkva_Svetog_proroka_Ilije_u_Jabuci,_Prijepolje_01.jpg",
   "alt": "Veliki požar u fabrici Trendtex u Prijepolju, za sada nema podataka o povređenima"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-20T08:02:26.603888+00:00",
  "verzija": 2
