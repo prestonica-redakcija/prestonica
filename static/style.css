@@ -1002,3 +1002,7 @@ mark{background:color-mix(in srgb,var(--gold) 30%,transparent);color:inherit;bor
   border-radius:999px;padding:2px 9px}
 .vc-nas::before{content:"";width:5px;height:5px;border-radius:50%;background:var(--c)}
 @media (max-width:700px){.vids-nas{padding:14px 12px 18px;margin-left:-2px;margin-right:-2px}}
+
+/* Skupština: naši snimci kao trajan zapis sednica */
+.sk-nasi-p{margin:-4px 0 14px;color:var(--ink-3);font-size:13.5px;max-width:60ch}
+.sk-nasi .vc{border-color:color-mix(in srgb,var(--brand) 24%,var(--line))}

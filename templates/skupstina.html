@@ -4,21 +4,25 @@
 {% block main %}
 <section class="sk-top">
   <div class="sk-head">
-    <span class="eyebrow" id="sk-stanje">{% if sk.live == 'live' and not sk.nedostupan %}<i class="pulse"></i> Uživo{% elif sk.nedostupan %}Prenos nije dostupan{% else %}Snimak poslednjeg prenosa{% endif %}</span>
+    <span class="eyebrow" id="sk-stanje">{% if sk.live == 'live' and not sk.nedostupan %}<i class="pulse"></i> Uživo{% elif sk.nedostupan and sk_nas %}Skupština danas · snimak Prestonice{% elif sk.nedostupan %}Prenos nije dostupan{% else %}Snimak poslednjeg prenosa{% endif %}</span>
     <h1>Skupština Srbije</h1>
     <p id="sk-naslov">{{ sk.naslov or 'Prenos sednica Narodne skupštine i razgovor čitalaca u realnom vremenu.' }}</p>
   </div>
   <div class="sk-stage">
     <div class="sk-player">
-      <div class="sk-frame" id="sk-frame" data-yt="{{ sk.yt if sk.yt and not sk.nedostupan else '' }}" data-live="{{ '1' if sk.live == 'live' else '0' }}">
-        {% if sk.yt and not sk.nedostupan %}
+      {% set prenos = sk.yt and not sk.nedostupan %}
+      {% set zamena = sk_nas if (not prenos and sk_nas) else None %}
+      <div class="sk-frame" id="sk-frame" data-yt="{{ sk.yt if prenos else '' }}" data-live="{{ '1' if sk.live == 'live' else '0' }}">
+        {% if prenos %}
         <iframe id="sk-iframe" src="https://www.youtube-nocookie.com/embed/{{ sk.yt }}?rel=0&amp;playsinline=1{% if sk.live == 'live' %}&amp;autoplay=1&amp;mute=1{% endif %}" title="Prenos sednice Narodne skupštine" allow="accelerometer; autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>
+        {% elif zamena %}
+        <iframe src="https://www.youtube-nocookie.com/embed/{{ zamena.id }}?rel=0&amp;playsinline=1" title="{{ zamena.naslov }}" allow="accelerometer; encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>
         {% else %}
-        <div class="sk-empty">{% if sk.nedostupan %}Skupština je uklonila snimak ovog prenosa sa svog kanala. Sednicu možete pratiti na zvaničnoj stranici prenosa, a ispod su vesti, objave i snimci sa sednice.{% else %}Sednica trenutno nije u toku. Stranica se sama osvežava čim prenos počne.{% endif %}</div>
+        <div class="sk-empty">{% if sk.nedostupan %}Skupština je uklonila snimak ovog prenosa sa svog kanala. Sednicu možete pratiti na zvaničnoj stranici prenosa, a ispod su vesti i objave sa sednice.{% else %}Sednica trenutno nije u toku. Stranica se sama osvežava čim prenos počne.{% endif %}</div>
         {% endif %}
       </div>
       <div class="sk-credit">
-        <span>Prenos: Narodna skupština Republike Srbije</span>
+        <span>{% if zamena %}Snimak sednice: <b>Prestonica</b>{% else %}Prenos: Narodna skupština Republike Srbije{% endif %}</span>
         <a href="https://www.parlament.gov.rs/prenosi/sednice-narodne-skupstine.2083.html" target="_blank" rel="noopener">Zvanična stranica prenosa ↗</a>
       </div>
     </div>
@@ -64,9 +68,17 @@
 </section>
 {% endif %}
 
+{% if sk_nasi %}
+<section class="sk-sec sk-nasi">
+  {{ shead('Skupština danas · naši snimci') }}
+  <p class="sk-nasi-p">Skupština briše prenose sa svog kanala posle sednice. Naši snimci ostaju kao trajan zapis.</p>
+  <div class="vid-grid vid-grid-3">{% for v in sk_nasi %}{{ vcard(v, root, rubrike) }}{% endfor %}</div>
+</section>
+{% endif %}
+
 {% if sk_snimci %}
 <section class="sk-sec">
-  {{ shead('Snimci') }}
+  {{ shead('Snimci iz drugih medija') }}
   <div class="vid-grid vid-grid-3">{% for v in sk_snimci %}{{ vcard(v, root, rubrike) }}{% endfor %}</div>
 </section>
 {% endif %}

@@ -114,4 +114,8 @@ def izbor(visible: list[dict], xposts: list[dict], videos: list[dict]) -> dict:
     vesti = [a for a in visible if vest(a)]
     objave = [p for p in xposts if o_skupstini(p.get("text", ""))]
     snimci = [v for v in videos if o_skupstini(" ".join([v.get("_h", ""), v.get("title", ""), " ".join(v.get("oznake", []) or [])]))]
-    return {"vesti": vesti, "objave": objave, "snimci": snimci}
+    # Skupština briše svoje prenose sa kanala posle sednice, pa su naši snimci
+    # jedini trajni zapis. Zato idu odvojeno i ispred tuđih.
+    nasi = [v for v in snimci if v.get("nas")]
+    tudji = [v for v in snimci if not v.get("nas")]
+    return {"vesti": vesti, "objave": objave, "snimci": tudji, "nasi": nasi}

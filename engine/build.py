@@ -258,7 +258,10 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
         render("x.html", "mreze.html", posts=xposts[:150], active="mreze", title="Na mrežama",
                xgrupe=[(k, v) for k, v in xgrupe.items() if any(p.get("grupa") == k for p in xposts)])
     # Skupština: prenos uživo, razgovor čitalaca i sve o parlamentu na jednom mestu
+    # Kada prenos Skupštine nije dostupan, glavni plejer preuzima naš snimak sednice
+    _sk_nas = _ski["nasi"][0] if _ski["nasi"] else None
     render("skupstina.html", "skupstina.html", sk=state.get("skupstina") or {}, sk_vesti=_ski["vesti"][:40], sk_objave=_ski["objave"][:30],
+           sk_nasi=_ski["nasi"][:9], sk_nas=_sk_nas,
            sk_snimci=_ski["snimci"][:12], active="skupstina", title="Skupština uživo", kom=cfg.portal.get("komentari") or {})
     if api and polls:
         render("ankete.html", "ankete.html", polls=polls[:120], active="ankete", title="Ankete čitalaca")
