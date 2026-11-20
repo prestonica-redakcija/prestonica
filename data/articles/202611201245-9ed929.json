@@ -25,7 +25,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T11:45:57.885434+00:00",
- "updated": "2026-11-20T11:45:57.885434+00:00",
+ "updated": "2026-11-20T12:00:57.155901+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,12 +44,40 @@
    "url": "https://biznis.telegraf.rs/info-biz/4436561-ovo-su-nove-cene-goriva-na-pumpama-u-srbiji",
    "title": "Ovo su nove cene goriva na pumpama u Srbiji: Jedan derivat pojeftinio!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/299421/u-narednih-sedam-dana-benzin-jeftiniji-za-tri-dinara-204-dizel-nepromenjen-236-dinara/vest",
+   "title": "U narednih sedam dana benzin jeftiniji za tri dinara - 204, dizel nepromenjen-236 dinara",
+   "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1673077/nove-cene-goriva-srbiji-poznato-koliko-cemo-placati-benzin-dizel",
+   "title": "NOVE CENE GORIVA U SRBIJI: Poznato koliko ćemo plaćati benzin i dizel",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/objavljene-nove-cene-goriva-benzin-pojeftinio/",
+   "title": "Objavljene nove cene goriva: Benzin pojeftinio",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/objavljene-nove-cene-goriva-koje-ce-vaziti-do-27-novembra/",
+   "title": "Objavljene nove cene goriva koje će važiti do 27. novembra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Objavljene nove cene goriva: Pojeftinio benzin",
   "Ovo su nove cene goriva: Jedan derivat jeftiniji za 3 dinara",
-  "Ovo su nove cene goriva na pumpama u Srbiji: Jedan derivat pojeftinio!"
+  "Ovo su nove cene goriva na pumpama u Srbiji: Jedan derivat pojeftinio!",
+  "U narednih sedam dana benzin jeftiniji za tri dinara - 204, dizel nepromenjen-236 dinara",
+  "NOVE CENE GORIVA U SRBIJI: Poznato koliko ćemo plaćati benzin i dizel",
+  "Objavljene nove cene goriva: Benzin pojeftinio",
+  "Objavljene nove cene goriva koje će važiti do 27. novembra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +88,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Benzin jeftiniji tri dinara, evrodizel ostaje na 236 dinara po litru"
- }
+ },
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

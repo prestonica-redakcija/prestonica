@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T11:45:57.885434+00:00",
- "updated": "2026-11-20T11:45:57.885434+00:00",
+ "updated": "2026-11-20T12:00:57.155901+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,25 @@
    "url": "https://www.novosti.rs/vesti/politika/1673084/kacelarija-kosovo-metohiju-gazivode-rusenje-imovina-srbi-najnovije-vesti",
    "title": "KANCELARIJA ZA KiM O NOVOM RUŠENjU SRPSKE IMOVINE NA GAZIVODAMA: Obavestićemo međunaordnu javnost uz zahtev za konkretnu akciju",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/299422/kancelarija-za-kim-obavesticemo-medunarodnu-javnost-o-rusenju-srpske-imovine-na-kosovu-i-metohiji/vest",
+   "title": "Kancelarija za KiM: Obavestićemo međunarodnu javnost o rušenju srpske imovine na Kosovu i Metohiji",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4436640-kancelarija-za-kim-se-oglasila-povodom-rusenja-na-jezeru-gazivode",
+   "title": "Kancelarija za KiM se oglasila povodom rušenja na jezeru Gazivode!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Kancelarija za KiM o rušenju na Gazivodama: Obavestićemo sve međunarodne predstavnike",
-  "KANCELARIJA ZA KiM O NOVOM RUŠENjU SRPSKE IMOVINE NA GAZIVODAMA: Obavestićemo međunaordnu javnost uz zahtev za konkretnu akciju"
+  "KANCELARIJA ZA KiM O NOVOM RUŠENjU SRPSKE IMOVINE NA GAZIVODAMA: Obavestićemo međunaordnu javnost uz zahtev za konkretnu akciju",
+  "Kancelarija za KiM: Obavestićemo međunarodnu javnost o rušenju srpske imovine na Kosovu i Metohiji",
+  "Kancelarija za KiM se oglasila povodom rušenja na jezeru Gazivode!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +74,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Gazivode_Lake_in_Ribari%C4%87e,_half-desiccated_01.jpg",
   "alt": "Kancelarija za KiM: Obavestićemo međunarodne predstavnike o rušenju vikendica na Gazivodama"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

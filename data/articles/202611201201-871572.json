@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T11:01:26.183950+00:00",
- "updated": "2026-11-20T11:16:08.898553+00:00",
+ "updated": "2026-11-20T12:00:57.155901+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -40,11 +40,18 @@
    "url": "https://www.novosti.rs/vesti/politika/1673053/oglasio-seselj-nakon-informacije-policiji-sinoc-dosla-uniformisana-policija",
    "title": "OGLASIO SE ŠEŠELj NAKON INFORMACIJE DA JE U POLICIJI: Sinoć je došla uniformisana policija...",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/seselj-saslusan-u-policiji/",
+   "title": "Šešelj saslušan u policiji",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "OGLASIO SE ŠEŠELj NAKON INFORMACIJE DA JE U POLICIJI: je došla uniformisana policija...",
-  "OGLASIO SE ŠEŠELj NAKON INFORMACIJE DA JE U POLICIJI: Sinoć je došla uniformisana policija..."
+  "OGLASIO SE ŠEŠELj NAKON INFORMACIJE DA JE U POLICIJI: Sinoć je došla uniformisana policija...",
+  "Šešelj saslušan u policiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,6 +64,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Snezana_Djordjevic_i_Vojislav_Seselj.jpg",
   "alt": "Šešelj: policija mi je uručila poziv na informativni razgovor po zahtevu tužilaštva"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
