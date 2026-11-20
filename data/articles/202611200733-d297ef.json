@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-20T16:28:52.999328+00:00",
+ "updated": "2026-11-20T16:43:36.323561+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -169,6 +169,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/poginuo-radnik-na-gradilistu-u-leskovcu/",
    "title": "Poginuo radnik na gradilištu u Leskovcu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/radnik-poginuo-na-gradiilitu-u-leskovcu/",
+   "title": "Radnik poginuo na gradiilištu u Leskovcu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -193,7 +199,8 @@
   "Rute: Podignuti NATO avioni nakon pada projektila na teritoriju Poljske",
   "Ministar odbrane Poljske: Tri ruska objekta pala na našoj teritoriji tokom noći",
   "Poginuo radnik na gradilištu u Leskovcu",
-  "Poginuo radnik na gradilištu u Leskovcu"
+  "Poginuo radnik na gradilištu u Leskovcu",
+  "Radnik poginuo na gradiilištu u Leskovcu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -207,7 +214,7 @@
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
  },
- "novo_od_pisanja": 2,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-20T15:59:02.730825+00:00",
  "verzija": 5

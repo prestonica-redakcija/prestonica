@@ -32,17 +32,24 @@
  ],
  "importance": 4,
  "published": "2026-11-20T16:28:52.999328+00:00",
- "updated": "2026-11-20T16:28:52.999328+00:00",
+ "updated": "2026-11-20T16:43:36.323561+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1673185/djurdjevic-stamenkovski-skandalu-skupstini-zagovara-autonomiju-sandzaka-cepanje-srbije-zeli-dobro-vasoj-mojoj-deci",
    "title": "ĐURĐEVIĆ STAMENKOVSKI O SKANDALU U SKUPŠTINI: \"Ko zagovara autonomiju Sandžaka i cepanje Srbije, ne želi dobro ni vašoj ni mojoj deci\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673185/zagovara-autonomiju-sandzaka-cepanje-srbije-zeli-dobro-nasoj-deci-djurdjevic-stamenkovski-ostro-nakon-skandala-srpskom-parlamentu",
+   "title": "\"KO ZAGOVARA AUTONOMIJU SANDžAKA I CEPANjE SRBIJE, NE ŽELI DOBRO NAŠOJ DECI\": Đurđević Stamenkovski oštro nakon skandala u srpskom parlamentu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "ĐURĐEVIĆ STAMENKOVSKI O SKANDALU U SKUPŠTINI: \"Ko zagovara autonomiju Sandžaka i cepanje Srbije, ne želi dobro ni vašoj ni mojoj deci\""
+  "ĐURĐEVIĆ STAMENKOVSKI O SKANDALU U SKUPŠTINI: \"Ko zagovara autonomiju Sandžaka i cepanje Srbije, ne želi dobro ni vašoj ni mojoj deci\"",
+  "\"KO ZAGOVARA AUTONOMIJU SANDžAKA I CEPANjE SRBIJE, NE ŽELI DOBRO NAŠOJ DECI\": Đurđević Stamenkovski oštro nakon skandala u srpskom parlamentu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Sandzak_Landscape_2.JPG",
   "alt": "Đurđević Stamenkovski oštro reagovala na čestitku povodom Dana Sandžaka u Skupštini"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
