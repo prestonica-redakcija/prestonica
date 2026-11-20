@@ -79,6 +79,7 @@ x:
 # Objave portala na nalogu @Prestonicars (X). Radi tek kad se u GitHub dodaju četiri ključa naloga.
 # Cene X-a (pay-per-use): objava bez linka oko $0,015, objava sa linkom oko $0,20.
 x_objave:
+  nalog: Prestonicars
   ukljuceno: true
   dnevno_najvise: 30          # najviše objava u 24 sata (kontrola troška)
   razmak_minuta: 25            # najmanji razmak od poslednje objave

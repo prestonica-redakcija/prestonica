@@ -303,6 +303,28 @@ async function saKesom(env, kljuc, minuta, posao) {
   }
 }
 
+/* ------------------------------- podaci koje portal sam šalje (YouTube, X) */
+// Ključevi za YouTube i X već postoje u GitHub Actions, pa se ne dupliraju ovde:
+// portal pri svakom osvežavanju pošalje stanje svojih naloga, a servis ga čuva.
+
+async function primiIzvore(env, telo) {
+  const t = Date.now();
+  for (const kljuc of ["youtube", "x"]) {
+    if (!telo[kljuc] || typeof telo[kljuc] !== "object") continue;
+    await env.DB.prepare("INSERT INTO kes (kljuc,t,telo) VALUES (?1,?2,?3) ON CONFLICT(kljuc) DO UPDATE SET t=?2, telo=?3")
+      .bind("push:" + kljuc, t, JSON.stringify(telo[kljuc])).run();
+  }
+}
+
+async function poslato(env, kljuc) {
+  const r = await env.DB.prepare("SELECT t, telo FROM kes WHERE kljuc=?1").bind("push:" + kljuc).first();
+  if (!r) return null;
+  const o = JSON.parse(r.telo);
+  o._kes = Math.round((Date.now() - r.t) / 1000);
+  o._izvor = "portal";
+  return o;
+}
+
 /* ------------------------------------------------- Google: pristupni token */
 
 function pemUBajtove(pem) {
@@ -528,6 +550,16 @@ export default {
       return new Response(null, { status: 204 });
     }
 
+    // ---- stanje YouTube kanala i X naloga iz GitHub Actions
+    if (req.method === "POST" && put === "/izvori") {
+      if (!env.STAT_UPIS || !istiKljuc(req.headers.get("X-Upis") || "", env.STAT_UPIS))
+        return json({ greska: "Nije dozvoljeno." }, 401, origin);
+      try {
+        await primiIzvore(env, JSON.parse(await req.text()));
+        return json({ ok: true }, 200, origin);
+      } catch (e) { return json({ greska: String(e.message || e) }, 400, origin); }
+    }
+
     // ---- upis produkcije iz GitHub Actions
     if (req.method === "POST" && put === "/produkcija") {
       if (!env.STAT_UPIS || !istiKljuc(req.headers.get("X-Upis") || "", env.STAT_UPIS))
@@ -561,8 +593,20 @@ export default {
         const k = "google:" + danKljuc(od) + ":" + danKljuc(dok);
         return json(await saKesom(env, k, KES_MIN.google, () => google(env, od, dok)), 200, origin);
       }
-      if (put === "/youtube") return json(await saKesom(env, "youtube", KES_MIN.youtube, () => youtube(env)), 200, origin);
-      if (put === "/x-mreza") return json(await saKesom(env, "x", KES_MIN.x, () => xMreza(env)), 200, origin);
+      if (put === "/youtube") {
+        if (env.YT_API_KEY && env.YT_CHANNEL_ID)
+          return json(await saKesom(env, "youtube", KES_MIN.youtube, () => youtube(env)), 200, origin);
+        const p = await poslato(env, "youtube");
+        if (p) return json(p, 200, origin);
+        throw new Error("YouTube još nije povezan. Portal šalje podatke sam pri svakom osvežavanju; sačekaj jedan ciklus ili dodaj tajne YT_API_KEY i YT_CHANNEL_ID.");
+      }
+      if (put === "/x-mreza") {
+        if (env.X_BEARER)
+          return json(await saKesom(env, "x", KES_MIN.x, () => xMreza(env)), 200, origin);
+        const p = await poslato(env, "x");
+        if (p) return json(p, 200, origin);
+        throw new Error("X još nije povezan. Portal šalje podatke sam pri svakom osvežavanju; sačekaj jedan ciklus ili dodaj tajnu X_BEARER.");
+      }
       if (put === "/produkcija") return json(await produkcijaCitaj(env), 200, origin);
 
       if (put === "/stanje") {
@@ -573,6 +617,7 @@ export default {
             google: !!(env.GOOGLE_SA_EMAIL && env.GOOGLE_SA_KEY && env.GA4_PROPERTY_ID),
             youtube: !!(env.YT_API_KEY && env.YT_CHANNEL_ID),
             x: !!env.X_BEARER, produkcija: !!env.STAT_UPIS,
+            youtube_portal: !!(await poslato(env, "youtube")), x_portal: !!(await poslato(env, "x")),
           },
         }, 200, origin);
       }

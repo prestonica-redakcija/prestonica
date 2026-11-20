@@ -472,7 +472,9 @@ def main() -> None:
         # 6b4. Objava na nalogu portala na X-u (najviše jedna po osvežavanju)
         if live:
             try:
-                from . import objave_x
+                from . import komanda, objave_x
+                komanda.posalji(cfg)
+                objave_x.post_video(cfg, state, state.get("videos") or [])
                 objave_x.run(cfg, state, [a for a in articles if not pravila.blokira(a)], t0)
             except Exception as e:
                 log.warning("X objave: %s", e)
