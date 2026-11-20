@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T09:17:09.352450+00:00",
- "updated": "2026-11-20T09:17:09.352450+00:00",
+ "updated": "2026-11-20T09:31:54.346816+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -47,11 +47,32 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4436504-uhapseno-sest-osoba-u-srbiji-u-medjunarodnoj-akciji-mozaik-spaseno-devetoro-dece",
    "title": "Dačić: Uhapšeno šest osoba u Srbiji u međunarodnoj akciji \"Mozaik\", spaseno devetoro dece",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/286576/mup-u-akciji-mozaik-uhapsio-sest-osoba-zbog-seksualnog-zlostavljanja-dece/vest",
+   "title": "Velika akcija srpske policije: Uhapšeno šest osoba zbog seksualnog zlostavljanja dece",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/srpska-policija-uhapsila-sest-osoba-zbog-sumnje-da-su-seksualno-zlostavljali-decu-preko-interneta-spaseno-devetoro-dece/",
+   "title": "Srpska policija uhapsila šest osoba zbog sumnje da su seksualno zlostavljali decu preko interneta, spaseno devetoro dece",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/mup-sestoro-uhapsenih-u-medjunarodnoj-akciji-protiv-seksualnog-zlostavljanja-dece/",
+   "title": "MUP: Šestoro uhapšenih u međunarodnoj akciji protiv seksualnog zlostavljanja dece",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Predstavljali se kao devojčice i od maloletnika tražili intimne fotografije: Šest osoba uhapšeno u akciji \"Mozaik\" u Srbiji",
-  "Dačić: Uhapšeno šest osoba u Srbiji u međunarodnoj akciji \"Mozaik\", spaseno devetoro dece"
+  "Dačić: Uhapšeno šest osoba u Srbiji u međunarodnoj akciji \"Mozaik\", spaseno devetoro dece",
+  "Velika akcija srpske policije: Uhapšeno šest osoba zbog seksualnog zlostavljanja dece",
+  "Srpska policija uhapsila šest osoba zbog sumnje da su seksualno zlostavljali decu preko interneta, spaseno devetoro dece",
+  "MUP: Šestoro uhapšenih u međunarodnoj akciji protiv seksualnog zlostavljanja dece"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +85,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Ivica_Da%C4%8Di%C4%87_(cropped).jpg",
   "osoba": "Ivica Dačić",
   "alt": "U međunarodnoj akciji \"Mozaik\" u Srbiji uhapšeno šest osoba, spaseno devetoro dece"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-19T06:58:47.335790+00:00",
- "updated": "2026-11-20T09:02:13.737109+00:00",
+ "updated": "2026-11-20T09:31:54.346816+00:00",
  "sources": [
   {
    "name": "N1",
@@ -89,6 +89,12 @@
    "url": "https://n1info.rs/vesti/troje-dece-i-dvoje-odraslih-povredjeno-u-udesima-u-nisu/",
    "title": "Troje dece i dvoje odraslih povređeno u udesima u Nišu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/dvoje-odraslih-i-troje-dece-povredjeno-u-udesima-u-nisu/",
+   "title": "Dvoje odraslih i troje dece povređeno u udesima u Nišu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -101,7 +107,8 @@
   "Hitna pomoć: Četiri osobe lakše povređene u tri udesa u Beogradu",
   "Ćetiri osobe lakše povređene u tri saobraćajne nezgode",
   "Troje dece i dve odrasle osobe povređene u saobraćajnim nesrećama u Nišu",
-  "Troje dece i dvoje odraslih povređeno u udesima u Nišu"
+  "Troje dece i dvoje odraslih povređeno u udesima u Nišu",
+  "Dvoje odraslih i troje dece povređeno u udesima u Nišu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -114,6 +121,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Austrian_Embassy_in_Belgrade_(Ambasada_Austrije_u_Beogradu).jpg",
   "alt": "Beograd: u sedam saobraćajnih nezgoda povređeno 12 osoba, jedan muškarac izboden nožem"
  },
- "novo_od_pisanja": 6,
- "boost": 1.48
+ "novo_od_pisanja": 7,
+ "boost": 1.56
 }

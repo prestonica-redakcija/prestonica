@@ -24,7 +24,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T07:32:37.259856+00:00",
- "updated": "2026-11-20T08:02:26.603888+00:00",
+ "updated": "2026-11-20T09:31:54.346816+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -37,11 +37,18 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/252876/fjucersi-zlata-na-komexu-pali-ispod-3550-dolara-po-unci/vest",
    "title": "Cena zlata pala ispod 3.550 dolara po unci prvi put od septembra 2025. godine",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1673010/cena-zlata-ostrom-padu-ispod-3-550-dolara-unci-investitori-zabrinuti",
+   "title": "CENA ZLATA U OŠTROM PADU: Ispod 3.550 dolara po unci, investitori zabrinuti",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Cena zlata pala ispod 3.550 dolara po unci prvi put od septembra 2025.",
-  "Cena zlata pala ispod 3.550 dolara po unci prvi put od septembra 2025. godine"
+  "Cena zlata pala ispod 3.550 dolara po unci prvi put od septembra 2025. godine",
+  "CENA ZLATA U OŠTROM PADU: Ispod 3.550 dolara po unci, investitori zabrinuti"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,6 +61,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Rokytno_20,_penzion_KOMEX.jpg",
   "alt": "Cena zlata pala ispod 3.550 dolara po unci, prvi put od septembra 2025"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
