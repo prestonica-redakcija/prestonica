@@ -1,0 +1,61 @@
+{
+ "id": "202611210040-98cab6",
+ "slug": "sajber-napad-na-americko-ministarstvo-poljoprivrede-poremetio-isplate",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Sajber-napad na američko Ministarstvo poljoprivrede poremetio isplate farmerima",
+ "lead": "Ministarstvo poljoprivrede SAD (USDA) bilo je ove nedelje meta sajber-napada, a više sistema za isplatu novca farmerima danima ne radi. Zvaničnik Ministarstva tvrdi da podaci nisu izgubljeni, dok dva bivša zvaničnika izražavaju zabrinutost zbog mogućeg pristupa osetljivim podacima.",
+ "body": [
+  "Prema navodima dvojice bivših zvaničnika Ministarstva, koje prenose Telegraf i Kurir, hakeri su u četvrtak pristupili sistemu preko kog se farmerima isplaćuje novac. Za to je, kako se navodi, zaposlene obavestilo samo Ministarstvo.",
+  "Kritični sistemi Agencije za poljoprivredne usluge (FSA) ne rade duže od nedelju dana, piše AG Web. Zbog toga zaposleni ne mogu da završe prijave za programe ARC/PLC pre roka 11. decembra. Nextgov/FCW javlja da je Ministarstvo isključilo brojne aplikacije nakon internog bezbednosnog incidenta.",
+  "Centar za sajber-bezbednost i zaštitu privatnosti Ministarstva otkrio je proboj, nakon čega je naložena promena svih lozinki za baze podataka i ponovno pokretanje aplikacija. Poremećeni su finansijski alati, uključujući one za osiguranje useva i pomoć u slučaju prirodnih katastrofa.",
+  "Za sada je nejasno ko je izvršio upad i da li su podaci ukradeni. Prekidi su se u četvrtak kasno uveče povremeno javljali, a neki zaposleni imali su problema s VPN vezom.",
+  "Podsekretar Ričard Fordajs kaže da su mere sajber-bezbednosti delovale efikasno i da podaci nisu izgubljeni. Priznao je „ograničene prekide u radu“ i objasnio da su programi isključeni radi zaštite sistema. Dodao je da su neki sistemi FSA možda bili van funkcije i zbog održavanja.",
+  "Telegraf dodaje da je GAO u izveštaju objavljenom u četvrtak naveo da pet od 16 zahteva Kongresa iz 2021. za unapređenje sajber-bezbednosti prehrambenog i poljoprivrednog sektora još nije u potpunosti sprovedeno. Fordajs nije želeo da komentariše taj izveštaj."
+ ],
+ "tags": [
+  "sajber-napad",
+  "USDA",
+  "SAD",
+  "Ministarstvo poljoprivrede",
+  "sajber-bezbednost",
+  "farmeri"
+ ],
+ "people": [
+  "Ričard Fordajs"
+ ],
+ "places": [
+  "SAD"
+ ],
+ "importance": 4,
+ "published": "2026-11-20T23:40:40.621842+00:00",
+ "updated": "2026-11-20T23:40:40.621842+00:00",
+ "sources": [
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10168477/hakeri-probili-odbranu-americkog-ministarstva-poljoprivrede",
+   "title": "HAKERI PROBILI ZAŠTITU AMERIČKOG MINISTARSTVA ODBRANE: Meta sajber-napada, zabrinutost da bi mogli da pristupe osetljivim podacima",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4437021-hakeri-probili-odbranu-americkog-ministarstva-poljoprivrede-pristupili-veoma-osetljivom-sistemu",
+   "title": "Hakeri probili odbranu američkog Ministarstva poljoprivrede, pristupili veoma osetljivom sistemu",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "HAKERI PROBILI ZAŠTITU AMERIČKOG MINISTARSTVA ODBRANE: Meta sajber-napada, zabrinutost da bi mogli da pristupe osetljivim podacima",
+  "Hakeri probili odbranu američkog Ministarstva poljoprivrede, pristupili veoma osetljivom sistemu"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.85,
+ "image": {
+  "src": "foto/zastave-zgrada.jpg",
+  "credit": "Pexels / Zehra Aynacı",
+  "ilustracija": true,
+  "local": true,
+  "alt": "Sajber-napad na američko Ministarstvo poljoprivrede poremetio isplate farmerima"
+ }
+}

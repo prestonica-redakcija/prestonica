@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.tanjug.rs/svet/hronika/297996/hakeri-povezani-sa-severnom-korejom-planirali-napad-na-vise-od-200-servera-u-svetu/vest": "2026-11-15T23:38:12.505368+00:00",
-  "https://www.kurir.rs/zabava/zena/10104875/zlatna-pravila-za-pranje-brushaltera": "2026-11-15T23:38:12.505368+00:00",
   "https://www.kurir.rs/vesti/srbija/10162907/sanacija-dvorca-u-vlajkovcu-raspisana-javna-nabavka": "2026-11-15T23:53:03.027640+00:00",
   "https://www.kurir.rs/stars/10163081/zapaljen-automobil-aleksandri-prijovic-i-filipu-zivojinovicu": "2026-11-15T23:53:03.027640+00:00",
   "https://nova.rs/magazin/vremenska-prognoza/u-srbiji-oblacno-kosava-popodne-kisa/": "2026-11-16T00:07:53.371503+00:00",
@@ -7226,18 +7224,16 @@
   "https://n1info.rs/sport-klub/kosarka/kosarkasi-zvezde-pobedili-barselonu-posle-produzetka/": "2026-11-20T23:25:51.055306+00:00",
   "https://www.danas.rs/zivot/zdravlje/da-li-su-gustina-i-kvalitet-kose-zapisani-u-genima-ili-ipak-mozemo-nesto-da-promenimo/": "2026-11-20T23:25:51.055306+00:00",
   "https://www.kurir.rs/stars/10168472/milos-brkic-uslikan-u-urgentnom-centru": "2026-11-20T23:25:51.055306+00:00",
-  "https://www.kurir.rs/zabava/ludi-svet/10165769/kreatorki-sadrzaja-za-odrasle-ukrali-privatne-snimke-i-skupocenu-opremu-iz-airbnb-stana": "2026-11-20T23:25:51.055306+00:00"
+  "https://www.kurir.rs/zabava/ludi-svet/10165769/kreatorki-sadrzaja-za-odrasle-ukrali-privatne-snimke-i-skupocenu-opremu-iz-airbnb-stana": "2026-11-20T23:25:51.055306+00:00",
+  "https://www.tanjug.rs/srbija/drustvo/299539/u-porodilistu-u-uzicu-za-24-sata-rodene-cetiri-bebe-tri-devojcice-i-jedan-decak/vest": "2026-11-20T23:40:40.621842+00:00",
+  "https://www.kurir.rs/vesti/srbija/10168254/cetiri-bebe-rodjene-u-porodilistu-u-uzicu": "2026-11-20T23:40:40.621842+00:00",
+  "https://www.telegraf.rs/vesti/svet/4437021-hakeri-probili-odbranu-americkog-ministarstva-poljoprivrede-pristupili-veoma-osetljivom-sistemu": "2026-11-20T23:40:40.621842+00:00",
+  "https://www.kurir.rs/planeta/10168477/hakeri-probili-odbranu-americkog-ministarstva-poljoprivrede": "2026-11-20T23:40:40.621842+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-20T08:52+00:00",
-   "novih": 6,
-   "ukupno": 2928,
-   "sekundi": 321.3
-  },
   {
    "vreme": "2026-11-20T09:08+00:00",
    "novih": 7,
@@ -7591,6 +7587,12 @@
    "novih": 1,
    "ukupno": 3233,
    "sekundi": 398.5
+  },
+  {
+   "vreme": "2026-11-20T23:45+00:00",
+   "novih": 1,
+   "ukupno": 3234,
+   "sekundi": 264.5
   }
  ],
  "licnosti_foto": {
@@ -10386,7 +10388,7 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2122706531619889216",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "parandilovicnls": {
     "since_id": "2123886775957393459",
@@ -10414,39 +10416,39 @@
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "bibislav": {
     "since_id": "2123404577495986296",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "savomanojlovic": {
     "since_id": "2123876557928251511",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "zdravkoponos": {
     "since_id": "2123476746787860570",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "pavlegrbovic": {
     "since_id": "2123871448414802426",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "avucic": {
     "since_id": "2123790071153275082",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "anabrnabic": {
     "since_id": "2123117894347432226",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "milos_vucevic": {
     "since_id": "2123862400529228276",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "sns_srbija": {
     "since_id": "2123865678922879093",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "vlada_srbije": {
     "since_id": null,
@@ -10490,23 +10492,23 @@
    },
    "markodjuric": {
     "since_id": "2123870662255419709",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "nstarovic": {
     "since_id": "2122967633863565451",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "milenkojovanov": {
     "since_id": "2123419985561182395",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "acasapic": {
     "since_id": null,
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "borkostef": {
     "since_id": "2123837042505155014",
@@ -10518,11 +10520,11 @@
    },
    "dobrinacelnik": {
     "since_id": "2123731645471580350",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "jeremic_vuk": {
     "since_id": "2123007427536732502",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
@@ -10530,51 +10532,51 @@
    },
    "srdjanmil037": {
     "since_id": "2123426905680388191",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "zoranlutovac": {
     "since_id": "2123874420972462341",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "pajticbojan": {
     "since_id": "2123010476577554657",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "n_zelenovic": {
     "since_id": "2123561201799921899",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "boskoobradovic": {
     "since_id": "2123742987129635150",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "sasaradulovich": {
     "since_id": "2123796970187653568",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "zaklina_prva": {
     "since_id": "2123878054812692524",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "stevanoccrp": {
     "since_id": "2123805903467995201",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "igorbrakus": {
     "since_id": "2123460909590831246",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "radoholicar": {
     "since_id": "2123165000919326944",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "borakonj": {
     "since_id": "2123863780484669713",
@@ -10582,7 +10584,7 @@
    },
    "narodnipokrets": {
     "since_id": "2123734701261169003",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "direktnors": {
     "since_id": "2123866790531039308",
@@ -10649,16 +10651,16 @@
     "t": 1795215428.7582743
    },
    "nedeljniknin": {
-    "since_id": "2123899183682003194",
-    "t": 1795213720.055876
+    "since_id": "2123914296048406808",
+    "t": 1795218077.6585546
    },
    "trajkovic_rada": {
     "since_id": "2123775843264569788",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "stateinl": {
     "since_id": "2123891635784233264",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "tvbalkaninfo": {
     "since_id": "2123145868773822473",
@@ -10670,31 +10672,31 @@
    },
    "zatrijebacki": {
     "since_id": "2123844027036709035",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "srbininfo": {
-    "since_id": "2123882712008450220",
-    "t": 1795213720.055876
+    "since_id": "2123921372586078714",
+    "t": 1795218077.6585546
    },
    "mfaserbia": {
     "since_id": "2123813730215489722",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "izlaz_dot_com": {
     "since_id": "2123894157848547738",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "tihinavezi": {
-    "since_id": "2123848866319536192",
-    "t": 1795213720.055876
+    "since_id": "2123911400825451007",
+    "t": 1795218077.6585546
    },
    "relativizacija": {
     "since_id": "2123855143850725568",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "seanmilanovic": {
     "since_id": "2123585025610248682",
-    "t": 1795213720.055876
+    "t": 1795218077.6585546
    },
    "masinars": {
     "since_id": "2123883451694686690",
@@ -10702,6 +10704,71 @@
    }
   },
   "posts": [
+   {
+    "id": "2123921372586078714",
+    "x": "srbininfo",
+    "ime": "СРБИН инфо",
+    "grupa": "",
+    "uloga": "",
+    "text": "NVO budžetaši hoće da preotmu pobedu od studenata, sada kada su studenti i narod izgurali ubedljivu pobedu SL, osvojili Skupštinu i smenili Oskara. \n\nDo izbora su se šlihtali deci, jurili ih sa kiflicama i merkali na koje pozicije će da uskoče kad smene Vučića. https://t.co/xUefYc8i34",
+    "published": "2026-11-20T23:28:10.000+00:00",
+    "lajk": 1,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "NVO i studenti, pobeda Studentske liste i smena predsednika Skupštine"
+   },
+   {
+    "id": "2123916937700782121",
+    "x": "srbininfo",
+    "ime": "СРБИН инфо",
+    "grupa": "",
+    "uloga": "",
+    "text": "Antonio Košta👇 bivši premijer Portugala, smenjen je s vlasti 2023, a njegov šef kabineta i ministar privrede su uhapšeni, tužilaštvo je pokrenulo istragu zbog velike korupcije povezane sa rudnicima litijuma  (osumnjičen da je uzeo ogroman novac od rudarskih kompanija da odobri https://t.co/bLj229Dia9",
+    "published": "2026-11-20T23:10:33.000+00:00",
+    "lajk": 3,
+    "prikazi": true,
+    "rubrika": "svet",
+    "tema": "Antonio Košta, korupcija i rudnici litijuma u Portugalu"
+   },
+   {
+    "id": "2123914296048406808",
+    "x": "NedeljnikNIN",
+    "ime": "NIN",
+    "grupa": "",
+    "uloga": "",
+    "text": "Biološki sat u crevima: Kako bakterije usklađuju varenje i metabolizam\n https://t.co/XRsWOwLrE5",
+    "published": "2026-11-20T23:00:03.000+00:00",
+    "lajk": 0,
+    "prikazi": false,
+    "rubrika": "drustvo",
+    "tema": "Biološki sat u crevima, varenje i metabolizam"
+   },
+   {
+    "id": "2123911400825451007",
+    "x": "TihiNaVezi",
+    "ime": "Tihi na vezi",
+    "grupa": "",
+    "uloga": "",
+    "text": "https://t.co/IA8bQivCZP",
+    "published": "2026-11-20T22:48:32.000+00:00",
+    "lajk": 0,
+    "prikazi": false,
+    "rubrika": "drustvo",
+    "tema": "Samo link, bez jasnog sadržaja"
+   },
+   {
+    "id": "2123911288619176031",
+    "x": "TihiNaVezi",
+    "ime": "Tihi na vezi",
+    "grupa": "",
+    "uloga": "",
+    "text": "ŽELJKO DRČELIĆ, TAJKUN VUČIĆEVOG REŽIMA?\nOD MALENOG PODIZVOĐAČA KERAMIČARSKIH RADOVA DO 414 MILIONA EVRA DRŽAVNIH POSLOVA! \n\nLjudi, je l’ vi shvatate kakva je ovo priča?!\n\nKrene čovek sa sitnim građevinskim poslovima. Konkord vest 2014. dobije posao postavljanja keramike u Sava https://t.co/ntn5dO68Ce",
+    "published": "2026-11-20T22:48:06.000+00:00",
+    "lajk": 36,
+    "prikazi": true,
+    "rubrika": "ekonomija",
+    "tema": "Željko Drčelić i državni poslovi vredni 414 miliona evra"
+   },
    {
     "id": "2123899183682003194",
     "x": "NedeljnikNIN",
@@ -21238,73 +21305,6 @@
     "rubrika": "politika",
     "tema": "Biografija Aleksandra Čupića, kandidata za predsednika Skupštine",
     "vest": "202611181635-4b354b"
-   },
-   {
-    "id": "2123102743652905119",
-    "x": "studentblokade",
-    "ime": "Studenti u blokadi",
-    "grupa": "studenti",
-    "uloga": "",
-    "text": "Представници Студентске листе настављају разговоре са представницима међународних институција и дипломатских делегација. У наредном периоду планирани су сусрети са представницима Француске, Немачке и Савета Европе, на којима ће бити отворена питања европских интеграција,",
-    "published": "2026-11-18T17:15:14.000+00:00",
-    "lajk": 835,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Studentska lista razgovara sa međunarodnim predstavnicima",
-    "vest": "202611181635-abd417"
-   },
-   {
-    "id": "2123100834116390950",
-    "x": "TihiNaVezi",
-    "ime": "Tihi na vezi",
-    "grupa": "",
-    "uloga": "",
-    "text": "Zahvaljujući upornosti i odlučnosti nekoliko časnih oficira policije i BIA, kao i ljudi iz tužilaštva, prema informacijama koje su se pojavile, obezbeđeno je da Zagorka Dolovac i njeno tužilaštvo ponovo dobiju kompletnu SKY dokumentaciju, uprkos pokušajima da se taj materijal",
-    "published": "2026-11-18T17:07:38.000+00:00",
-    "lajk": 7,
-    "prikazi": true,
-    "rubrika": "hronika",
-    "tema": "SKY dokumentacija ponovo kod tužilaštva Zagorke Dolovac"
-   },
-   {
-    "id": "2123100693930414161",
-    "x": "sviublokade_fdu",
-    "ime": "FDU u blokadi",
-    "grupa": "studenti",
-    "uloga": "",
-    "text": "Opet neke Stojanove zajebancije… https://t.co/OTp7HQXqFx",
-    "published": "2026-11-18T17:07:05.000+00:00",
-    "lajk": 1287,
-    "prikazi": false,
-    "rubrika": "politika",
-    "tema": "Nejasna šala bez konteksta"
-   },
-   {
-    "id": "2123100586472055073",
-    "x": "BoraKonj",
-    "ime": "Bora",
-    "grupa": "novinari",
-    "uloga": "",
-    "text": "Kad izađe iz skupštine dočekaće ga vest da će SNS biti isključen iz EPP. https://t.co/BjQp5QTYxK",
-    "published": "2026-11-18T17:06:39.000+00:00",
-    "lajk": 351,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Predlog suspenzije SNS iz EPP",
-    "vest": "202611181805-ae9026"
-   },
-   {
-    "id": "2123100557560647893",
-    "x": "agrifblokira",
-    "ime": "Poljoprivredni blokada",
-    "grupa": "",
-    "uloga": "",
-    "text": "Цици што си љута? https://t.co/yR7xYyx4qX",
-    "published": "2026-11-18T17:06:32.000+00:00",
-    "lajk": 932,
-    "prikazi": false,
-    "rubrika": "politika",
-    "tema": "Pitanje bez jasnog smisla"
    }
   ],
   "pratim": [
@@ -22018,26 +22018,6 @@
   }
  },
  "foto_cache": {
-  "t:liga nacija": {
-   "t": 1794612774.3633094,
-   "items": []
-  },
-  "t:reprezentacija srbije": {
-   "t": 1794612775.6371636,
-   "items": []
-  },
-  "t:divizija a": {
-   "t": 1794612775.9361098,
-   "items": []
-  },
-  "t:pruga budimpesta beograd": {
-   "t": 1794612783.6270347,
-   "items": []
-  },
-  "t:david vitezi": {
-   "t": 1794612783.8827474,
-   "items": []
-  },
   "t:branimir nestorovic": {
    "t": 1794637778.1519,
    "items": []
@@ -58078,7 +58058,8 @@
    "202611201743-262803",
    "202611201659-1d3a20",
    "202611201957-a483b2",
-   "202611202256-7b1143"
+   "202611202256-7b1143",
+   "202611202256-1c6e5d"
   ],
   "istorija": [
    {
@@ -58457,6 +58438,12 @@
     "t": 1795216356.6327343,
     "id": "202611202256-7b1143",
     "x": "2123917455227605407",
+    "link": true
+   },
+   {
+    "t": 1795218088.2972612,
+    "id": "202611202256-1c6e5d",
+    "x": "2123924718424396073",
     "link": true
    }
   ],
@@ -61500,8 +61487,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-20T23:26:55.403679+00:00",
-  "uzivo_t": "2026-11-20T23:26:55.403691+00:00"
+  "provereno": "2026-11-20T23:41:35.998491+00:00",
+  "uzivo_t": "2026-11-20T23:41:35.998512+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {
