@@ -32,7 +32,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T14:44:40.690492+00:00",
- "updated": "2026-11-20T14:59:34.956011+00:00",
+ "updated": "2026-11-20T17:13:25.084308+00:00",
  "sources": [
   {
    "name": "B92",
@@ -51,12 +51,19 @@
    "url": "https://www.b92.net/info/politika/286702/marinkovic-u-vasingtonu-s-americkim-kongresmenima-o-jacanju-odnosa-srbije-i-amerike/vest",
    "title": "Marinković u Vašingtonu s američkim kongresmenima o jačanju odnosa Srbije i Amerike",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10168266/vladimir-marinkovic-u-poseti-vasingtonu",
+   "title": "MARINKOVIĆ U POSETI VAŠINGTONU: Važni susreti s kongresmenima",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Marinković u Vašingtonu sa američkim kongresmenima; Razogovri o jačanju odnosa Srbije i Amerike",
   "Vladimir Marinković održao niz sastanaka sa američkim kongresmenima u Vašingtonu",
-  "Marinković u Vašingtonu s američkim kongresmenima o jačanju odnosa Srbije i Amerike"
+  "Marinković u Vašingtonu s američkim kongresmenima o jačanju odnosa Srbije i Amerike",
+  "MARINKOVIĆ U POSETI VAŠINGTONU: Važni susreti s kongresmenima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "local": true,
   "alt": "Marinković u Vašingtonu razgovarao sa kongresmenima o odnosima Srbije i SAD"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

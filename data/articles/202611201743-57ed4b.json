@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T16:43:36.323561+00:00",
- "updated": "2026-11-20T16:58:34.033371+00:00",
+ "updated": "2026-11-20T17:13:25.084308+00:00",
  "sources": [
   {
    "name": "N1",
@@ -54,13 +54,27 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4436865-nastavno-naucno-vece-novosadskog-dif-a-jednoglasno-predlozilo-razresenje-patrika-drida",
    "title": "Nastavno-naučno veće novosadskog DIF-a jednoglasno predložilo razrešenje Patrika Drida",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/299543/nastavno-naucno-vece-novosadskog-dif-jednoglasno-predlozilo-razresenje-patrika-drida/vest",
+   "title": "Nastavno-naučno veće novosadskog DIF jednoglasno predložilo razrešenje Patrika Drida",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10168273/patrik-drid-jednoglasno-razresen-duznosti-dekana",
+   "title": "PATRIK DRID JEDNOGLASNO RAZREŠEN DUŽNOSTI DEKANA: Ostao bez funkcije dok je u pritvoru",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Usvojen predlog za razrešenje Patrika Drida sa mesta dekana DIF-a u Novom Sadu: Jednoglasna odluka",
   "Patrik Drid jednoglasno razrešen dužnosti dekana DIF-a Novi Sad",
   "Patrik Drid jednoglasno razrešen dužnosti dekana novosadskog DIF-a: Odluku u ponedeljak treba da potvrdi Savet fakulteta",
-  "Nastavno-naučno veće novosadskog DIF-a jednoglasno predložilo razrešenje Patrika Drida"
+  "Nastavno-naučno veće novosadskog DIF-a jednoglasno predložilo razrešenje Patrika Drida",
+  "Nastavno-naučno veće novosadskog DIF jednoglasno predložilo razrešenje Patrika Drida",
+  "PATRIK DRID JEDNOGLASNO RAZREŠEN DUŽNOSTI DEKANA: Ostao bez funkcije dok je u pritvoru"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +87,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Fakultet_sporta_i_fizi%C4%8Dkog_vaspitanja_Univerziteta_u_Novom_Sadu_02.jpg",
   "alt": "Nastavno-naučno veće jednoglasno predložilo razrešenje dekana DIF-a Patrika Drida"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -29,7 +29,7 @@
  ],
  "importance": 7,
  "published": "2026-11-19T09:27:37.018336+00:00",
- "updated": "2026-11-20T16:58:34.033371+00:00",
+ "updated": "2026-11-20T17:13:25.084308+00:00",
  "sources": [
   {
    "name": "N1",
@@ -78,6 +78,12 @@
    "url": "https://www.telegraf.rs/vesti/beograd/4436859-kratkotrajni-prestanak-padavina-u-beogradu-pa-stize-nova-grmljavinska-oluja-evo-kada-ponovo-stizu-pljuskovi",
    "title": "Kratkotrajni prestanak padavina u Beogradu, pa stiže nova grmljavinska oluja: Evo kada ponovo stižu pljuskovi",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/286745/kisa-pogodila-beograd/vest",
+   "title": "Jako nevreme pogodilo Beograd; U prestonici pljušti i grmi; Hitno upozorenje: \"U naredna dva sata...\" VIDEO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -88,7 +94,8 @@
   "OPREZ! Ovi delovi Srbije biće na udaru orkanskog vetra od 110 km/h: Pljuštaće, mogući i obilniji pljuskovi",
   "Vetar prevrnuo prikolicu kamiona kod Beograda; Izdato upozorenje: \"Ostanite u kućama i udaljite se od prozora\"",
   "Stižu pljuskovi sa grmljavinom: Ovi predeli Srbije biće prvi na udaru i to već uskoro! Najnovija prognoza!",
-  "Kratkotrajni prestanak padavina u Beogradu, pa stiže nova grmljavinska oluja: Evo kada ponovo stižu pljuskovi"
+  "Kratkotrajni prestanak padavina u Beogradu, pa stiže nova grmljavinska oluja: Evo kada ponovo stižu pljuskovi",
+  "Jako nevreme pogodilo Beograd; U prestonici pljušti i grmi; Hitno upozorenje: \"U naredna dva sata...\" VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -101,8 +108,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Jeep_Renegade_-_Sektor_za_vanredne_situacije_MUPa_Srbije.jpg",
   "alt": "Upozorenje na jaku oluju: udari vetra do 110 km/h u Vojvodini, zapadnoj Srbiji i Beogradu"
  },
- "novo_od_pisanja": 3,
- "boost": 1.56,
+ "novo_od_pisanja": 4,
+ "boost": 1.6,
  "prepisano": "2026-11-19T13:25:55.933564+00:00",
  "verzija": 2
 }
