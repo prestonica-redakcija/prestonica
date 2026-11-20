@@ -38,7 +38,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T15:59:02.730825+00:00",
- "updated": "2026-11-20T15:59:02.730825+00:00",
+ "updated": "2026-11-20T17:58:15.400453+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -51,11 +51,18 @@
    "url": "https://www.danas.rs/svet/si-tramp-i-putin-sta-je-postignuto-na-samitu-u-senzenu/",
    "title": "Si, Tramp i Putin: Šta je postignuto na samitu u Šenženu?",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Standard",
+   "url": "https://standard.rs/2026/11/20/sta-je-dogovoreno-u-senzenu/",
+   "title": "Šta je dogovoreno u Šenženu?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Tramp, Putin i Si za istim stolom: Stvaranje novog svetskog poretka ili privremeno približavanje tri velike sile?",
-  "Si, Tramp i Putin: Šta je postignuto na samitu u Šenženu?"
+  "Si, Tramp i Putin: Šta je postignuto na samitu u Šenženu?",
+  "Šta je dogovoreno u Šenženu?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,5 +74,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Mike_Tramp_-_2023111201228_2023-04-21_Rock_Meets_Classic_-_Sven_-_1D_X_MK_II_-_0266_-_B70I0595.jpg",
   "alt": "Tramp, Putin i Si u Šenženu: deklaracija bez dogovora o Ukrajini i Iranu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
