@@ -34,7 +34,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T15:44:08.662564+00:00",
- "updated": "2026-11-20T18:42:57.040601+00:00",
+ "updated": "2026-11-20T19:12:42.424725+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -59,13 +59,20 @@
    "url": "https://www.euronews.rs/svet/fokus/252979/teksas-pogubio-reinalda-denesa-posle-problema-sa-venom/vest",
    "title": "Problemi tokom pogubljenja u Teksasu: Više neuspešnih pokušaja davanja smrtonosne injekcije",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4436621-boli-oce-uzmi-me-zatvorenik-vristao-i-molio-da-umre-tokom-egzekucije-kakva-se-ne-pamti-u-teksasu",
+   "title": "\"Boli, oče, uzmi me!\": Zatvorenik vrištao i molio da umre tokom egzekucije kakva se ne pamti u Teksasu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Osuđenik na smrt vrištao sat vremena tokom pogubljenja u Teksasu",
   "Horor tokom pogubljenja u Americi: Zatvorenik više od sat vremena prolazio kroz agoniju, vrištao i molio Boga da ga uzme",
   "Pogubljenje u Teksasu trajalo duže od sat vremena zbog komplikacija s injekcijom",
-  "Problemi tokom pogubljenja u Teksasu: Više neuspešnih pokušaja davanja smrtonosne injekcije"
+  "Problemi tokom pogubljenja u Teksasu: Više neuspešnih pokušaja davanja smrtonosne injekcije",
+  "\"Boli, oče, uzmi me!\": Zatvorenik vrištao i molio da umre tokom egzekucije kakva se ne pamti u Teksasu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +84,6 @@
   "local": true,
   "alt": "U Teksasu pogubljen Reinaldo Denes, postupak trajao više od sat vremena"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T18:57:45.637885+00:00",
- "updated": "2026-11-20T18:57:45.637885+00:00",
+ "updated": "2026-11-20T19:12:42.424725+00:00",
  "sources": [
   {
    "name": "N1",
@@ -45,11 +45,18 @@
    "url": "https://informer.rs/politika/vesti/1171628/vojislav-seselj-policija-saslusanje",
    "title": "Paradržavni teror! Saznajemo: Šešelj u policiji",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/rada-trajkovic-objavila-prijavu-protiv-seselja-iz-2022-trazila-da-tuzilastvo-ispita-njegova-saznanja-o-ubistvu-olivera-ivanovica-tvrdi-da-su-joj-potom-maltretirali-decu/",
+   "title": "Rada Trajković objavila prijavu protiv Šešelja iz 2022: Tražila da tužilaštvo ispita njegova saznanja o ubistvu Olivera Ivanovića, tvrdi da su joj potom maltretirali decu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Rada Trajković objavila prijavu protiv Šešelja iz 2022. godine: Tražila da tužilaštvo ispita njegova saznanja o ubistvu Olivera Ivanovića",
-  "Paradržavni teror! Saznajemo: Šešelj u policiji"
+  "Paradržavni teror! Saznajemo: Šešelj u policiji",
+  "Rada Trajković objavila prijavu protiv Šešelja iz 2022: Tražila da tužilaštvo ispita njegova saznanja o ubistvu Olivera Ivanovića, tvrdi da su joj potom maltretirali decu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Rada_Trajkovi%C4%87_(2012).jpg",
   "osoba": "Rada Trajković",
   "alt": "Šešelj dao izjavu policiji zbog nastupa iz 2022, Informer i N1 različito čitaju slučaj"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

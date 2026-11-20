@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-19T09:12:47.015713+00:00",
- "updated": "2026-11-19T11:11:51.082473+00:00",
+ "updated": "2026-11-20T19:12:42.424725+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -85,6 +85,12 @@
    "url": "https://insajder.net/prenosimo/vjt-novi-sad-uhapseni-osumnjiceni-da-su-ostetili-budzet-grada-za-vise-od-dva-miliona-dinara",
    "title": "VJT Novi Sad: Uhapšeni osumnjičeni da su oštetili budžet grada za više od dva miliona dinara",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4436902-srbija-ima-novog-loto-milionera",
+   "title": "Srbija ima novog Loto milionera!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -96,7 +102,8 @@
   "Uhapšena dva zastupnika udruženja građana, sumnja se da su budžet Novog Sada oštetiti za više od dva miliona dinara",
   "OGLASIO SE MUP: Uhapšen dvojac iz Kaća, oštetili budžet Novog Sada za preko dva miliona dinara!",
   "UZELI PARE ZA MANIFESTACIJE KOJE SE NIKADA NISU DESILE: Hapšenje zbog zloupotraba u Novom Sadu!",
-  "VJT Novi Sad: Uhapšeni osumnjičeni da su oštetili budžet grada za više od dva miliona dinara"
+  "VJT Novi Sad: Uhapšeni osumnjičeni da su oštetili budžet grada za više od dva miliona dinara",
+  "Srbija ima novog Loto milionera!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -109,8 +116,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Dunavska_street_in_Novi_Sad.jpg",
   "alt": "Novi Sad: uhapšena dva osumnjičena da su za devet nesprovedenih projekata dobili 2,1 milion dinara"
  },
- "novo_od_pisanja": 2,
- "boost": 1.56,
+ "novo_od_pisanja": 3,
+ "boost": 1.6,
  "prepisano": "2026-11-19T10:41:57.187938+00:00",
  "verzija": 2
 }

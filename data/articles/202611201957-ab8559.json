@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T18:57:45.637885+00:00",
- "updated": "2026-11-20T18:57:45.637885+00:00",
+ "updated": "2026-11-20T19:12:42.424725+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,11 +47,18 @@
    "url": "https://insajder.net/prenosimo/stub-sad-su-uklonile-klauzulu-o-ukrajini-iz-mirovne-deklaracije-iz-senzena",
    "title": "Stub: SAD su uklonile klauzulu o Ukrajini iz mirovne deklaracije iz Šenžena",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286782/stub-sad-su-uklonile-klauzulu-o-ukrajini-iz-mirovne-deklaracije-iz-senzena/vest",
+   "title": "SAD uklonile klauzulu o Ukrajini iz mirovne deklaracije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Stub: SAD su uklonile klauzulu o Ukrajini iz mirovne deklaracije iz Šenžena",
-  "Stub: SAD su uklonile klauzulu o Ukrajini iz mirovne deklaracije iz Šenžena"
+  "Stub: SAD su uklonile klauzulu o Ukrajini iz mirovne deklaracije iz Šenžena",
+  "SAD uklonile klauzulu o Ukrajini iz mirovne deklaracije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Stub: SAD izbacile klauzulu o Ukrajini iz deklaracije o miru usvojene u Šenženu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -32,7 +32,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T12:15:46.806740+00:00",
- "updated": "2026-11-20T12:15:46.806740+00:00",
+ "updated": "2026-11-20T19:12:42.424725+00:00",
  "sources": [
   {
    "name": "N1",
@@ -51,12 +51,19 @@
    "url": "https://insajder.net/prenosimo/fudbalska-reprezentacija-srbije-saznala-protivnika-u-barazu-za-opstanak-u-a-ligi-nacija",
    "title": "Fudbalska reprezentacija Srbije saznala protivnika u baražu za opstanak u A Ligi nacija",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/sport/fudbal/10168360/bih-je-zreb-iz-snova",
+   "title": "BOSNA JE PROTIVNIK IZ SNOVA! Danci oduševljeni rivalom u baražu Lige nacija...",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Srbija saznala rivala za baraž Lige nacija: Bitka za A diviziju počinje u martu",
   "Komšijski megdan: Srbija dobila rivala u baražu za opstanak u A Ligi nacija",
-  "Fudbalska reprezentacija Srbije saznala protivnika u baražu za opstanak u A Ligi nacija"
+  "Fudbalska reprezentacija Srbije saznala protivnika u baražu za opstanak u A Ligi nacija",
+  "BOSNA JE PROTIVNIK IZ SNOVA! Danci oduševljeni rivalom u baražu Lige nacija..."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,5 +74,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Srbija u baražu za opstanak u A diviziji Lige nacija igra protiv Mađarske"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
