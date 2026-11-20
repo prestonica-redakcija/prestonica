@@ -6893,18 +6893,17 @@
   "https://www.kurir.rs/vesti/srbija/10166810/nedelja-italijanske-kuhinje-u-vranju": "2026-11-20T04:49:04.128210+00:00",
   "https://www.kurir.rs/vesti/beograd/10166923/bez-struje-danas-u-beogradu": "2026-11-20T05:03:51.843709+00:00",
   "https://www.telegraf.rs/4436382-cupic-posle-izbora-u-skupstini-sada-je-vreme-da-studentska-lista-preuzme-odgovornost": "2026-11-20T05:18:48.613825+00:00",
-  "https://n1info.rs/vesti/na-danasnji-dan-20-novembar-preminuo-patrijarh-irinej-momirovic-i-tanaskovic-podneli-ostavke-nakon-pada-nadstresnice/": "2026-11-20T05:18:48.613825+00:00"
+  "https://n1info.rs/vesti/na-danasnji-dan-20-novembar-preminuo-patrijarh-irinej-momirovic-i-tanaskovic-podneli-ostavke-nakon-pada-nadstresnice/": "2026-11-20T05:18:48.613825+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4436379-na-batrovcima-kamioni-cekaju-sest-sati-na-izlaz-dok-putnickih-zadrzavanja-nema": "2026-11-20T05:33:36.946895+00:00",
+  "https://www.euronews.rs/biznis/biznis-vesti/252814/jahorina-potpisan-sporazum-ski-region-o-ski-kartama/vest": "2026-11-20T05:33:36.946895+00:00",
+  "https://www.novosti.rs/ekonomija/vesti/1672790/puni-sifonjeri-druge-ruke-prodaja-polovne-garderobe-unosan-biznis": "2026-11-20T05:33:36.946895+00:00",
+  "https://www.kurir.rs/stars/10166928/ovo-je-senija-jahovic-majka-emine-jahovic": "2026-11-20T05:33:36.946895+00:00",
+  "https://www.telegraf.rs/4436381-skupstina-srbije-imenovala-mirjanu-radakovic-za-generalnog-sekretara-parlamenta": "2026-11-20T05:33:36.946895+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-19T14:44+00:00",
-   "novih": 1,
-   "ukupno": 2801,
-   "sekundi": 279.8
-  },
   {
    "vreme": "2026-11-19T15:00+00:00",
    "novih": 0,
@@ -7258,6 +7257,12 @@
    "novih": 0,
    "ukupno": 2868,
    "sekundi": 244.4
+  },
+  {
+   "vreme": "2026-11-20T05:37+00:00",
+   "novih": 2,
+   "ukupno": 2870,
+   "sekundi": 212.9
   }
  ],
  "licnosti_foto": {
@@ -21657,191 +21662,6 @@
   }
  },
  "foto_cache": {
-  "t:ostojicevo": {
-   "t": 1794547580.884582,
-   "items": [
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ostoji%C4%87evo%2C_Orthodox_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1024,
-     "h": 768,
-     "god": 2006,
-     "credit": "Wikimedia Commons / No machine-readable author provided. Sors bona assumed (base / Public domain",
-     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_Orthodox_Church.jpg",
-     "naslov": "Ostojićevo, Orthodox Church.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Ostoji%C4%87evo%2C_ulica_Sin%C4%91eli%C4%87eva.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Sin%C4%91eli%C4%87eva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5849,
-     "h": 3899,
-     "god": 2024,
-     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Sin%C4%91eli%C4%87eva.jpg",
-     "naslov": "Ostojićevo, ulica Sinđelićeva.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_03.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 6000,
-     "h": 4000,
-     "god": 2024,
-     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Mar%C5%A1ala_Tita_03.jpg",
-     "naslov": "Ostojićevo, ulica Maršala Tita 03.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_04.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 6000,
-     "h": 4000,
-     "god": 2024,
-     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Mar%C5%A1ala_Tita_04.jpg",
-     "naslov": "Ostojićevo, ulica Maršala Tita 04.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ostoji%C4%87evo%2C_ulica_Slova%C4%8Dka.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Slova%C4%8Dka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 6000,
-     "h": 4000,
-     "god": 2024,
-     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Slova%C4%8Dka.jpg",
-     "naslov": "Ostojićevo, ulica Slovačka.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_01.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 6000,
-     "h": 4000,
-     "god": 2024,
-     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Mar%C5%A1ala_Tita_01.jpg",
-     "naslov": "Ostojićevo, ulica Maršala Tita 01.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_05.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 6000,
-     "h": 4000,
-     "god": 2024,
-     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Mar%C5%A1ala_Tita_05.jpg",
-     "naslov": "Ostojićevo, ulica Maršala Tita 05.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_02.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Mar%C5%A1ala_Tita_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 6000,
-     "h": 4000,
-     "god": 2024,
-     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Mar%C5%A1ala_Tita_02.jpg",
-     "naslov": "Ostojićevo, ulica Maršala Tita 02.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Ostoji%C4%87evo%2C_ulica_Nemanjina_%281%29.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Nemanjina_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 6000,
-     "h": 4000,
-     "god": 2024,
-     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Nemanjina_(1).jpg",
-     "naslov": "Ostojićevo, ulica Nemanjina (1).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Ostoji%C4%87evo%2C_ulica_Kosovska.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Kosovska.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 6000,
-     "h": 4000,
-     "god": 2024,
-     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Kosovska.jpg",
-     "naslov": "Ostojićevo, ulica Kosovska.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ostoji%C4%87evo%2C_ulica_Hajduk_Veljka.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Hajduk_Veljka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 6000,
-     "h": 4000,
-     "god": 2024,
-     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Hajduk_Veljka.jpg",
-     "naslov": "Ostojićevo, ulica Hajduk Veljka.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Ostoji%C4%87evo%2C_ulica_Nemanjina_%282%29.jpg/1920px-Ostoji%C4%87evo%2C_ulica_Nemanjina_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 6000,
-     "h": 4000,
-     "god": 2024,
-     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_ulica_Nemanjina_(2).jpg",
-     "naslov": "Ostojićevo, ulica Nemanjina (2).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_06.jpg/1920px-Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 6000,
-     "h": 4000,
-     "god": 2024,
-     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s,_vas%C3%BAt%C3%A1llom%C3%A1s_06.jpg",
-     "naslov": "Ostojićevo, železnička stanica - Tiszaszentmiklós, vasútállomás 06.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_05.jpg/1920px-Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 6000,
-     "h": 4000,
-     "god": 2024,
-     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s,_vas%C3%BAt%C3%A1llom%C3%A1s_05.jpg",
-     "naslov": "Ostojićevo, železnička stanica - Tiszaszentmiklós, vasútállomás 05.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_01.jpg/1920px-Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5967,
-     "h": 4000,
-     "god": 2024,
-     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s,_vas%C3%BAt%C3%A1llom%C3%A1s_01.jpg",
-     "naslov": "Ostojićevo, železnička stanica - Tiszaszentmiklós, vasútállomás 01.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_03.jpg/1920px-Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 6000,
-     "h": 4000,
-     "god": 2024,
-     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s,_vas%C3%BAt%C3%A1llom%C3%A1s_03.jpg",
-     "naslov": "Ostojićevo, železnička stanica - Tiszaszentmiklós, vasútállomás 03.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_02.jpg/1920px-Ostoji%C4%87evo%2C_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s%2C_vas%C3%BAt%C3%A1llom%C3%A1s_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 6000,
-     "h": 4000,
-     "god": 2024,
-     "credit": "Wikimedia Commons / Kamil Czaiński / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_%C5%BEelezni%C4%8Dka_stanica_-_Tiszaszentmikl%C3%B3s,_vas%C3%BAt%C3%A1llom%C3%A1s_02.jpg",
-     "naslov": "Ostojićevo, železnička stanica - Tiszaszentmiklós, vasútállomás 02.jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ostoji%C4%87evo%2C_Slovak_Evangelical_church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1024,
-     "h": 768,
-     "god": 2006,
-     "credit": "Wikimedia Commons / No machine-readable author provided. Sors bona assumed (base / Public domain",
-     "link": "https://commons.wikimedia.org/wiki/File:Ostoji%C4%87evo,_Slovak_Evangelical_church.jpg",
-     "naslov": "Ostojićevo, Slovak Evangelical church.jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Srpska_pravoslavna_crkva_Svetog_Nikole%2C_Ostoji%C4%87evo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1061,
-     "h": 1194,
-     "god": 2026,
-     "credit": "Wikimedia Commons / Maricarmen87 / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Srpska_pravoslavna_crkva_Svetog_Nikole,_Ostoji%C4%87evo.jpg",
-     "naslov": "Srpska pravoslavna crkva Svetog Nikole, Ostojićevo.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D1%85%D1%83%D0%BC%D0%BA%D0%B0_%D0%9E%D1%81%D1%82%D0%BE%D1%98%D0%B8%D1%9B%D0%B5%D0%B2%D0%BE%2C_%D0%BD%D0%B0_%D1%85%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82%D1%83.jpg/1920px-%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D1%85%D1%83%D0%BC%D0%BA%D0%B0_%D0%9E%D1%81%D1%82%D0%BE%D1%98%D0%B8%D1%9B%D0%B5%D0%B2%D0%BE%2C_%D0%BD%D0%B0_%D1%85%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82%D1%83.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2163,
-     "h": 1553,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Jozefsu / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D1%85%D1%83%D0%BC%D0%BA%D0%B0_%D0%9E%D1%81%D1%82%D0%BE%D1%98%D0%B8%D1%9B%D0%B5%D0%B2%D0%BE,_%D0%BD%D0%B0_%D1%85%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82%D1%83.jpg",
-     "naslov": "Велика хумка Остојићево, на хоризонту.jpg"
-    }
-   ]
-  },
   "t:dada vujasinovic": {
    "t": 1794548463.2735453,
    "items": []
@@ -59635,6 +59455,164 @@
      "naslov": "Beograd ekoloski protest against Rio Tinto 10 aug 2024 (3).jpg"
     }
    ]
+  },
+  "t:jahorina": {
+   "t": 1795152837.3495584,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Jahorina_-_2011_-_panoramio_-_nikola_pu_%284%29.jpg/1920px-Jahorina_-_2011_-_panoramio_-_nikola_pu_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3968,
+     "h": 2976,
+     "god": 2011,
+     "credit": "Wikimedia Commons / nikola_pu / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_2011_-_panoramio_-_nikola_pu_(4).jpg",
+     "naslov": "Jahorina - 2011 - panoramio - nikola pu (4).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Jahorina_-_app_danica_-_2011_-_panoramio.jpg/1920px-Jahorina_-_app_danica_-_2011_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3968,
+     "h": 2976,
+     "god": 2011,
+     "credit": "Wikimedia Commons / nikola_pu / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_app_danica_-_2011_-_panoramio.jpg",
+     "naslov": "Jahorina - app danica - 2011 - panoramio.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Jahorina_-_panoramio_%286%29.jpg/1920px-Jahorina_-_panoramio_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4000,
+     "h": 3000,
+     "god": 2012,
+     "credit": "Wikimedia Commons / BrsJvnvc / CC BY 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_panoramio_(6).jpg",
+     "naslov": "Jahorina - panoramio (6).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Jahorina_from_Trebevi%C4%87_1.jpg/1920px-Jahorina_from_Trebevi%C4%87_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3900,
+     "h": 2600,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Julian Nyča / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_from_Trebevi%C4%87_1.jpg",
+     "naslov": "Jahorina from Trebević 1.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/%D0%88%D0%B0%D1%85%D0%BE%D1%80%D0%B8%D0%BD%D0%B0_1_ZPP001.jpg/1920px-%D0%88%D0%B0%D1%85%D0%BE%D1%80%D0%B8%D0%BD%D0%B0_1_ZPP001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3773,
+     "h": 2515,
+     "god": 2018,
+     "credit": "Wikimedia Commons / Svjetlopis, Vladimir Tadic / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%88%D0%B0%D1%85%D0%BE%D1%80%D0%B8%D0%BD%D0%B0_1_ZPP001.jpg",
+     "naslov": "Јахорина 1 ZPP001.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Road_to_Jahorina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1024,
+     "h": 768,
+     "god": 2009,
+     "credit": "Wikimedia Commons / Ratko Bozovic from BgD, Sr / CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Road_to_Jahorina.jpg",
+     "naslov": "Road to Jahorina.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Jahorina_-_panoramio_%285%29.jpg/1920px-Jahorina_-_panoramio_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4000,
+     "h": 3000,
+     "god": 2012,
+     "credit": "Wikimedia Commons / BrsJvnvc / CC BY 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_panoramio_(5).jpg",
+     "naslov": "Jahorina - panoramio (5).jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Jahorina_November_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 960,
+     "h": 541,
+     "god": 2016,
+     "credit": "Wikimedia Commons / Uncica / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_November_.jpg",
+     "naslov": "Jahorina November .jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Jahorina_-_2011_-_panoramio_-_nikola_pu_%282%29.jpg/1920px-Jahorina_-_2011_-_panoramio_-_nikola_pu_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3968,
+     "h": 2976,
+     "god": 2011,
+     "credit": "Wikimedia Commons / nikola_pu / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_2011_-_panoramio_-_nikola_pu_(2).jpg",
+     "naslov": "Jahorina - 2011 - panoramio - nikola pu (2).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Jahorina_-_2011_-_panoramio_-_nikola_pu.jpg/1920px-Jahorina_-_2011_-_panoramio_-_nikola_pu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3968,
+     "h": 2976,
+     "god": 2011,
+     "credit": "Wikimedia Commons / nikola_pu / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_2011_-_panoramio_-_nikola_pu.jpg",
+     "naslov": "Jahorina - 2011 - panoramio - nikola pu.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Jahorina_-_panoramio_%281%29.jpg/1920px-Jahorina_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4000,
+     "h": 3000,
+     "god": 2012,
+     "credit": "Wikimedia Commons / BrsJvnvc / CC BY 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_panoramio_(1).jpg",
+     "naslov": "Jahorina - panoramio (1).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/IMGP3064_Jahorina_sa_Trebevi%C4%87a.jpg/1920px-IMGP3064_Jahorina_sa_Trebevi%C4%87a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2048,
+     "h": 1536,
+     "god": 2008,
+     "credit": "Wikimedia Commons / Zavičajac / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:IMGP3064_Jahorina_sa_Trebevi%C4%87a.jpg",
+     "naslov": "IMGP3064 Jahorina sa Trebevića.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Jahorina_-_Radarstation_02.jpg/1920px-Jahorina_-_Radarstation_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5184,
+     "h": 3456,
+     "god": 2014,
+     "credit": "Wikimedia Commons / spacebirdy(also known as geimfyglið (:&gt; )=| made with Ste / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_Radarstation_02.jpg",
+     "naslov": "Jahorina - Radarstation 02.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Jahorina_-_2011_-_panoramio.jpg/1920px-Jahorina_-_2011_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3968,
+     "h": 2976,
+     "god": 2011,
+     "credit": "Wikimedia Commons / nikola_pu / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_2011_-_panoramio.jpg",
+     "naslov": "Jahorina - 2011 - panoramio.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Jahorina_-_2011_-_panoramio_-_nikola_pu_%281%29.jpg/1920px-Jahorina_-_2011_-_panoramio_-_nikola_pu_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2976,
+     "h": 3968,
+     "god": 2011,
+     "credit": "Wikimedia Commons / nikola_pu / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_2011_-_panoramio_-_nikola_pu_(1).jpg",
+     "naslov": "Jahorina - 2011 - panoramio - nikola pu (1).jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Jahorina_Jabuka_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1711,
+     "h": 1141,
+     "god": 2013,
+     "credit": "Wikimedia Commons / Julian Nyča / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_Jabuka_2.JPG",
+     "naslov": "Jahorina Jabuka 2.JPG"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Jahorina_043.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1437,
+     "h": 1078,
+     "god": 2013,
+     "credit": "Wikimedia Commons / Mario Knezović / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_043.jpg",
+     "naslov": "Jahorina 043.jpg"
+    }
+   ]
   }
  },
  "x_objave": {
@@ -59806,7 +59784,8 @@
    "202611192307-6774b2",
    "202611192252-5293f6",
    "202611200006-923bfc",
-   "202611200106-d8244c"
+   "202611200106-d8244c",
+   "202611200121-ca3a54"
   ],
   "istorija": [
    {
@@ -60569,6 +60548,12 @@
     "t": 1795151068.1184566,
     "id": "202611200106-d8244c",
     "x": "2123643614999752783",
+    "link": false
+   },
+   {
+    "t": 1795152870.6613429,
+    "id": "202611200121-ca3a54",
+    "x": "2123651175497306573",
     "link": false
    }
   ],
@@ -63252,8 +63237,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-20T05:19:16.635287+00:00",
-  "uzivo_t": "2026-11-20T05:19:16.635306+00:00"
+  "provereno": "2026-11-20T05:34:37.591881+00:00",
+  "uzivo_t": "2026-11-20T05:34:37.591890+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {
