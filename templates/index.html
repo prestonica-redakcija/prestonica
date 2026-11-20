@@ -53,6 +53,13 @@
 </section>
 {% endif %}
 
+{% if nas_video %}
+<section class="vids vids-nas" aria-label="Prestonica video">
+  <div class="shead"><span class="shead-dot"></span><h2>Prestonica video</h2><span class="shead-line"></span><a class="more" href="{{ root }}video.html">Sav video <span aria-hidden="true">&rarr;</span></a></div>
+  <div class="vid-lead">{{ vcard(nas_video, root, rubrike, 'lg') }}</div>
+</section>
+{% endif %}
+
 {% if videos %}
 <section class="vids" aria-label="Video">
   <div class="shead"><span class="shead-dot"></span><h2>Video</h2><span class="shead-line"></span><a class="more" href="{{ root }}video.html">Sav video <span aria-hidden="true">→</span></a></div>

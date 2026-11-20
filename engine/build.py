@@ -200,8 +200,12 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
     _ski = _sk.izbor(by_date, xposts, videos)
     _sks = state.get("skupstina") or {}
     _sk_dan = bool(_sks.get("yt")) and (_sks.get("live") == "live" or (bool(_sks.get("uzivo_t")) and age_hours(_sks["uzivo_t"]) < 12))
+    # Naš snimak ide u sopstveni blok na naslovnoj, pa se ne ponavlja u mreži ispod
+    nas_video = next((v for v in videos if v.get("nas") and age_hours(v["published"]) < 48), None)
+    ostali_v = [v for v in videos if v is not nas_video]
     render("index.html", "index.html", hero=hero, top=top, sections=sections, opinion=opinion,
-           latest=by_date[:12], teme=teme, active="naslovna", title=None, videos=videos[:4], xnaslovna=_x_home(xposts),
+           latest=by_date[:12], teme=teme, active="naslovna", title=None, videos=ostali_v[:4],
+           nas_video=nas_video, xnaslovna=_x_home(xposts),
            sk=_sks, sk_dan=_sk_dan, sk_vesti=[a for a in _ski["vesti"] if age_hours(a["published"]) < 30][:5], sk_snimci=_ski["snimci"][:3])
     if videos:
         days: list[tuple[str, list]] = []

@@ -158,6 +158,46 @@ def fetch_youtube(src: dict) -> list[dict]:
     return out
 
 
+def fetch_nas_kanal(cid: str, limit: int = 12) -> list[dict]:
+    """Snimci sa sopstvenog YouTube kanala Prestonice.
+
+    Ide preko javnog RSS feeda kanala, bez API ključa i bez kvote, pa radi i kada
+    YOUTUBE_API_KEY nije podešen ili je dnevna kvota potrošena. Naš snimak nikada
+    ne sme da izostane sa portala zbog tuđeg ograničenja."""
+    if not cid.startswith("UC"):
+        return []
+    try:
+        r = _get(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}", timeout=15)
+        r.raise_for_status()
+    except Exception as e:
+        log.warning("Sopstveni YouTube kanal nedostupan: %s", e)
+        return []
+    import xml.etree.ElementTree as ET
+
+    ns = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015",
+          "m": "http://search.yahoo.com/mrss/"}
+    try:
+        root = ET.fromstring(r.content)
+    except Exception as e:
+        log.warning("RSS sopstvenog kanala nije razumljiv: %s", e)
+        return []
+    out = []
+    for e in root.findall("a:entry", ns)[:limit]:
+        vid = (e.findtext("yt:videoId", "", ns) or "").strip()
+        if not vid:
+            continue
+        grp = e.find("m:group", ns)
+        opis = (grp.findtext("m:description", "", ns) if grp is not None else "") or ""
+        out.append({
+            "id": vid,
+            "naslov": latin((e.findtext("a:title", "", ns) or "").strip())[:140],
+            "published": (e.findtext("a:published", "", ns) or now_utc().isoformat()).replace("Z", "+00:00"),
+            "opis": latin(opis.strip()),
+            "thumb": f"https://i.ytimg.com/vi/{vid}/maxresdefault.jpg",
+        })
+    return out
+
+
 def live_status(ids: list[str]) -> dict[str, dict]:
     """Za listu video ID-jeva vraća da li je snimak uživo (1 jedinica kvote za do 50 videa)."""
     import os

@@ -62,6 +62,25 @@ def make_article(out: dict, kind: str, cfg, articles: list[dict], sources: list[
     }
 
 
+
+def _kratak_opis(redovi: list[str], granica: int = 230) -> str:
+    """Uvodna recenica ili dve iz opisa snimka, uvek zavrsene tackom."""
+    if not redovi:
+        return ""
+    tekst = redovi[0].strip()
+    if len(tekst) <= granica:
+        return tekst
+    delovi, sklop = re.split(r"(?<=[.!?])\s+", tekst), ""
+    for d in delovi:
+        if sklop and len(sklop) + len(d) + 1 > granica:
+            break
+        sklop = (sklop + " " + d).strip()
+    if sklop:
+        return sklop
+    rez = tekst[:granica].rsplit(" ", 1)[0].rstrip(" ,;:-")
+    return rez + "…"
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--mock", action="store_true")
@@ -152,13 +171,45 @@ def main() -> None:
                 vids.setdefault(it["video_id"], {"id": it["video_id"], "title": it["title"], "kanal": it["source_name"],
                                                  "published": it["published"], "thumb": it.get("thumb", ""), "live": "none",
                                                  "desc": it.get("summary", "")[:700], "spektar": it.get("spektar", "centar")})
+        # 3c. Sopstveni snimci Prestonice (dnevnik, Skupština danas). Naš naslov i naš opis
+        # se zadržavaju: ovo je naš sadržaj, ne prepričavamo ga kao tuđi.
+        nas_cfg = cfg.portal.get("nas_kanal") or {}
+        for nv in (fetch.fetch_nas_kanal(nas_cfg.get("youtube", "")) if not args.fixtures else []):
+            rec = vids.get(nv["id"], {})
+            redovi = []
+            for red in (nv.get("opis") or "").split("\n"):
+                red = red.strip()
+                # spisak poglavlja ("0:42 Uvod"), zaglavlja i linkovi nisu tekst vesti
+                if re.match(r"^\d{1,2}:\d{2}\b", red) or red.isupper() or "http" in red:
+                    if redovi:
+                        break
+                    continue
+                if len(red) > 40:
+                    redovi.append(red)
+                if len(redovi) >= 4:
+                    break
+            rec.update({
+                "id": nv["id"], "title": nv["naslov"], "naslov": nv["naslov"],
+                "kanal": nas_cfg.get("naziv", "Prestonica"), "published": nv["published"],
+                "thumb": nv.get("thumb", ""), "live": rec.get("live", "none"), "nas": True,
+                "rubrika": rec.get("rubrika") or nas_cfg.get("rubrika", "politika"),
+                "opis": rec.get("opis") or _kratak_opis(redovi),
+                "tekst": rec.get("tekst") or redovi or [nv["naslov"]],
+                "spektar": "centar", "skip": False,
+            })
+            vids[nv["id"]] = rec
+
         per_kanal: dict[str, int] = {}
         vlist = []
         for v in sorted(vids.values(), key=lambda v: v["published"], reverse=True):
-            if per_kanal.get(v["kanal"], 0) < 8 and age_hours(v["published"]) <= 168 * 2:
+            if v.get("nas") or per_kanal.get(v["kanal"], 0) < 8 and age_hours(v["published"]) <= 168 * 2:
                 per_kanal[v["kanal"]] = per_kanal.get(v["kanal"], 0) + 1
                 vlist.append(v)
         vlist = vlist[:140]
+        # Svež sopstveni snimak ide na čelo liste: on je prvi na video strani i na naslovnoj
+        svezi_nasi = [v for v in vlist if v.get("nas") and age_hours(v["published"]) <= 36]
+        if svezi_nasi:
+            vlist = svezi_nasi + [v for v in vlist if v not in svezi_nasi]
         if live and vlist:
             st = fetch.live_status([v["id"] for v in vlist[:50]])
             for v in vlist:
