@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T08:17:14.944279+00:00",
- "updated": "2026-11-20T09:31:54.346816+00:00",
+ "updated": "2026-11-20T11:01:26.183950+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -45,11 +45,18 @@
    "url": "https://insajder.net/prenosimo/predsednik-republike-srpske-danas-pocinje-konsultacije-o-mandataru-za-sastav-nove-vlade",
    "title": "Predsednik Republike Srpske danas počinje konsultacije o mandataru za sastav nove Vlade",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/predsednik-rs-pocinje-konsultacije-o-mandataru-za-sastav-nove-vlade/",
+   "title": "Predsednik RS počinje konsultacije o mandataru za sastav nove Vlade",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "„Dijalog da, odstupanje od principa – ne“: Predsednik RS počinje konsultacije o mandataru za sastav nove Vlade",
-  "Predsednik Republike Srpske danas počinje konsultacije o mandataru za sastav nove Vlade"
+  "Predsednik Republike Srpske danas počinje konsultacije o mandataru za sastav nove Vlade",
+  "Predsednik RS počinje konsultacije o mandataru za sastav nove Vlade"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Administrative_Center_of_the_Government_of_Republika_Srpska_(Isto%C4%8Dno_Sarajevo).jpg",
   "alt": "Minić počinje konsultacije o mandataru za novu vladu Republike Srpske"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

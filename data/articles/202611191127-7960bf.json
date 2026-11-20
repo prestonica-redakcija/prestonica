@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T10:27:11.486532+00:00",
- "updated": "2026-11-19T10:56:49.993173+00:00",
+ "updated": "2026-11-20T11:01:26.183950+00:00",
  "sources": [
   {
    "name": "N1",
@@ -57,13 +57,20 @@
    "url": "https://www.danas.rs/vesti/politika/mozda-poslednja-prilika-za-bolji-zivot-gradjana-srbije-na-kim-je-pobeda-studentske-liste-kaze-koordinator-nacionalnog-konventa-o-eu/",
    "title": "Možda poslednja prilika za bolji život građana Srbije na KiM je pobeda Studentske liste, kaže koordinator Nacionalnog konventa o EU",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=koSh7_jcLuA",
+   "title": "Jovanov: Studentska lista obmanula je građane",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
   "Mijačić: Pobeda Studentske liste možda poslednja prilika za bolji život građana Srbije na KiM",
   "\"Pobeda Studentske liste možda poslednja prilika za bolji život građana Srbije na KiM, Vučićeva politika propala \"",
   "Poslanici \"Srbija pobeđuje\": Radenović bolji kandidat za predsednika parlamenta",
-  "Možda poslednja prilika za bolji život građana Srbije na KiM je pobeda Studentske liste, kaže koordinator Nacionalnog konventa o EU"
+  "Možda poslednja prilika za bolji život građana Srbije na KiM je pobeda Studentske liste, kaže koordinator Nacionalnog konventa o EU",
+  "Jovanov: Studentska lista obmanula je građane"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +84,6 @@
   "osoba": "Aleksandar Vučić",
   "alt": "Mijačić: Pobeda Studentske liste možda poslednja prilika za bolji život građana na Kosovu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

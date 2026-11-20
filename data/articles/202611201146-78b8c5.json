@@ -30,17 +30,24 @@
  ],
  "importance": 4,
  "published": "2026-11-20T10:46:29.454937+00:00",
- "updated": "2026-11-20T10:46:29.454937+00:00",
+ "updated": "2026-11-20T11:01:26.183950+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/politika/nps-podseca-vucica-policija-usla-u-nase-prostorije-29-marta/",
    "title": "NPS podseća Vučića: Policija ušla u naše prostorije 29. marta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/nps-demantuje-vucica-policija-je-29-marta-upala-u-nase-prostorije/",
+   "title": "NPS demantuje Vučića: Policija je 29. marta upala u naše prostorije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "NPS podseća Vučića: Policija ušla u naše prostorije 29. marta"
+  "NPS podseća Vučića: Policija ušla u naše prostorije 29. marta",
+  "NPS demantuje Vučića: Policija je 29. marta upala u naše prostorije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "NPS odgovorio Vučiću: policija je ušla u prostorije stranke 29. marta"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

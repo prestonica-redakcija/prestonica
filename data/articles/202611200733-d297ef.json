@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-20T09:17:09.352450+00:00",
+ "updated": "2026-11-20T11:01:26.183950+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -109,6 +109,18 @@
    "url": "https://www.tanjug.rs/svet/politika/299360/dve-osobe-poginule-10-povredeno-u-napadu-na-zeleznicku-stanicu-u-lavovu/vest",
    "title": "Dve osobe poginule, 10 povređeno u napadu na železničku stanicu u Lavovu",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286612/poljska-potvrdila-pale-dve-ruske-rakete-i-dron/vest",
+   "title": "Eksplozije u Poljskoj; Pogođeni su; Pale dve ruske rakete i dron VIDEO",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/rusija-ukrajina-mostovi-napadi/",
+   "title": "Dan nakon Putinove pretnje odmazdom, Rusija pogodila tri mosta u Kijevu: Eksplozija i u Poljskoj, podignuti borbeni avioni (VIDEO)",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -123,7 +135,9 @@
   "FOTO, VIDEO Rusija pokrenula masovan napad na Ukrajinu: Pogođena tri mosta u Kijevu, ima mrtvih i ranjenih, grad ostao bez struje i vode",
   "Ruski napad balističkim raketama oštetio tri mosta u Kijevu, saobraćaj otežan",
   "Fotografije srušenog dela Krimskog mosta: Ukrajinci raketama \"Neptun\" gađali Putinov ponos",
-  "Dve osobe poginule, 10 povređeno u napadu na železničku stanicu u Lavovu"
+  "Dve osobe poginule, 10 povređeno u napadu na železničku stanicu u Lavovu",
+  "Eksplozije u Poljskoj; Pogođeni su; Pale dve ruske rakete i dron VIDEO",
+  "Dan nakon Putinove pretnje odmazdom, Rusija pogodila tri mosta u Kijevu: Eksplozija i u Poljskoj, podignuti borbeni avioni (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -137,7 +151,7 @@
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-20T09:17:09.352450+00:00",
  "verzija": 3
