@@ -7231,18 +7231,14 @@
   "https://www.kurir.rs/planeta/10167576/francuska-prefekt-odavao-tajne-marin-le-pen": "2026-11-21T01:09:52.851456+00:00",
   "https://www.telegraf.rs/4436900-u-ponedeljak-skupstina-grada-o-rebalansu-budzeta-i-inicijativi-za-razresenje-sapica": "2026-11-21T02:09:26.683381+00:00",
   "https://www.telegraf.rs/vesti/svet/4436442-nato-poslao-jasnu-poruku-putinu-ukrajinski-napad-na-krimski-most-bio-je-legitiman": "2026-11-21T03:08:59.619718+00:00",
-  "https://www.euronews.rs/biznis/biznis-vesti/252933/velnes-je-novi-luksuz-kako-je-islandsko-cudo-prirode-postalo-globalna-biznis-imperija/vest": "2026-11-21T03:08:59.619718+00:00"
+  "https://www.euronews.rs/biznis/biznis-vesti/252933/velnes-je-novi-luksuz-kako-je-islandsko-cudo-prirode-postalo-globalna-biznis-imperija/vest": "2026-11-21T03:08:59.619718+00:00",
+  "https://www.euronews.rs/biznis/biznis-vesti/252981/srednji-kurs-dinara-za-evro-u-ponedeljak-1176491-dinar/vest": "2026-11-21T04:08:32.062947+00:00",
+  "https://www.kurir.rs/vesti/beograd/10167837/kako-crveni-krst-obezbedjuje-beogradski-polumaraton": "2026-11-21T04:08:32.062947+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-20T13:21+00:00",
-   "novih": 7,
-   "ukupno": 3037,
-   "sekundi": 397.6
-  },
   {
    "vreme": "2026-11-20T13:37+00:00",
    "novih": 7,
@@ -7596,6 +7592,12 @@
    "novih": 0,
    "ukupno": 3238,
    "sekundi": 262.0
+  },
+  {
+   "vreme": "2026-11-21T04:15+00:00",
+   "novih": 2,
+   "ukupno": 3240,
+   "sekundi": 401.8
   }
  ],
  "licnosti_foto": {
@@ -7745,6 +7747,33 @@
   }
  },
  "videos": [
+  {
+   "id": "KvJyRwTYPTU",
+   "title": "Belarus: Wie Putins Gegnerin in Berlin um ihr Land kämpft",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-21T03:55:11+00:00",
+   "thumb": "https://i.ytimg.com/vi/KvJyRwTYPTU/hqdefault.jpg",
+   "live": "none",
+   "desc": "Vom unerwarteten Wahlsieg gegen einen Diktator ins unfreiwillige Exil: Swetlana Tichanowskaja wollte nie Politikerin werden, heute ist sie die gewählte, eigentlich legitime Präsidentin von Belarus. Beim Spaziergang durch Berlin erzählt sie Gordon Repinski, wie der Kampf gegen das Regime von Alexander Lukaschenko ihr Leben für immer verändert hat.\n\nDie geopolitische Fallhöhe ist enorm, denn das Schicksal von Belarus ist untrennbar mit dem Krieg in der Ukraine und Wladimir Putin verbunden. Tichanowskaja ordnet ein, warum ein ukrainischer Sieg entscheidend ist und vor welchem moralischen Dilemma der Westen bei der Befreiung politischer Gefangener steht.\n\nAuf dem Weg vorbei an der russischen Bot",
+   "spektar": "centar",
+   "viewers": null,
+   "naslov": "Tihanovskaja u šetnji kroz Berlin o borbi protiv Lukašenkovog režima i ratu u Ukrajini",
+   "opis": "U intervjuu za POLITICO Europe Svetlana Tihanovskaja, koju snimak predstavlja kao izabranu predsednicu Belorusije u egzilu, razgovara sa Gordonom Repinskim tokom šetnje kroz Berlin. Govori o tome kako je borba protiv režima Aleksandra Lukašenka promenila njen život i o vezi sudbine Belorusije sa ratom u Ukrajini.",
+   "tekst": [
+    "Snimak prikazuje razgovor Gordona Repinskog sa Svetlanom Tihanovskajom, koji se vodi u šetnji kroz Berlin. Prema opisu, Tihanovskaja nikada nije želela da postane političarka, a od neočekivane pobede nad diktatorom stigla je do neželjenog izgnanstva.",
+    "U razgovoru se otvara pitanje kako je borba protiv režima Aleksandra Lukašenka trajno promenila njen život. Opis je navodi kao izabranu, prema tom opisu legitimnu predsednicu Belorusije.",
+    "Teme su i geopolitički kontekst: sudbina Belorusije se u snimku povezuje sa ratom u Ukrajini i Vladimirom Putinom. Tihanovskaja objašnjava zašto je, po njenom mišljenju, ukrajinska pobeda presudna, kao i pred kojom moralnom dilemom Zapad stoji kada je reč o oslobađanju političkih zatvorenika."
+   ],
+   "rubrika": "svet",
+   "oznake": [
+    "Svetlana Tihanovskaja",
+    "Belorusija",
+    "Aleksandar Lukašenko",
+    "Gordon Repinski",
+    "POLITICO Europe"
+   ],
+   "slug": "tihanovskaja-u-setnji-kroz-berlin-o-borbi-protiv-kvjyrwtyptu"
+  },
   {
    "id": "NakI3vhV9Us",
    "title": "POSLEDNJI „KOLEGIJUM“ PRED ZABRANU! VUČIĆEVIĆ SE OBRATIO GLEDAOCIMA!",
@@ -10157,33 +10186,6 @@
    "slug": "intervju-sa-istoricarem-i-analiticarem-dragomirom-nrp2lg5lsjw"
   },
   {
-   "id": "T3eEeIovI1A",
-   "title": "When EU foreign policy jobs collide | Brussels Playbook Pod",
-   "kanal": "POLITICO Europe",
-   "published": "2026-11-18T05:30:04+00:00",
-   "thumb": "https://i.ytimg.com/vi/T3eEeIovI1A/hqdefault.jpg",
-   "live": "none",
-   "desc": "Kaja Kallas may be the EU’s top diplomat, but her role in key diplomatic discussions —whether on Ukraine or Israel — remains murky. \n\nToday on the show, Zoya Sheftalovich and Ian Wishart examine the increasingly overlapping job descriptions of Kaja Kallas and the EU’s Commissioner for the Mediterranean, Dubravka Šuica, and unpack what that says about EU diplomacy.\n\nAlso on the podcast: Is Russian President Vladimir Putin serious about peace? Lithuania’s Foreign Minister Kęstutis Budrys doesn’t think so.\n\nAnd finally, nobody seems to want to live in Luxembourg — which is problematic for the institutions based there looking to recruit more people.\n\nHow would you feel about moving to Luxembourg",
-   "spektar": "centar",
-   "viewers": null,
-   "naslov": "Preklapanje nadležnosti u spoljnoj politici EU: Kalas, Šuica i diplomatija",
-   "opis": "U podkastu Brussels Playbook novinari Zoja Šeftalovič i Ijan Višart analiziraju sve veće preklapanje nadležnosti Kaje Kalas i komesarke za Mediteran Dubravke Šuica. Govori se i o tome da li je Putin ozbiljan kada je reč o miru, kao i o problemima institucija u Luksemburgu pri zapošljavanju.",
-   "tekst": [
-    "U epizodi podkasta Brussels Playbook, koji priprema POLITICO Europe, voditelji Zoja Šeftalovič i Ijan Višart razmatraju ulogu Kaje Kalas, visoke predstavnice EU za spoljnu politiku. Prema opisu epizode, njena uloga u ključnim diplomatskim razgovorima, bilo o Ukrajini ili Izraelu, i dalje je nejasna.",
-    "Voditelji upoređuju opise poslova Kaje Kalas i komesarke za Mediteran Dubravke Šuica, koji se sve više preklapaju, i razmatraju šta to govori o evropskoj diplomatiji.",
-    "U epizodi se pominje i stav litvanskog ministra spoljnih poslova Kęstutisa Budrysa, koji prema opisu ne smatra da je ruski predsednik Vladimir Putin ozbiljan kada je reč o miru. Na kraju se otvara tema da malo ko želi da živi u Luksemburgu, što otežava institucijama sa sedištem tamo da zapošljavaju nove ljude."
-   ],
-   "rubrika": "svet",
-   "oznake": [
-    "Kaja Kalas",
-    "Dubravka Šuica",
-    "EU diplomatija",
-    "Kęstutis Budrys",
-    "Luksemburg"
-   ],
-   "slug": "preklapanje-nadleznosti-u-spoljnoj-politici-eu-kalas-suica-t3eeeiovi1a"
-  },
-  {
    "id": "MMvE4NVntgY",
    "title": "INTERVJU: Jovan Rajić - Otkrio! Evo ko će pasti! (17.5.2025)",
    "kanal": "Slavija Info",
@@ -10304,7 +10306,7 @@
    "slug": "slavija-info-vucic-kao-satorska-pevacica-isecak-iz-emisije-aqkijyby5lw"
   }
  ],
- "_novi_snimci": false,
+ "_novi_snimci": true,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -58017,6 +58019,10 @@
      "naslov": "Blue Lagoon Iceland hdsr 2019 10 19 9999 347.jpg"
     }
    ]
+  },
+  "t:crveni krst beograd": {
+   "t": 1795234155.9001753,
+   "items": []
   }
  },
  "x_objave": {
@@ -61659,8 +61665,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-21T03:54:09.741894+00:00",
-  "uzivo_t": "2026-11-21T03:54:09.741908+00:00"
+  "provereno": "2026-11-21T04:09:32.865848+00:00",
+  "uzivo_t": "2026-11-21T04:09:32.865864+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {
@@ -66958,6 +66964,29 @@
    ],
    "slug": "srpski-dnevnik-na-informer-tv-u-od-20-novembra-2026-qon29uh-2jy",
    "spektar": "vlast"
+  },
+  "KvJyRwTYPTU": {
+   "id": "KvJyRwTYPTU",
+   "title": "Belarus: Wie Putins Gegnerin in Berlin um ihr Land kämpft",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-21T03:55:11+00:00",
+   "naslov": "Tihanovskaja u šetnji kroz Berlin o borbi protiv Lukašenkovog režima i ratu u Ukrajini",
+   "opis": "U intervjuu za POLITICO Europe Svetlana Tihanovskaja, koju snimak predstavlja kao izabranu predsednicu Belorusije u egzilu, razgovara sa Gordonom Repinskim tokom šetnje kroz Berlin. Govori o tome kako je borba protiv režima Aleksandra Lukašenka promenila njen život i o vezi sudbine Belorusije sa ratom u Ukrajini.",
+   "tekst": [
+    "Snimak prikazuje razgovor Gordona Repinskog sa Svetlanom Tihanovskajom, koji se vodi u šetnji kroz Berlin. Prema opisu, Tihanovskaja nikada nije želela da postane političarka, a od neočekivane pobede nad diktatorom stigla je do neželjenog izgnanstva.",
+    "U razgovoru se otvara pitanje kako je borba protiv režima Aleksandra Lukašenka trajno promenila njen život. Opis je navodi kao izabranu, prema tom opisu legitimnu predsednicu Belorusije.",
+    "Teme su i geopolitički kontekst: sudbina Belorusije se u snimku povezuje sa ratom u Ukrajini i Vladimirom Putinom. Tihanovskaja objašnjava zašto je, po njenom mišljenju, ukrajinska pobeda presudna, kao i pred kojom moralnom dilemom Zapad stoji kada je reč o oslobađanju političkih zatvorenika."
+   ],
+   "rubrika": "svet",
+   "oznake": [
+    "Svetlana Tihanovskaja",
+    "Belorusija",
+    "Aleksandar Lukašenko",
+    "Gordon Repinski",
+    "POLITICO Europe"
+   ],
+   "slug": "tihanovskaja-u-setnji-kroz-berlin-o-borbi-protiv-kvjyrwtyptu",
+   "spektar": "centar"
   }
  }
 }
