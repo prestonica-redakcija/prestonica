@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T18:46:04.223189+00:00",
- "updated": "2026-11-21T18:46:04.223189+00:00",
+ "updated": "2026-11-21T19:00:55.477279+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,11 +44,18 @@
    "url": "https://www.kurir.rs/planeta/10169019/bivsi-kapetan-kruzera-kosta-konkordija-pusten-na-uslovnu-slobodu-posle-9-godina",
    "title": "BRODOLOM \"KOSTE KONKORDIJE\": Bivši kapetan kruzera pušten na uslovnu slobodu posle devet godina",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/bivsi-kapetan-kruzera-kosta-konkordija-posle-devet-godina-u-zatvoru-pusten-na-uslovnu-slobodu",
+   "title": "Bivši kapetan kruzera \"Kosta Konkordija\" posle devet godina u zatvoru pušten na uslovnu slobodu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Bivši kapetan kruzera “Kosta Konkordija” pušten na uslovnu slobodu nakon 9 godina",
-  "BRODOLOM \"KOSTE KONKORDIJE\": Bivši kapetan kruzera pušten na uslovnu slobodu posle devet godina"
+  "BRODOLOM \"KOSTE KONKORDIJE\": Bivši kapetan kruzera pušten na uslovnu slobodu posle devet godina",
+  "Bivši kapetan kruzera \"Kosta Konkordija\" posle devet godina u zatvoru pušten na uslovnu slobodu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "alt": "Shipwrecked vessel sits near a pier on calm water",
   "link": "https://unsplash.com/@michaelmartinelli"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

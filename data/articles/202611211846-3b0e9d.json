@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T17:46:42.593339+00:00",
- "updated": "2026-11-21T18:46:04.223189+00:00",
+ "updated": "2026-11-21T19:00:55.477279+00:00",
  "sources": [
   {
    "name": "B92",
@@ -90,6 +90,12 @@
    "url": "https://nova.rs/vesti/drustvo/tinejdzer-sa-autizmom-nestao-u-zemunu-aktiviran-sistem-pronadji-me/",
    "title": "Tinejdžer sa autizmom nestao u Zemunu, aktiviran sistem \"Pronađi me\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/aktiviran-sistem-pronadi-me-nestao-sedamnaestogodisnjak-sa-posebnim-potrebama-u-zemunu",
+   "title": "Aktiviran sistem \"Pronađi me\": Nestao sedamnaestogodišnjak u Zemunu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -102,7 +108,8 @@
   "Aktiviran sistem \"Pronađi me\": Hitno se oglasio MUP zbog tinejdžera nestalog u Beogradu",
   "MUP aktivirao alarm „Pronađi me“: Nestao Andrej Davidović (17) iz Zemuna",
   "MUP: Nestao Andrej Davidović (17) iz Zemuna, aktiviran sistem \"Pronađi me\"",
-  "Tinejdžer sa autizmom nestao u Zemunu, aktiviran sistem \"Pronađi me\""
+  "Tinejdžer sa autizmom nestao u Zemunu, aktiviran sistem \"Pronađi me\"",
+  "Aktiviran sistem \"Pronađi me\": Nestao sedamnaestogodišnjak u Zemunu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -115,8 +122,8 @@
   "alt": "a couple of buses on a city street",
   "link": "https://unsplash.com/@jiaminhuang812"
  },
- "novo_od_pisanja": 0,
- "boost": 1.56,
+ "novo_od_pisanja": 1,
+ "boost": 1.6,
  "prepisano": "2026-11-21T18:46:04.223189+00:00",
  "verzija": 2
 }

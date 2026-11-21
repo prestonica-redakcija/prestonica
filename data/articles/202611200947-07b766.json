@@ -32,17 +32,24 @@
  ],
  "importance": 6,
  "published": "2026-11-20T08:47:00.852620+00:00",
- "updated": "2026-11-20T08:47:00.852620+00:00",
+ "updated": "2026-11-21T19:00:55.477279+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10167176/sns-i-opstrukcija-nova-opozicija-stare-metode",
    "title": "NOVA OPOZICIJA, STARE METODE: SNS obećavao da će biti izvor stabilnosti, pa najavio DEMONSTRACIJE ISPRED RTS, prišli bez poziva stolu Aleksandra Čupića...",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/nova-vlada-skupstina-analiza/",
+   "title": "Kakvu novu Vladu najavljuje ovakva Skupština?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "NOVA OPOZICIJA, STARE METODE: SNS obećavao da će biti izvor stabilnosti, pa najavio DEMONSTRACIJE ISPRED RTS, prišli bez poziva stolu Aleksandra Čupića..."
+  "NOVA OPOZICIJA, STARE METODE: SNS obećavao da će biti izvor stabilnosti, pa najavio DEMONSTRACIJE ISPRED RTS, prišli bez poziva stolu Aleksandra Čupića...",
+  "Kakvu novu Vladu najavljuje ovakva Skupština?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučić najavio demonstracije ispred RTS posle izbora Čupića za predsednika Skupštine"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

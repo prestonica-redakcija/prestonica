@@ -33,7 +33,7 @@
  ],
  "importance": 7,
  "published": "2026-11-21T16:47:14.145852+00:00",
- "updated": "2026-11-21T17:31:43.503468+00:00",
+ "updated": "2026-11-21T19:00:55.477279+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -58,13 +58,20 @@
    "url": "https://www.euronews.rs/srbija/politika/253089/ana-brnabic-pisala-medunarodnim-institucijama-o-skupstini/vest",
    "title": "SNS pisala međunarodnim institucijama: Brnabić optužuje Studentsku listu za monopol nad funkcijama u Skupštini",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10169021/sns-pisala-medjunarodnim-institucijama",
+   "title": "SNS PISALA MEĐUNARODNIM INSTITUCIJAMA: Studentska lista nedemokratski preuzima pozicije u parlamentu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "SNS pisala međunarodnim institucijama: Studentska lista nedemokratski preuzima pozicije u parlamentu",
   "SNS pisala međunarodnim institucijama: Studentska lista nedemokratski preuzima pozicije u parlamentu",
   "SNS pisala međunarodnim institucijama: \"Studentska lista nedemokratski preuzima pozicije u parlamentu\"",
-  "SNS pisala međunarodnim institucijama: Brnabić optužuje Studentsku listu za monopol nad funkcijama u Skupštini"
+  "SNS pisala međunarodnim institucijama: Brnabić optužuje Studentsku listu za monopol nad funkcijama u Skupštini",
+  "SNS PISALA MEĐUNARODNIM INSTITUCIJAMA: Studentska lista nedemokratski preuzima pozicije u parlamentu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +84,6 @@
   "alt": "Novi Sad, Serbia",
   "link": "https://unsplash.com/@lazargugleta"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -30,17 +30,24 @@
  ],
  "importance": 4,
  "published": "2026-11-21T18:31:19.960105+00:00",
- "updated": "2026-11-21T18:31:19.960105+00:00",
+ "updated": "2026-11-21T19:00:55.477279+00:00",
  "sources": [
   {
    "name": "Telegraf",
    "url": "https://www.telegraf.rs/vesti/srbija/4437295-ovakvo-vreme-niste-ocekivali-mnogi-ce-se-iznenaditi-detaljna-prognoza-vremena-do-kraja-novembra",
    "title": "Ovakvo vreme niste očekivali, mnogi će se iznenaditi: Detaljna prognoza vremena do kraja novembra",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/287009/detaljna-prognoza-vremena-do-kraja-novembra/vest",
+   "title": "Detaljna prognoza vremena do kraja novembra – evo šta Srbiju čeka",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Ovakvo vreme niste očekivali, mnogi će se iznenaditi: Detaljna prognoza vremena do kraja novembra"
+  "Ovakvo vreme niste očekivali, mnogi će se iznenaditi: Detaljna prognoza vremena do kraja novembra",
+  "Detaljna prognoza vremena do kraja novembra – evo šta Srbiju čeka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Zahlađenje od nedelje: kiša i sneg, a u četvrtak olujni vetar do 100 km/h"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
