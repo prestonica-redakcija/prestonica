@@ -34,7 +34,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T13:45:20.968361+00:00",
- "updated": "2026-11-20T13:45:20.968361+00:00",
+ "updated": "2026-11-21T17:31:43.503468+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,11 +47,18 @@
    "url": "https://www.telegraf.rs/jetset/holivud/4436740-pokrenuta-istraga-protiv-depardjea-uelbeka-i-niklua-zbog-sumnje-za-grupno-silovanje",
    "title": "Pokrenuta istraga protiv Depardjea, Uelbeka i Niklua zbog sumnje za grupno silovanje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/299757/francuska-depardje-i-uelbek-pod-istragom-zbog-sumnje-na-seksualne-napade/vest",
+   "title": "Francuska: Depardje i Uelbek pod istragom zbog sumnje na seksualne napade",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Pokrenuta istraga protiv Depardjea, Uelbeka i Niklua zbog sumnje za grupno silovanje",
-  "Pokrenuta istraga protiv Depardjea, Uelbeka i Niklua zbog sumnje za grupno silovanje"
+  "Pokrenuta istraga protiv Depardjea, Uelbeka i Niklua zbog sumnje za grupno silovanje",
+  "Francuska: Depardje i Uelbek pod istragom zbog sumnje na seksualne napade"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Pokrenuta istraga protiv Depardjea, Uelbeka i Niklua zbog sumnje na seksualno nasilje"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

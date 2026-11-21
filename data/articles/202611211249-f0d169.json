@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T11:49:52.141541+00:00",
- "updated": "2026-11-21T16:47:14.145852+00:00",
+ "updated": "2026-11-21T17:31:43.503468+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,12 +51,19 @@
    "url": "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
    "title": "Effort to regulate ‘killer robots’ delayed to 2028",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/ujedinjene-nacije-pregovori-roboti-ubice/",
+   "title": "Pregovori u UN o regulisanju „robota ubica“ nastaviće se do 2028. godine",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Države dogovorile nastavak pregovora UN o regulisanju \"robota ubica\" do 2028. godine",
   "Završeni pregovori UN u Ženevi: Sto država podržalo zabranu upotrebe oružja – „robota ubica“, tri države protiv",
-  "Effort to regulate ‘killer robots’ delayed to 2028"
+  "Effort to regulate ‘killer robots’ delayed to 2028",
+  "Pregovori u UN o regulisanju „robota ubica“ nastaviće se do 2028. godine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "local": true,
   "alt": "Pregovori UN o \"robotima ubicama\" završeni dogovorom o nastavku razgovora u naredne dve godine"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

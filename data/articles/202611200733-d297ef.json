@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-21T16:17:27.009374+00:00",
+ "updated": "2026-11-21T17:31:43.503468+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -391,6 +391,12 @@
    "url": "https://www.b92.net/info/svet/286891/nato-podigao-avione-zbog-pretnje-od-dronova-iznad-estonije/vest",
    "title": "NATO hitno digao lovce; Opet su Rusi krivi?",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286988/zelenski-predlozio-sad-evakuaciju-stanovnika-jos-15-naselja/vest",
+   "title": "Masovna evakuacija u Ukrajini?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -452,7 +458,8 @@
   "Tramp poslao poruku Evropi o milijardama za Ukrajinu: Zelenski otkrio šta je savetovao evropske lidere",
   "Katastrofa sprečena u poslednji čas: Otkriven bezbednosni propust, hitno podignuta uzbuna",
   "Rusi prešli granicu – hitno se oglasila evropska zemlja",
-  "NATO hitno digao lovce; Opet su Rusi krivi?"
+  "NATO hitno digao lovce; Opet su Rusi krivi?",
+  "Masovna evakuacija u Ukrajini?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -466,7 +473,7 @@
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
  },
- "novo_od_pisanja": 23,
+ "novo_od_pisanja": 24,
  "boost": 1.6,
  "prepisano": "2026-11-20T22:56:03.386969+00:00",
  "verzija": 8
