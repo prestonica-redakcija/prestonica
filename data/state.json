@@ -1,12 +1,5 @@
 {
  "seen": {
-  "https://www.euronews.rs/biznis/biznis-vesti/252333/goldman-saks-ocekuje-veliki-visak-nafte-na-svetskom-trzistu/vest": "2026-11-16T23:23:11.485884+00:00",
-  "https://www.danas.rs/svet/trampova-medijska-kompanija-pred-velikim-izazovom-moguca-isplata-milijardu-dolara-do-kraja-novembra/": "2026-11-16T23:23:11.485884+00:00",
-  "https://www.novosti.rs/vesti/politika/1671871/lider-opozicije-raskrinkava-sve-lazi-vucic-uoci-skupstine-najavio-cucete-hteo-izaziva-gradjanski-rat-kako-sam-sprecio-sukobe": "2026-11-16T23:23:11.485884+00:00",
-  "https://www.kurir.rs/zabava/zena/10163332/zasto-kuhinjski-ubrusi-imaju-sare-i-cemu-zapravo-sluze": "2026-11-16T23:23:11.485884+00:00",
-  "https://www.tanjug.rs/svet/hronika/298335/u-dva-masovna-napada-u-juznoafrickoj-republici-ubijeno-najmanje-17-ljudi/vest": "2026-11-16T23:23:11.485884+00:00",
-  "https://www.telegraf.rs/vesti/svet/4434247-u-dva-masovna-napada-u-juznoafrickoj-republici-ubijeno-najmanje-17-ljudi": "2026-11-16T23:23:11.485884+00:00",
-  "https://www.kurir.rs/vesti/srbija/10163831/krusevac-uruceni-ugovori-o-donaciji-opreme-za-22-mala-biznisa": "2026-11-16T23:23:11.485884+00:00",
   "https://insajder.net/prenosimo/majkrosoft-utvrdio-da-je-visemesecni-softverski-propust-izazvao-globalni-prekid-rada": "2026-11-16T23:38:06.186050+00:00",
   "https://www.kurir.rs/vesti/srbija/10163961/posao-u-hitnoj-pomoci-u-nisu-konkurs-za-5-radnih-mesta": "2026-11-16T23:38:06.186050+00:00",
   "https://www.telegraf.rs/vesti/svet/4434266-sad-nude-nagradu-od-ukupno-20-miliona-dolara-za-informacije-o-dvojici-narko-terorista": "2026-11-16T23:53:09.540529+00:00",
@@ -6876,18 +6869,15 @@
   "https://radar.nova.rs/misljenja/fdu-studentski-protest-smena-vlasti/": "2026-11-21T23:13:49.161664+00:00",
   "https://radar.nova.rs/politika/edvard-p-dzozef-profesor-na-dzons-hopkins-univerzitetu/": "2026-11-21T23:13:49.161664+00:00",
   "https://insajder.net/prenosimo/tramp-potpisao-izvrsnu-naredbu-koja-ogranicava-pravo-kongresa-da-nagleda-poslove-savezne-vlade": "2026-11-21T23:13:49.161664+00:00",
-  "https://radar.nova.rs/global/generacija-z-protesti-2/": "2026-11-21T23:13:49.161664+00:00"
+  "https://radar.nova.rs/global/generacija-z-protesti-2/": "2026-11-21T23:13:49.161664+00:00",
+  "https://www.kurir.rs/vesti/beograd/10168926/pojedine-ulice-na-vozdovcu-u-utorak-bez-vode-od-8-do-16-sati": "2026-11-21T23:28:33.084901+00:00",
+  "https://www.tanjug.rs/svet/drustvo/299749/ispod-aja-sofije-u-istanbulu-otkriveni-podzemni-tuneli/vest": "2026-11-21T23:28:33.084901+00:00",
+  "https://www.kurir.rs/planeta/10168937/aja-sofija-otkriveni-drevni-tuneli": "2026-11-21T23:28:33.084901+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-21T08:42+00:00",
-   "novih": 4,
-   "ukupno": 3283,
-   "sekundi": 355.8
-  },
   {
    "vreme": "2026-11-21T08:58+00:00",
    "novih": 2,
@@ -7241,6 +7231,12 @@
    "novih": 4,
    "ukupno": 3502,
    "sekundi": 443.6
+  },
+  {
+   "vreme": "2026-11-21T23:35+00:00",
+   "novih": 1,
+   "ukupno": 3503,
+   "sekundi": 445.9
   }
  ],
  "licnosti_foto": {
@@ -21796,10 +21792,6 @@
   }
  },
  "foto_cache": {
-  "t:maroko": {
-   "t": 1794698468.2036796,
-   "items": []
-  },
   "t:zemun": {
    "t": 1794699356.0217063,
    "items": [
@@ -56576,6 +56568,10 @@
   "t:amnesti internesenel": {
    "t": 1795302911.415437,
    "items": []
+  },
+  "t:aja sofija": {
+   "t": 1795303748.0640688,
+   "items": []
   }
  },
  "x_objave": {
@@ -60643,7 +60639,7 @@
   "yt": "Hdk3ahufa64",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-21T23:15:47.806755+00:00",
+  "provereno": "2026-11-21T23:29:27.181717+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": true
  },

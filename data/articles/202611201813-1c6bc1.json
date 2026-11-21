@@ -35,7 +35,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T17:13:25.084308+00:00",
- "updated": "2026-11-21T16:47:14.145852+00:00",
+ "updated": "2026-11-21T23:28:33.084901+00:00",
  "sources": [
   {
    "name": "N1",
@@ -102,6 +102,12 @@
    "url": "https://insajder.net/prenosimo/zbog-sutrasnjeg-beogradskog-polumaratona-zatvaraju-se-za-saobracaj-pojedine-ulice-na-novom-beogradu",
    "title": "Zbog sutrašnjeg Beogradskog polumaratona zatvaraju se za saobraćaj pojedine ulice na Novom Beogradu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/beograd/10168926/pojedine-ulice-na-vozdovcu-u-utorak-bez-vode-od-8-do-16-sati",
+   "title": "OD 8 DO 16 SATI: Pojedine ulice na Voždovcu u utorak bez vode",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -115,7 +121,8 @@
   "Izmene saobraćaja u Beogradu zbog polumaratona: Obustave na više ulica i promenjene trase gradskog prevoza",
   "Izmena saobraćaja zbog Beogradskog polumaratona danas i sutra",
   "Izmene saobraćaja u Beogradu zbog polumaratona: Obustave na više ulica i promenjene trase gradskog prevoza",
-  "Zbog sutrašnjeg Beogradskog polumaratona zatvaraju se za saobraćaj pojedine ulice na Novom Beogradu"
+  "Zbog sutrašnjeg Beogradskog polumaratona zatvaraju se za saobraćaj pojedine ulice na Novom Beogradu",
+  "OD 8 DO 16 SATI: Pojedine ulice na Voždovcu u utorak bez vode"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -128,7 +135,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Novi_Beograd_(Blok_45,_44,_70,_71).jpg",
   "alt": "Beogradski polumaraton: saobraćaj se obustavlja već u subotu, menja se javni prevoz"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-21T16:47:14.145852+00:00",
  "verzija": 3
