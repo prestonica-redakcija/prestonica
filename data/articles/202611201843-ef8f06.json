@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T17:43:12.187852+00:00",
- "updated": "2026-11-20T17:43:12.187852+00:00",
+ "updated": "2026-11-21T09:06:07.943104+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://insajder.net/prenosimo/ukmto-pozar-na-tankeru-nakon-udara-projektila-kod-obale-omana",
    "title": "UKMTO: Požar na tankeru nakon udara projektila kod obale Omana",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/ukmto-tanker-pogoden-nepoznatim-projektilom-severno-od-omana",
+   "title": "UKMTO: Tanker pogođen nepoznatim projektilom severno od Omana",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "UKMTO: Požar na tankeru nakon udara projektila kod obale Omana",
-  "UKMTO: Požar na tankeru nakon udara projektila kod obale Omana"
+  "UKMTO: Požar na tankeru nakon udara projektila kod obale Omana",
+  "UKMTO: Tanker pogođen nepoznatim projektilom severno od Omana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Tanker pogođen nepoznatim projektilom u Ormuskom moreuzu, na brodu izbio požar"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
