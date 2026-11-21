@@ -35,7 +35,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T13:48:44.995208+00:00",
- "updated": "2026-11-21T13:48:44.995208+00:00",
+ "updated": "2026-11-21T14:48:17.077113+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,11 +48,25 @@
    "url": "https://www.telegraf.rs/vesti/svet/4437186-zelenski-otkrio-sta-ukrajina-jos-nije-dobila-bezbednosne-garancije-nato-i-dalje-samo-na-recima",
    "title": "Zelenski otkrio šta Ukrajina još nije dobila: Bezbednosne garancije NATO i dalje samo na rečima",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/zelenski-ukrajini-jos-nisu-zvanicno-ponudene-bezbednosne-garancije-na-nivou-clana-5-nato-a",
+   "title": "Zelenski: Ukrajini još nisu zvanično ponuđene bezbednosne garancije na nivou člana 5 NATO-a",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286935/zelenski-ukrajini-nisu-zvanicno-ponudjene-bezbednosne-garancije-na-nivou-clana-5-nato/vest",
+   "title": "Ukrajina ostaje bez Člana 5 NATO-a?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Zelenski: Ukrajini nisu zvanično ponuđene bezbednosne garancije na nivou Člana 5 NATO",
-  "Zelenski otkrio šta Ukrajina još nije dobila: Bezbednosne garancije NATO i dalje samo na rečima"
+  "Zelenski otkrio šta Ukrajina još nije dobila: Bezbednosne garancije NATO i dalje samo na rečima",
+  "Zelenski: Ukrajini još nisu zvanično ponuđene bezbednosne garancije na nivou člana 5 NATO-a",
+  "Ukrajina ostaje bez Člana 5 NATO-a?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +77,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Zelenski: Ukrajini zvanično nisu ponuđene garancije na nivou Člana 5 NATO"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
