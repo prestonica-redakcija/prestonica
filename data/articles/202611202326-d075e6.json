@@ -30,7 +30,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T22:26:21.460319+00:00",
- "updated": "2026-11-21T12:34:23.192834+00:00",
+ "updated": "2026-11-21T13:48:44.995208+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -79,6 +79,12 @@
    "url": "https://insajder.net/prenosimo/nbs-agencija-fic-potvrdila-pozitivne-izglede-da-srbija-dobije-investicioni-kreditni-rejting",
    "title": "NBS: Agencija Fič potvrdila pozitivne izglede da Srbija dobije investicioni kreditni rejting",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/nbs-agencija-fic-potvrdila-pozitivne-izglede-da-srbija-dobije-investicioni-kreditni-rejting/",
+   "title": "NBS: Agencija Fič potvrdila pozitivne izglede da Srbija dobije investicioni kreditni rejting",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -89,6 +95,7 @@
   "NBS: Fitch ponovo potvrdio pozitivan izgled Srbije za dobijanje investicionog rejtinga",
   "Ministarstvo finansija: Agencija Fitch potvrdila pozitivne izglede Srbije za dobijanje investicionog kreditnog rejtinga",
   "NBS: Fitch ponovo potvrdio pozitivan izgled Srbije za dobijanje investicionog rejtinga",
+  "NBS: Agencija Fič potvrdila pozitivne izglede da Srbija dobije investicioni kreditni rejting",
   "NBS: Agencija Fič potvrdila pozitivne izglede da Srbija dobije investicioni kreditni rejting"
  ],
  "author": "Redakcija Prestonice",
@@ -102,8 +109,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Janet_Fitch_at_LA_Book_Fest_2025.jpg",
   "alt": "Fitch potvrdio rejting Srbije BB+ uz pozitivne izglede i veću prognozu rasta"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-21T12:34:23.192834+00:00",
  "verzija": 2
 }

@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T09:06:07.943104+00:00",
- "updated": "2026-11-21T09:21:04.993856+00:00",
+ "updated": "2026-11-21T13:48:44.995208+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,13 +51,27 @@
    "url": "https://www.b92.net/biz/srbija/vesti/286867/privredni-sud-u-beogradu-pokrenuo-postupak-likvidacije-nad-alta-leasingom/vest",
    "title": "Privredni sud u Beogradu pokrenuo postupak likvidacije nad Alta Leasingom",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1673391/posle-banke-gasi-lizing-pokrenuta-likvidacija-alta-lizinga-nbs-oduzela-dozvolu-rad",
+   "title": "POSLE BANKE, GASI SE I LIZING: Pokrenuta likvidacija Alta lizinga, NBS oduzela dozvolu za rad",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/novcanik/4437179-alta-banka-otisla-u-stecaj-alta-lizing-bez-dozvole-sta-sada-treba-da-znaju-gradjani-koji-im-duguju-novac",
+   "title": "ALTA banka otišla u stečaj, ALTA lizing bez dozvole: Šta sada treba da znaju građani koji im duguju novac?",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Privredni sud u Beogradu pokrenuo postupak likvidacije nad ALTA Leasingom",
   "ALTA Leasing u likvidaciji: Privredni sud u Beogradu pokrenuo postupak",
   "Pokrenut poostupak likvidacije nad ALTA Leasingom",
-  "Privredni sud u Beogradu pokrenuo postupak likvidacije nad Alta Leasingom"
+  "Privredni sud u Beogradu pokrenuo postupak likvidacije nad Alta Leasingom",
+  "POSLE BANKE, GASI SE I LIZING: Pokrenuta likvidacija Alta lizinga, NBS oduzela dozvolu za rad",
+  "ALTA banka otišla u stečaj, ALTA lizing bez dozvole: Šta sada treba da znaju građani koji im duguju novac?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +84,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Beograd_-_Narodna_banka_Srbije_(45097879341).jpg",
   "alt": "Pokrenuta likvidacija ALTA Leasinga nakon što je NBS oduzela dozvolu za lizing"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

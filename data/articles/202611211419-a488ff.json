@@ -33,17 +33,24 @@
  ],
  "importance": 7,
  "published": "2026-11-21T13:19:10.575942+00:00",
- "updated": "2026-11-21T13:19:10.575942+00:00",
+ "updated": "2026-11-21T13:48:44.995208+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/branilac-aleksandra-sapica-optuzni-predlog-podignut-bez-ispitivanja-svedoka-koji-je-bio-blizu-mesta-incidenta",
    "title": "Branilac Aleksandra Šapića: Optužni predlog podignut bez ispitivanja svedoka koji je bio blizu mesta incidenta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673395/advokat-aleksandra-sapica-optuznom-predlogu-brojni-propusti-istrazi-nisu-ispitani-kljucni-svedoci",
+   "title": "ADVOKAT ALEKSANDRA ŠAPIĆA O OPTUŽNOM PREDLOGU: \"Brojni propusti u istrazi, nisu ispitani ključni svedoci\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Branilac Aleksandra Šapića: Optužni predlog podignut bez ispitivanja svedoka koji je bio blizu mesta incidenta"
+  "Branilac Aleksandra Šapića: Optužni predlog podignut bez ispitivanja svedoka koji je bio blizu mesta incidenta",
+  "ADVOKAT ALEKSANDRA ŠAPIĆA O OPTUŽNOM PREDLOGU: \"Brojni propusti u istrazi, nisu ispitani ključni svedoci\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Kreni_Promeni_holding_a_press_conference,_June_2024.jpg",
   "alt": "Šapićev advokat tvrdi da je optužni predlog podignut uz kršenje prava na odbranu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
