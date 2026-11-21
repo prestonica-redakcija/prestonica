@@ -328,7 +328,9 @@ async function poslato(env, kljuc) {
 /* ------------------------------------------------- Google: pristupni token */
 
 function pemUBajtove(pem) {
-  const b64 = pem.replace(/-----[^-]+-----/g, "").replace(/\s+/g, "");
+  // Ključ se prihvata i kada je prekopiran iz JSON fajla, gde su prelomi redova
+  // zapisani kao dva znaka \n, i kada ima prave prelome.
+  const b64 = String(pem).replace(/\\n/g, "\n").replace(/-----[^-]+-----/g, "").replace(/\s+/g, "");
   const bin = atob(b64), out = new Uint8Array(bin.length);
   for (let i = 0; i < bin.length; i++) out[i] = bin.charCodeAt(i);
   return out;
@@ -421,11 +423,12 @@ async function gsc(token, sajt, od, dok) {
 }
 
 async function google(env, od, dok) {
-  const imanje = env.GA4_PROPERTY_ID, sajt = env.GSC_SITE_URL || "https://prestonica.rs/";
+  const imanje = env.GA4_PROPERTY_ID, sajt = env.GSC_SITE_URL || "sc-domain:prestonica.rs";
   if (!imanje && !env.GOOGLE_SA_EMAIL) throw new Error("Google još nije podešen: dodaj tajne GOOGLE_SA_EMAIL, GOOGLE_SA_KEY i GA4_PROPERTY_ID.");
   const token = await googleToken(env);
   const [a, s] = await Promise.all([
-    imanje ? ga4(token, imanje, od, dok).catch((e) => ({ greska: String(e.message || e) })) : { greska: "GA4_PROPERTY_ID nije podešen." },
+    imanje ? ga4(token, imanje, od, dok).catch((e) => ({ greska: String(e.message || e) }))
+           : { iskljucen: true, greska: "Google Analytics se namerno ne koristi: sopstveno merenje na kartici Portal je tačnije jer ga blokatori reklama ne seku." },
     gsc(token, sajt, od, dok).catch((e) => ({ greska: String(e.message || e) })),
   ]);
   // Search Console kasni oko 2 dana; to se mora reći, inače izgleda kao pad saobraćaja
