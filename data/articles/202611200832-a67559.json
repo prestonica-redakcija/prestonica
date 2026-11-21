@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T07:32:37.259856+00:00",
- "updated": "2026-11-20T07:32:37.259856+00:00",
+ "updated": "2026-11-21T08:21:30.390780+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -38,11 +38,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4436410-jak-zemljotres-pogodio-centralni-deo-kalifornije",
    "title": "Jak zemljotres pogodio centralni deo Kalifornije",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/299637/zemljotres-jacine-68-stepeni-po-rihteru-pogodio-centralni-peru/vest",
+   "title": "Zemljotres jačine 6,8 stepeni po Rihteru pogodio centralni Peru",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Kaliforniju pogodio zemljotres jačine 5,5 stepeni",
-  "Jak zemljotres pogodio centralni deo Kalifornije"
+  "Jak zemljotres pogodio centralni deo Kalifornije",
+  "Zemljotres jačine 6,8 stepeni po Rihteru pogodio centralni Peru"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Zemljotres u centralnoj Kaliforniji, mediji navode različitu jačinu: 5,1 i 5,5 stepeni"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
