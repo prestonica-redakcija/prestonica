@@ -25,7 +25,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T11:45:57.885434+00:00",
- "updated": "2026-11-20T12:30:42.075846+00:00",
+ "updated": "2026-11-21T23:13:49.161664+00:00",
  "sources": [
   {
    "name": "N1",
@@ -74,6 +74,12 @@
    "url": "https://insajder.net/prenosimo/ministarstvo-unutrasnje-i-spoljne-trgovine-objavilo-nove-cene-goriva-za-narednih-sedam-dana",
    "title": "Ministarstvo unutrašnje i spoljne trgovine objavilo nove cene goriva za narednih sedam dana",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/razno/287036/na-danasnji-dan-22-novembar/vest",
+   "title": "Na današnji dan, 22. novembar",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -84,7 +90,8 @@
   "NOVE CENE GORIVA U SRBIJI: Poznato koliko ćemo plaćati benzin i dizel",
   "Objavljene nove cene goriva: Benzin pojeftinio",
   "Objavljene nove cene goriva koje će važiti do 27. novembra",
-  "Ministarstvo unutrašnje i spoljne trgovine objavilo nove cene goriva za narednih sedam dana"
+  "Ministarstvo unutrašnje i spoljne trgovine objavilo nove cene goriva za narednih sedam dana",
+  "Na današnji dan, 22. novembar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -96,6 +103,6 @@
   "local": true,
   "alt": "Benzin jeftiniji tri dinara, evrodizel ostaje na 236 dinara po litru"
  },
- "novo_od_pisanja": 5,
- "boost": 1.4
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }

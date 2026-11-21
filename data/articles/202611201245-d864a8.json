@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T11:45:57.885434+00:00",
- "updated": "2026-11-20T11:45:57.885434+00:00",
+ "updated": "2026-11-21T23:13:49.161664+00:00",
  "sources": [
   {
    "name": "N1",
@@ -45,11 +45,18 @@
    "url": "https://www.danas.rs/bbc-news-serbian/nada-u-borbi-protiv-raka-pankreasa-testiranje-leka-dovelo-do-nestanka-tumora/",
    "title": "Nada u borbi protiv raka pankreasa: Testiranje leka dovelo do nestanka tumora",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Radar",
+   "url": "https://radar.nova.rs/ekonomija/ekonomski-program-studentske-liste/",
+   "title": "Veliki servis za novi model rasta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Velika nada za obolele od raka pankreasa: Nova tableta smanjila ili uklonila tumore kod dela pacijenata",
-  "Nada u borbi protiv raka pankreasa: Testiranje leka dovelo do nestanka tumora"
+  "Nada u borbi protiv raka pankreasa: Testiranje leka dovelo do nestanka tumora",
+  "Veliki servis za novi model rasta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Novi lek protiv raka pankreasa zaustavio rast tumora kod 90 odsto pacijenata u ranom ispitivanju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
