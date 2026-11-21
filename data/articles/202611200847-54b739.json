@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T07:47:34.312460+00:00",
- "updated": "2026-11-21T13:04:09.682872+00:00",
+ "updated": "2026-11-21T16:02:36.259840+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -78,6 +78,12 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10166718/ko-je-arhangel-mihailo-i-kako-se-slavi-arandjelovdan",
    "title": "Ko je bio Arhangel Mihailo i zašto ga Srbi toliko poštuju? Aranđelovdan je jedna od najvećih slava, a slavi se u čast Arhangela Mihaila, vođe nebeske vojske",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4413689-ovo-je-najrasprostranjenije-verovanje-za-arandjelovdan-srbi-masovno-veruju-ali-smemo-li-sta-kaze-crkva",
+   "title": "Ovo je najrasprostranjenije verovanje za Aranđelovdan, Srbi masovno veruju, ALI... Smemo li, šta kaže crkva?",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -88,7 +94,8 @@
   "Danas je Aranđelovdan! Tradicija, stroga crkvena pravila, ali i NAJVEĆA ZABLUDA srpskih domaćina",
   "Generacije Srba žito ne stavljaju na slavsku trpezu za Aranđelovdan: Crkva ima drugačije pravilo",
   "Srpska pravoslavna crkva danas slavi Sabor Svetog Arhangela Mihaila - Aranđelovdan",
-  "Ko je bio Arhangel Mihailo i zašto ga Srbi toliko poštuju? Aranđelovdan je jedna od najvećih slava, a slavi se u čast Arhangela Mihaila, vođe nebeske vojske"
+  "Ko je bio Arhangel Mihailo i zašto ga Srbi toliko poštuju? Aranđelovdan je jedna od najvećih slava, a slavi se u čast Arhangela Mihaila, vođe nebeske vojske",
+  "Ovo je najrasprostranjenije verovanje za Aranđelovdan, Srbi masovno veruju, ALI... Smemo li, šta kaže crkva?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -101,8 +108,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Marija_-_Sv._arhangel_Mihailo.jpg",
   "alt": "Srpska pravoslavna crkva sutra slavi Aranđelovdan, Sabor Svetog Arhangela Mihaila"
  },
- "novo_od_pisanja": 3,
- "boost": 1.56,
+ "novo_od_pisanja": 4,
+ "boost": 1.6,
  "prepisano": "2026-11-21T07:07:01.748216+00:00",
  "verzija": 2
 }

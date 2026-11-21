@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T15:18:05.581019+00:00",
- "updated": "2026-11-21T15:18:05.581019+00:00",
+ "updated": "2026-11-21T16:02:36.259840+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,11 +47,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4437210-nove-dramaticne-informacije-o-ruskom-brodu-uplovio-u-finske-vode-niko-ne-zna-sta-je-u-kontejnerima",
    "title": "Nove dramatične informacije o ruskom brodu: Uplovio u finske vode, niko ne zna šta je u kontejnerima",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/napadnuti-ruski-brod-uplovio-u-finski-zaliv-ne-zna-se-da-li-je-prevozio-vojnu-opremu",
+   "title": "Napadnuti ruski brod uplovio u Finski zaliv, ne zna se da li je prevozio vojnu opremu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Napadnuti ruski brod uplovio u Finski zaliv, ne zna se da li je prevozio vojnu opremu",
-  "Nove dramatične informacije o ruskom brodu: Uplovio u finske vode, niko ne zna šta je u kontejnerima"
+  "Nove dramatične informacije o ruskom brodu: Uplovio u finske vode, niko ne zna šta je u kontejnerima",
+  "Napadnuti ruski brod uplovio u Finski zaliv, ne zna se da li je prevozio vojnu opremu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +70,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Sparta_II_(1911).jpg",
   "alt": "Pogođeni ruski brod Sparta II uplovio u finske vode, teret nepoznat"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

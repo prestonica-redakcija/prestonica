@@ -30,17 +30,24 @@
  ],
  "importance": 5,
  "published": "2026-11-21T14:48:17.077113+00:00",
- "updated": "2026-11-21T14:48:17.077113+00:00",
+ "updated": "2026-11-21T16:02:36.259840+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1171974/marina-ragus-studentska-lista-skupstina",
    "title": "\"Možda je neko i hteo, ali nije smeo!\" Raguš otkrila šta se dešava iza kulisa Skupštine: Ovo je ozbiljan društveno-politički eksperiment (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10168820/ragus-nedostatak-komunikacije-izmedju-vlasti-i-opozicije",
+   "title": "U UTORAK ODLUKA O SKUPŠTINSKIM ODBORIMA! Marina Raguš: Između vlasti i opozicije nema nikakve komunikacije!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "\"Možda je neko i hteo, ali nije smeo!\" Raguš otkrila šta se dešava iza kulisa Skupštine: Ovo je ozbiljan društveno-politički eksperiment (FOTO)"
+  "\"Možda je neko i hteo, ali nije smeo!\" Raguš otkrila šta se dešava iza kulisa Skupštine: Ovo je ozbiljan društveno-politički eksperiment (FOTO)",
+  "U UTORAK ODLUKA O SKUPŠTINSKIM ODBORIMA! Marina Raguš: Između vlasti i opozicije nema nikakve komunikacije!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Raguš: u Skupštini nema komunikacije, o kandidatima za odbore odluka u utorak"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

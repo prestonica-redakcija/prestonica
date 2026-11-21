@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T15:47:47.433509+00:00",
- "updated": "2026-11-21T15:47:47.433509+00:00",
+ "updated": "2026-11-21T16:02:36.259840+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -45,11 +45,18 @@
    "url": "https://www.kurir.rs/planeta/10168893/orbanovom-bivsem-ministru-zaplenjena-imovina-od-24-miliona-evra",
    "title": "AFERA TRESE MAĐARSKU: Orbanovom bivšem ministru zaplenjena imovina od 24 miliona evra!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/peter-madjar-zaplena-imovine-ministar/",
+   "title": "Peter Mađar: Orbanovom bivšem ministru zaplenjena imovina od 24 miliona evra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Kako rade mediji u Mađarskoj posle pada Orbana?",
-  "AFERA TRESE MAĐARSKU: Orbanovom bivšem ministru zaplenjena imovina od 24 miliona evra!"
+  "AFERA TRESE MAĐARSKU: Orbanovom bivšem ministru zaplenjena imovina od 24 miliona evra!",
+  "Peter Mađar: Orbanovom bivšem ministru zaplenjena imovina od 24 miliona evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "local": false,
   "alt": "The Hungarian Parliament Building on the banks of the Danube River in Budapest",
   "link": "https://unsplash.com/@lukerv4"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
