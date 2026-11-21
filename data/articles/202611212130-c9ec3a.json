@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T20:30:13.562577+00:00",
- "updated": "2026-11-21T21:29:39.053419+00:00",
+ "updated": "2026-11-21T21:44:33.808460+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -40,11 +40,18 @@
    "url": "https://www.kurir.rs/planeta/10169097/rast-cena-optickih-vlakana-zbog-potraznje-iz-rata",
    "title": "MASOVAN IZVOZ OPTIČKIH VLAKANA IZ KINE: Najveći kupci Rusija i Ukrajina zbog borbenih dronova",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/287020/rusija-i-ukrajina-se-otimaju-za-ovu-sirovinu-kina-trlja-ruke-sestostruki-skok-cena/vest",
+   "title": "Rusija i Ukrajina se otimaju za ovu sirovinu, Kina trlja ruke: Šestostruki skok cena",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "FT: Cene kineskih optičkih vlakana skočile 6 puta zbog potražnje iz Rusije i Ukrajine",
-  "MASOVAN IZVOZ OPTIČKIH VLAKANA IZ KINE: Najveći kupci Rusija i Ukrajina zbog borbenih dronova"
+  "MASOVAN IZVOZ OPTIČKIH VLAKANA IZ KINE: Najveći kupci Rusija i Ukrajina zbog borbenih dronova",
+  "Rusija i Ukrajina se otimaju za ovu sirovinu, Kina trlja ruke: Šestostruki skok cena"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,6 +64,6 @@
   "alt": "white and blue light on dark room",
   "link": "https://unsplash.com/@redaquamedia"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

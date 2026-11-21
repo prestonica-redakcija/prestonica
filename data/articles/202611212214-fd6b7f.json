@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T21:14:49.907821+00:00",
- "updated": "2026-11-21T21:14:49.907821+00:00",
+ "updated": "2026-11-21T21:44:33.808460+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,18 @@
    "url": "https://www.danas.rs/svet/bolonaro-na-intenzivnoj-nezi/",
    "title": "Bivši predsednik Brazila Žair Bolsonaro smešten na odeljenje intenzivne nege",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299812/bolsonaro-na-intenzivnoj-nezi-zbog-opstrukcije-creva-stanje-stabilno/vest",
+   "title": "Bolsonaro na intenzivnoj nezi zbog opstrukcije creva, stanje stabilno",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Žair Bolsonaro na intenzivnoj nezi",
-  "Bivši predsednik Brazila Žair Bolsonaro smešten na odeljenje intenzivne nege"
+  "Bivši predsednik Brazila Žair Bolsonaro smešten na odeljenje intenzivne nege",
+  "Bolsonaro na intenzivnoj nezi zbog opstrukcije creva, stanje stabilno"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Bolsonaro primljen na intenzivnu negu u Braziliji zbog opstrukcije u stomaku"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
