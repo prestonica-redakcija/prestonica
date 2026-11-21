@@ -33,7 +33,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T14:48:17.077113+00:00",
- "updated": "2026-11-21T18:46:04.223189+00:00",
+ "updated": "2026-11-21T20:15:28.244701+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -58,12 +58,19 @@
    "url": "https://www.tanjug.rs/svet/drustvo/299770/preminuo-paolo-bulgari-cuveni-italijanski-juvelir/vest",
    "title": "Preminuo Paolo Bulgari, čuveni italijanski juvelir",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/preminuo-paolo-bulgari-cuveni-italijanski-juvelir/",
+   "title": "Preminuo Paolo Bulgari, čuveni italijanski juvelir",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "UMRO PAOLO BULGARI Vlasnik čuvene luksuzne imperije posvetio život pravljenju najfinijeg nakita koji su svi obožavali",
   "Umro Paolo Bulgari u 89. godini: Naslednik imperije luksuza pravio nakit koji su obožavale svetske dive",
   "Ko je bio naslednik čuvene juvelirske dinastije koji je luksuzni brend pretvorio u svetsku imperiju: Paolu Bulgariju je ovo bilo slaba tačka",
+  "Preminuo Paolo Bulgari, čuveni italijanski juvelir",
   "Preminuo Paolo Bulgari, čuveni italijanski juvelir"
  ],
  "author": "Redakcija Prestonice",
@@ -76,6 +83,6 @@
   "local": true,
   "alt": "Preminuo Paolo Bulgari, dugogodišnji predsednik italijanske juvelirske kuće"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

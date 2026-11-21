@@ -34,17 +34,24 @@
  ],
  "importance": 5,
  "published": "2026-11-20T20:12:12.983346+00:00",
- "updated": "2026-11-20T20:12:12.983346+00:00",
+ "updated": "2026-11-21T20:15:28.244701+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/svet/medijski-spektakl-bez-dometa-sagovornici-danasa-o-sastanku-sija-trampa-i-putina/",
    "title": "„Medijski spektakl bez dometa“: Sagovornici Danasa analiziraju sastanak Sija, Trampa i Putina",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/sergej-selin-putin-tramp-si/",
+   "title": "Politički spektakl Trampa Putina i Sija o podeli planete",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "„Medijski spektakl bez dometa“: Sagovornici Danasa analiziraju sastanak Sija, Trampa i Putina"
+  "„Medijski spektakl bez dometa“: Sagovornici Danasa analiziraju sastanak Sija, Trampa i Putina",
+  "Politički spektakl Trampa Putina i Sija o podeli planete"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:RIAN_archive_100306_Vladimir_Putin,_Federal_Security_Service_Director.jpg",
   "alt": "Sastanak Sija, Trampa i Putina u Šendženu: sagovornici Danasa ocenjuju njegov domet"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
