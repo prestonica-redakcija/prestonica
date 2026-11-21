@@ -3,18 +3,21 @@
  "slug": "srpska-pravoslavna-crkva-sutra-slavi-arandjelovdan-sabor-svetog",
  "kind": "vest",
  "section": "drustvo",
- "headline": "Srpska pravoslavna crkva sutra slavi Aranđelovdan, Sabor Svetog Arhangela Mihaila",
- "lead": "Srpska pravoslavna crkva u subotu, 21. novembra, obeležava Sabor Svetog Arhangela Mihaila, poznat u narodu kao Aranđelovdan. Praznik je posvećen arhangelu koji se u pravoslavnoj tradiciji smatra čuvarem vere.",
+ "headline": "Aranđelovdan danas: šta čini slavu i zašto teolozi osporavaju zabludu o slavskom žitu",
+ "lead": "Srpska pravoslavna crkva i vernici danas, 21. novembra, slave Sabor Svetog Arhangela Mihaila, poznat kao Aranđelovdan. Kako navodi Telegraf, povodom slave se podseća na crkvena pravila i na rasprostranjeno pogrešno verovanje da se za ovaj praznik ne sprema žito.",
  "body": [
-  "Kako prenosi Tanjug, Srpska pravoslavna crkva sutra, u subotu 21. novembra, slavi Sabor Svetog Arhangela Mihaila. U narodu se taj praznik zove Aranđelovdan.",
-  "Prema navodima Tanjuga, Aranđelovdan je posvećen arhangelu Mihailu, predvodniku vojske anđela, odnosno bestelesnih sila dobra koje su učestvovale u stvaranju sveta.",
-  "Na pravoslavnim ikonama arhangel Mihailo je predstavljen sa kopljem u desnoj ruci, kojim pobeđuje Lucifera, i palmovom grančicom u levoj. Smatra se čuvarem pravoslavne vere i borcem protiv jeresi, navodi Tanjug."
+  "Prema pisanju Telegrafa, Aranđelovdan je po procenama jedna od najvećih krsnih slava, odmah iza Nikoljdana. Praznik je posvećen arhangelu Mihailu, koga, kako je ranije prenosio Tanjug, tradicija predstavlja kao predvodnika vojske anđela i čuvara pravoslavne vere. Na ikonama je prikazan sa kopljem u desnoj ruci i palmovom grančicom u levoj.",
+  "Telegraf navodi da se Aranđelovdan slavi 21. novembra, odnosno 8. novembra po starom kalendaru. Taj list ga opisuje i kao sveca kome se vernici mole za zaštitu, isceljenje i mir u porodici, a koji se u istoriji vezivao i za vladarske dinastije i vojske.",
+  "Prema istom izvoru, uz praznik ide više narodnih verovanja: da arhangel obilazi bolesnike, da vreme na taj dan nagoveštava kakva će biti zima, kao i da se u nekim krajevima izbegavaju teški poslovi, ručno šivenje i pranje veša.",
+  "Telegraf prenosi da krsnu slavu, prema crkvenim pravilima, čine slavski kolač, žito, sveća od pčelinjeg voska i crno vino. Navodi se i da suština slave nije u obilju na trpezi, već u zajedničkoj molitvi, skromnosti, oproštaju i pomirenju sa onima sa kojima su domaćini u zavadi.",
+  "Kao najraširenija zabluda navodi se da se za Aranđelovdan ne sprema žito jer je arhangel „živi svetac“. Teolozi na koje se poziva Telegraf objašnjavaju da u hrišćanstvu nema podele na žive i mrtve svetitelje, te da se slavsko žito prinosi u slavu Božiju, a za zdravlje i napredak živih članova porodice."
  ],
  "tags": [
   "Aranđelovdan",
+  "krsna slava",
   "Srpska pravoslavna crkva",
-  "Arhangel Mihailo",
-  "praznici",
+  "Sveti Arhangel Mihailo",
+  "slavsko žito",
   "tradicija"
  ],
  "people": [
@@ -26,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T07:47:34.312460+00:00",
- "updated": "2026-11-21T06:52:04.638441+00:00",
+ "updated": "2026-11-21T07:07:01.748216+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,13 +54,20 @@
    "url": "https://nova.rs/magazin/lifestyle/danas-je-arandjelovdan-jedna-od-najvecih-srpskih-slava-obicaji-verovanja-i-pravilo-koje-mnogi-pogresno-postuju/",
    "title": "Danas je Aranđelovdan, jedna od najvećih srpskih slava: Običaji, verovanja i pravilo koje mnogi pogrešno poštuju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4413352-danas-je-arandjelovdan-tradicija-stroga-crkvena-pravila-ali-i-najveca-zabluda-srpskih-domacina",
+   "title": "Danas je Aranđelovdan! Tradicija, stroga crkvena pravila, ali i NAJVEĆA ZABLUDA srpskih domaćina",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Srpska pravoslavna crkva sutra slavi Sabor Svetog Arhangela Mihaila - Aranđelovdan",
   "Aranđelovdan je jedna od najčešćih slava: Šta narodna verovanja kažu o Arhangelu Mihailu",
   "Aranđelovdan – slava Svetog Arhangela Mihaila, čuvara pravde i vere",
-  "Danas je Aranđelovdan, jedna od najvećih srpskih slava: Običaji, verovanja i pravilo koje mnogi pogrešno poštuju"
+  "Danas je Aranđelovdan, jedna od najvećih srpskih slava: Običaji, verovanja i pravilo koje mnogi pogrešno poštuju",
+  "Danas je Aranđelovdan! Tradicija, stroga crkvena pravila, ali i NAJVEĆA ZABLUDA srpskih domaćina"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +80,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Marija_-_Sv._arhangel_Mihailo.jpg",
   "alt": "Srpska pravoslavna crkva sutra slavi Aranđelovdan, Sabor Svetog Arhangela Mihaila"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 0,
+ "boost": 1.32,
+ "prepisano": "2026-11-21T07:07:01.748216+00:00",
+ "verzija": 2
 }

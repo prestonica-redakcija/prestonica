@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-21T06:22:28.209155+00:00",
+ "updated": "2026-11-21T07:07:01.748216+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -265,6 +265,12 @@
    "url": "https://www.telegraf.rs/vesti/svet/4436827-najvaznije-vesti-iz-sveta-za-20-novembar-2026-godine",
    "title": "Tramp se hvali prijateljima Sijem i Putinom, a u Poljskoj padaju ruske rakete: Šta se juče desilo u svetu?",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10168494/rusija-gadjala-krivi-rog-poginuli-decak-i-bolnicar-vise-od-50-ranjenih",
+   "title": "GORI RODNI GRAD ZELENSKOG! Rusi više puta gađali parking kod popularnog restorana, poginuli dečak (7) i bolničar, ranjeno više od 50 ljudi, eksplozije u Kijevu!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -305,7 +311,8 @@
   "NATO I POLJSKA ZATAJILI: Nisu uspeli da obore dve ruske rakete i dron, oglaso se ministar odbrane",
   "Žestok odgovor Moskve zbog napada na Krimski most: Jedan od najjačih napada na Ukrajinu, napeto i u Poljskoj i na Baltiku",
   "NATO poslao jasnu poruku Putinu: \"Ukrajinski napad na Krimski most bio je legitiman\"",
-  "Tramp se hvali prijateljima Sijem i Putinom, a u Poljskoj padaju ruske rakete: Šta se juče desilo u svetu?"
+  "Tramp se hvali prijateljima Sijem i Putinom, a u Poljskoj padaju ruske rakete: Šta se juče desilo u svetu?",
+  "GORI RODNI GRAD ZELENSKOG! Rusi više puta gađali parking kod popularnog restorana, poginuli dečak (7) i bolničar, ranjeno više od 50 ljudi, eksplozije u Kijevu!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -319,7 +326,7 @@
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
  },
- "novo_od_pisanja": 2,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-20T22:56:03.386969+00:00",
  "verzija": 8
