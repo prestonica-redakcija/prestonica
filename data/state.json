@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://nova.rs/magazin/vremenska-prognoza/u-srbiji-oblacno-kosava-popodne-kisa/": "2026-11-16T00:07:53.371503+00:00",
   "https://www.telegraf.rs/vesti/svet/4433552-tanker-se-zapalio-nakon-sto-je-naisao-na-minu-kod-ormuskog-moreuza": "2026-11-16T00:37:53.910686+00:00",
   "https://www.kurir.rs/planeta/10162492/zoana-roza-prva-zena-na-izborima-za-predsednicu-zelenortskih-ostrva": "2026-11-16T01:56:15.543449+00:00",
   "https://www.telegraf.rs/vesti/srbija/4433484-otvoren-17-sajam-stvaralastva-seoskih-zena-u-beocinu": "2026-11-16T02:11:03.845375+00:00",
@@ -7231,18 +7230,13 @@
   "https://www.tanjug.rs/svet/politika/299557/samit-v4-i-austrije-bice-odrzan-u-bratislavi-u-ponedeljak/vest": "2026-11-20T23:55:33.431849+00:00",
   "https://www.kurir.rs/planeta/10168319/samit-visegradske-grupe-i-austrije-u-bratislavi": "2026-11-20T23:55:33.431849+00:00",
   "https://www.danas.rs/vesti/ekonomija/potres-na-volstritu-akcije-antropika-nvidije-i-drugih-tehnoloskih-kompanija-u-padu/": "2026-11-20T23:55:33.431849+00:00",
-  "https://www.kurir.rs/zabava/zanimljivosti/10164360/saveti-japanskog-lekara-za-dugovecan-zivot": "2026-11-20T23:55:33.431849+00:00"
+  "https://www.kurir.rs/zabava/zanimljivosti/10164360/saveti-japanskog-lekara-za-dugovecan-zivot": "2026-11-20T23:55:33.431849+00:00",
+  "https://www.danas.rs/vesti/drustvo/vreme-danas-tokom-dana-naoblacenje-ponegde-kisa/": "2026-11-21T00:10:31.102681+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-20T09:23+00:00",
-   "novih": 10,
-   "ukupno": 2945,
-   "sekundi": 403.3
-  },
   {
    "vreme": "2026-11-20T09:39+00:00",
    "novih": 5,
@@ -7596,6 +7590,12 @@
    "novih": 2,
    "ukupno": 3236,
    "sekundi": 334.0
+  },
+  {
+   "vreme": "2026-11-21T00:16+00:00",
+   "novih": 0,
+   "ukupno": 3236,
+   "sekundi": 370.5
   }
  ],
  "licnosti_foto": {
@@ -10395,11 +10395,11 @@
    },
    "parandilovicnls": {
     "since_id": "2123886775957393459",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "ininic": {
     "since_id": "2123809134332055981",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -10407,15 +10407,15 @@
    },
    "sviublokade_fdu": {
     "since_id": "2123543689855390002",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "dragandjilas": {
     "since_id": "2121691848313884992",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "marinikatepic": {
     "since_id": "2122007271508959331",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "radomirlazovic": {
     "since_id": null,
@@ -10455,11 +10455,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "studentblokade": {
     "since_id": "2123809021022847349",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -10515,11 +10515,11 @@
    },
    "borkostef": {
     "since_id": "2123837042505155014",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "dobrinacelnik": {
     "since_id": "2123731645471580350",
@@ -10531,7 +10531,7 @@
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "srdjanmil037": {
     "since_id": "2123426905680388191",
@@ -10583,7 +10583,7 @@
    },
    "borakonj": {
     "since_id": "2123863780484669713",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "narodnipokrets": {
     "since_id": "2123734701261169003",
@@ -10591,67 +10591,67 @@
    },
    "direktnors": {
     "since_id": "2123866790531039308",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "crtars": {
     "since_id": "2123084470769127692",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "veceivan": {
     "since_id": "2123874716305838166",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "repjoewilson": {
     "since_id": "2123869192789094550",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "jugoslavcosic": {
     "since_id": "2123147946694787141",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "tvnova_s": {
     "since_id": "2123885908936048816",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "oljautisak": {
     "since_id": null,
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "srdjan_nogo": {
     "since_id": "2123527863307735237",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "agrifblokira": {
     "since_id": "2123785161347154262",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "etfblokada": {
     "since_id": "2123443984156504503",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "nastraninaroda": {
     "since_id": "2123867723964809437",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "bcenzure": {
     "since_id": "2123876697539842326",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "bezstraha26279": {
     "since_id": "2123889223510175783",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "lazidetektor": {
     "since_id": "2123861602600665190",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "nedeljniknin": {
     "since_id": "2123914296048406808",
@@ -10667,11 +10667,11 @@
    },
    "tvbalkaninfo": {
     "since_id": "2123145868773822473",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "1152justice": {
     "since_id": "2123584561330217393",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    },
    "zatrijebacki": {
     "since_id": "2123844027036709035",
@@ -10703,7 +10703,7 @@
    },
    "masinars": {
     "since_id": "2123883451694686690",
-    "t": 1795215428.7582743
+    "t": 1795219848.0814216
    }
   },
   "posts": [
@@ -61490,8 +61490,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-20T23:56:28.722734+00:00",
-  "uzivo_t": "2026-11-20T23:56:28.722749+00:00"
+  "provereno": "2026-11-21T00:11:04.859512+00:00",
+  "uzivo_t": "2026-11-21T00:11:04.859527+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {
