@@ -36,7 +36,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T08:36:21.110084+00:00",
- "updated": "2026-11-21T17:46:42.593339+00:00",
+ "updated": "2026-11-21T18:31:19.960105+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -49,11 +49,18 @@
    "url": "https://www.danas.rs/vesti/politika/kurti-zelenski-da-prizna-kosovo/",
    "title": "Aljbin Kurti pozvao Zelenskog da prizna Kosovo",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/kurti-pozvao-zelenskog-da-prizna-kosovo-time-bi-ojacao-medjunarodni-poredak-koji-ukrajina-brani/",
+   "title": "Kurti pozvao Zelenskog da prizna Kosovo: „Time bi ojačao međunarodni poredak koji Ukrajina brani“",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Kurti: Ukrajina bi trebalo da prizna Kosovo",
-  "Aljbin Kurti pozvao Zelenskog da prizna Kosovo"
+  "Aljbin Kurti pozvao Zelenskog da prizna Kosovo",
+  "Kurti pozvao Zelenskog da prizna Kosovo: „Time bi ojačao međunarodni poredak koji Ukrajina brani“"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Solar_observation_during_the_Regional_Astronomy_Camp_in_Brod,_Dragash,_Kosovo_03.jpg",
   "alt": "Kurti pozvao Zelenskog da Ukrajina prizna Kosovo"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

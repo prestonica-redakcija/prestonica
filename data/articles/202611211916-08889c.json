@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T18:16:16.808382+00:00",
- "updated": "2026-11-21T18:16:16.808382+00:00",
+ "updated": "2026-11-21T18:31:19.960105+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,10 +42,17 @@
    "url": "https://www.kurir.rs/planeta/10168994/PROTESTI-SIROM-FRANCUSKE-Demonstracije-protiv-visokih-troskova-zivota-na-ulicama-150.000-ljudi",
    "title": "PROTESTI ŠIROM FRANCUSKE: Demonstracije protiv visokih troškova života, na ulicama 150.000 ljudi",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10168994/novi-protesti-sirom-francuske",
+   "title": "PROTESTI ŠIROM FRANCUSKE: Demonstracije protiv visokih troškova života, na ulicama 150.000 ljudi",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Protesti u Francuskoj zbog visokih troškova života, u Parizu očekuju do 30.000 ljudi",
+  "PROTESTI ŠIROM FRANCUSKE: Demonstracije protiv visokih troškova života, na ulicama 150.000 ljudi",
   "PROTESTI ŠIROM FRANCUSKE: Demonstracije protiv visokih troškova života, na ulicama 150.000 ljudi"
  ],
  "author": "Redakcija Prestonice",
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "people holding banner during daytime",
   "link": "https://unsplash.com/@matnapo"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

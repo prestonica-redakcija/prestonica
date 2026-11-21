@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T21:41:32.412931+00:00",
- "updated": "2026-11-20T21:41:32.412931+00:00",
+ "updated": "2026-11-21T18:31:19.960105+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://biznis.telegraf.rs/info-biz/4436993-tramp-huang-zasluzuje-drugu-sansu-voleo-bih-da-se-iskreno-izvini-i-vrati-na-posao",
    "title": "Tramp: Huang zaslužuje drugu šansu, voleo bih da se iskreno izvini i vrati na posao",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/286938/tramp-huang-zasluzuje-drugu-sansu/vest",
+   "title": "Trampova podrška uzaludna – on se neće vratiti",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Tramp: Huang zaslužuje drugu šansu, voleo bih da se vrati na čelo Nvidije",
-  "Tramp: Huang zaslužuje drugu šansu, voleo bih da se iskreno izvini i vrati na posao"
+  "Tramp: Huang zaslužuje drugu šansu, voleo bih da se iskreno izvini i vrati na posao",
+  "Trampova podrška uzaludna – on se neće vratiti"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:San_Tomas_Expressway_at_Nvidia.jpg",
   "alt": "Tramp: Huang zaslužuje drugu šansu, Nvidia kaže da se neće vratiti na čelo"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

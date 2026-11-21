@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T17:46:42.593339+00:00",
- "updated": "2026-11-21T18:16:16.808382+00:00",
+ "updated": "2026-11-21T18:31:19.960105+00:00",
  "sources": [
   {
    "name": "B92",
@@ -67,6 +67,18 @@
    "url": "https://n1info.rs/vesti/nestao-mladic-sa-autizmom-u-zemunu-aktiviran-sistem-pronadji-me/",
    "title": "Nestao mladić sa autizmom u Zemunu, aktiviran sistem \"Pronađi me\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10169004/Aktiviran-sistem-Pronadji-me-zbog-decaka-iz-Zemuna",
+   "title": "Aktiviran sistem \"Pronađi me\": Hitno se oglasio MUP zbog tinejdžera nestalog u Beogradu",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/mup-alarm-pronadji-me-nestao-17-godisnji-andrej-davidovic/",
+   "title": "MUP aktivirao alarm „Pronađi me“: Nestao Andrej Davidović (17) iz Zemuna",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -75,7 +87,9 @@
   "Pogledajte i podelite, u Zemunu nestao tinejdžer s autizmom: Andrej je neverbalan, viđen je na Banjici",
   "MUP: Aktiviran sistem \"Pronađi me“",
   "Nestao tinejdžer u Beogradu; Aktiviran sistem \"Pronađi me\"",
-  "Nestao mladić sa autizmom u Zemunu, aktiviran sistem \"Pronađi me\""
+  "Nestao mladić sa autizmom u Zemunu, aktiviran sistem \"Pronađi me\"",
+  "Aktiviran sistem \"Pronađi me\": Hitno se oglasio MUP zbog tinejdžera nestalog u Beogradu",
+  "MUP aktivirao alarm „Pronađi me“: Nestao Andrej Davidović (17) iz Zemuna"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -88,6 +102,6 @@
   "alt": "a couple of buses on a city street",
   "link": "https://unsplash.com/@jiaminhuang812"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }
