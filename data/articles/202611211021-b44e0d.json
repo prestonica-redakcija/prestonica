@@ -31,17 +31,24 @@
  ],
  "importance": 6,
  "published": "2026-11-21T09:21:04.993856+00:00",
- "updated": "2026-11-21T09:21:04.993856+00:00",
+ "updated": "2026-11-21T09:35:55.278856+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10168568/aleksandar-vucic-obracanje-skupstina-srbije",
    "title": "VUČIĆA PITALI ZAŠTO JE VIDNO SMRŠAO, EVO ŠTA JE ODGOVORIO: Da vam kažem da se ne sekiram, i da mi je sve svejedno, bilo bi glupo i besmisleno",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/286871/vucic-losa-vest-je-za-srbiju-sve-sto-se-dogodilo-25-oktobra/vest",
+   "title": "Vučić: \"Loša vest je za Srbiju sve što se dogodilo 25. oktobra\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "VUČIĆA PITALI ZAŠTO JE VIDNO SMRŠAO, EVO ŠTA JE ODGOVORIO: Da vam kažem da se ne sekiram, i da mi je sve svejedno, bilo bi glupo i besmisleno"
+  "VUČIĆA PITALI ZAŠTO JE VIDNO SMRŠAO, EVO ŠTA JE ODGOVORIO: Da vam kažem da se ne sekiram, i da mi je sve svejedno, bilo bi glupo i besmisleno",
+  "Vučić: \"Loša vest je za Srbiju sve što se dogodilo 25. oktobra\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Narodna_skupstina_Srbije.jpg",
   "alt": "Vučić za Informer TV: 25. oktobar loša vest za Srbiju, kritikovao studentski pokret"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

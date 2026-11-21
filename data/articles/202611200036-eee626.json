@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T23:36:31.686264+00:00",
- "updated": "2026-11-21T08:36:21.110084+00:00",
+ "updated": "2026-11-21T09:35:55.278856+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -184,6 +184,12 @@
    "url": "https://n1info.rs/vesti/jovo-bakic-imamo-kandidata-za-predsednicke-izbore-ali-jos-ne-izlazimo-sa-imenom/",
    "title": "Bakić: Imamo kandidata za predsedničke izbore, ali još ne izlazimo sa imenom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10168595/jovo-bakic-najavljuje-kandidata-za-predsednika-srbije",
+   "title": "IMAMO KANDIDATA ZA PREDSEDNIČKE IZBORE Jovo Bakić otkrio plan Studentske liste i objasnio zašto ne odustaje od funkcije ministra policije",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -211,7 +217,8 @@
   "Novi šef Delegacije EU u Srbiji ugostio Čupića: \"Narodna skupština ima čvrstog saveznika u Uniji\"",
   "Otpravnik poslova Delegacije EU u Srbiji ugostio Čupića: \"Narodna skupština ima čvrstog saveznika u Uniji\"",
   "Bakić (Studentska lista): Imamo kandidata za predsedničke izbore, SNS nema koga da preloži",
-  "Bakić: Imamo kandidata za predsedničke izbore, ali još ne izlazimo sa imenom"
+  "Bakić: Imamo kandidata za predsedničke izbore, ali još ne izlazimo sa imenom",
+  "IMAMO KANDIDATA ZA PREDSEDNIČKE IZBORE Jovo Bakić otkrio plan Studentske liste i objasnio zašto ne odustaje od funkcije ministra policije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -223,7 +230,7 @@
   "local": true,
   "alt": "Čupić: biću predsednik svih poslanika, Studentska lista slavi izbor rukovodstva Skupštine"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-20T21:11:49.962208+00:00",
  "verzija": 5
