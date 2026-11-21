@@ -223,6 +223,18 @@ main{padding-bottom:84px}
 .ytrow .ti small{color:var(--mut);font-size:11.5px}
 .ytrow .st{text-align:right;font-variant-numeric:tabular-nums;font-size:12.5px;white-space:nowrap}
 .ytrow .st b{font-size:15px}
+/* sličice uz stavke: tekst, snimak, strana */
+.sl{width:56px;height:38px;flex:0 0 auto;border-radius:7px;object-fit:cover;background:var(--panel2);
+  border:1px solid var(--line);display:block}
+.sl.big{width:92px;height:52px;border-radius:9px}
+.sl.mini{width:34px;height:24px;border-radius:5px;margin-right:9px}
+.tbtn-hl{width:auto;padding:0 12px;background:var(--acc);border-color:var(--acc);color:#07122a;font:800 12.5px/1 Manrope;letter-spacing:.2px}
+.tbtn-hl:hover{filter:brightness(1.08)}
+.mini li{display:flex;align-items:center}
+td.t .tw{display:flex;gap:11px;align-items:flex-start;min-width:0}
+td.t .tw>div{min-width:0}
+.ytrow{grid-template-columns:auto auto minmax(0,1fr) auto}
+@media (max-width:700px){.sl{width:46px;height:32px}.sl.big{width:64px;height:38px}}
 </style>
 </head>
 <body>
@@ -241,6 +253,7 @@ main{padding-bottom:84px}
       <button data-p="custom">Period</button>
     </div>
     <div class="custom" id="custom"><input type="date" id="dOd"><span>–</span><input type="date" id="dDo"></div>
+    <button class="tbtn tbtn-hl" id="instal" hidden title="Instaliraj kao aplikaciju">Instaliraj</button>
     <button class="tbtn" id="refresh" title="Osveži" aria-label="Osveži"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg></button>
     <span class="upd" id="upd"></span>
   </div>
@@ -526,7 +539,8 @@ function renderTable(){
   $("#tb").innerHTML=list.length?list.map(function(r){
     var mix=MIX.map(function(m){var v=r[m[0]]||0;return v?'<i title="'+m[1]+": "+n(v)+'" style="width:'+pct(v,r.v).toFixed(1)+'%;background:'+m[2]+'"></i>':""}).join("");
     var url=r.put.indexOf("/")===0?r.put:"/"+r.put;
-    return'<tr><td>'+r.i+'</td><td class="t"><a href="'+esc(url)+'" target="_blank" rel="noopener">'+esc(r.naslov)+'</a><div class="m">'+(r.rubrika?'<span class="rub">'+esc(r.rubrika)+'</span>':"")+'<span>'+esc(url.length>60?url.slice(0,60)+"…":url)+'</span></div></td>'+
+    var sl=r.slika?'<img class="sl" src="'+esc(r.slika)+'" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">':"";
+    return'<tr><td>'+r.i+'</td><td class="t"><div class="tw">'+sl+'<div><a href="'+esc(url)+'" target="_blank" rel="noopener">'+esc(r.naslov)+'</a><div class="m">'+(r.rubrika?'<span class="rub">'+esc(r.rubrika)+'</span>':"")+'<span>'+esc(url.length>60?url.slice(0,60)+"…":url)+'</span></div></div></div></td>'+
       '<td data-l="Pregledi"><div class="vb"><i style="width:'+Math.max(2,pct(r.v,max)*.7).toFixed(1)+'px"></i><b>'+n(r.v)+'</b></div></td><td data-l="Posetioci">'+n(r.u)+'</td><td data-l="Vreme">'+dur(r.sek)+'</td><td data-l="Pročitano">'+(r.dub!=null?Math.round(r.dub)+"%":"—")+'</td><td data-l="Mobilni">'+Math.round(r.mobp)+'%</td><td data-l="X / Google">'+n(r.x)+' / '+n(r.g)+'</td><td class="mx" data-l="Odakle dolaze"><div class="mix">'+mix+'</div></td></tr>'}).join(""):'<tr><td colspan="9" class="empty" style="text-align:center">Nema tekstova za ovaj period ili pretragu.</td></tr>';
   document.querySelectorAll("th").forEach(function(th){th.classList.toggle("s",th.dataset.k===sortK);th.classList.toggle("asc",th.dataset.k===sortK&&sortAsc)});var ss=$("#sortSel");if([].some.call(ss.options,function(o){return o.value===sortK}))ss.value=sortK;
   var b=$("#moreBtn");b.hidden=rows.length<=25;b.textContent=showAll?"Prikaži manje":"Prikaži sve ("+rows.length+")";
@@ -569,7 +583,9 @@ function renderLive(j){
   $("#lvSpark").innerHTML=arr.map(function(v){return'<i class="'+(v?"":"z")+'" style="height:'+Math.max(4,pct(v,mx))+'%" title="'+n(v)+' pregleda"></i>'}).join("");
   $("#lvSum").textContent=n(sum)+" pregleda za 30 min";
   $("#lvSrc").innerHTML=(j.izvori||[]).slice(0,6).map(function(r){return'<span class="chip">'+esc(r.k)+" "+n(r.v)+'</span>'}).join("");
-  $("#lvTop").innerHTML=(j.stranice||[]).length?(j.stranice||[]).slice(0,7).map(function(r){return'<li><a href="'+esc(r.put)+'" target="_blank" rel="noopener">'+esc(r.naslov||(r.put==="/"?"Naslovna strana":r.put))+'</a><span class="n">'+n(r.v)+'</span></li>'}).join(""):'<li class="empty">Trenutno niko ne čita.</li>';
+  $("#lvTop").innerHTML=(j.stranice||[]).length?(j.stranice||[]).slice(0,7).map(function(r){
+    return'<li>'+(r.slika?'<img class="sl mini" src="'+esc(r.slika)+'" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">':"")+
+    '<a href="'+esc(r.put)+'" target="_blank" rel="noopener">'+esc(r.naslov||(r.put==="/"?"Naslovna strana":r.put))+'</a><span class="n">'+n(r.v)+'</span></li>'}).join(""):'<li class="empty">Trenutno niko ne čita.</li>';
 }
 
 // ---- CSV
@@ -704,7 +720,9 @@ function renderYt(){
   if(ys==="pregledi")l.sort(function(a,b){return b.pregledi-a.pregledi});
   $("#yLista").innerHTML=l.length?l.map(function(x,i){
     var d=new Date(x.objavljen);
-    return'<div class="ytrow"><div class="no">'+(i+1)+'</div><div class="ti"><a href="https://www.youtube.com/watch?v='+esc(x.id)+'" target="_blank" rel="noopener">'+esc(x.naslov)+'</a>'+
+    return'<div class="ytrow"><div class="no">'+(i+1)+'</div>'+
+      '<img class="sl big" src="https://i.ytimg.com/vi/'+esc(x.id)+'/mqdefault.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">'+
+      '<div class="ti"><a href="https://www.youtube.com/watch?v='+esc(x.id)+'" target="_blank" rel="noopener">'+esc(x.naslov)+'</a>'+
       '<small>'+d.toLocaleDateString("sr-Latn-RS",{day:"numeric",month:"short"})+" "+d.toLocaleTimeString("sr-Latn-RS",{hour:"2-digit",minute:"2-digit"})+(x.trajanje?" · "+trajanjeISO(x.trajanje):"")+'</small></div>'+
       '<div class="st"><b>'+n(x.pregledi)+'</b> pregleda<br><span style="color:var(--mut)">'+n(x.lajkovi)+' ♥ · '+n(x.komentari)+' kom.</span></div></div>'}).join(""):'<div class="empty">Kanal još nema objavljenih videa.</div>';
   $("#ySub").textContent=v.length+" objava · "+(yData._kes?"podatak star "+Math.round(yData._kes/60)+" min":"svež podatak");
@@ -842,6 +860,16 @@ document.addEventListener("visibilitychange",function(){if(document.hidden||!key
   if(view==="portal"){loadLive();if(data&&Date.now()-data.generisano>120000)loadReport()}
   else if(view==="google"&&gData&&Date.now()-gData.generisano>600000)loadGoogle()});
 if("serviceWorker"in navigator)addEventListener("load",function(){navigator.serviceWorker.register("/komanda-sw.js").catch(function(){})});
+// Instalacija na računaru: ikonica se krije u traci pregledača i teško se nalazi.
+// Chrome i Edge jave kad je strana podobna, pa se tada ponudi dugme u zaglavlju.
+// Posle njega pregledač traži još jednu potvrdu, koju daje čovek.
+var ponuda=null;
+addEventListener("beforeinstallprompt",function(e){e.preventDefault();ponuda=e;$("#instal").hidden=false});
+addEventListener("appinstalled",function(){ponuda=null;$("#instal").hidden=true});
+$("#instal").addEventListener("click",function(){
+  if(!ponuda)return;
+  var p=ponuda;ponuda=null;$("#instal").hidden=true;
+  p.prompt();p.userChoice.catch(function(){})});
 if(key)start();else showGate();
 })();
 </script>

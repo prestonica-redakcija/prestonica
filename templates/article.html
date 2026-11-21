@@ -31,7 +31,7 @@
 
   <figure class="art-fig">
     <img src="{{ a|img(root, 'l') }}" alt="{{ a.image.alt or a.headline }}">
-    <figcaption>{% if a.image.ilustracija %}<span class="ill">Ilustracija</span>{% endif %}Foto: {{ a.image.credit }}</figcaption>
+    <figcaption>{% if a.image.ilustracija %}<span class="ill">Ilustracija</span>{% endif %}Foto: {% if a.image.link %}<a href="{{ a.image.link }}" target="_blank" rel="noopener nofollow">{{ a.image.credit }}</a>{% else %}{{ a.image.credit }}{% endif %}</figcaption>
   </figure>
 
   <div class="art-wrap">

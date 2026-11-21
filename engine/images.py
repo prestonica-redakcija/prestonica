@@ -180,6 +180,20 @@ class Images:
                 return True
         return False
 
+    def _mediji(self) -> set[str]:
+        """Imena medija koje portal prati.
+
+        Ona se pojavljuju kao oznake u skoro svakom tekstu, a kao pojam pretrage
+        slika su zamka: "Danas" na Wikimediji vraća fotografije poplava od tropske
+        oluje Danas sa Filipina, a ne beogradski list."""
+        if getattr(self, "_mediji_kes", None) is None:
+            # samo cela imena: reč iz imena nije ime. "Srbije" je deo naziva RTS-a,
+            # a "Vlada Srbije" je sasvim ispravna tema za fotografiju.
+            self._mediji_kes = {fold(str((iz or {}).get("naziv") or "").strip())
+                                for iz in (getattr(self.cfg, "izvori", None) or [])
+                                if str((iz or {}).get("naziv") or "").strip()}
+        return self._mediji_kes
+
     def _imena_u_tekstu(self, a: dict) -> set[str]:
         """Svi delovi imena osoba iz teksta. Oznaka koja je nečije prezime ne sme
         da ode u slobodnu pretragu: "Tramp" tako vrati sliku skitnica, "Mali" autobus."""
@@ -191,11 +205,40 @@ class Images:
             delovi.add(fold(str(p)))
         return delovi
 
+    def pogresna_tema(self, a: dict) -> bool:
+        """Postojeća fotografija sa Commons-a čiji naziv nosi ime medija iz teksta.
+
+        Takva slika je skoro sigurno promašaj: "Danas" je vratio poplave od tropske
+        oluje Danas, a ne list. Tekst se tada ponovo slika."""
+        img = a.get("image") or {}
+        if img.get("local") or img.get("ilustracija") or "wikimedia" not in (img.get("src", "") + img.get("link", "")):
+            return False
+        if img.get("src") in {v.get("src") for v in self.known.values()}:
+            return False
+        from urllib.parse import unquote
+
+        ref = fold(unquote(unquote(img.get("src", "")))).replace("_", " ")
+        mediji = self._mediji()
+        for t in a.get("tags", []):
+            f = fold(str(t).strip())
+            if len(f) >= 4 and f in mediji and f in ref:
+                return True
+        return False
+
     def _topic_photo(self, a: dict, avoid: set[str]) -> dict | None:
         imena = self._imena_u_tekstu(a)
+        mediji = self._mediji()
         for t in a.get("tags", [])[:5]:
             t = str(t).strip()
+            # prezime osobe iz teksta nikad nije pojam za sliku
             if fold(t) in imena or any(fold(w) in imena for w in t.split()):
+                continue
+            # ime medija nije tema nego izvor
+            if fold(t) in mediji:
+                continue
+            # jedna reč je previše dvosmislena preko jezika: isti niz slova znači
+            # drugo na drugom jeziku i vraća sliku sa druge strane sveta
+            if len(t.split()) < 2:
                 continue
             # samo konkretni pojmovi: vlastita imena ili višečlani nazivi (npr. "hotel Jugoslavija", "Narodna skupština")
             if len(t) < 5 or not (any(w[:1].isupper() for w in t.split()) and (len(t.split()) >= 2 or t[:1].isupper())):
@@ -206,21 +249,44 @@ class Images:
         return None
 
     # --- 1. tvoja arhiva ---
-    def _library(self, text: str) -> tuple[dict | None, float]:
+    def _library(self, text: str, naslov: str = "") -> tuple[dict | None, float]:
+        """Fotografija iz arhive po ključnim rečima.
+
+        Pogodak u naslovu vredi dvostruko: naslov kaže o čemu je tekst, dok se u
+        telu uvek nađe poneka opšta reč. Bez toga tekst o zabrani emisije
+        Informeru dobije fotografiju Skupštine, jer se reči poslanik i sednica
+        pojave usput, a informer stoji u naslovu."""
         t = " " + fold(text) + " "
-        words = t.split()
+        h = " " + fold(naslov) + " "
+        words, hwords = t.split(), h.split()
         best, best_s = None, 0.0
         for f in self.lib:
             s = 0.0
             for k in f.get("kljucne", []):
                 k = fold(k)
                 if " " in k:
-                    s += 1.5 if f" {k}" in t else 0
+                    if f" {k}" in h:
+                        s += 3.0
+                    elif f" {k}" in t:
+                        s += 1.5
+                elif len(k) <= 3:
+                    # Kratke ključne reči (eu, tv, k1, rem) traže tačan pogodak:
+                    # kao prefiks hvataju svaku reč koja tako počinje, pa je tekst
+                    # o Informeru zbog "eu" dobijao fotografiju Pariza.
+                    if k in hwords:
+                        s += 2.0
+                    elif k in words:
+                        s += 1.0
+                elif any(w.startswith(k) for w in hwords):
+                    s += 2.0
                 elif any(w.startswith(k) for w in words):
                     s += 1.0
             if s <= 0:
                 continue
-            s -= 0.7 * self.used.get("foto/" + f["fajl"], 0)  # raznovrsnost: ista fotografija iz arhive brzo gubi prednost
+            # Raznovrsnost: ista fotografija iz arhive gubi prednost, ali kazna je
+            # ograničena. Bez granice je tekst o Informeru dobijao fotografiju Pariza,
+            # jer je tačna fotografija već bila upotrebljena dva puta u istom prolazu.
+            s -= min(1.5, 0.7 * self.used.get("foto/" + f["fajl"], 0))
             if s > best_s:
                 best, best_s = f, s
         if not best:
@@ -321,7 +387,7 @@ class Images:
                     break
             if not img:
                 img = self._topic_photo(a, avoid)
-        lib, lib_s = self._library(text)
+        lib, lib_s = self._library(text, a.get("headline", ""))
         if lib and lib["src"] in avoid:
             lib, lib_s = None, 0
         if not img and lib and lib_s >= 2:

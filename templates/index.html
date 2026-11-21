@@ -27,7 +27,7 @@
         <p>{{ hero.lead }}</p>
         <div class="hero-meta"><span class="src-pill src-pill-dark">{{ srcline(hero) }}</span>{% if hero.prepisano %}<span class="upd-tag">ažurirano</span>{% endif %}<time data-t="{{ hero.prepisano or hero.published }}">{{ hero._time }}</time>{% if hero.sources|length > 1 %}<span class="hero-n">{{ hero.sources|length }} izvora</span>{% endif %}</div>
       </div>
-      <span class="credit">{% if hero.image.ilustracija %}Ilustracija · {% endif %}{{ hero.image.credit }}</span>
+      <span class="credit">{% if hero.image.ilustracija %}Ilustracija · {% endif %}{% if hero.image.link %}<a href="{{ hero.image.link }}" target="_blank" rel="noopener nofollow">{{ hero.image.credit }}</a>{% else %}{{ hero.image.credit }}{% endif %}</span>
     </a>
   </article>
 

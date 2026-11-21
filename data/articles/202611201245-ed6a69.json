@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T11:45:57.885434+00:00",
- "updated": "2026-11-20T13:00:21.398102+00:00",
+ "updated": "2026-11-21T13:34:37.465012+00:00",
  "sources": [
   {
    "name": "N1",
@@ -68,6 +68,12 @@
    "url": "https://www.kurir.rs/vesti/politika/10167865/kancelarija-za-kim-nova-krsenja-prava-srba-na-gazivodama",
    "title": "\"OBAVESTIĆEMO MEĐUNARODNU JAVNOST\" Kancelarija za KiM o novom rušenju srpske imovine na jezeru Gazivode (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/reakcije-u-pristini-povodom-posete-predstavnika-studentske-liste-kosovu-invazija-pobednika/",
+   "title": "Reakcije u Prištini povodom posete predstavnika Studentske liste Kosovu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -76,7 +82,8 @@
   "Kancelarija za KiM: Obavestićemo međunarodnu javnost o rušenju srpske imovine na Kosovu i Metohiji",
   "Kancelarija za KiM se oglasila povodom rušenja na jezeru Gazivode!",
   "Kancelarija za Kosovo i Metohiju: Obavestićemo međunarodnu javnost o rušenju srpske imovine na KiM",
-  "\"OBAVESTIĆEMO MEĐUNARODNU JAVNOST\" Kancelarija za KiM o novom rušenju srpske imovine na jezeru Gazivode (VIDEO)"
+  "\"OBAVESTIĆEMO MEĐUNARODNU JAVNOST\" Kancelarija za KiM o novom rušenju srpske imovine na jezeru Gazivode (VIDEO)",
+  "Reakcije u Prištini povodom posete predstavnika Studentske liste Kosovu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -89,8 +96,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Gazivode_Lake_in_Ribari%C4%87e,_half-desiccated_01.jpg",
   "alt": "Kancelarija za KiM: Obavestićemo međunarodne predstavnike o rušenju vikendica na Gazivodama"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-20T13:00:21.398102+00:00",
  "verzija": 2
 }

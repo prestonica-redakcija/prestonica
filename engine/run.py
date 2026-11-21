@@ -117,15 +117,17 @@ def main() -> None:
         images.note_used([a for a in articles if age_hours(a["published"]) < 72])
         # objave aktera sa X-a kao izvor fotografija: slika sa čovekovog naloga ne može biti drugi čovek
         images.set_xposts((state.get("x") or {}).get("posts") or [])
-        # popravka fotografija u vestima iz poslednja 3 dana: strane stock fotografije koje su uklonjene iz arhive
-        # i fotografije pogrešne osobe istog prezimena dobijaju novu fotografiju (isti tekst, isti link)
+        # popravka fotografija: strane stock fotografije uklonjene iz arhive, fotografija
+        # pogrešne osobe istog prezimena i fotografija nađena po imenu medija umesto po temi
+        # dobijaju novu (isti tekst, isti link). Mesec dana unazad, najviše 60 po ciklusu,
+        # pa se starije greške isprave same kroz nekoliko osvežavanja.
         _lib = {"foto/" + f["fajl"] for f in images.lib}
         _fixed = 0
         for a in articles:
-            if _fixed >= 60 or a.get("hidden") or age_hours(a["published"]) > 72:
+            if _fixed >= 60 or a.get("hidden") or age_hours(a["published"]) > 24 * 30:
                 continue
             img = a.get("image") or {}
-            if (img.get("local") and img.get("src") not in _lib) or images.wrong_person(a):
+            if (img.get("local") and img.get("src") not in _lib) or images.wrong_person(a) or images.pogresna_tema(a):
                 a["image"] = images.choose(a, {})
                 store.save_article(a)
                 _fixed += 1
