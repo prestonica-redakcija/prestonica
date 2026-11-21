@@ -38,7 +38,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T18:13:05.140247+00:00",
- "updated": "2026-11-21T14:33:20.505484+00:00",
+ "updated": "2026-11-21T19:45:30.510819+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -75,6 +75,12 @@
    "url": "https://nova.rs/vesti/svet/melanija-tramp-zeli-primirje-u-ukrajini-do-bozica-amerika-zuri-da-okonca-rat-a-putin-ne-pokazuje-zurbu/",
    "title": "Melanija Tramp želi primirje u Ukrajini do Božića: Amerika žuri da okonča rat, a Putin ne pokazuje žurbu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299785/tramp-najavio-planove-za-postizanje-sveobuhvatnijeg-primirja-u-ukrajini/vest",
+   "title": "Tramp najavio planove za postizanje \"sveobuhvatnijeg\" primirja u Ukrajini",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -83,7 +89,8 @@
   "Putin ima plan: Ukrajina je samo početak",
   "Putin ima plan: Ukrajina je samo početak",
   "Melanija Tramp: Moguće još jedno primirje između Rusije i Ukrajine do Božića",
-  "Melanija Tramp želi primirje u Ukrajini do Božića: Amerika žuri da okonča rat, a Putin ne pokazuje žurbu"
+  "Melanija Tramp želi primirje u Ukrajini do Božića: Amerika žuri da okonča rat, a Putin ne pokazuje žurbu",
+  "Tramp najavio planove za postizanje \"sveobuhvatnijeg\" primirja u Ukrajini"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -96,8 +103,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%90%D0%B1%D1%83-%D0%94%D0%B0%D0%B1%D0%B8_(Abu_Dhabi)_-_panoramio_(1).jpg",
   "alt": "FT: Vašington traži mirovni sporazum Ukrajine i Rusije do početka januara"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-21T14:33:20.505484+00:00",
  "verzija": 2
 }

@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T17:46:42.593339+00:00",
- "updated": "2026-11-21T19:30:45.924241+00:00",
+ "updated": "2026-11-21T19:45:30.510819+00:00",
  "sources": [
   {
    "name": "B92",
@@ -131,6 +131,12 @@
    "url": "https://nova.rs/vesti/drustvo/pronadjen-mladic-iz-zemuna-zbog-koga-je-aktiviran-sistem-pronadji-me/",
    "title": "Pronađen mladić iz Zemuna zbog koga je aktiviran sistem \"Pronađi me\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/299784/pronaden-decak-iz-zemuna-zbog-koga-je-bio-aktiviran-sistem-pronadi-me/vest",
+   "title": "Pronađen dečak iz Zemuna zbog koga je bio aktiviran sistem \"Pronađi me\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -150,7 +156,8 @@
   "Pronađen dečak (17) koji je nestao u Zemunu: MUP otkrio detalje",
   "MUP: Pronađen sedamnaestogodišnjak koji je nestao u Zemunu",
   "MUP: Pronađen nestali tinejdžer!",
-  "Pronađen mladić iz Zemuna zbog koga je aktiviran sistem \"Pronađi me\""
+  "Pronađen mladić iz Zemuna zbog koga je aktiviran sistem \"Pronađi me\"",
+  "Pronađen dečak iz Zemuna zbog koga je bio aktiviran sistem \"Pronađi me\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -163,7 +170,7 @@
   "alt": "a couple of buses on a city street",
   "link": "https://unsplash.com/@jiaminhuang812"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-21T19:30:45.924241+00:00",
  "verzija": 3
