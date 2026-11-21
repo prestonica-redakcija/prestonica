@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T13:45:20.968361+00:00",
- "updated": "2026-11-20T13:45:20.968361+00:00",
+ "updated": "2026-11-21T04:52:58.868447+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -38,11 +38,18 @@
    "url": "https://n1info.rs/vesti/jp-putevi-srbije-uputio-apel-vozacima-uoci-arandjelovdana/",
    "title": "JP \"Putevi Srbije\" uputio apel vozačima uoči Aranđelovdana",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10167982/pazljiva-voznja-na-arandjelovdan-apel-puteva-srbije",
+   "title": "Putevi Srbije apeluju na pažljivu vožnju zbog Aranđelovdana",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Putevi Srbije apeluju na pažljivu vožnju zbog Aranđelovdana",
-  "JP \"Putevi Srbije\" uputio apel vozačima uoči Aranđelovdana"
+  "JP \"Putevi Srbije\" uputio apel vozačima uoči Aranđelovdana",
+  "Putevi Srbije apeluju na pažljivu vožnju zbog Aranđelovdana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Putevi Srbije apeluju na vozače da budu oprezni uoči Aranđelovdana"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
