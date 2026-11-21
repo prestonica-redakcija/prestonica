@@ -164,6 +164,8 @@ function robot(ua) {
 async function pripremi(env) {
   if (spremno) return;
   await env.DB.exec("CREATE TABLE IF NOT EXISTS pregledi (id TEXT PRIMARY KEY, t INTEGER NOT NULL, dan TEXT NOT NULL, sat INTEGER NOT NULL, dow INTEGER NOT NULL, put TEXT NOT NULL, naslov TEXT, rubrika TEXT, izvor TEXT, ref TEXT, uredjaj TEXT, sistem TEXT, pregledac TEXT, zemlja TEXT, grad TEXT, sesija TEXT, ck TEXT, dn INTEGER, dp INTEGER, sn INTEGER, sek INTEGER, dub INTEGER)");
+  // starija baza nema kolonu za sliku: dodaje se jednom, greska znaci da vec postoji
+  try { await env.DB.exec("ALTER TABLE pregledi ADD COLUMN slika TEXT"); } catch (e) { /* vec postoji */ }
   await env.DB.exec("CREATE INDEX IF NOT EXISTS i_pregledi_t ON pregledi (t)");
   await env.DB.exec("CREATE INDEX IF NOT EXISTS i_pregledi_dan ON pregledi (dan)");
   await env.DB.exec("CREATE TABLE IF NOT EXISTS kes (kljuc TEXT PRIMARY KEY, t INTEGER NOT NULL, telo TEXT NOT NULL)");
@@ -191,8 +193,8 @@ async function upisPregled(req, env, telo) {
   const w = broj(telo.w, 0);
 
   await env.DB.prepare(
-    "INSERT OR IGNORE INTO pregledi (id,t,dan,sat,dow,put,naslov,rubrika,izvor,ref,uredjaj,sistem,pregledac,zemlja,grad,sesija,ck,dn,dp,sn,sek,dub) " +
-    "VALUES (?1,?2,?3,?4,?5,?6,?7,?8,?9,?10,?11,?12,?13,?14,?15,?16,?17,?18,?19,?20,NULL,NULL)"
+    "INSERT OR IGNORE INTO pregledi (id,t,dan,sat,dow,put,naslov,rubrika,izvor,ref,uredjaj,sistem,pregledac,zemlja,grad,sesija,ck,dn,dp,sn,slika,sek,dub) " +
+    "VALUES (?1,?2,?3,?4,?5,?6,?7,?8,?9,?10,?11,?12,?13,?14,?15,?16,?17,?18,?19,?20,?21,NULL,NULL)"
   ).bind(
     id, t, v.dan, v.sat, v.dow,
     tekst(telo.p, 300) || "/", tekst(telo.n, 300), tekst(telo.s, 60),
@@ -203,7 +205,8 @@ async function upisPregled(req, env, telo) {
     /^[a-z0-9]{12,24}$/.test(tekst(telo.c, 24)) ? telo.c : null,
     telo.dn != null ? broj(telo.dn, null) : null,
     telo.dp != null ? broj(telo.dp, null) : null,
-    telo.sn != null ? broj(telo.sn, null) : null
+    telo.sn != null ? broj(telo.sn, null) : null,
+    /^https?:\/\//.test(tekst(telo.i, 400)) ? tekst(telo.i, 400) : null
   ).run();
 }
 
@@ -240,7 +243,7 @@ async function izvestaj(env, od, dok) {
     red("SELECT " + kljucNiza + " k, COUNT(*) v, COUNT(DISTINCT sesija) u FROM pregledi WHERE t>=?1 AND t<?2 GROUP BY k", od, dok),
     red("SELECT " + kljucNiza + " k, COUNT(*) v FROM pregledi WHERE t>=?1 AND t<?2 GROUP BY k", rOd, rDo),
     red(
-      "SELECT put, MAX(naslov) naslov, MAX(rubrika) rubrika, COUNT(*) v, COUNT(DISTINCT sesija) u, " +
+      "SELECT put, MAX(naslov) naslov, MAX(rubrika) rubrika, MAX(slika) slika, COUNT(*) v, COUNT(DISTINCT sesija) u, " +
       "AVG(CASE WHEN sek IS NOT NULL THEN sek END) sek, AVG(CASE WHEN dub IS NOT NULL THEN dub END) dub, " +
       "SUM(CASE WHEN uredjaj='Mobilni' THEN 1 ELSE 0 END) mob, " +
       "SUM(CASE WHEN izvor='X' THEN 1 ELSE 0 END) x, " +
@@ -280,7 +283,7 @@ async function uzivo(env) {
     env.DB.prepare("SELECT COUNT(DISTINCT sesija) n FROM pregledi WHERE t>=?1").bind(granica).first(),
     red("SELECT t/60000 m, COUNT(*) v FROM pregledi WHERE t>=?1 GROUP BY m", pola),
     red("SELECT izvor k, COUNT(*) v FROM pregledi WHERE t>=?1 GROUP BY izvor ORDER BY v DESC", pola),
-    red("SELECT put, MAX(naslov) naslov, COUNT(*) v FROM pregledi WHERE t>=?1 GROUP BY put ORDER BY v DESC LIMIT 10", granica),
+    red("SELECT put, MAX(naslov) naslov, MAX(slika) slika, COUNT(*) v FROM pregledi WHERE t>=?1 GROUP BY put ORDER BY v DESC LIMIT 10", granica),
   ]);
   return { aktivni: (a || {}).n || 0, sada, minuti, izvori, stranice };
 }
