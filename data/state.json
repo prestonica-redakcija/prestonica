@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.euronews.rs/biznis/novac/252164/kurs-evra-danas-srednji-kurs-dinara-za-16-novembar/vest": "2026-11-16T04:15:11.302005+00:00",
-  "https://www.kurir.rs/vesti/srbija/10162548/izmene-u-saobracaju-na-auto-putu-kod-feketica": "2026-11-16T04:15:11.302005+00:00",
-  "https://www.politico.eu/sponsored-content/brewing-up-europes-competitiveness/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": "2026-11-16T04:15:11.302005+00:00",
   "https://www.telegraf.rs/vesti/srbija/4433564-toplije-ali-vetrovito-i-kisovito-evo-kada-se-ocekuje-vise-padavina-temperatura-do-17-stepeni": "2026-11-16T04:29:57.424308+00:00",
   "https://www.kurir.rs/vesti/srbija/10162615/pomoc-za-prvo-dete-u-kikindi-30-000-dinara": "2026-11-16T04:29:57.424308+00:00",
   "https://www.kurir.rs/vesti/beograd/10162502/bez-vode-danas-u-beogradu": "2026-11-16T04:44:51.929545+00:00",
@@ -7233,18 +7230,15 @@
   "https://www.telegraf.rs/vesti/svet/4436442-nato-poslao-jasnu-poruku-putinu-ukrajinski-napad-na-krimski-most-bio-je-legitiman": "2026-11-21T03:08:59.619718+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/252933/velnes-je-novi-luksuz-kako-je-islandsko-cudo-prirode-postalo-globalna-biznis-imperija/vest": "2026-11-21T03:08:59.619718+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/252981/srednji-kurs-dinara-za-evro-u-ponedeljak-1176491-dinar/vest": "2026-11-21T04:08:32.062947+00:00",
-  "https://www.kurir.rs/vesti/beograd/10167837/kako-crveni-krst-obezbedjuje-beogradski-polumaraton": "2026-11-21T04:08:32.062947+00:00"
+  "https://www.kurir.rs/vesti/beograd/10167837/kako-crveni-krst-obezbedjuje-beogradski-polumaraton": "2026-11-21T04:08:32.062947+00:00",
+  "https://www.tanjug.rs/svet/politika/299611/maroko-ulaze-366-miliona-evra-u-izgradnju-odbrambene-industrije-do-2035-godine/vest": "2026-11-21T04:23:22.279213+00:00",
+  "https://www.kurir.rs/planeta/10168471/maroko-ulaze-366-miliona-evra-u-izgradnju-odbrambene-industrije-do-2035-godine": "2026-11-21T04:23:22.279213+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4437008-danas-oblacno-pre-podne-suvo-popodne-s-kisom-mestimicno-temperatura-do-18-stepeni": "2026-11-21T04:23:22.279213+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-20T13:37+00:00",
-   "novih": 7,
-   "ukupno": 3044,
-   "sekundi": 441.7
-  },
   {
    "vreme": "2026-11-20T13:51+00:00",
    "novih": 6,
@@ -7598,6 +7592,12 @@
    "novih": 2,
    "ukupno": 3240,
    "sekundi": 401.8
+  },
+  {
+   "vreme": "2026-11-21T04:29+00:00",
+   "novih": 2,
+   "ukupno": 3242,
+   "sekundi": 379.9
   }
  ],
  "licnosti_foto": {
@@ -10306,7 +10306,7 @@
    "slug": "slavija-info-vucic-kao-satorska-pevacica-isecak-iz-emisije-aqkijyby5lw"
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -58023,6 +58023,10 @@
   "t:crveni krst beograd": {
    "t": 1795234155.9001753,
    "items": []
+  },
+  "t:muhamed vi": {
+   "t": 1795235026.9620526,
+   "items": []
   }
  },
  "x_objave": {
@@ -61665,8 +61669,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-21T04:09:32.865848+00:00",
-  "uzivo_t": "2026-11-21T04:09:32.865864+00:00"
+  "provereno": "2026-11-21T04:24:11.215115+00:00",
+  "uzivo_t": "2026-11-21T04:24:11.215130+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {
