@@ -249,7 +249,7 @@ class Images:
         return None
 
     # --- 1. tvoja arhiva ---
-    def _library(self, text: str, naslov: str = "") -> tuple[dict | None, float]:
+    def _library(self, text: str, naslov: str = "", kazna: bool = True) -> tuple[dict | None, float]:
         """Fotografija iz arhive po ključnim rečima.
 
         Pogodak u naslovu vredi dvostruko: naslov kaže o čemu je tekst, dok se u
@@ -286,7 +286,8 @@ class Images:
             # Raznovrsnost: ista fotografija iz arhive gubi prednost, ali kazna je
             # ograničena. Bez granice je tekst o Informeru dobijao fotografiju Pariza,
             # jer je tačna fotografija već bila upotrebljena dva puta u istom prolazu.
-            s -= min(1.5, 0.7 * self.used.get("foto/" + f["fajl"], 0))
+            if kazna:
+                s -= min(1.5, 0.7 * self.used.get("foto/" + f["fajl"], 0))
             if s > best_s:
                 best, best_s = f, s
         if not best:
@@ -421,12 +422,16 @@ class Images:
             return max(kandidati)[0] if kandidati else 0.0
 
         # 1. besplatno i trenutno
-        lib, lib_s = self._library(text, a.get("headline", ""))
+        # Ocenu daje jacina pogotka kljucnih reci, bez kazne za ponovljenu upotrebu:
+        # inace cesto koriscena a tacna fotografija ispadne iz igre, pa tekst o
+        # izborima dobije nasumicnu stok sliku stranog parlamenta. Kazna se posle
+        # oduzima od ocene, da bira izmedju arhivskih, ali ne moze da izbaci arhivu.
+        lib, lib_s = self._library(text, a.get("headline", ""), kazna=False)
         if lib and lib["src"] in avoid:
             lib, lib_s = None, 0.0
         if lib and lib_s >= 2:
-            # jak pogodak arhive vredi vise od nasumicne slike sa interneta
-            dodaj(lib, min(7.0, 2.0 + 0.6 * lib_s))
+            kazna = min(1.0, 0.5 * self.used.get(lib["src"], 0))
+            dodaj(lib, min(7.0, 2.0 + 0.6 * lib_s) - kazna)
         if self.live:
             dodaj(self._x_photo(a, avoid), self.P_X)
             imena = [hint.get("foto_osoba", "")] + list(a.get("people", [])[:3])
