@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-21T12:19:37.340423+00:00",
- "updated": "2026-11-21T12:19:37.340423+00:00",
+ "updated": "2026-11-21T12:34:23.192834+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/299684/finska-pokusava-da-od-rusije-i-gasproma-naplati-vise-od-25-milijardi-evra/vest",
    "title": "Finska pokušava da od Rusije i Gasproma naplati više od 25 milijardi evra",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4437156-finska-ispostavila-racun-rusiji-i-gaspromu-trazi-vise-od-25-milijardi-evra",
+   "title": "Finska ispostavila račun Rusiji i Gaspromu: Traži više od 25 milijardi evra",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Finska pokušava da od Rusije i Gasproma naplati više od 25 milijardi evra"
+  "Finska pokušava da od Rusije i Gasproma naplati više od 25 milijardi evra",
+  "Finska ispostavila račun Rusiji i Gaspromu: Traži više od 25 milijardi evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Finska pokušava da od Rusije i Gasproma naplati više od 25 milijardi evra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

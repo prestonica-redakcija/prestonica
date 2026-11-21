@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T11:20:11.634668+00:00",
- "updated": "2026-11-21T12:04:45.243836+00:00",
+ "updated": "2026-11-21T12:34:23.192834+00:00",
  "sources": [
   {
    "name": "N1",
@@ -39,11 +39,25 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/299680/mup-tokom-pet-dana-akcije-roadpol-5924-prekrsaja-teretnih-vozila-korisceni-dronovi/vest",
    "title": "MUP: Tokom pet dana akcije ROADPOL 5.924 prekršaja teretnih vozila, korišćeni dronovi",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/mup-u-pet-dana-otkriveno-5924-prekrsaja-vozaca-teretnih-vozila-i-275-prekrsaja-vozaca-autobusa",
+   "title": "MUP: U pet dana otkriveno 5.924 prekršaja vozača teretnih vozila i 275 prekršaja vozača autobusa",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/mup-objavio-statistiku-o-prekrsajima-vozaca-u-sedam-dana/",
+   "title": "MUP objavio statistiku o prekršajima vozača u sedam dana",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Policija dronovima otkriva prekršaje kamiondžija, za pet dana više od 6.000 prekršaja",
-  "MUP: Tokom pet dana akcije ROADPOL 5.924 prekršaja teretnih vozila, korišćeni dronovi"
+  "MUP: Tokom pet dana akcije ROADPOL 5.924 prekršaja teretnih vozila, korišćeni dronovi",
+  "MUP: U pet dana otkriveno 5.924 prekršaja vozača teretnih vozila i 275 prekršaja vozača autobusa",
+  "MUP objavio statistiku o prekršajima vozača u sedam dana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,6 +69,6 @@
   "local": true,
   "alt": "MUP dronovima kontroliše kamione, za pet dana otkriveno 6.199 prekršaja"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

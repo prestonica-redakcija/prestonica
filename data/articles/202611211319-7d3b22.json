@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T12:19:37.340423+00:00",
- "updated": "2026-11-21T12:19:37.340423+00:00",
+ "updated": "2026-11-21T12:34:23.192834+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4437147-napad-dronovima-usred-finskog-zaliva-na-meti-ruski-teretni-brod-koji-je-plovio-ka-kalinjingradu",
    "title": "Napad dronovima usred Finskog zaliva: Na meti ruski teretni brod koji je plovio ka Kalinjingradu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/guverner-lenjingradske-oblasti-teretni-brod-na-putu-ka-kalinjingradu-napadnut-dronovima",
+   "title": "Guverner Lenjingradske oblasti: Teretni brod na putu ka Kalinjingradu napadnut dronovima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Teretni brod na putu ka Kalinjingradu napadnut dronovima u Finskom zalivu",
-  "Napad dronovima usred Finskog zaliva: Na meti ruski teretni brod koji je plovio ka Kalinjingradu"
+  "Napad dronovima usred Finskog zaliva: Na meti ruski teretni brod koji je plovio ka Kalinjingradu",
+  "Guverner Lenjingradske oblasti: Teretni brod na putu ka Kalinjingradu napadnut dronovima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%A4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2_%D1%81%D0%BE_%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B_%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D0%BE%D0%B2%D1%86%D0%B0.jpg",
   "alt": "Teretni brod na putu ka Kalinjingradu napadnut dronovima u Finskom zalivu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T14:29:45.124535+00:00",
- "updated": "2026-11-21T11:35:04.390699+00:00",
+ "updated": "2026-11-21T12:34:23.192834+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -52,13 +52,20 @@
    "url": "https://n1info.rs/biznis/subvencije-za-elektricna-vozila/",
    "title": "Država mu pomogla sa 3.500 evra da kupi električno vozilo od 193.500 evra: Izveštaj DRI o subvencijama",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/drzava-mu-pomogla-sa-3-500-evra-da-kupi-elektricno-vozilo-od-193-500-evra-sta-pise-u-najnovijem-izvestaju-drzavne-revizorske-institucije/",
+   "title": "Država mu pomogla sa 3.500 evra da kupi električno vozilo od 193.500 evra: Šta piše u najnovijem izveštaju Državne revizorske institucije?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "DRI: Električna vozila čine manje od 0,3 odsto voznog parka, subvencije preko 1,5 milijarde dinara",
   "Izveštaj DRI: Više od 1,5 milijardi dinara za subvencije, a električna vozila čine manje od 0,3 odsto voznog parka u Srbiji",
   "DRI: Električna vozila čine 0,3 odsto voznog parka, a za subvencije utrošeno 1,5 milijardi dinara",
-  "Država mu pomogla sa 3.500 evra da kupi električno vozilo od 193.500 evra: Izveštaj DRI o subvencijama"
+  "Država mu pomogla sa 3.500 evra da kupi električno vozilo od 193.500 evra: Izveštaj DRI o subvencijama",
+  "Država mu pomogla sa 3.500 evra da kupi električno vozilo od 193.500 evra: Šta piše u najnovijem izveštaju Državne revizorske institucije?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +77,6 @@
   "local": true,
   "alt": "DRI: za subvencije za električna vozila izdvojeno preko 1,5 milijardi dinara, a efekti se ne prate"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T12:04:45.243836+00:00",
- "updated": "2026-11-21T12:19:37.340423+00:00",
+ "updated": "2026-11-21T12:34:23.192834+00:00",
  "sources": [
   {
    "name": "B92",
@@ -43,10 +43,17 @@
    "url": "https://www.tanjug.rs/ekonomija/svet/299683/francuska-odbacila-novi-predlog-budzeta-eu-od-kojeg-je-oduzeto-204-milijarde-evra/vest",
    "title": "Francuska odbacila novi predlog budžeta EU od kojeg je oduzeto 204 milijarde evra",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/francuska-odbacila-novi-predlog-budzeta-eu-od-kojeg-je-oduzeto-204-milijarde-evra",
+   "title": "Francuska odbacila novi predlog budžeta EU od kojeg je oduzeto 204 milijarde evra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "EU menja finansijske planove: Budžet manji za 204 milijarde evra",
+  "Francuska odbacila novi predlog budžeta EU od kojeg je oduzeto 204 milijarde evra",
   "Francuska odbacila novi predlog budžeta EU od kojeg je oduzeto 204 milijarde evra"
  ],
  "author": "Redakcija Prestonice",
@@ -59,6 +66,6 @@
   "local": true,
   "alt": "Košta predložio budžet EU za 2028-2034. manji za 204 milijarde evra, uz nove poreze"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

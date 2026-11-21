@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T16:13:56.213312+00:00",
- "updated": "2026-11-20T17:13:25.084308+00:00",
+ "updated": "2026-11-21T12:34:23.192834+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -53,13 +53,20 @@
    "url": "https://www.kurir.rs/vesti/politika/10168269/vucic-o-buducnosti-srbije-pobednici-moraju-biti-odgovorniji",
    "title": "\"VERUJEM DA ĆE POBEDA DOĆI MALO SPORIJE NEŠTO ŠTO SE MI NADAMO\" Vučić: Mnogo brže nego što oni očekuju",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673371/pobedicemo-brze-nego-sto-ocekuju-vucic-boricemo-svakog-coveka-srbiju",
+   "title": "\"POBEDIĆEMO BRŽE NEGO ŠTO OČEKUJU\" Vučić: Borićemo se za svakog čoveka i za Srbiju",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Vučić: Uplašen sam za budućnost Srbije, pobeda će doći brže nego što neki očekuju",
   "Vučić: Hvala vam za ljubav, hvala vam za podršku, pobeda će doći",
   "VUČIĆ POSLAO MOĆNU PORUKU: Pobeda će doći mnogo brže nego što neki očekuju (VIDEO)",
-  "\"VERUJEM DA ĆE POBEDA DOĆI MALO SPORIJE NEŠTO ŠTO SE MI NADAMO\" Vučić: Mnogo brže nego što oni očekuju"
+  "\"VERUJEM DA ĆE POBEDA DOĆI MALO SPORIJE NEŠTO ŠTO SE MI NADAMO\" Vučić: Mnogo brže nego što oni očekuju",
+  "\"POBEDIĆEMO BRŽE NEGO ŠTO OČEKUJU\" Vučić: Borićemo se za svakog čoveka i za Srbiju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,6 @@
   "local": true,
   "alt": "Vučić: Razočaran sam poslanicima Studentske liste, pobeda će doći brže nego što neki očekuju"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
