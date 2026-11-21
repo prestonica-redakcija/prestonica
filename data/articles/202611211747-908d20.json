@@ -33,7 +33,7 @@
  ],
  "importance": 7,
  "published": "2026-11-21T16:47:14.145852+00:00",
- "updated": "2026-11-21T16:47:14.145852+00:00",
+ "updated": "2026-11-21T17:02:01.835105+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,11 +46,18 @@
    "url": "https://www.novosti.rs/vesti/politika/1673430/ana-brnabic-sns-studenska-lista",
    "title": "SNS pisala međunarodnim institucijama: Studentska lista nedemokratski preuzima pozicije u parlamentu",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/286979/sns-pisala-medjunarodnim-institucijama-studentska-lista-nedemokratski-preuzima-pozicije-u-parlamentu/vest",
+   "title": "SNS pisala međunarodnim institucijama: \"Studentska lista nedemokratski preuzima pozicije u parlamentu\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "SNS pisala međunarodnim institucijama: Studentska lista nedemokratski preuzima pozicije u parlamentu",
-  "SNS pisala međunarodnim institucijama: Studentska lista nedemokratski preuzima pozicije u parlamentu"
+  "SNS pisala međunarodnim institucijama: Studentska lista nedemokratski preuzima pozicije u parlamentu",
+  "SNS pisala međunarodnim institucijama: \"Studentska lista nedemokratski preuzima pozicije u parlamentu\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "local": false,
   "alt": "Novi Sad, Serbia",
   "link": "https://unsplash.com/@lazargugleta"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

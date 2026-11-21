@@ -30,7 +30,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T23:25:51.055306+00:00",
- "updated": "2026-11-20T23:25:51.055306+00:00",
+ "updated": "2026-11-21T17:02:01.835105+00:00",
  "sources": [
   {
    "name": "N1",
@@ -43,11 +43,18 @@
    "url": "https://www.danas.rs/sport/barselona-zvezda-uzivo-prenos-livestream/",
    "title": "Savladana Barselona posle drame i produžetka: Velika pobeda Zvezde u Blaugrani",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/sport/evroliga-kosarka/veciti/4437254-davidovac-se-dotakao-jednog-kosarkasa-posle-velike-pobede-zvezde-u-evroligi-drago-mi-je-zbog-njega",
+   "title": "Davidovac se dotakao jednog košarkaša posle velike pobede Zvezde u Evroligi: \"Drago mi je zbog njega\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Košarkaši Zvezde pobedili Barselonu posle produžetka",
-  "Savladana Barselona posle drame i produžetka: Velika pobeda Zvezde u Blaugrani"
+  "Savladana Barselona posle drame i produžetka: Velika pobeda Zvezde u Blaugrani",
+  "Davidovac se dotakao jednog košarkaša posle velike pobede Zvezde u Evroligi: \"Drago mi je zbog njega\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:FK_Crvena_zvezda-%C5%A1ampioni_1.jpg",
   "alt": "Crvena zvezda posle produžetka savladala Barselonu u Evroligi 103:100"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
