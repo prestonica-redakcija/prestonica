@@ -32,17 +32,24 @@
  ],
  "importance": 4,
  "published": "2026-11-21T13:33:53.057486+00:00",
- "updated": "2026-11-21T13:33:53.057486+00:00",
+ "updated": "2026-11-21T18:01:30.161791+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10168755/ostra-debata-u-skupstini-dragovic-i-todorovic-o-kontroli-plenuma",
    "title": "OŠTA DEBATA UŽIVO U PROGRAMU! Dragović: \"Čupić brani plenume, državu nam vode NVO\" Todorović: \"To su teorije zavere, SL ne krši Ustav Srbije\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/emisije/medju-nama-cela-emisija-20112026/",
+   "title": "Među nama - Cela emisija - 20.11.2026.",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "OŠTA DEBATA UŽIVO U PROGRAMU! Dragović: \"Čupić brani plenume, državu nam vode NVO\" Todorović: \"To su teorije zavere, SL ne krši Ustav Srbije\""
+  "OŠTA DEBATA UŽIVO U PROGRAMU! Dragović: \"Čupić brani plenume, državu nam vode NVO\" Todorović: \"To su teorije zavere, SL ne krši Ustav Srbije\"",
+  "Među nama - Cela emisija - 20.11.2026."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Debata u emisiji Puls Srbije o izboru potpredsednika Skupštine i ulozi plenuma"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

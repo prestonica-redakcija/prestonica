@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T15:47:47.433509+00:00",
- "updated": "2026-11-21T16:32:14.529738+00:00",
+ "updated": "2026-11-21T18:01:30.161791+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -43,10 +43,17 @@
    "url": "https://n1info.rs/vesti/sud-presudio-u-korist-odbornika-kreni-promeni-u-sporu-protiv-informera/",
    "title": "Sud presudio u korist odbornika Kreni-Promeni u sporu protiv Informera",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/sud-presudio-u-korist-odbornika-kreni-promeni-u-sporu-protiv-informera/",
+   "title": "Sud presudio u korist odbornika Kreni-Promeni u sporu protiv Informera",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Sud presudio protiv Informera zbog neistina o odborniku Kreni-Promeni: Babiću 90.000 dinara odštete",
+  "Sud presudio u korist odbornika Kreni-Promeni u sporu protiv Informera",
   "Sud presudio u korist odbornika Kreni-Promeni u sporu protiv Informera"
  ],
  "author": "Redakcija Prestonice",
@@ -60,6 +67,6 @@
   "alt": "brown wooden tool on white surface",
   "link": "https://unsplash.com/@tingeyinjurylawfirm"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T14:29:45.124535+00:00",
- "updated": "2026-11-21T13:34:37.465012+00:00",
+ "updated": "2026-11-21T18:01:30.161791+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -64,6 +64,12 @@
    "url": "https://www.tanjug.rs/ekonomija/svet/296762/nemacka-vlada-povecava-subvencije-za-kupovinu-elektricnih-vozila-na-172-milijarde-evra-u-2027-godini/vest",
    "title": "Nemačka vlada povećava subvencije za kupovinu električnih vozila na 1,72 milijarde evra",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/286949/katar-ulaze-15-milijardi-evra-u-nemacku-odbranu/vest",
+   "title": "Katar ulaže 15 milijardi evra u nemačku odbranu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -72,7 +78,8 @@
   "DRI: Električna vozila čine 0,3 odsto voznog parka, a za subvencije utrošeno 1,5 milijardi dinara",
   "Država mu pomogla sa 3.500 evra da kupi električno vozilo od 193.500 evra: Izveštaj DRI o subvencijama",
   "Država mu pomogla sa 3.500 evra da kupi električno vozilo od 193.500 evra: Šta piše u najnovijem izveštaju Državne revizorske institucije?",
-  "Nemačka vlada povećava subvencije za kupovinu električnih vozila na 1,72 milijarde evra"
+  "Nemačka vlada povećava subvencije za kupovinu električnih vozila na 1,72 milijarde evra",
+  "Katar ulaže 15 milijardi evra u nemačku odbranu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -84,6 +91,6 @@
   "local": true,
   "alt": "DRI: za subvencije za električna vozila izdvojeno preko 1,5 milijardi dinara, a efekti se ne prate"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

@@ -33,7 +33,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T14:48:17.077113+00:00",
- "updated": "2026-11-21T14:48:17.077113+00:00",
+ "updated": "2026-11-21T18:01:30.161791+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -46,11 +46,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4437185-preminuo-naslednik-imperije-luksuza-paolo-bulgari-umro-u-89-godini-njegov-nakit-obozavale-svetske-dive",
    "title": "Umro Paolo Bulgari u 89. godini: Naslednik imperije luksuza pravio nakit koji su obožavale svetske dive",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/zabava/zanimljivosti/10168989/paolo-bulgari-zivotna-prica",
+   "title": "Ko je bio naslednik čuvene juvelirske dinastije koji je luksuzni brend pretvorio u svetsku imperiju: Paolu Bulgariju je ovo bilo slaba tačka",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "UMRO PAOLO BULGARI Vlasnik čuvene luksuzne imperije posvetio život pravljenju najfinijeg nakita koji su svi obožavali",
-  "Umro Paolo Bulgari u 89. godini: Naslednik imperije luksuza pravio nakit koji su obožavale svetske dive"
+  "Umro Paolo Bulgari u 89. godini: Naslednik imperije luksuza pravio nakit koji su obožavale svetske dive",
+  "Ko je bio naslednik čuvene juvelirske dinastije koji je luksuzni brend pretvorio u svetsku imperiju: Paolu Bulgariju je ovo bilo slaba tačka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Preminuo Paolo Bulgari, dugogodišnji predsednik italijanske juvelirske kuće"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

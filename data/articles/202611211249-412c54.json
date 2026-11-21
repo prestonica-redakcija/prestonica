@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T11:49:52.141541+00:00",
- "updated": "2026-11-21T12:49:17.166980+00:00",
+ "updated": "2026-11-21T18:01:30.161791+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -51,12 +51,19 @@
    "url": "https://www.telegraf.rs/4437155-jovo-bakic-za-novu-pripremam-za-ministra-policije-ako-ostanem-u-skupstini-voleo-bih-da-i-vucic-bude-tu",
    "title": "Jovo Bakić za Novu: Pripremam za ministra policije, ako ostanem u Skupštini, voleo bih da i Vučić bude tu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10168983/jovo-bakic-vucic-skupstina-intervju",
+   "title": "\"AKO OSTANEM U SKUPŠTINI, VOLEO BIH DA I VUČIĆ BUDE TU\" Jovo Bakić: Jako sam uživao kada mi je izgovorio OVU REČENICU",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "INTERVJU Jovo Bakić: I dalje se pripremam za ministra policije. Ako ostanem u Skupštini, voleo bih da i Vučić bude tu",
   "JOVA BAKIĆA PITALI DA LI ĆE BITI MINISTAR POLICIJE: \"E, za to sam se pripremao i pripremam se i dalje, ali...\"",
-  "Jovo Bakić za Novu: Pripremam za ministra policije, ako ostanem u Skupštini, voleo bih da i Vučić bude tu"
+  "Jovo Bakić za Novu: Pripremam za ministra policije, ako ostanem u Skupštini, voleo bih da i Vučić bude tu",
+  "\"AKO OSTANEM U SKUPŠTINI, VOLEO BIH DA I VUČIĆ BUDE TU\" Jovo Bakić: Jako sam uživao kada mi je izgovorio OVU REČENICU"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "local": true,
   "alt": "Bakić: i dalje se pripremam za ministra policije, ali to ne znači da ću to biti"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
