@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T23:36:31.686264+00:00",
- "updated": "2026-11-20T21:11:49.962208+00:00",
+ "updated": "2026-11-20T23:55:33.431849+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -166,6 +166,12 @@
    "url": "https://nova.rs/vesti/politika/novi-sef-delegacije-eu-u-srbiji-ugostio-cupica-narodna-skupstina-ima-cvrstog-saveznika-u-uniji/",
    "title": "Novi šef Delegacije EU u Srbiji ugostio Čupića: \"Narodna skupština ima čvrstog saveznika u Uniji\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/otpravnik-delegacije-eu-u-srbiji-ugostio-cupica-narodna-skupstina-ima-cvrstog-saveznika-u-uniji/",
+   "title": "Otpravnik poslova Delegacije EU u Srbiji ugostio Čupića: \"Narodna skupština ima čvrstog saveznika u Uniji\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -190,7 +196,8 @@
   "AMBASADOR EU U SRBIJI UGOSTIO ALEKSANDRA ČUPIĆA \"Narodna skupština Srbije ima nepokolebljivog saveznika u EU\" (FOTO)",
   "Novi šef Delegacije EU u Srbiji ugostio Čupića: \"Narodna skupština ima čvrstog saveznika u Uniji\"",
   "Gledajte Dnevnik u 19h",
-  "Novi šef Delegacije EU u Srbiji ugostio Čupića: \"Narodna skupština ima čvrstog saveznika u Uniji\""
+  "Novi šef Delegacije EU u Srbiji ugostio Čupića: \"Narodna skupština ima čvrstog saveznika u Uniji\"",
+  "Otpravnik poslova Delegacije EU u Srbiji ugostio Čupića: \"Narodna skupština ima čvrstog saveznika u Uniji\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -202,7 +209,7 @@
   "local": true,
   "alt": "Čupić: biću predsednik svih poslanika, Studentska lista slavi izbor rukovodstva Skupštine"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-20T21:11:49.962208+00:00",
  "verzija": 5
