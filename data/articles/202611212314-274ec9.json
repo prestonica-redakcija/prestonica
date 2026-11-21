@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T22:14:14.547465+00:00",
- "updated": "2026-11-21T22:14:14.547465+00:00",
+ "updated": "2026-11-21T22:43:55.845540+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -39,11 +39,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4437378-zena-silovana-na-vozdovcu",
    "title": "Žena silovana na Voždovcu: Hitno prebačena u UC, monstrum je pretukao, zadobila teške povrede",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10169126/tukao-i-silovao-partnerku-na-vozdovcu",
+   "title": "BRUTALNO TUKAO I SILOVAO PARTNERKU NA VOŽDOVCU! Nasilnik uhapšen, žena s teškim povredama zadržana na intenzivnoj nezi",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Uhapšen muškarac (41) na Voždovcu: Sumnja se da je pretukao i silovao partnerku (46)",
-  "Žena silovana na Voždovcu: Hitno prebačena u UC, monstrum je pretukao, zadobila teške povrede"
+  "Žena silovana na Voždovcu: Hitno prebačena u UC, monstrum je pretukao, zadobila teške povrede",
+  "BRUTALNO TUKAO I SILOVAO PARTNERKU NA VOŽDOVCU! Nasilnik uhapšen, žena s teškim povredama zadržana na intenzivnoj nezi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Uhapšen muškarac (41) zbog sumnje da je na Voždovcu silovao partnerku (46)"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

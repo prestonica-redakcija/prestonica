@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.tanjug.rs/svet/politika/298351/sobjanjin-ruska-protivvazdusna-odbrana-oborila-jos-23-drona-koja-su-letela-ka-moskvi/vest": "2026-11-16T22:38:34.343955+00:00",
-  "https://www.tanjug.rs/ekonomija/svet/298352/nike-preuzima-ugovor-za-loptu-lige-sampiona-od-adidasa-od-2027-godine/vest": "2026-11-16T22:38:34.343955+00:00",
   "https://www.kurir.rs/region/hrvatska/10164094/smrt-kristijana-perisa-uhapsene-jos-4-osobe-oglasio-se-advokat": "2026-11-16T22:53:27.208046+00:00",
   "https://insajder.net/prenosimo/uhapsena-jos-cetiri-zdravstvena-radnika-zbog-smrti-kristijana-josipa-perisa": "2026-11-16T22:53:27.208046+00:00",
   "https://www.danas.rs/sport/protivnici-srbije-baraz-lige-nacije/": "2026-11-16T22:53:27.208046+00:00",
@@ -6874,18 +6872,20 @@
   "https://informer.rs/politika/vesti/1172084/djukanovic-vucicevic-noc-sa-vuskom-skupstina": "2026-11-21T22:29:05.449644+00:00",
   "https://www.tanjug.rs/svet/politika/299815/nemacki-general-rusija-jaca-vojne-kapacitete-nato-nece-biti-iznenaden/vest": "2026-11-21T22:29:05.449644+00:00",
   "https://www.b92.net/info/svet/287034/rusija-jaca-vojne-kapacitete-uprkos-gubicima-u-ukrajini-sta-ako-iznenada-napadne-clanicu-nato/vest": "2026-11-21T22:29:05.449644+00:00",
-  "https://www.telegraf.rs/jetset/vesti-jetset/4437379-sta-je-sa-vama-jeste-li-nekada-bili-na-slavi-kulici-obelezavaju-arandjelovdan-u-nisu-marija-spremila-gozbu": "2026-11-21T22:29:05.449644+00:00"
+  "https://www.telegraf.rs/jetset/vesti-jetset/4437379-sta-je-sa-vama-jeste-li-nekada-bili-na-slavi-kulici-obelezavaju-arandjelovdan-u-nisu-marija-spremila-gozbu": "2026-11-21T22:29:05.449644+00:00",
+  "https://www.kurir.rs/crna-hronika/10169126/tukao-i-silovao-partnerku-na-vozdovcu": "2026-11-21T22:43:55.845540+00:00",
+  "https://n1info.rs/svet/najmanje-11-mrtvih-u-indiji-otrovali-se-lokalno-proizvedenim-alkoholom/": "2026-11-21T22:43:55.845540+00:00",
+  "https://www.b92.net/info/svet/287035/rufen-povukao-kandidaturu-za-predsednika-francuske/vest": "2026-11-21T22:43:55.845540+00:00",
+  "https://n1info.rs/region/premijer-severne-makedoniije-prodaja-alta-banka-bitolj/": "2026-11-21T22:43:55.845540+00:00",
+  "https://www.kurir.rs/vesti/srbija/10168943/arandjelovdan-obelezen-u-trsicu": "2026-11-21T22:43:55.845540+00:00",
+  "https://www.kurir.rs/stars/10169028/milan-mitrovic-bez-ustezanja-o-koleginicama": "2026-11-21T22:43:55.845540+00:00",
+  "https://www.kurir.rs/vesti/srbija/10168876/obnova-tri-cesme-u-banji-koviljaci-gde-su-majstori": "2026-11-21T22:43:55.845540+00:00",
+  "https://www.euronews.rs/svet/planeta/253115/likud-objavio-uslove-za-vladu-jedinstva-sa-ajzenkotom/vest": "2026-11-21T22:43:55.845540+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-21T07:58+00:00",
-   "novih": 3,
-   "ukupno": 3266,
-   "sekundi": 419.0
-  },
   {
    "vreme": "2026-11-21T08:13+00:00",
    "novih": 7,
@@ -7239,6 +7239,12 @@
    "novih": 2,
    "ukupno": 3492,
    "sekundi": 497.2
+  },
+  {
+   "vreme": "2026-11-21T22:50+00:00",
+   "novih": 3,
+   "ukupno": 3495,
+   "sekundi": 416.8
   }
  ],
  "licnosti_foto": {
@@ -10045,11 +10051,11 @@
    },
    "parandilovicnls": {
     "since_id": "2124240048296247400",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "ininic": {
-    "since_id": "2123809134332055981",
-    "t": 1795296645.8588412
+    "since_id": "2124268414059397359",
+    "t": 1795301101.8033648
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -10057,15 +10063,15 @@
    },
    "sviublokade_fdu": {
     "since_id": "2123543689855390002",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "dragandjilas": {
     "since_id": "2121691848313884992",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "marinikatepic": {
     "since_id": "2122007271508959331",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "radomirlazovic": {
     "since_id": null,
@@ -10105,11 +10111,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "studentblokade": {
     "since_id": "2123809021022847349",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -10165,11 +10171,11 @@
    },
    "borkostef": {
     "since_id": "2123837042505155014",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "dobrinacelnik": {
     "since_id": "2124156307431207365",
@@ -10181,7 +10187,7 @@
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "srdjanmil037": {
     "since_id": "2124187241647931542",
@@ -10233,7 +10239,7 @@
    },
    "borakonj": {
     "since_id": "2124246520983896126",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "narodnipokrets": {
     "since_id": "2123734701261169003",
@@ -10241,67 +10247,67 @@
    },
    "direktnors": {
     "since_id": "2124248806594171280",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "crtars": {
     "since_id": "2124112878567555576",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "veceivan": {
     "since_id": "2124208874169229782",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "repjoewilson": {
     "since_id": "2123869192789094550",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "jugoslavcosic": {
     "since_id": "2123147946694787141",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "tvnova_s": {
     "since_id": "2124249670524289430",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "oljautisak": {
     "since_id": "2124115162684629476",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "srdjan_nogo": {
     "since_id": "2123527863307735237",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "agrifblokira": {
     "since_id": "2123785161347154262",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "etfblokada": {
     "since_id": "2123443984156504503",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "nastraninaroda": {
     "since_id": "2124240486932386139",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "bcenzure": {
     "since_id": "2124222127431627021",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "bezstraha26279": {
     "since_id": "2124116392039645581",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "lazidetektor": {
     "since_id": "2124246292759036173",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "nedeljniknin": {
     "since_id": "2124216278017610198",
@@ -10317,11 +10323,11 @@
    },
    "tvbalkaninfo": {
     "since_id": "2124225258324660295",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "1152justice": {
     "since_id": "2123584561330217393",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    },
    "zatrijebacki": {
     "since_id": "2123844027036709035",
@@ -10353,10 +10359,58 @@
    },
    "masinars": {
     "since_id": "2124230635392836072",
-    "t": 1795296645.8588412
+    "t": 1795301101.8033648
    }
   },
   "posts": [
+   {
+    "id": "2124268414059397359",
+    "x": "INinic",
+    "ime": "Ivan Ninić",
+    "grupa": "aktivisti",
+    "uloga": "Advokat",
+    "text": "Dakle, po zakonu AOFI je izvozna kreditna agencija, a ulogu garanta za domaće ugovore na projektu EXPO27 preuzela je na osnovu posebnog zaključka i programa Vlade! Sada treba pratiti kojim firmama će izdati garancije, da li je to Konkord, Milenijum ili neko iz te ekipe 👇 https://t.co/hGx3ARwErK",
+    "published": "2026-11-21T22:27:11.000+00:00",
+    "lajk": 66,
+    "slike": [
+     "https://pbs.twimg.com/media/HXrq3DTXUAEXjDB.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "ekonomija",
+    "tema": "AOFI garant za domaće ugovore na EXPO27, koje firme dobijaju garancije"
+   },
+   {
+    "id": "2124268401061171595",
+    "x": "INinic",
+    "ime": "Ivan Ninić",
+    "grupa": "aktivisti",
+    "uloga": "Advokat",
+    "text": "Izdavanje garancija za domaće građevinske ili infrastrukturne radove u Srbiji po osnovnom zakonu nije primarna delatnost AOFI-ja, ali je ova nadležnost naknadno dodeljena posebnim aktima Vlade, pa se tako ova agencija uvlači u podršku i garanta za burazerske kombinacije 👇 https://t.co/3YqBb4KP3f",
+    "published": "2026-11-21T22:27:08.000+00:00",
+    "lajk": 60,
+    "slike": [
+     "https://pbs.twimg.com/media/HXrq2amXkAEK7p-.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "ekonomija",
+    "tema": "AOFI i garancije za domaće radove po aktima Vlade, EXPO27"
+   },
+   {
+    "id": "2124268389367488780",
+    "x": "INinic",
+    "ime": "Ivan Ninić",
+    "grupa": "aktivisti",
+    "uloga": "Advokat",
+    "text": "🚨🚨🚨PLJAČKAJU DO ZADNJEG DANA VLASTI: Vlada u tehničkom mandatu, planira, na sednici u četvrtak, da isprazni budžet Srbije za 11.000.000€ da bi obezbedili bankarske garancije svojim firmama koje izvode radove za EXPO27, našli su zamenu za ALTU i to državnu AOFI 👇 https://t.co/137FUXeKnd",
+    "published": "2026-11-21T22:27:05.000+00:00",
+    "lajk": 186,
+    "slike": [
+     "https://pbs.twimg.com/media/HXrq1wqXMAAbdBR.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "ekonomija",
+    "tema": "Vlada u tehničkom mandatu i 11 miliona evra garancija za EXPO27 preko AOFI"
+   },
    {
     "id": "2124260186181476855",
     "x": "ZoranLutovac",
@@ -21032,47 +21086,6 @@
     "prikazi": true,
     "rubrika": "politika",
     "tema": "Krivična prijava protiv Šapića zbog imovine, vila u Trstu"
-   },
-   {
-    "id": "2123375363480768850",
-    "x": "dobrinacelnik",
-    "ime": "Dobrica Veselinović",
-    "grupa": "opozicija",
-    "uloga": "Zeleno-levi front",
-    "text": "Uhapsite Šapića!\n\nhttps://t.co/qsDDFexOnU",
-    "published": "2026-11-19T11:18:31.000+00:00",
-    "lajk": 7,
-    "prikazi": false,
-    "rubrika": "politika",
-    "tema": "Poziv na hapšenje Šapića bez sadržaja"
-   },
-   {
-    "id": "2123374748403142729",
-    "x": "srbininfo",
-    "ime": "СРБИН инфо",
-    "grupa": "",
-    "uloga": "",
-    "text": "МУП издао драматично упозорење на олују: Останите код куће, удаљите се од прозора, велика опасност за људе и животиње! Могућ нестанак струје\n\nhttps://t.co/HrdO0AqcaY",
-    "published": "2026-11-19T11:16:05.000+00:00",
-    "lajk": 2,
-    "prikazi": true,
-    "rubrika": "drustvo",
-    "tema": "MUP upozorenje na oluju, ostanite kod kuće",
-    "vest": "202611191042-394bcd"
-   },
-   {
-    "id": "2123374058272079976",
-    "x": "NaStraniNaroda",
-    "ime": "Vukša Dragović",
-    "grupa": "",
-    "uloga": "",
-    "text": "Počelo mešetarenje NVO Studentske liste po Briselu, a još nisu ni vladu formirali... https://t.co/Sy9hk2jtuG",
-    "published": "2026-11-19T11:13:20.000+00:00",
-    "lajk": 4,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Kritika kontakata Studentske liste sa Briselom",
-    "vest": "202611190928-7f2c10"
    }
   ],
   "pratim": [
@@ -21786,187 +21799,6 @@
   }
  },
  "foto_cache": {
-  "t:danas": {
-   "t": 1794695792.5829034,
-   "items": [
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/38Tropical_Storm_Danas_Goring_floods_in_McArthur_Highway_Marilao%2C_Bulacan_45.jpg/1920px-38Tropical_Storm_Danas_Goring_floods_in_McArthur_Highway_Marilao%2C_Bulacan_45.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4608,
-     "h": 3456,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Judgefloro / CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:38Tropical_Storm_Danas_Goring_floods_in_McArthur_Highway_Marilao,_Bulacan_45.jpg",
-     "naslov": "38Tropical Storm Danas Goring floods in McArthur Highway Marilao, Bulacan 45.jpg"
-    }
-   ]
-  },
-  "t:loznica": {
-   "t": 1794695800.6279888,
-   "items": [
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Loznica_051.jpg/1920px-Loznica_051.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3456,
-     "h": 2304,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Loznica_051.jpg",
-     "naslov": "Loznica 051.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/River_Loznica.jpg/1920px-River_Loznica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 7386,
-     "h": 4924,
-     "god": 2020,
-     "credit": "Wikimedia Commons / Franc Solina / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:River_Loznica.jpg",
-     "naslov": "River Loznica.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Dom_kulture%2C_Loznica_003.jpg/1920px-Dom_kulture%2C_Loznica_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3456,
-     "h": 2304,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Dom_kulture,_Loznica_003.jpg",
-     "naslov": "Dom kulture, Loznica 003.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Dom_kulture%2C_Loznica_004.jpg/1920px-Dom_kulture%2C_Loznica_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3456,
-     "h": 2304,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Dom_kulture,_Loznica_004.jpg",
-     "naslov": "Dom kulture, Loznica 004.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Dom_kulture%2C_Loznica_008.jpg/1920px-Dom_kulture%2C_Loznica_008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3456,
-     "h": 2304,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Dom_kulture,_Loznica_008.jpg",
-     "naslov": "Dom kulture, Loznica 008.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Dom_kulture%2C_Loznica_007.jpg/1920px-Dom_kulture%2C_Loznica_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2304,
-     "h": 3456,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Dom_kulture,_Loznica_007.jpg",
-     "naslov": "Dom kulture, Loznica 007.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Dom_kulture%2C_Loznica_001.jpg/1920px-Dom_kulture%2C_Loznica_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3456,
-     "h": 2304,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Dom_kulture,_Loznica_001.jpg",
-     "naslov": "Dom kulture, Loznica 001.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Dom_kulture%2C_Loznica_002.jpg/1920px-Dom_kulture%2C_Loznica_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3456,
-     "h": 2304,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Dom_kulture,_Loznica_002.jpg",
-     "naslov": "Dom kulture, Loznica 002.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Dom_kulture%2C_Loznica_005.jpg/1920px-Dom_kulture%2C_Loznica_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2304,
-     "h": 3456,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Dom_kulture,_Loznica_005.jpg",
-     "naslov": "Dom kulture, Loznica 005.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Dom_kulture%2C_Loznica_006.jpg/1920px-Dom_kulture%2C_Loznica_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3456,
-     "h": 2304,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Dom_kulture,_Loznica_006.jpg",
-     "naslov": "Dom kulture, Loznica 006.jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Loznicapanoramaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 994,
-     "h": 643,
-     "god": 2007,
-     "credit": "Wikimedia Commons / Original uploader was sasha.stojanovic at en.wikipedia Own w / Public domain",
-     "link": "https://commons.wikimedia.org/wiki/File:Loznicapanoramaf.jpg",
-     "naslov": "Loznicapanoramaf.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Loznica_city_museum.JPG/1920px-Loznica_city_museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3872,
-     "h": 2592,
-     "god": 2009,
-     "credit": "Wikimedia Commons / Rasevic / CC BY 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Loznica_city_museum.JPG",
-     "naslov": "Loznica city museum.JPG"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Loznica_collage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1024,
-     "h": 2047,
-     "god": 2018,
-     "credit": "Wikimedia Commons / Zeks127 / CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:Loznica_collage.jpg",
-     "naslov": "Loznica collage.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Zapis-0912-Loznica-Dragicevica-kruska_20160820_1548.jpg/1920px-Zapis-0912-Loznica-Dragicevica-kruska_20160820_1548.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4928,
-     "h": 3264,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Zblagojevic / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Zapis-0912-Loznica-Dragicevica-kruska_20160820_1548.jpg",
-     "naslov": "Zapis-0912-Loznica-Dragicevica-kruska 20160820 1548.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Selo_Valjevska_Loznica_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_17.jpg/1920px-Selo_Valjevska_Loznica_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5184,
-     "h": 3456,
-     "god": 2017,
-     "credit": "Wikimedia Commons / Vladimir Pecikoza / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Selo_Valjevska_Loznica_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_17.jpg",
-     "naslov": "Selo Valjevska Loznica - opština Valjevo - zapadna Srbija - panorama 17.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Galerija_Mi%C4%87e_Popovi%C4%87a%2C_Loznica_003.jpg/1920px-Galerija_Mi%C4%87e_Popovi%C4%87a%2C_Loznica_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3456,
-     "h": 2304,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Galerija_Mi%C4%87e_Popovi%C4%87a,_Loznica_003.jpg",
-     "naslov": "Galerija Miće Popovića, Loznica 003.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Loznica_kod_%C4%8Ca%C4%8Dka%2C_gornje_groblje_%2875%29.jpg/1920px-Loznica_kod_%C4%8Ca%C4%8Dka%2C_gornje_groblje_%2875%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3456,
-     "h": 5184,
-     "god": 2019,
-     "credit": "Wikimedia Commons / BrankaVV / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Loznica_kod_%C4%8Ca%C4%8Dka,_gornje_groblje_(75).jpg",
-     "naslov": "Loznica kod Čačka, gornje groblje (75).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Selo_Valjevska_Loznica_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_14.jpg/1920px-Selo_Valjevska_Loznica_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5184,
-     "h": 3456,
-     "god": 2017,
-     "credit": "Wikimedia Commons / Vladimir Pecikoza / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Selo_Valjevska_Loznica_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_panorama_14.jpg",
-     "naslov": "Selo Valjevska Loznica - opština Valjevo - zapadna Srbija - panorama 14.jpg"
-    }
-   ]
-  },
   "t:bolec": {
    "t": 1794696686.8416157,
    "items": [
@@ -56787,6 +56619,195 @@
      "naslov": "Sava Centar lighting.jpg"
     }
    ]
+  },
+  "t:centar za kulturu loznica": {
+   "t": 1795301061.7673378,
+   "items": []
+  },
+  "t:banja koviljaca": {
+   "t": 1795301082.7243605,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Park_Banja_Koviljaca.JPG/1920px-Park_Banja_Koviljaca.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3872,
+     "h": 2592,
+     "god": 2009,
+     "credit": "Wikimedia Commons / Rasevic / CC BY 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Park_Banja_Koviljaca.JPG",
+     "naslov": "Park Banja Koviljaca.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Banja_Kovilja%C4%8Da_07.jpg/1920px-Banja_Kovilja%C4%8Da_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3594,
+     "h": 2694,
+     "god": 2014,
+     "credit": "Wikimedia Commons / Dekanski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banja_Kovilja%C4%8Da_07.jpg",
+     "naslov": "Banja Koviljača 07.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Banja_Kovilja%C4%8Da_06.jpg/1920px-Banja_Kovilja%C4%8Da_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3648,
+     "h": 2736,
+     "god": 2014,
+     "credit": "Wikimedia Commons / Dekanski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banja_Kovilja%C4%8Da_06.jpg",
+     "naslov": "Banja Koviljača 06.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Banja_Kovilja%C4%8Da_01.jpg/1920px-Banja_Kovilja%C4%8Da_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3648,
+     "h": 2736,
+     "god": 2014,
+     "credit": "Wikimedia Commons / Dekanski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banja_Kovilja%C4%8Da_01.jpg",
+     "naslov": "Banja Koviljača 01.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Banja_Kovilja%C4%8Da_02.jpg/1920px-Banja_Kovilja%C4%8Da_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3424,
+     "h": 1512,
+     "god": 2014,
+     "credit": "Wikimedia Commons / Dekanski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banja_Kovilja%C4%8Da_02.jpg",
+     "naslov": "Banja Koviljača 02.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Banja_Kovilja%C4%8Da_05.jpg/1920px-Banja_Kovilja%C4%8Da_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3648,
+     "h": 2736,
+     "god": 2014,
+     "credit": "Wikimedia Commons / Dekanski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banja_Kovilja%C4%8Da_05.jpg",
+     "naslov": "Banja Koviljača 05.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Banja_Kovilja%C4%8Da_04.jpg/1920px-Banja_Kovilja%C4%8Da_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4886,
+     "h": 983,
+     "god": 2014,
+     "credit": "Wikimedia Commons / Dekanski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banja_Kovilja%C4%8Da_04.jpg",
+     "naslov": "Banja Koviljača 04.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Banja_Kovilja%C4%8Da_03.jpg/1920px-Banja_Kovilja%C4%8Da_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3326,
+     "h": 1653,
+     "god": 2014,
+     "credit": "Wikimedia Commons / Dekanski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banja_Kovilja%C4%8Da_03.jpg",
+     "naslov": "Banja Koviljača 03.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Fountain_in_Banja_Koviljaca.JPG/1920px-Fountain_in_Banja_Koviljaca.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3872,
+     "h": 2592,
+     "god": 2009,
+     "credit": "Wikimedia Commons / Rasevic / CC BY 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Fountain_in_Banja_Koviljaca.JPG",
+     "naslov": "Fountain in Banja Koviljaca.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Banja_Kovilja%C4%8Da.jpg/1920px-Banja_Kovilja%C4%8Da.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2048,
+     "h": 1536,
+     "god": 2024,
+     "credit": "Wikimedia Commons / TinaKris97 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banja_Kovilja%C4%8Da.jpg",
+     "naslov": "Banja Koviljača.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Banja_Kovilja%C4%8Da_0442.jpg/1920px-Banja_Kovilja%C4%8Da_0442.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2304,
+     "h": 3456,
+     "god": 2016,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banja_Kovilja%C4%8Da_0442.jpg",
+     "naslov": "Banja Koviljača 0442.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Banja_Kovilja%C4%8Da_001.jpg/1920px-Banja_Kovilja%C4%8Da_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2016,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banja_Kovilja%C4%8Da_001.jpg",
+     "naslov": "Banja Koviljača 001.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Banja_Kovilja%C4%8Da_108.jpg/1920px-Banja_Kovilja%C4%8Da_108.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2016,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banja_Kovilja%C4%8Da_108.jpg",
+     "naslov": "Banja Koviljača 108.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Banja_Kovilja%C4%8Da_097.jpg/1920px-Banja_Kovilja%C4%8Da_097.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2016,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banja_Kovilja%C4%8Da_097.jpg",
+     "naslov": "Banja Koviljača 097.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Banja_Kovilja%C4%8Da_105.jpg/1920px-Banja_Kovilja%C4%8Da_105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2016,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banja_Kovilja%C4%8Da_105.jpg",
+     "naslov": "Banja Koviljača 105.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Banja_Kovilja%C4%8Da_083.jpg/1920px-Banja_Kovilja%C4%8Da_083.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2016,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banja_Kovilja%C4%8Da_083.jpg",
+     "naslov": "Banja Koviljača 083.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Banja_Kovilja%C4%8Da_094.jpg/1920px-Banja_Kovilja%C4%8Da_094.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2016,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banja_Kovilja%C4%8Da_094.jpg",
+     "naslov": "Banja Koviljača 094.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Banja_Kovilja%C4%8Da_088.jpg/1920px-Banja_Kovilja%C4%8Da_088.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2016,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banja_Kovilja%C4%8Da_088.jpg",
+     "naslov": "Banja Koviljača 088.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Banja_Kovilja%C4%8Da_101.jpg/1920px-Banja_Kovilja%C4%8Da_101.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2016,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banja_Kovilja%C4%8Da_101.jpg",
+     "naslov": "Banja Koviljača 101.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Banja_Kovilja%C4%8Da_0447.jpg/1920px-Banja_Kovilja%C4%8Da_0447.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3456,
+     "h": 2304,
+     "god": 2016,
+     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Banja_Kovilja%C4%8Da_0447.jpg",
+     "naslov": "Banja Koviljača 0447.jpg"
+    }
+   ]
   }
  },
  "x_objave": {
@@ -60823,7 +60844,7 @@
   "yt": "Hdk3ahufa64",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-21T22:30:46.591453+00:00",
+  "provereno": "2026-11-21T22:45:20.004164+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": true
  },
