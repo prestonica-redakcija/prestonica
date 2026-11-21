@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T21:11:49.962208+00:00",
- "updated": "2026-11-20T21:56:34.046498+00:00",
+ "updated": "2026-11-21T06:37:09.538709+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -51,12 +51,19 @@
    "url": "https://www.kurir.rs/planeta/10168421/danska-proteruje-ruskog-vojnog-atasea-i-uvodi-vizna-ogranicenja-za-ruse",
    "title": "GORI U ODNOSIMA MOSKVE I KOPENHAGENA: Danska proteruje ruskog vojnog atašea i uvodi vizna ograničenja za Ruse",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299620/danska-proteruje-ruskog-vojnog-atasea-i-uvodi-vizna-ogranicenja-za-ruse/vest",
+   "title": "Danska proteruje ruskog vojnog atašea i uvodi vizna ograničenja za Ruse",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Danska proteruje ruskog vojnog atašea i uvodi vizna ograničenja za Ruse",
   "GORI U ODNOSIMA MOSKVE I KOPENHAGENA: Danska proteruje ruskog vojnog atašea i uvodi vizna ograničenja za Ruse",
-  "GORI U ODNOSIMA MOSKVE I KOPENHAGENA: Danska proteruje ruskog vojnog atašea i uvodi vizna ograničenja za Ruse"
+  "GORI U ODNOSIMA MOSKVE I KOPENHAGENA: Danska proteruje ruskog vojnog atašea i uvodi vizna ograničenja za Ruse",
+  "Danska proteruje ruskog vojnog atašea i uvodi vizna ograničenja za Ruse"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "local": true,
   "alt": "Danska proteruje ruskog vojnog atašea i najavljuje vizna ograničenja za ruske državljane"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

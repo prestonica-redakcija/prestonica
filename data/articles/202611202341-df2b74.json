@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T22:41:17.921529+00:00",
- "updated": "2026-11-20T22:41:17.921529+00:00",
+ "updated": "2026-11-21T06:37:09.538709+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -45,11 +45,18 @@
    "url": "https://www.kurir.rs/planeta/10168460/tramp-najavio-veto-na-zakone-demokrata-kad-preuzmu-kongres-2027-godine",
    "title": "TRAMP NAJAVIO VETO: Predsednik SAD planira da blokira zakone demokrata kad preuzmu Kongres 2027. godine",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286839/donald-tramp-najavio-veto-na-zakone-demokrata-kad-preuzmu-kongres-2027-godine/vest",
+   "title": "Tramp najavio rat sa demokratama",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Tramp najavio veto na zakone demokrata kad preuzmu Kongres 2027. godine",
-  "TRAMP NAJAVIO VETO: Predsednik SAD planira da blokira zakone demokrata kad preuzmu Kongres 2027. godine"
+  "TRAMP NAJAVIO VETO: Predsednik SAD planira da blokira zakone demokrata kad preuzmu Kongres 2027. godine",
+  "Tramp najavio rat sa demokratama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Tramp najavio veto na zakone demokrata, ali ostavlja prostor za kompromis"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

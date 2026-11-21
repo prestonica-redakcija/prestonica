@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T08:32:13.821191+00:00",
- "updated": "2026-11-20T19:27:33.174647+00:00",
+ "updated": "2026-11-21T06:37:09.538709+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -41,11 +41,18 @@
    "url": "https://www.youtube.com/watch?v=jEZTWXGPBXM",
    "title": "Đukanović: Skandalozna izjava potpredsednice Narodne Skupštine, Sare Valentik",
    "spektar": "stranka"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1171829/aleksandar-vucic-politika-informer",
+   "title": "Ekskluzivno na Informer TV! Vučić danas u 10 sati iz Narodne skupštine",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Totalitarizam Studentske liste! Potpredsednica Skupštine napravila težak skandal: SNS nema pravo da govori (VIDEO)",
-  "Đukanović: Skandalozna izjava potpredsednice Narodne Skupštine, Sare Valentik"
+  "Đukanović: Skandalozna izjava potpredsednice Narodne Skupštine, Sare Valentik",
+  "Ekskluzivno na Informer TV! Vučić danas u 10 sati iz Narodne skupštine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +65,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:The_Informer_Stone_Inscription.jpg",
   "alt": "Valentik o SNS-u u holu Skupštine: \"nema pravo govora\", prenosi Informer"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

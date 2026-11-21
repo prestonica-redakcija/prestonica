@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T06:18:15.014670+00:00",
- "updated": "2026-11-20T21:56:34.046498+00:00",
+ "updated": "2026-11-21T06:37:09.538709+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -58,6 +58,12 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10168451/kamioni-na-batrovcima-cekaju-pet-sati",
    "title": "Kamioni na Batrovcima čekaju 5 sati: AMSS objavio stanje na granicama tokom večeri, evo kakva je situacija za putnička vozila",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/299624/teretnjaci-na-izlazu-cekaju-pet-sati-na-batrovcima-svi-putevi-prohodni/vest",
+   "title": "Teretnjaci na izlazu čekaju pet sati na Batrovcima, svi putevi prohodni",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -65,7 +71,8 @@
   "Na graničnom prelazu Batrovci teretna vozila čekaju šest sati na izlaz, putevi bez snega",
   "AMSS: Teretnjaci čekaju 5 sati na izlazu iz zemlje",
   "Teretnjaci čekaju pet sati na izlazu iz zemlje na Batrovcima",
-  "Kamioni na Batrovcima čekaju 5 sati: AMSS objavio stanje na granicama tokom večeri, evo kakva je situacija za putnička vozila"
+  "Kamioni na Batrovcima čekaju 5 sati: AMSS objavio stanje na granicama tokom večeri, evo kakva je situacija za putnička vozila",
+  "Teretnjaci na izlazu čekaju pet sati na Batrovcima, svi putevi prohodni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -78,8 +85,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Grani%C4%8Dni_prelaz_Batrovci_in_the_evening_(1).jpg",
   "alt": "Na prelazu Batrovci teretna vozila na izlaz čekaju šest sati, putnički saobraćaj bez zadržavanja"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-20T21:56:34.046498+00:00",
  "verzija": 2
 }

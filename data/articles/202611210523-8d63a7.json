@@ -26,17 +26,24 @@
  ],
  "importance": 3,
  "published": "2026-11-21T04:23:22.279213+00:00",
- "updated": "2026-11-21T04:23:22.279213+00:00",
+ "updated": "2026-11-21T06:37:09.538709+00:00",
  "sources": [
   {
    "name": "Telegraf",
    "url": "https://www.telegraf.rs/vesti/srbija/4437008-danas-oblacno-pre-podne-suvo-popodne-s-kisom-mestimicno-temperatura-do-18-stepeni",
    "title": "Danas oblačno, pre podne suvo, popodne s kišom, temperatura do 18 stepeni",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/299625/danas-oblacno-prepodne-suvo-popodne-s-kisom-mestimicno-do-18-stepeni/vest",
+   "title": "Danas oblačno, prepodne suvo, popodne s kišom mestimično, do 18 stepeni",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Danas oblačno, pre podne suvo, popodne s kišom, temperatura do 18 stepeni"
+  "Danas oblačno, pre podne suvo, popodne s kišom, temperatura do 18 stepeni",
+  "Danas oblačno, prepodne suvo, popodne s kišom mestimično, do 18 stepeni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Subota uglavnom oblačna, popodne kiša južno od Save i Dunava, do 18 stepeni"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
