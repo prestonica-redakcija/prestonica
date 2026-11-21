@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T21:26:42.799671+00:00",
- "updated": "2026-11-21T00:25:15.142945+00:00",
+ "updated": "2026-11-21T07:36:46.459854+00:00",
  "sources": [
   {
    "name": "N1",
@@ -65,6 +65,12 @@
    "url": "https://www.telegraf.rs/jetset/vesti-jetset/4437029-srpska-pevacica-bila-u-avionu-er-srbije-za-mostar-koji-je-pogodila-munja",
    "title": "Srpska pevačica bila u avionu \"Er Srbije\" za Mostar koji je pogodila munja!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/stars/10168510/leksandra-mladenovic-bila-u-avionu-er-srbije-za-mostar-koji-je-pogodila-munja",
+   "title": "ALEKSANDRA MLADENOVIĆ BILA U AVIONU ER SRBIJE KOJI JE POGODILA MUNJA Pevačica se oglasila: \"Još uvek sam prestravljena...\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -73,7 +79,8 @@
   "MUNJA POGODILA AVION ER SRBIJE: Drama na letu za Mostar, otkazan povratak za Beograd",
   "Avion Er Srbije udario grom tokom leta za Mostar",
   "Munja pogodila avion \"Er Srbije\" na letu za Mostar: Otkazan povratak, letelica upućena na pregled",
-  "Srpska pevačica bila u avionu \"Er Srbije\" za Mostar koji je pogodila munja!"
+  "Srpska pevačica bila u avionu \"Er Srbije\" za Mostar koji je pogodila munja!",
+  "ALEKSANDRA MLADENOVIĆ BILA U AVIONU ER SRBIJE KOJI JE POGODILA MUNJA Pevačica se oglasila: \"Još uvek sam prestravljena...\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -86,8 +93,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Mixed_meat_platter_at_Bella_Vista_Restaurant_in_Mostar,_Bosnia_and_Herzegovina_(2025).jpg",
   "alt": "Munja pogodila avion Er Srbije na letu za Mostar, povratni let otkazan"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-21T00:25:15.142945+00:00",
  "verzija": 2
 }

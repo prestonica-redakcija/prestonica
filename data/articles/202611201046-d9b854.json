@@ -32,17 +32,24 @@
  ],
  "importance": 4,
  "published": "2026-11-20T09:46:49.864928+00:00",
- "updated": "2026-11-20T09:46:49.864928+00:00",
+ "updated": "2026-11-21T07:36:46.459854+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/dzvm-izborom-tibora-lazara-za-potpredsednika-srusen-jednostranacki-monopol-u-parlamentarnom-predstavljanju-vojvodjanskih-madjara/",
    "title": "DZVM: Izborom Tibora Lazara za potpredsednika, srušen jednostranački monopol u parlamentarnom predstavljanju vojvođanskih Mađara",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/lsv-madjarska-zajednica-dobila-autenticnog-predstavnika-izborom-tibora-lazara-za-potpredsednika/",
+   "title": "LSV o izboru Tibora Lazara za potpredsednika: Mađarska zajednica dobila autentičnog predstavnika",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "DZVM: Izborom Tibora Lazara za potpredsednika, srušen jednostranački monopol u parlamentarnom predstavljanju vojvođanskih Mađara"
+  "DZVM: Izborom Tibora Lazara za potpredsednika, srušen jednostranački monopol u parlamentarnom predstavljanju vojvođanskih Mađara",
+  "LSV o izboru Tibora Lazara za potpredsednika: Mađarska zajednica dobila autentičnog predstavnika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Narodna_skupstina_Srbije.jpg",
   "alt": "DZVM tvrdi da je izborom Tibora Lazara srušen monopol u predstavljanju vojvođanskih Mađara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

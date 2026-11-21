@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T06:18:15.014670+00:00",
- "updated": "2026-11-21T06:07:36.692528+00:00",
+ "updated": "2026-11-21T07:36:46.459854+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -78,6 +78,12 @@
    "url": "https://n1info.rs/vesti/danas-pad-temperature-moguci-kisa-i-pljuskovi/",
    "title": "Danas pad temperature, mogući kiša i pljuskovi",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/286847/ledeni-talas-preti-srbiji-sprema-se-veliki-vremenski-preokret/vest",
+   "title": "Otvaraju se \"bečka vatra\": Ledeni talas preti Srbiji – sprema se veliki vremenski preokret",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -88,7 +94,8 @@
   "RHMZ: U većem delu Srbije do kraja dana kiša i pljuskovi sa grmljavinom",
   "Srbija na udaru ledenog talasa: Stižu sneg, mraz i ozbiljan pad temperature",
   "Vreme danas: Tokom dana naoblačenje, ponegde kiša",
-  "Danas pad temperature, mogući kiša i pljuskovi"
+  "Danas pad temperature, mogući kiša i pljuskovi",
+  "Otvaraju se \"bečka vatra\": Ledeni talas preti Srbiji – sprema se veliki vremenski preokret"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -100,8 +107,8 @@
   "local": true,
   "alt": "Danas kiša i pljuskovi u većem delu Srbije, od sutra postepeno zahlađenje"
  },
- "novo_od_pisanja": 2,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-20T19:27:33.174647+00:00",
  "verzija": 2
 }

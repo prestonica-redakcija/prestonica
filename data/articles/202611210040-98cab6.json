@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T23:40:40.621842+00:00",
- "updated": "2026-11-20T23:40:40.621842+00:00",
+ "updated": "2026-11-21T07:36:46.459854+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -42,11 +42,25 @@
    "url": "https://www.telegraf.rs/vesti/svet/4437021-hakeri-probili-odbranu-americkog-ministarstva-poljoprivrede-pristupili-veoma-osetljivom-sistemu",
    "title": "Hakeri probili odbranu američkog Ministarstva poljoprivrede, pristupili veoma osetljivom sistemu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/299629/hakeri-upali-u-sistem-ministarstva-poljoprivrede-sad-za-isplate-poljoprivrednicima/vest",
+   "title": "Hakeri upali u sistem Ministarstva poljoprivrede SAD za isplate poljoprivrednicima",
+   "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1673289/hakerski-upad-vasingtonu-probijen-sistem-isplate-americkim-farmerima",
+   "title": "HAKERSKI UPAD U VAŠINGTONU: Probijen sistem za isplate američkim farmerima",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "HAKERI PROBILI ZAŠTITU AMERIČKOG MINISTARSTVA ODBRANE: Meta sajber-napada, zabrinutost da bi mogli da pristupe osetljivim podacima",
-  "Hakeri probili odbranu američkog Ministarstva poljoprivrede, pristupili veoma osetljivom sistemu"
+  "Hakeri probili odbranu američkog Ministarstva poljoprivrede, pristupili veoma osetljivom sistemu",
+  "Hakeri upali u sistem Ministarstva poljoprivrede SAD za isplate poljoprivrednicima",
+  "HAKERSKI UPAD U VAŠINGTONU: Probijen sistem za isplate američkim farmerima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +71,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Sajber-napad na američko Ministarstvo poljoprivrede poremetio isplate farmerima"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
