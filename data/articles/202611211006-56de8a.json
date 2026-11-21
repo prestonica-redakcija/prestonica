@@ -37,7 +37,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T09:06:07.943104+00:00",
- "updated": "2026-11-21T09:50:42.400591+00:00",
+ "updated": "2026-11-21T11:20:11.634668+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -56,12 +56,19 @@
    "url": "https://n1info.rs/region/danas-31-godisnjica-potpisivanja-dejtonskog-sporazuma-u-rs-drzavni-praznik-i-neradni-dan/",
    "title": "Danas 31. godišnjica potpisivanja Dejtonskog sporazuma, u RS državni praznik i neradni dan",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/region/286889/dejtonski-mirovni-sporazum-parafiran-pre-31-godinu/vest",
+   "title": "Dan kada je zaustavljen rat u BiH; Dejtonski sporazum parafiran pre 31 godinu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Danas 31. godišnjica potpisivanja Dejtonskog sporazuma: U entitetu RS državni praznik i neradni dan",
   "Danas 31. godišnjica potpisivanja Dejtonskog sporazuma, u Republici Srpskoj državni praznik i neradni dan",
-  "Danas 31. godišnjica potpisivanja Dejtonskog sporazuma, u RS državni praznik i neradni dan"
+  "Danas 31. godišnjica potpisivanja Dejtonskog sporazuma, u RS državni praznik i neradni dan",
+  "Dan kada je zaustavljen rat u BiH; Dejtonski sporazum parafiran pre 31 godinu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,6 +81,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Manastir_Dobrun,_Republika_Srpska.JPG",
   "alt": "Navršilo se 31 godinu od parafiranja Dejtonskog sporazuma, u RS neradni dan"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

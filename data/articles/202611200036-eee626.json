@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T23:36:31.686264+00:00",
- "updated": "2026-11-21T10:50:30.398046+00:00",
+ "updated": "2026-11-21T11:20:11.634668+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -202,6 +202,12 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4437118-aleksandar-cupic-jutros-na-liturgiji-u-raski-predsednik-skupstine-pevao-crkvene-pesme-sa-vernicima",
    "title": "Aleksandar Čupić jutros na liturgiji u Raški: Predsednik Skupštine pevao crkvene pesme sa vernicima",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673357/studentskoj-listi-predstoje-ozbiljni-sukobi-oko-predsednickog-kandidata-lider-opozicije-aleksandar-vucic-borbi-funkcije",
+   "title": "„STUDENTSKOJ LISTI PREDSTOJE OZBILjNI SUKOBI OKO PREDSEDNIČKOG KANDIDATA“ Lider opozicije Aleksandar Vučić o borbi za funkcije",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -232,7 +238,8 @@
   "Bakić: Imamo kandidata za predsedničke izbore, ali još ne izlazimo sa imenom",
   "IMAMO KANDIDATA ZA PREDSEDNIČKE IZBORE Jovo Bakić otkrio plan Studentske liste i objasnio zašto ne odustaje od funkcije ministra policije",
   "Bakić: \"Imamo kandidata za predsednika Srbije\"",
-  "Aleksandar Čupić jutros na liturgiji u Raški: Predsednik Skupštine pevao crkvene pesme sa vernicima"
+  "Aleksandar Čupić jutros na liturgiji u Raški: Predsednik Skupštine pevao crkvene pesme sa vernicima",
+  "„STUDENTSKOJ LISTI PREDSTOJE OZBILjNI SUKOBI OKO PREDSEDNIČKOG KANDIDATA“ Lider opozicije Aleksandar Vučić o borbi za funkcije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -244,7 +251,7 @@
   "local": true,
   "alt": "Čupić: biću predsednik svih poslanika, Studentska lista slavi izbor rukovodstva Skupštine"
  },
- "novo_od_pisanja": 6,
+ "novo_od_pisanja": 7,
  "boost": 1.6,
  "prepisano": "2026-11-20T21:11:49.962208+00:00",
  "verzija": 5
