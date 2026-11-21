@@ -28,17 +28,24 @@
  ],
  "importance": 6,
  "published": "2026-11-21T10:50:30.398046+00:00",
- "updated": "2026-11-21T10:50:30.398046+00:00",
+ "updated": "2026-11-21T11:05:11.644816+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/299659/vucevic-sns-mora-da-se-menja-i-da-ima-nove-ljude-vucic-da-napravi-sustinske-promene/vest",
    "title": "Vučević: SNS mora da se menja i da ima nove ljude, Vučić da napravi suštinske promene",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/286886/milos-vucevic-najavio-da-sns-mora-da-se-menja-i-da-ima-nove-ljude/vest",
+   "title": "Vučević: SNS mora da se menja i da ima nove ljude, Vučić da napravi sušt; \"Vučić da napravi suštinske promene\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Vučević: SNS mora da se menja i da ima nove ljude, Vučić da napravi suštinske promene"
+  "Vučević: SNS mora da se menja i da ima nove ljude, Vučić da napravi suštinske promene",
+  "Vučević: SNS mora da se menja i da ima nove ljude, Vučić da napravi sušt; \"Vučić da napravi suštinske promene\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Milo%C5%A1_Vu%C4%8Devi%C4%87.jpg",
   "alt": "Vučević: SNS mora da se menja i dobije nove ljude, Vučić da napravi promene"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

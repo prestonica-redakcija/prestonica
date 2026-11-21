@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T10:50:30.398046+00:00",
- "updated": "2026-11-21T10:50:30.398046+00:00",
+ "updated": "2026-11-21T11:05:11.644816+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -41,11 +41,18 @@
    "url": "https://www.telegraf.rs/4437127-vucic-misli-da-nova-vlada-nece-biti-formirana-do-kraja-godine-bice-krajem-januara-ili-pocetkom-februara",
    "title": "Vučić misli da nova vlada neće biti formirana do kraja godine: Biće krajem januara ili početkom februara",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673351/nece-formirati-vladu-pre-februara-prognoza-lidera-opozicije-aleksandra-vucica-ovo-vreme-bez-institucija-najvise-odgovara",
+   "title": "„NEĆE FORMIRATI VLADU PRE FEBRUARA“ Prognoza lidera opozicije Aleksandra Vučića: Ovo vreme bez institucija im najviše odgovara",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Prognoza lidera opozicije! Vučić: Neće formirati vladu pre februara - više im odgovara vreme bez institucija",
-  "Vučić misli da nova vlada neće biti formirana do kraja godine: Biće krajem januara ili početkom februara"
+  "Vučić misli da nova vlada neće biti formirana do kraja godine: Biće krajem januara ili početkom februara",
+  "„NEĆE FORMIRATI VLADU PRE FEBRUARA“ Prognoza lidera opozicije Aleksandra Vučića: Ovo vreme bez institucija im najviše odgovara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučić: nova vlada neće biti formirana pre kraja januara ili početka februara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

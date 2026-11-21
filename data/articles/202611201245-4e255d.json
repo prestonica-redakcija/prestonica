@@ -27,17 +27,24 @@
  ],
  "importance": 6,
  "published": "2026-11-20T11:45:57.885434+00:00",
- "updated": "2026-11-20T11:45:57.885434+00:00",
+ "updated": "2026-11-21T11:05:11.644816+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1171646/milos-vucevic-lider-sns-poruka",
    "title": "\"Ovo je borba za otadžbinu!\" Oglasio se Vučević i poslao udarnu poruku: \"Do pobede i do oslobođenja\" (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10168456/opozicija-bez-potpredsednika-u-skupstini-usledile-brojne-reakcije",
+   "title": "PORUKA KOJA (NI)JE DOBRA Zašto opozicija, iako ima 103 poslanika, nema nijednog potpredsednika u Skupštini?",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "\"Ovo je borba za otadžbinu!\" Oglasio se Vučević i poslao udarnu poruku: \"Do pobede i do oslobođenja\" (VIDEO)"
+  "\"Ovo je borba za otadžbinu!\" Oglasio se Vučević i poslao udarnu poruku: \"Do pobede i do oslobođenja\" (VIDEO)",
+  "PORUKA KOJA (NI)JE DOBRA Zašto opozicija, iako ima 103 poslanika, nema nijednog potpredsednika u Skupštini?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Tanja_Fajon,_Milo%C5%A1_Vu%C4%8Devi%C4%87_%26_Robert_Golob_2024.jpg",
   "alt": "Vučević: isključivanje opozicije iz potpredsedničkih mesta u Skupštini je presedan"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
