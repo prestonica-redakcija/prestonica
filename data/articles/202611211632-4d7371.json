@@ -38,7 +38,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T15:32:59.993595+00:00",
- "updated": "2026-11-21T15:47:47.433509+00:00",
+ "updated": "2026-11-21T16:47:14.145852+00:00",
  "sources": [
   {
    "name": "N1",
@@ -57,12 +57,19 @@
    "url": "https://nova.rs/vesti/politika/sns-pisala-medjunarodnim-institucijama-zale-se-sto-nemaju-potpredsednika-skupstine-i-sto-njihovi-poslanici-dobijaju-opomene/",
    "title": "SNS pisala međunarodnim institucijama: Žale se što nemaju potpredsednika Skupštine i što njihovi poslanici dobijaju opomene",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4437248-srpska-napredna-stranka-pisala-medjunarodnim-institucijama-nakon-izbora-potpredsednika-skupstine-srbije",
+   "title": "Srpska napredna stranka pisala međunarodnim institucijama nakon izbora potpredsednika Skupštine Srbije",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "SNS se žali međunarodnim institucijama na ugrožavanje demokratije",
   "SNS se žali međunarodnim institucijama: Zašto?",
-  "SNS pisala međunarodnim institucijama: Žale se što nemaju potpredsednika Skupštine i što njihovi poslanici dobijaju opomene"
+  "SNS pisala međunarodnim institucijama: Žale se što nemaju potpredsednika Skupštine i što njihovi poslanici dobijaju opomene",
+  "Srpska napredna stranka pisala međunarodnim institucijama nakon izbora potpredsednika Skupštine Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -75,6 +82,6 @@
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -34,17 +34,24 @@
  ],
  "importance": 8,
  "published": "2026-11-20T16:13:56.213312+00:00",
- "updated": "2026-11-20T16:13:56.213312+00:00",
+ "updated": "2026-11-21T16:47:14.145852+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10167749/kljucni-datumi-za-predsednicke-izbore-i-formiranje-vlade",
    "title": "TRI DATUMA SU OD KLJUČNOG ZNAČAJA! Prvi zadatak novog predsednika Skupštine Srbije je da najkasnije do 27. novembra raspiše PREDSEDNIČKE IZBORE",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/bbc-news-serbian/kad-ce-biti-raspisani-predsednicki-izbori-u-srbiji-i-ko-ce-naslediti-vucica/",
+   "title": "Kad će biti raspisani predsednički izbori u Srbiji i ko će naslediti Vučića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "TRI DATUMA SU OD KLJUČNOG ZNAČAJA! Prvi zadatak novog predsednika Skupštine Srbije je da najkasnije do 27. novembra raspiše PREDSEDNIČKE IZBORE"
+  "TRI DATUMA SU OD KLJUČNOG ZNAČAJA! Prvi zadatak novog predsednika Skupštine Srbije je da najkasnije do 27. novembra raspiše PREDSEDNIČKE IZBORE",
+  "Kad će biti raspisani predsednički izbori u Srbiji i ko će naslediti Vučića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Branimir_Nestorovi%C4%87.png",
   "osoba": "Branimir Nestorović",
   "alt": "Čupić: predsednički izbori biće raspisani do 27. novembra, mogući datumi 20. ili 27. decembar"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
