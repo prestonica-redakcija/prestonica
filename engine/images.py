@@ -249,21 +249,44 @@ class Images:
         return None
 
     # --- 1. tvoja arhiva ---
-    def _library(self, text: str) -> tuple[dict | None, float]:
+    def _library(self, text: str, naslov: str = "") -> tuple[dict | None, float]:
+        """Fotografija iz arhive po ključnim rečima.
+
+        Pogodak u naslovu vredi dvostruko: naslov kaže o čemu je tekst, dok se u
+        telu uvek nađe poneka opšta reč. Bez toga tekst o zabrani emisije
+        Informeru dobije fotografiju Skupštine, jer se reči poslanik i sednica
+        pojave usput, a informer stoji u naslovu."""
         t = " " + fold(text) + " "
-        words = t.split()
+        h = " " + fold(naslov) + " "
+        words, hwords = t.split(), h.split()
         best, best_s = None, 0.0
         for f in self.lib:
             s = 0.0
             for k in f.get("kljucne", []):
                 k = fold(k)
                 if " " in k:
-                    s += 1.5 if f" {k}" in t else 0
+                    if f" {k}" in h:
+                        s += 3.0
+                    elif f" {k}" in t:
+                        s += 1.5
+                elif len(k) <= 3:
+                    # Kratke ključne reči (eu, tv, k1, rem) traže tačan pogodak:
+                    # kao prefiks hvataju svaku reč koja tako počinje, pa je tekst
+                    # o Informeru zbog "eu" dobijao fotografiju Pariza.
+                    if k in hwords:
+                        s += 2.0
+                    elif k in words:
+                        s += 1.0
+                elif any(w.startswith(k) for w in hwords):
+                    s += 2.0
                 elif any(w.startswith(k) for w in words):
                     s += 1.0
             if s <= 0:
                 continue
-            s -= 0.7 * self.used.get("foto/" + f["fajl"], 0)  # raznovrsnost: ista fotografija iz arhive brzo gubi prednost
+            # Raznovrsnost: ista fotografija iz arhive gubi prednost, ali kazna je
+            # ograničena. Bez granice je tekst o Informeru dobijao fotografiju Pariza,
+            # jer je tačna fotografija već bila upotrebljena dva puta u istom prolazu.
+            s -= min(1.5, 0.7 * self.used.get("foto/" + f["fajl"], 0))
             if s > best_s:
                 best, best_s = f, s
         if not best:
@@ -364,7 +387,7 @@ class Images:
                     break
             if not img:
                 img = self._topic_photo(a, avoid)
-        lib, lib_s = self._library(text)
+        lib, lib_s = self._library(text, a.get("headline", ""))
         if lib and lib["src"] in avoid:
             lib, lib_s = None, 0
         if not img and lib and lib_s >= 2:

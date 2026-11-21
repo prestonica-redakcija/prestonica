@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-21T12:34:23.192834+00:00",
+ "updated": "2026-11-21T13:34:37.465012+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -337,6 +337,12 @@
    "url": "https://insajder.net/prenosimo/zeleznicki-saobracaj-ponovo-uspostavljen-na-krimskom-mostu",
    "title": "Železnički saobraćaj ponovo uspostavljen na Krimskom mostu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/sest-osoba-poginulo-u-eksploziji-u-celicani-na-zapadu-turske/",
+   "title": "U eksploziji u čeličani na zapadu Turske poginulo 16 osoba, 13 povređeno",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -389,7 +395,8 @@
   "Sikorski: Na delu državni terorizam Rusije prema članicama NATO",
   "U ruskom napadu na rodni grad Zelenskog dvoje poginulih i 60 povređenih",
   "Železnički saobraćaj ponovo uspostavljen na Krimskom mostu",
-  "Železnički saobraćaj ponovo uspostavljen na Krimskom mostu"
+  "Železnički saobraćaj ponovo uspostavljen na Krimskom mostu",
+  "U eksploziji u čeličani na zapadu Turske poginulo 16 osoba, 13 povređeno"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -403,7 +410,7 @@
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
  },
- "novo_od_pisanja": 14,
+ "novo_od_pisanja": 15,
  "boost": 1.6,
  "prepisano": "2026-11-20T22:56:03.386969+00:00",
  "verzija": 8

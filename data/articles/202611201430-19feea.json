@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T13:30:11.562829+00:00",
- "updated": "2026-11-20T19:12:42.424725+00:00",
+ "updated": "2026-11-21T13:34:37.465012+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -78,6 +78,12 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/252985/nis-obnovljen-transport-sirove-nafte-janaf-om/vest",
    "title": "NIS: Ponovo uspostavljen transport sirove nafte JANAF-om",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/251532/janaf-sanacija-naftovoda-za-tri-dana-isporuke-ka-pancevu/vest",
+   "title": "Havarija na naftovodu Sisak–Slavonski Brod: Kada se očekuje nastavak isporuka nafte Rafineriji Pančevo",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -88,7 +94,8 @@
   "Đedović: Nastavak transporta sirove nafte od JANAF-a do NIS-a dobra vest za sve",
   "Đedović Handanović: Nafta se ponovo transportuje ka Rafineriji Pančevo, dobra vest za građane i privredu",
   "Đedović Handanović: Nastavak transporta sirove nafte od JANAF-a do NIS-a dobra vest za sve",
-  "NIS: Ponovo uspostavljen transport sirove nafte JANAF-om"
+  "NIS: Ponovo uspostavljen transport sirove nafte JANAF-om",
+  "Havarija na naftovodu Sisak–Slavonski Brod: Kada se očekuje nastavak isporuka nafte Rafineriji Pančevo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -100,8 +107,8 @@
   "local": true,
   "alt": "JANAF nastavio redovnu isporuku nafte za rafineriju u Pančevu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-20T14:59:34.956011+00:00",
  "verzija": 2
 }

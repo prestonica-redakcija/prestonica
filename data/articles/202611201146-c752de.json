@@ -27,17 +27,24 @@
  ],
  "importance": 5,
  "published": "2026-11-20T10:46:29.454937+00:00",
- "updated": "2026-11-20T10:46:29.454937+00:00",
+ "updated": "2026-11-21T13:34:37.465012+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/ekonomija/vesti/1673043/negativno-raspolozenje-prosirilo-sire-trziste-nafta-brent-pala-91-dolar-evropske-berze-minusu",
    "title": "NEGATIVNO RASPOLOŽENjE PROŠIRILO SE I NA ŠIRE TRŽIŠTE: Nafta Brent pala na 91 dolar, evropske berze u minusu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/251373/wti-i-brent-pali-na-najnizi-nivo-od-31-avgusta/vest",
+   "title": "Cene nafte pale na najniži nivo od 31. avgusta, barel Brenta ispod 94 dolara",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "NEGATIVNO RASPOLOŽENjE PROŠIRILO SE I NA ŠIRE TRŽIŠTE: Nafta Brent pala na 91 dolar, evropske berze u minusu"
+  "NEGATIVNO RASPOLOŽENjE PROŠIRILO SE I NA ŠIRE TRŽIŠTE: Nafta Brent pala na 91 dolar, evropske berze u minusu",
+  "Cene nafte pale na najniži nivo od 31. avgusta, barel Brenta ispod 94 dolara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Evropske berze u padu, nafta Brent oko 91 dolar po barelu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
