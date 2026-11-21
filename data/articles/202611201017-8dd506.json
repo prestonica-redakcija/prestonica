@@ -31,7 +31,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T09:17:09.352450+00:00",
- "updated": "2026-11-21T13:48:44.995208+00:00",
+ "updated": "2026-11-21T14:18:29.442150+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -44,11 +44,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/studenti-predsednik-skupstine-na-liturgiji-u-raskoj-video/",
    "title": "Studenti: Predsednik Skupštine na liturgiji u Raškoj (VIDEO)",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/studenti-raska-video-aleksandar-cupic-liturgija/",
+   "title": "Studenti Raške objavili video: Čupić na služenju liturgije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Studentska lista preuzela Skupštinu, šta kaže struka? Od \"opravdanih sankcija\" do \"kraja političkog kompromisa\"",
-  "Studenti: Predsednik Skupštine na liturgiji u Raškoj (VIDEO)"
+  "Studenti: Predsednik Skupštine na liturgiji u Raškoj (VIDEO)",
+  "Studenti Raške objavili video: Čupić na služenju liturgije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata_2.jpg",
   "alt": "Čupić izabran za predsednika Skupštine, opozicija napustila salu zbog izbora potpredsednika"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

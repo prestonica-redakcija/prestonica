@@ -27,17 +27,24 @@
  ],
  "importance": 3,
  "published": "2026-11-21T13:48:44.995208+00:00",
- "updated": "2026-11-21T13:48:44.995208+00:00",
+ "updated": "2026-11-21T14:18:29.442150+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/299695/kanbera-upozorava-viktoriju-na-opterecenje-elektroenergetske-mreze-zbog-data-centara/vest",
    "title": "Kanbera upozorava Viktoriju na opterećenje elektroenergetske mreže zbog data centara",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253050/viktorija-data-centri-izazov-za-elektroenergetski-sistem/vest",
+   "title": "Viktorija želi investicije u data centre, ali vlasti upozoravaju na pritisak na mrežu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Kanbera upozorava Viktoriju na opterećenje elektroenergetske mreže zbog data centara"
+  "Kanbera upozorava Viktoriju na opterećenje elektroenergetske mreže zbog data centara",
+  "Viktorija želi investicije u data centre, ali vlasti upozoravaju na pritisak na mrežu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Day_6_-_Transilvania_Open_Anastasia_Potapova_vs_Viktorija_Golubic_6-4,-7-5_(54319493367).jpg",
   "alt": "Kanbera upozorila Viktoriju da data centri mogu preopteretiti elektroenergetsku mrežu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
