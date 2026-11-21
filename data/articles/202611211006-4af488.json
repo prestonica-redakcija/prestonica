@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T09:06:07.943104+00:00",
- "updated": "2026-11-21T09:06:07.943104+00:00",
+ "updated": "2026-11-21T10:35:35.391343+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.b92.net/info/kosovo/286865/zatvorena-tri-ugostiteljska-objekta-u-leposavicu/vest",
    "title": "Novi udar na Srbe na Kosmetu; Zatvorena još tri lokala srpskih vlasnika",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4437082-inspekcija-zatvorila-tri-ugostiteljska-objekta-srba-u-leposavicu-lokali-prestali-sa-radom",
+   "title": "Inspekcija zatvorila tri ugostiteljska objekta Srba u Leposaviću: Lokali prestali sa radom",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Zatvorena tri ugostiteljska objekta u Leposaviću",
-  "Novi udar na Srbe na Kosmetu; Zatvorena još tri lokala srpskih vlasnika"
+  "Novi udar na Srbe na Kosmetu; Zatvorena još tri lokala srpskih vlasnika",
+  "Inspekcija zatvorila tri ugostiteljska objekta Srba u Leposaviću: Lokali prestali sa radom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Dren-Leposavi%C4%87_-_pogled_na_selo_i_okolinu.jpg",
   "alt": "U Leposaviću zatvorena tri ugostiteljska objekta čiji su vlasnici Srbi"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

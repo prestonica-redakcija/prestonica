@@ -26,17 +26,24 @@
  ],
  "importance": 4,
  "published": "2026-11-21T09:50:42.400591+00:00",
- "updated": "2026-11-21T09:50:42.400591+00:00",
+ "updated": "2026-11-21T10:35:35.391343+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/ekonomija/dragan-delic-srce-srbija-odvaja-za-zdravstvo-800-evra-po-stanovniku-tri-puta-manje-od-evropskog-proseka/",
    "title": "Dragan Delić (SRCE): Srbija odvaja za zdravstvo 800 evra po stanovniku, tri puta manje od evropskog proseka",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/delic-srbija-odvaja-svega-800-evra-po-glavi-stanovnika-za-zdravstvo-tri-puta-manje-od-evropskog-prosek/",
+   "title": "Delić: Srbija odvaja svega 800 evra po glavi stanovnika za zdravstvo - tri puta manje od evropskog prosek",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Dragan Delić (SRCE): Srbija odvaja za zdravstvo 800 evra po stanovniku, tri puta manje od evropskog proseka"
+  "Dragan Delić (SRCE): Srbija odvaja za zdravstvo 800 evra po stanovniku, tri puta manje od evropskog proseka",
+  "Delić: Srbija odvaja svega 800 evra po glavi stanovnika za zdravstvo - tri puta manje od evropskog prosek"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Delić: Srbija za zdravstvo izdvaja 800 evra po stanovniku, građani plaćaju skoro 45 odsto"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
