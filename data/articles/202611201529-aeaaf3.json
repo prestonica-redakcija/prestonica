@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T14:29:45.124535+00:00",
- "updated": "2026-11-20T16:13:56.213312+00:00",
+ "updated": "2026-11-21T14:03:39.132175+00:00",
  "sources": [
   {
    "name": "N1",
@@ -84,6 +84,12 @@
    "url": "https://www.b92.net/info/hronika/286707/oglasio-se-mup-granicna-kontrola-sprovodi-se-u-skladu-sa-zakonom-i-propisanim-procedurama/vest",
    "title": "Oglasio se MUP: \"Granična kontrola sprovodi se u skladu sa zakonom i propisanim procedurama\"",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/286934/stankovic-o-smeni-direktora-jovine-gimnazije-postupak-sproveden-u-skladu-sa-pozitivnim-zakonskim-propisima/vest",
+   "title": "Stanković o smeni direktora Jovine gimnazije: \"Postupak sproveden u skladu sa pozitivnim zakonskim propisima\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -94,7 +100,8 @@
   "Granična policija o Radoičiću i putovanju Vulina, Popoviča i Bajatovića za Moskvu",
   "Oglasio se MUP o Milanu Radoičiću i letu za Moskvu na kom je bio Aleksandar Vulin",
   "OGLASILA SE UPRAVA GRANIČNE POLICIJE O VULINOVOM LETU ZA MOSKVU: Prošao je obaveznu kontrolu, a lica bez zabrane mogu slobodno prelaziti granicu",
-  "Oglasio se MUP: \"Granična kontrola sprovodi se u skladu sa zakonom i propisanim procedurama\""
+  "Oglasio se MUP: \"Granična kontrola sprovodi se u skladu sa zakonom i propisanim procedurama\"",
+  "Stanković o smeni direktora Jovine gimnazije: \"Postupak sproveden u skladu sa pozitivnim zakonskim propisima\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -107,8 +114,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Aleksandar_Vulin_and_Dimitris_Avramopoulos.jpg",
   "alt": "MUP: Granična policija u slučaju Vulinovog leta za Moskvu postupala po zakonu"
  },
- "novo_od_pisanja": 0,
- "boost": 1.48,
+ "novo_od_pisanja": 1,
+ "boost": 1.56,
  "prepisano": "2026-11-20T16:13:56.213312+00:00",
  "verzija": 2
 }

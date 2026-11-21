@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T10:50:30.398046+00:00",
- "updated": "2026-11-21T11:35:04.390699+00:00",
+ "updated": "2026-11-21T14:03:39.132175+00:00",
  "sources": [
   {
    "name": "BIRN",
@@ -54,12 +54,19 @@
    "url": "https://www.danas.rs/vesti/drustvo/birn-sud-odbio-sapicevu-tuzbu/",
    "title": "BIRN: Sud odbio Šapičevu tužbu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/sapic-izgubio-spor-protiv-birn-a-zbog-teksta-o-vili-u-trstu/",
+   "title": "Šapić izgubio spor protiv BIRN-a zbog teksta o vili u Trstu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Presuda: Šapić izgubio spor protiv BIRN-a, navodi novinara tačni",
   "Šapić izgubio spor protiv BIRN-a: Sud utvrdio da je prijavio bitno drugačiju imovinu od one koju je kupio u Trstu",
-  "BIRN: Sud odbio Šapičevu tužbu"
+  "BIRN: Sud odbio Šapičevu tužbu",
+  "Šapić izgubio spor protiv BIRN-a zbog teksta o vili u Trstu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,6 @@
   "local": true,
   "alt": "Viši sud odbio Šapićevu tužbu protiv BIRN-a zbog teksta o vili u Trstu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
