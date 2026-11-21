@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T17:46:42.593339+00:00",
- "updated": "2026-11-21T17:46:42.593339+00:00",
+ "updated": "2026-11-21T18:16:16.808382+00:00",
  "sources": [
   {
    "name": "B92",
@@ -49,12 +49,33 @@
    "url": "https://www.telegraf.rs/vesti/beograd/4437253-pogledajte-i-podelite-u-zemunu-nestao-tinejdzer-s-autizmom-andrej-je-neverbalan-vidjen-je-na-banjici",
    "title": "Pogledajte i podelite, u Zemunu nestao tinejdžer s autizmom: Andrej je neverbalan, viđen je na Banjici",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4437291-mup-aktiviran-sistem-pronadji-me",
+   "title": "MUP: Aktiviran sistem \"Pronađi me“",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/286990/nestao-andrej-davidovic-u-beogradu/vest",
+   "title": "Nestao tinejdžer u Beogradu; Aktiviran sistem \"Pronađi me\"",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/nestao-mladic-sa-autizmom-u-zemunu-aktiviran-sistem-pronadji-me/",
+   "title": "Nestao mladić sa autizmom u Zemunu, aktiviran sistem \"Pronađi me\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Nestao tinejdžer u Beogradu; Poslednji put viđen na Banjici",
   "DA LI STE GA VIDELI? U Zemunu nestao tinejdžer! Navodno je viđen na Banjici kako ulazi u autobus...",
-  "Pogledajte i podelite, u Zemunu nestao tinejdžer s autizmom: Andrej je neverbalan, viđen je na Banjici"
+  "Pogledajte i podelite, u Zemunu nestao tinejdžer s autizmom: Andrej je neverbalan, viđen je na Banjici",
+  "MUP: Aktiviran sistem \"Pronađi me“",
+  "Nestao tinejdžer u Beogradu; Aktiviran sistem \"Pronađi me\"",
+  "Nestao mladić sa autizmom u Zemunu, aktiviran sistem \"Pronađi me\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,5 +87,7 @@
   "local": false,
   "alt": "a couple of buses on a city street",
   "link": "https://unsplash.com/@jiaminhuang812"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

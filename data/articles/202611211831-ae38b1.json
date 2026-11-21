@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T17:31:43.503468+00:00",
- "updated": "2026-11-21T17:31:43.503468+00:00",
+ "updated": "2026-11-21T18:16:16.808382+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -42,10 +42,17 @@
    "url": "https://nova.rs/vesti/hronika/u-hrtkovcima-uhapsena-sestorica-zbog-napada-na-bajkere-na-dan-izbora/",
    "title": "U Hrtkovcima uhapšena šestorica zbog napada na bajkere na dan izbora",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/u-hrtkovcima-uhapsena-sestorica-zbog-napada-na-bajkere-na-dan-izbora/",
+   "title": "U Hrtkovcima uhapšena šestorica zbog napada na bajkere na dan izbora",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Tužilaštvo: Određeno zadržavanje za šestoro uhapšenih u Hrtkovcima",
+  "U Hrtkovcima uhapšena šestorica zbog napada na bajkere na dan izbora",
   "U Hrtkovcima uhapšena šestorica zbog napada na bajkere na dan izbora"
  ],
  "author": "Redakcija Prestonice",
@@ -58,5 +65,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Šestoro uhapšenih zbog napada na bajkere u Hrtkovcima, određeno zadržavanje od 48 sati"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

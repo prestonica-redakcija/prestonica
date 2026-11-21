@@ -33,7 +33,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T15:47:47.433509+00:00",
- "updated": "2026-11-21T18:01:30.161791+00:00",
+ "updated": "2026-11-21T18:16:16.808382+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -76,6 +76,12 @@
    "url": "https://www.tanjug.rs/svet/politika/299766/madar-zaplenjena-imovina-bivseg-orbanovog-ministra-zbog-sumnje-na-korupciju/vest",
    "title": "Mađar: Zaplenjena imovina bivšeg Orbanovog ministra zbog sumnje na korupciju",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4437284-bivsem-madjarskom-ministru-zaplenjena-imovina-vredna-242-miliona-evra-oglasio-se-i-peter-madjar",
+   "title": "Bivšem mađarskom ministru zaplenjena imovina vredna 24,2 miliona evra: Oglasio se i Peter Mađar",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -85,7 +91,8 @@
   "Mađar: Orbanovom bivšem ministru zaplenjena imovina od 24 miliona evra",
   "Mađar: Nacionalni biro zaplenio oko 24 miliona evra imovine bivšeg ministra u Orbanovoj vladi",
   "Mađar: Orbanovom bivšem ministru zaplenjena imovina od 24 miliona evra",
-  "Mađar: Zaplenjena imovina bivšeg Orbanovog ministra zbog sumnje na korupciju"
+  "Mađar: Zaplenjena imovina bivšeg Orbanovog ministra zbog sumnje na korupciju",
+  "Bivšem mađarskom ministru zaplenjena imovina vredna 24,2 miliona evra: Oglasio se i Peter Mađar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -98,8 +105,8 @@
   "alt": "The Hungarian Parliament Building on the banks of the Danube River in Budapest",
   "link": "https://unsplash.com/@lukerv4"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-21T16:47:14.145852+00:00",
  "verzija": 2
 }

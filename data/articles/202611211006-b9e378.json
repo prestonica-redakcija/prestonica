@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T09:06:07.943104+00:00",
- "updated": "2026-11-21T16:32:14.529738+00:00",
+ "updated": "2026-11-21T18:16:16.808382+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -58,6 +58,12 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/253069/alta-leasing-u-likvidaciji-ugovori-klijenata-ostaju/vest",
    "title": "Agencija za osiguranje depozita: Ugovori Alta Leasinga ostaju na snazi uprkos likvidaciji, rate se uplaćuju u AIK banci",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1673454/alta-banka-alta-lizin-agencija-osiguranje-depozita-nbs",
+   "title": "Agencija za osiguranje depozita: Svi ugovori klijenata Alta Lizing ostaju na snazi",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -65,7 +71,8 @@
   "Agencija za osiguranje depozita: Svi ugovori klijenata Alta Leasing ostaju na snazi bez obzira na likvidaciju",
   "Važna vest za korisnike lizinga: Likvidacija kompanije ALTA Leasing ne menja njihove ugovore",
   "Svi ugovori klijenata Alta Leasing ostaju na snazi bez obzira na likvidaciju",
-  "Agencija za osiguranje depozita: Ugovori Alta Leasinga ostaju na snazi uprkos likvidaciji, rate se uplaćuju u AIK banci"
+  "Agencija za osiguranje depozita: Ugovori Alta Leasinga ostaju na snazi uprkos likvidaciji, rate se uplaćuju u AIK banci",
+  "Agencija za osiguranje depozita: Svi ugovori klijenata Alta Lizing ostaju na snazi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,8 +84,8 @@
   "local": true,
   "alt": "Pokrenuta likvidacija Alta lizinga, klijenti i dalje redovno plaćaju rate"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-21T16:32:14.529738+00:00",
  "verzija": 2
 }
