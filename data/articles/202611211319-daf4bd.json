@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T12:19:37.340423+00:00",
- "updated": "2026-11-21T12:49:17.166980+00:00",
+ "updated": "2026-11-21T13:04:09.682872+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,12 +46,19 @@
    "url": "https://www.b92.net/biz/svet/vesti/286912/finska-pokusava-da-od-rusije-i-gasproma-naplati-vise-od-25-milijardi-evra/vest",
    "title": "Finska udarila na Rusiju: Pokušava da naplati više od 25 milijardi evra",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1673380/finska-udarila-rusiju-pokusava-naplati-vise-25-milijardi-evra",
+   "title": "FINSKA UDARILA NA RUSIJU: Pokušava da naplati više od 25 milijardi evra",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Finska pokušava da od Rusije i Gasproma naplati više od 25 milijardi evra",
   "Finska ispostavila račun Rusiji i Gaspromu: Traži više od 25 milijardi evra",
-  "Finska udarila na Rusiju: Pokušava da naplati više od 25 milijardi evra"
+  "Finska udarila na Rusiju: Pokušava da naplati više od 25 milijardi evra",
+  "FINSKA UDARILA NA RUSIJU: Pokušava da naplati više od 25 milijardi evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +70,6 @@
   "local": true,
   "alt": "Finska pokušava da od Rusije i Gasproma naplati više od 25 milijardi evra"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
