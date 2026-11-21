@@ -228,6 +228,8 @@ main{padding-bottom:84px}
   border:1px solid var(--line);display:block}
 .sl.big{width:92px;height:52px;border-radius:9px}
 .sl.mini{width:34px;height:24px;border-radius:5px;margin-right:9px}
+.tbtn-hl{width:auto;padding:0 12px;background:var(--acc);border-color:var(--acc);color:#07122a;font:800 12.5px/1 Manrope;letter-spacing:.2px}
+.tbtn-hl:hover{filter:brightness(1.08)}
 .mini li{display:flex;align-items:center}
 td.t .tw{display:flex;gap:11px;align-items:flex-start;min-width:0}
 td.t .tw>div{min-width:0}
@@ -251,6 +253,7 @@ td.t .tw>div{min-width:0}
       <button data-p="custom">Period</button>
     </div>
     <div class="custom" id="custom"><input type="date" id="dOd"><span>–</span><input type="date" id="dDo"></div>
+    <button class="tbtn tbtn-hl" id="instal" hidden title="Instaliraj kao aplikaciju">Instaliraj</button>
     <button class="tbtn" id="refresh" title="Osveži" aria-label="Osveži"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg></button>
     <span class="upd" id="upd"></span>
   </div>
@@ -857,6 +860,16 @@ document.addEventListener("visibilitychange",function(){if(document.hidden||!key
   if(view==="portal"){loadLive();if(data&&Date.now()-data.generisano>120000)loadReport()}
   else if(view==="google"&&gData&&Date.now()-gData.generisano>600000)loadGoogle()});
 if("serviceWorker"in navigator)addEventListener("load",function(){navigator.serviceWorker.register("/komanda-sw.js").catch(function(){})});
+// Instalacija na računaru: ikonica se krije u traci pregledača i teško se nalazi.
+// Chrome i Edge jave kad je strana podobna, pa se tada ponudi dugme u zaglavlju.
+// Posle njega pregledač traži još jednu potvrdu, koju daje čovek.
+var ponuda=null;
+addEventListener("beforeinstallprompt",function(e){e.preventDefault();ponuda=e;$("#instal").hidden=false});
+addEventListener("appinstalled",function(){ponuda=null;$("#instal").hidden=true});
+$("#instal").addEventListener("click",function(){
+  if(!ponuda)return;
+  var p=ponuda;ponuda=null;$("#instal").hidden=true;
+  p.prompt();p.userChoice.catch(function(){})});
 if(key)start();else showGate();
 })();
 </script>
