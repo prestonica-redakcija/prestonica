@@ -31,17 +31,24 @@
  ],
  "importance": 5,
  "published": "2026-11-21T14:18:29.442150+00:00",
- "updated": "2026-11-21T14:18:29.442150+00:00",
+ "updated": "2026-11-21T17:46:42.593339+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/biznis/psg-agencija-za-osiguranje-depozita-da-zastiti-interese-gradjana-srbije-u-slucaju-prodaje-alta-banke-bitolj/",
    "title": "PSG: Agencija za osiguranje depozita da zaštiti interese građana Srbije u slučaju prodaje Alta banke Bitolj",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/mickoski-prodaja-alta-banka-bitolj/",
+   "title": "Mickoski: Ubeđen sam da će prodaja Alta banke Bitolj biti uspešna",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "PSG: Agencija za osiguranje depozita da zaštiti interese građana Srbije u slučaju prodaje Alta banke Bitolj"
+  "PSG: Agencija za osiguranje depozita da zaštiti interese građana Srbije u slučaju prodaje Alta banke Bitolj",
+  "Mickoski: Ubeđen sam da će prodaja Alta banke Bitolj biti uspešna"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:%D0%9E%D1%84%D0%B8%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B0_%D0%BF%D0%BE%D1%81%D0%B5%D1%82%D0%B0_%D0%BD%D0%B0_%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%BD%D0%B8%D0%BE%D1%82_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80_%D0%BD%D0%B0_%D0%9D%D0%90%D0%A2%D0%9E,_%D0%88%D0%B5%D0%BD%D1%81_%D0%A1%D1%82%D0%BE%D0%BB%D1%82%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%B3,_%D0%BD%D0%B0_%D0%92%D0%BB%D0%B0%D0%B4%D0%B0%D1%82%D0%B0_%D0%BD%D0%B0_%D0%A0%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0_(21.11.2023)_-_21.jpg",
   "alt": "PSG traži od Agencije za osiguranje depozita da zaustavi prodaju Alta banke Bitolj"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

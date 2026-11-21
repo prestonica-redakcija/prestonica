@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T06:18:15.014670+00:00",
- "updated": "2026-11-21T17:31:43.503468+00:00",
+ "updated": "2026-11-21T17:46:42.593339+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -76,6 +76,18 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/299759/kamioni-cekaju-pet-sati-na-granicnom-prelazu-batrovci/vest",
    "title": "Kamioni čekaju pet sati na graničnom prelazu Batrovci",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/amss-kamioni-na-izlaz-iz-zemlje-cekaju-i-do-pet-sati-nema-zadrzavanja-na-putnickim-terminalima",
+   "title": "AMSS: Kamioni na izlaz iz zemlje čekaju i do pet sati, nema zadržavanja na putničkim terminalima",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4437272-pet-sati-zadrzavanja-za-kamiondzije-na-granicnom-prelazu-batrovci",
+   "title": "Pet sati zadržavanja za kamiondžije na graničnom prelazu Batrovci",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -86,7 +98,9 @@
   "Kamioni na Batrovcima čekaju 5 sati: AMSS objavio stanje na granicama tokom večeri, evo kakva je situacija za putnička vozila",
   "Teretnjaci na izlazu čekaju pet sati na Batrovcima, svi putevi prohodni",
   "Kamioni čekaju pet sati na Batrovcima",
-  "Kamioni čekaju pet sati na graničnom prelazu Batrovci"
+  "Kamioni čekaju pet sati na graničnom prelazu Batrovci",
+  "AMSS: Kamioni na izlaz iz zemlje čekaju i do pet sati, nema zadržavanja na putničkim terminalima",
+  "Pet sati zadržavanja za kamiondžije na graničnom prelazu Batrovci"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -99,8 +113,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Grani%C4%8Dni_prelaz_Batrovci_in_the_evening_(1).jpg",
   "alt": "Na prelazu Batrovci teretna vozila na izlaz čekaju šest sati, putnički saobraćaj bez zadržavanja"
  },
- "novo_od_pisanja": 3,
- "boost": 1.56,
+ "novo_od_pisanja": 5,
+ "boost": 1.6,
  "prepisano": "2026-11-20T21:56:34.046498+00:00",
  "verzija": 2
 }

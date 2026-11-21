@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T11:05:11.644816+00:00",
- "updated": "2026-11-21T11:49:52.141541+00:00",
+ "updated": "2026-11-21T17:46:42.593339+00:00",
  "sources": [
   {
    "name": "N1",
@@ -41,11 +41,18 @@
    "url": "https://www.danas.rs/vesti/politika/dragan-popovic-najveci-izazov-novoj-vlasti-bice-to-sto-nema-opoziciju/",
    "title": "Dragan Popović: Najveći izazov novoj vlasti biće to što nema opoziciju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/video/novi-dan/press-dragan-popovic-21112026/",
+   "title": "PRESS: Dragan Popović (21.11.2026)",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Popović: Najveći izazov novoj vlasti biće to što nema opoziciju, SNS je dokazani neprijatelj demokratije",
-  "Dragan Popović: Najveći izazov novoj vlasti biće to što nema opoziciju"
+  "Dragan Popović: Najveći izazov novoj vlasti biće to što nema opoziciju",
+  "PRESS: Dragan Popović (21.11.2026)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,6 +64,6 @@
   "local": true,
   "alt": "Popović: Novoj vlasti najveći izazov je izgradnja demokratije bez prave opozicije"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T14:48:17.077113+00:00",
- "updated": "2026-11-21T16:02:36.259840+00:00",
+ "updated": "2026-11-21T17:46:42.593339+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -43,11 +43,18 @@
    "url": "https://www.kurir.rs/vesti/politika/10168820/ragus-nedostatak-komunikacije-izmedju-vlasti-i-opozicije",
    "title": "U UTORAK ODLUKA O SKUPŠTINSKIM ODBORIMA! Marina Raguš: Između vlasti i opozicije nema nikakve komunikacije!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=lRFmkC45ekI",
+   "title": "Raguš: Nema komunikacije između vlasti i opozicije",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
   "\"Možda je neko i hteo, ali nije smeo!\" Raguš otkrila šta se dešava iza kulisa Skupštine: Ovo je ozbiljan društveno-politički eksperiment (FOTO)",
-  "U UTORAK ODLUKA O SKUPŠTINSKIM ODBORIMA! Marina Raguš: Između vlasti i opozicije nema nikakve komunikacije!"
+  "U UTORAK ODLUKA O SKUPŠTINSKIM ODBORIMA! Marina Raguš: Između vlasti i opozicije nema nikakve komunikacije!",
+  "Raguš: Nema komunikacije između vlasti i opozicije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "local": true,
   "alt": "Raguš: u Skupštini nema komunikacije, o kandidatima za odbore odluka u utorak"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
