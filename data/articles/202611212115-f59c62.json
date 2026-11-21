@@ -34,7 +34,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T20:15:28.244701+00:00",
- "updated": "2026-11-21T20:15:28.244701+00:00",
+ "updated": "2026-11-21T22:29:05.449644+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,11 +47,25 @@
    "url": "https://www.kurir.rs/planeta/10169064/trovanje-alkoholom-indija-11-mrtvih",
    "title": "11 OSOBA UMRLO OD TROVANJA ALKOHOLOM: Više od 180 ljudi završilo u bolnici, pokrenuta istraga! Jeziv slučaj u Indiji",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/najmanje-11-mrtvih-u-indiji-otrovali-se-lokalno-proizvedenim-alkoholom/",
+   "title": "Najmanje 11 mrtvih u Indiji, otrovali se lokalno proizvedenim alkoholom",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/planeta/253113/manipur-11-mrtvih-vise-od-180-u-bolnici-zbog-alkohola/vest",
+   "title": "Najmanje 11 mrtvih i više od 180 u bolnicama u Indiji: Masovno trovanje nelegalnim alkoholom u državi Manipur",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Indija: Umrlo 11 osoba, više od 180 hospitalizovano zbog trovanja nelegalnim alkoholom",
-  "11 OSOBA UMRLO OD TROVANJA ALKOHOLOM: Više od 180 ljudi završilo u bolnici, pokrenuta istraga! Jeziv slučaj u Indiji"
+  "11 OSOBA UMRLO OD TROVANJA ALKOHOLOM: Više od 180 ljudi završilo u bolnici, pokrenuta istraga! Jeziv slučaj u Indiji",
+  "Najmanje 11 mrtvih u Indiji, otrovali se lokalno proizvedenim alkoholom",
+  "Najmanje 11 mrtvih i više od 180 u bolnicama u Indiji: Masovno trovanje nelegalnim alkoholom u državi Manipur"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +77,7 @@
   "local": false,
   "alt": "Hospital room with three beds and medical equipment",
   "link": "https://unsplash.com/@alrighthospital"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

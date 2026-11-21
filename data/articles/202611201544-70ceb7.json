@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T14:44:40.690492+00:00",
- "updated": "2026-11-20T14:44:40.690492+00:00",
+ "updated": "2026-11-21T22:29:05.449644+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,11 +44,18 @@
    "url": "https://www.danas.rs/svet/dominik-de-vilpen-francuska-kandidatura/",
    "title": "Dominik de Vilpen zvanično objavio kandidaturu za predsednika Francuske: „Više kandidata, više neizvesnosti“",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299821/francuska-rufen-povukao-kandidaturu-za-predsednika/vest",
+   "title": "Francuska: Rufen povukao kandidaturu za predsednika",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Dominik de Vilpen najavio kandidaturu na predsedničkim izborima u Francuskoj 2027.",
-  "Dominik de Vilpen zvanično objavio kandidaturu za predsednika Francuske: „Više kandidata, više neizvesnosti“"
+  "Dominik de Vilpen zvanično objavio kandidaturu za predsednika Francuske: „Više kandidata, više neizvesnosti“",
+  "Francuska: Rufen povukao kandidaturu za predsednika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "De Vilpen zvanično objavio kandidaturu na predsedničkim izborima u Francuskoj 2027"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
