@@ -652,9 +652,20 @@ function dan(k){k=String(k||"");if(/^\d{8}$/.test(k))k=k.slice(0,4)+"-"+k.slice(
 function kratko(k){var a=dan(k).split("-");return a.length===3?(+a[2])+"."+(+a[1])+".":k}
 
 /* ---- Google */
+/* Search Console kasne podatke 1-3 dana. Aplikacija se otvara na "Danas", pa je
+   kartica Google bila prazna svaki put iako podaci postoje: Google prosto jos
+   nema danasnji dan. Za kratke periode zato trazimo poslednjih 28 dana i to
+   jasno pisemo, umesto da pokazujemo praznu karticu. */
+function rangeGoogle(){
+  var r=range(), kratko=(period==="danas"||period==="juce"||(+period>0&&+period<7));
+  if(!kratko)return r;
+  var now=Date.now();
+  return [midnightBg(now-27*864e5), now, "Poslednjih 28 dana"];
+}
 function loadGoogle(){
-  var r=range();
-  return get("/google?od="+r[0]+"&do="+r[1]).then(function(j){gData=j;gData.label=r[2];renderGoogle()}).catch(function(e){
+  var r=rangeGoogle();
+  var pomeren=(r[2]==="Poslednjih 28 dana"&&period!=="28");
+  return get("/google?od="+r[0]+"&do="+r[1]).then(function(j){gData=j;gData.label=r[2];gData.pomeren=pomeren;renderGoogle()}).catch(function(e){
     $("#gInfo").innerHTML=stanje(false,esc(e.message),'Dodaj tajne <code>GOOGLE_SA_EMAIL</code>, <code>GOOGLE_SA_KEY</code> i <code>GA4_PROPERTY_ID</code> u Cloudflare servis, pa osveži.');
     if(e.auth)fail(e)});
 }
@@ -672,7 +683,7 @@ function renderGoogle(){
   (s.poDanu||[]).forEach(function(x){var k=dan(x.k);m[k]=m[k]||{};m[k].klik=x.klik});
   var pts=Object.keys(m).sort().map(function(k){return{lab:kratko(k),ga:m[k].ga||0,klik:m[k].klik||0}});
   linije("#gChart","#gTip",pts,[{k:"ga",ime:"pregleda (GA4)",c:"var(--acc)"},{k:"klik",ime:"klikova iz pretrage",c:"var(--c3)"}]);
-  $("#gChSub").textContent=gData.label+(a.greska?" · GA4 nije dostupan":"")+(s.greska?" · Search Console nije dostupan":"");
+  $("#gChSub").textContent=gData.label+(gData.pomeren?" · Google nema današnji dan, kasni 1-3 dana, pa ova kartica uvek gleda 28 dana":"")+(a.greska?" · GA4 nije dostupan":"")+(s.greska?" · Search Console nije dostupan":"");
   bars("#gKanali",(a.kanali||[]).map(function(r){return{k:r.k||"Nepoznato",v:r.v}}),{lim:8,extra:function(r){return""}});
   bars("#gZemlje",(a.zemlje||[]).map(function(r){return{k:r.k||"Nepoznato",v:r.v}}),{lim:10});
   bars("#gUredjaji",(s.uredjaji||[]).map(function(r){return{k:({DESKTOP:"Računar",MOBILE:"Mobilni",TABLET:"Tablet"})[r.k]||r.k,v:r.klik}}),{});
