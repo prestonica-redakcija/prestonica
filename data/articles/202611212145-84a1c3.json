@@ -32,7 +32,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T20:45:05.557630+00:00",
- "updated": "2026-11-21T20:45:05.557630+00:00",
+ "updated": "2026-11-21T21:00:00.529657+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -45,11 +45,18 @@
    "url": "https://insajder.net/prenosimo/eskalacija-nasilja-u-meksiku-nakon-hapsenja-vode-kartela-vojska-podigla-helikoptere",
    "title": "Eskalacija nasilja u Meksiku nakon hapšenja vođe kartela, vojska podigla helikoptere",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/299797/najmanje-11-poginulih-u-meksiku-nakon-hapsenja-vode-kartela/vest",
+   "title": "Najmanje 11 poginulih u Meksiku nakon hapšenja vođe kartela",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Najmanje 11 mrtvih u Meksiku nakon hapšenja vođe kartela: Vojni helikopteri i pucnjava u Sinaloi (FOTO/VIDEO)",
-  "Eskalacija nasilja u Meksiku nakon hapšenja vođe kartela, vojska podigla helikoptere"
+  "Eskalacija nasilja u Meksiku nakon hapšenja vođe kartela, vojska podigla helikoptere",
+  "Najmanje 11 poginulih u Meksiku nakon hapšenja vođe kartela"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "local": false,
   "alt": "full moon above lighted building during night",
   "link": "https://unsplash.com/@nacho_velmont"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

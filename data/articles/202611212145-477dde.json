@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T20:45:05.557630+00:00",
- "updated": "2026-11-21T20:45:05.557630+00:00",
+ "updated": "2026-11-21T21:00:00.529657+00:00",
  "sources": [
   {
    "name": "N1",
@@ -46,12 +46,19 @@
    "url": "https://www.kurir.rs/region/bosna-i-hercegovina/10169081/sudar-autobusa-i-automobila-brcko",
    "title": "TEŠKA NESREĆA U BRČKOM: Jedna osoba poginula u sudaru autobusa i automobila, više povređenih",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/jedna-osoba-poginula-vise-povredjenih-u-sudaru-autobusa-i-automobila-u-brckom/",
+   "title": "Jedna osoba poginula, više povređenih u sudaru autobusa i automobila u Brčkom",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Jedna osoba poginula, više povređenih u sudaru autobusa i automobila u Brčkom",
   "Jedna osoba poginula, više povređenih u sudaru autobusa i automobila u Brčkom",
-  "TEŠKA NESREĆA U BRČKOM: Jedna osoba poginula u sudaru autobusa i automobila, više povređenih"
+  "TEŠKA NESREĆA U BRČKOM: Jedna osoba poginula u sudaru autobusa i automobila, više povređenih",
+  "Jedna osoba poginula, više povređenih u sudaru autobusa i automobila u Brčkom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +70,7 @@
   "local": false,
   "alt": "a police car driving down a street at night",
   "link": "https://unsplash.com/@abject"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
