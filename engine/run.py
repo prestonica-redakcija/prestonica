@@ -115,6 +115,8 @@ def main() -> None:
                 images.known[fold(orig)] = e["foto"]
                 images.known[fold(e.get("ime") or orig)] = e["foto"]
         images.note_used([a for a in articles if age_hours(a["published"]) < 72])
+        # objave aktera sa X-a kao izvor fotografija: slika sa čovekovog naloga ne može biti drugi čovek
+        images.set_xposts((state.get("x") or {}).get("posts") or [])
         # popravka fotografija u vestima iz poslednja 3 dana: strane stock fotografije koje su uklonjene iz arhive
         # i fotografije pogrešne osobe istog prezimena dobijaju novu fotografiju (isti tekst, isti link)
         _lib = {"foto/" + f["fajl"] for f in images.lib}
