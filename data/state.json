@@ -1,15 +1,5 @@
 {
  "seen": {
-  "https://informer.rs/politika/vesti/1170569/napadac-hapsenje-rem-policija": "2026-11-16T21:53:50.355773+00:00",
-  "https://www.danas.rs/vesti/drustvo/mup-ispred-rem-a-uhapsen-16-godisnjak-napao-gradjane-nozem/": "2026-11-16T21:53:50.355773+00:00",
-  "https://n1info.rs/vesti/izmene-linija-prevoza-na-novom-beogradu-od-17-novembra/": "2026-11-16T21:53:50.355773+00:00",
-  "https://www.euronews.rs/svet/fokus/252396/lindzi-klenzi-novo-sudenje-zakazano-za-29-mart/vest": "2026-11-16T21:53:50.355773+00:00",
-  "https://www.danas.rs/vesti/politika/grbovic-nadam-se-da-vise-niko-u-skupstini-nece-prolaziti-kroz-sta-smo-prolazili-moje-kolege-i-ja/": "2026-11-16T21:53:50.355773+00:00",
-  "https://n1info.rs/biznis/jerinic-expo-2027-o-svojim-aktivnostima-redovno-i-transparentno-izvestavamo-javnost/": "2026-11-16T21:53:50.355773+00:00",
-  "https://www.tanjug.rs/ekonomija/svet/298339/trampova-medijska-kompanija-suocena-sa-mogucom-otplatom-milijardu-dolara-duga/vest": "2026-11-16T21:53:50.355773+00:00",
-  "https://www.tanjug.rs/ekonomija/srbija/298338/poslodavci-se-zalazu-za-smanjenje-troskova-poslovanja-i-jacu-podrsku-domacoj-privredi/vest": "2026-11-16T21:53:50.355773+00:00",
-  "https://www.kurir.rs/stars/10164165/sloba-radanovic-iznenadio-slavljenicu-na-rodjendanu": "2026-11-16T21:53:50.355773+00:00",
-  "https://n1info.rs/svet/izrael-palestinci-gaza-nadzor-amazon/": "2026-11-16T21:53:50.355773+00:00",
   "https://insajder.net/teme/sta-srbi-na-kosovu-ocekuju-od-nove-vlasti-u-beogradu-video": "2026-11-16T22:08:38.024254+00:00",
   "https://www.danas.rs/vesti/politika/studenti-vggs-kandidatima-postupajte-u-duhu-studentskog-pokreta-i-naroda-koji-vas-je-izabrao/": "2026-11-16T22:08:38.024254+00:00",
   "https://www.novosti.rs/ekonomija/vesti/1671855/poslodavci-smanjenje-troskova-privreda-unija-poslodavaca": "2026-11-16T22:08:38.024254+00:00",
@@ -6878,18 +6868,19 @@
   "https://www.kurir.rs/zabava/zanimljivosti/10169100/zivot-u-jakutiji-na-minus-50": "2026-11-21T21:44:33.808460+00:00",
   "https://insajder.net/prenosimo/u-zagrebu-komemoracija-kristijanu-josipu-perisu-zatrazeno-kaznjavanje-odgovornih-i-izmena-propisa-o-fizickom-sputavanju-pacijenata": "2026-11-21T21:44:33.808460+00:00",
   "https://www.danas.rs/svet/region/u-zagrebu-veceras-odrzana-komemoracija-za-preminulog-kristiana-josipa-perisa/": "2026-11-21T21:44:33.808460+00:00",
-  "https://www.telegraf.rs/vesti/jugosfera/4437373-odrzana-komemoracija-za-kristijana-josipa-perisa-u-zagrebu-i-rijeci": "2026-11-21T21:44:33.808460+00:00"
+  "https://www.telegraf.rs/vesti/jugosfera/4437373-odrzana-komemoracija-za-kristijana-josipa-perisa-u-zagrebu-i-rijeci": "2026-11-21T21:44:33.808460+00:00",
+  "https://www.b92.net/info/svet/287031/hospitalizovan-zair-bolsonaro/vest": "2026-11-21T21:59:33.342617+00:00",
+  "https://www.telegraf.rs/vesti/hronika/4437376-oglasilo-se-i-tuzilastvo-posle-hapsenja-dvojice-piromana-izazvali-pozar-u-krunskoj-ulici": "2026-11-21T21:59:33.342617+00:00",
+  "https://n1info.rs/svet/hiljade-ljudi-protestovalo-u-lisabonu-zbog-rasta-troskova/": "2026-11-21T21:59:33.342617+00:00",
+  "https://www.telegraf.rs/vesti/jugosfera/4437369-aktivirao-se-alarm-uhapsen-optuzeni-za-ucesce-u-brutalnom-ubistvu-pao-dok-se-ukrcavao-u-avion-za-beograd": "2026-11-21T21:59:33.342617+00:00",
+  "https://www.kurir.rs/crna-hronika/10169117/u-zagrebu-uhapsen-skaljarac-bojan-matanovic-zbog-ucesca-u-ubistvu-klikovca": "2026-11-21T21:59:33.342617+00:00",
+  "https://insajder.net/teme/od-pesme-da-sam-ja-netko-grupe-indexi-do-sevdalinki-amira-medunjanin-o-muzici-koja-pamti-ljude-gradove-i-neuzvracene-ljubavi": "2026-11-21T21:59:33.342617+00:00",
+  "https://www.kurir.rs/stars/10169076/brena-i-boba-slave-arandjelovdan": "2026-11-21T21:59:33.342617+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-21T07:13+00:00",
-   "novih": 2,
-   "ukupno": 3258,
-   "sekundi": 386.6
-  },
   {
    "vreme": "2026-11-21T07:29+00:00",
    "novih": 1,
@@ -7243,6 +7234,12 @@
    "novih": 2,
    "ukupno": 3484,
    "sekundi": 425.7
+  },
+  {
+   "vreme": "2026-11-21T22:07+00:00",
+   "novih": 4,
+   "ukupno": 3488,
+   "sekundi": 460.3
   }
  ],
  "licnosti_foto": {
@@ -9954,7 +9951,7 @@
    "slug": "slavija-info-vucic-kao-satorska-pevacica-isecak-iz-emisije-aqkijyby5lw"
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -10041,7 +10038,7 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2122706531619889216",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "parandilovicnls": {
     "since_id": "2124240048296247400",
@@ -10069,39 +10066,39 @@
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "bibislav": {
     "since_id": "2123404577495986296",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "savomanojlovic": {
     "since_id": "2123876557928251511",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "zdravkoponos": {
     "since_id": "2123476746787860570",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "pavlegrbovic": {
     "since_id": "2124170360761336221",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "avucic": {
     "since_id": "2124112077568512469",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "anabrnabic": {
     "since_id": "2124174626532257869",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "milos_vucevic": {
     "since_id": "2124125079680541178",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "sns_srbija": {
     "since_id": "2124219856731897863",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "vlada_srbije": {
     "since_id": null,
@@ -10145,23 +10142,23 @@
    },
    "markodjuric": {
     "since_id": "2123870662255419709",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "nstarovic": {
     "since_id": "2122967633863565451",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "milenkojovanov": {
     "since_id": "2124130847993336246",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "acasapic": {
     "since_id": null,
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "borkostef": {
     "since_id": "2123837042505155014",
@@ -10173,11 +10170,11 @@
    },
    "dobrinacelnik": {
     "since_id": "2124156307431207365",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "jeremic_vuk": {
     "since_id": "2123007427536732502",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
@@ -10185,51 +10182,51 @@
    },
    "srdjanmil037": {
     "since_id": "2124187241647931542",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "zoranlutovac": {
-    "since_id": "2124126284523692198",
-    "t": 1795293997.1428487
+    "since_id": "2124260186181476855",
+    "t": 1795298494.5535204
    },
    "pajticbojan": {
     "since_id": "2123010476577554657",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "n_zelenovic": {
     "since_id": "2123561201799921899",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "boskoobradovic": {
     "since_id": "2123742987129635150",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "sasaradulovich": {
     "since_id": "2124082643876610559",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "zaklina_prva": {
     "since_id": "2123878054812692524",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "stevanoccrp": {
     "since_id": "2123805903467995201",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "igorbrakus": {
     "since_id": "2124133421958013055",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "radoholicar": {
     "since_id": "2123165000919326944",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "borakonj": {
     "since_id": "2124246520983896126",
@@ -10237,7 +10234,7 @@
    },
    "narodnipokrets": {
     "since_id": "2123734701261169003",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "direktnors": {
     "since_id": "2124248806594171280",
@@ -10305,15 +10302,15 @@
    },
    "nedeljniknin": {
     "since_id": "2124216278017610198",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "trajkovic_rada": {
     "since_id": "2123775843264569788",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "stateinl": {
     "since_id": "2123891635784233264",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "tvbalkaninfo": {
     "since_id": "2124225258324660295",
@@ -10325,31 +10322,31 @@
    },
    "zatrijebacki": {
     "since_id": "2123844027036709035",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "srbininfo": {
     "since_id": "2124208310152839314",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "mfaserbia": {
     "since_id": "2123813730215489722",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "izlaz_dot_com": {
-    "since_id": "2124238557417996418",
-    "t": 1795293997.1428487
+    "since_id": "2124257502611030177",
+    "t": 1795298494.5535204
    },
    "tihinavezi": {
     "since_id": "2124155221232279971",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "relativizacija": {
     "since_id": "2124218280676327676",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "seanmilanovic": {
     "since_id": "2123585025610248682",
-    "t": 1795293997.1428487
+    "t": 1795298494.5535204
    },
    "masinars": {
     "since_id": "2124230635392836072",
@@ -10357,6 +10354,32 @@
    }
   },
   "posts": [
+   {
+    "id": "2124260186181476855",
+    "x": "ZoranLutovac",
+    "ime": "Zoran Lutovac",
+    "grupa": "opozicija",
+    "uloga": "Demokratska stranka",
+    "text": "Esbjörn Svensson Trio\nLirska jazz melanholija u rock formatu.\n\n#NowPlaying\nFrom Gagarin's point of view \nhttps://t.co/0vCvBloz6n via @YouTube",
+    "published": "2026-11-21T21:54:29.000+00:00",
+    "lajk": 5,
+    "prikazi": false,
+    "rubrika": "kultura",
+    "tema": "Muzička preporuka, jazz trio, NowPlaying"
+   },
+   {
+    "id": "2124257502611030177",
+    "x": "izlaz_dot_com",
+    "ime": "IZLAZ.com",
+    "grupa": "",
+    "uloga": "",
+    "text": "Studentska lista objavila \"vodič\" za izbor nove Vlade Srbije\n\nhttps://t.co/2KMT9zd1LJ",
+    "published": "2026-11-21T21:43:50.000+00:00",
+    "lajk": 2,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Studentska lista objavila vodič za izbor nove Vlade Srbije"
+   },
    {
     "id": "2124249670524289430",
     "x": "tvnova_s",
@@ -21047,32 +21070,6 @@
     "rubrika": "politika",
     "tema": "Kritika kontakata Studentske liste sa Briselom",
     "vest": "202611190928-7f2c10"
-   },
-   {
-    "id": "2123373928617742712",
-    "x": "n_zelenovic",
-    "ime": "Nebojša Zelenović",
-    "grupa": "opozicija",
-    "uloga": "",
-    "text": "Koliko dosadan i neduhovit balvan.",
-    "published": "2026-11-19T11:12:49.000+00:00",
-    "lajk": 26,
-    "prikazi": false,
-    "rubrika": "politika",
-    "tema": "Uvreda bez jasnog sadržaja"
-   },
-   {
-    "id": "2123373513276854370",
-    "x": "Bcenzure",
-    "ime": "Bez Cenzure",
-    "grupa": "",
-    "uloga": "",
-    "text": "Moj stav, Ivan Tatić\n\n18.11.2026. godine. Drugi dan kako slušamo monoton, burlanje srži zla na jednom mestu. Vazduh ustajao, davi, pritisak raste. Pacovi cinično ciče, da nema istine, da nema Boga (da je prvi među njima Bog)…\n\nSva pravila vrede tek kada ima ko da ih primeni, i https://t.co/qRrvlYwa4h",
-    "published": "2026-11-19T11:11:10.000+00:00",
-    "lajk": 0,
-    "prikazi": false,
-    "rubrika": "politika",
-    "tema": "Uvredljiv komentar o skupštinskoj sednici"
    }
   ],
   "pratim": [
@@ -56614,6 +56611,191 @@
   "t:klinika sveti ivan": {
    "t": 1795296640.7310603,
    "items": []
+  },
+  "t:sava centar": {
+   "t": 1795298428.1178107,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Sava_Centar_Panorama.jpg/1920px-Sava_Centar_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 8200,
+     "h": 1200,
+     "god": 2005,
+     "credit": "Wikimedia Commons / Lošmi / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sava_Centar_Panorama.jpg",
+     "naslov": "Sava Centar Panorama.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/%D0%A1%D0%B0%D0%B2%D0%B0_%D1%86%D0%B5%D0%BD%D1%82%D0%B0%D1%80_%D0%BA%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D0%BD%D0%B0_%D1%81%D0%BE%D0%B1%D0%B0_%28Sava_Center%2C_convention_room%29.jpg/1920px-%D0%A1%D0%B0%D0%B2%D0%B0_%D1%86%D0%B5%D0%BD%D1%82%D0%B0%D1%80_%D0%BA%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D0%BD%D0%B0_%D1%81%D0%BE%D0%B1%D0%B0_%28Sava_Center%2C_convention_room%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5472,
+     "h": 3328,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Petar Milošević / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%B2%D0%B0_%D1%86%D0%B5%D0%BD%D1%82%D0%B0%D1%80_%D0%BA%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D0%BD%D0%B0_%D1%81%D0%BE%D0%B1%D0%B0_(Sava_Center,_convention_room).jpg",
+     "naslov": "Сава центар конгресна соба (Sava Center, convention room).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/%D0%A1%D0%B0%D0%B2%D0%B0_%D1%86%D0%B5%D0%BD%D1%82%D0%B0%D1%80%2C_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_%28Sava_centar%2C_Belgrade%2C_Serbia%29.jpg/1920px-%D0%A1%D0%B0%D0%B2%D0%B0_%D1%86%D0%B5%D0%BD%D1%82%D0%B0%D1%80%2C_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_%28Sava_centar%2C_Belgrade%2C_Serbia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4946,
+     "h": 2593,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Petar Milošević / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%B2%D0%B0_%D1%86%D0%B5%D0%BD%D1%82%D0%B0%D1%80,_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_(Sava_centar,_Belgrade,_Serbia).jpg",
+     "naslov": "Сава центар, Београд (Sava centar, Belgrade, Serbia).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/%D0%A1%D0%B0%D0%B2%D0%B0_%D1%86%D0%B5%D0%BD%D1%82%D0%B0%D1%80_%D0%BD%D0%BE%D1%9B%D1%83%2C_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_%28Sava_centar_by_night%2C_Belgrade%2C_Serbia%29.jpg/1920px-%D0%A1%D0%B0%D0%B2%D0%B0_%D1%86%D0%B5%D0%BD%D1%82%D0%B0%D1%80_%D0%BD%D0%BE%D1%9B%D1%83%2C_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_%28Sava_centar_by_night%2C_Belgrade%2C_Serbia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6515,
+     "h": 4511,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Petar Milošević / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%B2%D0%B0_%D1%86%D0%B5%D0%BD%D1%82%D0%B0%D1%80_%D0%BD%D0%BE%D1%9B%D1%83,_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_(Sava_centar_by_night,_Belgrade,_Serbia).jpg",
+     "naslov": "Сава центар ноћу, Београд (Sava centar by night, Belgrade, Serbia).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Sava_Centar_-_Cylindrical_perspective.jpg/1920px-Sava_Centar_-_Cylindrical_perspective.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3999,
+     "h": 800,
+     "god": 2009,
+     "credit": "Wikimedia Commons / Lošmi / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sava_Centar_-_Cylindrical_perspective.jpg",
+     "naslov": "Sava Centar - Cylindrical perspective.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Vlatko_Stefanovski_-_Sava_Centar%2C_21-4-2017_07.jpg/1920px-Vlatko_Stefanovski_-_Sava_Centar%2C_21-4-2017_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4312,
+     "h": 4000,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Miomir Magdevski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Vlatko_Stefanovski_-_Sava_Centar,_21-4-2017_07.jpg",
+     "naslov": "Vlatko Stefanovski - Sava Centar, 21-4-2017 07.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Vlatko_Stefanovski_-_Sava_Centar%2C_21-4-2017_01.jpg/1920px-Vlatko_Stefanovski_-_Sava_Centar%2C_21-4-2017_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2335,
+     "h": 3091,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Miomir Magdevski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Vlatko_Stefanovski_-_Sava_Centar,_21-4-2017_01.jpg",
+     "naslov": "Vlatko Stefanovski - Sava Centar, 21-4-2017 01.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Serbia%2C_Belgrade%2C_Tower_by_Sava_Centar%2C_03.04.2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1216,
+     "h": 4946,
+     "god": 2011,
+     "credit": "Wikimedia Commons / User:Михајло Анђелковић / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Serbia,_Belgrade,_Tower_by_Sava_Centar,_03.04.2011.jpg",
+     "naslov": "Serbia, Belgrade, Tower by Sava Centar, 03.04.2011.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Vlatko_Stefanovski_-_Sava_Centar%2C_21-4-2017_06.jpg/1920px-Vlatko_Stefanovski_-_Sava_Centar%2C_21-4-2017_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3528,
+     "h": 4000,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Miomir Magdevski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Vlatko_Stefanovski_-_Sava_Centar,_21-4-2017_06.jpg",
+     "naslov": "Vlatko Stefanovski - Sava Centar, 21-4-2017 06.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Sava_Centar_gallery.jpg/1920px-Sava_Centar_gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3264,
+     "h": 4928,
+     "god": 2019,
+     "credit": "Wikimedia Commons / 100Goblins / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sava_Centar_gallery.jpg",
+     "naslov": "Sava Centar gallery.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Boris_Mili%C4%87evi%C4%87_na_protestu_GSA_ispred_Sava_centar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1024,
+     "h": 768,
+     "god": 2009,
+     "credit": "Wikimedia Commons / MaxwellSilverHammer / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Boris_Mili%C4%87evi%C4%87_na_protestu_GSA_ispred_Sava_centar.jpg",
+     "naslov": "Boris Milićević na protestu GSA ispred Sava centar.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Sava_Centar_Panorama_%28cropped%29.jpg/1920px-Sava_Centar_Panorama_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2738,
+     "h": 1080,
+     "god": 2005,
+     "credit": "Wikimedia Commons / Lošmi / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sava_Centar_Panorama_(cropped).jpg",
+     "naslov": "Sava Centar Panorama (cropped).jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Plava_sala_Sava_Centar_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1280,
+     "h": 900,
+     "god": 2025,
+     "credit": "Wikimedia Commons / This image was made by Sadko.\n\nPlease credit this with: \"Sad / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Plava_sala_Sava_Centar_2025.jpg",
+     "naslov": "Plava sala Sava Centar 2025.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Kompozicija_Sava_Centar_foto_Djordje_Tomic_%C2%A9.jpg/1920px-Kompozicija_Sava_Centar_foto_Djordje_Tomic_%C2%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 18049,
+     "h": 4016,
+     "god": 2023,
+     "credit": "Wikimedia Commons / Tomic Djordje, Fotokratija / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Kompozicija_Sava_Centar_foto_Djordje_Tomic_%C2%A9.jpg",
+     "naslov": "Kompozicija Sava Centar foto Djordje Tomic ©.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Sava_Centar_entrance_hall.jpg/1920px-Sava_Centar_entrance_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3264,
+     "h": 4928,
+     "god": 2019,
+     "credit": "Wikimedia Commons / 100Goblins / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sava_Centar_entrance_hall.jpg",
+     "naslov": "Sava Centar entrance hall.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Sava_Centar_glass_front.jpg/1920px-Sava_Centar_glass_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4928,
+     "h": 3264,
+     "god": 2019,
+     "credit": "Wikimedia Commons / 100Goblins / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sava_Centar_glass_front.jpg",
+     "naslov": "Sava Centar glass front.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Vlatko_Stefanovski_-_Sava_Centar%2C_21-4-2017_05.jpg/1920px-Vlatko_Stefanovski_-_Sava_Centar%2C_21-4-2017_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6000,
+     "h": 4000,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Miomir Magdevski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Vlatko_Stefanovski_-_Sava_Centar,_21-4-2017_05.jpg",
+     "naslov": "Vlatko Stefanovski - Sava Centar, 21-4-2017 05.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Vlatko_Stefanovski_-_Sava_Centar%2C_21-4-2017_04.jpg/1920px-Vlatko_Stefanovski_-_Sava_Centar%2C_21-4-2017_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6000,
+     "h": 4000,
+     "god": 2017,
+     "credit": "Wikimedia Commons / Miomir Magdevski / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Vlatko_Stefanovski_-_Sava_Centar,_21-4-2017_04.jpg",
+     "naslov": "Vlatko Stefanovski - Sava Centar, 21-4-2017 04.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sava_Centar_service_counter_area.jpg/1920px-Sava_Centar_service_counter_area.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3264,
+     "h": 4928,
+     "god": 2019,
+     "credit": "Wikimedia Commons / 100Goblins / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sava_Centar_service_counter_area.jpg",
+     "naslov": "Sava Centar service counter area.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Sava_Centar_lighting.jpg/1920px-Sava_Centar_lighting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4928,
+     "h": 3264,
+     "god": 2019,
+     "credit": "Wikimedia Commons / 100Goblins / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sava_Centar_lighting.jpg",
+     "naslov": "Sava Centar lighting.jpg"
+    }
+   ]
   }
  },
  "x_objave": {
@@ -60650,7 +60832,7 @@
   "yt": "Hdk3ahufa64",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-21T21:46:19.786854+00:00",
+  "provereno": "2026-11-21T22:01:52.078704+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": true
  },
