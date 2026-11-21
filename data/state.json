@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://insajder.net/prenosimo/majkrosoft-utvrdio-da-je-visemesecni-softverski-propust-izazvao-globalni-prekid-rada": "2026-11-16T23:38:06.186050+00:00",
-  "https://www.kurir.rs/vesti/srbija/10163961/posao-u-hitnoj-pomoci-u-nisu-konkurs-za-5-radnih-mesta": "2026-11-16T23:38:06.186050+00:00",
   "https://www.telegraf.rs/vesti/svet/4434266-sad-nude-nagradu-od-ukupno-20-miliona-dolara-za-informacije-o-dvojici-narko-terorista": "2026-11-16T23:53:09.540529+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/252318/najki-planira-ustede-od-25-milijardi-dolara/vest": "2026-11-17T00:07:54.130705+00:00",
   "https://www.telegraf.rs/vesti/svet/4434227-zelenski-teski-razgovori-ukrajinskih-americkih-i-evropskih-pregovaraca": "2026-11-17T00:37:41.932821+00:00",
@@ -6872,18 +6870,17 @@
   "https://radar.nova.rs/global/generacija-z-protesti-2/": "2026-11-21T23:13:49.161664+00:00",
   "https://www.kurir.rs/vesti/beograd/10168926/pojedine-ulice-na-vozdovcu-u-utorak-bez-vode-od-8-do-16-sati": "2026-11-21T23:28:33.084901+00:00",
   "https://www.tanjug.rs/svet/drustvo/299749/ispod-aja-sofije-u-istanbulu-otkriveni-podzemni-tuneli/vest": "2026-11-21T23:28:33.084901+00:00",
-  "https://www.kurir.rs/planeta/10168937/aja-sofija-otkriveni-drevni-tuneli": "2026-11-21T23:28:33.084901+00:00"
+  "https://www.kurir.rs/planeta/10168937/aja-sofija-otkriveni-drevni-tuneli": "2026-11-21T23:28:33.084901+00:00",
+  "https://www.tanjug.rs/svet/politika/299760/kanada-planira-nabavku-sistema-za-podvodni-nadzor-koji-koristi-dronove-i-senzore/vest": "2026-11-21T23:43:18.479661+00:00",
+  "https://www.kurir.rs/planeta/10168971/kanada-podvodni-dronovi-nadzor-obale": "2026-11-21T23:43:18.479661+00:00",
+  "https://www.tanjug.rs/svet/politika/299825/fico-pozvao-evropsku-komisiju-da-prati-situaciju-u-srbiji-optuzio-opoziciju/vest": "2026-11-21T23:43:18.479661+00:00",
+  "https://www.kurir.rs/vesti/politika/10169130/fico-pozvao-evropsku-komisiju-da-prati-situaciju-u-srbiji": "2026-11-21T23:43:18.479661+00:00",
+  "https://www.kurir.rs/crna-hronika/10169128/teska-saobracajna-nesreca-kod-smedereva": "2026-11-21T23:43:18.479661+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-21T08:58+00:00",
-   "novih": 2,
-   "ukupno": 3285,
-   "sekundi": 429.0
-  },
   {
    "vreme": "2026-11-21T09:15+00:00",
    "novih": 7,
@@ -7237,6 +7234,12 @@
    "novih": 1,
    "ukupno": 3503,
    "sekundi": 445.9
+  },
+  {
+   "vreme": "2026-11-21T23:48+00:00",
+   "novih": 2,
+   "ukupno": 3505,
+   "sekundi": 286.6
   }
  ],
  "licnosti_foto": {
@@ -21792,83 +21795,6 @@
   }
  },
  "foto_cache": {
-  "t:zemun": {
-   "t": 1794699356.0217063,
-   "items": [
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Zemun_panoramic_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1600,
-     "h": 1200,
-     "god": 2010,
-     "credit": "Wikimedia Commons / Jean-David &amp; Anne-Laure / CC BY-SA 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Zemun_panoramic_view.jpg",
-     "naslov": "Zemun panoramic view.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8_%D1%82%D1%80%D0%B3_%D0%97%D0%B5%D0%BC%D1%83%D0%BD_-_panoramio.jpg/1920px-%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8_%D1%82%D1%80%D0%B3_%D0%97%D0%B5%D0%BC%D1%83%D0%BD_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2632,
-     "h": 1498,
-     "god": 2013,
-     "credit": "Wikimedia Commons / Саша Шљукић / CC BY 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8_%D1%82%D1%80%D0%B3_%D0%97%D0%B5%D0%BC%D1%83%D0%BD_-_panoramio.jpg",
-     "naslov": "Велики трг Земун - panoramio.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Zemun_View_3.JPG/1920px-Zemun_View_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3000,
-     "h": 2000,
-     "god": 2015,
-     "credit": "Wikimedia Commons / Julian Nyča / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Zemun_View_3.JPG",
-     "naslov": "Zemun View 3.JPG"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Zemun_panorama_from_Gardo%C5%A1_tower.jpg/1920px-Zemun_panorama_from_Gardo%C5%A1_tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 9168,
-     "h": 3392,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Petar Milošević / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Zemun_panorama_from_Gardo%C5%A1_tower.jpg",
-     "naslov": "Zemun panorama from Gardoš tower.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Zemun_View_2.JPG/1920px-Zemun_View_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3000,
-     "h": 2000,
-     "god": 2015,
-     "credit": "Wikimedia Commons / Julian Nyča / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Zemun_View_2.JPG",
-     "naslov": "Zemun View 2.JPG"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Mural_Du%C5%A1ana_Peki%C4%87a%2C_Zemun.jpg/1920px-Mural_Du%C5%A1ana_Peki%C4%87a%2C_Zemun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4608,
-     "h": 3456,
-     "god": 2022,
-     "credit": "Wikimedia Commons / Pinki / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Mural_Du%C5%A1ana_Peki%C4%87a,_Zemun.jpg",
-     "naslov": "Mural Dušana Pekića, Zemun.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Bg-12-Zemun-1900_Uri-utca_Herrengasse.jpg/1920px-Bg-12-Zemun-1900_Uri-utca_Herrengasse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2222,
-     "h": 1406,
-     "god": 1900,
-     "credit": "Wikimedia Commons / Unknown authorUnknown author / Public domain",
-     "link": "https://commons.wikimedia.org/wiki/File:Bg-12-Zemun-1900_Uri-utca_Herrengasse.jpg",
-     "naslov": "Bg-12-Zemun-1900 Uri-utca Herrengasse.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/View_from_Zemun_Tower.jpg/1920px-View_from_Zemun_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3648,
-     "h": 5472,
-     "god": 2022,
-     "credit": "Wikimedia Commons / Hibasi / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:View_from_Zemun_Tower.jpg",
-     "naslov": "View from Zemun Tower.jpg"
-    }
-   ]
-  },
   "t:kraguj": {
    "t": 1794701140.7169104,
    "items": [
@@ -56799,7 +56725,8 @@
    "202611211831-ae38b1",
    "202611211816-db0c42",
    "202611211846-024995",
-   "202611212259-0f421c"
+   "202611212259-0f421c",
+   "202611212259-310ac7"
   ],
   "istorija": [
    {
@@ -57358,6 +57285,12 @@
     "t": 1795302935.523722,
     "id": "202611212259-0f421c",
     "x": "2124280593449902204",
+    "link": true
+   },
+   {
+    "t": 1795304656.9667587,
+    "id": "202611212259-310ac7",
+    "x": "2124287813734506903",
     "link": true
    }
   ],
@@ -60639,7 +60572,7 @@
   "yt": "Hdk3ahufa64",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-21T23:29:27.181717+00:00",
+  "provereno": "2026-11-21T23:44:24.457222+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": true
  },
