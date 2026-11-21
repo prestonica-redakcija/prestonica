@@ -31,17 +31,31 @@
  ],
  "importance": 7,
  "published": "2026-11-21T09:50:42.400591+00:00",
- "updated": "2026-11-21T09:50:42.400591+00:00",
+ "updated": "2026-11-21T10:05:36.471344+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/299653/vucic-zaprepascen-sam-neznanjem-i-neodgovornoscu-poslanika-studentske-liste/vest",
    "title": "Vučić: Zaprepašćen sam neznanjem i neodgovornošću poslanika Studentske liste",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/299653/vucic-plasim-se-da-ce-stelantis-do-kraja-2027-preseliti-proizvodnju-pande-iz-kragujevca-u-tursku/vest",
+   "title": "Vučić: Plašim se da će Stelantis do kraja 2027. preseliti proizvodnju pande iz Kragujevca u Tursku",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4437108-vucic-plasim-se-da-ce-stelantis-do-kraja-2027-preseliti-proizvodnju-pande-iz-kg-u-tur",
+   "title": "Vučić: Plašim se da će Stelantis do kraja 2027 preseliti proizvodnju pande iz KG u TUR",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Vučić: Zaprepašćen sam neznanjem i neodgovornošću poslanika Studentske liste"
+  "Vučić: Zaprepašćen sam neznanjem i neodgovornošću poslanika Studentske liste",
+  "Vučić: Plašim se da će Stelantis do kraja 2027. preseliti proizvodnju pande iz Kragujevca u Tursku",
+  "Vučić: Plašim se da će Stelantis do kraja 2027 preseliti proizvodnju pande iz KG u TUR"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Cross_of_Saint_George,_Kragujevac,_Serbia_-_Back.jpg",
   "alt": "Vučić: Plašim se da će Stelantis proizvodnju pande preseliti iz Kragujevca u Tursku"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
