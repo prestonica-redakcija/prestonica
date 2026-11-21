@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T08:36:21.110084+00:00",
- "updated": "2026-11-21T08:51:13.242041+00:00",
+ "updated": "2026-11-21T09:21:04.993856+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -45,11 +45,18 @@
    "url": "https://n1info.rs/vesti/anem-zahtevamo-istragu-o-postupanju-unutrasnje-kontrole-mup-a-nakon-napada-na-ekipu-n1/",
    "title": "ANEM: Zahtevamo istragu o postupanju unutrašnje kontrole MUP-a nakon napada na ekipu N1",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/anem-o-napadu-na-ekipu-n1-zahtevamo-istragu-o-postupanju-unutrasnje-kontrole-mup-a/",
+   "title": "ANEM o napadu na ekipu N1: Zahtevamo istragu o postupanju unutrašnje kontrole MUP-a",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "ANEM zahteva istragu o postupanju unutrašnje kontrole MUP-a nakon napada na ekipu N1",
-  "ANEM: Zahtevamo istragu o postupanju unutrašnje kontrole MUP-a nakon napada na ekipu N1"
+  "ANEM: Zahtevamo istragu o postupanju unutrašnje kontrole MUP-a nakon napada na ekipu N1",
+  "ANEM o napadu na ekipu N1: Zahtevamo istragu o postupanju unutrašnje kontrole MUP-a"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "local": true,
   "alt": "ANEM traži istragu o postupanju policije i unutrašnje kontrole posle napada na N1"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

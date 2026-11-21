@@ -30,17 +30,38 @@
  ],
  "importance": 7,
  "published": "2026-11-20T23:10:57.680242+00:00",
- "updated": "2026-11-20T23:10:57.680242+00:00",
+ "updated": "2026-11-21T09:21:04.993856+00:00",
  "sources": [
   {
    "name": "Radar",
    "url": "https://radar.nova.rs/ekonomija/alta-banka-uzroci-i-posledice-propasti/",
    "title": "Nemar koji bi mogao da košta 740 miliona evra",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/299648/banka-postanska-stedionica-isplaceno-4271-odsto-osiguranih-depozita-alta-banke-u-stecaju/vest",
+   "title": "Banka Poštanska štedionica: Isplaćeno 42,71 odsto osiguranih depozita Alta banke u stečaju",
+   "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1673312/isplacena-gotovo-polovina-depozita-alta-banke-postanska-stedionica-klijentima-dosad-podelila-5-87-milijardi-dinara-91-23-miliona-evra",
+   "title": "ISPLAĆENA GOTOVO POLOVINA DEPOZITA ALTA BANKE: Poštanska štedionica klijentima dosad podelila 5,87 milijardi dinara i 91,23 miliona evra",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4437089-stedise-cekaju-svoj-novac-iz-alta-banke-do-sada-isplacena-jedva-polovina-osiguranih-depozita",
+   "title": "Štediše čekaju svoj novac iz ALTA banke: Do sada isplaćena jedva polovina osiguranih depozita",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Nemar koji bi mogao da košta 740 miliona evra"
+  "Nemar koji bi mogao da košta 740 miliona evra",
+  "Banka Poštanska štedionica: Isplaćeno 42,71 odsto osiguranih depozita Alta banke u stečaju",
+  "ISPLAĆENA GOTOVO POLOVINA DEPOZITA ALTA BANKE: Poštanska štedionica klijentima dosad podelila 5,87 milijardi dinara i 91,23 miliona evra",
+  "Štediše čekaju svoj novac iz ALTA banke: Do sada isplaćena jedva polovina osiguranih depozita"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +72,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Radar: isplata osiguranih depozita Alta banke mogla bi da košta oko 740 miliona evra"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
