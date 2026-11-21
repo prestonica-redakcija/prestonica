@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T18:16:16.808382+00:00",
- "updated": "2026-11-21T18:46:04.223189+00:00",
+ "updated": "2026-11-21T19:30:45.924241+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -54,13 +54,20 @@
    "url": "https://www.tanjug.rs/svet/politika/299762/francuska-na-protestima-82500-ljudi-organizatori-tvrde-da-ih-je-bilo-150000/vest",
    "title": "Francuska: Na protestima 82.500 ljudi, organizatori tvrde da ih je bilo 150.000",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/nekoliko-hiljada-ljudi-na-ulicama-lisabona-zbog-rasta-troskova-zivota/",
+   "title": "Nekoliko hiljada ljudi na ulicama Lisabona zbog rasta troškova života",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Protesti u Francuskoj zbog visokih troškova života, u Parizu očekuju do 30.000 ljudi",
   "PROTESTI ŠIROM FRANCUSKE: Demonstracije protiv visokih troškova života, na ulicama 150.000 ljudi",
   "PROTESTI ŠIROM FRANCUSKE: Demonstracije protiv visokih troškova života, na ulicama 150.000 ljudi",
-  "Francuska: Na protestima 82.500 ljudi, organizatori tvrde da ih je bilo 150.000"
+  "Francuska: Na protestima 82.500 ljudi, organizatori tvrde da ih je bilo 150.000",
+  "Nekoliko hiljada ljudi na ulicama Lisabona zbog rasta troškova života"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "alt": "people holding banner during daytime",
   "link": "https://unsplash.com/@matnapo"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

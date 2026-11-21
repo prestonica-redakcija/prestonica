@@ -3,21 +3,20 @@
  "slug": "nestao-sedamnaestogodisnji-andrej-davidovic-poslednji-put-vidjen-na",
  "kind": "vest",
  "section": "hronika",
- "headline": "MUP aktivirao sistem „Pronađi me“ zbog nestanka Andreja Davidovića (17) iz Zemuna",
- "lead": "Ministarstvo unutrašnjih poslova aktiviralo je sistem „Pronađi me“ za hitno obaveštavanje javnosti zbog nestanka sedamnaestogodišnjeg Andreja Davidovića, mladića sa autizmom, koji se u subotu udaljio od kuće u Zemunu. Policija moli sve koji imaju bilo kakve informacije da pozovu broj 192.",
+ "headline": "Pronađen Andrej Davidović (17) iz Zemuna, nestao u subotu prepodne",
+ "lead": "Sedamnaestogodišnji Andrej Davidović iz Zemuna, zbog čijeg je nestanka MUP aktivirao sistem „Pronađi me“, pronađen je u autobusu u centru Beograda, saopštila je policija. Predmet u sistemu je zatvoren.",
  "body": [
-  "Kako navodi Tanjug, MUP je aktivirao sistem „Pronađi me“ zbog nestanka Andreja Davidovića iz Zemuna. Prema izveštaju Nove, koja prenosi Fonet, mladić se udaljio od kuće oko 11.30 i nije se vratio, a nestanak je policiji prijavila njegova majka oko 12.35.",
-  "Prema podacima iz saopštenja MUP-a koje prenosi Nova, Andrej je poslednji put viđen u Zemunu, u Prvomajskoj ulici kod Lukoil pumpe. Pretpostavlja se da je ušao u neki od autobusa 15, 18 ili 78 u pravcu grada.",
-  "Ranije su Telegraf, Kurir i B92, pozivajući se na člana porodice, preneli da je Andrej poslednji put viđen oko 13 sati na Banjici. Izvori se razlikuju u opisu mesta poslednjeg viđenja, a u izvorima nema potvrde koja je verzija tačna. U oba slučaja se pominju isti autobuski pravci.",
-  "Andrej ima autizam i ne govori. Visok je oko 165 do 170 centimetara, srednje je telesne konstitucije, ima svetlo smeđu kratku kosu i plave oči. Na sebi ima crnu jaknu s kapuljačom, tamnu trenerku i teget cipele, a nosi ortopedsku cipelu. Mediji navode da je verovatno uplašen.",
-  "Svi koji su ga videli ili znaju nešto o njegovom kretanju treba odmah da pozovu policiju na broj 192."
+  "Prema saopštenju MUP-a koje prenose Danas, Insajder i Telegraf, mladić je pronađen u autobusu na raskrsnici Nemanjine i Ulice kneza Miloša u Beogradu. Nova navodi da je MUP javio da je predmet u sistemu „Pronađi me“ zatvoren.",
+  "Andrej, mladić sa autizmom koji ne govori, udaljio se od kuće u Zemunu u subotu oko 11.30. Prema izveštaju Nove, koja prenosi Fonet, njegova majka prijavila je nestanak policiji oko 12.35. Tanjug je preneo da je MUP aktivirao sistem „Pronađi me“.",
+  "Policija je ranije saopštila da je poslednji put viđen u Prvomajskoj ulici kod Lukoil pumpe u Zemunu i da je verovatno ušao u neki od autobusa 15, 18 ili 78 u pravcu grada. Telegraf, Kurir i B92 prethodno su, pozivajući se na člana porodice, preneli da je viđen oko 13 sati na Banjici. Izvori se u tome razlikuju, a nije potvrđeno koja je verzija tačna.",
+  "U dostupnim izvorima nema podataka o njegovom zdravstvenom stanju nakon pronalaska niti o tome kako je tačno pronađen. Kurir navodi u naslovu da je MUP otkrio detalje, ali tekst tog članka nije dostupan."
  ],
  "tags": [
-  "nestanak",
   "Pronađi me",
-  "Zemun",
   "MUP",
-  "autizam"
+  "nestanak",
+  "Zemun",
+  "Andrej Davidović"
  ],
  "people": [
   "Andrej Davidović"
@@ -29,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T17:46:42.593339+00:00",
- "updated": "2026-11-21T19:15:54.218230+00:00",
+ "updated": "2026-11-21T19:30:45.924241+00:00",
  "sources": [
   {
    "name": "B92",
@@ -102,6 +101,36 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4437328-mup-pronadjen-andrej",
    "title": "MUP: Pronađen Andrej!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/pronadjen-mladic-koji-je-danas-nestao-u-zemunu/",
+   "title": "Pronađen mladić koji je danas nestao u Zemunu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10169039/pronadjen-decak-koji-je-nestao-u-zemunu",
+   "title": "Pronađen dečak (17) koji je nestao u Zemunu: MUP otkrio detalje",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/mup-pronaden-sedamnaestogodisnjak-koji-je-nestao-u-zemunu",
+   "title": "MUP: Pronađen sedamnaestogodišnjak koji je nestao u Zemunu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4437328-mup-pronadjen-nestali-tinejdzer",
+   "title": "MUP: Pronađen nestali tinejdžer!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/pronadjen-mladic-iz-zemuna-zbog-koga-je-aktiviran-sistem-pronadji-me/",
+   "title": "Pronađen mladić iz Zemuna zbog koga je aktiviran sistem \"Pronađi me\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -116,7 +145,12 @@
   "MUP: Nestao Andrej Davidović (17) iz Zemuna, aktiviran sistem \"Pronađi me\"",
   "Tinejdžer sa autizmom nestao u Zemunu, aktiviran sistem \"Pronađi me\"",
   "Aktiviran sistem \"Pronađi me\": Nestao sedamnaestogodišnjak u Zemunu",
-  "MUP: Pronađen Andrej!"
+  "MUP: Pronađen Andrej!",
+  "Pronađen mladić koji je danas nestao u Zemunu",
+  "Pronađen dečak (17) koji je nestao u Zemunu: MUP otkrio detalje",
+  "MUP: Pronađen sedamnaestogodišnjak koji je nestao u Zemunu",
+  "MUP: Pronađen nestali tinejdžer!",
+  "Pronađen mladić iz Zemuna zbog koga je aktiviran sistem \"Pronađi me\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -129,8 +163,8 @@
   "alt": "a couple of buses on a city street",
   "link": "https://unsplash.com/@jiaminhuang812"
  },
- "novo_od_pisanja": 2,
+ "novo_od_pisanja": 0,
  "boost": 1.6,
- "prepisano": "2026-11-21T18:46:04.223189+00:00",
- "verzija": 2
+ "prepisano": "2026-11-21T19:30:45.924241+00:00",
+ "verzija": 3
 }
