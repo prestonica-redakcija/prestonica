@@ -37,7 +37,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T17:13:25.084308+00:00",
- "updated": "2026-11-21T11:35:04.390699+00:00",
+ "updated": "2026-11-21T15:03:06.500384+00:00",
  "sources": [
   {
    "name": "N1",
@@ -80,6 +80,18 @@
    "url": "https://www.telegraf.rs/vesti/beograd/4437141-izmena-saobracaja-u-beogradu-danas-i-sutra-zbog-polumaratona-najvece-promene-ka-novom-beogradu",
    "title": "Izmena saobraćaja u Beogradu danas i sutra zbog polumaratona: Najveće promene ka Novom Beogradu",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/izmene-saobracaja-u-beogradu-zbog-polumaratona/",
+   "title": "Izmene saobraćaja u Beogradu zbog polumaratona: Obustave na više ulica i promenjene trase gradskog prevoza",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/beograd/izmena-saobracaja-beogradski-polumaraton/",
+   "title": "Izmena saobraćaja zbog Beogradskog polumaratona danas i sutra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -89,7 +101,9 @@
   "Za vikend promena trasa gradskog prevoza zbog Beogradskog polumaratona",
   "Promene trasa gradskog prevoza zbog Beogradskog polumaratona: Evo koje ulice će biti zatvorene",
   "Danas je Beogradski polumaraton: Zatvoreno mnogo ulica, informišite se na vreme",
-  "Izmena saobraćaja u Beogradu danas i sutra zbog polumaratona: Najveće promene ka Novom Beogradu"
+  "Izmena saobraćaja u Beogradu danas i sutra zbog polumaratona: Najveće promene ka Novom Beogradu",
+  "Izmene saobraćaja u Beogradu zbog polumaratona: Obustave na više ulica i promenjene trase gradskog prevoza",
+  "Izmena saobraćaja zbog Beogradskog polumaratona danas i sutra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -102,8 +116,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Novi_Beograd_(Blok_45,_44,_70,_71).jpg",
   "alt": "Beogradski polumaraton: saobraćaj se obustavlja već u subotu, menja se javni prevoz"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-21T11:35:04.390699+00:00",
  "verzija": 2
 }

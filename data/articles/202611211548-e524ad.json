@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T14:48:17.077113+00:00",
- "updated": "2026-11-21T14:48:17.077113+00:00",
+ "updated": "2026-11-21T15:03:06.500384+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -39,11 +39,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4437201-americka-ambasada-izdala-hitno-upozorenje-strah-od-teroristickih-napada-u-moldaviji",
    "title": "Američka ambasada izdala hitno upozorenje: Strah od terorističkih napada u Moldaviji",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/ambasada-sad-u-moldaviji-upozorila-svoje-gradane-na-teroristicke-napade",
+   "title": "Ambasada SAD u Moldaviji upozorila svoje građane na terorističke napade",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Ambasada SAD u Moldaviji upozorila svoje građane na terorističke napade",
-  "Američka ambasada izdala hitno upozorenje: Strah od terorističkih napada u Moldaviji"
+  "Američka ambasada izdala hitno upozorenje: Strah od terorističkih napada u Moldaviji",
+  "Ambasada SAD u Moldaviji upozorila svoje građane na terorističke napade"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Ambasada SAD u Moldaviji upozorila državljane na moguće terorističke napade u praznicima"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

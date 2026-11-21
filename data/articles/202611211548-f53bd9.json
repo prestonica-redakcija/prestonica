@@ -27,17 +27,24 @@
  ],
  "importance": 6,
  "published": "2026-11-21T14:48:17.077113+00:00",
- "updated": "2026-11-21T14:48:17.077113+00:00",
+ "updated": "2026-11-21T15:03:06.500384+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/iran-tvrdi-da-je-pogodio-americkog-lovca-f-16-iznad-persijskog-zaliva",
    "title": "Iran tvrdi da je pogodio američkog lovca F-16 iznad Persijskog zaliva",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286945/iran-tvrdi-da-je-pogodio-americki-borbeni-avion-f-16-iznad-persijskog-zaliva/vest",
+   "title": "Pogođen američki F-16 VIDEO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Iran tvrdi da je pogodio američkog lovca F-16 iznad Persijskog zaliva"
+  "Iran tvrdi da je pogodio američkog lovca F-16 iznad Persijskog zaliva",
+  "Pogođen američki F-16 VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Iran tvrdi da je pogodio američki F-16 iznad Persijskog zaliva, SAD nisu potvrdile"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

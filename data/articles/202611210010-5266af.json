@@ -31,7 +31,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T23:10:57.680242+00:00",
- "updated": "2026-11-21T10:20:34.766555+00:00",
+ "updated": "2026-11-21T15:03:06.500384+00:00",
  "sources": [
   {
    "name": "Radar",
@@ -74,6 +74,12 @@
    "url": "https://www.b92.net/biz/srbija/vesti/286868/bps-isplaceno-4271-odsto-osiguranih-depozita-alta-banke-u-stecaju/vest",
    "title": "Klijentima Alta banke isplaćeno više od 90 miliona evra: Evo koliko novca je još ostalo",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/252811/stecaj-alta-banke-kada-poverioci-mogu-do-svog-novca/vest",
+   "title": "Stečaj Alta banke: Kada će građani dobiti svoj novac i koliko bi postupak mogao da traje?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -83,7 +89,8 @@
   "Štediše čekaju svoj novac iz ALTA banke: Do sada isplaćena jedva polovina osiguranih depozita",
   "Poštanska štedionica: Isplaćeno više od 40 odsto osiguranih depozita Alta banke u dinarima i evrima",
   "Alta banka u stečaju: Isplaćeno 5,87 milijardi dinara i 91,23 miliona evra",
-  "Klijentima Alta banke isplaćeno više od 90 miliona evra: Evo koliko novca je još ostalo"
+  "Klijentima Alta banke isplaćeno više od 90 miliona evra: Evo koliko novca je još ostalo",
+  "Stečaj Alta banke: Kada će građani dobiti svoj novac i koliko bi postupak mogao da traje?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -95,8 +102,8 @@
   "local": true,
   "alt": "Radar: isplata osiguranih depozita Alta banke mogla bi da košta oko 740 miliona evra"
  },
- "novo_od_pisanja": 2,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-21T09:50:42.400591+00:00",
  "verzija": 2
 }

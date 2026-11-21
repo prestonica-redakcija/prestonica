@@ -37,7 +37,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T13:04:09.682872+00:00",
- "updated": "2026-11-21T13:33:53.057486+00:00",
+ "updated": "2026-11-21T15:03:06.500384+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -62,13 +62,20 @@
    "url": "https://www.kurir.rs/planeta/10168786/bivsi-sef-italijanske-policije-pronadjen-mrtav-djordja-meloni-u-soku",
    "title": "BIVŠI ŠEF ITALIJANSKE POLICIJE PRONAĐEN MRTAV! Bio pod istragom zbog mafijaškog ubistva, premijerka Đorđa Meloni u šoku! (FOTO/VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/bivsi-sef-italijanske-policije-izvrsio-samoubistvo-bio-je-pod-istragom-odigrao-kljucnu-ulogu-u-borbi-protiv-mafije-koza-nostra/",
+   "title": "Bivši šef italijanske policije izvršio samoubistvo, bio je pod istragom: „Odigrao ključnu ulogu u borbi protiv mafije Koza Nostra“",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "ANSA: Bivši šef italijanske policije De Đenaro ubio se vatrenim oružjem",
   "Bivši šef italijanske policije izvršio samoubistvo usred istrage o mafijaškom ubistvu koje je potreslo Italiju",
   "Bivši šef italijanske policije pronađen mrtav: Bio pod istragom zbog mafijaškog ubistva, Meloni u šoku",
-  "BIVŠI ŠEF ITALIJANSKE POLICIJE PRONAĐEN MRTAV! Bio pod istragom zbog mafijaškog ubistva, premijerka Đorđa Meloni u šoku! (FOTO/VIDEO)"
+  "BIVŠI ŠEF ITALIJANSKE POLICIJE PRONAĐEN MRTAV! Bio pod istragom zbog mafijaškog ubistva, premijerka Đorđa Meloni u šoku! (FOTO/VIDEO)",
+  "Bivši šef italijanske policije izvršio samoubistvo, bio je pod istragom: „Odigrao ključnu ulogu u borbi protiv mafije Koza Nostra“"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,6 +87,6 @@
   "local": true,
   "alt": "Preminuo bivši šef italijanske policije De Đenaro, bio je pod istragom zbog slučaja Borselino"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

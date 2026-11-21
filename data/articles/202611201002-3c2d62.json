@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T09:02:13.737109+00:00",
- "updated": "2026-11-20T09:02:13.737109+00:00",
+ "updated": "2026-11-21T15:03:06.500384+00:00",
  "sources": [
   {
    "name": "N1",
@@ -50,12 +50,26 @@
    "url": "https://nova.rs/vesti/hronika/osnovni-sud-u-novom-sadu-smatra-da-gorski-matovic-ne-treba-da-bude-u-pritvoru/",
    "title": "Osnovni sud u Novom Sadu smatra da Gorski Matović ne treba da bude u pritvoru",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/sestoro-zaposlenih-u-gradskoj-upravi-leskovca-pusteno-na-slobodu-sud-odbio-predlog-za-pritvor/",
+   "title": "Šestoro zaposlenih u Gradskoj upravi Leskovca pušteno na slobodu: Sud odbio predlog za pritvor",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/sud-odbio-predlog-za-pritvor-sestoro-zaposlenih-u-gradskoj-upravi-leskovca-pusteno-na-slobodu/",
+   "title": "Sud odbio predlog za pritvor: Šestoro zaposlenih u Gradskoj upravi Leskovca pušteno na slobodu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Gorski Matović pušten na slobodu uz meru zabrane prilaska",
   "Gorski Matović pušten na slobodu",
-  "Osnovni sud u Novom Sadu smatra da Gorski Matović ne treba da bude u pritvoru"
+  "Osnovni sud u Novom Sadu smatra da Gorski Matović ne treba da bude u pritvoru",
+  "Šestoro zaposlenih u Gradskoj upravi Leskovca pušteno na slobodu: Sud odbio predlog za pritvor",
+  "Sud odbio predlog za pritvor: Šestoro zaposlenih u Gradskoj upravi Leskovca pušteno na slobodu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,5 +80,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Sud u Novom Sadu odbio pritvor Gorskom Matoviću, određena zabrana prilaska"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
