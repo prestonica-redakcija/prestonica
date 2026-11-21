@@ -617,7 +617,8 @@ export default {
         return json({
           pregledi: (r || {}).n || 0, prvi: (r || {}).od || null, poslednji: (r || {}).do || null,
           podeseno: {
-            google: !!(env.GOOGLE_SA_EMAIL && env.GOOGLE_SA_KEY && env.GA4_PROPERTY_ID),
+            google: !!(env.GOOGLE_SA_EMAIL && env.GOOGLE_SA_KEY),
+            ga4: !!env.GA4_PROPERTY_ID,
             youtube: !!(env.YT_API_KEY && env.YT_CHANNEL_ID),
             x: !!env.X_BEARER, produkcija: !!env.STAT_UPIS,
             youtube_portal: !!(await poslato(env, "youtube")), x_portal: !!(await poslato(env, "x")),
