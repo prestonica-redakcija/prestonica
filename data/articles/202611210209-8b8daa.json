@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T01:09:52.851456+00:00",
- "updated": "2026-11-21T01:09:52.851456+00:00",
+ "updated": "2026-11-21T21:29:39.053419+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,11 +44,18 @@
    "url": "https://www.kurir.rs/planeta/10167576/francuska-prefekt-odavao-tajne-marin-le-pen",
    "title": "TAJNE IZ MINISTARSTVA STIZALE DO STRANKE MARIN LE PEN?! Pretreseno sedište Nacionalnog okupljanja, prefekt pod istragom!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299809/ig-mutu-trazi-razresenje-zbog-sumnje-na-odavanje-poverljivih-podataka-stranci-nacionalno-okupljanje/vest",
+   "title": "Ig Mutu traži razrešenje zbog sumnje na odavanje poverljivih podataka stranci Nacionalno okupljanje",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Francuske vlasti istražuju odavanje poverljivih informacija stranci Marin le Pen",
-  "TAJNE IZ MINISTARSTVA STIZALE DO STRANKE MARIN LE PEN?! Pretreseno sedište Nacionalnog okupljanja, prefekt pod istragom!"
+  "TAJNE IZ MINISTARSTVA STIZALE DO STRANKE MARIN LE PEN?! Pretreseno sedište Nacionalnog okupljanja, prefekt pod istragom!",
+  "Ig Mutu traži razrešenje zbog sumnje na odavanje poverljivih podataka stranci Nacionalno okupljanje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D1%80%D0%B8%D0%BD_%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD_(28-01-2022).jpg",
   "alt": "Francuska istražuje curenje informacija iz MUP-a ka stranci Marin le Pen"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

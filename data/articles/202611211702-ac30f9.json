@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T16:02:36.259840+00:00",
- "updated": "2026-11-21T17:16:47.608264+00:00",
+ "updated": "2026-11-21T21:29:39.053419+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -48,12 +48,26 @@
    "url": "https://www.b92.net/info/region/286982/novi-protesti-u-albaniji-gradjani-tirane-traze-ostavku-edija-rame/vest",
    "title": "Novi protesti u Tirani; Studenti i građani ne odustaju – traže ostavku Edija Rame FOTO/VIDEO",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299804/albanija-demonstranti-ispred-kancelarije-edija-rame-nakon-marsa-ulicama-tirane/vest",
+   "title": "Albanija: Demonstranti ispred kancelarije Edija Rame, nakon marša ulicama Tirane",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/region/287028/albanija-demonstranti-ispred-kancelarije-edija-rame/vest",
+   "title": "Novi protesti u Tirani: Demonstranti ispred kancelarije Edija Rame VIDEO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Nastavak demonstracija u Tirani: Protestanti poručili da oko ostavke Edija Rame nema pregovora",
   "NOVI PROTESTI U TIRANI: Studenti i građani i dalje traže ostavku Edija Rame (FOTO)",
-  "Novi protesti u Tirani; Studenti i građani ne odustaju – traže ostavku Edija Rame FOTO/VIDEO"
+  "Novi protesti u Tirani; Studenti i građani ne odustaju – traže ostavku Edija Rame FOTO/VIDEO",
+  "Albanija: Demonstranti ispred kancelarije Edija Rame, nakon marša ulicama Tirane",
+  "Novi protesti u Tirani: Demonstranti ispred kancelarije Edija Rame VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +81,6 @@
   "osoba": "Edi Rama",
   "alt": "Novi protest u Tirani: demonstranti traže ostavku Edija Rame, policija blokirala Ulicu Drač"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

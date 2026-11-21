@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-21T20:30:13.562577+00:00",
- "updated": "2026-11-21T20:30:13.562577+00:00",
+ "updated": "2026-11-21T21:29:39.053419+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/299789/ft-cene-kineskih-optickih-vlakana-skocile-6-puta-zbog-potraznje-iz-rusije-i-ukrajine/vest",
    "title": "FT: Cene kineskih optičkih vlakana skočile 6 puta zbog potražnje iz Rusije i Ukrajine",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10169097/rast-cena-optickih-vlakana-zbog-potraznje-iz-rata",
+   "title": "MASOVAN IZVOZ OPTIČKIH VLAKANA IZ KINE: Najveći kupci Rusija i Ukrajina zbog borbenih dronova",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "FT: Cene kineskih optičkih vlakana skočile 6 puta zbog potražnje iz Rusije i Ukrajine"
+  "FT: Cene kineskih optičkih vlakana skočile 6 puta zbog potražnje iz Rusije i Ukrajine",
+  "MASOVAN IZVOZ OPTIČKIH VLAKANA IZ KINE: Najveći kupci Rusija i Ukrajina zbog borbenih dronova"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "alt": "white and blue light on dark room",
   "link": "https://unsplash.com/@redaquamedia"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
