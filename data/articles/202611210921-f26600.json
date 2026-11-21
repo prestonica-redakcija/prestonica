@@ -30,17 +30,24 @@
  ],
  "importance": 4,
  "published": "2026-11-21T08:21:30.390780+00:00",
- "updated": "2026-11-21T08:21:30.390780+00:00",
+ "updated": "2026-11-21T12:04:45.243836+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1171861/milos-vucevic-informer-gostovanje",
    "title": "Miloš Vučević za Informer TV: Došla je revolucionarna vlast koja je poništila demokratiju",
    "spektar": "vlast"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=TpdOU-sdAiU",
+   "title": "Vučević: Došla je revolucionarna vlast koja je poništila demokratiju",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
-  "Miloš Vučević za Informer TV: Došla je revolucionarna vlast koja je poništila demokratiju"
+  "Miloš Vučević za Informer TV: Došla je revolucionarna vlast koja je poništila demokratiju",
+  "Vučević: Došla je revolucionarna vlast koja je poništila demokratiju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Milo%C5%A1_Vu%C4%8Devi%C4%87_obilizak_Vojske_Srbije.jpg",
   "alt": "Vučević: Nova skupštinska većina poništila demokratiju, opozicija ostala bez potpredsednika"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

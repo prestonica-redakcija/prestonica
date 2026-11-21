@@ -26,17 +26,24 @@
  ],
  "importance": 4,
  "published": "2026-11-21T11:20:11.634668+00:00",
- "updated": "2026-11-21T11:20:11.634668+00:00",
+ "updated": "2026-11-21T12:04:45.243836+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/policija-dronovima-otkriva-prekrsaje-kamiondzija-za-pet-dana-vise-od-6000-prekrsaja/",
    "title": "Policija dronovima otkriva prekršaje kamiondžija, za pet dana više od 6.000 prekršaja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/299680/mup-tokom-pet-dana-akcije-roadpol-5924-prekrsaja-teretnih-vozila-korisceni-dronovi/vest",
+   "title": "MUP: Tokom pet dana akcije ROADPOL 5.924 prekršaja teretnih vozila, korišćeni dronovi",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Policija dronovima otkriva prekršaje kamiondžija, za pet dana više od 6.000 prekršaja"
+  "Policija dronovima otkriva prekršaje kamiondžija, za pet dana više od 6.000 prekršaja",
+  "MUP: Tokom pet dana akcije ROADPOL 5.924 prekršaja teretnih vozila, korišćeni dronovi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "MUP dronovima kontroliše kamione, za pet dana otkriveno 6.199 prekršaja"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

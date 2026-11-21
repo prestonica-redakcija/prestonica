@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T08:06:33.726633+00:00",
- "updated": "2026-11-21T11:35:04.390699+00:00",
+ "updated": "2026-11-21T12:04:45.243836+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -60,6 +60,12 @@
    "url": "https://www.telegraf.rs/4437136-ilic-sud-u-strazburu-srbiji-dao-rok-da-se-izjasni-o-zvucnom-topu-bez-kazne-za-policijsku-torturu",
    "title": "Ilić: Sud u Strazburu Srbiji dao rok da se izjasni o zvučnom topu, bez kazne za policijsku torturu",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/ilic-sud-u-strazburu-dao-srbiji-rok-do-15-januara-da-se-izjasni-o-zvucnom-topu/",
+   "title": "Ilić: Sud u Strazburu dao Srbiji rok do 15. januara da se izjasni o zvučnom topu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -67,7 +73,8 @@
   "Ilić: Sud u Strazburu dao Srbiji rok do 15.januara da se izjasni o slučaju zvučni top",
   "Vladica Ilić: Sud u Strazburu dao Srbiji rok do 15. januara da se izjasni o slučaju zvučni top",
   "Ilić: \"Sud u Strazburu dao Srbiji rok do 15. januara da se izjasni o zvučnom topu\"",
-  "Ilić: Sud u Strazburu Srbiji dao rok da se izjasni o zvučnom topu, bez kazne za policijsku torturu"
+  "Ilić: Sud u Strazburu Srbiji dao rok da se izjasni o zvučnom topu, bez kazne za policijsku torturu",
+  "Ilić: Sud u Strazburu dao Srbiji rok do 15. januara da se izjasni o zvučnom topu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -79,8 +86,8 @@
   "local": true,
   "alt": "Strazbur traži izjašnjenje Srbije o slučaju zvučni top, rok je 15. januar"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-21T11:35:04.390699+00:00",
  "verzija": 2
 }

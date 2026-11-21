@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-21T11:49:52.141541+00:00",
+ "updated": "2026-11-21T12:04:45.243836+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -325,6 +325,12 @@
    "url": "https://nova.rs/vesti/svet/u-ruskom-napadu-na-rodni-grad-zelenskog-dvoje-poginulih-i-60-povredjenih/",
    "title": "U ruskom napadu na rodni grad Zelenskog dvoje poginulih i 60 povređenih",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299682/zeleznicki-saobracaj-ponovo-uspostavljen-na-krimskom-mostu/vest",
+   "title": "Železnički saobraćaj ponovo uspostavljen na Krimskom mostu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -375,7 +381,8 @@
   "Poljski ministar: Putin govori Trampu jedno, a na delu je ruski državni terorizam prema članicama NATO",
   "Poljski ministar: Putin govori Trampu jedno, a na delu ruski državni terorizam prema članicama NATO",
   "Sikorski: Na delu državni terorizam Rusije prema članicama NATO",
-  "U ruskom napadu na rodni grad Zelenskog dvoje poginulih i 60 povređenih"
+  "U ruskom napadu na rodni grad Zelenskog dvoje poginulih i 60 povređenih",
+  "Železnički saobraćaj ponovo uspostavljen na Krimskom mostu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -389,7 +396,7 @@
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
  },
- "novo_od_pisanja": 12,
+ "novo_od_pisanja": 13,
  "boost": 1.6,
  "prepisano": "2026-11-20T22:56:03.386969+00:00",
  "verzija": 8

@@ -33,7 +33,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T10:50:30.398046+00:00",
- "updated": "2026-11-21T11:49:52.141541+00:00",
+ "updated": "2026-11-21T12:04:45.243836+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -52,12 +52,19 @@
    "url": "https://insajder.net/prenosimo/uprava-policije-crne-gore-na-cetinju-ubijen-clan-organizovane-kriminalne-grupe",
    "title": "Uprava policije Crne Gore: Na Cetinju ubijen član organizovane kriminalne grupe",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/najave-emisija/novi-dan-gen-z-na-ulicama-kao-inspiracija/",
+   "title": "Novi dan: Gen Z na ulicama kao inspiracija",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Pobjeda: Na Cetinju ubijen pripadnik škaljarskog kriminalnog klana",
   "UBIJEN ŠKALJARAC NA CETINJU, TELO PRONAĐENO NA ULICI! Nova mafijaška likvidacija u Crnoj Gori za samo dva dana!",
-  "Uprava policije Crne Gore: Na Cetinju ubijen član organizovane kriminalne grupe"
+  "Uprava policije Crne Gore: Na Cetinju ubijen član organizovane kriminalne grupe",
+  "Novi dan: Gen Z na ulicama kao inspiracija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +77,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Pavlova_Strana,_Rijeka_Crnojevi%C4%87a,_Cetinje.jpg",
   "alt": "Na Cetinju ubijen muškarac iz Bajica, policija ga vezuje za organizovanu kriminalnu grupu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

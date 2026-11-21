@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T11:35:04.390699+00:00",
- "updated": "2026-11-21T11:49:52.141541+00:00",
+ "updated": "2026-11-21T12:04:45.243836+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -44,11 +44,25 @@
    "url": "https://www.novosti.rs/vesti/politika/1673361/kampovi-obuke-inostranstva-obuhvatale-razlicite-oblasti-jutarnji-list-objavio-detaljnu-analizu-uspona-studentske-liste",
    "title": "KAMPOVI I OBUKE IZ INOSTRANSTVA OBUHVATALE SU RAZLIČITE OBLASTI: \"Jutarnji list\" objavio detaljnu analizu uspona Studentske liste",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1171892/studentska-lista-nova-vlast-politika",
+   "title": "Blokaderski priručnik, kampovi i hrvatska veza: Ko je i kako pripremao studentski pokret?! (FOTO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10168700/kako-je-studentski-pokret-postao-politicka-snaga",
+   "title": "HRVATSKI \"JUTARNJI LIST\" OBJAVIO ANALIZU PUTA STUDENTSKE LISTE DO VLASTI: \"Blokaderski priručnik, hrvatska veza i kampovi za obuku\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "KAMPOVI I OBUKE IZ INOSTRANSTVA OBUHVATALE SU RAZLIČITE OBLASTI: \"Jutarnji list\" objavio detaljnu analizu o usponu Studentske liste",
-  "KAMPOVI I OBUKE IZ INOSTRANSTVA OBUHVATALE SU RAZLIČITE OBLASTI: \"Jutarnji list\" objavio detaljnu analizu uspona Studentske liste"
+  "KAMPOVI I OBUKE IZ INOSTRANSTVA OBUHVATALE SU RAZLIČITE OBLASTI: \"Jutarnji list\" objavio detaljnu analizu uspona Studentske liste",
+  "Blokaderski priručnik, kampovi i hrvatska veza: Ko je i kako pripremao studentski pokret?! (FOTO)",
+  "HRVATSKI \"JUTARNJI LIST\" OBJAVIO ANALIZU PUTA STUDENTSKE LISTE DO VLASTI: \"Blokaderski priručnik, hrvatska veza i kampovi za obuku\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,6 +74,6 @@
   "local": true,
   "alt": "Jutarnji list piše o obukama iz inostranstva koje su prošli učesnici studentskog pokreta"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
