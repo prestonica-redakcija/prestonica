@@ -37,7 +37,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T13:04:09.682872+00:00",
- "updated": "2026-11-21T13:04:09.682872+00:00",
+ "updated": "2026-11-21T13:19:10.575942+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -50,11 +50,18 @@
    "url": "https://nova.rs/vesti/svet/bivsi-sef-italijanske-policije-izvrsio-samoubistvo-usred-istrage-o-mafijaskom-ubistvu-koje-je-potreslo-italiju/",
    "title": "Bivši šef italijanske policije izvršio samoubistvo usred istrage o mafijaškom ubistvu koje je potreslo Italiju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4437172-bivsi-sef-italijanske-policije-pronadjen-mrtav-bio-pod-istragom-zbog-mafijaskog-ubistva-meloni-u-soku",
+   "title": "Bivši šef italijanske policije pronađen mrtav: Bio pod istragom zbog mafijaškog ubistva, Meloni u šoku",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "ANSA: Bivši šef italijanske policije De Đenaro ubio se vatrenim oružjem",
-  "Bivši šef italijanske policije izvršio samoubistvo usred istrage o mafijaškom ubistvu koje je potreslo Italiju"
+  "Bivši šef italijanske policije izvršio samoubistvo usred istrage o mafijaškom ubistvu koje je potreslo Italiju",
+  "Bivši šef italijanske policije pronađen mrtav: Bio pod istragom zbog mafijaškog ubistva, Meloni u šoku"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,5 +72,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Preminuo bivši šef italijanske policije De Đenaro, bio je pod istragom zbog slučaja Borselino"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
