@@ -32,17 +32,24 @@
  ],
  "importance": 4,
  "published": "2026-11-20T11:45:57.885434+00:00",
- "updated": "2026-11-20T11:45:57.885434+00:00",
+ "updated": "2026-11-21T09:50:42.400591+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/politika/pogacar-brat-dine-vucinic-dobio-otkaz-nakon-sto-se-10-godina-nije-pojavio-na-poslu/",
    "title": "Pogačar: Brat Dine Vučinić dobio otkaz nakon što se 10 godina nije pojavio na poslu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/odbornici-brat-dine-vucinic-dobio-otkaz-10-godina-nije-dolazio-na-posao/",
+   "title": "Odbornici: Brat Dine Vučinić dobio otkaz, 10 godina nije dolazio na posao",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Pogačar: Brat Dine Vučinić dobio otkaz nakon što se 10 godina nije pojavio na poslu"
+  "Pogačar: Brat Dine Vučinić dobio otkaz nakon što se 10 godina nije pojavio na poslu",
+  "Odbornici: Brat Dine Vučinić dobio otkaz, 10 godina nije dolazio na posao"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Great_City_Hospital_of_Novi_Sad.jpg",
   "alt": "Pogačar tvrdi da je brat predsednice Skupštine Novog Sada dobio otkaz"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

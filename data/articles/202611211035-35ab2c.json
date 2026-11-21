@@ -31,17 +31,24 @@
  ],
  "importance": 4,
  "published": "2026-11-21T09:35:55.278856+00:00",
- "updated": "2026-11-21T09:35:55.278856+00:00",
+ "updated": "2026-11-21T09:50:42.400591+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1171881/aleksandar-vucic-studentska-lista-upozorenje",
    "title": "Ove reči Srbija mora dobro upamtiti! Vučić upozorava novu vlast: Onog sekunda kad nestane strah, nastaće žestok otpor!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673326/vucic-jasan-kad-nestane-strah-nastace-zestok-otpor",
+   "title": "VUČIĆ JASAN: Kad nestane strah, nastaće žestok otpor",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Ove reči Srbija mora dobro upamtiti! Vučić upozorava novu vlast: Onog sekunda kad nestane strah, nastaće žestok otpor!"
+  "Ove reči Srbija mora dobro upamtiti! Vučić upozorava novu vlast: Onog sekunda kad nestane strah, nastaće žestok otpor!",
+  "VUČIĆ JASAN: Kad nestane strah, nastaće žestok otpor"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučić poručio novoj vlasti da bi nestankom straha mogao da nastane žestok otpor"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

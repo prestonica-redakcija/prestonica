@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T10:16:32.399954+00:00",
- "updated": "2026-11-20T10:16:32.399954+00:00",
+ "updated": "2026-11-21T09:50:42.400591+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://biznis.telegraf.rs/info-biz/4436555-svetske-banke-otkrile-sta-ceka-dolar-kineski-juan-nezaustavljivo-jaca-evo-sta-se-ocekuje-do-2027-godine",
    "title": "Svetske banke otkrile šta čeka dolar: Kineski juan nezaustavljivo jača, evo šta se očekuje do 2027. godine",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/286631/velike-svetske-investicione-banke-ocekuju-jacanje-juana-u-odnosu-na-dolar-u-2027/vest",
+   "title": "Velike svetske investicione banke objavile najnoviju prognozu: Šta nas očekuje tokom 2027. godine?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Velike svetske investicione banke očekuju jačanje juana u odnosu na dolar u 2027.",
-  "Svetske banke otkrile šta čeka dolar: Kineski juan nezaustavljivo jača, evo šta se očekuje do 2027. godine"
+  "Svetske banke otkrile šta čeka dolar: Kineski juan nezaustavljivo jača, evo šta se očekuje do 2027. godine",
+  "Velike svetske investicione banke objavile najnoviju prognozu: Šta nas očekuje tokom 2027. godine?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Investicione banke očekuju da će juan do kraja 2027. ojačati prema dolaru"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
