@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T10:35:35.391343+00:00",
- "updated": "2026-11-21T11:05:11.644816+00:00",
+ "updated": "2026-11-21T13:33:53.057486+00:00",
  "sources": [
   {
    "name": "N1",
@@ -55,13 +55,20 @@
    "url": "https://www.b92.net/info/region/286885/skaljarac-milos-djurickovic-56-ubijen-je-danas-na-cetinju/vest",
    "title": "Krvavi obračun na Cetinju: Ubijen škaljarac, policija blokirala sve prilaze",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4437183-blokirano-cetinje-dosad-ubijena-trojica-djurickovica-dva-rodjena-brata-i-brat-im-od-strica",
+   "title": "Blokirano Cetinje, ubijen treći Đuričković, pre 9 godina preživeo atentat: Policija traga za ubicom",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Ubijen Miloš Đuričković: Telo pripadnika škaljarskog klana pronađeno kod Cetinja",
   "Ubijen pripadnik škaljarskog klana na Cetinju: Policija blokirala puteve, traje potraga za napadačima",
   "Ubijen Miloš Đuričković, blokirano Cetinje, u toku potraga za ubicom!",
-  "Krvavi obračun na Cetinju: Ubijen škaljarac, policija blokirala sve prilaze"
+  "Krvavi obračun na Cetinju: Ubijen škaljarac, policija blokirala sve prilaze",
+  "Blokirano Cetinje, ubijen treći Đuričković, pre 9 godina preživeo atentat: Policija traga za ubicom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,6 +81,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Cetinje,_Kraljevska_palata.jpg",
   "alt": "Na Cetinju ubijen Miloš Đuričković, policija blokirala puteve i traga za počiniocem"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
