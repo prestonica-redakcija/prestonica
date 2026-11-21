@@ -26,17 +26,24 @@
  ],
  "importance": 5,
  "published": "2026-11-20T13:30:11.562829+00:00",
- "updated": "2026-11-20T13:30:11.562829+00:00",
+ "updated": "2026-11-21T05:22:49.899410+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/299458/investicije-u-ukupna-osnovna-sredstva-u-srbiji-u-2025-godini-vece-za-28-odsto/vest",
    "title": "Investicije u ukupna osnovna sredstva u Srbiji u 2025. godini veće za 2,8 odsto",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/252944/rzs-investicije-u-srbiji-2025-porasle-28-odsto/vest",
+   "title": "RZS: Investicije u Srbiji 2025. veće za 2,8 odsto, Beogradski region prednjači",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Investicije u ukupna osnovna sredstva u Srbiji u 2025. godini veće za 2,8 odsto"
+  "Investicije u ukupna osnovna sredstva u Srbiji u 2025. godini veće za 2,8 odsto",
+  "RZS: Investicije u Srbiji 2025. veće za 2,8 odsto, Beogradski region prednjači"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Investicije u osnovna sredstva u Srbiji u 2025. veće za 2,8 odsto"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
