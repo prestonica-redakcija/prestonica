@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T23:36:31.686264+00:00",
- "updated": "2026-11-21T08:06:33.726633+00:00",
+ "updated": "2026-11-21T08:36:21.110084+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -178,6 +178,12 @@
    "url": "https://www.danas.rs/vesti/politika/bakic-studentska-lista-imamo-kandidata-za-predsednicke-izbore-sns-nema-koga-da-prelozi/",
    "title": "Bakić (Studentska lista): Imamo kandidata za predsedničke izbore, SNS nema koga da preloži",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/jovo-bakic-imamo-kandidata-za-predsednicke-izbore-ali-jos-ne-izlazimo-sa-imenom/",
+   "title": "Bakić: Imamo kandidata za predsedničke izbore, ali još ne izlazimo sa imenom",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -204,7 +210,8 @@
   "Gledajte Dnevnik u 19h",
   "Novi šef Delegacije EU u Srbiji ugostio Čupića: \"Narodna skupština ima čvrstog saveznika u Uniji\"",
   "Otpravnik poslova Delegacije EU u Srbiji ugostio Čupića: \"Narodna skupština ima čvrstog saveznika u Uniji\"",
-  "Bakić (Studentska lista): Imamo kandidata za predsedničke izbore, SNS nema koga da preloži"
+  "Bakić (Studentska lista): Imamo kandidata za predsedničke izbore, SNS nema koga da preloži",
+  "Bakić: Imamo kandidata za predsedničke izbore, ali još ne izlazimo sa imenom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -216,7 +223,7 @@
   "local": true,
   "alt": "Čupić: biću predsednik svih poslanika, Studentska lista slavi izbor rukovodstva Skupštine"
  },
- "novo_od_pisanja": 2,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-20T21:11:49.962208+00:00",
  "verzija": 5

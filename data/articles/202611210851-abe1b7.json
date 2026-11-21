@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T07:51:45.125971+00:00",
- "updated": "2026-11-21T08:06:33.726633+00:00",
+ "updated": "2026-11-21T08:36:21.110084+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -43,11 +43,18 @@
    "url": "https://nova.rs/vesti/politika/milenko-jovanov-jos-sedam-ili-osam-poslanika-sns-podnece-ostavke/",
    "title": "Milenko Jovanov: Još sedam ili osam poslanika SNS podneće ostavke",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10168540/jovanov-najavio-ostavke-poslanika-sns",
+   "title": "JOŠ OSAM POSLANIKA SNS PODNOSI OSTAVKE: Jovanov otkrio ko dolazi na njihova mesta - \"Sve je u redu, nema šta da brinete\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Milenko Jovanov: Računajte da će još jedan broj poslanika naše liste podneti ostavke",
-  "Milenko Jovanov: Još sedam ili osam poslanika SNS podneće ostavke"
+  "Milenko Jovanov: Još sedam ili osam poslanika SNS podneće ostavke",
+  "JOŠ OSAM POSLANIKA SNS PODNOSI OSTAVKE: Jovanov otkrio ko dolazi na njihova mesta - \"Sve je u redu, nema šta da brinete\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "local": true,
   "alt": "Jovanov: Korać napustio poslanički klub, još sedam ili osam poslanika podneće ostavke"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T08:06:33.726633+00:00",
- "updated": "2026-11-21T08:06:33.726633+00:00",
+ "updated": "2026-11-21T08:36:21.110084+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -43,11 +43,18 @@
    "url": "https://www.telegraf.rs/4437054-aleksandar-cupic-pozvan-na-samit-eu-i-zapadnog-balkana-izrazio-zaljenje-sto-nece-moci-da-prisustvuje",
    "title": "Aleksandar Čupić pozvan na samit EU i Zapadnog Balkana, ali neće moći da prisustvuje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/aleksandar-cupic-pozvan-na-samit-eu-i-zapadnog-balkana-u-briselu-ali-nece-prisustvovati/",
+   "title": "Aleksandar Čupić pozvan na samit EU i Zapadnog Balkana u Briselu, ali neće moći da prisustvuje",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Aleksandar Čupić izrazio žaljenje što ne može da prisustvuje samitu EU",
-  "Aleksandar Čupić pozvan na samit EU i Zapadnog Balkana, ali neće moći da prisustvuje"
+  "Aleksandar Čupić pozvan na samit EU i Zapadnog Balkana, ali neće moći da prisustvuje",
+  "Aleksandar Čupić pozvan na samit EU i Zapadnog Balkana u Briselu, ali neće moći da prisustvuje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Čupić pozvan na samit EU i Zapadnog Balkana, ali neće prisustvovati"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
