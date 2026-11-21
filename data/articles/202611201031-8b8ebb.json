@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T09:31:54.346816+00:00",
- "updated": "2026-11-21T11:20:11.634668+00:00",
+ "updated": "2026-11-21T11:35:04.390699+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -44,11 +44,18 @@
    "url": "https://www.kurir.rs/crna-hronika/10168667/ovo-je-skaljarac-darko-vickovic-koji-je-ubijen-u-niksicu",
    "title": "OVO JE ŠKALJARAC KOJI JE UBIJEN U NIKŠIĆU Treća žrtva u porodici – ubili mu dva brata, više puta hapšen zbog veze sa kriminalom, pa likvidiran",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10168682/ko-je-milos-djurickovic-ubili-mu-dva-brata-i-kuma-u-ratu-klanova",
+   "title": "EVO KO JE UBIJENI ŠKALJARAC MILOŠ ĐURIČKOVIĆ: U ratu klanova mu ubili dva brata i kuma - njega ranili u Beogradu, a danas likvidirali na Cetinju!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "ŠKALJARACU KOJI JE JUČE LIKVIDIRAN UBILI 2 BRATA: Teška sudbina Vickovića, napadač ga izrešetao ispred kuće u Nikšiću!",
-  "OVO JE ŠKALJARAC KOJI JE UBIJEN U NIKŠIĆU Treća žrtva u porodici – ubili mu dva brata, više puta hapšen zbog veze sa kriminalom, pa likvidiran"
+  "OVO JE ŠKALJARAC KOJI JE UBIJEN U NIKŠIĆU Treća žrtva u porodici – ubili mu dva brata, više puta hapšen zbog veze sa kriminalom, pa likvidiran",
+  "EVO KO JE UBIJENI ŠKALJARAC MILOŠ ĐURIČKOVIĆ: U ratu klanova mu ubili dva brata i kuma - njega ranili u Beogradu, a danas likvidirali na Cetinju!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Nik%C5%A1i%C4%87,_ulica_Vardarska.jpg",
   "alt": "U Nikšiću ubijen Darko Vicković, policija ga je dovodila u vezu sa škaljarskim klanom"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

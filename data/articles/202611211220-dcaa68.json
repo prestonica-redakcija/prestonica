@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T11:20:11.634668+00:00",
- "updated": "2026-11-21T11:20:11.634668+00:00",
+ "updated": "2026-11-21T11:35:04.390699+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -45,11 +45,18 @@
    "url": "https://www.euronews.rs/svet/fokus/253037/cop31-u-antaliji-bez-dogovora-o-fosilnim-gorivima/vest",
    "title": "COP31 u Antaliji se nastavlja: Nema dogovora o fosilnim gorivima i pomoći siromašnijim zemljama",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/produzeni-pregovori-na-cop31-u-antaliji-bez-dogovora-o-fosilnim-gorivima-i-pomoci-zemljama-u-razvoju",
+   "title": "Produženi pregovori na COP31 u Antaliji: Bez dogovora o fosilnim gorivima i pomoći zemljama u razvoju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "COP31 produžen zbog neslaganja oko fosilnih goriva i finansiranja klimatskih promena",
-  "COP31 u Antaliji se nastavlja: Nema dogovora o fosilnim gorivima i pomoći siromašnijim zemljama"
+  "COP31 u Antaliji se nastavlja: Nema dogovora o fosilnim gorivima i pomoći siromašnijim zemljama",
+  "Produženi pregovori na COP31 u Antaliji: Bez dogovora o fosilnim gorivima i pomoći zemljama u razvoju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:COP31_-_Shehbaz_Sharif_04.jpg",
   "alt": "Klimatska konferencija COP31 u Antaliji produžena, nema dogovora o fosilnim gorivima"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

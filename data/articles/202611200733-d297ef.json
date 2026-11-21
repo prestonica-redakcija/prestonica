@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-21T11:20:11.634668+00:00",
+ "updated": "2026-11-21T11:35:04.390699+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -301,6 +301,12 @@
    "url": "https://www.telegraf.rs/vesti/svet/4437096-katasrofa-u-rodnom-gradu-zelenskog-decak-umro-u-bolnici-rusi-bez-milosti-napali-krivi-rog",
    "title": "Katastrofa u rodnom gradu Zelenskog: Dečak umro u bolnici, Rusi bez milosti napali Krivi Rog",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/poljski-ministar-putin-govori-trampu-jednoa-na-delu-je-ruski-drzavni-terorizam-prema-clanicama-nato",
+   "title": "Poljski ministar: Putin govori Trampu jedno, a na delu je ruski državni terorizam prema članicama NATO",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -347,7 +353,8 @@
   "Zelenski odgovorio Trampu nakon što je Putina nazvao prijateljem: „Za nas je on ubica, ubija svakog dana i svake noći“",
   "Broj povređenih u ruskom napadu na Krivi Rog povećan na 52, dve osobe poginule",
   "Napad na NATO članicu mogao je biti sprečen; Ruska raketa bila na nišanu, ali...",
-  "Katastrofa u rodnom gradu Zelenskog: Dečak umro u bolnici, Rusi bez milosti napali Krivi Rog"
+  "Katastrofa u rodnom gradu Zelenskog: Dečak umro u bolnici, Rusi bez milosti napali Krivi Rog",
+  "Poljski ministar: Putin govori Trampu jedno, a na delu je ruski državni terorizam prema članicama NATO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -361,7 +368,7 @@
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
  },
- "novo_od_pisanja": 8,
+ "novo_od_pisanja": 9,
  "boost": 1.6,
  "prepisano": "2026-11-20T22:56:03.386969+00:00",
  "verzija": 8

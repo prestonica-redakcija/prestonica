@@ -32,7 +32,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T10:16:32.399954+00:00",
- "updated": "2026-11-21T11:05:11.644816+00:00",
+ "updated": "2026-11-21T11:35:04.390699+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -57,13 +57,20 @@
    "url": "https://www.tanjug.rs/svet/drustvo/299658/zbog-poplava-na-severu-francuske-evakuisano-skoro-800-ljudi/vest",
    "title": "Zbog poplava na severu Francuske evakuisano skoro 800 ljudi",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4437126-dramaticne-scene-u-francuskoj-poplave-primorale-skoro-800-ljudi-da-napuste-domove",
+   "title": "Dramatične scene u Francuskoj: Poplave primorale skoro 800 ljudi da napuste domove",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Poplave na severu Francuske: Evakuisano 450 ljudi, aktiviran plan za vanredne situacije",
   "Poplave na severu Francuske: Evakuisano 450 ljudi, aktiviran plan za vanredne situacije",
   "Vanredna situacija u Francuskoj! Hitna evakuacija zbog strašnog nevremena",
-  "Zbog poplava na severu Francuske evakuisano skoro 800 ljudi"
+  "Zbog poplava na severu Francuske evakuisano skoro 800 ljudi",
+  "Dramatične scene u Francuskoj: Poplave primorale skoro 800 ljudi da napuste domove"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +83,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Pas_de_Calais_-_Strait_of_Dover-_%D0%9F%D0%B0_%D0%B4%D0%B5_%D0%9A%D0%B0%D0%BB%D0%B5_-_%D0%94%D1%83%D0%B2%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2._-_panoramio.jpg",
   "alt": "Poplave na severu Francuske: evakuisano oko 450 ljudi, zatvoreno oko 130 škola"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
