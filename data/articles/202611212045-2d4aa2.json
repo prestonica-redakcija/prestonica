@@ -28,17 +28,24 @@
  ],
  "importance": 5,
  "published": "2026-11-21T19:45:30.510819+00:00",
- "updated": "2026-11-21T19:45:30.510819+00:00",
+ "updated": "2026-11-21T20:00:24.496948+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10169047/UHAPSENA-DVOJICA-PIROMANA-Sumnja-se-da-su-bacili-Molotovljev-koktelna-nekadasnje-sediste-Demokratske-stranke",
    "title": "UHAPŠENA DVOJICA PIROMANA: Sumnja se da su bacili Molotovljev koktelna nekadašnje sedište Demokratske stranke",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/299790/mup-dva-muskarca-uhapsena-zbog-podmetanja-pozara-u-krunskoj-ulici/vest",
+   "title": "MUP: Dva muškarca uhapšena zbog podmetanja požara u Krunskoj ulici",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "UHAPŠENA DVOJICA PIROMANA: Sumnja se da su bacili Molotovljev koktelna nekadašnje sedište Demokratske stranke"
+  "UHAPŠENA DVOJICA PIROMANA: Sumnja se da su bacili Molotovljev koktelna nekadašnje sedište Demokratske stranke",
+  "MUP: Dva muškarca uhapšena zbog podmetanja požara u Krunskoj ulici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Za_pravednu_Srbiju_%E2%80%93_Demokratska_stranka_1.jpg",
   "alt": "Uhapšena dvojica osumnjičenih za podmetanje požara u Krunskoj ulici na Vračaru"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

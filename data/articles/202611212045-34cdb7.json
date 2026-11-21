@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T19:45:30.510819+00:00",
- "updated": "2026-11-21T19:45:30.510819+00:00",
+ "updated": "2026-11-21T20:00:24.496948+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -44,11 +44,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4437337-uhapsena-2-muskarca-zbog-izazivanja-pozara-na-vracaru",
    "title": "Uhapšena 2 muškarca zbog izazivanja požara na Vračaru",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/vracar-firma-hapsenje-pozar/",
+   "title": "Dve osobe uhapšene zbog sumnje da su izazvale požar u firmi na Vračaru",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Dve osobe uhapšene zbog požara u firmi na Vračaru",
-  "Uhapšena 2 muškarca zbog izazivanja požara na Vračaru"
+  "Uhapšena 2 muškarca zbog izazivanja požara na Vračaru",
+  "Dve osobe uhapšene zbog sumnje da su izazvale požar u firmi na Vračaru"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Krunska_ulica_sa_12_imena.jpg",
   "alt": "Uhapšene dve osobe zbog sumnje da su zapaljivom materijom izazvale požar na Vračaru"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

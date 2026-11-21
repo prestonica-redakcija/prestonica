@@ -31,17 +31,24 @@
  ],
  "importance": 3,
  "published": "2026-11-21T19:45:30.510819+00:00",
- "updated": "2026-11-21T19:45:30.510819+00:00",
+ "updated": "2026-11-21T20:00:24.496948+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/info/svet/287016/stanovnici-bernama-glasali-za-izlazak-iz-britanije-zbog-azilanata/vest",
    "title": "Organizovan \"referendum\": Izlaze iz Velike Britanije?",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299782/stanovnici-bernama-glasali-za-izlazak-iz-britanije-zbog-azilanata/vest",
+   "title": "Stanovnici Bernama glasali za izlazak iz Britanije zbog azilanata",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Organizovan \"referendum\": Izlaze iz Velike Britanije?"
+  "Organizovan \"referendum\": Izlaze iz Velike Britanije?",
+  "Stanovnici Bernama glasali za izlazak iz Britanije zbog azilanata"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "alt": "people gathering near green trees during daytime",
   "link": "https://unsplash.com/@patrikvelich"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
