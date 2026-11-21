@@ -32,17 +32,24 @@
  ],
  "importance": 5,
  "published": "2026-11-20T21:56:34.046498+00:00",
- "updated": "2026-11-20T21:56:34.046498+00:00",
+ "updated": "2026-11-21T04:38:15.819373+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/svet/tramp-kaze-uvesce-visoke-namete-kompanijama-koje-grade-data-centre-van-zemlje/",
    "title": "Tramp kaže uvešće visoke namete kompanijama koje grade data centre van zemlje",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/planeta/252990/tramp-preti-visokim-porezima-americkim-firmama/vest",
+   "title": "Tramp preti visokim porezima američkim firmama koje grade data centre u inostranstvu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Tramp kaže uvešće visoke namete kompanijama koje grade data centre van zemlje"
+  "Tramp kaže uvešće visoke namete kompanijama koje grade data centre van zemlje",
+  "Tramp preti visokim porezima američkim firmama koje grade data centre u inostranstvu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Tramp najavio visoke namete kompanijama koje grade data centre van SAD"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
