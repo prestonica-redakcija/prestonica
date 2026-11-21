@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T17:02:01.835105+00:00",
- "updated": "2026-11-21T17:46:42.593339+00:00",
+ "updated": "2026-11-21T18:46:04.223189+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -41,11 +41,18 @@
    "url": "https://www.novosti.rs/vesti/politika/1673433/borba-srbiju-prestaje-oglasila-ana-brnabic-video",
    "title": "BORBA ZA SRBIJU NE PRESTAJE: Oglasila se Ana Brnabić (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=79JnnPuPXUk",
+   "title": "Brnabić: Borba za Srbiju ne prestaje",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
   "BORVA ZA SRBIJU NE PRESTAJE: Oglasila se Ana Brnabić (VIDEO)",
-  "BORBA ZA SRBIJU NE PRESTAJE: Oglasila se Ana Brnabić (VIDEO)"
+  "BORBA ZA SRBIJU NE PRESTAJE: Oglasila se Ana Brnabić (VIDEO)",
+  "Brnabić: Borba za Srbiju ne prestaje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +65,6 @@
   "alt": "National assembly building with traffic and clear sky",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
