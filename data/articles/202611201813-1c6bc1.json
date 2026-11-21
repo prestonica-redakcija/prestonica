@@ -36,7 +36,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T17:13:25.084308+00:00",
- "updated": "2026-11-20T17:43:12.187852+00:00",
+ "updated": "2026-11-21T06:22:28.209155+00:00",
  "sources": [
   {
    "name": "N1",
@@ -67,6 +67,12 @@
    "url": "https://nova.rs/vesti/drustvo/promene-trasa-gradskog-prevoza-zbog-beogradskog-polumaratona-evo-koje-ulice-ce-biti-zatvorene/",
    "title": "Promene trasa gradskog prevoza zbog Beogradskog polumaratona: Evo koje ulice će biti zatvorene",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/beograd/4436912-danas-je-beogradski-polumaraton-zatvoreno-mnogo-ulica-informisite-se-na-vreme",
+   "title": "Danas je Beogradski polumaraton: Zatvoreno mnogo ulica, informišite se na vreme",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -74,7 +80,8 @@
   "Poznate trase svih trka na Beogradskom polumaratonu",
   "Za vikend promena trasa gradskog prevoza zbog Beogradskog polumaratona",
   "Za vikend promena trasa gradskog prevoza zbog Beogradskog polumaratona",
-  "Promene trasa gradskog prevoza zbog Beogradskog polumaratona: Evo koje ulice će biti zatvorene"
+  "Promene trasa gradskog prevoza zbog Beogradskog polumaratona: Evo koje ulice će biti zatvorene",
+  "Danas je Beogradski polumaraton: Zatvoreno mnogo ulica, informišite se na vreme"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -87,6 +94,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Novi_Beograd_(Blok_45,_44,_70,_71).jpg",
   "alt": "Beogradski polumaraton: saobraćaj se obustavlja već u subotu, menja se javni prevoz"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
