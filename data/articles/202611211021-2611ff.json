@@ -28,7 +28,7 @@
  "places": [],
  "importance": 5,
  "published": "2026-11-21T09:21:04.993856+00:00",
- "updated": "2026-11-21T11:49:52.141541+00:00",
+ "updated": "2026-11-21T13:33:53.057486+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -47,12 +47,19 @@
    "url": "https://www.novosti.rs/vesti/politika/1673362/sramota-nije-mogao-izdrzi-mesec-dana-vucevic-osuo-kritike-dejana-vuka-stankovica-zbog-smene-direktora-jovine-gimnazije",
    "title": "„SRAMOTA! NIJE MOGAO DA IZDRŽI NI MESEC DANA!“ Vučević osuo kritike na Dejana Vuka Stankovića zbog smene direktora Jovine gimnazije",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10168780/dejan-vuk-stankovic-o-smeni-direktora-jovine-gimnazije",
+   "title": "OGLASIO SE DEJAN VUK STANKOVIĆ POSLE KRITIKA LIDERA SNS! Evo šta ministar prosvete kaže o smeni direktora Jovine gimnazije: Nema mesta političkim napadima",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Trese se Srbija! Vučević grmi - žestoko opleo po Dejanu Vuku Stankoviću: Sram te bilo!",
   "\"SRAMOTA! NIJE MOGAO DA IZDRŽI NI MESEC DANA!\" Vučević žestoko kritikovao Dejana Vuka Stankovića: Sram vas bilo!",
-  "„SRAMOTA! NIJE MOGAO DA IZDRŽI NI MESEC DANA!“ Vučević osuo kritike na Dejana Vuka Stankovića zbog smene direktora Jovine gimnazije"
+  "„SRAMOTA! NIJE MOGAO DA IZDRŽI NI MESEC DANA!“ Vučević osuo kritike na Dejana Vuka Stankovića zbog smene direktora Jovine gimnazije",
+  "OGLASIO SE DEJAN VUK STANKOVIĆ POSLE KRITIKA LIDERA SNS! Evo šta ministar prosvete kaže o smeni direktora Jovine gimnazije: Nema mesta političkim napadima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "osoba": "Dejan Vuk Stanković",
   "alt": "Vučević kritikovao ministra Stankovića zbog smene direktora Jovine gimnazije"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T07:47:34.312460+00:00",
- "updated": "2026-11-21T08:36:21.110084+00:00",
+ "updated": "2026-11-21T13:04:09.682872+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -72,6 +72,12 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/299337/srpska-pravoslavna-crkva-danas-slavi-sabor-svetog-arhangela-mihaila-arandelovdan/vest",
    "title": "Srpska pravoslavna crkva danas slavi Sabor Svetog Arhangela Mihaila - Aranđelovdan",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10166718/ko-je-arhangel-mihailo-i-kako-se-slavi-arandjelovdan",
+   "title": "Ko je bio Arhangel Mihailo i zašto ga Srbi toliko poštuju? Aranđelovdan je jedna od najvećih slava, a slavi se u čast Arhangela Mihaila, vođe nebeske vojske",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -81,7 +87,8 @@
   "Danas je Aranđelovdan, jedna od najvećih srpskih slava: Običaji, verovanja i pravilo koje mnogi pogrešno poštuju",
   "Danas je Aranđelovdan! Tradicija, stroga crkvena pravila, ali i NAJVEĆA ZABLUDA srpskih domaćina",
   "Generacije Srba žito ne stavljaju na slavsku trpezu za Aranđelovdan: Crkva ima drugačije pravilo",
-  "Srpska pravoslavna crkva danas slavi Sabor Svetog Arhangela Mihaila - Aranđelovdan"
+  "Srpska pravoslavna crkva danas slavi Sabor Svetog Arhangela Mihaila - Aranđelovdan",
+  "Ko je bio Arhangel Mihailo i zašto ga Srbi toliko poštuju? Aranđelovdan je jedna od najvećih slava, a slavi se u čast Arhangela Mihaila, vođe nebeske vojske"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -94,8 +101,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Marija_-_Sv._arhangel_Mihailo.jpg",
   "alt": "Srpska pravoslavna crkva sutra slavi Aranđelovdan, Sabor Svetog Arhangela Mihaila"
  },
- "novo_od_pisanja": 2,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-21T07:07:01.748216+00:00",
  "verzija": 2
 }

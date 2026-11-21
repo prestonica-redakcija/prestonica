@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T12:34:23.192834+00:00",
- "updated": "2026-11-21T12:34:23.192834+00:00",
+ "updated": "2026-11-21T13:33:53.057486+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,12 +48,19 @@
    "url": "https://www.kurir.rs/vesti/srbi-na-kim/10168717/eparhija-rasko-prizrenska-predlog-zakona-o-inspektoratu-mogao-bi-da-ugrozi-prava-spc",
    "title": "EPARHIJA RAŠKO-PRIZRENSKA: Predlog zakona o Inspektoratu mogao bi da ugrozi zakonom zagarantovana prava SPC!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253049/eparhija-zabrinuta-zbog-nacrta-zakona-o-kulturnom-nasledu/vest",
+   "title": "Eparhija raško-prizrenska o nacrtu zakona: Zaštititi prava SPC u kulturnom nasleđu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Eparhija raško-prizrenska: Dopuniti nacrt zakona da se merama ne mogu ograničiti prava SPC na KiM",
   "Eparhija raško-prizrenska zabrinuta zbog uticaja novog zakona Kosova na njene objekte",
-  "EPARHIJA RAŠKO-PRIZRENSKA: Predlog zakona o Inspektoratu mogao bi da ugrozi zakonom zagarantovana prava SPC!"
+  "EPARHIJA RAŠKO-PRIZRENSKA: Predlog zakona o Inspektoratu mogao bi da ugrozi zakonom zagarantovana prava SPC!",
+  "Eparhija raško-prizrenska o nacrtu zakona: Zaštititi prava SPC u kulturnom nasleđu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +71,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Eparhija raško-prizrenska traži dopunu kosovskog nacrta zakona o inspektoratu za kulturno nasleđe"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

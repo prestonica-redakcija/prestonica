@@ -29,17 +29,24 @@
  ],
  "importance": 3,
  "published": "2026-11-21T09:21:04.993856+00:00",
- "updated": "2026-11-21T09:21:04.993856+00:00",
+ "updated": "2026-11-21T14:48:17.077113+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/svet/hronika/299646/navodni-sef-narko-kartela-sa-liste-najtrazenijih-fbi-ja-uhapsen-u-meksiku/vest",
    "title": "Navodni šef narko-kartela sa liste najtraženijih FBI-ja uhapšen u Meksiku",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/meksicka-vojska-uhapsila-el-capa-isidra-jednog-od-najtrazenijih-begunaca-fbi-izbili-zestoki-sukobi-u-sinaloi/",
+   "title": "Meksička vojska uhapsila \"El Čapa Isidra\" - jednog od najtraženijih begunaca FBI: Izbili žestoki sukobi u Sinaloi",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Navodni šef narko-kartela sa liste najtraženijih FBI-ja uhapšen u Meksiku"
+  "Navodni šef narko-kartela sa liste najtraženijih FBI-ja uhapšen u Meksiku",
+  "Meksička vojska uhapsila \"El Čapa Isidra\" - jednog od najtraženijih begunaca FBI: Izbili žestoki sukobi u Sinaloi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:MUS_Koin_Meksiko_8_Real_Raja_Philip_V;_1.jpg",
   "alt": "Meksička vojska navodno uhapsila Fausta Isidra Mezu Floresa, begunca sa FBI liste"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T09:02:13.737109+00:00",
- "updated": "2026-11-21T13:34:37.465012+00:00",
+ "updated": "2026-11-21T15:03:06.500384+00:00",
  "sources": [
   {
    "name": "N1",
@@ -52,9 +52,15 @@
    "spektar": "opozicija"
   },
   {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/sestoro-zaposlenih-u-gradskoj-upravi-leskovca-pusteno-na-slobodu-sud-odbio-predlog-za-pritvor/",
+   "title": "Šestoro zaposlenih u Gradskoj upravi Leskovca pušteno na slobodu: Sud odbio predlog za pritvor",
+   "spektar": "opozicija"
+  },
+  {
    "name": "N1",
-   "url": "https://n1info.rs/vesti/visi-sud-u-novom-sadu-odredio-pritvor-predsedniku-opstine-indjija-i-direktoru-jp-indjija-put/",
-   "title": "Viši sud u Novom Sadu odredio pritvor predsedniku Opštine Inđija i direktoru JP Inđija put",
+   "url": "https://n1info.rs/vesti/sud-odbio-predlog-za-pritvor-sestoro-zaposlenih-u-gradskoj-upravi-leskovca-pusteno-na-slobodu/",
+   "title": "Sud odbio predlog za pritvor: Šestoro zaposlenih u Gradskoj upravi Leskovca pušteno na slobodu",
    "spektar": "opozicija"
   }
  ],
@@ -62,7 +68,8 @@
   "Gorski Matović pušten na slobodu uz meru zabrane prilaska",
   "Gorski Matović pušten na slobodu",
   "Osnovni sud u Novom Sadu smatra da Gorski Matović ne treba da bude u pritvoru",
-  "Viši sud u Novom Sadu odredio pritvor predsedniku Opštine Inđija i direktoru JP Inđija put"
+  "Šestoro zaposlenih u Gradskoj upravi Leskovca pušteno na slobodu: Sud odbio predlog za pritvor",
+  "Sud odbio predlog za pritvor: Šestoro zaposlenih u Gradskoj upravi Leskovca pušteno na slobodu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,6 +81,6 @@
   "local": true,
   "alt": "Sud u Novom Sadu odbio pritvor Gorskom Matoviću, određena zabrana prilaska"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

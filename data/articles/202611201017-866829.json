@@ -28,17 +28,31 @@
  ],
  "importance": 6,
  "published": "2026-11-20T09:17:09.352450+00:00",
- "updated": "2026-11-20T09:17:09.352450+00:00",
+ "updated": "2026-11-21T14:33:20.505484+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/299361/mali-danas-prva-aukcija-prevremenog-otkupa-drzavnih-obveznica/vest",
    "title": "Mali: Danas prva aukcija prevremenog otkupa državnih obveznica",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/299691/banka-postanska-stedionica-prodala-deo-drzavnih-obveznica-na-prvoj-aukciji-prevremenog-otkupa-jacamo-likvidnost/vest",
+   "title": "Banka Poštanska štedionica prodala deo državnih obveznica na prvoj aukciji prevremenog otkupa: Jačamo likvidnost",
+   "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253052/postanska-stedionica-prodala-obveznice-za-15-milijardi/vest",
+   "title": "Poštanska štedionica na prvoj aukciji prodala obveznice za 15 milijardi dinara",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Mali: Danas prva aukcija prevremenog otkupa državnih obveznica"
+  "Mali: Danas prva aukcija prevremenog otkupa državnih obveznica",
+  "Banka Poštanska štedionica prodala deo državnih obveznica na prvoj aukciji prevremenog otkupa: Jačamo likvidnost",
+  "Poštanska štedionica na prvoj aukciji prodala obveznice za 15 milijardi dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +63,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Mali: danas prva aukcija prevremenog otkupa državnih obveznica"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

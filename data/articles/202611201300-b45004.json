@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T12:00:57.155901+00:00",
- "updated": "2026-11-21T11:49:52.141541+00:00",
+ "updated": "2026-11-21T12:49:17.166980+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -114,6 +114,24 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4437142-nema-osnova-za-dalje-zastupanje-optuznog-predloga-vjt-se-oglasio-o-oslobadjanju-devetoro-studenata",
    "title": "\"Nema osnova za dalje zastupanje optužnog predloga\": VJT se oglasio o oslobađanju devetoro studenata",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/299687/advokat-prelic-tuzilac-u-slucaju-protiv-sapica-radio-po-diktatu-politicke-organizacije/vest",
+   "title": "Advokat Prelić: Tužilac u slučaju protiv Šapića radio po diktatu političke organizacije",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4437159-prelic-tuzilac-u-slucaju-protiv-sapica-radio-po-diktatu-politicke-organizacije",
+   "title": "Prelić: Tužilac u slučaju protiv Šapića radio po diktatu političke organizacije",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/sapicev-advokat-tuzilac-radi-po-diktatu/",
+   "title": "Oglasio se Šapićev advokat: Tužilac radi po diktatu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -130,7 +148,10 @@
   "Oglasilo se tužilaštvo: Traže tri godine zatvora za Aleksandra Šapića",
   "Tužilaštvo podnelo optužni predlog protiv Šapića zbog teške telesne povrede, traži najmanje tri godine zatvora",
   "Šapić optužen za nanošenje teških telesnih povreda odbornici na Novom Beogradu",
-  "\"Nema osnova za dalje zastupanje optužnog predloga\": VJT se oglasio o oslobađanju devetoro studenata"
+  "\"Nema osnova za dalje zastupanje optužnog predloga\": VJT se oglasio o oslobađanju devetoro studenata",
+  "Advokat Prelić: Tužilac u slučaju protiv Šapića radio po diktatu političke organizacije",
+  "Prelić: Tužilac u slučaju protiv Šapića radio po diktatu političke organizacije",
+  "Oglasio se Šapićev advokat: Tužilac radi po diktatu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -143,7 +164,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Aleksandar_%C5%A0api%C4%87_i_Savo_Milo%C5%A1evi%C4%87_na_sednici_Glavnog_odbora_DS.jpg",
   "alt": "VJT: prijava protiv Šapića podneta avgusta 2025, predmet prosleđen Trećem osnovnom tužilaštvu"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 6,
  "boost": 1.6,
  "prepisano": "2026-11-20T14:14:47.015911+00:00",
  "verzija": 2

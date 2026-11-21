@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T06:18:15.014670+00:00",
- "updated": "2026-11-21T12:19:37.340423+00:00",
+ "updated": "2026-11-21T14:18:29.442150+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -96,6 +96,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/vremenska-prognoza-za-nedelju-22-novembar-kada-ce-padati-kisa/",
    "title": "Vremenska prognoza za nedelju 22. novembar: Kada će padati kiša?",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4437162-ovde-vec-pljusti-pljuskovi-sa-grmljavinom-do-kraja-dana-ocekuju-ove-predele-srbije",
+   "title": "Ovde već pljušti: Pljuskovi sa grmljavinom do kraja dana očekuju ove predele Srbije",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/286939/vremenska-prognoza-kisa-u-srbiji/vest",
+   "title": "U ovim krajevima Srbije već pljušti; Evo gde će još biti kiše do kraja dana",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -109,7 +121,9 @@
   "Danas pad temperature, mogući kiša i pljuskovi",
   "Otvaraju se \"bečka vatra\": Ledeni talas preti Srbiji – sprema se veliki vremenski preokret",
   "Stiže jače zahlađenje: Padaće kiša i sneg, temperatura pada za 10 stepeni",
-  "Vremenska prognoza za nedelju 22. novembar: Kada će padati kiša?"
+  "Vremenska prognoza za nedelju 22. novembar: Kada će padati kiša?",
+  "Ovde već pljušti: Pljuskovi sa grmljavinom do kraja dana očekuju ove predele Srbije",
+  "U ovim krajevima Srbije već pljušti; Evo gde će još biti kiše do kraja dana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -121,7 +135,7 @@
   "local": true,
   "alt": "Danas kiša i pljuskovi u većem delu Srbije, od sutra postepeno zahlađenje"
  },
- "novo_od_pisanja": 5,
+ "novo_od_pisanja": 7,
  "boost": 1.6,
  "prepisano": "2026-11-20T19:27:33.174647+00:00",
  "verzija": 2

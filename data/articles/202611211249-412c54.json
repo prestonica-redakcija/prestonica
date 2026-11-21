@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T11:49:52.141541+00:00",
- "updated": "2026-11-21T12:19:37.340423+00:00",
+ "updated": "2026-11-21T12:49:17.166980+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -45,11 +45,18 @@
    "url": "https://www.kurir.rs/vesti/politika/10168720/jovo-bakic-mup-policija-ministar",
    "title": "JOVA BAKIĆA PITALI DA LI ĆE BITI MINISTAR POLICIJE: \"E, za to sam se pripremao i pripremam se i dalje, ali...\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4437155-jovo-bakic-za-novu-pripremam-za-ministra-policije-ako-ostanem-u-skupstini-voleo-bih-da-i-vucic-bude-tu",
+   "title": "Jovo Bakić za Novu: Pripremam za ministra policije, ako ostanem u Skupštini, voleo bih da i Vučić bude tu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "INTERVJU Jovo Bakić: I dalje se pripremam za ministra policije. Ako ostanem u Skupštini, voleo bih da i Vučić bude tu",
-  "JOVA BAKIĆA PITALI DA LI ĆE BITI MINISTAR POLICIJE: \"E, za to sam se pripremao i pripremam se i dalje, ali...\""
+  "JOVA BAKIĆA PITALI DA LI ĆE BITI MINISTAR POLICIJE: \"E, za to sam se pripremao i pripremam se i dalje, ali...\"",
+  "Jovo Bakić za Novu: Pripremam za ministra policije, ako ostanem u Skupštini, voleo bih da i Vučić bude tu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "local": true,
   "alt": "Bakić: i dalje se pripremam za ministra policije, ali to ne znači da ću to biti"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -31,17 +31,24 @@
  ],
  "importance": 6,
  "published": "2026-11-21T12:19:37.340423+00:00",
- "updated": "2026-11-21T12:19:37.340423+00:00",
+ "updated": "2026-11-21T12:49:17.166980+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/svet/putin-u-intervjuu-kusturici-pozvao-ukrajinske-vojnike-da-predju-na-rusku-stranu-to-je-prava-strana-istorije/",
    "title": "Putin u intervjuu Kusturici pozvao ukrajinske vojnike da pređu na rusku stranu: \"To je prava strana istorije\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/putin-dao-intervju-kusturici-pozvao-ukrajinske-vojnike-da-predju-na-rusku-stranu-a-zatim-objasnjavao-kako-rusija-cuva-hriscanstvo/",
+   "title": "Putin dao intervju Kusturici: Pozvao ukrajinske vojnike da pređu na rusku stranu, a zatim objašnjavao kako Rusija čuva hrišćanstvo",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Putin u intervjuu Kusturici pozvao ukrajinske vojnike da pređu na rusku stranu: \"To je prava strana istorije\""
+  "Putin u intervjuu Kusturici pozvao ukrajinske vojnike da pređu na rusku stranu: \"To je prava strana istorije\"",
+  "Putin dao intervju Kusturici: Pozvao ukrajinske vojnike da pređu na rusku stranu, a zatim objašnjavao kako Rusija čuva hrišćanstvo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Putin_at_Russian_Chapel,_Vr%C5%A1i%C4%8D.jpg",
   "alt": "Putin u razgovoru sa Kusturicom pozvao ukrajinske vojnike da pređu na rusku stranu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
