@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T11:01:26.183950+00:00",
- "updated": "2026-11-21T11:49:52.141541+00:00",
+ "updated": "2026-11-21T12:49:17.166980+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -69,6 +69,12 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/299668/vise-javno-tuzilastvo-u-beogradu-se-nece-zaliti-na-odbijajucu-presudu/vest",
    "title": "Više javno tužilaštvo u Beogradu se neće žaliti na odbijajuću presudu",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/vjt-se-nece-zaliti-na-presudu-viseg-suda-kojom-je-obustavljen-postupak-protiv-devetoro-studenata",
+   "title": "VJT se neće žaliti na presudu Višeg suda kojom je obustavljen postupak protiv devetoro studenata",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -77,7 +83,8 @@
   "Sud obustavio postupak protiv 9 studenata optuženih za pripremu nasilne promene ustavnog poretka",
   "ZVANIČNO SLOBODNI: Sud obustavio postupak protiv 9 studenata za pokušaj nasilne promene ustavnog poretka",
   "VJT U BEOGRADU DONELO ODLUKU: Neće se žaliti na odbijajuću presudu - obustavljen postupak protiv 9 optuženih za pripremu nasilne promene ustavnog poretka",
-  "Više javno tužilaštvo u Beogradu se neće žaliti na odbijajuću presudu"
+  "Više javno tužilaštvo u Beogradu se neće žaliti na odbijajuću presudu",
+  "VJT se neće žaliti na presudu Višeg suda kojom je obustavljen postupak protiv devetoro studenata"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -89,6 +96,6 @@
   "local": true,
   "alt": "Obustavljen postupak protiv devetoro optuženih za pripremu nasilne promene poretka"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
