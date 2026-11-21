@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T08:06:33.726633+00:00",
- "updated": "2026-11-21T08:36:21.110084+00:00",
+ "updated": "2026-11-21T08:51:13.242041+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -43,11 +43,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/ilic-sud-u-strazburu-dao-srbiji-rok-do-15-januara-da-se-izjasni-o-slucaju-zvucni-top/",
    "title": "Ilić: Sud u Strazburu dao Srbiji rok do 15.januara da se izjasni o slučaju zvučni top",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/vladica-ilic-sud-u-strazburu-dao-srbiji-rok-do-15-januara-da-se-izjasni-o-slucaju-zvucni-top/",
+   "title": "Vladica Ilić: Sud u Strazburu dao Srbiji rok do 15. januara da se izjasni o slučaju zvučni top",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Vladica Ilić (BCLJP): Sud u Strazburu dao Srbiji rok do 15. januara da se izjasni o zvučnom topu",
-  "Ilić: Sud u Strazburu dao Srbiji rok do 15.januara da se izjasni o slučaju zvučni top"
+  "Ilić: Sud u Strazburu dao Srbiji rok do 15.januara da se izjasni o slučaju zvučni top",
+  "Vladica Ilić: Sud u Strazburu dao Srbiji rok do 15. januara da se izjasni o slučaju zvučni top"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "local": true,
   "alt": "Strazbur traži izjašnjenje Srbije o slučaju zvučni top, rok je 15. januar"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

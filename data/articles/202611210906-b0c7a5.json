@@ -34,17 +34,24 @@
  ],
  "importance": 4,
  "published": "2026-11-21T08:06:33.726633+00:00",
- "updated": "2026-11-21T08:06:33.726633+00:00",
+ "updated": "2026-11-21T08:51:13.242041+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/amss-savetuje-vozacima-oprez-promenljive-vremenske-prilike-moguci-odroni/",
    "title": "AMSS savetuje vozačima oprez: Promenljive vremenske prilike, mogući odroni",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/amss-savetuje-vozacima-oprez-zbog-promenljivih-vremenskih-prilika-i-mogucih-odrona",
+   "title": "AMSS savetuje vozačima oprez zbog promenljivih vremenskih prilika i mogućih odrona",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "AMSS savetuje vozačima oprez: Promenljive vremenske prilike, mogući odroni"
+  "AMSS savetuje vozačima oprez: Promenljive vremenske prilike, mogući odroni",
+  "AMSS savetuje vozačima oprez zbog promenljivih vremenskih prilika i mogućih odrona"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "AMSS savetuje oprez na putevima zbog promenljivog vremena i mogućih odrona"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

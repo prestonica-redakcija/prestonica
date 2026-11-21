@@ -35,7 +35,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T08:21:30.390780+00:00",
- "updated": "2026-11-21T08:21:30.390780+00:00",
+ "updated": "2026-11-21T08:51:13.242041+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -54,12 +54,19 @@
    "url": "https://www.telegraf.rs/vesti/svet/4437059-zelenski-poslao-ostro-upozorenje-moskvi-krimski-most-nece-ostati-na-svom-mestu",
    "title": "Zelenski poslao oštro upozorenje Moskvi: Krimski most neće ostati na svom mestu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/zelenski-krimski-most-nece-opstati-putin-ga-koristi-za-prebacivanje-vojne-opreme",
+   "title": "Zelenski: Krimski most neće opstati, Putin ga koristi za prebacivanje vojne opreme",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Zelenski: Krimski most, kojim Rusija prebacuje oružje, neće ostati na mestu",
   "ZELENSKI UPOZORIO PUTINA: Krimski most neće još dugo postojati!",
-  "Zelenski poslao oštro upozorenje Moskvi: Krimski most neće ostati na svom mestu"
+  "Zelenski poslao oštro upozorenje Moskvi: Krimski most neće ostati na svom mestu",
+  "Zelenski: Krimski most neće opstati, Putin ga koristi za prebacivanje vojne opreme"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,5 +78,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:W%C5%82adys%C5%82aw_%C5%BBele%C5%84ski_(55271).jpg",
   "alt": "Zelenski: Krimski most neće opstati, Ukrajina će odgovoriti na napade na mostove"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
