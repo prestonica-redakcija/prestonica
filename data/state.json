@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.kurir.rs/vesti/beograd/10162516/bez-struje-danas-u-beogradu": "2026-11-16T04:59:45.284444+00:00",
   "https://n1info.rs/vesti/najnoviji-oglasi-za-posao-1611--20112026/": "2026-11-16T05:14:41.385137+00:00",
   "https://www.kurir.rs/stars/10162606/bora-santana-uzivao-na-malti": "2026-11-16T05:14:41.385137+00:00",
   "https://www.kurir.rs/zabava/zanimljivosti/10162636/ko-je-bio-staufenberg-pukovnik-koji-je-pokusao-da-ubije-hitlera": "2026-11-16T05:14:41.385137+00:00",
@@ -7232,18 +7231,13 @@
   "https://www.kurir.rs/planeta/10168471/maroko-ulaze-366-miliona-evra-u-izgradnju-odbrambene-industrije-do-2035-godine": "2026-11-21T04:23:22.279213+00:00",
   "https://www.telegraf.rs/vesti/srbija/4437008-danas-oblacno-pre-podne-suvo-popodne-s-kisom-mestimicno-temperatura-do-18-stepeni": "2026-11-21T04:23:22.279213+00:00",
   "https://www.euronews.rs/svet/planeta/252990/tramp-preti-visokim-porezima-americkim-firmama/vest": "2026-11-21T04:38:15.819373+00:00",
-  "https://www.kurir.rs/vesti/drustvo/10167982/pazljiva-voznja-na-arandjelovdan-apel-puteva-srbije": "2026-11-21T04:52:58.868447+00:00"
+  "https://www.kurir.rs/vesti/drustvo/10167982/pazljiva-voznja-na-arandjelovdan-apel-puteva-srbije": "2026-11-21T04:52:58.868447+00:00",
+  "https://www.kurir.rs/stars/10168055/kebin-sin-za-trudnu-zenu-porucio-najbolji-biftek": "2026-11-21T05:08:01.718240+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-20T14:19+00:00",
-   "novih": 2,
-   "ukupno": 3060,
-   "sekundi": 265.0
-  },
   {
    "vreme": "2026-11-20T14:35+00:00",
    "novih": 6,
@@ -7597,6 +7591,12 @@
    "novih": 0,
    "ukupno": 3242,
    "sekundi": 221.3
+  },
+  {
+   "vreme": "2026-11-21T05:14+00:00",
+   "novih": 0,
+   "ukupno": 3242,
+   "sekundi": 386.7
   }
  ],
  "licnosti_foto": {
@@ -58225,7 +58225,8 @@
    "202611201659-1d3a20",
    "202611201957-a483b2",
    "202611202256-7b1143",
-   "202611202256-1c6e5d"
+   "202611202256-1c6e5d",
+   "202611210010-5266af"
   ],
   "istorija": [
    {
@@ -58611,6 +58612,12 @@
     "id": "202611202256-1c6e5d",
     "x": "2123924718424396073",
     "link": true
+   },
+   {
+    "t": 1795237709.3036342,
+    "id": "202611210010-5266af",
+    "x": "2124007014435004518",
+    "link": false
    }
   ],
   "ankete": {
@@ -61668,8 +61675,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-21T04:53:19.999634+00:00",
-  "uzivo_t": "2026-11-21T04:53:19.999647+00:00"
+  "provereno": "2026-11-21T05:08:40.253318+00:00",
+  "uzivo_t": "2026-11-21T05:08:40.253334+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {
