@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T16:02:36.259840+00:00",
- "updated": "2026-11-21T16:02:36.259840+00:00",
+ "updated": "2026-11-21T17:16:47.608264+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -42,11 +42,18 @@
    "url": "https://www.kurir.rs/planeta/10168871/novi-protesti-studenata-i-gradjana-u-tirani",
    "title": "NOVI PROTESTI U TIRANI: Studenti i građani i dalje traže ostavku Edija Rame (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/region/286982/novi-protesti-u-albaniji-gradjani-tirane-traze-ostavku-edija-rame/vest",
+   "title": "Novi protesti u Tirani; Studenti i građani ne odustaju – traže ostavku Edija Rame FOTO/VIDEO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Nastavak demonstracija u Tirani: Protestanti poručili da oko ostavke Edija Rame nema pregovora",
-  "NOVI PROTESTI U TIRANI: Studenti i građani i dalje traže ostavku Edija Rame (FOTO)"
+  "NOVI PROTESTI U TIRANI: Studenti i građani i dalje traže ostavku Edija Rame (FOTO)",
+  "Novi protesti u Tirani; Studenti i građani ne odustaju – traže ostavku Edija Rame FOTO/VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Edi_Rama_(2024-02-29).jpg",
   "osoba": "Edi Rama",
   "alt": "Novi protest u Tirani: demonstranti traže ostavku Edija Rame, policija blokirala Ulicu Drač"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
