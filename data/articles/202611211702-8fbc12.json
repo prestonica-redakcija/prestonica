@@ -29,16 +29,23 @@
  ],
  "importance": 4,
  "published": "2026-11-21T16:02:36.259840+00:00",
- "updated": "2026-11-21T16:02:36.259840+00:00",
+ "updated": "2026-11-21T16:32:14.529738+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/bogoljub-karic-predlog-biracko-pravo-stice-sa-16-godina/",
    "title": "Pokret Bogoljuba Karića podneće predlog da se biračko pravo stiče sa 16 godina",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/286971/pokret-bogoljuba-karica-podnece-predlog-da-se-biracko-pravo-stice-sa-16-godina/vest",
+   "title": "Pokret Bogoljuba Karića podneće predlog da se biračko pravo stiče sa 16 godina",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
+  "Pokret Bogoljuba Karića podneće predlog da se biračko pravo stiče sa 16 godina",
   "Pokret Bogoljuba Karića podneće predlog da se biračko pravo stiče sa 16 godina"
  ],
  "author": "Redakcija Prestonice",
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Narodna_skupstina_Srbije.jpg",
   "alt": "Karićev pokret predlaže Skupštini da se biračko pravo stiče sa 16 godina"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

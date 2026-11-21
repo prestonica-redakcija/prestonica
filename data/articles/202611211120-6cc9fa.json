@@ -28,17 +28,24 @@
  ],
  "importance": 4,
  "published": "2026-11-21T10:20:34.766555+00:00",
- "updated": "2026-11-21T10:20:34.766555+00:00",
+ "updated": "2026-11-21T16:32:14.529738+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/kreni-promeni-najavio-inicijativu-za-smenu-predsednika-skupstine-beograda/",
    "title": "Kreni-Promeni najavio inicijativu za smenu predsednika Skupštine Beograda",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/kreni-promeni-trazi-smenu-predsednika-skupstine-beograda-i-njegovog-zamenika-neka-naprednjacka-vecina-pokaze-da-li-postuje-vuciceve-principe/",
+   "title": "Kreni-Promeni traži smenu predsednika Skupštine Beograda i njegovog zamenika: „Neka naprednjačka većina pokaže da li poštuje Vučićeve principe“",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Kreni-Promeni najavio inicijativu za smenu predsednika Skupštine Beograda"
+  "Kreni-Promeni najavio inicijativu za smenu predsednika Skupštine Beograda",
+  "Kreni-Promeni traži smenu predsednika Skupštine Beograda i njegovog zamenika: „Neka naprednjačka većina pokaže da li poštuje Vučićeve principe“"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Kreni-Promeni najavio inicijativu za smenu predsednika Skupštine Beograda"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
