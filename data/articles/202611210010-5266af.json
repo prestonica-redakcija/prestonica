@@ -31,7 +31,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T23:10:57.680242+00:00",
- "updated": "2026-11-21T09:50:42.400591+00:00",
+ "updated": "2026-11-21T10:20:34.766555+00:00",
  "sources": [
   {
    "name": "Radar",
@@ -62,6 +62,18 @@
    "url": "https://insajder.net/prenosimo/postanska-stedionica-isplaceno-vise-od-40-odsto-osiguranih-depozita-alta-banke-u-dinarima-i-evrima",
    "title": "Poštanska štedionica: Isplaćeno više od 40 odsto osiguranih depozita Alta banke u dinarima i evrima",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253030/alta-banka-isplaceno-587-milijardi-rsd-i-9123-milion-evra/vest",
+   "title": "Alta banka u stečaju: Isplaćeno 5,87 milijardi dinara i 91,23 miliona evra",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/286868/bps-isplaceno-4271-odsto-osiguranih-depozita-alta-banke-u-stecaju/vest",
+   "title": "Klijentima Alta banke isplaćeno više od 90 miliona evra: Evo koliko novca je još ostalo",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -69,7 +81,9 @@
   "Banka Poštanska štedionica: Isplaćeno 42,71 odsto osiguranih depozita Alta banke u stečaju",
   "ISPLAĆENA GOTOVO POLOVINA DEPOZITA ALTA BANKE: Poštanska štedionica klijentima dosad podelila 5,87 milijardi dinara i 91,23 miliona evra",
   "Štediše čekaju svoj novac iz ALTA banke: Do sada isplaćena jedva polovina osiguranih depozita",
-  "Poštanska štedionica: Isplaćeno više od 40 odsto osiguranih depozita Alta banke u dinarima i evrima"
+  "Poštanska štedionica: Isplaćeno više od 40 odsto osiguranih depozita Alta banke u dinarima i evrima",
+  "Alta banka u stečaju: Isplaćeno 5,87 milijardi dinara i 91,23 miliona evra",
+  "Klijentima Alta banke isplaćeno više od 90 miliona evra: Evo koliko novca je još ostalo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -81,8 +95,8 @@
   "local": true,
   "alt": "Radar: isplata osiguranih depozita Alta banke mogla bi da košta oko 740 miliona evra"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-21T09:50:42.400591+00:00",
  "verzija": 2
 }
