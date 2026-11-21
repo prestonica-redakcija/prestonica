@@ -371,31 +371,80 @@ class Images:
             log.info("Pexels nije uspeo: %s", e)
         return None
 
+    # Poverenje: koliko je dokazano da slika prikazuje ono o cemu tekst govori.
+    # Merilo nije lepota nego identifikacija, zato stok nikada ne pobedjuje
+    # potvrdjeno lice, ma koliko bolje izgledao.
+    P_X = 9.0         # fotografija iz objave samog aktera
+    P_OSOBA = 9.0     # potvrdjen identitet: Wikidata zapis ili unos redakcije
+    P_TEMA = 5.0      # Commons pretraga po pojmu iz teksta
+    P_STOK = 3.0      # Unsplash ili Pexels: ilustracija, nikad dokaz
+    PRAG_MREZA = 6.0  # iznad ovoga ne diramo mrezu
+    PRAG_STOK = 4.0   # ispod ovoga vredi platiti stok pretragu
+
+    def _sumnjiv_commons(self, img: dict, a: dict) -> bool:
+        """Commons kandidat cije ime datoteke nosi prezime osobe iz teksta, ali ne i
+        njeno ime: skoro uvek drugi covek istog prezimena. Tako je tekst o sudjenju
+        Darku Saricu dobio fotografiju kosarkasa Darija Sarica."""
+        if img.get("local") or "wikimedia" not in (img.get("src", "") + img.get("link", "")):
+            return False
+        from urllib.parse import unquote
+        ref = fold(unquote(unquote(img.get("src", "") + " " + img.get("link", "")))).replace("_", " ")
+        for p in a.get("people", []):
+            delovi = str(p).split()
+            if len(delovi) < 2 or fold(p) in self.known:
+                continue
+            ime, prezime = fold(delovi[0]), fold(delovi[-1])
+            if len(prezime) >= 4 and prezime in ref and ime not in ref:
+                return True
+        return False
+
     def choose(self, a: dict, hint: dict) -> dict:
-        """Redosled: prava fotografija osobe iz teksta -> fotografija mesta/institucije/teme -> stock -> arhiva.
-        Sve sa slobodnom licencom; nikad fotografije drugih medija. Nastavak iste priče ne ponavlja fotografiju."""
+        """Skupi kandidate iz svih izvora, boduj ih po pouzdanosti, uzmi najboljeg.
+
+        Ranije je ovo bio lanac u kome je pobedjivao prvi pogodak, pa je slaba
+        fotografija sa Commons-a tukla jaku iz arhive samo zato sto je bila ranije
+        u redu. Sada se porede.
+
+        Mreza se ne dira dok se ne iscrpi ono sto je besplatno i trenutno: arhiva,
+        objave aktera i potvrdjena lica citaju se iz memorije. Commons ide tek ako
+        je najbolje do tada slabo, a stok tek ako je i posle Commons-a slabo. Bez
+        toga bi Unsplash demo kvota od 50 zahteva na sat pukla u dva ciklusa."""
         text = " ".join([a["headline"], a["lead"], " ".join(a.get("tags", [])), " ".join(a.get("people", []))])
         avoid = self._siblings_used(a)
-        img = None
-        if self.live:
-            img = self._x_photo(a, avoid)
-        if self.live and not img:
-            names = [hint.get("foto_osoba", "")] + [p for p in a.get("people", [])[:3]]
-            for n in dict.fromkeys(x for x in names if x):
-                img = self._person_photo(n, avoid)
-                if img:
-                    break
-            if not img:
-                img = self._topic_photo(a, avoid)
+        kandidati: list[tuple[float, int, dict]] = []
+
+        def dodaj(img: dict | None, bod: float) -> None:
+            if img and img.get("src") and img["src"] not in avoid:
+                kandidati.append((bod, len(kandidati), img))
+
+        def najbolji() -> float:
+            return max(kandidati)[0] if kandidati else 0.0
+
+        # 1. besplatno i trenutno
         lib, lib_s = self._library(text, a.get("headline", ""))
         if lib and lib["src"] in avoid:
-            lib, lib_s = None, 0
-        if not img and lib and lib_s >= 2:
-            img = lib
-        if not img and self.live:
-            img = self._unsplash(hint.get("foto_upit_en", "")) or self._pexels(hint.get("foto_upit_en", ""))
-        if not img:
-            img = lib or self._fallback("analiza" if a["kind"] == "analiza" else a["section"])
+            lib, lib_s = None, 0.0
+        if lib and lib_s >= 2:
+            # jak pogodak arhive vredi vise od nasumicne slike sa interneta
+            dodaj(lib, min(7.0, 2.0 + 0.6 * lib_s))
+        if self.live:
+            dodaj(self._x_photo(a, avoid), self.P_X)
+            imena = [hint.get("foto_osoba", "")] + list(a.get("people", [])[:3])
+            for n in dict.fromkeys(x for x in imena if x):
+                osoba = self._person_photo(n, avoid)
+                if osoba:
+                    dodaj(osoba, self.P_OSOBA)
+                    break
+
+        # 2. mreza, samo ako je potrebno
+        if self.live and najbolji() < self.PRAG_MREZA:
+            tema = self._topic_photo(a, avoid)
+            if tema:
+                dodaj(tema, self.P_TEMA - (3.0 if self._sumnjiv_commons(tema, a) else 0.0))
+        if self.live and najbolji() < self.PRAG_STOK:
+            dodaj(self._unsplash(hint.get("foto_upit_en", "")) or self._pexels(hint.get("foto_upit_en", "")), self.P_STOK)
+
+        img = max(kandidati)[2] if kandidati else (lib or self._fallback("analiza" if a["kind"] == "analiza" else a["section"]))
         img.setdefault("alt", a["headline"])
         self.used[img["src"]] = self.used.get(img["src"], 0) + 1
         return img
