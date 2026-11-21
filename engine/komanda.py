@@ -120,17 +120,22 @@ def posalji(cfg) -> None:
     upis = os.environ.get("STAT_UPIS", "")
     if not upis:
         return
+    # Servis statistike ima sopstvene ključeve za YouTube i X, pa portal ništa ne šalje
+    # osim ako se izričito ne traži. X se naplaćuje po pozivu i duplo čitanje je čist trošak.
+    trazeni = {x.strip() for x in os.environ.get("KOMANDA_IZVORI", "").split(",") if x.strip()}
+    if not trazeni:
+        return
     domen = cfg.portal.get("domen") or "prestonica.rs"
     nas = cfg.portal.get("nas_kanal") or {}
     telo: dict = {}
     try:
-        yt = _youtube(nas.get("youtube", ""))
+        yt = _youtube(nas.get("youtube", "")) if "youtube" in trazeni else None
         if yt:
             telo["youtube"] = yt
     except Exception as e:
         log.info("Komanda: YouTube nije preuzet: %s", e)
     try:
-        xx = _x((cfg.portal.get("x_objave") or {}).get("nalog") or "Prestonicars")
+        xx = _x((cfg.portal.get("x_objave") or {}).get("nalog") or "Prestonicars") if "x" in trazeni else None
         if xx:
             telo["x"] = xx
     except Exception as e:

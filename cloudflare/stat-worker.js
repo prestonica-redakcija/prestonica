@@ -21,7 +21,8 @@
 const TZ = "Europe/Belgrade";
 const CUVAJ_DANA = 400;          // koliko dugo se čuvaju pojedinačni pregledi
 const ZIVO_MIN = 5;              // "na sajtu sada" = pregled u poslednjih 5 minuta
-const KES_MIN = { google: 10, youtube: 30, x: 30 };   // keširanje stranih API-ja, u minutima
+const KES_MIN = { google: 10, youtube: 30, x: 180 };  // keširanje stranih API-ja, u minutima;
+// X se naplaćuje po pozivu, pa se čita ređe: 8 puta dnevno umesto 48
 
 const ORIGINS = ["https://prestonica.rs", "https://www.prestonica.rs"];
 let spremno = false;
@@ -516,10 +517,27 @@ async function produkcijaUpis(env, telo) {
     .bind(vreme(Date.now() - 120 * 864e5).dan).run();
 }
 
+// Portal pri svakom gradjenju objavi produkcija.json na sajtu. Ako GitHub Actions
+// jos ne salje podatke, servis ih sam povuce odatle i pamti po danima, pa se
+// istorija gradi bez ijedne tajne.
+async function produkcijaPovuci(env) {
+  const domen = env.SAJT || "prestonica.rs";
+  try {
+    const r = await fetch(`https://${domen}/produkcija.json`, { cf: { cacheTtl: 60 } });
+    if (!r.ok) return null;
+    const telo = await r.json();
+    if (!telo || typeof telo !== "object" || !telo.dan) return null;
+    await env.DB.prepare("INSERT INTO produkcija (dan,t,telo) VALUES (?1,?2,?3) ON CONFLICT(dan) DO UPDATE SET t=?2, telo=?3")
+      .bind(String(telo.dan), Date.now(), JSON.stringify(telo)).run();
+    return telo;
+  } catch (e) { return null; }
+}
+
 async function produkcijaCitaj(env) {
+  await produkcijaPovuci(env);
   const { results } = await env.DB.prepare("SELECT dan, t, telo FROM produkcija ORDER BY dan DESC LIMIT 60").all();
   const dani = (results || []).map((r) => Object.assign({ dan: r.dan, t: r.t }, JSON.parse(r.telo)));
-  if (!dani.length) return { dani: [], poslednje: null, napomena: "Portal još nije poslao podatke o objavljivanju. Dodaj korak u GitHub Actions (vidi README)." };
+  if (!dani.length) return { dani: [], poslednje: null, napomena: "Portal još nije objavio produkcija.json. Pojaviće se posle prvog osvežavanja." };
   return { dani, poslednje: dani[0], generisano: Date.now() };
 }
 
