@@ -180,6 +180,20 @@ class Images:
                 return True
         return False
 
+    def _mediji(self) -> set[str]:
+        """Imena medija koje portal prati.
+
+        Ona se pojavljuju kao oznake u skoro svakom tekstu, a kao pojam pretrage
+        slika su zamka: "Danas" na Wikimediji vraća fotografije poplava od tropske
+        oluje Danas sa Filipina, a ne beogradski list."""
+        if getattr(self, "_mediji_kes", None) is None:
+            # samo cela imena: reč iz imena nije ime. "Srbije" je deo naziva RTS-a,
+            # a "Vlada Srbije" je sasvim ispravna tema za fotografiju.
+            self._mediji_kes = {fold(str((iz or {}).get("naziv") or "").strip())
+                                for iz in (getattr(self.cfg, "izvori", None) or [])
+                                if str((iz or {}).get("naziv") or "").strip()}
+        return self._mediji_kes
+
     def _imena_u_tekstu(self, a: dict) -> set[str]:
         """Svi delovi imena osoba iz teksta. Oznaka koja je nečije prezime ne sme
         da ode u slobodnu pretragu: "Tramp" tako vrati sliku skitnica, "Mali" autobus."""
@@ -191,11 +205,40 @@ class Images:
             delovi.add(fold(str(p)))
         return delovi
 
+    def pogresna_tema(self, a: dict) -> bool:
+        """Postojeća fotografija sa Commons-a čiji naziv nosi ime medija iz teksta.
+
+        Takva slika je skoro sigurno promašaj: "Danas" je vratio poplave od tropske
+        oluje Danas, a ne list. Tekst se tada ponovo slika."""
+        img = a.get("image") or {}
+        if img.get("local") or img.get("ilustracija") or "wikimedia" not in (img.get("src", "") + img.get("link", "")):
+            return False
+        if img.get("src") in {v.get("src") for v in self.known.values()}:
+            return False
+        from urllib.parse import unquote
+
+        ref = fold(unquote(unquote(img.get("src", "")))).replace("_", " ")
+        mediji = self._mediji()
+        for t in a.get("tags", []):
+            f = fold(str(t).strip())
+            if len(f) >= 4 and f in mediji and f in ref:
+                return True
+        return False
+
     def _topic_photo(self, a: dict, avoid: set[str]) -> dict | None:
         imena = self._imena_u_tekstu(a)
+        mediji = self._mediji()
         for t in a.get("tags", [])[:5]:
             t = str(t).strip()
+            # prezime osobe iz teksta nikad nije pojam za sliku
             if fold(t) in imena or any(fold(w) in imena for w in t.split()):
+                continue
+            # ime medija nije tema nego izvor
+            if fold(t) in mediji:
+                continue
+            # jedna reč je previše dvosmislena preko jezika: isti niz slova znači
+            # drugo na drugom jeziku i vraća sliku sa druge strane sveta
+            if len(t.split()) < 2:
                 continue
             # samo konkretni pojmovi: vlastita imena ili višečlani nazivi (npr. "hotel Jugoslavija", "Narodna skupština")
             if len(t) < 5 or not (any(w[:1].isupper() for w in t.split()) and (len(t.split()) >= 2 or t[:1].isupper())):
