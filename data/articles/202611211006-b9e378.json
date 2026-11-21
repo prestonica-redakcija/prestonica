@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T09:06:07.943104+00:00",
- "updated": "2026-11-21T15:03:06.500384+00:00",
+ "updated": "2026-11-21T15:32:59.993595+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -40,11 +40,18 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/299719/agencija-za-osiguranje-depozita-svi-ugovori-klijenata-alta-leasing-ostaju-na-snazi-bez-obzira-na-likvidaciju/vest",
    "title": "Agencija za osiguranje depozita: Svi ugovori klijenata Alta Leasing ostaju na snazi bez obzira na likvidaciju",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4437211-vazna-vest-za-korisnike-lizinga-likvidacija-kompanije-alta-leasing-ne-menja-njihove-ugovore",
+   "title": "Važna vest za korisnike lizinga: Likvidacija kompanije ALTA Leasing ne menja njihove ugovore",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Pokrenuta likvidacija Alta lizinga: NBS oduzela dozvolu zbog Alta banke, oglasila se Agencija za osiguranje depozita",
-  "Agencija za osiguranje depozita: Svi ugovori klijenata Alta Leasing ostaju na snazi bez obzira na likvidaciju"
+  "Agencija za osiguranje depozita: Svi ugovori klijenata Alta Leasing ostaju na snazi bez obzira na likvidaciju",
+  "Važna vest za korisnike lizinga: Likvidacija kompanije ALTA Leasing ne menja njihove ugovore"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,6 +63,6 @@
   "local": true,
   "alt": "Pokrenuta likvidacija Alta lizinga, klijenti i dalje redovno plaćaju rate"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

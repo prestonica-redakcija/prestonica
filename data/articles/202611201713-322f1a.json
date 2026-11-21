@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T16:13:56.213312+00:00",
- "updated": "2026-11-21T09:21:04.993856+00:00",
+ "updated": "2026-11-21T15:32:59.993595+00:00",
  "sources": [
   {
    "name": "B92",
@@ -72,6 +72,12 @@
    "url": "https://www.kurir.rs/region/crna-gora/10168561/nastavlja-se-potraga-za-detetom-u-reci-ribnici",
    "title": "NASTAVLJA SE POTRAGA ZA DEČAKOM (6) KOJI JE UPAO U LEDENU REKU: Specijalni timovi ronilaca hitno poslati na teren, pretražuje se reka Ribnica u Podgorici",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4437220-potraga-za-sestogodisnjim-decakom-ne-prestaje-ronioci-se-bore-sa-snaznom-strujom-i-visokim-vodostajem",
+   "title": "Potraga za šestogodišnjim dečakom ne prestaje: Ronioci se bore sa snažnom strujom i visokim vodostajem",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -81,7 +87,8 @@
   "Potraga za detetom koje je upalo u Ribnicu biće nastavljena i tokom noći",
   "Potraga za šestogodišnjim dečakom koji je upao u reku u Podgorici",
   "Nastavlja se potraga za detetom (6) koje je upalo u Ribnicu, priključuju se i ronioci iz Bijele",
-  "NASTAVLJA SE POTRAGA ZA DEČAKOM (6) KOJI JE UPAO U LEDENU REKU: Specijalni timovi ronilaca hitno poslati na teren, pretražuje se reka Ribnica u Podgorici"
+  "NASTAVLJA SE POTRAGA ZA DEČAKOM (6) KOJI JE UPAO U LEDENU REKU: Specijalni timovi ronilaca hitno poslati na teren, pretražuje se reka Ribnica u Podgorici",
+  "Potraga za šestogodišnjim dečakom ne prestaje: Ronioci se bore sa snažnom strujom i visokim vodostajem"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -94,8 +101,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Podgorica,_panorama.jpg",
   "alt": "U Podgorici traje potraga za detetom koje je upalo u reku Ribnicu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-21T09:06:07.943104+00:00",
  "verzija": 2
 }
