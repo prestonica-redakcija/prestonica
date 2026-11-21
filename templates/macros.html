@@ -66,7 +66,7 @@
     <div class="vc-k"><span class="chip">{{ rubrike[v.rubrika].naziv if v.rubrika in rubrike else 'Video' }}</span><time data-t="{{ v.published }}">{{ v._time }}</time></div>
     <h3><a class="vc-l" href="{{ root }}{{ v._url }}">{{ v._h }}</a></h3>
     {% if v.opis %}<p>{{ v.opis }}</p>{% endif %}
-    <div class="vc-f"><span class="vc-src">Izvor: {{ v.kanal }}</span><span class="vc-act">{{ share_btn(v._url, v._h) }}<a class="vc-a" href="{{ root }}{{ v._url }}">{{ 'Ceo snimak i tekst' if size == 'lg' else 'Otvori' }} <span aria-hidden="true">→</span></a></span></div>
+    <div class="vc-f"><span class="vc-src">{% if v.nas %}<b class="vc-nas">Prestonica</b>{% else %}Izvor: {{ v.kanal }}{% endif %}</span><span class="vc-act">{{ share_btn(v._url, v._h) }}<a class="vc-a" href="{{ root }}{{ v._url }}">{{ 'Ceo snimak i tekst' if size == 'lg' else 'Otvori' }} <span aria-hidden="true">→</span></a></span></div>
   </div>
 </article>
 {%- endmacro %}

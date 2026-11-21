@@ -161,6 +161,62 @@ def post_poll(cfg, state: dict, p: dict) -> str | None:
     log.info("X anketa objavljena: %s", tid)
     return tid
 
+def post_video(cfg, state: dict, videos: list[dict]) -> int:
+    """Naši snimci na X: uvek sa punim linkom ka našoj stranici gde se snimak gleda.
+
+    Nikada ka YouTube-u. Sednice vode na stranu Skupštine, gde pored snimka stoje
+    i prenos, razgovor čitalaca, vesti i objave; ostali snimci na svoju stranu.
+    Ove objave ne troše dnevnu kvotu linkova: naš sadržaj uvek ide sa linkom."""
+    oc = cfg.portal.get("x_objave") or {}
+    if not oc.get("ukljuceno", False):
+        return 0
+    auth = _auth()
+    if auth is None:
+        return 0
+    domain = cfg.portal.get("domen") or "prestonica.rs"
+    st = state.setdefault("x_objave", {})
+    done = set(st.setdefault("objavljeno", []))
+    hist = st.setdefault("istorija", [])
+    from . import skupstina as _sk
+
+    n = 0
+    for v in videos:
+        if not v.get("nas") or not v.get("slug"):
+            continue
+        kljuc = "video:" + v["id"]
+        if kljuc in done or age_hours(v["published"]) > 24:
+            continue
+        sednica = _sk.o_skupstini(" ".join([v.get("naslov", ""), v.get("title", "")]))
+        url = (f"https://{domain}/skupstina.html" if sednica
+               else f"https://{domain}/video/{v['slug']}.html")
+        naslov = " ".join(str(v.get("naslov") or "").split())
+        uvod = "Skupština danas" if sednica else "Dnevnik"
+        # naši naslovi često već nose oznaku emisije; ne ponavljamo je
+        glava = naslov if uvod.lower() in naslov.lower() else f"{uvod} | {naslov}"
+        prostor = 275 - _xlen(glava) - 25 - 4
+        delovi = [glava]
+        if prostor > 60 and v.get("opis"):
+            delovi.append(_cut(v["opis"], prostor))
+        delovi.append(url)
+        try:
+            r = requests.post(f"{API}/tweets", json={"text": "\n\n".join(delovi)}, auth=auth, timeout=30)
+            d = r.json()
+        except Exception as e:
+            log.warning("X objave: snimak: %s", e)
+            continue
+        tid = (d.get("data") or {}).get("id")
+        if not tid:
+            log.warning("X objave: snimak odbijen: %s %s", r.status_code, str(d)[:300])
+            if r.status_code in (400, 403):
+                st["objavljeno"] = (st["objavljeno"] + [kljuc])[-2000:]
+            continue
+        st["objavljeno"] = (st["objavljeno"] + [kljuc])[-2000:]
+        hist.append({"t": time.time(), "id": kljuc, "x": tid, "link": True})
+        log.info("X objave: snimak objavljen %s -> %s", tid, url)
+        n += 1
+    return n
+
+
 def run(cfg, state: dict, articles: list[dict], run_start: float) -> int:
     oc = cfg.portal.get("x_objave") or {}
     if not oc.get("ukljuceno", False):

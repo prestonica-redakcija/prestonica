@@ -181,6 +181,22 @@ def logo(size: int = 512) -> bytes:
     return buf.getvalue()
 
 
+def ikona(size: int = 512, maskable: bool = False) -> bytes:
+    """Ikona interne aplikacije za početni ekran telefona i radnu površinu.
+
+    Maskable varijanta drži znak u sigurnoj zoni, da ga Android ne odseče kada
+    ikonu uklopi u krug ili kvadrat sa zaobljenim uglovima."""
+    if not maskable:
+        return logo(size)
+    unutra = int(size * .66)
+    znak = Image.open(io.BytesIO(logo(unutra))).convert("RGB")
+    img = Image.new("RGB", (size, size), NAVY)
+    img.paste(znak, ((size - unutra) // 2, (size - unutra) // 2))
+    buf = io.BytesIO()
+    img.save(buf, "PNG", optimize=True)
+    return buf.getvalue()
+
+
 def signature_banner(cfg) -> bytes:
     """Baner za potpis u mejlovima redakcije: 1200 x 240 (prikaz 600 x 120), tamnoplavo, znak portala i slogan."""
     w, h = 1200, 240
@@ -221,6 +237,9 @@ def build_cards(cfg, arts: list[dict], out: Path) -> int:
     (out / "og").mkdir(parents=True, exist_ok=True)
     (out / "og" / "prestonica.jpg").write_bytes(brand_card(cfg))
     (out / "og" / "logo.png").write_bytes(logo())
+    for ime, vel, mask in (("ikona-192.png", 192, False), ("ikona-512.png", 512, False),
+                           ("ikona-maskable.png", 512, True), ("apple-touch.png", 180, False)):
+        (out / "og" / ime).write_bytes(ikona(vel, mask))
     (out / "og" / "potpis.png").write_bytes(signature_banner(cfg))
     n, t0 = 0, time.time()
     for a in arts:

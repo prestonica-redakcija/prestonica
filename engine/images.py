@@ -9,7 +9,7 @@ import time
 import requests
 
 from .config import Config
-from .util import fold
+from .util import age_hours, fold
 
 log = logging.getLogger("prestonica")
 UA = "PrestonicaBot/1.0 (+https://prestonica.rs/o-nama.html)"
@@ -112,6 +112,42 @@ class Images:
             return None
         return {"src": best["src"], "credit": best["credit"], "ilustracija": False, "local": False, "link": best["link"]}
 
+    def set_xposts(self, posts: list[dict]) -> None:
+        """Objave sa X-a iz ovog ciklusa, kao izvor fotografija."""
+        self.xposts = posts or []
+
+    def _x_photo(self, a: dict, avoid: set[str]) -> dict | None:
+        """Fotografija iz objave samog aktera na X-u.
+
+        Uzima se samo sa naloga osobe ili institucije koja se u tekstu pominje, pa
+        slika ne može da pripada drugom čoveku istog prezimena. Uz sliku uvek ide
+        potpis čiji je nalog."""
+        if not getattr(self, "xposts", None):
+            return None
+        trazeni = {fold(str(p)) for p in (a.get("people") or [])}
+        trazeni |= {fold(str(t)) for t in (a.get("tags") or []) if len(str(t)) >= 5}
+        if not trazeni:
+            return None
+        kandidati = []
+        for p in self.xposts:
+            if not p.get("slike") or age_hours(p.get("published", "")) > 72:
+                continue
+            ime = fold(str(p.get("ime") or ""))
+            if not ime:
+                continue
+            # tačno poklapanje naloga sa osobom ili temom iz teksta
+            if ime in trazeni or any(ime == t for t in trazeni):
+                kandidati.append(p)
+        kandidati.sort(key=lambda p: p.get("published", ""), reverse=True)
+        for p in kandidati:
+            for src in p["slike"]:
+                if src in avoid:
+                    continue
+                return {"src": src, "credit": f"Foto: @{p.get('x', '')} / X", "ilustracija": False,
+                        "local": False, "link": f"https://x.com/{p.get('x', '')}/status/{p.get('id', '')}",
+                        "osoba": p.get("ime", ""), "izvor_x": True}
+        return None
+
     def _person_photo(self, name: str, avoid: set[str]) -> dict | None:
         """Samo potvrđen identitet: fotografija iz profila ličnosti (Wikidata zapis ili unos redakcije).
         Nikad slobodna pretraga po imenu: isto prezime, druga osoba (Darko Šarić -> košarkaš Dario Šarić)."""
@@ -144,9 +180,23 @@ class Images:
                 return True
         return False
 
+    def _imena_u_tekstu(self, a: dict) -> set[str]:
+        """Svi delovi imena osoba iz teksta. Oznaka koja je nečije prezime ne sme
+        da ode u slobodnu pretragu: "Tramp" tako vrati sliku skitnica, "Mali" autobus."""
+        delovi: set[str] = set()
+        for p in (a.get("people") or []):
+            for d in str(p).split():
+                if len(d) >= 3:
+                    delovi.add(fold(d))
+            delovi.add(fold(str(p)))
+        return delovi
+
     def _topic_photo(self, a: dict, avoid: set[str]) -> dict | None:
+        imena = self._imena_u_tekstu(a)
         for t in a.get("tags", [])[:5]:
             t = str(t).strip()
+            if fold(t) in imena or any(fold(w) in imena for w in t.split()):
+                continue
             # samo konkretni pojmovi: vlastita imena ili višečlani nazivi (npr. "hotel Jugoslavija", "Narodna skupština")
             if len(t) < 5 or not (any(w[:1].isupper() for w in t.split()) and (len(t.split()) >= 2 or t[:1].isupper())):
                 continue
@@ -262,6 +312,8 @@ class Images:
         avoid = self._siblings_used(a)
         img = None
         if self.live:
+            img = self._x_photo(a, avoid)
+        if self.live and not img:
             names = [hint.get("foto_osoba", "")] + [p for p in a.get("people", [])[:3]]
             for n in dict.fromkeys(x for x in names if x):
                 img = self._person_photo(n, avoid)

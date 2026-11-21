@@ -158,6 +158,67 @@ def fetch_youtube(src: dict) -> list[dict]:
     return out
 
 
+def fetch_nas_kanal(cid: str, limit: int = 12) -> list[dict]:
+    """Snimci sa sopstvenog YouTube kanala Prestonice.
+
+    Ide preko javnog RSS feeda kanala, bez API ključa i bez kvote, pa radi i kada
+    YOUTUBE_API_KEY nije podešen ili je dnevna kvota potrošena. Naš snimak nikada
+    ne sme da izostane sa portala zbog tuđeg ograničenja."""
+    if not cid.startswith("UC"):
+        return []
+    try:
+        r = _get(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}", timeout=15)
+        r.raise_for_status()
+    except Exception as e:
+        log.warning("Sopstveni YouTube kanal nedostupan: %s", e)
+        return []
+    import xml.etree.ElementTree as ET
+
+    ns = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015",
+          "m": "http://search.yahoo.com/mrss/"}
+    try:
+        root = ET.fromstring(r.content)
+    except Exception as e:
+        log.warning("RSS sopstvenog kanala nije razumljiv: %s", e)
+        return []
+    out = []
+    for e in root.findall("a:entry", ns)[:limit]:
+        vid = (e.findtext("yt:videoId", "", ns) or "").strip()
+        if not vid:
+            continue
+        grp = e.find("m:group", ns)
+        opis = (grp.findtext("m:description", "", ns) if grp is not None else "") or ""
+        out.append({
+            "id": vid,
+            "naslov": latin((e.findtext("a:title", "", ns) or "").strip())[:140],
+            "published": (e.findtext("a:published", "", ns) or now_utc().isoformat()).replace("Z", "+00:00"),
+            "opis": latin(opis.strip()),
+            "thumb": f"https://i.ytimg.com/vi/{vid}/maxresdefault.jpg",
+        })
+    return out
+
+
+def video_dostupan(vid: str) -> bool:
+    """Da li YouTube snimak i dalje postoji i sme da se ugradi.
+
+    Ide preko oEmbed-a: bez API ključa i bez kvote. Uklonjen, privatan ili
+    zabranjen za ugradnju snimak vraća 401/403/404. Ako sam YouTube ne odgovori,
+    vraćamo True da privremeni kvar mreže ne skine prenos sa portala."""
+    if not vid:
+        return False
+    try:
+        r = requests.get("https://www.youtube.com/oembed",
+                         params={"url": f"https://www.youtube.com/watch?v={vid}", "format": "json"},
+                         headers={"User-Agent": UA}, timeout=10)
+    except Exception as e:
+        log.info("Provera dostupnosti snimka %s nije uspela: %s", vid, e)
+        return True
+    if r.status_code in (401, 403, 404):
+        log.info("Snimak %s više nije dostupan na YouTube-u (%s)", vid, r.status_code)
+        return False
+    return True
+
+
 def live_status(ids: list[str]) -> dict[str, dict]:
     """Za listu video ID-jeva vraća da li je snimak uživo (1 jedinica kvote za do 50 videa)."""
     import os

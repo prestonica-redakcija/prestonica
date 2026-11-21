@@ -21,7 +21,8 @@
 const TZ = "Europe/Belgrade";
 const CUVAJ_DANA = 400;          // koliko dugo se čuvaju pojedinačni pregledi
 const ZIVO_MIN = 5;              // "na sajtu sada" = pregled u poslednjih 5 minuta
-const KES_MIN = { google: 10, youtube: 30, x: 30 };   // keširanje stranih API-ja, u minutima
+const KES_MIN = { google: 10, youtube: 30, x: 180 };  // keširanje stranih API-ja, u minutima;
+// X se naplaćuje po pozivu, pa se čita ređe: 8 puta dnevno umesto 48
 
 const ORIGINS = ["https://prestonica.rs", "https://www.prestonica.rs"];
 let spremno = false;
@@ -303,10 +304,34 @@ async function saKesom(env, kljuc, minuta, posao) {
   }
 }
 
+/* ------------------------------- podaci koje portal sam šalje (YouTube, X) */
+// Ključevi za YouTube i X već postoje u GitHub Actions, pa se ne dupliraju ovde:
+// portal pri svakom osvežavanju pošalje stanje svojih naloga, a servis ga čuva.
+
+async function primiIzvore(env, telo) {
+  const t = Date.now();
+  for (const kljuc of ["youtube", "x"]) {
+    if (!telo[kljuc] || typeof telo[kljuc] !== "object") continue;
+    await env.DB.prepare("INSERT INTO kes (kljuc,t,telo) VALUES (?1,?2,?3) ON CONFLICT(kljuc) DO UPDATE SET t=?2, telo=?3")
+      .bind("push:" + kljuc, t, JSON.stringify(telo[kljuc])).run();
+  }
+}
+
+async function poslato(env, kljuc) {
+  const r = await env.DB.prepare("SELECT t, telo FROM kes WHERE kljuc=?1").bind("push:" + kljuc).first();
+  if (!r) return null;
+  const o = JSON.parse(r.telo);
+  o._kes = Math.round((Date.now() - r.t) / 1000);
+  o._izvor = "portal";
+  return o;
+}
+
 /* ------------------------------------------------- Google: pristupni token */
 
 function pemUBajtove(pem) {
-  const b64 = pem.replace(/-----[^-]+-----/g, "").replace(/\s+/g, "");
+  // Ključ se prihvata i kada je prekopiran iz JSON fajla, gde su prelomi redova
+  // zapisani kao dva znaka \n, i kada ima prave prelome.
+  const b64 = String(pem).replace(/\\n/g, "\n").replace(/-----[^-]+-----/g, "").replace(/\s+/g, "");
   const bin = atob(b64), out = new Uint8Array(bin.length);
   for (let i = 0; i < bin.length; i++) out[i] = bin.charCodeAt(i);
   return out;
@@ -399,11 +424,12 @@ async function gsc(token, sajt, od, dok) {
 }
 
 async function google(env, od, dok) {
-  const imanje = env.GA4_PROPERTY_ID, sajt = env.GSC_SITE_URL || "https://prestonica.rs/";
+  const imanje = env.GA4_PROPERTY_ID, sajt = env.GSC_SITE_URL || "sc-domain:prestonica.rs";
   if (!imanje && !env.GOOGLE_SA_EMAIL) throw new Error("Google još nije podešen: dodaj tajne GOOGLE_SA_EMAIL, GOOGLE_SA_KEY i GA4_PROPERTY_ID.");
   const token = await googleToken(env);
   const [a, s] = await Promise.all([
-    imanje ? ga4(token, imanje, od, dok).catch((e) => ({ greska: String(e.message || e) })) : { greska: "GA4_PROPERTY_ID nije podešen." },
+    imanje ? ga4(token, imanje, od, dok).catch((e) => ({ greska: String(e.message || e) }))
+           : { iskljucen: true, greska: "Google Analytics se namerno ne koristi: sopstveno merenje na kartici Portal je tačnije jer ga blokatori reklama ne seku." },
     gsc(token, sajt, od, dok).catch((e) => ({ greska: String(e.message || e) })),
   ]);
   // Search Console kasni oko 2 dana; to se mora reći, inače izgleda kao pad saobraćaja
@@ -491,10 +517,27 @@ async function produkcijaUpis(env, telo) {
     .bind(vreme(Date.now() - 120 * 864e5).dan).run();
 }
 
+// Portal pri svakom gradjenju objavi produkcija.json na sajtu. Ako GitHub Actions
+// jos ne salje podatke, servis ih sam povuce odatle i pamti po danima, pa se
+// istorija gradi bez ijedne tajne.
+async function produkcijaPovuci(env) {
+  const domen = env.SAJT || "prestonica.rs";
+  try {
+    const r = await fetch(`https://${domen}/produkcija.json`, { cf: { cacheTtl: 60 } });
+    if (!r.ok) return null;
+    const telo = await r.json();
+    if (!telo || typeof telo !== "object" || !telo.dan) return null;
+    await env.DB.prepare("INSERT INTO produkcija (dan,t,telo) VALUES (?1,?2,?3) ON CONFLICT(dan) DO UPDATE SET t=?2, telo=?3")
+      .bind(String(telo.dan), Date.now(), JSON.stringify(telo)).run();
+    return telo;
+  } catch (e) { return null; }
+}
+
 async function produkcijaCitaj(env) {
+  await produkcijaPovuci(env);
   const { results } = await env.DB.prepare("SELECT dan, t, telo FROM produkcija ORDER BY dan DESC LIMIT 60").all();
   const dani = (results || []).map((r) => Object.assign({ dan: r.dan, t: r.t }, JSON.parse(r.telo)));
-  if (!dani.length) return { dani: [], poslednje: null, napomena: "Portal još nije poslao podatke o objavljivanju. Dodaj korak u GitHub Actions (vidi README)." };
+  if (!dani.length) return { dani: [], poslednje: null, napomena: "Portal još nije objavio produkcija.json. Pojaviće se posle prvog osvežavanja." };
   return { dani, poslednje: dani[0], generisano: Date.now() };
 }
 
@@ -526,6 +569,16 @@ export default {
         if (put === "/v" && Math.random() < 0.002) ctx.waitUntil(ocisti(env).catch(() => {}));
       }
       return new Response(null, { status: 204 });
+    }
+
+    // ---- stanje YouTube kanala i X naloga iz GitHub Actions
+    if (req.method === "POST" && put === "/izvori") {
+      if (!env.STAT_UPIS || !istiKljuc(req.headers.get("X-Upis") || "", env.STAT_UPIS))
+        return json({ greska: "Nije dozvoljeno." }, 401, origin);
+      try {
+        await primiIzvore(env, JSON.parse(await req.text()));
+        return json({ ok: true }, 200, origin);
+      } catch (e) { return json({ greska: String(e.message || e) }, 400, origin); }
     }
 
     // ---- upis produkcije iz GitHub Actions
@@ -561,8 +614,20 @@ export default {
         const k = "google:" + danKljuc(od) + ":" + danKljuc(dok);
         return json(await saKesom(env, k, KES_MIN.google, () => google(env, od, dok)), 200, origin);
       }
-      if (put === "/youtube") return json(await saKesom(env, "youtube", KES_MIN.youtube, () => youtube(env)), 200, origin);
-      if (put === "/x-mreza") return json(await saKesom(env, "x", KES_MIN.x, () => xMreza(env)), 200, origin);
+      if (put === "/youtube") {
+        if (env.YT_API_KEY && env.YT_CHANNEL_ID)
+          return json(await saKesom(env, "youtube", KES_MIN.youtube, () => youtube(env)), 200, origin);
+        const p = await poslato(env, "youtube");
+        if (p) return json(p, 200, origin);
+        throw new Error("YouTube još nije povezan. Portal šalje podatke sam pri svakom osvežavanju; sačekaj jedan ciklus ili dodaj tajne YT_API_KEY i YT_CHANNEL_ID.");
+      }
+      if (put === "/x-mreza") {
+        if (env.X_BEARER)
+          return json(await saKesom(env, "x", KES_MIN.x, () => xMreza(env)), 200, origin);
+        const p = await poslato(env, "x");
+        if (p) return json(p, 200, origin);
+        throw new Error("X još nije povezan. Portal šalje podatke sam pri svakom osvežavanju; sačekaj jedan ciklus ili dodaj tajnu X_BEARER.");
+      }
       if (put === "/produkcija") return json(await produkcijaCitaj(env), 200, origin);
 
       if (put === "/stanje") {
@@ -570,9 +635,11 @@ export default {
         return json({
           pregledi: (r || {}).n || 0, prvi: (r || {}).od || null, poslednji: (r || {}).do || null,
           podeseno: {
-            google: !!(env.GOOGLE_SA_EMAIL && env.GOOGLE_SA_KEY && env.GA4_PROPERTY_ID),
+            google: !!(env.GOOGLE_SA_EMAIL && env.GOOGLE_SA_KEY),
+            ga4: !!env.GA4_PROPERTY_ID,
             youtube: !!(env.YT_API_KEY && env.YT_CHANNEL_ID),
             x: !!env.X_BEARER, produkcija: !!env.STAT_UPIS,
+            youtube_portal: !!(await poslato(env, "youtube")), x_portal: !!(await poslato(env, "x")),
           },
         }, 200, origin);
       }

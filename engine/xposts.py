@@ -172,7 +172,10 @@ def fetch(cfg, state: dict) -> int:
         h = a["x"].lower()
         prev = last.get(h) or {}
         params = {"max_results": max(5, int(a.get("max_po_nalogu") or xs.get("max_po_nalogu", 5))), "exclude": "retweets,replies",
-                  "tweet.fields": "created_at,public_metrics,lang"}
+                  "tweet.fields": "created_at,public_metrics,lang,attachments",
+                  # slike iz objave: isti pročitani zapis, bez dodatne naplate
+                  "expansions": "attachments.media_keys",
+                  "media.fields": "type,url,preview_image_url,width,height"}
         if prev.get("since_id"):
             params["since_id"] = prev["since_id"]
         else:
@@ -187,13 +190,24 @@ def fetch(cfg, state: dict) -> int:
             log.warning("X %s: %s", a["x"], e)
             continue
         last[h] = {"since_id": (data.get("meta") or {}).get("newest_id") or prev.get("since_id"), "t": now}
+        mediji = {m.get("media_key"): m for m in ((data.get("includes") or {}).get("media") or [])}
         for t in data.get("data") or []:
             if t["id"] in have:
                 continue
-            posts.append({"id": t["id"], "x": a["x"], "ime": a.get("ime") or a["x"], "grupa": a.get("grupa", ""),
-                          "uloga": a.get("uloga", ""), "text": t.get("text", ""),
-                          "published": t.get("created_at", now_utc().isoformat()).replace("Z", "+00:00"),
-                          "lajk": (t.get("public_metrics") or {}).get("like_count", 0)})
+            slike = []
+            for mk in ((t.get("attachments") or {}).get("media_keys") or []):
+                m = mediji.get(mk) or {}
+                u = m.get("url") or m.get("preview_image_url") or ""
+                # premale slike su najčešće grafike i ikone, ne fotografije
+                if u and int(m.get("width") or 0) >= 600:
+                    slike.append(u)
+            zapis = {"id": t["id"], "x": a["x"], "ime": a.get("ime") or a["x"], "grupa": a.get("grupa", ""),
+                     "uloga": a.get("uloga", ""), "text": t.get("text", ""),
+                     "published": t.get("created_at", now_utc().isoformat()).replace("Z", "+00:00"),
+                     "lajk": (t.get("public_metrics") or {}).get("like_count", 0)}
+            if slike:
+                zapis["slike"] = slike[:4]
+            posts.append(zapis)
             have.add(t["id"])
             novih += 1
     keep_h = float(xs.get("cuvaj_dana", 7)) * 24

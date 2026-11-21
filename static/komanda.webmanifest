@@ -10,13 +10,39 @@
   "orientation": "any",
   "background_color": "#0d1730",
   "theme_color": "#0d1730",
-  "categories": ["news", "productivity", "business"],
+  "categories": [
+    "news",
+    "productivity",
+    "business"
+  ],
   "icons": [
-    { "src": "/og/logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "/og/logo.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "/og/ikona-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/og/ikona-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/og/ikona-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ],
   "shortcuts": [
-    { "name": "Portal", "url": "/statistika.html" },
-    { "name": "Naslovna strana", "url": "/" }
+    {
+      "name": "Portal",
+      "url": "/statistika.html"
+    },
+    {
+      "name": "Naslovna strana",
+      "url": "/"
+    }
   ]
 }

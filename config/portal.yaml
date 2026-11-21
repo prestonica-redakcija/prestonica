@@ -79,6 +79,7 @@ x:
 # Objave portala na nalogu @Prestonicars (X). Radi tek kad se u GitHub dodaju četiri ključa naloga.
 # Cene X-a (pay-per-use): objava bez linka oko $0,015, objava sa linkom oko $0,20.
 x_objave:
+  nalog: Prestonicars
   ukljuceno: true
   dnevno_najvise: 30          # najviše objava u 24 sata (kontrola troška)
   razmak_minuta: 25            # najmanji razmak od poslednje objave
@@ -132,3 +133,12 @@ kartice_za_deljenje:
   ukljuceno: true
   dana: 4                      # kartice za vesti iz poslednja 4 dana
   najvise_sekundi: 240         # vremensko ograničenje po osvežavanju; ostatak u sledećem
+
+
+# Sopstveni YouTube kanal Prestonice: dnevnik i "Skupstina danas".
+# Snimci sa ovog kanala idu na naslovnu stranu i na vrh video strane, oznaceni kao nasi.
+nas_kanal:
+  youtube: UCKInhDx-3Ps_glyGA5s_LiQ
+  handle: "@prestonica"
+  naziv: Prestonica
+  rubrika: politika

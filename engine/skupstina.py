@@ -10,6 +10,8 @@ import re
 
 import requests
 
+from datetime import datetime
+
 from .util import now_utc
 
 log = logging.getLogger("prestonica")
@@ -38,6 +40,17 @@ def _lat(s: str) -> str:
     return "".join(lat[cir.index(c)] if c in cir else c for c in s)
 
 
+def _mladje(kada: str | None, sati: float) -> bool:
+    """Da li je vremenska oznaka mlađa od zadatog broja sati."""
+    if not kada:
+        return False
+    try:
+        t = datetime.fromisoformat(str(kada).replace("Z", "+00:00"))
+    except Exception:
+        return False
+    return (now_utc() - t).total_seconds() < sati * 3600
+
+
 def osvezi(cfg, state: dict) -> None:
     """Upisuje u state['skupstina'] koji snimak Skupština trenutno prenosi i da li je prenos u toku."""
     sk = state.setdefault("skupstina", {})
@@ -59,15 +72,27 @@ def osvezi(cfg, state: dict) -> None:
     except Exception:
         naslov = ""
     naslov = naslov[:1].upper() + naslov[1:]
-    live = sk.get("live", "none") if sk.get("yt") == yt else "none"
-    try:
-        from . import fetch
-        st = fetch.live_status([yt])
+    from . import fetch
+
+    # Prenos ume da bude uklonjen ili sakriven posle sednice. Tada ugrađeni plejer
+    # pokazuje "Video unavailable", pa se takav snimak ne sme prikazivati.
+    dostupan = fetch.video_dostupan(yt)
+    ranije = sk.get("live", "none") if sk.get("yt") == yt else "none"
+    live = "none"
+    if dostupan:
+        st = {}
+        try:
+            st = fetch.live_status([yt])
+        except Exception as e:
+            log.info("Skupština: status prenosa nije proveren: %s", e)
         if yt in st:
             live = st[yt].get("live") or "none"
-    except Exception as e:
-        log.info("Skupština: status prenosa nije proveren: %s", e)
-    sk.update({"yt": yt, "live": live, "naslov": naslov, "provereno": now_utc().isoformat()})
+        elif ranije == "live" and _mladje(sk.get("uzivo_t"), 2):
+            # status se nije mogao potvrditi (nema API ključa ili je poziv pao):
+            # prenos važi kao uživo najviše dva sata od poslednje potvrde, pa se gasi sam
+            live = "live"
+    sk.update({"yt": yt, "live": live, "naslov": naslov, "nedostupan": not dostupan,
+               "provereno": now_utc().isoformat()})
     if live == "live":
         sk["uzivo_t"] = now_utc().isoformat()   # kad je prenos poslednji put viđen uživo (naslovna ističe Skupštinu tog dana)
     log.info("Skupština: snimak %s, status %s", yt, live)
@@ -89,4 +114,8 @@ def izbor(visible: list[dict], xposts: list[dict], videos: list[dict]) -> dict:
     vesti = [a for a in visible if vest(a)]
     objave = [p for p in xposts if o_skupstini(p.get("text", ""))]
     snimci = [v for v in videos if o_skupstini(" ".join([v.get("_h", ""), v.get("title", ""), " ".join(v.get("oznake", []) or [])]))]
-    return {"vesti": vesti, "objave": objave, "snimci": snimci}
+    # Skupština briše svoje prenose sa kanala posle sednice, pa su naši snimci
+    # jedini trajni zapis. Zato idu odvojeno i ispred tuđih.
+    nasi = [v for v in snimci if v.get("nas")]
+    tudji = [v for v in snimci if not v.get("nas")]
+    return {"vesti": vesti, "objave": objave, "snimci": tudji, "nasi": nasi}
