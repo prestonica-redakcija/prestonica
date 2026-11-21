@@ -33,7 +33,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T10:50:30.398046+00:00",
- "updated": "2026-11-21T10:50:30.398046+00:00",
+ "updated": "2026-11-21T11:49:52.141541+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -46,11 +46,18 @@
    "url": "https://www.kurir.rs/crna-hronika/10168634/ubijen-skaljarac-milos-djurickovic-na-cetinju",
    "title": "UBIJEN ŠKALJARAC NA CETINJU, TELO PRONAĐENO NA ULICI! Nova mafijaška likvidacija u Crnoj Gori za samo dva dana!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/uprava-policije-crne-gore-na-cetinju-ubijen-clan-organizovane-kriminalne-grupe",
+   "title": "Uprava policije Crne Gore: Na Cetinju ubijen član organizovane kriminalne grupe",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Pobjeda: Na Cetinju ubijen pripadnik škaljarskog kriminalnog klana",
-  "UBIJEN ŠKALJARAC NA CETINJU, TELO PRONAĐENO NA ULICI! Nova mafijaška likvidacija u Crnoj Gori za samo dva dana!"
+  "UBIJEN ŠKALJARAC NA CETINJU, TELO PRONAĐENO NA ULICI! Nova mafijaška likvidacija u Crnoj Gori za samo dva dana!",
+  "Uprava policije Crne Gore: Na Cetinju ubijen član organizovane kriminalne grupe"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Pavlova_Strana,_Rijeka_Crnojevi%C4%87a,_Cetinje.jpg",
   "alt": "Na Cetinju ubijen muškarac iz Bajica, policija ga vezuje za organizovanu kriminalnu grupu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

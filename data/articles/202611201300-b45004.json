@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T12:00:57.155901+00:00",
- "updated": "2026-11-20T14:29:45.124535+00:00",
+ "updated": "2026-11-21T11:49:52.141541+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -108,6 +108,12 @@
    "url": "https://www.tanjug.rs/srbija/politika/299484/sapic-optuzen-za-nanosenje-teskih-telesnih-povreda-odbornici-na-novom-beogradu/vest",
    "title": "Šapić optužen za nanošenje teških telesnih povreda odbornici na Novom Beogradu",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4437142-nema-osnova-za-dalje-zastupanje-optuznog-predloga-vjt-se-oglasio-o-oslobadjanju-devetoro-studenata",
+   "title": "\"Nema osnova za dalje zastupanje optužnog predloga\": VJT se oglasio o oslobađanju devetoro studenata",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -123,7 +129,8 @@
   "Tužilaštvo podnelo optužni predlog protiv Šapića, traže tri godine zatvora",
   "Oglasilo se tužilaštvo: Traže tri godine zatvora za Aleksandra Šapića",
   "Tužilaštvo podnelo optužni predlog protiv Šapića zbog teške telesne povrede, traži najmanje tri godine zatvora",
-  "Šapić optužen za nanošenje teških telesnih povreda odbornici na Novom Beogradu"
+  "Šapić optužen za nanošenje teških telesnih povreda odbornici na Novom Beogradu",
+  "\"Nema osnova za dalje zastupanje optužnog predloga\": VJT se oglasio o oslobađanju devetoro studenata"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -136,7 +143,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Aleksandar_%C5%A0api%C4%87_i_Savo_Milo%C5%A1evi%C4%87_na_sednici_Glavnog_odbora_DS.jpg",
   "alt": "VJT: prijava protiv Šapića podneta avgusta 2025, predmet prosleđen Trećem osnovnom tužilaštvu"
  },
- "novo_od_pisanja": 2,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-20T14:14:47.015911+00:00",
  "verzija": 2

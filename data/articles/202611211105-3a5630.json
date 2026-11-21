@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T10:05:36.471344+00:00",
- "updated": "2026-11-21T10:05:36.471344+00:00",
+ "updated": "2026-11-21T11:49:52.141541+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -42,11 +42,18 @@
    "url": "https://www.telegraf.rs/4437107-vucicu-ponedeljak-konsultacije-videcemo-da-li-cemo-ucestovati-i-sta-ce-ponuditi",
    "title": "Vučić: U ponedeljak konsultacije, videćemo da li ćemo učestovati i šta će ponuditi",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/vucic-skupstinski-odbori/",
+   "title": "Vučićeva očekivanja za ponedeljak: Ponudiće nam mesta u skupštinskim odborima, ali…",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Vučić o radu skupštinskih odbora: Čekamo ponudu Studentske liste, videćemo da li ćemo učestvovati",
-  "Vučić: U ponedeljak konsultacije, videćemo da li ćemo učestovati i šta će ponuditi"
+  "Vučić: U ponedeljak konsultacije, videćemo da li ćemo učestovati i šta će ponuditi",
+  "Vučićeva očekivanja za ponedeljak: Ponudiće nam mesta u skupštinskim odborima, ali…"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučić: Čekamo ponudu Studentske liste za odbore, pa ćemo odlučiti o učešću"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

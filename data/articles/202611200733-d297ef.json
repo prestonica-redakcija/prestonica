@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-21T11:35:04.390699+00:00",
+ "updated": "2026-11-21T11:49:52.141541+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -307,6 +307,24 @@
    "url": "https://insajder.net/prenosimo/poljski-ministar-putin-govori-trampu-jednoa-na-delu-je-ruski-drzavni-terorizam-prema-clanicama-nato",
    "title": "Poljski ministar: Putin govori Trampu jedno, a na delu je ruski državni terorizam prema članicama NATO",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/poljski-ministar-putin-govori-trampu-jedno-a-na-delu-ruski-drzavni-terorizam-prema-clanicama-nato/",
+   "title": "Poljski ministar: Putin govori Trampu jedno, a na delu ruski državni terorizam prema članicama NATO",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/sikorski-nato-rusija-terorizam/",
+   "title": "Sikorski: Na delu državni terorizam Rusije prema članicama NATO",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/u-ruskom-napadu-na-rodni-grad-zelenskog-dvoje-poginulih-i-60-povredjenih/",
+   "title": "U ruskom napadu na rodni grad Zelenskog dvoje poginulih i 60 povređenih",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -354,7 +372,10 @@
   "Broj povređenih u ruskom napadu na Krivi Rog povećan na 52, dve osobe poginule",
   "Napad na NATO članicu mogao je biti sprečen; Ruska raketa bila na nišanu, ali...",
   "Katastrofa u rodnom gradu Zelenskog: Dečak umro u bolnici, Rusi bez milosti napali Krivi Rog",
-  "Poljski ministar: Putin govori Trampu jedno, a na delu je ruski državni terorizam prema članicama NATO"
+  "Poljski ministar: Putin govori Trampu jedno, a na delu je ruski državni terorizam prema članicama NATO",
+  "Poljski ministar: Putin govori Trampu jedno, a na delu ruski državni terorizam prema članicama NATO",
+  "Sikorski: Na delu državni terorizam Rusije prema članicama NATO",
+  "U ruskom napadu na rodni grad Zelenskog dvoje poginulih i 60 povređenih"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -368,7 +389,7 @@
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
  },
- "novo_od_pisanja": 9,
+ "novo_od_pisanja": 12,
  "boost": 1.6,
  "prepisano": "2026-11-20T22:56:03.386969+00:00",
  "verzija": 8
