@@ -35,7 +35,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T17:43:12.187852+00:00",
- "updated": "2026-11-20T17:43:12.187852+00:00",
+ "updated": "2026-11-21T22:58:55.659415+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -54,12 +54,19 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10168295/patrijarh-porfirije-sluzio-liturgiju-u-moskvi",
    "title": "Povodom 80. rođendana patrijarha Kirila: Porfirije u Moskvi sasluživao u liturgiju",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/299831/susret-patrijarha-porfirija-i-patrijarha-kirila-u-moskvi/vest",
+   "title": "Susret patrijarha Porfirija i patrijarha Kirila u Moskvi",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Porfirije u Moskvi sasluživao u liturgiji povodom 80. rođendana patrijarha Kirila",
   "Patrijarh Porfirije u Moskvi povodom 80. rođendana ruskog patrijarha Kirila",
-  "Povodom 80. rođendana patrijarha Kirila: Porfirije u Moskvi sasluživao u liturgiju"
+  "Povodom 80. rođendana patrijarha Kirila: Porfirije u Moskvi sasluživao u liturgiju",
+  "Susret patrijarha Porfirija i patrijarha Kirila u Moskvi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,5 +78,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Consecration_Divine_Liturgy_at_Saint_Stephen_Orthodox_Church,_Keysborough,_Victoria,_led_by_Patriarch_Porfirije_of_Serbia_-_October_2026.jpg",
   "alt": "Patrijarh Porfirije u Moskvi na liturgiji povodom 80. rođendana patrijarha Kirila"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
