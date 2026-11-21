@@ -30,7 +30,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T04:23:22.279213+00:00",
- "updated": "2026-11-21T04:23:22.279213+00:00",
+ "updated": "2026-11-21T20:30:13.562577+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,11 +43,18 @@
    "url": "https://www.kurir.rs/planeta/10168471/maroko-ulaze-366-miliona-evra-u-izgradnju-odbrambene-industrije-do-2035-godine",
    "title": "366 MILIONA EVRA ZA ODBRAMBENU INDUSTRIJU: Velika ulaganja Maroka do 2035. godine",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/286941/ambiciozan-plan-africke-zemlje-366-miliona-evra-za-odbrambenu-industriju/vest",
+   "title": "Ambiciozan plan afričke zemlje: 366 miliona evra za odbrambenu industriju",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Maroko ulaže 366 miliona evra u izgradnju odbrambene industrije do 2035. godine",
-  "366 MILIONA EVRA ZA ODBRAMBENU INDUSTRIJU: Velika ulaganja Maroka do 2035. godine"
+  "366 MILIONA EVRA ZA ODBRAMBENU INDUSTRIJU: Velika ulaganja Maroka do 2035. godine",
+  "Ambiciozan plan afričke zemlje: 366 miliona evra za odbrambenu industriju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Maroko planira 366 miliona evra za razvoj odbrambene industrije do 2035. godine"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

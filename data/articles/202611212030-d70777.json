@@ -26,17 +26,24 @@
  "places": [],
  "importance": 3,
  "published": "2026-11-21T19:30:45.924241+00:00",
- "updated": "2026-11-21T19:30:45.924241+00:00",
+ "updated": "2026-11-21T20:30:13.562577+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1172051/branko-babic-sns-clan",
    "title": "Branko Babić postao član SNS-a! Poslao udarnu poruku i objavio hit snimak (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10169072/branko-babic-postao-clan-sns",
+   "title": "BRANKO BABIĆ POSTAO ČLAN SNS: \"Sada kada je SNS stranka čista od interesdžija...\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Branko Babić postao član SNS-a! Poslao udarnu poruku i objavio hit snimak (VIDEO)"
+  "Branko Babić postao član SNS-a! Poslao udarnu poruku i objavio hit snimak (VIDEO)",
+  "BRANKO BABIĆ POSTAO ČLAN SNS: \"Sada kada je SNS stranka čista od interesdžija...\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "osoba": "Vukša Dragović",
   "izvor_x": true,
   "alt": "Branko Babić objavio na TikToku da je postao član SNS-a"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

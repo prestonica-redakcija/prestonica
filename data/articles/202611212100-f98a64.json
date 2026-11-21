@@ -26,16 +26,23 @@
  ],
  "importance": 4,
  "published": "2026-11-21T20:00:24.496948+00:00",
- "updated": "2026-11-21T20:00:24.496948+00:00",
+ "updated": "2026-11-21T20:30:13.562577+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/opozicija-trazi-preispitivanje-statusa-i-nacin-finansiranja-radio-televizije-kragujevac/",
    "title": "Opozicija traži preispitivanje statusa i način finansiranja Radio-televizije Kragujevac",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/opozicija-trazi-preispitivanje-statusa-i-nacin-finansiranja-radio-televizije-kragujevac/",
+   "title": "Opozicija traži preispitivanje statusa i način finansiranja Radio-televizije Kragujevac",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Opozicija traži preispitivanje statusa i način finansiranja Radio-televizije Kragujevac",
   "Opozicija traži preispitivanje statusa i način finansiranja Radio-televizije Kragujevac"
  ],
  "author": "Redakcija Prestonice",
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Opozicija traži da Skupština Kragujevca preispita finansiranje RTK iz budžeta grada"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -34,7 +34,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T13:45:20.968361+00:00",
- "updated": "2026-11-21T17:31:43.503468+00:00",
+ "updated": "2026-11-21T20:30:13.562577+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -53,12 +53,19 @@
    "url": "https://www.tanjug.rs/svet/hronika/299757/francuska-depardje-i-uelbek-pod-istragom-zbog-sumnje-na-seksualne-napade/vest",
    "title": "Francuska: Depardje i Uelbek pod istragom zbog sumnje na seksualne napade",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/istraga-protiv-zerar-depardje-misel-uelbek-seksualni-prestup/",
+   "title": "Istraga protiv Žerara Depardjea i Mišela Uelbeka zbog navodnih seksualnih prestupa",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Pokrenuta istraga protiv Depardjea, Uelbeka i Niklua zbog sumnje za grupno silovanje",
   "Pokrenuta istraga protiv Depardjea, Uelbeka i Niklua zbog sumnje za grupno silovanje",
-  "Francuska: Depardje i Uelbek pod istragom zbog sumnje na seksualne napade"
+  "Francuska: Depardje i Uelbek pod istragom zbog sumnje na seksualne napade",
+  "Istraga protiv Žerara Depardjea i Mišela Uelbeka zbog navodnih seksualnih prestupa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +77,6 @@
   "local": true,
   "alt": "Pokrenuta istraga protiv Depardjea, Uelbeka i Niklua zbog sumnje na seksualno nasilje"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

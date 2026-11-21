@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T12:19:37.340423+00:00",
- "updated": "2026-11-21T19:30:45.924241+00:00",
+ "updated": "2026-11-21T20:30:13.562577+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -73,6 +73,12 @@
    "url": "https://www.kurir.rs/planeta/10169035/ruski-helikopter-narusio-vazdusni-prostor-finske",
    "title": "PANIKA U FINSKOJ: Ministarstvo odbrane tvrdi da je ruski helikopter narušio vazdušni prostor zemlje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10169067/finska-priznala-umesanost-ukrajine-u-napadu-na-ruski-teretni-brod",
+   "title": "POGOĐEN RUSKI TERETNI BROD! Finska priznala umešanost KIjeva: Ukrajina verovatno stoji iza napada!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -82,7 +88,8 @@
   "Ruski brod koji je prevozio oružje pogođen dronovima kod Finske: Odjeknule eksplozije, izbio požar, posada se evakuiše",
   "Ruski zvaničnici: Teretni brod napadnut dronovima u Finskom zalivu",
   "Ruski helikopter iznad Finske",
-  "PANIKA U FINSKOJ: Ministarstvo odbrane tvrdi da je ruski helikopter narušio vazdušni prostor zemlje"
+  "PANIKA U FINSKOJ: Ministarstvo odbrane tvrdi da je ruski helikopter narušio vazdušni prostor zemlje",
+  "POGOĐEN RUSKI TERETNI BROD! Finska priznala umešanost KIjeva: Ukrajina verovatno stoji iza napada!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -95,8 +102,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%A4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2_%D1%81%D0%BE_%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B_%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D0%BE%D0%B2%D1%86%D0%B0.jpg",
   "alt": "Teretni brod na putu ka Kalinjingradu napadnut dronovima u Finskom zalivu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-21T19:15:54.218230+00:00",
  "verzija": 2
 }
