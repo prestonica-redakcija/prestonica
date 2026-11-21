@@ -34,17 +34,24 @@
  ],
  "importance": 7,
  "published": "2026-11-20T11:16:08.898553+00:00",
- "updated": "2026-11-20T11:16:08.898553+00:00",
+ "updated": "2026-11-21T15:18:05.581019+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/vucic-clanstvo-sns-u-epp/",
    "title": "Vučić ima mnogo većih briga od suspenzije SNS-a u članstvo EPP: Politika naprednjaka ne dobacuje dalje od izvornog šešeljizma",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253062/epp-predlozio-suspenziju-clanstva-sns-a/vest",
+   "title": "Odluka o suspenziji SNS-a iz Evropske narodne partije početkom decembra: Da li je moguća promena politike?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Vučić ima mnogo većih briga od suspenzije SNS-a u članstvo EPP: Politika naprednjaka ne dobacuje dalje od izvornog šešeljizma"
+  "Vučić ima mnogo većih briga od suspenzije SNS-a u članstvo EPP: Politika naprednjaka ne dobacuje dalje od izvornog šešeljizma",
+  "Odluka o suspenziji SNS-a iz Evropske narodne partije početkom decembra: Da li je moguća promena politike?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Milo%C5%A1_Vu%C4%8Devi%C4%87_(53965807723).jpg",
   "osoba": "Miloš Vučević",
   "alt": "EPP pokreće suspenziju SNS-a, odluka na Političkoj skupštini 7. i 8. decembra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
