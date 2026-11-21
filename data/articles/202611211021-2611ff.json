@@ -28,17 +28,24 @@
  "places": [],
  "importance": 5,
  "published": "2026-11-21T09:21:04.993856+00:00",
- "updated": "2026-11-21T09:21:04.993856+00:00",
+ "updated": "2026-11-21T10:50:30.398046+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1171876/milos-vucevic-dejan-vuk-stankovic-politika",
    "title": "Trese se Srbija! Vučević grmi - žestoko opleo po Dejanu Vuku Stankoviću: Sram te bilo!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10168622/milos-vucevic-kritikovao-dejana-vuka-stankovica-zbog-smene-direktora-jovine-gimnazije",
+   "title": "\"SRAMOTA! NIJE MOGAO DA IZDRŽI NI MESEC DANA!\" Vučević žestoko kritikovao Dejana Vuka Stankovića: Sram vas bilo!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Trese se Srbija! Vučević grmi - žestoko opleo po Dejanu Vuku Stankoviću: Sram te bilo!"
+  "Trese se Srbija! Vučević grmi - žestoko opleo po Dejanu Vuku Stankoviću: Sram te bilo!",
+  "\"SRAMOTA! NIJE MOGAO DA IZDRŽI NI MESEC DANA!\" Vučević žestoko kritikovao Dejana Vuka Stankovića: Sram vas bilo!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Dejan_Vuk_Stankovi%C4%87.png",
   "osoba": "Dejan Vuk Stanković",
   "alt": "Vučević kritikovao ministra Stankovića zbog smene direktora Jovine gimnazije"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

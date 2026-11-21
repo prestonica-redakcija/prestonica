@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-21T08:36:21.110084+00:00",
+ "updated": "2026-11-21T10:50:30.398046+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -289,6 +289,12 @@
    "url": "https://www.tanjug.rs/svet/politika/299602/broj-povredenih-u-ruskom-napadu-na-krivi-rog-povecan-na-52-dve-osobe-poginule/vest",
    "title": "Broj povređenih u ruskom napadu na Krivi Rog povećan na 52, dve osobe poginule",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/286882/svedskom-gripenu-odobreno-da-obori-rusku-raketu-iznad-poljske-ali-nije-uspeo-da-je-identifikuje/vest",
+   "title": "Napad na NATO članicu mogao je biti sprečen; Ruska raketa bila na nišanu, ali...",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -333,7 +339,8 @@
   "GORI RODNI GRAD ZELENSKOG! Rusi više puta gađali parking kod popularnog restorana, poginuli dečak (7) i bolničar, ranjeno više od 50 ljudi, eksplozije u Kijevu!",
   "ZELENSKI ODGOVORIO TRAMPU: \"Za nas je Putin ubica, jer on ubija i to svakog dana i svake noći\"",
   "Zelenski odgovorio Trampu nakon što je Putina nazvao prijateljem: „Za nas je on ubica, ubija svakog dana i svake noći“",
-  "Broj povređenih u ruskom napadu na Krivi Rog povećan na 52, dve osobe poginule"
+  "Broj povređenih u ruskom napadu na Krivi Rog povećan na 52, dve osobe poginule",
+  "Napad na NATO članicu mogao je biti sprečen; Ruska raketa bila na nišanu, ali..."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -347,7 +354,7 @@
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
  },
- "novo_od_pisanja": 6,
+ "novo_od_pisanja": 7,
  "boost": 1.6,
  "prepisano": "2026-11-20T22:56:03.386969+00:00",
  "verzija": 8

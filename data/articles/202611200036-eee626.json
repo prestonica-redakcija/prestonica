@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-19T23:36:31.686264+00:00",
- "updated": "2026-11-21T09:35:55.278856+00:00",
+ "updated": "2026-11-21T10:50:30.398046+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -190,6 +190,18 @@
    "url": "https://www.kurir.rs/vesti/politika/10168595/jovo-bakic-najavljuje-kandidata-za-predsednika-srbije",
    "title": "IMAMO KANDIDATA ZA PREDSEDNIČKE IZBORE Jovo Bakić otkrio plan Studentske liste i objasnio zašto ne odustaje od funkcije ministra policije",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/286883/jovo-bakic-otkrio-da-studentska-lista-ima-kandidata-za-predstojece-predsednicke-izbore-u-srbiji/vest",
+   "title": "Bakić: \"Imamo kandidata za predsednika Srbije\"",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4437118-aleksandar-cupic-jutros-na-liturgiji-u-raski-predsednik-skupstine-pevao-crkvene-pesme-sa-vernicima",
+   "title": "Aleksandar Čupić jutros na liturgiji u Raški: Predsednik Skupštine pevao crkvene pesme sa vernicima",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -218,7 +230,9 @@
   "Otpravnik poslova Delegacije EU u Srbiji ugostio Čupića: \"Narodna skupština ima čvrstog saveznika u Uniji\"",
   "Bakić (Studentska lista): Imamo kandidata za predsedničke izbore, SNS nema koga da preloži",
   "Bakić: Imamo kandidata za predsedničke izbore, ali još ne izlazimo sa imenom",
-  "IMAMO KANDIDATA ZA PREDSEDNIČKE IZBORE Jovo Bakić otkrio plan Studentske liste i objasnio zašto ne odustaje od funkcije ministra policije"
+  "IMAMO KANDIDATA ZA PREDSEDNIČKE IZBORE Jovo Bakić otkrio plan Studentske liste i objasnio zašto ne odustaje od funkcije ministra policije",
+  "Bakić: \"Imamo kandidata za predsednika Srbije\"",
+  "Aleksandar Čupić jutros na liturgiji u Raški: Predsednik Skupštine pevao crkvene pesme sa vernicima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -230,7 +244,7 @@
   "local": true,
   "alt": "Čupić: biću predsednik svih poslanika, Studentska lista slavi izbor rukovodstva Skupštine"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 6,
  "boost": 1.6,
  "prepisano": "2026-11-20T21:11:49.962208+00:00",
  "verzija": 5
