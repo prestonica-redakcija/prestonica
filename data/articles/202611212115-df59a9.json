@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T20:15:28.244701+00:00",
- "updated": "2026-11-21T20:45:05.557630+00:00",
+ "updated": "2026-11-21T22:14:14.547465+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -56,13 +56,20 @@
    "url": "https://nova.rs/vesti/svet/zbog-protesta-u-belgiji-otkazana-vecina-letova-na-briselskom-aerodromu/",
    "title": "Zbog protesta u Belgiji otkazana većina letova na briselskom aerodromu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/protesti-u-belgiji-otkazani-letovi-na-aerodromu-brisel/",
+   "title": "Otkazana većina letova na aerodromu u Briselu za ponedeljak",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Svi letovi na belgijskim aerodromima otkazani za ponedeljak zbog generalnog protesta",
   "Otkazuje se većina letova na briselskom aerodromu u ponedeljak",
   "BELGIJU ČEKA HAOS: Svi letovi na aerodromima u ponedeljak će biti otkazani zbog generalnog protesta",
-  "Zbog protesta u Belgiji otkazana većina letova na briselskom aerodromu"
+  "Zbog protesta u Belgiji otkazana većina letova na briselskom aerodromu",
+  "Otkazana većina letova na aerodromu u Briselu za ponedeljak"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,6 +81,6 @@
   "local": true,
   "alt": "Belgija: letovi na aerodromima otkazani u ponedeljak zbog protesta sindikata"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
