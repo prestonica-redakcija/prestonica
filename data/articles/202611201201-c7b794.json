@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T11:01:26.183950+00:00",
- "updated": "2026-11-20T11:45:57.885434+00:00",
+ "updated": "2026-11-21T01:09:52.851456+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -40,11 +40,18 @@
    "url": "https://www.b92.net/biz/svet/vesti/286618/javni-dug-velike-britanije-dostigao-31-bilion-funti-odnosno-958-odsto-bdp-a/vest",
    "title": "Javni dug Velike Britanije dostigao 3,1 bilion funti",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4436645-javni-dug-velike-britanije-dostigao-958-odsto-bdp-a-a-ekonomisti-beleze-poboljsanje",
+   "title": "Javni dug Velike Britanije dostigao 95,8 odsto BDP-a, a ekonomisti beleže poboljšanje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Javni dug Velike Britanije dostigao 3,1 bilion funti, odnosno 95,8 odsto BDP-a",
-  "Javni dug Velike Britanije dostigao 3,1 bilion funti"
+  "Javni dug Velike Britanije dostigao 3,1 bilion funti",
+  "Javni dug Velike Britanije dostigao 95,8 odsto BDP-a, a ekonomisti beleže poboljšanje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,6 +63,6 @@
   "local": true,
   "alt": "Javni dug Velike Britanije dostigao 3,1 bilion funti, 95,8 odsto BDP-a"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
