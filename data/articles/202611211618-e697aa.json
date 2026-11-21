@@ -29,17 +29,24 @@
  ],
  "importance": 6,
  "published": "2026-11-21T15:18:05.581019+00:00",
- "updated": "2026-11-21T15:18:05.581019+00:00",
+ "updated": "2026-11-21T16:17:27.009374+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/delic-neko-mora-da-snosi-odgovornost-zbog-pada-obuhvata-vakcinacijom-u-srbiji/",
    "title": "Delić: Neko mora da snosi odgovornost zbog pada obuhvata vakcinacijom u Srbiji",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/delic-odgovornost-zbog-smanjenog-broja-vakcinacije-u-srbiji/",
+   "title": "Delić: Neko mora da snosi odgovornost zbog smanjenog obuhvata vakcinacije u Srbiji",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Delić: Neko mora da snosi odgovornost zbog pada obuhvata vakcinacijom u Srbiji"
+  "Delić: Neko mora da snosi odgovornost zbog pada obuhvata vakcinacijom u Srbiji",
+  "Delić: Neko mora da snosi odgovornost zbog smanjenog obuhvata vakcinacije u Srbiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Selo_Gola_Glava_-_op%C5%A1tina_Valjevo_-_zapadna_Srbija_-_centar_sela_1.jpg",
   "alt": "Delić: neko mora da snosi odgovornost zbog pada obuhvata vakcinacijom"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
