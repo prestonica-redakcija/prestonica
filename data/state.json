@@ -7231,18 +7231,14 @@
   "https://biznis.telegraf.rs/info-biz/4436645-javni-dug-velike-britanije-dostigao-958-odsto-bdp-a-a-ekonomisti-beleze-poboljsanje": "2026-11-21T01:09:52.851456+00:00",
   "https://www.tanjug.rs/svet/politika/299615/francuske-vlasti-istrazuju-odavanje-poverljivih-informacija-stranci-marin-le-pen/vest": "2026-11-21T01:09:52.851456+00:00",
   "https://www.kurir.rs/planeta/10167576/francuska-prefekt-odavao-tajne-marin-le-pen": "2026-11-21T01:09:52.851456+00:00",
-  "https://www.telegraf.rs/4436900-u-ponedeljak-skupstina-grada-o-rebalansu-budzeta-i-inicijativi-za-razresenje-sapica": "2026-11-21T02:09:26.683381+00:00"
+  "https://www.telegraf.rs/4436900-u-ponedeljak-skupstina-grada-o-rebalansu-budzeta-i-inicijativi-za-razresenje-sapica": "2026-11-21T02:09:26.683381+00:00",
+  "https://www.telegraf.rs/vesti/svet/4436442-nato-poslao-jasnu-poruku-putinu-ukrajinski-napad-na-krimski-most-bio-je-legitiman": "2026-11-21T03:08:59.619718+00:00",
+  "https://www.euronews.rs/biznis/biznis-vesti/252933/velnes-je-novi-luksuz-kako-je-islandsko-cudo-prirode-postalo-globalna-biznis-imperija/vest": "2026-11-21T03:08:59.619718+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-20T12:22+00:00",
-   "novih": 8,
-   "ukupno": 3016,
-   "sekundi": 405.6
-  },
   {
    "vreme": "2026-11-20T12:35+00:00",
    "novih": 2,
@@ -7596,6 +7592,12 @@
    "novih": 0,
    "ukupno": 3237,
    "sekundi": 368.9
+  },
+  {
+   "vreme": "2026-11-21T03:13+00:00",
+   "novih": 1,
+   "ukupno": 3238,
+   "sekundi": 245.8
   }
  ],
  "licnosti_foto": {
@@ -57877,6 +57879,146 @@
      "naslov": "Марин Ле Пен (28-01-2022).jpg"
     }
    ]
+  },
+  "t:blue lagoon": {
+   "t": 1795230580.3635087,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/The_Blue_Lagoon_2.jpg/1920px-The_Blue_Lagoon_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2366,
+     "h": 667,
+     "god": 2015,
+     "credit": "Wikimedia Commons / JavierOlivares / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:The_Blue_Lagoon_2.jpg",
+     "naslov": "The Blue Lagoon 2.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Blue_Lagoon.JPG/1920px-Blue_Lagoon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3072,
+     "h": 2048,
+     "god": 2009,
+     "credit": "Wikimedia Commons / Dolphins / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon.JPG",
+     "naslov": "Blue Lagoon.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Blue_Lagoon_with_%C3%9Eorbj%C3%B6rn%2C_Iceland%2C_20230430_1626_3692.jpg/1920px-Blue_Lagoon_with_%C3%9Eorbj%C3%B6rn%2C_Iceland%2C_20230430_1626_3692.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5016,
+     "h": 3348,
+     "god": 2023,
+     "credit": "Wikimedia Commons / Jakub Hałun / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_with_%C3%9Eorbj%C3%B6rn,_Iceland,_20230430_1626_3692.jpg",
+     "naslov": "Blue Lagoon with Þorbjörn, Iceland, 20230430 1626 3692.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_249.jpg/1920px-Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_249.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5184,
+     "h": 3456,
+     "god": 2019,
+     "credit": "Wikimedia Commons / Hyppolyte de Saint-Rambert / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_249.jpg",
+     "naslov": "Blue Lagoon Iceland hdsr 2019 10 19 9999 249.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_344.jpg/1920px-Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_344.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5184,
+     "h": 3456,
+     "god": 2019,
+     "credit": "Wikimedia Commons / Hyppolyte de Saint-Rambert / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_344.jpg",
+     "naslov": "Blue Lagoon Iceland hdsr 2019 10 19 9999 344.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_Lagoon_%2813956936601%29_%282%29.jpg/1920px-Blue_Lagoon_%2813956936601%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5184,
+     "h": 3456,
+     "god": 2014,
+     "credit": "Wikimedia Commons / Tiffany Bailey from New Orleans, USA / CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_(13956936601)_(2).jpg",
+     "naslov": "Blue Lagoon (13956936601) (2).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Blue_Lagoon_Geothermal_pool_15.jpg/1920px-Blue_Lagoon_Geothermal_pool_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5120,
+     "h": 3840,
+     "god": 2022,
+     "credit": "Wikimedia Commons / Netha Hussain / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_Geothermal_pool_15.jpg",
+     "naslov": "Blue Lagoon Geothermal pool 15.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Blue_Lagoon_http-www.bluelagoon.is_%283022620977%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1800,
+     "h": 1350,
+     "god": 2008,
+     "credit": "Wikimedia Commons / cogdogblog / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_http-www.bluelagoon.is_(3022620977).jpg",
+     "naslov": "Blue Lagoon http-www.bluelagoon.is (3022620977).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Blue_Lagoon%2C_Iceland_%2821677043453%29.jpg/1920px-The_Blue_Lagoon%2C_Iceland_%2821677043453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4801,
+     "h": 3201,
+     "god": 2015,
+     "credit": "Wikimedia Commons / Bryan Ledgard / CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:The_Blue_Lagoon,_Iceland_(21677043453).jpg",
+     "naslov": "The Blue Lagoon, Iceland (21677043453).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Blue_Lagoon_Geothermal_pool_13.jpg/1920px-Blue_Lagoon_Geothermal_pool_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5120,
+     "h": 3840,
+     "god": 2022,
+     "credit": "Wikimedia Commons / Netha Hussain / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_Geothermal_pool_13.jpg",
+     "naslov": "Blue Lagoon Geothermal pool 13.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Blue_Lagoon_Geothermal_pool_17.jpg/1920px-Blue_Lagoon_Geothermal_pool_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3648,
+     "h": 2736,
+     "god": 2022,
+     "credit": "Wikimedia Commons / Netha Hussain / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_Geothermal_pool_17.jpg",
+     "naslov": "Blue Lagoon Geothermal pool 17.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_333.jpg/1920px-Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_333.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5083,
+     "h": 3389,
+     "god": 2019,
+     "credit": "Wikimedia Commons / Hyppolyte de Saint-Rambert / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_333.jpg",
+     "naslov": "Blue Lagoon Iceland hdsr 2019 10 19 9999 333.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Blue-Lagoon-Iceland-January-2012.jpg/1920px-Blue-Lagoon-Iceland-January-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3600,
+     "h": 2700,
+     "god": 2012,
+     "credit": "Wikimedia Commons / Acediscovery / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Blue-Lagoon-Iceland-January-2012.jpg",
+     "naslov": "Blue-Lagoon-Iceland-January-2012.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Blue_lagoon%2C_Iceland_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1024,
+     "h": 683,
+     "god": 1980,
+     "credit": "Wikimedia Commons / Christopher Angell from Annapolis, MD / CC BY-SA 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Blue_lagoon,_Iceland_02.jpg",
+     "naslov": "Blue lagoon, Iceland 02.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_347.jpg/1920px-Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_347.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5184,
+     "h": 3456,
+     "god": 2019,
+     "credit": "Wikimedia Commons / Hyppolyte de Saint-Rambert / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_347.jpg",
+     "naslov": "Blue Lagoon Iceland hdsr 2019 10 19 9999 347.jpg"
+    }
+   ]
   }
  },
  "x_objave": {
@@ -61519,8 +61661,8 @@
   "yt": "Hdk3ahufa64",
   "live": "live",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-21T02:54:37.211536+00:00",
-  "uzivo_t": "2026-11-21T02:54:37.211553+00:00"
+  "provereno": "2026-11-21T03:09:53.524460+00:00",
+  "uzivo_t": "2026-11-21T03:09:53.524475+00:00"
  },
  "video_arhiva": {
   "1cf7haPOrXs": {

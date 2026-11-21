@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-20T06:33:19.742913+00:00",
- "updated": "2026-11-20T22:56:03.386969+00:00",
+ "updated": "2026-11-21T03:08:59.619718+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -253,6 +253,12 @@
    "url": "https://n1info.rs/svet/moskva-kijev-rusija-ukrajina-napadi-20-novembar-2026-godine/",
    "title": "Žestok odgovor Moskve zbog napada na Krimski most: Jedan od najjačih napada na Ukrajinu, napeto i u Poljskoj i na Baltiku",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4436442-nato-poslao-jasnu-poruku-putinu-ukrajinski-napad-na-krimski-most-bio-je-legitiman",
+   "title": "NATO poslao jasnu poruku Putinu: \"Ukrajinski napad na Krimski most bio je legitiman\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -291,7 +297,8 @@
   "Rusi poslali dve rakete i dron, poljska vojska i NATO saveznici nisu uspeli da ih obore: Ministar priznao",
   "NATO I POLJSKA ZATAJILI: Nisu uspeli da obore dve ruske rakete i dron, oglaso se ministar odbrane",
   "NATO I POLJSKA ZATAJILI: Nisu uspeli da obore dve ruske rakete i dron, oglaso se ministar odbrane",
-  "Žestok odgovor Moskve zbog napada na Krimski most: Jedan od najjačih napada na Ukrajinu, napeto i u Poljskoj i na Baltiku"
+  "Žestok odgovor Moskve zbog napada na Krimski most: Jedan od najjačih napada na Ukrajinu, napeto i u Poljskoj i na Baltiku",
+  "NATO poslao jasnu poruku Putinu: \"Ukrajinski napad na Krimski most bio je legitiman\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -305,7 +312,7 @@
   "osoba": "Vitalij Kličko",
   "alt": "Rusija saopštila masovni udar na Ukrajinu, Kličko: oštećena tri mosta u Kijevu"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-20T22:56:03.386969+00:00",
  "verzija": 8
