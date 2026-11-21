@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-20T17:58:15.400453+00:00",
- "updated": "2026-11-20T17:58:15.400453+00:00",
+ "updated": "2026-11-21T07:21:56.628874+00:00",
  "sources": [
   {
    "name": "B92",
@@ -44,11 +44,18 @@
    "url": "https://www.kurir.rs/planeta/10168287/iran-ce-uciniti-sve-kako-bi-izvozio-naftu-i-probio-americku-blokadu",
    "title": "IRAN PROBIJA AMERIČKU BLOKADU: \"Teheran će preduzeti sve moguće mere kako bi nastavio izvoz nafte\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/253012/kriza-na-bliskom-istoku-najnovije-vesti-za-21-novembar/vest",
+   "title": "KRIZA NA BLISKOM ISTOKU Arakči: Iran će učiniti sve kako bi izvozio naftu i probio američku blokadu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Iran: \"Preduzećemo sve moguće mere\"",
-  "IRAN PROBIJA AMERIČKU BLOKADU: \"Teheran će preduzeti sve moguće mere kako bi nastavio izvoz nafte\""
+  "IRAN PROBIJA AMERIČKU BLOKADU: \"Teheran će preduzeti sve moguće mere kako bi nastavio izvoz nafte\"",
+  "KRIZA NA BLISKOM ISTOKU Arakči: Iran će učiniti sve kako bi izvozio naftu i probio američku blokadu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Iran: preduzećemo sve mere da nastavimo izvoz nafte uprkos američkoj blokadi"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

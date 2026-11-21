@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T07:47:34.312460+00:00",
- "updated": "2026-11-21T07:07:01.748216+00:00",
+ "updated": "2026-11-21T07:21:56.628874+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -60,6 +60,12 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4413352-danas-je-arandjelovdan-tradicija-stroga-crkvena-pravila-ali-i-najveca-zabluda-srpskih-domacina",
    "title": "Danas je Aranđelovdan! Tradicija, stroga crkvena pravila, ali i NAJVEĆA ZABLUDA srpskih domaćina",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4413693-generacije-srba-zito-ne-stavljaju-na-slavsku-trpezu-za-arandjelovdan-crkva-ima-drugacije-pravilo",
+   "title": "Generacije Srba žito ne stavljaju na slavsku trpezu za Aranđelovdan: Crkva ima drugačije pravilo",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -67,7 +73,8 @@
   "Aranđelovdan je jedna od najčešćih slava: Šta narodna verovanja kažu o Arhangelu Mihailu",
   "Aranđelovdan – slava Svetog Arhangela Mihaila, čuvara pravde i vere",
   "Danas je Aranđelovdan, jedna od najvećih srpskih slava: Običaji, verovanja i pravilo koje mnogi pogrešno poštuju",
-  "Danas je Aranđelovdan! Tradicija, stroga crkvena pravila, ali i NAJVEĆA ZABLUDA srpskih domaćina"
+  "Danas je Aranđelovdan! Tradicija, stroga crkvena pravila, ali i NAJVEĆA ZABLUDA srpskih domaćina",
+  "Generacije Srba žito ne stavljaju na slavsku trpezu za Aranđelovdan: Crkva ima drugačije pravilo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,8 +87,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Marija_-_Sv._arhangel_Mihailo.jpg",
   "alt": "Srpska pravoslavna crkva sutra slavi Aranđelovdan, Sabor Svetog Arhangela Mihaila"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-21T07:07:01.748216+00:00",
  "verzija": 2
 }

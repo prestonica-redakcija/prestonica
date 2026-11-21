@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-20T10:31:22.846463+00:00",
- "updated": "2026-11-20T14:29:45.124535+00:00",
+ "updated": "2026-11-21T07:21:56.628874+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -55,13 +55,20 @@
    "url": "https://www.tanjug.rs/svet/politika/299480/lagard-evropa-prekasno-reaguje-na-krize/vest",
    "title": "Lagard: Evropa prekasno reaguje na krize",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/286691/evropa-prekasno-reaguje-na-krize/vest",
+   "title": "\"Evropa prekasno reaguje na krize\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Lagard pozvala Evropu da smanji tehnološku zavisnost i ojača ekonomsku samostalnost",
   "Evropa zavisi od stranih tehnologija, a sada mora da pronađe 1.300 milijardi evra: Lagard otkrila šta sledi",
   "Lagard pozvala Evropu da smanji tehnološku zavisnost i ojača ekonomsku samostalnost",
-  "Lagard: Evropa prekasno reaguje na krize"
+  "Lagard: Evropa prekasno reaguje na krize",
+  "\"Evropa prekasno reaguje na krize\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "local": true,
   "alt": "Lagard: Evropa mora da smanji tehnološku zavisnost pre nego što preraste u krizu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
