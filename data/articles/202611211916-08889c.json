@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T18:16:16.808382+00:00",
- "updated": "2026-11-21T19:30:45.924241+00:00",
+ "updated": "2026-11-21T20:45:05.557630+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -60,6 +60,12 @@
    "url": "https://www.danas.rs/svet/nekoliko-hiljada-ljudi-na-ulicama-lisabona-zbog-rasta-troskova-zivota/",
    "title": "Nekoliko hiljada ljudi na ulicama Lisabona zbog rasta troškova života",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287024/sesti-dan-novih-protesta-u-francuskoj/vest",
+   "title": "Francuska ponovo na ulicama: Hiljade ljudi protestovalo zbog visokih troškova života VIDEO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -67,7 +73,8 @@
   "PROTESTI ŠIROM FRANCUSKE: Demonstracije protiv visokih troškova života, na ulicama 150.000 ljudi",
   "PROTESTI ŠIROM FRANCUSKE: Demonstracije protiv visokih troškova života, na ulicama 150.000 ljudi",
   "Francuska: Na protestima 82.500 ljudi, organizatori tvrde da ih je bilo 150.000",
-  "Nekoliko hiljada ljudi na ulicama Lisabona zbog rasta troškova života"
+  "Nekoliko hiljada ljudi na ulicama Lisabona zbog rasta troškova života",
+  "Francuska ponovo na ulicama: Hiljade ljudi protestovalo zbog visokih troškova života VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,6 +87,6 @@
   "alt": "people holding banner during daytime",
   "link": "https://unsplash.com/@matnapo"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
