@@ -26,17 +26,31 @@
  ],
  "importance": 3,
  "published": "2026-11-20T07:47:34.312460+00:00",
- "updated": "2026-11-20T07:47:34.312460+00:00",
+ "updated": "2026-11-21T06:07:36.692528+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/drustvo/299337/srpska-pravoslavna-crkva-sutra-slavi-sabor-svetog-arhangela-mihaila-arandelovdan/vest",
    "title": "Srpska pravoslavna crkva sutra slavi Sabor Svetog Arhangela Mihaila - Aranđelovdan",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/pop-i-kultura/aktuelno-kultura/4436756-arandjelovdan-je-jedna-od-najcescih-slava-sta-narodna-verovanja-kazu-o-arhangelu-mihailu",
+   "title": "Aranđelovdan je jedna od najčešćih slava: Šta narodna verovanja kažu o Arhangelu Mihailu",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/magazin/lifestyle/arandjelovdan-slava-svetog-arhangela-mihaila-cuvara-pravde-i-vere/",
+   "title": "Aranđelovdan – slava Svetog Arhangela Mihaila, čuvara pravde i vere",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Srpska pravoslavna crkva sutra slavi Sabor Svetog Arhangela Mihaila - Aranđelovdan"
+  "Srpska pravoslavna crkva sutra slavi Sabor Svetog Arhangela Mihaila - Aranđelovdan",
+  "Aranđelovdan je jedna od najčešćih slava: Šta narodna verovanja kažu o Arhangelu Mihailu",
+  "Aranđelovdan – slava Svetog Arhangela Mihaila, čuvara pravde i vere"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +62,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Marija_-_Sv._arhangel_Mihailo.jpg",
   "alt": "Srpska pravoslavna crkva sutra slavi Aranđelovdan, Sabor Svetog Arhangela Mihaila"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

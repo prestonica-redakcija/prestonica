@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T06:18:15.014670+00:00",
- "updated": "2026-11-21T00:10:31.102681+00:00",
+ "updated": "2026-11-21T06:07:36.692528+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -72,6 +72,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/vreme-danas-tokom-dana-naoblacenje-ponegde-kisa/",
    "title": "Vreme danas: Tokom dana naoblačenje, ponegde kiša",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/danas-pad-temperature-moguci-kisa-i-pljuskovi/",
+   "title": "Danas pad temperature, mogući kiša i pljuskovi",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -81,7 +87,8 @@
   "Preokret za vikend: Kiša i pljuskovi, a onda stiže i sneg",
   "RHMZ: U većem delu Srbije do kraja dana kiša i pljuskovi sa grmljavinom",
   "Srbija na udaru ledenog talasa: Stižu sneg, mraz i ozbiljan pad temperature",
-  "Vreme danas: Tokom dana naoblačenje, ponegde kiša"
+  "Vreme danas: Tokom dana naoblačenje, ponegde kiša",
+  "Danas pad temperature, mogući kiša i pljuskovi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -93,8 +100,8 @@
   "local": true,
   "alt": "Danas kiša i pljuskovi u većem delu Srbije, od sutra postepeno zahlađenje"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-20T19:27:33.174647+00:00",
  "verzija": 2
 }
