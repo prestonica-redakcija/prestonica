@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T11:35:04.390699+00:00",
- "updated": "2026-11-21T11:49:52.141541+00:00",
+ "updated": "2026-11-21T12:19:37.340423+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -44,12 +44,19 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4437143-bacena-bomba-na-lokal-u-brace-jerkovic-kamere-snimile-napadaca",
    "title": "Bačena bomba na lokal u Braće Jerkovića: Kamere snimile napadača",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/mediji-bacena-bomba-na-kafic-u-naselju-brace-jerkovic-nema-povredjenih/",
+   "title": "Mediji: Bačena bomba na kafić u naselju Braće Jerković, nema povređenih",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Eksplozija u naselju Braće Jerković: Bačena bomba na kafić, kamere snimile napadača",
   "BOMBAŠKI NAPAD U JERKOVIĆU! Kurir saznaje - Kamere snimile napadača, u toku VELIKA POTERA: Na meti bio poznati kafić",
-  "Bačena bomba na lokal u Braće Jerkovića: Kamere snimile napadača"
+  "Bačena bomba na lokal u Braće Jerkovića: Kamere snimile napadača",
+  "Mediji: Bačena bomba na kafić u naselju Braće Jerković, nema povređenih"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Bra%C4%87e_Jerkovi%C4%87_from_air.jpg",
   "alt": "Bomba bačena na kafić \"Avenija\" u naselju Braće Jerković, niko nije povređen"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

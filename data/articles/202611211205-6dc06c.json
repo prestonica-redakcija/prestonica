@@ -25,17 +25,24 @@
  "places": [],
  "importance": 5,
  "published": "2026-11-21T11:05:11.644816+00:00",
- "updated": "2026-11-21T11:05:11.644816+00:00",
+ "updated": "2026-11-21T12:19:37.340423+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1673348/vucic-zabrinut-sudbinu-ekspo-2027-nisam-siguran-oni-razumeju-koliki-znacaj-manifestacije",
    "title": "VUČIĆ ZABRINUT ZA SUDBINU EKSPO 2027: Nisam siguran da oni razumeju koliki je značaj te manifestacije",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/286871/vucic-nece-formirati-vladu-pre-februara-nisam-siguran-da-razumeju-koliki-je-znacaj-ekspa/vest",
+   "title": "Vučić: \"Neće formirati Vladu pre februara\"; \"Nisam siguran da razumeju koliki je značaj Ekspa\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "VUČIĆ ZABRINUT ZA SUDBINU EKSPO 2027: Nisam siguran da oni razumeju koliki je značaj te manifestacije"
+  "VUČIĆ ZABRINUT ZA SUDBINU EKSPO 2027: Nisam siguran da oni razumeju koliki je značaj te manifestacije",
+  "Vučić: \"Neće formirati Vladu pre februara\"; \"Nisam siguran da razumeju koliki je značaj Ekspa\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučić na Informer TV izrazio zabrinutost zbog priprema za Ekspo 2027"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
