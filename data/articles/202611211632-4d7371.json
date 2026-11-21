@@ -38,17 +38,31 @@
  ],
  "importance": 6,
  "published": "2026-11-21T15:32:59.993595+00:00",
- "updated": "2026-11-21T15:32:59.993595+00:00",
+ "updated": "2026-11-21T15:47:47.433509+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/sns-se-zali-medjunarodne-institucije-demokratija/",
    "title": "SNS se žali međunarodnim institucijama na ugrožavanje demokratije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/sns-se-zali-medjunarodnim-institucijama/",
+   "title": "SNS se žali međunarodnim institucijama: Zašto?",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/sns-pisala-medjunarodnim-institucijama-zale-se-sto-nemaju-potpredsednika-skupstine-i-sto-njihovi-poslanici-dobijaju-opomene/",
+   "title": "SNS pisala međunarodnim institucijama: Žale se što nemaju potpredsednika Skupštine i što njihovi poslanici dobijaju opomene",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "SNS se žali međunarodnim institucijama na ugrožavanje demokratije"
+  "SNS se žali međunarodnim institucijama na ugrožavanje demokratije",
+  "SNS se žali međunarodnim institucijama: Zašto?",
+  "SNS pisala međunarodnim institucijama: Žale se što nemaju potpredsednika Skupštine i što njihovi poslanici dobijaju opomene"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +74,7 @@
   "local": false,
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

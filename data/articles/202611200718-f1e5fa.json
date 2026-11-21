@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-20T06:18:15.014670+00:00",
- "updated": "2026-11-21T14:18:29.442150+00:00",
+ "updated": "2026-11-21T15:47:47.433509+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -108,6 +108,12 @@
    "url": "https://www.b92.net/info/drustvo/286939/vremenska-prognoza-kisa-u-srbiji/vest",
    "title": "U ovim krajevima Srbije već pljušti; Evo gde će još biti kiše do kraja dana",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10168890/vremenska-prognoza-zahladjenje-kisa-sneg",
+   "title": "STIŽE SNEG U SRBIJU! Danas pljuskovi s grmljavinom, a od ovog dana drastično zahlađenje: Oglasio se RHMZ - temperatura pada za 10 stepeni, evo gde će da zaveje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -123,7 +129,8 @@
   "Stiže jače zahlađenje: Padaće kiša i sneg, temperatura pada za 10 stepeni",
   "Vremenska prognoza za nedelju 22. novembar: Kada će padati kiša?",
   "Ovde već pljušti: Pljuskovi sa grmljavinom do kraja dana očekuju ove predele Srbije",
-  "U ovim krajevima Srbije već pljušti; Evo gde će još biti kiše do kraja dana"
+  "U ovim krajevima Srbije već pljušti; Evo gde će još biti kiše do kraja dana",
+  "STIŽE SNEG U SRBIJU! Danas pljuskovi s grmljavinom, a od ovog dana drastično zahlađenje: Oglasio se RHMZ - temperatura pada za 10 stepeni, evo gde će da zaveje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -135,7 +142,7 @@
   "local": true,
   "alt": "Danas kiša i pljuskovi u većem delu Srbije, od sutra postepeno zahlađenje"
  },
- "novo_od_pisanja": 7,
+ "novo_od_pisanja": 8,
  "boost": 1.6,
  "prepisano": "2026-11-20T19:27:33.174647+00:00",
  "verzija": 2
