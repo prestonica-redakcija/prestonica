@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T15:32:59.993595+00:00",
- "updated": "2026-11-21T15:32:59.993595+00:00",
+ "updated": "2026-11-22T23:15:41.238686+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4437193-vozaci-oprez-put-jabuka-prijepolje-bice-potpuno-zatvoren-narednih-dana",
    "title": "Vozači, oprez: Deonica puta Jabuka - Prijepolje biće potpuno zatvorena narednih dana",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/razno/287246/na-danasnji-dan-23-novembar/vest",
+   "title": "Na današnji dan, 23. novembar",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Deonica puta Prijepolje-Jabuka od 24. do 27. novembra zatvorena za saobraćaj",
-  "Vozači, oprez: Deonica puta Jabuka - Prijepolje biće potpuno zatvorena narednih dana"
+  "Vozači, oprez: Deonica puta Jabuka - Prijepolje biće potpuno zatvorena narednih dana",
+  "Na današnji dan, 23. novembar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "alt": "a large truck driving down a wet road",
   "link": "https://unsplash.com/@tshamberger"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

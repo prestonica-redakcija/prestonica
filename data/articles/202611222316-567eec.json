@@ -29,16 +29,23 @@
  ],
  "importance": 5,
  "published": "2026-11-22T22:16:11.538620+00:00",
- "updated": "2026-11-22T22:16:11.538620+00:00",
+ "updated": "2026-11-22T23:15:41.238686+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/novosadski-zborovi-krivicna-prijava-maja-gojkovic/",
    "title": "Novosadski zborovi sutra podnose krivičnu prijavu protiv Maje Gojković",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/novosadski-zborovi-sutra-podnose-krivicnu-prijavu-protiv-maje-gojkovic/",
+   "title": "Novosadski zborovi sutra podnose krivičnu prijavu protiv Maje Gojković",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Novosadski zborovi sutra podnose krivičnu prijavu protiv Maje Gojković",
   "Novosadski zborovi sutra podnose krivičnu prijavu protiv Maje Gojković"
  ],
  "author": "Redakcija Prestonice",
@@ -52,5 +59,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Maja_Gojkovi%C4%87_2019.jpg",
   "osoba": "Maja Gojković",
   "alt": "Novosadski zborovi sutra podnose krivičnu prijavu protiv Maje Gojković"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
