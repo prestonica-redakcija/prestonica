@@ -26,17 +26,31 @@
  ],
  "importance": 5,
  "published": "2026-11-22T12:21:28.471038+00:00",
- "updated": "2026-11-22T12:21:28.471038+00:00",
+ "updated": "2026-11-22T16:49:09.323963+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/video-na-ulicama-smedereva-i-dalje-nagomilano-smece/",
    "title": "(VIDEO) Na ulicama Smedereva i dalje nagomilano smeće",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/centralne-ulice-u-smederevu-zatrpane-djubretom/",
+   "title": "FOTO \"Gušimo se u smeću, kad padne kiša ulicama plivaju kese i džakovi\": Alarmantne scene iz Smedereva, građani strahuju od zaraze",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1172237/smederevo-komunalni-problem-smece",
+   "title": "Kako je Studentska lista \"rešila\" Smederevo: Građani se dave u smeću - Alarmantna situacija, preti zaraza (FOTO/VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "(VIDEO) Na ulicama Smedereva i dalje nagomilano smeće"
+  "(VIDEO) Na ulicama Smedereva i dalje nagomilano smeće",
+  "FOTO \"Gušimo se u smeću, kad padne kiša ulicama plivaju kese i džakovi\": Alarmantne scene iz Smedereva, građani strahuju od zaraze",
+  "Kako je Studentska lista \"rešila\" Smederevo: Građani se dave u smeću - Alarmantna situacija, preti zaraza (FOTO/VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +62,7 @@
   "local": false,
   "alt": "Pile of black trash bags on a sidewalk",
   "link": "https://unsplash.com/@pixel_shot"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
