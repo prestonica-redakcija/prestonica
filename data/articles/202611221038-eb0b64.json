@@ -32,17 +32,24 @@
  ],
  "importance": 7,
  "published": "2026-11-22T09:38:00.767363+00:00",
- "updated": "2026-11-22T09:38:00.767363+00:00",
+ "updated": "2026-11-22T12:51:11.246716+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/bbc-news-serbian/izazov-za-gradonacelnika-sapica-skupstina-beograda-o-zahtevu-da-bude-razresen/",
    "title": "Izazov za gradonačelnika Šapića: Skupština Beograda o zahtevu da bude razrešen",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/beograd/4437541-skupstina-grada-beograda-sutra-odlucuje-o-rebalansu-budzeta-i-inicijativi-za-razresenje-sapica",
+   "title": "Skupština grada Beograda sutra odlučuje o rebalansu budžeta i inicijativi za razrešenje Šapića",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Izazov za gradonačelnika Šapića: Skupština Beograda o zahtevu da bude razrešen"
+  "Izazov za gradonačelnika Šapića: Skupština Beograda o zahtevu da bude razrešen",
+  "Skupština grada Beograda sutra odlučuje o rebalansu budžeta i inicijativi za razrešenje Šapića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Publikum_kalendar_Skupstina_grada_Beograda.jpg",
   "alt": "Skupština Beograda sutra raspravlja o zahtevu za razrešenje gradonačelnika Šapića"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -32,17 +32,24 @@
  ],
  "importance": 5,
  "published": "2026-11-22T12:36:22.503053+00:00",
- "updated": "2026-11-22T12:36:22.503053+00:00",
+ "updated": "2026-11-22T12:51:11.246716+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/evropske-demokrate-pozdravljaju-odluku-da-se-ispita-preuzimanje-medija-n1-nova-danas-i-radar/",
    "title": "Evropske demokrate pozdravljaju odluku da se ispita preuzimanje medija N1, Nova, Danas i Radar",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/evropske-demokrate-pozdravile-odluku-o-ispitivanju-preuzimanja-medija/",
+   "title": "Evropske demokrate pozdravljaju odluku Komisije da ponovo ispita preuzimanje medija N1, Nova, Danas i Radar",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Evropske demokrate pozdravljaju odluku da se ispita preuzimanje medija N1, Nova, Danas i Radar"
+  "Evropske demokrate pozdravljaju odluku da se ispita preuzimanje medija N1, Nova, Danas i Radar",
+  "Evropske demokrate pozdravljaju odluku Komisije da ponovo ispita preuzimanje medija N1, Nova, Danas i Radar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Evropske demokrate pozdravile ponovno ispitivanje preuzimanja Adria News Networka"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

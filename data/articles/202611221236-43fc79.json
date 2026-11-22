@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T11:36:55.414786+00:00",
- "updated": "2026-11-22T12:21:28.471038+00:00",
+ "updated": "2026-11-22T12:51:11.246716+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -41,11 +41,18 @@
    "url": "https://www.tanjug.rs/srbija/politika/299915/milos-vucevic-osudio-pretnje-porodici-ane-brnabic-zatrazio-zaustavljanje-progona-opozicije/vest",
    "title": "Miloš Vučević osudio pretnje porodici Ane Brnabić, zatražio zaustavljanje progona opozicije",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253160/vucevic-osudio-pretnje-porodici-ani-brnabic/vest",
+   "title": "Vučević osudio pretnje porodici Ani Brnabić: \"Odmah zaustavite progon opozicije, odbranićemo Srbiju od terora\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "VUČEVIĆ NAJOŠTRIJE OSUDIO MONSTRUOZNE PRETNjE PORODICI ANE BRNABIĆ: Ovo mora odmah da se zaustavi",
-  "Miloš Vučević osudio pretnje porodici Ane Brnabić, zatražio zaustavljanje progona opozicije"
+  "Miloš Vučević osudio pretnje porodici Ane Brnabić, zatražio zaustavljanje progona opozicije",
+  "Vučević osudio pretnje porodici Ani Brnabić: \"Odmah zaustavite progon opozicije, odbranićemo Srbiju od terora\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,6 +67,6 @@
   "izvor_x": true,
   "alt": "Vučević osudio pretnje porodici Ane Brnabić i optužio Studentsku listu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
