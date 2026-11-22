@@ -36,17 +36,24 @@
  ],
  "importance": 6,
  "published": "2026-11-21T21:00:00.529657+00:00",
- "updated": "2026-11-21T21:00:00.529657+00:00",
+ "updated": "2026-11-22T08:53:30.485732+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10168811/picula-i-jos-trojica-hrvata-spremili-u-ep-novu-minu-za-srbiju",
    "title": "SPREMNA NOVA REZOLUCIJA KOMŠIJA! Evroparlamentarci idućeg četvrtka glasaju i o Vukovaru!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673536/ogroman-pritisak-srbiju-evropski-parlament-sprema-rezoluciju-vukovaru-napisali-hrvatski-poslanici",
+   "title": "OGROMAN PRITISAK NA SRBIJU: Evropski parlament sprema rezoluciju o Vukovaru, napisali je hrvatski poslanici",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "SPREMNA NOVA REZOLUCIJA KOMŠIJA! Evroparlamentarci idućeg četvrtka glasaju i o Vukovaru!"
+  "SPREMNA NOVA REZOLUCIJA KOMŠIJA! Evroparlamentarci idućeg četvrtka glasaju i o Vukovaru!",
+  "OGROMAN PRITISAK NA SRBIJU: Evropski parlament sprema rezoluciju o Vukovaru, napisali je hrvatski poslanici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tonino_Picula_MEP.jpg",
   "osoba": "Tonino Picula",
   "alt": "Evropski parlament naredne sedmice glasa o rezoluciji o razaranju Vukovara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-22T08:08:44.591634+00:00",
- "updated": "2026-11-22T08:38:31.634104+00:00",
+ "updated": "2026-11-22T08:53:30.485732+00:00",
  "sources": [
   {
    "name": "N1",
@@ -48,12 +48,40 @@
    "url": "https://www.b92.net/info/hronika/287068/vise-javno-tuzilastvo-u-novom-sadu-o-hapsenju-u-backoj-palanci-i-bacu/vest",
    "title": "VJT u Novom Sadu: \"Uhapšeni osumnjičeni za zloupotrebu službenog položaja u Bačkoj Palanci i Baču\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/299870/vise-javno-tuzilastvo-u-novom-sadu-uhapseni-osumnjiceni-za-zloupotrebu-sluzbenog-polozaja-u-backoj-palanci-i-bacu/vest",
+   "title": "Više javno tužilaštvo u Novom Sadu: Uhapšeni osumnjičeni za zloupotrebu službenog položaja u Bačkoj Palanci i Baču",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/vjt-u-novom-sadu-uhapseni-direktor-pio-fonda-u-backoj-palanci-i-rukovodilac-u-opstinskoj-upravi-bac",
+   "title": "VJT u Novom Sadu: Uhapšeni direktor PIO Fonda u Bačkoj Palanci i rukovodilac u Opštinskoj upravi Bač",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/uhapsen-direktor-pio-fonda-u-backoj-palanci/",
+   "title": "Uhapšen direktor PIO fonda u Bačkoj Palanci",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10169208/uhapsen-direktor-pio-fond-backa-palanka",
+   "title": "UHAPŠEN DIREKTOR PIO FONDA U BAČKOJ PALANCI, PALE JOŠ DVE OSOBE: Prijavili čoveka da radi u fondu, a znali da neće dolaziti na posao",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Uhapšen direktor PIO fonda u Bačkoj Palanci zbog sumnje na zloupotrebu službenog položaja",
   "Prijavili osobu da radi u PIO fondu, a znali da neće dolaziti na posao: Uhapšeno troje u Bačkoj Palanci",
-  "VJT u Novom Sadu: \"Uhapšeni osumnjičeni za zloupotrebu službenog položaja u Bačkoj Palanci i Baču\""
+  "VJT u Novom Sadu: \"Uhapšeni osumnjičeni za zloupotrebu službenog položaja u Bačkoj Palanci i Baču\"",
+  "Više javno tužilaštvo u Novom Sadu: Uhapšeni osumnjičeni za zloupotrebu službenog položaja u Bačkoj Palanci i Baču",
+  "VJT u Novom Sadu: Uhapšeni direktor PIO Fonda u Bačkoj Palanci i rukovodilac u Opštinskoj upravi Bač",
+  "Uhapšen direktor PIO fonda u Bačkoj Palanci",
+  "UHAPŠEN DIREKTOR PIO FONDA U BAČKOJ PALANCI, PALE JOŠ DVE OSOBE: Prijavili čoveka da radi u fondu, a znali da neće dolaziti na posao"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +94,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:St_John_the_Baptist_church_in_Backa_Palanka_(11).jpg",
   "alt": "Uhapšeno troje zbog sumnje na zloupotrebu položaja u PIO fondu i opštini Bač"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T06:39:36.178725+00:00",
- "updated": "2026-11-22T08:38:31.634104+00:00",
+ "updated": "2026-11-22T08:53:30.485732+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,12 +46,19 @@
    "url": "https://n1info.rs/svet/pozar-u-fabrici-slatkisa-u-indoneziji-troje-poginulih/",
    "title": "Požar u fabrici slatkiša u Indoneziji, troje poginulih",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10169199/vatra-guta-fabriku-slatkisa-u-indoneziji-ima-mrtvih-tragaju-za-nestalim-radnicima",
+   "title": "VATRA GUTA FABRIKU SLATKIŠA: Ima mrtvih i povređenih, traga se za desetinama nestalih radnika! Jeziva scena u Indoneziji (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Najmanje tri osobe poginule, četiri povređene, 36 nestalo u požaru u fabrici u Indoneziji",
   "Veliki požar u fabrici; 36 radnika nestalo u buktinji VIDEO",
-  "Požar u fabrici slatkiša u Indoneziji, troje poginulih"
+  "Požar u fabrici slatkiša u Indoneziji, troje poginulih",
+  "VATRA GUTA FABRIKU SLATKIŠA: Ima mrtvih i povređenih, traga se za desetinama nestalih radnika! Jeziva scena u Indoneziji (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "alt": "houses on top of mountain",
   "link": "https://unsplash.com/@rahimsof"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -37,17 +37,31 @@
  ],
  "importance": 6,
  "published": "2026-11-22T07:09:20.461833+00:00",
- "updated": "2026-11-22T07:09:20.461833+00:00",
+ "updated": "2026-11-22T08:53:30.485732+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1673503/fico-upozorio-brisel-zbog-srbije-dozvolite-ponovi-slovacki-scenario-video",
    "title": "FICO UPOZORIO BRISEL ZBOG SRBIJE: Ne dozvolite da se ponovi \"slovački scenario\" (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/fico-zahteva-da-evropska-komisija-prati-situaciju-u-srbiji-jer-se-brine-za-demokratiju-u-njoj/",
+   "title": "Fico zahteva da Evropska komisija prati situaciju u Srbiji jer se brine za demokratiju u njoj",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/fico-digao-uzbunu-zbog-situacije-u-srbiji-vladavina-prava-dolazi-do-svog-kraja-pozvao-evropsku-komisiju-da-reaguje/",
+   "title": "Fico digao uzbunu zbog situacije u Srbiji: „Vladavina prava dolazi do svog kraja“, pozvao Evropsku komisiju da reaguje",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "FICO UPOZORIO BRISEL ZBOG SRBIJE: Ne dozvolite da se ponovi \"slovački scenario\" (VIDEO)"
+  "FICO UPOZORIO BRISEL ZBOG SRBIJE: Ne dozvolite da se ponovi \"slovački scenario\" (VIDEO)",
+  "Fico zahteva da Evropska komisija prati situaciju u Srbiji jer se brine za demokratiju u njoj",
+  "Fico digao uzbunu zbog situacije u Srbiji: „Vladavina prava dolazi do svog kraja“, pozvao Evropsku komisiju da reaguje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +73,7 @@
   "local": false,
   "alt": "row of european union flags",
   "link": "https://unsplash.com/@guillaumeperigois"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
