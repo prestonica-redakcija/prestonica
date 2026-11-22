@@ -29,17 +29,24 @@
  ],
  "importance": 3,
  "published": "2026-11-22T18:33:14.699220+00:00",
- "updated": "2026-11-22T18:33:14.699220+00:00",
+ "updated": "2026-11-22T19:02:59.860400+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/region/300022/madar-vlada-pokrece-program-sanacije-rupa-na-putevima-vredan-vise-od-300-milona-evra/vest",
    "title": "Mađar: Vlada pokreće program sanacije rupa na putevima vredan više od 300 milona evra",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/region/300022/madar-vlada-pokrece-program-sanacije-rupa-na-putevima-vredan-vise-od-300-miliona-evra/vest",
+   "title": "Mađar: Vlada pokreće program sanacije rupa na putevima vredan više od 300 miliona evra",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Mađar: Vlada pokreće program sanacije rupa na putevima vredan više od 300 milona evra"
+  "Mađar: Vlada pokreće program sanacije rupa na putevima vredan više od 300 milona evra",
+  "Mađar: Vlada pokreće program sanacije rupa na putevima vredan više od 300 miliona evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "alt": "A person walks on a broken, uneven brick sidewalk",
   "link": "https://unsplash.com/@regimunandar"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

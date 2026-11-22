@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-22T18:48:03.606578+00:00",
- "updated": "2026-11-22T18:48:03.606578+00:00",
+ "updated": "2026-11-22T19:02:59.860400+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,11 +44,18 @@
    "url": "https://www.kurir.rs/planeta/10169711/nevreme-japan-sneg-klizista-lavine",
    "title": "U JAPANU IZDATA UZBUNA 4. STEPENA: Ekstremni vremenski uslovi paralisali delove zemlje, prete klizišta i lavine, ima i mrtvih (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287210/ekstremni-vremenski-uslovi-zahvatili-delove-japana/vest",
+   "title": "Nevreme paralisalo delove zemlje: Sneg zatrpao puteve, klizišta prete naseljima VIDEO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Ekstremni vremenski uslovi zahvatili delove Japana",
-  "U JAPANU IZDATA UZBUNA 4. STEPENA: Ekstremni vremenski uslovi paralisali delove zemlje, prete klizišta i lavine, ima i mrtvih (VIDEO)"
+  "U JAPANU IZDATA UZBUNA 4. STEPENA: Ekstremni vremenski uslovi paralisali delove zemlje, prete klizišta i lavine, ima i mrtvih (VIDEO)",
+  "Nevreme paralisalo delove zemlje: Sneg zatrpao puteve, klizišta prete naseljima VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "alt": "A wooden clock tower rising from deep snow against a backdrop of snowy mountains",
   "link": "https://unsplash.com/@okanokura"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

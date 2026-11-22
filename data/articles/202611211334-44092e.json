@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T12:34:23.192834+00:00",
- "updated": "2026-11-22T18:48:03.606578+00:00",
+ "updated": "2026-11-22T19:02:59.860400+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -84,6 +84,12 @@
    "url": "https://www.b92.net/info/politika/287215/studentski-pokret-zabrinut-zbog-nacrta-zakona-skupstine-u-pristini-o-kulturnom-nasledju/vest",
    "title": "Studentski pokret zabrinut zbog položaja srpskog kulturnog i verskog nasleđa na KiM",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/studentski-pokret-nacrt-zakona-o-centralnom-inspektoratu-kosovo-spc/",
+   "title": "Studentski pokret: Nacrt zakona o Centralnom inspektoratu može ugroziti nasleđe SPC na Kosovu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -95,7 +101,8 @@
   "STUDENTSKI POKRET UPOZORAVA NA NACRT ZAKONA O KULTURNOM NASLEĐU NA KiM: Izrazili zabrinutost zbog mogućih posledica po srpske svetinje",
   "Studentski pokret zabrinut zbog novog zakona u Prištini: Bez konsultacija sa SPC o zaštiti srpskog kulturnog nasleđa",
   "Studentski pokret zabrinut zbog Nacrta zakona skupštine u Prištini o kulturnom nasleđu",
-  "Studentski pokret zabrinut zbog položaja srpskog kulturnog i verskog nasleđa na KiM"
+  "Studentski pokret zabrinut zbog položaja srpskog kulturnog i verskog nasleđa na KiM",
+  "Studentski pokret: Nacrt zakona o Centralnom inspektoratu može ugroziti nasleđe SPC na Kosovu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -107,6 +114,6 @@
   "local": true,
   "alt": "Eparhija raško-prizrenska traži dopunu kosovskog nacrta zakona o inspektoratu za kulturno nasleđe"
  },
- "novo_od_pisanja": 6,
- "boost": 1.48
+ "novo_od_pisanja": 7,
+ "boost": 1.56
 }

@@ -32,17 +32,24 @@
  ],
  "importance": 5,
  "published": "2026-11-22T16:49:09.323963+00:00",
- "updated": "2026-11-22T16:49:09.323963+00:00",
+ "updated": "2026-11-22T19:02:59.860400+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/svet/marin-le-pen-volodimir-zelenski-poseta-kijev-kampanja/",
    "title": "Marin Le Pen odbila poziv Zelenskog da dođe u Kijev: Ne putujem nigde tokom kampanje za predsedničke izbore u Francuskoj",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/marin-le-pen-odbila-poziv-zelenskog-ne-putujem-nigde-tokom-kampanje-za-predsednicke-izbore-u-francuskoj/",
+   "title": "Marin Le Pen odbila poziv Zelenskog: Ne putujem nigde tokom kampanje za predsedničke izbore u Francuskoj",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Marin Le Pen odbila poziv Zelenskog da dođe u Kijev: Ne putujem nigde tokom kampanje za predsedničke izbore u Francuskoj"
+  "Marin Le Pen odbila poziv Zelenskog da dođe u Kijev: Ne putujem nigde tokom kampanje za predsedničke izbore u Francuskoj",
+  "Marin Le Pen odbila poziv Zelenskog: Ne putujem nigde tokom kampanje za predsedničke izbore u Francuskoj"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "alt": "a man speaking into a microphone in front of a sign",
   "link": "https://unsplash.com/@norbuw"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
