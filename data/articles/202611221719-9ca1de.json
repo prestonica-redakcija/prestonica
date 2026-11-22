@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-22T16:19:22.319931+00:00",
- "updated": "2026-11-22T16:19:22.319931+00:00",
+ "updated": "2026-11-22T21:16:54.701256+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -40,11 +40,18 @@
    "url": "https://insajder.net/prenosimo/devetnaest-osoba-otrovano-ugljen-monoksidom-tokom-bogosluzenja-u-kapeli-u-bavarskoj",
    "title": "Devetnaest osoba otrovano ugljen-monoksidom tokom bogosluženja u kapeli u Bavarskoj",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/299988/nemacka-tokom-mise-u-crkvi-56-osoba-otrovano-ugljen-monoksidom-medu-njima-i-deca/vest",
+   "title": "Nemačka: Tokom mise u crkvi 56 osoba otrovano ugljen-monoksidom, među njima i deca",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Nemačka: Tokom mise u crkvi 19 osoba otrovano ugljen-monoksidom, među njima i deca",
-  "Devetnaest osoba otrovano ugljen-monoksidom tokom bogosluženja u kapeli u Bavarskoj"
+  "Devetnaest osoba otrovano ugljen-monoksidom tokom bogosluženja u kapeli u Bavarskoj",
+  "Nemačka: Tokom mise u crkvi 56 osoba otrovano ugljen-monoksidom, među njima i deca"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "alt": "white and blue ambulance van traveling on road",
   "link": "https://unsplash.com/@jonnicaahill"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

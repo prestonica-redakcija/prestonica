@@ -35,7 +35,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T18:03:23.802504+00:00",
- "updated": "2026-11-22T19:17:53.515801+00:00",
+ "updated": "2026-11-22T21:16:54.701256+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -60,13 +60,20 @@
    "url": "https://insajder.net/prenosimo/americke-obavestajne-sluzbe-istrazuju-navode-o-kineskoj-spijunki-povezanoj-sa-kompanijom-nvidia",
    "title": "Američke obaveštajne službe istražuju navode o kineskoj špijunki povezanoj sa kompanijom Nvidia",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4437744-nvidia-pod-dvostrukim-udarom-skandal-sa-kineskom-spijunkom-istrazuju-obavestajne-sluzbe-i-vlasti-kalifornije",
+   "title": "Nvidia pod dvostrukim udarom: Skandal sa kineskom špijunkom istražuju obaveštajne službe i vlasti Kalifornije",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Obaveštajne službe istražuju kinesku špijunku povezanu sa kompanijom Nvidia",
   "\"Nvidijini čipovi su dragulj\": Obaveštajne službe istražuju kinesku špijunku Alis Huang povezanu sa kompanijom Nvidia",
   "Američka imigraciona služba privela kinesku doktorantkinju sa Prinstona",
-  "Američke obaveštajne službe istražuju navode o kineskoj špijunki povezanoj sa kompanijom Nvidia"
+  "Američke obaveštajne službe istražuju navode o kineskoj špijunki povezanoj sa kompanijom Nvidia",
+  "Nvidia pod dvostrukim udarom: Skandal sa kineskom špijunkom istražuju obaveštajne službe i vlasti Kalifornije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -79,6 +86,6 @@
   "alt": "teal LED panel",
   "link": "https://unsplash.com/@adigold1"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -34,17 +34,24 @@
  ],
  "importance": 6,
  "published": "2026-11-22T21:02:03.541905+00:00",
- "updated": "2026-11-22T21:02:03.541905+00:00",
+ "updated": "2026-11-22T21:16:54.701256+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/kusner-poverenje-izmedu-rusije-i-nato-a-kljucno-za-buduci-evropski-bezbednosni-okvir",
    "title": "Kušner: Poverenje između Rusije i NATO-a ključno za budući evropski bezbednosni okvir",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/300046/kusner-poverenje-izmedu-rusije-i-nato-kljucno-za-buduci-evropski-bezbednosni-okvir/vest",
+   "title": "Kušner: Poverenje između Rusije i NATO ključno za budući evropski bezbednosni okvir",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Kušner: Poverenje između Rusije i NATO-a ključno za budući evropski bezbednosni okvir"
+  "Kušner: Poverenje između Rusije i NATO-a ključno za budući evropski bezbednosni okvir",
+  "Kušner: Poverenje između Rusije i NATO ključno za budući evropski bezbednosni okvir"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "alt": "group of people walking straight during daytime",
   "link": "https://unsplash.com/@klausswright"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

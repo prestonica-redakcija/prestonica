@@ -26,7 +26,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T16:04:27.490938+00:00",
- "updated": "2026-11-22T18:48:03.606578+00:00",
+ "updated": "2026-11-22T21:16:54.701256+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -75,6 +75,12 @@
    "url": "https://insajder.net/prenosimo/napad-nozem-u-garazi-tc-galerija-devojka-sa-teskim-povredama-u-urgentnom-centru",
    "title": "Napad nožem u garaži TC Galerija: Devojka sa teškim povredama prevezena u Urgentnom centru",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4437748-poznat-identitet-aktera-drame-u-galeriji-jurio-je-bivsu-izmedju-kola-kao-na-filmu-a-nosio-je-i-ovo",
+   "title": "Novi detalji užasa u „Galeriji“: Otkriven identitet muškarca koji je bivšu jurio sa pištoljem i nožem!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -85,7 +91,8 @@
   "Otkriveno ko je muškarac koji je izbo ženu u Galeriji: Detalji krvave drame, imao i vatreno oružje kod sebe",
   "Devojka teško povređena u napadu u garaži tržnog centra \"Galerija\"",
   "U garaži TC Galerija izbodena devojka",
-  "Napad nožem u garaži TC Galerija: Devojka sa teškim povredama prevezena u Urgentnom centru"
+  "Napad nožem u garaži TC Galerija: Devojka sa teškim povredama prevezena u Urgentnom centru",
+  "Novi detalji užasa u „Galeriji“: Otkriven identitet muškarca koji je bivšu jurio sa pištoljem i nožem!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -97,8 +104,8 @@
   "local": true,
   "alt": "Napad nožem u garaži tržnog centra Galerija u Beogradu, povređena devojka"
  },
- "novo_od_pisanja": 2,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-22T18:03:23.802504+00:00",
  "verzija": 2
 }
