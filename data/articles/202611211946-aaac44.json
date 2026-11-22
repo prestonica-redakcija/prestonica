@@ -28,17 +28,24 @@
  ],
  "importance": 3,
  "published": "2026-11-21T18:46:04.223189+00:00",
- "updated": "2026-11-21T18:46:04.223189+00:00",
+ "updated": "2026-11-22T06:09:55.654792+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/srbija/10169017/granicni-prelazi-zadrzavanja-za-teretna-vozila",
    "title": "HAOS NA PRELAZU SA HRVATSKOM! Čeka se čak PET SATI, a evo kakva je situacija na ostalim granicama i ko prolazi bez zadržavanja",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/299839/kamioni-na-batrovcima-cekaju-cetiri-sata-putnicka-vozila-bez-zadrzavanja-na-granici/vest",
+   "title": "Kamioni na Batrovcima čekaju četiri sata, putnička vozila bez zadržavanja na granici",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "HAOS NA PRELAZU SA HRVATSKOM! Čeka se čak PET SATI, a evo kakva je situacija na ostalim granicama i ko prolazi bez zadržavanja"
+  "HAOS NA PRELAZU SA HRVATSKOM! Čeka se čak PET SATI, a evo kakva je situacija na ostalim granicama i ko prolazi bez zadržavanja",
+  "Kamioni na Batrovcima čekaju četiri sata, putnička vozila bez zadržavanja na granici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Sremska_Ra%C4%8Da_0011_(7).jpg",
   "alt": "AMSS: Kamioni na Batrovcima čekaju oko pet sati, na putničkim terminalima nema dužih zadržavanja"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
