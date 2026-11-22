@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T08:38:31.634104+00:00",
- "updated": "2026-11-22T09:23:03.769086+00:00",
+ "updated": "2026-11-22T09:52:49.543813+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -41,11 +41,25 @@
    "url": "https://www.kurir.rs/vesti/politika/10169232/ana-brnabic-dete-pretnje",
    "title": "ANA BRNABIĆ OBJAVILA DA JE DOBILA MONSTRUOZNE PRETNJE: \"Objavili ste naše brojeve telefona i pozvali vaše bolesnike da nam pišu, da nas vređaju, da nam prete\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4437473-ana-brnabic-u-toku-noci-dobila-pretnje-upucene-mom-detetu",
+   "title": "Ana Brnabić: U toku noći dobila pretnje upućene mom detetu",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/287093/ana-brnabic-dobila-pretnje/vest",
+   "title": "Brnabić navodi da je dobila pretnje: \"Pozvali ste ih da nam pišu i vređaju nas\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Dete će ti biti zaklano na Terazijama! Monstruozne pretnje upućene Ani Brnabić: Evo dokle nas je dovela propaganda studentskih svedoka i njihovih medija (FOTO)",
-  "ANA BRNABIĆ OBJAVILA DA JE DOBILA MONSTRUOZNE PRETNJE: \"Objavili ste naše brojeve telefona i pozvali vaše bolesnike da nam pišu, da nas vređaju, da nam prete\""
+  "ANA BRNABIĆ OBJAVILA DA JE DOBILA MONSTRUOZNE PRETNJE: \"Objavili ste naše brojeve telefona i pozvali vaše bolesnike da nam pišu, da nas vređaju, da nam prete\"",
+  "Ana Brnabić: U toku noći dobila pretnje upućene mom detetu",
+  "Brnabić navodi da je dobila pretnje: \"Pozvali ste ih da nam pišu i vređaju nas\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +72,6 @@
   "alt": "selective focus photography of person using smartphone",
   "link": "https://unsplash.com/@freestocks"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
