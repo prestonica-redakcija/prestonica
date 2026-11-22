@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T20:15:28.244701+00:00",
- "updated": "2026-11-22T14:20:20.657596+00:00",
+ "updated": "2026-11-22T14:35:12.818779+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -92,6 +92,12 @@
    "url": "https://n1info.rs/vesti/er-srbija-zbog-strajka-na-aerodromu-u-briselu-otkazan-let/",
    "title": "Er Srbija: Zbog štrajka na aerodromu u Briselu otkazan let",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10169524/otkazan-let-er-srbije-za-brisel-23-novembra",
+   "title": "Er Srbija: Zbog štrajka na aerodromu u Briselu 23. novembra otkazan let između Beograda i Brisela",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -104,7 +110,8 @@
   "Zbog nacionalnog štrajka u Belgiji će sutra biti otkazani skoro svi letovi",
   "Zbog nacionalnog štrajka u Belgiji sutra otkazani skoro svi letovi",
   "Sutra se u Belgiji otkazuju gotovo svi letovi: „Posledice će biti katastrofalne“",
-  "Er Srbija: Zbog štrajka na aerodromu u Briselu otkazan let"
+  "Er Srbija: Zbog štrajka na aerodromu u Briselu otkazan let",
+  "Er Srbija: Zbog štrajka na aerodromu u Briselu 23. novembra otkazan let između Beograda i Brisela"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -116,8 +123,8 @@
   "local": true,
   "alt": "Belgija: letovi na aerodromima otkazani u ponedeljak zbog protesta sindikata"
  },
- "novo_od_pisanja": 2,
- "boost": 1.56,
+ "novo_od_pisanja": 3,
+ "boost": 1.6,
  "prepisano": "2026-11-22T11:07:07.969418+00:00",
  "verzija": 2
 }

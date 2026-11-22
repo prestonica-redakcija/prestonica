@@ -34,17 +34,24 @@
  ],
  "importance": 5,
  "published": "2026-11-21T17:16:47.608264+00:00",
- "updated": "2026-11-21T17:16:47.608264+00:00",
+ "updated": "2026-11-22T14:35:12.818779+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/matematicar-stojan-radenovic-za-danas-izmisljanja-o-mojim-citatima-pocinju-cim-me-primio-aleksandar-u-skupstini/",
    "title": "Matematičar Stojan Radenović za Danas: Izmišljanja o mojim citatima počinju čim me primio Aleksandar u Skupštini",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/radenovic-za-danas-iz-sns-a-su-mi-nudili-mesto-u-vladi-ali-sam-zeleo-vise-da-doprinesem-matematici/",
+   "title": "Radenović za Danas: Iz SNS-a su mi nudili mesto u Vladi, ali sam želeo više da doprinesem matematici",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Matematičar Stojan Radenović za Danas: Izmišljanja o mojim citatima počinju čim me primio Aleksandar u Skupštini"
+  "Matematičar Stojan Radenović za Danas: Izmišljanja o mojim citatima počinju čim me primio Aleksandar u Skupštini",
+  "Radenović za Danas: Iz SNS-a su mi nudili mesto u Vladi, ali sam želeo više da doprinesem matematici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "alt": "Novi Sad, Serbia",
   "link": "https://unsplash.com/@lazargugleta"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

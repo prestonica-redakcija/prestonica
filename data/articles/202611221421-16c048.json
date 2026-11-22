@@ -31,17 +31,24 @@
  ],
  "importance": 4,
  "published": "2026-11-22T13:21:02.390418+00:00",
- "updated": "2026-11-22T13:21:02.390418+00:00",
+ "updated": "2026-11-22T14:35:12.818779+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/svet/vukanovic-dodik-dinastija/",
    "title": "Vukanović: Srbi su dobili novu dinastiju Dodik",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/vukanovic-srbi-dobili-novu-dinastiju-dodik-ostaje-da-se-vidi-da-li-ce-i-princeza-gorica-dobiti-neki-resor/",
+   "title": "Vukanović: Srbi dobili novu dinastiju Dodik, ostaje da se vidi da li će i princeza Gorica dobiti neki resor",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Vukanović: Srbi su dobili novu dinastiju Dodik"
+  "Vukanović: Srbi su dobili novu dinastiju Dodik",
+  "Vukanović: Srbi dobili novu dinastiju Dodik, ostaje da se vidi da li će i princeza Gorica dobiti neki resor"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "alt": "Grand building reflected in a calm pool of water",
   "link": "https://unsplash.com/@zoshuacolah"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
