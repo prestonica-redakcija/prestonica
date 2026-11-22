@@ -23,7 +23,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T04:08:32.062947+00:00",
- "updated": "2026-11-21T13:34:37.465012+00:00",
+ "updated": "2026-11-22T04:11:04.235882+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -36,11 +36,18 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/251376/nbs-srednji-kurs-dinara-za-evro-1176305/vest",
    "title": "Zvanični srednji kurs evra danas 117,63 dinara",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/novac/253087/kurs-dinara-od-ponedeljka-evo-koliko-vrede-evro-i-dolar/vest",
+   "title": "Koliko će u ponedeljak iznositi srednji kurs dinara za evro?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Srednji kurs dinara za evro u ponedeljak 117,6491 dinar",
-  "Zvanični srednji kurs evra danas 117,63 dinara"
+  "Zvanični srednji kurs evra danas 117,63 dinara",
+  "Koliko će u ponedeljak iznositi srednji kurs dinara za evro?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,6 +59,6 @@
   "local": true,
   "alt": "Srednji kurs dinara za evro u ponedeljak 117,6491, NBS beleži neznatnu promenu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
