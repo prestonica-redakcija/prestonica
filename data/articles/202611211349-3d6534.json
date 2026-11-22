@@ -25,7 +25,7 @@
  ],
  "importance": 2,
  "published": "2026-11-21T12:49:17.166980+00:00",
- "updated": "2026-11-21T12:49:17.166980+00:00",
+ "updated": "2026-11-22T05:10:29.125942+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -38,11 +38,18 @@
    "url": "https://www.b92.net/info/svet/286917/autobus-izleteo-na-trotoar-u-seulu-sest-osoba-povredjeno/vest",
    "title": "Haos u Seulu: Autobus izleteo na trotoar, ima povređenih FOTO",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10168818/autobus-izleteo-na-trotoar-u-seulu-sest-osoba-povredjeno",
+   "title": "AUTOBUS IZLETEO NA TROTOAR! Povređeno šest osoba, za dlaku izbegnuta velika tragedija u Seulu!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Autobus izleteo na trotoar u Seulu, šest osoba povređeno",
-  "Haos u Seulu: Autobus izleteo na trotoar, ima povređenih FOTO"
+  "Haos u Seulu: Autobus izleteo na trotoar, ima povređenih FOTO",
+  "AUTOBUS IZLETEO NA TROTOAR! Povređeno šest osoba, za dlaku izbegnuta velika tragedija u Seulu!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Autobus u Seulu izleteo na trotoar, šest osoba povređeno, bez poginulih"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.telegraf.rs/4434291-danas-konstitutivna-sednica-novog-saziva-skupstine-srbije": "2026-11-17T05:05:32.541773+00:00",
-  "https://www.kurir.rs/vesti/beograd/10163353/bez-struje-danas-u-beogradu": "2026-11-17T05:05:32.541773+00:00",
   "https://www.euronews.rs/biznis/privreda/252328/promet-u-industriji-u-septembru-2026-porastao-201-odsto/vest": "2026-11-17T05:35:20.680095+00:00",
   "https://www.telegraf.rs/vesti/srbija/4434299-kamioni-na-izlazu-iz-srbije-cekaju-do-sedam-sati-putnicki-terminali-bez-zadrzavanja": "2026-11-17T05:50:12.214480+00:00",
   "https://www.tanjug.rs/srbija/politika/298095/danas-konstitutivna-sednica-novog-saziva-skupstine-srbije/vest": "2026-11-17T06:04:56.933572+00:00",
@@ -6871,18 +6869,14 @@
   "https://www.euronews.rs/biznis/novac/253087/kurs-dinara-od-ponedeljka-evo-koliko-vrede-evro-i-dolar/vest": "2026-11-22T04:11:04.235882+00:00",
   "https://www.telegraf.rs/vesti/srbija/4437302-pre-podne-suvo-posle-podne-zahladjenje-sa-padavinama-temperatura-do-19": "2026-11-22T04:25:56.495004+00:00",
   "https://www.kurir.rs/vesti/srbija/10168796/svetski-dan-deteta-interaktivni-koncert-za-malisane": "2026-11-22T04:25:56.495004+00:00",
-  "https://www.kurir.rs/zabava/zena/10168345/domacice-otkrile-caku-za-pakovanje-pecenih-paprika": "2026-11-22T04:40:46.907570+00:00"
+  "https://www.kurir.rs/zabava/zena/10168345/domacice-otkrile-caku-za-pakovanje-pecenih-paprika": "2026-11-22T04:40:46.907570+00:00",
+  "https://www.kurir.rs/planeta/10168818/autobus-izleteo-na-trotoar-u-seulu-sest-osoba-povredjeno": "2026-11-22T05:10:29.125942+00:00",
+  "https://www.kurir.rs/stars/10101284/ceca-raznatovic-na-imanju-na-kipru-ima-kapelu": "2026-11-22T05:10:29.125942+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-21T14:24+00:00",
-   "novih": 1,
-   "ukupno": 3394,
-   "sekundi": 390.2
-  },
   {
    "vreme": "2026-11-21T14:41+00:00",
    "novih": 1,
@@ -7236,6 +7230,12 @@
    "novih": 0,
    "ukupno": 3507,
    "sekundi": 322.2
+  },
+  {
+   "vreme": "2026-11-22T05:14+00:00",
+   "novih": 0,
+   "ukupno": 3507,
+   "sekundi": 268.2
   }
  ],
  "licnosti_foto": {
@@ -56585,7 +56585,8 @@
    "202611211816-db0c42",
    "202611211846-024995",
    "202611212259-0f421c",
-   "202611212259-310ac7"
+   "202611212259-310ac7",
+   "202611220043-2734d9"
   ],
   "istorija": [
    {
@@ -57151,6 +57152,12 @@
     "id": "202611212259-310ac7",
     "x": "2124287813734506903",
     "link": true
+   },
+   {
+    "t": 1795324249.1840572,
+    "id": "202611220043-2734d9",
+    "x": "2124369989062861155",
+    "link": false
    }
   ],
   "ankete": {
@@ -60431,7 +60438,7 @@
   "yt": "Hdk3ahufa64",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-22T04:56:19.051227+00:00",
+  "provereno": "2026-11-22T05:10:56.934575+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": true
  },
