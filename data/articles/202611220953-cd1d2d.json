@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T08:53:30.485732+00:00",
- "updated": "2026-11-22T08:53:30.485732+00:00",
+ "updated": "2026-11-22T12:21:28.471038+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -38,11 +38,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4437443-bacen-molotovljev-kotel-na-poznati-restoran-na-senjaku-radnik-obezbedjenja-bio-u-lokalu",
    "title": "Bačen Molotovljev kotel na poznati restoran na Senjaku: Radnik obezbeđenja bio u lokalu!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/na-restoran-na-senjaku-jutros-bacen-molotovljev-koktel/",
+   "title": "Na restoran na Senjaku jutros bačen Molotovljev koktel",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "DRAMA ZOROM NA SENJAKU: Na poznati restoran bačen Molotovljev koktel",
-  "Bačen Molotovljev kotel na poznati restoran na Senjaku: Radnik obezbeđenja bio u lokalu!"
+  "Bačen Molotovljev kotel na poznati restoran na Senjaku: Radnik obezbeđenja bio u lokalu!",
+  "Na restoran na Senjaku jutros bačen Molotovljev koktel"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "alt": "yellow police tape",
   "link": "https://unsplash.com/@muukii"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

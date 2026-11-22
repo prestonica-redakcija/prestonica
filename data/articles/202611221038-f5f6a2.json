@@ -28,17 +28,24 @@
  ],
  "importance": 4,
  "published": "2026-11-22T09:38:00.767363+00:00",
- "updated": "2026-11-22T09:38:00.767363+00:00",
+ "updated": "2026-11-22T12:21:28.471038+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/trziste-nekretnina-na-novom-beogradu-zasto-je-razlika-u-cenama-izmedju-blokova-i-do-2500-evra/",
    "title": "Tržište nekretnina na Novom Beogradu: Zašto je razlika u cenama između blokova i do 2.500 evra?",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/trziste-nekretnina-najdinamicnije-na-novom-beogradu-zasto-je-razlika-u-cenama-izmedju-blokova-i-do-2-500-evra/",
+   "title": "Tržište nekretnina najdinamičnije na Novom Beogradu: Zašto je razlika u cenama između blokova i do 2.500 evra?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Tržište nekretnina na Novom Beogradu: Zašto je razlika u cenama između blokova i do 2.500 evra?"
+  "Tržište nekretnina na Novom Beogradu: Zašto je razlika u cenama između blokova i do 2.500 evra?",
+  "Tržište nekretnina najdinamičnije na Novom Beogradu: Zašto je razlika u cenama između blokova i do 2.500 evra?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Novi Beograd: prosečne cene stanova od 2.450 do skoro 5.000 evra po kvadratu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
