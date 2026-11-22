@@ -36,7 +36,7 @@
  ],
  "importance": 6,
  "published": "2026-11-22T17:48:30.260617+00:00",
- "updated": "2026-11-22T17:48:30.260617+00:00",
+ "updated": "2026-11-22T19:32:49.854425+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -49,11 +49,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4437659-putin-popustio-pristaje-na-bezbednosne-garancije-za-ukrajinu-ali-postavlja-kljucni-uslov",
    "title": "Putin popustio! Pristaje na bezbednosne garancije za Ukrajinu, ali postavlja ključni uslov",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287223/wp-putin-pristao-na-garancije-za-ukrajinu-i-postavio-uslov-za-nato-i-sad/vest",
+   "title": "Putin je pristao? Postavio uslove za NATO i SAD",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "PUTIN KONAČNO PRISTAO? Vašington post: Putin saglasan da Ukrajina dobije bezbednosne garancije po modelu NATO-a",
-  "Putin popustio! Pristaje na bezbednosne garancije za Ukrajinu, ali postavlja ključni uslov"
+  "Putin popustio! Pristaje na bezbednosne garancije za Ukrajinu, ali postavlja ključni uslov",
+  "Putin je pristao? Postavio uslove za NATO i SAD"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,5 +72,7 @@
   "local": false,
   "alt": "a group of people standing around each other",
   "link": "https://unsplash.com/@patrikvelich"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

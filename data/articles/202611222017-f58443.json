@@ -30,16 +30,23 @@
  ],
  "importance": 4,
  "published": "2026-11-22T19:17:53.515801+00:00",
- "updated": "2026-11-22T19:17:53.515801+00:00",
+ "updated": "2026-11-22T19:32:49.854425+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/ekonomija/sad-objasnjenja-nvidija-prodaja-cipova-kini/",
    "title": "SAD traže objašnjenja od Nvidije o prodaji čipova Kini",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/sad-traze-objasnjenja-od-nvidije-o-prodaji-cipova-kini/",
+   "title": "SAD traže objašnjenja od Nvidije o prodaji čipova Kini",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "SAD traže objašnjenja od Nvidije o prodaji čipova Kini",
   "SAD traže objašnjenja od Nvidije o prodaji čipova Kini"
  ],
  "author": "Redakcija Prestonice",
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "macro photography of black circuit board",
   "link": "https://unsplash.com/@alexkixa"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
