@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T16:02:36.259840+00:00",
- "updated": "2026-11-21T23:13:49.161664+00:00",
+ "updated": "2026-11-22T05:40:12.422336+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -65,6 +65,12 @@
    "url": "https://www.telegraf.rs/vesti/svet/4437406-albanija-demonstranti-ispred-kancelarije-edija-rame-nakon-marsa-ulicama-tirane",
    "title": "Albanija: Demonstranti ispred kancelarije Edija Rame, nakon marša ulicama Tirane",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/253081/indijski-kongres-najavio-nove-proteste-protiv-mete/vest",
+   "title": "Omladina indijskog Kongresa najavila nove proteste protiv Mete nakon sukoba sa policijom i upada u kancelarije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -73,7 +79,8 @@
   "Novi protesti u Tirani; Studenti i građani ne odustaju – traže ostavku Edija Rame FOTO/VIDEO",
   "Albanija: Demonstranti ispred kancelarije Edija Rame, nakon marša ulicama Tirane",
   "Novi protesti u Tirani: Demonstranti ispred kancelarije Edija Rame VIDEO",
-  "Albanija: Demonstranti ispred kancelarije Edija Rame, nakon marša ulicama Tirane"
+  "Albanija: Demonstranti ispred kancelarije Edija Rame, nakon marša ulicama Tirane",
+  "Omladina indijskog Kongresa najavila nove proteste protiv Mete nakon sukoba sa policijom i upada u kancelarije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -87,8 +94,8 @@
   "osoba": "Edi Rama",
   "alt": "Novi protest u Tirani: demonstranti traže ostavku Edija Rame, policija blokirala Ulicu Drač"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-21T23:13:49.161664+00:00",
  "verzija": 2
 }
