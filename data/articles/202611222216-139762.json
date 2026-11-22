@@ -28,17 +28,24 @@
  ],
  "importance": 5,
  "published": "2026-11-22T21:16:54.701256+00:00",
- "updated": "2026-11-22T21:16:54.701256+00:00",
+ "updated": "2026-11-22T23:00:49.016868+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/ekonomija/jokic-gsp-troskovi-prevoznika/",
    "title": "Jokić (GSP): Grad da objavi podatke o troškovima i obavezama prevoznika",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/sindikat-gsp-zaustaviti-povecanje-cena-privatnim-prevoznicima/",
+   "title": "Sindikat GSP-a \"Beograd\" traži da se zaustavi povećanje cena privatnim prevoznicima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Jokić (GSP): Grad da objavi podatke o troškovima i obavezama prevoznika"
+  "Jokić (GSP): Grad da objavi podatke o troškovima i obavezama prevoznika",
+  "Sindikat GSP-a \"Beograd\" traži da se zaustavi povećanje cena privatnim prevoznicima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Solaris_Urbino_18_GSP_Beograd_3090_77.jpg",
   "alt": "Sindikat GSP traži da odbornici ne odobre veće cene za privatne prevoznike"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

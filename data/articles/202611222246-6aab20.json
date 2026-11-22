@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T21:46:37.641049+00:00",
- "updated": "2026-11-22T21:46:37.641049+00:00",
+ "updated": "2026-11-22T23:00:49.016868+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,11 +48,18 @@
    "url": "https://insajder.net/prenosimo/szo-borbe-u-blizini-podrucja-zahvacenih-ebolom-u-kongu-ometaju-suzbijanje-epidemije",
    "title": "SZO: Borbe u blizini područja zahvaćenih ebolom u Kongu ometaju suzbijanje epidemije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/253227/napadi-sirom-istocnog-konga-pojacani-od-kraja-oktobra/vest",
+   "title": "SZO: Borbe u blizini područja zahvaćenih ebolom u Kongu ometaju suzbijanje epidemije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "SZO: Borbe u blizini područja zahvaćenih ebolom u Demokratskoj Republici Kongo ometaju suzbijanje epidemije",
   "Šef SZO: Sukob u blizini mesta zahvaćenog ebolom u Kongu ometa napore za suzbijanje epidemije",
+  "SZO: Borbe u blizini područja zahvaćenih ebolom u Kongu ometaju suzbijanje epidemije",
   "SZO: Borbe u blizini područja zahvaćenih ebolom u Kongu ometaju suzbijanje epidemije"
  ],
  "author": "Redakcija Prestonice",
@@ -64,5 +71,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "SZO: borbe kod bolnice u Ituriju ometaju suzbijanje ebole u Kongu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
