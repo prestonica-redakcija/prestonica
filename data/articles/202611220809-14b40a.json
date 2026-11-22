@@ -28,17 +28,24 @@
  ],
  "importance": 4,
  "published": "2026-11-22T07:09:20.461833+00:00",
- "updated": "2026-11-22T07:09:20.461833+00:00",
+ "updated": "2026-11-22T08:08:44.591634+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/energetska-pica-srbija-zabrana-za-maloletne-hrvatska/",
    "title": "Hrvatska zabranjuje energetska pića za maloletne - kakva je situacija u Srbiji",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/hrvatsko-ministarstvo-zdravlja-uskoro-ce-maloletnima-potpuno-zabraniti-kupovinu-i-konzumaciju-energetskih-pica-kakva-je-situacija-u-srbiji/",
+   "title": "Hrvatsko Ministarstvo zdravlja uskoro će maloletnima potpuno zabraniti kupovinu i konzumaciju energetskih pića: Kakva je situacija u Srbiji?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Hrvatska zabranjuje energetska pića za maloletne - kakva je situacija u Srbiji"
+  "Hrvatska zabranjuje energetska pića za maloletne - kakva je situacija u Srbiji",
+  "Hrvatsko Ministarstvo zdravlja uskoro će maloletnima potpuno zabraniti kupovinu i konzumaciju energetskih pića: Kakva je situacija u Srbiji?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "alt": "a shelf with many cans of beer on it",
   "link": "https://unsplash.com/@tbonz"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

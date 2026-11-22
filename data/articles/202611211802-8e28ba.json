@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T17:02:01.835105+00:00",
- "updated": "2026-11-21T17:02:01.835105+00:00",
+ "updated": "2026-11-22T08:08:44.591634+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -44,11 +44,18 @@
    "url": "https://www.kurir.rs/vesti/politika/10168955/princ-filip-ugostio-predstavnike-studentskog-pokreta-u-kraljevskom-dvoru",
    "title": "PRINC FILIP UGOSTIO PREDSTAVNIKE STUDENTSKOG POKRETA U KRALJEVSKOM DVORU: \"Generacija koja je ispisala novu stranicu srpske istorije\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/princ-filip-karadjordjevic-ugostio-predstavnike-studentskog-pokreta-kraljevski-dvor-sa-ponosom-im-je-otvorio-vrata/",
+   "title": "Princ Filip Karađorđević ugostio predstavnike Studentskog pokreta: Kraljevski dvor sa ponosom im je otvorio vrata",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Princ Filip ugostio predstavnike Studentskog pokreta",
-  "PRINC FILIP UGOSTIO PREDSTAVNIKE STUDENTSKOG POKRETA U KRALJEVSKOM DVORU: \"Generacija koja je ispisala novu stranicu srpske istorije\""
+  "PRINC FILIP UGOSTIO PREDSTAVNIKE STUDENTSKOG POKRETA U KRALJEVSKOM DVORU: \"Generacija koja je ispisala novu stranicu srpske istorije\"",
+  "Princ Filip Karađorđević ugostio predstavnike Studentskog pokreta: Kraljevski dvor sa ponosom im je otvorio vrata"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Kraljevski_dvor.jpg",
   "alt": "Princ Filip u Kraljevskom dvoru ugostio predstavnike Studentskog pokreta"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -36,7 +36,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T22:14:14.547465+00:00",
- "updated": "2026-11-22T06:24:50.675388+00:00",
+ "updated": "2026-11-22T08:08:44.591634+00:00",
  "sources": [
   {
    "name": "B92",
@@ -55,12 +55,19 @@
    "url": "https://www.tanjug.rs/svet/politika/299836/tramp-objavio-fotografije-susreta-sa-putinom-i-si-dinpingom-u-senzenu-moj-prijatelj/vest",
    "title": "Tramp objavio fotografije susreta sa Putinom i Si Đinpingom u Šenženu: Moj prijatelj",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/253127/tramp-objavio-fotografije-sa-putinom-i-sijem-sa-apec-a/vest",
+   "title": "\"Moji prijatelji\": Tramp objavio fotografije susreta sa Putinom i Si Đinpingom u Šenženu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Nova objava Trampa: Poruka svetu? FOTO",
   "\"PRIJATELJI\" Tramp objavio fotografije sa Putinom i Si Đinpingom, uz emotivne komentare (FOTO)",
-  "Tramp objavio fotografije susreta sa Putinom i Si Đinpingom u Šenženu: Moj prijatelj"
+  "Tramp objavio fotografije susreta sa Putinom i Si Đinpingom u Šenženu: Moj prijatelj",
+  "\"Moji prijatelji\": Tramp objavio fotografije susreta sa Putinom i Si Đinpingom u Šenženu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,6 +81,6 @@
   "osoba": "Donald Tramp",
   "alt": "Tramp objavio fotografiju sa Putinom uz natpis „moj prijatelj\" posle samita u Šenženu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
