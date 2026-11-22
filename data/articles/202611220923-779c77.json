@@ -28,16 +28,23 @@
  ],
  "importance": 5,
  "published": "2026-11-22T08:23:46.278784+00:00",
- "updated": "2026-11-22T08:23:46.278784+00:00",
+ "updated": "2026-11-22T09:23:03.769086+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/sta-predvidja-program-studentske-liste-o-socijalnoj-zastiti/",
    "title": "Program Studentske liste o socijalnoj zaštiti: Veći dečji dodatak, socijalne penzije i nova prava za roditelje-negovatelje",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/program-studentske-liste-o-socijalnoj-zastiti/",
+   "title": "Program Studentske liste o socijalnoj zaštiti: Veći dečji dodatak, socijalne penzije i nova prava za roditelje-negovatelje",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Program Studentske liste o socijalnoj zaštiti: Veći dečji dodatak, socijalne penzije i nova prava za roditelje-negovatelje",
   "Program Studentske liste o socijalnoj zaštiti: Veći dečji dodatak, socijalne penzije i nova prava za roditelje-negovatelje"
  ],
  "author": "Redakcija Prestonice",
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Studentska lista najavljuje veći dečji dodatak i socijalne penzije"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

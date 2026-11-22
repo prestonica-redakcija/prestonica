@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T09:08:11.102597+00:00",
- "updated": "2026-11-22T09:08:11.102597+00:00",
+ "updated": "2026-11-22T09:23:03.769086+00:00",
  "sources": [
   {
    "name": "B92",
@@ -40,11 +40,18 @@
    "url": "https://www.kurir.rs/planeta/10169179/ukrajinski-dronovi-pogodili-objekat-ruske-nacionalne-garde-u-krasnodaru",
    "title": "POGOĐENO SEDIŠTE RUSKE NACIONALNE GARDE U KRASNODARU! Objavljeni snimci novog ukrajinskog napada, čule se jake eksplozije, obustavljeni letovi! (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299876/u-napadu-ukrajinskih-dronova-u-krasnodarskom-kraju-povredeno-pet-osoba/vest",
+   "title": "U napadu ukrajinskih dronova u Krasnodarskom kraju povređeno pet osoba",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Brutalni napadi; Rusi srušili celu zgradu; Ukrajina pogodila skladište ruske Nacionalne garde VIDEO",
-  "POGOĐENO SEDIŠTE RUSKE NACIONALNE GARDE U KRASNODARU! Objavljeni snimci novog ukrajinskog napada, čule se jake eksplozije, obustavljeni letovi! (VIDEO)"
+  "POGOĐENO SEDIŠTE RUSKE NACIONALNE GARDE U KRASNODARU! Objavljeni snimci novog ukrajinskog napada, čule se jake eksplozije, obustavljeni letovi! (VIDEO)",
+  "U napadu ukrajinskih dronova u Krasnodarskom kraju povređeno pet osoba"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "alt": "view of city at night",
   "link": "https://unsplash.com/@kevinbosc"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

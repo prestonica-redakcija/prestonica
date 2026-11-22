@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T20:45:05.557630+00:00",
- "updated": "2026-11-21T21:00:00.529657+00:00",
+ "updated": "2026-11-22T09:23:03.769086+00:00",
  "sources": [
   {
    "name": "N1",
@@ -52,13 +52,20 @@
    "url": "https://nova.rs/vesti/svet/jedna-osoba-poginula-vise-povredjenih-u-sudaru-autobusa-i-automobila-u-brckom/",
    "title": "Jedna osoba poginula, više povređenih u sudaru autobusa i automobila u Brčkom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10169223/poginuo-kuvar-dragan-cvetkovic",
+   "title": "POZNATI BEOGRADSKI KUVAR POGINUO U TEŠKOJ NESREĆI NA ŽABLJAKU: Nastradao u sudaru sa autobusom",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Jedna osoba poginula, više povređenih u sudaru autobusa i automobila u Brčkom",
   "Jedna osoba poginula, više povređenih u sudaru autobusa i automobila u Brčkom",
   "TEŠKA NESREĆA U BRČKOM: Jedna osoba poginula u sudaru autobusa i automobila, više povređenih",
-  "Jedna osoba poginula, više povređenih u sudaru autobusa i automobila u Brčkom"
+  "Jedna osoba poginula, više povređenih u sudaru autobusa i automobila u Brčkom",
+  "POZNATI BEOGRADSKI KUVAR POGINUO U TEŠKOJ NESREĆI NA ŽABLJAKU: Nastradao u sudaru sa autobusom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,6 @@
   "alt": "a police car driving down a street at night",
   "link": "https://unsplash.com/@abject"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
