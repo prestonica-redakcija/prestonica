@@ -27,17 +27,31 @@
  ],
  "importance": 3,
  "published": "2026-11-22T07:39:05.269016+00:00",
- "updated": "2026-11-22T07:39:05.269016+00:00",
+ "updated": "2026-11-22T07:53:59.172887+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/amss-guzve-na-putevima-moguce-popodne-nema-cekanja-na-granicama",
    "title": "AMSS: Gužve na putevima moguće popodne, nema čekanja na granicama",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/amss-guzve-na-putevima-moguce-popodne-nema-cekanja-na-granicama/",
+   "title": "AMSS: Gužve na putevima moguće popodne, nema čekanja na granicama",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10169171/amss-guzve-na-putevima-moguce-po-podne",
+   "title": "AMSS: Gužve na putevima moguće po podne, nema čekanja na granicama",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "AMSS: Gužve na putevima moguće popodne, nema čekanja na granicama"
+  "AMSS: Gužve na putevima moguće popodne, nema čekanja na granicama",
+  "AMSS: Gužve na putevima moguće popodne, nema čekanja na granicama",
+  "AMSS: Gužve na putevima moguće po podne, nema čekanja na granicama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +63,7 @@
   "local": false,
   "alt": "Cars driving on a highway under a clear blue sky",
   "link": "https://unsplash.com/@aleksslika"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

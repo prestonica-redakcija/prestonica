@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T08:51:13.242041+00:00",
- "updated": "2026-11-22T07:39:05.269016+00:00",
+ "updated": "2026-11-22T07:53:59.172887+00:00",
  "sources": [
   {
    "name": "N1",
@@ -68,6 +68,12 @@
    "url": "https://insajder.net/prenosimo/hitna-pomoc-jedna-saobracajna-nesreca-u-beogradu-tesko-povredena-zena-prevezena-u-urgentni-centar",
    "title": "Hitna pomoć: Jedna saobraćajna nesreća u Beogradu, teško povređena žena prevezena u Urgentni centar",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/izvestaj-hitne-pomoci-jedna-mladja-zena-povredjena/",
+   "title": "Izveštaj Hitne pomoći: Jedna mlađa žena povređena",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -77,7 +83,8 @@
   "U saobraćajnoj nesreći u Bulevaru Kralja Aleksandra teško povređena žena pešak",
   "U saobraćajnoj nesreći u Beogradu teško povređena mlađa žena",
   "Katastrofa za prvaka Evrope, još jedna zvezda teško povređena",
-  "Hitna pomoć: Jedna saobraćajna nesreća u Beogradu, teško povređena žena prevezena u Urgentni centar"
+  "Hitna pomoć: Jedna saobraćajna nesreća u Beogradu, teško povređena žena prevezena u Urgentni centar",
+  "Izveštaj Hitne pomoći: Jedna mlađa žena povređena"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -89,6 +96,6 @@
   "local": true,
   "alt": "Saobraćajne nezgode u Nišu: Hitna pomoć zbrinjavala decu i motocikliste"
  },
- "novo_od_pisanja": 5,
- "boost": 1.4
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }
