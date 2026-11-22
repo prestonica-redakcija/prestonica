@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T08:23:46.278784+00:00",
- "updated": "2026-11-22T11:07:07.969418+00:00",
+ "updated": "2026-11-22T11:22:04.230756+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -62,6 +62,12 @@
    "url": "https://n1info.rs/vesti/student-fdu-nikola-terzic-napad-fdu-slucaj-nije-zatvoren/",
    "title": "Student FDU o napadu pre dve godine: Tužilaštvo se nije oglašavalo do skoro, novost - slučaj nije zatvoren",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/student-fdu-o-napadu-pre-dve-godine/",
+   "title": "Student FDU o napadu pre dve godine: Tužilaštvo se nije oglašavalo do skoro, slučaj nije zatvoren",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -69,7 +75,8 @@
   "Dve godine od napada na studente i profesore FDU uoči prve blokade fakulteta",
   "Dve godine od napada na studente i profesore FDU: Kako su počele blokade fakulteta",
   "Dve godine od napada na studente i profesore FDU uoči prve blokade fakulteta",
-  "Student FDU o napadu pre dve godine: Tužilaštvo se nije oglašavalo do skoro, novost - slučaj nije zatvoren"
+  "Student FDU o napadu pre dve godine: Tužilaštvo se nije oglašavalo do skoro, novost - slučaj nije zatvoren",
+  "Student FDU o napadu pre dve godine: Tužilaštvo se nije oglašavalo do skoro, slučaj nije zatvoren"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -81,8 +88,8 @@
   "local": true,
   "alt": "Dve godine od napada na studente i profesore FDU koji je prethodio prvoj blokadi"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-22T11:07:07.969418+00:00",
  "verzija": 2
 }

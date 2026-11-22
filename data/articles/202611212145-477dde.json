@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T20:45:05.557630+00:00",
- "updated": "2026-11-22T09:23:03.769086+00:00",
+ "updated": "2026-11-22T11:22:04.230756+00:00",
  "sources": [
   {
    "name": "N1",
@@ -58,6 +58,12 @@
    "url": "https://www.kurir.rs/crna-hronika/10169223/poginuo-kuvar-dragan-cvetkovic",
    "title": "POZNATI BEOGRADSKI KUVAR POGINUO U TEŠKOJ NESREĆI NA ŽABLJAKU: Nastradao u sudaru sa autobusom",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10169312/kuvar-iz-beograda-poginuo-u-sudaru-s-autobusom-u-kom-su-bili-glumci",
+   "title": "KUVAR IZ BEOGRADA POGINUO U SUDARU S AUTOBUSOM U KOM SU BILI GLUMCI: Detalji jezive nesreće na Žabljaku, prešao u suprotnu traku...",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -65,7 +71,8 @@
   "Jedna osoba poginula, više povređenih u sudaru autobusa i automobila u Brčkom",
   "TEŠKA NESREĆA U BRČKOM: Jedna osoba poginula u sudaru autobusa i automobila, više povređenih",
   "Jedna osoba poginula, više povređenih u sudaru autobusa i automobila u Brčkom",
-  "POZNATI BEOGRADSKI KUVAR POGINUO U TEŠKOJ NESREĆI NA ŽABLJAKU: Nastradao u sudaru sa autobusom"
+  "POZNATI BEOGRADSKI KUVAR POGINUO U TEŠKOJ NESREĆI NA ŽABLJAKU: Nastradao u sudaru sa autobusom",
+  "KUVAR IZ BEOGRADA POGINUO U SUDARU S AUTOBUSOM U KOM SU BILI GLUMCI: Detalji jezive nesreće na Žabljaku, prešao u suprotnu traku..."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -78,6 +85,6 @@
   "alt": "a police car driving down a street at night",
   "link": "https://unsplash.com/@abject"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
