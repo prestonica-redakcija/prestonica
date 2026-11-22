@@ -33,17 +33,24 @@
  ],
  "importance": 5,
  "published": "2026-11-22T18:03:23.802504+00:00",
- "updated": "2026-11-22T18:03:23.802504+00:00",
+ "updated": "2026-11-22T23:30:39.612157+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1172298/ana-brnabic-pretnje-dece-informer-tv",
    "title": "\"Ovo je najsurovija i najbolesnija pretnja koju sam dobila\": Brnabić prvi put javno o jezivom napadu na njeno dete!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=J8IoGXAl6Nk",
+   "title": "Brnabić: Ovo je najsurovija i najbolesnija pretnja koju sam dobila",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
-  "\"Ovo je najsurovija i najbolesnija pretnja koju sam dobila\": Brnabić prvi put javno o jezivom napadu na njeno dete!"
+  "\"Ovo je najsurovija i najbolesnija pretnja koju sam dobila\": Brnabić prvi put javno o jezivom napadu na njeno dete!",
+  "Brnabić: Ovo je najsurovija i najbolesnija pretnja koju sam dobila"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "alt": "two flags with a coat of arms on them",
   "link": "https://unsplash.com/@thestefankostic"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

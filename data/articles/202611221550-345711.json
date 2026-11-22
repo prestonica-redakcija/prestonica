@@ -29,17 +29,24 @@
  ],
  "importance": 2,
  "published": "2026-11-22T14:50:08.508958+00:00",
- "updated": "2026-11-22T14:50:08.508958+00:00",
+ "updated": "2026-11-22T23:30:39.612157+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/ekologija/299952/istrazivanje-kod-madeire-pokazalo-da-zasticena-morska-podrucja-daju-rezultate/vest",
    "title": "Istraživanje kod Madeire pokazalo da zaštićena morska područja daju rezultate",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/naucna-ekspedicija-oko-madeire-pokazala-da-morski-rezervati-doprinose-ocuvanju-biodiverziteta",
+   "title": "Naučna ekspedicija oko Madeire pokazala da morski rezervati doprinose očuvanju biodiverziteta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Istraživanje kod Madeire pokazalo da zaštićena morska područja daju rezultate"
+  "Istraživanje kod Madeire pokazalo da zaštićena morska područja daju rezultate",
+  "Naučna ekspedicija oko Madeire pokazala da morski rezervati doprinose očuvanju biodiverziteta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Preliminarni rezultati ekspedicije kod Madeire: morski rezervati daju efekte, ajkule i dalje ugrožene"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
