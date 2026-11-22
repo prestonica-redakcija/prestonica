@@ -35,7 +35,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T22:58:55.659415+00:00",
- "updated": "2026-11-21T22:58:55.659415+00:00",
+ "updated": "2026-11-22T06:39:36.178725+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,11 +48,18 @@
    "url": "https://www.euronews.rs/svet/planeta/253122/nevreme-u-brazilu-cetvoro-poginulih-u-rio-grande-do-sulu/vest",
    "title": "Najmanje četvoro poginulih u nevremenu u Brazilu: Vetar do 114 km/h, preko 20.000 ljudi napustilo domove",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/299847/pet-osoba-poginulo-256-povredeno-u-snaznom-nevremenu-u-brazilu/vest",
+   "title": "Pet osoba poginulo, 256 povređeno u snažnom nevremenu u Brazilu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Brazil: Četiri osobe poginule, 162 povređene, više od 20.000 ljudi napustilo domove",
-  "Najmanje četvoro poginulih u nevremenu u Brazilu: Vetar do 114 km/h, preko 20.000 ljudi napustilo domove"
+  "Najmanje četvoro poginulih u nevremenu u Brazilu: Vetar do 114 km/h, preko 20.000 ljudi napustilo domove",
+  "Pet osoba poginulo, 256 povređeno u snažnom nevremenu u Brazilu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +71,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Coast_of_Rio_Grande_do_Sul.jpg",
   "alt": "Nevreme u brazilskoj državi Rio Grande do Sul: četiri mrtvih, 162 povređena"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
