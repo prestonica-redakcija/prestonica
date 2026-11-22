@@ -25,17 +25,31 @@
  ],
  "importance": 4,
  "published": "2026-11-22T20:32:16.653407+00:00",
- "updated": "2026-11-22T20:32:16.653407+00:00",
+ "updated": "2026-11-22T20:47:13.341944+00:00",
  "sources": [
   {
    "name": "Srbin.info",
    "url": "https://www.youtube.com/watch?v=k2F0p99ZCNc",
    "title": "Uživo: Stiže novi ciklon, kiša prelazi u sneg: Evo koliki su vodostaji reka; prete li nove bujice?",
    "spektar": "desnica"
+  },
+  {
+   "name": "Srbin.info",
+   "url": "https://www.youtube.com/watch?v=rb_u_jRetBQ",
+   "title": "Uživo: Stiže novi ciklon, kiša prelazi u sneg Evo koliki su danas vodostaji reka; prete li bujice?",
+   "spektar": "desnica"
+  },
+  {
+   "name": "Srbin.info",
+   "url": "https://www.youtube.com/watch?v=fGgRzv0O1Ek",
+   "title": "Uživo: Stiže novi ciklon, kiša prelazi u sneg Evo koliki su vodostaji reka; prete  nove li bujice?",
+   "spektar": "desnica"
   }
  ],
  "source_titles": [
-  "Uživo: Stiže novi ciklon, kiša prelazi u sneg: Evo koliki su vodostaji reka; prete li nove bujice?"
+  "Uživo: Stiže novi ciklon, kiša prelazi u sneg: Evo koliki su vodostaji reka; prete li nove bujice?",
+  "Uživo: Stiže novi ciklon, kiša prelazi u sneg Evo koliki su danas vodostaji reka; prete li bujice?",
+  "Uživo: Stiže novi ciklon, kiša prelazi u sneg Evo koliki su vodostaji reka; prete  nove li bujice?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Novi ciklon od ponedeljka donosi kišu, iznad 700 metara nadmorske visine sneg"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
