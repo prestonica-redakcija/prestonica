@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://nova.rs/magazin/vremenska-prognoza/u-srbiji-ujutru-magla-tokom-dana-toplije/": "2026-11-17T02:21:59.657116+00:00",
-  "https://www.danas.rs/vesti/drustvo/vreme-danas-ujutru-magla-tokom-dana-toplije/": "2026-11-17T02:21:59.657116+00:00",
   "https://www.tanjug.rs/ekonomija/svet/298371/mmf-blizu-dogovora-sa-ukrajinom-o-isplati-16-milijardi-dolara-ceka-se-potvrda-finansijskih-garancija/vest": "2026-11-17T02:36:43.918729+00:00",
   "https://www.telegraf.rs/vesti/beograd/4434121-zbog-radova-izmena-linija-u-ulici-jurija-gagarina-od-danas-do-31-decembra": "2026-11-17T02:36:43.918729+00:00",
   "https://www.danas.rs/sport/uefa-kandidat-predsednik-fifa/": "2026-11-17T03:21:29.735749+00:00",
@@ -6885,12 +6883,6 @@
  "fokus": [],
  "runs": [
   {
-   "vreme": "2026-11-21T11:44+00:00",
-   "novih": 6,
-   "ukupno": 3350,
-   "sekundi": 559.3
-  },
-  {
    "vreme": "2026-11-21T11:57+00:00",
    "novih": 6,
    "ukupno": 3356,
@@ -7243,6 +7235,12 @@
    "novih": 1,
    "ukupno": 3507,
    "sekundi": 443.1
+  },
+  {
+   "vreme": "2026-11-22T02:34+00:00",
+   "novih": 0,
+   "ukupno": 3507,
+   "sekundi": 446.5
   }
  ],
  "licnosti_foto": {
@@ -10049,11 +10047,11 @@
    },
    "parandilovicnls": {
     "since_id": "2124240048296247400",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "ininic": {
     "since_id": "2124268414059397359",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -10061,15 +10059,15 @@
    },
    "sviublokade_fdu": {
     "since_id": "2123543689855390002",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "dragandjilas": {
     "since_id": "2121691848313884992",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "marinikatepic": {
     "since_id": "2122007271508959331",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "radomirlazovic": {
     "since_id": null,
@@ -10109,11 +10107,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "studentblokade": {
     "since_id": "2123809021022847349",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -10169,11 +10167,11 @@
    },
    "borkostef": {
     "since_id": "2123837042505155014",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "dobrinacelnik": {
     "since_id": "2124156307431207365",
@@ -10185,7 +10183,7 @@
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "srdjanmil037": {
     "since_id": "2124187241647931542",
@@ -10237,7 +10235,7 @@
    },
    "borakonj": {
     "since_id": "2124246520983896126",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "narodnipokrets": {
     "since_id": "2123734701261169003",
@@ -10245,67 +10243,67 @@
    },
    "direktnors": {
     "since_id": "2124248806594171280",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "crtars": {
     "since_id": "2124112878567555576",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "veceivan": {
     "since_id": "2124208874169229782",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "repjoewilson": {
     "since_id": "2123869192789094550",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "jugoslavcosic": {
     "since_id": "2123147946694787141",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "tvnova_s": {
     "since_id": "2124249670524289430",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "oljautisak": {
     "since_id": "2124115162684629476",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "srdjan_nogo": {
     "since_id": "2123527863307735237",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "agrifblokira": {
     "since_id": "2123785161347154262",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "etfblokada": {
     "since_id": "2123443984156504503",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "nastraninaroda": {
     "since_id": "2124240486932386139",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "bcenzure": {
     "since_id": "2124222127431627021",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "bezstraha26279": {
     "since_id": "2124116392039645581",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "lazidetektor": {
-    "since_id": "2124308540944781427",
-    "t": 1795310000.3703609
+    "since_id": "2124322351886258648",
+    "t": 1795314449.7704308
    },
    "nedeljniknin": {
     "since_id": "2124216278017610198",
@@ -10321,11 +10319,11 @@
    },
    "tvbalkaninfo": {
     "since_id": "2124225258324660295",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "1152justice": {
     "since_id": "2123584561330217393",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    },
    "zatrijebacki": {
     "since_id": "2123844027036709035",
@@ -10357,10 +10355,60 @@
    },
    "masinars": {
     "since_id": "2124230635392836072",
-    "t": 1795310000.3703609
+    "t": 1795314449.7704308
    }
   },
   "posts": [
+   {
+    "id": "2124322351886258648",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "VUČIĆ UPOZORAVA NA KATASTROFU KOJA BI MOGLA DA ZADESI KRAGUJEVAC I ČITAVU SRBIJU:\n\n\"Evo da vam dam jednu ekskluzivnu informaciju koju nisam dobio službenim kanalima. Plašim se da će do kraja sledeće godine Stelantis preneti proizvodnju 'Pande' u Tursku. Voleo bih da to nije tačno https://t.co/KE4QScQIat",
+    "published": "2026-11-22T02:01:31.000+00:00",
+    "lajk": 2,
+    "slike": [
+     "https://pbs.twimg.com/amplify_video_thumb/2124322286945640448/img/SaQOK_W1FAochTYI.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "ekonomija",
+    "tema": "Vučić strahuje da će Stelantis preneti proizvodnju Pande u Tursku",
+    "vest": "202611211846-024995"
+   },
+   {
+    "id": "2124321450110616060",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "ALEKSANDAR VUČIĆ O PODELAMA UNUTAR STUDENTSKE LISTE I PLENUMA: \"Jedni o drugima misle sve najgore!\"\n\n\"Oni se međusobno ne podnose. Jedni o drugima misle sve najgore, imaju već mnogo klanova i to će polako dolaziti do izražaja. Jedino što ih drži na okupu je strah koji postoji od https://t.co/9vpjo3sbkw",
+    "published": "2026-11-22T01:57:56.000+00:00",
+    "lajk": 2,
+    "slike": [
+     "https://pbs.twimg.com/amplify_video_thumb/2124321356435034112/img/q5RcJZIXejk1MVZ6.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić o podelama unutar studentske liste i plenuma"
+   },
+   {
+    "id": "2124310244591558865",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "VUČIĆ ODGOVORIO NOVOJ POTPREDSEDNICI SKUPŠTINE SA STUDENTSKE LISTE - SARI VALENTIK: \n\n\"Mafija ste vi! Najgora mafija. Mafija u kojoj su šefovi negde iza zavese, njihovi šefovi su negde van ove zemlje. Najgora mafijaška banda!\" https://t.co/B61ja7LuO4",
+    "published": "2026-11-22T01:13:24.000+00:00",
+    "lajk": 2,
+    "slike": [
+     "https://pbs.twimg.com/amplify_video_thumb/2124310171950137344/img/mqlKSsAr-oq-UaEt.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić odgovorio potpredsednici Skupštine Sari Valentik",
+    "vest": "202611212030-3118a5"
+   },
    {
     "id": "2124308540944781427",
     "x": "LaziDetektor",
@@ -21058,46 +21106,6 @@
     "rubrika": "hronika",
     "tema": "Vučić o napadu na devojku u Odžacima",
     "vest": "202611191042-9c65f4"
-   },
-   {
-    "id": "2123381491556311064",
-    "x": "sns_srbija",
-    "ime": "SNS",
-    "grupa": "vlast",
-    "uloga": "Srpska napredna stranka",
-    "text": "Време наплате је стигло. Пицула вам је дао шест месеци. https://t.co/RSFG4kdOeb",
-    "published": "2026-11-19T11:42:52.000+00:00",
-    "lajk": 9,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "SNS o Piculi i roku od šest meseci",
-    "vest": "202611191326-c61456"
-   },
-   {
-    "id": "2123381489719013597",
-    "x": "NaStraniNaroda",
-    "ime": "Vukša Dragović",
-    "grupa": "",
-    "uloga": "",
-    "text": "Plenum je izglasao moje hapšenje do Nove godine...\n\nKo hoće, može da čestita. https://t.co/lus8FvI7Ji",
-    "published": "2026-11-19T11:42:52.000+00:00",
-    "lajk": 104,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Vukša Dragović o glasanju plenuma o hapšenju"
-   },
-   {
-    "id": "2123380366111302029",
-    "x": "sns_srbija",
-    "ime": "SNS",
-    "grupa": "vlast",
-    "uloga": "Srpska napredna stranka",
-    "text": "23. место је посебан случај. Ево ту је госпођа, смеши се!  @BakarecPolitika https://t.co/FX4nrKokRM",
-    "published": "2026-11-19T11:38:24.000+00:00",
-    "lajk": 11,
-    "prikazi": false,
-    "rubrika": "politika",
-    "tema": "Nejasna objava o 23. mestu"
    }
   ],
   "pratim": [
@@ -60426,7 +60434,7 @@
   "yt": "Hdk3ahufa64",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-22T02:13:06.780235+00:00",
+  "provereno": "2026-11-22T02:27:48.649307+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": true
  },
