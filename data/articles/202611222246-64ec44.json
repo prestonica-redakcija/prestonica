@@ -38,7 +38,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T21:46:37.641049+00:00",
- "updated": "2026-11-22T21:46:37.641049+00:00",
+ "updated": "2026-11-22T22:16:11.538620+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -57,12 +57,26 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4437770-patrijarh-porfirije-sluzio-svetu-liturgiju-u-srpskom-podvorju-u-moskvi",
    "title": "Patrijarh Porfirije služio svetu liturgiju u Srpskom podvorju u Moskvi",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300051/spc-patrijarh-porfirije-sluzio-svetu-liturgiju-u-srpskom-podvorju-u-moskvi/vest",
+   "title": "SPC: Patrijarh Porfirije služio svetu liturgiju u Srpskom podvorju u Moskvi",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/patrijarh-porfirije-sluzio-liturgiju-u-moskvi/",
+   "title": "Patrijarh Porfirije služio liturgiju u Moskvi",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "SPC: Patrijarh Porfirije služio svetu liturgiju u Srpskom podvorju u Moskvi",
   "Porfirije služio liturgiju u Moskvi",
-  "Patrijarh Porfirije služio svetu liturgiju u Srpskom podvorju u Moskvi"
+  "Patrijarh Porfirije služio svetu liturgiju u Srpskom podvorju u Moskvi",
+  "SPC: Patrijarh Porfirije služio svetu liturgiju u Srpskom podvorju u Moskvi",
+  "Patrijarh Porfirije služio liturgiju u Moskvi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -75,5 +89,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Patr.Porfirije_(crop).jpg",
   "osoba": "Porfirije",
   "alt": "Patrijarh Porfirije služio liturgiju u Moskvi i uručio odlikovanja"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
