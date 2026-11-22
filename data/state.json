@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.telegraf.rs/4434206-macura-osnazivanje-zena-kroz-konkretne-prilike-vodi-njihovoj-ekonomskoj-nezavisnosti": "2026-11-17T02:07:09.887850+00:00",
   "https://nova.rs/magazin/vremenska-prognoza/u-srbiji-ujutru-magla-tokom-dana-toplije/": "2026-11-17T02:21:59.657116+00:00",
   "https://www.danas.rs/vesti/drustvo/vreme-danas-ujutru-magla-tokom-dana-toplije/": "2026-11-17T02:21:59.657116+00:00",
   "https://www.tanjug.rs/ekonomija/svet/298371/mmf-blizu-dogovora-sa-ukrajinom-o-isplati-16-milijardi-dolara-ceka-se-potvrda-finansijskih-garancija/vest": "2026-11-17T02:36:43.918729+00:00",
@@ -6877,18 +6876,14 @@
   "https://www.telegraf.rs/vesti/srbija/4437382-umro-zivojin-jokanovic": "2026-11-21T23:58:22.221069+00:00",
   "https://biznis.telegraf.rs/info-biz/4437279-fajnensel-tajms-isporuke-nafte-kroz-ormuski-moreuz-prepolovljene-za-nedelju-dana": "2026-11-22T00:13:10.495900+00:00",
   "https://biznis.telegraf.rs/info-biz/4437283-eu-i-indonezija-potpisale-trgovinski-sporazum-posle-10-godina-pregovora": "2026-11-22T01:12:51.945875+00:00",
-  "https://www.kurir.rs/planeta/10168530/iran-uslovi-za-kraj-rata-sa-amerikom-arakci": "2026-11-22T01:27:32.472635+00:00"
+  "https://www.kurir.rs/planeta/10168530/iran-uslovi-za-kraj-rata-sa-amerikom-arakci": "2026-11-22T01:27:32.472635+00:00",
+  "https://www.telegraf.rs/4437276-linta-dejtonski-sporazum-doneo-je-mir-i-potvrdio-republiku-srpsku-kao-medjunarodnopravni-subjekat": "2026-11-22T02:12:16.501306+00:00",
+  "https://www.euronews.rs/svet/fokus/253080/gaza-za-350000-porodica-hitno-potreban-smestaj/vest": "2026-11-22T02:12:16.501306+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-21T11:26+00:00",
-   "novih": 3,
-   "ukupno": 3344,
-   "sekundi": 370.0
-  },
   {
    "vreme": "2026-11-21T11:44+00:00",
    "novih": 6,
@@ -7242,6 +7237,12 @@
    "novih": 0,
    "ukupno": 3506,
    "sekundi": 424.4
+  },
+  {
+   "vreme": "2026-11-22T02:19+00:00",
+   "novih": 1,
+   "ukupno": 3507,
+   "sekundi": 443.1
   }
  ],
  "licnosti_foto": {
@@ -60425,7 +60426,7 @@
   "yt": "Hdk3ahufa64",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-22T01:57:56.875449+00:00",
+  "provereno": "2026-11-22T02:13:06.780235+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": true
  },

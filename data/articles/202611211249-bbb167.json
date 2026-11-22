@@ -28,17 +28,24 @@
  ],
  "importance": 4,
  "published": "2026-11-21T11:49:52.141541+00:00",
- "updated": "2026-11-21T11:49:52.141541+00:00",
+ "updated": "2026-11-22T02:12:16.501306+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/299678/miodrag-linta-dejtonski-sporazum-doneo-je-mir-i-potvrdio-republiku-srpsku-kao-medunarodnopravni-subjekat/vest",
    "title": "Miodrag Linta: Dejtonski sporazum doneo je mir i potvrdio Republiku Srpsku kao međunarodnopravni subjekat",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4437276-linta-dejtonski-sporazum-doneo-je-mir-i-potvrdio-republiku-srpsku-kao-medjunarodnopravni-subjekat",
+   "title": "Linta: Dejtonski sporazum doneo mir i potvrdio Republiku Srpsku kao međunarodnopravni subjekat",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Miodrag Linta: Dejtonski sporazum doneo je mir i potvrdio Republiku Srpsku kao međunarodnopravni subjekat"
+  "Miodrag Linta: Dejtonski sporazum doneo je mir i potvrdio Republiku Srpsku kao međunarodnopravni subjekat",
+  "Linta: Dejtonski sporazum doneo mir i potvrdio Republiku Srpsku kao međunarodnopravni subjekat"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Administrative_Center_of_the_Government_of_Republika_Srpska_(Isto%C4%8Dno_Sarajevo).jpg",
   "alt": "Linta: Dejtonski sporazum doneo mir i potvrdio Republiku Srpsku kao subjekat"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
