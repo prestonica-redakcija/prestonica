@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T12:06:46.562262+00:00",
- "updated": "2026-11-22T12:51:11.246716+00:00",
+ "updated": "2026-11-22T14:05:33.080198+00:00",
  "sources": [
   {
    "name": "B92",
@@ -54,13 +54,20 @@
    "url": "https://www.kurir.rs/crna-hronika/10169413/uhapseni-direktor-i-vlasnici-firme-koja-je-odrzavala-puteve-u-nisu",
    "title": "UHAPŠENI DIREKTOR I VLASNICI FIRME KOJA JE ODRŽAVALA PUTEVE U NIŠU: Iz tužilaštva otkrili šta im se stavlja na teret",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/uhapseni-direktor-i-vlasnici-vodogradnje-firme-koja-radila-na-odrzavanju-puteva-u-nisu/",
+   "title": "Uhapšeni direktor i vlasnici \"Vodogradnje\", firme koja je radila na održavanju puteva u Nišu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "VJT Niš: Uhapšene tri osobe iz \"Vodogradnje\" zbog zloupotrebe položaja i pranja novca",
   "VELIKA AKCIJA U NIŠU! Pali direktor i vlasnici firme \"Vodogradnja\": Terete se za zloupotrebe i PRANJE NOVCA!",
   "Više javno tužilaštvo u Nišu: Uhapšene tri osobe iz Vodogradnje zbog zloupotrebe položaja i pranja novca",
-  "UHAPŠENI DIREKTOR I VLASNICI FIRME KOJA JE ODRŽAVALA PUTEVE U NIŠU: Iz tužilaštva otkrili šta im se stavlja na teret"
+  "UHAPŠENI DIREKTOR I VLASNICI FIRME KOJA JE ODRŽAVALA PUTEVE U NIŠU: Iz tužilaštva otkrili šta im se stavlja na teret",
+  "Uhapšeni direktor i vlasnici \"Vodogradnje\", firme koja je radila na održavanju puteva u Nišu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,6 +79,6 @@
   "local": true,
   "alt": "U Nišu uhapšene tri osobe iz firme \"Vodogradnja\" zbog zloupotrebe položaja i pranja novca"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
