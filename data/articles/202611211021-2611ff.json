@@ -28,7 +28,7 @@
  "places": [],
  "importance": 5,
  "published": "2026-11-21T09:21:04.993856+00:00",
- "updated": "2026-11-21T17:16:47.608264+00:00",
+ "updated": "2026-11-22T13:35:49.409713+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -59,6 +59,12 @@
    "url": "https://www.novosti.rs/vesti/politika/1673437/nema-mesta-politickim-napadima-oglasio-dejan-vuk-stankovic-posle-kritika-lidera-sns-smeni-direktora-jovine-gimnazije",
    "title": "\"NEMA MESTA POLITIČKIM NAPADIMA\": Oglasio se Dejan Vuk Stanković posle kritika lidera SNS o smeni direktora Jovine gimnazije",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/sramota-vucevic-kritikovao-ministra-prosvete-zbog-razresenja-direktora-jovine-gimnazije-stankovic-odgovara-sve-po-zakonu/",
+   "title": "„Sramota“: Vučević kritikovao ministra prosvete zbog razrešenja direktora Jovine gimnazije, Stanković odgovara – sve po zakonu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -66,7 +72,8 @@
   "\"SRAMOTA! NIJE MOGAO DA IZDRŽI NI MESEC DANA!\" Vučević žestoko kritikovao Dejana Vuka Stankovića: Sram vas bilo!",
   "„SRAMOTA! NIJE MOGAO DA IZDRŽI NI MESEC DANA!“ Vučević osuo kritike na Dejana Vuka Stankovića zbog smene direktora Jovine gimnazije",
   "OGLASIO SE DEJAN VUK STANKOVIĆ POSLE KRITIKA LIDERA SNS! Evo šta ministar prosvete kaže o smeni direktora Jovine gimnazije: Nema mesta političkim napadima",
-  "\"NEMA MESTA POLITIČKIM NAPADIMA\": Oglasio se Dejan Vuk Stanković posle kritika lidera SNS o smeni direktora Jovine gimnazije"
+  "\"NEMA MESTA POLITIČKIM NAPADIMA\": Oglasio se Dejan Vuk Stanković posle kritika lidera SNS o smeni direktora Jovine gimnazije",
+  "„Sramota“: Vučević kritikovao ministra prosvete zbog razrešenja direktora Jovine gimnazije, Stanković odgovara – sve po zakonu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,8 +87,8 @@
   "osoba": "Dejan Vuk Stanković",
   "alt": "Vučević kritikovao ministra Stankovića zbog smene direktora Jovine gimnazije"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-21T17:16:47.608264+00:00",
  "verzija": 2
 }
