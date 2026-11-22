@@ -26,7 +26,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T16:04:27.490938+00:00",
- "updated": "2026-11-22T18:33:14.699220+00:00",
+ "updated": "2026-11-22T18:48:03.606578+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -69,6 +69,12 @@
    "url": "https://www.tanjug.rs/srbija/hronika/300017/u-garazi-tc-galerija-izbodena-devojka/vest",
    "title": "U garaži TC Galerija izbodena devojka",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/napad-nozem-u-garazi-tc-galerija-devojka-sa-teskim-povredama-u-urgentnom-centru",
+   "title": "Napad nožem u garaži TC Galerija: Devojka sa teškim povredama prevezena u Urgentnom centru",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -78,7 +84,8 @@
   "NAKON NAPADA NOŽEM I MUŠKARAC I ŽENA ZAVRŠILI U URGENTNOM: Detalji incidenta u garaži tržnog centra u Beogradu",
   "Otkriveno ko je muškarac koji je izbo ženu u Galeriji: Detalji krvave drame, imao i vatreno oružje kod sebe",
   "Devojka teško povređena u napadu u garaži tržnog centra \"Galerija\"",
-  "U garaži TC Galerija izbodena devojka"
+  "U garaži TC Galerija izbodena devojka",
+  "Napad nožem u garaži TC Galerija: Devojka sa teškim povredama prevezena u Urgentnom centru"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -90,8 +97,8 @@
   "local": true,
   "alt": "Napad nožem u garaži tržnog centra Galerija u Beogradu, povređena devojka"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-22T18:03:23.802504+00:00",
  "verzija": 2
 }

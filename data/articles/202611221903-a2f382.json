@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-22T18:03:23.802504+00:00",
- "updated": "2026-11-22T18:03:23.802504+00:00",
+ "updated": "2026-11-22T18:48:03.606578+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -40,11 +40,18 @@
    "url": "https://www.euronews.rs/svet/fokus/253203/haos-na-letovima-delta-erlajnsa-sirom-sad/vest",
    "title": "Haos na letovima Delta erlajnsa širom SAD zbog tehničkog problema na aerodromu u Atlanti",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/letovi-kompanije-delta-erlajns-kasne-sirom-sad",
+   "title": "Letovi kompanije Delta erlajns kasne širom SAD",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Letovi kompanije Delta erlajns kasne širom SAD",
-  "Haos na letovima Delta erlajnsa širom SAD zbog tehničkog problema na aerodromu u Atlanti"
+  "Haos na letovima Delta erlajnsa širom SAD zbog tehničkog problema na aerodromu u Atlanti",
+  "Letovi kompanije Delta erlajns kasne širom SAD"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "alt": "a group of people in a room",
   "link": "https://unsplash.com/@josephbobadilla"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

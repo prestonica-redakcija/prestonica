@@ -29,17 +29,24 @@
  ],
  "importance": 4,
  "published": "2026-11-22T18:33:14.699220+00:00",
- "updated": "2026-11-22T18:33:14.699220+00:00",
+ "updated": "2026-11-22T18:48:03.606578+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/hakovan-instagram-nalog-pokreta-snaga-srbije/",
    "title": "Hakovan Instagram nalog Pokreta Snaga Srbije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/hakovan-instagram-nalog-snaga-srbije-karica/",
+   "title": "Hakovan Instagram nalog Pokreta Snaga Srbije Bogoljuba Karića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Hakovan Instagram nalog Pokreta Snaga Srbije"
+  "Hakovan Instagram nalog Pokreta Snaga Srbije",
+  "Hakovan Instagram nalog Pokreta Snaga Srbije Bogoljuba Karića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "alt": "a group of different social media logos",
   "link": "https://unsplash.com/@mariiaberezovsky"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
