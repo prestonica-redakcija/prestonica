@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-20T21:26:42.799671+00:00",
- "updated": "2026-11-21T13:19:10.575942+00:00",
+ "updated": "2026-11-22T08:23:46.278784+00:00",
  "sources": [
   {
    "name": "N1",
@@ -103,6 +103,12 @@
    "url": "https://biznis.telegraf.rs/info-biz/4437157-munja-pogodila-avion-na-letu-iz-beograda-za-mostar-er-srbija-organizovala-alternativni-prevoz-za-putnike",
    "title": "Munja pogodila avion na letu iz Beograda za Mostar, Er Srbija organizovala alternativni prevoz za putnike",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287065/iranska-revolucionarna-garda-potvrdila-napad-na-americke-baze/vest",
+   "title": "Potvrđen udar – radari su pogođeni FOTO/VIDEO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -117,7 +123,8 @@
   "Avion Er Srbije na letu između Beograda i Mostara pogodila munja, putnicima obezbeđen prevoz",
   "Avion Er Srbije na letu između Beograda i Mostara pogodila munja, putnicima obezbeđen prevoz",
   "Za putnike iz aviona Er Srbije koji je pogodila munja obezbeđen prevoz",
-  "Munja pogodila avion na letu iz Beograda za Mostar, Er Srbija organizovala alternativni prevoz za putnike"
+  "Munja pogodila avion na letu iz Beograda za Mostar, Er Srbija organizovala alternativni prevoz za putnike",
+  "Potvrđen udar – radari su pogođeni FOTO/VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -130,7 +137,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Mixed_meat_platter_at_Bella_Vista_Restaurant_in_Mostar,_Bosnia_and_Herzegovina_(2025).jpg",
   "alt": "Munja pogodila avion Er Srbije na letu za Mostar, povratni let otkazan"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-21T13:19:10.575942+00:00",
  "verzija": 3

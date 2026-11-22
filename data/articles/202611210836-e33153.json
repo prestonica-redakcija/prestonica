@@ -35,17 +35,24 @@
  ],
  "importance": 6,
  "published": "2026-11-21T07:36:46.459854+00:00",
- "updated": "2026-11-21T07:36:46.459854+00:00",
+ "updated": "2026-11-22T08:23:46.278784+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/teme/cupic-opomenuo-i-vucica-i-bakica-moze-li-dosledna-primena-pravila-da-promeni-parlament-video",
    "title": "Čupić opomenuo i Vučića i Bakića: Može li dosledna primena pravila da promeni parlament? (VIDEO)",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/dijalog/pisma-citalaca/sta-je-promasila-studentska-lista/",
+   "title": "Šta je promašila Studentska lista?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Čupić opomenuo i Vučića i Bakića: Može li dosledna primena pravila da promeni parlament? (VIDEO)"
+  "Čupić opomenuo i Vučića i Bakića: Može li dosledna primena pravila da promeni parlament? (VIDEO)",
+  "Šta je promašila Studentska lista?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Čupić već prvog dana izrekao niz opomena poslanicima vlasti i Studentske liste"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
