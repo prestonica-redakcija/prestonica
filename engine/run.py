@@ -16,7 +16,7 @@ import time
 from datetime import timedelta
 from zoneinfo import ZoneInfo
 
-from . import build, cluster, config, fetch, pravila, rank, store
+from . import build, cluster, config, fetch, pravila, rank, store, prati
 from .images import Images
 from .telegram import Telegram, handle_commands
 from .util import age_hours, broken_body, fold, now_utc, paragraphs, parse_iso, quotes, sentence_case_caps, slugify
@@ -387,6 +387,17 @@ def main() -> None:
                 e["popravljeno"] = now.isoformat()
                 store.save_article(e)
                 log.info("Popravljen tekst vesti: %s", e["slug"])
+
+        # 5d. Praćeni tekstovi: autorski i istraživački dobijaju dodatak kad izađe
+        # nova vest o istoj temi. Obične vesti ovo ne koriste, njih već dopunjuje
+        # korak 5b. Autorski nacrt ne ide uživo, nego u red za odobrenje.
+        if live:
+            try:
+                dnevnik_prati = prati.prodji(cfg, w, articles, items, store.save_article)
+                if dnevnik_prati:
+                    log.info("praćeni tekstovi: %s", dnevnik_prati)
+            except Exception as e:
+                log.warning("praćenje teksta palo: %s", e)
 
         # 6. Analize (desni centar), samo u pravom radu
         an = cfg.portal.get("analize", {})
