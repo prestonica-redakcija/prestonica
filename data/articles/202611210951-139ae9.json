@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T08:51:13.242041+00:00",
- "updated": "2026-11-21T08:51:13.242041+00:00",
+ "updated": "2026-11-22T06:24:50.675388+00:00",
  "sources": [
   {
    "name": "N1",
@@ -38,11 +38,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4437066-troje-dece-povredjeno-u-udesu-kod-skole-u-nisu-motociklista-tesko-stradao-automobil-pokosio-pesaka",
    "title": "Troje dece povređeno u udesu kod škole u Nišu: Motociklista teško stradao, automobil pokosio pešaka",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287040/saobracajna-nesreca-na-zvezdari/vest",
+   "title": "Hitna pomoć: Povređena žena u saobraćajnoj nesreći na Zvezdari",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Dečak i trojica motociklista povređeni u udesima u Nišu",
-  "Troje dece povređeno u udesu kod škole u Nišu: Motociklista teško stradao, automobil pokosio pešaka"
+  "Troje dece povređeno u udesu kod škole u Nišu: Motociklista teško stradao, automobil pokosio pešaka",
+  "Hitna pomoć: Povređena žena u saobraćajnoj nesreći na Zvezdari"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Saobraćajne nezgode u Nišu: Hitna pomoć zbrinjavala decu i motocikliste"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
