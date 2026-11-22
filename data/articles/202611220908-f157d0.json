@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-22T08:08:44.591634+00:00",
- "updated": "2026-11-22T09:08:11.102597+00:00",
+ "updated": "2026-11-22T15:04:55.683026+00:00",
  "sources": [
   {
    "name": "N1",
@@ -78,6 +78,18 @@
    "url": "https://nova.rs/vesti/hronika/uhapsen-direktor-pio-fonda-u-backoj-palanci/",
    "title": "Uhapšen direktor PIO Fonda u Bačkoj Palanci, osumnjičen za zloupotrebu službenog položaja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/299958/mup-sumnja-se-da-su-fond-pio-i-opstina-bac-osteceni-za-vise-od-650000-dinara/vest",
+   "title": "MUP: Sumnja se da su Fond PIO i Opština Bač oštećeni za više od 650.000 dinara",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287173/mup-sumnja-se-da-su-fond-pio-i-opstina-bac-osteceni-za-vise-od-650000-dinara/vest",
+   "title": "MUP: Sumnja se da su Fond PIO i opština Bač oštećeni za više od 650.000 dinara",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -88,7 +100,9 @@
   "VJT u Novom Sadu: Uhapšeni direktor PIO Fonda u Bačkoj Palanci i rukovodilac u Opštinskoj upravi Bač",
   "Uhapšen direktor PIO fonda u Bačkoj Palanci",
   "UHAPŠEN DIREKTOR PIO FONDA U BAČKOJ PALANCI, PALE JOŠ DVE OSOBE: Prijavili čoveka da radi u fondu, a znali da neće dolaziti na posao",
-  "Uhapšen direktor PIO Fonda u Bačkoj Palanci, osumnjičen za zloupotrebu službenog položaja"
+  "Uhapšen direktor PIO Fonda u Bačkoj Palanci, osumnjičen za zloupotrebu službenog položaja",
+  "MUP: Sumnja se da su Fond PIO i Opština Bač oštećeni za više od 650.000 dinara",
+  "MUP: Sumnja se da su Fond PIO i opština Bač oštećeni za više od 650.000 dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -101,8 +115,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:St_John_the_Baptist_church_in_Backa_Palanka_(11).jpg",
   "alt": "Uhapšeno troje zbog sumnje na zloupotrebu položaja u PIO fondu i opštini Bač"
  },
- "novo_od_pisanja": 0,
- "boost": 1.48,
+ "novo_od_pisanja": 2,
+ "boost": 1.6,
  "prepisano": "2026-11-22T09:08:11.102597+00:00",
  "verzija": 2
 }

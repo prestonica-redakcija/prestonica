@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T06:07:36.692528+00:00",
- "updated": "2026-11-21T12:04:45.243836+00:00",
+ "updated": "2026-11-22T15:04:55.683026+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -41,11 +41,18 @@
    "url": "https://www.danas.rs/kolumna/vladimir-jokic/stari-dani-2/",
    "title": "Stari dani",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/novi-dan-sta-donosi-sednica-skupstine-beograda/",
+   "title": "Novi dan: Šta donosi sednica Skupštine Beograda?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "\"Da su stari Grci gledali našu Skupštinu ovih dana...\": Miletić ovako ismejala \"Studentsku listu\", pa spomenula i \"ovaploćenje antičkog ideala lepote\" (VIDEO)",
-  "Stari dani"
+  "Stari dani",
+  "Novi dan: Šta donosi sednica Skupštine Beograda?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,6 +64,6 @@
   "local": true,
   "alt": "Voditeljka Informera ironično o konstitutivnoj sednici Skupštine i novoj većini"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
