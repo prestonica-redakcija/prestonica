@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T08:51:13.242041+00:00",
- "updated": "2026-11-22T07:53:59.172887+00:00",
+ "updated": "2026-11-22T13:06:05.483146+00:00",
  "sources": [
   {
    "name": "N1",
@@ -74,6 +74,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/izvestaj-hitne-pomoci-jedna-mladja-zena-povredjena/",
    "title": "Izveštaj Hitne pomoći: Jedna mlađa žena povređena",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287144/saobracajna-nesreca-u-sjenici/vest",
+   "title": "Teška nesreća u Sjenici; Ima mrtvih",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -84,7 +90,8 @@
   "U saobraćajnoj nesreći u Beogradu teško povređena mlađa žena",
   "Katastrofa za prvaka Evrope, još jedna zvezda teško povređena",
   "Hitna pomoć: Jedna saobraćajna nesreća u Beogradu, teško povređena žena prevezena u Urgentni centar",
-  "Izveštaj Hitne pomoći: Jedna mlađa žena povređena"
+  "Izveštaj Hitne pomoći: Jedna mlađa žena povređena",
+  "Teška nesreća u Sjenici; Ima mrtvih"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -96,6 +103,6 @@
   "local": true,
   "alt": "Saobraćajne nezgode u Nišu: Hitna pomoć zbrinjavala decu i motocikliste"
  },
- "novo_od_pisanja": 6,
- "boost": 1.48
+ "novo_od_pisanja": 7,
+ "boost": 1.56
 }

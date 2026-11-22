@@ -32,17 +32,24 @@
  ],
  "importance": 6,
  "published": "2026-11-22T12:06:46.562262+00:00",
- "updated": "2026-11-22T12:06:46.562262+00:00",
+ "updated": "2026-11-22T13:06:05.483146+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/potpredsednica-skupstine-o-buducem-radu-parlamenta-i-mogucim-izmenama-poslovnika",
    "title": "Šta potpredsednica Skupštine kaže o budućem radu parlamenta i mogućim izmenama Poslovnika",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10169349/potpredsednica-skupstine-poslovnik-o-radu-parlamenta-treba-doraditi",
+   "title": "POTPREDSEDNICA SKUPŠTINE SRBIJE O POSLOVNIKU O RADU PARLAMENTA: Dimitrijevićeva: Trebalo bi ga doraditi kako bi se sprečile zloupotrebe i opstrukcija rada!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Šta potpredsednica Skupštine kaže o budućem radu parlamenta i mogućim izmenama Poslovnika"
+  "Šta potpredsednica Skupštine kaže o budućem radu parlamenta i mogućim izmenama Poslovnika",
+  "POTPREDSEDNICA SKUPŠTINE SRBIJE O POSLOVNIKU O RADU PARLAMENTA: Dimitrijevićeva: Trebalo bi ga doraditi kako bi se sprečile zloupotrebe i opstrukcija rada!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "alt": "aerial view photography of room",
   "link": "https://unsplash.com/@internetztube"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
