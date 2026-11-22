@@ -32,17 +32,24 @@
  ],
  "importance": 6,
  "published": "2026-11-22T21:46:37.641049+00:00",
- "updated": "2026-11-22T21:46:37.641049+00:00",
+ "updated": "2026-11-22T22:01:32.732821+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/utisak-nedelje-aleksandar-cupic-stefan-surlic-ivanka-popovic/",
    "title": "Gosti Utiska nedelje: Ovo je prva vlast koja nije došla po sistemu plena",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/utisak-nedelje-formiranje-institucija/",
+   "title": "Gosti Utiska nedelje o formiranju institucija: Prošlo je vreme kada se „jedan čovek“ pitao o celoj vladi",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Gosti Utiska nedelje: Ovo je prva vlast koja nije došla po sistemu plena"
+  "Gosti Utiska nedelje: Ovo je prva vlast koja nije došla po sistemu plena",
+  "Gosti Utiska nedelje o formiranju institucija: Prošlo je vreme kada se „jedan čovek“ pitao o celoj vladi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "alt": "Woman stands in an empty parliament assembly hall",
   "link": "https://unsplash.com/@anniehatuanh"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

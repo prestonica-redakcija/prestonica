@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T13:35:49.409713+00:00",
- "updated": "2026-11-22T13:35:49.409713+00:00",
+ "updated": "2026-11-22T22:01:32.732821+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4437551-marinovic-zakon-o-otvaranju-dosijea-politicka-odlukaali-mora-odmereno-i-bez-srljanja",
    "title": "Marinović: Zakon o otvaranju dosijea politička odluka, ali mora odmereno i bez srljanja",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10169467/zakon-o-otvaranju-dosijea-politika-i-odgovornost",
+   "title": "ZAKON O OTVARANJU DOSIJEA JE POLITIČKA ODLUKA! Marinović: To mora da se uradi veoma odmereno, pametno, strpljivo i bez srljanja",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Milan Marinović: Zakon o otvaranju dosijea politička odluka, ali mora odmereno i bez srljanja",
-  "Marinović: Zakon o otvaranju dosijea politička odluka, ali mora odmereno i bez srljanja"
+  "Marinović: Zakon o otvaranju dosijea politička odluka, ali mora odmereno i bez srljanja",
+  "ZAKON O OTVARANJU DOSIJEA JE POLITIČKA ODLUKA! Marinović: To mora da se uradi veoma odmereno, pametno, strpljivo i bez srljanja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "alt": "restaurant menus on clipboards close up",
   "link": "https://unsplash.com/@golfarisa"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
