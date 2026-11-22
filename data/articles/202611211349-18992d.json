@@ -36,17 +36,24 @@
  ],
  "importance": 5,
  "published": "2026-11-21T12:49:17.166980+00:00",
- "updated": "2026-11-21T12:49:17.166980+00:00",
+ "updated": "2026-11-22T11:07:07.969418+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10168625/evo-ko-je-adem-mavric-potpredsednik-skupstine-sa-najvise-glasova",
    "title": "EVO KO JE ADEM MAVRIĆ, POTPREDSEDNIK SKUPŠTINE SA NAJVIŠE GLASOVA: Mladi diplomata studirao u Turskoj, pa se vratio u Srbiju i radio na diplomatskim projektima",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/potpredsedica-skupstine-stop-opstrukciji-rada-parlamenta/",
+   "title": "Potpredsedica Skupštine: Stop opstrukciji rada parlamenta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "EVO KO JE ADEM MAVRIĆ, POTPREDSEDNIK SKUPŠTINE SA NAJVIŠE GLASOVA: Mladi diplomata studirao u Turskoj, pa se vratio u Srbiju i radio na diplomatskim projektima"
+  "EVO KO JE ADEM MAVRIĆ, POTPREDSEDNIK SKUPŠTINE SA NAJVIŠE GLASOVA: Mladi diplomata studirao u Turskoj, pa se vratio u Srbiju i radio na diplomatskim projektima",
+  "Potpredsedica Skupštine: Stop opstrukciji rada parlamenta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Adem Mavrić izabran za potpredsednika Skupštine sa jednim glasom više od ostalih"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

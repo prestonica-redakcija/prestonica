@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T16:47:14.145852+00:00",
- "updated": "2026-11-22T07:39:05.269016+00:00",
+ "updated": "2026-11-22T11:07:07.969418+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -49,12 +49,19 @@
    "url": "https://www.b92.net/biz/svet/vesti/286948/eu-i-indonezija-potpisali-trgovinski-sporazum-ukida-se-985-odsto-carina/vest",
    "title": "Nakon 10 godina – ukidaju 98,5 odsto carina",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1673574/indonezija-potpisale-ukida-98-5-odsto-carina",
+   "title": "EU I INDONEZIJA POTPISALE: Ukida se 98,5 odsto carina",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Anketa: Skoro polovina stanovnika Nemačke želi smanjenje ili ukidanje pomoći Ukrajini",
   "Anketa u Nemačkoj: Skoro polovina građana želi smanjenje ili obustavu pomoći Ukrajini",
-  "Nakon 10 godina – ukidaju 98,5 odsto carina"
+  "Nakon 10 godina – ukidaju 98,5 odsto carina",
+  "EU I INDONEZIJA POTPISALE: Ukida se 98,5 odsto carina"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,6 @@
   "alt": "a crowd of people standing around each other holding signs",
   "link": "https://unsplash.com/@etiennegirardet"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
