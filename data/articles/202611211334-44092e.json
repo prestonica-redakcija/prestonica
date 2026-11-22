@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T12:34:23.192834+00:00",
- "updated": "2026-11-22T17:18:53.497052+00:00",
+ "updated": "2026-11-22T18:03:23.802504+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -60,6 +60,12 @@
    "url": "https://www.telegraf.rs/4437655-studenti-odreagovali-na-zakon-tzv-skupstine-kosova-o-kulturnom-nasledju",
    "title": "Studenti odreagovali na zakon tzv. skupštine Kosova o kulturnom nasleđu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10169686/studentski-pokret-zakon-kulturno-nasledje-kim",
+   "title": "STUDENTSKI POKRET UPOZORAVA NA NACRT ZAKONA O KULTURNOM NASLEĐU NA KiM: Izrazili zabrinutost zbog mogućih posledica po srpske svetinje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -67,7 +73,8 @@
   "Eparhija raško-prizrenska zabrinuta zbog uticaja novog zakona Kosova na njene objekte",
   "EPARHIJA RAŠKO-PRIZRENSKA: Predlog zakona o Inspektoratu mogao bi da ugrozi zakonom zagarantovana prava SPC!",
   "Eparhija raško-prizrenska o nacrtu zakona: Zaštititi prava SPC u kulturnom nasleđu",
-  "Studenti odreagovali na zakon tzv. skupštine Kosova o kulturnom nasleđu"
+  "Studenti odreagovali na zakon tzv. skupštine Kosova o kulturnom nasleđu",
+  "STUDENTSKI POKRET UPOZORAVA NA NACRT ZAKONA O KULTURNOM NASLEĐU NA KiM: Izrazili zabrinutost zbog mogućih posledica po srpske svetinje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -79,6 +86,6 @@
   "local": true,
   "alt": "Eparhija raško-prizrenska traži dopunu kosovskog nacrta zakona o inspektoratu za kulturno nasleđe"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
