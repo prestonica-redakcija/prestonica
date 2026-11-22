@@ -115,6 +115,31 @@ class ClaudeWriter:
         )
         return self._call(prompt, self.cfg.portal.get("model_analize") or None)
 
+    def azuriranje(self, a: dict, nove: list[dict]) -> dict | None:
+        """Kratak dodatak na objavljen tekst, iskljucivo iz novih vesti ispod.
+
+        Postojeci tekst se ne dira i ne prepisuje. Zato prompt trazi da se
+        svaka tvrdnja veze za ime medija: dodatak koji kaze "utvrdjeno je"
+        umesto "tuzilastvo tvrdi" je gora greska od toga da dodatka nema."""
+        vesti = "\n\n".join(
+            f"### {it.get('source_name','Izvor')}: {it.get('title','')}\n{(it.get('summary') or '')[:900]}"
+            for it in nove[:4])
+        prompt = (
+            f"Danas je {sr_date(datetime.now(), True)} Objavljenom tekstu ispod treba kratak DODATAK sa novim podacima.\n"
+            "Pravila, bez izuzetka:\n"
+            "- Koristi ISKLJUCIVO cinjenice iz novih vesti ispod. Nista iz svog znanja.\n"
+            "- Svaku tvrdnju vezi za izvor u samoj recenici: 'prema pisanju N1', 'tuzilastvo je saopstilo'.\n"
+            "- Ne ponavljaj ono sto tekst vec kaze i ne prepravljaj ga.\n"
+            "- Ako nova vest protivreci tekstu, napisi to otvoreno, ne zaobilazi.\n"
+            "- Ako nove vesti ne donose nista sto tekst vec nema, vrati prazan spisak pasusa.\n"
+            "- 2 do 4 pasusa. Bez pridevskog naduvavanja.\n"
+            "Vrati JSON: {\"naslov\": \"Azurirano <dan. mesec>: <sta je novo>\", \"pasusi\": [\"...\"]}\n\n"
+            f"OBJAVLJENI TEKST: {a['headline']}\n{a.get('lead','')}\n"
+            + "\n".join(x for x in a.get("body", []) if isinstance(x, str))[:6000]
+            + f"\n\nNOVE VESTI:\n{vesti}"
+        )
+        return self._call(prompt, self.cfg.portal.get("model_analize") or None)
+
     def media(self, a: dict) -> dict | None:
         heads = "\n".join(f"- {s['name']} ({s['spektar']}): „{s.get('title', '')}“" for s in a["sources"][:20])
         prompt = (
@@ -339,6 +364,9 @@ class MockWriter:
         }
 
     def analysis(self, base: dict, related: list[dict]) -> dict | None:
+        return None
+
+    def azuriranje(self, a: dict, nove: list[dict]) -> dict | None:
         return None
 
     def media(self, a: dict) -> dict | None:
