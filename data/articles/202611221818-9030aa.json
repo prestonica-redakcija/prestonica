@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T17:18:53.497052+00:00",
- "updated": "2026-11-22T18:18:28.473353+00:00",
+ "updated": "2026-11-22T18:33:14.699220+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -40,11 +40,25 @@
    "url": "https://www.tanjug.rs/srbija/hronika/300016/saslusan-osumnjiceni-za-silovanje-tuzilastvo-predlozilo-odredivanje-pritvora/vest",
    "title": "Saslušan osumnjičeni za silovanje, tužilaštvo predložilo određivanje pritvora",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4437688-saslusan-osumnjiceni-za-silovanje-na-vozdovcu-tuzilastvo-predlozilo-odredjivanje-pritvora",
+   "title": "Saslušan osumnjičeni za silovanje na Voždovcu: Tužilaštvo predložilo određivanje pritvora",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/saslusan-osumnjiceni-za-silovanje-u-beogradu-tuzilastvo-trazi-pritvor/",
+   "title": "Saslušan osumnjičeni za silovanje u Beogradu: Tužilaštvo traži pritvor",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "OSUMNJIČENI ZA SVIREPU OBLJUBU NEGIRAO DELO Tužilaštvo nakon saslušanja zatražilo pritvor",
-  "Saslušan osumnjičeni za silovanje, tužilaštvo predložilo određivanje pritvora"
+  "Saslušan osumnjičeni za silovanje, tužilaštvo predložilo određivanje pritvora",
+  "Saslušan osumnjičeni za silovanje na Voždovcu: Tužilaštvo predložilo određivanje pritvora",
+  "Saslušan osumnjičeni za silovanje u Beogradu: Tužilaštvo traži pritvor"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,6 +70,6 @@
   "local": true,
   "alt": "Saslušan osumnjičeni za silovanje u Beogradu, tužilaštvo traži pritvor"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

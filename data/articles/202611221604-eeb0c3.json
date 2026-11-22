@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T15:04:55.683026+00:00",
- "updated": "2026-11-22T15:04:55.683026+00:00",
+ "updated": "2026-11-22T18:33:14.699220+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,11 +43,18 @@
    "url": "https://www.kurir.rs/planeta/10169531/ruska-raketna-korveta-verovatno-unistena-u-eksploziji-u-libiji",
    "title": "TEŽAK UDARAC ZA PUTINOVU FLOTU U LIBIJI, RUSKI RATNI BROD U PLAMENU?! Odjeknule jezive eksplozije u Bengaziju: Satelitski snimci otkrivaju katastrofu (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4437686-unisten-ruski-brod-vredan-200-miliona-evra-odjeknula-ogromna-eksplozija-snimak-je-jeziv",
+   "title": "Uništen ruski brod vredan 200 miliona evra! Odjeknula ogromna eksplozija, snimak je jeziv!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Vlada istočne Libije: Sumnja se da je ruski brod u luci Bengazi pogođen dronom",
-  "TEŽAK UDARAC ZA PUTINOVU FLOTU U LIBIJI, RUSKI RATNI BROD U PLAMENU?! Odjeknule jezive eksplozije u Bengaziju: Satelitski snimci otkrivaju katastrofu (VIDEO)"
+  "TEŽAK UDARAC ZA PUTINOVU FLOTU U LIBIJI, RUSKI RATNI BROD U PLAMENU?! Odjeknule jezive eksplozije u Bengaziju: Satelitski snimci otkrivaju katastrofu (VIDEO)",
+  "Uništen ruski brod vredan 200 miliona evra! Odjeknula ogromna eksplozija, snimak je jeziv!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "alt": "a large boat floating on top of a body of water",
   "link": "https://unsplash.com/@dtrinksrph"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
