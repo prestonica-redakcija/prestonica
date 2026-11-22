@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T04:23:22.279213+00:00",
- "updated": "2026-11-22T06:09:55.654792+00:00",
+ "updated": "2026-11-22T07:39:05.269016+00:00",
  "sources": [
   {
    "name": "Telegraf",
@@ -57,6 +57,12 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/299837/u-srbiji-hladno-jutro-posle-podne-jace-naoblacenje-s-kisom/vest",
    "title": "U Srbiji hladno jutro, posle podne jače naoblačenje s kišom",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/vremenska-prognoza-za-danas-oblacno-i-hladno-sa-kisom-temperatura-do-16-stepeni",
+   "title": "Vremenska prognoza za danas: Oblačno i hladno sa kišom, temperatura do 16 stepeni",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -64,7 +70,8 @@
   "Danas oblačno, prepodne suvo, popodne s kišom mestimično, do 18 stepeni",
   "U Srbiji oblačno i hladno sa kišom, do 16 stepeni",
   "Pre podne suvo, posle podne zahlađenje sa padavinama: Temperatura do 19",
-  "U Srbiji hladno jutro, posle podne jače naoblačenje s kišom"
+  "U Srbiji hladno jutro, posle podne jače naoblačenje s kišom",
+  "Vremenska prognoza za danas: Oblačno i hladno sa kišom, temperatura do 16 stepeni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +83,6 @@
   "local": true,
   "alt": "Subota uglavnom oblačna, popodne kiša južno od Save i Dunava, do 18 stepeni"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

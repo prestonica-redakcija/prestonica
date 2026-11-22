@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T16:47:14.145852+00:00",
- "updated": "2026-11-21T16:47:14.145852+00:00",
+ "updated": "2026-11-22T07:39:05.269016+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,11 +43,18 @@
    "url": "https://n1info.rs/svet/anketa-u-nemackoj-skoro-polovina-gradjana-zeli-smanjenje-ili-obustavu-pomoci-ukrajini/",
    "title": "Anketa u Nemačkoj: Skoro polovina građana želi smanjenje ili obustavu pomoći Ukrajini",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/286948/eu-i-indonezija-potpisali-trgovinski-sporazum-ukida-se-985-odsto-carina/vest",
+   "title": "Nakon 10 godina – ukidaju 98,5 odsto carina",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Anketa: Skoro polovina stanovnika Nemačke želi smanjenje ili ukidanje pomoći Ukrajini",
-  "Anketa u Nemačkoj: Skoro polovina građana želi smanjenje ili obustavu pomoći Ukrajini"
+  "Anketa u Nemačkoj: Skoro polovina građana želi smanjenje ili obustavu pomoći Ukrajini",
+  "Nakon 10 godina – ukidaju 98,5 odsto carina"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "alt": "a crowd of people standing around each other holding signs",
   "link": "https://unsplash.com/@etiennegirardet"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

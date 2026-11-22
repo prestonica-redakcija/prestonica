@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T06:54:29.599512+00:00",
- "updated": "2026-11-22T06:54:29.599512+00:00",
+ "updated": "2026-11-22T07:39:05.269016+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -42,11 +42,18 @@
    "url": "https://www.telegraf.rs/vesti/beograd/4437416-veliki-broj-trasa-gsp-izmenjen-zbog-beogradskog-polumaratona",
    "title": "Veliki broj trasa GSP izmenjen zbog Beogradskog polumaratona",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/danas-se-odrzava-beogradski-polumaraton-koje-ulice-su-zatvorene-i-kako-ce-saobracati-gradski-prevoz",
+   "title": "Danas se održava Beogradski polumaraton: Koje ulice su zatvorene i kako će saobraćati gradski prevoz",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "VELIKE IZMENE U SAOBRAĆAJU ZBOG BEOGRADSKOG POLUMARATONA! Evo gde je start trke! Veliki broj GSP autobusa menja trase i neće raditi od 7.30 do 14 časova",
-  "Veliki broj trasa GSP izmenjen zbog Beogradskog polumaratona"
+  "Veliki broj trasa GSP izmenjen zbog Beogradskog polumaratona",
+  "Danas se održava Beogradski polumaraton: Koje ulice su zatvorene i kako će saobraćati gradski prevoz"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "Runners race down a city street",
   "link": "https://unsplash.com/@findway_jerry"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
