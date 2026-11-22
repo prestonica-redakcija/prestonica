@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T08:38:31.634104+00:00",
- "updated": "2026-11-22T10:07:44.098413+00:00",
+ "updated": "2026-11-22T11:36:55.414786+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -66,6 +66,12 @@
    "url": "https://www.euronews.rs/srbija/politika/253145/ana-brnabic-i-njeno-dete-dobili-pretnje-smrcu/vest",
    "title": "Ana Brnabić dobila pretnje smrću upućene njoj i njenom detetu: Oglasila se na mreži \"X\" i objavila skrinšot",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/ana-brnabic-pretnje-studenti/",
+   "title": "Ana Brnabić saopštila da je dobila pretnje i da su za to odgovorni studenti",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -74,7 +80,8 @@
   "Ana Brnabić: U toku noći dobila pretnje upućene mom detetu",
   "Brnabić navodi da je dobila pretnje: \"Pozvali ste ih da nam pišu i vređaju nas\"",
   "Ana Brnabić u toku noći dobila pretnje upućene njenom detetu",
-  "Ana Brnabić dobila pretnje smrću upućene njoj i njenom detetu: Oglasila se na mreži \"X\" i objavila skrinšot"
+  "Ana Brnabić dobila pretnje smrću upućene njoj i njenom detetu: Oglasila se na mreži \"X\" i objavila skrinšot",
+  "Ana Brnabić saopštila da je dobila pretnje i da su za to odgovorni studenti"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -87,8 +94,8 @@
   "alt": "selective focus photography of person using smartphone",
   "link": "https://unsplash.com/@freestocks"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-22T10:07:44.098413+00:00",
  "verzija": 2
 }
