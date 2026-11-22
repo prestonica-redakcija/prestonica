@@ -1,16 +1,5 @@
 {
  "seen": {
-  "https://insajder.net/prenosimo/kakvo-nas-vreme-ocekuje-danas": "2026-11-17T07:19:20.746439+00:00",
-  "https://www.b92.net/info/svet/285613/rat-u-ukrajini-1727-dan/vest": "2026-11-17T07:19:20.746439+00:00",
-  "https://www.euronews.rs/svet/fokus/252400/kriza-na-bliskom-istoku-najnovije-vesti-za-17-novembar/vest": "2026-11-17T07:19:20.746439+00:00",
-  "https://www.b92.net/info/svet/285614/peskov-utvrdjene-glavne-teme-sastanka-sija-putina-i-trampa/vest": "2026-11-17T07:19:20.746439+00:00",
-  "https://www.b92.net/biz/srbija/vesti/285373/nbs-podigla-kamate-evo-ko-ce-placati-skuplje-kredite/vest": "2026-11-17T07:19:20.746439+00:00",
-  "https://www.euronews.rs/srbija/politika/252410/skupstina-srbije-danas-konstitutivna-sednica-novog-saziva/vest": "2026-11-17T07:19:20.746439+00:00",
-  "https://www.kurir.rs/vesti/politika/10164222/konstitutivna-sednica-skupstine-srbije": "2026-11-17T07:19:20.746439+00:00",
-  "https://nova.rs/vesti/politika/pocelo-okupljanje-gradjana-u-pionirskm-parku-pred-konstitutivnu-sednicu-skupstine-studenti-ispracaju-kandidate-sa-liste-video/": "2026-11-17T07:19:20.746439+00:00",
-  "https://www.danas.rs/vesti/politika/kandidati-studentske-liste-i-gradjani-u-pionirskom-parku-uoci-konstitutivne-sednice-skupstine/": "2026-11-17T07:19:20.746439+00:00",
-  "https://www.kurir.rs/stars/10164218/djina-dzinovic-ne-moze-da-podnese-tempo-majke-i-ocuha": "2026-11-17T07:19:20.746439+00:00",
-  "https://www.youtube.com/watch?v=RB_wH6ZRIuE": "2026-11-17T07:19:20.746439+00:00",
   "https://insajder.net/prenosimo/danas-toplije-i-suncano-uvece-naoblacenje-i-kisa": "2026-11-17T07:34:12.995524+00:00",
   "https://insajder.net/prenosimo/sad-izgubile-status-zemlje-u-kojoj-su-male-boginje-eliminisane-posle-26-godina": "2026-11-17T07:34:12.995524+00:00",
   "https://www.tanjug.rs/svet/politika/298386/peskov-sankcije-verovatno-nece-biti-tema-trilateralnog-samita/vest": "2026-11-17T07:34:12.995524+00:00",
@@ -6854,18 +6843,19 @@
   "https://www.novosti.rs/vesti/politika/1673503/fico-upozorio-brisel-zbog-srbije-dozvolite-ponovi-slovacki-scenario-video": "2026-11-22T07:09:20.461833+00:00",
   "https://www.novosti.rs/ekonomija/vesti/1673507/masovni-strajk-nemackoj-23-000-radnika-obustavlja-rad-staje-mercedes": "2026-11-22T07:09:20.461833+00:00",
   "https://informer.rs/politika/vesti/1172082/informer-rem-zasto-nam-sudite": "2026-11-22T07:09:20.461833+00:00",
-  "https://biznis.telegraf.rs/info-biz/4437145-okrenuli-ledja-starom-savezniku-zbog-milijardi-iz-kine-ovim-drzavama-usledilo-razocaranje-i-ekonomski-udar": "2026-11-22T07:09:20.461833+00:00"
+  "https://biznis.telegraf.rs/info-biz/4437145-okrenuli-ledja-starom-savezniku-zbog-milijardi-iz-kine-ovim-drzavama-usledilo-razocaranje-i-ekonomski-udar": "2026-11-22T07:09:20.461833+00:00",
+  "https://www.danas.rs/svet/rusija-dron-zgrada-kijevska-oblast/": "2026-11-22T07:24:11.339593+00:00",
+  "https://n1info.rs/vesti/u-saobracajnoj-nesreci-u-beogradu-tesko-povredjena-mladja-zena/": "2026-11-22T07:24:11.339593+00:00",
+  "https://nova.rs/vesti/hronika/pripadnik-skaljarskog-klana-uhapsen-na-aerodromu-u-zagrebu-krenuo-za-beograd-ali-ga-je-zaustavila-interpolova-poternica/": "2026-11-22T07:24:11.339593+00:00",
+  "https://www.tanjug.rs/ekonomija/svet/299854/nemacki-sindikat-metalne-i-elektroindustrije-organizuje-u-ponedeljak-24-casovni-stajk/vest": "2026-11-22T07:24:11.339593+00:00",
+  "https://www.b92.net/biz/fokus/ko-je-ko/287019/ko-su-osnivaci-kompanije-anthropic/vest": "2026-11-22T07:24:11.339593+00:00",
+  "https://www.kurir.rs/zabava/zanimljivosti/10165332/najdublji-bazen-na-svetu-potopljeni-grad-u-dubaiju": "2026-11-22T07:24:11.339593+00:00",
+  "https://informer.rs/politika/vesti/1172100/djordje-vukadinovic-studentska-lista-eu": "2026-11-22T07:24:11.339593+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-21T16:37+00:00",
-   "novih": 2,
-   "ukupno": 3421,
-   "sekundi": 315.9
-  },
   {
    "vreme": "2026-11-21T16:57+00:00",
    "novih": 5,
@@ -7219,6 +7209,12 @@
    "novih": 8,
    "ukupno": 3528,
    "sekundi": 564.3
+  },
+  {
+   "vreme": "2026-11-22T07:32+00:00",
+   "novih": 2,
+   "ukupno": 3530,
+   "sekundi": 503.0
   }
  ],
  "licnosti_foto": {
@@ -60724,7 +60720,7 @@
   "yt": "Hdk3ahufa64",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-22T07:12:03.541630+00:00",
+  "provereno": "2026-11-22T07:25:52.529293+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": true
  },

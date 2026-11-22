@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T08:51:13.242041+00:00",
- "updated": "2026-11-22T06:39:36.178725+00:00",
+ "updated": "2026-11-22T07:24:11.339593+00:00",
  "sources": [
   {
    "name": "N1",
@@ -50,13 +50,20 @@
    "url": "https://www.tanjug.rs/srbija/hronika/299840/u-saobracajnoj-nesreci-u-bulevaru-kralja-aleksandra-tesko-povredena-zena-pesak/vest",
    "title": "U saobraćajnoj nesreći u Bulevaru Kralja Aleksandra teško povređena žena pešak",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/u-saobracajnoj-nesreci-u-beogradu-tesko-povredjena-mladja-zena/",
+   "title": "U saobraćajnoj nesreći u Beogradu teško povređena mlađa žena",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Dečak i trojica motociklista povređeni u udesima u Nišu",
   "Troje dece povređeno u udesu kod škole u Nišu: Motociklista teško stradao, automobil pokosio pešaka",
   "Hitna pomoć: Povređena žena u saobraćajnoj nesreći na Zvezdari",
-  "U saobraćajnoj nesreći u Bulevaru Kralja Aleksandra teško povređena žena pešak"
+  "U saobraćajnoj nesreći u Bulevaru Kralja Aleksandra teško povređena žena pešak",
+  "U saobraćajnoj nesreći u Beogradu teško povređena mlađa žena"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "local": true,
   "alt": "Saobraćajne nezgode u Nišu: Hitna pomoć zbrinjavala decu i motocikliste"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

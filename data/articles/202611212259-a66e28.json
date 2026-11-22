@@ -40,7 +40,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T21:59:33.342617+00:00",
- "updated": "2026-11-21T21:59:33.342617+00:00",
+ "updated": "2026-11-22T07:24:11.339593+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -53,11 +53,18 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4437369-aktivirao-se-alarm-uhapsen-optuzeni-za-ucesce-u-brutalnom-ubistvu-pao-dok-se-ukrcavao-u-avion-za-beograd",
    "title": "Aktivirao se alarm: Uhapšen optuženi za učešće u brutalnom ubistvu, pao dok se ukrcavao u avion za Beograd!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/pripadnik-skaljarskog-klana-uhapsen-na-aerodromu-u-zagrebu-krenuo-za-beograd-ali-ga-je-zaustavila-interpolova-poternica/",
+   "title": "Pripadnik škaljarskog klana uhapšen na aerodromu u Zagrebu: Krenuo za Beograd, ali ga je zaustavila Interpolova poternica",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "ŠKALJARAC KRENUO ZA BEOGRAD, PA SE NA ZAGREBAČKOM AERODROMU UPALIO ALARM Uhapšen zbog sumnje za učešće u ubistvu poznatog kavčanina po nalogu Kožara i Krstovića",
-  "Aktivirao se alarm: Uhapšen optuženi za učešće u brutalnom ubistvu, pao dok se ukrcavao u avion za Beograd!"
+  "Aktivirao se alarm: Uhapšen optuženi za učešće u brutalnom ubistvu, pao dok se ukrcavao u avion za Beograd!",
+  "Pripadnik škaljarskog klana uhapšen na aerodromu u Zagrebu: Krenuo za Beograd, ali ga je zaustavila Interpolova poternica"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,5 +75,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "U Zagrebu uhapšen osumnjičeni za pomaganje u ubistvu Saše Klikovca"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
