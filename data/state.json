@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://biznis.telegraf.rs/info-biz/4433997-voren-bafet-podario-akcije-vredne-55-milijardi-dolara-pred-dan-zahvalnosti": "2026-11-17T01:07:26.815393+00:00",
   "https://www.telegraf.rs/4434206-macura-osnazivanje-zena-kroz-konkretne-prilike-vodi-njihovoj-ekonomskoj-nezavisnosti": "2026-11-17T02:07:09.887850+00:00",
   "https://nova.rs/magazin/vremenska-prognoza/u-srbiji-ujutru-magla-tokom-dana-toplije/": "2026-11-17T02:21:59.657116+00:00",
   "https://www.danas.rs/vesti/drustvo/vreme-danas-ujutru-magla-tokom-dana-toplije/": "2026-11-17T02:21:59.657116+00:00",
@@ -6876,18 +6875,13 @@
   "https://www.kurir.rs/planeta/10169133/tramp-objavio-fotografije-sa-putinom-i-si-djinpingom": "2026-11-21T23:58:22.221069+00:00",
   "https://www.kurir.rs/zabava/zanimljivosti/10167824/sta-je-jeo-nikola-tesla-i-zasto-je-preskakao-rucak": "2026-11-21T23:58:22.221069+00:00",
   "https://www.telegraf.rs/vesti/srbija/4437382-umro-zivojin-jokanovic": "2026-11-21T23:58:22.221069+00:00",
-  "https://biznis.telegraf.rs/info-biz/4437279-fajnensel-tajms-isporuke-nafte-kroz-ormuski-moreuz-prepolovljene-za-nedelju-dana": "2026-11-22T00:13:10.495900+00:00"
+  "https://biznis.telegraf.rs/info-biz/4437279-fajnensel-tajms-isporuke-nafte-kroz-ormuski-moreuz-prepolovljene-za-nedelju-dana": "2026-11-22T00:13:10.495900+00:00",
+  "https://biznis.telegraf.rs/info-biz/4437283-eu-i-indonezija-potpisale-trgovinski-sporazum-posle-10-godina-pregovora": "2026-11-22T01:12:51.945875+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-21T10:28+00:00",
-   "novih": 6,
-   "ukupno": 3321,
-   "sekundi": 499.9
-  },
   {
    "vreme": "2026-11-21T10:42+00:00",
    "novih": 7,
@@ -7241,6 +7235,12 @@
    "novih": 0,
    "ukupno": 3506,
    "sekundi": 307.3
+  },
+  {
+   "vreme": "2026-11-22T01:20+00:00",
+   "novih": 0,
+   "ukupno": 3506,
+   "sekundi": 434.1
   }
  ],
  "licnosti_foto": {
@@ -10047,11 +10047,11 @@
    },
    "parandilovicnls": {
     "since_id": "2124240048296247400",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "ininic": {
     "since_id": "2124268414059397359",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -10059,15 +10059,15 @@
    },
    "sviublokade_fdu": {
     "since_id": "2123543689855390002",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "dragandjilas": {
     "since_id": "2121691848313884992",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "marinikatepic": {
     "since_id": "2122007271508959331",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "radomirlazovic": {
     "since_id": null,
@@ -10107,11 +10107,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "studentblokade": {
     "since_id": "2123809021022847349",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -10167,11 +10167,11 @@
    },
    "borkostef": {
     "since_id": "2123837042505155014",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "dobrinacelnik": {
     "since_id": "2124156307431207365",
@@ -10183,7 +10183,7 @@
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "srdjanmil037": {
     "since_id": "2124187241647931542",
@@ -10235,7 +10235,7 @@
    },
    "borakonj": {
     "since_id": "2124246520983896126",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "narodnipokrets": {
     "since_id": "2123734701261169003",
@@ -10243,67 +10243,67 @@
    },
    "direktnors": {
     "since_id": "2124248806594171280",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "crtars": {
     "since_id": "2124112878567555576",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "veceivan": {
     "since_id": "2124208874169229782",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "repjoewilson": {
     "since_id": "2123869192789094550",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "jugoslavcosic": {
     "since_id": "2123147946694787141",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "tvnova_s": {
     "since_id": "2124249670524289430",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "oljautisak": {
     "since_id": "2124115162684629476",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "srdjan_nogo": {
     "since_id": "2123527863307735237",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "agrifblokira": {
     "since_id": "2123785161347154262",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "etfblokada": {
     "since_id": "2123443984156504503",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "nastraninaroda": {
     "since_id": "2124240486932386139",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "bcenzure": {
     "since_id": "2124222127431627021",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "bezstraha26279": {
     "since_id": "2124116392039645581",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "lazidetektor": {
-    "since_id": "2124246292759036173",
-    "t": 1795305542.4526792
+    "since_id": "2124308540944781427",
+    "t": 1795310000.3703609
    },
    "nedeljniknin": {
     "since_id": "2124216278017610198",
@@ -10319,11 +10319,11 @@
    },
    "tvbalkaninfo": {
     "since_id": "2124225258324660295",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "1152justice": {
     "since_id": "2123584561330217393",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    },
    "zatrijebacki": {
     "since_id": "2123844027036709035",
@@ -10355,10 +10355,91 @@
    },
    "masinars": {
     "since_id": "2124230635392836072",
-    "t": 1795305542.4526792
+    "t": 1795310000.3703609
    }
   },
   "posts": [
+   {
+    "id": "2124308540944781427",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "VUČIĆ UPOZORIO STUDENTSKU LISTU: \"Onog sekunda kada nestane strah, nastaće žestok otpor!\"\n\n\"Zaboravili su oni na moje reči od prvog dana: Andronikusa I Komnina, on je poslednji vladar iz dinastije Komnina u Vizantiji 1183. do 1185, dve godine vladao. Uneli su ga u carsku palatu, https://t.co/UD4fld758V",
+    "published": "2026-11-22T01:06:38.000+00:00",
+    "lajk": 1,
+    "slike": [
+     "https://pbs.twimg.com/amplify_video_thumb/2124308497730875392/img/FKElHpIfENtoEJ6t.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić o Studentskoj listi i strahu, poređenje sa Andronikom Komninom"
+   },
+   {
+    "id": "2124307409732620445",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "ALEKSANDAR VUČIĆ RAZMONTIRAO ALEKSANDRA ČUPIĆA: \"Nije on nikakav isposnik iz monaške kelije sa Kosmaja, on je vlasnik solitera u Beogradu i vlasnik latifundija!\" https://t.co/iiDP3N1EbX",
+    "published": "2026-11-22T01:02:08.000+00:00",
+    "lajk": 0,
+    "slike": [
+     "https://pbs.twimg.com/amplify_video_thumb/2124307232544243712/img/KY12vJH4YAeXWh0A.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić o Aleksandru Čupiću, predsedniku Skupštine",
+    "vest": "202611212115-fa9b07"
+   },
+   {
+    "id": "2124305815213314259",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "ALEKSANDAR VUČIĆ: \"Oružane formacije Studentske liste reketiraju po Srbiji, tuku, maltretiraju, podmeću bombe, pale restorane, kafane…\" https://t.co/F8WzvgdMET",
+    "published": "2026-11-22T00:55:48.000+00:00",
+    "lajk": 4,
+    "slike": [
+     "https://pbs.twimg.com/amplify_video_thumb/2124305769940094976/img/KZjXD0JZkuP7xiYO.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić tvrdi da oružane formacije Studentske liste reketiraju po Srbiji"
+   },
+   {
+    "id": "2124305103469285513",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "ALEKSANDAR VUČIĆ: \"Glavni hrvatski medij 'Jutarnji list' priznao da je Hrvatska, ali i ne samo Hrvatska već i druge EU zemlje, učestvovala u rušenju vlasti u Srbiji. To je definicija spolja uvezene i skupo plaćene - OBOJENE REVOLUCIJE!\" https://t.co/DHrnAA88Mi",
+    "published": "2026-11-22T00:52:59.000+00:00",
+    "lajk": 2,
+    "slike": [
+     "https://pbs.twimg.com/amplify_video_thumb/2124304878579171328/img/J6qQeKe_qauYO3j3.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić o tekstu Jutarnjeg lista i 'obojenoj revoluciji'"
+   },
+   {
+    "id": "2124303257358979347",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "MINJA MILETIĆ I ĐORĐE VUKADINOVIĆ O N1 I NOVOJ S: \"Nekada opozicioni mediji su sad postali - REŽIMSKI!\" https://t.co/3m4or4j9d7",
+    "published": "2026-11-22T00:45:38.000+00:00",
+    "lajk": 0,
+    "slike": [
+     "https://pbs.twimg.com/amplify_video_thumb/2124303229060001793/img/r7GMc9KoXLUwuo9s.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "mediji",
+    "tema": "Miletić i Vukadinović o N1 i Novoj S kao režimskim medijima"
+   },
    {
     "id": "2124268414059397359",
     "x": "INinic",
@@ -21015,74 +21096,6 @@
     "prikazi": false,
     "rubrika": "politika",
     "tema": "Nejasna objava o 23. mestu"
-   },
-   {
-    "id": "2123379783866425696",
-    "x": "studentblokade",
-    "ime": "Studenti u blokadi",
-    "grupa": "studenti",
-    "uloga": "",
-    "text": "„Ви сте слика и прилика мог пораза“ - народни посланик А. В.",
-    "published": "2026-11-19T11:36:05.000+00:00",
-    "lajk": 1648,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Studenti citiraju Vučića o porazu",
-    "vest": "202611191256-c841e5"
-   },
-   {
-    "id": "2123378893226705146",
-    "x": "avucic",
-    "ime": "Aleksandar Vučić",
-    "grupa": "vlast",
-    "uloga": "Predsednik Srbije",
-    "text": "Чупић је професор колико је и Неле Карајлић доктор, али нико не иде да се лечи код њега. https://t.co/9Yq0CY2anR",
-    "published": "2026-11-19T11:32:33.000+00:00",
-    "lajk": 100,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Vučić o Čupićevoj profesorskoj tituli",
-    "vest": "202611191057-d465cc"
-   },
-   {
-    "id": "2123378713639207405",
-    "x": "sns_srbija",
-    "ime": "SNS",
-    "grupa": "vlast",
-    "uloga": "Srpska napredna stranka",
-    "text": "Они су лагали апсолутно биографију њиховог кандидата. @adv_djuka https://t.co/eN0QLVOldC",
-    "published": "2026-11-19T11:31:50.000+00:00",
-    "lajk": 12,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "SNS o biografiji kandidata Čupića",
-    "vest": "202611191057-d465cc"
-   },
-   {
-    "id": "2123378257601147389",
-    "x": "NedeljnikNIN",
-    "ime": "NIN",
-    "grupa": "",
-    "uloga": "",
-    "text": "Telo muškarca pronađeno u automobilu na Adi Huji, sumnja se na samoubistvo\nhttps://t.co/dIVVZu2QfE",
-    "published": "2026-11-19T11:30:01.000+00:00",
-    "lajk": 0,
-    "prikazi": false,
-    "rubrika": "hronika",
-    "tema": "Telo muškarca pronađeno u automobilu na Adi Huji"
-   },
-   {
-    "id": "2123377718238855361",
-    "x": "NaStraniNaroda",
-    "ime": "Vukša Dragović",
-    "grupa": "",
-    "uloga": "",
-    "text": "“Klela”…🤦‍♂️ https://t.co/H1MgGsC44L",
-    "published": "2026-11-19T11:27:53.000+00:00",
-    "lajk": 65,
-    "prikazi": false,
-    "rubrika": "politika",
-    "tema": "Komentar bez jasnog smisla"
    }
   ],
   "pratim": [
@@ -60411,7 +60424,7 @@
   "yt": "Hdk3ahufa64",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-22T00:58:21.812741+00:00",
+  "provereno": "2026-11-22T01:13:40.069018+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": true
  },

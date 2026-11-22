@@ -37,7 +37,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T09:06:07.943104+00:00",
- "updated": "2026-11-21T21:44:33.808460+00:00",
+ "updated": "2026-11-22T01:12:51.945875+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -74,6 +74,12 @@
    "url": "https://n1info.rs/svet/eu-i-indonezija-sporazum-trgovina-investicije/",
    "title": "EU i Indonezija potpisale sporazume o trgovini i investicijama - posle 10 godina pregovora",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4437283-eu-i-indonezija-potpisale-trgovinski-sporazum-posle-10-godina-pregovora",
+   "title": "EU i Indonezija potpisale trgovinski sporazum posle 10 godina pregovora",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -82,7 +88,8 @@
   "Danas 31. godišnjica potpisivanja Dejtonskog sporazuma, u RS državni praznik i neradni dan",
   "Dan kada je zaustavljen rat u BiH; Dejtonski sporazum parafiran pre 31 godinu",
   "Pre 31 godinu potpisan Dejtonski sporazum: Ovako je posle dramatičnih pregovora okončan rat u BiH i potvrđena Republika Srpska!",
-  "EU i Indonezija potpisale sporazume o trgovini i investicijama - posle 10 godina pregovora"
+  "EU i Indonezija potpisale sporazume o trgovini i investicijama - posle 10 godina pregovora",
+  "EU i Indonezija potpisale trgovinski sporazum posle 10 godina pregovora"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -95,6 +102,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Manastir_Dobrun,_Republika_Srpska.JPG",
   "alt": "Navršilo se 31 godinu od parafiranja Dejtonskog sporazuma, u RS neradni dan"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }
