@@ -29,17 +29,24 @@
  ],
  "importance": 5,
  "published": "2026-11-21T10:05:36.471344+00:00",
- "updated": "2026-11-21T10:05:36.471344+00:00",
+ "updated": "2026-11-22T10:07:44.098413+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1673327/biraju-samo-podobni-kadrovi-studentske-liste-vucic-novim-potpredsednicima-skupstine",
    "title": "„BIRAJU SE SAMO PODOBNI KADROVI STUDENTSKE LISTE“: Vučić o novim potpredsednicima Skupštine",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/lutovac-o-potpredsednicima-skupstine-studentska-lista-pobedila-nudeci-promene-mimo-stranaka/",
+   "title": "Lutovac o potpredsednicima Skupštine: Studentska lista pobedila nudeći promene mimo stranaka",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "„BIRAJU SE SAMO PODOBNI KADROVI STUDENTSKE LISTE“: Vučić o novim potpredsednicima Skupštine"
+  "„BIRAJU SE SAMO PODOBNI KADROVI STUDENTSKE LISTE“: Vučić o novim potpredsednicima Skupštine",
+  "Lutovac o potpredsednicima Skupštine: Studentska lista pobedila nudeći promene mimo stranaka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučić kritikovao izbor potpredsednika Skupštine: nema opozicije ni manjinskih stranaka"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

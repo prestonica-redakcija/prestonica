@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T09:08:11.102597+00:00",
- "updated": "2026-11-22T09:52:49.543813+00:00",
+ "updated": "2026-11-22T10:07:44.098413+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -41,11 +41,18 @@
    "url": "https://insajder.net/prenosimo/akademski-plenum-pozvao-clanove-senata-univerziteta-u-novom-sadu-da-glasaju-za-smenu-rektora",
    "title": "Akademski plenum pozvao članove Senata Univerziteta u Novom Sadu da glasaju za smenu rektora",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/akademski-plenum-pozvao-senat-univerziteta-u-novom-sadu-da-glasaju-za-smenu-rektora-madica/",
+   "title": "Akademski plenum pozvao Senat Univerziteta u Novom Sadu da glasaju za smenu rektora Madića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Akademski plenum pozvao članove Senata Univerziteta u Novom Sadu da glasaju za smenu rektora",
-  "Akademski plenum pozvao članove Senata Univerziteta u Novom Sadu da glasaju za smenu rektora"
+  "Akademski plenum pozvao članove Senata Univerziteta u Novom Sadu da glasaju za smenu rektora",
+  "Akademski plenum pozvao Senat Univerziteta u Novom Sadu da glasaju za smenu rektora Madića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,6 +64,6 @@
   "local": true,
   "alt": "Akademski plenum traži od Senata da glasa za razrešenje rektora Novosadskog univerziteta"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

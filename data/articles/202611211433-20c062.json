@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T13:33:53.057486+00:00",
- "updated": "2026-11-21T19:45:30.510819+00:00",
+ "updated": "2026-11-22T10:07:44.098413+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -51,12 +51,19 @@
    "url": "https://nova.rs/emisije/dnevnik-cela-emisija-20112026/",
    "title": "Dnevnik - Cela emisija - 20.11.2026.",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/emisije/pokreni-se-cela-emisija-21112026/",
+   "title": "Pokreni se - Cela emisija - 21.11.2026.",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "OŠTA DEBATA UŽIVO U PROGRAMU! Dragović: \"Čupić brani plenume, državu nam vode NVO\" Todorović: \"To su teorije zavere, SL ne krši Ustav Srbije\"",
   "Među nama - Cela emisija - 20.11.2026.",
-  "Dnevnik - Cela emisija - 20.11.2026."
+  "Dnevnik - Cela emisija - 20.11.2026.",
+  "Pokreni se - Cela emisija - 21.11.2026."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "local": true,
   "alt": "Debata u emisiji Puls Srbije o izboru potpredsednika Skupštine i ulozi plenuma"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
