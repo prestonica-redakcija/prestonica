@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T14:48:17.077113+00:00",
- "updated": "2026-11-22T12:06:46.562262+00:00",
+ "updated": "2026-11-22T13:50:41.238649+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -42,11 +42,18 @@
    "url": "https://standard.rs/2026/11/22/kakva-je-cena-evropskih-integracija/",
    "title": "Kakva je cena evropskih integracija?",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/od-srbije-do-evrope-da-li-generacija-z-pokrece-novi-talas-politickog-bunta/",
+   "title": "Od Srbije do Evrope: Da li generacija Z pokreće novi talas političkog bunta?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Subotić (Centar za evropske politike): Srbija je glavna tema u Briselu, nova vlast ima priliku da pokrene evropske integracije (VIDEO)",
-  "Kakva je cena evropskih integracija?"
+  "Kakva je cena evropskih integracija?",
+  "Od Srbije do Evrope: Da li generacija Z pokreće novi talas političkog bunta?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +65,6 @@
   "local": true,
   "alt": "Subotić: Srbija bi već u decembru ili januaru mogla da otključa deo evropskih fondova"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

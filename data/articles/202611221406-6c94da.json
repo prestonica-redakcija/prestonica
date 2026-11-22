@@ -29,17 +29,24 @@
  ],
  "importance": 6,
  "published": "2026-11-22T13:06:05.483146+00:00",
- "updated": "2026-11-22T13:06:05.483146+00:00",
+ "updated": "2026-11-22T13:50:41.238649+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/nama-je-trebala-bankarka-a-ne-ministarka-goran-bogdan-o-ulozi-dubravke-djedovic-handanovic-u-njegovom-projektu-u-istri/",
    "title": "\"Nama je trebala bankarka, a ne ministarka“: Goran Bogdan o ulozi Dubravke Đedović Handanović u njegovom projektu u Istri",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/nama-je-trebala-dubravka-bankarka-a-ne-dubravka-ministarka-goran-bogdan-progovorio-o-aferi-sa-srpskom-ministarkom-i-otkrio-kakvu-ulogu-je-imala-u-projektu-u-istri/",
+   "title": "\"Nama je bila potrebna Dubravka bankarka, a ne Dubravka ministarka\": Goran Bogdan o aferi sa srpskom ministarkom i njenoj ulozi u projektu u Istri",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "\"Nama je trebala bankarka, a ne ministarka“: Goran Bogdan o ulozi Dubravke Đedović Handanović u njegovom projektu u Istri"
+  "\"Nama je trebala bankarka, a ne ministarka“: Goran Bogdan o ulozi Dubravke Đedović Handanović u njegovom projektu u Istri",
+  "\"Nama je bila potrebna Dubravka bankarka, a ne Dubravka ministarka\": Goran Bogdan o aferi sa srpskom ministarkom i njenoj ulozi u projektu u Istri"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Bogdan o ministarki u projektu u Istri: pozvana kao bankarka, njen udeo sam preuzeo"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -25,17 +25,24 @@
  ],
  "importance": 3,
  "published": "2026-11-22T12:06:46.562262+00:00",
- "updated": "2026-11-22T12:06:46.562262+00:00",
+ "updated": "2026-11-22T13:50:41.238649+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10169363/muskarac-poginuo-u-saobracajnoj-nesreci-u-sjenici",
    "title": "STRAVIČNA SAOBRAĆAJKA U SJENICI, POGINUO MUŠKARAC: U nesreći učestvovao automobil, okolnosti se utvrđuju",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/rts-muskarac-poginuo-u-saobracajnoj-nesreci-kod-nove-varosi/",
+   "title": "RTS: Muškarac poginuo u saobraćajnoj nesreći kod Nove Varoši",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "STRAVIČNA SAOBRAĆAJKA U SJENICI, POGINUO MUŠKARAC: U nesreći učestvovao automobil, okolnosti se utvrđuju"
+  "STRAVIČNA SAOBRAĆAJKA U SJENICI, POGINUO MUŠKARAC: U nesreći učestvovao automobil, okolnosti se utvrđuju",
+  "RTS: Muškarac poginuo u saobraćajnoj nesreći kod Nove Varoši"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Poginuo muškarac u saobraćajnoj nesreći u Sjenici, okolnosti se utvrđuju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
