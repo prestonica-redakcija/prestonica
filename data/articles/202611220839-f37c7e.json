@@ -33,7 +33,7 @@
  ],
  "importance": 3,
  "published": "2026-11-22T07:39:05.269016+00:00",
- "updated": "2026-11-22T07:39:05.269016+00:00",
+ "updated": "2026-11-22T10:37:27.040538+00:00",
  "sources": [
   {
    "name": "N1",
@@ -64,6 +64,12 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4437422-tragican-kraj-potrage-za-decakom-6-oji-je-upao-u-reku-u-podgorici-ronioci-pronasli-telo",
    "title": "Tragičan kraj potrage za dečakom (6) koji je upao u reku u Podgorici: Ronioci pronašli telo",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4437486-tragican-kraj-potrage-za-sestogodisnjakom-nismo-mogli-da-odustanemo-oni-su-prvi-pronasli-telo",
+   "title": "Tragičan kraj potrage za šestogodišnjakom: „Nismo mogli da odustanemo“, oni su prvi pronašli telo",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -71,7 +77,8 @@
   "Tragičan kraj potrage za detetom koje je upalo u reku; Ronioci pronašli telo",
   "Ronioci pronašli telo deteta koje je upalo u reku Ribnicu",
   "PODGORICA ZAVIJENA U CRNO: Tužan kraj potrage: Ronioci pronašli telo mališana (6) koji je upao u reku (FOTO)",
-  "Tragičan kraj potrage za dečakom (6) koji je upao u reku u Podgorici: Ronioci pronašli telo"
+  "Tragičan kraj potrage za dečakom (6) koji je upao u reku u Podgorici: Ronioci pronašli telo",
+  "Tragičan kraj potrage za šestogodišnjakom: „Nismo mogli da odustanemo“, oni su prvi pronašli telo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -83,5 +90,7 @@
   "local": false,
   "alt": "A red and yellow boat traveling down a river",
   "link": "https://unsplash.com/@bullterriere"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

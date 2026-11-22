@@ -29,17 +29,24 @@
  ],
  "importance": 4,
  "published": "2026-11-22T07:39:05.269016+00:00",
- "updated": "2026-11-22T07:39:05.269016+00:00",
+ "updated": "2026-11-22T10:37:27.040538+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/moskva-sastali-se-patrijarh-ruske-crkve-kiril-i-patrijarh-spc-porfirije/",
    "title": "Moskva: Sastali se patrijarh Ruske crkve Kiril i patrijarh SPC Porfirije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/patrijarh-porfirije-u-moskvi-u-poseti-ruskom-patrijarhu-kirilu/",
+   "title": "Patrijarh Porfirije u Moskvi u poseti ruskom patrijarhu Kirilu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Moskva: Sastali se patrijarh Ruske crkve Kiril i patrijarh SPC Porfirije"
+  "Moskva: Sastali se patrijarh Ruske crkve Kiril i patrijarh SPC Porfirije",
+  "Patrijarh Porfirije u Moskvi u poseti ruskom patrijarhu Kirilu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Patrijarh Porfirije u Moskvi razgovarao sa patrijarhom Kirilom"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

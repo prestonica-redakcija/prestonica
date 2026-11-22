@@ -29,17 +29,24 @@
  ],
  "importance": 4,
  "published": "2026-11-20T23:55:33.431849+00:00",
- "updated": "2026-11-20T23:55:33.431849+00:00",
+ "updated": "2026-11-22T10:37:27.040538+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/ekonomija/potres-na-volstritu-akcije-antropika-nvidije-i-drugih-tehnoloskih-kompanija-u-padu/",
    "title": "Potres na Volstritu: Akcije Antropika, Nvidije i drugih tehnoloških kompanija u padu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1673568/pad-tehnoloskog-giganta-alfabet-prestigao-nvidiju-nakon-ostrog-pada-akcija",
+   "title": "PAD TEHNOLOŠKOG GIGANTA: Alfabet prestigao Nvidiju nakon oštrog pada akcija",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Potres na Volstritu: Akcije Antropika, Nvidije i drugih tehnoloških kompanija u padu"
+  "Potres na Volstritu: Akcije Antropika, Nvidije i drugih tehnoloških kompanija u padu",
+  "PAD TEHNOLOŠKOG GIGANTA: Alfabet prestigao Nvidiju nakon oštrog pada akcija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg",
   "alt": "Akcije Antropika pale oko 10 odsto dan nakon rekordnog izlaska na berzu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
