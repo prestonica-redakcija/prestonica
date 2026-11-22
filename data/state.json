@@ -6871,18 +6871,13 @@
   "https://www.euronews.rs/svet/fokus/253080/gaza-za-350000-porodica-hitno-potreban-smestaj/vest": "2026-11-22T02:12:16.501306+00:00",
   "https://www.euronews.rs/biznis/novac/253087/kurs-dinara-od-ponedeljka-evo-koliko-vrede-evro-i-dolar/vest": "2026-11-22T04:11:04.235882+00:00",
   "https://www.telegraf.rs/vesti/srbija/4437302-pre-podne-suvo-posle-podne-zahladjenje-sa-padavinama-temperatura-do-19": "2026-11-22T04:25:56.495004+00:00",
-  "https://www.kurir.rs/vesti/srbija/10168796/svetski-dan-deteta-interaktivni-koncert-za-malisane": "2026-11-22T04:25:56.495004+00:00"
+  "https://www.kurir.rs/vesti/srbija/10168796/svetski-dan-deteta-interaktivni-koncert-za-malisane": "2026-11-22T04:25:56.495004+00:00",
+  "https://www.kurir.rs/zabava/zena/10168345/domacice-otkrile-caku-za-pakovanje-pecenih-paprika": "2026-11-22T04:40:46.907570+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-21T13:54+00:00",
-   "novih": 4,
-   "ukupno": 3391,
-   "sekundi": 374.8
-  },
   {
    "vreme": "2026-11-21T14:10+00:00",
    "novih": 2,
@@ -7236,6 +7231,12 @@
    "novih": 0,
    "ukupno": 3507,
    "sekundi": 349.7
+  },
+  {
+   "vreme": "2026-11-22T04:47+00:00",
+   "novih": 0,
+   "ukupno": 3507,
+   "sekundi": 434.0
   }
  ],
  "licnosti_foto": {
@@ -60431,7 +60432,7 @@
   "yt": "Hdk3ahufa64",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-22T04:26:24.587153+00:00",
+  "provereno": "2026-11-22T04:41:16.980427+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": true
  },
