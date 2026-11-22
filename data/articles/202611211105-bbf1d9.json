@@ -37,17 +37,24 @@
  ],
  "importance": 8,
  "published": "2026-11-21T10:05:36.471344+00:00",
- "updated": "2026-11-21T10:05:36.471344+00:00",
+ "updated": "2026-11-22T17:18:53.497052+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/srbija/politika/253031/predsednicki-izbori-u-srbiji-rokovi-kandidati-i-procene/vest",
    "title": "Srbija uskoro ide na predsedničke izbore: Ko će biti kandidati i kakve su procene rezultata Lopandića i Milosavljevića",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/predsednicki-izbori-moraju-biti-raspisani-do-27-novembra-ovo-su-moguci-kandidati-oglasili-se-dacic-i-karic/",
+   "title": "Predsednički izbori moraju biti raspisani do 27. novembra: Ovo su mogući kandidati, oglasili se Dačić i Karić",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Srbija uskoro ide na predsedničke izbore: Ko će biti kandidati i kakve su procene rezultata Lopandića i Milosavljevića"
+  "Srbija uskoro ide na predsedničke izbore: Ko će biti kandidati i kakve su procene rezultata Lopandića i Milosavljevića",
+  "Predsednički izbori moraju biti raspisani do 27. novembra: Ovo su mogući kandidati, oglasili se Dačić i Karić"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Čupić najavio raspisivanje predsedničkih izbora do 27. novembra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

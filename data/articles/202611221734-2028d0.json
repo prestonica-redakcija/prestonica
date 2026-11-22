@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T16:34:11.943597+00:00",
- "updated": "2026-11-22T16:34:11.943597+00:00",
+ "updated": "2026-11-22T17:18:53.497052+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://www.danas.rs/vesti/ekonomija/ds-na-sutrasnjoj-sednici-skupstine-beograda-tacka-kojom-bi-grad-mogao-da-se-zaduzi-105-miliona-evra/",
    "title": "DS: Na sutrašnjoj sednici Skupštine Beograda tačka kojom bi Grad mogao da se zaduži 105 miliona evra?",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/ds-naprednjaci-spremili-predlog-za-skupstinu-grada-beograda-zaduzice-jos-105-miliona-evra/",
+   "title": "DS: Naprednjaci spremili predlog za Skupštinu grada Beograda, zadužiće još 105 miliona evra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "DS: Naprednjaci spremili predlog za Skupštinu grada Beograda, zadužiće još 105 miliona evra",
-  "DS: Na sutrašnjoj sednici Skupštine Beograda tačka kojom bi Grad mogao da se zaduži 105 miliona evra?"
+  "DS: Na sutrašnjoj sednici Skupštine Beograda tačka kojom bi Grad mogao da se zaduži 105 miliona evra?",
+  "DS: Naprednjaci spremili predlog za Skupštinu grada Beograda, zadužiće još 105 miliona evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Za_pravednu_Srbiju_%E2%80%93_Demokratska_stranka_1.jpg",
   "alt": "DS: Skupština Beograda sutra razmatra kupovinu deonica Eurofime od 105 miliona evra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

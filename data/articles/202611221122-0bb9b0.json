@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T10:22:29.986901+00:00",
- "updated": "2026-11-22T16:49:09.323963+00:00",
+ "updated": "2026-11-22T17:18:53.497052+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -74,6 +74,12 @@
    "url": "https://n1info.rs/vesti/ugljesa-mrdic-najavio-tuzbu-protiv-krik-stan/",
    "title": "Uglješa Mrdić najavio tužbu protiv Krika zbog teksta o dva stana",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/ugljesa-mrdic-najavio-tuzbu-pritv-krika-zbog-teksta-o-dva-stana/",
+   "title": "Uglješa Mrdić najavio tužbu pritv KRIK-a zbog teksta o dva stana",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -83,7 +89,8 @@
   "Mrdić najavio tužbu protiv KRIK-a zbog povrede časti i ugleda",
   "Mrdić najavio tužbu protiv KRIK-a zbog teksta o kupovini nekretnina: Nisam je Aleksandar Čupić i nemam sedam stanova",
   "Mrdić (SNS) najavio tužbu protiv KRIK-a zbog teksta o dva stana",
-  "Uglješa Mrdić najavio tužbu protiv Krika zbog teksta o dva stana"
+  "Uglješa Mrdić najavio tužbu protiv Krika zbog teksta o dva stana",
+  "Uglješa Mrdić najavio tužbu pritv KRIK-a zbog teksta o dva stana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -96,8 +103,8 @@
   "alt": "restaurant menus on clipboards close up",
   "link": "https://unsplash.com/@golfarisa"
  },
- "novo_od_pisanja": 2,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-22T15:49:43.393539+00:00",
  "verzija": 2
 }
