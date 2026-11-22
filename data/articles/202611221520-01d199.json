@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T14:20:20.657596+00:00",
- "updated": "2026-11-22T14:20:20.657596+00:00",
+ "updated": "2026-11-22T14:50:08.508958+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.b92.net/info/hronika/287166/uhapsene-tri-osobe-u-nisu-za-vise-krivicnih-dela-ostecen-budzet-srbije-i-srbijavoda-oglasio-se-mup/vest",
    "title": "Uhapšene tri osobe u Nišu za više krivičnih dela; Oštećen budžet Srbije i Srbijavoda; Oglasio se MUP",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/mup-uhapsene-tri-osobe-u-nisu-za-vise-krivicnih-dela-ostecen-budzet-srbije-i-srbijavoda",
+   "title": "MUP: Uhapšene tri osobe u Nišu za više krivičnih dela, oštećen budžet Srbije i Srbijavoda",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Uhapšene tri osobe u Nišu za više krivičnih dela, oštećen budžet Srbije i Srbijavoda",
-  "Uhapšene tri osobe u Nišu za više krivičnih dela; Oštećen budžet Srbije i Srbijavoda; Oglasio se MUP"
+  "Uhapšene tri osobe u Nišu za više krivičnih dela; Oštećen budžet Srbije i Srbijavoda; Oglasio se MUP",
+  "MUP: Uhapšene tri osobe u Nišu za više krivičnih dela, oštećen budžet Srbije i Srbijavoda"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "U Nišu uhapšene tri osobe zbog sumnje na zloupotrebu položaja i pranje novca"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

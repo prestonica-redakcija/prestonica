@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T13:50:41.238649+00:00",
- "updated": "2026-11-22T14:20:20.657596+00:00",
+ "updated": "2026-11-22T14:50:08.508958+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -50,12 +50,26 @@
    "url": "https://www.kurir.rs/region/bosna-i-hercegovina/10169512/milorad-dodik-i-zvanicnici-rs-cestitali-igoru-dodiku-izbora-za-mandatara",
    "title": "MILORAD DODIK PONOSAN NA SINA IGORA: \"Od srca mu čestitam, on je dete SNSD-a, moja pobeda i ponos\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/region/milorad-dodik-igor-je-moj-ponos-i-moja-pobeda/",
+   "title": "Milorad Dodik nakon izbora sina za mandatara Vlade RS: Igor je moj ponos i moja pobeda",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/milorad-dodik-igor-je-moj-ponos-i-moja-pobeda/",
+   "title": "Milorad Dodik: Igor je moj ponos i moja pobeda",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Oglasio se Milorad Dodik povodom imenovanja sina Igora Dodika za premijera entiteta RS: „Dete SNSD-a, moj ponos i pobeda“",
   "Vojin Mijatović čestitao Igoru Dodiku",
-  "MILORAD DODIK PONOSAN NA SINA IGORA: \"Od srca mu čestitam, on je dete SNSD-a, moja pobeda i ponos\""
+  "MILORAD DODIK PONOSAN NA SINA IGORA: \"Od srca mu čestitam, on je dete SNSD-a, moja pobeda i ponos\"",
+  "Milorad Dodik nakon izbora sina za mandatara Vlade RS: Igor je moj ponos i moja pobeda",
+  "Milorad Dodik: Igor je moj ponos i moja pobeda"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +83,6 @@
   "osoba": "Milorad Dodik",
   "alt": "Igor Dodik mandatar za sastav nove vlade Republike Srpske, čestitali Dodik i Mijatović"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
