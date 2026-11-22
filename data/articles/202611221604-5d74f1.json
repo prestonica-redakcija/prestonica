@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T15:04:55.683026+00:00",
- "updated": "2026-11-22T15:04:55.683026+00:00",
+ "updated": "2026-11-22T15:19:47.474740+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,11 +47,18 @@
    "url": "https://n1info.rs/svet/u-velikoj-britaniji-proizvodice-se-dronovi-za-ukrajinu/",
    "title": "U Velikoj Britaniji proizvodiće se dronovi za Ukrajinu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/britanija-povlaci-veliki-potez-protiv-rusije-na-njenom-tlu-proizvodice-se-ukrajinski-dronovi-dugog-dometa/",
+   "title": "Britanija povlači veliki potez protiv Rusije: Na njenom tlu proizvodiće se ukrajinski dronovi dugog dometa",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Volodimir Zelenski: Rusija za nedelju dana lansirala 2.700 dronova, 165 raketa na Ukrajinu",
-  "U Velikoj Britaniji proizvodiće se dronovi za Ukrajinu"
+  "U Velikoj Britaniji proizvodiće se dronovi za Ukrajinu",
+  "Britanija povlači veliki potez protiv Rusije: Na njenom tlu proizvodiće se ukrajinski dronovi dugog dometa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +70,7 @@
   "local": false,
   "alt": "A white and blue model of a plane on a black background",
   "link": "https://unsplash.com/@sergeykoznov"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

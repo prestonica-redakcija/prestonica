@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T08:51:13.242041+00:00",
- "updated": "2026-11-22T14:50:08.508958+00:00",
+ "updated": "2026-11-22T15:19:47.474740+00:00",
  "sources": [
   {
    "name": "N1",
@@ -104,6 +104,18 @@
    "url": "https://www.tanjug.rs/srbija/hronika/299956/jedna-osoba-preminula-u-saobracajnoj-nesreci-na-putu-sjenica-nova-varos/vest",
    "title": "Jedna osoba preminula u saobraćajnoj nesreći na putu Sjenica - Nova Varoš",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10169555/saobracajna-nesreca-u-indjiji-mlada-devojka-poginula",
+   "title": "DEVOJKA POGINULA, JEDNA OSOBA TEŠKO POVREĐENA Stravična saobraćajka u Inđiji, automobil sleteo s puta",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/299971/automobil-sleteo-sa-puta-u-indiji-jedna-devojka-poginula-druga-tesko-povredena/vest",
+   "title": "Automobil sleteo sa puta u Inđiji, jedna devojka poginula, druga teško povređena",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -119,7 +131,9 @@
   "Teška saobraćajna nesreća u Inđiji: Devojka poginula nakon sletanja auta, druga hitno prevezena u bolnicu",
   "Teška nesreća u Inđiji: Devojka poginula nakon sletanja auta, druga hitno prevezena u bolnicu",
   "Teška saobraćajna nesreća u Inđiji: Automobil sleteo sa puta, jedna devojka poginula, druga teško povređena",
-  "Jedna osoba preminula u saobraćajnoj nesreći na putu Sjenica - Nova Varoš"
+  "Jedna osoba preminula u saobraćajnoj nesreći na putu Sjenica - Nova Varoš",
+  "DEVOJKA POGINULA, JEDNA OSOBA TEŠKO POVREĐENA Stravična saobraćajka u Inđiji, automobil sleteo s puta",
+  "Automobil sleteo sa puta u Inđiji, jedna devojka poginula, druga teško povređena"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -131,6 +145,6 @@
   "local": true,
   "alt": "Saobraćajne nezgode u Nišu: Hitna pomoć zbrinjavala decu i motocikliste"
  },
- "novo_od_pisanja": 11,
+ "novo_od_pisanja": 13,
  "boost": 1.6
 }

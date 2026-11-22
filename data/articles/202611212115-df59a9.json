@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T20:15:28.244701+00:00",
- "updated": "2026-11-22T15:04:55.683026+00:00",
+ "updated": "2026-11-22T15:19:47.474740+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -111,6 +111,18 @@
    "url": "https://www.danas.rs/vesti/ekonomija/oglasila-se-er-srbija-zbog-strajka-sutra-na-aerodromu-u-briselu/",
    "title": "Oglasila se Er Srbija zbog štrajka sutra na aerodromu u Briselu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253180/er-srbija-otkazala-sutrasnji-let-izmedu-beograda-i-brisela/vest",
+   "title": "Er Srbija otkazala sutrašnji let između Beograda i Brisela zbog štrajka: Putnicima ponuđene alternativne opcije",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4437597-strajk-u-briselu-obustavio-avio-saobracaj-otkazan-sutrasnji-let-iz-beograda-oglasila-se-er-srbija",
+   "title": "Štrajk u Briselu obustavio avio-saobraćaj: Otkazan sutrašnji let iz Beograda, oglasila se Er Srbija",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -126,7 +138,9 @@
   "Er Srbija: Zbog štrajka na aerodromu u Briselu otkazan let",
   "Er Srbija: Zbog štrajka na aerodromu u Briselu 23. novembra otkazan let između Beograda i Brisela",
   "Er Srbija: Zbog štrajka na aerodromu u Briselu otkazan sutrašnji let Beograd - Brisel",
-  "Oglasila se Er Srbija zbog štrajka sutra na aerodromu u Briselu"
+  "Oglasila se Er Srbija zbog štrajka sutra na aerodromu u Briselu",
+  "Er Srbija otkazala sutrašnji let između Beograda i Brisela zbog štrajka: Putnicima ponuđene alternativne opcije",
+  "Štrajk u Briselu obustavio avio-saobraćaj: Otkazan sutrašnji let iz Beograda, oglasila se Er Srbija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -138,7 +152,7 @@
   "local": true,
   "alt": "Belgija: letovi na aerodromima otkazani u ponedeljak zbog protesta sindikata"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-22T14:50:08.508958+00:00",
  "verzija": 3
