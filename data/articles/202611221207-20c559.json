@@ -36,17 +36,24 @@
  ],
  "importance": 4,
  "published": "2026-11-22T11:07:07.969418+00:00",
- "updated": "2026-11-22T11:07:07.969418+00:00",
+ "updated": "2026-11-22T11:51:54.858031+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/aleksandar-popov-beograd-okrenuo-ledja-sarajevu-a-susedima-slao-uvrede/",
    "title": "Aleksandar Popov: Beograd okrenuo leđa Sarajevu, a susedima slao uvrede",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/region/popov-beograd-okrenuo-ledja-sarajevu-a-susedima-slao-uvrede/",
+   "title": "Popov: Beograd okrenuo leđa Sarajevu, a susedima slao uvrede",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Aleksandar Popov: Beograd okrenuo leđa Sarajevu, a susedima slao uvrede"
+  "Aleksandar Popov: Beograd okrenuo leđa Sarajevu, a susedima slao uvrede",
+  "Popov: Beograd okrenuo leđa Sarajevu, a susedima slao uvrede"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Kralji%C4%8Dina_pla%C5%BEa_(Milo%C4%8Der,_Crna_Gora)_07.jpg",
   "alt": "Popov: Srbija nema normalne odnose ni sa jednom susednom državom"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

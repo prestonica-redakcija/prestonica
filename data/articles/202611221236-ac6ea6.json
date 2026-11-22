@@ -36,7 +36,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T11:36:55.414786+00:00",
- "updated": "2026-11-22T11:36:55.414786+00:00",
+ "updated": "2026-11-22T11:51:54.858031+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -49,11 +49,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4437488-najava-zatvaranja-granice-iz-estonije-napravila-pometnju-kolone-na-prelazima-sa-rusijom",
    "title": "Najava zatvaranja granice iz Estonije napravila pometnju: Kolone na prelazima sa Rusijom",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/299894/najavljeno-zatvaranje-granice-izmedu-estonije-i-rusije-izazvalo-guzve/vest",
+   "title": "Najavljeno zatvaranje granice između Estonije i Rusije izazvalo gužve",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Najavljeno zatvaranje granice između Estonije i Rusije izazvalo gužve",
-  "Najava zatvaranja granice iz Estonije napravila pometnju: Kolone na prelazima sa Rusijom"
+  "Najava zatvaranja granice iz Estonije napravila pometnju: Kolone na prelazima sa Rusijom",
+  "Najavljeno zatvaranje granice između Estonije i Rusije izazvalo gužve"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,5 +73,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%98%D1%82%D0%BE%D0%B3%D0%B8_%D0%B3%D0%BE%D0%B4%D0%B0_%D1%81_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%BC_%D0%9F%D1%83%D1%82%D0%B8%D0%BD%D1%8B%D0%BC_-_18_(19-12-2025)_(cropped).jpg",
   "osoba": "Dmitrij Peskov",
   "alt": "Estonija zatvara svih pet drumskih prelaza sa Rusijom, na granici gužve"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
