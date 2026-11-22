@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T08:51:13.242041+00:00",
- "updated": "2026-11-22T17:33:45.318053+00:00",
+ "updated": "2026-11-22T19:47:35.423714+00:00",
  "sources": [
   {
    "name": "N1",
@@ -122,6 +122,12 @@
    "url": "https://nova.rs/vesti/hronika/devojka-napadnuta-nozem-u-tc-galerija-sa-teskim-povredama-prevezena-u-urgentni-centar/",
    "title": "Devojka napadnuta nožem u TC \"Galerija\": Sa teškim povredama prevezena u Urgentni centar",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4437723-teska-nesreca-kod-ladjevaca-strahuje-se-da-ima-mrtvih",
+   "title": "Teška nesreća kod Lađevaca: Strahuje se da ima mrtvih",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -140,7 +146,8 @@
   "Jedna osoba preminula u saobraćajnoj nesreći na putu Sjenica - Nova Varoš",
   "DEVOJKA POGINULA, JEDNA OSOBA TEŠKO POVREĐENA Stravična saobraćajka u Inđiji, automobil sleteo s puta",
   "Automobil sleteo sa puta u Inđiji, jedna devojka poginula, druga teško povređena",
-  "Devojka napadnuta nožem u TC \"Galerija\": Sa teškim povredama prevezena u Urgentni centar"
+  "Devojka napadnuta nožem u TC \"Galerija\": Sa teškim povredama prevezena u Urgentni centar",
+  "Teška nesreća kod Lađevaca: Strahuje se da ima mrtvih"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -152,6 +159,6 @@
   "local": true,
   "alt": "Saobraćajne nezgode u Nišu: Hitna pomoć zbrinjavala decu i motocikliste"
  },
- "novo_od_pisanja": 14,
+ "novo_od_pisanja": 15,
  "boost": 1.6
 }
