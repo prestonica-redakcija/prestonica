@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T13:50:41.238649+00:00",
- "updated": "2026-11-22T13:50:41.238649+00:00",
+ "updated": "2026-11-22T14:20:20.657596+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -44,11 +44,18 @@
    "url": "https://www.danas.rs/svet/vojin-mijatovic-cestitao-igoru-dodiku/",
    "title": "Vojin Mijatović čestitao Igoru Dodiku",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/region/bosna-i-hercegovina/10169512/milorad-dodik-i-zvanicnici-rs-cestitali-igoru-dodiku-izbora-za-mandatara",
+   "title": "MILORAD DODIK PONOSAN NA SINA IGORA: \"Od srca mu čestitam, on je dete SNSD-a, moja pobeda i ponos\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Oglasio se Milorad Dodik povodom imenovanja sina Igora Dodika za premijera entiteta RS: „Dete SNSD-a, moj ponos i pobeda“",
-  "Vojin Mijatović čestitao Igoru Dodiku"
+  "Vojin Mijatović čestitao Igoru Dodiku",
+  "MILORAD DODIK PONOSAN NA SINA IGORA: \"Od srca mu čestitam, on je dete SNSD-a, moja pobeda i ponos\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Milorad_Dodik_2026_(cropped).jpg",
   "osoba": "Milorad Dodik",
   "alt": "Igor Dodik mandatar za sastav nove vlade Republike Srpske, čestitali Dodik i Mijatović"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
