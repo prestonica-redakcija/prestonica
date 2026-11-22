@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T21:02:03.541905+00:00",
- "updated": "2026-11-22T21:02:03.541905+00:00",
+ "updated": "2026-11-22T21:31:47.410422+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://www.danas.rs/vesti/politika/dina-vucinic-brat-otkaz/",
    "title": "Dina Vučinić: Moj brat je dobio otkaz samo zato što je moj brat",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/predsednica-skupstine-novog-sada-dina-vucinic-moj-brat-je-dobio-otkaz-samo-zato-sto-je-moj-brat/",
+   "title": "Predsednica Skupštine Novog Sada Dina Vučinić: Moj brat je dobio otkaz samo zato što je moj brat",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Predsednica Skupštine grada Novog Sada: Moj brat je dobio otkaz samo zato što je moj brat",
-  "Dina Vučinić: Moj brat je dobio otkaz samo zato što je moj brat"
+  "Dina Vučinić: Moj brat je dobio otkaz samo zato što je moj brat",
+  "Predsednica Skupštine Novog Sada Dina Vučinić: Moj brat je dobio otkaz samo zato što je moj brat"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Novosadski_sajam_unutra%C5%A1njost.JPG",
   "alt": "Vučinić o otkazu bratu na Novosadskom sajmu: sud će utvrditi da li je bio zakonit"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
