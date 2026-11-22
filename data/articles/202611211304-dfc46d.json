@@ -29,7 +29,7 @@
  "places": [],
  "importance": 5,
  "published": "2026-11-21T12:04:45.243836+00:00",
- "updated": "2026-11-21T12:04:45.243836+00:00",
+ "updated": "2026-11-22T07:09:20.461833+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.danas.rs/bbc-news-serbian/vestacka-inteligencija-resila-matematicki-zadatak-star-170-godina/",
    "title": "Veštačka inteligencija rešila matematički zadatak star 170 godina",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://nauka.telegraf.rs/naucne-zanimljivosti/4437418-vestacka-inteligencija-dovela-do-resenja-najcuvenijeg-matematickog-problema",
+   "title": "Veštačka inteligencija dovela do rešenja najčuvenijeg matematičkog problema?",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Matematičar iz Antropika tvrdi da je uz pomoć veštačke inteligencije rešio matematički problem",
-  "Veštačka inteligencija rešila matematički zadatak star 170 godina"
+  "Veštačka inteligencija rešila matematički zadatak star 170 godina",
+  "Veštačka inteligencija dovela do rešenja najčuvenijeg matematičkog problema?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Matematičar Antropika tvrdi da je uz pomoć Kloda dokazao Rimanovu hipotezu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

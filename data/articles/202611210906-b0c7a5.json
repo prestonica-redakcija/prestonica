@@ -34,7 +34,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T08:06:33.726633+00:00",
- "updated": "2026-11-21T08:51:13.242041+00:00",
+ "updated": "2026-11-22T07:09:20.461833+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -47,11 +47,18 @@
    "url": "https://insajder.net/prenosimo/amss-savetuje-vozacima-oprez-zbog-promenljivih-vremenskih-prilika-i-mogucih-odrona",
    "title": "AMSS savetuje vozačima oprez zbog promenljivih vremenskih prilika i mogućih odrona",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4437419-vozaci-oprez-putevi-u-srbiji-prohodni-ali-klizavi",
+   "title": "Vozači, oprez: Putevi u Srbiji prohodni, ali klizavi",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "AMSS savetuje vozačima oprez: Promenljive vremenske prilike, mogući odroni",
-  "AMSS savetuje vozačima oprez zbog promenljivih vremenskih prilika i mogućih odrona"
+  "AMSS savetuje vozačima oprez zbog promenljivih vremenskih prilika i mogućih odrona",
+  "Vozači, oprez: Putevi u Srbiji prohodni, ali klizavi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +70,6 @@
   "local": true,
   "alt": "AMSS savetuje oprez na putevima zbog promenljivog vremena i mogućih odrona"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
