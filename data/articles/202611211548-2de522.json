@@ -33,7 +33,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T14:48:17.077113+00:00",
- "updated": "2026-11-22T08:53:30.485732+00:00",
+ "updated": "2026-11-22T18:18:28.473353+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -70,6 +70,12 @@
    "url": "https://www.danas.rs/bbc-news-serbian/italijanski-juvelir-i-biznismen-paolo-bulgari-preminuo-u-89-godini/",
    "title": "Italijanski juvelir i biznismen Paolo Bulgari preminuo u 89. godini",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/preminuo-paolo-bulgari-vizionar-luksuznog-brenda-bulgari/",
+   "title": "Preminuo Paolo Bulgari, čovek koji je porodičnu juvelirsku kuću pretvorio u svetski luksuzni brend",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -78,7 +84,8 @@
   "Ko je bio naslednik čuvene juvelirske dinastije koji je luksuzni brend pretvorio u svetsku imperiju: Paolu Bulgariju je ovo bilo slaba tačka",
   "Preminuo Paolo Bulgari, čuveni italijanski juvelir",
   "Preminuo Paolo Bulgari, čuveni italijanski juvelir",
-  "Italijanski juvelir i biznismen Paolo Bulgari preminuo u 89. godini"
+  "Italijanski juvelir i biznismen Paolo Bulgari preminuo u 89. godini",
+  "Preminuo Paolo Bulgari, čovek koji je porodičnu juvelirsku kuću pretvorio u svetski luksuzni brend"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -90,8 +97,8 @@
   "local": true,
   "alt": "Preminuo Paolo Bulgari, dugogodišnji predsednik italijanske juvelirske kuće"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-22T08:53:30.485732+00:00",
  "verzija": 2
 }

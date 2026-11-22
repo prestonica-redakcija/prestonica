@@ -36,7 +36,7 @@
  ],
  "importance": 3,
  "published": "2026-11-22T12:51:11.246716+00:00",
- "updated": "2026-11-22T15:34:52.253700+00:00",
+ "updated": "2026-11-22T18:18:28.473353+00:00",
  "sources": [
   {
    "name": "N1",
@@ -55,12 +55,19 @@
    "url": "https://www.danas.rs/sport/njoroge-dzebet-beogradski-polumaraton/",
    "title": "Kenijci Njoroge i Džebet pobednici Beogradskog polumaratona",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/sport/ostali-sportovi/10169701/kenijci-njoroge-i-dzebet-pobednici-beogradskog-polumaratona",
+   "title": "BEOGRADSKI POLUMARATON: Slava i čast pripala Kenijcima Njorogeu i Džebet",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Kenijci Njoroge i Džebet pobednici Beogradskog polumaratona",
   "Kenijski atletičari Njoroge i Džebet pobednici Beogradskog polumaratona",
-  "Kenijci Njoroge i Džebet pobednici Beogradskog polumaratona"
+  "Kenijci Njoroge i Džebet pobednici Beogradskog polumaratona",
+  "BEOGRADSKI POLUMARATON: Slava i čast pripala Kenijcima Njorogeu i Džebet"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "alt": "Runners race down a city street",
   "link": "https://unsplash.com/@findway_jerry"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

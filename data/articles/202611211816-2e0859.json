@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T17:16:47.608264+00:00",
- "updated": "2026-11-22T17:33:45.318053+00:00",
+ "updated": "2026-11-22T18:18:28.473353+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -51,12 +51,19 @@
    "url": "https://www.novosti.rs/vesti/politika/1673669/apelujemo-studentsku-listu-prestanu-terorom-borba-nastavlja-oglasila-ana-brnabic-video",
    "title": "\"APELUJEMO NA STUDENTSKU LISTU DA PRESTANU SA TEROROM, BORBA SE NASTAVLjA\" Oglasila se Ana Brnabić (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10169699/ana-brnabic-poruka-studentska-lista",
+   "title": "\"APELUJEMO NA STUDENTSKU LISTU\" Oglasila se Ana Brnabić: Znamo šta i kako smo radili, nastavićemo da se borimo za Srbiju",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "\"Što je teror \"Studentske liste\" veći, to će naša borba biti jača\": Brnabić uputila snažnu poruku - Glavu gore, Srbija će pobediti! (VIDEO)",
   "\"Nismo se uplašili i nemoguće nas je uplašiti\"! Brnabić razgovarala sa članovima SNS, pa uputila apel Studentskoj listi (VIDEO)",
-  "\"APELUJEMO NA STUDENTSKU LISTU DA PRESTANU SA TEROROM, BORBA SE NASTAVLjA\" Oglasila se Ana Brnabić (VIDEO)"
+  "\"APELUJEMO NA STUDENTSKU LISTU DA PRESTANU SA TEROROM, BORBA SE NASTAVLjA\" Oglasila se Ana Brnabić (VIDEO)",
+  "\"APELUJEMO NA STUDENTSKU LISTU\" Oglasila se Ana Brnabić: Znamo šta i kako smo radili, nastavićemo da se borimo za Srbiju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "local": true,
   "alt": "Brnabić posetila odbore SNS na Zvezdari i Voždovcu, poručila da se borba nastavlja"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

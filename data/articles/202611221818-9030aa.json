@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-22T17:18:53.497052+00:00",
- "updated": "2026-11-22T17:18:53.497052+00:00",
+ "updated": "2026-11-22T18:18:28.473353+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10169653/saslusanje-osumnjicenog-za-silovanje-u-beogradu",
    "title": "OSUMNJIČENI ZA SVIREPU OBLJUBU NEGIRAO DELO Tužilaštvo nakon saslušanja zatražilo pritvor",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300016/saslusan-osumnjiceni-za-silovanje-tuzilastvo-predlozilo-odredivanje-pritvora/vest",
+   "title": "Saslušan osumnjičeni za silovanje, tužilaštvo predložilo određivanje pritvora",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "OSUMNJIČENI ZA SVIREPU OBLJUBU NEGIRAO DELO Tužilaštvo nakon saslušanja zatražilo pritvor"
+  "OSUMNJIČENI ZA SVIREPU OBLJUBU NEGIRAO DELO Tužilaštvo nakon saslušanja zatražilo pritvor",
+  "Saslušan osumnjičeni za silovanje, tužilaštvo predložilo određivanje pritvora"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Saslušan osumnjičeni za silovanje u Beogradu, tužilaštvo traži pritvor"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

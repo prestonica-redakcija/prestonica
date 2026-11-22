@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T12:34:23.192834+00:00",
- "updated": "2026-11-22T18:03:23.802504+00:00",
+ "updated": "2026-11-22T18:18:28.473353+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -66,6 +66,12 @@
    "url": "https://www.kurir.rs/vesti/politika/10169686/studentski-pokret-zakon-kulturno-nasledje-kim",
    "title": "STUDENTSKI POKRET UPOZORAVA NA NACRT ZAKONA O KULTURNOM NASLEĐU NA KiM: Izrazili zabrinutost zbog mogućih posledica po srpske svetinje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/studentski-pokret-zabrinut-zbog-novog-zakona-u-pristini-bez-konsultacija-sa-spc-o-zastiti-srpskog-kulturnog-nasledja/",
+   "title": "Studentski pokret zabrinut zbog novog zakona u Prištini: Bez konsultacija sa SPC o zaštiti srpskog kulturnog nasleđa",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -74,7 +80,8 @@
   "EPARHIJA RAŠKO-PRIZRENSKA: Predlog zakona o Inspektoratu mogao bi da ugrozi zakonom zagarantovana prava SPC!",
   "Eparhija raško-prizrenska o nacrtu zakona: Zaštititi prava SPC u kulturnom nasleđu",
   "Studenti odreagovali na zakon tzv. skupštine Kosova o kulturnom nasleđu",
-  "STUDENTSKI POKRET UPOZORAVA NA NACRT ZAKONA O KULTURNOM NASLEĐU NA KiM: Izrazili zabrinutost zbog mogućih posledica po srpske svetinje"
+  "STUDENTSKI POKRET UPOZORAVA NA NACRT ZAKONA O KULTURNOM NASLEĐU NA KiM: Izrazili zabrinutost zbog mogućih posledica po srpske svetinje",
+  "Studentski pokret zabrinut zbog novog zakona u Prištini: Bez konsultacija sa SPC o zaštiti srpskog kulturnog nasleđa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -86,6 +93,6 @@
   "local": true,
   "alt": "Eparhija raško-prizrenska traži dopunu kosovskog nacrta zakona o inspektoratu za kulturno nasleđe"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

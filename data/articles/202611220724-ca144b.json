@@ -36,17 +36,24 @@
  ],
  "importance": 5,
  "published": "2026-11-22T06:24:50.675388+00:00",
- "updated": "2026-11-22T06:24:50.675388+00:00",
+ "updated": "2026-11-22T18:18:28.473353+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1172096/robert-fico-srbija-evropska-komisija-pravna-drzava",
    "title": "Fico digao uzbunu zbog Srbije u Briselu! \"Znate li šta se tamo dešava...\" Slično je viđeno u Slovačkoj, a završilo se katastrofalno",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10169606/robert-fico-srbija-slovacka-politicka-situacija-eu",
+   "title": "SLOVAČKI PREMIJER UPOZORIO EVROPSKU KOMISIJU: Fico: U Srbiji urušavaju državu na isti način kako je to rađeno i u Slovačkoj!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Fico digao uzbunu zbog Srbije u Briselu! \"Znate li šta se tamo dešava...\" Slično je viđeno u Slovačkoj, a završilo se katastrofalno"
+  "Fico digao uzbunu zbog Srbije u Briselu! \"Znate li šta se tamo dešava...\" Slično je viđeno u Slovačkoj, a završilo se katastrofalno",
+  "SLOVAČKI PREMIJER UPOZORIO EVROPSKU KOMISIJU: Fico: U Srbiji urušavaju državu na isti način kako je to rađeno i u Slovačkoj!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "row of european union flags",
   "link": "https://unsplash.com/@guillaumeperigois"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
