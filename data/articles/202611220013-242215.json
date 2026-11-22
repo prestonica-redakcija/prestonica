@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T23:13:49.161664+00:00",
- "updated": "2026-11-21T23:13:49.161664+00:00",
+ "updated": "2026-11-22T06:54:29.599512+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,11 +43,18 @@
    "url": "https://insajder.net/prenosimo/u-francuskoj-usvojen-kontroverzan-zakon-o-upotrebi-oruzja-od-strane-pripadnika-policije",
    "title": "U Francuskoj usvojen kontroverzan zakon o upotrebi oružja od strane pripadnika policije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/299853/francuska-usvojila-zakon-o-pretpostavci-opravdane-samoodbrane-policije-pri-pucnjavi/vest",
+   "title": "Francuska usvojila zakon o pretpostavci opravdane samoodbrane policije pri pucnjavi",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Francuska: Usvojen zakon o pretpostavci opravdane samoodbrane policije pri pucnjavi",
-  "U Francuskoj usvojen kontroverzan zakon o upotrebi oružja od strane pripadnika policije"
+  "U Francuskoj usvojen kontroverzan zakon o upotrebi oružja od strane pripadnika policije",
+  "Francuska usvojila zakon o pretpostavci opravdane samoodbrane policije pri pucnjavi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D1%80%D0%B8%D0%BD_%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD_(28-01-2022).jpg",
   "osoba": "Marin Le Pen",
   "alt": "Francuski Senat usvojio zakon o pretpostavci zakonite upotrebe oružja kod policije"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

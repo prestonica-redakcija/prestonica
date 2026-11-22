@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T21:14:49.907821+00:00",
- "updated": "2026-11-21T22:58:55.659415+00:00",
+ "updated": "2026-11-22T06:54:29.599512+00:00",
  "sources": [
   {
    "name": "N1",
@@ -67,6 +67,12 @@
    "url": "https://nova.rs/vesti/svet/bivsi-predsednik-brazila-zair-bolsonaro-smesten-na-odeljenje-intenzivne-nege/",
    "title": "Bivši predsednik Brazila Žair Bolsonaro smešten na odeljenje intenzivne nege",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287044/zair-bolsonaro-je-u-stabilnom-stanju/vest",
+   "title": "Oglasila se bolnica; Otkriveno u kakvom je stanju Bolsonaro",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -75,7 +81,8 @@
   "Bolsonaro na intenzivnoj nezi zbog opstrukcije creva, stanje stabilno",
   "Hospitalizovan Žair Bolsonaro",
   "Bolsonaro na intenzivnoj nezi zbog opstrukcije creva, stanje stabilno",
-  "Bivši predsednik Brazila Žair Bolsonaro smešten na odeljenje intenzivne nege"
+  "Bivši predsednik Brazila Žair Bolsonaro smešten na odeljenje intenzivne nege",
+  "Oglasila se bolnica; Otkriveno u kakvom je stanju Bolsonaro"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -87,8 +94,8 @@
   "local": true,
   "alt": "Bolsonaro primljen na intenzivnu negu u Braziliji zbog opstrukcije u stomaku"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-21T22:58:55.659415+00:00",
  "verzija": 2
 }
