@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T16:04:27.490938+00:00",
- "updated": "2026-11-22T16:19:22.319931+00:00",
+ "updated": "2026-11-22T16:34:11.943597+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://nova.rs/vesti/svet/sds-rs-ce-ubuduce-vladati-kum-i-sin-milorada-dodika-tako-nesto-ima-samo-u-severnoj-koreji/",
    "title": "SDS: RS će ubuduće vladati kum i sin Milorada Dodika, tako nešto ima samo u Severnoj Koreji",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/region/sds-kum-i-sin-milorada-dodika/",
+   "title": "SDS: RS će ubuduće vladati kum i sin Milorada Dodika, takvo nešto ima samo u Severnoj Koreji",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "SDS: RS će ubuduće vladati kum i sin Milorada Dodika, takvo nešto ima samo u Severnoj Koreji",
-  "SDS: RS će ubuduće vladati kum i sin Milorada Dodika, tako nešto ima samo u Severnoj Koreji"
+  "SDS: RS će ubuduće vladati kum i sin Milorada Dodika, tako nešto ima samo u Severnoj Koreji",
+  "SDS: RS će ubuduće vladati kum i sin Milorada Dodika, takvo nešto ima samo u Severnoj Koreji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "osoba": "Savo Minić",
   "alt": "Igoru Dodiku poveren mandat za sastav vlade RS, SDS kritikuje raspodelu funkcija"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
