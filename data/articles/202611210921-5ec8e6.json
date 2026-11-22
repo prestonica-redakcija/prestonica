@@ -35,7 +35,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T08:21:30.390780+00:00",
- "updated": "2026-11-21T09:35:55.278856+00:00",
+ "updated": "2026-11-22T16:04:27.490938+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -66,6 +66,12 @@
    "url": "https://www.danas.rs/svet/zelenski-putin-krimski-most/",
    "title": "Zelenski upozorio Putina: Krimski most neće „opstati“",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/299985/moskva-utvrdila-faze-obnove-krimskog-mosta/vest",
+   "title": "Moskva utvrdila faze obnove Krimskog mosta",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -73,7 +79,8 @@
   "ZELENSKI UPOZORIO PUTINA: Krimski most neće još dugo postojati!",
   "Zelenski poslao oštro upozorenje Moskvi: Krimski most neće ostati na svom mestu",
   "Zelenski: Krimski most neće opstati, Putin ga koristi za prebacivanje vojne opreme",
-  "Zelenski upozorio Putina: Krimski most neće „opstati“"
+  "Zelenski upozorio Putina: Krimski most neće „opstati“",
+  "Moskva utvrdila faze obnove Krimskog mosta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -86,6 +93,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:W%C5%82adys%C5%82aw_%C5%BBele%C5%84ski_(55271).jpg",
   "alt": "Zelenski: Krimski most neće opstati, Ukrajina će odgovoriti na napade na mostove"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
