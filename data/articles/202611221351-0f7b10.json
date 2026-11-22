@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T12:51:11.246716+00:00",
- "updated": "2026-11-22T12:51:11.246716+00:00",
+ "updated": "2026-11-22T15:49:43.393539+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://www.kurir.rs/planeta/10169386/bundesver-poslao-vojnike-i-opremu-vozom-na-vezbu-u-litvaniju",
    "title": "NEMAČKA VOJSKA STIGLA U LITVANIJU, U ZADNJI ČAS DONETA VAŽNA ODLUKA! Trupe i oprema Bundesvera dopremljeni na poseban način - plaše se reakcije Rusije (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/299974/nemacka-vojska-pocela-testiranje-kamikaza-dronova-tokom-vojnih-vezbi-u-litvaniji/vest",
+   "title": "Nemačka vojska počela testiranje kamikaza-dronova tokom vojnih vežbi u Litvaniji",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Bild: Bundesver poslao vojnike i opremu vozom na vežbu u Litvaniju, da ne provocira Rusiju",
-  "NEMAČKA VOJSKA STIGLA U LITVANIJU, U ZADNJI ČAS DONETA VAŽNA ODLUKA! Trupe i oprema Bundesvera dopremljeni na poseban način - plaše se reakcije Rusije (FOTO)"
+  "NEMAČKA VOJSKA STIGLA U LITVANIJU, U ZADNJI ČAS DONETA VAŽNA ODLUKA! Trupe i oprema Bundesvera dopremljeni na poseban način - plaše se reakcije Rusije (FOTO)",
+  "Nemačka vojska počela testiranje kamikaza-dronova tokom vojnih vežbi u Litvaniji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "alt": "a group of military tanks in a field",
   "link": "https://unsplash.com/@djburkephotography"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

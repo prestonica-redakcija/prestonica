@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T11:07:07.969418+00:00",
- "updated": "2026-11-22T11:07:07.969418+00:00",
+ "updated": "2026-11-22T15:49:43.393539+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -40,11 +40,18 @@
    "url": "https://nova.rs/vesti/svet/branko-blanusa-podneo-ostavku-na-mesto-predsednika-sds-a-svako-radi-sta-hoce-naruseno-mi-je-zdravlje/",
    "title": "Branko Blanuša podneo ostavku na mesto predsednika SDS-a: „Svako radi šta hoće, narušeno mi je zdravlje“",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/predsednik-srpske-demokratske-stranke-branko-blanusa-podneo-neopozivu-ostavku-na-tu-funkciju",
+   "title": "Predsednik Srpske demokratske stranke Branko Blanuša podneo neopozivu ostavku na tu funkciju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Branko Blanuša podneo ostavku na mesto predsednika SDS-a: „Kako radili, tako nam i Bog pomogao“",
-  "Branko Blanuša podneo ostavku na mesto predsednika SDS-a: „Svako radi šta hoće, narušeno mi je zdravlje“"
+  "Branko Blanuša podneo ostavku na mesto predsednika SDS-a: „Svako radi šta hoće, narušeno mi je zdravlje“",
+  "Predsednik Srpske demokratske stranke Branko Blanuša podneo neopozivu ostavku na tu funkciju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Ferhat-Pasha_mosque_arabesque_(Banja_Luka,_Republika_Srpska).jpg",
   "alt": "Branko Blanuša podneo ostavku na mesto predsednika SDS-a, navodi stranačke podele"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
