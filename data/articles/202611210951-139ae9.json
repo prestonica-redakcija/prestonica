@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-21T08:51:13.242041+00:00",
- "updated": "2026-11-22T15:19:47.474740+00:00",
+ "updated": "2026-11-22T17:33:45.318053+00:00",
  "sources": [
   {
    "name": "N1",
@@ -116,6 +116,12 @@
    "url": "https://www.tanjug.rs/srbija/hronika/299971/automobil-sleteo-sa-puta-u-indiji-jedna-devojka-poginula-druga-tesko-povredena/vest",
    "title": "Automobil sleteo sa puta u Inđiji, jedna devojka poginula, druga teško povređena",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/devojka-napadnuta-nozem-u-tc-galerija-sa-teskim-povredama-prevezena-u-urgentni-centar/",
+   "title": "Devojka napadnuta nožem u TC \"Galerija\": Sa teškim povredama prevezena u Urgentni centar",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -133,7 +139,8 @@
   "Teška saobraćajna nesreća u Inđiji: Automobil sleteo sa puta, jedna devojka poginula, druga teško povređena",
   "Jedna osoba preminula u saobraćajnoj nesreći na putu Sjenica - Nova Varoš",
   "DEVOJKA POGINULA, JEDNA OSOBA TEŠKO POVREĐENA Stravična saobraćajka u Inđiji, automobil sleteo s puta",
-  "Automobil sleteo sa puta u Inđiji, jedna devojka poginula, druga teško povređena"
+  "Automobil sleteo sa puta u Inđiji, jedna devojka poginula, druga teško povređena",
+  "Devojka napadnuta nožem u TC \"Galerija\": Sa teškim povredama prevezena u Urgentni centar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -145,6 +152,6 @@
   "local": true,
   "alt": "Saobraćajne nezgode u Nišu: Hitna pomoć zbrinjavala decu i motocikliste"
  },
- "novo_od_pisanja": 13,
+ "novo_od_pisanja": 14,
  "boost": 1.6
 }
