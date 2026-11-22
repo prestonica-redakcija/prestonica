@@ -31,16 +31,23 @@
  ],
  "importance": 4,
  "published": "2026-11-22T10:22:29.986901+00:00",
- "updated": "2026-11-22T10:22:29.986901+00:00",
+ "updated": "2026-11-22T10:52:22.447092+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1172150/ugljesa-mrdic-sns-nova-vlast",
    "title": "Mrdić najavio tužbu protiv KRIK-a: \"Objavili su laži o meni, trpeo sam uvrede i pretnje!\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1172150/ugljesa-mrdic-sns-stanovi-demanti-tuzba-krik",
+   "title": "Mrdić najavio tužbu protiv KRIK-a: \"Objavili su laži o meni, trpeo sam uvrede i pretnje!\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
+  "Mrdić najavio tužbu protiv KRIK-a: \"Objavili su laži o meni, trpeo sam uvrede i pretnje!\"",
   "Mrdić najavio tužbu protiv KRIK-a: \"Objavili su laži o meni, trpeo sam uvrede i pretnje!\""
  ],
  "author": "Redakcija Prestonice",
@@ -53,5 +60,7 @@
   "local": false,
   "alt": "restaurant menus on clipboards close up",
   "link": "https://unsplash.com/@golfarisa"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
