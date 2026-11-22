@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T06:39:36.178725+00:00",
- "updated": "2026-11-22T09:23:03.769086+00:00",
+ "updated": "2026-11-22T09:38:00.767363+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -66,6 +66,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4437445-ogroman-pozar-u-fabrici-slatkisa-troje-mrtvih-36-radnika-nestalo-spasioci-pretrazuju-rusevine",
    "title": "Ogroman požar u fabrici slatkiša: Troje mrtvih, 36 radnika nestalo, spasioci pretražuju ruševine",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/299841/broj-poginulih-u-pozaru-u-indoneziji-povecan-na-najmanje-sedam-osoba/vest",
+   "title": "Broj poginulih u požaru u Indoneziji povećan na najmanje sedam osoba",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/stravican-pozar-u-fabrici-slatkisa-u-indoneziji-troje-mrtvih-traga-se-za-jos-36-radnika/",
+   "title": "Stravičan požar u fabrici slatkiša u Indoneziji: Troje mrtvih, traga se za još 36 radnika",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -74,7 +86,9 @@
   "Požar u fabrici slatkiša u Indoneziji, troje poginulih",
   "VATRA GUTA FABRIKU SLATKIŠA: Ima mrtvih i povređenih, traga se za desetinama nestalih radnika! Jeziva scena u Indoneziji (VIDEO)",
   "Najmanje 24 osobe poginule u prevrtanju čamca u Nigeriji, traga se za nestalima",
-  "Ogroman požar u fabrici slatkiša: Troje mrtvih, 36 radnika nestalo, spasioci pretražuju ruševine"
+  "Ogroman požar u fabrici slatkiša: Troje mrtvih, 36 radnika nestalo, spasioci pretražuju ruševine",
+  "Broj poginulih u požaru u Indoneziji povećan na najmanje sedam osoba",
+  "Stravičan požar u fabrici slatkiša u Indoneziji: Troje mrtvih, traga se za još 36 radnika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -87,8 +101,8 @@
   "alt": "houses on top of mountain",
   "link": "https://unsplash.com/@rahimsof"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-22T09:23:03.769086+00:00",
  "verzija": 2
 }

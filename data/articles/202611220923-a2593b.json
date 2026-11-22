@@ -28,17 +28,24 @@
  ],
  "importance": 4,
  "published": "2026-11-22T08:23:46.278784+00:00",
- "updated": "2026-11-22T08:23:46.278784+00:00",
+ "updated": "2026-11-22T09:38:00.767363+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/biz/svet/vesti/286943/nema-vise-rasipanja-struje-spanija-uvodi-drakonske-mere-za-data-centre/vest",
    "title": "Nema više rasipanja struje: Španija uvodi drakonske mere za data centre",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1673549/vlada-spanije-zabranjuje-rasipanje-struje-drakonske-mere-nivou-cele-drzave",
+   "title": "VLADA ŠPANIJE ZABRANjUJE RASIPANjE STRUJE: Drakonske mere na nivou cele države",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Nema više rasipanja struje: Španija uvodi drakonske mere za data centre"
+  "Nema više rasipanja struje: Španija uvodi drakonske mere za data centre",
+  "VLADA ŠPANIJE ZABRANjUJE RASIPANjE STRUJE: Drakonske mere na nivou cele države"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "alt": "cable network",
   "link": "https://unsplash.com/@tvick"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

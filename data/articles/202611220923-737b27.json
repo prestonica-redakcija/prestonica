@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T08:23:46.278784+00:00",
- "updated": "2026-11-22T09:23:03.769086+00:00",
+ "updated": "2026-11-22T09:38:00.767363+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -43,11 +43,18 @@
    "url": "https://n1info.rs/vesti/dve-godine-od-napada-na-studente-i-profesore-fdu/",
    "title": "Dve godine od napada na studente i profesore FDU uoči prve blokade fakulteta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/dve-godine-od-napada-na-studente-i-profesore-fdu/",
+   "title": "Dve godine od napada na studente i profesore FDU: Kako su počele blokade fakulteta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Dve godine od napada na studente i profesore FDU uoči prve blokade fakulteta",
-  "Dve godine od napada na studente i profesore FDU uoči prve blokade fakulteta"
+  "Dve godine od napada na studente i profesore FDU uoči prve blokade fakulteta",
+  "Dve godine od napada na studente i profesore FDU: Kako su počele blokade fakulteta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "local": true,
   "alt": "Dve godine od napada na studente i profesore FDU koji je prethodio prvoj blokadi"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
