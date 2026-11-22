@@ -35,7 +35,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T18:03:23.802504+00:00",
- "updated": "2026-11-22T18:03:23.802504+00:00",
+ "updated": "2026-11-22T19:17:53.515801+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,11 +48,25 @@
    "url": "https://www.euronews.rs/svet/fokus/253201/sad-istrazuju-alis-huang-i-navode-o-vezi-sa-nvidijom/vest",
    "title": "\"Nvidijini čipovi su dragulj\": Obaveštajne službe istražuju kinesku špijunku Alis Huang povezanu sa kompanijom Nvidia",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/299978/americka-imigraciona-sluzba-privela-kinesku-doktorantkinju-sa-prinstona/vest",
+   "title": "Američka imigraciona služba privela kinesku doktorantkinju sa Prinstona",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/americke-obavestajne-sluzbe-istrazuju-navode-o-kineskoj-spijunki-povezanoj-sa-kompanijom-nvidia",
+   "title": "Američke obaveštajne službe istražuju navode o kineskoj špijunki povezanoj sa kompanijom Nvidia",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Obaveštajne službe istražuju kinesku špijunku povezanu sa kompanijom Nvidia",
-  "\"Nvidijini čipovi su dragulj\": Obaveštajne službe istražuju kinesku špijunku Alis Huang povezanu sa kompanijom Nvidia"
+  "\"Nvidijini čipovi su dragulj\": Obaveštajne službe istražuju kinesku špijunku Alis Huang povezanu sa kompanijom Nvidia",
+  "Američka imigraciona služba privela kinesku doktorantkinju sa Prinstona",
+  "Američke obaveštajne službe istražuju navode o kineskoj špijunki povezanoj sa kompanijom Nvidia"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +78,7 @@
   "local": false,
   "alt": "teal LED panel",
   "link": "https://unsplash.com/@adigold1"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

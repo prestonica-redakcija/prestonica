@@ -1,0 +1,53 @@
+{
+ "id": "202611222017-954587",
+ "slug": "kina-prikljucila-na-mrezu-elektranu-koja-struju-skladisti-u",
+ "kind": "vest",
+ "section": "ekonomija",
+ "headline": "Kina priključila na mrežu elektranu koja struju skladišti u komprimovanom vazduhu",
+ "lead": "Kina je na mrežu priključila elektranu „Juačun broj 1“ snage 300 megavata, koja višak struje čuva kao vazduh pod pritiskom u veštački iskopanim podzemnim komorama. Kako navodi Kurir, reč je o prvom projektu te vrste sa takvim skladištem koji je stigao do priključenja na mrežu.",
+ "body": [
+  "Postrojenje se nalazi u gradu Jumen u provinciji Gansu. Prema pisanju Kurira, posebnost mu je to što umesto prirodnih pećina koristi četiri komore iskopane u čvrstoj steni na dubini od oko 110 metara, ukupne zapremine približno 200.000 kubnih metara.",
+  "Princip rada, kako se navodi, jeste da se u periodima viška struje, na primer kada vetroelektrane i solarne elektrane proizvode više nego što je potrebno, pokreću kompresori koji sabijaju vazduh i smeštaju ga u podzemlje. Kada potrošnja poraste, vazduh se oslobađa, pokreće turbine i struja se vraća u mrežu.",
+  "Snaga elektrane je 300 megavata, a kapacitet skladištenja 1.800 megavat-sati. Prema podacima kompanije koja stoji iza projekta, koje prenosi Kurir, sistem je projektovan za osam sati punjenja i šest sati neprekidne proizvodnje, a prijavljena efikasnost iznosi 72 odsto, što znači da se deo energije gubi u procesu.",
+  "Elektrana koristi takozvani adijabatski sistem, u kojem se toplota nastala pri sabijanju vazduha čuva i kasnije ponovo koristi. Tako se, navodi Kurir, struja u fazi pražnjenja proizvodi bez dodatnog sagorevanja goriva.",
+  "Kurir podseća da solarne elektrane ne rade noću, a proizvodnja vetroelektrana zavisi od vremena, zbog čega sistemima treba način da čuvaju energiju. Prema tom izvoru, Svetska banka je u analizi ove tehnologije istakla da dugotrajno skladištenje može da olakša uključivanje promenljivih izvora u elektroenergetske sisteme."
+ ],
+ "tags": [
+  "Kina",
+  "skladištenje energije",
+  "komprimovani vazduh",
+  "obnovljivi izvori",
+  "elektroenergetika"
+ ],
+ "people": [],
+ "places": [
+  "Kina",
+  "Gansu",
+  "Jumen"
+ ],
+ "importance": 3,
+ "published": "2026-11-22T19:17:53.515801+00:00",
+ "updated": "2026-11-22T19:17:53.515801+00:00",
+ "sources": [
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10168523/kina-pokrece-prvu-elektranu-za-skladistenje-vazduhom",
+   "title": "Kina pustila u rad elektranu od 300 megavata: Pod zemljom čuva 1.800 megavat-sati energije pomoću komprimovanog vazduha",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Kina pustila u rad elektranu od 300 megavata: Pod zemljom čuva 1.800 megavat-sati energije pomoću komprimovanog vazduha"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.91,
+ "image": {
+  "src": "https://images.unsplash.com/photo-1641959166358-6d08825fb88f?ixid=M3wxMTQwNDIwfDB8MXxzZWFyY2h8MXx8ZW5lcmd5JTIwc3RvcmFnZSUyMHBvd2VyJTIwcGxhbnQlMjBDaGluYXxlbnwxfDB8fHwxNzk1Mzc1MjA5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+  "credit": "Unsplash / ダモ リ",
+  "ilustracija": true,
+  "local": false,
+  "alt": "an aerial view of a large solar farm",
+  "link": "https://unsplash.com/@darmau"
+ }
+}
