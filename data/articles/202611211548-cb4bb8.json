@@ -29,17 +29,24 @@
  ],
  "importance": 6,
  "published": "2026-11-21T14:48:17.077113+00:00",
- "updated": "2026-11-21T14:48:17.077113+00:00",
+ "updated": "2026-11-22T12:06:46.562262+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/teme/subotic-centar-za-evropske-politike-srbija-je-glavna-tema-u-briselu-nova-vlast-ima-priliku-da-pokrene-evropske-integracije-video",
    "title": "Subotić (Centar za evropske politike): Srbija je glavna tema u Briselu, nova vlast ima priliku da pokrene evropske integracije (VIDEO)",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Standard",
+   "url": "https://standard.rs/2026/11/22/kakva-je-cena-evropskih-integracija/",
+   "title": "Kakva je cena evropskih integracija?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Subotić (Centar za evropske politike): Srbija je glavna tema u Briselu, nova vlast ima priliku da pokrene evropske integracije (VIDEO)"
+  "Subotić (Centar za evropske politike): Srbija je glavna tema u Briselu, nova vlast ima priliku da pokrene evropske integracije (VIDEO)",
+  "Kakva je cena evropskih integracija?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Subotić: Srbija bi već u decembru ili januaru mogla da otključa deo evropskih fondova"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

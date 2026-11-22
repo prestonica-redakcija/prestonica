@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T06:39:36.178725+00:00",
- "updated": "2026-11-22T10:52:22.447092+00:00",
+ "updated": "2026-11-22T12:06:46.562262+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -84,6 +84,12 @@
    "url": "https://www.euronews.rs/svet/fokus/253148/pozar-u-fabrici-u-indoneziji-najmanje-sedam-poginulih/vest",
    "title": "Vatrena stihija progutala fabriku sa 300 radnika: Najmanje sedmoro mrtvih i 50 nestalih u Indoneziji",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/pozar-u-fabrici-slatkisa-u-indoneziji-troje-poginulih",
+   "title": "Požar u fabrici slatkiša u Indoneziji, troje poginulih",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -95,7 +101,8 @@
   "Ogroman požar u fabrici slatkiša: Troje mrtvih, 36 radnika nestalo, spasioci pretražuju ruševine",
   "Broj poginulih u požaru u Indoneziji povećan na najmanje sedam osoba",
   "Stravičan požar u fabrici slatkiša u Indoneziji: Troje mrtvih, traga se za još 36 radnika",
-  "Vatrena stihija progutala fabriku sa 300 radnika: Najmanje sedmoro mrtvih i 50 nestalih u Indoneziji"
+  "Vatrena stihija progutala fabriku sa 300 radnika: Najmanje sedmoro mrtvih i 50 nestalih u Indoneziji",
+  "Požar u fabrici slatkiša u Indoneziji, troje poginulih"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -108,8 +115,8 @@
   "alt": "houses on top of mountain",
   "link": "https://unsplash.com/@rahimsof"
  },
- "novo_od_pisanja": 3,
- "boost": 1.56,
+ "novo_od_pisanja": 4,
+ "boost": 1.6,
  "prepisano": "2026-11-22T09:23:03.769086+00:00",
  "verzija": 2
 }

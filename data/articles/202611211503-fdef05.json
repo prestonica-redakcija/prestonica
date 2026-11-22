@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T14:03:39.132175+00:00",
- "updated": "2026-11-21T14:03:39.132175+00:00",
+ "updated": "2026-11-22T12:06:46.562262+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -45,11 +45,18 @@
    "url": "https://www.kurir.rs/zabava/kultura/10168616/predsednik-rusije-vladimir-putin-intervju-emiru-kusturici",
    "title": "Putin dao intervju Emiru Kusturici! Evo šta je rekao o Ukrajincima: Ne želim da kažem \"predajte se\", to zvuči ponižavajuće, bore se oni dosledno",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4437511-objavljen-ceo-intervju-emira-kusturice-s-putinom-moskva-je-treci-rim-cetvrtog-nece-biti",
+   "title": "Objavljen ceo intervju Emira Kusturice s Putinom: \"Moskva je treći Rim, četvrtog neće biti\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "„Moskva je Treći Rim“: Putin dao intervjuu Emiru Kusturici (VIDEO)",
-  "Putin dao intervju Emiru Kusturici! Evo šta je rekao o Ukrajincima: Ne želim da kažem \"predajte se\", to zvuči ponižavajuće, bore se oni dosledno"
+  "Putin dao intervju Emiru Kusturici! Evo šta je rekao o Ukrajincima: Ne želim da kažem \"predajte se\", to zvuči ponižavajuće, bore se oni dosledno",
+  "Objavljen ceo intervju Emira Kusturice s Putinom: \"Moskva je treći Rim, četvrtog neće biti\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Putin u intervjuu Kusturici o Ukrajini, Zapadu i ulozi Rusije kao čuvara hrišćanstva"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
