@@ -31,17 +31,24 @@
  ],
  "importance": 4,
  "published": "2026-11-21T07:51:45.125971+00:00",
- "updated": "2026-11-21T07:51:45.125971+00:00",
+ "updated": "2026-11-22T16:19:22.319931+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1171845/djordje-vukadinovic-nova-vlast-studnetska-lista",
    "title": "Spremite bensedin! Vukadinović priznao ono što njihovi navijači ne žele da čuju! (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/dijalog/licni-stavovi/student-koji-je-zeleo-da-uci-milos-pavlovic/",
+   "title": "Student koji je želeo da uči, ali ne stiže",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Spremite bensedin! Vukadinović priznao ono što njihovi navijači ne žele da čuju! (VIDEO)"
+  "Spremite bensedin! Vukadinović priznao ono što njihovi navijači ne žele da čuju! (VIDEO)",
+  "Student koji je želeo da uči, ali ne stiže"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Djordje_Vukadinovic,_Andrija_Mandic,_Aleksandar_Rakovic,_Miroje_Jovanovic-mc.rs.jpg",
   "alt": "Vukadinović: Poslanici Studentske liste se nisu najbolje snašli u Skupštini"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -26,7 +26,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T16:04:27.490938+00:00",
- "updated": "2026-11-22T16:04:27.490938+00:00",
+ "updated": "2026-11-22T16:19:22.319931+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -39,11 +39,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4437604-krvava-drama-u-beogradu-devojka-izbodena-nozem-u-garazi-poznatog-trznog-centra",
    "title": "Krvava drama u Beogradu: Devojka izbodena nožem u garaži poznatog tržnog centra",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287186/mladic-napao-devojku-nozem-u-trznom-centru-u-beogradu-policija-i-hitna-pomoc-na-terenu/vest",
+   "title": "Drama u beogradskom tržnom centru: Devojka ubodena nožem",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "UŽAS U TRŽNOM CENTRU U BEOGRADU! Muškarac nožem ubo devojku, Hitna pomoć i policija na licu mesta",
-  "Krvava drama u Beogradu: Devojka izbodena nožem u garaži poznatog tržnog centra"
+  "Krvava drama u Beogradu: Devojka izbodena nožem u garaži poznatog tržnog centra",
+  "Drama u beogradskom tržnom centru: Devojka ubodena nožem"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Napad nožem u garaži tržnog centra Galerija u Beogradu, povređena devojka"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

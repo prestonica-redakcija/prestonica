@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T15:34:52.253700+00:00",
- "updated": "2026-11-22T15:49:43.393539+00:00",
+ "updated": "2026-11-22T16:19:22.319931+00:00",
  "sources": [
   {
    "name": "N1",
@@ -57,13 +57,20 @@
    "url": "https://insajder.net/prenosimo/reprezentacija-srbije-cetvrta-na-rumunskom-masteru-iz-informatike-zlato-za-petra-banovica",
    "title": "Reprezentacija Srbije četvrta na Rumunskom masteru iz informatike, zlato za Petra Banovića",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10169627/srbija-na-rumunskom-masteru-cetvrto-mesto-i-tri-medalje",
+   "title": "Bravo, majstori! Srbija 4. na međunarodnom takmičenju iz informatike, zlatna medalja Petru Banoviću",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Učenik Matematičke gimnazije u Beogadu pobedio na takmičenju iz informatike u Rumuniji",
   "Učenik Matematičke gimnazije pobedio na takmičenju iz informatike u Rumuniji",
   "Srbija četvrta na međunarodnom takmičenju iz informatike, zlatna medalja Petru Banoviću",
-  "Reprezentacija Srbije četvrta na Rumunskom masteru iz informatike, zlato za Petra Banovića"
+  "Reprezentacija Srbije četvrta na Rumunskom masteru iz informatike, zlato za Petra Banovića",
+  "Bravo, majstori! Srbija 4. na međunarodnom takmičenju iz informatike, zlatna medalja Petru Banoviću"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +83,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Matemati%C4%8Dka_gimnazija_u_Beogradu.JPG",
   "alt": "Petar Banović iz Matematičke gimnazije pobednik Rumunskog mastera iz informatike"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

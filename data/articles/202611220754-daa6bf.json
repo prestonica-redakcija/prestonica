@@ -26,17 +26,24 @@
  "places": [],
  "importance": 4,
  "published": "2026-11-22T06:54:29.599512+00:00",
- "updated": "2026-11-22T06:54:29.599512+00:00",
+ "updated": "2026-11-22T16:19:22.319931+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/u-kojim-slucajevima-mozete-dobiti-otkaz-dok-ste-na-bolovanju/",
    "title": "U kojim slučajevima možete dobiti otkaz dok ste na bolovanju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/287110/da-li-poslodavac-sme-da-vam-da-otkaz-dok-ste-na-bolovanju/vest",
+   "title": "Da li poslodavac sme da vam da otkaz dok ste na bolovanju?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "U kojim slučajevima možete dobiti otkaz dok ste na bolovanju"
+  "U kojim slučajevima možete dobiti otkaz dok ste na bolovanju",
+  "Da li poslodavac sme da vam da otkaz dok ste na bolovanju?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "alt": "Doctor writing on a patient's chart",
   "link": "https://unsplash.com/@silverkblack"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
