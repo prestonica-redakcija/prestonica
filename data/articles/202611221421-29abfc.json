@@ -1,0 +1,50 @@
+{
+ "id": "202611221421-29abfc",
+ "slug": "lozinka-123456-i-dalje-najcesca-na-svetu-strucnjaci-savetuju-duze",
+ "kind": "vest",
+ "section": "drustvo",
+ "headline": "Lozinka 123456 i dalje najčešća na svetu, stručnjaci savetuju duže šifre",
+ "lead": "Lozinka „123456“ sedmi put u poslednjih osam godina vodi na svetskoj listi najčešćih lozinki, navodi se u novembarskom izveštaju kompanije NordPass, koji prenosi Kurir. Stručnjaci upozoravaju da kratke i ponovljene šifre ugrožavaju više naloga odjednom.",
+ "body": [
+  "Kako prenosi Kurir, izveštaj NordPass-a zasnovan je na analizi procurelih lozinki iz perioda od septembra 2025. do septembra 2026. godine. Na listi su, pored „123456“, i „admin“, „12345678“, „123456789“, „1234“, „12345“ i „password“. Stručnjaci kompanije Bitwarden navode da se „123456“ može probiti za manje od sekunde.",
+  "Prema tekstu Kurira, napadači ne pogađaju šifre ručno, već koriste automatizovane programe, rečnike i liste ranije procurelih lozinki. Američki institut NIST upozorava da su kratke i predvidljive lozinke posebno ranjive kada napadači dođu do baze ukradenih podataka sa nekog sajta.",
+  "Na listi se nalaze i lozinke inspirisane popularnom kulturom, sportom i video-igrama, među njima „Lebron0319“, „roblox.com1“, „squidgamethebest“ i „Covid-19“. Kurir navodi da dodavanje uzvičnika ili godine na kraj poznate reči ne mora mnogo da pomogne, jer programi predviđaju i takve zamene.",
+  "Stručnjaci savetuju da svaki nalog ima posebnu lozinku, jer podaci procurili sa jednog sajta mogu biti iskorišćeni na drugim servisima. Posebno se preporučuje zaštita mejl adrese, preko koje se često obnavljaju lozinke za druge naloge.",
+  "NIST preporučuje da lozinka koja je jedini način prijavljivanja ima najmanje 15 karaktera, a kao dobru opciju navodi dužu frazu od nekoliko nepovezanih reči. Prema Kuriru, važnije od velikog slova, broja i specijalnog znaka jeste dužina i to da se šifra ne ponavlja. Kao dodatnu zaštitu stručnjaci preporučuju menadžere lozinki i dvofaktorsku autentifikaciju.",
+  "Kurir u naslovu navodi da lozinku koriste i građani Srbije, ali u prenetom delu teksta nisu navedeni posebni podaci za Srbiju."
+ ],
+ "tags": [
+  "lozinke",
+  "sajber bezbednost",
+  "NordPass",
+  "NIST",
+  "dvofaktorska autentifikacija"
+ ],
+ "people": [],
+ "places": [],
+ "importance": 3,
+ "published": "2026-11-22T13:21:02.390418+00:00",
+ "updated": "2026-11-22T13:21:02.390418+00:00",
+ "sources": [
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10168001/zasto-je-lozinka-123456-i-dalje-najopasnija",
+   "title": "Ovo je najpopularnija lozinka na svetu, a koriste je i Srbi: Hakerima je dovoljna sekunda da je provale!",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Ovo je najpopularnija lozinka na svetu, a koriste je i Srbi: Hakerima je dovoljna sekunda da je provale!"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.903,
+ "image": {
+  "src": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?ixid=M3wxMTQwNDIwfDB8MXxzZWFyY2h8MXx8cGFzc3dvcmQlMjBzZWN1cml0eSUyMGxhcHRvcHxlbnwxfDB8fHwxNzk1MzUzNzU0fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+  "credit": "Unsplash / FlyD",
+  "ilustracija": true,
+  "local": false,
+  "alt": "red padlock on black computer keyboard",
+  "link": "https://unsplash.com/@flyd2069"
+ }
+}
