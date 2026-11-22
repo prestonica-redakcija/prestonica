@@ -26,16 +26,23 @@
  ],
  "importance": 7,
  "published": "2026-11-21T15:32:59.993595+00:00",
- "updated": "2026-11-21T15:32:59.993595+00:00",
+ "updated": "2026-11-22T00:13:10.495900+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/299720/fajnensel-tajms-isporuke-nafte-kroz-ormuski-moreuz-prepolovljene-za-nedelju-dana/vest",
    "title": "Fajnenšel tajms: Isporuke nafte kroz Ormuski moreuz prepolovljene za nedelju dana",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4437279-fajnensel-tajms-isporuke-nafte-kroz-ormuski-moreuz-prepolovljene-za-nedelju-dana",
+   "title": "Fajnenšel tajms: Isporuke nafte kroz Ormuski moreuz prepolovljene za nedelju dana",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
+  "Fajnenšel tajms: Isporuke nafte kroz Ormuski moreuz prepolovljene za nedelju dana",
   "Fajnenšel tajms: Isporuke nafte kroz Ormuski moreuz prepolovljene za nedelju dana"
  ],
  "author": "Redakcija Prestonice",
@@ -48,5 +55,7 @@
   "local": false,
   "alt": "blue and white ship on sea under white clouds during daytime",
   "link": "https://unsplash.com/@etiennegirardet"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

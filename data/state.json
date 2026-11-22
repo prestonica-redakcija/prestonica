@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.euronews.rs/biznis/biznis-vesti/252318/najki-planira-ustede-od-25-milijardi-dolara/vest": "2026-11-17T00:07:54.130705+00:00",
   "https://www.telegraf.rs/vesti/svet/4434227-zelenski-teski-razgovori-ukrajinskih-americkih-i-evropskih-pregovaraca": "2026-11-17T00:37:41.932821+00:00",
   "https://biznis.telegraf.rs/info-biz/4433997-voren-bafet-podario-akcije-vredne-55-milijardi-dolara-pred-dan-zahvalnosti": "2026-11-17T01:07:26.815393+00:00",
   "https://www.telegraf.rs/4434206-macura-osnazivanje-zena-kroz-konkretne-prilike-vodi-njihovoj-ekonomskoj-nezavisnosti": "2026-11-17T02:07:09.887850+00:00",
@@ -6877,18 +6876,13 @@
   "https://www.kurir.rs/crna-hronika/10169128/teska-saobracajna-nesreca-kod-smedereva": "2026-11-21T23:43:18.479661+00:00",
   "https://www.kurir.rs/planeta/10169133/tramp-objavio-fotografije-sa-putinom-i-si-djinpingom": "2026-11-21T23:58:22.221069+00:00",
   "https://www.kurir.rs/zabava/zanimljivosti/10167824/sta-je-jeo-nikola-tesla-i-zasto-je-preskakao-rucak": "2026-11-21T23:58:22.221069+00:00",
-  "https://www.telegraf.rs/vesti/srbija/4437382-umro-zivojin-jokanovic": "2026-11-21T23:58:22.221069+00:00"
+  "https://www.telegraf.rs/vesti/srbija/4437382-umro-zivojin-jokanovic": "2026-11-21T23:58:22.221069+00:00",
+  "https://biznis.telegraf.rs/info-biz/4437279-fajnensel-tajms-isporuke-nafte-kroz-ormuski-moreuz-prepolovljene-za-nedelju-dana": "2026-11-22T00:13:10.495900+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-21T09:27+00:00",
-   "novih": 7,
-   "ukupno": 3299,
-   "sekundi": 393.4
-  },
   {
    "vreme": "2026-11-21T09:44+00:00",
    "novih": 7,
@@ -7242,6 +7236,12 @@
    "novih": 1,
    "ukupno": 3506,
    "sekundi": 453.5
+  },
+  {
+   "vreme": "2026-11-22T00:20+00:00",
+   "novih": 0,
+   "ukupno": 3506,
+   "sekundi": 423.9
   }
  ],
  "licnosti_foto": {
@@ -21797,191 +21797,6 @@
   }
  },
  "foto_cache": {
-  "t:kraguj": {
-   "t": 1794701140.7169104,
-   "items": [
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Soko_J-20_Kraguj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1440,
-     "h": 960,
-     "god": 2009,
-     "credit": "Wikimedia Commons / Mulag / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Soko_J-20_Kraguj.jpg",
-     "naslov": "Soko J-20 Kraguj.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Soko_Kraguj_P2_30149_%28G-SOKO%29_%286935012342%29.jpg/1920px-Soko_Kraguj_P2_30149_%28G-SOKO%29_%286935012342%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3036,
-     "h": 2024,
-     "god": 2012,
-     "credit": "Wikimedia Commons / Alan Wilson / CC BY-SA 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Soko_Kraguj_P2_30149_(G-SOKO)_(6935012342).jpg",
-     "naslov": "Soko Kraguj P2 30149 (G-SOKO) (6935012342).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_14.jpg/1920px-J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4608,
-     "h": 2880,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Srđan Popović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_14.jpg",
-     "naslov": "J-20 Kraguj YU-JRV 30151 - Ečka - 14.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_07.jpg/1920px-J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4752,
-     "h": 3024,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Srđan Popović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_07.jpg",
-     "naslov": "J-20 Kraguj YU-JRV 30151 - Ečka - 07.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_08.jpg/1920px-J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4320,
-     "h": 2592,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Srđan Popović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_08.jpg",
-     "naslov": "J-20 Kraguj YU-JRV 30151 - Ečka - 08.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_05.jpg/1920px-J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4896,
-     "h": 3168,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Srđan Popović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_05.jpg",
-     "naslov": "J-20 Kraguj YU-JRV 30151 - Ečka - 05.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_04.jpg/1920px-J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5040,
-     "h": 3312,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Srđan Popović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_04.jpg",
-     "naslov": "J-20 Kraguj YU-JRV 30151 - Ečka - 04.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_16.jpg/1920px-J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4608,
-     "h": 2880,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Srđan Popović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_16.jpg",
-     "naslov": "J-20 Kraguj YU-JRV 30151 - Ečka - 16.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_11.jpg/1920px-J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3600,
-     "h": 1872,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Srđan Popović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_11.jpg",
-     "naslov": "J-20 Kraguj YU-JRV 30151 - Ečka - 11.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/J-20_Kraguj_YU-JRV_i_Utva_66_YU-DOL_aerodrom_Lisi%C4%8Diji_jarak_01.jpg/1920px-J-20_Kraguj_YU-JRV_i_Utva_66_YU-DOL_aerodrom_Lisi%C4%8Diji_jarak_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3168,
-     "h": 1296,
-     "god": 2020,
-     "credit": "Wikimedia Commons / Srđan Popović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:J-20_Kraguj_YU-JRV_i_Utva_66_YU-DOL_aerodrom_Lisi%C4%8Diji_jarak_01.jpg",
-     "naslov": "J-20 Kraguj YU-JRV i Utva 66 YU-DOL aerodrom Lisičiji jarak 01.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/G-2_Galeb_YU-YAE_23177_i_J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka.jpg/1920px-G-2_Galeb_YU-YAE_23177_i_J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4608,
-     "h": 2880,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Srđan Popović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:G-2_Galeb_YU-YAE_23177_i_J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka.jpg",
-     "naslov": "G-2 Galeb YU-YAE 23177 i J-20 Kraguj YU-JRV 30151 - Ečka.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_02.jpg/1920px-J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4752,
-     "h": 3024,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Srđan Popović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_02.jpg",
-     "naslov": "J-20 Kraguj YU-JRV 30151 - Ečka - 02.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_20.jpg/1920px-J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4896,
-     "h": 3168,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Srđan Popović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_20.jpg",
-     "naslov": "J-20 Kraguj YU-JRV 30151 - Ečka - 20.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/BAM-49-Soko_J-20_Kraguj.jpg/1920px-BAM-49-Soko_J-20_Kraguj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3008,
-     "h": 2000,
-     "god": 2012,
-     "credit": "Wikimedia Commons / autor / CC BY 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:BAM-49-Soko_J-20_Kraguj.jpg",
-     "naslov": "BAM-49-Soko J-20 Kraguj.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_03.jpg/1920px-J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4896,
-     "h": 3168,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Srđan Popović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_03.jpg",
-     "naslov": "J-20 Kraguj YU-JRV 30151 - Ečka - 03.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_10.jpg/1920px-J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4320,
-     "h": 2592,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Srđan Popović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_10.jpg",
-     "naslov": "J-20 Kraguj YU-JRV 30151 - Ečka - 10.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/SOKO_J-20_Kraguj_YU-YAA_aerodrom_Lisi%C4%8Diji_Jarak.jpg/1920px-SOKO_J-20_Kraguj_YU-YAA_aerodrom_Lisi%C4%8Diji_Jarak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3312,
-     "h": 2160,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Srđan Popović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:SOKO_J-20_Kraguj_YU-YAA_aerodrom_Lisi%C4%8Diji_Jarak.jpg",
-     "naslov": "SOKO J-20 Kraguj YU-YAA aerodrom Lisičiji Jarak.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_18.jpg/1920px-J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4320,
-     "h": 2592,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Srđan Popović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_18.jpg",
-     "naslov": "J-20 Kraguj YU-JRV 30151 - Ečka - 18.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_17.jpg/1920px-J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4896,
-     "h": 3168,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Srđan Popović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:J-20_Kraguj_YU-JRV_30151_-_E%C4%8Dka_-_17.jpg",
-     "naslov": "J-20 Kraguj YU-JRV 30151 - Ečka - 17.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/SOKO_J-20_Kraguj_30139_aerodrom_Lisi%C4%8Diji_Jarak.jpg/1920px-SOKO_J-20_Kraguj_30139_aerodrom_Lisi%C4%8Diji_Jarak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3312,
-     "h": 1728,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Srđan Popović / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:SOKO_J-20_Kraguj_30139_aerodrom_Lisi%C4%8Diji_Jarak.jpg",
-     "naslov": "SOKO J-20 Kraguj 30139 aerodrom Lisičiji Jarak.jpg"
-    }
-   ]
-  },
   "t:dmitro lubinec": {
    "t": 1794722584.604313,
    "items": []
@@ -60597,7 +60412,7 @@
   "yt": "Hdk3ahufa64",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-21T23:59:18.624658+00:00",
+  "provereno": "2026-11-22T00:13:39.947593+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": true
  },
