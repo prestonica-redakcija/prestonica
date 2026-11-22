@@ -27,17 +27,24 @@
  ],
  "importance": 6,
  "published": "2026-11-21T20:15:28.244701+00:00",
- "updated": "2026-11-21T20:15:28.244701+00:00",
+ "updated": "2026-11-22T20:17:21.948506+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/info/razno/287018/novine-nova-vlast-stari-ring-srpska-nece-biti-kamen-oko-vrata-beogradu/vest",
    "title": "Novine: \"Nova vlast, stari ring\"; \"Srpska neće biti kamen oko vrata Beogradu\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/jetset/vesti-jetset/4437729-ko-je-novinar-marko-ivas-koji-je-intervjuisao-aleksandra-cupica",
+   "title": "Ko je novinar Marko Ivas koji je intervjuisao Aleksandra Čupića",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Novine: \"Nova vlast, stari ring\"; \"Srpska neće biti kamen oko vrata Beogradu\""
+  "Novine: \"Nova vlast, stari ring\"; \"Srpska neće biti kamen oko vrata Beogradu\"",
+  "Ko je novinar Marko Ivas koji je intervjuisao Aleksandra Čupića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Stevan_Kragujevic,_Dragan_Tomic,_predsednik_Skupstine_SR_Srbije.JPG",
   "alt": "Aleksandar Čupić izabran za predsednika Skupštine Srbije u novom sazivu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

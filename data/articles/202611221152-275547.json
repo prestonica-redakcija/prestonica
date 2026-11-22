@@ -33,17 +33,24 @@
  ],
  "importance": 6,
  "published": "2026-11-22T10:52:22.447092+00:00",
- "updated": "2026-11-22T10:52:22.447092+00:00",
+ "updated": "2026-11-22T20:17:21.948506+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1172161/aleksandar-cupic-eu-razocarenje",
    "title": "Prvo ih očarao, pa ih razočarao! Pristalice Studentske liste besne zbog odluke Aleksandra Čupića - ovo je razlog",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/dr-cupic-za-rts-otkrio-zasto-nece-prisustvovati-samitu-zapadnog-balkana-u-briselu/",
+   "title": "Dr Čupić za RTS otkrio zašto neće prisustvovati Samitu Zapadnog Balkana u Briselu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Prvo ih očarao, pa ih razočarao! Pristalice Studentske liste besne zbog odluke Aleksandra Čupića - ovo je razlog"
+  "Prvo ih očarao, pa ih razočarao! Pristalice Studentske liste besne zbog odluke Aleksandra Čupića - ovo je razlog",
+  "Dr Čupić za RTS otkrio zašto neće prisustvovati Samitu Zapadnog Balkana u Briselu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Čupić neće na Samit Zapadnog Balkana u Briselu, reagovale pristalice Studentske liste"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

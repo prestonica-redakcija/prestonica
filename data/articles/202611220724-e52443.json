@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-22T06:24:50.675388+00:00",
- "updated": "2026-11-22T17:48:30.260617+00:00",
+ "updated": "2026-11-22T20:17:21.948506+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -44,11 +44,18 @@
    "url": "https://n1info.rs/najave-emisija/n1-studio-live-sapic-na-dnevnom-redu/",
    "title": "N1 Studio live: Šapić na dnevnom redu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/cupic-izmena-zakona-o-ministarstvima/",
+   "title": "Čupić: Predstoje izmene Zakona o ministarstvima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "STUDENTSKA LISTA IMA JASAN PLAN! Buduća Vlada Srbije biće manja i mnogo efikasnija! Evo šta je PRVI KORAK do ispunjenja tog cilja!",
-  "N1 Studio live: Šapić na dnevnom redu"
+  "N1 Studio live: Šapić na dnevnom redu",
+  "Čupić: Predstoje izmene Zakona o ministarstvima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "osoba": "Dejan Šoškić",
   "alt": "Čupić: Zakon o ministarstvima prvi na dnevnom redu, nova vlada verovatno manja"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

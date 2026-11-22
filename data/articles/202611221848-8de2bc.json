@@ -24,7 +24,7 @@
  ],
  "importance": 3,
  "published": "2026-11-22T17:48:30.260617+00:00",
- "updated": "2026-11-22T18:33:14.699220+00:00",
+ "updated": "2026-11-22T20:17:21.948506+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -37,11 +37,18 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/253204/sardinija-ulaze-10-miliona-evra-za-digitalne-nomade/vest",
    "title": "Sardinija želi da zaustavi depopulaciju: Nudi 10 miliona evra za dolazak digitalnih nomada i radnika na daljinu",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/287218/sardinija-izdvaja-10-miliona-evra-za-privlacenje-digitalnih-nomada/vest",
+   "title": "Milioni za privlačenje stranih radnika: Ova zemlja želi da postane raj za rad na daljinu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Sardinija izdvaja 10 miliona evra za privlačenje digitalnih nomada",
-  "Sardinija želi da zaustavi depopulaciju: Nudi 10 miliona evra za dolazak digitalnih nomada i radnika na daljinu"
+  "Sardinija želi da zaustavi depopulaciju: Nudi 10 miliona evra za dolazak digitalnih nomada i radnika na daljinu",
+  "Milioni za privlačenje stranih radnika: Ova zemlja želi da postane raj za rad na daljinu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,6 +61,6 @@
   "alt": "A car driving down a street next to tall buildings",
   "link": "https://unsplash.com/@bernhardbar"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
