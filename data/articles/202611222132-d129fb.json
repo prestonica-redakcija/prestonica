@@ -33,17 +33,24 @@
  ],
  "importance": 7,
  "published": "2026-11-22T20:32:16.653407+00:00",
- "updated": "2026-11-22T20:32:16.653407+00:00",
+ "updated": "2026-11-22T21:46:37.641049+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1172328/aleksandar-cupic-zgrada-profesor-priznanje",
    "title": "Palo priznanje u \"Utisku nedelje\"! Aleksandar Čupić otkrio da je zidao zgradu sa svojim bivšim profesorom! (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673693/aleksandar-cupic-olja-beckovic-utisak-nedelje",
+   "title": "ALEKSANDAR ČUPIĆ PRIZNAO: Gradio zgradu sa bivšim profesorom (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Palo priznanje u \"Utisku nedelje\"! Aleksandar Čupić otkrio da je zidao zgradu sa svojim bivšim profesorom! (VIDEO)"
+  "Palo priznanje u \"Utisku nedelje\"! Aleksandar Čupić otkrio da je zidao zgradu sa svojim bivšim profesorom! (VIDEO)",
+  "ALEKSANDAR ČUPIĆ PRIZNAO: Gradio zgradu sa bivšim profesorom (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "osoba": "Utisak nedelje",
   "izvor_x": true,
   "alt": "Čupić o pitanjima o imovini: reč je o ugovoru o zajedničkoj izgradnji sa bivšim profesorom"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

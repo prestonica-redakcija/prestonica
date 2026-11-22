@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-21T18:31:19.960105+00:00",
- "updated": "2026-11-21T18:31:19.960105+00:00",
+ "updated": "2026-11-22T21:46:37.641049+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/francuska-ambasada-cestitala-srbiji-formiranje-skupstine-aleksandar-cupic/",
    "title": "Francuska ambasada čestitala Srbiji formiranje Skupštine i njenom predsedniku",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673705/aleksandar-cupic-utisak-nedelje-olja-beckovic",
+   "title": "ALEKSANDAR ČUPIĆ: Predsednički izbori će biti održani 27. decembra",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Francuska ambasada čestitala Srbiji formiranje Skupštine i njenom predsedniku"
+  "Francuska ambasada čestitala Srbiji formiranje Skupštine i njenom predsedniku",
+  "ALEKSANDAR ČUPIĆ: Predsednički izbori će biti održani 27. decembra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "alt": "National assembly building with traffic and clear sky",
   "link": "https://unsplash.com/@borzenkov"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

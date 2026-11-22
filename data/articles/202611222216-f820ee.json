@@ -28,17 +28,24 @@
  ],
  "importance": 5,
  "published": "2026-11-22T21:16:54.701256+00:00",
- "updated": "2026-11-22T21:16:54.701256+00:00",
+ "updated": "2026-11-22T21:46:37.641049+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/politika/ivanka-popovic-o-spekulacijama-da-ce-biti-premijerka/",
    "title": "Ivanka Popović o spekulacijama da će biti premijerka",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/ivanka-popovic-premijerka-razgovori/",
+   "title": "Ivanka Popović o navodima da će biti premijerka: Nisam vodila nikakve razgovore",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Ivanka Popović o spekulacijama da će biti premijerka"
+  "Ivanka Popović o spekulacijama da će biti premijerka",
+  "Ivanka Popović o navodima da će biti premijerka: Nisam vodila nikakve razgovore"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Ivanka_Popovic.jpg",
   "osoba": "Ivanka Popović",
   "alt": "Ivanka Popović: Niko sa mnom nije razgovarao o funkciji, ni o mestu premijerke"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
