@@ -26,7 +26,7 @@
  "places": [],
  "importance": 7,
  "published": "2026-11-21T12:34:23.192834+00:00",
- "updated": "2026-11-21T20:00:24.496948+00:00",
+ "updated": "2026-11-22T09:08:11.102597+00:00",
  "sources": [
   {
    "name": "N1",
@@ -45,12 +45,19 @@
    "url": "https://n1info.rs/biznis/ko-ce-biti-odgovoran-za-kasnjenje-expo-2027-nova-vlast-preispituje/",
    "title": "Ko će biti odgovoran za kašnjenje EXPO 2027: Nova vlast preispituje bezbednost i budućnost projekta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287078/donald-tramp-otkrio-detalje-plana-za-primirje/vest",
+   "title": "Objavljen plan za primirje",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "\"Primarni cilj - uvtrđivanje bezbednosti\": Kakav je plan nove vlasti za EXPO i može li biti otkazan?",
   "Tema jutra: Kakav je plan Studentske liste za EXPO",
-  "Ko će biti odgovoran za kašnjenje EXPO 2027: Nova vlast preispituje bezbednost i budućnost projekta"
+  "Ko će biti odgovoran za kašnjenje EXPO 2027: Nova vlast preispituje bezbednost i budućnost projekta",
+  "Objavljen plan za primirje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +70,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%96%B6%E3%83%90%E3%82%B9_0-1925_GREEN%C3%97EXPO_2027_%E3%83%A9%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%90%E3%82%B9.jpg",
   "alt": "Studentska lista: EXPO 2027 može biti otkazan ili pomeren ako objekti nisu bezbedni"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

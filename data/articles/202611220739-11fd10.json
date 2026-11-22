@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T06:39:36.178725+00:00",
- "updated": "2026-11-22T08:53:30.485732+00:00",
+ "updated": "2026-11-22T09:08:11.102597+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -52,13 +52,20 @@
    "url": "https://www.kurir.rs/planeta/10169199/vatra-guta-fabriku-slatkisa-u-indoneziji-ima-mrtvih-tragaju-za-nestalim-radnicima",
    "title": "VATRA GUTA FABRIKU SLATKIŠA: Ima mrtvih i povređenih, traga se za desetinama nestalih radnika! Jeziva scena u Indoneziji (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/299850/najmanje-24-osobe-poginule-u-prevrtanju-camca-u-nigeriji-traga-se-za-nestalima/vest",
+   "title": "Najmanje 24 osobe poginule u prevrtanju čamca u Nigeriji, traga se za nestalima",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Najmanje tri osobe poginule, četiri povređene, 36 nestalo u požaru u fabrici u Indoneziji",
   "Veliki požar u fabrici; 36 radnika nestalo u buktinji VIDEO",
   "Požar u fabrici slatkiša u Indoneziji, troje poginulih",
-  "VATRA GUTA FABRIKU SLATKIŠA: Ima mrtvih i povređenih, traga se za desetinama nestalih radnika! Jeziva scena u Indoneziji (VIDEO)"
+  "VATRA GUTA FABRIKU SLATKIŠA: Ima mrtvih i povređenih, traga se za desetinama nestalih radnika! Jeziva scena u Indoneziji (VIDEO)",
+  "Najmanje 24 osobe poginule u prevrtanju čamca u Nigeriji, traga se za nestalima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,6 @@
   "alt": "houses on top of mountain",
   "link": "https://unsplash.com/@rahimsof"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

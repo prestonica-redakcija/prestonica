@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T20:15:28.244701+00:00",
- "updated": "2026-11-22T07:53:59.172887+00:00",
+ "updated": "2026-11-22T09:08:11.102597+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -68,6 +68,12 @@
    "url": "https://nova.rs/vesti/svet/haos-u-belgiji-sutra-se-otkazuju-gotovo-svi-letovi-aerodromi-upozoravaju-na-katastrofalne-posledice/",
    "title": "Haos u Belgiji: Sutra se otkazuju gotovo svi letovi, aerodromi upozoravaju na katastrofalne posledice",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/299873/zbog-nacionalnog-strajka-u-belgiji-ce-sutra-biti-otkazani-skoro-svi-letovi/vest",
+   "title": "Zbog nacionalnog štrajka u Belgiji će sutra biti otkazani skoro svi letovi",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -76,7 +82,8 @@
   "BELGIJU ČEKA HAOS: Svi letovi na aerodromima u ponedeljak će biti otkazani zbog generalnog protesta",
   "Zbog protesta u Belgiji otkazana većina letova na briselskom aerodromu",
   "Otkazana većina letova na aerodromu u Briselu za ponedeljak",
-  "Haos u Belgiji: Sutra se otkazuju gotovo svi letovi, aerodromi upozoravaju na katastrofalne posledice"
+  "Haos u Belgiji: Sutra se otkazuju gotovo svi letovi, aerodromi upozoravaju na katastrofalne posledice",
+  "Zbog nacionalnog štrajka u Belgiji će sutra biti otkazani skoro svi letovi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -88,6 +95,6 @@
   "local": true,
   "alt": "Belgija: letovi na aerodromima otkazani u ponedeljak zbog protesta sindikata"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

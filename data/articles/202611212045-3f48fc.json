@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T19:45:30.510819+00:00",
- "updated": "2026-11-21T19:45:30.510819+00:00",
+ "updated": "2026-11-22T09:08:11.102597+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -43,11 +43,18 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4437315-oglasila-se-policija-zbog-ubistva-milosa-djurickovica-otkriveni-novi-detalji-tragaju-za-dvojicom-osumnjicenih",
    "title": "Oglasila se policija zbog ubistva Miloša Đuričkovića: Otkriveni novi detalji, tragaju za dvojicom osumnjičenih",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4437436-ubistvo-na-cetinju-pronadjeno-zapaljeno-vozilo-s-puskama-najmanje-2-direktna-izvrsioca",
+   "title": "Ubistvo na Cetinju: Pronađeno zapaljeno vozilo s puškama, najmanje 2 direktna izvršioca",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "NAKON UBISTVA ŠKALJARCA NAĐENO ZAPALJENO VOZILO, U NJEMU BILE DVE PUŠKE! Oglasila se policija Crne Gore: U toku potraga za dvojicom osumnjičenih",
-  "Oglasila se policija zbog ubistva Miloša Đuričkovića: Otkriveni novi detalji, tragaju za dvojicom osumnjičenih"
+  "Oglasila se policija zbog ubistva Miloša Đuričkovića: Otkriveni novi detalji, tragaju za dvojicom osumnjičenih",
+  "Ubistvo na Cetinju: Pronađeno zapaljeno vozilo s puškama, najmanje 2 direktna izvršioca"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "alt": "Police cars with flashing red and blue lights on a dark residential street",
   "link": "https://unsplash.com/@oculareuphoria"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
