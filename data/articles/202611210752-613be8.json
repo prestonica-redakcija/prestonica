@@ -30,17 +30,24 @@
  ],
  "importance": 6,
  "published": "2026-11-21T06:52:04.638441+00:00",
- "updated": "2026-11-21T06:52:04.638441+00:00",
+ "updated": "2026-11-22T12:36:22.503053+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10168491/cupic-vasalo-sastanak-eu-reforme-srbija",
    "title": "OTKRIVENO O ČEMU JE ALEKSANDAR ČUPIĆ PRIČAO SA ŠEFOM DELEGACIJE EU: Ovo su bile glavne teme, zbog jedne stvari je izrazio žaljenje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/dijalog/licni-stavovi/jedna-zastava-i-dva-aleksandra/",
+   "title": "Jedna zastava i dva Aleksandra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "OTKRIVENO O ČEMU JE ALEKSANDAR ČUPIĆ PRIČAO SA ŠEFOM DELEGACIJE EU: Ovo su bile glavne teme, zbog jedne stvari je izrazio žaljenje"
+  "OTKRIVENO O ČEMU JE ALEKSANDAR ČUPIĆ PRIČAO SA ŠEFOM DELEGACIJE EU: Ovo su bile glavne teme, zbog jedne stvari je izrazio žaljenje",
+  "Jedna zastava i dva Aleksandra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Čupić i otpravnik poslova Delegacije EU razgovarali o reformama i pregovorima"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

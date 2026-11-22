@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-22T11:22:04.230756+00:00",
- "updated": "2026-11-22T12:06:46.562262+00:00",
+ "updated": "2026-11-22T12:36:22.503053+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,13 +51,20 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/253158/postanska-stedionica-osudila-sirenje-panike-na-mrezama/vest",
    "title": "Poštanska štedionica osudila širenje panike na mrežama: Zlonamerne tvrdnje o povlačenju novca, traže hitnu istragu",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/postanska-stedionica-poziva-nadlezne-reagujte-na-pozive-gradjanima-na-mrezama-da-povuku-pare-iz-te-banke/",
+   "title": "Poštanska štedionica poziva nadležne: Reagujte na pozive građanima na mrežama da povuku pare iz te banke",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Banka Poštanska štedionica: Još jedan neuspešan pokušaj uznemiravanja javnosti - narušavanja poverenja u banku",
   "Oglasila se Poštanska štedionica: \"Još jedan pokušaj uznemiravanja javnosti i rušenja poverenja u banku\"",
   "HITNO SE OGLASILA POŠTANSKA ŠTEDIONICA: Reagovala na pozive da se povlači novac i širenje panike",
-  "Poštanska štedionica osudila širenje panike na mrežama: Zlonamerne tvrdnje o povlačenju novca, traže hitnu istragu"
+  "Poštanska štedionica osudila širenje panike na mrežama: Zlonamerne tvrdnje o povlačenju novca, traže hitnu istragu",
+  "Poštanska štedionica poziva nadležne: Reagujte na pozive građanima na mrežama da povuku pare iz te banke"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +77,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Banka_po%C5%A1tanska_%C5%A1tedionica,_Pan%C4%8Devo.jpg",
   "alt": "Poštanska štedionica osudila pozive građanima na povlačenje novca sa računa"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
