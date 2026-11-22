@@ -1006,3 +1006,14 @@ mark{background:color-mix(in srgb,var(--gold) 30%,transparent);color:inherit;bor
 /* Skupština: naši snimci kao trajan zapis sednica */
 .sk-nasi-p{margin:-4px 0 14px;color:var(--ink-3);font-size:13.5px;max-width:60ch}
 .sk-nasi .vc{border-color:color-mix(in srgb,var(--brand) 24%,var(--line))}
+
+/* ---------- autorski tekst: naslovi odeljaka, tabele i fotografije u telu ---------- */
+.art-body .art-h{font-family:var(--display);font-weight:800;font-size:1.42em;line-height:1.25;margin:2em 0 .6em}
+.art-body .art-tabela{overflow-x:auto;margin:1.5em 0}
+.art-body .art-tabela table{border-collapse:collapse;width:100%;font-size:.88em;line-height:1.5}
+.art-body .art-tabela th{text-align:left;font-weight:700;padding:.55em .7em;border-bottom:2px solid var(--c);white-space:nowrap}
+.art-body .art-tabela td{padding:.55em .7em;border-bottom:1px solid rgba(0,0,0,.09);vertical-align:top}
+.art-body .art-tabela tr:last-child td{border-bottom:none}
+.art-body .art-foto{margin:1.8em 0}
+.art-body .art-foto img{width:100%;height:auto;display:block;border-radius:3px}
+.art-body .art-foto figcaption{font-size:.82em;line-height:1.45;color:var(--muted,#666);margin-top:.5em}
