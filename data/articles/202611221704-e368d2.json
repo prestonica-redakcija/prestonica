@@ -26,7 +26,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T16:04:27.490938+00:00",
- "updated": "2026-11-22T17:18:53.497052+00:00",
+ "updated": "2026-11-22T17:48:30.260617+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -51,13 +51,20 @@
    "url": "https://www.kurir.rs/crna-hronika/10169647/napad-nozem-galerija-beograd",
    "title": "NAKON NAPADA NOŽEM I MUŠKARAC I ŽENA ZAVRŠILI U URGENTNOM: Detalji incidenta u garaži tržnog centra u Beogradu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4437665-otkriveno-ko-je-muskarac-koji-je-izbo-zenu-u-galeriji",
+   "title": "Otkriveno ko je muškarac koji je izbo ženu u Galeriji: Detalji krvave drame, imao i vatreno oružje kod sebe",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "UŽAS U TRŽNOM CENTRU U BEOGRADU! Muškarac nožem ubo devojku, Hitna pomoć i policija na licu mesta",
   "Krvava drama u Beogradu: Devojka izbodena nožem u garaži poznatog tržnog centra",
   "Drama u beogradskom tržnom centru: Devojka ubodena nožem",
-  "NAKON NAPADA NOŽEM I MUŠKARAC I ŽENA ZAVRŠILI U URGENTNOM: Detalji incidenta u garaži tržnog centra u Beogradu"
+  "NAKON NAPADA NOŽEM I MUŠKARAC I ŽENA ZAVRŠILI U URGENTNOM: Detalji incidenta u garaži tržnog centra u Beogradu",
+  "Otkriveno ko je muškarac koji je izbo ženu u Galeriji: Detalji krvave drame, imao i vatreno oružje kod sebe"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "local": true,
   "alt": "Napad nožem u garaži tržnog centra Galerija u Beogradu, povređena devojka"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

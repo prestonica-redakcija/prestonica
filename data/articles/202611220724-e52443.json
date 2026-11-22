@@ -31,17 +31,24 @@
  ],
  "importance": 6,
  "published": "2026-11-22T06:24:50.675388+00:00",
- "updated": "2026-11-22T06:24:50.675388+00:00",
+ "updated": "2026-11-22T17:48:30.260617+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10168157/strucnjaci-o-novoj-vladi-manji-sastav-veca-efikasnost",
    "title": "STUDENTSKA LISTA IMA JASAN PLAN! Buduća Vlada Srbije biće manja i mnogo efikasnija! Evo šta je PRVI KORAK do ispunjenja tog cilja!",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/najave-emisija/n1-studio-live-sapic-na-dnevnom-redu/",
+   "title": "N1 Studio live: Šapić na dnevnom redu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "STUDENTSKA LISTA IMA JASAN PLAN! Buduća Vlada Srbije biće manja i mnogo efikasnija! Evo šta je PRVI KORAK do ispunjenja tog cilja!"
+  "STUDENTSKA LISTA IMA JASAN PLAN! Buduća Vlada Srbije biće manja i mnogo efikasnija! Evo šta je PRVI KORAK do ispunjenja tog cilja!",
+  "N1 Studio live: Šapić na dnevnom redu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Dejan_%C5%A0o%C5%A1ki%C4%87.png",
   "osoba": "Dejan Šoškić",
   "alt": "Čupić: Zakon o ministarstvima prvi na dnevnom redu, nova vlada verovatno manja"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
