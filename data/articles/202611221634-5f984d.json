@@ -1,0 +1,53 @@
+{
+ "id": "202611221634-5f984d",
+ "slug": "gao-17-od-22-americke-savezne-agencije-nije-u-potpunosti-primenilo",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "GAO: 17 od 22 američke savezne agencije nije u potpunosti primenilo smernice sajber-bezbednosti",
+ "lead": "Sedamnaest od 22 velike američke savezne agencije nije u potpunosti primenilo ključne smernice za planiranje sajber-bezbednosti, upozorila je američka Kancelarija za odgovornost vlade (GAO). Prema njenoj oceni, to povećava rizik od napada i poremećaja u radu državnih sistema.",
+ "body": [
+  "Izveštaj GAO, o kome pišu Euronews Srbija i Foks njuz, obuhvata, između ostalih, Ministarstvo unutrašnje bezbednosti, Ministarstvo pravde, Stejt department, Ministarstvo finansija i Ministarstvo zdravlja i socijalnih usluga.",
+  "GAO je proveravao da li su agencije u planove uvele odabrane smernice za takozvanu arhitekturu nultog poverenja (Zero Trust Architecture). Reč je o modelu prema kojem se identitet i pouzdanost korisnika, uređaja i sistema moraju proveriti pre pristupa zaštićenim mrežama.",
+  "Samo pet od 22 analizirane agencije u potpunosti je obuhvatilo te smernice, zbog čega je GAO preostalim institucijama uputio ukupno 40 preporuka. \"Agencije su zbog toga izložene povećanom riziku od sajbernapada koji bi mogli da prekinu njihov rad ili na drugi način ugroze njihove resurse\", navela je ta institucija.",
+  "Ministarstvo zdravlja i socijalnih usluga dobilo je šest preporuka, najviše od svih, jer nema dokumentovan sveobuhvatni plan za primenu arhitekture nultog poverenja za sve svoje informacione sisteme. U Ministarstvu unutrašnje bezbednosti nisu u potpunosti dokumentovani nivoi sajber-bezbednosne zrelosti svih ključnih sistema i resursa.",
+  "Zvaničnici su nepotpune procene delimično pripisali dugotrajnim prekidima rada savezne vlade tokom prethodne fiskalne godine. Ministarstvo pravde je kao razlog navelo ograničene resurse, dok su Stejt department i Ministarstvo finansija samo delimično dokumentovali nivoe sajber-bezbednosti.",
+  "Kako podseća Foks njuz, administracija tadašnjeg predsednika Džozefa Bajdena naložila je 2021. izvršnom naredbom saveznim agencijama da usvoje principe nultog poverenja. Dodatne smernice objavljene su 2022. i 2024, ali GAO navodi da 17 od 22 agencije i dalje nije u potpunosti ispunilo odabrane zahteve."
+ ],
+ "tags": [
+  "sajber-bezbednost",
+  "GAO",
+  "SAD",
+  "savezne agencije",
+  "arhitektura nultog poverenja"
+ ],
+ "people": [
+  "Džozef Bajden"
+ ],
+ "places": [
+  "SAD"
+ ],
+ "importance": 4,
+ "published": "2026-11-22T15:34:52.253700+00:00",
+ "updated": "2026-11-22T15:34:52.253700+00:00",
+ "sources": [
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/253181/americke-savezne-agencije-izlozene-riziku-od-sajbernapada/vest",
+   "title": "Američke savezne agencije izložene riziku od sajber napada: Čak 17 od 22 institucije nije primenilo ključne mere zaštite",
+   "spektar": "centar"
+  }
+ ],
+ "source_titles": [
+  "Američke savezne agencije izložene riziku od sajber napada: Čak 17 od 22 institucije nije primenilo ključne mere zaštite"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.709,
+ "image": {
+  "src": "foto/beograd-zgrada.jpg",
+  "credit": "Pexels / Necip Duman",
+  "ilustracija": true,
+  "local": true,
+  "alt": "GAO: 17 od 22 američke savezne agencije nije u potpunosti primenilo smernice sajber-bezbednosti"
+ }
+}

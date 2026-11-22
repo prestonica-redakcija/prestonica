@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T11:20:11.634668+00:00",
- "updated": "2026-11-22T14:20:20.657596+00:00",
+ "updated": "2026-11-22T15:34:52.253700+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -63,6 +63,12 @@
    "url": "https://www.tanjug.rs/ekonomija/ekologija/299948/cop31-pregovori-propali-zbog-neslaganja-o-fosilnim-gorivima-deklaracija-nije-usvojena/vest",
    "title": "COP31: Pregovori propali zbog neslaganja o fosilnim gorivima, deklaracija nije usvojena",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/zeleni-kutak/globalni-samit-o-klimi-cop31-turska/",
+   "title": "Globalni samit o klimi propao: Zemlje nisu uspele da se dogovore o napuštanju fosilnih goriva",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -70,7 +76,8 @@
   "COP31 u Antaliji se nastavlja: Nema dogovora o fosilnim gorivima i pomoći siromašnijim zemljama",
   "Produženi pregovori na COP31 u Antaliji: Bez dogovora o fosilnim gorivima i pomoći zemljama u razvoju",
   "Objavljen nacrt pregovora UN u Antaliji o klimi: Bez većih rešenja o fosilnim gorivima",
-  "COP31: Pregovori propali zbog neslaganja o fosilnim gorivima, deklaracija nije usvojena"
+  "COP31: Pregovori propali zbog neslaganja o fosilnim gorivima, deklaracija nije usvojena",
+  "Globalni samit o klimi propao: Zemlje nisu uspele da se dogovore o napuštanju fosilnih goriva"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -83,6 +90,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:COP31_-_Shehbaz_Sharif_04.jpg",
   "alt": "Klimatska konferencija COP31 u Antaliji produžena, nema dogovora o fosilnim gorivima"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
