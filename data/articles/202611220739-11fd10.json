@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T06:39:36.178725+00:00",
- "updated": "2026-11-22T06:39:36.178725+00:00",
+ "updated": "2026-11-22T08:38:31.634104+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -40,11 +40,18 @@
    "url": "https://www.b92.net/info/svet/287041/pozar-u-fabrici-u-indoneziji/vest",
    "title": "Veliki požar u fabrici; 36 radnika nestalo u buktinji VIDEO",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/pozar-u-fabrici-slatkisa-u-indoneziji-troje-poginulih/",
+   "title": "Požar u fabrici slatkiša u Indoneziji, troje poginulih",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Najmanje tri osobe poginule, četiri povređene, 36 nestalo u požaru u fabrici u Indoneziji",
-  "Veliki požar u fabrici; 36 radnika nestalo u buktinji VIDEO"
+  "Veliki požar u fabrici; 36 radnika nestalo u buktinji VIDEO",
+  "Požar u fabrici slatkiša u Indoneziji, troje poginulih"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "alt": "houses on top of mountain",
   "link": "https://unsplash.com/@rahimsof"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

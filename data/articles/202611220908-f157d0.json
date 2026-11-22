@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-22T08:08:44.591634+00:00",
- "updated": "2026-11-22T08:08:44.591634+00:00",
+ "updated": "2026-11-22T08:38:31.634104+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4437429-prijavili-osobu-da-radi-u-pio-fondu-a-znali-da-nece-dolaziti-na-posao-uhapseno-troje-u-backoj-palanci",
    "title": "Prijavili osobu da radi u PIO fondu, a znali da neće dolaziti na posao: Uhapšeno troje u Bačkoj Palanci",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287068/vise-javno-tuzilastvo-u-novom-sadu-o-hapsenju-u-backoj-palanci-i-bacu/vest",
+   "title": "VJT u Novom Sadu: \"Uhapšeni osumnjičeni za zloupotrebu službenog položaja u Bačkoj Palanci i Baču\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Uhapšen direktor PIO fonda u Bačkoj Palanci zbog sumnje na zloupotrebu službenog položaja",
-  "Prijavili osobu da radi u PIO fondu, a znali da neće dolaziti na posao: Uhapšeno troje u Bačkoj Palanci"
+  "Prijavili osobu da radi u PIO fondu, a znali da neće dolaziti na posao: Uhapšeno troje u Bačkoj Palanci",
+  "VJT u Novom Sadu: \"Uhapšeni osumnjičeni za zloupotrebu službenog položaja u Bačkoj Palanci i Baču\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:St_John_the_Baptist_church_in_Backa_Palanka_(11).jpg",
   "alt": "Uhapšeno troje zbog sumnje na zloupotrebu položaja u PIO fondu i opštini Bač"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

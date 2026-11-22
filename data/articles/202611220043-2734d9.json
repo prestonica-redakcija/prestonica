@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T23:43:18.479661+00:00",
- "updated": "2026-11-22T06:39:36.178725+00:00",
+ "updated": "2026-11-22T08:38:31.634104+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -56,12 +56,19 @@
    "url": "https://www.tanjug.rs/svet/politika/299846/fico-pozvao-evropsku-komisiju-da-prati-situaciju-u-srbiji-osvrnuo-se-i-na-desavanja-u-slovackoj/vest",
    "title": "Fico pozvao Evropsku komisiju da prati situaciju u Srbiji, osvrnuo se i na dešavanja u Slovačkoj",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/fico-zahteva-da-evropska-komisija-prati-situaciju-u-srbiji/",
+   "title": "Fico zahteva da Evropska komisija prati situaciju u Srbiji",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Fico pozvao Evropsku komisiju da prati situaciju u Srbiji, optužio opoziciju",
   "FICO POZVAO EVROPSKU KOMISIJU DA PRATI SITUACIJU U SRBIJI: Prilike uporedio sa dešavanjima u Slovačkoj od 2020. do 2023.",
-  "Fico pozvao Evropsku komisiju da prati situaciju u Srbiji, osvrnuo se i na dešavanja u Slovačkoj"
+  "Fico pozvao Evropsku komisiju da prati situaciju u Srbiji, osvrnuo se i na dešavanja u Slovačkoj",
+  "Fico zahteva da Evropska komisija prati situaciju u Srbiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "local": true,
   "alt": "Fico pozvao Evropsku komisiju da prati situaciju u Srbiji i poredi je sa Slovačkom"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

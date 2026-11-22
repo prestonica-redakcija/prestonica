@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T10:05:36.471344+00:00",
- "updated": "2026-11-21T10:35:35.391343+00:00",
+ "updated": "2026-11-22T08:38:31.634104+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -47,11 +47,18 @@
    "url": "https://www.tanjug.rs/srbija/politika/299653/vucic-u-ovakvim-uslovima-je-besmisleno-ucestvovati-na-predsednickim-izborima/vest",
    "title": "Vučić: U ovakvim uslovima je besmisleno učestvovati na predsedničkim izborima",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10169191/vucic-o-predsednickim-izborima",
+   "title": "VUČIĆ: U ovakvim uslovima besmisleno je učestvovati na predsedničkim izborima",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Vučić: Na predsedničkim izborima učestvovaće deset malih satelita",
-  "Vučić: U ovakvim uslovima je besmisleno učestvovati na predsedničkim izborima"
+  "Vučić: U ovakvim uslovima je besmisleno učestvovati na predsedničkim izborima",
+  "VUČIĆ: U ovakvim uslovima besmisleno je učestvovati na predsedničkim izborima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "osoba": "Radomir Saičić",
   "alt": "Vučić: na predsedničkim izborima nema smisla učestvovati, stranka može odlučiti drugačije"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
