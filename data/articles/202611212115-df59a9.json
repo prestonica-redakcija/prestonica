@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-21T20:15:28.244701+00:00",
- "updated": "2026-11-22T15:19:47.474740+00:00",
+ "updated": "2026-11-22T17:04:02.043671+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -123,6 +123,12 @@
    "url": "https://biznis.telegraf.rs/info-biz/4437597-strajk-u-briselu-obustavio-avio-saobracaj-otkazan-sutrasnji-let-iz-beograda-oglasila-se-er-srbija",
    "title": "Štrajk u Briselu obustavio avio-saobraćaj: Otkazan sutrašnji let iz Beograda, oglasila se Er Srbija",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/otkazani-letovi-er-srbije-u-ponedeljak-za-brisel/",
+   "title": "Otkazani letovi Er Srbije u ponedeljak za Brisel",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -140,7 +146,8 @@
   "Er Srbija: Zbog štrajka na aerodromu u Briselu otkazan sutrašnji let Beograd - Brisel",
   "Oglasila se Er Srbija zbog štrajka sutra na aerodromu u Briselu",
   "Er Srbija otkazala sutrašnji let između Beograda i Brisela zbog štrajka: Putnicima ponuđene alternativne opcije",
-  "Štrajk u Briselu obustavio avio-saobraćaj: Otkazan sutrašnji let iz Beograda, oglasila se Er Srbija"
+  "Štrajk u Briselu obustavio avio-saobraćaj: Otkazan sutrašnji let iz Beograda, oglasila se Er Srbija",
+  "Otkazani letovi Er Srbije u ponedeljak za Brisel"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -152,7 +159,7 @@
   "local": true,
   "alt": "Belgija: letovi na aerodromima otkazani u ponedeljak zbog protesta sindikata"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-22T14:50:08.508958+00:00",
  "verzija": 3

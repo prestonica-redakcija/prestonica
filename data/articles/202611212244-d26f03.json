@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T21:44:33.808460+00:00",
- "updated": "2026-11-22T16:34:11.943597+00:00",
+ "updated": "2026-11-22T17:04:02.043671+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -75,6 +75,12 @@
    "url": "https://www.b92.net/info/svet/287188/poljska-potvrdila-sva-tri-objekta-koja-su-usla-u-zemlju-bile-su-ruske-krstarece-rakete-h-101/vest",
    "title": "Potvrđeno: Ruske rakete pale na Poljsku",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10169640/nato-sutra-raspravlja-o-ruskim-raketama-i-dronovima-u-poljskoj",
+   "title": "RUSKE RAKETE PALE NA POLJSKU! Premijer uoči sastanka NATO-a: \"Bilo je namerno!\" (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -84,7 +90,8 @@
   "Rute: NATO će braniti svaki pedalj teritorije Poljske",
   "NATO će podržati Poljsku u jačanju bezbednosti istočne granice nakon upada ruskih dronova",
   "NATO podržao Poljsku – sledi jačanje bezbednosti granice",
-  "Potvrđeno: Ruske rakete pale na Poljsku"
+  "Potvrđeno: Ruske rakete pale na Poljsku",
+  "RUSKE RAKETE PALE NA POLJSKU! Premijer uoči sastanka NATO-a: \"Bilo je namerno!\" (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -96,8 +103,8 @@
   "local": true,
   "alt": "Rute: upad ruskih raketa u Poljsku opasan incident, ali još ne za član 5"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-22T16:34:11.943597+00:00",
  "verzija": 2
 }
