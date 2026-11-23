@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-22T17:48:30.260617+00:00",
- "updated": "2026-11-23T17:37:34.362963+00:00",
+ "updated": "2026-11-23T19:36:41.548460+00:00",
  "sources": [
   {
    "name": "Telegraf",
@@ -39,11 +39,18 @@
    "url": "https://nova.rs/sport/fudbal/uhapsen-vladimir-volkov/",
    "title": "Uhapšen Vladimir Volkov",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4438436-uhapsen-i-treci-osumnjiceni-za-nelegalno-nosenje-oruzja-u-automobilu-sa-volkovim",
+   "title": "Uhapšen i treći osumnjičeni za nelegalno nošenje oružja u automobilu sa Volkovim",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Bio je u vezi sa Sandrom Afrikom i Ivanom Boom a danas je uhapšen zbog nošenja oružja",
-  "Uhapšen Vladimir Volkov"
+  "Uhapšen Vladimir Volkov",
+  "Uhapšen i treći osumnjičeni za nelegalno nošenje oružja u automobilu sa Volkovim"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,6 +63,6 @@
   "alt": "cars parked in front of store during night time",
   "link": "https://unsplash.com/@hiepdaiduong93"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
