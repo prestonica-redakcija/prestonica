@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T13:06:05.483146+00:00",
- "updated": "2026-11-22T14:20:20.657596+00:00",
+ "updated": "2026-11-23T12:39:18.637197+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -48,12 +48,19 @@
    "url": "https://nova.rs/vesti/politika/medjak-o-cupicevom-izostanku-sa-samita-euzapadni-balkan/",
    "title": "Međak o Čupićevom izostanku sa samita EU–Zapadni Balkan: Propuštena prilika da se Srbija u Briselu predstavi kao \"glavna zvezda\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/ek-za-n1-o-izostanku-srbije-sa-samita-evropske-unije-i-zapadnog-balkana/",
+   "title": "EK za N1 o izostanku Srbije sa Samita Evropske unije i Zapadnog Balkana",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "„Nije smak sveta, ali…“: Potpredsednik Evropskog pokreta o tome što Aleksandar Čupić ne ide na Samit EU – Zapadni Balkan",
   "Međak o Čupićevom izostanku sa samita EU–Zapadni Balkan: Propuštena prilika da se Srbija u Briselu predstavi kao \"glavna zvezda\"",
-  "Međak o Čupićevom izostanku sa samita EU–Zapadni Balkan: Propuštena prilika da se Srbija u Briselu predstavi kao \"glavna zvezda\""
+  "Međak o Čupićevom izostanku sa samita EU–Zapadni Balkan: Propuštena prilika da se Srbija u Briselu predstavi kao \"glavna zvezda\"",
+  "EK za N1 o izostanku Srbije sa Samita Evropske unije i Zapadnog Balkana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "alt": "row of european union flags",
   "link": "https://unsplash.com/@guillaumeperigois"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
