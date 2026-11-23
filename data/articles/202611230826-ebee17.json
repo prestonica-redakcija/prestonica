@@ -26,17 +26,24 @@
  ],
  "importance": 4,
  "published": "2026-11-23T07:26:35.693653+00:00",
- "updated": "2026-11-23T07:26:35.693653+00:00",
+ "updated": "2026-11-23T23:05:09.416142+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/svet/politika/300079/evropske-kompanije-upozorile-lidere-evropske-unije-da-ne-smanjuju-budzet-za-konkurentnost/vest",
    "title": "Evropske kompanije upozorile lidere Evropske unije da ne smanjuju budžet za konkurentnost",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10169884/evropske-kompanije-traze-ocuvanje-fonda-za-konkurentnost",
+   "title": "SREDSTVA OD KLJUČNOG ZNAČAJA ZA SUSTIZANJE SAD I KINE: Evropske kompanije upozorile lidere EU da ne smanjuju budžet za konkurentnost",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Evropske kompanije upozorile lidere Evropske unije da ne smanjuju budžet za konkurentnost"
+  "Evropske kompanije upozorile lidere Evropske unije da ne smanjuju budžet za konkurentnost",
+  "SREDSTVA OD KLJUČNOG ZNAČAJA ZA SUSTIZANJE SAD I KINE: Evropske kompanije upozorile lidere EU da ne smanjuju budžet za konkurentnost"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "alt": "row of european union flags",
   "link": "https://unsplash.com/@guillaumeperigois"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

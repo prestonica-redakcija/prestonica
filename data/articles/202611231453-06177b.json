@@ -3,21 +3,21 @@
  "slug": "vucic-opozicija-najverovatnije-nece-ucestvovati-u-radu-skupstinskih",
  "kind": "vest",
  "section": "politika",
- "headline": "Vučić: opozicija najverovatnije neće učestvovati u radu skupštinskih odbora",
- "lead": "Aleksandar Vučić izjavio je posle konsultacija u Skupštini Srbije o izboru članova odbora da će konačna odluka biti doneta sutra, ali da opozicija najverovatnije neće učestvovati u njihovom radu. Kako prenosi Kurir, razlog je to što opoziciji, prema njegovim rečima, nisu ponuđene ni funkcije predsednika ni potpredsednika odbora.",
+ "headline": "Vučić: opozicija neće voditi nijedan odbor, odluka o učešću u radu sutra",
+ "lead": "Šef poslaničke grupe „Aleksandar Vučić – Srbija pobeđuje” Aleksandar Vučić izjavio je posle konsultacija u Skupštini Srbije da opozicija neće voditi nijedan skupštinski odbor, a da će o učešću u njihovom radu odlučiti sutra. Kako prenosi Tanjug, Vučić smatra da će odluka biti da se u radu odbora ne učestvuje.",
  "body": [
-  "Vučić, kog Kurir u tekstu naziva liderom srpske opozicije, govorio je posle konsultacija o raspodeli funkcija u skupštinskim odborima. Poručio je da bi učešće u takvim okolnostima bilo bez smisla.",
-  "On je ocenio da će to biti „jedini parlament u svetu” u kome su predsednik i potpredsednici skupštine iz iste stranke. Prema njegovim rečima, predsednici odbora biće svi pripadnici režima, ili će jedan-dva odbora dobiti neka od manjinskih stranaka, dok predstavnici opozicije neće dobiti ništa.",
-  "Vučić tvrdi da se time nipodaštavaju i ponižavaju građani koji su glasali za njegovu listu. Kako je naveo, ono što je govoreno o institucijama i demokratiji pokazalo se kao neistinito.",
-  "Konačnu odluku, kako je rekao, opozicija će doneti sutra. Dodao je da će, najverovatnije, odbori raditi bez njenih predstavnika.",
-  "Reč je o izjavi jednog učesnika konsultacija, preuzetoj iz jednog medija. U izvoru nema odgovora druge strane na ove tvrdnje."
+  "Vučić je rekao da su konsultacije trajale kratko, prenosi Tanjug. Predstavnici vlasti su, prema njegovim rečima, izneli plan da članstvo u odborima bude srazmerno broju narodnih poslanika.",
+  "Kako navodi, opoziciji nisu ponuđene ni funkcije predsednika ni potpredsednika odbora, pa ne vidi zašto bi učestvovala u njihovom radu. Na to je ukazao i Kurir, koji prenosi njegovu izjavu.",
+  "Vučić je ocenio da će to biti „jedini parlament u svetu” u kome su predsednik i potpredsednici skupštine iz iste stranke. Prema njegovim rečima, predsednici odbora biće svi pripadnici režima, ili će jedan-dva odbora dobiti neka od manjinskih stranaka, dok predstavnici opozicije neće dobiti ništa.",
+  "Vučić tvrdi da se time nipodaštavaju i ponižavaju građani koji su glasali za njegovu listu, i da se ono što je govoreno o institucijama i demokratiji pokazalo kao neistinito. Tanjug navodi da je rekao da misli kako će odluka biti da se ne učestvuje u radu odbora „na ovakav” način, koji je opisao kao ponižavajući.",
+  "Reč je o izjavi jednog učesnika konsultacija, preuzetoj iz medija. U izvorima nema odgovora druge strane na ove tvrdnje. Tanjug je istog dana javio i da je Usame Zukorlić ocenio da je razgovor na konsultacijama bio konstruktivan, ali da dogovor još nije postignut."
  ],
  "tags": [
   "Skupština Srbije",
   "skupštinski odbori",
   "opozicija",
-  "Aleksandar Vučić",
-  "konsultacije"
+  "konsultacije",
+  "Aleksandar Vučić"
  ],
  "people": [
   "Aleksandar Vučić"
@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T13:53:52.853775+00:00",
- "updated": "2026-11-23T14:38:43.072189+00:00",
+ "updated": "2026-11-23T23:05:09.416142+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -83,6 +83,12 @@
    "url": "https://n1info.rs/vesti/vucic-najverovatnije-necemo-ucestvovati-u-radu-skupstinskih-odbora/",
    "title": "Vučić: Najverovatnije nećemo učestvovati u radu skupštinskih odbora",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300238/vucic-opozicija-nece-voditi-nijedan-odbor-donecemo-odluku-da-li-ucestvujemo/vest",
+   "title": "Vučić: Opozicija neće voditi nijedan odbor, donećemo odluku da li učestvujemo",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -94,7 +100,8 @@
   "Vučić nakon konsultacija u Skupštini: \"Najverovatnije nećemo učestvovati u radu odbora\"",
   "Vučić: SNS najverovatnije bez učešća u odborima, u utorak konačna odluka",
   "Vučić tvrdi da naprednjaci neće učestvovati u radu skupštinskih odbora",
-  "Vučić: Najverovatnije nećemo učestvovati u radu skupštinskih odbora"
+  "Vučić: Najverovatnije nećemo učestvovati u radu skupštinskih odbora",
+  "Vučić: Opozicija neće voditi nijedan odbor, donećemo odluku da li učestvujemo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -109,6 +116,8 @@
   "izvor_x": true,
   "alt": "Vučić: opozicija najverovatnije neće učestvovati u radu skupštinskih odbora"
  },
- "novo_od_pisanja": 8,
- "boost": 1.6
+ "novo_od_pisanja": 0,
+ "boost": 1.6,
+ "prepisano": "2026-11-23T23:05:09.416142+00:00",
+ "verzija": 2
 }

@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T09:40:32.910688+00:00",
- "updated": "2026-11-23T22:35:27.144767+00:00",
+ "updated": "2026-11-23T23:05:09.416142+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -62,6 +62,12 @@
    "url": "https://www.novosti.rs/vesti/politika/1674071/srpska-lista-vec-uradila-ono-cemu-gasic-govori-podneti-amandmani-zastitu-spc-kim",
    "title": "SRPSKA LISTA VEĆ URADILA ONO O ČEMU GAŠIĆ GOVORI: Podneti amandmani za zaštitu SPC na KiM",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674071/zastita-spc-kim-sta-najavljuje-gasic-sta-vec-uradila-srpska-lista",
+   "title": "ZAŠTITA SPC NA KIM: Šta najavljuje Gašić, a šta je već uradila Srpska lista",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -69,7 +75,8 @@
   "Zakon o kulturnom nasleđu ponovo pred poslanicima u Prištini: Upozorenja na moguće posledice po SPC",
   "Igor Simić: Srpska lista podnela amandmane na Nacrt zakona o centralnom inspektoratu",
   "Simić: Srpska lista podnela amandmane na nacrt zakona o centralnom inspektoratu",
-  "SRPSKA LISTA VEĆ URADILA ONO O ČEMU GAŠIĆ GOVORI: Podneti amandmani za zaštitu SPC na KiM"
+  "SRPSKA LISTA VEĆ URADILA ONO O ČEMU GAŠIĆ GOVORI: Podneti amandmani za zaštitu SPC na KiM",
+  "ZAŠTITA SPC NA KIM: Šta najavljuje Gašić, a šta je već uradila Srpska lista"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -82,8 +89,8 @@
   "alt": "A large building with a clock tower on top of it",
   "link": "https://unsplash.com/@tbister98"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-23T22:35:27.144767+00:00",
  "verzija": 2
 }

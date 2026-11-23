@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T22:50:19.865955+00:00",
- "updated": "2026-11-23T22:50:19.865955+00:00",
+ "updated": "2026-11-23T23:05:09.416142+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -47,11 +47,18 @@
    "url": "https://insajder.net/prenosimo/tuzbe-protiv-kompanija-ilona-maska-zbog-seksualizovanih-slika-koje-stvara-cetbot-grok",
    "title": "Tužbe protiv kompanija Ilona Maska zbog seksualizovanih slika koje stvara četbot Grok",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/300320/virdzinija-i-oregon-tuzili-spejseks-zbog-ai-slika-seksualnog-zlostavljanja-dece/vest",
+   "title": "Virdžinija i Oregon tužili Spejseks zbog AI slika seksualnog zlostavljanja dece",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Tužbe protiv kompanija Ilona Maska zbog seksualizovanih slika koje stvara četbot Grok",
-  "Tužbe protiv kompanija Ilona Maska zbog seksualizovanih slika koje stvara četbot Grok"
+  "Tužbe protiv kompanija Ilona Maska zbog seksualizovanih slika koje stvara četbot Grok",
+  "Virdžinija i Oregon tužili Spejseks zbog AI slika seksualnog zlostavljanja dece"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +70,7 @@
   "local": false,
   "alt": "a white robot with blue eyes and a laptop",
   "link": "https://unsplash.com/@coopery"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

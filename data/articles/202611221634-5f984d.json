@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T15:34:52.253700+00:00",
- "updated": "2026-11-22T15:49:43.393539+00:00",
+ "updated": "2026-11-23T23:05:09.416142+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -41,11 +41,18 @@
    "url": "https://www.tanjug.rs/svet/politika/299961/izvestaj-17-americkih-saveznih-agencija-ima-propuste-u-planiranju-sajber-bezbednosti/vest",
    "title": "Izveštaj: 17 američkih saveznih agencija ima propuste u planiranju sajber-bezbednosti",
    "spektar": "centar"
+  },
+  {
+   "name": "Radar",
+   "url": "https://radar.nova.rs/drustvo/kljucni-problem-sa-bia-nije-u-bia/",
+   "title": "Ključni problem sa BIA nije u BIA",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Američke savezne agencije izložene riziku od sajber napada: Čak 17 od 22 institucije nije primenilo ključne mere zaštite",
-  "Izveštaj: 17 američkih saveznih agencija ima propuste u planiranju sajber-bezbednosti"
+  "Izveštaj: 17 američkih saveznih agencija ima propuste u planiranju sajber-bezbednosti",
+  "Ključni problem sa BIA nije u BIA"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,6 +64,6 @@
   "local": true,
   "alt": "GAO: 17 od 22 američke savezne agencije nije u potpunosti primenilo smernice sajber-bezbednosti"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

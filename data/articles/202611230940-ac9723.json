@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T08:40:57.565229+00:00",
- "updated": "2026-11-23T18:22:28.432581+00:00",
+ "updated": "2026-11-23T23:05:09.416142+00:00",
  "sources": [
   {
    "name": "N1",
@@ -142,6 +142,12 @@
    "url": "https://nova.rs/vesti/hronika/sudjenje-u-slucaju-danke-ilic-odbrana-trazi-novo-neuropsihijatrijsko-vestacenje-optuzbenih/",
    "title": "Suđenje u slučaju Danke Ilić: Odbrana traži novo neuropsihijatrijsko veštačenje optužbenih",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/razno/287569/na-danasnji-dan-24-novembar/vest",
+   "title": "Na današnji dan, 24. novembar",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -162,7 +168,8 @@
   "Završeno današnje suđenje za ubistvo Danke Ilić: Svedoci rekonstruisali poslednje kretanje devojčice",
   "Nastavljeno suđenje u slučaju nestanka i smrti Danke Ilić, traženo novo neuropsihijatrijsko veštačenje optuženih",
   "U nastavku suđenja u slučaju ubistva Danke Ilić advokati odbrane tražili novo neuropsihijatrijsko veštačenje osumnjičenih",
-  "Suđenje u slučaju Danke Ilić: Odbrana traži novo neuropsihijatrijsko veštačenje optužbenih"
+  "Suđenje u slučaju Danke Ilić: Odbrana traži novo neuropsihijatrijsko veštačenje optužbenih",
+  "Na današnji dan, 24. novembar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -175,7 +182,7 @@
   "alt": "brown wooden tool on white surface",
   "link": "https://unsplash.com/@tingeyinjurylawfirm"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-23T18:22:28.432581+00:00",
  "verzija": 5
