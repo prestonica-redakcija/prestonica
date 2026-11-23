@@ -26,17 +26,24 @@
  ],
  "importance": 5,
  "published": "2026-11-23T11:39:42.278739+00:00",
- "updated": "2026-11-23T11:39:42.278739+00:00",
+ "updated": "2026-11-23T12:54:15.099579+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/eu-uvodi-ogranicenja-u-placanju-kesom/",
    "title": "EU uvodi ograničenja u plaćanju kešom: Gotovina samo u određenom iznosu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1673893/evropa-ogranicava-placanje-gotovinom-2027-nista-vise-nece-biti-isto",
+   "title": "EVROPA OGRANIČAVA PLAĆANjE GOTOVINOM: Od 2027. ništa više neće biti isto",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "EU uvodi ograničenja u plaćanju kešom: Gotovina samo u određenom iznosu"
+  "EU uvodi ograničenja u plaćanju kešom: Gotovina samo u određenom iznosu",
+  "EVROPA OGRANIČAVA PLAĆANjE GOTOVINOM: Od 2027. ništa više neće biti isto"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "EU od 10. jula 2027. ograničava gotovinska plaćanja u poslovnim transakcijama na 10.000 evra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

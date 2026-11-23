@@ -25,17 +25,24 @@
  ],
  "importance": 4,
  "published": "2026-11-23T10:40:09.455052+00:00",
- "updated": "2026-11-23T10:40:09.455052+00:00",
+ "updated": "2026-11-23T12:54:15.099579+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/sinisa-mali-vise-nije-odbornik-skupstina-grada-potvrdila-prestanak-mandata/",
    "title": "Siniša Mali više nije odbornik, Skupština grada potvrdila prestanak mandata",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/odbijeni-svi-predlozi-opozicije-u-skupstini-grada-potvrdjna-ostavka-sinise-malog/",
+   "title": "Odbijeni svi predlozi opozicije u Skupštini grada, potvrđena ostavka Siniše Malog",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Siniša Mali više nije odbornik, Skupština grada potvrdila prestanak mandata"
+  "Siniša Mali više nije odbornik, Skupština grada potvrdila prestanak mandata",
+  "Odbijeni svi predlozi opozicije u Skupštini grada, potvrđena ostavka Siniše Malog"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Publikum_kalendar_Skupstina_grada_Beograda.jpg",
   "alt": "Skupština grada potvrdila prestanak odborničkog mandata Siniše Malog"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
