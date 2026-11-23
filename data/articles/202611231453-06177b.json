@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T13:53:52.853775+00:00",
- "updated": "2026-11-23T14:23:36.744222+00:00",
+ "updated": "2026-11-23T14:38:43.072189+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -71,6 +71,18 @@
    "url": "https://www.danas.rs/vesti/politika/vucic-sns-bez-ucesca-u-odborima/",
    "title": "Vučić: SNS najverovatnije bez učešća u odborima, u utorak konačna odluka",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/vucic-tvrdi-da-naprednjaci-nece-ucestvovati-u-radu-skupstinskih-odbora/",
+   "title": "Vučić tvrdi da naprednjaci neće učestvovati u radu skupštinskih odbora",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/vucic-najverovatnije-necemo-ucestvovati-u-radu-skupstinskih-odbora/",
+   "title": "Vučić: Najverovatnije nećemo učestvovati u radu skupštinskih odbora",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -80,7 +92,9 @@
   "Vučić: Opozicija neće voditi nijedan odbor, sutra ćemo doneti odluku da li učestvujemo",
   "Vučić: Opozicija neće voditi nijedan odbor, sutra ćemo doneti odluku da li učestvujemo",
   "Vučić nakon konsultacija u Skupštini: \"Najverovatnije nećemo učestvovati u radu odbora\"",
-  "Vučić: SNS najverovatnije bez učešća u odborima, u utorak konačna odluka"
+  "Vučić: SNS najverovatnije bez učešća u odborima, u utorak konačna odluka",
+  "Vučić tvrdi da naprednjaci neće učestvovati u radu skupštinskih odbora",
+  "Vučić: Najverovatnije nećemo učestvovati u radu skupštinskih odbora"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -95,6 +109,6 @@
   "izvor_x": true,
   "alt": "Vučić: opozicija najverovatnije neće učestvovati u radu skupštinskih odbora"
  },
- "novo_od_pisanja": 6,
- "boost": 1.48
+ "novo_od_pisanja": 8,
+ "boost": 1.6
 }

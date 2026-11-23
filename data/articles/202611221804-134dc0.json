@@ -29,17 +29,24 @@
  ],
  "importance": 3,
  "published": "2026-11-22T17:04:02.043671+00:00",
- "updated": "2026-11-22T17:04:02.043671+00:00",
+ "updated": "2026-11-23T14:38:43.072189+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/biznis/biznis-vesti/252910/crni-petak-u-srbiji-kako-prepoznati-lazna-snizenja/vest",
    "title": "Lažna sniženja i impulsivna kupovina: Kako da Crni petak ne isprazni vaš novčanik",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/magazin/lifestyle/ovo-je-jedino-sto-se-isplati-kupovati-na-crni-petak/",
+   "title": "Ovo je jedino što se isplati kupovati na \"crni petak\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Lažna sniženja i impulsivna kupovina: Kako da Crni petak ne isprazni vaš novčanik"
+  "Lažna sniženja i impulsivna kupovina: Kako da Crni petak ne isprazni vaš novčanik",
+  "Ovo je jedino što se isplati kupovati na \"crni petak\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "alt": "save up to 50% Black Friday clip art",
   "link": "https://unsplash.com/@ashkfor121"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

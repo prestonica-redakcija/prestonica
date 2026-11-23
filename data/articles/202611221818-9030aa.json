@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T17:18:53.497052+00:00",
- "updated": "2026-11-22T18:33:14.699220+00:00",
+ "updated": "2026-11-23T14:38:43.072189+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -52,13 +52,20 @@
    "url": "https://nova.rs/vesti/hronika/saslusan-osumnjiceni-za-silovanje-u-beogradu-tuzilastvo-trazi-pritvor/",
    "title": "Saslušan osumnjičeni za silovanje u Beogradu: Tužilaštvo traži pritvor",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10170435/saslusani-uhapseni-za-izazivanje-pozara-na-kuci-u-krunskoj",
+   "title": "ZAPALILI KUĆU U CENTRU BEOGRADA: Saslušani piromani iz Krunske, tužilaštvo traži pritvor",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "OSUMNJIČENI ZA SVIREPU OBLJUBU NEGIRAO DELO Tužilaštvo nakon saslušanja zatražilo pritvor",
   "Saslušan osumnjičeni za silovanje, tužilaštvo predložilo određivanje pritvora",
   "Saslušan osumnjičeni za silovanje na Voždovcu: Tužilaštvo predložilo određivanje pritvora",
-  "Saslušan osumnjičeni za silovanje u Beogradu: Tužilaštvo traži pritvor"
+  "Saslušan osumnjičeni za silovanje u Beogradu: Tužilaštvo traži pritvor",
+  "ZAPALILI KUĆU U CENTRU BEOGRADA: Saslušani piromani iz Krunske, tužilaštvo traži pritvor"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +77,6 @@
   "local": true,
   "alt": "Saslušan osumnjičeni za silovanje u Beogradu, tužilaštvo traži pritvor"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

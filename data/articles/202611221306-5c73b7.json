@@ -28,17 +28,38 @@
  ],
  "importance": 6,
  "published": "2026-11-22T12:06:46.562262+00:00",
- "updated": "2026-11-22T12:06:46.562262+00:00",
+ "updated": "2026-11-23T14:38:43.072189+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/odbornik-pavlovic-sutra-cu-u-skupstini-beograda-glasati-za-smenu-sapica/",
    "title": "Odbornik Pavlović: Sutra ću u Skupštini Beograda glasati za smenu Šapića",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300113/zavrseno-glasanje-o-sapicu-ostaje-na-mestu-gradonacelnika/vest",
+   "title": "Završeno glasanje o Šapiću, ostaje na mestu gradonačelnika",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/sapic-ostaje-gradonacelnik-beograda-odbornici-vecine-nisu-ucestvovali-u-glasanju-o-smeni/",
+   "title": "Šapić ostaje gradonačelnik Beograda, odbornici većine nisu učestvovali u glasanju o smeni",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/bbc-news-serbian/sapic-ostaje-gradonacelnik-beograda/",
+   "title": "Šapić ostaje gradonačelnik Beograda",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Odbornik Pavlović: Sutra ću u Skupštini Beograda glasati za smenu Šapića"
+  "Odbornik Pavlović: Sutra ću u Skupštini Beograda glasati za smenu Šapića",
+  "Završeno glasanje o Šapiću, ostaje na mestu gradonačelnika",
+  "Šapić ostaje gradonačelnik Beograda, odbornici većine nisu učestvovali u glasanju o smeni",
+  "Šapić ostaje gradonačelnik Beograda"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +71,7 @@
   "local": false,
   "alt": "National assembly building with traffic and clear sky",
   "link": "https://unsplash.com/@borzenkov"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
