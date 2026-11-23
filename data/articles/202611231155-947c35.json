@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T10:55:00.391086+00:00",
- "updated": "2026-11-23T10:55:00.391086+00:00",
+ "updated": "2026-11-23T11:09:53.766455+00:00",
  "sources": [
   {
    "name": "N1",
@@ -41,11 +41,39 @@
    "url": "https://www.danas.rs/vesti/drustvo/savet-fakulteta-razresio-patrika-drida/",
    "title": "Novi Sad: Savet Fakulteta sporta i fizičkog vaspitanja razrešio Patrika Drida sa mesta dekana",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4438079-patrik-drid-razresen-sa-mesta-dekana-fakulteta-sporta-i-fizickog-vaspitanja-u-novom-sadu",
+   "title": "Patrik Drid razrešen sa mesta dekana Fakulteta sporta i fizičkog vaspitanja u Novom Sadu",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300160/savet-novosadskog-dif-a-razresio-patrika-drida-sa-funkcije-dekana/vest",
+   "title": "Savet novosadskog DIF-a razrešio Patrika Drida sa funkcije dekana",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/287359/patrik-drid-razresen-s-funkcije-dekana/vest",
+   "title": "Patrik Drid razrešen s funkcije dekana Fakulteta sporta i fizičkog vaspitanja u Novom Sadu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673837/smenjen-dekan-novosadskog-dif-savet-fakulteta-razresio-patrika-drida-posle-hapsenja",
+   "title": "SMENjEN DEKAN NOVOSADSKOG DIF-A: Savet fakulteta razrešio Patrika Drida posle hapšenja",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Patrik Drid zvanično razrešen: Više nije dekan DIF-a",
-  "Novi Sad: Savet Fakulteta sporta i fizičkog vaspitanja razrešio Patrika Drida sa mesta dekana"
+  "Novi Sad: Savet Fakulteta sporta i fizičkog vaspitanja razrešio Patrika Drida sa mesta dekana",
+  "Patrik Drid razrešen sa mesta dekana Fakulteta sporta i fizičkog vaspitanja u Novom Sadu",
+  "Savet novosadskog DIF-a razrešio Patrika Drida sa funkcije dekana",
+  "Patrik Drid razrešen s funkcije dekana Fakulteta sporta i fizičkog vaspitanja u Novom Sadu",
+  "SMENjEN DEKAN NOVOSADSKOG DIF-A: Savet fakulteta razrešio Patrika Drida posle hapšenja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +85,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Fakultet_sporta_i_fizi%C4%8Dkog_vaspitanja_Univerziteta_u_Novom_Sadu_01.jpg",
   "alt": "Savet Fakulteta sporta u Novom Sadu razrešio Patrika Drida sa mesta dekana"
- }
+ },
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

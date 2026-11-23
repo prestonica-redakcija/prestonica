@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T10:40:09.455052+00:00",
- "updated": "2026-11-23T10:55:00.391086+00:00",
+ "updated": "2026-11-23T11:09:53.766455+00:00",
  "sources": [
   {
    "name": "N1",
@@ -48,12 +48,40 @@
    "url": "https://www.kurir.rs/sport/ostali-sportovi/10170041/stojan-vujko-podneo-ostavku-u-oks",
    "title": "STOJAN VUJKO PODNEO OSTAVKU! Visoki funkcioner OKS se povukao sa pozicije!",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/video/sport/generalni-direktor-milenijum-tima-podneo-ostavku-na-mesto-potpredsednika-olimpijskog-komiteta-srbije/",
+   "title": "Generalni direktor Milenijum tima podneo ostavku na mesto potpredsednika Olimpijskog komiteta Srbije",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/sport/milenijum-tim-stojan-vujko-ostavka-olimpijski-komitet-srbije/",
+   "title": "Milenijum tim: Stojan Vujko podneo neopozivu ostavku na funkciju potpredsednika Olimpijskog komiteta Srbije",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/direktor-milenijum-tima-stojan-vujko-podneo-ostavku-na-funkciju-potpredsednika-olimpijskog-komiteta-srbije",
+   "title": "Direktor Milenijum tima Stojan Vujko podneo ostavku na funkciju potpredsednika Olimpijskog komiteta Srbije",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/sport/sport-ostalo/olimpijski-komitet-srbije-se-zahvalio-stojanu-vujku-nakon-neopozive-ostavke-na-mesto-potpredsednika/",
+   "title": "Olimpijski komitet Srbije se zahvalio Stojanu Vujku nakon neopozive ostavke na mesto potpredsednika",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Millennium Team CEO resigns as vice president of Olympic Committee of Serbia",
   "OKS, ne znamo da li ste čuli: Stojan Vujko podneo ostavku na mesto potpredsednika, to objavila privatna kompanija",
-  "STOJAN VUJKO PODNEO OSTAVKU! Visoki funkcioner OKS se povukao sa pozicije!"
+  "STOJAN VUJKO PODNEO OSTAVKU! Visoki funkcioner OKS se povukao sa pozicije!",
+  "Generalni direktor Milenijum tima podneo ostavku na mesto potpredsednika Olimpijskog komiteta Srbije",
+  "Milenijum tim: Stojan Vujko podneo neopozivu ostavku na funkciju potpredsednika Olimpijskog komiteta Srbije",
+  "Direktor Milenijum tima Stojan Vujko podneo ostavku na funkciju potpredsednika Olimpijskog komiteta Srbije",
+  "Olimpijski komitet Srbije se zahvalio Stojanu Vujku nakon neopozive ostavke na mesto potpredsednika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +94,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Hotel_Jugoslavija_(2020)_03.jpg",
   "alt": "Stojan Vujko podneo neopozivu ostavku na mesto potpredsednika OKS"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }

@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T06:27:13.747833+00:00",
- "updated": "2026-11-23T09:10:45.451267+00:00",
+ "updated": "2026-11-23T11:09:53.766455+00:00",
  "sources": [
   {
    "name": "N1",
@@ -60,6 +60,12 @@
    "url": "https://n1info.rs/vesti/grad-beograd-najavio-izmene-odluke-o-taksi-prevozu-taksisti-protestuju/",
    "title": "Grad Beograd najavio izmene Odluke o taksi prevozu, taksisti protestuju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/beograd/10170134/Strajk-taksista-saopstenje-Sekretarijata-za-javni-prevoz-Grada-Beograda",
+   "title": "OGLASIO SE GRAD POVODOM PROTESTA TAKSISTA: Saopštenje Sekretarijata za javni prevoz Grada Beograda",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -67,7 +73,8 @@
   "Protest taksista danas ispred Skupštine grada Beograda",
   "Protest taksista od 9 i 30 do 12 sati na platou ispred Skupštine grada",
   "Sekretarijat priprema izmene odluke o taksi prevozu, taksisti protestuju",
-  "Grad Beograd najavio izmene Odluke o taksi prevozu, taksisti protestuju"
+  "Grad Beograd najavio izmene Odluke o taksi prevozu, taksisti protestuju",
+  "OGLASIO SE GRAD POVODOM PROTESTA TAKSISTA: Saopštenje Sekretarijata za javni prevoz Grada Beograda"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,8 +87,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Publikum_kalendar_Skupstina_grada_Beograda.jpg",
   "alt": "Taksisti protestuju ispred Skupštine grada zbog izmena Odluke o taksi prevozu"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-23T09:10:45.451267+00:00",
  "verzija": 2
 }

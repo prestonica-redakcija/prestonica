@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T08:40:57.565229+00:00",
- "updated": "2026-11-23T10:40:09.455052+00:00",
+ "updated": "2026-11-23T11:09:53.766455+00:00",
  "sources": [
   {
    "name": "N1",
@@ -76,6 +76,12 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4438039-ovako-danas-izgledaju-optuzeni-za-ubistvo-danke-ilic-sa-lisicama-uvedeni-u-sud-u-negotinu-video",
    "title": "Ovako danas izgledaju optuženi za ubistvo Danke Ilić: Sa lisicama uvedeni u sud u Negotinu (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/sudjenje-ubistvo-danke-ilic/",
+   "title": "Nastavlja se suđenje u slučaju ubistva Danke Ilić, slede svedočenja meštana",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -85,7 +91,8 @@
   "Nastavlja se suđenje Dragijeviću i Jankoviću optuženima za ubistvo Danke Ilić",
   "Nastavlja se suđenje optuženima za ubistvo Danke Ilić",
   "Suđenje za ubistvo Danke Ilić: Majka stigla u sud u Negotinu, optuženi dovedeni sa lisicama",
-  "Ovako danas izgledaju optuženi za ubistvo Danke Ilić: Sa lisicama uvedeni u sud u Negotinu (VIDEO)"
+  "Ovako danas izgledaju optuženi za ubistvo Danke Ilić: Sa lisicama uvedeni u sud u Negotinu (VIDEO)",
+  "Nastavlja se suđenje u slučaju ubistva Danke Ilić, slede svedočenja meštana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -98,8 +105,8 @@
   "alt": "brown wooden tool on white surface",
   "link": "https://unsplash.com/@tingeyinjurylawfirm"
  },
- "novo_od_pisanja": 2,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-23T10:25:08.336957+00:00",
  "verzija": 2
 }
