@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T08:40:57.565229+00:00",
- "updated": "2026-11-23T10:10:21.132289+00:00",
+ "updated": "2026-11-23T10:25:08.336957+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -69,6 +69,12 @@
    "url": "https://insajder.net/prenosimo/preminuo-novinar-milan-jovanovic",
    "title": "Preminuo novinar Milan Jovanović",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300136/preminuo-novinar-milan-jovanovic/vest",
+   "title": "Preminuo novinar Milan Jovanović",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -76,6 +82,7 @@
   "Preminuo novinar Milan Jovanović kojem je bila zapaljena kuća",
   "Preminuo Milan Jovanović",
   "Preminuo novinar Milan Jovanović kojem je bila zapaljena kuća",
+  "Preminuo novinar Milan Jovanović",
   "Preminuo novinar Milan Jovanović",
   "Preminuo novinar Milan Jovanović"
  ],
@@ -90,8 +97,8 @@
   "alt": "person holding white labeled can",
   "link": "https://unsplash.com/@apothecary87"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-23T10:10:21.132289+00:00",
  "verzija": 2
 }
