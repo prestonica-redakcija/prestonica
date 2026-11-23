@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T17:52:32.310734+00:00",
- "updated": "2026-11-23T17:52:32.310734+00:00",
+ "updated": "2026-11-23T18:07:23.320829+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -40,11 +40,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4438379-napadnut-gradonacelnik-cacka",
    "title": "Gradonačelnik Čačka u bolnici nakon napada",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1172588/pretucen-gradonacelnik-cacak-milun-todorovic",
+   "title": "Skandal! Pretučen gradonačelnik Čačka - Evo u kakvom je stanju",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "PRETUČEN GRADONAČELNIK ČAČKA Milun Todorović napadnut u ugostiteljskom objektu, prevezen u bolnicu",
-  "Gradonačelnik Čačka u bolnici nakon napada"
+  "Gradonačelnik Čačka u bolnici nakon napada",
+  "Skandal! Pretučen gradonačelnik Čačka - Evo u kakvom je stanju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Gradonačelnik Čačka Milun Todorović napadnut u lokalu, primljen u bolnicu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

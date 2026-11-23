@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-22T06:39:36.178725+00:00",
- "updated": "2026-11-23T17:37:34.362963+00:00",
+ "updated": "2026-11-23T18:07:23.320829+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -50,13 +50,20 @@
    "url": "https://n1info.rs/vesti/sneg-u-nekoliko-gradova-putevi-srbije-upozoravaju-na-oprez-u-voznji/",
    "title": "Sneg u nekoliko gradova, Putevi Srbije i MUP upozoravaju na oprez u vožnji",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300300/putevi-srbije-oko-krusevca-zajecara-ivanjice-i-vranja-mestimicno-do-pet-centimetara-snega/vest",
+   "title": "Putevi Srbije: Oko Kruševca, Zaječara, Ivanjice i Vranja mestimično do pet centimetara snega",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Putni pravci i prilazi zimskim turističkim centrima prohodni",
   "Putevi Srbije: Oko Kruševca, Zaječara, Ivanjice i Vranja mestimično do pet centimetara snega",
   "Putevi Srbije upozoravaju vozače: Oko Kruševca, Zaječara, Ivanjice i Vranja oko pet centimetara snega",
-  "Sneg u nekoliko gradova, Putevi Srbije i MUP upozoravaju na oprez u vožnji"
+  "Sneg u nekoliko gradova, Putevi Srbije i MUP upozoravaju na oprez u vožnji",
+  "Putevi Srbije: Oko Kruševca, Zaječara, Ivanjice i Vranja mestimično do pet centimetara snega"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "alt": "road covered with snow",
   "link": "https://unsplash.com/@grundsteins"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
