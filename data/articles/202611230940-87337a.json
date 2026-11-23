@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T08:40:57.565229+00:00",
- "updated": "2026-11-23T10:25:08.336957+00:00",
+ "updated": "2026-11-23T11:39:42.278739+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -75,6 +75,12 @@
    "url": "https://www.tanjug.rs/srbija/politika/300136/preminuo-novinar-milan-jovanovic/vest",
    "title": "Preminuo novinar Milan Jovanović",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4438010-ko-je-bio-preminuli-novinar-milan-jovanovic-zapalili-mu-kucu-i-zapucali-ali-je-nastavio-da-se-bori-za-istinu",
+   "title": "Ko je bio preminuli novinar Milan Jovanović: Zapalili mu kuću i zapucali, ali je nastavio da se bori za istinu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -84,7 +90,8 @@
   "Preminuo novinar Milan Jovanović kojem je bila zapaljena kuća",
   "Preminuo novinar Milan Jovanović",
   "Preminuo novinar Milan Jovanović",
-  "Preminuo novinar Milan Jovanović"
+  "Preminuo novinar Milan Jovanović",
+  "Ko je bio preminuli novinar Milan Jovanović: Zapalili mu kuću i zapucali, ali je nastavio da se bori za istinu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -97,8 +104,8 @@
   "alt": "person holding white labeled can",
   "link": "https://unsplash.com/@apothecary87"
  },
- "novo_od_pisanja": 1,
- "boost": 1.48,
+ "novo_od_pisanja": 2,
+ "boost": 1.56,
  "prepisano": "2026-11-23T10:10:21.132289+00:00",
  "verzija": 2
 }

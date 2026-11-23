@@ -26,17 +26,38 @@
  ],
  "importance": 4,
  "published": "2026-11-23T11:09:53.766455+00:00",
- "updated": "2026-11-23T11:09:53.766455+00:00",
+ "updated": "2026-11-23T11:39:42.278739+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/300153/zavrsen-kapitalni-remont-petrohemije-pokrecu-se-proizvodna-postrojenja/vest",
    "title": "Završen kapitalni remont Petrohemije, pokreću se proizvodna postrojenja",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/u-pancevackoj-petrohemiji-se-pokrecu-proizvodna-postrojenja-nakon-zavrsenog-remonta",
+   "title": "U Pančevačkoj Petrohemiji se pokreću proizvodna postrojenja nakon završenog remonta",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/zavrsen-remont-u-hip-petrohemija/",
+   "title": "Završen remont u HIP Petrohemija",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/hip-petrohemija-iz-panceva-zavrsila-kapitalni-remont-ulozeno-oko-15-miliona-evra/",
+   "title": "HIP-Petrohemija iz Pančeva završila kapitalni remont - uloženo oko 15 miliona evra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Završen kapitalni remont Petrohemije, pokreću se proizvodna postrojenja"
+  "Završen kapitalni remont Petrohemije, pokreću se proizvodna postrojenja",
+  "U Pančevačkoj Petrohemiji se pokreću proizvodna postrojenja nakon završenog remonta",
+  "Završen remont u HIP Petrohemija",
+  "HIP-Petrohemija iz Pančeva završila kapitalni remont - uloženo oko 15 miliona evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +69,7 @@
   "local": false,
   "alt": "a view of a city at night from a distance",
   "link": "https://unsplash.com/@bielej"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

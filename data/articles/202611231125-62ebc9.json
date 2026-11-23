@@ -35,7 +35,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T10:25:08.336957+00:00",
- "updated": "2026-11-23T11:09:53.766455+00:00",
+ "updated": "2026-11-23T11:39:42.278739+00:00",
  "sources": [
   {
    "name": "N1",
@@ -48,11 +48,18 @@
    "url": "https://www.danas.rs/svet/nemacka-stampa-cupic-bakic/",
    "title": "Nemačka štampa: Čupić mirno, Bakić klizećim startom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10170130/nemacki-mediji-o-aleksandru-cupicu-i-jovu-bakicu",
+   "title": "\"ČUPIĆ MIRNO, BAKIĆ KLIZEĆIM STARTOM\" NEMAČKI MEDIJI O NOVIM LICIMA U POLITICI: Kontrast dve najistaknutije ličnosti u Skupštini Srbije",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Nemački mediji: Čupić mirno, Bakić klizećim startom",
-  "Nemačka štampa: Čupić mirno, Bakić klizećim startom"
+  "Nemačka štampa: Čupić mirno, Bakić klizećim startom",
+  "\"ČUPIĆ MIRNO, BAKIĆ KLIZEĆIM STARTOM\" NEMAČKI MEDIJI O NOVIM LICIMA U POLITICI: Kontrast dve najistaknutije ličnosti u Skupštini Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,6 @@
   "izvor_x": true,
   "alt": "Nemački listovi o novom rukovodstvu Skupštine: Čupić uzdržan, Bakić oštar"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
