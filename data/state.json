@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.kurir.rs/vesti/srbija/10164564/otvoreni-mejkers-labovi-za-razvoj-ucenickih-ideja": "2026-11-18T04:25:28.914200+00:00",
   "https://www.kurir.rs/vesti/beograd/10164440/bez-vode-danas-u-beogradu": "2026-11-18T04:40:19.628701+00:00",
   "https://www.kurir.rs/vesti/srbija/10164581/kako-se-docekuju-gosti-na-zlatiboru": "2026-11-18T04:55:07.228167+00:00",
   "https://www.kurir.rs/zabava/zena/10164796/slovakinje-u-tursiju-dodaju-jednu-vocku-koja-daje-poseban-ukus-zimnici": "2026-11-18T04:55:07.228167+00:00",
@@ -5934,18 +5933,13 @@
   "https://biznis.telegraf.rs/info-biz/4437715-jovanovic-istorijski-uspeh-napredak-srbije-na-22-mesto-po-razvoju-elektronske-uprave": "2026-11-23T02:44:08.338838+00:00",
   "https://www.kurir.rs/vesti/srbija/10169275/neispravna-voda-na-javnim-cesmama-u-kragujevcu": "2026-11-23T03:13:52.255632+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/253230/kurs-evra-danas-kursna-lista-nbs-za-23-novembar/vest": "2026-11-23T04:13:29.356392+00:00",
-  "https://www.kurir.rs/vesti/beograd/10169219/trofej-beograda-2026-u-sahu": "2026-11-23T04:13:29.356392+00:00"
+  "https://www.kurir.rs/vesti/beograd/10169219/trofej-beograda-2026-u-sahu": "2026-11-23T04:13:29.356392+00:00",
+  "https://www.kurir.rs/vesti/srbija/10169388/umanjen-pritisak-vode-u-novom-sadu": "2026-11-23T04:28:18.741890+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-22T13:43+00:00",
-   "novih": 5,
-   "ukupno": 3648,
-   "sekundi": 443.1
-  },
   {
    "vreme": "2026-11-22T13:57+00:00",
    "novih": 4,
@@ -6299,6 +6293,12 @@
    "novih": 2,
    "ukupno": 3803,
    "sekundi": 442.7
+  },
+  {
+   "vreme": "2026-11-23T04:36+00:00",
+   "novih": 1,
+   "ukupno": 3804,
+   "sekundi": 504.8
   }
  ],
  "licnosti_foto": {
@@ -6448,6 +6448,33 @@
   }
  },
  "videos": [
+  {
+   "id": "RuoiNxvRe5o",
+   "title": "Söders nächster Nadelstich gegen Merz",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-23T04:03:00+00:00",
+   "thumb": "https://i.ytimg.com/vi/RuoiNxvRe5o/hqdefault.jpg",
+   "live": "none",
+   "desc": "Wenige Tage vor dem geplanten Haushaltsbeschluss im Bundestag wirft Markus Söder eine politische Stinkbombe. Der CSU-Chef fordert plötzlich den Ausgleich der kalten Progression und setzt damit den Kanzler, aber auch die CDU-Ministerpräsidenten unter Druck. Rasmus Buchsteiner analysiert das Manöver hinter der Milliardenforderung.\n\nIm 200-Sekunden-Interview reagiert Fritz Güntzler, finanzpolitischer Sprecher der Unionsfraktion, auf die bayerische Offensive. Er macht deutlich, warum der Bund die nötigen Milliarden derzeit kaum aufbringen kann und wie realistisch ein erneutes Aufschnüren des Haushaltspakets wirklich ist.\n\nEin historisches Scheitern erschüttert die Klimadiplomatie: Die Weltklimak",
+   "spektar": "centar",
+   "viewers": null,
+   "naslov": "Söder traži ublažavanje hladne progresije pred budžetsko glasanje u Bundestagu",
+   "opis": "POLITICO Europe analizira potez lidera CSU Markusa Söder, koji nekoliko dana pre planiranog usvajanja budžeta u Bundestagu traži poravnanje hladne progresije. U snimku govori i Fritz Güntzler, finansijski portparol poslaničke grupe Unije.",
+   "tekst": [
+    "Prema opisu snimka, Markus Söder, lider CSU, nekoliko dana pre planiranog budžetskog glasanja u Bundestagu iznenada zahteva poravnanje hladne progresije. Time, kako se navodi, stavlja pod pritisak kancelara, ali i premijere nemačkih pokrajina iz redova CDU.",
+    "Rasmus Buchsteiner analizira šta stoji iza ovog poteza i zahteva koji se meri u milijardama.",
+    "U formatu intervjua od 200 sekundi Fritz Güntzler, finansijski portparol poslaničke grupe Unije, reaguje na bavarsku inicijativu. Objašnjava zašto savezna država teško može da obezbedi potrebna sredstva i koliko je realno da se budžetski paket ponovo otvori."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "Markus Söder",
+    "CSU",
+    "Fritz Güntzler",
+    "hladna progresija",
+    "budžet Nemačke"
+   ],
+   "slug": "soder-trazi-ublazavanje-hladne-progresije-pred-budzetsko-ruoinxvre5o"
+  },
   {
    "id": "RRkN1lGWQ_w",
    "title": "Vukićević: Mržnju koju sam videla u njihovim očima ne mogu da shvatim",
@@ -8793,33 +8820,6 @@
    "slug": "tri-sukoba-koja-bi-mogao-da-pokrene-plan-alana-milburna-za-gbi09fh48gg"
   },
   {
-   "id": "c_zoOjf-xZE",
-   "title": "Wie Björn Höcke die Geschichte umdeutet",
-   "kanal": "POLITICO Europe",
-   "published": "2026-11-18T13:43:00+00:00",
-   "thumb": "https://i.ytimg.com/vi/c_zoOjf-xZE/hqdefault.jpg",
-   "live": "none",
-   "desc": "Björn Höcke nutzt den Volkstrauertag für eine gezielte Provokation und präsentiert stark überhöhte deutsche Opferzahlen zu Flucht, Vertreibung und alliierten Luftangriffen. Die AfD fordert einen Schlussstrich unter die NS-Vergangenheit, doch wie funktioniert diese geschichtspolitische Umdeutung genau, und auf welche fragwürdigen Quellen stützt sich die Partei dabei?\n\nMit dem ehemaligen Fußballweltmeister Thomas Berthold schickt die AfD zudem einen Kandidaten für das Amt des Bundespräsidenten ins Rennen, der offenkundig Verschwörungserzählungen und Reichsbürger-Thesen verbreitet: Von Schattenmännern, die die Welt regieren, bis hin zu bizarren Gesundheitstipps.\n\nPauline von Pezold und Frederik",
-   "spektar": "centar",
-   "viewers": null,
-   "naslov": "Kako Björn Höcke preoblikuje istoriju: AfD, Dan žalosti i kandidat Berthold",
-   "opis": "POLITICO Europe u video prilogu na nemačkom analizira kako Björn Höcke koristi Dan žalosti (Volkstrauertag) za provokaciju i iznosi visoke brojke nemačkih žrtava. Prilog se bavi i kandidaturom Thomasa Bertholda koju je predložila AfD.",
-   "tekst": [
-    "Prema opisu priloga, Björn Höcke koristi Volkstrauertag za ciljanu provokaciju i iznosi, kako se navodi, preterano visoke brojke nemačkih žrtava proterivanja, bekstva i savezničkih vazdušnih napada. AfD, navodi se, traži povlačenje crte pod nacističku prošlost.",
-    "U prilogu se postavlja pitanje kako funkcioniše to preoblikovanje istorijske politike i na kakve se sumnjive izvore stranka oslanja.",
-    "Prilog pominje i bivšeg fudbalskog svetskog prvaka Thomasa Bertholda, kojeg AfD kandiduje za saveznog predsednika. Autori tvrde da on širi teorije zavere i teze karakteristične za „rajhsbirgere“."
-   ],
-   "rubrika": "svet",
-   "oznake": [
-    "Björn Höcke",
-    "AfD",
-    "Thomas Berthold",
-    "Nemačka",
-    "POLITICO Europe"
-   ],
-   "slug": "kako-bjorn-hocke-preoblikuje-istoriju-afd-dan-zalosti-i-c-zoojf-xze"
-  },
-  {
    "id": "nrp2Lg5Lsjw",
    "title": "INTERVJU: Dragomir Anđelković - Otkrio šta će se desiti ako ostane Vučić na slobodi! (18.11.2026)",
    "kanal": "Slavija Info",
@@ -8965,7 +8965,7 @@
    "slug": "slavija-info-vucic-kao-satorska-pevacica-isecak-iz-emisije-aqkijyby5lw"
   }
  ],
- "_novi_snimci": false,
+ "_novi_snimci": true,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -21033,191 +21033,6 @@
   }
  },
  "foto_cache": {
-  "t:feketic": {
-   "t": 1794802541.4130864,
-   "items": [
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Feketi%C4%87_%28B%C3%A1csfeketehegy%2C_Feketitsch%2C_Schwarzenberg%29_-_main_street_and_Lutheran_church.jpg/1920px-Feketi%C4%87_%28B%C3%A1csfeketehegy%2C_Feketitsch%2C_Schwarzenberg%29_-_main_street_and_Lutheran_church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3036,
-     "h": 2006,
-     "god": 2013,
-     "credit": "Wikimedia Commons / Pudelek (Marcin Szala) / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Feketi%C4%87_(B%C3%A1csfeketehegy,_Feketitsch,_Schwarzenberg)_-_main_street_and_Lutheran_church.jpg",
-     "naslov": "Feketić (Bácsfeketehegy, Feketitsch, Schwarzenberg) - main street and Lutheran church.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/03.03.2010._B%C3%A1csfeketehegy_Feketi%C4%87_Feketitsch_-_panoramio_-_Sandor_Bordas_%285%29.jpg/1920px-03.03.2010._B%C3%A1csfeketehegy_Feketi%C4%87_Feketitsch_-_panoramio_-_Sandor_Bordas_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2048,
-     "h": 900,
-     "god": 2010,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:03.03.2010._B%C3%A1csfeketehegy_Feketi%C4%87_Feketitsch_-_panoramio_-_Sandor_Bordas_(5).jpg",
-     "naslov": "03.03.2010. Bácsfeketehegy Feketić Feketitsch - panoramio - Sandor Bordas (5).jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Feketi%C4%87-Feketics_06.06.2012._-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1333,
-     "h": 1000,
-     "god": 2012,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Feketi%C4%87-Feketics_06.06.2012._-_panoramio_(3).jpg",
-     "naslov": "Feketić-Feketics 06.06.2012. - panoramio (3).jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Piact%C3%A9r_B%C3%A1csfeketehegy_Feketi%C4%87_Feketitsch_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1342,
-     "h": 1004,
-     "god": 2008,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Piact%C3%A9r_B%C3%A1csfeketehegy_Feketi%C4%87_Feketitsch_-_panoramio.jpg",
-     "naslov": "Piactér Bácsfeketehegy Feketić Feketitsch - panoramio.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/10.07.2016.-_B%C3%A1csfeketehegy%2CFeketi%C4%87%2CFeketitsch%2C_Serbien_-_panoramio_%283%29.jpg/1920px-10.07.2016.-_B%C3%A1csfeketehegy%2CFeketi%C4%87%2CFeketitsch%2C_Serbien_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4320,
-     "h": 1800,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:10.07.2016.-_B%C3%A1csfeketehegy,Feketi%C4%87,Feketitsch,_Serbien_-_panoramio_(3).jpg",
-     "naslov": "10.07.2016.- Bácsfeketehegy,Feketić,Feketitsch, Serbien - panoramio (3).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Feketi%C4%87-Feketics_06.06.2012._-_panoramio_%288%29.jpg/1920px-Feketi%C4%87-Feketics_06.06.2012._-_panoramio_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5449,
-     "h": 900,
-     "god": 2012,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Feketi%C4%87-Feketics_06.06.2012._-_panoramio_(8).jpg",
-     "naslov": "Feketić-Feketics 06.06.2012. - panoramio (8).jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Feketi%C4%87-Feketics_14.06.2012._-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1333,
-     "h": 1000,
-     "god": 2012,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Feketi%C4%87-Feketics_14.06.2012._-_panoramio_(3).jpg",
-     "naslov": "Feketić-Feketics 14.06.2012. - panoramio (3).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Feketi%C4%87%2C_Serbia_-_panoramio_%289%29.jpg/1920px-Feketi%C4%87%2C_Serbia_-_panoramio_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4320,
-     "h": 3240,
-     "god": 2014,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Feketi%C4%87,_Serbia_-_panoramio_(9).jpg",
-     "naslov": "Feketić, Serbia - panoramio (9).jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/2005.01.06._B%C3%A1csfeketehegy_Feketi%C4%87_Feketitsch_-_panoramio_-_Sandor_Bordas_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1333,
-     "h": 1000,
-     "god": 2008,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:2005.01.06._B%C3%A1csfeketehegy_Feketi%C4%87_Feketitsch_-_panoramio_-_Sandor_Bordas_(2).jpg",
-     "naslov": "2005.01.06. Bácsfeketehegy Feketić Feketitsch - panoramio - Sandor Bordas (2).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/2016.03.17._B%C3%A1csfeketehegy_Feketi%C4%87_Feketitsch_-_panoramio_%283%29.jpg/1920px-2016.03.17._B%C3%A1csfeketehegy_Feketi%C4%87_Feketitsch_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4320,
-     "h": 1800,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:2016.03.17._B%C3%A1csfeketehegy_Feketi%C4%87_Feketitsch_-_panoramio_(3).jpg",
-     "naslov": "2016.03.17. Bácsfeketehegy Feketić Feketitsch - panoramio (3).jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Feketi%C4%87-Feketics_28.05.2012._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1000,
-     "h": 750,
-     "god": 2012,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Feketi%C4%87-Feketics_28.05.2012._-_panoramio.jpg",
-     "naslov": "Feketić-Feketics 28.05.2012. - panoramio.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/27.06.2016._-_B%C3%A1csfeketehegy%2CFeketi%C4%87%2CFeketitsch%2C_Serbien_-_panoramio_%288%29.jpg/1920px-27.06.2016._-_B%C3%A1csfeketehegy%2CFeketi%C4%87%2CFeketitsch%2C_Serbien_-_panoramio_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4320,
-     "h": 1800,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:27.06.2016._-_B%C3%A1csfeketehegy,Feketi%C4%87,Feketitsch,_Serbien_-_panoramio_(8).jpg",
-     "naslov": "27.06.2016. - Bácsfeketehegy,Feketić,Feketitsch, Serbien - panoramio (8).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/16.06.2010._B%C3%A1csfeketehegy-Feketic-Feketitcsh_-_panoramio_%287%29.jpg/1920px-16.06.2010._B%C3%A1csfeketehegy-Feketic-Feketitcsh_-_panoramio_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3072,
-     "h": 2304,
-     "god": 2010,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:16.06.2010._B%C3%A1csfeketehegy-Feketic-Feketitcsh_-_panoramio_(7).jpg",
-     "naslov": "16.06.2010. Bácsfeketehegy-Feketic-Feketitcsh - panoramio (7).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/06.03.2010._B%C3%A1csfeketehegy_Feketi%C4%87_Feketitsch_-_panoramio_-_Sandor_Bordas_%281%29.jpg/1920px-06.03.2010._B%C3%A1csfeketehegy_Feketi%C4%87_Feketitsch_-_panoramio_-_Sandor_Bordas_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2048,
-     "h": 900,
-     "god": 2010,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:06.03.2010._B%C3%A1csfeketehegy_Feketi%C4%87_Feketitsch_-_panoramio_-_Sandor_Bordas_(1).jpg",
-     "naslov": "06.03.2010. Bácsfeketehegy Feketić Feketitsch - panoramio - Sandor Bordas (1).jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Feketi%C4%87-Feketics_26.05.2012._-_panoramio_%2820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1000,
-     "h": 750,
-     "god": 2012,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Feketi%C4%87-Feketics_26.05.2012._-_panoramio_(20).jpg",
-     "naslov": "Feketić-Feketics 26.05.2012. - panoramio (20).jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Feketi%C4%87-Feketics_28.05.2012._-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1000,
-     "h": 750,
-     "god": 2012,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Feketi%C4%87-Feketics_28.05.2012._-_panoramio_(1).jpg",
-     "naslov": "Feketić-Feketics 28.05.2012. - panoramio (1).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/16.06.2010._B%C3%A1csfeketehegy-Feketic-Feketitcsh_-_panoramio_%286%29.jpg/1920px-16.06.2010._B%C3%A1csfeketehegy-Feketic-Feketitcsh_-_panoramio_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3072,
-     "h": 2304,
-     "god": 2010,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:16.06.2010._B%C3%A1csfeketehegy-Feketic-Feketitcsh_-_panoramio_(6).jpg",
-     "naslov": "16.06.2010. Bácsfeketehegy-Feketic-Feketitcsh - panoramio (6).jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Feketi%C4%87-Feketics_26.05.2012._-_panoramio_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1000,
-     "h": 750,
-     "god": 2012,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Feketi%C4%87-Feketics_26.05.2012._-_panoramio_(12).jpg",
-     "naslov": "Feketić-Feketics 26.05.2012. - panoramio (12).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/15.06.2010._B%C3%A1csfeketehegy-Feketic-Feketitcsh_-_panoramio_%281%29.jpg/1920px-15.06.2010._B%C3%A1csfeketehegy-Feketic-Feketitcsh_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3072,
-     "h": 2304,
-     "god": 2010,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:15.06.2010._B%C3%A1csfeketehegy-Feketic-Feketitcsh_-_panoramio_(1).jpg",
-     "naslov": "15.06.2010. Bácsfeketehegy-Feketic-Feketitcsh - panoramio (1).jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Feketi%C4%87-Feketics_30.05.2012._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1333,
-     "h": 1000,
-     "god": 2012,
-     "credit": "Wikimedia Commons / Sandor Bordas / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Feketi%C4%87-Feketics_30.05.2012._-_panoramio.jpg",
-     "naslov": "Feketić-Feketics 30.05.2012. - panoramio.jpg"
-    }
-   ]
-  },
   "t:vracar": {
    "t": 1794804316.0077348,
    "items": [
@@ -56720,7 +56535,7 @@
   "yt": "Hdk3ahufa64",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-23T04:14:28.396943+00:00",
+  "provereno": "2026-11-23T04:29:10.536826+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": true
  },
@@ -65341,6 +65156,29 @@
    ],
    "slug": "vukicevic-mrznju-koju-sam-videla-u-njihovim-ocima-ne-mogu-rrkn1lgwq-w",
    "spektar": "stranka"
+  },
+  "RuoiNxvRe5o": {
+   "id": "RuoiNxvRe5o",
+   "title": "Söders nächster Nadelstich gegen Merz",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-23T04:03:00+00:00",
+   "naslov": "Söder traži ublažavanje hladne progresije pred budžetsko glasanje u Bundestagu",
+   "opis": "POLITICO Europe analizira potez lidera CSU Markusa Söder, koji nekoliko dana pre planiranog usvajanja budžeta u Bundestagu traži poravnanje hladne progresije. U snimku govori i Fritz Güntzler, finansijski portparol poslaničke grupe Unije.",
+   "tekst": [
+    "Prema opisu snimka, Markus Söder, lider CSU, nekoliko dana pre planiranog budžetskog glasanja u Bundestagu iznenada zahteva poravnanje hladne progresije. Time, kako se navodi, stavlja pod pritisak kancelara, ali i premijere nemačkih pokrajina iz redova CDU.",
+    "Rasmus Buchsteiner analizira šta stoji iza ovog poteza i zahteva koji se meri u milijardama.",
+    "U formatu intervjua od 200 sekundi Fritz Güntzler, finansijski portparol poslaničke grupe Unije, reaguje na bavarsku inicijativu. Objašnjava zašto savezna država teško može da obezbedi potrebna sredstva i koliko je realno da se budžetski paket ponovo otvori."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "Markus Söder",
+    "CSU",
+    "Fritz Güntzler",
+    "hladna progresija",
+    "budžet Nemačke"
+   ],
+   "slug": "soder-trazi-ublazavanje-hladne-progresije-pred-budzetsko-ruoinxvre5o",
+   "spektar": "centar"
   }
  }
 }
