@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T17:18:53.497052+00:00",
- "updated": "2026-11-23T14:38:43.072189+00:00",
+ "updated": "2026-11-23T14:53:23.090850+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -58,6 +58,18 @@
    "url": "https://www.kurir.rs/crna-hronika/10170435/saslusani-uhapseni-za-izazivanje-pozara-na-kuci-u-krunskoj",
    "title": "ZAPALILI KUĆU U CENTRU BEOGRADA: Saslušani piromani iz Krunske, tužilaštvo traži pritvor",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/tuzilastvo-trazi-pritvor-za-dve-osobe-koje-su-po-dogovoru-zapalile-vilu-u-krunskoj/",
+   "title": "Tužilaštvo traži pritvor za dve osobe koje su, po dogovoru, zapalile vilu u Krunskoj",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287456/tuzilastvo-trazi-pritvor-za-osumnjicene-da-su-zaplili-objekat-u-krunskoj-ulici/vest",
+   "title": "Prvo OJT u Beogradu predložilo pritvor osumnjičenima za paljenje kuće",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -65,7 +77,9 @@
   "Saslušan osumnjičeni za silovanje, tužilaštvo predložilo određivanje pritvora",
   "Saslušan osumnjičeni za silovanje na Voždovcu: Tužilaštvo predložilo određivanje pritvora",
   "Saslušan osumnjičeni za silovanje u Beogradu: Tužilaštvo traži pritvor",
-  "ZAPALILI KUĆU U CENTRU BEOGRADA: Saslušani piromani iz Krunske, tužilaštvo traži pritvor"
+  "ZAPALILI KUĆU U CENTRU BEOGRADA: Saslušani piromani iz Krunske, tužilaštvo traži pritvor",
+  "Tužilaštvo traži pritvor za dve osobe koje su, po dogovoru, zapalile vilu u Krunskoj",
+  "Prvo OJT u Beogradu predložilo pritvor osumnjičenima za paljenje kuće"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +91,6 @@
   "local": true,
   "alt": "Saslušan osumnjičeni za silovanje u Beogradu, tužilaštvo traži pritvor"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }

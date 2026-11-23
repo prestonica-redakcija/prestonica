@@ -33,17 +33,24 @@
  ],
  "importance": 6,
  "published": "2026-11-23T14:08:52.547352+00:00",
- "updated": "2026-11-23T14:08:52.547352+00:00",
+ "updated": "2026-11-23T14:53:23.090850+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/selakovic-sudjenje-generalstab/",
    "title": "Selaković na suđenju u slučaju „Generalštab“: Na teret mi se stavljaju reči koje nikada nisam izgovorio",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/selakovic-na-rocistu-za-generastab-na-teret-mi-se-stavljaju-reci-koje-nikada-nisam-izgovorio/",
+   "title": "Selaković na ročištu za \"Generaštab\": Na teret mi se stavljaju reči koje nikada nisam izgovorio",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Selaković na suđenju u slučaju „Generalštab“: Na teret mi se stavljaju reči koje nikada nisam izgovorio"
+  "Selaković na suđenju u slučaju „Generalštab“: Na teret mi se stavljaju reči koje nikada nisam izgovorio",
+  "Selaković na ročištu za \"Generaštab\": Na teret mi se stavljaju reči koje nikada nisam izgovorio"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Suđenje za Generalštab: Selaković tvrdi da mu se pripisuju reči koje nije izgovorio"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

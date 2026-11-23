@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T13:50:41.238649+00:00",
- "updated": "2026-11-22T14:50:08.508958+00:00",
+ "updated": "2026-11-23T14:53:23.090850+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -62,6 +62,12 @@
    "url": "https://nova.rs/vesti/svet/milorad-dodik-igor-je-moj-ponos-i-moja-pobeda/",
    "title": "Milorad Dodik: Igor je moj ponos i moja pobeda",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/konakovic-imenovanjem-sina-za-mandatara-milorad-dodik-podigao-svoj-bezobrazluk-na-visi-nivo/",
+   "title": "Konaković: Imenovanjem sina za mandatara, Milorad Dodik podigao svoj bezobrazluk na viši nivo",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -69,7 +75,8 @@
   "Vojin Mijatović čestitao Igoru Dodiku",
   "MILORAD DODIK PONOSAN NA SINA IGORA: \"Od srca mu čestitam, on je dete SNSD-a, moja pobeda i ponos\"",
   "Milorad Dodik nakon izbora sina za mandatara Vlade RS: Igor je moj ponos i moja pobeda",
-  "Milorad Dodik: Igor je moj ponos i moja pobeda"
+  "Milorad Dodik: Igor je moj ponos i moja pobeda",
+  "Konaković: Imenovanjem sina za mandatara, Milorad Dodik podigao svoj bezobrazluk na viši nivo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -83,6 +90,6 @@
   "osoba": "Milorad Dodik",
   "alt": "Igor Dodik mandatar za sastav nove vlade Republike Srpske, čestitali Dodik i Mijatović"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

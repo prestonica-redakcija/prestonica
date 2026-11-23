@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T10:40:09.455052+00:00",
- "updated": "2026-11-23T10:55:00.391086+00:00",
+ "updated": "2026-11-23T14:53:23.090850+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -45,11 +45,18 @@
    "url": "https://n1info.rs/biznis/sindikat-u-stelantisu-bivsi-predsednik-srbije-uznemirava-javnost-najavom-o-premestajnju-fabrike/",
    "title": "Sindikat u Stelantisu: Bivši predsednik Srbije uznemirava javnost najavom o premeštanju fabrike",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/bbc-news-serbian/sindikati-stelantisa-neutemeljene-vuciceve-tvrdnje-o-premestanju-fabrike/",
+   "title": "Sindikati Stelantisa: Neutemeljene Vučićeve tvrdnje o premeštanju fabrike",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Sindikat u Stelantisu: Bivši predsednik Srbije uznemirava javnost najavom o premeštanju fabrike",
-  "Sindikat u Stelantisu: Bivši predsednik Srbije uznemirava javnost najavom o premeštanju fabrike"
+  "Sindikat u Stelantisu: Bivši predsednik Srbije uznemirava javnost najavom o premeštanju fabrike",
+  "Sindikati Stelantisa: Neutemeljene Vučićeve tvrdnje o premeštanju fabrike"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "izvor_x": true,
   "alt": "Sindikat Stelantisa u Kragujevcu odbacuje najavu o premeštanju proizvodnje pande u Tursku"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
