@@ -32,16 +32,23 @@
  ],
  "importance": 5,
  "published": "2026-11-22T11:51:54.858031+00:00",
- "updated": "2026-11-22T11:51:54.858031+00:00",
+ "updated": "2026-11-23T02:14:36.386027+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/299906/linta-kurti-nastavlja-progon-srba-rusenjem-njihove-imovine-na-gazivodama/vest",
    "title": "Linta: Kurti nastavlja progon Srba rušenjem njihove imovine na Gazivodama",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4437712-linta-kurti-nastavlja-progon-srba-rusenjem-njihove-imovine-na-gazivodama",
+   "title": "Linta: Kurti nastavlja progon Srba rušenjem njihove imovine na Gazivodama",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
+  "Linta: Kurti nastavlja progon Srba rušenjem njihove imovine na Gazivodama",
   "Linta: Kurti nastavlja progon Srba rušenjem njihove imovine na Gazivodama"
  ],
  "author": "Redakcija Prestonice",
@@ -54,5 +61,7 @@
   "local": false,
   "alt": "a house that is under construction next to a body of water",
   "link": "https://unsplash.com/@joereece86"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
