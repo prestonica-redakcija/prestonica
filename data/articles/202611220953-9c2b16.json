@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-22T08:53:30.485732+00:00",
- "updated": "2026-11-22T08:53:30.485732+00:00",
+ "updated": "2026-11-23T02:44:08.338838+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/299872/mihailo-jovanovic-istorijski-uspeh-je-napredak-srbije-na-22-mesto-po-razvoju-elektronske-uprave/vest",
    "title": "Mihailo Jovanović: Istorijski uspeh je napredak Srbije na 22. mesto po razvoju elektronske uprave",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4437715-jovanovic-istorijski-uspeh-napredak-srbije-na-22-mesto-po-razvoju-elektronske-uprave",
+   "title": "Jovanović: Istorijski uspeh napredak Srbije na 22. mesto po razvoju elektronske uprave",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Mihailo Jovanović: Istorijski uspeh je napredak Srbije na 22. mesto po razvoju elektronske uprave"
+  "Mihailo Jovanović: Istorijski uspeh je napredak Srbije na 22. mesto po razvoju elektronske uprave",
+  "Jovanović: Istorijski uspeh napredak Srbije na 22. mesto po razvoju elektronske uprave"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "alt": "white tablet computer on top of newspaper",
   "link": "https://unsplash.com/@maguay"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
