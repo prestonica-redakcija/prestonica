@@ -29,16 +29,23 @@
  ],
  "importance": 7,
  "published": "2026-11-23T12:54:15.099579+00:00",
- "updated": "2026-11-23T12:54:15.099579+00:00",
+ "updated": "2026-11-23T13:53:52.853775+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/milivojevic-otkrio-bia-unutar-bia-situacioni-centar-za-hibridne-pretnje-pratio-studente-novinare-i-opozicione-politicare/",
    "title": "Milivojević otkrio \"BIA unutar BIA\": Situacioni centar za hibridne pretnje pratio studente, novinare i opozicione političare",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/milivojevic-otkrio-bia-unutar-bia-situacioni-centar-za-hibridne-pretnje-pratio-studente-novinare-i-opozicione-politicare/",
+   "title": "Milivojević otkrio \"BIA unutar BIA\": Situacioni centar za hibridne pretnje pratio studente, novinare i opozicione političare",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Milivojević otkrio \"BIA unutar BIA\": Situacioni centar za hibridne pretnje pratio studente, novinare i opozicione političare",
   "Milivojević otkrio \"BIA unutar BIA\": Situacioni centar za hibridne pretnje pratio studente, novinare i opozicione političare"
  ],
  "author": "Redakcija Prestonice",
@@ -53,5 +60,7 @@
   "osoba": "Aleksandar Vučić",
   "izvor_x": true,
   "alt": "Milivojević tvrdi da je u BIA postojao centar za praćenje studenata i opozicije"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

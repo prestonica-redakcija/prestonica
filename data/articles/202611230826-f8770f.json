@@ -29,17 +29,24 @@
  ],
  "importance": 5,
  "published": "2026-11-23T07:26:35.693653+00:00",
- "updated": "2026-11-23T07:26:35.693653+00:00",
+ "updated": "2026-11-23T13:53:52.853775+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/ekonomija/sindikat-centar-protest-taksi/",
    "title": "Sindikat Centar GSP-a podržao današnji protest taksista",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/nekoliko-taksi-udruzenja-ne-podrzava-danasnji-protest-taksista-u-beogradu/",
+   "title": "Nekoliko taksi udruženja ne podržava današnji protest taksista u Beogradu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Sindikat Centar GSP-a podržao današnji protest taksista"
+  "Sindikat Centar GSP-a podržao današnji protest taksista",
+  "Nekoliko taksi udruženja ne podržava današnji protest taksista u Beogradu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:GSP_Beograd_BMC_Procity_18_CNG_LF_Garage_number_3548.jpg",
   "alt": "Sindikat Centar GSP-a podržao protest taksista i traži povlačenje odluke o taksi prevozu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

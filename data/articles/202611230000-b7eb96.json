@@ -31,17 +31,24 @@
  ],
  "importance": 4,
  "published": "2026-11-22T23:00:49.016868+00:00",
- "updated": "2026-11-22T23:00:49.016868+00:00",
+ "updated": "2026-11-23T13:53:52.853775+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1172349/aleksandar-cupic-olja-beckovic-ana-brnabic",
    "title": "Skandal nad skandalima! Zloslutna izjava Aleksandra Čupića u \"Utisku nedelje\" - Neće da iseljuje Anu Brnabić iz vile na Dedinju, ali ima hladnjaču?! (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/cupic/",
+   "title": "\"Ja je lično neću iseljavati, ali imam hladnjaču da preveze knjige\": Aleksandar Čupić o selidbi Ane Brnabić iz Jovankine vile VIDEO",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Skandal nad skandalima! Zloslutna izjava Aleksandra Čupića u \"Utisku nedelje\" - Neće da iseljuje Anu Brnabić iz vile na Dedinju, ali ima hladnjaču?! (VIDEO)"
+  "Skandal nad skandalima! Zloslutna izjava Aleksandra Čupića u \"Utisku nedelje\" - Neće da iseljuje Anu Brnabić iz vile na Dedinju, ali ima hladnjaču?! (VIDEO)",
+  "\"Ja je lično neću iseljavati, ali imam hladnjaču da preveze knjige\": Aleksandar Čupić o selidbi Ane Brnabić iz Jovankine vile VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "alt": "Three men in suits being filmed for dota 2 competition",
   "link": "https://unsplash.com/@invisiblelity"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

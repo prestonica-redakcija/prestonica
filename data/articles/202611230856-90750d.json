@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T07:56:19.352941+00:00",
- "updated": "2026-11-23T13:39:09.854940+00:00",
+ "updated": "2026-11-23T13:53:52.853775+00:00",
  "sources": [
   {
    "name": "N1",
@@ -76,6 +76,12 @@
    "url": "https://www.b92.net/info/politika/287360/odrzane-konsultacije-cupic-radakovic-bakic-vucic-i-jovanov/vest",
    "title": "Održane konsultacije: Čupić, Radaković, Bakić, Vučić i Jovanov",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/287360/odrzane-konsultacije-cupic-radakovic-bakic-reljanovic-vucic-i-jovanov/vest",
+   "title": "Održane konsultacije: Čupić, Radaković, Bakić, Reljanović, Vučić i Jovanov",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -86,7 +92,8 @@
   "Čupić najavio konsultacije za danas: Vučić najavio dolazak",
   "Čupić najavio konsultacije – Vučić najavio dolazak",
   "\"Idemo danas na konsultacije\": Vučić otkrio detalje o raspodeli mesta u skupštinskim odborima, oglasio se i Čupić!",
-  "Održane konsultacije: Čupić, Radaković, Bakić, Vučić i Jovanov"
+  "Održane konsultacije: Čupić, Radaković, Bakić, Vučić i Jovanov",
+  "Održane konsultacije: Čupić, Radaković, Bakić, Reljanović, Vučić i Jovanov"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -99,8 +106,8 @@
   "alt": "Woman stands in an empty parliament assembly hall",
   "link": "https://unsplash.com/@anniehatuanh"
  },
- "novo_od_pisanja": 1,
- "boost": 1.56,
+ "novo_od_pisanja": 2,
+ "boost": 1.6,
  "prepisano": "2026-11-23T11:09:53.766455+00:00",
  "verzija": 2
 }

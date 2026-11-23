@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-22T09:38:00.767363+00:00",
- "updated": "2026-11-23T02:14:36.386027+00:00",
+ "updated": "2026-11-23T13:53:52.853775+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -57,13 +57,27 @@
    "url": "https://www.euronews.rs/srbija/politika/253168/skupstina-grada-danas-o-rebalansu-i-razresenju-sapica/vest",
    "title": "Skupština grada danas o rebalansu budžeta i inicijativi za razrešenje Šapića",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/beograd/4438211-tajno-glasanje-o-nepoverenju-aleksandru-sapicu-odbornici-vladajuce-vecine-ne-pristupaju-glasackoj-kutiji",
+   "title": "Evo kako izgleda tajno glasanje o nepoverenju Aleksandru Šapiću u Skupštini grada",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/odbornici-skupstine-beograda-glasaju-o-razresenju-sapica/",
+   "title": "Odbornici Skupštine Beograda glasaju o razrešenju Šapića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Izazov za gradonačelnika Šapića: Skupština Beograda o zahtevu da bude razrešen",
   "Skupština grada Beograda sutra odlučuje o rebalansu budžeta i inicijativi za razrešenje Šapića",
   "SEDNICA SKUPŠTINE GRADA BEOGRADA ZAKAZANA ZA SUTRA: Odbornici raspravljaju o inicijativi za razrešenje gradonačelnika Aleksandra Šapića!",
-  "Skupština grada danas o rebalansu budžeta i inicijativi za razrešenje Šapića"
+  "Skupština grada danas o rebalansu budžeta i inicijativi za razrešenje Šapića",
+  "Evo kako izgleda tajno glasanje o nepoverenju Aleksandru Šapiću u Skupštini grada",
+  "Odbornici Skupštine Beograda glasaju o razrešenju Šapića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +90,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Publikum_kalendar_Skupstina_grada_Beograda.jpg",
   "alt": "Skupština Beograda sutra raspravlja o zahtevu za razrešenje gradonačelnika Šapića"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }
