@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T07:56:19.352941+00:00",
- "updated": "2026-11-23T08:56:00.497462+00:00",
+ "updated": "2026-11-23T09:25:37.045666+00:00",
  "sources": [
   {
    "name": "N1",
@@ -48,12 +48,19 @@
    "url": "https://n1info.rs/vesti/dejan-madic-ostaje-rektor-univerziteta-u-novom-sadu/",
    "title": "Dejan Madić ostaje rektor Univerziteta u Novom Sadu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1172416/dejan-madic-rektor-novi-sad",
+   "title": "Senat doneo odluku: Madić ostaje rektor Univerziteta u Novom Sadu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Senat Univerziteta u Novom Sadu odlučuje o pokretanju postupka za razrešenje Madića, Kleut kaže da to nije konačan korak",
   "Madić ostaje rektor: Senat Univerziteta u Novom Sadu nije izglasao njegovo razrešenje",
-  "Dejan Madić ostaje rektor Univerziteta u Novom Sadu"
+  "Dejan Madić ostaje rektor Univerziteta u Novom Sadu",
+  "Senat doneo odluku: Madić ostaje rektor Univerziteta u Novom Sadu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "alt": "high-angle photography of group of people sitting at chairs",
   "link": "https://unsplash.com/@mikael_k"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

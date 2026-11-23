@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T08:56:00.497462+00:00",
- "updated": "2026-11-23T09:10:45.451267+00:00",
+ "updated": "2026-11-23T09:25:37.045666+00:00",
  "sources": [
   {
    "name": "B92",
@@ -42,11 +42,18 @@
    "url": "https://www.tanjug.rs/srbija/politika/300103/vucic-ja-sam-za-to-da-sns-ne-ucestvuje-na-predsednickim-izborima/vest",
    "title": "Vučić: Ja sam za to da SNS ne učestvuje na predsedničkim izborima",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253264/vucic-o-predsednickim-izborima-u-srbiji/vest",
+   "title": "Vučić o predsedničkim izborima: Ja sam za to da SNS ne učestvuje",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Vučić: \"Predsednički izbori će biti održani, Saičić je njihov kandidat\"; \"Dobio sam pretnje ubistvom\"",
-  "Vučić: Ja sam za to da SNS ne učestvuje na predsedničkim izborima"
+  "Vučić: Ja sam za to da SNS ne učestvuje na predsedničkim izborima",
+  "Vučić o predsedničkim izborima: Ja sam za to da SNS ne učestvuje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata_2.jpg",
   "alt": "Vučić: Predsednički izbori biće održani, tvrdi da je dobio pretnje ubistvom"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

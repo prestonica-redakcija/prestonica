@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-21T22:29:05.449644+00:00",
- "updated": "2026-11-22T10:22:29.986901+00:00",
+ "updated": "2026-11-23T09:25:37.045666+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -50,12 +50,19 @@
    "url": "https://www.b92.net/info/svet/287098/nemacka-u-poslednji-cas-promenila-plan/vest",
    "title": "\"Iznenađenje\" za Putina – Nemačka rasporedila vojsku",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287295/pet-udara-na-rusiju-putin-mora-da-odgovori/vest",
+   "title": "Ako Putin ne odgovori, gotov je",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Nemački general: Rusija jača vojne kapacitete, NATO neće biti iznenađen",
   "Moskva se naoružava; Šta ako Rusija iznenada napadne članicu NATO?",
-  "\"Iznenađenje\" za Putina – Nemačka rasporedila vojsku"
+  "\"Iznenađenje\" za Putina – Nemačka rasporedila vojsku",
+  "Ako Putin ne odgovori, gotov je"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,6 @@
   "local": true,
   "alt": "Nemački general: Rusija jača vojsku uprkos gubicima, NATO neće biti iznenađen"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
