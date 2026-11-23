@@ -23,17 +23,24 @@
  ],
  "importance": 3,
  "published": "2026-11-23T18:07:23.320829+00:00",
- "updated": "2026-11-23T18:07:23.320829+00:00",
+ "updated": "2026-11-23T19:07:05.045604+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/mup-uputio-apel-vozacima-zbog-zahladjenja/",
    "title": "MUP uputio apel vozačima zbog zahlađenja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300322/mup-uputio-apel-vozacima-da-se-pripreme-za-bezbednu-zimsku-voznju-zbog-zahladenja/vest",
+   "title": "MUP uputio apel vozačima da se pripreme za bezbednu zimsku vožnju zbog zahlađenja",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "MUP uputio apel vozačima zbog zahlađenja"
+  "MUP uputio apel vozačima zbog zahlađenja",
+  "MUP uputio apel vozačima da se pripreme za bezbednu zimsku vožnju zbog zahlađenja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -45,5 +52,7 @@
   "local": false,
   "alt": "Snowy forest road with tall pine trees at sunset",
   "link": "https://unsplash.com/@kristsll"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

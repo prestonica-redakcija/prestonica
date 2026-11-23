@@ -38,7 +38,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T08:26:06.093336+00:00",
- "updated": "2026-11-23T18:52:05.763223+00:00",
+ "updated": "2026-11-23T19:07:05.045604+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -51,11 +51,25 @@
    "url": "https://insajder.net/prenosimo/demokrate-u-predstavnickom-domu-kongresa-sad-sada-imaju-najveci-broj-poslanika-jos-od-1992-godine",
    "title": "Demokrate u Predstavničkom domu Kongresa SAD imaju najveći broj poslanika još od 1992. godine",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/253272/tramp-ogranicava-odgovore-kompanija-na-zahteve-kongresa/vest",
+   "title": "Sprema se sukob Trampa i Kongresa: U fokusu demokrata poslovi porodice predsednika, državni ugovori i Mask",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/demokrate-u-predstavnickom-domu-kongresa-sad-sada-imaju-najveci-broj-poslanika-jos-od-1992-godine/",
+   "title": "Demokrate u Predstavničkom domu Kongresa SAD sada imaju najveći broj poslanika još od 1992. godine",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Najubedljivija većina Demokratske stranke u američkom Kongresu od 1992. godine",
-  "Demokrate u Predstavničkom domu Kongresa SAD imaju najveći broj poslanika još od 1992. godine"
+  "Demokrate u Predstavničkom domu Kongresa SAD imaju najveći broj poslanika još od 1992. godine",
+  "Sprema se sukob Trampa i Kongresa: U fokusu demokrata poslovi porodice predsednika, državni ugovori i Mask",
+  "Demokrate u Predstavničkom domu Kongresa SAD sada imaju najveći broj poslanika još od 1992. godine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +82,6 @@
   "alt": "white concrete building under cloudy sky during daytime",
   "link": "https://unsplash.com/@haroldrmendoza"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

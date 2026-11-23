@@ -25,17 +25,24 @@
  ],
  "importance": 3,
  "published": "2026-11-23T15:53:13.325699+00:00",
- "updated": "2026-11-23T15:53:13.325699+00:00",
+ "updated": "2026-11-23T19:07:05.045604+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/region/300267/prosecna-neto-plata-u-hrvatskoj-u-septembru-1543-evra-najvisa-u-avio-saobracaju/vest",
    "title": "Prosečna neto plata u Hrvatskoj u septembru 1.543 evra, najviša u avio-saobraćaju",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/region/vesti/287474/prosecna-plata-u-hrvatskoj-1543-evra/vest",
+   "title": "Prosečna plata u Hrvatskoj 1.543 evra",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Prosečna neto plata u Hrvatskoj u septembru 1.543 evra, najviša u avio-saobraćaju"
+  "Prosečna neto plata u Hrvatskoj u septembru 1.543 evra, najviša u avio-saobraćaju",
+  "Prosečna plata u Hrvatskoj 1.543 evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Prosečna neto plata u Hrvatskoj u septembru 1.543 evra, najviša u avio-saobraćaju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
