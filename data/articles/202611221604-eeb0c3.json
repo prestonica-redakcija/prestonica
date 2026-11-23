@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T15:04:55.683026+00:00",
- "updated": "2026-11-22T21:16:54.701256+00:00",
+ "updated": "2026-11-23T07:11:46.061338+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -61,6 +61,12 @@
    "url": "https://www.b92.net/info/svet/287235/ukrajina-tvrdi-da-je-unisten-brod-u-luci-bengazi-ruska-raketna-korveta-merkuri/vest",
    "title": "Razneta ruska raketna korveta \"Merkuri\"?",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287257/iran-tvrdi-da-je-oborio-78-americkih-dronova-mq-9-i-mq-1/vest",
+   "title": "Ogroman udarac za Ameriku – uništeno više desetina MQ-9 i MQ-1",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -68,7 +74,8 @@
   "TEŽAK UDARAC ZA PUTINOVU FLOTU U LIBIJI, RUSKI RATNI BROD U PLAMENU?! Odjeknule jezive eksplozije u Bengaziju: Satelitski snimci otkrivaju katastrofu (VIDEO)",
   "Uništen ruski brod vredan 200 miliona evra! Odjeknula ogromna eksplozija, snimak je jeziv!",
   "Ukrajina tvrdi da je uništen brod u luci Bengazi ruska raketna korveta \"Merkuri\"",
-  "Razneta ruska raketna korveta \"Merkuri\"?"
+  "Razneta ruska raketna korveta \"Merkuri\"?",
+  "Ogroman udarac za Ameriku – uništeno više desetina MQ-9 i MQ-1"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -81,6 +88,6 @@
   "alt": "a large boat floating on top of a body of water",
   "link": "https://unsplash.com/@dtrinksrph"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

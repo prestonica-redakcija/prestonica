@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T23:15:41.238686+00:00",
- "updated": "2026-11-22T23:15:41.238686+00:00",
+ "updated": "2026-11-23T07:11:46.061338+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,11 +43,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4437787-spanija-predizborne-ankete-daju-prednost-opozicionoj-narodnoj-partiji",
    "title": "Španija: Predizborne ankete daju prednost opozicionoj Narodnoj partiji",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/ankete-daju-prednost-narodnoj-partiji-pred-vanredne-parlamentarne-izbore-u-spaniji",
+   "title": "Ankete daju prednost Narodnoj partiji pred vanredne parlamentarne izbore u Španiji",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Španija: Predizborne ankete daju prednost opozicionoj Narodnoj partiji",
-  "Španija: Predizborne ankete daju prednost opozicionoj Narodnoj partiji"
+  "Španija: Predizborne ankete daju prednost opozicionoj Narodnoj partiji",
+  "Ankete daju prednost Narodnoj partiji pred vanredne parlamentarne izbore u Španiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "alt": "a large building with columns and a flag on top with Royal Palace of Madrid in the background",
   "link": "https://unsplash.com/@aarsoph"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

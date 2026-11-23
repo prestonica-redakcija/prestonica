@@ -31,17 +31,24 @@
  ],
  "importance": 4,
  "published": "2026-11-23T06:42:06.394046+00:00",
- "updated": "2026-11-23T06:42:06.394046+00:00",
+ "updated": "2026-11-23T07:11:46.061338+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1172364/ivanka-popovic-utisak-nedelje-proglas",
    "title": "Da li je to Ivanka priznala da su protesti NVO podmetačina?! Popović podsetila ko je inicirao \"15 minuta tišine\" (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673727/ivanka-popovic-studentska-lista-proglas",
+   "title": "IVANKA POPOVIĆ PODSETILA KO JE INICIRAO \"15 MINUTA TIŠINE\": Akcije je bila ”Zastani Srbijo”",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Da li je to Ivanka priznala da su protesti NVO podmetačina?! Popović podsetila ko je inicirao \"15 minuta tišine\" (VIDEO)"
+  "Da li je to Ivanka priznala da su protesti NVO podmetačina?! Popović podsetila ko je inicirao \"15 minuta tišine\" (VIDEO)",
+  "IVANKA POPOVIĆ PODSETILA KO JE INICIRAO \"15 MINUTA TIŠINE\": Akcije je bila ”Zastani Srbijo”"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "alt": "woman standing in the middle of crowd",
   "link": "https://unsplash.com/@jasonwong23"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

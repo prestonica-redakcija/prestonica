@@ -22,7 +22,7 @@
  ],
  "importance": 2,
  "published": "2026-11-22T08:23:46.278784+00:00",
- "updated": "2026-11-22T08:53:30.485732+00:00",
+ "updated": "2026-11-23T07:11:46.061338+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,12 +41,19 @@
    "url": "https://insajder.net/prenosimo/slabiji-zemljotres-registrovan-jutros-kod-gornjeg-milanovca",
    "title": "Slabiji zemljotres registrovan jutros kod Gornjeg Milanovca",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300077/slabiji-zemljotres-registrovan-kod-jagodine/vest",
+   "title": "Slabiji zemljotres registrovan kod Jagodine",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Slabiji zemljotres registrovan jutros kod Gornjeg Milanovca",
   "Slabiji zemljotres registrovan jutros kod Gornjeg Milanovca",
-  "Slabiji zemljotres registrovan jutros kod Gornjeg Milanovca"
+  "Slabiji zemljotres registrovan jutros kod Gornjeg Milanovca",
+  "Slabiji zemljotres registrovan kod Jagodine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Gornji_Milanovac_2026_03.jpg",
   "alt": "Zemljotres magnitude 2,1 registrovan jutros kod Gornjeg Milanovca"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

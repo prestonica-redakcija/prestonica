@@ -30,7 +30,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T06:12:18.130561+00:00",
- "updated": "2026-11-23T06:12:18.130561+00:00",
+ "updated": "2026-11-23T07:11:46.061338+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,11 +43,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4437809-drama-u-istanbulu-lavica-luta-ulicama-gradjanima-upucen-apel-da-ne-izlaze-iz-kuca",
    "title": "Drama u Istanbulu: Lavica luta ulicama, građanima upućen apel da ne izlaze iz kuća",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/u-toku-potraga-za-lavicom-koja-je-primecena-u-istanbulu-gradanima-savetovano-da-ne-izlaze-iz-domova",
+   "title": "U toku potraga za lavicom koja je primećena u Istanbulu, građanima savetovano da ne izlaze iz domova",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Istanbul: U toku potraga za lavicom, građanima upućen apel da ne izlaze iz kuća",
-  "Drama u Istanbulu: Lavica luta ulicama, građanima upućen apel da ne izlaze iz kuća"
+  "Drama u Istanbulu: Lavica luta ulicama, građanima upućen apel da ne izlaze iz kuća",
+  "U toku potraga za lavicom koja je primećena u Istanbulu, građanima savetovano da ne izlaze iz domova"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "alt": "city skyline during night time",
   "link": "https://unsplash.com/@ervorocks"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
