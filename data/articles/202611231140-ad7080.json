@@ -29,17 +29,31 @@
  ],
  "importance": 5,
  "published": "2026-11-23T10:40:09.455052+00:00",
- "updated": "2026-11-23T10:40:09.455052+00:00",
+ "updated": "2026-11-23T10:55:00.391086+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/english/news/millennium-team-ceo-resigns-as-vice-president-of-olympic-committee-of-serbia/",
    "title": "Millennium Team CEO resigns as vice president of Olympic Committee of Serbia",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/sport/sport-ostalo/stojan-vujko-oks-ostavka-potpredsednik-millenium-team/",
+   "title": "OKS, ne znamo da li ste čuli: Stojan Vujko podneo ostavku na mesto potpredsednika, to objavila privatna kompanija",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/sport/ostali-sportovi/10170041/stojan-vujko-podneo-ostavku-u-oks",
+   "title": "STOJAN VUJKO PODNEO OSTAVKU! Visoki funkcioner OKS se povukao sa pozicije!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Millennium Team CEO resigns as vice president of Olympic Committee of Serbia"
+  "Millennium Team CEO resigns as vice president of Olympic Committee of Serbia",
+  "OKS, ne znamo da li ste čuli: Stojan Vujko podneo ostavku na mesto potpredsednika, to objavila privatna kompanija",
+  "STOJAN VUJKO PODNEO OSTAVKU! Visoki funkcioner OKS se povukao sa pozicije!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +65,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Hotel_Jugoslavija_(2020)_03.jpg",
   "alt": "Stojan Vujko podneo neopozivu ostavku na mesto potpredsednika OKS"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

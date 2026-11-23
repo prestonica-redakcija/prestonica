@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-22T10:52:22.447092+00:00",
- "updated": "2026-11-23T10:40:09.455052+00:00",
+ "updated": "2026-11-23T10:55:00.391086+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -82,6 +82,12 @@
    "url": "https://n1info.rs/vesti/nastavljeno-sudjenje-u-slucaju-generalstab-izvodjenjem-pisanih-dokaza-tuzilastva/",
    "title": "Nastavljeno suđenje u slučaju Generalštab izvođenjem pisanih dokaza tužilaštva",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/izvedeni-dokazi-na-sudjenju-za-generalstab-advokat-nikole-selakovica-tvrdi-da-je-optuznica-politicka/",
+   "title": "Izvedeni dokazi na suđenju za Generalštab: Advokat Nikole Selakovića tvrdi da je optužnica politička",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -92,7 +98,8 @@
   "Nastavak suđenja za slučaj \"Generalštab\" danas pred Specijalnim sudom, studenti najavili okupljanje",
   "Grupa studenata i građana dočekala ispred suda Selakovića i druge optužene u slučaju Generalštab",
   "Grupa studenata i građana dočekala ispred suda Selakovića i druge optužene u slučaju Generalštab",
-  "Nastavljeno suđenje u slučaju Generalštab izvođenjem pisanih dokaza tužilaštva"
+  "Nastavljeno suđenje u slučaju Generalštab izvođenjem pisanih dokaza tužilaštva",
+  "Izvedeni dokazi na suđenju za Generalštab: Advokat Nikole Selakovića tvrdi da je optužnica politička"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -106,8 +113,8 @@
   "osoba": "Nikola Selaković",
   "alt": "Studenti pozvali na okupljanje ispred Specijalnog suda uoči suđenja za Generalštab"
  },
- "novo_od_pisanja": 1,
- "boost": 1.48,
+ "novo_od_pisanja": 2,
+ "boost": 1.56,
  "prepisano": "2026-11-23T09:40:32.910688+00:00",
  "verzija": 2
 }

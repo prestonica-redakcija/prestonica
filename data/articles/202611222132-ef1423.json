@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-22T20:32:16.653407+00:00",
- "updated": "2026-11-22T20:47:13.341944+00:00",
+ "updated": "2026-11-23T10:55:00.391086+00:00",
  "sources": [
   {
    "name": "N1",
@@ -55,13 +55,20 @@
    "url": "https://www.danas.rs/vesti/politika/aleksandar-cupic-stanovi/",
    "title": "„Ja kao otac šestoro dece bih bio najsrećniji…“: Čupić odgovorio na optužbe o sedam stanova",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10170122/vucic-ponovo-komentarisao-navode-o-sedam-stanova-aleksandra-cupica",
+   "title": "\"VOLEO BIH DA IH IMAM, ALI IH NEMAM\" Čupić govorio o tvrdnjama da poseduje sedam stanova, a Vučić poručuje: \"Nemoj da glumite da nemate za odelo\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Čupić odbacio tvrdnje SNS-a da poseduje sedam stanova: Imam šestoro dece, voleo bih da ih imam, ali ih nemam",
   "Predsednik Skupštine o optužbama SNS da ima sedam stanova: „Daleko od realnog stanja, imam šestoro dece, voleo bih da je istina, ali nije“",
   "Čupić prvi put odgovorio na navode da poseduje 7 stanova",
-  "„Ja kao otac šestoro dece bih bio najsrećniji…“: Čupić odgovorio na optužbe o sedam stanova"
+  "„Ja kao otac šestoro dece bih bio najsrećniji…“: Čupić odgovorio na optužbe o sedam stanova",
+  "\"VOLEO BIH DA IH IMAM, ALI IH NEMAM\" Čupić govorio o tvrdnjama da poseduje sedam stanova, a Vučić poručuje: \"Nemoj da glumite da nemate za odelo\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +83,6 @@
   "izvor_x": true,
   "alt": "Čupić negira da ima sedam stanova i najavljuje prijavu imovine Agenciji"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

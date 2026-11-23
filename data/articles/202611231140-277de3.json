@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T10:40:09.455052+00:00",
- "updated": "2026-11-23T10:40:09.455052+00:00",
+ "updated": "2026-11-23T10:55:00.391086+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1673823/gasprom-zalihe-gasa-evropskim-skladistima-pale-ispod-70-milijardi-kubnih-metara",
    "title": "GASPROM: Zalihe gasa u evropskim skladištima pale ispod 70 milijardi kubnih metara",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4438055-gasprom-upozorava-evropu-zalihe-gasa-se-intenzivno-trose-u-holandiji-pale-ispod-60-odsto",
+   "title": "Gasprom upozorava Evropu: Zalihe gasa se intenzivno troše, u Holandiji pale ispod 60 odsto",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Gasprom: Zalihe gasa u evropskim skladištima pale ispod 70 milijardi kubnih metara",
-  "GASPROM: Zalihe gasa u evropskim skladištima pale ispod 70 milijardi kubnih metara"
+  "GASPROM: Zalihe gasa u evropskim skladištima pale ispod 70 milijardi kubnih metara",
+  "Gasprom upozorava Evropu: Zalihe gasa se intenzivno troše, u Holandiji pale ispod 60 odsto"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "alt": "Four large white spherical gas storage tanks behind a chain link fence under a blue sky",
   "link": "https://unsplash.com/@canopus62"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
