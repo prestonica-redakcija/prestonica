@@ -33,17 +33,24 @@
  ],
  "importance": 6,
  "published": "2026-11-23T20:21:29.742156+00:00",
- "updated": "2026-11-23T20:21:29.742156+00:00",
+ "updated": "2026-11-23T21:36:15.776106+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10170732/jovo-bakic-otkrio-detalje-konsultacija-u-skupstini-jos-nema-mandatara",
    "title": "JOVO BAKIĆ OTKRIO ŠTA SE DEŠAVALO NA KONSULTACIJAMA SA VUČIĆEM: \"Nekima je bilo neprijatno, meni je bilo zabavno!\" - o novoj vladi, mandataru i reformi BIA",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/bakic-se-oglasio-o-sastanku-i-snimku-sa-vucicem-koji-je-obisao-srbiju-nekima-je-bilo-neprijatno-meni-je-bilo-zabavno/",
+   "title": "Bakić se oglasio o sastanku i snimku sa Vučićem koji je obišao Srbiju: \"Nekima je bilo neprijatno, meni je bilo zabavno!\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "JOVO BAKIĆ OTKRIO ŠTA SE DEŠAVALO NA KONSULTACIJAMA SA VUČIĆEM: \"Nekima je bilo neprijatno, meni je bilo zabavno!\" - o novoj vladi, mandataru i reformi BIA"
+  "JOVO BAKIĆ OTKRIO ŠTA SE DEŠAVALO NA KONSULTACIJAMA SA VUČIĆEM: \"Nekima je bilo neprijatno, meni je bilo zabavno!\" - o novoj vladi, mandataru i reformi BIA",
+  "Bakić se oglasio o sastanku i snimku sa Vučićem koji je obišao Srbiju: \"Nekima je bilo neprijatno, meni je bilo zabavno!\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "alt": "aerial view photography of room",
   "link": "https://unsplash.com/@internetztube"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

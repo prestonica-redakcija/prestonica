@@ -25,7 +25,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T14:08:52.547352+00:00",
- "updated": "2026-11-23T15:38:13.610731+00:00",
+ "updated": "2026-11-23T21:36:15.776106+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -38,11 +38,18 @@
    "url": "https://www.b92.net/biz/srbija/vesti/287433/rast-kreditne-aktivnosti-u-srbiji-i-dalje-relativno-visok/vest",
    "title": "Rast kreditne aktivnosti u Srbiji i dalje relativno visok",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/300354/cene-goriva-u-eu-u-oktobru-porasle-295-odsto-na-godisnjem-nivou/vest",
+   "title": "Cene goriva u EU u oktobru porasle 29,5 odsto na godišnjem nivou",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Narodna banka Srbije: Međugodišnji rast kreditne aktivnosti u Srbiji i dalje je relativno visok",
-  "Rast kreditne aktivnosti u Srbiji i dalje relativno visok"
+  "Rast kreditne aktivnosti u Srbiji i dalje relativno visok",
+  "Cene goriva u EU u oktobru porasle 29,5 odsto na godišnjem nivou"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,6 +62,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Beograd_Narodna_banka_Srbije_Kralja_Petra_12_25.jpg",
   "alt": "NBS: Kreditna aktivnost u septembru porasla 15,1 odsto na godišnjem nivou"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

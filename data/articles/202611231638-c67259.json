@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T15:38:13.610731+00:00",
- "updated": "2026-11-23T15:38:13.610731+00:00",
+ "updated": "2026-11-23T21:36:15.776106+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://n1info.rs/vesti/opozicioni-odbornici-kritikuju-rebalans-budzeta-grad-beograd-trosi-vise-nego-sto-zaradjuje/",
    "title": "Opozicioni odbornici kritikuju rebalans budžeta: \"Grad Beograd troši više nego što zarađuje\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/300308/grcki-premijer-micotakis-na-udaru-kritika-zbog-opaske-o-igrici-gta-6/vest",
+   "title": "Grčki premijer Micotakis na udaru kritika zbog opaske o igrici GTA 6",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Opozicija u Grčkoj kritikuje Micotakisa zbog \"GTA 6\"",
-  "Opozicioni odbornici kritikuju rebalans budžeta: \"Grad Beograd troši više nego što zarađuje\""
+  "Opozicioni odbornici kritikuju rebalans budžeta: \"Grad Beograd troši više nego što zarađuje\"",
+  "Grčki premijer Micotakis na udaru kritika zbog opaske o igrici GTA 6"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Aktivistkinja_za_prava_%C5%BEena_Sanja_Sarnavka,_dobitnica_nagrade_Zagrep%C4%8Danka_godine,_2024,_Skup%C5%A1tina_Grada_Zagreba_09_48_46_815000.jpeg",
   "alt": "Opozicioni odbornici kritikuju treći rebalans budžeta Beograda"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

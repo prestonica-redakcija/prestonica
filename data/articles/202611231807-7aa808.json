@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T17:07:41.186797+00:00",
- "updated": "2026-11-23T18:37:04.323271+00:00",
+ "updated": "2026-11-23T21:36:15.776106+00:00",
  "sources": [
   {
    "name": "N1",
@@ -61,6 +61,12 @@
    "url": "https://insajder.net/prenosimo/vesna-citakovic-durisic-kandidatkinja-sns-a-sps-a-i-zdrave-srbije-nije-izabrana-za-gradonacelnicu-uzica",
    "title": "Vesna Čitaković Đurišić, kandidatkinja SNS-a, SPS-a i Zdrave Srbije, nije izabrana za gradonačelnicu Užica",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253381/uzice-nije-izabralo-novu-gradonacelnicu-falio-jedan-glas/vest",
+   "title": "Užice nije dobilo novu gradonačelnicu: Vesni Čitaković Đurišić nedostajao jedan glas",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -68,7 +74,8 @@
   "Užice i dalje bez gradonačelnika: Vesna Čitaković Đurišić nije izabrana na tu funkciju",
   "PALA VLAST U UŽICU! Propao izbor nove gradonačelnice zbog jednog nevažećeg listića: Vesni Čitaković Đurišić nedostajao jedan glas!",
   "Vesna Čitaković Đurišić nije izabrana za gradonačelnicu Užica",
-  "Vesna Čitaković Đurišić, kandidatkinja SNS-a, SPS-a i Zdrave Srbije, nije izabrana za gradonačelnicu Užica"
+  "Vesna Čitaković Đurišić, kandidatkinja SNS-a, SPS-a i Zdrave Srbije, nije izabrana za gradonačelnicu Užica",
+  "Užice nije dobilo novu gradonačelnicu: Vesni Čitaković Đurišić nedostajao jedan glas"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,8 +87,8 @@
   "local": true,
   "alt": "Vesna Čitaković Đurišić nije izabrana za gradonačelnicu Užica"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-23T18:37:04.323271+00:00",
  "verzija": 2
 }
