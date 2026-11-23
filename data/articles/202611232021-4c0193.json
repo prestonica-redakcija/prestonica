@@ -28,17 +28,24 @@
  ],
  "importance": 4,
  "published": "2026-11-23T19:21:53.756571+00:00",
- "updated": "2026-11-23T19:21:53.756571+00:00",
+ "updated": "2026-11-23T20:51:11.195466+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/300323/komandant-kfor-a-i-sef-unmik-a-razgovarali-o-bezbednosnoj-situaciji-na-kim/vest",
    "title": "Komandant KFOR-a i šef UNMIK-a razgovarali o bezbednosnoj situaciji na KiM",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/komandant-kfor-a-i-sef-unmik-a-o-bezbednosnoj-situaciji-na-kosovu",
+   "title": "Komandant KFOR-a i šef UNMIK-a o bezbednosnoj situaciji na Kosovu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Komandant KFOR-a i šef UNMIK-a razgovarali o bezbednosnoj situaciji na KiM"
+  "Komandant KFOR-a i šef UNMIK-a razgovarali o bezbednosnoj situaciji na KiM",
+  "Komandant KFOR-a i šef UNMIK-a o bezbednosnoj situaciji na Kosovu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Komandant KFOR-a i šef UNMIK-a razgovarali o bezbednosnoj situaciji na Kosovu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

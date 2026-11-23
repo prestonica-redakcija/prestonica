@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T10:40:09.455052+00:00",
- "updated": "2026-11-23T20:36:28.314137+00:00",
+ "updated": "2026-11-23T20:51:11.195466+00:00",
  "sources": [
   {
    "name": "N1",
@@ -108,6 +108,18 @@
    "url": "https://nova.rs/vesti/drustvo/zemunska-gimnazija-dobila-novog-direktora/",
    "title": "Zemunska gimnazija dobila novog direktora",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300339/direktor-pete-beogradske-gimnazije-podneo-ostavku/vest",
+   "title": "Direktor Pete beogradske gimnazije podneo ostavku",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/izabran-direktor-zemunske-gimnazije/",
+   "title": "Izabran novi direktor Zemunske gimnazije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -123,7 +135,9 @@
   "Direktor Pete beogradske gimnazije podneo ostavku",
   "Zemunska gimnazija dobila novog direktora",
   "Direktor Pete beogradske gimnazije podneo ostavku",
-  "Zemunska gimnazija dobila novog direktora"
+  "Zemunska gimnazija dobila novog direktora",
+  "Direktor Pete beogradske gimnazije podneo ostavku",
+  "Izabran novi direktor Zemunske gimnazije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -136,6 +150,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Hotel_Jugoslavija_(2020)_03.jpg",
   "alt": "Stojan Vujko podneo neopozivu ostavku na mesto potpredsednika OKS"
  },
- "novo_od_pisanja": 12,
+ "novo_od_pisanja": 14,
  "boost": 1.6
 }
