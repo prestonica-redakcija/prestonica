@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.politico.eu/sponsored-content/same-purchase-different-protection/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": "2026-11-18T03:10:56.932674+00:00",
-  "https://www.kurir.rs/region/bosna-i-hercegovina/10164520/policijska-sluzbenica-uhapsena-zbog-zloupotrebe-polozaja": "2026-11-18T03:10:56.932674+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/252516/kurs-dinara-danas-1176240-za-evro-dolar-1069893/vest": "2026-11-18T04:10:34.538372+00:00",
   "https://www.kurir.rs/vesti/beograd/10164596/izmena-trase-autobusa-82": "2026-11-18T04:10:34.538372+00:00",
   "https://www.kurir.rs/vesti/srbija/10164564/otvoreni-mejkers-labovi-za-razvoj-ucenickih-ideja": "2026-11-18T04:25:28.914200+00:00",
@@ -5935,18 +5933,13 @@
   "https://www.telegraf.rs/vesti/svet/4437760-tramp-sad-bi-mogle-da-nastave-velike-vojne-operacije-protiv-irana-posle-nove-godine": "2026-11-23T00:45:06.323827+00:00",
   "https://www.euronews.rs/srbija/politika/253168/skupstina-grada-danas-o-rebalansu-i-razresenju-sapica/vest": "2026-11-23T02:14:36.386027+00:00",
   "https://www.telegraf.rs/4437712-linta-kurti-nastavlja-progon-srba-rusenjem-njihove-imovine-na-gazivodama": "2026-11-23T02:14:36.386027+00:00",
-  "https://biznis.telegraf.rs/info-biz/4437715-jovanovic-istorijski-uspeh-napredak-srbije-na-22-mesto-po-razvoju-elektronske-uprave": "2026-11-23T02:44:08.338838+00:00"
+  "https://biznis.telegraf.rs/info-biz/4437715-jovanovic-istorijski-uspeh-napredak-srbije-na-22-mesto-po-razvoju-elektronske-uprave": "2026-11-23T02:44:08.338838+00:00",
+  "https://www.kurir.rs/vesti/srbija/10169275/neispravna-voda-na-javnim-cesmama-u-kragujevcu": "2026-11-23T03:13:52.255632+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-22T12:28+00:00",
-   "novih": 5,
-   "ukupno": 3619,
-   "sekundi": 409.1
-  },
   {
    "vreme": "2026-11-22T12:43+00:00",
    "novih": 7,
@@ -6300,6 +6293,12 @@
    "novih": 0,
    "ukupno": 3800,
    "sekundi": 489.7
+  },
+  {
+   "vreme": "2026-11-23T03:22+00:00",
+   "novih": 1,
+   "ukupno": 3801,
+   "sekundi": 496.3
   }
  ],
  "licnosti_foto": {
@@ -52087,6 +52086,29 @@
      "naslov": "Milan, San Siro( Ank Kumar, Infosys) 04.jpg"
     }
    ]
+  },
+  "t:institut za javno zdravlje": {
+   "t": 1795403654.3831353,
+   "items": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Institut_za_javno_zdravlje_Vojvodine.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1536,
+     "h": 1152,
+     "god": 2011,
+     "credit": "Wikimedia Commons / Micki / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Institut_za_javno_zdravlje_Vojvodine.JPG",
+     "naslov": "Institut za javno zdravlje Vojvodine.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Institut_za_javno_zdravlje_Ni%C5%A1.JPG/1920px-Institut_za_javno_zdravlje_Ni%C5%A1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3264,
+     "h": 2448,
+     "god": 2011,
+     "credit": "Wikimedia Commons / The original uploader was Intermedichbo at Serbian Wikipedia / CC BY 3.0 rs",
+     "link": "https://commons.wikimedia.org/wiki/File:Institut_za_javno_zdravlje_Ni%C5%A1.JPG",
+     "naslov": "Institut za javno zdravlje Niš.JPG"
+    }
+   ]
   }
  },
  "x_objave": {
@@ -56690,7 +56712,7 @@
   "yt": "Hdk3ahufa64",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-23T02:59:32.807914+00:00",
+  "provereno": "2026-11-23T03:14:35.809689+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": true
  },
