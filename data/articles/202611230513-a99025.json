@@ -24,7 +24,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T04:13:29.356392+00:00",
- "updated": "2026-11-23T07:26:35.693653+00:00",
+ "updated": "2026-11-23T07:56:19.352941+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -43,12 +43,26 @@
    "url": "https://nova.rs/vesti/biznis/nbs-objavila-koliki-je-kurs-evra-danas/",
    "title": "NBS objavila koliki je kurs evra danas",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/300085/srednji-kurs-dinara-za-evro-danas-1176491-dinara-za-dolar-1069829/vest",
+   "title": "Srednji kurs dinara za evro danas 117,6491 dinara, za dolar 106,9829",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4437871-narodna-banka-srbije-objavila-brojke-ovo-je-srednji-kurs-dinara-23-novembra",
+   "title": "Narodna banka Srbije objavila brojke: Ovo je srednji kurs dinara 23. novembra",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Kurs evra i dolara danas u Srbiji: Objavljena kursna lista Narodne banke Srbije",
   "DINAR SLABIJI PREMA EVRU I DOLARU: Kursna lista za ponedeljak, 23. novembar",
-  "NBS objavila koliki je kurs evra danas"
+  "NBS objavila koliki je kurs evra danas",
+  "Srednji kurs dinara za evro danas 117,6491 dinara, za dolar 106,9829",
+  "Narodna banka Srbije objavila brojke: Ovo je srednji kurs dinara 23. novembra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +75,6 @@
   "alt": "A scattered pile of various euro banknotes including twenty, one hundred, and two hundred denominations",
   "link": "https://unsplash.com/@ibrahimboran"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

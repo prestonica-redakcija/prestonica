@@ -33,17 +33,24 @@
  ],
  "importance": 6,
  "published": "2026-11-22T22:16:11.538620+00:00",
- "updated": "2026-11-22T22:16:11.538620+00:00",
+ "updated": "2026-11-23T07:56:19.352941+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/napadi-na-brodove-u-ormuskom-moreuzu-dostigli-najvisi-nivo-od-pocetka-rata-irana-i-sad",
    "title": "Napadi na brodove u Ormuskom moreuzu dostigli najviši nivo od početka rata Irana i SAD",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287269/iran-pojacao-napade-na-brodove-u-ormuskom-moreuzu/vest",
+   "title": "Iran steže obruč oko moreuza; Broj napada naglo eksplodirao",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Napadi na brodove u Ormuskom moreuzu dostigli najviši nivo od početka rata Irana i SAD"
+  "Napadi na brodove u Ormuskom moreuzu dostigli najviši nivo od početka rata Irana i SAD",
+  "Iran steže obruč oko moreuza; Broj napada naglo eksplodirao"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "alt": "Two boats moored in a harbor viewed through a weathered wooden frame",
   "link": "https://unsplash.com/@mehrpouya"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
