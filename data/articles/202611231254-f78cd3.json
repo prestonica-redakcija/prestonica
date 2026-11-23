@@ -31,7 +31,7 @@
  ],
  "importance": 7,
  "published": "2026-11-23T11:54:36.696000+00:00",
- "updated": "2026-11-23T11:54:36.696000+00:00",
+ "updated": "2026-11-23T19:21:53.756571+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -44,11 +44,18 @@
    "url": "https://informer.rs/politika/vesti/1172461/aleksandar-vucic-hapsenje-strajk-gladju",
    "title": "\"Ako pokušaju da me uhapse...\": Vučić zagrmeo - Šta ćete onda sa milion ljudi na ulicama?!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10170584/vucic-najavio-strajk-gladju-u-slucaju-hapsenja",
+   "title": "\"AKO POKUŠAJU DA ME UHAPSE, ZAPOČINJEM ŠTRAJK GLAĐU\" Vučić: Šta ćete onda da radite sa milion ljudi na ulici onog sekunda kada bi se to dogodilo?",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Vučić najavio štrajk glađu \"ako pokušaju da ga uhapse\": Milioni će izaći na ulice",
-  "\"Ako pokušaju da me uhapse...\": Vučić zagrmeo - Šta ćete onda sa milion ljudi na ulicama?!"
+  "\"Ako pokušaju da me uhapse...\": Vučić zagrmeo - Šta ćete onda sa milion ljudi na ulicama?!",
+  "\"AKO POKUŠAJU DA ME UHAPSE, ZAPOČINJEM ŠTRAJK GLAĐU\" Vučić: Šta ćete onda da radite sa milion ljudi na ulici onog sekunda kada bi se to dogodilo?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Bo%C5%A1ko_Obradovi%C4%87_2021.png",
   "osoba": "Boško Obradović",
   "alt": "Vučić najavio štrajk glađu u slučaju hapšenja, SNS o izborima odlučuje 13. decembra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

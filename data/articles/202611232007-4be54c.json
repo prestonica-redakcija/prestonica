@@ -31,17 +31,24 @@
  ],
  "importance": 6,
  "published": "2026-11-23T19:07:05.045604+00:00",
- "updated": "2026-11-23T19:07:05.045604+00:00",
+ "updated": "2026-11-23T19:21:53.756571+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/bakic-jos-uvek-nije-poznato-ko-ce-biti-mandatar/",
    "title": "Bakić (Studentska lista): Još uvek nije poznato ko će biti mandatar nove vlade Srbije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/bakic-jos-nije-poznato-ko-ce-biti-mandatar-nadam-se-da-ce-nova-vlada-srbije-biti-izabrana-do-kraja-godine/",
+   "title": "Bakić: Još nije poznato ko će biti mandatar, nadam se da će nova Vlada Srbije biti izabrana do kraja godine",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Bakić (Studentska lista): Još uvek nije poznato ko će biti mandatar nove vlade Srbije"
+  "Bakić (Studentska lista): Još uvek nije poznato ko će biti mandatar nove vlade Srbije",
+  "Bakić: Još nije poznato ko će biti mandatar, nadam se da će nova Vlada Srbije biti izabrana do kraja godine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "osoba": "Aleksandar Vučić",
   "izvor_x": true,
   "alt": "Bakić: Mandatar nove vlade još nije poznat, nada se izboru vlade do kraja godine"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

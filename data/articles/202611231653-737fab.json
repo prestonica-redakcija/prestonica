@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T15:53:13.325699+00:00",
- "updated": "2026-11-23T15:53:13.325699+00:00",
+ "updated": "2026-11-23T19:21:53.756571+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/253338/ecb-klimatske-promene-sve-vise-pogadaju-evrozonu/vest",
    "title": "Evropska centralna banka upozorava da klimatske promene sve više utiču na privredu",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/lejn-ecb-ekstremne-vrucine-podizu-cene-hrane-klimatske-promene-sve-vise-uticu-na-privredu-evrozone",
+   "title": "Lejn (ECB): Ekstremne vrućine podižu cene hrane, klimatske promene sve više utiču na privredu evrozone",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Evropska centralna banka upozorava da klimatske promene sve više utiču na privredu",
-  "Evropska centralna banka upozorava da klimatske promene sve više utiču na privredu"
+  "Evropska centralna banka upozorava da klimatske promene sve više utiču na privredu",
+  "Lejn (ECB): Ekstremne vrućine podižu cene hrane, klimatske promene sve više utiču na privredu evrozone"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "ECB: klimatske promene sve više utiču na cene hrane, energije i kredite u evrozoni"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

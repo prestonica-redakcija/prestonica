@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T10:40:09.455052+00:00",
- "updated": "2026-11-23T11:09:53.766455+00:00",
+ "updated": "2026-11-23T19:21:53.756571+00:00",
  "sources": [
   {
    "name": "N1",
@@ -72,6 +72,12 @@
    "url": "https://nova.rs/sport/sport-ostalo/olimpijski-komitet-srbije-se-zahvalio-stojanu-vujku-nakon-neopozive-ostavke-na-mesto-potpredsednika/",
    "title": "Olimpijski komitet Srbije se zahvalio Stojanu Vujku nakon neopozive ostavke na mesto potpredsednika",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/direktor-pete-beogradske-gimnazije-podneo-ostavku/",
+   "title": "Direktor Pete beogradske gimnazije podneo ostavku",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -81,7 +87,8 @@
   "Generalni direktor Milenijum tima podneo ostavku na mesto potpredsednika Olimpijskog komiteta Srbije",
   "Milenijum tim: Stojan Vujko podneo neopozivu ostavku na funkciju potpredsednika Olimpijskog komiteta Srbije",
   "Direktor Milenijum tima Stojan Vujko podneo ostavku na funkciju potpredsednika Olimpijskog komiteta Srbije",
-  "Olimpijski komitet Srbije se zahvalio Stojanu Vujku nakon neopozive ostavke na mesto potpredsednika"
+  "Olimpijski komitet Srbije se zahvalio Stojanu Vujku nakon neopozive ostavke na mesto potpredsednika",
+  "Direktor Pete beogradske gimnazije podneo ostavku"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -94,6 +101,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Hotel_Jugoslavija_(2020)_03.jpg",
   "alt": "Stojan Vujko podneo neopozivu ostavku na mesto potpredsednika OKS"
  },
- "novo_od_pisanja": 6,
- "boost": 1.48
+ "novo_od_pisanja": 7,
+ "boost": 1.56
 }

@@ -35,7 +35,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T18:03:23.802504+00:00",
- "updated": "2026-11-23T19:07:05.045604+00:00",
+ "updated": "2026-11-23T19:21:53.756571+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -156,6 +156,12 @@
    "url": "https://www.danas.rs/bbc-news-serbian/dzensen-huang-ponovo-generalni-direktor-kompanije-nvidia-akcije-vrtoglavo-rastu/",
    "title": "Džensen Huang ponovo generalni direktor kompanije Nvidia, akcije vrtoglavo rastu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/cnn-istrazuje-kako-sumnjivi-kineski-agenti-pokusavaju-da-prevare-amerikance-laznim-oglasima-na-platformama-za-zaposljavanje/",
+   "title": "CNN istražuje: Kako navodni kineski špijuni pokušavaju da prevare Amerikance lažnim oglasima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -178,7 +184,8 @@
   "Džensen Huang vraćen na čelo Nvidie: Akcije skočile 35 odsto",
   "Tramp: Moja intervencija bila je veoma važna za povratak direktora Envidije",
   "Totalni preokret u slučaj Nvidia: Huang vraćen na čelo kompanije, akcije odmah skočile",
-  "Džensen Huang ponovo generalni direktor kompanije Nvidia, akcije vrtoglavo rastu"
+  "Džensen Huang ponovo generalni direktor kompanije Nvidia, akcije vrtoglavo rastu",
+  "CNN istražuje: Kako navodni kineski špijuni pokušavaju da prevare Amerikance lažnim oglasima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -191,7 +198,7 @@
   "alt": "teal LED panel",
   "link": "https://unsplash.com/@adigold1"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-23T16:07:56.396557+00:00",
  "verzija": 4
