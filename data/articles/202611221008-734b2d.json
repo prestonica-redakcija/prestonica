@@ -36,17 +36,24 @@
  ],
  "importance": 7,
  "published": "2026-11-22T09:08:11.102597+00:00",
- "updated": "2026-11-22T09:08:11.102597+00:00",
+ "updated": "2026-11-23T21:06:03.760050+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/svet/fajnensel-tajms-generalstab-vucic-investitori-tramp/",
    "title": "Fajnenšel tajms o Generalštabu: Srbija posebno upečatljiv primer političkog uticaja u korist investitora povezanih sa porodicom Tramp",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/dijalog/pisma-citalaca/politicari-da-ne-koriste-crkvu-kao-scenografiju/",
+   "title": "Političari da ne koriste crkvu kao scenografiju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Fajnenšel tajms o Generalštabu: Srbija posebno upečatljiv primer političkog uticaja u korist investitora povezanih sa porodicom Tramp"
+  "Fajnenšel tajms o Generalštabu: Srbija posebno upečatljiv primer političkog uticaja u korist investitora povezanih sa porodicom Tramp",
+  "Političari da ne koriste crkvu kao scenografiju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "an old run down building on a street corner",
   "link": "https://unsplash.com/@lambi13"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

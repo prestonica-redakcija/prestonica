@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T11:54:36.696000+00:00",
- "updated": "2026-11-23T11:54:36.696000+00:00",
+ "updated": "2026-11-23T21:06:03.760050+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10170188/ministarka-djurdjevic-urucila-ugovore-roditeljima-negovateljima",
    "title": "Ministarka Đurđević uručila ugovore roditeljima negovateljima: Srbija je stala uz porodice koje su godinama čekale podršku",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10170826/govor-djurdjevic-stamenkovski-u-palati-srbija-gde-je-urucila-ugovore-roditeljima-negovateljima",
+   "title": "\"Više niste sami\" Đurđević Stamenkovski uručila ugovore roditeljima negovateljima: \"Nastavljamo dalje da se zajedno borimo\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Stamenkovski uručila 290 ugovora roditeljima negovateljima, ukupno uručeno 590",
-  "Ministarka Đurđević uručila ugovore roditeljima negovateljima: Srbija je stala uz porodice koje su godinama čekale podršku"
+  "Ministarka Đurđević uručila ugovore roditeljima negovateljima: Srbija je stala uz porodice koje su godinama čekale podršku",
+  "\"Više niste sami\" Đurđević Stamenkovski uručila ugovore roditeljima negovateljima: \"Nastavljamo dalje da se zajedno borimo\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "alt": "Young woman helps elderly man in wheelchair",
   "link": "https://unsplash.com/@jmespiga"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
