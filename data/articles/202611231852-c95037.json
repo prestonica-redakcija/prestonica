@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T17:52:32.310734+00:00",
- "updated": "2026-11-23T20:21:29.742156+00:00",
+ "updated": "2026-11-23T22:05:45.618419+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -83,6 +83,12 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4438448-poznato-ko-je-napao-gradonacelnika-cacka",
    "title": "Poznato ko je napao gradonačelnika Čačka",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/poznat-identitet-coveka-koji-je-napao-gradonacelnika-cacka/",
+   "title": "Poznat identitet čoveka koji je napao gradonačelnika Čačka",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -94,7 +100,8 @@
   "Gradonačelnik Čačka Milun Todorović primljen u bolnicu nakon incidenta na ulici",
   "Ozonpress: Gradonačelnik Čačka Milun Todorović napadnut na ulici, primljen u bolnicu",
   "Saznajemo! Todorović zadobio snažan udarac u glavu, ali to nije sve - Jezivi detalji napada na gradonačelnika Čačka (VIDEO)",
-  "Poznato ko je napao gradonačelnika Čačka"
+  "Poznato ko je napao gradonačelnika Čačka",
+  "Poznat identitet čoveka koji je napao gradonačelnika Čačka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -106,8 +113,8 @@
   "local": true,
   "alt": "Gradonačelnik Čačka Milun Todorović napadnut u lokalu, primljen u bolnicu"
  },
- "novo_od_pisanja": 0,
- "boost": 1.56,
+ "novo_od_pisanja": 1,
+ "boost": 1.6,
  "prepisano": "2026-11-23T20:21:29.742156+00:00",
  "verzija": 2
 }

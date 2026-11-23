@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T17:37:34.362963+00:00",
- "updated": "2026-11-23T18:22:28.432581+00:00",
+ "updated": "2026-11-23T22:05:45.618419+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -43,11 +43,18 @@
    "url": "https://www.tanjug.rs/ekonomija/svet/300293/donald-tramp-priredio-veceru-za-vlasnike-svoje-kriptovalute-cija-je-vrednost-pala-na-dolar/vest",
    "title": "Donald Tramp priredio večeru za vlasnike svoje kriptovalute, čija je vrednost pala na dolar",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/planeta/253351/trampova-vecera-za-vlasnike-trump-dok-token-pada/vest",
+   "title": "Tramp organizovao večeru za vlasnike svoje kriptovalute, njena vrednost pala sa 75 dolara na manje od jednog",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Tramp priredio večeru za vlasnike svoje kriptovalute, čija je vrednost pala na manje od jednog dolara",
-  "Donald Tramp priredio večeru za vlasnike svoje kriptovalute, čija je vrednost pala na dolar"
+  "Donald Tramp priredio večeru za vlasnike svoje kriptovalute, čija je vrednost pala na dolar",
+  "Tramp organizovao večeru za vlasnike svoje kriptovalute, njena vrednost pala sa 75 dolara na manje od jednog"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "local": true,
   "alt": "Tramp održao treću večeru za vlasnike kriptovalute $TRUMP, token vredi manje od dolara"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

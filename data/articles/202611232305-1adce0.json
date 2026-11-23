@@ -1,0 +1,62 @@
+{
+ "id": "202611232305-1adce0",
+ "slug": "analize-hakovanih-podataka-rosstata-poginulo-najmanje-460-000-ruskih",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Analize hakovanih podataka Rosstata: poginulo najmanje 460.000 ruskih vojnika",
+ "lead": "Novinari Meduze i Mediazone, Gardijana i Blumberga analizirali su podatke ruske statističke službe Rosstat do kojih su hakeri došli početkom novembra. Prema njihovim procenama, u ratu u Ukrajini poginulo je između 460.000 i 490.000 ruskih vojnika čija je smrt evidentirana, a sa nestalima bi broj mogao da dostigne oko 720.000.",
+ "body": [
+  "Kako navodi B92, podaci obuhvataju dokumentaciju o više od 11 miliona smrtnih slučajeva iz ruskih matičnih službi, od početka 2021. do septembra 2026. godine. Pribavile su ih hakerske grupe \"Beloruski sajberpartizani\" i ukrajinska \"Silent Crow\" nakon upada u informacioni sistem Rosstata. Kurir, pozivajući se na poljski portal Interia Wydarzenia, navodi da su podaci dostavljeni redakcijama Meduze i Mediazone.",
+  "Meduza i Mediazona navode da je do kraja septembra 2026. najmanje 490.334 pripadnika ruskih oružanih snaga imalo registrovanu smrt. Gardijan je identifikovao više od 460.000 smrtnih slučajeva povezanih sa ratom, a Blumberg najmanje 470.000, prenosi B92.",
+  "Do broja od oko 720.000 Meduza i Mediazona dolaze uključivanjem nestalih vojnika čije smrti još nisu registrovane. Kako objašnjavaju, koristile su statističke metode iz osiguranja i epidemiologije, a uključile su i više od 160.000 oglasa porodica koje traže nestale. Prema njihovoj analizi, manje od 10 odsto traženih osoba kasnije se pronađe živo. Kurir navodi da novinari očekuju da će mnogi nestali na kraju biti proglašeni poginulima.",
+  "Meduza i Mediazona tvrde da su autentičnost baze proverile poređenjem sa ranije dostupnim izvorima, među kojima su registar ostavinskih postupaka, sudska statistika i poimenični spiskovi poginulih. Kurir prenosi da autentičnost ocenjuju kao „veoma verovatnu“, kao i njihovu ocenu da bi falsifikovanje tolikog broja zapisa bilo praktično nemoguće. Baza, kako navode, ne sadrži imena, ali ima druge podatke koji omogućavaju identifikaciju, uključujući uzrok smrti.",
+  "Prema navodima iz B92, Gardijan zaključuje da su ruski gubici rasli iz godine u godinu i da je 2025. bila daleko najsmrtonosnija. Posebno veliki gubici zabeleženi su u Pokrovskom okrugu u Donjeckoj oblasti. Gotovo petina poginulih u 2026. godini, za koje postoje podaci o starosti, imala je više od 50 godina, dok je u prvoj godini rata taj udeo bio šest odsto.",
+  "U izvorima nema zvaničnog odgovora Moskve na ove procene. Podaci potiču od hakerskih grupa, a nezavisnu potvrdu autentičnosti baze nismo našli u priloženim izvorima, osim provere koje navode same redakcije."
+ ],
+ "tags": [
+  "rat u Ukrajini",
+  "ruski gubici",
+  "Rosstat",
+  "Meduza",
+  "Mediazona",
+  "hakerski upad"
+ ],
+ "people": [],
+ "places": [
+  "Rusija",
+  "Ukrajina",
+  "Donjecka oblast"
+ ],
+ "importance": 6,
+ "published": "2026-11-23T22:05:45.618419+00:00",
+ "updated": "2026-11-23T22:05:45.618419+00:00",
+ "sources": [
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287565/analize-broj-poginulih-ruskih-vojnika-u-ukrajini-mogao-bi-da-premasi-720000/vest",
+   "title": "Otkriveni strogo čuvani ruski podaci",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10170849/ruski-gubici-u-ukrajini-najmanje-490-000-poginulih-vojnika",
+   "title": "OTKRIVENE RAZMERE RUSKIH GUBITAKA U UKRAJINI! Ovi podaci su bili strogo čuvani, brojke otkrivaju zastrašujuću sliku rata",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Otkriveni strogo čuvani ruski podaci",
+  "OTKRIVENE RAZMERE RUSKIH GUBITAKA U UKRAJINI! Ovi podaci su bili strogo čuvani, brojke otkrivaju zastrašujuću sliku rata"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 2.27,
+ "image": {
+  "src": "https://images.unsplash.com/photo-1636648523764-d9c0cdd891b4?ixid=M3wxMTQwNDIwfDB8MXxzZWFyY2h8MXx8c29sZGllcnMlMjBncmF2ZXMlMjBjZW1ldGVyeSUyMHdhcnxlbnwxfDB8fHwxNzk1NDcxNjEwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+  "credit": "Unsplash / J. Amill Santiago",
+  "ilustracija": true,
+  "local": false,
+  "alt": "a cemetery with rows of headstones and trees",
+  "link": "https://unsplash.com/@thetaikun"
+ }
+}

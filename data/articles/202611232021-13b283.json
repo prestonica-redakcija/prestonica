@@ -31,17 +31,24 @@
  ],
  "importance": 5,
  "published": "2026-11-23T19:21:53.756571+00:00",
- "updated": "2026-11-23T19:21:53.756571+00:00",
+ "updated": "2026-11-23T22:05:45.618419+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/ivanovic-otvoriti-arhive-o-oliveru-ivanovicu/",
    "title": "Ivanović (NPS): Otvoriti arhive bezbednosnih službi i otkriti istinu za ubistvo Olivera Ivanovića",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/ivanovic-otvoriti-arhive-bezbednosnih-sluzbi-i-otkriti-istinu-za-ubistvo-olivera-ivanovica/",
+   "title": "Ivanović: Otvoriti arhive bezbednosnih službi i otkriti istinu za ubistvo Olivera Ivanovića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Ivanović (NPS): Otvoriti arhive bezbednosnih službi i otkriti istinu za ubistvo Olivera Ivanovića"
+  "Ivanović (NPS): Otvoriti arhive bezbednosnih službi i otkriti istinu za ubistvo Olivera Ivanovića",
+  "Ivanović: Otvoriti arhive bezbednosnih službi i otkriti istinu za ubistvo Olivera Ivanovića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Oliver_Ivanovi%C4%87_(2011).jpg",
   "osoba": "Oliver Ivanović",
   "alt": "Aleksandar Ivanović traži otvaranje arhiva službi zbog ubistva Olivera Ivanovića"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.danas.rs/svet/krimski-most-ukrajina-unisten-putin-strucnjaci/": "2026-11-18T22:02:53.658780+00:00",
-  "https://www.youtube.com/watch?v=Q-ESWRzMR-E": "2026-11-18T22:02:53.658780+00:00",
-  "https://www.youtube.com/watch?v=AS7QBofCqt4": "2026-11-18T22:02:53.658780+00:00",
   "https://www.kurir.rs/vesti/politika/10166297/studentska-lista-trazi-da-se-leks-specijalis-za-generalstab-stavi-van-snage": "2026-11-18T22:17:52.084922+00:00",
   "https://www.telegraf.rs/4435661-studentska-lista-se-oglasila-o-generalstabu": "2026-11-18T22:17:52.084922+00:00",
   "https://insajder.net/teme/od-protesta-do-izborne-kampanje-ko-bi-mogao-da-profitira-od-nezadovoljstva-u-francuskoj-video": "2026-11-18T22:17:52.084922+00:00",
@@ -5844,18 +5841,24 @@
   "https://www.kurir.rs/vesti/politika/10170803/djurdjevic-stamenkovski-vucicev-pokret-mogao-je-da-spasi-izbore": "2026-11-23T21:50:49.650794+00:00",
   "https://informer.rs/politika/vesti/1172634/aleksandar-cupic-nova-vlast-politika": "2026-11-23T21:50:49.650794+00:00",
   "https://nova.rs/vesti/svet/gaza-pretvorena-u-otrovnu-pustinju-strucnjaci-upozoravaju-na-zastrasujuce-posledice-izraelskih-napada-koje-ce-osecati-generacije/": "2026-11-23T21:50:49.650794+00:00",
-  "https://www.euronews.rs/svet/fokus/253258/zagadenje-u-gazi-dugorocna-pretnja-po-zdravlje/vest": "2026-11-23T21:50:49.650794+00:00"
+  "https://www.euronews.rs/svet/fokus/253258/zagadenje-u-gazi-dugorocna-pretnja-po-zdravlje/vest": "2026-11-23T21:50:49.650794+00:00",
+  "https://www.kurir.rs/planeta/10170873/tramp-objavio-ai-sliku-huanga-nakon-povratka-na-celo-nvidije": "2026-11-23T22:05:45.618419+00:00",
+  "https://www.euronews.rs/svet/planeta/253351/trampova-vecera-za-vlasnike-trump-dok-token-pada/vest": "2026-11-23T22:05:45.618419+00:00",
+  "https://www.novosti.rs/ekonomija/vesti/1674060/cena-nafte-pala-najnizi-nivo-poslednja-tri-meseca-brent-oko-89-5-dolara": "2026-11-23T22:05:45.618419+00:00",
+  "https://nova.rs/vesti/hronika/poznat-identitet-coveka-koji-je-napao-gradonacelnika-cacka/": "2026-11-23T22:05:45.618419+00:00",
+  "https://n1info.rs/vesti/ivanovic-otvoriti-arhive-bezbednosnih-sluzbi-i-otkriti-istinu-za-ubistvo-olivera-ivanovica/": "2026-11-23T22:05:45.618419+00:00",
+  "https://www.novosti.rs/vesti/politika/1674071/nova-prevara-studentske-liste-obecavali-prekid-saradnje-srpskom-listom-kriminalizovali-danas-traze-spasava-spc-kim": "2026-11-23T22:05:45.618419+00:00",
+  "https://www.tanjug.rs/srbija/drustvo/300351/porfirije-razgovarao-sa-mihalkovim-o-istorijskim-i-kulturnom-vezama-srbije-i-rusije/vest": "2026-11-23T22:05:45.618419+00:00",
+  "https://www.kurir.rs/vesti/drustvo/10170866/patrijarh-porfirije-sastao-se-sa-nikitom-mihalkovim-u-moskvi": "2026-11-23T22:05:45.618419+00:00",
+  "https://www.b92.net/info/svet/287565/analize-broj-poginulih-ruskih-vojnika-u-ukrajini-mogao-bi-da-premasi-720000/vest": "2026-11-23T22:05:45.618419+00:00",
+  "https://www.kurir.rs/planeta/10170849/ruski-gubici-u-ukrajini-najmanje-490-000-poginulih-vojnika": "2026-11-23T22:05:45.618419+00:00",
+  "https://n1info.rs/svet/ap-vens-ucestvovao-u-ubedjivanju-upravnog-odbora-nvidije-da-huang-treba-opet-da-bude-rukovodilac/": "2026-11-23T22:05:45.618419+00:00",
+  "https://www.danas.rs/svet/ap-vens-nvidija-huang/": "2026-11-23T22:05:45.618419+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-23T07:21+00:00",
-   "novih": 8,
-   "ukupno": 3835,
-   "sekundi": 567.8
-  },
   {
    "vreme": "2026-11-23T07:34+00:00",
    "novih": 4,
@@ -6209,6 +6212,12 @@
    "novih": 8,
    "ukupno": 4183,
    "sekundi": 645.3
+  },
+  {
+   "vreme": "2026-11-23T22:17+00:00",
+   "novih": 6,
+   "ukupno": 4189,
+   "sekundi": 736.4
   }
  ],
  "licnosti_foto": {
@@ -9038,15 +9047,15 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2124915956379976089",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "parandilovicnls": {
     "since_id": "2124971304579411982",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "ininic": {
     "since_id": "2124623877116723549",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -9054,15 +9063,15 @@
    },
    "sviublokade_fdu": {
     "since_id": "2124504391600210079",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "dragandjilas": {
     "since_id": "2121691848313884992",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "marinikatepic": {
     "since_id": "2122007271508959331",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "radomirlazovic": {
     "since_id": null,
@@ -9086,27 +9095,27 @@
    },
    "avucic": {
     "since_id": "2124882664565952926",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "anabrnabic": {
-    "since_id": "2124939747319582975",
-    "t": 1795468064.9815402
+    "since_id": "2124975388044763382",
+    "t": 1795471698.07655
    },
    "milos_vucevic": {
     "since_id": "2124803967268057206",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "sns_srbija": {
     "since_id": "2124954541858881999",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "studentblokade": {
     "since_id": "2124876177525391719",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -9142,31 +9151,31 @@
    },
    "markodjuric": {
     "since_id": "2123870662255419709",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "nstarovic": {
     "since_id": "2122967633863565451",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "milenkojovanov": {
     "since_id": "2124130847993336246",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "acasapic": {
     "since_id": null,
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "borkostef": {
     "since_id": "2123837042505155014",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "dobrinacelnik": {
     "since_id": "2124860523967648079",
@@ -9178,7 +9187,7 @@
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "srdjanmil037": {
     "since_id": "2124854434559610956",
@@ -9230,7 +9239,7 @@
    },
    "borakonj": {
     "since_id": "2124868959308488959",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "narodnipokrets": {
     "since_id": "2124821953370267690",
@@ -9238,67 +9247,67 @@
    },
    "direktnors": {
     "since_id": "2124970643242582142",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "crtars": {
     "since_id": "2124910039161044995",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "veceivan": {
     "since_id": "2124889813165973767",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "repjoewilson": {
     "since_id": "2123869192789094550",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "jugoslavcosic": {
     "since_id": "2123147946694787141",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "tvnova_s": {
     "since_id": "2124973057731162430",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "oljautisak": {
     "since_id": "2124115162684629476",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "srdjan_nogo": {
     "since_id": "2123527863307735237",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "agrifblokira": {
     "since_id": "2124971529389920662",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "etfblokada": {
     "since_id": "2124925642714259902",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "nastraninaroda": {
     "since_id": "2124240486932386139",
     "t": 1795384177.0203888
    },
    "bcenzure": {
-    "since_id": "2124956524967584159",
-    "t": 1795468064.9815402
+    "since_id": "2124978841613422778",
+    "t": 1795471698.07655
    },
    "bezstraha26279": {
     "since_id": "2124944401298543087",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "lazidetektor": {
     "since_id": "2124961074805940380",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "nedeljniknin": {
     "since_id": "2124971255048941731",
@@ -9314,11 +9323,11 @@
    },
    "tvbalkaninfo": {
     "since_id": "2124878813276344672",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "1152justice": {
     "since_id": "2123584561330217393",
-    "t": 1795468064.9815402
+    "t": 1795471698.07655
    },
    "zatrijebacki": {
     "since_id": "2123844027036709035",
@@ -9349,11 +9358,60 @@
     "t": 1795470811.7218223
    },
    "masinars": {
-    "since_id": "2124963209765335105",
-    "t": 1795468064.9815402
+    "since_id": "2124978562792837190",
+    "t": 1795471698.07655
    }
   },
   "posts": [
+   {
+    "id": "2124978841613422778",
+    "x": "Bcenzure",
+    "ime": "Bez Cenzure",
+    "grupa": "",
+    "uloga": "",
+    "text": "4 slajda. Једна прича. | Nemanja Rujević, novinar https://t.co/NsepDUNln3",
+    "published": "2026-11-23T21:30:10.000+00:00",
+    "lajk": 0,
+    "slike": [
+     "https://pbs.twimg.com/media/HX1w_unXMAAUFrK.jpg",
+     "https://pbs.twimg.com/media/HX1w_uqWQAEdfkX.jpg",
+     "https://pbs.twimg.com/media/HX1w_t-WIAEIqLX.jpg",
+     "https://pbs.twimg.com/media/HX1w_trXMAAuDsY.jpg"
+    ],
+    "prikazi": false,
+    "rubrika": "mediji",
+    "tema": "Najava price novinara Nemanje Rujevica, bez jasnog sadrzaja"
+   },
+   {
+    "id": "2124978562792837190",
+    "x": "MasinaRS",
+    "ime": "Mašina",
+    "grupa": "",
+    "uloga": "",
+    "text": "Dani solidarnosti sa narodom Palestine održavaju se treći put po redu od 24. do 29. novembra u organizaciji kolektiva „Za slobodnu Palestinu“ sa ciljem skretanja pažnje na tamošnja dešavanja.\n\nSaznajte više na našem sajtu👇\nhttps://t.co/VBELNgaeP8",
+    "published": "2026-11-23T21:29:04.000+00:00",
+    "lajk": 3,
+    "prikazi": true,
+    "rubrika": "drustvo",
+    "tema": "Dani solidarnosti sa narodom Palestine od 24. do 29. novembra"
+   },
+   {
+    "id": "2124975388044763382",
+    "x": "anabrnabic",
+    "ime": "Ana Brnabić",
+    "grupa": "vlast",
+    "uloga": "Srpska napredna stranka",
+    "text": "Mogu. Dajte @PeckoPivo da odmah odgovaram. Uhapsite i mene momentalno. To je ta pravda, sloboda, demokratija koju je donela Studentska lista. A evo, pride, i pacova koji se šetaju po Smederevu jer ste \"oslobodili\" ovaj grad onako kako samo vi znate. https://t.co/xl19YtDi4A https://t.co/zYoAxknn7Z",
+    "published": "2026-11-23T21:16:27.000+00:00",
+    "lajk": 39,
+    "slike": [
+     "https://pbs.twimg.com/media/HX1twggX0AA6WQh.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Brnabic o hapsenju gradonacelnice Smedereva i kritika Studentske liste",
+    "vest": "202611232106-76e95e"
+   },
    {
     "id": "2124974278542025123",
     "x": "izlaz_dot_com",
@@ -20732,45 +20790,6 @@
     "prikazi": true,
     "rubrika": "politika",
     "tema": "ZLF o poplavljenim ulicama i infrastrukturi u Beogradu"
-   },
-   {
-    "id": "2123764714400366853",
-    "x": "tvnova_s",
-    "ime": "TV NOVA S",
-    "grupa": "",
-    "uloga": "",
-    "text": "Aleksandar Čupić našao se na meti optužbi o navodnih sedam stanova još pre nego što je izabran za predsednika Skupštine Srbije. Dok su se prethodnih dana prebrojavali njegovi kvadrati, ponovo se otvorilo pitanje brojnih imovinskih afera političara koje su ostale bez jasnog https://t.co/9prFxGYDS4",
-    "published": "2026-11-20T13:05:40.000+00:00",
-    "lajk": 0,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Čupić, navodnih sedam stanova i imovinske afere političara"
-   },
-   {
-    "id": "2123764525769900536",
-    "x": "izlaz_dot_com",
-    "ime": "IZLAZ.com",
-    "grupa": "",
-    "uloga": "",
-    "text": "Čupić jutro nakon izbora za predsednika Skupštine proveo sa studentima: Uklanjao grafite sa zidova fakulteta\n\nhttps://t.co/2dr9B7jbJi",
-    "published": "2026-11-20T13:04:55.000+00:00",
-    "lajk": 31,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Čupić nakon izbora za predsednika Skupštine uklanjao grafite sa fakulteta"
-   },
-   {
-    "id": "2123763625366045181",
-    "x": "Bcenzure",
-    "ime": "Bez Cenzure",
-    "grupa": "",
-    "uloga": "",
-    "text": "Zoran Gavrilović - Da li programske prioritete RTS-a kroji publika ili politika! https://t.co/WxC09AnDb3",
-    "published": "2026-11-20T13:01:20.000+00:00",
-    "lajk": 0,
-    "prikazi": true,
-    "rubrika": "mediji",
-    "tema": "Zoran Gavrilović o programskim prioritetima RTS-a"
    }
   ],
   "pratim": [
@@ -21478,202 +21497,6 @@
   }
  },
  "foto_cache": {
-  "t:pavle grbovic": {
-   "t": 1794866062.1433806,
-   "items": []
-  },
-  "t:pokret slobodnih gradjana": {
-   "t": 1794866062.3928556,
-   "items": []
-  },
-  "t:danilo jerinic": {
-   "t": 1794866077.3110142,
-   "items": []
-  },
-  "t:power china": {
-   "t": 1794866077.7786803,
-   "items": []
-  },
-  "t:tramp medija": {
-   "t": 1794866092.9053743,
-   "items": []
-  },
-  "t:amazon": {
-   "t": 1794866122.7601655,
-   "items": [
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Turquoise-fronted_amazon_%28Amazona_aestiva%29_head.JPG/1920px-Turquoise-fronted_amazon_%28Amazona_aestiva%29_head.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4054,
-     "h": 2703,
-     "god": 2015,
-     "credit": "Wikimedia Commons / Charles J. Sharp / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Turquoise-fronted_amazon_(Amazona_aestiva)_head.JPG",
-     "naslov": "Turquoise-fronted amazon (Amazona aestiva) head.JPG"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2022.07.04_Coach_carrying_Amazon_employees%2C_Tomaszow_Mazowiecki%2C_Poland.jpg/1920px-2022.07.04_Coach_carrying_Amazon_employees%2C_Tomaszow_Mazowiecki%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2560,
-     "h": 1536,
-     "god": 2022,
-     "credit": "Wikimedia Commons / WrS.tm.pl / Public domain",
-     "link": "https://commons.wikimedia.org/wiki/File:2022.07.04_Coach_carrying_Amazon_employees,_Tomaszow_Mazowiecki,_Poland.jpg",
-     "naslov": "2022.07.04 Coach carrying Amazon employees, Tomaszow Mazowiecki, Poland.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Amazon_distribution_centre_jandakot_gn.jpg/1920px-Amazon_distribution_centre_jandakot_gn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4000,
-     "h": 3000,
-     "god": 2023,
-     "credit": "Wikimedia Commons / Gnangcomapp / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Amazon_distribution_centre_jandakot_gn.jpg",
-     "naslov": "Amazon distribution centre jandakot gn.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Amazon_Spheres_05.jpg/1920px-Amazon_Spheres_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4288,
-     "h": 2848,
-     "god": 2018,
-     "credit": "Wikimedia Commons / Joe Mabel / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Amazon_Spheres_05.jpg",
-     "naslov": "Amazon Spheres 05.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Amazon_Fire_TV_with_remote.JPG/1920px-Amazon_Fire_TV_with_remote.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3020,
-     "h": 1884,
-     "god": 2014,
-     "credit": "Wikimedia Commons / Ixfd64 / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Amazon_Fire_TV_with_remote.JPG",
-     "naslov": "Amazon Fire TV with remote.JPG"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Amazon_Parcel_Locker_Spork_near_Bryant_Irvin_Road_and_Bellaire_Drive_South.jpg/1920px-Amazon_Parcel_Locker_Spork_near_Bryant_Irvin_Road_and_Bellaire_Drive_South.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4032,
-     "h": 3024,
-     "god": 2023,
-     "credit": "Wikimedia Commons / Aspensmonster / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Amazon_Parcel_Locker_Spork_near_Bryant_Irvin_Road_and_Bellaire_Drive_South.jpg",
-     "naslov": "Amazon Parcel Locker Spork near Bryant Irvin Road and Bellaire Drive South.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/BRS2_Amazon_fulfilment_centre_in_Swindon_2025_04.jpg/1920px-BRS2_Amazon_fulfilment_centre_in_Swindon_2025_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4080,
-     "h": 3060,
-     "god": 2025,
-     "credit": "Wikimedia Commons / Auledas / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:BRS2_Amazon_fulfilment_centre_in_Swindon_2025_04.jpg",
-     "naslov": "BRS2 Amazon fulfilment centre in Swindon 2025 04.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Philly_Supports_Alabama_Amazon_Workers_-_Picket_Line%2C_March_5%2C_2021-004.jpg/1920px-Philly_Supports_Alabama_Amazon_Workers_-_Picket_Line%2C_March_5%2C_2021-004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 8255,
-     "h": 4822,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Joe Piette / CC BY-SA 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Philly_Supports_Alabama_Amazon_Workers_-_Picket_Line,_March_5,_2021-004.jpg",
-     "naslov": "Philly Supports Alabama Amazon Workers - Picket Line, March 5, 2021-004.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/BRS2_Amazon_fulfilment_centre_in_Swindon_2025_01.jpg/1920px-BRS2_Amazon_fulfilment_centre_in_Swindon_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4080,
-     "h": 3060,
-     "god": 2025,
-     "credit": "Wikimedia Commons / Auledas / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:BRS2_Amazon_fulfilment_centre_in_Swindon_2025_01.jpg",
-     "naslov": "BRS2 Amazon fulfilment centre in Swindon 2025 01.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Amazon-warehouse-Edmonton.jpg/1920px-Amazon-warehouse-Edmonton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4608,
-     "h": 3456,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Khoshhat / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Amazon-warehouse-Edmonton.jpg",
-     "naslov": "Amazon-warehouse-Edmonton.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Amazon_Hyderabad_Campus.jpg/1920px-Amazon_Hyderabad_Campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4618,
-     "h": 3464,
-     "god": 2020,
-     "credit": "Wikimedia Commons / Kavali Chandrakanth KCK / CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:Amazon_Hyderabad_Campus.jpg",
-     "naslov": "Amazon Hyderabad Campus.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Amazon_campus_in_Financial_district.jpg/1920px-Amazon_campus_in_Financial_district.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 6063,
-     "h": 4042,
-     "god": 2019,
-     "credit": "Wikimedia Commons / iMahesh / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Amazon_campus_in_Financial_district.jpg",
-     "naslov": "Amazon campus in Financial district.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Amazon_refueling.jpg/1920px-Amazon_refueling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4284,
-     "h": 5712,
-     "god": 2025,
-     "credit": "Wikimedia Commons / Gudgelcl2 / CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:Amazon_refueling.jpg",
-     "naslov": "Amazon refueling.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Amazon_Locker_in_gare_de_Caen%2C_France%2C_2024.jpg/1920px-Amazon_Locker_in_gare_de_Caen%2C_France%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4624,
-     "h": 3472,
-     "god": 2024,
-     "credit": "Wikimedia Commons / CorentinQuique / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Amazon_Locker_in_gare_de_Caen,_France,_2024.jpg",
-     "naslov": "Amazon Locker in gare de Caen, France, 2024.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Organize_Amazon_Workers_contingent_in_Peoplehood_Parade%2C_Philadelphia%2C_PA-001.jpg/1920px-Organize_Amazon_Workers_contingent_in_Peoplehood_Parade%2C_Philadelphia%2C_PA-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5300,
-     "h": 3181,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Joe Piette / CC BY-SA 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Organize_Amazon_Workers_contingent_in_Peoplehood_Parade,_Philadelphia,_PA-001.jpg",
-     "naslov": "Organize Amazon Workers contingent in Peoplehood Parade, Philadelphia, PA-001.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Amazon_Logistics_Interiors.jpg/1920px-Amazon_Logistics_Interiors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4032,
-     "h": 3024,
-     "god": 2020,
-     "credit": "Wikimedia Commons / Yourusernamewillbepublic2 / CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:Amazon_Logistics_Interiors.jpg",
-     "naslov": "Amazon Logistics Interiors.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Kent%2C_WA_-_KOA_and_Amazon_Fulfillment_Center_seen_from_North_Observation_Tower_of_Green_River_Natural_Resources_Area_02.jpg/1920px-Kent%2C_WA_-_KOA_and_Amazon_Fulfillment_Center_seen_from_North_Observation_Tower_of_Green_River_Natural_Resources_Area_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 6000,
-     "h": 4000,
-     "god": 2020,
-     "credit": "Wikimedia Commons / Joe Mabel / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Kent,_WA_-_KOA_and_Amazon_Fulfillment_Center_seen_from_North_Observation_Tower_of_Green_River_Natural_Resources_Area_02.jpg",
-     "naslov": "Kent, WA - KOA and Amazon Fulfillment Center seen from North Observation Tower of Green River Natural Resources Area 02.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/BRS2_Amazon_fulfilment_centre_in_Swindon_2025_07.jpg/1920px-BRS2_Amazon_fulfilment_centre_in_Swindon_2025_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4080,
-     "h": 3060,
-     "god": 2025,
-     "credit": "Wikimedia Commons / Auledas / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:BRS2_Amazon_fulfilment_centre_in_Swindon_2025_07.jpg",
-     "naslov": "BRS2 Amazon fulfilment centre in Swindon 2025 07.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/BRS2_Amazon_fulfilment_centre_in_Swindon_2025_05.jpg/1920px-BRS2_Amazon_fulfilment_centre_in_Swindon_2025_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4080,
-     "h": 3060,
-     "god": 2025,
-     "credit": "Wikimedia Commons / Auledas / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:BRS2_Amazon_fulfilment_centre_in_Swindon_2025_05.jpg",
-     "naslov": "BRS2 Amazon fulfilment centre in Swindon 2025 05.jpg"
-    }
-   ]
-  },
   "t:severna koreja": {
    "t": 1794866950.7689323,
    "items": []
@@ -54650,7 +54473,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "upcoming",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-23T21:53:51.811107+00:00",
+  "provereno": "2026-11-23T22:08:41.268092+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": false
  },

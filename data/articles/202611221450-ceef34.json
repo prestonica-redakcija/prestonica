@@ -38,7 +38,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T13:50:41.238649+00:00",
- "updated": "2026-11-22T13:50:41.238649+00:00",
+ "updated": "2026-11-23T22:05:45.618419+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,11 +51,18 @@
    "url": "https://www.danas.rs/svet/tramp-fotografije-si-putin/",
    "title": "Pomešao fotografije: Tramp uporedio susret sa Sijem i Putinom sa konferencijom lidera anti-Hitler koalicije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10170873/tramp-objavio-ai-sliku-huanga-nakon-povratka-na-celo-nvidije",
+   "title": "TRAMP PREVAZIŠAO SAMOG SEBE! Objavio najbizarniju fotografiju do sada (FOTO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Britanska desnica se distancira od Trampa zbog objave fotografije sa Putinom",
-  "Pomešao fotografije: Tramp uporedio susret sa Sijem i Putinom sa konferencijom lidera anti-Hitler koalicije"
+  "Pomešao fotografije: Tramp uporedio susret sa Sijem i Putinom sa konferencijom lidera anti-Hitler koalicije",
+  "TRAMP PREVAZIŠAO SAMOG SEBE! Objavio najbizarniju fotografiju do sada (FOTO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,5 +74,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:AI_generated_image_regarding_the_Greenland_Crisis_posted_by_Donald_J._Trump_on_Truth_Social.jpg",
   "alt": "Tramp objavio fotografije sa Sijem i Putinom, kritike stižu iz SAD, Poljske i Britanije"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
