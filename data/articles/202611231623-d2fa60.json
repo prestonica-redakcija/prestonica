@@ -35,17 +35,24 @@
  ],
  "importance": 5,
  "published": "2026-11-23T15:23:19.150328+00:00",
- "updated": "2026-11-23T15:23:19.150328+00:00",
+ "updated": "2026-11-23T17:07:41.186797+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/ekonomija/sindikati-zeleznica-srbije-zahtevaju-prekrsajnu-i-krivicnu-odgovornost-dosadasnjeg-menadzmenta/",
    "title": "Sindikati železnica Srbije zahtevaju prekršajnu i krivičnu odgovornost dosadašnjeg menadžmenta i proveru imovine",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/sindikati-eleznica-srbije-zahtevaju-prekrajnu-i-krivinu-odgovornost-dosadanjeg-menadmenta/",
+   "title": "Sindikati železnica Srbije zahtevaju prekršajnu i krivičnu odgovornost dosadašnjeg menadžmenta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Sindikati železnica Srbije zahtevaju prekršajnu i krivičnu odgovornost dosadašnjeg menadžmenta i proveru imovine"
+  "Sindikati železnica Srbije zahtevaju prekršajnu i krivičnu odgovornost dosadašnjeg menadžmenta i proveru imovine",
+  "Sindikati železnica Srbije zahtevaju prekršajnu i krivičnu odgovornost dosadašnjeg menadžmenta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Serbian_railways_railroads_%C5%BDeleznice_Srbije_pruge.jpg",
   "alt": "Sindikati Železnica Srbije traže odgovornost menadžmenta nakon izveštaja DRI"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

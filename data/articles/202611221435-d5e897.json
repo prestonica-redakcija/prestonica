@@ -38,17 +38,24 @@
  ],
  "importance": 5,
  "published": "2026-11-22T13:35:49.409713+00:00",
- "updated": "2026-11-22T13:35:49.409713+00:00",
+ "updated": "2026-11-23T17:07:41.186797+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1673619/dva-upozorenja-fica-briselu-srbiji-urusava-pravna-drzava-kijev-nece-moci-vrati-cent",
    "title": "DVA UPOZORENjA FICA BRISELU: U Srbiji se urušava pravna država, Kijev neće moći da vrati ni cent",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287505/marin-le-pen-odbacila-clanstvo-ukrajine-u-eu/vest",
+   "title": "Le Pen presekla: \"Ukrajina nema šta da traži u EU\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "DVA UPOZORENjA FICA BRISELU: U Srbiji se urušava pravna država, Kijev neće moći da vrati ni cent"
+  "DVA UPOZORENjA FICA BRISELU: U Srbiji se urušava pravna država, Kijev neće moći da vrati ni cent",
+  "Le Pen presekla: \"Ukrajina nema šta da traži u EU\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Igor_Matovi%C4%8D_October_2020_(cropped).jpg",
   "osoba": "Igor Matovič",
   "alt": "Fico traži od Brisela da prati situaciju u Srbiji, odbija kredit EU za Ukrajinu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

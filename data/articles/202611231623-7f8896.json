@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T15:23:19.150328+00:00",
- "updated": "2026-11-23T16:52:53.490254+00:00",
+ "updated": "2026-11-23T17:07:41.186797+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -41,11 +41,18 @@
    "url": "https://www.euronews.rs/srbija/politika/253347/beograd-usvojio-treci-rebalans-budzeta-od-2319-milijardi/vest",
    "title": "Skupština grada usvojila treći rebalans budžeta: Beograd raspolaže sa 231,9 milijardi dinara",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/usvojen-treci-rebalans-ovogodisnjeg-budzeta-grada-beograda-rashodi-povecani-na-215-milijardi-dinara/",
+   "title": "Usvojen treći rebalans ovogodišnjeg budžeta Grada Beograda, rashodi povećani na 215 milijardi dinara",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Prema rebalansu budžet Beograda 232 milijarde dinara",
-  "Skupština grada usvojila treći rebalans budžeta: Beograd raspolaže sa 231,9 milijardi dinara"
+  "Skupština grada usvojila treći rebalans budžeta: Beograd raspolaže sa 231,9 milijardi dinara",
+  "Usvojen treći rebalans ovogodišnjeg budžeta Grada Beograda, rashodi povećani na 215 milijardi dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,6 +64,6 @@
   "local": true,
   "alt": "Rebalans budžeta Beograda težak 231,9 milijardi dinara, gradske opštine 16 milijardi"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
