@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T17:22:37.242611+00:00",
- "updated": "2026-11-23T17:22:37.242611+00:00",
+ "updated": "2026-11-23T17:52:32.310734+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -44,11 +44,25 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4438367-vladimir-volkov-uhapsen-po-nalogu-vjt",
    "title": "Vladimir Volkov uhapšen po nalogu VJT",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300295/uhapsen-vladimir-volkov-i-devojka-zbog-pistolja-sa-brusenim-brojem-za-trecim-osumnjicenim-se-traga/vest",
+   "title": "Uhapšen Vladimir Volkov i devojka zbog pištolja sa brušenim brojem, za trećim osumnjičenim se traga",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287515/bivsi-fudbaler-vladimir-volkov-uhapsen-po-nalogu-vjt/vest",
+   "title": "Bivši fudbaler Vladimir Volkov uhapšen po nalogu VJT",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "KURIR SAZNAJE! Uhapšen Vladimir Volkov i još jedna devojka zbog pištolja sa brušenim brojem, za trećim osumnjičenim se traga",
-  "Vladimir Volkov uhapšen po nalogu VJT"
+  "Vladimir Volkov uhapšen po nalogu VJT",
+  "Uhapšen Vladimir Volkov i devojka zbog pištolja sa brušenim brojem, za trećim osumnjičenim se traga",
+  "Bivši fudbaler Vladimir Volkov uhapšen po nalogu VJT"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +75,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Vladimir_Volkov_2012_MNE.jpg",
   "osoba": "Vladimir Volkov",
   "alt": "Uhapšen Vladimir Volkov zbog pištolja sa izbrušenim brojem, traga se za trećim osumnjičenim"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

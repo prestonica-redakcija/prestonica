@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T11:09:53.766455+00:00",
- "updated": "2026-11-23T16:07:56.396557+00:00",
+ "updated": "2026-11-23T17:52:32.310734+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -46,12 +46,19 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/300274/komisija-pokrece-analizu-uslova-konkurencije-na-trzistu-platnih-usluga-u-srbiji/vest",
    "title": "Komisija pokreće analizu uslova konkurencije na tržištu platnih usluga u Srbiji",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/287482/analiza-uslova-konkurencije-na-trzistu-platnih-usluga-u-srbiji/vest",
+   "title": "Analiza uslova konkurencije na tržištu platnih usluga u Srbiji",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Komisija za zaštitu konkurencije pokreće analizu konkurencije na tržištu platnih usluga: Ispitivaće i ko pruža usluge u MUP-u, AMSS…",
   "Komisija za zaštitu konkurencije pokreće analizu uslova na tržištu platnih usluga",
-  "Komisija pokreće analizu uslova konkurencije na tržištu platnih usluga u Srbiji"
+  "Komisija pokreće analizu uslova konkurencije na tržištu platnih usluga u Srbiji",
+  "Analiza uslova konkurencije na tržištu platnih usluga u Srbiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "alt": "person holding smartphone beside tablet computer",
   "link": "https://unsplash.com/@blakewisz"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
