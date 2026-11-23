@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://nova.rs/magazin/vremenska-prognoza/danas-naoblacenje-i-kisa-temperatura-do-19-stepeni-uvece-jak-vetar/": "2026-11-18T23:32:31.441862+00:00",
-  "https://www.danas.rs/svet/stejt-department-odobrio-prodaju-raketnih-sistema-albaniji/": "2026-11-18T23:32:31.441862+00:00",
   "https://insajder.net/prenosimo/koridori-srbije-moravski-koridor-dobitnik-nagrade-medunarodne-putne-organizacije-u-zenevi": "2026-11-19T00:02:00.880219+00:00",
   "https://www.kurir.rs/planeta/10166321/vanredno-stanje-na-floridi-zbog-obilnih-kisa": "2026-11-19T00:02:00.880219+00:00",
   "https://www.kurir.rs/planeta/10165937/ek-osnovala-kancelariju-za-sankcije": "2026-11-19T00:02:00.880219+00:00",
@@ -5874,18 +5872,18 @@
   "https://radar.nova.rs/politika/demokratija-je-kad-im-vidis-leda/": "2026-11-23T23:20:04.594729+00:00",
   "https://radar.nova.rs/misljenja/oskarovci/": "2026-11-23T23:20:04.594729+00:00",
   "https://www.kurir.rs/stars/10170608/milan-popov-deli-budzet-filipu-djukicu": "2026-11-23T23:20:04.594729+00:00",
-  "https://radar.nova.rs/misljenja/kako-je-zakerberg-srusio-vucica/": "2026-11-23T23:20:04.594729+00:00"
+  "https://radar.nova.rs/misljenja/kako-je-zakerberg-srusio-vucica/": "2026-11-23T23:20:04.594729+00:00",
+  "https://www.danas.rs/svet/i-republikanci-i-demokrate-u-kongresu-sad-ostro-reaguju-na-povratak-huanga-na-celo-nvidije/": "2026-11-23T23:34:58.487330+00:00",
+  "https://insajder.net/prenosimo/studenti-glume-akademije-umetnosti-u-beogradu-osvojili-specijalnu-nagradu-na-festivalu-u-moskvi": "2026-11-23T23:34:58.487330+00:00",
+  "https://radar.nova.rs/ekonomija/nacionalni-stadion-u-surcinu/": "2026-11-23T23:34:58.487330+00:00",
+  "https://www.tanjug.rs/svet/hronika/300265/nigerija-najmanje-64-osobe-ubijene-u-napadima-tokom-vikenda/vest": "2026-11-23T23:34:58.487330+00:00",
+  "https://www.kurir.rs/planeta/10170553/nigerija-najmanje-64-osobe-ubijene-u-napadima": "2026-11-23T23:34:58.487330+00:00",
+  "https://radar.nova.rs/global/price-iz-indija-dipavali-praznik/": "2026-11-23T23:34:58.487330+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-23T08:51+00:00",
-   "novih": 8,
-   "ukupno": 3867,
-   "sekundi": 656.3
-  },
   {
    "vreme": "2026-11-23T09:06+00:00",
    "novih": 5,
@@ -6239,6 +6237,12 @@
    "novih": 0,
    "ukupno": 4196,
    "sekundi": 633.9
+  },
+  {
+   "vreme": "2026-11-23T23:44+00:00",
+   "novih": 3,
+   "ukupno": 4199,
+   "sekundi": 552.1
   }
  ],
  "licnosti_foto": {
@@ -21517,82 +21521,6 @@
   }
  },
  "foto_cache": {
-  "t:juznoafricka republika": {
-   "t": 1794871430.5946505,
-   "items": []
-  },
-  "t:pretorija": {
-   "t": 1794871431.1530588,
-   "items": []
-  },
-  "t:krusevac": {
-   "t": 1794871444.1550207,
-   "items": [
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Kru%C5%A1evac_-_Trg_kosovskih_junaka.JPG/1920px-Kru%C5%A1evac_-_Trg_kosovskih_junaka.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2304,
-     "h": 3072,
-     "god": 2013,
-     "credit": "Wikimedia Commons / Sonjabgd / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Kru%C5%A1evac_-_Trg_kosovskih_junaka.JPG",
-     "naslov": "Kruševac - Trg kosovskih junaka.JPG"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/J26_133_Bf_Kru%C5%A1evac%2C_62_088.jpg/1920px-J26_133_Bf_Kru%C5%A1evac%2C_62_088.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5604,
-     "h": 3736,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Falk2 / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:J26_133_Bf_Kru%C5%A1evac,_62_088.jpg",
-     "naslov": "J26 133 Bf Kruševac, 62 088.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/J26_132_Bf_Kru%C5%A1evac%2C_62_088.jpg/1920px-J26_132_Bf_Kru%C5%A1evac%2C_62_088.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5604,
-     "h": 3736,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Falk2 / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:J26_132_Bf_Kru%C5%A1evac,_62_088.jpg",
-     "naslov": "J26 132 Bf Kruševac, 62 088.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Stadion_Mladost%2C_Kru%C5%A1evac.jpg/1920px-Stadion_Mladost%2C_Kru%C5%A1evac.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3468,
-     "h": 4624,
-     "god": 2024,
-     "credit": "Wikimedia Commons / Jeca22 / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Stadion_Mladost,_Kru%C5%A1evac.jpg",
-     "naslov": "Stadion Mladost, Kruševac.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Despot_Stefan_Lazarevi%C4%87_Kru%C5%A1evac.jpg/1920px-Despot_Stefan_Lazarevi%C4%87_Kru%C5%A1evac.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4160,
-     "h": 2340,
-     "god": 2023,
-     "credit": "Wikimedia Commons / Sijera225 / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Despot_Stefan_Lazarevi%C4%87_Kru%C5%A1evac.jpg",
-     "naslov": "Despot Stefan Lazarević Kruševac.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Grcki_Sor_Krusevac%2C_PKIC_8-2.jpg/1920px-Grcki_Sor_Krusevac%2C_PKIC_8-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5472,
-     "h": 3648,
-     "god": 2020,
-     "credit": "Wikimedia Commons / Thruserbia / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Grcki_Sor_Krusevac,_PKIC_8-2.jpg",
-     "naslov": "Grcki Sor Krusevac, PKIC 8-2.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Grcki_Sor_Krusevac%2C_PKIC_8-1.jpg/1920px-Grcki_Sor_Krusevac%2C_PKIC_8-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5236,
-     "h": 3491,
-     "god": 2020,
-     "credit": "Wikimedia Commons / Thruserbia / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Grcki_Sor_Krusevac,_PKIC_8-1.jpg",
-     "naslov": "Grcki Sor Krusevac, PKIC 8-1.jpg"
-    }
-   ]
-  },
   "t:najki": {
    "t": 1794874100.8651316,
    "items": []
@@ -48880,6 +48808,46 @@
      "naslov": "Manshyie neighbourhood in Tel Aviv (FL45790010).jpg"
     }
    ]
+  },
+  "t:akademija umetnosti": {
+   "t": 1795476930.4663765,
+   "items": []
+  },
+  "t:ministarstvo finansija": {
+   "t": 1795476948.0882196,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Beograd_-_Ministarstvo_finansija_%2843221953300%29.jpg/1920px-Beograd_-_Ministarstvo_finansija_%2843221953300%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5184,
+     "h": 3456,
+     "god": 2018,
+     "credit": "Wikimedia Commons / Fred Romero from Paris, France / CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Beograd_-_Ministarstvo_finansija_(43221953300).jpg",
+     "naslov": "Beograd - Ministarstvo finansija (43221953300).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Ministarstvo_finansija.jpg/1920px-Ministarstvo_finansija.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4640,
+     "h": 3137,
+     "god": 1995,
+     "credit": "Wikimedia Commons / Ranko / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ministarstvo_finansija.jpg",
+     "naslov": "Ministarstvo finansija.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Beograd_-_Ministarstvo_finansija_%2844985518172%29.jpg/1920px-Beograd_-_Ministarstvo_finansija_%2844985518172%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5184,
+     "h": 3456,
+     "god": 2018,
+     "credit": "Wikimedia Commons / Fred Romero from Paris, France / CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Beograd_-_Ministarstvo_finansija_(44985518172).jpg",
+     "naslov": "Beograd - Ministarstvo finansija (44985518172).jpg"
+    }
+   ]
+  },
+  "t:drzava niger": {
+   "t": 1795476965.01677,
+   "items": []
   }
  },
  "x_objave": {
@@ -54123,7 +54091,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "upcoming",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-23T23:21:20.811542+00:00",
+  "provereno": "2026-11-23T23:36:32.159393+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": false
  },

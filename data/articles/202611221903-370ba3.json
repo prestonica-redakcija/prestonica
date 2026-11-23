@@ -35,7 +35,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T18:03:23.802504+00:00",
- "updated": "2026-11-23T23:05:09.416142+00:00",
+ "updated": "2026-11-23T23:34:58.487330+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -192,6 +192,12 @@
    "url": "https://www.tanjug.rs/ekonomija/kompanije/300372/akcije-nvidije-porasle-vise-od-30-odsto-huangovo-bogatstvo-uvecano-za-33-milijarde-dolara/vest",
    "title": "Akcije Nvidije porasle više od 30 odsto, Huangovo bogatstvo uvećano za 33 milijarde dolara",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/i-republikanci-i-demokrate-u-kongresu-sad-ostro-reaguju-na-povratak-huanga-na-celo-nvidije/",
+   "title": "I republikanci i demokrate u Kongresu SAD oštro reaguju na povratak Huanga na čelo Nvidije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -220,7 +226,8 @@
   "Američke akcije snažno porasle nakon povratka Džensena Huanga na čelo Envidije",
   "Preokret na Volstritu: Akcije Envidije skočile 31 odsto nakon povratka Huanga na čelo kompanije",
   "Američki kongresmeni kritikovali povratak Huanga na čelo kompanije Nvidia",
-  "Akcije Nvidije porasle više od 30 odsto, Huangovo bogatstvo uvećano za 33 milijarde dolara"
+  "Akcije Nvidije porasle više od 30 odsto, Huangovo bogatstvo uvećano za 33 milijarde dolara",
+  "I republikanci i demokrate u Kongresu SAD oštro reaguju na povratak Huanga na čelo Nvidije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -233,7 +240,7 @@
   "alt": "teal LED panel",
   "link": "https://unsplash.com/@adigold1"
  },
- "novo_od_pisanja": 9,
+ "novo_od_pisanja": 10,
  "boost": 1.6,
  "prepisano": "2026-11-23T16:07:56.396557+00:00",
  "verzija": 4
