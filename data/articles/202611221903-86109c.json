@@ -33,7 +33,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T18:03:23.802504+00:00",
- "updated": "2026-11-22T18:03:23.802504+00:00",
+ "updated": "2026-11-23T05:27:54.459366+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -58,13 +58,20 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4437675-teretnjaci-cekaju-tri-sata-na-izlazu-iz-zemlje-na-prelazu-sid",
    "title": "Teretnjaci čekaju tri sata na izlazu iz zemlje na prelazu Šid",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4437801-stanje-na-granicnim-prelazima-u-5-ujutru-na-batrovcima-teretna-vozila-cekaju-tri-sata-na-izlaz",
+   "title": "Stanje na graničnim prelazima u 5 ujutru: Na Batrovcima teretna vozila čekaju tri sata na izlaz",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "AMSS: Teretnjaci čekaju tri sata na izlazu iz zemlje na graničnom prelazu Šid",
   "Teretnjaci čekaju tri sata na izlazu iz zemlje na prelazu Šid",
   "Gužve na granicama, kamioni čekaju i do tri sata: Radovi na autoputu kod Beške menjaju režim saobraćaja",
-  "Teretnjaci čekaju tri sata na izlazu iz zemlje na prelazu Šid"
+  "Teretnjaci čekaju tri sata na izlazu iz zemlje na prelazu Šid",
+  "Stanje na graničnim prelazima u 5 ujutru: Na Batrovcima teretna vozila čekaju tri sata na izlaz"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,5 +83,7 @@
   "local": false,
   "alt": "People on a road near a white van and a tall metal tower",
   "link": "https://unsplash.com/@vikacfilms"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
