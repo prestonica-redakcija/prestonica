@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T23:00:49.016868+00:00",
- "updated": "2026-11-23T13:53:52.853775+00:00",
+ "updated": "2026-11-23T16:37:50.445585+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -44,11 +44,18 @@
    "url": "https://nova.rs/vesti/politika/cupic/",
    "title": "\"Ja je lično neću iseljavati, ali imam hladnjaču da preveze knjige\": Aleksandar Čupić o selidbi Ane Brnabić iz Jovankine vile VIDEO",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10170272/gde-ce-ziveti-novi-predsednik-skupstine-cupic",
+   "title": "\"NEĆU JE JA LIČNO ISELJAVATI, NITI ĆU SE TAMO USELITI\" Čupić o \"Jovankinoj vili\", trenutnoj stanarki Ani Brnabić, procedurama... (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Skandal nad skandalima! Zloslutna izjava Aleksandra Čupića u \"Utisku nedelje\" - Neće da iseljuje Anu Brnabić iz vile na Dedinju, ali ima hladnjaču?! (VIDEO)",
-  "\"Ja je lično neću iseljavati, ali imam hladnjaču da preveze knjige\": Aleksandar Čupić o selidbi Ane Brnabić iz Jovankine vile VIDEO"
+  "\"Ja je lično neću iseljavati, ali imam hladnjaču da preveze knjige\": Aleksandar Čupić o selidbi Ane Brnabić iz Jovankine vile VIDEO",
+  "\"NEĆU JE JA LIČNO ISELJAVATI, NITI ĆU SE TAMO USELITI\" Čupić o \"Jovankinoj vili\", trenutnoj stanarki Ani Brnabić, procedurama... (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "alt": "Three men in suits being filmed for dota 2 competition",
   "link": "https://unsplash.com/@invisiblelity"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

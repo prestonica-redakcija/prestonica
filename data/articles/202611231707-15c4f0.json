@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T16:07:56.396557+00:00",
- "updated": "2026-11-23T16:07:56.396557+00:00",
+ "updated": "2026-11-23T16:37:50.445585+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://www.kurir.rs/region/hrvatska/10170512/pacijent-vezan-za-krevet-zapalio-se-u-psihijatrijskoj-bolnici-u-kojoj-je-umro-peris",
    "title": "PACIJENT VEZAN ZA KREVET ZAPALIO SE U BOLNICI U KOJOJ JE UMRO PERIŠ! Otkriven novi horor u Jankomiru, Ministarstvo zdravlja ponovo neobavešteno o incidentu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/pacijent-vezan-za-krevet-zapalio-se-u-klinici-za-psihijatriju-u-zagrebu-novi-skandal-u-hrvatskim-bolnicama/",
+   "title": "Pacijent vezan za krevet zapalio se u Klinici za psihijatriju u Zagrebu: Novi skandal u hrvatskim bolnicama",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Jutarnji: Pacijent vezan za krevet zapalio se u Klinici za psihijatriju u Zagrebu, odgovorni ponovno ništa nisu znali",
-  "PACIJENT VEZAN ZA KREVET ZAPALIO SE U BOLNICI U KOJOJ JE UMRO PERIŠ! Otkriven novi horor u Jankomiru, Ministarstvo zdravlja ponovo neobavešteno o incidentu"
+  "PACIJENT VEZAN ZA KREVET ZAPALIO SE U BOLNICI U KOJOJ JE UMRO PERIŠ! Otkriven novi horor u Jankomiru, Ministarstvo zdravlja ponovo neobavešteno o incidentu",
+  "Pacijent vezan za krevet zapalio se u Klinici za psihijatriju u Zagrebu: Novi skandal u hrvatskim bolnicama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Pacijent vezan za krevet zapalio se u psihijatrijskoj bolnici u Zagrebu, ministarstvo tvrdi da nije znalo"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
