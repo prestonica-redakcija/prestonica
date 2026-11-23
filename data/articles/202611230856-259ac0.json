@@ -29,17 +29,24 @@
  ],
  "importance": 5,
  "published": "2026-11-23T07:56:19.352941+00:00",
- "updated": "2026-11-23T07:56:19.352941+00:00",
+ "updated": "2026-11-23T08:40:57.565229+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/senat-univerziteta-u-novom-sadu-odlucuje-o-pokretanju-postupka-za-razresenje-madica-kleut-kaze-da-to-nije-konacan-korak/",
    "title": "Senat Univerziteta u Novom Sadu odlučuje o pokretanju postupka za razrešenje Madića, Kleut kaže da to nije konačan korak",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/madic-ostaje-rektor-senat-univerziteta-u-novom-sadu-nije-izglasao-njegovo-razresenje/",
+   "title": "Madić ostaje rektor: Senat Univerziteta u Novom Sadu nije izglasao njegovo razrešenje",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Senat Univerziteta u Novom Sadu odlučuje o pokretanju postupka za razrešenje Madića, Kleut kaže da to nije konačan korak"
+  "Senat Univerziteta u Novom Sadu odlučuje o pokretanju postupka za razrešenje Madića, Kleut kaže da to nije konačan korak",
+  "Madić ostaje rektor: Senat Univerziteta u Novom Sadu nije izglasao njegovo razrešenje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "alt": "high-angle photography of group of people sitting at chairs",
   "link": "https://unsplash.com/@mikael_k"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
