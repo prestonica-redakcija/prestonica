@@ -29,7 +29,7 @@
  ],
  "importance": 7,
  "published": "2026-11-23T12:39:18.637197+00:00",
- "updated": "2026-11-23T12:39:18.637197+00:00",
+ "updated": "2026-11-23T13:39:09.854940+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -54,13 +54,20 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4438139-oglasilo-se-trece-osnovno-tuzilastvo-povodom-prijave-protiv-sapica-poslata-zamolnica-u-italiju",
    "title": "Oglasilo se Treće osnovno tužilaštvo povodom prijave protiv Šapića: Poslata zamolnica u Italiju",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300218/trece-osnovno-javno-tuzilastvo-sprovodi-dokazne-radnje-u-predistraznom-postupku-po-prijavi-protiv-sapica/vest",
+   "title": "Treće osnovno javno tužilaštvo sprovodi dokazne radnje u predistražnom postupku po prijavi protiv Šapića",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Treće osnovno tužilaštvo istražuje i Šapićeve nekretnine u Italiji",
   "Oglasilo se Treće osnovno tužilaštvo povodom prijave protiv Šapića: Poslata zamolnica u Italiju",
   "Treće tužilaštvo o prijavi Agencije za sprečavanje korupcije protiv Aleksandra Šapića: Pod lupom i nekretnine u Italiji",
-  "Oglasilo se Treće osnovno tužilaštvo povodom prijave protiv Šapića: Poslata zamolnica u Italiju"
+  "Oglasilo se Treće osnovno tužilaštvo povodom prijave protiv Šapića: Poslata zamolnica u Italiju",
+  "Treće osnovno javno tužilaštvo sprovodi dokazne radnje u predistražnom postupku po prijavi protiv Šapića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,5 +78,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Tužilaštvo šalje zamolnicu Italiji zbog prijave Agencije protiv gradonačelnika Šapića"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

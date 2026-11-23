@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T10:55:00.391086+00:00",
- "updated": "2026-11-23T11:24:57.416792+00:00",
+ "updated": "2026-11-23T13:39:09.854940+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -53,13 +53,20 @@
    "url": "https://www.danas.rs/vesti/ekonomija/dri-gradjani-mogu-elektronskim-putem-da-predloze-reviziju-i-prijave-nepravilnosti/",
    "title": "DRI: Građani mogu elektronskim putem da predlože reviziju i prijave nepravilnosti",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/dri-omogucila-gradanima-da-elektronskim-putem-predloze-reviziju-i-prijave-nepravilnosti",
+   "title": "DRI omogućila građanima da elektronskim putem predlože reviziju i prijave nepravilnosti",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "DRI omogućila da građani elektronskim putem predlože reviziju i prijave nepravilnosti",
   "Znate da se negde nepravilno troši javni novac: Možete podneti elektronsku prijavu DRI, čak i anonimno",
   "Sumnjate na nepravilnosti u trošenju javnog novca? DRI omogućila građanima da ih prijave i anonimno",
-  "DRI: Građani mogu elektronskim putem da predlože reviziju i prijave nepravilnosti"
+  "DRI: Građani mogu elektronskim putem da predlože reviziju i prijave nepravilnosti",
+  "DRI omogućila građanima da elektronskim putem predlože reviziju i prijave nepravilnosti"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,6 +79,6 @@
   "alt": "a woman sitting at a table reading a paper",
   "link": "https://unsplash.com/@antoie"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

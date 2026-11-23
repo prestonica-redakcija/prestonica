@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T13:09:05.490848+00:00",
- "updated": "2026-11-23T13:24:04.000367+00:00",
+ "updated": "2026-11-23T13:39:09.854940+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -56,6 +56,12 @@
    "url": "https://n1info.rs/vesti/uhapsen-muskarac-u-smederevu-osumnjicen-za-silovanje/",
    "title": "Uhapšen muškarac u Smederevu osumnjičen za silovanje",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/manijak-u-smederevu-presreo-zenu-dok-je-isla-na-posao-uvukao-je-u-napustenu-kucu-i-silovao/",
+   "title": "Manijak u Smederevu presreo ženu dok je išla na posao, uvukao je u napuštenu kuću i silovao",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -63,7 +69,8 @@
   "Uhapšen muškarac (29) u Smederevu zbog silovanja: Presreo žrtvu na ulici i uvukao je u napuštenu kuću",
   "OTKRIVENO KO JE UHAPŠENI SILOVATELJ IZ SMEDEREVA: Oglasila se policija, napasniku određeno zadržavanje!",
   "Policija u Smederevu uhapsila muškarca osumnjičenog za silovanje",
-  "Uhapšen muškarac u Smederevu osumnjičen za silovanje"
+  "Uhapšen muškarac u Smederevu osumnjičen za silovanje",
+  "Manijak u Smederevu presreo ženu dok je išla na posao, uvukao je u napuštenu kuću i silovao"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +83,6 @@
   "alt": "cars parked in front of store during night time",
   "link": "https://unsplash.com/@hiepdaiduong93"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

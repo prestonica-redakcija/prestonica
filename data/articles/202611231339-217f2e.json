@@ -28,17 +28,24 @@
  ],
  "importance": 6,
  "published": "2026-11-23T12:39:18.637197+00:00",
- "updated": "2026-11-23T12:39:18.637197+00:00",
+ "updated": "2026-11-23T13:39:09.854940+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/organizacije-civilnog-drustva-traze-da-predmet-zvucnog-topa-preuzme-tok/",
    "title": "Organizacije civilnog društva traže da predmet zvučnog topa preuzme TOK",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/organizacije-civilnog-drustva-traze-da-tuzilastvo-za-organizovani-kriminal-preuzme-slucaj-zvucnog-topa/",
+   "title": "Organizacije civilnog društva traže da Tužilaštvo za organizovani kriminal preuzme slučaj \"zvučnog topa\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Organizacije civilnog društva traže da predmet zvučnog topa preuzme TOK"
+  "Organizacije civilnog društva traže da predmet zvučnog topa preuzme TOK",
+  "Organizacije civilnog društva traže da Tužilaštvo za organizovani kriminal preuzme slučaj \"zvučnog topa\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Organizacije civilnog društva traže da predmet zvučnog topa preuzme TOK"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T22:16:11.538620+00:00",
- "updated": "2026-11-23T13:09:05.490848+00:00",
+ "updated": "2026-11-23T13:39:09.854940+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -61,6 +61,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/podneta-krivicna-prijava-protiv-maje-gojkovic-u-visem-tuzilastvu-u-novom-sadu/",
    "title": "Podneta krivična prijava protiv Maje Gojković u Višem tužilaštvu u Novom Sadu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/podneta-krivicna-prijava-protiv-maje-gojkovic-u-visem-javnom-tuzilastvu-u-novom-sadu/",
+   "title": "Podneta krivična prijava protiv Maje Gojković u Višem javnom tužilaštvu u Novom Sadu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -68,7 +74,8 @@
   "Novosadski zborovi sutra podnose krivičnu prijavu protiv Maje Gojković",
   "GRADILA VIKENDICU BEZ POTREBNE DOKUMENTACIJE: Podneta krivična prijava protiv žene iz Bara",
   "Grupa otpuštenih radnika podnela krivičnu prijavu protiv predsednice Pokrajinske vlade Maje Gojković",
-  "Podneta krivična prijava protiv Maje Gojković u Višem tužilaštvu u Novom Sadu"
+  "Podneta krivična prijava protiv Maje Gojković u Višem tužilaštvu u Novom Sadu",
+  "Podneta krivična prijava protiv Maje Gojković u Višem javnom tužilaštvu u Novom Sadu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -82,8 +89,8 @@
   "osoba": "Maja Gojković",
   "alt": "Novosadski zborovi sutra podnose krivičnu prijavu protiv Maje Gojković"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-23T13:09:05.490848+00:00",
  "verzija": 2
 }
