@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T08:40:57.565229+00:00",
- "updated": "2026-11-23T08:56:00.497462+00:00",
+ "updated": "2026-11-23T09:10:45.451267+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -56,13 +56,20 @@
    "url": "https://nova.rs/vesti/drustvo/preminuo-novinar-milan-jovanovic-kojem-je-bila-zapaljena-kuca/",
    "title": "Preminuo novinar Milan Jovanović kojem je bila zapaljena kuća",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/287311/preminuo-novinar-milan-jovanovic/vest",
+   "title": "Preminuo novinar Milan Jovanović",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Preminuo novinar Milan Jovanović",
   "Preminuo novinar Milan Jovanović kojem je bila zapaljena kuća",
   "Preminuo Milan Jovanović",
-  "Preminuo novinar Milan Jovanović kojem je bila zapaljena kuća"
+  "Preminuo novinar Milan Jovanović kojem je bila zapaljena kuća",
+  "Preminuo novinar Milan Jovanović"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -75,6 +82,6 @@
   "alt": "person holding white labeled can",
   "link": "https://unsplash.com/@apothecary87"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-22T18:03:23.802504+00:00",
- "updated": "2026-11-23T07:26:35.693653+00:00",
+ "updated": "2026-11-23T09:10:45.451267+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -52,12 +52,19 @@
    "url": "https://www.tanjug.rs/svet/drustvo/300080/delta-erlajns-otklonio-problem-u-sistemu-koji-je-izazvao-kasnjenja-letova-sirom-sad/vest",
    "title": "Delta erlajns otklonio problem u sistemu koji je izazvao kašnjenja letova širom SAD",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/253245/delta-otklonila-kvar-koji-je-izazvao-velika-kasnjenja-letova/vest",
+   "title": "Delta erlajns otklonio problem u sistemu koji je izazvao kašnjenja letova širom SAD",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Letovi kompanije Delta erlajns kasne širom SAD",
   "Haos na letovima Delta erlajnsa širom SAD zbog tehničkog problema na aerodromu u Atlanti",
   "Letovi kompanije Delta erlajns kasne širom SAD",
+  "Delta erlajns otklonio problem u sistemu koji je izazvao kašnjenja letova širom SAD",
   "Delta erlajns otklonio problem u sistemu koji je izazvao kašnjenja letova širom SAD"
  ],
  "author": "Redakcija Prestonice",
@@ -71,6 +78,6 @@
   "alt": "a group of people in a room",
   "link": "https://unsplash.com/@josephbobadilla"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
