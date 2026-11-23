@@ -1,15 +1,5 @@
 {
  "seen": {
-  "https://www.euronews.rs/biznis/biznis-vesti/252707/fed-raste-rizik-od-daljeg-povecanja-kamatnih-stopa/vest": "2026-11-18T22:32:55.430931+00:00",
-  "https://www.telegraf.rs/vesti/srbija/4435669-kisa-bez-prestanka-pada-24-sata-jaki-pljuskovi-sa-grmljavinom-potopili-beograd-evo-kada-prestaju-padavine": "2026-11-18T22:32:55.430931+00:00",
-  "https://www.kurir.rs/planeta/10166303/albanija-kupuje-americke-rakete-himars": "2026-11-18T22:32:55.430931+00:00",
-  "https://n1info.rs/region/albanija-kupuje-sisteme-himars/": "2026-11-18T22:32:55.430931+00:00",
-  "https://nova.rs/vesti/svet/albanija-kupuje-sisteme-himars/": "2026-11-18T22:32:55.430931+00:00",
-  "https://www.kurir.rs/planeta/10166259/hegset-stigao-u-venecuelu-i-objavio-novi-vojni-sporazum": "2026-11-18T22:32:55.430931+00:00",
-  "https://www.danas.rs/svet/sad-i-venecuela-sporazum-vojne-veze/": "2026-11-18T22:32:55.430931+00:00",
-  "https://www.tanjug.rs/svet/drustvo/298987/obilne-padavine-izazvale-poplave-na-jugu-floride-urusio-se-krov-sinagoge/vest": "2026-11-18T22:32:55.430931+00:00",
-  "https://www.euronews.rs/svet/fokus/252708/florida-automobili-ostali-zarobljeni-u-vodi/vest": "2026-11-18T22:32:55.430931+00:00",
-  "https://informer.rs/politika/vesti/1171230/andrej-plenkovic-studentska-lista": "2026-11-18T22:32:55.430931+00:00",
   "https://www.b92.net/info/svet/286199/poplave-na-floridi-proglaseno-vanredno-stanje/vest": "2026-11-18T22:47:45.423273+00:00",
   "https://www.euronews.rs/svet/fokus/252703/hegset-zajednicka-obuka-i-razmena-obavestajnih-podataka/vest": "2026-11-18T22:47:45.423273+00:00",
   "https://n1info.rs/svet/sad-i-venecuela-vojne-veze/": "2026-11-18T22:47:45.423273+00:00",
@@ -5858,18 +5848,20 @@
   "https://nova.rs/vesti/drustvo/sindikat-smer-uputio-zahtev-rukovodstvu-rts-a-zbog-postupanja-zaposlenih-tokom-blokade-ko-je-tajno-ulazio-u-zgradu-i-realizovao-program/": "2026-11-23T22:20:33.126631+00:00",
   "https://www.kurir.rs/vesti/politika/10170875/studenti-prisustvuju-sednici-narodne-skupstine": "2026-11-23T22:20:33.126631+00:00",
   "https://www.kurir.rs/vesti/politika/10170762/kako-besplatan-prevoz-utice-na-budzet-beograda": "2026-11-23T22:20:33.126631+00:00",
-  "https://www.kurir.rs/zabava/pop-kultura/10170056/cerka-brusa-vilisa-objavila-fotografiju-koja-slama-srce": "2026-11-23T22:20:33.126631+00:00"
+  "https://www.kurir.rs/zabava/pop-kultura/10170056/cerka-brusa-vilisa-objavila-fotografiju-koja-slama-srce": "2026-11-23T22:20:33.126631+00:00",
+  "https://www.novosti.rs/vesti/politika/1674071/srpska-lista-vec-uradila-ono-cemu-gasic-govori-podneti-amandmani-zastitu-spc-kim": "2026-11-23T22:35:27.144767+00:00",
+  "https://www.tanjug.rs/srbija/drustvo/300362/gujon-razresen-sa-funkcije-v-d-direktora-kancelarije-za-javnu-i-kulturnu-diplomatiju/vest": "2026-11-23T22:35:27.144767+00:00",
+  "https://www.telegraf.rs/4438487-macut-razresio-gujona-sa-funkcije": "2026-11-23T22:35:27.144767+00:00",
+  "https://www.euronews.rs/svet/fokus/253379/musa-al-koni-napad-na-bengazi-krsi-suverenitet-libije/vest": "2026-11-23T22:35:27.144767+00:00",
+  "https://www.telegraf.rs/vesti/svet/4438025-kljuca-u-ormuskom-moreuzu-najveci-broj-iranskih-napada-jos-od-pocetka-sukoba": "2026-11-23T22:35:27.144767+00:00",
+  "https://informer.rs/politika/vesti/1172660/bakic-informer-krimilani-klanovi-studentska-lista": "2026-11-23T22:35:27.144767+00:00",
+  "https://www.kurir.rs/stars/10170613/filip-car-opleo-po-vanji-prodanovic": "2026-11-23T22:35:27.144767+00:00",
+  "https://www.kurir.rs/stars/10170845/sasa-kapor-otkazuje-koncert-za-novu-godinu": "2026-11-23T22:35:27.144767+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-23T07:49+00:00",
-   "novih": 4,
-   "ukupno": 3843,
-   "sekundi": 489.6
-  },
   {
    "vreme": "2026-11-23T08:04+00:00",
    "novih": 4,
@@ -6223,6 +6215,12 @@
    "novih": 2,
    "ukupno": 4191,
    "sekundi": 435.2
+  },
+  {
+   "vreme": "2026-11-23T22:44+00:00",
+   "novih": 1,
+   "ukupno": 4192,
+   "sekundi": 544.3
   }
  ],
  "licnosti_foto": {
@@ -21147,7 +21145,7 @@
     "uloga": ""
    }
   ],
-  "pratim_t": 1795386722.2655773,
+  "pratim_t": 1795473405.0548015,
   "profil": {
    "markodjuric": {
     "img": "https://pbs.twimg.com/profile_images/1707667706005106688/zQTpxjeE_200x200.jpg",
@@ -21497,15 +21495,11 @@
    "masinars": {
     "img": "https://pbs.twimg.com/profile_images/2000930981046362113/mH6yO5Nb_200x200.jpg",
     "ime_x": "Mašina",
-    "t": 1795213720.0548
+    "t": 1795473405.1984375
    }
   }
  },
  "foto_cache": {
-  "t:zaporozje": {
-   "t": 1794867857.9431665,
-   "items": []
-  },
   "t:adidas": {
    "t": 1794868741.0710392,
    "items": [
@@ -54478,7 +54472,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "upcoming",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-23T22:21:39.617567+00:00",
+  "provereno": "2026-11-23T22:36:57.963016+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": false
  },

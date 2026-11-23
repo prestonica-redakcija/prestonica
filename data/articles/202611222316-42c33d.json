@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-22T22:16:11.538620+00:00",
- "updated": "2026-11-23T21:50:49.650794+00:00",
+ "updated": "2026-11-23T22:35:27.144767+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -52,12 +52,19 @@
    "url": "https://www.b92.net/info/svet/287570/odjekuju-eksplozije-u-ormuskom-moreuzu-video/vest",
    "title": "Odjekuju eksplozije u Ormuskom moreuzu VIDEO",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4438025-kljuca-u-ormuskom-moreuzu-najveci-broj-iranskih-napada-jos-od-pocetka-sukoba",
+   "title": "Ključa u Ormuskom moreuzu: Najveći broj iranskih napada još od početka sukoba",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Napadi na brodove u Ormuskom moreuzu dostigli najviši nivo od početka rata Irana i SAD",
   "Iran steže obruč oko moreuza; Broj napada naglo eksplodirao",
-  "Odjekuju eksplozije u Ormuskom moreuzu VIDEO"
+  "Odjekuju eksplozije u Ormuskom moreuzu VIDEO",
+  "Ključa u Ormuskom moreuzu: Najveći broj iranskih napada još od početka sukoba"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +77,6 @@
   "alt": "Two boats moored in a harbor viewed through a weathered wooden frame",
   "link": "https://unsplash.com/@mehrpouya"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
