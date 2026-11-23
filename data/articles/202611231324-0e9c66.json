@@ -30,17 +30,31 @@
  ],
  "importance": 6,
  "published": "2026-11-23T12:24:25.084760+00:00",
- "updated": "2026-11-23T12:24:25.084760+00:00",
+ "updated": "2026-11-23T21:50:49.650794+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/odbornica-kreni-promeni-sapic-je-danas-kamen-oko-vrata-i-onima-koji-su-ga-izabrali/",
    "title": "Odbornica Kreni-promeni: Šapić je danas kamen oko vrata i onima koji su ga izabrali",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300356/skupstina-grada-uzica-nije-izabrala-novog-gradonacelnika/vest",
+   "title": "Skupština grada Užica nije izabrala novog gradonačelnika",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4438475-skupstina-grada-uzica-nije-izabrala-novog-gradonacelnika",
+   "title": "Skupština grada Užica nije izabrala novog gradonačelnika",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Odbornica Kreni-promeni: Šapić je danas kamen oko vrata i onima koji su ga izabrali"
+  "Odbornica Kreni-promeni: Šapić je danas kamen oko vrata i onima koji su ga izabrali",
+  "Skupština grada Užica nije izabrala novog gradonačelnika",
+  "Skupština grada Užica nije izabrala novog gradonačelnika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +66,7 @@
   "local": false,
   "alt": "a view of a city with lots of tall buildings",
   "link": "https://unsplash.com/@milica90"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

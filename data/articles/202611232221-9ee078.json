@@ -29,17 +29,31 @@
  ],
  "importance": 4,
  "published": "2026-11-23T21:21:03.962621+00:00",
- "updated": "2026-11-23T21:21:03.962621+00:00",
+ "updated": "2026-11-23T21:50:49.650794+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/arno-gujon-razresen-duznosti/",
    "title": "Arno Gujon razrešen sa mesta v.d. direktora Kancelarije za javnu i kulturnu diplomatiju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/anro-gujon-nije-vise-vd-direktora-kancelarije-za-javnu-i-kulturnu-diplomatiju-prelazi-na-novu-duznost/",
+   "title": "Anro Gujon nije više v.d. direktora Kancelarije za javnu i kulturnu diplomatiju, prelazi na novu dužnost",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/vlada-razresila-arnoa-gujona-sa-mesta-vd-direktora-kancelarije-za-javnu-i-kulturnu-diplomatiju/",
+   "title": "Vlada razrešila Arnoa Gujona sa mesta v.d. direktora Kancelarije za javnu i kulturnu diplomatiju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Arno Gujon razrešen sa mesta v.d. direktora Kancelarije za javnu i kulturnu diplomatiju"
+  "Arno Gujon razrešen sa mesta v.d. direktora Kancelarije za javnu i kulturnu diplomatiju",
+  "Anro Gujon nije više v.d. direktora Kancelarije za javnu i kulturnu diplomatiju, prelazi na novu dužnost",
+  "Vlada razrešila Arnoa Gujona sa mesta v.d. direktora Kancelarije za javnu i kulturnu diplomatiju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +66,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:%C4%90uro_Macut_in_2025_(cropped).jpg",
   "osoba": "Đuro Macut",
   "alt": "Arno Gujon razrešen funkcije v.d. direktora Kancelarije za javnu i kulturnu diplomatiju"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

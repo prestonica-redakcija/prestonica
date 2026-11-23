@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T09:25:37.045666+00:00",
- "updated": "2026-11-23T21:06:03.760050+00:00",
+ "updated": "2026-11-23T21:50:49.650794+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -55,12 +55,19 @@
    "url": "https://www.tanjug.rs/ekonomija/svet/300343/cena-nafte-pala-na-najnizi-nivo-u-poslednja-tri-meseca-brent-oko-895-dolara/vest",
    "title": "Cena nafte pala na najniži nivo u poslednja tri meseca, Brent oko 89,5 dolara",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/cena-nafte-pala-na-najnizi-nivo-u-poslednja-tri-meseca-brent-oko-895-dolara",
+   "title": "Cena nafte pala na najniži nivo u poslednja tri meseca, Brent oko 89,5 dolara",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Evropske berze beleže blag oporavak nakon AI rasprodaje, nafta Brent pala na 92 dolara",
   "Cena nafte u padu: Brent dostigao 92 dolara po barelu",
   "PREOKRET NA EVROPSKIM BERZAMA NAKON VELIKE RASPRODAJE: Oporavljaju se AI akcije, nafta Brent pala na 92 dolara, dok zlato beleži novi skok",
+  "Cena nafte pala na najniži nivo u poslednja tri meseca, Brent oko 89,5 dolara",
   "Cena nafte pala na najniži nivo u poslednja tri meseca, Brent oko 89,5 dolara"
  ],
  "author": "Redakcija Prestonice",
@@ -74,6 +81,6 @@
   "alt": "graphical user interface, application",
   "link": "https://unsplash.com/@polarmermaid"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
