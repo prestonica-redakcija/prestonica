@@ -32,17 +32,24 @@
  ],
  "importance": 6,
  "published": "2026-11-23T09:40:32.910688+00:00",
- "updated": "2026-11-23T09:40:32.910688+00:00",
+ "updated": "2026-11-23T16:07:56.396557+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/srbija/politika/253250/kosovo-spor-oko-zakona-o-inspektoratu-za-kulturno-naslede/vest",
    "title": "Nacrt Zakona o inspektoratu za srpsku baštinu izazvao buru: SPC i Srpska lista upozoravaju na zaštitu svetinja",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253297/skupstina-tzkosova-ponovo-razmatra-zakon-o-kulturnom-nasledu/vest",
+   "title": "Zakon o kulturnom nasleđu ponovo pred poslanicima u Prištini: Upozorenja na moguće posledice po SPC",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Nacrt Zakona o inspektoratu za srpsku baštinu izazvao buru: SPC i Srpska lista upozoravaju na zaštitu svetinja"
+  "Nacrt Zakona o inspektoratu za srpsku baštinu izazvao buru: SPC i Srpska lista upozoravaju na zaštitu svetinja",
+  "Zakon o kulturnom nasleđu ponovo pred poslanicima u Prištini: Upozorenja na moguće posledice po SPC"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "alt": "A large building with a clock tower on top of it",
   "link": "https://unsplash.com/@tbister98"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

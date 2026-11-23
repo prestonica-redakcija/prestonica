@@ -33,17 +33,24 @@
  ],
  "importance": 6,
  "published": "2026-11-23T09:40:32.910688+00:00",
- "updated": "2026-11-23T09:40:32.910688+00:00",
+ "updated": "2026-11-23T16:07:56.396557+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10169594/jasni-signali-nove-vlasti-o-kosovu-i-srpskoj",
    "title": "NASTAVAK BORBE ZA DVA PITANJA OD NACIONALNOG ZNAČAJA! Nema odustajanja od Kosova i Metohije i Republike Srpske!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=FNkA7TjxPPg",
+   "title": "Borba za Srbiju se nastavlja.",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
-  "NASTAVAK BORBE ZA DVA PITANJA OD NACIONALNOG ZNAČAJA! Nema odustajanja od Kosova i Metohije i Republike Srpske!"
+  "NASTAVAK BORBE ZA DVA PITANJA OD NACIONALNOG ZNAČAJA! Nema odustajanja od Kosova i Metohije i Republike Srpske!",
+  "Borba za Srbiju se nastavlja."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Nenad_Stevandi%C4%87_(2025-02-08).jpg",
   "osoba": "Nenad Stevandić",
   "alt": "Program Studentske liste: očuvanje KiM u sastavu Srbije i ustavnog položaja RS"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

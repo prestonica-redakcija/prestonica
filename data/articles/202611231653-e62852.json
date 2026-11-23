@@ -27,7 +27,7 @@
  "places": [],
  "importance": 4,
  "published": "2026-11-23T15:53:13.325699+00:00",
- "updated": "2026-11-23T15:53:13.325699+00:00",
+ "updated": "2026-11-23T16:07:56.396557+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -40,11 +40,18 @@
    "url": "https://www.kurir.rs/planeta/10170551/prevare-uoci-crnog-petka-blokirano-19-miliona-fising-napada-u-2026",
    "title": "OPREZ AKO KUPUJETE PREKO INTERNETA ZA CRNI PETAK! Otkriveno više od 19 miliona fišing napada: Evo na koje lažne ponude i sajtove morate da pazite!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/300261/crni-petak-19-miliona-fising-napada-usmerenih-na-kupce-u-internet-prodavnicama/vest",
+   "title": "Crni petak: 19 miliona fišing napada usmerenih na kupce u internet prodavnicama",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Crni petak prilika i za internet prevarante: Broj fišing napada porastao za skoro 200 odsto",
-  "OPREZ AKO KUPUJETE PREKO INTERNETA ZA CRNI PETAK! Otkriveno više od 19 miliona fišing napada: Evo na koje lažne ponude i sajtove morate da pazite!"
+  "OPREZ AKO KUPUJETE PREKO INTERNETA ZA CRNI PETAK! Otkriveno više od 19 miliona fišing napada: Evo na koje lažne ponude i sajtove morate da pazite!",
+  "Crni petak: 19 miliona fišing napada usmerenih na kupce u internet prodavnicama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "alt": "person using laptop computer holding card",
   "link": "https://unsplash.com/@rupixen"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
