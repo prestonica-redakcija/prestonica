@@ -26,16 +26,30 @@
  ],
  "importance": 5,
  "published": "2026-11-23T07:56:19.352941+00:00",
- "updated": "2026-11-23T07:56:19.352941+00:00",
+ "updated": "2026-11-23T08:11:15.177849+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/cupic-danas-konsultacije-o-formiranju-skupstinskih-odbora/",
    "title": "Čupić: Biće konsultacija o formiranju skupštinskih odbora",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/cupic-skupstina-konsultacije-odbori/",
+   "title": "Čupić: Biće konsultacija o formiranju skupštinskih odbora",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/cupic-bice-konsultacija-o-formiranju-skupstinskih-odbora/",
+   "title": "Čupić: Biće konsultacija o formiranju skupštinskih odbora",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Čupić: Biće konsultacija o formiranju skupštinskih odbora",
+  "Čupić: Biće konsultacija o formiranju skupštinskih odbora",
   "Čupić: Biće konsultacija o formiranju skupštinskih odbora"
  ],
  "author": "Redakcija Prestonice",
@@ -48,5 +62,7 @@
   "local": false,
   "alt": "Woman stands in an empty parliament assembly hall",
   "link": "https://unsplash.com/@anniehatuanh"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

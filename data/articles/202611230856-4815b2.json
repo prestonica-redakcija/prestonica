@@ -28,16 +28,30 @@
  ],
  "importance": 5,
  "published": "2026-11-23T07:56:19.352941+00:00",
- "updated": "2026-11-23T07:56:19.352941+00:00",
+ "updated": "2026-11-23T08:11:15.177849+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/sudija-rabrenovic-potrebno-vratiti-javne-rasprave-u-rad-ustavnog-suda/",
    "title": "Sudija Rabrenović: Potrebno vratiti javne rasprave u rad Ustavnog suda",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/sudija-ustavnog-suda-mihajlo-rabrenovic-potrebno-ponovo-uvesti-javne-rasprave-u-praksu-suda-o-svacijem-radu-suditi-na-osnovu-cinjenica",
+   "title": "Sudija Ustavnog suda Mihajlo Rabrenović: Potrebno ponovo uvesti javne rasprave u praksu suda, o svačijem radu suditi na osnovu činjenica",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/ustavni-sud-sudija-rabrenovic/",
+   "title": "Sudija Rabrenović: Potrebno vratiti javne rasprave u rad Ustavnog suda",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Sudija Rabrenović: Potrebno vratiti javne rasprave u rad Ustavnog suda",
+  "Sudija Ustavnog suda Mihajlo Rabrenović: Potrebno ponovo uvesti javne rasprave u praksu suda, o svačijem radu suditi na osnovu činjenica",
   "Sudija Rabrenović: Potrebno vratiti javne rasprave u rad Ustavnog suda"
  ],
  "author": "Redakcija Prestonice",
@@ -50,5 +64,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Ustavni_sud_Republike_Srpske.jpg",
   "alt": "Rabrenović: Javne rasprave treba vratiti u rad Ustavnog suda"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

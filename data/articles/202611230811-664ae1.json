@@ -30,17 +30,24 @@
  ],
  "importance": 4,
  "published": "2026-11-23T07:11:46.061338+00:00",
- "updated": "2026-11-23T07:11:46.061338+00:00",
+ "updated": "2026-11-23T08:11:15.177849+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/nemacka-povecala-izvoz-struje-za-25-odsto-u-odnosu-na-proslu-godinu/",
    "title": "Nemačka povećala izvoz struje za 25 odsto u odnosu na prošlu godinu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/287102/nemacka-izvozi-vise-struje-ali-je-i-dalje-neto-uvoznik-i-to-po-skupljoj-ceni/vest",
+   "title": "Nemačka izvozi više struje, ali je i dalje neto uvoznik – i to po skupljoj ceni",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Nemačka povećala izvoz struje za 25 odsto u odnosu na prošlu godinu"
+  "Nemačka povećala izvoz struje za 25 odsto u odnosu na prošlu godinu",
+  "Nemačka izvozi više struje, ali je i dalje neto uvoznik – i to po skupljoj ceni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "windmill surrounded by grass during daytime",
   "link": "https://unsplash.com/@karsten_wuerth"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
