@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T19:07:05.045604+00:00",
- "updated": "2026-11-23T19:07:05.045604+00:00",
+ "updated": "2026-11-23T22:50:19.865955+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -45,11 +45,18 @@
    "url": "https://nova.rs/vesti/svet/tadzikistan-cetvrta-drzava-koja-se-na-inicijativu-sad-povlaci-iz-mks-a-eu-zabrinuta/",
    "title": "Tadžikistan četvrta država koja se na inicijativu SAD povlači iz MKS-a, EU zabrinuta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/300364/tadzikistan-obavestio-un-o-istupanju-iz-medunarodnog-krivicnog-suda/vest",
+   "title": "Tadžikistan obavestio UN o istupanju iz Međunarodnog krivičnog suda",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Tadžikistan četvrta država koja se na inicijativu SAD povlači iz MKS-a, EU zabrinuta",
-  "Tadžikistan četvrta država koja se na inicijativu SAD povlači iz MKS-a, EU zabrinuta"
+  "Tadžikistan četvrta država koja se na inicijativu SAD povlači iz MKS-a, EU zabrinuta",
+  "Tadžikistan obavestio UN o istupanju iz Međunarodnog krivičnog suda"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Tadžikistan pokrenuo povlačenje iz Međunarodnog krivičnog suda, EU izrazila žaljenje"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

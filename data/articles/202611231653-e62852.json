@@ -27,7 +27,7 @@
  "places": [],
  "importance": 4,
  "published": "2026-11-23T15:53:13.325699+00:00",
- "updated": "2026-11-23T16:07:56.396557+00:00",
+ "updated": "2026-11-23T22:50:19.865955+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -46,12 +46,19 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/300261/crni-petak-19-miliona-fising-napada-usmerenih-na-kupce-u-internet-prodavnicama/vest",
    "title": "Crni petak: 19 miliona fišing napada usmerenih na kupce u internet prodavnicama",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/izvestaj-kompanije-kaspersky-vise-od-19-miliona-blokiranih-fising-napada-od-januara-do-oktobra-najcesca-meta-onlajn-kupci",
+   "title": "Izveštaj kompanije Kaspersky: Više od 19 miliona blokiranih fišing napada od januara do oktobra, najčešća meta onlajn kupci",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Crni petak prilika i za internet prevarante: Broj fišing napada porastao za skoro 200 odsto",
   "OPREZ AKO KUPUJETE PREKO INTERNETA ZA CRNI PETAK! Otkriveno više od 19 miliona fišing napada: Evo na koje lažne ponude i sajtove morate da pazite!",
-  "Crni petak: 19 miliona fišing napada usmerenih na kupce u internet prodavnicama"
+  "Crni petak: 19 miliona fišing napada usmerenih na kupce u internet prodavnicama",
+  "Izveštaj kompanije Kaspersky: Više od 19 miliona blokiranih fišing napada od januara do oktobra, najčešća meta onlajn kupci"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "alt": "person using laptop computer holding card",
   "link": "https://unsplash.com/@rupixen"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

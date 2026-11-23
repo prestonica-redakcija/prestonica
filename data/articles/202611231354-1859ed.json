@@ -38,7 +38,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T12:54:15.099579+00:00",
- "updated": "2026-11-23T12:54:15.099579+00:00",
+ "updated": "2026-11-23T22:50:19.865955+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -57,12 +57,19 @@
    "url": "https://www.telegraf.rs/vesti/svet/4438134-ceka-vas-smrt-jezivi-mejlovi-uznemirili-stotine-skola-u-dve-evropske-zemlje",
    "title": "\"Čeka vas smrt\": Jezivi mejlovi uznemirili stotine škola u dve evropske zemlje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10170312/dojave-o-bombama-u-450-skola-sirom-nemacke",
+   "title": "\"ČEKA VAS SMRT\" Jezivi mejlovi uznemirili stotine škola širom države EU, istraga u toku",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Oko 450 škola u Nemačkoj dobilo pretnje bombama",
   "U preko 450 škola u Nemačkoj stigla jeziva pretnja: \"Čeka vas smrt\"",
-  "\"Čeka vas smrt\": Jezivi mejlovi uznemirili stotine škola u dve evropske zemlje"
+  "\"Čeka vas smrt\": Jezivi mejlovi uznemirili stotine škola u dve evropske zemlje",
+  "\"ČEKA VAS SMRT\" Jezivi mejlovi uznemirili stotine škola širom države EU, istraga u toku"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,5 +81,7 @@
   "local": false,
   "alt": "flags on poles near building during daytime",
   "link": "https://unsplash.com/@subfader"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
