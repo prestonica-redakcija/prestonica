@@ -28,17 +28,24 @@
  ],
  "importance": 4,
  "published": "2026-11-23T15:23:19.150328+00:00",
- "updated": "2026-11-23T15:23:19.150328+00:00",
+ "updated": "2026-11-23T15:38:13.610731+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/sinos-predsednik-skupstine-da-organizuje-javnu-raspravu-o-stanju-medija-status-novinara-urusen",
    "title": "SINOS: Predsednik Skupštine da organizuje javnu raspravu o stanju medija, status novinara urušen",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/sinos-javna-rasprava-stanje-u-medijima/",
+   "title": "SINOS: Predsednik Skupštine da organizuje javnu raspravu o stanju medija",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "SINOS: Predsednik Skupštine da organizuje javnu raspravu o stanju medija, status novinara urušen"
+  "SINOS: Predsednik Skupštine da organizuje javnu raspravu o stanju medija, status novinara urušen",
+  "SINOS: Predsednik Skupštine da organizuje javnu raspravu o stanju medija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "alt": "a woman standing next to a woman holding a microphone",
   "link": "https://unsplash.com/@dslr_newb"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

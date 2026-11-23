@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T15:23:19.150328+00:00",
- "updated": "2026-11-23T15:23:19.150328+00:00",
+ "updated": "2026-11-23T15:38:13.610731+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://insajder.net/prenosimo/rute-trenutno-nema-saglasja-o-ulasku-ukrajine-u-nato",
    "title": "Rute: Trenutno nema saglasja o ulasku Ukrajine u NATO",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10170559/rute-clanice-nato-nisu-jednoglasne-po-pitanju-ulaska-ukrajine-u-nato",
+   "title": "NIŠTA OD ALIJANSE? Oglasio se Rute: \"Članice NATO trenutno nisu jednoglasne po pitanju ulaska Ukrajine u NATO\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Mark Rute: Trenutno nema saglasja o ulasku Ukrajine u NATO",
-  "Rute: Trenutno nema saglasja o ulasku Ukrajine u NATO"
+  "Rute: Trenutno nema saglasja o ulasku Ukrajine u NATO",
+  "NIŠTA OD ALIJANSE? Oglasio se Rute: \"Članice NATO trenutno nisu jednoglasne po pitanju ulaska Ukrajine u NATO\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Rute: Trenutno nema saglasnosti članica NATO-a o prijemu Ukrajine"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
