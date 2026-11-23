@@ -24,17 +24,24 @@
  ],
  "importance": 3,
  "published": "2026-11-23T15:38:13.610731+00:00",
- "updated": "2026-11-23T15:38:13.610731+00:00",
+ "updated": "2026-11-23T23:20:04.594729+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/drustvo/300268/grad-cacak-pozvao-gradane-da-do-7-decembra-daju-predloge-za-investicije-u-2027-god/vest",
    "title": "Grad Čačak pozvao građane da do 7. decembra daju predloge za investicije u 2027. god.",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/srbija/10170597/cacak-nacrt-plana-investicija-2027-javna-rasprava",
+   "title": "ČAČAK POZVAO GRAĐANE DA UČESTVUJU U JAVNOJ RASPRAVI: Objavljen Nacrt plana investicija za 2027. godinu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Grad Čačak pozvao građane da do 7. decembra daju predloge za investicije u 2027. god."
+  "Grad Čačak pozvao građane da do 7. decembra daju predloge za investicije u 2027. god.",
+  "ČAČAK POZVAO GRAĐANE DA UČESTVUJU U JAVNOJ RASPRAVI: Objavljen Nacrt plana investicija za 2027. godinu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "local": false,
   "alt": "white and green concrete building under white clouds during daytime",
   "link": "https://unsplash.com/@kmitchhodge"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

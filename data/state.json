@@ -5868,18 +5868,18 @@
   "https://radar.nova.rs/drustvo/kljucni-problem-sa-bia-nije-u-bia/": "2026-11-23T23:05:09.416142+00:00",
   "https://www.danas.rs/vesti/drustvo/spc-patrijarh-porfirije-i-nikita-mihalkov-u-moskvi-o-kulturnim-vezama-srpskog-i-ruskog-naroda/": "2026-11-23T23:05:09.416142+00:00",
   "https://www.tanjug.rs/svet/politika/300353/sad-uvele-nove-sankcije-iranu-na-meti-desetine-pojedinaca-i-kompanija/vest": "2026-11-23T23:05:09.416142+00:00",
-  "https://insajder.net/prenosimo/sad-uvele-nove-sankcije-iranu-na-meti-desetine-pojedinaca-i-kompanija": "2026-11-23T23:05:09.416142+00:00"
+  "https://insajder.net/prenosimo/sad-uvele-nove-sankcije-iranu-na-meti-desetine-pojedinaca-i-kompanija": "2026-11-23T23:05:09.416142+00:00",
+  "https://www.kurir.rs/vesti/srbija/10170597/cacak-nacrt-plana-investicija-2027-javna-rasprava": "2026-11-23T23:20:04.594729+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4438348-11-uzoraka-vode-uzeto-sa-cesama-u-kragujevcu-svih-11-neispravno": "2026-11-23T23:20:04.594729+00:00",
+  "https://radar.nova.rs/politika/demokratija-je-kad-im-vidis-leda/": "2026-11-23T23:20:04.594729+00:00",
+  "https://radar.nova.rs/misljenja/oskarovci/": "2026-11-23T23:20:04.594729+00:00",
+  "https://www.kurir.rs/stars/10170608/milan-popov-deli-budzet-filipu-djukicu": "2026-11-23T23:20:04.594729+00:00",
+  "https://radar.nova.rs/misljenja/kako-je-zakerberg-srusio-vucica/": "2026-11-23T23:20:04.594729+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-23T08:35+00:00",
-   "novih": 7,
-   "ukupno": 3859,
-   "sekundi": 577.8
-  },
   {
    "vreme": "2026-11-23T08:51+00:00",
    "novih": 8,
@@ -6233,6 +6233,12 @@
    "novih": 1,
    "ukupno": 4196,
    "sekundi": 674.1
+  },
+  {
+   "vreme": "2026-11-23T23:30+00:00",
+   "novih": 0,
+   "ukupno": 4196,
+   "sekundi": 633.9
   }
  ],
  "licnosti_foto": {
@@ -9062,15 +9068,15 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2124915956379976089",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "parandilovicnls": {
     "since_id": "2124971304579411982",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "ininic": {
     "since_id": "2124623877116723549",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -9078,15 +9084,15 @@
    },
    "sviublokade_fdu": {
     "since_id": "2124504391600210079",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "dragandjilas": {
     "since_id": "2121691848313884992",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "marinikatepic": {
     "since_id": "2122007271508959331",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "radomirlazovic": {
     "since_id": null,
@@ -9110,27 +9116,27 @@
    },
    "avucic": {
     "since_id": "2124882664565952926",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "anabrnabic": {
     "since_id": "2124975388044763382",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "milos_vucevic": {
     "since_id": "2124803967268057206",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "sns_srbija": {
     "since_id": "2124954541858881999",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "studentblokade": {
     "since_id": "2124876177525391719",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -9166,31 +9172,31 @@
    },
    "markodjuric": {
     "since_id": "2123870662255419709",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "nstarovic": {
     "since_id": "2122967633863565451",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "milenkojovanov": {
     "since_id": "2124130847993336246",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "acasapic": {
     "since_id": null,
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "borkostef": {
     "since_id": "2123837042505155014",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "dobrinacelnik": {
     "since_id": "2124860523967648079",
@@ -9202,7 +9208,7 @@
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "srdjanmil037": {
     "since_id": "2124854434559610956",
@@ -9254,7 +9260,7 @@
    },
    "borakonj": {
     "since_id": "2124868959308488959",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "narodnipokrets": {
     "since_id": "2124821953370267690",
@@ -9262,51 +9268,51 @@
    },
    "direktnors": {
     "since_id": "2124970643242582142",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "crtars": {
     "since_id": "2124910039161044995",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "veceivan": {
     "since_id": "2124889813165973767",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "repjoewilson": {
     "since_id": "2123869192789094550",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "jugoslavcosic": {
     "since_id": "2123147946694787141",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "tvnova_s": {
     "since_id": "2124973057731162430",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "oljautisak": {
     "since_id": "2124115162684629476",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "srdjan_nogo": {
     "since_id": "2123527863307735237",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "agrifblokira": {
     "since_id": "2124971529389920662",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "etfblokada": {
     "since_id": "2124925642714259902",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "nastraninaroda": {
     "since_id": "2124240486932386139",
@@ -9314,15 +9320,15 @@
    },
    "bcenzure": {
     "since_id": "2124978841613422778",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "bezstraha26279": {
     "since_id": "2124944401298543087",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "lazidetektor": {
     "since_id": "2124961074805940380",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "nedeljniknin": {
     "since_id": "2125001447226196305",
@@ -9338,11 +9344,11 @@
    },
    "tvbalkaninfo": {
     "since_id": "2124878813276344672",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "1152justice": {
     "since_id": "2123584561330217393",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    },
    "zatrijebacki": {
     "since_id": "2123844027036709035",
@@ -9374,7 +9380,7 @@
    },
    "masinars": {
     "since_id": "2124978562792837190",
-    "t": 1795471698.07655
+    "t": 1795476057.795203
    }
   },
   "posts": [
@@ -21511,299 +21517,6 @@
   }
  },
  "foto_cache": {
-  "t:radar": {
-   "t": 1794870542.6971111,
-   "items": [
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Ravenna%2C_radar_dell%27aeroporto_%2804%29.jpg/1920px-Ravenna%2C_radar_dell%27aeroporto_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4296,
-     "h": 2861,
-     "god": 2018,
-     "credit": "Wikimedia Commons / Gianni Careddu / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Ravenna,_radar_dell%27aeroporto_(04).jpg",
-     "naslov": "Ravenna, radar dell'aeroporto (04).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Radar_%C3%A0_la_Cit%C3%A9_de_l%27Espace.jpg/1920px-Radar_%C3%A0_la_Cit%C3%A9_de_l%27Espace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3668,
-     "h": 3544,
-     "god": 2018,
-     "credit": "Wikimedia Commons / Celeda / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Radar_%C3%A0_la_Cit%C3%A9_de_l%27Espace.jpg",
-     "naslov": "Radar à la Cité de l'Espace.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Radar_at_Chubu_Airport.jpg/1920px-Radar_at_Chubu_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3072,
-     "h": 4080,
-     "god": 2025,
-     "credit": "Wikimedia Commons / Syced / CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:Radar_at_Chubu_Airport.jpg",
-     "naslov": "Radar at Chubu Airport.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/ELM-2084_MMR_radar_of_the_Cyprus_National_Guard.jpg/1920px-ELM-2084_MMR_radar_of_the_Cyprus_National_Guard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3879,
-     "h": 2909,
-     "god": 2026,
-     "credit": "Wikimedia Commons / Stelios P.cy / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:ELM-2084_MMR_radar_of_the_Cyprus_National_Guard.jpg",
-     "naslov": "ELM-2084 MMR radar of the Cyprus National Guard.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Radar_sculpture%2C_at_the_entrance_into_Vall%C3%A9e_du_Gott%C3%A9ron.jpg/1920px-Radar_sculpture%2C_at_the_entrance_into_Vall%C3%A9e_du_Gott%C3%A9ron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3752,
-     "h": 2948,
-     "god": 2026,
-     "credit": "Wikimedia Commons / Vmicho / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Radar_sculpture,_at_the_entrance_into_Vall%C3%A9e_du_Gott%C3%A9ron.jpg",
-     "naslov": "Radar sculpture, at the entrance into Vallée du Gottéron.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/2021_Wetterradarturm_bei_Langen.jpg/1920px-2021_Wetterradarturm_bei_Langen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2195,
-     "h": 3294,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Stefan Oemisch / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:2021_Wetterradarturm_bei_Langen.jpg",
-     "naslov": "2021 Wetterradarturm bei Langen.jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Pelacakan_pesawat_melalui_FlightRadar24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1260,
-     "h": 2312,
-     "god": 2026,
-     "credit": "Wikimedia Commons / Kenhad75 / CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:Pelacakan_pesawat_melalui_FlightRadar24.jpg",
-     "naslov": "Pelacakan pesawat melalui FlightRadar24.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Swiss_Air_Force_Radar_Monitor_Systems%2C_Dubendorf_Swiss_Airforce_Museum_%28Ank_Kumar%29_04.jpg/1920px-Swiss_Air_Force_Radar_Monitor_Systems%2C_Dubendorf_Swiss_Airforce_Museum_%28Ank_Kumar%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4000,
-     "h": 6000,
-     "god": 2015,
-     "credit": "Wikimedia Commons / Ank Kumar / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Swiss_Air_Force_Radar_Monitor_Systems,_Dubendorf_Swiss_Airforce_Museum_(Ank_Kumar)_04.jpg",
-     "naslov": "Swiss Air Force Radar Monitor Systems, Dubendorf Swiss Airforce Museum (Ank Kumar) 04.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Abandoned_air_defense_radar_antenna.jpg/1920px-Abandoned_air_defense_radar_antenna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4928,
-     "h": 3280,
-     "god": 2026,
-     "credit": "Wikimedia Commons / Vsatinet / CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:Abandoned_air_defense_radar_antenna.jpg",
-     "naslov": "Abandoned air defense radar antenna.jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/RADAR_RPA-170.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1900,
-     "h": 1425,
-     "god": 2025,
-     "credit": "Wikimedia Commons / Invap / CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:RADAR_RPA-170.jpg",
-     "naslov": "RADAR RPA-170.jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Radar_do_vendaval_24-08-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1378,
-     "h": 677,
-     "god": 2024,
-     "credit": "Wikimedia Commons / A.O Mapping / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Radar_do_vendaval_24-08-2024.jpg",
-     "naslov": "Radar do vendaval 24-08-2024.jpg"
-    }
-   ]
-  },
-  "t:rojters": {
-   "t": 1794870552.6783757,
-   "items": []
-  },
-  "t:barajevo": {
-   "t": 1794870610.3818274,
-   "items": [
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/St._Sava_Church%2C_Barajevo.JPG/1920px-St._Sava_Church%2C_Barajevo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4608,
-     "h": 3456,
-     "god": 2015,
-     "credit": "Wikimedia Commons / Јелена Продановић / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:St._Sava_Church,_Barajevo.JPG",
-     "naslov": "St. Sava Church, Barajevo.JPG"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Wiki_%C5%A0umadija_IX_Barajevo_006.jpg/1920px-Wiki_%C5%A0umadija_IX_Barajevo_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4272,
-     "h": 2848,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Wiki_%C5%A0umadija_IX_Barajevo_006.jpg",
-     "naslov": "Wiki Šumadija IX Barajevo 006.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Barajevo%2C_Serbia.jpg/1920px-Barajevo%2C_Serbia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4320,
-     "h": 2988,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Gmihail at Serbian Wikipedia / CC BY-SA 3.0 rs",
-     "link": "https://commons.wikimedia.org/wiki/File:Barajevo,_Serbia.jpg",
-     "naslov": "Barajevo, Serbia.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Wiki_%C5%A0umadija_IX_Barajevo_007.jpg/1920px-Wiki_%C5%A0umadija_IX_Barajevo_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2848,
-     "h": 4272,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Wiki_%C5%A0umadija_IX_Barajevo_007.jpg",
-     "naslov": "Wiki Šumadija IX Barajevo 007.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Wiki_%C5%A0umadija_IX_Barajevo_414.jpg/1920px-Wiki_%C5%A0umadija_IX_Barajevo_414.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4272,
-     "h": 2848,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Wiki_%C5%A0umadija_IX_Barajevo_414.jpg",
-     "naslov": "Wiki Šumadija IX Barajevo 414.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Wiki_%C5%A0umadija_IX_Barajevo_405.jpg/1920px-Wiki_%C5%A0umadija_IX_Barajevo_405.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4272,
-     "h": 2848,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Wiki_%C5%A0umadija_IX_Barajevo_405.jpg",
-     "naslov": "Wiki Šumadija IX Barajevo 405.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Wiki_%C5%A0umadija_IX_Barajevo_407.jpg/1920px-Wiki_%C5%A0umadija_IX_Barajevo_407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2848,
-     "h": 4272,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Wiki_%C5%A0umadija_IX_Barajevo_407.jpg",
-     "naslov": "Wiki Šumadija IX Barajevo 407.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/%D0%91%D0%B0%D1%80%D0%B0%D1%98%D0%B5%D0%B2%D0%BE_%D0%B7%D0%B0%D0%BB%D0%B0%D0%B7%D0%B0%D0%BA_%D1%81%D1%83%D0%BD%D1%86%D0%B0.jpg/1920px-%D0%91%D0%B0%D1%80%D0%B0%D1%98%D0%B5%D0%B2%D0%BE_%D0%B7%D0%B0%D0%BB%D0%B0%D0%B7%D0%B0%D0%BA_%D1%81%D1%83%D0%BD%D1%86%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3648,
-     "h": 2736,
-     "god": 2011,
-     "credit": "Wikimedia Commons / Krisstev / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%B0%D1%80%D0%B0%D1%98%D0%B5%D0%B2%D0%BE_%D0%B7%D0%B0%D0%BB%D0%B0%D0%B7%D0%B0%D0%BA_%D1%81%D1%83%D0%BD%D1%86%D0%B0.jpg",
-     "naslov": "Барајево залазак сунца.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Wiki_%C5%A0umadija_IX_Barajevo_413.jpg/1920px-Wiki_%C5%A0umadija_IX_Barajevo_413.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4272,
-     "h": 2848,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Wiki_%C5%A0umadija_IX_Barajevo_413.jpg",
-     "naslov": "Wiki Šumadija IX Barajevo 413.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Wiki_%C5%A0umadija_IX_Barajevo_399.jpg/1920px-Wiki_%C5%A0umadija_IX_Barajevo_399.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4272,
-     "h": 2848,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Wiki_%C5%A0umadija_IX_Barajevo_399.jpg",
-     "naslov": "Wiki Šumadija IX Barajevo 399.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Barajevo_003.JPG/1920px-Barajevo_003.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4608,
-     "h": 3456,
-     "god": 2015,
-     "credit": "Wikimedia Commons / Јелена Продановић / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Barajevo_003.JPG",
-     "naslov": "Barajevo 003.JPG"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Wiki_%C5%A0umadija_IX_Barajevo_397.jpg/1920px-Wiki_%C5%A0umadija_IX_Barajevo_397.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4272,
-     "h": 2848,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Wiki_%C5%A0umadija_IX_Barajevo_397.jpg",
-     "naslov": "Wiki Šumadija IX Barajevo 397.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Wiki_%C5%A0umadija_IX_Barajevo_409.jpg/1920px-Wiki_%C5%A0umadija_IX_Barajevo_409.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4272,
-     "h": 2848,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Wiki_%C5%A0umadija_IX_Barajevo_409.jpg",
-     "naslov": "Wiki Šumadija IX Barajevo 409.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Wiki_%C5%A0umadija_IX_Barajevo_009.jpg/1920px-Wiki_%C5%A0umadija_IX_Barajevo_009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4272,
-     "h": 2848,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Wiki_%C5%A0umadija_IX_Barajevo_009.jpg",
-     "naslov": "Wiki Šumadija IX Barajevo 009.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Wiki_%C5%A0umadija_IX_Barajevo_395.jpg/1920px-Wiki_%C5%A0umadija_IX_Barajevo_395.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4272,
-     "h": 2848,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Wiki_%C5%A0umadija_IX_Barajevo_395.jpg",
-     "naslov": "Wiki Šumadija IX Barajevo 395.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Wiki_%C5%A0umadija_IX_Barajevo_401.jpg/1920px-Wiki_%C5%A0umadija_IX_Barajevo_401.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4272,
-     "h": 2848,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Wiki_%C5%A0umadija_IX_Barajevo_401.jpg",
-     "naslov": "Wiki Šumadija IX Barajevo 401.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Barajevo_002.JPG/1920px-Barajevo_002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4608,
-     "h": 3456,
-     "god": 2015,
-     "credit": "Wikimedia Commons / Јелена Продановић / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Barajevo_002.JPG",
-     "naslov": "Barajevo 002.JPG"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Wiki_%C5%A0umadija_IX_Barajevo_412.jpg/1920px-Wiki_%C5%A0umadija_IX_Barajevo_412.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2848,
-     "h": 4272,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Wiki_%C5%A0umadija_IX_Barajevo_412.jpg",
-     "naslov": "Wiki Šumadija IX Barajevo 412.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Wiki_%C5%A0umadija_IX_Barajevo_410.jpg/1920px-Wiki_%C5%A0umadija_IX_Barajevo_410.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4272,
-     "h": 2848,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Wiki_%C5%A0umadija_IX_Barajevo_410.jpg",
-     "naslov": "Wiki Šumadija IX Barajevo 410.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Wiki_%C5%A0umadija_IX_Barajevo_008.jpg/1920px-Wiki_%C5%A0umadija_IX_Barajevo_008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2848,
-     "h": 4272,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Ванилица / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Wiki_%C5%A0umadija_IX_Barajevo_008.jpg",
-     "naslov": "Wiki Šumadija IX Barajevo 008.jpg"
-    }
-   ]
-  },
   "t:juznoafricka republika": {
    "t": 1794871430.5946505,
    "items": []
@@ -49451,7 +49164,8 @@
    "202611231752-35e6d5",
    "202611231837-e5f14c",
    "202611231852-c95037",
-   "202611231737-884af3"
+   "202611231737-884af3",
+   "202611232305-26a76a"
   ],
   "istorija": [
    {
@@ -50365,6 +50079,12 @@
     "id": "anketa:a202611231939",
     "x": "2124951051224617397",
     "link": true
+   },
+   {
+    "t": 1795476068.0197766,
+    "id": "202611232305-26a76a",
+    "x": "2125006763141288096",
+    "link": false
    }
   ],
   "ankete": {
@@ -54403,7 +54123,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "upcoming",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-23T23:06:28.096921+00:00",
+  "provereno": "2026-11-23T23:21:20.811542+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": false
  },

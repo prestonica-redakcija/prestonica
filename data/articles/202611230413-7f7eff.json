@@ -34,17 +34,24 @@
  ],
  "importance": 5,
  "published": "2026-11-23T03:13:52.255632+00:00",
- "updated": "2026-11-23T03:13:52.255632+00:00",
+ "updated": "2026-11-23T23:20:04.594729+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/srbija/10169275/neispravna-voda-na-javnim-cesmama-u-kragujevcu",
    "title": "KRAGUJEVAC: Izvorska voda ni sa jedne od ukupno 11 javnih česama nije ispravna za upotrebu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4438348-11-uzoraka-vode-uzeto-sa-cesama-u-kragujevcu-svih-11-neispravno",
+   "title": "11 uzoraka vode uzeto sa česama u Kragujevcu: Svih 11 neispravno",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "KRAGUJEVAC: Izvorska voda ni sa jedne od ukupno 11 javnih česama nije ispravna za upotrebu"
+  "KRAGUJEVAC: Izvorska voda ni sa jedne od ukupno 11 javnih česama nije ispravna za upotrebu",
+  "11 uzoraka vode uzeto sa česama u Kragujevcu: Svih 11 neispravno"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Institut_za_javno_zdravlje_Ni%C5%A1.JPG",
   "alt": "Voda sa svih 11 ispitanih javnih česama u Kragujevcu mikrobiološki neispravna"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
