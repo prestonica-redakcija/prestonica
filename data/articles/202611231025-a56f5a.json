@@ -33,17 +33,38 @@
  ],
  "importance": 5,
  "published": "2026-11-23T09:25:37.045666+00:00",
- "updated": "2026-11-23T09:25:37.045666+00:00",
+ "updated": "2026-11-23T09:55:24.681617+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/politika/odbornik-sns-napustio-odbornicku-grupu-u-skupstini-beograda-ne-odgovara-mi-vuciceva-naredba-da-se-vise-ne-javljamo-za-rec-i-da-ce-mirkovic-govoriti-u-ime-svih/",
    "title": "Odbornik SNS napustio odborničku grupu u Skupštini Beograda: Ne odgovara mi Vučićeva naredba da se više ne javljamo za reč i da će Mirković govoriti u ime svih",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4437989-odbornik-vuk-stanic-napustio-odbornicku-grupu-sns-u-skupstini-grada-beograda-napisao-je-i-obrazlozenje",
+   "title": "Odbornik Vuk Stanić napustio odborničku grupu SNS u Skupštini Grada Beograda: Napisao je i obrazloženje",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/odbornik-sns-napustio-odbornicku-grupu-vuciceva-naredba-da-mirkovic-govori-u-ime-svih/",
+   "title": "Odbornik SNS napustio odborničku grupu: \"Vučićeva naredba da Mirković govori u ime svih\"",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/vuk-stanic-sns/",
+   "title": "Vuk Stanić napustio odborničku grupu SNS",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Odbornik SNS napustio odborničku grupu u Skupštini Beograda: Ne odgovara mi Vučićeva naredba da se više ne javljamo za reč i da će Mirković govoriti u ime svih"
+  "Odbornik SNS napustio odborničku grupu u Skupštini Beograda: Ne odgovara mi Vučićeva naredba da se više ne javljamo za reč i da će Mirković govoriti u ime svih",
+  "Odbornik Vuk Stanić napustio odborničku grupu SNS u Skupštini Grada Beograda: Napisao je i obrazloženje",
+  "Odbornik SNS napustio odborničku grupu: \"Vučićeva naredba da Mirković govori u ime svih\"",
+  "Vuk Stanić napustio odborničku grupu SNS"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +76,7 @@
   "local": false,
   "alt": "aerial view photography of room",
   "link": "https://unsplash.com/@internetztube"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

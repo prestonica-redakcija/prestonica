@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T09:25:37.045666+00:00",
- "updated": "2026-11-23T09:25:37.045666+00:00",
+ "updated": "2026-11-23T09:55:24.681617+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,11 +43,18 @@
    "url": "https://biznis.telegraf.rs/info-biz/4437964-cena-nafte-u-padu-brent-dostigao-92-dolara-po-barelu",
    "title": "Cena nafte u padu: Brent dostigao 92 dolara po barelu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1673784/preokret-evropskim-berzama-nakon-velike-rasprodaje-oporavljaju-akcije-nafta-brent-pala-92-dolara-dok-zlato-belezi-novi-skok",
+   "title": "PREOKRET NA EVROPSKIM BERZAMA NAKON VELIKE RASPRODAJE: Oporavljaju se AI akcije, nafta Brent pala na 92 dolara, dok zlato beleži novi skok",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Evropske berze beleže blag oporavak nakon AI rasprodaje, nafta Brent pala na 92 dolara",
-  "Cena nafte u padu: Brent dostigao 92 dolara po barelu"
+  "Cena nafte u padu: Brent dostigao 92 dolara po barelu",
+  "PREOKRET NA EVROPSKIM BERZAMA NAKON VELIKE RASPRODAJE: Oporavljaju se AI akcije, nafta Brent pala na 92 dolara, dok zlato beleži novi skok"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "alt": "graphical user interface, application",
   "link": "https://unsplash.com/@polarmermaid"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

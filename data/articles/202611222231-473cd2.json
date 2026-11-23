@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T21:31:47.410422+00:00",
- "updated": "2026-11-22T21:31:47.410422+00:00",
+ "updated": "2026-11-23T09:55:24.681617+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://nova.rs/vesti/politika/nps-vanredni-izbori-jedino-resenje-za-izlazak-beograda-iz-krize/",
    "title": "NPS: Vanredni izbori jedino rešenje za izlazak Beograda iz krize",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Narodni pokret Srbije",
+   "url": "https://www.youtube.com/watch?v=IWquGCGbIgc",
+   "title": "Miloš Pavlović: Vanredni izbori jedino rešenje za Beograd",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
   "NPS: Vanredni izbori jedino rešenje za izlazak Beograda iz krize",
-  "NPS: Vanredni izbori jedino rešenje za izlazak Beograda iz krize"
+  "NPS: Vanredni izbori jedino rešenje za izlazak Beograda iz krize",
+  "Miloš Pavlović: Vanredni izbori jedino rešenje za Beograd"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Pavlović (NPS): Vanredni izbori jedino rešenje za krizu u Beogradu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

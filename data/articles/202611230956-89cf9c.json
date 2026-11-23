@@ -34,16 +34,23 @@
  ],
  "importance": 6,
  "published": "2026-11-23T08:56:00.497462+00:00",
- "updated": "2026-11-23T08:56:00.497462+00:00",
+ "updated": "2026-11-23T09:55:24.681617+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/kreni-promeni-sednica-skupstine-grada-izbori-potrebni-sto-pre/",
    "title": "Kreni-promeni: Izbori u Beogradu potrebni što pre, borimo se da svako odgovara bez obzira na funkciju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/kreni-promeni-izbori-u-beogradu-potrebni-sto-pre-borimo-se-da-svako-odgovara-bez-obzira-na-funkciju/",
+   "title": "Kreni-promeni: Izbori u Beogradu potrebni što pre, borimo se da svako odgovara bez obzira na funkciju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Kreni-promeni: Izbori u Beogradu potrebni što pre, borimo se da svako odgovara bez obzira na funkciju",
   "Kreni-promeni: Izbori u Beogradu potrebni što pre, borimo se da svako odgovara bez obzira na funkciju"
  ],
  "author": "Redakcija Prestonice",
@@ -58,5 +65,7 @@
   "osoba": "Savo Manojlović",
   "izvor_x": true,
   "alt": "Kreni-promeni uoči sednice Skupštine Beograda traži izbore i razrešenje Šapića"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
