@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T14:08:52.547352+00:00",
- "updated": "2026-11-23T14:08:52.547352+00:00",
+ "updated": "2026-11-23T16:52:53.490254+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,25 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4438207-spc-sutra-obelezava-praznik-sv-kralja-stefana-decanskog-mratindan",
    "title": "SPC sutra obeležava praznik Sv. kralja Stefana Dečanskog - Mratindan",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/zivot/od-bajage-do-buc-kesidija-svetosavski-bal-u-becu-u-znaku-700-godina-visokih-decana/",
+   "title": "Od Bajage do Buč Kesidija: Svetosavski bal u Beču u znaku 700 godina Visokih Dečana",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4438334-u-visokim-decanima-sutra-proslava-ktitorske-slave-svetog-kralja-stefana-decanskog",
+   "title": "U Visokim Dečanima sutra proslava ktitorske slave Svetog kralja Stefana Dečanskog",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "SPC sutra obeležava praznik Svetog kralja Stefana Dečanskog - Mratindan",
-  "SPC sutra obeležava praznik Sv. kralja Stefana Dečanskog - Mratindan"
+  "SPC sutra obeležava praznik Sv. kralja Stefana Dečanskog - Mratindan",
+  "Od Bajage do Buč Kesidija: Svetosavski bal u Beču u znaku 700 godina Visokih Dečana",
+  "U Visokim Dečanima sutra proslava ktitorske slave Svetog kralja Stefana Dečanskog"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +71,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Visoki_De%C4%8Dani,_exterior_view_(Julian_Ny%C4%8Da).jpg",
   "alt": "SPC sutra obeležava Mratindan, praznik Svetog kralja Stefana Dečanskog"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

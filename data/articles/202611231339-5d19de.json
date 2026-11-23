@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T12:39:18.637197+00:00",
- "updated": "2026-11-23T12:39:18.637197+00:00",
+ "updated": "2026-11-23T16:52:53.490254+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -41,11 +41,18 @@
    "url": "https://informer.rs/politika/vesti/1172478/vucic-zorana-mihajlovic-sns-borba",
    "title": "\"Hoću da budem uz vas\": Zorana Mihajlović u prostorijama SNS - Emocije i suze uz zagrljaj Aleksandra Vučića! (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/zorana-mihajlovic-se-vratila-u-sns/",
+   "title": "Zorana Mihajlović se vratila u SNS uz zagrljaj i poneku suzu - a pre nekoliko godina pričala da vladaju strahom",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Zorana Mihajlović se vratila u SNS posle gotovo pet godina: Vučić je dočekao u stranačkim prostorijama (VIDEO)",
-  "\"Hoću da budem uz vas\": Zorana Mihajlović u prostorijama SNS - Emocije i suze uz zagrljaj Aleksandra Vučića! (VIDEO)"
+  "\"Hoću da budem uz vas\": Zorana Mihajlović u prostorijama SNS - Emocije i suze uz zagrljaj Aleksandra Vučića! (VIDEO)",
+  "Zorana Mihajlović se vratila u SNS uz zagrljaj i poneku suzu - a pre nekoliko godina pričala da vladaju strahom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "osoba": "Aleksandar Vučić",
   "izvor_x": true,
   "alt": "Zorana Mihajlović posle skoro pet godina u prostorijama SNS, dočekao je Vučić"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
