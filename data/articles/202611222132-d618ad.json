@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-22T20:32:16.653407+00:00",
- "updated": "2026-11-22T20:32:16.653407+00:00",
+ "updated": "2026-11-23T06:27:13.747833+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://insajder.net/prenosimo/sonda-bepikolombo-stigla-u-orbitu-merkura-posle-osam-godina-putovanja-kroz-svemir",
    "title": "Sonda BepiKolombo stigla u orbitu Merkura posle osam godina putovanja kroz svemir",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/magazin/scitech/misija-bepikolombo-usla-u-orbitu-oko-merkura-nakon-osmogodisnjeg-putovanja/",
+   "title": "Misija BepiKolombo ušla u orbitu oko Merkura nakon osmogodišnjeg putovanja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Svemirska sonda BepiKolombo ušla u orbitu Merkura posle osmogodišnjeg putovanja",
-  "Sonda BepiKolombo stigla u orbitu Merkura posle osam godina putovanja kroz svemir"
+  "Sonda BepiKolombo stigla u orbitu Merkura posle osam godina putovanja kroz svemir",
+  "Misija BepiKolombo ušla u orbitu oko Merkura nakon osmogodišnjeg putovanja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "Mercury on a black background",
   "link": "https://unsplash.com/@nasa"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

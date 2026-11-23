@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T05:57:26.888889+00:00",
- "updated": "2026-11-23T06:12:18.130561+00:00",
+ "updated": "2026-11-23T06:27:13.747833+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -45,12 +45,19 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/300069/u-srbiji-danas-oblacno-i-osetno-hladnije-mestimicno-sa-kisom-na-planinama-sneg/vest",
    "title": "U Srbiji danas oblačno i osetno hladnije, mestimično sa kišom, na planinama sneg",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/danas-hladno-i-vetrovito-sa-kisom-maksimalna-temperatura-od-sedam-do-13-stepeni/",
+   "title": "Danas hladno i vetrovito, sa kišom, maksimalna temperatura od sedam do 13 stepeni",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Danas hladno sa kišom, na planinama sneg, temperatura do 13 stepeni",
   "Prognoza RHMZ za 23. novembar: Oblačno i osetno hladnije, mestimično sa kišom, na planinama sneg",
-  "U Srbiji danas oblačno i osetno hladnije, mestimično sa kišom, na planinama sneg"
+  "U Srbiji danas oblačno i osetno hladnije, mestimično sa kišom, na planinama sneg",
+  "Danas hladno i vetrovito, sa kišom, maksimalna temperatura od sedam do 13 stepeni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "local": true,
   "alt": "Danas osetno hladnije sa kišom, na planinama sneg, najviše do 13 stepeni"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
