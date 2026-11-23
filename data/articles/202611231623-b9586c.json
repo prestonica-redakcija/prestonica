@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T15:23:19.150328+00:00",
- "updated": "2026-11-23T15:23:19.150328+00:00",
+ "updated": "2026-11-23T16:22:56.449660+00:00",
  "sources": [
   {
    "name": "N1",
@@ -47,12 +47,19 @@
    "url": "https://nova.rs/vesti/hronika/direktoru-gat-a-dejanu-slijepcevicu-odredjen-pritvor-sestoro-zaposlenih-u-leskovackoj-gradskoj-upravi-ce-se-braniti-sa-slobode/",
    "title": "Direktoru GAT-a Dejanu Slijepčeviću određen pritvor, šestoro zaposlenih u leskovačkoj Gradskoj upravi će se braniti sa slobode",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/visi-sud-u-nisu-odreden-pritvor-vlasniku-firme-gat-nakon-sto-se-predao-policiji",
+   "title": "Viši sud u Nišu: Određen pritvor vlasniku firme GAT nakon što se predao policiji",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Šest zaposlenih u leskovačkoj Gradskoj upravi braniće se sa slobode",
   "Dejan Slijepčević se predao nadležnim organima u Nišu: Pre direktora GAT-a uhapšeni zaposleni u Gradskoj upravi zbog ugovora teškog 80 miliona dinara",
-  "Direktoru GAT-a Dejanu Slijepčeviću određen pritvor, šestoro zaposlenih u leskovačkoj Gradskoj upravi će se braniti sa slobode"
+  "Direktoru GAT-a Dejanu Slijepčeviću određen pritvor, šestoro zaposlenih u leskovačkoj Gradskoj upravi će se braniti sa slobode",
+  "Viši sud u Nišu: Određen pritvor vlasniku firme GAT nakon što se predao policiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +70,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Direktoru firme GAT pritvor, šestoro iz leskovačke uprave brani se sa slobode"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

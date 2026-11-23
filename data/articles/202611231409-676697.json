@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-23T13:09:05.490848+00:00",
- "updated": "2026-11-23T13:09:05.490848+00:00",
+ "updated": "2026-11-23T16:22:56.449660+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/300189/evropska-komisija-istrazuje-evropskog-distributera-firme-koka-kola-zbog-ogranicavanja-trgovine/vest",
    "title": "Evropska komisija istražuje evropskog distributera firme Koka-kola zbog ograničavanja trgovine",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/287393/ek-istrazuje-evropskog-distributera-firme-koka-kola-zbog-ogranicavanja-trgovine/vest",
+   "title": "Koka-kola pod istragom",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Evropska komisija istražuje evropskog distributera firme Koka-kola zbog ograničavanja trgovine"
+  "Evropska komisija istražuje evropskog distributera firme Koka-kola zbog ograničavanja trgovine",
+  "Koka-kola pod istragom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Evropska komisija pokrenula istragu protiv distributera Koka-kole zbog sumnje na zloupotrebu položaja"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
