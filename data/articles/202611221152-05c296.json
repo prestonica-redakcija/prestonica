@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-22T10:52:22.447092+00:00",
- "updated": "2026-11-23T11:39:42.278739+00:00",
+ "updated": "2026-11-23T11:54:36.696000+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -94,6 +94,18 @@
    "url": "https://www.telegraf.rs/4438108-burno-u-specijalnom-sudu-na-sudjenju-selakovicu-za-generalstab-prikazani-tajni-mejlovi-i-sporni-papiri",
    "title": "Burno u Specijalnom sudu na suđenju Selakoviću za \"Generalštab\": Prikazani tajni mejlovi i sporni papiri",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300179/izvodenjem-pisanih-dokaza-nastavljeno-sudenje-u-slucaju-generalstab/vest",
+   "title": "Izvođenjem pisanih dokaza nastavljeno suđenje u slučaju \"Generalštab\"",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287382/nastavljeno-sudjenje-u-slucaju-generalstab/vest",
+   "title": "Nastavljeno suđenje u slučaju \"Generalštab\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -106,7 +118,9 @@
   "Grupa studenata i građana dočekala ispred suda Selakovića i druge optužene u slučaju Generalštab",
   "Nastavljeno suđenje u slučaju Generalštab izvođenjem pisanih dokaza tužilaštva",
   "Izvedeni dokazi na suđenju za Generalštab: Advokat Nikole Selakovića tvrdi da je optužnica politička",
-  "Burno u Specijalnom sudu na suđenju Selakoviću za \"Generalštab\": Prikazani tajni mejlovi i sporni papiri"
+  "Burno u Specijalnom sudu na suđenju Selakoviću za \"Generalštab\": Prikazani tajni mejlovi i sporni papiri",
+  "Izvođenjem pisanih dokaza nastavljeno suđenje u slučaju \"Generalštab\"",
+  "Nastavljeno suđenje u slučaju \"Generalštab\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -120,7 +134,7 @@
   "osoba": "Nikola Selaković",
   "alt": "Studenti pozvali na okupljanje ispred Specijalnog suda uoči suđenja za Generalštab"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-23T09:40:32.910688+00:00",
  "verzija": 2

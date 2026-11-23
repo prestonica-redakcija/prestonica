@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T10:55:00.391086+00:00",
- "updated": "2026-11-23T10:55:00.391086+00:00",
+ "updated": "2026-11-23T11:54:36.696000+00:00",
  "sources": [
   {
    "name": "N1",
@@ -39,9 +39,16 @@
    "url": "https://www.danas.rs/vesti/ekonomija/sekretarijat-za-javni-prevoz-beograda-pozvao-taksi-udruzenja-da-usaglase-stavove-o-promeni-propisa/",
    "title": "Sekretarijat za javni prevoz Beograda pozvao taksi udruženja da usaglase stavove o promeni propisa",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/sekretarijat-za-javni-prevoz-beograda-pozvao-taksi-udruzenja-da-usaglase-stavove-o-promeni-propisa/",
+   "title": "Sekretarijat za javni prevoz Beograda pozvao taksi udruženja da usaglase stavove o promeni propisa",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Sekretarijat za javni prevoz Beograda pozvao taksi udruženja da usaglase stavove o promeni propisa",
   "Sekretarijat za javni prevoz Beograda pozvao taksi udruženja da usaglase stavove o promeni propisa",
   "Sekretarijat za javni prevoz Beograda pozvao taksi udruženja da usaglase stavove o promeni propisa"
  ],
@@ -55,5 +62,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Aktivistkinja_za_prava_%C5%BEena_Sanja_Sarnavka,_dobitnica_nagrade_Zagrep%C4%8Danka_godine,_2024,_Skup%C5%A1tina_Grada_Zagreba_09_48_42_900000.jpeg",
   "alt": "Sekretarijat za javni prevoz pozvao taksi udruženja da usaglase stavove o izmenama odluke"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

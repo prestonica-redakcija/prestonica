@@ -26,17 +26,24 @@
  ],
  "importance": 3,
  "published": "2026-11-23T11:24:57.416792+00:00",
- "updated": "2026-11-23T11:24:57.416792+00:00",
+ "updated": "2026-11-23T11:54:36.696000+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/300163/dzim-bim-obustavlja-proizvodnju-u-svojoj-istorijskoj-destileriji-u-kentakiju/vest",
    "title": "Džim Bim obustavlja proizvodnju u svojoj istorijskoj destileriji u Kentakiju",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4438117-kraj-jedne-ere-dzim-bim-zatvara-istorijsku-destileriju",
+   "title": "Kraj jedne ere: Džim Bim zatvara istorijsku destileriju",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Džim Bim obustavlja proizvodnju u svojoj istorijskoj destileriji u Kentakiju"
+  "Džim Bim obustavlja proizvodnju u svojoj istorijskoj destileriji u Kentakiju",
+  "Kraj jedne ere: Džim Bim zatvara istorijsku destileriju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "alt": "brown wooden barrels on rack",
   "link": "https://unsplash.com/@katherineconrad"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

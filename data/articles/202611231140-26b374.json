@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-23T10:40:09.455052+00:00",
- "updated": "2026-11-23T10:40:09.455052+00:00",
+ "updated": "2026-11-23T11:54:36.696000+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/300135/nemacki-industrijski-radnici-ponovo-strajkuju-sindikat-trazi-rast-plata-od-pet-odsto/vest",
    "title": "Nemački industrijski radnici ponovo štrajkuju, sindikat traži rast plata od pet odsto",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4438036-strajk-paralisao-nemacku-industriju-stala-proizvodnja-u-mercedesu-radnici-traze-povisicu",
+   "title": "Štrajk paralisao nemačku industriju: Stala proizvodnja u Mercedesu, radnici traže povišicu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Nemački industrijski radnici ponovo štrajkuju, sindikat traži rast plata od pet odsto"
+  "Nemački industrijski radnici ponovo štrajkuju, sindikat traži rast plata od pet odsto",
+  "Štrajk paralisao nemačku industriju: Stala proizvodnja u Mercedesu, radnici traže povišicu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Tesla_IG_Metall_building.jpg",
   "alt": "Štrajk u metalskoj industriji severne Nemačke, IG Metal traži pet odsto veće plate"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

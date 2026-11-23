@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T11:09:53.766455+00:00",
- "updated": "2026-11-23T11:39:42.278739+00:00",
+ "updated": "2026-11-23T11:54:36.696000+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,13 +51,20 @@
    "url": "https://n1info.rs/biznis/hip-petrohemija-iz-panceva-zavrsila-kapitalni-remont-ulozeno-oko-15-miliona-evra/",
    "title": "HIP-Petrohemija iz Pančeva završila kapitalni remont - uloženo oko 15 miliona evra",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253286/hip-petrohemija-pokrece-postrojenja-posle-remonta/vest",
+   "title": "Završen kapitalni remont Petrohemije, pokreću se proizvodna postrojenja",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Završen kapitalni remont Petrohemije, pokreću se proizvodna postrojenja",
   "U Pančevačkoj Petrohemiji se pokreću proizvodna postrojenja nakon završenog remonta",
   "Završen remont u HIP Petrohemija",
-  "HIP-Petrohemija iz Pančeva završila kapitalni remont - uloženo oko 15 miliona evra"
+  "HIP-Petrohemija iz Pančeva završila kapitalni remont - uloženo oko 15 miliona evra",
+  "Završen kapitalni remont Petrohemije, pokreću se proizvodna postrojenja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +77,6 @@
   "alt": "a view of a city at night from a distance",
   "link": "https://unsplash.com/@bielej"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
