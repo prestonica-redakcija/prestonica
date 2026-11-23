@@ -5935,18 +5935,15 @@
   "https://www.telegraf.rs/vesti/srbija/4437801-stanje-na-granicnim-prelazima-u-5-ujutru-na-batrovcima-teretna-vozila-cekaju-tri-sata-na-izlaz": "2026-11-23T05:27:54.459366+00:00",
   "https://www.tanjug.rs/svet/politika/300061/tramp-cene-nafte-su-se-srusile-nakon-srednjorocnih-izbora-sve-je-bila-prevara/vest": "2026-11-23T05:27:54.459366+00:00",
   "https://biznis.telegraf.rs/info-biz/4437800-tramp-ostro-cene-nafte-su-se-srusile-nakon-srednjorocnih-izbora-sve-je-bila-prevara": "2026-11-23T05:27:54.459366+00:00",
-  "https://www.kurir.rs/stars/10169597/dara-bubamara-opet-isprozivala-jk": "2026-11-23T05:27:54.459366+00:00"
+  "https://www.kurir.rs/stars/10169597/dara-bubamara-opet-isprozivala-jk": "2026-11-23T05:27:54.459366+00:00",
+  "https://www.euronews.rs/srbija/politika/253161/linta-kurti-nastavlja-progon-srba-rusenjem-na-gazivodama/vest": "2026-11-23T05:42:38.846068+00:00",
+  "https://n1info.rs/biznis/najnoviji-oglasi-za-posao-23112026/": "2026-11-23T05:42:38.846068+00:00",
+  "https://www.telegraf.rs/4437802-ovo-su-najvaznije-odluke-o-srbiji-o-kojim-je-sinoc-pricao-aleksandar-cupic": "2026-11-23T05:42:38.846068+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-22T14:58+00:00",
-   "novih": 7,
-   "ukupno": 3670,
-   "sekundi": 517.1
-  },
   {
    "vreme": "2026-11-22T15:11+00:00",
    "novih": 3,
@@ -6300,6 +6297,12 @@
    "novih": 1,
    "ukupno": 3806,
    "sekundi": 429.8
+  },
+  {
+   "vreme": "2026-11-23T05:51+00:00",
+   "novih": 0,
+   "ukupno": 3806,
+   "sekundi": 513.5
   }
  ],
  "licnosti_foto": {
@@ -6449,6 +6452,33 @@
   }
  },
  "videos": [
+  {
+   "id": "oBDz_39CSYA",
+   "title": "France gets an EU budget win — but wants more | Brussels Playbook Podcast",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-23T05:30:28+00:00",
+   "thumb": "https://i.ytimg.com/vi/oBDz_39CSYA/hqdefault.jpg",
+   "live": "none",
+   "desc": "Over the weekend, European Council President António Costa unveiled a new budget in which he managed to slash the money pot by €44 billion. The main winner? French President Emmanuel Macron.\n\nToday on the show, Ian Wishart and Nick Vinocur discuss how Costa’s plan hands Macron a key win ahead of a meeting of EU leaders this Thursday, as well as why the French are still super unhappy with how the budget proposal looks now.\n\nAlso on the podcast: Kinga Gál, co-president of the far-right Patriots group in the European Parliament, wants to reshape Brussels in the 2029 EU election.\n\nAnd finally, the U.K. and the EU may be trying to rekindle ties, but as with any toxic couple, things last week got ",
+   "spektar": "centar",
+   "viewers": null,
+   "naslov": "Francuska dobija u pregovorima o budžetu EU, ali želi više",
+   "opis": "U podkastu Brussels Playbook novinari Ian Wishart i Nick Vinocur govore o novom predlogu budžeta EU koji je predstavio predsednik Evropskog saveta António Costa. Povod je vikend predlog kojim je, kako se navodi, smanjen budžetski okvir za 44 milijarde evra, a koji je donео korist francuskom predsedniku Emmanuelu Macronu.",
+   "tekst": [
+    "U epizodi podkasta Brussels Playbook voditelji Ian Wishart i Nick Vinocur razmatraju novi predlog budžeta EU koji je tokom vikenda predstavio António Costa. Prema opisu snimka, Costa je uspeo da smanji ukupan iznos za 44 milijarde evra, a najveći dobitnik je francuski predsednik Emmanuel Macron.",
+    "Govori se o tome kako Costin plan Macronu donosi važnu pobedu uoči sastanka lidera EU koji je zakazan za četvrtak, ali i zašto su Francuzi i dalje veoma nezadovoljni aktuelnim izgledom predloga.",
+    "U epizodi se pominje i Kinga Gál, supredsednica krajnje desne grupe Patrioti u Evropskom parlamentu, koja želi da preoblikuje Brisel na izborima za Evropski parlament 2029. godine. Tema je i stanje u odnosima Velike Britanije i EU, koji se, uprkos pokušajima ponovnog zbližavanja, prema opisu komplikuju."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "budžet EU",
+    "António Costa",
+    "Emmanuel Macron",
+    "Kinga Gál",
+    "Evropski savet"
+   ],
+   "slug": "francuska-dobija-u-pregovorima-o-budzetu-eu-ali-zeli-vise-obdz-39csya"
+  },
   {
    "id": "RuoiNxvRe5o",
    "title": "Söders nächster Nadelstich gegen Merz",
@@ -8795,32 +8825,6 @@
    "slug": "evropa-posmatra-senzen-dok-koalicija-voljnih-u-berlinu-kjszs0tjbdy"
   },
   {
-   "id": "gBI09fH48gg",
-   "title": "Three fights Alan Milburn's youth plan could start | Westminster Insider",
-   "kanal": "POLITICO Europe",
-   "published": "2026-11-18T14:23:17+00:00",
-   "thumb": "https://i.ytimg.com/vi/gBI09fH48gg/hqdefault.jpg",
-   "live": "none",
-   "desc": "Alan Milburn wants to fix youth unemployment — and has delivered his plan to do so. Politico’s Sascha O'Sullivan and Emilio Casalicchio explain why it could be the start of three major fights for Andy Burnham's government.\n\nVisit our website: https://www.politico.eu/\n\n-------- Social Media --------\nFollow us on Twitter: https://twitter.com/POLITICOEurope | https://twitter.com/LivePOLITICO\nFollow us on Facebook: https://www.facebook.com/POLITICOeu\nFollow us on LinkedIn: https://linkedin.com/company/politico-europe/",
-   "spektar": "centar",
-   "viewers": null,
-   "naslov": "Tri sukoba koja bi mogao da pokrene plan Alana Milburna za zapošljavanje mladih",
-   "opis": "U emisiji Westminster Insider novinari Politica Sascha O'Sullivan i Emilio Casalicchio objašnjavaju plan Alana Milburna za rešavanje nezaposlenosti mladih. Navode da bi on mogao biti početak tri velika sukoba za vladu Andyja Burnhama.",
-   "tekst": [
-    "Alan Milburn želi da reši nezaposlenost mladih i predao je svoj plan za to.",
-    "Novinari Politica Sascha O'Sullivan i Emilio Casalicchio objašnjavaju zašto bi plan mogao biti početak tri velika sukoba za vladu Andyja Burnhama."
-   ],
-   "rubrika": "svet",
-   "oznake": [
-    "Alan Milburn",
-    "Andy Burnham",
-    "nezaposlenost mladih",
-    "Politico",
-    "Velika Britanija"
-   ],
-   "slug": "tri-sukoba-koja-bi-mogao-da-pokrene-plan-alana-milburna-za-gbi09fh48gg"
-  },
-  {
    "id": "nrp2Lg5Lsjw",
    "title": "INTERVJU: Dragomir Anđelković - Otkrio šta će se desiti ako ostane Vučić na slobodi! (18.11.2026)",
    "kanal": "Slavija Info",
@@ -8966,7 +8970,7 @@
    "slug": "slavija-info-vucic-kao-satorska-pevacica-isecak-iz-emisije-aqkijyby5lw"
   }
  ],
- "_novi_snimci": false,
+ "_novi_snimci": true,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -56502,7 +56506,7 @@
   "yt": "Hdk3ahufa64",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-23T05:28:49.861680+00:00",
+  "provereno": "2026-11-23T05:43:28.550202+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": true
  },
@@ -65145,6 +65149,29 @@
     "budžet Nemačke"
    ],
    "slug": "soder-trazi-ublazavanje-hladne-progresije-pred-budzetsko-ruoinxvre5o",
+   "spektar": "centar"
+  },
+  "oBDz_39CSYA": {
+   "id": "oBDz_39CSYA",
+   "title": "France gets an EU budget win — but wants more | Brussels Playbook Podcast",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-23T05:30:28+00:00",
+   "naslov": "Francuska dobija u pregovorima o budžetu EU, ali želi više",
+   "opis": "U podkastu Brussels Playbook novinari Ian Wishart i Nick Vinocur govore o novom predlogu budžeta EU koji je predstavio predsednik Evropskog saveta António Costa. Povod je vikend predlog kojim je, kako se navodi, smanjen budžetski okvir za 44 milijarde evra, a koji je donео korist francuskom predsedniku Emmanuelu Macronu.",
+   "tekst": [
+    "U epizodi podkasta Brussels Playbook voditelji Ian Wishart i Nick Vinocur razmatraju novi predlog budžeta EU koji je tokom vikenda predstavio António Costa. Prema opisu snimka, Costa je uspeo da smanji ukupan iznos za 44 milijarde evra, a najveći dobitnik je francuski predsednik Emmanuel Macron.",
+    "Govori se o tome kako Costin plan Macronu donosi važnu pobedu uoči sastanka lidera EU koji je zakazan za četvrtak, ali i zašto su Francuzi i dalje veoma nezadovoljni aktuelnim izgledom predloga.",
+    "U epizodi se pominje i Kinga Gál, supredsednica krajnje desne grupe Patrioti u Evropskom parlamentu, koja želi da preoblikuje Brisel na izborima za Evropski parlament 2029. godine. Tema je i stanje u odnosima Velike Britanije i EU, koji se, uprkos pokušajima ponovnog zbližavanja, prema opisu komplikuju."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "budžet EU",
+    "António Costa",
+    "Emmanuel Macron",
+    "Kinga Gál",
+    "Evropski savet"
+   ],
+   "slug": "francuska-dobija-u-pregovorima-o-budzetu-eu-ali-zeli-vise-obdz-39csya",
    "spektar": "centar"
   }
  }
