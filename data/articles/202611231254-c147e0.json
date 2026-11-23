@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T11:54:36.696000+00:00",
- "updated": "2026-11-23T11:54:36.696000+00:00",
+ "updated": "2026-11-23T12:09:30.329551+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -42,11 +42,32 @@
    "url": "https://www.telegraf.rs/4438113-studenti-kritikovali-rezoluciju-evropskog-parlamenta-o-vukovaru",
    "title": "Oglasili se studenti: Kritikovali rezoluciju Evropskog parlamenta o Vukovaru",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/studentski-pokret-evropski-parlament-zanemario-stradanja-srpskih-civila-u-hrvatskoj/",
+   "title": "Studentski pokret: Evropski parlament zanemario stradanja srpskih civila u Hrvatskoj",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/studentski-pokret-evropski-parlament-zanemario-stradanja-srpskih-civila-u-hrvatskoj/",
+   "title": "Studentski pokret: Evropski parlament zanemario stradanja srpskih civila u Hrvatskoj",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10170242/oglasili-se-studenti-u-blokadi-kritikovali-rezoluciju-evropskog-parlamenta-o-vukovaru",
+   "title": "\"NE SLAŽEMO SE SA SADRŽINOM PREDLOGA REZOLUCIJE EP POVODOM PADA VUKOVARA\" Oglasili se studenti: Zanemarena stradanja srpskog stanovništva u Hrvatskoj!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Oglasili se studenti o predlogu rezolucije Evropskog parlamenta povodom godišnjice pada Vukovara",
-  "Oglasili se studenti: Kritikovali rezoluciju Evropskog parlamenta o Vukovaru"
+  "Oglasili se studenti: Kritikovali rezoluciju Evropskog parlamenta o Vukovaru",
+  "Studentski pokret: Evropski parlament zanemario stradanja srpskih civila u Hrvatskoj",
+  "Studentski pokret: Evropski parlament zanemario stradanja srpskih civila u Hrvatskoj",
+  "\"NE SLAŽEMO SE SA SADRŽINOM PREDLOGA REZOLUCIJE EP POVODOM PADA VUKOVARA\" Oglasili se studenti: Zanemarena stradanja srpskog stanovništva u Hrvatskoj!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +78,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Studenti u blokadi kritikovali predlog rezolucije Evropskog parlamenta o Vukovaru"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

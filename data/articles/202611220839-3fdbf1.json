@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T07:39:05.269016+00:00",
- "updated": "2026-11-22T07:39:05.269016+00:00",
+ "updated": "2026-11-23T12:09:30.329551+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://insajder.net/prenosimo/u-napadu-ruskih-dronova-ostecena-elektrana-u-zaporozju-napadnuta-i-luke",
    "title": "U napadu ruskih dronova oštećena elektrana u Zaporožju, napadnuta i luke",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/u-ruskom-napadu-u-zaporozju-troje-poginulo/",
+   "title": "U ruskom napadu u Zaporožju troje poginulo",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "U napadu ruskih dronova oštećena elektrana u Zaporožju, napadnuta i luke",
-  "U napadu ruskih dronova oštećena elektrana u Zaporožju, napadnuta i luke"
+  "U napadu ruskih dronova oštećena elektrana u Zaporožju, napadnuta i luke",
+  "U ruskom napadu u Zaporožju troje poginulo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "Two nuclear cooling towers emitting steam at night beside a dark river",
   "link": "https://unsplash.com/@nhippert"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

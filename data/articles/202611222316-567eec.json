@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T22:16:11.538620+00:00",
- "updated": "2026-11-23T00:00:26.812184+00:00",
+ "updated": "2026-11-23T12:09:30.329551+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -48,12 +48,19 @@
    "url": "https://www.kurir.rs/region/crna-gora/10169782/kolasinska-policija-prijavila-zenu-zbog-nelegalne-gradnje",
    "title": "GRADILA VIKENDICU BEZ POTREBNE DOKUMENTACIJE: Podneta krivična prijava protiv žene iz Bara",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/grupa-otpustenih-radnika-podnela-krivicnu-prijavu-protiv-predsednice-pokrajinske-vlade-maje-gojkovic/",
+   "title": "Grupa otpuštenih radnika podnela krivičnu prijavu protiv predsednice Pokrajinske vlade Maje Gojković",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Novosadski zborovi sutra podnose krivičnu prijavu protiv Maje Gojković",
   "Novosadski zborovi sutra podnose krivičnu prijavu protiv Maje Gojković",
-  "GRADILA VIKENDICU BEZ POTREBNE DOKUMENTACIJE: Podneta krivična prijava protiv žene iz Bara"
+  "GRADILA VIKENDICU BEZ POTREBNE DOKUMENTACIJE: Podneta krivična prijava protiv žene iz Bara",
+  "Grupa otpuštenih radnika podnela krivičnu prijavu protiv predsednice Pokrajinske vlade Maje Gojković"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,6 @@
   "osoba": "Maja Gojković",
   "alt": "Novosadski zborovi sutra podnose krivičnu prijavu protiv Maje Gojković"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T10:55:00.391086+00:00",
- "updated": "2026-11-23T10:55:00.391086+00:00",
+ "updated": "2026-11-23T12:09:30.329551+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -49,12 +49,19 @@
    "url": "https://www.kurir.rs/vesti/politika/10170092/milos-vucevic-o-pretnjama-aleksandru-vucicu",
    "title": "\"NEMA KOME DA PRIJAVI\" Miloš Vučević o pretnjama smrću Aleksandru Vučiću: Ako je to demokratija onda smo u slobodnom padu u ambis",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1172465/milos-vucevic-aleksandar-vucic-nova-vlast",
+   "title": "\"Stotine ljudi dobilo pretnje da će biti likvidirani i oteti!\" Vučević objavio žestok video: Niko ne reaguje – Ovo je slobodan pad u ambis (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Vučević: Ako je ovo što se dešava demokratija, onda je Srbija u slobodnom padu u ambis",
   "VUČEVIĆ UPOZORIO NA OZBILjNE PRETNjE VUČIĆU: Niko ne reaguje, Srbija je u slobodnom padu (VIDEO)",
-  "\"NEMA KOME DA PRIJAVI\" Miloš Vučević o pretnjama smrću Aleksandru Vučiću: Ako je to demokratija onda smo u slobodnom padu u ambis"
+  "\"NEMA KOME DA PRIJAVI\" Miloš Vučević o pretnjama smrću Aleksandru Vučiću: Ako je to demokratija onda smo u slobodnom padu u ambis",
+  "\"Stotine ljudi dobilo pretnje da će biti likvidirani i oteti!\" Vučević objavio žestok video: Niko ne reaguje – Ovo je slobodan pad u ambis (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,5 +75,7 @@
   "osoba": "Aleksandar Vučić",
   "izvor_x": true,
   "alt": "Vučević: Ako je ovo demokratija, Srbija je u slobodnom padu u ambis"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

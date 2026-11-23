@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T10:55:00.391086+00:00",
- "updated": "2026-11-23T11:54:36.696000+00:00",
+ "updated": "2026-11-23T12:09:30.329551+00:00",
  "sources": [
   {
    "name": "N1",
@@ -71,6 +71,18 @@
    "url": "https://www.tanjug.rs/srbija/politika/300174/borislav-obradovic-novi-vrsilac-duznosti-dekana-novosadskog-dif-a/vest",
    "title": "Borislav Obradović novi vršilac dužnosti dekana novosadskog DIF-a",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/patrik-drid-razresen-duznosti-dekana-novosadskog-fakulteta-za-sport-i-fizicko-vaspitanje",
+   "title": "Patrik Drid razrešen dužnosti dekana novosadskog Fakulteta za sport i fizičko vaspitanje",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/borislav-obradovic-izabran-za-vd-dekana-novosadskog-dif-a/",
+   "title": "Borislav Obradović izabran za v.d. dekana novosadskog DIF-a",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -80,7 +92,9 @@
   "Savet novosadskog DIF-a razrešio Patrika Drida sa funkcije dekana",
   "Patrik Drid razrešen s funkcije dekana Fakulteta sporta i fizičkog vaspitanja u Novom Sadu",
   "SMENjEN DEKAN NOVOSADSKOG DIF-A: Savet fakulteta razrešio Patrika Drida posle hapšenja",
-  "Borislav Obradović novi vršilac dužnosti dekana novosadskog DIF-a"
+  "Borislav Obradović novi vršilac dužnosti dekana novosadskog DIF-a",
+  "Patrik Drid razrešen dužnosti dekana novosadskog Fakulteta za sport i fizičko vaspitanje",
+  "Borislav Obradović izabran za v.d. dekana novosadskog DIF-a"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -93,8 +107,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Fakultet_sporta_i_fizi%C4%8Dkog_vaspitanja_Univerziteta_u_Novom_Sadu_01.jpg",
   "alt": "Savet Fakulteta sporta u Novom Sadu razrešio Patrika Drida sa mesta dekana"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.56,
  "prepisano": "2026-11-23T11:54:36.696000+00:00",
  "verzija": 2
 }

@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-22T11:07:07.969418+00:00",
- "updated": "2026-11-22T12:21:28.471038+00:00",
+ "updated": "2026-11-23T12:09:30.329551+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -49,12 +49,19 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1673594/ugovor-janaf-nis-istice-31-decembra-biti-produzen",
    "title": "UGOVOR JANAF-A I NIS-A ISTIČE 31. DECEMBRA: Da li će biti produžen?",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4438133-jos-jedan-vazan-datum-pred-nis-om-da-li-ce-produziti-ugovor-sa-janaf-om-evo-kada-istice",
+   "title": "Još jedan važan datum pred NIS-om: Da li će produžiti ugovor sa JANAF-om, evo kada ističe",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Ugovor JANAF-a i NIS-a do 31. decembra, Putniković: Verujem da će biti produžen",
   "Ugovor JANAF-a i NIS-a do 31. decembra, Putniković: Verujem da će biti produžen",
-  "UGOVOR JANAF-A I NIS-A ISTIČE 31. DECEMBRA: Da li će biti produžen?"
+  "UGOVOR JANAF-A I NIS-A ISTIČE 31. DECEMBRA: Da li će biti produžen?",
+  "Još jedan važan datum pred NIS-om: Da li će produžiti ugovor sa JANAF-om, evo kada ističe"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,6 @@
   "alt": "a factory with pipes and a sky background",
   "link": "https://unsplash.com/@jakubpabis"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
