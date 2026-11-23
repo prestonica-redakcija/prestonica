@@ -28,17 +28,24 @@
  ],
  "importance": 2,
  "published": "2026-11-23T19:21:53.756571+00:00",
- "updated": "2026-11-23T19:21:53.756571+00:00",
+ "updated": "2026-11-23T19:51:50.591915+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10170463/nestanak-zene-iz-srpskog-itebeja-tragican-zavrsetak-potrage",
    "title": "NESTALU KINESKINJU TRAŽILO CELO SELO, POSLE 3 DANA JE NAŠLI MRTVU U KANALU: Tragičan kraj potrage kod Zrenjanina (foto)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4438440-tragican-kraj-potrage-kod-zrenjanina-pronadjeno-telo-nestale-kineskinje",
+   "title": "Tragičan kraj potrage kod Zrenjanina: Pronađeno telo nestale Kineskinje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "NESTALU KINESKINJU TRAŽILO CELO SELO, POSLE 3 DANA JE NAŠLI MRTVU U KANALU: Tragičan kraj potrage kod Zrenjanina (foto)"
+  "NESTALU KINESKINJU TRAŽILO CELO SELO, POSLE 3 DANA JE NAŠLI MRTVU U KANALU: Tragičan kraj potrage kod Zrenjanina (foto)",
+  "Tragičan kraj potrage kod Zrenjanina: Pronađeno telo nestale Kineskinje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Srpski_Itebej,_Catholic_Church.jpg",
   "alt": "Kod Zrenjanina pronađena mrtva starija žena koja je nestala u Srpskom Itebeju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

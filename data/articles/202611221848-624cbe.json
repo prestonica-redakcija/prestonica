@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-22T17:48:30.260617+00:00",
- "updated": "2026-11-23T19:36:41.548460+00:00",
+ "updated": "2026-11-23T19:51:50.591915+00:00",
  "sources": [
   {
    "name": "Telegraf",
@@ -45,11 +45,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4438436-uhapsen-i-treci-osumnjiceni-za-nelegalno-nosenje-oruzja-u-automobilu-sa-volkovim",
    "title": "Uhapšen i treći osumnjičeni za nelegalno nošenje oružja u automobilu sa Volkovim",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300295/uhapsen-i-treci-osumnjiceni-za-nelegalno-nosenje-oruzja-u-automobilu-sa-volkovim/vest",
+   "title": "Uhapšen i treći osumnjičeni za nelegalno nošenje oružja u automobilu sa Volkovim",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Bio je u vezi sa Sandrom Afrikom i Ivanom Boom a danas je uhapšen zbog nošenja oružja",
   "Uhapšen Vladimir Volkov",
+  "Uhapšen i treći osumnjičeni za nelegalno nošenje oružja u automobilu sa Volkovim",
   "Uhapšen i treći osumnjičeni za nelegalno nošenje oružja u automobilu sa Volkovim"
  ],
  "author": "Redakcija Prestonice",
@@ -63,6 +70,6 @@
   "alt": "cars parked in front of store during night time",
   "link": "https://unsplash.com/@hiepdaiduong93"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

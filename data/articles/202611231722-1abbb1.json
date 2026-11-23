@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T16:22:56.449660+00:00",
- "updated": "2026-11-23T16:22:56.449660+00:00",
+ "updated": "2026-11-23T19:51:50.591915+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -45,11 +45,18 @@
    "url": "https://www.b92.net/info/svet/287486/poljska-ce-traziti-snazniju-protivvazdusnu-odbranu-nato-nakon-upada-ruskih-raketa/vest",
    "title": "Poljska traži NATO pojačanje: Varšava radi na jačanju vazdušne odbrane",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/300328/nato-salje-avion-za-rano-upozoravanje-u-poljsku-nakon-pada-ruskih-raketa/vest",
+   "title": "NATO šalje avion za rano upozoravanje u Poljsku nakon pada ruskih raketa",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Poljska će tražiti snažniju protivvazdušnu odbranu NATO nakon upada ruskih raketa",
-  "Poljska traži NATO pojačanje: Varšava radi na jačanju vazdušne odbrane"
+  "Poljska traži NATO pojačanje: Varšava radi na jačanju vazdušne odbrane",
+  "NATO šalje avion za rano upozoravanje u Poljsku nakon pada ruskih raketa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "local": false,
   "alt": "six fighter jets",
   "link": "https://unsplash.com/@uxgun"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
