@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T13:53:52.853775+00:00",
- "updated": "2026-11-23T13:53:52.853775+00:00",
+ "updated": "2026-11-23T14:08:52.547352+00:00",
  "sources": [
   {
    "name": "N1",
@@ -46,11 +46,18 @@
    "url": "https://www.danas.rs/svet/iran-upozorio-da-ce-odgovoriti-na-svaki-napad-sad/",
    "title": "„Upotrebićemo sva sredstava da se suprotstavimo američkoj agresiji“: Iran upozorio da će odgovoriti na svaki napad SAD",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287384/iran-zapretio-sad/vest",
+   "title": "\"Amerikanci, odgovaraćete...\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Iran upozorio da će odgovoriti na svaki američki napad",
-  "„Upotrebićemo sva sredstava da se suprotstavimo američkoj agresiji“: Iran upozorio da će odgovoriti na svaki napad SAD"
+  "„Upotrebićemo sva sredstava da se suprotstavimo američkoj agresiji“: Iran upozorio da će odgovoriti na svaki napad SAD",
+  "\"Amerikanci, odgovaraćete...\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Iran poručio da će odgovoriti na svaki američki napad i opire se pomorskoj blokadi"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

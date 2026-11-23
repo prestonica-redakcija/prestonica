@@ -34,17 +34,24 @@
  ],
  "importance": 5,
  "published": "2026-11-23T13:39:09.854940+00:00",
- "updated": "2026-11-23T13:39:09.854940+00:00",
+ "updated": "2026-11-23T14:08:52.547352+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10170355/vucic-jovo-bakic-konsultacije-skupstina",
    "title": "VUČIĆ I BAKIĆ RAME UZ RAME, POČELE KONSULTACIJE U SKUPŠTINI! Prošli put predstavnike SNS i Studentske liste delila PRAZNA STOLICA, evo šta se sada dešava",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/foto-bakic-i-vucic-za-istim-stolom-konsultacije-u-skupstini-srbije/",
+   "title": "(FOTO) Bakić i Vučić za istim stolom: Konsultacije u Skupštini Srbije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "VUČIĆ I BAKIĆ RAME UZ RAME, POČELE KONSULTACIJE U SKUPŠTINI! Prošli put predstavnike SNS i Studentske liste delila PRAZNA STOLICA, evo šta se sada dešava"
+  "VUČIĆ I BAKIĆ RAME UZ RAME, POČELE KONSULTACIJE U SKUPŠTINI! Prošli put predstavnike SNS i Studentske liste delila PRAZNA STOLICA, evo šta se sada dešava",
+  "(FOTO) Bakić i Vučić za istim stolom: Konsultacije u Skupštini Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "osoba": "Aleksandar Vučić",
   "izvor_x": true,
   "alt": "U Skupštini počele konsultacije o nastavku konstitutivne sednice"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

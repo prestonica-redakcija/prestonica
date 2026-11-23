@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T08:56:00.497462+00:00",
- "updated": "2026-11-23T09:55:24.681617+00:00",
+ "updated": "2026-11-23T14:08:52.547352+00:00",
  "sources": [
   {
    "name": "N1",
@@ -48,12 +48,19 @@
    "url": "https://www.danas.rs/vesti/politika/stojmenovic-dosli-smo-da-smenimo-sapica-ali-sps-i-sns-to-nece-dopustiti-jer-bi-isli-s-njim-na-optuzenicku-klupu/",
    "title": "Stojmenović: Došli smo da smenimo Šapića, ali SPS i SNS to neće dopustiti, jer bi išli s njim na optuženičku klupu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/kreni-promeni-sns-i-sps-odbijaju-da-glasaju-o-smeni-sapica/",
+   "title": "Kreni-promeni: SNS i SPS odbijaju da glasaju o smeni Šapića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Stojmenović: Došli smo da smenimo Šapića, ali SPS i SNS to neće dopustiti, jer bi išli s njim na optuženičku klupu",
   "Stojmenović: Došli smo da smenimo Šapića, ali SPS i SNS to neće dopustiti, jer bi išli s njim na optuženičku klupu",
-  "Stojmenović: Došli smo da smenimo Šapića, ali SPS i SNS to neće dopustiti, jer bi išli s njim na optuženičku klupu"
+  "Stojmenović: Došli smo da smenimo Šapića, ali SPS i SNS to neće dopustiti, jer bi išli s njim na optuženičku klupu",
+  "Kreni-promeni: SNS i SPS odbijaju da glasaju o smeni Šapića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -33,17 +33,31 @@
  ],
  "importance": 7,
  "published": "2026-11-23T13:53:52.853775+00:00",
- "updated": "2026-11-23T13:53:52.853775+00:00",
+ "updated": "2026-11-23T14:08:52.547352+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/bia-imala-posebno-odeljenje-za-n1-novi-i-radar-ko-je-najslusaniji-novinar-u-regionu/",
    "title": "BIA imala posebno odeljenje za N1, Novu i Radar: Ko je \"najslušaniji\" novinar u regionu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/milivojevic-bia-imala-posebno-odeljenje-za-n1-novu-i-radar-vuka-cvijica-nadziralo-cak-sedam-sluzbi/",
+   "title": "Milivojević: BIA imala posebno odeljenje za N1, Novu i Radar, Vuka Cvijića nadziralo čak sedam službi",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Radar",
+   "url": "https://radar.nova.rs/drustvo/bia-vba-mup-i-vojna-policija-nadzirali-radar/",
+   "title": "BIA, VBA, MUP i vojna policija nadzirali Radar",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "BIA imala posebno odeljenje za N1, Novu i Radar: Ko je \"najslušaniji\" novinar u regionu"
+  "BIA imala posebno odeljenje za N1, Novu i Radar: Ko je \"najslušaniji\" novinar u regionu",
+  "Milivojević: BIA imala posebno odeljenje za N1, Novu i Radar, Vuka Cvijića nadziralo čak sedam službi",
+  "BIA, VBA, MUP i vojna policija nadzirali Radar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +71,7 @@
   "osoba": "Srđan Milivojević",
   "izvor_x": true,
   "alt": "Milivojević tvrdi da je BIA pratila novinare N1, Nove i Radara preko situacionog centra"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

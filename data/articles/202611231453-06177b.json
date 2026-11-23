@@ -28,17 +28,52 @@
  ],
  "importance": 6,
  "published": "2026-11-23T13:53:52.853775+00:00",
- "updated": "2026-11-23T13:53:52.853775+00:00",
+ "updated": "2026-11-23T14:08:52.547352+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10170386/vucic-iz-skupstine-posle-konsultacija-o-funkcijama-u-odborima",
    "title": "\"NEMA NIKAKVOG SMISLA, BAŠ NIKAKVOG\" Vučić iz Skupštine posle konsultacija: Sutra ćemo doneti konačnu odluku, ali najverovatnije nećemo učestovati u radu odbora",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300238/vucic-opozicija-nece-voditi-nijedan-odbor-sutra-cemo-doneti-odluku-da-li-ucestvujemo/vest",
+   "title": "Vučić: Opozicija neće voditi nijedan odbor, sutra ćemo doneti odluku da li učestvujemo",
+   "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673932/vucic-nakon-konsultacija-opozicija-nece-voditi-nijedan-odbor-sutra-cemo-doneti-odluku-ucestvujemo-radu-video",
+   "title": "VUČIĆ NAKON KONSULTACIJA: Opozicija neće voditi nijedan odbor - sutra ćemo doneti odluku da li učestvujemo u radu (VIDEO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/vucic-opozicija-nece-voditi-nijedan-odbor-sutra-cemo-doneti-odluku-da-li-ucestvujemo",
+   "title": "Vučić: Opozicija neće voditi nijedan odbor, sutra ćemo doneti odluku da li učestvujemo",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253323/vucic-opozicija-nece-voditi-nijedan-skupstinski-odbor/vest",
+   "title": "Vučić: Opozicija neće voditi nijedan odbor, sutra ćemo doneti odluku da li učestvujemo",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/287434/vucic-najverovatnije-necemo-ucestvovati-u-radu-skupstonskih-odbora/vest",
+   "title": "Vučić nakon konsultacija u Skupštini: \"Najverovatnije nećemo učestvovati u radu odbora\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "\"NEMA NIKAKVOG SMISLA, BAŠ NIKAKVOG\" Vučić iz Skupštine posle konsultacija: Sutra ćemo doneti konačnu odluku, ali najverovatnije nećemo učestovati u radu odbora"
+  "\"NEMA NIKAKVOG SMISLA, BAŠ NIKAKVOG\" Vučić iz Skupštine posle konsultacija: Sutra ćemo doneti konačnu odluku, ali najverovatnije nećemo učestovati u radu odbora",
+  "Vučić: Opozicija neće voditi nijedan odbor, sutra ćemo doneti odluku da li učestvujemo",
+  "VUČIĆ NAKON KONSULTACIJA: Opozicija neće voditi nijedan odbor - sutra ćemo doneti odluku da li učestvujemo u radu (VIDEO)",
+  "Vučić: Opozicija neće voditi nijedan odbor, sutra ćemo doneti odluku da li učestvujemo",
+  "Vučić: Opozicija neće voditi nijedan odbor, sutra ćemo doneti odluku da li učestvujemo",
+  "Vučić nakon konsultacija u Skupštini: \"Najverovatnije nećemo učestvovati u radu odbora\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +87,7 @@
   "osoba": "Aleksandar Vučić",
   "izvor_x": true,
   "alt": "Vučić: opozicija najverovatnije neće učestvovati u radu skupštinskih odbora"
- }
+ },
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

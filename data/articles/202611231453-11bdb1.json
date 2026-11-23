@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T13:53:52.853775+00:00",
- "updated": "2026-11-23T13:53:52.853775+00:00",
+ "updated": "2026-11-23T14:08:52.547352+00:00",
  "sources": [
   {
    "name": "N1",
@@ -43,11 +43,18 @@
    "url": "https://nova.rs/vesti/svet/zelenski-pregovori-ukrajine-evrope-sad-i-rusije-moguci-pre-bozica/",
    "title": "Zelenski: Pregovori Ukrajine, Evrope, SAD i Rusije mogući pre Božića",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/zelenski-pregovori-ukrajine-evrope-sad-i-rusije-moguci-pre-bozica/",
+   "title": "Ukrajinski predsednik: Pregovori Ukrajine, Evrope, SAD i Rusije mogući pre Božića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Zelenski: Pregovori Ukrajine, Evrope, SAD i Rusije mogući pre Božića",
-  "Zelenski: Pregovori Ukrajine, Evrope, SAD i Rusije mogući pre Božića"
+  "Zelenski: Pregovori Ukrajine, Evrope, SAD i Rusije mogući pre Božića",
+  "Ukrajinski predsednik: Pregovori Ukrajine, Evrope, SAD i Rusije mogući pre Božića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Zelenski: sastanak Ukrajine, Evrope, SAD i Rusije moguć pre Božića"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
