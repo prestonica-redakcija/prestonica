@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T12:39:18.637197+00:00",
- "updated": "2026-11-23T12:39:18.637197+00:00",
+ "updated": "2026-11-23T17:22:37.242611+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/dejan-madic-ne-zeli-da-podnese-ostavku-na-mesto-rektora/",
    "title": "Dejan Madić ne želi da podnese ostavku na mesto rektora: „Neću otići, nego ću njima pomoći da budu bolji“",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/rektor-dejan-madic-kaze-da-nece-podneti-ostavku-neophodno-da-se-vidi-zbog-cega-se-ona-trazi-i-koji-su-argumenti",
+   "title": "Rektor Dejan Madić kaže da neće podneti ostavku: \"Neophodno da se vidi zbog čega se ona traži i koji su argumenti\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Madić: Neću podneti ostavku, to bi značilo da sam nešto kriv, a ja ništa nisam kriv",
-  "Dejan Madić ne želi da podnese ostavku na mesto rektora: „Neću otići, nego ću njima pomoći da budu bolji“"
+  "Dejan Madić ne želi da podnese ostavku na mesto rektora: „Neću otići, nego ću njima pomoći da budu bolji“",
+  "Rektor Dejan Madić kaže da neće podneti ostavku: \"Neophodno da se vidi zbog čega se ona traži i koji su argumenti\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "osoba": "Aleksandar Vučić",
   "izvor_x": true,
   "alt": "Senat Univerziteta u Novom Sadu nije razrešio rektora Madića, on kaže da ostavku neće podneti"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

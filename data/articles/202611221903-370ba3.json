@@ -35,7 +35,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T18:03:23.802504+00:00",
- "updated": "2026-11-23T16:07:56.396557+00:00",
+ "updated": "2026-11-23T17:22:37.242611+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -138,6 +138,18 @@
    "url": "https://www.danas.rs/vesti/ekonomija/dzensen-huang-vracen-na-celo-nvidie-akcije-skocile-35-odsto/",
    "title": "Džensen Huang vraćen na čelo Nvidie: Akcije skočile 35 odsto",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/300254/tramp-moja-intervencija-bila-je-veoma-vazna-za-povratak-direktora-envidije/vest",
+   "title": "Tramp: Moja intervencija bila je veoma važna za povratak direktora Envidije",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10170662/dzensen-huang-se-vraca-na-celo-nvidije",
+   "title": "Totalni preokret u slučaj Nvidia: Huang vraćen na čelo kompanije, akcije odmah skočile",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -157,7 +169,9 @@
   "Tramp: Firma Envidija dobro postupila što je vratila Huanga na direktorsku poziciju",
   "Vratio se na čelo Envidije, a akcije eksplodirale: Tramp se umešao, kompanija dobila 900 milijardi dolara!",
   "Vrednost Envidije eksplodirala: Za jedan dan – više od bilion dolara",
-  "Džensen Huang vraćen na čelo Nvidie: Akcije skočile 35 odsto"
+  "Džensen Huang vraćen na čelo Nvidie: Akcije skočile 35 odsto",
+  "Tramp: Moja intervencija bila je veoma važna za povratak direktora Envidije",
+  "Totalni preokret u slučaj Nvidia: Huang vraćen na čelo kompanije, akcije odmah skočile"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -170,7 +184,7 @@
   "alt": "teal LED panel",
   "link": "https://unsplash.com/@adigold1"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-23T16:07:56.396557+00:00",
  "verzija": 4

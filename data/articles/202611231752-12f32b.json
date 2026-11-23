@@ -30,17 +30,24 @@
  ],
  "importance": 4,
  "published": "2026-11-23T16:52:53.490254+00:00",
- "updated": "2026-11-23T16:52:53.490254+00:00",
+ "updated": "2026-11-23T17:22:37.242611+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/ekologija/300279/nemacka-kritikuje-zemlje-izvoznice-nafte-zbog-neuspeha-zavrsne-deklaracije-na-cop31/vest",
    "title": "Nemačka kritikuje zemlje izvoznice nafte zbog neuspeha završne deklaracije na COP31",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/klimatska-konferencija-cop31-zavrsena-bez-dogovora-nemacka-vlada-optuzuje-izvoznice-nafte-i-gasa-za-blokadu-pregovora",
+   "title": "Nemačka vlada optužuje izvoznice nafte i gasa za blokadu pregovora na klimatskoj konferenciji COP31",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Nemačka kritikuje zemlje izvoznice nafte zbog neuspeha završne deklaracije na COP31"
+  "Nemačka kritikuje zemlje izvoznice nafte zbog neuspeha završne deklaracije na COP31",
+  "Nemačka vlada optužuje izvoznice nafte i gasa za blokadu pregovora na klimatskoj konferenciji COP31"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "crowd of people sitting on chairs inside room",
   "link": "https://unsplash.com/@headwayio"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

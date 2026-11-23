@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T09:08:11.102597+00:00",
- "updated": "2026-11-22T09:23:03.769086+00:00",
+ "updated": "2026-11-23T17:22:37.242611+00:00",
  "sources": [
   {
    "name": "B92",
@@ -46,12 +46,19 @@
    "url": "https://www.tanjug.rs/svet/politika/299876/u-napadu-ukrajinskih-dronova-u-krasnodarskom-kraju-povredeno-pet-osoba/vest",
    "title": "U napadu ukrajinskih dronova u Krasnodarskom kraju povređeno pet osoba",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/300287/u-ruskim-napadima-dronovima-na-kijev-povredeno-sest-osoba/vest",
+   "title": "U ruskim napadima dronovima na Kijev povređeno šest osoba",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Brutalni napadi; Rusi srušili celu zgradu; Ukrajina pogodila skladište ruske Nacionalne garde VIDEO",
   "POGOĐENO SEDIŠTE RUSKE NACIONALNE GARDE U KRASNODARU! Objavljeni snimci novog ukrajinskog napada, čule se jake eksplozije, obustavljeni letovi! (VIDEO)",
-  "U napadu ukrajinskih dronova u Krasnodarskom kraju povređeno pet osoba"
+  "U napadu ukrajinskih dronova u Krasnodarskom kraju povređeno pet osoba",
+  "U ruskim napadima dronovima na Kijev povređeno šest osoba"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "alt": "view of city at night",
   "link": "https://unsplash.com/@kevinbosc"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

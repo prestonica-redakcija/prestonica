@@ -28,17 +28,24 @@
  ],
  "importance": 6,
  "published": "2026-11-23T12:54:15.099579+00:00",
- "updated": "2026-11-23T12:54:15.099579+00:00",
+ "updated": "2026-11-23T17:22:37.242611+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/english/news/student-movement-ep-overlooks-suffering-of-serb-civilians-in-croatia/",
    "title": "Student Movement: EP overlooks suffering of Serb civilians in Croatia",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/jedan-od-inicijatora-nacrta-rezolucije-o-vukovaru-odgovorio-na-stav-studentskog-pokreta/",
+   "title": "Jedan od inicijatora nacrta rezolucije o Vukovaru odgovorio na stav Studentskog pokreta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Student Movement: EP overlooks suffering of Serb civilians in Croatia"
+  "Student Movement: EP overlooks suffering of Serb civilians in Croatia",
+  "Jedan od inicijatora nacrta rezolucije o Vukovaru odgovorio na stav Studentskog pokreta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "alt": "aerial view photography of room",
   "link": "https://unsplash.com/@internetztube"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -25,17 +25,24 @@
  ],
  "importance": 3,
  "published": "2026-11-22T06:39:36.178725+00:00",
- "updated": "2026-11-22T06:39:36.178725+00:00",
+ "updated": "2026-11-23T17:22:37.242611+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/drustvo/299843/putni-pravci-i-prilazi-zimskim-turistickim-centrima-prohodni/vest",
    "title": "Putni pravci i prilazi zimskim turističkim centrima prohodni",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/putevi-srbije-krusevac-zajecar-vranje-sneg/",
+   "title": "Putevi Srbije: Oko Kruševca, Zaječara, Ivanjice i Vranja mestimično do pet centimetara snega",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Putni pravci i prilazi zimskim turističkim centrima prohodni"
+  "Putni pravci i prilazi zimskim turističkim centrima prohodni",
+  "Putevi Srbije: Oko Kruševca, Zaječara, Ivanjice i Vranja mestimično do pet centimetara snega"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "local": false,
   "alt": "road covered with snow",
   "link": "https://unsplash.com/@grundsteins"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
