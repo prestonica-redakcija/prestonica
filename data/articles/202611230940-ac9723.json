@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T08:40:57.565229+00:00",
- "updated": "2026-11-23T08:56:00.497462+00:00",
+ "updated": "2026-11-23T09:40:32.910688+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://nova.rs/vesti/hronika/nastavlja-se-sudjenje-za-ubistvo-danke-ilic-2-u-sudnici-mestani-koji-su-kobnog-dana-videli-devojcicu/",
    "title": "Nastavlja se suđenje za ubistvo Danke Ilić (2): U sudnici meštani koji su kobnog dana videli devojčicu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10170008/saslusanje-svedoka-na-sudjenju-za-ubistvo-danke-ilic",
+   "title": "11 SVEDOKA STIGLO U SUDNICU, GOVORIĆE O KOBNOM 26. MARTU 2024: Nastavlja se suđenje za ubistvo Danke Ilić (2), sudnica krcata (foto)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Nastavlja se suđenje u slučaju male Danke Ilić, očekuje se da meštani daju iskaze",
-  "Nastavlja se suđenje za ubistvo Danke Ilić (2): U sudnici meštani koji su kobnog dana videli devojčicu"
+  "Nastavlja se suđenje za ubistvo Danke Ilić (2): U sudnici meštani koji su kobnog dana videli devojčicu",
+  "11 SVEDOKA STIGLO U SUDNICU, GOVORIĆE O KOBNOM 26. MARTU 2024: Nastavlja se suđenje za ubistvo Danke Ilić (2), sudnica krcata (foto)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "alt": "brown wooden tool on white surface",
   "link": "https://unsplash.com/@tingeyinjurylawfirm"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

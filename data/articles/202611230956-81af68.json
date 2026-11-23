@@ -29,16 +29,23 @@
  ],
  "importance": 6,
  "published": "2026-11-23T08:56:00.497462+00:00",
- "updated": "2026-11-23T08:56:00.497462+00:00",
+ "updated": "2026-11-23T09:40:32.910688+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/zlf-smena-sapica-beograd/",
    "title": "Stojmenović: Došli smo da smenimo Šapića, ali SPS i SNS to neće dopustiti, jer bi išli s njim na optuženičku klupu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/stojmenovic-dosli-smo-da-smenimo-sapica-ali-sps-i-sns-to-nece-dopustiti-jer-bi-isli-s-njim-na-optuzenicku-klupu/",
+   "title": "Stojmenović: Došli smo da smenimo Šapića, ali SPS i SNS to neće dopustiti, jer bi išli s njim na optuženičku klupu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Stojmenović: Došli smo da smenimo Šapića, ali SPS i SNS to neće dopustiti, jer bi išli s njim na optuženičku klupu",
   "Stojmenović: Došli smo da smenimo Šapića, ali SPS i SNS to neće dopustiti, jer bi išli s njim na optuženičku klupu"
  ],
  "author": "Redakcija Prestonice",
@@ -51,5 +58,7 @@
   "local": false,
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
