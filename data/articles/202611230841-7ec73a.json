@@ -35,7 +35,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T07:41:28.074541+00:00",
- "updated": "2026-11-23T07:41:28.074541+00:00",
+ "updated": "2026-11-23T08:26:06.093336+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -48,11 +48,18 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10169867/put-ka-fruskoj-gori-blokiran-upozorenje-vozacima",
    "title": "Put ka Fruškoj gori potpuno neprohodan: Palo ogromno drvo i blokiralo prolaz, AMSS hitno upozorio vozače na sneg i odrone",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4437897-drvo-palo-na-put-na-iriskom-vencu-gradjani-uklonili-stablo",
+   "title": "Drvo palo na put na Iriškom vencu: Građani uklonili stablo",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Blokiran put ka Fruškoj gori, veliko stablo palo preko kolovoza i paralisalo saobraćaj: Oglasio se AMSS i izdao hitno upozorenje za vozače",
-  "Put ka Fruškoj gori potpuno neprohodan: Palo ogromno drvo i blokiralo prolaz, AMSS hitno upozorio vozače na sneg i odrone"
+  "Put ka Fruškoj gori potpuno neprohodan: Palo ogromno drvo i blokiralo prolaz, AMSS hitno upozorio vozače na sneg i odrone",
+  "Drvo palo na put na Iriškom vencu: Građani uklonili stablo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +71,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:2026-06-13_Fru%C5%A1ka_Gora_National_Park_02.jpg",
   "alt": "Put od Iriškog venca ka Zmajevcu neprohodan zbog palog stabla, AMSS upozorava vozače"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

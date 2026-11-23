@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T15:04:55.683026+00:00",
- "updated": "2026-11-23T07:56:19.352941+00:00",
+ "updated": "2026-11-23T08:26:06.093336+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -79,6 +79,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4437873-zelenski-objavio-snimak-ukrajinskog-napada-na-ruski-ratni-brod-ukrajinci-ga-potopili-sa-7-pomorskih-dronova",
    "title": "Zelenski objavio snimak ukrajinskog napada na ruski ratni brod: Ukrajinci ga potopili sa 7 pomorskih dronova",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/300088/zelenski-rusku-korvetu-merkur-u-libijskoj-luci-potopili-ukrajinski-dronovi/vest",
+   "title": "Zelenski: Rusku korvetu \"Merkur\" u libijskoj luci potopili ukrajinski dronovi",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/ruski-brod-libija-ukrajina-dron/",
+   "title": "Eksplodirao ruski ratni brod u Libiji, sumnja se da je pogođen ukrajinskim dronom: Rat se širi na Afriku? (VIDEO)",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -89,7 +101,9 @@
   "Razneta ruska raketna korveta \"Merkuri\"?",
   "Ogroman udarac za Ameriku – uništeno više desetina MQ-9 i MQ-1",
   "Satelitski snimci pokazuju da je u Bengaziju delimično potpljen ruski brod \"Merkur\"",
-  "Zelenski objavio snimak ukrajinskog napada na ruski ratni brod: Ukrajinci ga potopili sa 7 pomorskih dronova"
+  "Zelenski objavio snimak ukrajinskog napada na ruski ratni brod: Ukrajinci ga potopili sa 7 pomorskih dronova",
+  "Zelenski: Rusku korvetu \"Merkur\" u libijskoj luci potopili ukrajinski dronovi",
+  "Eksplodirao ruski ratni brod u Libiji, sumnja se da je pogođen ukrajinskim dronom: Rat se širi na Afriku? (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -102,8 +116,8 @@
   "alt": "a large boat floating on top of a body of water",
   "link": "https://unsplash.com/@dtrinksrph"
  },
- "novo_od_pisanja": 0,
- "boost": 1.48,
+ "novo_od_pisanja": 2,
+ "boost": 1.6,
  "prepisano": "2026-11-23T07:56:19.352941+00:00",
  "verzija": 2
 }

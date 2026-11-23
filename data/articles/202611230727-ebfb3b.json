@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T06:27:13.747833+00:00",
- "updated": "2026-11-23T07:26:35.693653+00:00",
+ "updated": "2026-11-23T08:26:06.093336+00:00",
  "sources": [
   {
    "name": "N1",
@@ -48,12 +48,19 @@
    "url": "https://www.danas.rs/vesti/ekonomija/protest-taksi-skupstina-grada/",
    "title": "Protest taksista od 9 i 30 do 12 sati na platou ispred Skupštine grada",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/taksi-protest-odluka/",
+   "title": "Sekretarijat priprema izmene odluke o taksi prevozu, taksisti protestuju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Protest taksista danas ispred Skupštine grada Beograda",
   "Protest taksista danas ispred Skupštine grada Beograda",
-  "Protest taksista od 9 i 30 do 12 sati na platou ispred Skupštine grada"
+  "Protest taksista od 9 i 30 do 12 sati na platou ispred Skupštine grada",
+  "Sekretarijat priprema izmene odluke o taksi prevozu, taksisti protestuju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Publikum_kalendar_Skupstina_grada_Beograda.jpg",
   "alt": "Taksisti protestuju ispred Skupštine grada zbog izmena Odluke o taksi prevozu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
