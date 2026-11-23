@@ -26,17 +26,24 @@
  ],
  "importance": 3,
  "published": "2026-11-23T17:52:32.310734+00:00",
- "updated": "2026-11-23T17:52:32.310734+00:00",
+ "updated": "2026-11-23T18:52:05.763223+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/300297/lego-ulaze-milijardu-evra-u-novu-fabriku-u-portugalu-bice-zaposleno-vise-od-1000-radnika/vest",
    "title": "Lego ulaže milijardu evra u novu fabriku u Portugalu, biće zaposleno više od 1.000 radnika",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253356/lego-ulaze-milijardu-evra-u-fabriku-u-portugalu/vest",
+   "title": "Lego ulaže milijardu evra u novu fabriku u Portugalu, zaposliće više od 1.000 radnika",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Lego ulaže milijardu evra u novu fabriku u Portugalu, biće zaposleno više od 1.000 radnika"
+  "Lego ulaže milijardu evra u novu fabriku u Portugalu, biće zaposleno više od 1.000 radnika",
+  "Lego ulaže milijardu evra u novu fabriku u Portugalu, zaposliće više od 1.000 radnika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Lego gradi novu fabriku u Portugalu vrednu oko milijardu evra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

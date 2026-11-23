@@ -1,0 +1,60 @@
+{
+ "id": "202611231952-fc66eb",
+ "slug": "sajber-napad-na-evropsku-komisiju-procureli-podaci-korisnika-eu",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Sajber napad na Evropsku komisiju: procureli podaci korisnika EU Akademije",
+ "lead": "Evropska komisija potvrdila je da su u sajber-napadu na njene sisteme kompromitovana imena i imejl adrese korisnika platforme EU Akademija. Odgovornost za napad zvanično nije pripisana, a medijski izveštaji o mogućoj kineskoj vezi zasnivaju se na neimenovanim izvorima.",
+ "body": [
+  "Komisija je saopštila da je napad pogodio sajt EU Akademija, koji nudi kurseve i informacije o politikama Evropske unije. Prema pisanju N1, portparol Komisije Tomas Renje izjavio je da broj osoba čiji su podaci ukradeni još nije poznat i da se to istražuje. Na sajtu platforme piše da je javni pristup privremeno onemogućen i da su preduzete mere za obuzdavanje napada i ublažavanje posledica.",
+  "Korisnici su upozoreni da budu oprezni zbog sumnjivih i neželjenih imejlova i poruka, kao i da ne dele lične podatke sa osobama koje ih kontaktiraju u vezi sa sajtom. Kurir navodi da Komisija upozorava na moguće fišing kampanje zasnovane na procurelim podacima.",
+  "Prve sumnjive aktivnosti u bazama podataka otkrivene su 22. oktobra, što je Komisija potvrdila prošle nedelje, navodi N1. Kurir piše da napad traje mesec dana i da još nije u potpunosti zaustavljen, dok je N1 zabeležio da Renje nije želeo da komentariše da li je višenedeljna kampanja suzbijena.",
+  "Kurir, pozivajući se na Juronjuz i dva neimenovana izvora, navodi da Komisija sumnja na hakersku grupu koju podržava Kina i da se napad interno vodi pod kodnim imenom „Panda“. Renje je u ponedeljak, prema istom izvoru, rekao da je za utvrđivanje odgovornosti potrebno da istraga bude završena, te da za sada nema pripisivanja odgovornosti. Kurir dodaje da kineska vlada dosledno negira da podržava hakerske grupe.",
+  "Agencija CERT-EU, nadležna za digitalnu bezbednost institucija EU, upozorila je 4. novembra na alat veštačke inteligencije ARTEX, namenjen otkrivanju bezbednosnih propusta. Ocenila je, kako prenosi N1, da je „veoma verovatno“ da je korišćen u napadima na organizacije iz njene nadležnosti, ali nije potvrdila da je Komisija bila direktna meta. Kurir navodi da stručnjaci nisu potvrdili krađu podataka zaposlenih u Komisiji, da je deo internih aplikacija preventivno isključen i da je glavni sindikat zaposlenih oštro kritikovao postupanje rukovodstva tokom incidenta."
+ ],
+ "tags": [
+  "Evropska komisija",
+  "sajber napad",
+  "EU Akademija",
+  "curenje podataka",
+  "ARTEX",
+  "CERT-EU"
+ ],
+ "people": [
+  "Tomas Renje"
+ ],
+ "places": [
+  "Brisel"
+ ],
+ "importance": 5,
+ "published": "2026-11-23T18:52:05.763223+00:00",
+ "updated": "2026-11-23T18:52:05.763223+00:00",
+ "sources": [
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/sajber-napad-sajt-evropske-komisije/",
+   "title": "Sajber napad na jedan od sajtova Evropske komisije: Preuzeti lični podaci korisnika",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10170727/sajber-napad-na-evropsku-komisiju-sumnja-se-na-kineske-hakere",
+   "title": "SAJBER NAPAD TRESE EVROPSKU UNIJU! Hakeri već mesec dana haraju sistemima Evropske komisije, procureli lični podaci: Sumnja se na moćnog igrača iz senke!",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Sajber napad na jedan od sajtova Evropske komisije: Preuzeti lični podaci korisnika",
+  "SAJBER NAPAD TRESE EVROPSKU UNIJU! Hakeri već mesec dana haraju sistemima Evropske komisije, procureli lični podaci: Sumnja se na moćnog igrača iz senke!"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 2.574,
+ "image": {
+  "src": "foto/pariz.jpg",
+  "credit": "Pexels",
+  "ilustracija": true,
+  "local": true,
+  "alt": "Sajber napad na Evropsku komisiju: procureli podaci korisnika EU Akademije"
+ }
+}

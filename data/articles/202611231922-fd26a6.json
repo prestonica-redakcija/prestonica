@@ -33,17 +33,24 @@
  ],
  "importance": 3,
  "published": "2026-11-23T18:22:28.432581+00:00",
- "updated": "2026-11-23T18:22:28.432581+00:00",
+ "updated": "2026-11-23T18:52:05.763223+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/drustvo/300303/bez-zadrzavanja-na-rampama-auto-puteva-i-na-putnickim-terminalima-granicnih-prelaza/vest",
    "title": "Bez zadržavanja na rampama auto-puteva i na putničkim terminalima graničnih prelaza",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4438380-ovo-je-trenutno-stanje-o-guzvi-na-rampama-i-auto-putevima-u-srbiji",
+   "title": "Najnovije informacije o gužvama na naplatnim rampama i auto-putevima u Srbiji",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Bez zadržavanja na rampama auto-puteva i na putničkim terminalima graničnih prelaza"
+  "Bez zadržavanja na rampama auto-puteva i na putničkim terminalima graničnih prelaza",
+  "Najnovije informacije o gužvama na naplatnim rampama i auto-putevima u Srbiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Bez zadržavanja na naplatnim stanicama i putničkim terminalima, kamioni čekaju do dva sata"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

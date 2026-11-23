@@ -38,17 +38,24 @@
  ],
  "importance": 5,
  "published": "2026-11-23T08:26:06.093336+00:00",
- "updated": "2026-11-23T08:26:06.093336+00:00",
+ "updated": "2026-11-23T18:52:05.763223+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/bbc-news-serbian/najubedljivija-vecina-demokratske-stranke-u-americkom-kongresu-od-1992-godine/",
    "title": "Najubedljivija većina Demokratske stranke u američkom Kongresu od 1992. godine",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/demokrate-u-predstavnickom-domu-kongresa-sad-sada-imaju-najveci-broj-poslanika-jos-od-1992-godine",
+   "title": "Demokrate u Predstavničkom domu Kongresa SAD imaju najveći broj poslanika još od 1992. godine",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Najubedljivija većina Demokratske stranke u američkom Kongresu od 1992. godine"
+  "Najubedljivija većina Demokratske stranke u američkom Kongresu od 1992. godine",
+  "Demokrate u Predstavničkom domu Kongresa SAD imaju najveći broj poslanika još od 1992. godine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "alt": "white concrete building under cloudy sky during daytime",
   "link": "https://unsplash.com/@haroldrmendoza"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
