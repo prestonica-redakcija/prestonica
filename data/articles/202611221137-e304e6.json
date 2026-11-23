@@ -34,7 +34,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T10:37:27.040538+00:00",
- "updated": "2026-11-22T14:50:08.508958+00:00",
+ "updated": "2026-11-23T15:08:19.469711+00:00",
  "sources": [
   {
    "name": "B92",
@@ -53,12 +53,33 @@
    "url": "https://www.kurir.rs/crna-hronika/10169545/stanko-pajovic-iz-vranja-nestao-na-skadarskom-jezeru",
    "title": "STANKO PAJOVIĆ IZ VRANJA NESTAO NA SKADARSKOM JEZERU: Juče otišao u lov, poslednji put se javio porodici u 14.20!",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/region/pronadjeno-telo-ribolovca-za-kojim-se-tragalo-na-skadarskom-jezeru/",
+   "title": "Pronađeno telo ribolovca za kojim se tragalo na Skadarskom jezeru",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4438272-na-skadarskom-jezeru-pronadjeno-telo-stanka-pajovica-za-ribolovcem-se-tragalo-od-subote",
+   "title": "Na Skadarskom jezeru pronađeno telo Stanka Pajovića: Za ribolovcem se tragalo od subote",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/region/crna-gora/10170498/na-skadarskom-jezeru-pronadjeno-telo-ribolovca-stanka-pajovica",
+   "title": "HOROR NA SKADARSKOM JEZERU! Pronađeno telo Stanka Pajovića!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Nestao muškarac kod Skadarskog jezera; Odmah pokrenuta potraga",
   "Nestao Stanko iz Vranja na Skadarskom jezeru, u toku velika potraga",
-  "STANKO PAJOVIĆ IZ VRANJA NESTAO NA SKADARSKOM JEZERU: Juče otišao u lov, poslednji put se javio porodici u 14.20!"
+  "STANKO PAJOVIĆ IZ VRANJA NESTAO NA SKADARSKOM JEZERU: Juče otišao u lov, poslednji put se javio porodici u 14.20!",
+  "Pronađeno telo ribolovca za kojim se tragalo na Skadarskom jezeru",
+  "Na Skadarskom jezeru pronađeno telo Stanka Pajovića: Za ribolovcem se tragalo od subote",
+  "HOROR NA SKADARSKOM JEZERU! Pronađeno telo Stanka Pajovića!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +92,6 @@
   "alt": "a small boat floating on top of a large body of water",
   "link": "https://unsplash.com/@alexxingplus"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

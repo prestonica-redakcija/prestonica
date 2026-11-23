@@ -30,17 +30,24 @@
  ],
  "importance": 7,
  "published": "2026-11-23T13:39:09.854940+00:00",
- "updated": "2026-11-23T13:39:09.854940+00:00",
+ "updated": "2026-11-23T15:08:19.469711+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/sapiceva-imovina-pod-lupom-tuzilastva-proveravaju-nekretninu-u-trstu-bankovne-racune-i-ugovore-u-beogradu/",
    "title": "Šapićeva imovina pod lupom Tužilaštva: Proveravaju nekretninu u Trstu, bankovne račune i ugovore u Beogradu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10170523/tuzilastvo-proverava-sapicevu-imovinu-u-trstu",
+   "title": "TUŽILAŠTVO PROVERAVA ŠAPIĆEVU IMOVINU U TRSTU: Treće OJT traži od Italije podatke o računima, transferima i poreklu novca za kupovinu nekretnina",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Šapićeva imovina pod lupom Tužilaštva: Proveravaju nekretninu u Trstu, bankovne račune i ugovore u Beogradu"
+  "Šapićeva imovina pod lupom Tužilaštva: Proveravaju nekretninu u Trstu, bankovne račune i ugovore u Beogradu",
+  "TUŽILAŠTVO PROVERAVA ŠAPIĆEVU IMOVINU U TRSTU: Treće OJT traži od Italije podatke o računima, transferima i poreklu novca za kupovinu nekretnina"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Tužilaštvo proverava Šapićevu imovinu, među ostalim nekretninu u Trstu i račune"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

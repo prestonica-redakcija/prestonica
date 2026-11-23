@@ -24,7 +24,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T14:53:23.090850+00:00",
- "updated": "2026-11-23T14:53:23.090850+00:00",
+ "updated": "2026-11-23T15:08:19.469711+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -37,11 +37,25 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4438262-u-domu-zdravlja-nis-u-sredu-preventivni-pregledi-dojki-za-zene-starije-od-45-godina",
    "title": "U Domu zdravlja Niš u sredu preventivni pregledi dojki za žene starije od 45 godina",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300246/preventivni-pregledi-u-okviru-mobilne-ambulante-dz-nis-danas-u-gornjem-komrenu/vest",
+   "title": "Preventivni pregledi u okviru mobilne ambulante DZ Niš danas u Gornjem Komrenu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4438252-preventivni-pregledi-u-okviru-mobilne-ambulante-doma-zdravlja-nis-danas-u-gornjem-komrenu",
+   "title": "Preventivni pregledi u okviru mobilne ambulante Doma zdravlja Niš danas u Gornjem Komrenu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "U Domu zdravlja Niš u sredu preventivni pregledi dojki za žene starije od 45 godina",
-  "U Domu zdravlja Niš u sredu preventivni pregledi dojki za žene starije od 45 godina"
+  "U Domu zdravlja Niš u sredu preventivni pregledi dojki za žene starije od 45 godina",
+  "Preventivni pregledi u okviru mobilne ambulante DZ Niš danas u Gornjem Komrenu",
+  "Preventivni pregledi u okviru mobilne ambulante Doma zdravlja Niš danas u Gornjem Komrenu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Dom_zdravlja_Ni%C5%A1.jpg",
   "alt": "Niš: u sredu preventivni pregledi dojki za žene starije od 45 godina"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

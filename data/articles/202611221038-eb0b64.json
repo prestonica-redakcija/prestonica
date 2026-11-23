@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-22T09:38:00.767363+00:00",
- "updated": "2026-11-23T14:53:23.090850+00:00",
+ "updated": "2026-11-23T15:08:19.469711+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -81,6 +81,12 @@
    "url": "https://informer.rs/politika/vesti/1172524/aleksandar-sapic-glasanje-smena-gradonacelnik",
    "title": "Šapić ostaje gradonačelnik Beograda: Održana sednica Skupštine grada, predlog opozicije nije usvojen",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4438279-usvojen-rebalans-budzeta-evo-i-gde",
+   "title": "Usvojen rebalans budžeta: Evo i gde",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -91,7 +97,8 @@
   "Evo kako izgleda tajno glasanje o nepoverenju Aleksandru Šapiću u Skupštini grada",
   "Odbornici Skupštine Beograda glasaju o razrešenju Šapića",
   "ZAVRŠENO GLASANjE O SMENI ALEKSANDRA ŠAPIĆA: Posle sednice u Skupštini grada predlog nije usvojen",
-  "Šapić ostaje gradonačelnik Beograda: Održana sednica Skupštine grada, predlog opozicije nije usvojen"
+  "Šapić ostaje gradonačelnik Beograda: Održana sednica Skupštine grada, predlog opozicije nije usvojen",
+  "Usvojen rebalans budžeta: Evo i gde"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -104,6 +111,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Publikum_kalendar_Skupstina_grada_Beograda.jpg",
   "alt": "Skupština Beograda sutra raspravlja o zahtevu za razrešenje gradonačelnika Šapića"
  },
- "novo_od_pisanja": 7,
- "boost": 1.56
+ "novo_od_pisanja": 8,
+ "boost": 1.6
 }
