@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T12:39:18.637197+00:00",
- "updated": "2026-11-23T13:09:05.490848+00:00",
+ "updated": "2026-11-23T13:24:04.000367+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,12 +48,33 @@
    "url": "https://www.youtube.com/watch?v=N0Wv97MmXxI",
    "title": "Vučić: Vladimir Savić pristupio Srpskoj naprednoj stranci",
    "spektar": "stranka"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/vesti/zorana-mihajlovic-ponovo-u-sns-u",
+   "title": "Zorana Mihajlović ponovo u SNS-u",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/287418/zorana-mihajlovic-ponovo-u-sns-posle-pet-godina/vest",
+   "title": "Zorana Mihajlović ponovo u SNS – posle pet godina",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/zorana-mihajlovic-se-vratila-u-sns/",
+   "title": "Zorana Mihajlović se ponovo učlanila u SNS",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Zorana Mihajlović ponovo u SNS; Vučić: Cenim ljude koji pod pritiskom pokazuju hrabrost",
   "Vučić: Zorana Mihajlović ponovo u Srpskoj naprednoj stranci",
-  "Vučić: Vladimir Savić pristupio Srpskoj naprednoj stranci"
+  "Vučić: Vladimir Savić pristupio Srpskoj naprednoj stranci",
+  "Zorana Mihajlović ponovo u SNS-u",
+  "Zorana Mihajlović ponovo u SNS – posle pet godina",
+  "Zorana Mihajlović se ponovo učlanila u SNS"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +89,6 @@
   "izvor_x": true,
   "alt": "Zorana Mihajlović posle skoro pet godina ponovo u SNS, Vučić je dočekao u Novom Beogradu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

@@ -31,17 +31,24 @@
  ],
  "importance": 7,
  "published": "2026-11-23T08:40:57.565229+00:00",
- "updated": "2026-11-23T08:40:57.565229+00:00",
+ "updated": "2026-11-23T13:24:04.000367+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/english/news/eu-delegation-to-serbia-cupic-will-not-attend-western-balkans-summit-in-brussels/",
    "title": "EU Delegation to Serbia: Cupic will not attend Western Balkans Summit in Brussels",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/english/news/european-commission-to-n1-on-serbias-absence-from-eu-western-balkans-summit/",
+   "title": "European Commission to N1 on Serbia’s absence from EU-Western Balkans Summit",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "EU Delegation to Serbia: Cupic will not attend Western Balkans Summit in Brussels"
+  "EU Delegation to Serbia: Cupic will not attend Western Balkans Summit in Brussels",
+  "European Commission to N1 on Serbia’s absence from EU-Western Balkans Summit"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Ćupić neće prisustvovati samitu EU i Zapadnog Balkana u Briselu, saopštila Delegacija EU"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

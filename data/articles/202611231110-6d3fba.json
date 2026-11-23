@@ -27,17 +27,24 @@
  ],
  "importance": 3,
  "published": "2026-11-23T10:10:21.132289+00:00",
- "updated": "2026-11-23T10:10:21.132289+00:00",
+ "updated": "2026-11-23T13:24:04.000367+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/svet/politika/300124/sancez-predlozio-novi-porez-na-bogatstvo-vece-od-100-miliona-evra/vest",
    "title": "Sančez predložio novi porez na bogatstvo veće od 100 miliona evra",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/287349/sancez-predlozio-novi-porez-na-bogatstvo-vece-od-100-miliona-evra/vest",
+   "title": "Novi porez za najbogatije u Španiji: Sančez očekuje dve milijarde evra godišnje",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Sančez predložio novi porez na bogatstvo veće od 100 miliona evra"
+  "Sančez predložio novi porez na bogatstvo veće od 100 miliona evra",
+  "Novi porez za najbogatije u Španiji: Sančez očekuje dve milijarde evra godišnje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Sančez predlaže porez na bogatstvo preko 100 miliona evra, cilj oko dve milijarde godišnje"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

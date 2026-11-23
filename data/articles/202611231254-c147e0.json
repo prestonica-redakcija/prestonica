@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T11:54:36.696000+00:00",
- "updated": "2026-11-23T13:09:05.490848+00:00",
+ "updated": "2026-11-23T13:24:04.000367+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -84,6 +84,12 @@
    "url": "https://n1info.rs/region/evropski-parlament-ove-nedelje-glasa-o-rezoluciji-o-vukovaru-sta-se-trazi-od-srbije/",
    "title": "Evropski parlament ove nedelje glasa o rezoluciji o Vukovaru - šta se traži od Srbije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/evropski-parlament-u-cetvrtak-glasa-o-rezoluciji-o-vukovaru-od-srbije-se-traze-ratni-arhivi-i-podaci-o-grobnicama",
+   "title": "Evropski parlament u četvrtak glasa o rezoluciji o Vukovaru: Od Srbije se traže ratni arhivi i podaci o grobnicama",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -95,7 +101,8 @@
   "Studenti u blokadi: U predlogu rezolucije Evropskog parlamenta zanemarena stradanja srpskih civila u Hrvatskoj",
   "Studenti u blokadi: \"U predlogu rezolucije EP zanemarena stradanja srpskih civila u Hrvatskoj\"",
   "Studenti u blokadi protiv predloga rezolucije EP o Vukovaru: Ne doprinosi pomirenju i objektivnom sagledavanju istorije",
-  "Evropski parlament ove nedelje glasa o rezoluciji o Vukovaru - šta se traži od Srbije"
+  "Evropski parlament ove nedelje glasa o rezoluciji o Vukovaru - šta se traži od Srbije",
+  "Evropski parlament u četvrtak glasa o rezoluciji o Vukovaru: Od Srbije se traže ratni arhivi i podaci o grobnicama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -107,8 +114,8 @@
   "local": true,
   "alt": "Studenti u blokadi kritikovali predlog rezolucije Evropskog parlamenta o Vukovaru"
  },
- "novo_od_pisanja": 1,
- "boost": 1.56,
+ "novo_od_pisanja": 2,
+ "boost": 1.6,
  "prepisano": "2026-11-23T12:54:15.099579+00:00",
  "verzija": 2
 }

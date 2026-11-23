@@ -24,17 +24,38 @@
  ],
  "importance": 4,
  "published": "2026-11-23T11:54:36.696000+00:00",
- "updated": "2026-11-23T11:54:36.696000+00:00",
+ "updated": "2026-11-23T13:24:04.000367+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/300175/danas-konsultacije-predstavnika-poslanickih-grupa-o-daljem-toku-konstitutivne-sednice/vest",
    "title": "Danas konsultacije predstavnika poslaničkih grupa o daljem toku konstitutivne sednice",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673918/skupstini-srbije-pocele-konsultacije-daljem-toku-konstitutivne-sednice",
+   "title": "U Skupštini Srbije počele konsultacije o daljem toku konstitutivne sednice",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/287360/pocele-konsultacije-o-daljem-toku-konstitutivne-sednice/vest",
+   "title": "Počele konsultacije o daljem toku konstitutivne sednice",
+   "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253315/konsultacije-poslanickih-grupa-u-skupstini-srbije/vest",
+   "title": "Počele konsultacije poslaničkih grupa u Skupštini Srbije o daljem toku konstitutivne sednice",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Danas konsultacije predstavnika poslaničkih grupa o daljem toku konstitutivne sednice"
+  "Danas konsultacije predstavnika poslaničkih grupa o daljem toku konstitutivne sednice",
+  "U Skupštini Srbije počele konsultacije o daljem toku konstitutivne sednice",
+  "Počele konsultacije o daljem toku konstitutivne sednice",
+  "Počele konsultacije poslaničkih grupa u Skupštini Srbije o daljem toku konstitutivne sednice"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +67,7 @@
   "local": false,
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

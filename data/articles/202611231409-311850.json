@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T13:09:05.490848+00:00",
- "updated": "2026-11-23T13:09:05.490848+00:00",
+ "updated": "2026-11-23T13:24:04.000367+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -38,11 +38,32 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4438163-uhapsen-muskarac-29-u-smederevu-zbog-silovanja-presreo-zrtvu-na-ulici-i-uvukao-je-u-napustenu-kucu",
    "title": "Uhapšen muškarac (29) u Smederevu zbog silovanja: Presreo žrtvu na ulici i uvukao je u napuštenu kuću",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10170308/smederevska-policija-saopstila-detalje-hapsenja-silovatelja",
+   "title": "OTKRIVENO KO JE UHAPŠENI SILOVATELJ IZ SMEDEREVA: Oglasila se policija, napasniku određeno zadržavanje!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300210/policija-u-smederevu-uhapsila-muskarca-osumnjicenog-za-silovanje/vest",
+   "title": "Policija u Smederevu uhapsila muškarca osumnjičenog za silovanje",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/uhapsen-muskarac-u-smederevu-osumnjicen-za-silovanje/",
+   "title": "Uhapšen muškarac u Smederevu osumnjičen za silovanje",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "HOROR U SMEDEREVU! UHAPŠEN SILOVATELJ: Presreo ženu na putu do posla, odvukao je u napuštenu kuću i napastvovao je",
-  "Uhapšen muškarac (29) u Smederevu zbog silovanja: Presreo žrtvu na ulici i uvukao je u napuštenu kuću"
+  "Uhapšen muškarac (29) u Smederevu zbog silovanja: Presreo žrtvu na ulici i uvukao je u napuštenu kuću",
+  "OTKRIVENO KO JE UHAPŠENI SILOVATELJ IZ SMEDEREVA: Oglasila se policija, napasniku određeno zadržavanje!",
+  "Policija u Smederevu uhapsila muškarca osumnjičenog za silovanje",
+  "Uhapšen muškarac u Smederevu osumnjičen za silovanje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +75,7 @@
   "local": false,
   "alt": "cars parked in front of store during night time",
   "link": "https://unsplash.com/@hiepdaiduong93"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

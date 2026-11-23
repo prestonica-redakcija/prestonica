@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T13:09:05.490848+00:00",
- "updated": "2026-11-23T13:09:05.490848+00:00",
+ "updated": "2026-11-23T13:24:04.000367+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,12 +47,19 @@
    "url": "https://nova.rs/vesti/svet/alarm-u-nemackoj-i-danskoj-vise-od-650-skola-dobilo-pretnje-bombama-policija-na-nogama/",
    "title": "Alarm u Nemačkoj i Danskoj: Više od 650 škola dobilo pretnje bombama, policija na nogama",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/vise-od-600-pretnji-bombama-skolama-u-nemackoj-serije-pretecih-poruka-u-danskoj/",
+   "title": "Više od 600 pretnji bombama školama u Nemačkoj, serije pretećih poruka u Danskoj",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "U školama širom Danske stigle pretnje bombama",
   "Pretnje bombama u više od 650 škola u Nemačkoj, slične poruke stigle i u Dansku",
-  "Alarm u Nemačkoj i Danskoj: Više od 650 škola dobilo pretnje bombama, policija na nogama"
+  "Alarm u Nemačkoj i Danskoj: Više od 650 škola dobilo pretnje bombama, policija na nogama",
+  "Više od 600 pretnji bombama školama u Nemačkoj, serije pretećih poruka u Danskoj"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +71,7 @@
   "local": false,
   "alt": "waving blue and yellow flag",
   "link": "https://unsplash.com/@waldemarbrandt67w"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
