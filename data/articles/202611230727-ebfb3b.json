@@ -29,16 +29,23 @@
  ],
  "importance": 4,
  "published": "2026-11-23T06:27:13.747833+00:00",
- "updated": "2026-11-23T06:27:13.747833+00:00",
+ "updated": "2026-11-23T06:56:54.841202+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/protest-taksista-danas-ispred-skupstine-grada-beograda/",
    "title": "Protest taksista danas ispred Skupštine grada Beograda",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/protest-taksista-danas-ispred-skupstine-grada-beograda/",
+   "title": "Protest taksista danas ispred Skupštine grada Beograda",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Protest taksista danas ispred Skupštine grada Beograda",
   "Protest taksista danas ispred Skupštine grada Beograda"
  ],
  "author": "Redakcija Prestonice",
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Publikum_kalendar_Skupstina_grada_Beograda.jpg",
   "alt": "Taksisti protestuju ispred Skupštine grada zbog izmena Odluke o taksi prevozu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-21T20:15:28.244701+00:00",
- "updated": "2026-11-22T20:17:21.948506+00:00",
+ "updated": "2026-11-23T06:56:54.841202+00:00",
  "sources": [
   {
    "name": "B92",
@@ -40,11 +40,18 @@
    "url": "https://www.telegraf.rs/jetset/vesti-jetset/4437729-ko-je-novinar-marko-ivas-koji-je-intervjuisao-aleksandra-cupica",
    "title": "Ko je novinar Marko Ivas koji je intervjuisao Aleksandra Čupića",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673725/cupic-nece-ici-brisel-predsednik-skupstine-delegacijom",
+   "title": "ČUPIĆ NEĆE IĆI U BRISEL: Predsednik Skupštine sa delegacijom EU",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Novine: \"Nova vlast, stari ring\"; \"Srpska neće biti kamen oko vrata Beogradu\"",
-  "Ko je novinar Marko Ivas koji je intervjuisao Aleksandra Čupića"
+  "Ko je novinar Marko Ivas koji je intervjuisao Aleksandra Čupića",
+  "ČUPIĆ NEĆE IĆI U BRISEL: Predsednik Skupštine sa delegacijom EU"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,6 +64,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Stevan_Kragujevic,_Dragan_Tomic,_predsednik_Skupstine_SR_Srbije.JPG",
   "alt": "Aleksandar Čupić izabran za predsednika Skupštine Srbije u novom sazivu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

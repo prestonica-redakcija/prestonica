@@ -28,17 +28,24 @@
  ],
  "importance": 4,
  "published": "2026-11-23T06:42:06.394046+00:00",
- "updated": "2026-11-23T06:42:06.394046+00:00",
+ "updated": "2026-11-23T06:56:54.841202+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/drustvo/birodi-ani-brnabic-monitoring-propagande-nije-poziv-na-cenzuru-vec-ukazivanje-na-krsenje-medijskih-zakona/",
    "title": "BIRODI Ani Brnabić: Monitoring propagande nije poziv na cenzuru, već ukazivanje na kršenje medijskih zakona",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/birodi-monitoring-izborne-kampanje-nije-poziv-na-cenzuru-vec-ukazivanje-na-krsenje-medijskih-zakona/",
+   "title": "BIRODI: Monitoring izborne kampanje nije poziv na cenzuru već ukazivanje na kršenje medijskih zakona",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "BIRODI Ani Brnabić: Monitoring propagande nije poziv na cenzuru, već ukazivanje na kršenje medijskih zakona"
+  "BIRODI Ani Brnabić: Monitoring propagande nije poziv na cenzuru, već ukazivanje na kršenje medijskih zakona",
+  "BIRODI: Monitoring izborne kampanje nije poziv na cenzuru već ukazivanje na kršenje medijskih zakona"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "alt": "man in black crew neck t-shirt standing in front of people",
   "link": "https://unsplash.com/@carlynn"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

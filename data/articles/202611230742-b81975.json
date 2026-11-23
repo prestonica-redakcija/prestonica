@@ -28,17 +28,24 @@
  ],
  "importance": 3,
  "published": "2026-11-23T06:42:06.394046+00:00",
- "updated": "2026-11-23T06:42:06.394046+00:00",
+ "updated": "2026-11-23T06:56:54.841202+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/amss-pojacan-saobracaj-na-prilazima-vecim-gradovima-kisa-otezava-voznju/",
    "title": "AMSS: Pojačan saobraćaj na prilazima većim gradovima, kiša otežava vožnju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/amss-pojacan-saobracaj-na-prilazima-vecih-gradova-kisa-otezava-voznju/",
+   "title": "AMSS: Pojačan saobraćaj na prilazima većih gradova, kiša otežava vožnju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "AMSS: Pojačan saobraćaj na prilazima većim gradovima, kiša otežava vožnju"
+  "AMSS: Pojačan saobraćaj na prilazima većim gradovima, kiša otežava vožnju",
+  "AMSS: Pojačan saobraćaj na prilazima većih gradova, kiša otežava vožnju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "alt": "cars on road near trees",
   "link": "https://unsplash.com/@sickhews"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

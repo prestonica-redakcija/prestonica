@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T05:57:26.888889+00:00",
- "updated": "2026-11-23T06:27:13.747833+00:00",
+ "updated": "2026-11-23T06:56:54.841202+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -51,13 +51,20 @@
    "url": "https://n1info.rs/vesti/danas-hladno-i-vetrovito-sa-kisom-maksimalna-temperatura-od-sedam-do-13-stepeni/",
    "title": "Danas hladno i vetrovito, sa kišom, maksimalna temperatura od sedam do 13 stepeni",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/287254/vremenska-prognoza-za-ponedeljak-23-novembar/vest",
+   "title": "Hladno i kišovito u Srbiji – na planinama sneg",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Danas hladno sa kišom, na planinama sneg, temperatura do 13 stepeni",
   "Prognoza RHMZ za 23. novembar: Oblačno i osetno hladnije, mestimično sa kišom, na planinama sneg",
   "U Srbiji danas oblačno i osetno hladnije, mestimično sa kišom, na planinama sneg",
-  "Danas hladno i vetrovito, sa kišom, maksimalna temperatura od sedam do 13 stepeni"
+  "Danas hladno i vetrovito, sa kišom, maksimalna temperatura od sedam do 13 stepeni",
+  "Hladno i kišovito u Srbiji – na planinama sneg"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "local": true,
   "alt": "Danas osetno hladnije sa kišom, na planinama sneg, najviše do 13 stepeni"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

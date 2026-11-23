@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-22T06:24:50.675388+00:00",
- "updated": "2026-11-22T20:32:16.653407+00:00",
+ "updated": "2026-11-23T06:56:54.841202+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -56,13 +56,20 @@
    "url": "https://www.tanjug.rs/srbija/politika/300041/cupic-morace-da-se-menja-zakon-o-ministarstvima-bice-smanjen-broj/vest",
    "title": "Čupić: Moraće da se menja Zakon o ministarstvima, biće smanjen broj",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253241/cupic-sledi-izmena-zakona-o-ministarstvima-i-manje-resora/vest",
+   "title": "Čupić: Moraće da se menja Zakon o ministarstvima, biće smanjen broj resora",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "STUDENTSKA LISTA IMA JASAN PLAN! Buduća Vlada Srbije biće manja i mnogo efikasnija! Evo šta je PRVI KORAK do ispunjenja tog cilja!",
   "N1 Studio live: Šapić na dnevnom redu",
   "Čupić: Predstoje izmene Zakona o ministarstvima",
-  "Čupić: Moraće da se menja Zakon o ministarstvima, biće smanjen broj"
+  "Čupić: Moraće da se menja Zakon o ministarstvima, biće smanjen broj",
+  "Čupić: Moraće da se menja Zakon o ministarstvima, biće smanjen broj resora"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +83,6 @@
   "osoba": "Dejan Šoškić",
   "alt": "Čupić: Zakon o ministarstvima prvi na dnevnom redu, nova vlada verovatno manja"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
