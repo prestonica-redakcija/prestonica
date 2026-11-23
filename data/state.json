@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://www.telegraf.rs/vesti/beograd/4434998-tokom-noci-dvoje-lakse-povredjeno-u-dve-nezgode-hitna-pomoc-intervenisala-129-puta": "2026-11-18T05:54:43.813397+00:00",
-  "https://www.euronews.rs/biznis/biznis-vesti/252465/31-kompanija-dobilo-grantove-za-dekarbonizaciju-u-srbiji/vest": "2026-11-18T05:54:43.813397+00:00",
-  "https://n1info.rs/vesti/na-danasnji-dan-18-novembar-2026-godine/": "2026-11-18T05:54:43.813397+00:00",
-  "https://www.kurir.rs/stars/10164922/kako-su-komsije-pomagale-milanu-u-teskim-trenucima": "2026-11-18T05:54:43.813397+00:00",
-  "https://www.kurir.rs/stars/10164875/razliciti-pogledi-slobode-i-vojina-na-buducnost": "2026-11-18T05:54:43.813397+00:00",
   "https://www.tanjug.rs/srbija/politika/298640/danas-od-10-casova-nastavak-konstitutivne-sednice-novog-saziva-skupstine-srbije/vest": "2026-11-18T06:09:32.935768+00:00",
   "https://www.tanjug.rs/srbija/drustvo/298666/teretnjaci-na-izlazu-cekaju-najduze-na-batrovcima-sedam-sati-bez-snega-na-putevima/vest": "2026-11-18T06:09:32.935768+00:00",
   "https://insajder.net/teme/profesor-milos-besic-o-radu-novog-parlamenta-studentska-lista-moze-da-dozvoli-opoziciji-da-je-uvuce-u-blato-ili-da-ih-ogranici-na-civilizovan-nacin-video": "2026-11-18T06:09:32.935768+00:00",
@@ -5938,18 +5933,17 @@
   "https://www.kurir.rs/stars/10169597/dara-bubamara-opet-isprozivala-jk": "2026-11-23T05:27:54.459366+00:00",
   "https://www.euronews.rs/srbija/politika/253161/linta-kurti-nastavlja-progon-srba-rusenjem-na-gazivodama/vest": "2026-11-23T05:42:38.846068+00:00",
   "https://n1info.rs/biznis/najnoviji-oglasi-za-posao-23112026/": "2026-11-23T05:42:38.846068+00:00",
-  "https://www.telegraf.rs/4437802-ovo-su-najvaznije-odluke-o-srbiji-o-kojim-je-sinoc-pricao-aleksandar-cupic": "2026-11-23T05:42:38.846068+00:00"
+  "https://www.telegraf.rs/4437802-ovo-su-najvaznije-odluke-o-srbiji-o-kojim-je-sinoc-pricao-aleksandar-cupic": "2026-11-23T05:42:38.846068+00:00",
+  "https://nova.rs/magazin/vremenska-prognoza/vremenska-prognoza-23-novembar-2026/": "2026-11-23T05:57:26.888889+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4437804-prognoza-rhmz-za-23-novembar-oblacno-i-osetno-hladnije-mestimicno-sa-kisom-na-planinama-sneg": "2026-11-23T05:57:26.888889+00:00",
+  "https://www.euronews.rs/biznis/biznis-vesti/253149/kraj-spekulacijama-o-ceni-peleta-evo-sta-ceka-srbiju/vest": "2026-11-23T05:57:26.888889+00:00",
+  "https://www.kurir.rs/stars/10169444/ovako-izgleda-kuca-zorice-markovic-od-300-000-evra": "2026-11-23T05:57:26.888889+00:00",
+  "https://www.kurir.rs/zabava/zena/10163442/ispovest-devojke-koja-je-bila-u-haremu": "2026-11-23T05:57:26.888889+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-22T15:11+00:00",
-   "novih": 3,
-   "ukupno": 3673,
-   "sekundi": 413.1
-  },
   {
    "vreme": "2026-11-22T15:29+00:00",
    "novih": 6,
@@ -6303,6 +6297,12 @@
    "novih": 0,
    "ukupno": 3806,
    "sekundi": 513.5
+  },
+  {
+   "vreme": "2026-11-23T06:03+00:00",
+   "novih": 2,
+   "ukupno": 3808,
+   "sekundi": 351.8
   }
  ],
  "licnosti_foto": {
@@ -8970,7 +8970,7 @@
    "slug": "slavija-info-vucic-kao-satorska-pevacica-isecak-iz-emisije-aqkijyby5lw"
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -56506,7 +56506,7 @@
   "yt": "Hdk3ahufa64",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-23T05:43:28.550202+00:00",
+  "provereno": "2026-11-23T05:58:27.665528+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": true
  },
