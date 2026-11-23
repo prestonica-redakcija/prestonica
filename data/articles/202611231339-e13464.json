@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T12:39:18.637197+00:00",
- "updated": "2026-11-23T12:39:18.637197+00:00",
+ "updated": "2026-11-23T13:09:05.490848+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.youtube.com/watch?v=aMY8ErQfglY",
    "title": "Vučić: Zorana Mihajlović ponovo u Srpskoj naprednoj stranci",
    "spektar": "stranka"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=N0Wv97MmXxI",
+   "title": "Vučić: Vladimir Savić pristupio Srpskoj naprednoj stranci",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
   "Zorana Mihajlović ponovo u SNS; Vučić: Cenim ljude koji pod pritiskom pokazuju hrabrost",
-  "Vučić: Zorana Mihajlović ponovo u Srpskoj naprednoj stranci"
+  "Vučić: Zorana Mihajlović ponovo u Srpskoj naprednoj stranci",
+  "Vučić: Vladimir Savić pristupio Srpskoj naprednoj stranci"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "osoba": "Aleksandar Vučić",
   "izvor_x": true,
   "alt": "Zorana Mihajlović posle skoro pet godina ponovo u SNS, Vučić je dočekao u Novom Beogradu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

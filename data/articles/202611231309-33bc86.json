@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T12:09:30.329551+00:00",
- "updated": "2026-11-23T12:54:15.099579+00:00",
+ "updated": "2026-11-23T13:09:05.490848+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -40,11 +40,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/predao-se-vlasnik-i-direktor-firme-gat-za-kojim-je-bila-raspisana-poternica/",
    "title": "Predao se vlasnik i direktor firme GAT za kojim je bila raspisana poternica",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/predao-se-vlasnik-i-direktor-firme-gat-za-njim-bila-raspisana-potraga-zbog-zloupotreba/",
+   "title": "Predao se vlasnik i direktor firme GAT, za njim bila raspisana potraga zbog zloupotreba",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Predao se vlasnik i direktor firme GAT, za njim bila raspisana potraga zbog zloupotreba u vezi sa javnom nabavkom",
-  "Predao se vlasnik i direktor firme GAT za kojim je bila raspisana poternica"
+  "Predao se vlasnik i direktor firme GAT za kojim je bila raspisana poternica",
+  "Predao se vlasnik i direktor firme GAT, za njim bila raspisana potraga zbog zloupotreba"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,6 +64,6 @@
   "alt": "brown wooden tool on white surface",
   "link": "https://unsplash.com/@tingeyinjurylawfirm"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T11:54:36.696000+00:00",
- "updated": "2026-11-23T12:54:15.099579+00:00",
+ "updated": "2026-11-23T13:09:05.490848+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -78,6 +78,12 @@
    "url": "https://www.euronews.rs/srbija/politika/253310/studenti-u-blokadi-protiv-predloga-rezolucije-ep-o-vukovaru/vest",
    "title": "Studenti u blokadi protiv predloga rezolucije EP o Vukovaru: Ne doprinosi pomirenju i objektivnom sagledavanju istorije",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/region/evropski-parlament-ove-nedelje-glasa-o-rezoluciji-o-vukovaru-sta-se-trazi-od-srbije/",
+   "title": "Evropski parlament ove nedelje glasa o rezoluciji o Vukovaru - šta se traži od Srbije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -88,7 +94,8 @@
   "\"NE SLAŽEMO SE SA SADRŽINOM PREDLOGA REZOLUCIJE EP POVODOM PADA VUKOVARA\" Oglasili se studenti: Zanemarena stradanja srpskog stanovništva u Hrvatskoj!",
   "Studenti u blokadi: U predlogu rezolucije Evropskog parlamenta zanemarena stradanja srpskih civila u Hrvatskoj",
   "Studenti u blokadi: \"U predlogu rezolucije EP zanemarena stradanja srpskih civila u Hrvatskoj\"",
-  "Studenti u blokadi protiv predloga rezolucije EP o Vukovaru: Ne doprinosi pomirenju i objektivnom sagledavanju istorije"
+  "Studenti u blokadi protiv predloga rezolucije EP o Vukovaru: Ne doprinosi pomirenju i objektivnom sagledavanju istorije",
+  "Evropski parlament ove nedelje glasa o rezoluciji o Vukovaru - šta se traži od Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -100,8 +107,8 @@
   "local": true,
   "alt": "Studenti u blokadi kritikovali predlog rezolucije Evropskog parlamenta o Vukovaru"
  },
- "novo_od_pisanja": 0,
- "boost": 1.48,
+ "novo_od_pisanja": 1,
+ "boost": 1.56,
  "prepisano": "2026-11-23T12:54:15.099579+00:00",
  "verzija": 2
 }

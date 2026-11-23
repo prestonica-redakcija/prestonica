@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T08:23:46.278784+00:00",
- "updated": "2026-11-23T09:55:24.681617+00:00",
+ "updated": "2026-11-23T13:09:05.490848+00:00",
  "sources": [
   {
    "name": "N1",
@@ -53,13 +53,20 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/253253/penzije-u-srbiji-od-decembra-2026-vece-75-odsto/vest",
    "title": "Pored redovnog povećanja, najavljene i socijalne penzije: Ko bi imao pravo na njih?",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/region/vesti/287342/nova-pravila-od-1-januara-za-ovo-ce-se-placati-dodatnih-10-centi/vest",
+   "title": "Nova pravila od 1. januara: Za ovo će se plaćati dodatnih 10 centi",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Program Studentske liste o socijalnoj zaštiti: Veći dečji dodatak, socijalne penzije i nova prava za roditelje-negovatelje",
   "Program Studentske liste o socijalnoj zaštiti: Veći dečji dodatak, socijalne penzije i nova prava za roditelje-negovatelje",
   "Garantovanih 64.554 dinara za porodilje, veći dečji dodatak, socijalna penzija... Šta sve donosi program socijalne zaštite koji predlaže Studentska lista",
-  "Pored redovnog povećanja, najavljene i socijalne penzije: Ko bi imao pravo na njih?"
+  "Pored redovnog povećanja, najavljene i socijalne penzije: Ko bi imao pravo na njih?",
+  "Nova pravila od 1. januara: Za ovo će se plaćati dodatnih 10 centi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,6 +79,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Studentska lista najavljuje veći dečji dodatak i socijalne penzije"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

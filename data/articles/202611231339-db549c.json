@@ -31,17 +31,24 @@
  ],
  "importance": 6,
  "published": "2026-11-23T12:39:18.637197+00:00",
- "updated": "2026-11-23T12:39:18.637197+00:00",
+ "updated": "2026-11-23T13:09:05.490848+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/pavlovic-opozicija-od-2022-godine-govori-da-sapic-nije-dostojan-da-obavlja-nijednu-javnu-funkciju/",
    "title": "Pavlović: Opozicija od 2022. godine govori da Šapić nije dostojan da obavlja nijednu javnu funkciju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300113/opozicija-o-razlozima-zasto-sapic-ne-treba-da-ostane-na-funkciji-vlast-trazi-dokaze/vest",
+   "title": "Opozicija o razlozima zašto Šapić ne treba da ostane na funkciji, vlast traži dokaze",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Pavlović: Opozicija od 2022. godine govori da Šapić nije dostojan da obavlja nijednu javnu funkciju"
+  "Pavlović: Opozicija od 2022. godine govori da Šapić nije dostojan da obavlja nijednu javnu funkciju",
+  "Opozicija o razlozima zašto Šapić ne treba da ostane na funkciji, vlast traži dokaze"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "alt": "aerial view photography of room",
   "link": "https://unsplash.com/@internetztube"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
