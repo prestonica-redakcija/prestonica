@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T14:53:23.090850+00:00",
- "updated": "2026-11-23T14:53:23.090850+00:00",
+ "updated": "2026-11-23T15:23:19.150328+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,32 @@
    "url": "https://ubrzanje.telegraf.rs/nauka-i-privreda/4438247-dzensen-huang-ponovo-bna-celu-nvidie",
    "title": "Džensen Huang ponovo na čelu Nvidie",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10170440/nvidia-vratila-dzensena-huanga-na-mesto-direktora-kompanije",
+   "title": "DŽENSEN HUANG VRAĆEN NA MESTO DIREKTORA NVIDIJE! Deonice drastično skočile! Doneta odluka svega 11 dana nakon što je podneo ostavku!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/dzensen-huang-ponovo-na-celu-envidije",
+   "title": "Džensen Huang ponovo na čelu Envidije",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://ubrzanje.telegraf.rs/nauka-i-privreda/4438289-detalji-o-dramaticnom-preokretu-ovo-su-razlozi-iz-kojih-je-dzensen-huang-vracen-na-celo-nvidie",
+   "title": "Detalji o dramatičnom preokretu: Ovo su razlozi iz kojih je Džensen Huang vraćen na čelo Nvidie",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Džensen Huang ponovo imenovan za generalnog direktora Nvidia: UO dobio \"mišljenje visokih predstavnika vlade SAD\"",
-  "Džensen Huang ponovo na čelu Nvidie"
+  "Džensen Huang ponovo na čelu Nvidie",
+  "DŽENSEN HUANG VRAĆEN NA MESTO DIREKTORA NVIDIJE! Deonice drastično skočile! Doneta odluka svega 11 dana nakon što je podneo ostavku!",
+  "Džensen Huang ponovo na čelu Envidije",
+  "Detalji o dramatičnom preokretu: Ovo su razlozi iz kojih je Džensen Huang vraćen na čelo Nvidie"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +79,7 @@
   "local": false,
   "alt": "the nvidia logo is displayed on a table",
   "link": "https://unsplash.com/@mariiaberezovsky"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

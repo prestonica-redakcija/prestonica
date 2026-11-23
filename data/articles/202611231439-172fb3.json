@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T13:39:09.854940+00:00",
- "updated": "2026-11-23T14:08:52.547352+00:00",
+ "updated": "2026-11-23T15:23:19.150328+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -47,11 +47,18 @@
    "url": "https://n1info.rs/vesti/foto-bakic-i-vucic-za-istim-stolom-konsultacije-u-skupstini-srbije/",
    "title": "(FOTO) Bakić i Vučić za istim stolom: Konsultacije u Skupštini Srbije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4438288-zavrsena-prva-runda-konsultacija-u-skupstini-srbije-evo-ko-je-sada-za-stolom",
+   "title": "Završena prva runda konsultacija u Skupštini Srbije: Evo ko je sada za stolom",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "VUČIĆ I BAKIĆ RAME UZ RAME, POČELE KONSULTACIJE U SKUPŠTINI! Prošli put predstavnike SNS i Studentske liste delila PRAZNA STOLICA, evo šta se sada dešava",
-  "(FOTO) Bakić i Vučić za istim stolom: Konsultacije u Skupštini Srbije"
+  "(FOTO) Bakić i Vučić za istim stolom: Konsultacije u Skupštini Srbije",
+  "Završena prva runda konsultacija u Skupštini Srbije: Evo ko je sada za stolom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "izvor_x": true,
   "alt": "U Skupštini počele konsultacije o nastavku konstitutivne sednice"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

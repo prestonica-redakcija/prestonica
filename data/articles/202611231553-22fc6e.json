@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T14:53:23.090850+00:00",
- "updated": "2026-11-23T14:53:23.090850+00:00",
+ "updated": "2026-11-23T15:23:19.150328+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,18 @@
    "url": "https://nova.rs/vesti/biznis/zavrsen-protest-taksista-u-beogradu-nema-informacija-o-ispunjenju-njihovih-zahteva/",
    "title": "Završen protest taksista u Beogradu: Nema informacija o ispunjenju njihovih zahteva",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/zavrsen-protest-taksista-ispred-skupstine-grada-saobracaj-uspostavljen-neizvesno-da-li-ce-zahtevi-biti-ispunjeni",
+   "title": "Završen protest taksista ispred Skupštine grada, saobraćaj uspostavljen, neizvesno da li će zahtevi biti ispunjeni",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Završen protest taksista u Beogradu, nema informacija o ispunjenju njihovih zahteva",
-  "Završen protest taksista u Beogradu: Nema informacija o ispunjenju njihovih zahteva"
+  "Završen protest taksista u Beogradu: Nema informacija o ispunjenju njihovih zahteva",
+  "Završen protest taksista ispred Skupštine grada, saobraćaj uspostavljen, neizvesno da li će zahtevi biti ispunjeni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "Taxis waiting outside a building at night",
   "link": "https://unsplash.com/@40uf411"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

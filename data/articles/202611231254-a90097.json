@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T11:54:36.696000+00:00",
- "updated": "2026-11-23T14:08:52.547352+00:00",
+ "updated": "2026-11-23T15:23:19.150328+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -62,6 +62,12 @@
    "url": "https://insajder.net/prenosimo/u-skupstini-srbije-pocele-konsultacije-o-daljem-toku-konstitutivne-sednice",
    "title": "U Skupštini Srbije počele konsultacije o daljem toku konstitutivne sednice",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/u-skupstini-srbije-pocele-konsultacije-sa-samostalnim-poslanicima",
+   "title": "U Skupštini Srbije počele konsultacije sa samostalnim poslanicima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -70,7 +76,8 @@
   "Počele konsultacije o daljem toku konstitutivne sednice",
   "Počele konsultacije poslaničkih grupa u Skupštini Srbije o daljem toku konstitutivne sednice",
   "U Skupštini Srbije počele konsultacije o daljem toku konstitutivne sednice",
-  "U Skupštini Srbije počele konsultacije o daljem toku konstitutivne sednice"
+  "U Skupštini Srbije počele konsultacije o daljem toku konstitutivne sednice",
+  "U Skupštini Srbije počele konsultacije sa samostalnim poslanicima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -83,8 +90,8 @@
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-23T13:39:09.854940+00:00",
  "verzija": 2
 }
