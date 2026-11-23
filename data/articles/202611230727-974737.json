@@ -23,7 +23,7 @@
  ],
  "importance": 2,
  "published": "2026-11-23T06:27:13.747833+00:00",
- "updated": "2026-11-23T06:56:54.841202+00:00",
+ "updated": "2026-11-23T07:41:28.074541+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,12 +42,19 @@
    "url": "https://nova.rs/vesti/hronika/dve-osobe-povredjene-u-dve-saobracajne-nezgode/",
    "title": "Dve osobe povređene u dve saobraćajne nezgode",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/beograd/10169864/dvoje-povredjenih-u-dve-saobracajke-teska-noc-za-astmaticare",
+   "title": "NOĆ U BEOGRADU: Dvoje povređenih u dve saobraćajke, teška noć za astmatičare",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Dve osobe povređene noćas u dva udesa u Beogradu",
   "U dve saobraćajne nezgode u Beogradu dve osobe lakše povređene",
-  "Dve osobe povređene u dve saobraćajne nezgode"
+  "Dve osobe povređene u dve saobraćajne nezgode",
+  "NOĆ U BEOGRADU: Dvoje povređenih u dve saobraćajke, teška noć za astmatičare"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,6 +67,6 @@
   "alt": "red vehicle in timelapse photography",
   "link": "https://unsplash.com/@camstejim"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

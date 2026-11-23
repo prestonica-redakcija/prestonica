@@ -31,17 +31,31 @@
  ],
  "importance": 6,
  "published": "2026-11-22T13:21:02.390418+00:00",
- "updated": "2026-11-22T13:21:02.390418+00:00",
+ "updated": "2026-11-23T07:41:28.074541+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/sta-se-moze-ocekivati-od-sutrasnje-sednice-skupstine-beograda/",
    "title": "Šta se može očekivati od sutrašnje sednice Skupštine Beograda?",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/dnevni-red-skupstina-beograda-sednica-rebalans-budzeta-smena-sapica/",
+   "title": "Šta je na dnevnom redu sednice Skupštine Beograda: Rebalans budžeta, smena gradonačelnika...",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/skupstina-grada-smena-sapic/",
+   "title": "Danas Skupština Beograda: Na dnevnom redu i smena gradonačelnika Šapića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Šta se može očekivati od sutrašnje sednice Skupštine Beograda?"
+  "Šta se može očekivati od sutrašnje sednice Skupštine Beograda?",
+  "Šta je na dnevnom redu sednice Skupštine Beograda: Rebalans budžeta, smena gradonačelnika...",
+  "Danas Skupština Beograda: Na dnevnom redu i smena gradonačelnika Šapića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +68,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Savo_Manojlovi%C4%87.png",
   "osoba": "Savo Manojlović",
   "alt": "Sednica Skupštine Beograda sutra: na dnevnom redu razrešenje Šapića i rebalans budžeta"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

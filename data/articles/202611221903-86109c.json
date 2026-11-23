@@ -33,7 +33,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T18:03:23.802504+00:00",
- "updated": "2026-11-23T06:12:18.130561+00:00",
+ "updated": "2026-11-23T07:41:28.074541+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -70,6 +70,12 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/300065/amss-na-granicnom-prelazu-batrovci-teretna-vozila-cekaju-tri-sata-na-izlaz/vest",
    "title": "AMSS: Na graničnom prelazu Batrovci teretna vozila čekaju tri sata na izlaz",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4437858-putevi-srbije-izmene-rezima-saobracaja-na-vise-deonica-zbog-radova",
+   "title": "Putevi Srbije: Izmene režima saobraćaja na više deonica zbog radova",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -78,7 +84,8 @@
   "Gužve na granicama, kamioni čekaju i do tri sata: Radovi na autoputu kod Beške menjaju režim saobraćaja",
   "Teretnjaci čekaju tri sata na izlazu iz zemlje na prelazu Šid",
   "Stanje na graničnim prelazima u 5 ujutru: Na Batrovcima teretna vozila čekaju tri sata na izlaz",
-  "AMSS: Na graničnom prelazu Batrovci teretna vozila čekaju tri sata na izlaz"
+  "AMSS: Na graničnom prelazu Batrovci teretna vozila čekaju tri sata na izlaz",
+  "Putevi Srbije: Izmene režima saobraćaja na više deonica zbog radova"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -91,6 +98,6 @@
   "alt": "People on a road near a white van and a tall metal tower",
   "link": "https://unsplash.com/@vikacfilms"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

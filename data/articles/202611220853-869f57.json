@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T07:53:59.172887+00:00",
- "updated": "2026-11-22T23:15:41.238686+00:00",
+ "updated": "2026-11-23T07:41:28.074541+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -50,12 +50,19 @@
    "url": "https://www.tanjug.rs/svet/politika/300060/kim-dzong-un-severna-koreja-spremna-da-se-zblizi-sa-zemljama-koje-postuju-njen-suverenitet/vest",
    "title": "Kim Džong Un: Severna Koreja spremna da se zbliži sa zemljama koje poštuju njen suverenitet",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287264/severna-koreja-spremna-da-se-zblizi-sa-zemljama-koje-je-postuju/vest",
+   "title": "Kim Džon Un: \"Spremni smo...\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Volstrit džurnal: Do sastanka Trampa i Kim Džong Una nije došlo zbog uslova Severne Koreje",
   "Šok iz Amerike; Kim Džong Un postavio uslove",
-  "Kim Džong Un: Severna Koreja spremna da se zbliži sa zemljama koje poštuju njen suverenitet"
+  "Kim Džong Un: Severna Koreja spremna da se zbliži sa zemljama koje poštuju njen suverenitet",
+  "Kim Džon Un: \"Spremni smo...\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "alt": "calm lake",
   "link": "https://unsplash.com/@hahacho"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
