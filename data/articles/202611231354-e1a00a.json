@@ -29,7 +29,7 @@
  ],
  "importance": 7,
  "published": "2026-11-23T12:54:15.099579+00:00",
- "updated": "2026-11-23T13:53:52.853775+00:00",
+ "updated": "2026-11-23T14:23:36.744222+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,18 @@
    "url": "https://nova.rs/vesti/politika/milivojevic-otkrio-bia-unutar-bia-situacioni-centar-za-hibridne-pretnje-pratio-studente-novinare-i-opozicione-politicare/",
    "title": "Milivojević otkrio \"BIA unutar BIA\": Situacioni centar za hibridne pretnje pratio studente, novinare i opozicione političare",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/milivojevic-ds-bia-imala-centar-za-nazakonit-nadzor-studenata-novinara-aktivista-i-politicara/",
+   "title": "Milivojević (DS): BIA imala centar za nazakonit nadzor studenata, novinara, aktivista i političara",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Milivojević otkrio \"BIA unutar BIA\": Situacioni centar za hibridne pretnje pratio studente, novinare i opozicione političare",
-  "Milivojević otkrio \"BIA unutar BIA\": Situacioni centar za hibridne pretnje pratio studente, novinare i opozicione političare"
+  "Milivojević otkrio \"BIA unutar BIA\": Situacioni centar za hibridne pretnje pratio studente, novinare i opozicione političare",
+  "Milivojević (DS): BIA imala centar za nazakonit nadzor studenata, novinara, aktivista i političara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "izvor_x": true,
   "alt": "Milivojević tvrdi da je u BIA postojao centar za praćenje studenata i opozicije"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

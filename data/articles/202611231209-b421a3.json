@@ -31,17 +31,24 @@
  ],
  "importance": 7,
  "published": "2026-11-23T11:09:53.766455+00:00",
- "updated": "2026-11-23T11:09:53.766455+00:00",
+ "updated": "2026-11-23T14:23:36.744222+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/bbc-news-serbian/nisu-stranci-smenili-vlast-urusila-se-sama-od-sebe-bivsi-sef-bia-za-bbc/",
    "title": "‘Nisu stranci smenili vlast, urušila se sama od sebe’: Bivši šef BIA za BBC",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/bivsi-direktor-bia-nisu-stranci-smenili-vlast-urusila-se-sama-od-sebe/",
+   "title": "Bivši direktor BIA: Nisu stranci smenili vlast, urušila se sama od sebe",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "‘Nisu stranci smenili vlast, urušila se sama od sebe’: Bivši šef BIA za BBC"
+  "‘Nisu stranci smenili vlast, urušila se sama od sebe’: Bivši šef BIA za BBC",
+  "Bivši direktor BIA: Nisu stranci smenili vlast, urušila se sama od sebe"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Ministar_Bratislav_Gasic_(cropped).jpg",
   "osoba": "Bratislav Gašić",
   "alt": "Bivši direktor BIA Đorđević za BBC: Vlast se urušila sama, reforma službi traje godinama"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

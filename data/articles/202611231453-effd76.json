@@ -32,17 +32,24 @@
  ],
  "importance": 7,
  "published": "2026-11-23T13:53:52.853775+00:00",
- "updated": "2026-11-23T13:53:52.853775+00:00",
+ "updated": "2026-11-23T14:23:36.744222+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1172497/aleksandar-vucic-milenko-jovanov-skupstina",
    "title": "Ovo se nije dogodilo 35 godina! Vučić nakon sastanka sa Čupićem: Poražavajuće! (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=mwmMyTqJ70k",
+   "title": "Vučić: Ovo se nije dogodilo 35 godina",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
-  "Ovo se nije dogodilo 35 godina! Vučić nakon sastanka sa Čupićem: Poražavajuće! (FOTO)"
+  "Ovo se nije dogodilo 35 godina! Vučić nakon sastanka sa Čupićem: Poražavajuće! (FOTO)",
+  "Vučić: Ovo se nije dogodilo 35 godina"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "osoba": "Aleksandar Vučić",
   "izvor_x": true,
   "alt": "Vučić: poslanička grupa do sutra odlučuje o učešću u radu skupštinskih odbora"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

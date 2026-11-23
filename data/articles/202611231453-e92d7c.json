@@ -31,17 +31,24 @@
  ],
  "importance": 6,
  "published": "2026-11-23T13:53:52.853775+00:00",
- "updated": "2026-11-23T13:53:52.853775+00:00",
+ "updated": "2026-11-23T14:23:36.744222+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/300220/petkovic-medunarodnoj-zajednici-zahtevajte-povlacenje-akata-pristine-koji-bi-ugrozili-prava-srba-i-spc/vest",
    "title": "Petković međunarodnoj zajednici: Zahtevajte povlačenje akata Prištine koji bi ugrozili prava Srba i SPC",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10170368/petar-petkovic-upozorava-na-prava-srba-na-kim",
+   "title": "PETKOVIĆ PISAO MEĐUNARODNOJ ZAJEDNICI: Sprečite dalje urušavanje prava i položaja Srba i SPC na KiM",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Petković međunarodnoj zajednici: Zahtevajte povlačenje akata Prištine koji bi ugrozili prava Srba i SPC"
+  "Petković međunarodnoj zajednici: Zahtevajte povlačenje akata Prištine koji bi ugrozili prava Srba i SPC",
+  "PETKOVIĆ PISAO MEĐUNARODNOJ ZAJEDNICI: Sprečite dalje urušavanje prava i položaja Srba i SPC na KiM"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "alt": "A large building with a clock tower on top of it",
   "link": "https://unsplash.com/@tbister98"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

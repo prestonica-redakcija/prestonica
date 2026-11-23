@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-22T09:38:00.767363+00:00",
- "updated": "2026-11-23T13:53:52.853775+00:00",
+ "updated": "2026-11-23T14:23:36.744222+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -69,6 +69,12 @@
    "url": "https://www.danas.rs/vesti/politika/odbornici-skupstine-beograda-glasaju-o-razresenju-sapica/",
    "title": "Odbornici Skupštine Beograda glasaju o razrešenju Šapića",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673936/zavrseno-glasanje-smeni-aleksandra-sapica-posle-sednice-skupstini-grada-predlog-nije-usvojen",
+   "title": "ZAVRŠENO GLASANjE O SMENI ALEKSANDRA ŠAPIĆA: Posle sednice u Skupštini grada predlog nije usvojen",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -77,7 +83,8 @@
   "SEDNICA SKUPŠTINE GRADA BEOGRADA ZAKAZANA ZA SUTRA: Odbornici raspravljaju o inicijativi za razrešenje gradonačelnika Aleksandra Šapića!",
   "Skupština grada danas o rebalansu budžeta i inicijativi za razrešenje Šapića",
   "Evo kako izgleda tajno glasanje o nepoverenju Aleksandru Šapiću u Skupštini grada",
-  "Odbornici Skupštine Beograda glasaju o razrešenju Šapića"
+  "Odbornici Skupštine Beograda glasaju o razrešenju Šapića",
+  "ZAVRŠENO GLASANjE O SMENI ALEKSANDRA ŠAPIĆA: Posle sednice u Skupštini grada predlog nije usvojen"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -90,6 +97,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Publikum_kalendar_Skupstina_grada_Beograda.jpg",
   "alt": "Skupština Beograda sutra raspravlja o zahtevu za razrešenje gradonačelnika Šapića"
  },
- "novo_od_pisanja": 5,
- "boost": 1.4
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }
