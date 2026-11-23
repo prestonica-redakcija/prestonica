@@ -24,7 +24,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T04:13:29.356392+00:00",
- "updated": "2026-11-23T06:12:18.130561+00:00",
+ "updated": "2026-11-23T07:26:35.693653+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -37,11 +37,18 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1673415/dinar-slabiji-prema-evru-dolaru-kursna-lista-ponedeljak-23-novembar",
    "title": "DINAR SLABIJI PREMA EVRU I DOLARU: Kursna lista za ponedeljak, 23. novembar",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/nbs-objavila-koliki-je-kurs-evra-danas/",
+   "title": "NBS objavila koliki je kurs evra danas",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Kurs evra i dolara danas u Srbiji: Objavljena kursna lista Narodne banke Srbije",
-  "DINAR SLABIJI PREMA EVRU I DOLARU: Kursna lista za ponedeljak, 23. novembar"
+  "DINAR SLABIJI PREMA EVRU I DOLARU: Kursna lista za ponedeljak, 23. novembar",
+  "NBS objavila koliki je kurs evra danas"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,6 +61,6 @@
   "alt": "A scattered pile of various euro banknotes including twenty, one hundred, and two hundred denominations",
   "link": "https://unsplash.com/@ibrahimboran"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
