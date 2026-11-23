@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T10:55:00.391086+00:00",
- "updated": "2026-11-23T20:51:11.195466+00:00",
+ "updated": "2026-11-23T21:21:03.962621+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -60,6 +60,12 @@
    "url": "https://insajder.net/prenosimo/gasic-studentska-lista-sutra-sa-medunarodnom-zajednicom-o-rizicima-nacrta-zakona-o-centralnom-inspektoratu",
    "title": "Gašić (Studentska lista): Sutra sa međunarodnom zajednicom o rizicima nacrta zakona o centralnom inspektoratu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674059/studentska-lista-razgovarace-medjunarodnim-predstavnicima-novom-pristinskom-zakonu",
+   "title": "Studentska lista razgovaraće sa međunarodnim predstavnicima o novom prištinskom zakonu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -67,7 +73,8 @@
   "Jugoslav Gašić: Razgovaraćemo sa međunarodnim predstavnicima o zakonu o centralnom inspektoratu",
   "Zakon o centralnom inspektoratu na KiM: Studentska lista najavljuje razgovore sa međunarodnom zajednicom",
   "STUDENTSKA LISTA TRAŽI PROMENE U ZAKONU O KULTURNOM NASLEĐU Gašić: Razgovaraćemo sa međunarodnim predstavnicima o centralnom inspektoratu",
-  "Gašić (Studentska lista): Sutra sa međunarodnom zajednicom o rizicima nacrta zakona o centralnom inspektoratu"
+  "Gašić (Studentska lista): Sutra sa međunarodnom zajednicom o rizicima nacrta zakona o centralnom inspektoratu",
+  "Studentska lista razgovaraće sa međunarodnim predstavnicima o novom prištinskom zakonu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,8 +87,8 @@
   "alt": "A dry riverbed runs through a town with hills behind",
   "link": "https://unsplash.com/@mfbeki"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-23T20:51:11.195466+00:00",
  "verzija": 2
 }

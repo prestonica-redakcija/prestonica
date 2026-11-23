@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T20:21:29.742156+00:00",
- "updated": "2026-11-23T20:21:29.742156+00:00",
+ "updated": "2026-11-23T21:21:03.962621+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -42,11 +42,18 @@
    "url": "https://www.youtube.com/watch?v=RwFVMDeAzVs",
    "title": "Nema budućnosti za društvo u kojem se narod plaši policije! Jovo BAKIĆ",
    "spektar": "desnica"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4438461-bakic-otkrio-koji-je-uslov-njegovog-ulaska-u-vladu-srbije-to-niko-ziv-ne-zna",
+   "title": "Bakić otkrio koji je uslov njegovog ulaska u Vladu Srbije: \"To niko živ ne zna...\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Jovo Bakić o novoj vladi i mogućnosti da bude ministar policije: \"To niko živ ne zna, ako me mandatar smatra neprijatnim čovekom...\"",
-  "Nema budućnosti za društvo u kojem se narod plaši policije! Jovo BAKIĆ"
+  "Nema budućnosti za društvo u kojem se narod plaši policije! Jovo BAKIĆ",
+  "Bakić otkrio koji je uslov njegovog ulaska u Vladu Srbije: \"To niko živ ne zna...\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "Rows of wooden chairs with cane backs and leather desks in a legislative chamber",
   "link": "https://unsplash.com/@kel_foto"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

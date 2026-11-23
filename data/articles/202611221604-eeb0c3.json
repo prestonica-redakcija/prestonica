@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T15:04:55.683026+00:00",
- "updated": "2026-11-23T21:06:03.760050+00:00",
+ "updated": "2026-11-23T21:21:03.962621+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -139,6 +139,12 @@
    "url": "https://www.tanjug.rs/svet/politika/300344/libija-ukrajinski-napad-na-luku-bengazi-je-ravan-objavi-rata/vest",
    "title": "Libija: Ukrajinski napad na luku Bengazi je ravan objavi rata",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/tripoli-optuzuje-kijev-napad-na-luku-bengazi-ravan-objavi-rata-libiji",
+   "title": "Tripoli optužuje Kijev: Napad na luku Bengazi ravan objavi rata Libiji",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -159,7 +165,8 @@
   "Peskov: Moskva primila znanju izjave Kijeva o napadu na ruske brodove kod Libije",
   "\"Putinov napad na Ukrajinu je mogao da bude sprečen\"",
   "Ukrajina potopila ruski ratni brod kod Libije: Nepoznato kako su dronovi stigli na Mediteran",
-  "Libija: Ukrajinski napad na luku Bengazi je ravan objavi rata"
+  "Libija: Ukrajinski napad na luku Bengazi je ravan objavi rata",
+  "Tripoli optužuje Kijev: Napad na luku Bengazi ravan objavi rata Libiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -172,7 +179,7 @@
   "alt": "a large boat floating on top of a body of water",
   "link": "https://unsplash.com/@dtrinksrph"
  },
- "novo_od_pisanja": 5,
+ "novo_od_pisanja": 6,
  "boost": 1.6,
  "prepisano": "2026-11-23T08:56:00.497462+00:00",
  "verzija": 3
