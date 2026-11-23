@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T14:08:52.547352+00:00",
- "updated": "2026-11-23T14:08:52.547352+00:00",
+ "updated": "2026-11-23T22:20:33.126631+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,11 +43,18 @@
    "url": "https://www.b92.net/info/svet/287404/zelenski-trazi-clanstvo-ukrajine-u-nato-u-umesto-garancija/vest",
    "title": "Zelenski ponovo pritiska NATO: \"Ukrajina želi članstvo, a ne obećanja o zaštiti\"",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287576/zelenski-rusija-planira-nove-napade-na-ukrajinu/vest",
+   "title": "Zelenski: \"Ukrajina je deo NATO-a\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Zelenski pozvao saveznike da razmotre pristupanje Ukrajine NATO-u",
-  "Zelenski ponovo pritiska NATO: \"Ukrajina želi članstvo, a ne obećanja o zaštiti\""
+  "Zelenski ponovo pritiska NATO: \"Ukrajina želi članstvo, a ne obećanja o zaštiti\"",
+  "Zelenski: \"Ukrajina je deo NATO-a\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "alt": "Apollo astronauts at a press conference",
   "link": "https://unsplash.com/@nasa"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

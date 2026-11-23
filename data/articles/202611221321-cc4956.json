@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T12:21:28.471038+00:00",
- "updated": "2026-11-22T12:21:28.471038+00:00",
+ "updated": "2026-11-23T22:20:33.126631+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,11 +44,25 @@
    "url": "https://insajder.net/prenosimo/babis-predlog-budzeta-eu-apsolutno-neprihvatljiv-za-cesku",
    "title": "Babiš: Predlog budžeta EU apsolutno neprihvatljiv za Češku",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/zemlje-visegradske-grupe-i-austrija-odbacile-predlog-budzeta-eu-za-period-2028-2034",
+   "title": "Zemlje Višegradske grupe i Austrija odbacile predlog budžeta EU za period 2028-2034.",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10170879/zemlje-v4-austrija-odbacile-predlog-budzeta-eu",
+   "title": "LIDERI PET ZEMALJA ODBACILI PREDLOG BUDŽETA EU: Višegradska grupa i Austrija traže izmene plana za period od 2028. do 2034. godine",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Andrej Babiš: Predlog budžeta EU apsolutno neprihvatljiv za Češku",
-  "Babiš: Predlog budžeta EU apsolutno neprihvatljiv za Češku"
+  "Babiš: Predlog budžeta EU apsolutno neprihvatljiv za Češku",
+  "Zemlje Višegradske grupe i Austrija odbacile predlog budžeta EU za period 2028-2034.",
+  "LIDERI PET ZEMALJA ODBACILI PREDLOG BUDŽETA EU: Višegradska grupa i Austrija traže izmene plana za period od 2028. do 2034. godine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +75,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Andrej_Babi%C5%A1_2025_(cropped).jpg",
   "osoba": "Andrej Babiš",
   "alt": "Babiš: Predlog budžeta EU za period 2028–2034. apsolutno neprihvatljiv za Češku"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

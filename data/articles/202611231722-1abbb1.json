@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T16:22:56.449660+00:00",
- "updated": "2026-11-23T19:51:50.591915+00:00",
+ "updated": "2026-11-23T22:20:33.126631+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,12 +51,26 @@
    "url": "https://www.tanjug.rs/svet/politika/300328/nato-salje-avion-za-rano-upozoravanje-u-poljsku-nakon-pada-ruskih-raketa/vest",
    "title": "NATO šalje avion za rano upozoravanje u Poljsku nakon pada ruskih raketa",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10170801/nato-salje-avion-awacs-u-poljsku-nakon-pada-ruskih-raketa",
+   "title": "NATO PODIGAO UZBUNU NA ISTOČNOM KRILU! Nakon pada ruskih raketa doneta hitna odluka: U akciju kreću \"oči Alijanse na nebu\"",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/zalevski-nato-salje-avion-za-rano-upozoravanje-u-poljsku-nakon-pada-ruskih-raketa",
+   "title": "Zalevski: NATO šalje avion za rano upozoravanje u Poljsku nakon pada ruskih raketa",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Poljska će tražiti snažniju protivvazdušnu odbranu NATO nakon upada ruskih raketa",
   "Poljska traži NATO pojačanje: Varšava radi na jačanju vazdušne odbrane",
-  "NATO šalje avion za rano upozoravanje u Poljsku nakon pada ruskih raketa"
+  "NATO šalje avion za rano upozoravanje u Poljsku nakon pada ruskih raketa",
+  "NATO PODIGAO UZBUNU NA ISTOČNOM KRILU! Nakon pada ruskih raketa doneta hitna odluka: U akciju kreću \"oči Alijanse na nebu\"",
+  "Zalevski: NATO šalje avion za rano upozoravanje u Poljsku nakon pada ruskih raketa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +83,6 @@
   "alt": "six fighter jets",
   "link": "https://unsplash.com/@uxgun"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

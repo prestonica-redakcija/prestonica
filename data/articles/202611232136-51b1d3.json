@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T20:36:28.314137+00:00",
- "updated": "2026-11-23T20:36:28.314137+00:00",
+ "updated": "2026-11-23T22:20:33.126631+00:00",
  "sources": [
   {
    "name": "N1",
@@ -43,11 +43,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/smer-uputio-zahtev-rts-u/",
    "title": "Sindikat SMER uputio zahtev rukovodstvu RTS-a zbog postupanja zaposlenih tokom blokade",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/sindikat-smer-uputio-zahtev-rukovodstvu-rts-a-zbog-postupanja-zaposlenih-tokom-blokade-ko-je-tajno-ulazio-u-zgradu-i-realizovao-program/",
+   "title": "Sindikat SMER uputio zahtev rukovodstvu RTS-a zbog postupanja zaposlenih tokom blokade: Ko je tajno ulazio u zgradu i realizovao program",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Sindikat SMER uputio zahtev rukovodstvu RTS-a zbog postupanja zaposlenih tokom blokade",
-  "Sindikat SMER uputio zahtev rukovodstvu RTS-a zbog postupanja zaposlenih tokom blokade"
+  "Sindikat SMER uputio zahtev rukovodstvu RTS-a zbog postupanja zaposlenih tokom blokade",
+  "Sindikat SMER uputio zahtev rukovodstvu RTS-a zbog postupanja zaposlenih tokom blokade: Ko je tajno ulazio u zgradu i realizovao program"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Sindikat SMER traži od RTS-a preispitivanje angažmana novinara koji su ulazili tokom blokade"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

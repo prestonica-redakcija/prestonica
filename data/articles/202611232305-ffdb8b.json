@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T22:05:45.618419+00:00",
- "updated": "2026-11-23T22:05:45.618419+00:00",
+ "updated": "2026-11-23T22:20:33.126631+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,11 +43,18 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10170866/patrijarh-porfirije-sastao-se-sa-nikitom-mihalkovim-u-moskvi",
    "title": "Porfirije se sastao sa Nikitom Mihalkovim u Moskvi: Razgovarali o vezama srpskog i ruskog naroda",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300351/porfirije-razgovarao-sa-mihalkovim-o-istorijskim-i-kulturnim-vezama-srbije-i-rusije/vest",
+   "title": "Porfirije razgovarao sa Mihalkovim o istorijskim i kulturnim vezama Srbije i Rusije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Porfirije razgovarao sa Mihalkovim o istorijskim i kulturnom vezama Srbije i Rusije",
-  "Porfirije se sastao sa Nikitom Mihalkovim u Moskvi: Razgovarali o vezama srpskog i ruskog naroda"
+  "Porfirije se sastao sa Nikitom Mihalkovim u Moskvi: Razgovarali o vezama srpskog i ruskog naroda",
+  "Porfirije razgovarao sa Mihalkovim o istorijskim i kulturnim vezama Srbije i Rusije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "alt": "people walking on street near brown and green building during daytime",
   "link": "https://unsplash.com/@randominstitute"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

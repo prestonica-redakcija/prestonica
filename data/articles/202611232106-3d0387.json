@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T20:06:36.832576+00:00",
- "updated": "2026-11-23T20:06:36.832576+00:00",
+ "updated": "2026-11-23T22:20:33.126631+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,11 +44,18 @@
    "url": "https://www.kurir.rs/planeta/10170785/japan-pokrenuo-regionalnu-inicijativu-za-stvaranje-rezervi-nafte-u-aziji",
    "title": "PANIKA ZBOG RATA SA IRANOM, JAPAN PREUZIMA STVAR U SVOJE RUKE Preti katastrofalna nestašica nafte: Tokio povlači potey da spase Aziju od energetskog sloma",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/japan-pokrenuo-regionalnu-inicijativu-za-stvaranje-rezervi-nafte-u-aziji",
+   "title": "Japan pokrenuo regionalnu inicijativu za stvaranje rezervi nafte u Aziji",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Japan pokrenuo regionalnu inicijativu za stvaranje rezervi nafte u Aziji",
-  "PANIKA ZBOG RATA SA IRANOM, JAPAN PREUZIMA STVAR U SVOJE RUKE Preti katastrofalna nestašica nafte: Tokio povlači potey da spase Aziju od energetskog sloma"
+  "PANIKA ZBOG RATA SA IRANOM, JAPAN PREUZIMA STVAR U SVOJE RUKE Preti katastrofalna nestašica nafte: Tokio povlači potey da spase Aziju od energetskog sloma",
+  "Japan pokrenuo regionalnu inicijativu za stvaranje rezervi nafte u Aziji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "alt": "Two fuel pumps on a concrete island in a dry desert landscape",
   "link": "https://unsplash.com/@ffrauss"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
