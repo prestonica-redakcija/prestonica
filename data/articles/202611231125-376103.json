@@ -30,7 +30,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T10:25:08.336957+00:00",
- "updated": "2026-11-23T10:25:08.336957+00:00",
+ "updated": "2026-11-23T10:40:09.455052+00:00",
  "sources": [
   {
    "name": "B92",
@@ -43,11 +43,18 @@
    "url": "https://www.kurir.rs/vesti/srbija/10170059/sneg-na-kopaoniku-tari-zlatiboru-suvoboru",
    "title": "ZABELELA SE SRBIJA! Sneg veje na Kopaoniku, Zlatiboru, Tari i Suvoboru, meštani spremni: Vraćaju se zime kao što su nekad bile! (FOTO/VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4438041-sneg-veje-na-suvoboru-mestani-spremni-i-kazu-vracaju-se-zime-kao-sto-su-bile-nekad-sneg-vec-od-novembra",
+   "title": "Sneg veje na Suvoboru, meštani spremni i kažu: Vraćaju se zime kao što su bile nekad, sneg već od novembra",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Veje sneg u Srbiji; RHMZ najavio \"debeli minus\" VIDEO",
-  "ZABELELA SE SRBIJA! Sneg veje na Kopaoniku, Zlatiboru, Tari i Suvoboru, meštani spremni: Vraćaju se zime kao što su nekad bile! (FOTO/VIDEO)"
+  "ZABELELA SE SRBIJA! Sneg veje na Kopaoniku, Zlatiboru, Tari i Suvoboru, meštani spremni: Vraćaju se zime kao što su nekad bile! (FOTO/VIDEO)",
+  "Sneg veje na Suvoboru, meštani spremni i kažu: Vraćaju se zime kao što su bile nekad, sneg već od novembra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "alt": "snow covered field and trees during daytime",
   "link": "https://unsplash.com/@ljubazarkovic"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
