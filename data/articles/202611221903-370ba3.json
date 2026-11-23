@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T18:03:23.802504+00:00",
- "updated": "2026-11-23T11:09:53.766455+00:00",
+ "updated": "2026-11-23T11:24:57.416792+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -71,6 +71,12 @@
    "url": "https://www.kurir.rs/techvision/vesti/10170148/alis-huang-i-skandal-sa-nvidijom-se-nastavlja",
    "title": "Alis Huang trgovala Nvidia čipovima vrednim milijarde: Američke vlasti istražuju preusmeravanje u Kinu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/sa-kim-je-bila-u-kontaktu-navodna-ljubavnica-celnika-nvidije-americki-obavestajci-dosli-do-sokantnih-saznanja/",
+   "title": "Sa kim je bila u kontaktu navodna ljubavnica čelnika Nvidije? Američki obaveštajci došli do šokantnih saznanja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -79,7 +85,8 @@
   "Američka imigraciona služba privela kinesku doktorantkinju sa Prinstona",
   "Američke obaveštajne službe istražuju navode o kineskoj špijunki povezanoj sa kompanijom Nvidia",
   "Nvidia pod dvostrukim udarom: Skandal sa kineskom špijunkom istražuju obaveštajne službe i vlasti Kalifornije",
-  "Alis Huang trgovala Nvidia čipovima vrednim milijarde: Američke vlasti istražuju preusmeravanje u Kinu"
+  "Alis Huang trgovala Nvidia čipovima vrednim milijarde: Američke vlasti istražuju preusmeravanje u Kinu",
+  "Sa kim je bila u kontaktu navodna ljubavnica čelnika Nvidije? Američki obaveštajci došli do šokantnih saznanja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -92,8 +99,8 @@
   "alt": "teal LED panel",
   "link": "https://unsplash.com/@adigold1"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-23T11:09:53.766455+00:00",
  "verzija": 2
 }

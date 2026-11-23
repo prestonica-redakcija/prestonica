@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T10:55:00.391086+00:00",
- "updated": "2026-11-23T10:55:00.391086+00:00",
+ "updated": "2026-11-23T11:24:57.416792+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,25 @@
    "url": "https://n1info.rs/biznis/elektronska-prijava-dri/",
    "title": "Znate da se negde nepravilno troši javni novac: Možete podneti elektronsku prijavu DRI, čak i anonimno",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/novac/253284/dri-uvela-onlajn-obrazac-za-prijavu-nepravilnosti/vest",
+   "title": "Sumnjate na nepravilnosti u trošenju javnog novca? DRI omogućila građanima da ih prijave i anonimno",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/dri-gradjani-mogu-elektronskim-putem-da-predloze-reviziju-i-prijave-nepravilnosti/",
+   "title": "DRI: Građani mogu elektronskim putem da predlože reviziju i prijave nepravilnosti",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "DRI omogućila da građani elektronskim putem predlože reviziju i prijave nepravilnosti",
-  "Znate da se negde nepravilno troši javni novac: Možete podneti elektronsku prijavu DRI, čak i anonimno"
+  "Znate da se negde nepravilno troši javni novac: Možete podneti elektronsku prijavu DRI, čak i anonimno",
+  "Sumnjate na nepravilnosti u trošenju javnog novca? DRI omogućila građanima da ih prijave i anonimno",
+  "DRI: Građani mogu elektronskim putem da predlože reviziju i prijave nepravilnosti"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +71,7 @@
   "local": false,
   "alt": "a woman sitting at a table reading a paper",
   "link": "https://unsplash.com/@antoie"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
