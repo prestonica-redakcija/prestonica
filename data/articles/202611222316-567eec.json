@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T22:16:11.538620+00:00",
- "updated": "2026-11-22T23:15:41.238686+00:00",
+ "updated": "2026-11-23T00:00:26.812184+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -42,11 +42,18 @@
    "url": "https://nova.rs/vesti/politika/novosadski-zborovi-sutra-podnose-krivicnu-prijavu-protiv-maje-gojkovic/",
    "title": "Novosadski zborovi sutra podnose krivičnu prijavu protiv Maje Gojković",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/region/crna-gora/10169782/kolasinska-policija-prijavila-zenu-zbog-nelegalne-gradnje",
+   "title": "GRADILA VIKENDICU BEZ POTREBNE DOKUMENTACIJE: Podneta krivična prijava protiv žene iz Bara",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Novosadski zborovi sutra podnose krivičnu prijavu protiv Maje Gojković",
-  "Novosadski zborovi sutra podnose krivičnu prijavu protiv Maje Gojković"
+  "Novosadski zborovi sutra podnose krivičnu prijavu protiv Maje Gojković",
+  "GRADILA VIKENDICU BEZ POTREBNE DOKUMENTACIJE: Podneta krivična prijava protiv žene iz Bara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,6 +67,6 @@
   "osoba": "Maja Gojković",
   "alt": "Novosadski zborovi sutra podnose krivičnu prijavu protiv Maje Gojković"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

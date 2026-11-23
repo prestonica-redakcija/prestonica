@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://www.kurir.rs/vesti/srbija/10164974/gusan-i-guske-pored-vranjske-reke": "2026-11-17T23:57:27.280839+00:00",
-  "https://www.telegraf.rs/jetset/vesti-jetset/4434490-darko-lazic-podelio-bolnu-uspomenu-na-brata-koji-je-tragicno-stradao-osmeh-moj-ljubav-moja-oko-moje": "2026-11-17T23:57:27.280839+00:00",
-  "https://www.kurir.rs/vesti/srbija/10164976/smederevo-proglasilo-vanrednu-situaciju-opasnost-od-zaraznih-bolesti": "2026-11-17T23:57:27.280839+00:00",
-  "https://www.danas.rs/vesti/drustvo/vreme-danas-promenljivo-i-vetrovito-mestimicno-sa-kisom/": "2026-11-17T23:57:27.280839+00:00",
   "https://www.kurir.rs/planeta/10165290/pozar-u-sedistu-cia": "2026-11-18T00:12:16.633956+00:00",
   "https://www.danas.rs/sport/zverev-selton-zavrsni-masters-u-torinu/": "2026-11-18T00:12:16.633956+00:00",
   "https://biznis.telegraf.rs/info-biz/4434513-inflacija-u-italiji-ubrzala-na-55-odsto-ovo-je-kljucni-uzrok": "2026-11-18T00:12:16.633956+00:00",
@@ -5948,18 +5944,13 @@
   "https://www.youtube.com/watch?v=J8IoGXAl6Nk": "2026-11-22T23:30:39.612157+00:00",
   "https://insajder.net/prenosimo/od-ponija-iz-gunme-do-medveda-kumamona-desetine-hiljada-ljudi-na-godisnjem-skupu-maskota-u-japanu": "2026-11-22T23:30:39.612157+00:00",
   "https://www.kurir.rs/zabava/pop-kultura/10164350/glen-klouz-79-urucen-pocasni-oskar-pa-otkrila-kako-je-odrasla": "2026-11-22T23:45:43.456272+00:00",
-  "https://www.youtube.com/watch?v=RRkN1lGWQ_w": "2026-11-22T23:45:43.456272+00:00"
+  "https://www.youtube.com/watch?v=RRkN1lGWQ_w": "2026-11-22T23:45:43.456272+00:00",
+  "https://www.kurir.rs/region/crna-gora/10169782/kolasinska-policija-prijavila-zenu-zbog-nelegalne-gradnje": "2026-11-23T00:00:26.812184+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-22T09:16+00:00",
-   "novih": 6,
-   "ukupno": 3564,
-   "sekundi": 484.9
-  },
   {
    "vreme": "2026-11-22T09:28+00:00",
    "novih": 1,
@@ -6313,6 +6304,12 @@
    "novih": 0,
    "ukupno": 3800,
    "sekundi": 380.9
+  },
+  {
+   "vreme": "2026-11-23T00:06+00:00",
+   "novih": 0,
+   "ukupno": 3800,
+   "sekundi": 353.9
   }
  ],
  "licnosti_foto": {
@@ -8979,7 +8976,7 @@
    "slug": "slavija-info-vucic-kao-satorska-pevacica-isecak-iz-emisije-aqkijyby5lw"
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -56690,7 +56687,7 @@
   "yt": "Hdk3ahufa64",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-22T23:46:31.664017+00:00",
+  "provereno": "2026-11-23T00:00:52.349671+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": true
  },
