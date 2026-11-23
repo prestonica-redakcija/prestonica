@@ -34,17 +34,24 @@
  ],
  "importance": 5,
  "published": "2026-11-23T16:07:56.396557+00:00",
- "updated": "2026-11-23T16:07:56.396557+00:00",
+ "updated": "2026-11-23T20:06:36.832576+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/sara-valentik-potpredsednica-narodne-skupstine/",
    "title": "Sara Valentik potpredsednica Narodne skupštine: „Fico prvo da pogleda šta se dešava u njegovoj zemlji“",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674047/valentik-napala-fica-bilo-dobro-prvo-pogleda-sta-desava-slovackoj",
+   "title": "VALENTIK NAPALA FICA: \"Bilo bi dobro da prvo pogleda šta se dešava u Slovačkoj\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Sara Valentik potpredsednica Narodne skupštine: „Fico prvo da pogleda šta se dešava u njegovoj zemlji“"
+  "Sara Valentik potpredsednica Narodne skupštine: „Fico prvo da pogleda šta se dešava u njegovoj zemlji“",
+  "VALENTIK NAPALA FICA: \"Bilo bi dobro da prvo pogleda šta se dešava u Slovačkoj\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "osoba": "Aleksandar Vučić",
   "izvor_x": true,
   "alt": "Valentik odgovorila Ficu: prvo da pogleda šta se dešava u njegovoj zemlji"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

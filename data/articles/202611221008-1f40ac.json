@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-22T09:08:11.102597+00:00",
- "updated": "2026-11-23T11:24:57.416792+00:00",
+ "updated": "2026-11-23T20:06:36.832576+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -79,6 +79,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/akademski-plenum-madic-da-podnese-ostavku-ima-podrsku-samo-4-od-29-clanova-senata/",
    "title": "Akademski plenum: „Madić da podnese ostavku, ima podršku samo 4 od 29 članova Senata“",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/neshvatanje-rektora-da-nema-podrsku-svog-univerziteta-dejan-madic-ostaje-na-celu-uns-a-uprkos-pokusaju-smene/",
+   "title": "\"Neshvatanje rektora da nema podršku svog univerziteta\": Dejan Madić ostaje na čelu UNS-a uprkos pokušaju smene",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -89,7 +95,8 @@
   "Počela sednica Senata Univerziteta u Novom Sadu na kojoj treba da se razmatra razrešenje rektora Madića",
   "Senat Univerziteta u Novom Sadu nije smenio rektora Madića",
   "Akademski plenum: Madić da podnese ostavku, ima podršku samo četiri od 29 članova Senata Univerziteta",
-  "Akademski plenum: „Madić da podnese ostavku, ima podršku samo 4 od 29 članova Senata“"
+  "Akademski plenum: „Madić da podnese ostavku, ima podršku samo 4 od 29 članova Senata“",
+  "\"Neshvatanje rektora da nema podršku svog univerziteta\": Dejan Madić ostaje na čelu UNS-a uprkos pokušaju smene"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -101,8 +108,8 @@
   "local": true,
   "alt": "Akademski plenum traži od Senata da glasa za razrešenje rektora Novosadskog univerziteta"
  },
- "novo_od_pisanja": 3,
- "boost": 1.56,
+ "novo_od_pisanja": 4,
+ "boost": 1.6,
  "prepisano": "2026-11-23T08:11:15.177849+00:00",
  "verzija": 2
 }

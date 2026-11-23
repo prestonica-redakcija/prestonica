@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T19:51:50.591915+00:00",
- "updated": "2026-11-23T19:51:50.591915+00:00",
+ "updated": "2026-11-23T20:06:36.832576+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,10 +44,17 @@
    "url": "https://www.danas.rs/vesti/politika/sns-upotreba-sredstava-pre-kampanje/",
    "title": "CRTA: Agencija za sprečavanje korupcije utvrdila da je SNS koristio sredstva za kampanju pre njenog početka",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/crta-agencija-za-sprecavanje-korupcije-utvrdila-da-je-sns-koristio-sredstva-za-kampanju-pre-njenog-pocetka/",
+   "title": "CRTA: Agencija za sprečavanje korupcije utvrdila da je SNS koristio sredstva za kampanju pre njenog početka",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Crta: Agencija za sprečavanje korupcije utvrdila - SNS novac za redovan rad koristila za kampanju",
+  "CRTA: Agencija za sprečavanje korupcije utvrdila da je SNS koristio sredstva za kampanju pre njenog početka",
   "CRTA: Agencija za sprečavanje korupcije utvrdila da je SNS koristio sredstva za kampanju pre njenog početka"
  ],
  "author": "Redakcija Prestonice",
@@ -60,5 +67,7 @@
   "local": false,
   "alt": "grayscale photo of people sitting on chair",
   "link": "https://unsplash.com/@davideragusa"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
