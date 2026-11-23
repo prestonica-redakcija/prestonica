@@ -25,17 +25,24 @@
  ],
  "importance": 3,
  "published": "2026-11-23T12:09:30.329551+00:00",
- "updated": "2026-11-23T12:09:30.329551+00:00",
+ "updated": "2026-11-23T12:24:25.084760+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/300184/americki-veliki-centri-podataka-trose-do-99-teravat-sati-elektricne-energije-godisnje/vest",
    "title": "Američki veliki centri podataka troše do 99 teravat-sati električne energije godišnje",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4438146-ai-prozdire-struju-403-centra-podataka-trose-energije-kao-cela-americka-drzava-a-tek-sledi-bum",
+   "title": "AI proždire struju: 403 centra podataka troše energije kao cela američka država, a tek sledi bum!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Američki veliki centri podataka troše do 99 teravat-sati električne energije godišnje"
+  "Američki veliki centri podataka troše do 99 teravat-sati električne energije godišnje",
+  "AI proždire struju: 403 centra podataka troše energije kao cela američka država, a tek sledi bum!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "local": false,
   "alt": "cable network",
   "link": "https://unsplash.com/@tvick"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
