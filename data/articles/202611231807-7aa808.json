@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T17:07:41.186797+00:00",
- "updated": "2026-11-23T17:22:37.242611+00:00",
+ "updated": "2026-11-23T17:37:34.362963+00:00",
  "sources": [
   {
    "name": "N1",
@@ -43,11 +43,18 @@
    "url": "https://nova.rs/vesti/politika/uzice-i-dalje-bez-gradonacelnika-vesna-citakovic-djurisic-nije-izabrana-na-tu-funkciju/",
    "title": "Užice i dalje bez gradonačelnika: Vesna Čitaković Đurišić nije izabrana na tu funkciju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10170685/uzice-bez-gradonacelnice-vesni-citakovic-djurisic-falio-jedan-glas",
+   "title": "PALA VLAST U UŽICU! Propao izbor nove gradonačelnice zbog jednog nevažećeg listića: Vesni Čitaković Đurišić nedostajao jedan glas!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Vesna Čitaković Đurišić nije izabrana za gradonačelnicu Užica",
-  "Užice i dalje bez gradonačelnika: Vesna Čitaković Đurišić nije izabrana na tu funkciju"
+  "Užice i dalje bez gradonačelnika: Vesna Čitaković Đurišić nije izabrana na tu funkciju",
+  "PALA VLAST U UŽICU! Propao izbor nove gradonačelnice zbog jednog nevažećeg listića: Vesni Čitaković Đurišić nedostajao jedan glas!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "local": true,
   "alt": "Vesna Čitaković Đurišić nije izabrana za gradonačelnicu Užica"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

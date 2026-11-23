@@ -26,17 +26,24 @@
  ],
  "importance": 3,
  "published": "2026-11-22T17:48:30.260617+00:00",
- "updated": "2026-11-22T17:48:30.260617+00:00",
+ "updated": "2026-11-23T17:37:34.362963+00:00",
  "sources": [
   {
    "name": "Telegraf",
    "url": "https://www.telegraf.rs/jetset/vesti-jetset/4437656-bio-je-u-vezi-sa-sandrom-afrikom-i-ivanom-boom-a-danas-je-uhapsen-zbog-nosenja-oruzja",
    "title": "Bio je u vezi sa Sandrom Afrikom i Ivanom Boom a danas je uhapšen zbog nošenja oružja",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/sport/fudbal/uhapsen-vladimir-volkov/",
+   "title": "Uhapšen Vladimir Volkov",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Bio je u vezi sa Sandrom Afrikom i Ivanom Boom a danas je uhapšen zbog nošenja oružja"
+  "Bio je u vezi sa Sandrom Afrikom i Ivanom Boom a danas je uhapšen zbog nošenja oružja",
+  "Uhapšen Vladimir Volkov"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "alt": "cars parked in front of store during night time",
   "link": "https://unsplash.com/@hiepdaiduong93"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
