@@ -38,7 +38,7 @@
  ],
  "importance": 6,
  "published": "2026-11-22T21:46:37.641049+00:00",
- "updated": "2026-11-22T21:46:37.641049+00:00",
+ "updated": "2026-11-23T06:42:06.394046+00:00",
  "sources": [
   {
    "name": "N1",
@@ -51,11 +51,18 @@
    "url": "https://nova.rs/vesti/hronika/kako-su-radoicic-i-braca-veselinovic-koristili-bih-kao-izlaznu-rutu-granice-prohodne-institucije-blokirane/",
    "title": "Kako su Radoičić i braća Veselinović koristili BiH kao izlaznu rutu: Granice prohodne, institucije blokirane",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/kako-lica-sa-poternice-koriste-propustljivost-granice-izmedju-srbije-i-bih/",
+   "title": "Kako lica sa poternice koriste propustljivost granice između Srbije i BiH",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "BiH zabranila ulazak Radoičiću i braći Veselinović: Kako su godinama koristili bezbednosne propuste u regionu",
-  "Kako su Radoičić i braća Veselinović koristili BiH kao izlaznu rutu: Granice prohodne, institucije blokirane"
+  "Kako su Radoičić i braća Veselinović koristili BiH kao izlaznu rutu: Granice prohodne, institucije blokirane",
+  "Kako lica sa poternice koriste propustljivost granice između Srbije i BiH"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,5 +74,7 @@
   "local": false,
   "alt": "a car is parked on the side of the road",
   "link": "https://unsplash.com/@sameer_srivastava"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
