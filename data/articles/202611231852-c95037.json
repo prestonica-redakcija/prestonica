@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T17:52:32.310734+00:00",
- "updated": "2026-11-23T18:07:23.320829+00:00",
+ "updated": "2026-11-23T18:22:28.432581+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -46,12 +46,33 @@
    "url": "https://informer.rs/politika/vesti/1172588/pretucen-gradonacelnik-cacak-milun-todorovic",
    "title": "Skandal! Pretučen gradonačelnik Čačka - Evo u kakvom je stanju",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300310/napadnut-gradonacelnik-cacka-milun-todorovic/vest",
+   "title": "Napadnut gradonačelnik Čačka Milun Todorović",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/napad-gradonacelnik-cacak-milun-todorovic/",
+   "title": "Ozonpress: Gradonačelnik Čačka Milun Todorović nakon svađe i incidenta primljen u bolnicu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/milun-todorovic-gradonacelnik-cacka-sukob-bolnica/",
+   "title": "Gradonačelnik Čačka Milun Todorović primljen u bolnicu nakon incidenta na ulici",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "PRETUČEN GRADONAČELNIK ČAČKA Milun Todorović napadnut u ugostiteljskom objektu, prevezen u bolnicu",
   "Gradonačelnik Čačka u bolnici nakon napada",
-  "Skandal! Pretučen gradonačelnik Čačka - Evo u kakvom je stanju"
+  "Skandal! Pretučen gradonačelnik Čačka - Evo u kakvom je stanju",
+  "Napadnut gradonačelnik Čačka Milun Todorović",
+  "Ozonpress: Gradonačelnik Čačka Milun Todorović nakon svađe i incidenta primljen u bolnicu",
+  "Gradonačelnik Čačka Milun Todorović primljen u bolnicu nakon incidenta na ulici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +84,6 @@
   "local": true,
   "alt": "Gradonačelnik Čačka Milun Todorović napadnut u lokalu, primljen u bolnicu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T18:07:23.320829+00:00",
- "updated": "2026-11-23T18:07:23.320829+00:00",
+ "updated": "2026-11-23T18:22:28.432581+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -41,10 +41,17 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4438366-novi-tim-vojske-srbije-u-misiji-eu-u-centralnoafrickoj-republici",
    "title": "Novi tim Vojske Srbije u misiji EU u Centralnoafričkoj Republici",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300296/novi-tim-vojske-srbije-u-misiji-eu-u-centralnoafrickoj-republici/vest",
+   "title": "Novi tim Vojske Srbije u misiji EU u Centralnoafričkoj Republici",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Ministarstvo odbrane: Tim Vojske Srbije u misiji EU u Centralnoafričkoj Republici",
+  "Novi tim Vojske Srbije u misiji EU u Centralnoafričkoj Republici",
   "Novi tim Vojske Srbije u misiji EU u Centralnoafričkoj Republici"
  ],
  "author": "Redakcija Prestonice",
@@ -56,5 +63,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Zamenjen medicinski tim Vojske Srbije u misiji EU u Centralnoafričkoj Republici"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

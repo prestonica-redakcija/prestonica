@@ -30,7 +30,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T18:07:23.320829+00:00",
- "updated": "2026-11-23T18:07:23.320829+00:00",
+ "updated": "2026-11-23T18:22:28.432581+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,11 +43,18 @@
    "url": "https://www.danas.rs/kultura/otvoren-prvobitni-muzej-akropolja/",
    "title": "Otvoren obnovljeni prvobitni Muzej Akropolja, premijer Grčke ponovio zahtev za povraćaj skulptura",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/kultura/muzej-akropolj-atina-otvoren/",
+   "title": "(FOTO) Ponovo otvoren muzej Akropolja: Premijer Grčke pozvao London da im vrati otuđene statue",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Micotakis ponovo zatražio povratak skulptura sa Partenona u Grčku",
-  "Otvoren obnovljeni prvobitni Muzej Akropolja, premijer Grčke ponovio zahtev za povraćaj skulptura"
+  "Otvoren obnovljeni prvobitni Muzej Akropolja, premijer Grčke ponovio zahtev za povraćaj skulptura",
+  "(FOTO) Ponovo otvoren muzej Akropolja: Premijer Grčke pozvao London da im vrati otuđene statue"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "alt": "a group of statues on the side of a building",
   "link": "https://unsplash.com/@dawidtkocz"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

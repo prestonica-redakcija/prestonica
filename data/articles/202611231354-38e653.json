@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T12:54:15.099579+00:00",
- "updated": "2026-11-23T17:52:32.310734+00:00",
+ "updated": "2026-11-23T18:22:28.432581+00:00",
  "sources": [
   {
    "name": "N1",
@@ -47,12 +47,19 @@
    "url": "https://www.kurir.rs/vesti/politika/10170700/evropski-parlament-odgovorio-studentskom-pokretu-zbog-vukovara",
    "title": "JEDAN OD INICIJATORA REZOLUCIJE O VUKOVARU ODGOVORIO STUDENTSKOM POKRETU Resler im zamerio: \"Za ovo će morati da se odluče\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/jedan-od-inicijatora-nacrta-rezolucije-o-vukovaru-odgovorio-na-stav-studentskog-pokreta/",
+   "title": "Jedan od inicijatora nacrta rezolucije o Vukovaru odgovorio na stav Studentskog pokreta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Student Movement: EP overlooks suffering of Serb civilians in Croatia",
   "Jedan od inicijatora nacrta rezolucije o Vukovaru odgovorio na stav Studentskog pokreta",
-  "JEDAN OD INICIJATORA REZOLUCIJE O VUKOVARU ODGOVORIO STUDENTSKOM POKRETU Resler im zamerio: \"Za ovo će morati da se odluče\""
+  "JEDAN OD INICIJATORA REZOLUCIJE O VUKOVARU ODGOVORIO STUDENTSKOM POKRETU Resler im zamerio: \"Za ovo će morati da se odluče\"",
+  "Jedan od inicijatora nacrta rezolucije o Vukovaru odgovorio na stav Studentskog pokreta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "alt": "aerial view photography of room",
   "link": "https://unsplash.com/@internetztube"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

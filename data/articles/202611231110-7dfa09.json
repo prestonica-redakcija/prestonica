@@ -32,7 +32,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T10:10:21.132289+00:00",
- "updated": "2026-11-23T10:10:21.132289+00:00",
+ "updated": "2026-11-23T18:22:28.432581+00:00",
  "sources": [
   {
    "name": "N1",
@@ -45,11 +45,18 @@
    "url": "https://nova.rs/vesti/svet/indija-salje-milijarde-nepalu-nakon-katastrofe-poplave-odnele-1500-zivota-hiljade-ljudi-jos-uvek-se-vode-kao-nestale/",
    "title": "Indija šalje milijarde Nepalu nakon katastrofe: Poplave odnele 1.500 života, hiljade ljudi još uvek se vode kao nestale",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/300307/indija-izdvojila-14-milijarde-evra-pomoci-nepalu-za-obnovu-nakon-razornih-poplava/vest",
+   "title": "Indija izdvojila 1,4 milijarde evra pomoći Nepalu za obnovu nakon razornih poplava",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Indija pomaže Nepalu oporavak od poplava, vrednost pomoći 1,6 milijardi dolara",
-  "Indija šalje milijarde Nepalu nakon katastrofe: Poplave odnele 1.500 života, hiljade ljudi još uvek se vode kao nestale"
+  "Indija šalje milijarde Nepalu nakon katastrofe: Poplave odnele 1.500 života, hiljade ljudi još uvek se vode kao nestale",
+  "Indija izdvojila 1,4 milijarde evra pomoći Nepalu za obnovu nakon razornih poplava"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "local": false,
   "alt": "Town nestled in a lush green mountain valley with river",
   "link": "https://unsplash.com/@sanoyatra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

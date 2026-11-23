@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-22T17:18:53.497052+00:00",
- "updated": "2026-11-23T15:23:19.150328+00:00",
+ "updated": "2026-11-23T18:22:28.432581+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -82,6 +82,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/tuzilastvo-predlozilo-pritvor-za-dvojicu-osumnjicenih-za-paljenje-kuce-u-krunskoj-ulici-u-beogradu/",
    "title": "Tužilaštvo predložilo pritvor za dvojicu osumnjičenih za paljenje kuće u Krunskoj ulici u Beogradu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300252/odreden-pritvor-osumnjicenima-da-su-zapalili-objekat-u-krunskoj-ulici/vest",
+   "title": "Određen pritvor osumnjičenima da su zapalili objekat u Krunskoj ulici",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -93,7 +99,8 @@
   "Tužilaštvo traži pritvor za dve osobe koje su, po dogovoru, zapalile vilu u Krunskoj",
   "Prvo OJT u Beogradu predložilo pritvor osumnjičenima za paljenje kuće",
   "Tužilaštvo traži pritvor za osumnjičene da su zapalili objekat u Krunskoj ulici",
-  "Tužilaštvo predložilo pritvor za dvojicu osumnjičenih za paljenje kuće u Krunskoj ulici u Beogradu"
+  "Tužilaštvo predložilo pritvor za dvojicu osumnjičenih za paljenje kuće u Krunskoj ulici u Beogradu",
+  "Određen pritvor osumnjičenima da su zapalili objekat u Krunskoj ulici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -105,6 +112,6 @@
   "local": true,
   "alt": "Saslušan osumnjičeni za silovanje u Beogradu, tužilaštvo traži pritvor"
  },
- "novo_od_pisanja": 8,
+ "novo_od_pisanja": 9,
  "boost": 1.6
 }

@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T15:53:13.325699+00:00",
- "updated": "2026-11-23T15:53:13.325699+00:00",
+ "updated": "2026-11-23T18:22:28.432581+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -45,11 +45,18 @@
    "url": "https://www.kurir.rs/planeta/10170582/rusija-urucila-protest-zbog-odluke-estonije-da-zatvori-svoju-granicu",
    "title": "STIGLA REAKCIJA RUSIJE NA ZATVARANJE ESTONSKIH GRANICA! Oglasilo se Ministarstvo spoljnih poslova:\"Provokativne akcije prete da pokrenu otvoreni rat sa Rusijom\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/rusija-estonija-protest-zatvaranje-granica/",
+   "title": "MSP Rusije uputilo protest Estoniji zbog zatvaranja granica",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Rusija protestovala zbog odluke Estonije da zatvori svoju granicu",
-  "STIGLA REAKCIJA RUSIJE NA ZATVARANJE ESTONSKIH GRANICA! Oglasilo se Ministarstvo spoljnih poslova:\"Provokativne akcije prete da pokrenu otvoreni rat sa Rusijom\""
+  "STIGLA REAKCIJA RUSIJE NA ZATVARANJE ESTONSKIH GRANICA! Oglasilo se Ministarstvo spoljnih poslova:\"Provokativne akcije prete da pokrenu otvoreni rat sa Rusijom\"",
+  "MSP Rusije uputilo protest Estoniji zbog zatvaranja granica"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Moskva uručila protest Estoniji zbog zatvaranja granice, upozorava na \"bumerang\""
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
