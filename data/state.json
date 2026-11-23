@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.telegraf.rs/vesti/svet/4434872-poljski-parlament-odbacio-predlog-za-izglasavanje-nepoverenja-vladi-donalda-tuska": "2026-11-18T00:41:57.748719+00:00",
-  "https://www.kurir.rs/sport/kosarka/10164377/lejkersi-bez-rivsa-i-keslera-protiv-sarlota": "2026-11-18T00:41:57.748719+00:00",
   "https://www.novosti.rs/vesti/politika/1672235/studentska-lista-saucesce-poginuo-pilot-major-goran-bulajic-vojska-srbije": "2026-11-18T01:12:01.277769+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/252470/evropska-komisija-preliminarno-utvrdila-da-temu-krsi-zakon/vest": "2026-11-18T01:12:01.277769+00:00",
   "https://biznis.telegraf.rs/info-biz/4434514-stopa-nezaposlenosti-u-britaniji-pala-u-odnosu-na-prethodni-tromesecni-period": "2026-11-18T01:12:01.277769+00:00",
@@ -5940,18 +5938,13 @@
   "https://www.kurir.rs/zabava/pop-kultura/10164350/glen-klouz-79-urucen-pocasni-oskar-pa-otkrila-kako-je-odrasla": "2026-11-22T23:45:43.456272+00:00",
   "https://www.youtube.com/watch?v=RRkN1lGWQ_w": "2026-11-22T23:45:43.456272+00:00",
   "https://www.kurir.rs/region/crna-gora/10169782/kolasinska-policija-prijavila-zenu-zbog-nelegalne-gradnje": "2026-11-23T00:00:26.812184+00:00",
-  "https://biznis.telegraf.rs/info-biz/4437717-sardinija-izdvaja-10-miliona-evra-za-privlacenje-digitalnih-nomada": "2026-11-23T00:15:23.060633+00:00"
+  "https://biznis.telegraf.rs/info-biz/4437717-sardinija-izdvaja-10-miliona-evra-za-privlacenje-digitalnih-nomada": "2026-11-23T00:15:23.060633+00:00",
+  "https://www.telegraf.rs/vesti/svet/4437760-tramp-sad-bi-mogle-da-nastave-velike-vojne-operacije-protiv-irana-posle-nove-godine": "2026-11-23T00:45:06.323827+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-22T09:59+00:00",
-   "novih": 2,
-   "ukupno": 3570,
-   "sekundi": 372.5
-  },
   {
    "vreme": "2026-11-22T10:16+00:00",
    "novih": 6,
@@ -6305,6 +6298,12 @@
    "novih": 0,
    "ukupno": 3800,
    "sekundi": 364.2
+  },
+  {
+   "vreme": "2026-11-23T00:53+00:00",
+   "novih": 0,
+   "ukupno": 3800,
+   "sekundi": 487.6
   }
  ],
  "licnosti_foto": {
@@ -56695,7 +56694,7 @@
   "yt": "Hdk3ahufa64",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-23T00:30:52.463326+00:00",
+  "provereno": "2026-11-23T00:45:34.728219+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": true
  },
