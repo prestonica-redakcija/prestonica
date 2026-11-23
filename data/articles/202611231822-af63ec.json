@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T17:22:37.242611+00:00",
- "updated": "2026-11-23T17:52:32.310734+00:00",
+ "updated": "2026-11-23T18:37:04.323271+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -56,13 +56,20 @@
    "url": "https://www.b92.net/info/hronika/287515/bivsi-fudbaler-vladimir-volkov-uhapsen-po-nalogu-vjt/vest",
    "title": "Bivši fudbaler Vladimir Volkov uhapšen po nalogu VJT",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4438401-otkrivamo-ko-je-devojka-uhapsena-sa-vladimirom-volkovim-zbog-pistolja-policija-traga-za-trecim-iz-bmw-a",
+   "title": "Otkrivamo ko je devojka uhapšena sa Vladimirom Volkovim zbog pištolja: Policija traga za trećim iz BMW-a",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "KURIR SAZNAJE! Uhapšen Vladimir Volkov i još jedna devojka zbog pištolja sa brušenim brojem, za trećim osumnjičenim se traga",
   "Vladimir Volkov uhapšen po nalogu VJT",
   "Uhapšen Vladimir Volkov i devojka zbog pištolja sa brušenim brojem, za trećim osumnjičenim se traga",
-  "Bivši fudbaler Vladimir Volkov uhapšen po nalogu VJT"
+  "Bivši fudbaler Vladimir Volkov uhapšen po nalogu VJT",
+  "Otkrivamo ko je devojka uhapšena sa Vladimirom Volkovim zbog pištolja: Policija traga za trećim iz BMW-a"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +83,6 @@
   "osoba": "Vladimir Volkov",
   "alt": "Uhapšen Vladimir Volkov zbog pištolja sa izbrušenim brojem, traga se za trećim osumnjičenim"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
