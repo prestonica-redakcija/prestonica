@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T11:09:53.766455+00:00",
- "updated": "2026-11-23T11:09:53.766455+00:00",
+ "updated": "2026-11-23T15:53:13.325699+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -44,11 +44,18 @@
    "url": "https://www.kurir.rs/planeta/10170145/albanija-demantovala-lansiranje-dronova-na-ruski-brod-libija",
    "title": "KRENULI IZ ALBANIJE I ZADALI BOLAN UDARAC PUTINU?! Šire se glasine o napadu na moćnu rusku korvetu u Libiji, hitno se oglasila Tirana: Prešli čak 800 pre UDARA?",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4438300-albanija-se-oglasila-posle-navoda-da-je-ucestvovala-u-napadu-na-ruske-brodove-u-libiji",
+   "title": "Albanija se oglasila posle navoda da je učestvovala u napadu na ruske brodove u Libiji",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Kakve veze ima Albanija sa napadom u Libiji: Oglasilo se Ministarstvo",
-  "KRENULI IZ ALBANIJE I ZADALI BOLAN UDARAC PUTINU?! Šire se glasine o napadu na moćnu rusku korvetu u Libiji, hitno se oglasila Tirana: Prešli čak 800 pre UDARA?"
+  "KRENULI IZ ALBANIJE I ZADALI BOLAN UDARAC PUTINU?! Šire se glasine o napadu na moćnu rusku korvetu u Libiji, hitno se oglasila Tirana: Prešli čak 800 pre UDARA?",
+  "Albanija se oglasila posle navoda da je učestvovala u napadu na ruske brodove u Libiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "alt": "A large ship in the middle of the ocean",
   "link": "https://unsplash.com/@aa_hasan"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

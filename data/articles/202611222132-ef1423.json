@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-22T20:32:16.653407+00:00",
- "updated": "2026-11-23T10:55:00.391086+00:00",
+ "updated": "2026-11-23T15:53:13.325699+00:00",
  "sources": [
   {
    "name": "N1",
@@ -61,6 +61,12 @@
    "url": "https://www.kurir.rs/vesti/politika/10170122/vucic-ponovo-komentarisao-navode-o-sedam-stanova-aleksandra-cupica",
    "title": "\"VOLEO BIH DA IH IMAM, ALI IH NEMAM\" Čupić govorio o tvrdnjama da poseduje sedam stanova, a Vučić poručuje: \"Nemoj da glumite da nemate za odelo\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4438309-valentik-odgovorila-na-optuzbe-sns-a-za-govor-mrznje-najavila-i-raspisivanje-predsednickih-izbora-ove-nedelje",
+   "title": "Valentik odgovorila na optužbe SNS-a za govor mržnje: Najavila i raspisivanje predsedničkih izbora ove nedelje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -68,7 +74,8 @@
   "Predsednik Skupštine o optužbama SNS da ima sedam stanova: „Daleko od realnog stanja, imam šestoro dece, voleo bih da je istina, ali nije“",
   "Čupić prvi put odgovorio na navode da poseduje 7 stanova",
   "„Ja kao otac šestoro dece bih bio najsrećniji…“: Čupić odgovorio na optužbe o sedam stanova",
-  "\"VOLEO BIH DA IH IMAM, ALI IH NEMAM\" Čupić govorio o tvrdnjama da poseduje sedam stanova, a Vučić poručuje: \"Nemoj da glumite da nemate za odelo\""
+  "\"VOLEO BIH DA IH IMAM, ALI IH NEMAM\" Čupić govorio o tvrdnjama da poseduje sedam stanova, a Vučić poručuje: \"Nemoj da glumite da nemate za odelo\"",
+  "Valentik odgovorila na optužbe SNS-a za govor mržnje: Najavila i raspisivanje predsedničkih izbora ove nedelje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -83,6 +90,6 @@
   "izvor_x": true,
   "alt": "Čupić negira da ima sedam stanova i najavljuje prijavu imovine Agenciji"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

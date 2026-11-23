@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T08:56:00.497462+00:00",
- "updated": "2026-11-23T15:38:13.610731+00:00",
+ "updated": "2026-11-23T15:53:13.325699+00:00",
  "sources": [
   {
    "name": "N1",
@@ -61,6 +61,12 @@
    "url": "https://www.danas.rs/vesti/politika/manojlovic-sns-i-sps-zabranili-glasanje-o-sapicu/",
    "title": "Manojlović (Kreni-Promeni): SNS i SPS zabranili svojim odbornicima da glasaju o smeni Šapića",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/manojlovic-sns-i-sps-zabranili-svojim-odbornicima-da-glasaju-o-smeni-sapica/",
+   "title": "Manojlović: SNS i SPS zabranili svojim odbornicima da glasaju o smeni Šapića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -68,7 +74,8 @@
   "Stojmenović: Došli smo da smenimo Šapića, ali SPS i SNS to neće dopustiti, jer bi išli s njim na optuženičku klupu",
   "Stojmenović: Došli smo da smenimo Šapića, ali SPS i SNS to neće dopustiti, jer bi išli s njim na optuženičku klupu",
   "Kreni-promeni: SNS i SPS odbijaju da glasaju o smeni Šapića",
-  "Manojlović (Kreni-Promeni): SNS i SPS zabranili svojim odbornicima da glasaju o smeni Šapića"
+  "Manojlović (Kreni-Promeni): SNS i SPS zabranili svojim odbornicima da glasaju o smeni Šapića",
+  "Manojlović: SNS i SPS zabranili svojim odbornicima da glasaju o smeni Šapića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -81,8 +88,8 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-23T15:38:13.610731+00:00",
  "verzija": 2
 }

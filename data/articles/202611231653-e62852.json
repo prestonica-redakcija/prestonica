@@ -1,0 +1,60 @@
+{
+ "id": "202611231653-e62852",
+ "slug": "kaspersky-blokirano-19-miliona-fising-napada-skoro-tri-puta-vise-nego",
+ "kind": "vest",
+ "section": "ekonomija",
+ "headline": "Kaspersky: blokirano 19 miliona fišing napada, skoro tri puta više nego lani",
+ "lead": "Kompanija Kaspersky navodi da je od januara do oktobra 2026. blokirala 19.063.077 fišing napada, što je 198,1 odsto više nego u istom periodu 2025. Upozorenje stiže uoči Crnog petka, kada se, kako se navodi u izveštaju, povećava broj prevara usmerenih na online kupce.",
+ "body": [
+  "Podaci potiču iz godišnjeg izveštaja kompanije Kaspersky o pretnjama tokom internet kupovine, zasnovanog na podacima iz mreže Kaspersky Security Network, prenose Kurir i Euronews Srbija. Prema izveštaju, kupci u internet prodavnicama bili su primarna meta i na njih se odnosilo 44,5 odsto napada. Na korisnike bankarskih usluga bilo je usmereno 28,6 odsto, a na korisnike platnih sistema 26,9 odsto napada.",
+  "Glavna taktika napadača i dalje je zloupotreba identiteta poznatih brendova. Amazon, Apple, Netflix, Shopify i brendovi iz grupe Alibaba zloupotrebljeni su u 83,8 odsto fišing napada koji su uključivali internet prodavnice i usluge pretplate, što je više od 7,1 milion detekcija. Samo brend Amazon korišćen je u 3.102.304 blokirana pokušaja, što je 411,6 odsto više nego 2025, kada ih je bilo 606.369. Napadi sa brendom Netflix porasli su za 70,5 odsto, na 1.365.648 detekcija.",
+  "Intenzivirane su i sezonske spam kampanje. U prvih dve nedelje novembra Kaspersky je identifikovao 220.071 spam poruku povezanu sa prodajnim ponudama, što je 50,2 odsto više nego prošle godine. Među kampanjama su lažne stranice telekomunikacionih prodavnica, nagradne igre koje koriste identitet poznatih brendova i lažne internet prodavnice. Navode se i lažne stranice pružalaca telemedicinskih usluga za mršavljenje i brendova kozmetike za negu kože. Prevaranti su, kako se navodi, koristili izmišljene recenzije i lažne preporuke poznatih ličnosti.",
+  "Izveštaj pominje i novi pravac napada vezan za lansiranje igre GTA VI 19. novembra. Od juna do novembra 2026. Kaspersky je otkrio 27.416 napada u kojima su zlonamerni softver i potencijalno neželjene aplikacije predstavljani kao sadržaj povezan s tom igrom. Registrovane su i lažne stranice na kojima su se prodavali nepostojeći paketi konzola sa igrom.",
+  "Rade Furtula, presales menadžer za Istočnu Evropu u kompaniji Kaspersky, rekao je da se broj ovih napada gotovo utrostručio, pre svega zbog automatizacije i veštačke inteligencije. Kako je objasnio: \"Sve što žrtva unese u ove lažne obrasce direktno dospeva u ruke napadača.\" Dodao je da zbog ponovne upotrebe istih lozinki krađa podataka za jedan nalog u prodavnici često otvara napadačima put do imejla, bankarskih i platnih naloga.",
+  "Kaspersky poručuje da je u potrazi za najpovoljnijim ponudama neophodno ostati oprezan i unapred misliti o zaštiti u sajber-prostoru, kako bi se izbegli finansijski gubici i izlaganje ličnih podataka riziku. Reč je o podacima same kompanije, koje ovi mediji prenose bez nezavisne provere."
+ ],
+ "tags": [
+  "fišing",
+  "Crni petak",
+  "Kaspersky",
+  "internet kupovina",
+  "sajber bezbednost",
+  "prevare"
+ ],
+ "people": [
+  "Rade Furtula"
+ ],
+ "places": [],
+ "importance": 4,
+ "published": "2026-11-23T15:53:13.325699+00:00",
+ "updated": "2026-11-23T15:53:13.325699+00:00",
+ "sources": [
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253335/kaspersky-19-miliona-fising-napada-na-onlajn-kupce/vest",
+   "title": "Crni petak prilika i za internet prevarante: Broj fišing napada porastao za skoro 200 odsto",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10170551/prevare-uoci-crnog-petka-blokirano-19-miliona-fising-napada-u-2026",
+   "title": "OPREZ AKO KUPUJETE PREKO INTERNETA ZA CRNI PETAK! Otkriveno više od 19 miliona fišing napada: Evo na koje lažne ponude i sajtove morate da pazite!",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Crni petak prilika i za internet prevarante: Broj fišing napada porastao za skoro 200 odsto",
+  "OPREZ AKO KUPUJETE PREKO INTERNETA ZA CRNI PETAK! Otkriveno više od 19 miliona fišing napada: Evo na koje lažne ponude i sajtove morate da pazite!"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 2.136,
+ "image": {
+  "src": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixid=M3wxMTQwNDIwfDB8MXxzZWFyY2h8MXx8b25saW5lJTIwc2hvcHBpbmclMjBwaGlzaGluZyUyMGxhcHRvcHxlbnwxfDB8fHwxNzk1NDQ5MzE5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+  "credit": "Unsplash / rupixen",
+  "ilustracija": true,
+  "local": false,
+  "alt": "person using laptop computer holding card",
+  "link": "https://unsplash.com/@rupixen"
+ }
+}
