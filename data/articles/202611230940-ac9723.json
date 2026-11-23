@@ -31,17 +31,24 @@
  ],
  "importance": 6,
  "published": "2026-11-23T08:40:57.565229+00:00",
- "updated": "2026-11-23T08:40:57.565229+00:00",
+ "updated": "2026-11-23T08:56:00.497462+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/nastavlja-se-sudjenje-u-slucaju-male-danke-ilic-ocekuje-se-da-mestani-daju-iskaze/",
    "title": "Nastavlja se suđenje u slučaju male Danke Ilić, očekuje se da meštani daju iskaze",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/nastavlja-se-sudjenje-za-ubistvo-danke-ilic-2-u-sudnici-mestani-koji-su-kobnog-dana-videli-devojcicu/",
+   "title": "Nastavlja se suđenje za ubistvo Danke Ilić (2): U sudnici meštani koji su kobnog dana videli devojčicu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Nastavlja se suđenje u slučaju male Danke Ilić, očekuje se da meštani daju iskaze"
+  "Nastavlja se suđenje u slučaju male Danke Ilić, očekuje se da meštani daju iskaze",
+  "Nastavlja se suđenje za ubistvo Danke Ilić (2): U sudnici meštani koji su kobnog dana videli devojčicu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "alt": "brown wooden tool on white surface",
   "link": "https://unsplash.com/@tingeyinjurylawfirm"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-22T10:52:22.447092+00:00",
- "updated": "2026-11-22T11:51:54.858031+00:00",
+ "updated": "2026-11-23T08:56:00.497462+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -58,13 +58,20 @@
    "url": "https://n1info.rs/vesti/sutra-nastavak-sudjenja-za-generalstab-studenti-pozvali-na-okupljanje-ispred-specijalnog-suda/",
    "title": "Sutra nastavak suđenja za \"Generalštab\", studenti pozvali na okupljanje ispred Specijalnog suda",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4437931-nastavak-sudjenja-za-slucaj-generalstab-danas-pred-specijalnim-sudom-studenti-najavili-okupljanje",
+   "title": "Nastavak suđenja za slučaj \"Generalštab\" danas pred Specijalnim sudom, studenti najavili okupljanje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "\"Vreme odgovornosti dolazi\": Studenti pozvali na okupljanje u ponedeljak ispred Specijalnog suda zbog suđenja u slučaju \"Generalštab\"",
   "Studenti pozvali na okupljanje ispred Specijalnog suda pre nastavka suđenja za Generalštab",
   "Studenti u blokadi pozvali na okupljanje sutra ispred Specijalnog suda",
-  "Sutra nastavak suđenja za \"Generalštab\", studenti pozvali na okupljanje ispred Specijalnog suda"
+  "Sutra nastavak suđenja za \"Generalštab\", studenti pozvali na okupljanje ispred Specijalnog suda",
+  "Nastavak suđenja za slučaj \"Generalštab\" danas pred Specijalnim sudom, studenti najavili okupljanje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -78,6 +85,6 @@
   "osoba": "Nikola Selaković",
   "alt": "Studenti pozvali na okupljanje ispred Specijalnog suda uoči suđenja za Generalštab"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

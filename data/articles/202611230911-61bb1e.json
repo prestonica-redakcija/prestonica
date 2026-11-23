@@ -25,17 +25,24 @@
  ],
  "importance": 3,
  "published": "2026-11-23T08:11:15.177849+00:00",
- "updated": "2026-11-23T08:11:15.177849+00:00",
+ "updated": "2026-11-23T08:56:00.497462+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10169894/automobil-sleteo-u-korito-lepenice-u-kragujevcu-dve-osobe-povredjene",
    "title": "AUTOMOBIL SLETEO U KORITO LEPENICE: Vatrogasci sekli vozilo da izvuku povređene, teška nesreća u Kragujevcu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/dve-osobe-tesko-povredjene-u-nesreci-u-kragujevcu-vozilo-sletelo-sa-kolovoza-direktno-u-korito-reke-lepenice/",
+   "title": "Dve osobe teško povređene u nesreći u Kragujevcu: Vozilo sletelo sa kolovoza direktno u korito reke Lepenice",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "AUTOMOBIL SLETEO U KORITO LEPENICE: Vatrogasci sekli vozilo da izvuku povređene, teška nesreća u Kragujevcu"
+  "AUTOMOBIL SLETEO U KORITO LEPENICE: Vatrogasci sekli vozilo da izvuku povređene, teška nesreća u Kragujevcu",
+  "Dve osobe teško povređene u nesreći u Kragujevcu: Vozilo sletelo sa kolovoza direktno u korito reke Lepenice"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "local": false,
   "alt": "a group of rescue workers walking towards a boat",
   "link": "https://unsplash.com/@grahamwyphotography"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

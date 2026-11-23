@@ -32,17 +32,24 @@
  ],
  "importance": 2,
  "published": "2026-11-22T19:02:59.860400+00:00",
- "updated": "2026-11-22T19:02:59.860400+00:00",
+ "updated": "2026-11-23T08:56:00.497462+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/zivot/prota-vasa-zivkovic-svestenik-pesnik-i-covek-koji-je-prepoznao-potencijal-mihajla-pupina/",
    "title": "Prota Vasa Živković, sveštenik, pesnik i čovek koji je prepoznao potencijal Mihajla Pupina",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/magazin/prica-se/ko-je-zapravo-bio-prota-vasa-zivkovic-covek-koji-je-promenio-sudbinu-mihajla-pupina/",
+   "title": "Ko je zapravo bio Prota Vasa Živković, čovek koji je promenio sudbinu Mihajla Pupina",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Prota Vasa Živković, sveštenik, pesnik i čovek koji je prepoznao potencijal Mihajla Pupina"
+  "Prota Vasa Živković, sveštenik, pesnik i čovek koji je prepoznao potencijal Mihajla Pupina",
+  "Ko je zapravo bio Prota Vasa Živković, čovek koji je promenio sudbinu Mihajla Pupina"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Prota Vasa Živković, pesnik pesme „Rado ide Srbin u vojnike“ i Pupinov profesor"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -31,17 +31,24 @@
  ],
  "importance": 6,
  "published": "2026-11-23T08:26:06.093336+00:00",
- "updated": "2026-11-23T08:26:06.093336+00:00",
+ "updated": "2026-11-23T08:56:00.497462+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1673718/vucic-gost-jutarnjeg-programa-pink-nemojte-nam-glumite-nemate-odelo-imate-solitere",
    "title": "VUČIĆ GOST JUTARNjEG PROGRAMA NA TV PINK: Nemojte da nam glumite da nemate za odelo, a imate za solitere",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1673718/problem-sto-ste-lagali-vucic-nemojte-nam-glumite-nemate-odelo-imate-solitere",
+   "title": "\"PROBLEM JE ŠTO STE LAGALI\" Vučić: Nemojte da nam glumite da nemate za odelo, a imate za solitere",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "VUČIĆ GOST JUTARNjEG PROGRAMA NA TV PINK: Nemojte da nam glumite da nemate za odelo, a imate za solitere"
+  "VUČIĆ GOST JUTARNjEG PROGRAMA NA TV PINK: Nemojte da nam glumite da nemate za odelo, a imate za solitere",
+  "\"PROBLEM JE ŠTO STE LAGALI\" Vučić: Nemojte da nam glumite da nemate za odelo, a imate za solitere"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "alt": "Three men in suits being filmed for dota 2 competition",
   "link": "https://unsplash.com/@invisiblelity"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

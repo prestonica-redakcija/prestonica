@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-22T20:02:30.032928+00:00",
- "updated": "2026-11-22T20:02:30.032928+00:00",
+ "updated": "2026-11-23T08:56:00.497462+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -44,11 +44,18 @@
    "url": "https://www.b92.net/biz/svet/vesti/287220/na-prodaju-avion-sadama-huseina/vest",
    "title": "Na prodaju avion Sadama Huseina",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://aero.telegraf.rs/avio-kompanije/4437898-irak-prodaje-boeing-747-sadama-huseina-za-900000-dolara-avion-vec-35-godina-stoji-u-tunisu",
+   "title": "Irak prodaje Boeing 747 Sadama Huseina za 900.000 dolara: Avion već 35 godina stoji u Tunisu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Irak oglasio prodaju dva aviona Boing 747: U jednom od njih leteo Sadam Husein",
-  "Na prodaju avion Sadama Huseina"
+  "Na prodaju avion Sadama Huseina",
+  "Irak prodaje Boeing 747 Sadama Huseina za 900.000 dolara: Avion već 35 godina stoji u Tunisu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Irak prodaje dva aviona Boing 747 koja već tri decenije stoje u Tunisu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

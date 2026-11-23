@@ -31,17 +31,38 @@
  ],
  "importance": 5,
  "published": "2026-11-23T08:40:57.565229+00:00",
- "updated": "2026-11-23T08:40:57.565229+00:00",
+ "updated": "2026-11-23T08:56:00.497462+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/preminuo-novinar-milan-jovanovic/",
    "title": "Preminuo novinar Milan Jovanović",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/novinar-milan-jovanovic-umro/",
+   "title": "Preminuo novinar Milan Jovanović kojem je bila zapaljena kuća",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4437940-preminuo-milan-jovanovic",
+   "title": "Preminuo Milan Jovanović",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/preminuo-novinar-milan-jovanovic-kojem-je-bila-zapaljena-kuca/",
+   "title": "Preminuo novinar Milan Jovanović kojem je bila zapaljena kuća",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Preminuo novinar Milan Jovanović"
+  "Preminuo novinar Milan Jovanović",
+  "Preminuo novinar Milan Jovanović kojem je bila zapaljena kuća",
+  "Preminuo Milan Jovanović",
+  "Preminuo novinar Milan Jovanović kojem je bila zapaljena kuća"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +74,7 @@
   "local": false,
   "alt": "person holding white labeled can",
   "link": "https://unsplash.com/@apothecary87"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

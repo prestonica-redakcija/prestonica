@@ -28,17 +28,24 @@
  ],
  "importance": 3,
  "published": "2026-11-23T08:40:57.565229+00:00",
- "updated": "2026-11-23T08:40:57.565229+00:00",
+ "updated": "2026-11-23T08:56:00.497462+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/na-19-redovnoj-sednici-skupstine-grada-kragujevca-o-statusu-rtk-i-izborima-za-savete-mesnih-zajednica/",
    "title": "Na 19. redovnoj sednici Skupštine grada Kragujevca o statusu RTK i izborima za savete mesnih zajednica",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10169949/redovna-sednica-skupstine-grada-kragujevca-bice-odrzana-u-petak",
+   "title": "SKUPŠTINA KRAGUJEVCA U PETAK ODLUČUJE O RTK: Na dnevnom redu i porezi za 2027. i izbori u mesnim zajednicama",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Na 19. redovnoj sednici Skupštine grada Kragujevca o statusu RTK i izborima za savete mesnih zajednica"
+  "Na 19. redovnoj sednici Skupštine grada Kragujevca o statusu RTK i izborima za savete mesnih zajednica",
+  "SKUPŠTINA KRAGUJEVCA U PETAK ODLUČUJE O RTK: Na dnevnom redu i porezi za 2027. i izbori u mesnim zajednicama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Aktivistkinja_za_prava_%C5%BEena_Sanja_Sarnavka,_dobitnica_nagrade_Zagrep%C4%8Danka_godine,_2024,_Skup%C5%A1tina_Grada_Zagreba_09_48_42_900000.jpeg",
   "alt": "Kragujevac: sednica Skupštine grada 27. novembra o RTK, porezima i izborima za mesne zajednice"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
