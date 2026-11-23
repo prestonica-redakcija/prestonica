@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T09:40:32.910688+00:00",
- "updated": "2026-11-23T16:07:56.396557+00:00",
+ "updated": "2026-11-23T20:36:28.314137+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -45,11 +45,18 @@
    "url": "https://www.euronews.rs/srbija/politika/253297/skupstina-tzkosova-ponovo-razmatra-zakon-o-kulturnom-nasledu/vest",
    "title": "Zakon o kulturnom nasleđu ponovo pred poslanicima u Prištini: Upozorenja na moguće posledice po SPC",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300334/igor-simic-srpska-lista-podnela-amandmane-na-nacrt-zakona-o-centralnom-inspektoratu/vest",
+   "title": "Igor Simić: Srpska lista podnela amandmane na Nacrt zakona o centralnom inspektoratu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Nacrt Zakona o inspektoratu za srpsku baštinu izazvao buru: SPC i Srpska lista upozoravaju na zaštitu svetinja",
-  "Zakon o kulturnom nasleđu ponovo pred poslanicima u Prištini: Upozorenja na moguće posledice po SPC"
+  "Zakon o kulturnom nasleđu ponovo pred poslanicima u Prištini: Upozorenja na moguće posledice po SPC",
+  "Igor Simić: Srpska lista podnela amandmane na Nacrt zakona o centralnom inspektoratu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "alt": "A large building with a clock tower on top of it",
   "link": "https://unsplash.com/@tbister98"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

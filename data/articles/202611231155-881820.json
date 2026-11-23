@@ -29,17 +29,38 @@
  ],
  "importance": 6,
  "published": "2026-11-23T10:55:00.391086+00:00",
- "updated": "2026-11-23T10:55:00.391086+00:00",
+ "updated": "2026-11-23T20:36:28.314137+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/novi-dss-trazi-od-vlade-da-reaguje-na-novi-kosovski-zakon-o-inspektoratu-za-kulturno-nasledje/",
    "title": "Novi DSS traži od Vlade da reaguje na novi kosovski zakon o Inspektoratu za kulturno nasleđe",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300335/jugoslav-gasic-razgovaracemo-sa-medunarodnim-predstavnicima-o-zakonu-o-centralnom-inspektoratu/vest",
+   "title": "Jugoslav Gašić: Razgovaraćemo sa međunarodnim predstavnicima o zakonu o centralnom inspektoratu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253373/studentska-lista-trazi-izmene-zakona-o-kulturnom-nasledu/vest",
+   "title": "Zakon o centralnom inspektoratu na KiM: Studentska lista najavljuje razgovore sa međunarodnom zajednicom",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10170818/studentska-lista-trazi-promene-u-zakonu-o-kulturnom-nasledju",
+   "title": "STUDENTSKA LISTA TRAŽI PROMENE U ZAKONU O KULTURNOM NASLEĐU Gašić: Razgovaraćemo sa međunarodnim predstavnicima o centralnom inspektoratu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Novi DSS traži od Vlade da reaguje na novi kosovski zakon o Inspektoratu za kulturno nasleđe"
+  "Novi DSS traži od Vlade da reaguje na novi kosovski zakon o Inspektoratu za kulturno nasleđe",
+  "Jugoslav Gašić: Razgovaraćemo sa međunarodnim predstavnicima o zakonu o centralnom inspektoratu",
+  "Zakon o centralnom inspektoratu na KiM: Studentska lista najavljuje razgovore sa međunarodnom zajednicom",
+  "STUDENTSKA LISTA TRAŽI PROMENE U ZAKONU O KULTURNOM NASLEĐU Gašić: Razgovaraćemo sa međunarodnim predstavnicima o centralnom inspektoratu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +72,7 @@
   "local": false,
   "alt": "A dry riverbed runs through a town with hills behind",
   "link": "https://unsplash.com/@mfbeki"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

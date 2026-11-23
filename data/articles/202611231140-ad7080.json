@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T10:40:09.455052+00:00",
- "updated": "2026-11-23T20:21:29.742156+00:00",
+ "updated": "2026-11-23T20:36:28.314137+00:00",
  "sources": [
   {
    "name": "N1",
@@ -96,6 +96,18 @@
    "url": "https://n1info.rs/vesti/zemunska-gimnazija-dobila-novog-direktora/",
    "title": "Zemunska gimnazija dobila novog direktora",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/287557/direktor-pete-beogradske-gimnazije-ognjen-mrvaljevic-podneo-ostavku/vest",
+   "title": "Direktor Pete beogradske gimnazije podneo ostavku",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/zemunska-gimnazija-dobila-novog-direktora/",
+   "title": "Zemunska gimnazija dobila novog direktora",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -108,6 +120,8 @@
   "Olimpijski komitet Srbije se zahvalio Stojanu Vujku nakon neopozive ostavke na mesto potpredsednika",
   "Direktor Pete beogradske gimnazije podneo ostavku",
   "Direktor Pete beogradske gimnazije podneo ostavku na tu funkciju",
+  "Direktor Pete beogradske gimnazije podneo ostavku",
+  "Zemunska gimnazija dobila novog direktora",
   "Direktor Pete beogradske gimnazije podneo ostavku",
   "Zemunska gimnazija dobila novog direktora"
  ],
@@ -122,6 +136,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Hotel_Jugoslavija_(2020)_03.jpg",
   "alt": "Stojan Vujko podneo neopozivu ostavku na mesto potpredsednika OKS"
  },
- "novo_od_pisanja": 10,
+ "novo_od_pisanja": 12,
  "boost": 1.6
 }

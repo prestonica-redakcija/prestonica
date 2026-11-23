@@ -32,7 +32,7 @@
  ],
  "importance": 3,
  "published": "2026-11-22T13:21:02.390418+00:00",
- "updated": "2026-11-22T13:21:02.390418+00:00",
+ "updated": "2026-11-23T20:36:28.314137+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -45,11 +45,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4437530-vatrena-stihija-guta-hotele-na-zanzibaru-skoro-200-turista-hitno-evakuisano",
    "title": "Vatrena stihija guta hotele na Zanzibaru: Skoro 200 turista hitno evakuisano!",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/pozar-duz-plaze-u-zanzibaru-spalio-sest-hotela-povredjeni-hotelski-radnici/",
+   "title": "Požar duž plaže u Zanzibaru spalio šest hotela, povređeni hotelski radnici",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Na Zanzibaru izgorelo šest hotela, skoro 200 turista bezbedno evakuisano",
-  "Vatrena stihija guta hotele na Zanzibaru: Skoro 200 turista hitno evakuisano!"
+  "Vatrena stihija guta hotele na Zanzibaru: Skoro 200 turista hitno evakuisano!",
+  "Požar duž plaže u Zanzibaru spalio šest hotela, povređeni hotelski radnici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Požar na Zanzibaru zahvatio šest hotela, svih 183 turista evakuisano bez povreda"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

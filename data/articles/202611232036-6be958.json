@@ -30,17 +30,24 @@
  ],
  "importance": 4,
  "published": "2026-11-23T19:36:41.548460+00:00",
- "updated": "2026-11-23T19:36:41.548460+00:00",
+ "updated": "2026-11-23T20:36:28.314137+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/info/svet/287539/haos-u-briselu-zbog-vladinih-mera-stednje-izbili-sukobi-izmedju-demonstranata-i-policije/vest",
    "title": "Brisel gori: Desetine hiljada ljudi izašlo na ulice, izbili žestoki sukobi – premijeru preti pad?",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10170821/sukobi-u-briselu-policija-suzavcem-na-demonstrante-tokom-strajka",
+   "title": "VELIKI SINDIKALNI ŠTRAJK PARALISAO BELGIJU! Desetine hiljada radnika na ulicama protiv mera štednje, policija ih napala suzavcima i vodenim topovima (FOTO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Brisel gori: Desetine hiljada ljudi izašlo na ulice, izbili žestoki sukobi – premijeru preti pad?"
+  "Brisel gori: Desetine hiljada ljudi izašlo na ulice, izbili žestoki sukobi – premijeru preti pad?",
+  "VELIKI SINDIKALNI ŠTRAJK PARALISAO BELGIJU! Desetine hiljada radnika na ulicama protiv mera štednje, policija ih napala suzavcima i vodenim topovima (FOTO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "a large group of people gathered in a street",
   "link": "https://unsplash.com/@celickx_photography"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
