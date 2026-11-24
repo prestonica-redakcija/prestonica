@@ -5885,18 +5885,17 @@
   "https://www.kurir.rs/planeta/10170542/robot-dobio-ulogu-u-cuvenoj-predstavi": "2026-11-24T05:17:35.864813+00:00",
   "https://www.telegraf.rs/zanimljivosti/svastara/4438447-humanoidni-robot-igra-negativca-u-predstavi-mladozenja-u-moskvi": "2026-11-24T05:17:35.864813+00:00",
   "https://www.kurir.rs/crna-hronika/10159981/kako-iskoreniti-korupciju-i-ko-stoji-iza-hapsenja-u-srbiji": "2026-11-24T05:32:23.064747+00:00",
-  "https://n1info.rs/vesti/na-danasnji-dan-24-novembar-2026-godine/": "2026-11-24T05:32:23.064747+00:00"
+  "https://n1info.rs/vesti/na-danasnji-dan-24-novembar-2026-godine/": "2026-11-24T05:32:23.064747+00:00",
+  "https://www.tanjug.rs/srbija/drustvo/300375/srpska-pravoslavna-crkva-danas-obelezava-praznik-svetog-kralja-stefana-decanskog-mratindan/vest": "2026-11-24T05:47:28.436565+00:00",
+  "https://www.tanjug.rs/srbija/drustvo/300376/u-srbiji-danas-pretezno-suncano-ujutru-slab-mraz-temperatura-do-devet-stepeni/vest": "2026-11-24T05:47:28.436565+00:00",
+  "https://www.euronews.rs/svet/fokus/253303/harvard-centri-podataka-u-sad-trose-do-99-twh-struje/vest": "2026-11-24T05:47:28.436565+00:00",
+  "https://www.tanjug.rs/svet/politika/300366/melanija-tramp-radi-se-na-novim-predlozima-za-primirje-u-ukrajini/vest": "2026-11-24T05:47:28.436565+00:00",
+  "https://www.telegraf.rs/vesti/svet/4438512-melanija-tramp-situacija-u-ukrajini-ide-u-dobrom-pravcu": "2026-11-24T05:47:28.436565+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-23T15:05+00:00",
-   "novih": 10,
-   "ukupno": 4025,
-   "sekundi": 753.6
-  },
   {
    "vreme": "2026-11-23T15:19+00:00",
    "novih": 6,
@@ -6250,6 +6249,12 @@
    "novih": 1,
    "ukupno": 4205,
    "sekundi": 405.3
+  },
+  {
+   "vreme": "2026-11-24T05:55+00:00",
+   "novih": 1,
+   "ukupno": 4206,
+   "sekundi": 463.5
   }
  ],
  "licnosti_foto": {
@@ -8992,7 +8997,7 @@
    "slug": "aleksandar-ivanovic-sedeo-sam-u-prostoriji-sa-covekom-koji-6vhn2aan3j8"
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -53777,6 +53782,21 @@
     "w": 508,
     "h": 637
    }
+  },
+  "Melanija Tramp": {
+   "ime": "Melanija Tramp",
+   "uloga": "prva dama SAD",
+   "oblast": "svet",
+   "wd": "Q432473",
+   "t": 1795499294.315655,
+   "ok": true,
+   "foto": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Melania_Trump%E2%80%99s_Official_White_House_Portrait_%282025%29_%28much_further_cropped%29.jpg/500px-Melania_Trump%E2%80%99s_Official_White_House_Portrait_%282025%29_%28much_further_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Wikimedia Commons / FLOTUS – Melania Trump / Public domain",
+    "link": "https://commons.wikimedia.org/wiki/File:Melania_Trump%E2%80%99s_Official_White_House_Portrait_(2025)_(much_further_cropped).jpg",
+    "w": 506,
+    "h": 701
+   }
   }
  },
  "ankete": [
@@ -54016,7 +54036,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "upcoming",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-24T05:33:26.102245+00:00",
+  "provereno": "2026-11-24T05:48:15.939267+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": false
  },
