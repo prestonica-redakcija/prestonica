@@ -30,17 +30,24 @@
  ],
  "importance": 4,
  "published": "2026-11-23T14:08:52.547352+00:00",
- "updated": "2026-11-23T14:08:52.547352+00:00",
+ "updated": "2026-11-24T02:03:47.474882+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/300233/linta-napadi-na-srbe-i-njihovu-imovinu-u-federaciji-bih-ne-jenjavaju-nadlezni-cute/vest",
    "title": "Linta: Napadi na Srbe i njihovu imovinu u Federaciji BiH ne jenjavaju, nadležni ćute",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4438414-linta-napadi-na-srbe-i-njihovu-imovinu-fbih-ne-jenjavaju-nadlezni-cute",
+   "title": "Linta: Napadi na Srbe i njihovu imovinu FBiH ne jenjavaju, nadležni ćute",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Linta: Napadi na Srbe i njihovu imovinu u Federaciji BiH ne jenjavaju, nadležni ćute"
+  "Linta: Napadi na Srbe i njihovu imovinu u Federaciji BiH ne jenjavaju, nadležni ćute",
+  "Linta: Napadi na Srbe i njihovu imovinu FBiH ne jenjavaju, nadležni ćute"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "a church with scaffolding around it and a city in the background",
   "link": "https://unsplash.com/@christianlue"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
