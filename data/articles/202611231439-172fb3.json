@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T13:39:09.854940+00:00",
- "updated": "2026-11-24T15:13:52.963107+00:00",
+ "updated": "2026-11-24T18:57:48.710854+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -131,6 +131,12 @@
    "url": "https://www.kurir.rs/vesti/politika/10171641/aleksandar-cupic-najavio-da-ce-skupstina-srbije-raditi-i-posle-18-casova",
    "title": "NEMA ZAVRŠETKA U 18 ČASOVA: Skupština nastavlja rad, Čupić objasnio zbog čega",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300377/skupstina-vecinom-glasova-usvojila-odluku-o-clanovima-odbora/vest",
+   "title": "Skupština većinom glasova usvojila odluku o članovima odbora",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -149,7 +155,8 @@
   "NASTAVAK KONSTITUTIVNE SEDNICE Na dnevnom redu izbor članova radnih tela, studenti prisustvuju zasedanju",
   "Tema jutra: Nastavak skupštinske sednice",
   "Čupić dostavio predlog sastava skupštinskih odbora: Uz Studentsku listu i poslanici manjina, bez SNS-a i SVM-a",
-  "NEMA ZAVRŠETKA U 18 ČASOVA: Skupština nastavlja rad, Čupić objasnio zbog čega"
+  "NEMA ZAVRŠETKA U 18 ČASOVA: Skupština nastavlja rad, Čupić objasnio zbog čega",
+  "Skupština većinom glasova usvojila odluku o članovima odbora"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -164,7 +171,7 @@
   "izvor_x": true,
   "alt": "U Skupštini počele konsultacije o nastavku konstitutivne sednice"
  },
- "novo_od_pisanja": 5,
+ "novo_od_pisanja": 6,
  "boost": 1.6,
  "prepisano": "2026-11-24T08:30:59.703766+00:00",
  "verzija": 3

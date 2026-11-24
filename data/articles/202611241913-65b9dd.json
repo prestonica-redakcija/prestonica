@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T18:13:25.121786+00:00",
- "updated": "2026-11-24T18:42:56.025649+00:00",
+ "updated": "2026-11-24T18:57:48.710854+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -64,6 +64,36 @@
    "url": "https://n1info.rs/vesti/uhapsen-pavle-bihali-sumnja-se-da-je-zloupotrebio-vise-od-22-miliona-dinara/",
    "title": "Uhapšen Pavle Bihali, sumnja se da je zloupotrebio više od 22 miliona dinara",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4439141-oglasilo-se-tuzilastvo-o-hapsenju-pavla-bihalija-evo-sta-mu-se-stavlja-na-teret",
+   "title": "Oglasilo se tužilaštvo o hapšenju Pavla Bihalija: Evo šta mu se stavlja na teret",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10171880/tuzilastvo-se-oglasilo-povodom-hapsenja-pavla-bihalija",
+   "title": "OVAKO JE BIHALI PARE OD IZBORNE KAMPANJE STAVLJAO U SVOJ DŽEP: VJT se oglasilo povodom hapšenja vođe pokreta \"Levijatan\": Koristio i lažnu ispravu",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287808/za-sta-se-tereti-pavle-bihali-oglasilo-se-tuzilastvo-pod-istragom-zbog-225-miliona-dinara/vest",
+   "title": "Za šta se tereti Pavle Bihali?; Oglasilo se tužilaštvo: Pod istragom zbog 22,5 miliona dinara",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/uhapsen-pavle-bihali/",
+   "title": "Uhapšen Pavle Bihali",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/ko-je-pavle-bihali-biografija/",
+   "title": "„Ker“ koji radi šta mu se kaže: Ko je Pavle Bihali, vođa pokreta Levijatan koji je uhapšen zbog zloupotrebe više od 22 miliona dinara?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -72,7 +102,12 @@
   "KURIR SAZNAJE: Po nalogu VJT u Beogradu uhapšen Pavle Bihali - sumnja se da zloupotrebio milione",
   "Uhapšen Pavle Bihali, vođa pokreta \"Levijatan\"",
   "Uhapšen Pavle Bihali",
-  "Uhapšen Pavle Bihali, sumnja se da je zloupotrebio više od 22 miliona dinara"
+  "Uhapšen Pavle Bihali, sumnja se da je zloupotrebio više od 22 miliona dinara",
+  "Oglasilo se tužilaštvo o hapšenju Pavla Bihalija: Evo šta mu se stavlja na teret",
+  "OVAKO JE BIHALI PARE OD IZBORNE KAMPANJE STAVLJAO U SVOJ DŽEP: VJT se oglasilo povodom hapšenja vođe pokreta \"Levijatan\": Koristio i lažnu ispravu",
+  "Za šta se tereti Pavle Bihali?; Oglasilo se tužilaštvo: Pod istragom zbog 22,5 miliona dinara",
+  "Uhapšen Pavle Bihali",
+  "„Ker“ koji radi šta mu se kaže: Ko je Pavle Bihali, vođa pokreta Levijatan koji je uhapšen zbog zloupotrebe više od 22 miliona dinara?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -84,6 +119,6 @@
   "local": true,
   "alt": "Uhapšen Pavle Bihali, sumnja se da je zloupotrebio više od 22 miliona dinara"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 8,
+ "boost": 1.6
 }

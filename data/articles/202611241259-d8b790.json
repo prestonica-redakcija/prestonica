@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T11:59:57.109788+00:00",
- "updated": "2026-11-24T11:59:57.109788+00:00",
+ "updated": "2026-11-24T18:57:48.710854+00:00",
  "sources": [
   {
    "name": "N1",
@@ -41,11 +41,18 @@
    "url": "https://www.danas.rs/vesti/ekonomija/nema-zainteresovanih-za-kupovinu-prve-srpske-fabrike-secera-dimitrije-tucovic-1898/",
    "title": "Nema zainteresovanih za kupovinu Prve srpske fabrike šećera Dimitrije Tucović 1898",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/300665/alsu-neuspela-prodaja-fabrike-secera-dimitrije-tucovic-nema-zainteresovanih-kupaca/vest",
+   "title": "ALSU: Neuspela prodaja Fabrike šećera Dimitrije Tucović, nema zainteresovanih kupaca",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Nema zainteresovanih za kupovinu Prve srpske fabrike šećera Dimitrije Tucović 1898",
-  "Nema zainteresovanih za kupovinu Prve srpske fabrike šećera Dimitrije Tucović 1898"
+  "Nema zainteresovanih za kupovinu Prve srpske fabrike šećera Dimitrije Tucović 1898",
+  "ALSU: Neuspela prodaja Fabrike šećera Dimitrije Tucović, nema zainteresovanih kupaca"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "alt": "brown concrete bridge over river during daytime",
   "link": "https://unsplash.com/@cedric"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

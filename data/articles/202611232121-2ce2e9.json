@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T20:21:29.742156+00:00",
- "updated": "2026-11-23T21:21:03.962621+00:00",
+ "updated": "2026-11-24T18:57:48.710854+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -48,12 +48,19 @@
    "url": "https://www.telegraf.rs/4438461-bakic-otkrio-koji-je-uslov-njegovog-ulaska-u-vladu-srbije-to-niko-ziv-ne-zna",
    "title": "Bakić otkrio koji je uslov njegovog ulaska u Vladu Srbije: \"To niko živ ne zna...\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287794/aleksandar-lukasenko-tvrdi-da-rusija-odnosi-vojnu-pobedu/vest",
+   "title": "Taj čovek je otkrio – zna se pobednik rata u Ukrajini",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Jovo Bakić o novoj vladi i mogućnosti da bude ministar policije: \"To niko živ ne zna, ako me mandatar smatra neprijatnim čovekom...\"",
   "Nema budućnosti za društvo u kojem se narod plaši policije! Jovo BAKIĆ",
-  "Bakić otkrio koji je uslov njegovog ulaska u Vladu Srbije: \"To niko živ ne zna...\""
+  "Bakić otkrio koji je uslov njegovog ulaska u Vladu Srbije: \"To niko živ ne zna...\"",
+  "Taj čovek je otkrio – zna se pobednik rata u Ukrajini"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "alt": "Rows of wooden chairs with cane backs and leather desks in a legislative chamber",
   "link": "https://unsplash.com/@kel_foto"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

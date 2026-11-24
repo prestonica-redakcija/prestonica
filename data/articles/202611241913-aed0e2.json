@@ -30,17 +30,24 @@
  ],
  "importance": 6,
  "published": "2026-11-24T18:13:25.121786+00:00",
- "updated": "2026-11-24T18:13:25.121786+00:00",
+ "updated": "2026-11-24T18:57:48.710854+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1674107/burno-parlamentu-vucic-rezimu-pogazili-ste-demokratske-norme-pravila-principe",
    "title": "BURNO U PARLAMENTU Vučić režimu: \"Pogazili ste demokratske norme, pravila i principe\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674107/zavrsena-danasnja-sednica-nastavak-sutra-10-casova-vucic-rezimu-pogazili-ste-demokratske-norme-pravila-principe",
+   "title": "ZAVRŠENA DANAŠNjA SEDNICA, NASTAVAK SUTRA U 10 ČASOVA: Vučić režimu: \"Pogazili ste demokratske norme, pravila i principe\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "BURNO U PARLAMENTU Vučić režimu: \"Pogazili ste demokratske norme, pravila i principe\""
+  "BURNO U PARLAMENTU Vučić režimu: \"Pogazili ste demokratske norme, pravila i principe\"",
+  "ZAVRŠENA DANAŠNjA SEDNICA, NASTAVAK SUTRA U 10 ČASOVA: Vučić režimu: \"Pogazili ste demokratske norme, pravila i principe\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "osoba": "Aleksandar Vučić",
   "izvor_x": true,
   "alt": "Vučić u Skupštini: revizija prošlosti, subvencije i reakcija na galeriju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
