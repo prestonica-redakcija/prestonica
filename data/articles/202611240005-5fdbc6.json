@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T23:05:09.416142+00:00",
- "updated": "2026-11-23T23:05:09.416142+00:00",
+ "updated": "2026-11-24T03:03:23.866757+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,11 +47,18 @@
    "url": "https://insajder.net/prenosimo/sad-uvele-nove-sankcije-iranu-na-meti-desetine-pojedinaca-i-kompanija",
    "title": "SAD uvele nove sankcije Iranu, na meti desetine pojedinaca i kompanija",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4438478-sankcije-iranu-sad-uvode-nove-mere-protiv-finansijskih-mreza-teherana",
+   "title": "SAD uvele nove sankcije Iranu: Na meti menjačnice i fiktivne kompanije",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "SAD uvele nove sankcije Iranu, na meti desetine pojedinaca i kompanija",
-  "SAD uvele nove sankcije Iranu, na meti desetine pojedinaca i kompanija"
+  "SAD uvele nove sankcije Iranu, na meti desetine pojedinaca i kompanija",
+  "SAD uvele nove sankcije Iranu: Na meti menjačnice i fiktivne kompanije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +70,7 @@
   "local": false,
   "alt": "white concrete building under sky",
   "link": "https://unsplash.com/@katiemoum"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
