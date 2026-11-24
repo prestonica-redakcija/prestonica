@@ -24,7 +24,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T11:00:18.955630+00:00",
- "updated": "2026-11-24T11:30:04.987837+00:00",
+ "updated": "2026-11-24T11:59:57.109788+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,12 +43,26 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1674207/nova-licenca-ofac-lukoil-ima-rok-19-decembra-dogovori-prodaju-medjunarodne-imovine",
    "title": "NOVA LICENCA OFAC-A: Lukoil ima rok do 19. decembra da dogovori prodaju međunarodne imovine",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253446/ofac-produzio-pregovore-o-prodaji-lukoilove-imovine/vest",
+   "title": "OFAC produžio rok za pregovore o prodaji međunarodne imovine Lukoila do 19. decembra",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/287664/ofac-odobrio-nastavak-pregovora-o-prodaji-lukoilove-imovine-do-19-decembra/vest",
+   "title": "OFAC odobrio nastavak pregovora o prodaji Lukoilove imovine do 19. decembra",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "OFAC odobrio nastavak pregovora o prodaji Lukoilove imovine do 19. decembra",
   "OFAC odobrio nastavak pregovora o prodaji Lukoilove imovine do 19. decembra",
-  "NOVA LICENCA OFAC-A: Lukoil ima rok do 19. decembra da dogovori prodaju međunarodne imovine"
+  "NOVA LICENCA OFAC-A: Lukoil ima rok do 19. decembra da dogovori prodaju međunarodne imovine",
+  "OFAC produžio rok za pregovore o prodaji međunarodne imovine Lukoila do 19. decembra",
+  "OFAC odobrio nastavak pregovora o prodaji Lukoilove imovine do 19. decembra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +75,6 @@
   "alt": "Modern office building with unique architectural design",
   "link": "https://unsplash.com/@a77g77"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

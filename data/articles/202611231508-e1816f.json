@@ -30,7 +30,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T14:08:52.547352+00:00",
- "updated": "2026-11-24T07:31:27.587600+00:00",
+ "updated": "2026-11-24T11:59:57.109788+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -67,6 +67,12 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4436416-mratindan-vukovi-zabrane-rada-i-predskazanje-zime-danas-se-obelezava-sveti-kralj-stefan-decanski",
    "title": "Mratindan: Vukovi, zabrane rada i predskazanje zime! Danas se obeležava Sveti kralj Stefan Dečanski",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300509/manastir-visoki-decani-proslavlja-ktitorsku-slavu-justin-volimo-i-postujmo-bliznje/vest",
+   "title": "Manastir Visoki Dečani proslavlja ktitorsku slavu, Justin: Volimo i poštujmo bližnje",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -75,7 +81,8 @@
   "Od Bajage do Buč Kesidija: Svetosavski bal u Beču u znaku 700 godina Visokih Dečana",
   "U Visokim Dečanima sutra proslava ktitorske slave Svetog kralja Stefana Dečanskog",
   "Srpska pravoslavna crkva danas obeležava praznik Svetog kralja Stefana Dečanskog - Mratindan",
-  "Mratindan: Vukovi, zabrane rada i predskazanje zime! Danas se obeležava Sveti kralj Stefan Dečanski"
+  "Mratindan: Vukovi, zabrane rada i predskazanje zime! Danas se obeležava Sveti kralj Stefan Dečanski",
+  "Manastir Visoki Dečani proslavlja ktitorsku slavu, Justin: Volimo i poštujmo bližnje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -88,8 +95,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Visoki_De%C4%8Dani,_exterior_view_(Julian_Ny%C4%8Da).jpg",
   "alt": "SPC sutra obeležava Mratindan, praznik Svetog kralja Stefana Dečanskog"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-24T07:31:27.587600+00:00",
  "verzija": 2
 }

@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T11:54:36.696000+00:00",
- "updated": "2026-11-24T11:00:18.955630+00:00",
+ "updated": "2026-11-24T11:59:57.109788+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -123,6 +123,18 @@
    "url": "https://nova.rs/vesti/politika/vucic-necemo-ucestvovati-u-radu-skupstinskih-odbora/",
    "title": "Vučić: Nećemo učestvovati u radu skupštinskih odbora",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=VR5fkALm8NM",
+   "title": "Vučić: Jednoglasno smo odlučili da ne učestvujemo u radu skupštinskih odbora",
+   "spektar": "stranka"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/lesjak-nije-istina-da-opozicija-nece-dobiti-nijedno-mesto-predsednika-u-odborima/",
+   "title": "Lesjak: Nije istina da opozicija neće dobiti nijedno mesto predsednika u odborima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -141,7 +153,9 @@
   "KONSTITUTIVNA SEDNICA SKUPŠTINE Vučić: Doneli smo odluku da ne učestvujemo u radu odbora (VIDEO)",
   "Vučić: Doneli smo odluku da ne učestvujemo u radu odbora",
   "Vučić: Jednoglasno smo odlučili da ne učestvujemo u radu skupštinskih odbora",
-  "Vučić: Nećemo učestvovati u radu skupštinskih odbora"
+  "Vučić: Nećemo učestvovati u radu skupštinskih odbora",
+  "Vučić: Jednoglasno smo odlučili da ne učestvujemo u radu skupštinskih odbora",
+  "Lesjak: Nije istina da opozicija neće dobiti nijedno mesto predsednika u odborima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -154,7 +168,7 @@
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
  },
- "novo_od_pisanja": 6,
+ "novo_od_pisanja": 8,
  "boost": 1.6,
  "prepisano": "2026-11-23T15:38:13.610731+00:00",
  "verzija": 3

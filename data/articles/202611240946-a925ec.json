@@ -34,17 +34,24 @@
  ],
  "importance": 7,
  "published": "2026-11-24T08:46:01.118594+00:00",
- "updated": "2026-11-24T08:46:01.118594+00:00",
+ "updated": "2026-11-24T11:59:57.109788+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/nova-radoicic-i-veselinovic-zajedno-otputovali-u-kirgistan/",
    "title": "Nova: Radoičić i Veselinović zajedno otputovali u Kirgistan",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/english/news/nova-radoicic-and-veselinovic-traveled-together-to-kyrgyzstan/",
+   "title": "Nova: Radoicic and Veselinovic traveled together to Kyrgyzstan",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Nova: Radoičić i Veselinović zajedno otputovali u Kirgistan"
+  "Nova: Radoičić i Veselinović zajedno otputovali u Kirgistan",
+  "Nova: Radoicic and Veselinovic traveled together to Kyrgyzstan"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "alt": "People are walking through a busy airport terminal",
   "link": "https://unsplash.com/@motomotosc"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

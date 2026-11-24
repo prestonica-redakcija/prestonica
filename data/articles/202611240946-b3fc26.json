@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T08:46:01.118594+00:00",
- "updated": "2026-11-24T08:46:01.118594+00:00",
+ "updated": "2026-11-24T11:59:57.109788+00:00",
  "sources": [
   {
    "name": "N1",
@@ -45,11 +45,18 @@
    "url": "https://www.danas.rs/vesti/ekonomija/sindikat-nezavisnost-cedanka-andric/",
    "title": "Kongres sindikata Nezavisnost odlučio: Čedanka Andrić ostaje predsednica",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/cedanka-andric-ostaje-na-celu-sindikata-ugs-nezavisnost/",
+   "title": "Čedanka Andrić ostaje na čelu sindikata UGS Nezavisnost",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Čedanka Andrić ostaje na čelu sindikata UGS Nezavisnost",
-  "Kongres sindikata Nezavisnost odlučio: Čedanka Andrić ostaje predsednica"
+  "Kongres sindikata Nezavisnost odlučio: Čedanka Andrić ostaje predsednica",
+  "Čedanka Andrić ostaje na čelu sindikata UGS Nezavisnost"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "local": false,
   "alt": "a large group of people sitting at a long table",
   "link": "https://unsplash.com/@vestfoldmuseene"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

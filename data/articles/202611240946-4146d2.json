@@ -29,7 +29,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:46:01.118594+00:00",
- "updated": "2026-11-24T11:30:04.987837+00:00",
+ "updated": "2026-11-24T11:59:57.109788+00:00",
  "sources": [
   {
    "name": "N1",
@@ -72,6 +72,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4438781-nije-ni-bila-na-rasporedu-jutros-dosla-na-zamenu-potresni-detalji-o-radnici-upucanoj-u-skoli-u-kragujevcu",
    "title": "Nije ni bila na rasporedu, jutros došla na zamenu! Potresni detalji o radnici upucanoj u školi u Kragujevcu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300515/ukc-kragujevac-osobe-povredene-u-incidentu-u-skoli-stabilno-nije-potrebna-hitna-operacija/vest",
+   "title": "UKC Kragujevac: Osobe povređene u incidentu u školi stabilno, nije potrebna hitna operacija",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4438813-oglasio-se-ukc-kragujevac-osobe-povredjene-u-incidentu-u-skoli-stabilno-nije-potrebna-hitna-operacija",
+   "title": "Oglasio se UKC Kragujevac: Osobe povređene u incidentu u školi stabilno, nije potrebna hitna operacija",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -81,7 +93,9 @@
   "Direktor tehničke škole u Kraguejvcu: Učenik četvrtog razreda ranio koleginicu koja nije životno ugrožena",
   "Direktor Prve tehničke škole u Kragujevcu: Radnica ranjena nije životno ugrožena",
   "Direktor tehničke škole u Kragujevcu: Napadač učenik četvrtog razreda, koleginica nije životno ugrožena",
-  "Nije ni bila na rasporedu, jutros došla na zamenu! Potresni detalji o radnici upucanoj u školi u Kragujevcu"
+  "Nije ni bila na rasporedu, jutros došla na zamenu! Potresni detalji o radnici upucanoj u školi u Kragujevcu",
+  "UKC Kragujevac: Osobe povređene u incidentu u školi stabilno, nije potrebna hitna operacija",
+  "Oglasio se UKC Kragujevac: Osobe povređene u incidentu u školi stabilno, nije potrebna hitna operacija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -94,8 +108,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Prva_tehni%C4%8Dka_%C5%A1kola_Kragujevac_05.jpg",
   "alt": "Pucnjava u školi u Kragujevcu: uhapšen učenik, ranjena koleginica nije životno ugrožena"
  },
- "novo_od_pisanja": 1,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.6,
  "prepisano": "2026-11-24T09:45:53.910539+00:00",
  "verzija": 2
 }

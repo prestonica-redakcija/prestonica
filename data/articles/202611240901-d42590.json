@@ -27,7 +27,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T11:30:04.987837+00:00",
+ "updated": "2026-11-24T11:59:57.109788+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -208,6 +208,24 @@
    "url": "https://n1info.rs/vesti/posle-pucnjave-u-skoli-u-kragujevcu-danas-nece-biti-nastave-povredjena-pomocna-radnica/",
    "title": "Posle pucnjave u školi u Kragujevcu danas neće biti nastave, povređena pomoćna radnica",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4438797-policija-opkolila-imanje-porodice-ucenika-17-koji-je-zapucao-u-skoli-komsije-zanemele-od-soka-evo-sta-kazu",
+   "title": "Policija opkolila imanje porodice učenika (17) koji je zapucao u školi: Komšije zanemele od šoka, evo šta kažu",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/zaposlene-su-ga-videle-kako-ulazi-sa-puskom-potresno-svedocenje-radnice-objekta-u-blizini-skole-u-kragujevcu-u-kojoj-se-desila-pucnjava/",
+   "title": "\"Zaposlene su ga videle kako ulazi sa puškom\": Potresno svedočenje radnice objekta u blizini škole u Kragujevcu u kojoj se desila pucnjava",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/ministar-stankovic-o-pucnjavi-u-skoli-radicemo-na-sistemskoj-prevenciji-i-povecanju-broja-policajaca-u-skolama/",
+   "title": "Ministar Stanković o pucnjavi u školi: Radićemo na sistemskoj prevenciji i povećanju broja policajaca u školama",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -240,7 +258,10 @@
   "Pucnjava u Tehničkoj školi u Kragujevcu, dve osobe povređene",
   "Urgentni centar: Dve osobe ranjene u Prvoj tehničkoj školi u Kragujevcu nisu životno ugrožene",
   "JEZIVO! UČENIK KOJI JE PUCAO U ŠKOLI U KRAGUJEVCU NAJAVLJIVAO ZLOČIN: Pogledajte šta je okačio na društvene mreže malo pre ranjavanja tetkice (FOTO)",
-  "Posle pucnjave u školi u Kragujevcu danas neće biti nastave, povređena pomoćna radnica"
+  "Posle pucnjave u školi u Kragujevcu danas neće biti nastave, povređena pomoćna radnica",
+  "Policija opkolila imanje porodice učenika (17) koji je zapucao u školi: Komšije zanemele od šoka, evo šta kažu",
+  "\"Zaposlene su ga videle kako ulazi sa puškom\": Potresno svedočenje radnice objekta u blizini škole u Kragujevcu u kojoj se desila pucnjava",
+  "Ministar Stanković o pucnjavi u školi: Radićemo na sistemskoj prevenciji i povećanju broja policajaca u školama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -253,7 +274,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 7,
  "boost": 1.6,
  "prepisano": "2026-11-24T11:00:18.955630+00:00",
  "verzija": 3
