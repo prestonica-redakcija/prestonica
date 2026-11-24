@@ -29,17 +29,24 @@
  ],
  "importance": 5,
  "published": "2026-11-24T11:59:57.109788+00:00",
- "updated": "2026-11-24T11:59:57.109788+00:00",
+ "updated": "2026-11-24T18:42:56.025649+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1674226/sara-valentik-procitala-izvinjenje-zapretila-vucic-hitno-reagovao-zasluzila-iskljucenje-sednice",
    "title": "SARA VALENTIK PROČITALA IZVINjENjE, PA ZAPRETILA! Vučić hitno reagovao: \"Zaslužila je isključenje sa sednice\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674226/sara-valentik-procitala-ove-reci-onda-vucic-reagovao-zasluzila-iskljucenje-sednice",
+   "title": "SARA VALENTIK PROČITALA OVE REČI, A ONDA VUČIĆ REAGOVAO: \"Zaslužila je isključenje sa sednice\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "SARA VALENTIK PROČITALA IZVINjENjE, PA ZAPRETILA! Vučić hitno reagovao: \"Zaslužila je isključenje sa sednice\""
+  "SARA VALENTIK PROČITALA IZVINjENjE, PA ZAPRETILA! Vučić hitno reagovao: \"Zaslužila je isključenje sa sednice\"",
+  "SARA VALENTIK PROČITALA OVE REČI, A ONDA VUČIĆ REAGOVAO: \"Zaslužila je isključenje sa sednice\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "alt": "Rows of wooden chairs with cane backs and leather desks in a legislative chamber",
   "link": "https://unsplash.com/@kel_foto"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

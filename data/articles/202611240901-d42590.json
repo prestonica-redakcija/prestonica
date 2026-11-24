@@ -27,7 +27,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T18:28:15.144156+00:00",
+ "updated": "2026-11-24T18:42:56.025649+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -454,6 +454,18 @@
    "url": "https://n1info.rs/vesti/pucnjava-u-skoli-u-kragujevcu-uznemirila-javnost-i-ponovo-otvorila-pitanje-bezbednosti/",
    "title": "Pucnjava u školi u Kragujevcu uznemirila javnost i ponovo otvorila pitanje bezbednosti",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/300652/zr-ai-donosi-nova-radna-mesta-bice-jedan-od-glavnih-trendova-zaposljavanja-u-2027-godini/vest",
+   "title": "ZR: AI donosi nova radna mesta, biće jedan od glavnih trendova zapošljavanja u 2027. godini",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/300656/spanska-policija-razbila-mrezu-za-finansiranje-hamasa-dve-osobe-uhapsene-u-barseloni/vest",
+   "title": "Španska policija razbila mrežu za finansiranje Hamasa: Dve osobe uhapšene u Barseloni",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -527,7 +539,9 @@
   "Od sutra poseban režim nastave u Tehničkoj školi u Kragujevcu, pojačano prisustvo policije: Ovo su detalji",
   "HITAN SASTANAK U KRAGUJEVCU POSLE PUCNJAVE U ŠKOLI! Sutra nastava u izmenjenom režimu, biće pojačano dežurstvo policije - evo šta je sve dogovoreno!",
   "MATURANT SE SA PUŠKOM 40 MINUTA VOZIO AUTOBUSOM: Niko ništa nije primetio! A kada je stigao do škole, izvadio je oružje - tada kreće horor",
-  "Pucnjava u školi u Kragujevcu uznemirila javnost i ponovo otvorila pitanje bezbednosti"
+  "Pucnjava u školi u Kragujevcu uznemirila javnost i ponovo otvorila pitanje bezbednosti",
+  "ZR: AI donosi nova radna mesta, biće jedan od glavnih trendova zapošljavanja u 2027. godini",
+  "Španska policija razbila mrežu za finansiranje Hamasa: Dve osobe uhapšene u Barseloni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -540,7 +554,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-24T16:28:52.481798+00:00",
  "verzija": 6

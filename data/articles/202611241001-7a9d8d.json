@@ -24,7 +24,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T09:01:04.718161+00:00",
- "updated": "2026-11-24T09:15:46.899242+00:00",
+ "updated": "2026-11-24T18:42:56.025649+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -37,11 +37,25 @@
    "url": "https://biznis.telegraf.rs/info-biz/4438629-drzava-prevremeno-otkupljuje-obveznice-za-55-milijardi-dinara-danas-druga-aukcija-vredna-10-milijardi",
    "title": "Država prevremeno otkupljuje obveznice za 55 milijardi dinara: Danas druga aukcija vredna 10 milijardi",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/287803/srbija-otkupila-drzavne-obveznice-vredne-10-milijardi-dinara/vest",
+   "title": "Srbija otkupila državne obveznice vredne 10 milijardi dinara",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/300657/republika-srbija-otkupila-desetogodisnje-drzavne-obveznice-u-iznosu-od-10-milijardi-dinara/vest",
+   "title": "Republika Srbija otkupila desetogodišnje državne obveznice u iznosu od 10 milijardi dinara",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Danas druga aukcija prevremenog otkupa državnih obveznica",
-  "Država prevremeno otkupljuje obveznice za 55 milijardi dinara: Danas druga aukcija vredna 10 milijardi"
+  "Država prevremeno otkupljuje obveznice za 55 milijardi dinara: Danas druga aukcija vredna 10 milijardi",
+  "Srbija otkupila državne obveznice vredne 10 milijardi dinara",
+  "Republika Srbija otkupila desetogodišnje državne obveznice u iznosu od 10 milijardi dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,6 +68,6 @@
   "alt": "white concrete building under sky",
   "link": "https://unsplash.com/@katiemoum"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

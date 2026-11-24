@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T09:45:53.910539+00:00",
- "updated": "2026-11-24T12:59:34.665665+00:00",
+ "updated": "2026-11-24T18:42:56.025649+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -41,11 +41,18 @@
    "url": "https://informer.rs/politika/vesti/1172804/ljubica-oparnica-skupstina-minut-cutanja",
    "title": "Baca, vrišti i ne nosi brus - Ljubica Oparnica napustila skupštinsku salu tokom minuta ćutanja za vladiku Irineja, a ovo su svi njeni skandali (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674142/poslanica-ljubica-oparnica-napustila-salu-dok-trajao-minut-cutanja-preminulog-mitropolita-backog",
+   "title": "Poslanica Ljubica Oparnica napustila salu dok je trajao minut ćutanja za preminulog mitropolita bačkog",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "SKANDAL U SKUPŠTINI: Poslanica Ljubica Oparnica napustila salu dok je trajao minut ćutanja za preminulog mitropolita bačkog",
-  "Baca, vrišti i ne nosi brus - Ljubica Oparnica napustila skupštinsku salu tokom minuta ćutanja za vladiku Irineja, a ovo su svi njeni skandali (VIDEO)"
+  "Baca, vrišti i ne nosi brus - Ljubica Oparnica napustila skupštinsku salu tokom minuta ćutanja za vladiku Irineja, a ovo su svi njeni skandali (VIDEO)",
+  "Poslanica Ljubica Oparnica napustila salu dok je trajao minut ćutanja za preminulog mitropolita bačkog"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +65,6 @@
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
