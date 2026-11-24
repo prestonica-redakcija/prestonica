@@ -26,17 +26,24 @@
  ],
  "importance": 2,
  "published": "2026-11-24T07:01:48.347062+00:00",
- "updated": "2026-11-24T07:01:48.347062+00:00",
+ "updated": "2026-11-24T08:16:13.275771+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10170902/saobracajna-nesreca-kod-baca",
    "title": "BANDERA PUKLA KAO ŠIBICA KOLIKO JE JAK UDARAC BIO: Prva slika teške saobraćajne nesreće kod Bača, od auta ostala samo hrpa zgužvanog lima (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4438571-udes-na-auto-putu-kod-uba-nema-teze-povredjenih",
+   "title": "Udes na auto-putu kod Uba: Nema teže povređenih",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "BANDERA PUKLA KAO ŠIBICA KOLIKO JE JAK UDARAC BIO: Prva slika teške saobraćajne nesreće kod Bača, od auta ostala samo hrpa zgužvanog lima (FOTO)"
+  "BANDERA PUKLA KAO ŠIBICA KOLIKO JE JAK UDARAC BIO: Prva slika teške saobraćajne nesreće kod Bača, od auta ostala samo hrpa zgužvanog lima (FOTO)",
+  "Udes na auto-putu kod Uba: Nema teže povređenih"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "alt": "Utility poles line a road through dry golden fields",
   "link": "https://unsplash.com/@da_shika_photo"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -25,7 +25,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T08:01:19.541357+00:00",
+ "updated": "2026-11-24T08:16:13.275771+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -38,11 +38,18 @@
    "url": "https://www.kurir.rs/crna-hronika/10170946/pucnjava-u-tehnickoj-skoli-u-kragujevcu",
    "title": "PUCNJAVA U TEHNIČKOJ ŠKOLI U KRAGUJEVCU: Muškarac s puškom pucao na spremačice",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287607/pucnjava-u-tehnickoj-skoli-u-kragujevcu/vest",
+   "title": "Novi detalji pucnjave u školi u Kragujevcu; Policija privela učenika koji je pucao; Blokiran ceo kraj VIDEO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Pucnjava u Tehničkoj školi u Kragujevcu: Mlađi muškarac pucao iz puške i ranio dve spremačice, Žandarmerija blokirala ceo kraj",
-  "PUCNJAVA U TEHNIČKOJ ŠKOLI U KRAGUJEVCU: Muškarac s puškom pucao na spremačice"
+  "PUCNJAVA U TEHNIČKOJ ŠKOLI U KRAGUJEVCU: Muškarac s puškom pucao na spremačice",
+  "Novi detalji pucnjave u školi u Kragujevcu; Policija privela učenika koji je pucao; Blokiran ceo kraj VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
