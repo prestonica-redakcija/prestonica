@@ -27,17 +27,38 @@
  ],
  "importance": 5,
  "published": "2026-11-24T20:42:13.217039+00:00",
- "updated": "2026-11-24T20:42:13.217039+00:00",
+ "updated": "2026-11-24T21:26:51.183491+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/300684/milica-vasiljevic-blagojevic-predsednicka-i-potpredsednicka-mesta-u-odborima-nisu-odredena/vest",
    "title": "Milica Vasiljević Blagojević: Predsednička i potpredsednička mesta u odborima nisu određena",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/vasiljevic-blagojevic-studentska-lista-predsednicka-i-potpredsednicka-mesta-u-odborima-nisu-odredena-kako-poveriti-sns-u-odbore-za-ljudska-prava-dijasporu-i-kontrolu-sluzbi-bezbednosti",
+   "title": "Vasiljević Blagojević (Studentska lista): Predsednička i potpredsednička mesta u odborima nisu određena; Kako poveriti SNS-u odbore za ljudska prava, dijasporu i kontrolu službi bezbednosti?",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/poslanica-studentske-liste-kako-poslanicima-sns-poveriti-kontrolu-sluzbi-bezbednosti/",
+   "title": "Poslanica Studentske liste: \"Kako poslanicima SNS poveriti kontrolu službi bezbednosti?\"",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253553/sl-nema-resenja-za-celnike-skupstinskih-odbora/vest",
+   "title": "Poslanica Studentske liste Vasiljević Blagojević: Predsednička i potpredsednička mesta u odborima nisu određena",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Milica Vasiljević Blagojević: Predsednička i potpredsednička mesta u odborima nisu određena"
+  "Milica Vasiljević Blagojević: Predsednička i potpredsednička mesta u odborima nisu određena",
+  "Vasiljević Blagojević (Studentska lista): Predsednička i potpredsednička mesta u odborima nisu određena; Kako poveriti SNS-u odbore za ljudska prava, dijasporu i kontrolu službi bezbednosti?",
+  "Poslanica Studentske liste: \"Kako poslanicima SNS poveriti kontrolu službi bezbednosti?\"",
+  "Poslanica Studentske liste Vasiljević Blagojević: Predsednička i potpredsednička mesta u odborima nisu određena"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +70,7 @@
   "local": false,
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

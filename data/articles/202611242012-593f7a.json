@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T19:12:45.042672+00:00",
- "updated": "2026-11-24T20:12:16.418672+00:00",
+ "updated": "2026-11-24T21:26:51.183491+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -46,12 +46,19 @@
    "url": "https://n1info.rs/vesti/selakovic-i-mesarovic-podneli-ostavke-na-ministarske-funkcije/",
    "title": "Selaković i Mesarović podneli ostavke na ministarske funkcije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674421/mesarovic-selakovic-podneli-ostavke-napustaju-resore-privrede-kulture",
+   "title": "MESAROVIĆ I SELAKOVIĆ PODNELI OSTAVKE: Napuštaju resore privrede i kulture",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Adrijana Mesarević i Nikola Selaković podneli ostavke na ministarske funkcije, prešli u poslanike",
   "NISU VIŠE MINISTRI: Adrijana Mesarović i Nikola Selaković podneli ostavke na ministarske funkcije",
-  "Selaković i Mesarović podneli ostavke na ministarske funkcije"
+  "Selaković i Mesarović podneli ostavke na ministarske funkcije",
+  "MESAROVIĆ I SELAKOVIĆ PODNELI OSTAVKE: Napuštaju resore privrede i kulture"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Vlada_Srbije_ulaz_5.jpg",
   "alt": "Mesarević i Selaković napustili Vladu, mandati u Skupštini potvrđeni"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

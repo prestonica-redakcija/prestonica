@@ -25,16 +25,23 @@
  ],
  "importance": 4,
  "published": "2026-11-24T20:42:13.217039+00:00",
- "updated": "2026-11-24T20:42:13.217039+00:00",
+ "updated": "2026-11-24T21:26:51.183491+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/kompanije/300687/majkrosoft-proglasio-crveni-alarm-posle-istorijskog-prekida-rada-svojih-servisa/vest",
    "title": "Majkrosoft proglasio ''crveni alarm'' posle istorijskog prekida rada svojih servisa",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253554/majkrosoft-neotkriven-nedostatak-u-stabilnosti/vest",
+   "title": "Majkrosoft proglasio ''crveni alarm'' posle istorijskog prekida rada svojih servisa",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
+  "Majkrosoft proglasio ''crveni alarm'' posle istorijskog prekida rada svojih servisa",
   "Majkrosoft proglasio ''crveni alarm'' posle istorijskog prekida rada svojih servisa"
  ],
  "author": "Redakcija Prestonice",
@@ -47,5 +54,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Microsoft_365.jpg",
   "alt": "Majkrosoft proglasio \"crveni alarm\" posle višesatnog globalnog kvara servisa"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
