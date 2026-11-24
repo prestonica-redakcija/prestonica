@@ -25,17 +25,24 @@
  ],
  "importance": 3,
  "published": "2026-11-24T11:59:57.109788+00:00",
- "updated": "2026-11-24T11:59:57.109788+00:00",
+ "updated": "2026-11-24T16:28:52.481798+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/300498/spanska-vlada-prosiruje-prava-roditelja-odobrila-20-nedelja-odsustva-uz-punu-zaradu/vest",
    "title": "Španska vlada proširuje prava roditelja, odobrila 20 nedelja odsustva uz punu zaradu",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/300587/sve-vise-oceva-u-sad-uzima-roditeljsko-odsustvo-nakon-rodenja-deteta/vest",
+   "title": "Sve više očeva u SAD uzima roditeljsko odsustvo nakon rođenja deteta",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Španska vlada proširuje prava roditelja, odobrila 20 nedelja odsustva uz punu zaradu"
+  "Španska vlada proširuje prava roditelja, odobrila 20 nedelja odsustva uz punu zaradu",
+  "Sve više očeva u SAD uzima roditeljsko odsustvo nakon rođenja deteta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "local": false,
   "alt": "woman holding baby",
   "link": "https://unsplash.com/@zlucerophoto"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

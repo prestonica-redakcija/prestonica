@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T07:16:38.934187+00:00",
- "updated": "2026-11-24T09:01:04.718161+00:00",
+ "updated": "2026-11-24T16:28:52.481798+00:00",
  "sources": [
   {
    "name": "N1",
@@ -66,6 +66,12 @@
    "url": "https://www.kurir.rs/vesti/politika/10170914/saopstenje-bia-povodom-izjave-srdjana-milivojevica",
    "title": "OGLASILA SE BIA POVODOM IZJAVE MILIVOJEVIĆA (DS): Odbacujemo sve zlonamerne i lažne optužbe o navodnom postojanju Situacionog centra za hibridne pretnje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10171765/mup-i-direkcija-policije-odbacili-optuzbe-srdjana-milivojevica",
+   "title": "OGLASIO SE MUP O IZJAVI MILIVOJEVIĆA (DS): \"Zlonamerni i netačni navodi, preduzećemo pravne korake!\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -74,7 +80,8 @@
   "BIA odbacila optužbe o postojanju Situacionog centra za hibridne pretnje",
   "BIA odbacila optužbe o postojanju Situacionog centra za hibridne pretnje",
   "BIA POVODOM IZJAVE MILIVOJEVIĆA: Odbacujemo sve zlonamerne i lažne optužbe o navodnom Situacionog centra za hibridne pretnje",
-  "OGLASILA SE BIA POVODOM IZJAVE MILIVOJEVIĆA (DS): Odbacujemo sve zlonamerne i lažne optužbe o navodnom postojanju Situacionog centra za hibridne pretnje"
+  "OGLASILA SE BIA POVODOM IZJAVE MILIVOJEVIĆA (DS): Odbacujemo sve zlonamerne i lažne optužbe o navodnom postojanju Situacionog centra za hibridne pretnje",
+  "OGLASIO SE MUP O IZJAVI MILIVOJEVIĆA (DS): \"Zlonamerni i netačni navodi, preduzećemo pravne korake!\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -87,8 +94,8 @@
   "alt": "an old run down building on a street corner",
   "link": "https://unsplash.com/@lambi13"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-24T09:01:04.718161+00:00",
  "verzija": 2
 }

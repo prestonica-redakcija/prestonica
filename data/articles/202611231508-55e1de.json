@@ -25,7 +25,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T14:08:52.547352+00:00",
- "updated": "2026-11-23T21:36:15.776106+00:00",
+ "updated": "2026-11-24T16:28:52.481798+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,12 +44,19 @@
    "url": "https://www.tanjug.rs/ekonomija/svet/300354/cene-goriva-u-eu-u-oktobru-porasle-295-odsto-na-godisnjem-nivou/vest",
    "title": "Cene goriva u EU u oktobru porasle 29,5 odsto na godišnjem nivou",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/region/300464/stopa-nezaposlenosti-u-hrvatskoj-porasla-na-36-odsto-u-oktobru/vest",
+   "title": "Stopa nezaposlenosti u Hrvatskoj porasla na 3,6 odsto u oktobru",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Narodna banka Srbije: Međugodišnji rast kreditne aktivnosti u Srbiji i dalje je relativno visok",
   "Rast kreditne aktivnosti u Srbiji i dalje relativno visok",
-  "Cene goriva u EU u oktobru porasle 29,5 odsto na godišnjem nivou"
+  "Cene goriva u EU u oktobru porasle 29,5 odsto na godišnjem nivou",
+  "Stopa nezaposlenosti u Hrvatskoj porasla na 3,6 odsto u oktobru"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Beograd_Narodna_banka_Srbije_Kralja_Petra_12_25.jpg",
   "alt": "NBS: Kreditna aktivnost u septembru porasla 15,1 odsto na godišnjem nivou"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

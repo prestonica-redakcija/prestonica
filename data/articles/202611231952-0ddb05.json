@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T18:52:05.763223+00:00",
- "updated": "2026-11-24T06:46:52.706910+00:00",
+ "updated": "2026-11-24T16:28:52.481798+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -51,12 +51,19 @@
    "url": "https://nova.rs/vesti/drustvo/amss-upozorava-vlazni-kolovozi-poledica-i-vetar/",
    "title": "AMSS upozorava: Vlažni kolovozi, poledica i vetar",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4439065-zemljotres-magnitude-36-pogodio-severozapad-grcke-kod-albanije",
+   "title": "Jak zemljotres na granici sa Albanijom!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "HITNO UPOZORENJE AMSS-a! Večeras stiže debeli minus, preti opasnost od poledice, a u ovom delu Srbije duvaće OLUJNI VETAR! Evo kakvo je stanje na granicama",
   "AMSS: Vlažni kolovozi, poledica, vetar",
-  "AMSS upozorava: Vlažni kolovozi, poledica i vetar"
+  "AMSS upozorava: Vlažni kolovozi, poledica i vetar",
+  "Jak zemljotres na granici sa Albanijom!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "alt": "Dark surface reflecting vibrant orange and blue light",
   "link": "https://unsplash.com/@linkfang"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

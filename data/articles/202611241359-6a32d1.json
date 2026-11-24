@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T12:59:34.665665+00:00",
- "updated": "2026-11-24T14:43:59.540144+00:00",
+ "updated": "2026-11-24T16:28:52.481798+00:00",
  "sources": [
   {
    "name": "N1",
@@ -46,10 +46,17 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/300555/komisija-za-zastitu-konkurencije-odrzala-sastanak-sa-dobavljacima-kompanije-idea/vest",
    "title": "Komisija za zaštitu konkurencije održala sastanak sa dobavljačima kompanije IDEA",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253505/komisija-sa-dobavljacima-idea-o-zastiti-konkurencije/vest",
+   "title": "Komisija za zaštitu konkurencije održala sastanak sa dobavljačima kompanije IDEA",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Sastanak antimonopolske komisije sa dobavljačima IDEA marketa: Ne sme doći do razmene poslovno osetljivih informacija među konkurentima",
+  "Komisija za zaštitu konkurencije održala sastanak sa dobavljačima kompanije IDEA",
   "Komisija za zaštitu konkurencije održala sastanak sa dobavljačima kompanije IDEA",
   "Komisija za zaštitu konkurencije održala sastanak sa dobavljačima kompanije IDEA"
  ],
@@ -64,6 +71,6 @@
   "alt": "grocery store aisle with stocked shelves",
   "link": "https://unsplash.com/@franki"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

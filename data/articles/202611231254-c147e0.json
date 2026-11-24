@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T11:54:36.696000+00:00",
- "updated": "2026-11-24T15:13:52.963107+00:00",
+ "updated": "2026-11-24T16:28:52.481798+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -113,6 +113,12 @@
    "url": "https://www.telegraf.rs/4438981-linta-pozvao-poslanike-evropskog-parlamenta-da-ne-podrze-rezoluciju-o-vukovaru",
    "title": "Linta pozvao poslanike Evropskog parlamenta da ne podrže Rezoluciju o Vukovaru",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/srpski-studenti-protiv-rezolucije-o-vukovaru-odrgovorio-im-hrvatski-evroparlamentarac/",
+   "title": "Srpski studenti protiv rezolucije o Vukovaru, odgovorio im hrvatski evroparlamentarac",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -129,7 +135,8 @@
   "Studentski pokret: Evropski parlament zanemario stradanja srpskih civila u Hrvatskoj",
   "Studentskoj listi stigao odgovor iz Hrvatske nakon kritike predloga rezolucije o Vukovaru",
   "Linta pozvao poslanike Evropskog parlamenta da ne podrže Rezoluciju o Vukovaru",
-  "Linta pozvao poslanike Evropskog parlamenta da ne podrže Rezoluciju o Vukovaru"
+  "Linta pozvao poslanike Evropskog parlamenta da ne podrže Rezoluciju o Vukovaru",
+  "Srpski studenti protiv rezolucije o Vukovaru, odgovorio im hrvatski evroparlamentarac"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -141,7 +148,7 @@
   "local": true,
   "alt": "Studenti u blokadi kritikovali predlog rezolucije Evropskog parlamenta o Vukovaru"
  },
- "novo_od_pisanja": 2,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-23T21:50:49.650794+00:00",
  "verzija": 3

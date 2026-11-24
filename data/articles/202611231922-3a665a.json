@@ -31,7 +31,7 @@
  ],
  "importance": 7,
  "published": "2026-11-23T18:22:28.432581+00:00",
- "updated": "2026-11-23T19:21:53.756571+00:00",
+ "updated": "2026-11-24T16:28:52.481798+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -44,11 +44,18 @@
    "url": "https://www.kurir.rs/vesti/politika/10170755/kako-se-formira-nova-vlada-srbije-ko-bira-mandatara-i-kad-je-rok",
    "title": "KADA ĆE SRBIJA DOBITI NOVU VLADU I KOJA JE ULOGA ALEKSANDRA ČUPIĆA? Evo svih detalja: Rokovi, procedura izbora, smanjenje resora i politička očekivanja!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=XwEcpJY7ph8",
+   "title": "Mirković: Očekujemo momentalno izvinjenje Aleksandra Čupića",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
   "Kada će Srbija dobiti novu Vladu i koja je uloga Aleksandra Čupića: Rokovi, procedura i politička očekivanja",
-  "KADA ĆE SRBIJA DOBITI NOVU VLADU I KOJA JE ULOGA ALEKSANDRA ČUPIĆA? Evo svih detalja: Rokovi, procedura izbora, smanjenje resora i politička očekivanja!"
+  "KADA ĆE SRBIJA DOBITI NOVU VLADU I KOJA JE ULOGA ALEKSANDRA ČUPIĆA? Evo svih detalja: Rokovi, procedura izbora, smanjenje resora i politička očekivanja!",
+  "Mirković: Očekujemo momentalno izvinjenje Aleksandra Čupića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "alt": "Novi Sad, Serbia",
   "link": "https://unsplash.com/@lazargugleta"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -33,17 +33,24 @@
  ],
  "importance": 6,
  "published": "2026-11-24T15:13:52.963107+00:00",
- "updated": "2026-11-24T15:13:52.963107+00:00",
+ "updated": "2026-11-24T16:28:52.481798+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1674107/burno-parlamentu-nakon-pauze-vucic-odgovorio-smeta-vam-beograd-vodi-expo-metro-jer-nikada-necete-umeti-nista-izgradite",
    "title": "BURNO U PARLAMENTU I NAKON PAUZE Vučić odgovorio: \"Smeta vam Beograd na vodi, EXPO i metro, jer nikada nećete umeti ništa da izgradite",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10171722/vucic-smetaju-vam-beograd-na-vodi-expo-i-metro",
+   "title": "VUČIĆ OŠTRO NOVOJ VLASTI: \"Smetaju vam Beograd na vodi, EXPO i metro, jer nikada nećete umeti ništa da izgradite!\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "BURNO U PARLAMENTU I NAKON PAUZE Vučić odgovorio: \"Smeta vam Beograd na vodi, EXPO i metro, jer nikada nećete umeti ništa da izgradite"
+  "BURNO U PARLAMENTU I NAKON PAUZE Vučić odgovorio: \"Smeta vam Beograd na vodi, EXPO i metro, jer nikada nećete umeti ništa da izgradite",
+  "VUČIĆ OŠTRO NOVOJ VLASTI: \"Smetaju vam Beograd na vodi, EXPO i metro, jer nikada nećete umeti ništa da izgradite!\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "osoba": "Aleksandar Vučić",
   "izvor_x": true,
   "alt": "Nastavak konstitutivne sednice: sukob oko odbora, Vučić govorio o javnom dugu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -34,17 +34,24 @@
  ],
  "importance": 4,
  "published": "2026-11-24T07:16:38.934187+00:00",
- "updated": "2026-11-24T07:16:38.934187+00:00",
+ "updated": "2026-11-24T16:28:52.481798+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/svet/planeta/253389/teroristicki-napad-ispred-vlade-u-kolumbiji-12-povredenih/vest",
    "title": "Teroristički napad u Kolumbiji: Automobil-bomba eksplodirao ispred zgrade vlade, povređeno najmanje 12 ljudi (VIDEO)",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/300597/kolumbija-u-eksploziji-automobila-bombe-ispred-lokalne-vlade-povredene-23-osobe/vest",
+   "title": "Kolumbija: U eksploziji automobila-bombe ispred lokalne vlade povređene 23 osobe",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Teroristički napad u Kolumbiji: Automobil-bomba eksplodirao ispred zgrade vlade, povređeno najmanje 12 ljudi (VIDEO)"
+  "Teroristički napad u Kolumbiji: Automobil-bomba eksplodirao ispred zgrade vlade, povređeno najmanje 12 ljudi (VIDEO)",
+  "Kolumbija: U eksploziji automobila-bombe ispred lokalne vlade povređene 23 osobe"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "alt": "Nypd car on a snowy city street with billboards",
   "link": "https://unsplash.com/@romasha"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

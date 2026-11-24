@@ -34,17 +34,24 @@
  ],
  "importance": 6,
  "published": "2026-11-23T06:12:18.130561+00:00",
- "updated": "2026-11-23T06:12:18.130561+00:00",
+ "updated": "2026-11-24T16:28:52.481798+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1172271/aleksandar-cupic-eu-srbija-svada-samit",
    "title": "Srbija i EU biće u svađi za šest meseci: Upozorenje posle prve odluke \"Studentske liste\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/najave-emisija/n1-studio-live-bez-srbije-na-samitu-u-briselu/",
+   "title": "N1 Studio live: Bez Srbije na Samitu u Briselu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Srbija i EU biće u svađi za šest meseci: Upozorenje posle prve odluke \"Studentske liste\""
+  "Srbija i EU biće u svađi za šest meseci: Upozorenje posle prve odluke \"Studentske liste\"",
+  "N1 Studio live: Bez Srbije na Samitu u Briselu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Čupić neće na samit EU i Zapadni Balkan, analitičari različito o posledicama"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

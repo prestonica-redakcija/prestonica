@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T14:53:23.090850+00:00",
- "updated": "2026-11-24T15:13:52.963107+00:00",
+ "updated": "2026-11-24T16:28:52.481798+00:00",
  "sources": [
   {
    "name": "N1",
@@ -97,6 +97,18 @@
    "url": "https://www.kurir.rs/techvision/vesti/10171637/dzensen-huang-se-vraca-pitanja-o-vezama-sa-kinom-ostaju",
    "title": "Džensen Huang se vraća na čelo Nvidije: Trampova podrška nije zaustavila pitanja o vezama sa Kinom",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/300603/demokrate-optuzuju-trampa-za-korupciju-zbog-povratka-direktora-envidije/vest",
+   "title": "Demokrate optužuju Trampa za korupciju zbog povratka direktora Envidije",
+   "spektar": "centar"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=X-V9sKeAhzU",
+   "title": "Vučić: Ne interesuje ih demokratija",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
@@ -110,7 +122,9 @@
   "DRAMA U SILICIJUMSKOJ DOLINI DOBILA EPILOG: Direktor Nvidije ponovo na čelu kompanije nakon intervencije Bele kuće",
   "Tramp intervenisao u slučaju Nvidije: Bela kuća izvršila pritisak da se Huang vrati na čelo kompanije",
   "Vadeful: Šokiran sam Trampovom intervencijom u vezi sa povratkom Huanga u Envidiju",
-  "Džensen Huang se vraća na čelo Nvidije: Trampova podrška nije zaustavila pitanja o vezama sa Kinom"
+  "Džensen Huang se vraća na čelo Nvidije: Trampova podrška nije zaustavila pitanja o vezama sa Kinom",
+  "Demokrate optužuju Trampa za korupciju zbog povratka direktora Envidije",
+  "Vučić: Ne interesuje ih demokratija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -123,7 +137,7 @@
   "alt": "the nvidia logo is displayed on a table",
   "link": "https://unsplash.com/@mariiaberezovsky"
  },
- "novo_od_pisanja": 5,
+ "novo_od_pisanja": 7,
  "boost": 1.6,
  "prepisano": "2026-11-24T06:17:17.877061+00:00",
  "verzija": 2

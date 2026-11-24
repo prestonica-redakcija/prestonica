@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T08:40:57.565229+00:00",
- "updated": "2026-11-24T15:28:54.686511+00:00",
+ "updated": "2026-11-24T16:28:52.481798+00:00",
  "sources": [
   {
    "name": "N1",
@@ -214,6 +214,24 @@
    "url": "https://nova.rs/vesti/hronika/danas-smo-culi-svedoka-koji-je-potvrdio-da-je-u-1353-razgovarao-sa-srdjanom-telefonom-odbrana-iznela-nove-tvrdnje-nakon-svedocenja-o-telefonskim-pozivima-u-vreme-nestanka-devojcice/",
    "title": "\"Danas smo čuli svedoka koji je potvrdio da je u 13.53 razgovarao sa Srđanom\": Odbrana iznela nove tvrdnje nakon svedočenja o telefonskim pozivima u vreme nestanka devojčice",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/sudjenje-za-ubistvo-danke-ilic-svedoci-ostali-pri-ranijim-iskazima/",
+   "title": "Suđenje za ubistvo Danke Ilić - svedoci ostali pri ranijim iskazima",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4438846-advokat-odbrane-nakon-sudjenja-za-ubistvo-danke-otkrio-sta-su-svedoci-rekli-poznati-datumi-narednih-pretresa",
+   "title": "Advokat odbrane nakon suđenja za ubistvo Danke: Otkrio šta su svedoci rekli, poznati datumi narednih pretresa",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10171731/svedoci-o-srdjanu-jankovicu-tokom-nestanka-danke-ilic",
+   "title": "OVO JE KLJUČNI DOKAZ U SLUČAJU DANKE ILIĆ?! Jedan čovek tvrdi da je baš u vreme devojčicine smrti razgovarao sa Srđanom Jankovićem - tačno u 13.53 sati!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -246,7 +264,10 @@
   "Suđenje za ubistvo Danke Ilić: Danas saslušano osam svedoka, dvoje se nije pojavilo",
   "Saslušani svedoci na suđenju optuženima za ubistvo Danke Ilić, nastavak 17. decembra",
   "\"Nije bio uplašen, ni zbunjen\": Evo šta je Srđan Janković radio samo sat vremena nakon nestanka Danke Ilić",
-  "\"Danas smo čuli svedoka koji je potvrdio da je u 13.53 razgovarao sa Srđanom\": Odbrana iznela nove tvrdnje nakon svedočenja o telefonskim pozivima u vreme nestanka devojčice"
+  "\"Danas smo čuli svedoka koji je potvrdio da je u 13.53 razgovarao sa Srđanom\": Odbrana iznela nove tvrdnje nakon svedočenja o telefonskim pozivima u vreme nestanka devojčice",
+  "Suđenje za ubistvo Danke Ilić - svedoci ostali pri ranijim iskazima",
+  "Advokat odbrane nakon suđenja za ubistvo Danke: Otkrio šta su svedoci rekli, poznati datumi narednih pretresa",
+  "OVO JE KLJUČNI DOKAZ U SLUČAJU DANKE ILIĆ?! Jedan čovek tvrdi da je baš u vreme devojčicine smrti razgovarao sa Srđanom Jankovićem - tačno u 13.53 sati!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -259,7 +280,7 @@
   "alt": "brown wooden tool on white surface",
   "link": "https://unsplash.com/@tingeyinjurylawfirm"
  },
- "novo_od_pisanja": 12,
+ "novo_od_pisanja": 15,
  "boost": 1.6,
  "prepisano": "2026-11-23T18:22:28.432581+00:00",
  "verzija": 5
