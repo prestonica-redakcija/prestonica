@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T08:46:01.118594+00:00",
- "updated": "2026-11-24T08:46:01.118594+00:00",
+ "updated": "2026-11-24T21:56:48.072967+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -50,12 +50,19 @@
    "url": "https://biznis.telegraf.rs/info-biz/4438220-ruske-banke-flota-iz-senke-vojnici-i-sportisti-brisel-predlozio-novi-paket-sankcija",
    "title": "Ruske banke, \"flota iz senke\", vojnici i sportisti: Brisel predložio novi paket sankcija",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287842/marija-zaharova-lidere-eu-nazvala-naivcinama-zbog-novog-finansijskog-zahteva-volodimira-zelenskog/vest",
+   "title": "Moskva ismejala Brisel: \"Naivčine iz EU, spremite se\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "EU sprema nove sankcije Rusiji: Zabrana nastupa pod ruskom zastavom, na udaru i sportski savezi",
   "Brisel sprema nove sankcije Moskvi: Ruska zastava mogla bi da bude zabranjena na sportskim takmičenjima širom EU",
-  "Ruske banke, \"flota iz senke\", vojnici i sportisti: Brisel predložio novi paket sankcija"
+  "Ruske banke, \"flota iz senke\", vojnici i sportisti: Brisel predložio novi paket sankcija",
+  "Moskva ismejala Brisel: \"Naivčine iz EU, spremite se\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,5 +73,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Evropska komisija predložila 22. paket sankcija Rusiji: banke, energetika, sport"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

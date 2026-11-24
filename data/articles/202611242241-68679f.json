@@ -32,16 +32,23 @@
  ],
  "importance": 5,
  "published": "2026-11-24T21:41:40.191274+00:00",
- "updated": "2026-11-24T21:41:40.191274+00:00",
+ "updated": "2026-11-24T21:56:48.072967+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/ekonomija/portugalska-firma-odluku-o-investiciji-u-backoj-topoli-odlozila-do-formiranja-vlade-srbije/",
    "title": "Portugalska firma odluku o investiciji u Bačkoj Topoli odložila do formiranja Vlade Srbije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/portugalska-firma-odluku-o-investiciji-u-backoj-topoli-odlozila-do-formiranja-vlade-srbije/",
+   "title": "Portugalska firma odluku o investiciji u Bačkoj Topoli odložila do formiranja Vlade Srbije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Portugalska firma odluku o investiciji u Bačkoj Topoli odložila do formiranja Vlade Srbije",
   "Portugalska firma odluku o investiciji u Bačkoj Topoli odložila do formiranja Vlade Srbije"
  ],
  "author": "Redakcija Prestonice",
@@ -54,5 +61,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Koncertna_sala_muzi%C4%8Dke_%C5%A1kole,_Ba%C4%8Dka_Topola_1000018228.jpg",
   "alt": "Portugalski Soplast odluku o investiciji u Bačkoj Topoli odlaže do prvog kvartala"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -26,7 +26,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T21:26:51.183491+00:00",
+ "updated": "2026-11-24T21:56:48.072967+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -513,6 +513,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/sutra-izmenjena-nastava-i-skraceni-casovi-u-prvoj-tehnickoj-skoli-u-kragujevcu-gde-je-ucenik-pucao/",
    "title": "Sutra izmenjena nastava i skraćeni časovi u Prvoj tehničkoj školi u Kragujevcu gde je učenik pucao",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/beograd/4439230-oglasio-se-mup-o-nestaloj-devojcici-14-iz-obrenovca-evo-sta-je-imala-na-sebi",
+   "title": "Oglasio se MUP o nestaloj devojčici (14) iz Obrenovca: Evo šta je imala na sebi",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/beograd/4439240-novi-detalji-nestanka-devojcice-u-obrenovcu",
+   "title": "Novi detalji nestanka devojčice u Obrenovcu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -596,7 +608,9 @@
   "Navaro: Odgovoran sam, manjak energije je presudio",
   "Sutra izmenjena nastava i skraćeni časovi u Prvoj tehničkoj školi u Kragujevcu gde je učenik pucao",
   "Sutra izmenjena nastava i skraćeni časovi u Prvoj tehničkoj školi u Kragujevcu gde je učenik pucao",
-  "Sutra izmenjena nastava i skraćeni časovi u Prvoj tehničkoj školi u Kragujevcu gde je učenik pucao"
+  "Sutra izmenjena nastava i skraćeni časovi u Prvoj tehničkoj školi u Kragujevcu gde je učenik pucao",
+  "Oglasio se MUP o nestaloj devojčici (14) iz Obrenovca: Evo šta je imala na sebi",
+  "Novi detalji nestanka devojčice u Obrenovcu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -609,7 +623,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-24T21:26:51.183491+00:00",
  "verzija": 8

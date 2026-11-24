@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T19:12:45.042672+00:00",
- "updated": "2026-11-24T21:41:40.191274+00:00",
+ "updated": "2026-11-24T21:56:48.072967+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -59,6 +59,12 @@
    "url": "https://n1info.rs/vesti/umro-novinar-nekadasnji-generalni-direktor-rts-nenad-ristic/",
    "title": "Umro novinar i nekadašnji generalni direktor RTS-a Nenad Ristić",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/umro-novinar-i-nekadasnji-generalni-direktor-rts-a-nenad-ristic",
+   "title": "Umro novinar i nekadašnji generalni direktor RTS-a Nenad Ristić",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -66,6 +72,7 @@
   "Preminuo novinar i nekadašnji direktor RTS-a Nenad Ristić",
   "Preminuo Nenad Ristić nekadašnji generalni direktor RTS-a",
   "Umro Nenad Ristić: Napustio nas je čuveni novinar i nekadašnji generalni direktor RTS",
+  "Umro novinar i nekadašnji generalni direktor RTS-a Nenad Ristić",
   "Umro novinar i nekadašnji generalni direktor RTS-a Nenad Ristić"
  ],
  "author": "Redakcija Prestonice",
@@ -78,6 +85,6 @@
   "local": true,
   "alt": "Preminuo Nenad Ristić, novinar i nekadašnji generalni direktor RTS-a"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

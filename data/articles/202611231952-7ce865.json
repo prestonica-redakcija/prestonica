@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T18:52:05.763223+00:00",
- "updated": "2026-11-24T11:59:57.109788+00:00",
+ "updated": "2026-11-24T21:56:48.072967+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -57,6 +57,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/novi-beograd-surcin-bez-vode/",
    "title": "Delovi Novog Beograda i Surčina sutra bez vode",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/sutra-bez-vode-delovi-opstina-novi-beograd-i-surcin/",
+   "title": "Sutra bez vode delovi opština Novi Beograd i Surčin",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -64,7 +70,8 @@
   "Beogradski vodovod: Delovi Savskog venca i Voždovca u utorak bez vode",
   "Sutra bez vode delovi Novog Beograda i Surčina",
   "Od osam do 18 časova sutra bez vode stanovnici Novog Beograda i Surčina",
-  "Delovi Novog Beograda i Surčina sutra bez vode"
+  "Delovi Novog Beograda i Surčina sutra bez vode",
+  "Sutra bez vode delovi opština Novi Beograd i Surčin"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +84,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:FAP_2628_JKP_Beogradski_vodovod_i_kanalizacija.jpg",
   "alt": "Delovi Savskog venca i Voždovca u utorak bez vode, prekid od 8 časova"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

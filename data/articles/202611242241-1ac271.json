@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T21:41:40.191274+00:00",
- "updated": "2026-11-24T21:41:40.191274+00:00",
+ "updated": "2026-11-24T21:56:48.072967+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -41,11 +41,18 @@
    "url": "https://insajder.net/prenosimo/un-prosecno-pet-femicida-na-sat-tokom-2025-godine",
    "title": "UN: Prosečno pet femicida na sat tokom 2025. godine",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/300521/un-u-svetu-pet-zena-i-devojcica-ubijaju-clanovi-porodice-svakog-sata/vest",
+   "title": "UN: U svetu pet žena i devojčica ubijaju članovi porodice svakog sata",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "UN: Prosečno pet femicida na sat tokom 2025. godine, ubijeno oko 47.000 žena",
-  "UN: Prosečno pet femicida na sat tokom 2025. godine"
+  "UN: Prosečno pet femicida na sat tokom 2025. godine",
+  "UN: U svetu pet žena i devojčica ubijaju članovi porodice svakog sata"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "UN: u krugu porodice prošle godine ubijeno oko 47.000 žena i devojčica"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
