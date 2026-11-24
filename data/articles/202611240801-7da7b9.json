@@ -32,17 +32,24 @@
  ],
  "importance": 4,
  "published": "2026-11-24T07:01:48.347062+00:00",
- "updated": "2026-11-24T07:01:48.347062+00:00",
+ "updated": "2026-11-24T11:30:04.987837+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/srbija/10170903/veliki-deo-srbije-s-temperaturama-u-minusu",
    "title": "OVAJ GRAD U SRBIJI JEDINI JE U PLUSU! Stegla zima, na Kopaoniku minus 10! Pogledajte Taru pod snegom i trenutne temperature! (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4438741-pogledajte-snimak-prave-zime-u-srbiji-sve-je-prekriveno-snegom-temperatura-minus-6",
+   "title": "Pogledajte snimak prave zime u Srbiji! Sve je prekriveno snegom, temperatura MINUS 6",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "OVAJ GRAD U SRBIJI JEDINI JE U PLUSU! Stegla zima, na Kopaoniku minus 10! Pogledajte Taru pod snegom i trenutne temperature! (VIDEO)"
+  "OVAJ GRAD U SRBIJI JEDINI JE U PLUSU! Stegla zima, na Kopaoniku minus 10! Pogledajte Taru pod snegom i trenutne temperature! (VIDEO)",
+  "Pogledajte snimak prave zime u Srbiji! Sve je prekriveno snegom, temperatura MINUS 6"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "alt": "aerial view of snow covered trees",
   "link": "https://unsplash.com/@jaanus"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

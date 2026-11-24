@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T10:45:26.187919+00:00",
- "updated": "2026-11-24T10:45:26.187919+00:00",
+ "updated": "2026-11-24T11:30:04.987837+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,11 +46,25 @@
    "url": "https://biznis.telegraf.rs/biz-odrzivost/obnovljiva-energija/4438714-sunce-kao-saveznik-u-borbi-protiv-visokih-troskova-solarne-elektrane-u-srbiji-donose-ustedu-i-do-76-odsto",
    "title": "Sunce kao saveznik u borbi protiv visokih troškova: Solarne elektrane u Srbiji donose uštedu i do 76 odsto",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/zeleni-kutak/solarne-elektrane-u-srbiji-ustede-do-76-odsto-investicija-se-vraca-za-nekoliko-godina/",
+   "title": "Solarne elektrane u Srbiji: Uštede do 76 odsto, investicija se vraća za nekoliko godina",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/analiza-solarne-elektrene-prozjumera-stede-i-do-76-odsto-izdataka-za-elektricnu-energiju/",
+   "title": "Analiza: Solarne elektrane prozjumera štede i do 76 odsto izdataka za električnu energiju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Solarne elektrane u Srbiji mogle bi da uštede do 76 odsto električne energije",
-  "Sunce kao saveznik u borbi protiv visokih troškova: Solarne elektrane u Srbiji donose uštedu i do 76 odsto"
+  "Sunce kao saveznik u borbi protiv visokih troškova: Solarne elektrane u Srbiji donose uštedu i do 76 odsto",
+  "Solarne elektrane u Srbiji: Uštede do 76 odsto, investicija se vraća za nekoliko godina",
+  "Analiza: Solarne elektrane prozjumera štede i do 76 odsto izdataka za električnu energiju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +76,7 @@
   "local": false,
   "alt": "gray concrete house",
   "link": "https://unsplash.com/@vivintsolar"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

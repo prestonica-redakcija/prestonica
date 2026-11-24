@@ -31,7 +31,7 @@
  ],
  "importance": 7,
  "published": "2026-11-23T11:54:36.696000+00:00",
- "updated": "2026-11-24T09:45:53.910539+00:00",
+ "updated": "2026-11-24T11:30:04.987837+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -56,13 +56,20 @@
    "url": "https://nova.rs/vesti/politika/vuciceva-pretnja-strajkom-gladju-pokusaj-podizanja-tenzija/",
    "title": "\"Vučićeva pretnja štrajkom glađu pokušaj podizanja tenzija\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/apa-o-vucicevoj-pretnji-strajkom-gladju/",
+   "title": "„Pokušaj podizanja tenzija“: APA o Vučićevoj pretnji štrajkom glađu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Vučić najavio štrajk glađu \"ako pokušaju da ga uhapse\": Milioni će izaći na ulice",
   "\"Ako pokušaju da me uhapse...\": Vučić zagrmeo - Šta ćete onda sa milion ljudi na ulicama?!",
   "\"AKO POKUŠAJU DA ME UHAPSE, ZAPOČINJEM ŠTRAJK GLAĐU\" Vučić: Šta ćete onda da radite sa milion ljudi na ulici onog sekunda kada bi se to dogodilo?",
-  "\"Vučićeva pretnja štrajkom glađu pokušaj podizanja tenzija\""
+  "\"Vučićeva pretnja štrajkom glađu pokušaj podizanja tenzija\"",
+  "„Pokušaj podizanja tenzija“: APA o Vučićevoj pretnji štrajkom glađu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +83,6 @@
   "osoba": "Boško Obradović",
   "alt": "Vučić najavio štrajk glađu u slučaju hapšenja, SNS o izborima odlučuje 13. decembra"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

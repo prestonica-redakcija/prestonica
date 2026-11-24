@@ -29,7 +29,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:46:01.118594+00:00",
- "updated": "2026-11-24T09:45:53.910539+00:00",
+ "updated": "2026-11-24T11:30:04.987837+00:00",
  "sources": [
   {
    "name": "N1",
@@ -66,6 +66,12 @@
    "url": "https://www.b92.net/info/politika/287640/direktor-tehnicke-skole-u-kragujevcu-napadac-ucenik-cetvrtog-razreda-koleginica-nije-zivotno-ugrozena/vest",
    "title": "Direktor tehničke škole u Kragujevcu: Napadač učenik četvrtog razreda, koleginica nije životno ugrožena",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4438781-nije-ni-bila-na-rasporedu-jutros-dosla-na-zamenu-potresni-detalji-o-radnici-upucanoj-u-skoli-u-kragujevcu",
+   "title": "Nije ni bila na rasporedu, jutros došla na zamenu! Potresni detalji o radnici upucanoj u školi u Kragujevcu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -74,7 +80,8 @@
   "Oglasio se direktor škole u Kragujevcu: Povređena radnica nije životno ugrožena, učenik nije bio problematičan",
   "Direktor tehničke škole u Kraguejvcu: Učenik četvrtog razreda ranio koleginicu koja nije životno ugrožena",
   "Direktor Prve tehničke škole u Kragujevcu: Radnica ranjena nije životno ugrožena",
-  "Direktor tehničke škole u Kragujevcu: Napadač učenik četvrtog razreda, koleginica nije životno ugrožena"
+  "Direktor tehničke škole u Kragujevcu: Napadač učenik četvrtog razreda, koleginica nije životno ugrožena",
+  "Nije ni bila na rasporedu, jutros došla na zamenu! Potresni detalji o radnici upucanoj u školi u Kragujevcu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -87,8 +94,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Prva_tehni%C4%8Dka_%C5%A1kola_Kragujevac_05.jpg",
   "alt": "Pucnjava u školi u Kragujevcu: uhapšen učenik, ranjena koleginica nije životno ugrožena"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-24T09:45:53.910539+00:00",
  "verzija": 2
 }

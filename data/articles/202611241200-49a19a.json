@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T11:00:18.955630+00:00",
- "updated": "2026-11-24T11:00:18.955630+00:00",
+ "updated": "2026-11-24T11:30:04.987837+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -49,12 +49,47 @@
    "url": "https://www.danas.rs/vesti/drustvo/sednica-savet-rem-rts-hepi-n1/",
    "title": "Sednica Saveta REM: TV Hepi dobila meru upozorenja, obustavljen ispitni postupak za RTS 1",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300484/savet-rem-a-obustavio-postupak-protiv-rts-nema-elemenata-za-izricanje-mere/vest",
+   "title": "Savet REM-a obustavio postupak protiv RTS, nema elemenata za izricanje mere",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4438773-savet-rem-a-obustavio-postupak-protiv-rts",
+   "title": "Savet REM-a obustavio postupak protiv RTS",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674203/savet-rem-obustavio-postupak-protiv-rts-nema-elemenata-izricanje-mere",
+   "title": "SAVET REM-A OBUSTAVIO POSTUPAK PROTIV RTS: Nema elemenata za izricanje mere",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/287674/savet-rem-a-obustavio-postupak-protiv-rts/vest",
+   "title": "Savet REM-a obustavio postupak protiv RTS; \"Nema elemenata za izricanje mere\"",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/rem-obustavio-postupak-protiv-rts-a-u-slucaju-predizbornog-spota-sns-a",
+   "title": "REM obustavio postupak protiv RTS-a u slučaju predizbornog spota SNS-a",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Deveta redovna sednica Saveta REM-a, odluke o postupcima protiv RTS i TV Hepi",
   "Savet REM-a: TV Hepiju mera upozorenja, obustavljen ispitni postupak za RTS 1",
-  "Sednica Saveta REM: TV Hepi dobila meru upozorenja, obustavljen ispitni postupak za RTS 1"
+  "Sednica Saveta REM: TV Hepi dobila meru upozorenja, obustavljen ispitni postupak za RTS 1",
+  "Savet REM-a obustavio postupak protiv RTS, nema elemenata za izricanje mere",
+  "Savet REM-a obustavio postupak protiv RTS",
+  "SAVET REM-A OBUSTAVIO POSTUPAK PROTIV RTS: Nema elemenata za izricanje mere",
+  "Savet REM-a obustavio postupak protiv RTS; \"Nema elemenata za izricanje mere\"",
+  "REM obustavio postupak protiv RTS-a u slučaju predizbornog spota SNS-a"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,5 +102,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Rodoljub_%C5%A0abi%C4%87_2010.jpg",
   "osoba": "Rodoljub Šabić",
   "alt": "REM izrekao meru upozorenja TV Hepi, postupak protiv RTS 1 obustavljen"
- }
+ },
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

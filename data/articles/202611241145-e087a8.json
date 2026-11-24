@@ -29,17 +29,24 @@
  ],
  "importance": 6,
  "published": "2026-11-24T10:45:26.187919+00:00",
- "updated": "2026-11-24T10:45:26.187919+00:00",
+ "updated": "2026-11-24T11:30:04.987837+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/simic-vecina-u-skupstini-grada-kao-mim-kad-neko-sedi-i-pije-kafu-a-okolo-sve-gori/",
    "title": "Simić: Većina u Skupštini grada - kao \"mim\" kad neko sedi i pije kafu, a okolo sve gori",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/simic-vecina-u-skupstini-grada-kao-mim-kad-neko-sedi-i-pije-kafu-a-okolo-sve-gori/",
+   "title": "Simić: Većina u Skupštini grada kao \"mim\" kad neko sedi i pije kafu, a okolo sve gori",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Simić: Većina u Skupštini grada - kao \"mim\" kad neko sedi i pije kafu, a okolo sve gori"
+  "Simić: Većina u Skupštini grada - kao \"mim\" kad neko sedi i pije kafu, a okolo sve gori",
+  "Simić: Većina u Skupštini grada kao \"mim\" kad neko sedi i pije kafu, a okolo sve gori"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Nemanja_Bogunovi%C4%87_i_prijatelji,_Skup%C5%A1tina_Grada_Beograda,_19._mart_2022.jpg",
   "alt": "Šapić ostaje gradonačelnik: predlog za smenu nije usvojen u Skupštini grada"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

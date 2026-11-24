@@ -27,7 +27,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T11:00:18.955630+00:00",
+ "updated": "2026-11-24T11:30:04.987837+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -184,6 +184,30 @@
    "url": "https://www.kurir.rs/crna-hronika/10171238/ovo-je-maturant-koji-je-pucao-u-tehnickoj-skoli-u-kragujevcu",
    "title": "OVO JE MATURANT KOJI JE PUCAO U TEHNIČKOJ ŠKOLI U KRAGUJEVCU: Uzeo pušku od oca pa krenuo u krvavi pir (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300421/pucnjava-u-tehnickoj-skoli-u-kragujevcu-dve-osobe-povredene/vest",
+   "title": "Pucnjava u Tehničkoj školi u Kragujevcu, dve osobe povređene",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/urgentni-centar-dve-osobe-ranjene-u-prvoj-tehnickoj-skoli-u-kragujevcu-nisu-zivotno-ugrozene/",
+   "title": "Urgentni centar: Dve osobe ranjene u Prvoj tehničkoj školi u Kragujevcu nisu životno ugrožene",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10171222/pucnjava-u-kragujevcu-ucenik-najavio-zlocin",
+   "title": "JEZIVO! UČENIK KOJI JE PUCAO U ŠKOLI U KRAGUJEVCU NAJAVLJIVAO ZLOČIN: Pogledajte šta je okačio na društvene mreže malo pre ranjavanja tetkice (FOTO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/posle-pucnjave-u-skoli-u-kragujevcu-danas-nece-biti-nastave-povredjena-pomocna-radnica/",
+   "title": "Posle pucnjave u školi u Kragujevcu danas neće biti nastave, povređena pomoćna radnica",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -212,7 +236,11 @@
   "Dva sata pre pucnjave na Viberu objavio sliku sa puškom i \"24.11\"! Ministar stigao u školu u Kragujevcu",
   "Maloletnik (17) koji je pucao u školi u Kragujevcu nekoliko sati pre napada objavio fotografiju sa puškom na društvenim mrežama: Dve osobe povređene",
   "Prva tehnička škola u Kragujevcu: Svi učenici bezbedno napustili školu, danas neće biti nastave",
-  "OVO JE MATURANT KOJI JE PUCAO U TEHNIČKOJ ŠKOLI U KRAGUJEVCU: Uzeo pušku od oca pa krenuo u krvavi pir (FOTO)"
+  "OVO JE MATURANT KOJI JE PUCAO U TEHNIČKOJ ŠKOLI U KRAGUJEVCU: Uzeo pušku od oca pa krenuo u krvavi pir (FOTO)",
+  "Pucnjava u Tehničkoj školi u Kragujevcu, dve osobe povređene",
+  "Urgentni centar: Dve osobe ranjene u Prvoj tehničkoj školi u Kragujevcu nisu životno ugrožene",
+  "JEZIVO! UČENIK KOJI JE PUCAO U ŠKOLI U KRAGUJEVCU NAJAVLJIVAO ZLOČIN: Pogledajte šta je okačio na društvene mreže malo pre ranjavanja tetkice (FOTO)",
+  "Posle pucnjave u školi u Kragujevcu danas neće biti nastave, povređena pomoćna radnica"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -225,7 +253,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-24T11:00:18.955630+00:00",
  "verzija": 3

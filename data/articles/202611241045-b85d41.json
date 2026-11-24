@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T09:45:53.910539+00:00",
- "updated": "2026-11-24T10:45:26.187919+00:00",
+ "updated": "2026-11-24T11:30:04.987837+00:00",
  "sources": [
   {
    "name": "N1",
@@ -46,12 +46,33 @@
    "url": "https://www.danas.rs/vesti/drustvo/hapsenje-vladimir-mandic/",
    "title": "Tužilaštvo naložilo hapšenje Vladimira Mandića, policija mu pretresa stanove",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287657/nisko-tuzilastvo-istrazuje-zloupotrebu-eu-fondova-traga-za-vlasnikom-firme-mediji-rec-o-vladimiru-mandicu/vest",
+   "title": "Niško tužilaštvo istražuje zloupotrebu EU fondova, traga za vlasnikom firme; Mediji: Reč o Vladimiru Mandiću",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4438785-tuzilastvo-nalozilo-hapsenje-vladimira-mandica-zbog-malverzacija-sa-eu-fondovima-osumnjiceni-nije-u-zemlji",
+   "title": "Tužilaštvo naložilo hapšenje Vladimira Mandića zbog malverzacija sa EU fondovima, osumnjičeni nije u zemlji",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10171307/nisko-tuzilastvo-nalozilo-hapsenje-vladimira-mandica",
+   "title": "U TOKU PRETRES STANOVA VLADIMIRA MANDIĆA: Niško tužilaštvo naložilo njegovo hapšenje, lokacija mobilnog pokazala da nije u Srbiji!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Tužilaštvo traži hapšenje Vladimira Mandića, utvrđeno da nije u Srbiji",
   "Tužilaštvo traži hapšenje Vladimira Mandića, utvrđeno da se ne nalazi u Srbiji",
-  "Tužilaštvo naložilo hapšenje Vladimira Mandića, policija mu pretresa stanove"
+  "Tužilaštvo naložilo hapšenje Vladimira Mandića, policija mu pretresa stanove",
+  "Niško tužilaštvo istražuje zloupotrebu EU fondova, traga za vlasnikom firme; Mediji: Reč o Vladimiru Mandiću",
+  "Tužilaštvo naložilo hapšenje Vladimira Mandića zbog malverzacija sa EU fondovima, osumnjičeni nije u zemlji",
+  "U TOKU PRETRES STANOVA VLADIMIRA MANDIĆA: Niško tužilaštvo naložilo njegovo hapšenje, lokacija mobilnog pokazala da nije u Srbiji!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +85,6 @@
   "alt": "a large building with columns and a clock on the front of it",
   "link": "https://unsplash.com/@onthesearchforpineapples"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }
