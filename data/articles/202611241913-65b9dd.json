@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T18:13:25.121786+00:00",
- "updated": "2026-11-24T18:13:25.121786+00:00",
+ "updated": "2026-11-24T18:28:15.144156+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,12 +46,26 @@
    "url": "https://www.kurir.rs/crna-hronika/10171837/uhapsen-pavle-bihali",
    "title": "KURIR SAZNAJE: Po nalogu VJT u Beogradu uhapšen Pavle Bihali - sumnja se da zloupotrebio milione",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287791/uhapsen-pavle-bihali-vodja-pokreta-levijatan/vest",
+   "title": "Uhapšen Pavle Bihali, vođa pokreta \"Levijatan\"",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4439120-uhapsen-pavle-bihali",
+   "title": "Uhapšen Pavle Bihali",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Po nalogu Višeg javnog tužilaštva u Beogradu u Beogradu uhapšen Pavle Bihali",
   "Uhapšen Pavle Bihali: Sumnja se da je zloupotrebio više od 22 miliona dinara",
-  "KURIR SAZNAJE: Po nalogu VJT u Beogradu uhapšen Pavle Bihali - sumnja se da zloupotrebio milione"
+  "KURIR SAZNAJE: Po nalogu VJT u Beogradu uhapšen Pavle Bihali - sumnja se da zloupotrebio milione",
+  "Uhapšen Pavle Bihali, vođa pokreta \"Levijatan\"",
+  "Uhapšen Pavle Bihali"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +76,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Uhapšen Pavle Bihali, sumnja se da je zloupotrebio više od 22 miliona dinara"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

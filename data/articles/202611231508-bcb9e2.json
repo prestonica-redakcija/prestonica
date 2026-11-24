@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T14:08:52.547352+00:00",
- "updated": "2026-11-24T12:59:34.665665+00:00",
+ "updated": "2026-11-24T18:28:15.144156+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,12 +46,19 @@
    "url": "https://www.b92.net/biz/region/vesti/287436/ina-udvostrucila-proizvodnju-gasa-na-jadranu-nova-busotina-daje-165000-kubika-dnevno/vest",
    "title": "Ina širi proizvodnju gasa na Jadranu: Nova bušotina donosi 165.000 kubika dnevno",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/gledajte-uzivo-dnevnik-tv-nova-24-11-2026/",
+   "title": "Gledajte uživo Dnevnik TV Nova",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Ina udvostručila proizvodnju gasa na Jadranu, nova bušotina daje 165.000 kubika dnevno",
   "Hrvatska naftna kompanija udvostručila proizvodnju gasa na Jadranu: Nova bušotina daje 165.000 kubika dnevno",
-  "Ina širi proizvodnju gasa na Jadranu: Nova bušotina donosi 165.000 kubika dnevno"
+  "Ina širi proizvodnju gasa na Jadranu: Nova bušotina donosi 165.000 kubika dnevno",
+  "Gledajte uživo Dnevnik TV Nova"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "alt": "brown and white building during night time",
   "link": "https://unsplash.com/@milkandbourbons"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
