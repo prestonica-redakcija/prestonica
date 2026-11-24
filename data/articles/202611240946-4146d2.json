@@ -27,7 +27,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:46:01.118594+00:00",
- "updated": "2026-11-24T09:01:04.718161+00:00",
+ "updated": "2026-11-24T09:15:46.899242+00:00",
  "sources": [
   {
    "name": "N1",
@@ -40,11 +40,18 @@
    "url": "https://nova.rs/vesti/hronika/oglasio-se-direktor-tehnicke-skole-u-kragujevcu-nakon-pucnjave-pratimo-situaciju-potrudicemo-se-da-sto-pre-normalizujemo-nastavu/",
    "title": "Oglasio se direktor tehničke škole u Kragujevcu nakon pucnjave: Pratimo situaciju, potrudićemo se da što pre normalizujemo nastavu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4438642-oglasio-se-direktor-skole-u-kragujevcu-povredjena-radnica-nije-zivotno-ugrozena-ucenik-nije-bio-problematican",
+   "title": "Oglasio se direktor škole u Kragujevcu: Povređena radnica nije životno ugrožena, učenik nije bio problematičan",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Direktor tehničke škole u Kragujevcu: I dalje pratimo situaciju, potrudićemo se da što pre normalizujemo nastavu",
-  "Oglasio se direktor tehničke škole u Kragujevcu nakon pucnjave: Pratimo situaciju, potrudićemo se da što pre normalizujemo nastavu"
+  "Oglasio se direktor tehničke škole u Kragujevcu nakon pucnjave: Pratimo situaciju, potrudićemo se da što pre normalizujemo nastavu",
+  "Oglasio se direktor škole u Kragujevcu: Povređena radnica nije životno ugrožena, učenik nije bio problematičan"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,6 +64,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Prva_tehni%C4%8Dka_%C5%A1kola_Kragujevac_05.jpg",
   "alt": "Pucnjava u školi u Kragujevcu: uhapšen učenik, ranjena koleginica nije životno ugrožena"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -27,7 +27,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T09:01:04.718161+00:00",
+ "updated": "2026-11-24T09:15:46.899242+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -118,6 +118,12 @@
    "url": "https://www.danas.rs/bbc-news-serbian/pucnjava-u-skoli-u-kragujevcu-ucenik-ranio-zaposlenu/",
    "title": "Pucnjava u školi u Kragujevcu: Učenik ranio zaposlenu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/stankovic-saosecam-sa-povredjenima-u-pucnjavi-u-kragujevcu-u-kontaktu-smo-sa-skolom/",
+   "title": "Stanković: Saosećam sa povređenima u pucnjavi u Kragujevcu, u kontaktu smo sa školom",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -135,7 +141,8 @@
   "Oglasio se MUP o pucnjavi u školi: Povređene dve osobe, uhapšen učenik",
   "Pucnjava u školi u Kragujevcu: Ranjene dve tetkice, MUP uhapsio učenika (17) koji je pucao iz puške",
   "Prve slike nakon pucnjave u Kragujevcu: Policija opkolila školu u kojoj je učenik (17) ranio dve tetkice",
-  "Pucnjava u školi u Kragujevcu: Učenik ranio zaposlenu"
+  "Pucnjava u školi u Kragujevcu: Učenik ranio zaposlenu",
+  "Stanković: Saosećam sa povređenima u pucnjavi u Kragujevcu, u kontaktu smo sa školom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -148,7 +155,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-24T09:01:04.718161+00:00",
  "verzija": 2

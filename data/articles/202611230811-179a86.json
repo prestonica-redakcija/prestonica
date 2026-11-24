@@ -36,7 +36,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T07:11:46.061338+00:00",
- "updated": "2026-11-23T17:22:37.242611+00:00",
+ "updated": "2026-11-24T09:15:46.899242+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -49,11 +49,18 @@
    "url": "https://www.tanjug.rs/ekonomija/svet/300283/kraudstrajk-preuzima-ziskeler-za-439-milijardi-dolara/vest",
    "title": "Kraudstrajk preuzima Ziskeler za 43,9 milijardi dolara",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/amd-za-29-milijardi-dolara-preuzeo-taalas-ciji-su-osnivaci-iz-srbije-crne-gore-i-bih/",
+   "title": "AMD za 2,9 milijardi dolara preuzeo Taalas čiji su osnivači iz Srbije, Crne Gore i BiH",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Američki gigant AMD za oko 2,9 milijardi dolara kupio kompaniju Taalas koju su osnovali inženjeri iz Srbije, Crne Gore i Bosne i Hercegovine: Najveća akvizicija osnivača sa naših prostora",
-  "Kraudstrajk preuzima Ziskeler za 43,9 milijardi dolara"
+  "Kraudstrajk preuzima Ziskeler za 43,9 milijardi dolara",
+  "AMD za 2,9 milijardi dolara preuzeo Taalas čiji su osnivači iz Srbije, Crne Gore i BiH"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "alt": "macro photography of black circuit board",
   "link": "https://unsplash.com/@alexkixa"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

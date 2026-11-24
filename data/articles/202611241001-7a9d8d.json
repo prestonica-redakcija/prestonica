@@ -24,17 +24,24 @@
  ],
  "importance": 4,
  "published": "2026-11-24T09:01:04.718161+00:00",
- "updated": "2026-11-24T09:01:04.718161+00:00",
+ "updated": "2026-11-24T09:15:46.899242+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/300428/danas-druga-aukcija-prevremenog-otkupa-drzavnih-obveznica/vest",
    "title": "Danas druga aukcija prevremenog otkupa državnih obveznica",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4438629-drzava-prevremeno-otkupljuje-obveznice-za-55-milijardi-dinara-danas-druga-aukcija-vredna-10-milijardi",
+   "title": "Država prevremeno otkupljuje obveznice za 55 milijardi dinara: Danas druga aukcija vredna 10 milijardi",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Danas druga aukcija prevremenog otkupa državnih obveznica"
+  "Danas druga aukcija prevremenog otkupa državnih obveznica",
+  "Država prevremeno otkupljuje obveznice za 55 milijardi dinara: Danas druga aukcija vredna 10 milijardi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "local": false,
   "alt": "white concrete building under sky",
   "link": "https://unsplash.com/@katiemoum"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

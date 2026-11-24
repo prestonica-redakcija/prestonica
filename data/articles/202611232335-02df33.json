@@ -31,17 +31,24 @@
  ],
  "importance": 5,
  "published": "2026-11-23T22:35:27.144767+00:00",
- "updated": "2026-11-23T22:35:27.144767+00:00",
+ "updated": "2026-11-24T09:15:46.899242+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1172660/bakic-informer-krimilani-klanovi-studentska-lista",
    "title": "\"Kada budemo u prilici!\" Šok izjava Jove Bakića: Prvo bi da zatvori Informer i hapsi novinare, a za kriminalce ima vremena...",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/bakic-vucic/",
+   "title": "Jovo Bakić o hapšenju Vučića: Samo uz dovoljno dokaza",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "\"Kada budemo u prilici!\" Šok izjava Jove Bakića: Prvo bi da zatvori Informer i hapsi novinare, a za kriminalce ima vremena..."
+  "\"Kada budemo u prilici!\" Šok izjava Jove Bakića: Prvo bi da zatvori Informer i hapsi novinare, a za kriminalce ima vremena...",
+  "Jovo Bakić o hapšenju Vučića: Samo uz dovoljno dokaza"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Branko_Pavlovi%C4%87_(cropped).jpg",
   "osoba": "Branko Pavlović",
   "alt": "Bakić: obračun sa kriminalnim klanovima kada Studentska lista bude u prilici da deluje"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

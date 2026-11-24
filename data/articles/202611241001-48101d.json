@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-24T09:01:04.718161+00:00",
- "updated": "2026-11-24T09:01:04.718161+00:00",
+ "updated": "2026-11-24T09:15:46.899242+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -51,12 +51,40 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4438621-preminuo-mitropolit-backi-irinej",
    "title": "Oglasila se Eparhija Bačka povodom smrti mitropolita Irineja",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300434/eparhija-backa-preminuo-arhiepiskop-novosadski-i-mitropolit-backi-irinej/vest",
+   "title": "Eparhija bačka: Preminuo arhiepiskop novosadski i mitropolit bački Irinej",
+   "spektar": "centar"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1172723/aleksandar-vucic-mitropolit-backi-irinej-saucesce",
+   "title": "\"Večan ti pomen i Carstvo nebesko, dragi Vladiko\"! Vučić uputio saučešće povodom smrti mitropolita bačkog Irineja",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4438648-vucic-uputio-saucesce-povodom-smrti-mitropolita-backog-irineja",
+   "title": "Vučić uputio saučešće povodom smrti Mitropolita bačkog Irineja",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10171056/oglasila-se-spc-povodom-smrti-mitropolita-backog-irineja",
+   "title": "Oglasila se SPC povodom smrti Mitropolita Irineja: Večan ti spomen, dostojni blaženstva i nezaboravni oče i vladiko naš Irineje!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Jedan od najuticajnijih velikodostojnika SPC izgubio životnu bitku! Upokojio se na veliki praznik: Oglasila se Eparhija bačka tužnim saopštenjem",
   "\"VEČAN TI POMEN I CARSTVO NEBESKO, DRAGI VLADIKO\" Vučić uputio saučešće povodom smrti mitropolita bačkog Irineja",
-  "Oglasila se Eparhija Bačka povodom smrti mitropolita Irineja"
+  "Oglasila se Eparhija Bačka povodom smrti mitropolita Irineja",
+  "Eparhija bačka: Preminuo arhiepiskop novosadski i mitropolit bački Irinej",
+  "\"Večan ti pomen i Carstvo nebesko, dragi Vladiko\"! Vučić uputio saučešće povodom smrti mitropolita bačkog Irineja",
+  "Vučić uputio saučešće povodom smrti Mitropolita bačkog Irineja",
+  "Oglasila se SPC povodom smrti Mitropolita Irineja: Večan ti spomen, dostojni blaženstva i nezaboravni oče i vladiko naš Irineje!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,5 +96,7 @@
   "local": false,
   "alt": "A large building with a clock tower on top of it",
   "link": "https://unsplash.com/@marishphoto"
- }
+ },
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
