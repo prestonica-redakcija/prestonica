@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T08:16:13.275771+00:00",
- "updated": "2026-11-24T08:16:13.275771+00:00",
+ "updated": "2026-11-24T08:30:59.703766+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,11 +46,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4438584-peter-madjar-povukao-crvenu-liniju-madjarska-nece-da-finansiranje-ukrajine-bude-deo-budzeta-eu",
    "title": "Peter Mađar povukao crvenu liniju: Mađarska neće da finansiranje Ukrajine bude deo budžeta EU",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10170992/madjar-kaze-da-je-neprihvatljivo-povezivanje-finansiranja-ukrajine-sa-budzetom-eu",
+   "title": "\"NEPRIHVATLJIVO POVEZIVANJE FINANSIRANJA UKRAJINE SA BUDŽETOM EU\" Mađarski premijer Peter Mađar najavio nastavak pomoći Kijevu, ali...",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Mađar: Neprihvatljivo povezivanje finansiranja Ukrajine sa budžetom EU",
-  "Peter Mađar povukao crvenu liniju: Mađarska neće da finansiranje Ukrajine bude deo budžeta EU"
+  "Peter Mađar povukao crvenu liniju: Mađarska neće da finansiranje Ukrajine bude deo budžeta EU",
+  "\"NEPRIHVATLJIVO POVEZIVANJE FINANSIRANJA UKRAJINE SA BUDŽETOM EU\" Mađarski premijer Peter Mađar najavio nastavak pomoći Kijevu, ali..."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Mađar: Mađarska neće prihvatiti da se pomoć Ukrajini veže za budžet EU"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

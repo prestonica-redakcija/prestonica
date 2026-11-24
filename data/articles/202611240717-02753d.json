@@ -30,17 +30,24 @@
  ],
  "importance": 6,
  "published": "2026-11-24T06:17:17.877061+00:00",
- "updated": "2026-11-24T06:17:17.877061+00:00",
+ "updated": "2026-11-24T08:30:59.703766+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/stimac-nova-vlada-resori-imena/",
    "title": "Štimac: Moguće je da nova vlada bude formirana pre Nove godine, za pojedine resore već su iskristalisana imena",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/stimac-za-pojedine-resore-vlade-vec-iskristalisana-imena-kvalitet-resenja-je-prioritet/",
+   "title": "Štimac: Za pojedine resore Vlade već iskristalisana imena, kvalitet rešenja je prioritet",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Štimac: Moguće je da nova vlada bude formirana pre Nove godine, za pojedine resore već su iskristalisana imena"
+  "Štimac: Moguće je da nova vlada bude formirana pre Nove godine, za pojedine resore već su iskristalisana imena",
+  "Štimac: Za pojedine resore Vlade već iskristalisana imena, kvalitet rešenja je prioritet"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "white and brown concrete building near body of water during daytime",
   "link": "https://unsplash.com/@ivrn"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -26,7 +26,7 @@
  ],
  "importance": 9,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T08:16:13.275771+00:00",
+ "updated": "2026-11-24T08:30:59.703766+00:00",
  "sources": [
   {
    "name": "N1",
@@ -63,6 +63,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/pucnjava-u-skoli-kragujevac-prva-tehnicka/",
    "title": "Pucnjava u Prvoj tehničkoj školi u Kragujevcu, ima povređenih, učenici bezbedni",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287618/prvi-snimak-sa-mesta-pucnjave-u-skoli-u-kragujevcu/vest",
+   "title": "Prvi snimak sa mesta pucnjave u školi u Kragujevcu; Maloletnik planirao da ubije veći broj učenika VIDEO",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4438600-pucnjava-u-skoli-u-kragujevcu-dve-osobe-povredjene-lekari-se-bore-za-zivot-jedne-ucenik-17-priveden",
+   "title": "Pucnjava u školi u Kragujevcu: Dve osobe povređene, lekari se bore za život jedne – učenik (17) priveden!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -71,7 +83,9 @@
   "PRVA SLIKA S MESTA PUCNJAVE U KRAGUJEVCU: Blokiran prilaz Tehničkoj školi, na licu mesta Hitna pomoć i policija (FOTO)",
   "Pucnjava u Tehničkoj školi u Kragujevcu, jedna osoba povređena",
   "PRVI SNIMAK SA MESTA PUCNJAVE U TEHNIČKOJ ŠKOLI U KRAGUJEVCU: Nepoznato lice ranilo dve radnice",
-  "Pucnjava u Prvoj tehničkoj školi u Kragujevcu, ima povređenih, učenici bezbedni"
+  "Pucnjava u Prvoj tehničkoj školi u Kragujevcu, ima povređenih, učenici bezbedni",
+  "Prvi snimak sa mesta pucnjave u školi u Kragujevcu; Maloletnik planirao da ubije veći broj učenika VIDEO",
+  "Pucnjava u školi u Kragujevcu: Dve osobe povređene, lekari se bore za život jedne – učenik (17) priveden!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -84,6 +98,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_i_%C5%A0kola_za_dizajn_tekstila_i_ko%C5%BEe_Novi_Pazar_04.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, napadač savladan, izvori se razlikuju o povredama"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }

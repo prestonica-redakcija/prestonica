@@ -33,17 +33,24 @@
  ],
  "importance": 4,
  "published": "2026-11-24T07:31:27.587600+00:00",
- "updated": "2026-11-24T07:31:27.587600+00:00",
+ "updated": "2026-11-24T08:30:59.703766+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/intelektualci-nobelovci-istrazivaci-oporezovati-ultrabogatase-ciji-novac-ugrozava-demokratiju/",
    "title": "Intelektualci, nobelovci, istraživači: Oporezovati ultrabogataše čiji novac ugrožava demokratiju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/intelektualci-nobelovci-istrazivaci-oporezivati-ultrabogatase/",
+   "title": "Intelektualci, nobelovci, istraživači: Oporezivati ultrabogataše, čiji novac ugrožava demokratiju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Intelektualci, nobelovci, istraživači: Oporezovati ultrabogataše čiji novac ugrožava demokratiju"
+  "Intelektualci, nobelovci, istraživači: Oporezovati ultrabogataše čiji novac ugrožava demokratiju",
+  "Intelektualci, nobelovci, istraživači: Oporezivati ultrabogataše, čiji novac ugrožava demokratiju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "alt": "people standing while watching Eiffel tower",
   "link": "https://unsplash.com/@slakarvounis"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

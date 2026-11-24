@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T19:51:50.591915+00:00",
- "updated": "2026-11-23T19:51:50.591915+00:00",
+ "updated": "2026-11-24T08:30:59.703766+00:00",
  "sources": [
   {
    "name": "N1",
@@ -46,11 +46,18 @@
    "url": "https://www.b92.net/info/svet/287471/rusija-zapretila-estoniji-da-je-na-ivici-izazivanja-otvorenog-rata/vest",
    "title": "Dobili su direktnu pretnju iz Moskve: \"Na ivici ste otvorenog rata\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/rusija-estonija-optuzbe/",
+   "title": "„Na rubu izazivanja otvorenog rata“: Rusija optužuje Estoniju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Rusija optužila Estoniju da je na ivici izazivanja otvorenog rata",
-  "Dobili su direktnu pretnju iz Moskve: \"Na ivici ste otvorenog rata\""
+  "Dobili su direktnu pretnju iz Moskve: \"Na ivici ste otvorenog rata\"",
+  "„Na rubu izazivanja otvorenog rata“: Rusija optužuje Estoniju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +70,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Kristen_Michal_in_2024_(cropped).jpg",
   "osoba": "Kristen Mihal",
   "alt": "Rusija optužila Estoniju da je na ivici otvorenog rata zbog zatvaranja granice"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

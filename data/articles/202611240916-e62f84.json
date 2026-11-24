@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T08:16:13.275771+00:00",
- "updated": "2026-11-24T08:16:13.275771+00:00",
+ "updated": "2026-11-24T08:30:59.703766+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/odbornici-oslobodjeni-krivice/",
    "title": "Odbornici oslobođeni krivice",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/visi-sud-u-negotinu-oslobodio-odbornike-optuzbi-da-su-sprecavali-javni-skup-tokom-sednice-skupstine-majdanpeka/",
+   "title": "Viši sud u Negotinu oslobodio odbornike optužbi da su sprečavali javni skup tokom sednice skupštine Majdanpeka",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Viši sud u Negotinu oslobodio odbornike optužbi da su sprečavali javni skup tokom sednice skupštine Majdanpeka",
-  "Odbornici oslobođeni krivice"
+  "Odbornici oslobođeni krivice",
+  "Viši sud u Negotinu oslobodio odbornike optužbi da su sprečavali javni skup tokom sednice skupštine Majdanpeka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Majdanpečki odbornici pravosnažno oslobođeni optužbe za sprečavanje javnog skupa"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

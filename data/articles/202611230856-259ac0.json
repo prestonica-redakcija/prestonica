@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T07:56:19.352941+00:00",
- "updated": "2026-11-23T10:40:09.455052+00:00",
+ "updated": "2026-11-24T08:30:59.703766+00:00",
  "sources": [
   {
    "name": "N1",
@@ -71,6 +71,12 @@
    "url": "https://www.kurir.rs/vesti/politika/10170062/dejan-madic-ostaje-rektor-univerziteta-u-novom-sadu",
    "title": "DEJAN MADIĆ OSTAJE REKTOR! Senat Univerziteta u Novom Sadu nije izglasao njegovo razrešenje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/potpredsednik-sad-pod-istragom-senata/",
+   "title": "Potpredsednik SAD pod istragom Senata",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -80,7 +86,8 @@
   "Senat doneo odluku: Madić ostaje rektor Univerziteta u Novom Sadu",
   "Dejan Madić ostaje rektor Univerziteta u Novom Sadu, Senat nije izglasao razrešenje",
   "Dejan Madić ostaje rektor Univerziteta u NS: Senat nije izglasao razrešenje",
-  "DEJAN MADIĆ OSTAJE REKTOR! Senat Univerziteta u Novom Sadu nije izglasao njegovo razrešenje"
+  "DEJAN MADIĆ OSTAJE REKTOR! Senat Univerziteta u Novom Sadu nije izglasao njegovo razrešenje",
+  "Potpredsednik SAD pod istragom Senata"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -93,8 +100,8 @@
   "alt": "high-angle photography of group of people sitting at chairs",
   "link": "https://unsplash.com/@mikael_k"
  },
- "novo_od_pisanja": 1,
- "boost": 1.48,
+ "novo_od_pisanja": 2,
+ "boost": 1.56,
  "prepisano": "2026-11-23T10:10:21.132289+00:00",
  "verzija": 2
 }
