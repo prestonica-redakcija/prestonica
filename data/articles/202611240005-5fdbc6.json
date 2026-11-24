@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T23:05:09.416142+00:00",
- "updated": "2026-11-24T07:31:27.587600+00:00",
+ "updated": "2026-11-24T07:46:23.419063+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -59,13 +59,20 @@
    "url": "https://biznis.telegraf.rs/info-biz/4438548-trampova-administracija-uvela-nove-sankcije-iranu-na-udaru-desetine-firmi-i-pojedinaca",
    "title": "Trampova administracija uvela nove sankcije Iranu: Na udaru desetine firmi i pojedinaca",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/253395/sad-uvele-nove-sankcije-iranu-fincen-prati-15-milijardi/vest",
+   "title": "SAD uvele nove sankcije Iranu, na meti desetine pojedinaca i kompanija",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "SAD uvele nove sankcije Iranu, na meti desetine pojedinaca i kompanija",
   "SAD uvele nove sankcije Iranu, na meti desetine pojedinaca i kompanija",
   "SAD uvele nove sankcije Iranu: Na meti menjačnice i fiktivne kompanije",
-  "Trampova administracija uvela nove sankcije Iranu: Na udaru desetine firmi i pojedinaca"
+  "Trampova administracija uvela nove sankcije Iranu: Na udaru desetine firmi i pojedinaca",
+  "SAD uvele nove sankcije Iranu, na meti desetine pojedinaca i kompanija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -78,6 +85,6 @@
   "alt": "white concrete building under sky",
   "link": "https://unsplash.com/@katiemoum"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T09:55:24.681617+00:00",
- "updated": "2026-11-23T10:10:21.132289+00:00",
+ "updated": "2026-11-24T07:46:23.419063+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -58,13 +58,20 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1673789/cena-gasa-evropi-skocila-skoro-devet-odsto-novi-udar-energetsko-trziste",
    "title": "CENA GASA U EVROPI SKOČILA SKORO DEVET ODSTO: Novi udar na energetsko tržište",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4438558-cene-goriva-u-evropi-i-dalje-paprene-za-godinu-dana-skocile-skoro-30-odsto",
+   "title": "Cene goriva u Evropi i dalje paprene: Za godinu dana skočile skoro 30 odsto",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Hladno vreme i niske zalihe podigle cenu gasa u Evropi za gotovo devet odsto",
   "Cena gasa u Evropi skočila skoro devet odsto: Hladni talas i niske zalihe podižu pritisak",
   "Novi udar na energetsko tržište: Cena gasa u Evropi skočila skoro devet odsto",
-  "CENA GASA U EVROPI SKOČILA SKORO DEVET ODSTO: Novi udar na energetsko tržište"
+  "CENA GASA U EVROPI SKOČILA SKORO DEVET ODSTO: Novi udar na energetsko tržište",
+  "Cene goriva u Evropi i dalje paprene: Za godinu dana skočile skoro 30 odsto"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +84,6 @@
   "alt": "Yellow gas pipe with valve on concrete wall",
   "link": "https://unsplash.com/@audhd_enjoyer"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

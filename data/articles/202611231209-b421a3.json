@@ -31,7 +31,7 @@
  ],
  "importance": 7,
  "published": "2026-11-23T11:09:53.766455+00:00",
- "updated": "2026-11-23T15:38:13.610731+00:00",
+ "updated": "2026-11-24T07:46:23.419063+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -50,12 +50,19 @@
    "url": "https://nova.rs/vesti/politika/nisu-stranci-smenili-vlast-urusila-se-sama-od-sebe-bivsi-sef-bia-za-bbc/",
    "title": "\"Nisu stranci smenili vlast, urušila se sama od sebe\": Bivši šef BIA za BBC",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/aleksandar-djordjevic-bia-studenti-vlast-sluzba/",
+   "title": "Bivši šef BIA: Nisu stranci smenili vlast, srušila ih deca; Vladimir Orlić „nema pojma gde se nalazi“",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "‘Nisu stranci smenili vlast, urušila se sama od sebe’: Bivši šef BIA za BBC",
   "Bivši direktor BIA: Nisu stranci smenili vlast, urušila se sama od sebe",
-  "\"Nisu stranci smenili vlast, urušila se sama od sebe\": Bivši šef BIA za BBC"
+  "\"Nisu stranci smenili vlast, urušila se sama od sebe\": Bivši šef BIA za BBC",
+  "Bivši šef BIA: Nisu stranci smenili vlast, srušila ih deca; Vladimir Orlić „nema pojma gde se nalazi“"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "osoba": "Bratislav Gašić",
   "alt": "Bivši direktor BIA Đorđević za BBC: Vlast se urušila sama, reforma službi traje godinama"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

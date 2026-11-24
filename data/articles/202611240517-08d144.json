@@ -3,18 +3,20 @@
  "slug": "jutro-u-srbiji-sa-slabim-mrazom-tokom-dana-pretezno-suncano-do-devet",
  "kind": "vest",
  "section": "drustvo",
- "headline": "Jutro u Srbiji sa slabim mrazom, tokom dana pretežno sunčano, do devet stepeni",
- "lead": "U Srbiji će jutros biti hladno sa slabim mrazom, a tokom dana pretežno sunčano, saopšteno je iz Republičkog hidrometeorološkog zavoda. Mestimično će duvati jak vetar, a Putevi Srbije upozorili su vozače na oprez zbog snega na pojedinim putevima.",
+ "headline": "Na Kopaoniku jutros minus 10, u većini mesta ispod nule, a tokom dana sunčano",
+ "lead": "Prema merenjima RHMZ-a u 7.00 sati, temperatura je u većini mesta u Srbiji bila ispod nule, a najhladnije je bilo na Kopaoniku sa minus 10 stepeni. Tokom dana biće pretežno sunčano, uz najvišu temperaturu od pet do devet stepeni.",
  "body": [
-  "Prema prognozi RHMZ-a, koju prenosi Nova pozivajući se na agenciju Beta, najniža temperatura biće od minus tri do dva stepena, a najviša od pet do devet stepeni.",
-  "Vetar će biti slab do umeren, zapadni i severozapadni. U Banatu, na istoku i jugoistoku Srbije povremeno će biti jak, a u Borskom okrugu moguće su i oluje jačine udara. Uveče vetar slabi, a tokom noći skreće na južni i jugoistočni, navodi se u prognozi koju prenose Nova i Telegraf.",
-  "U Beogradu će ujutru takođe biti hladno sa slabim mrazom, a tokom dana pretežno sunčano. Najniža temperatura biće oko minus jedan, a najviša oko šest stepeni, prenosi Nova.",
+  "Kako je objavio Republički hidrometeorološki zavod, a prenosi B92, na Crnom Vrhu je jutros izmereno minus sedam stepeni, na Zlatiboru minus pet, a u Sjenici i Ćupriji minus četiri. U Sremskoj Mitrovici, Smederevskoj Palanci, Kuršumliji i Dimitrovgradu bilo je minus tri stepena.",
+  "Najtoplije je u 7.00 sati bilo u Beogradu, Banatskom Karlovcu, Negotinu i Kraljevu, gde je termometar pokazivao nula stepeni.",
+  "Prema prognozi RHMZ-a, koju prenose Nova i Telegraf pozivajući se na agenciju Beta, najniža temperatura biće od minus tri do dva stepena, a najviša od pet do devet. U Beogradu se očekuje oko minus jedan ujutru i oko šest stepeni tokom dana, navodi Nova.",
+  "Vetar će biti slab do umeren, zapadni i severozapadni, a u Banatu, na istoku i jugoistoku povremeno jak. U Borskom okrugu moguće su i olujne jačine udara. Uveče slabi, a tokom noći skreće na južni i jugoistočni.",
   "JP „Putevi Srbije“ upozorilo je, kako navodi Telegraf, da je tokom noći na putevima kod Kruševca, Zaječara, Ivanjice i Vranja bilo do pet centimetara mestimično raskvašenog snega. Vozačima je preporučen oprez."
  ],
  "tags": [
-  "vremenska prognoza",
-  "mraz",
+  "vreme",
   "RHMZ",
+  "mraz",
+  "Kopaonik",
   "Putevi Srbije",
   "vetar"
  ],
@@ -31,7 +33,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T04:17:52.650439+00:00",
- "updated": "2026-11-24T07:31:27.587600+00:00",
+ "updated": "2026-11-24T07:46:23.419063+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -68,6 +70,12 @@
    "url": "https://insajder.net/prenosimo/jutro-sa-mrazom-tokom-dana-suncano-temperatura-do-devet-stepeni",
    "title": "Jutro sa mrazom, tokom dana sunčano: Temperatura do devet stepeni",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/287595/vremenska-prognoza-za-24-novembar/vest",
+   "title": "Mraz okovao Srbiju: Na Kopaoniku -10 stepeni; Evo koliko će biti stepeni tokom dana",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -76,7 +84,8 @@
   "U Srbiji danas pretežno sunčano, ujutru slab mraz, temperatura do devet stepeni",
   "Posle hladnog jutra sa mrazem, tokom dana sunčano, najniža temperatura minus tri, maksimalna od šest do devet stepeni",
   "Danas jutro hladno, tokom dana sunčano",
-  "Jutro sa mrazom, tokom dana sunčano: Temperatura do devet stepeni"
+  "Jutro sa mrazom, tokom dana sunčano: Temperatura do devet stepeni",
+  "Mraz okovao Srbiju: Na Kopaoniku -10 stepeni; Evo koliko će biti stepeni tokom dana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -89,6 +98,8 @@
   "alt": "silhouette of electric post during sunset",
   "link": "https://unsplash.com/@thestefankostic"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 0,
+ "boost": 1.4,
+ "prepisano": "2026-11-24T07:46:23.419063+00:00",
+ "verzija": 2
 }
