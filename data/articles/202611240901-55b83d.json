@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T10:45:26.187919+00:00",
+ "updated": "2026-11-24T11:00:18.955630+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -95,6 +95,18 @@
    "url": "https://www.kurir.rs/region/bosna-i-hercegovina/10171215/snimak-sprovodjenja-nikoline-sljivic-u-akciji-u-kojoj-je-uhapsen-i-naser-oric",
    "title": "SNIMAK SPROVOĐENJA NIKOLINE ŠLJIVIĆ U AKCIJI \"EMISAR\" U KOJOJ JE PAO I NASER ORIĆ! Ovako je bivša narodna poslanica uhapšena u Istočnom Sarajevu (FOTO, VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/region/bosna-i-hercegovina/10171089/fotografije-policijske-akcije-u-bih-uhapseni-naser-oric-i-nikolina-sljivic",
+   "title": "OBJAVLJENE FOTOGRAFIJE POLICIJSKE AKCIJE U KOJOJ SU UHAPŠENI ORIĆ I ŠLJIVIĆ: Pet osoba privedeno u okviru operacije \"EMISAR\" (FOTO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/foto-ovako-je-uhapsena-nikolina-sljivic-bivsa-poslanica-u-skupstini-republike-srpske/",
+   "title": "FOTO Ovako je uhapšena Nikolina Šljivić, bivša poslanica u Skupštini Republike Srpske",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -107,7 +119,9 @@
   "Prve fotografije hapšenja bivše poslanice Nikoline Šljivić: Zajedno sa njom \"pao\" i Naser Orić",
   "Oglasila se SIPA o hapšenju Nasera Orića",
   "Čuvao Miloševića, hapsio Draškovića, a onda završio na poternici Srbije: Ko je Naser Orić koji je danas uhapšen u velikoj akciji?",
-  "SNIMAK SPROVOĐENJA NIKOLINE ŠLJIVIĆ U AKCIJI \"EMISAR\" U KOJOJ JE PAO I NASER ORIĆ! Ovako je bivša narodna poslanica uhapšena u Istočnom Sarajevu (FOTO, VIDEO)"
+  "SNIMAK SPROVOĐENJA NIKOLINE ŠLJIVIĆ U AKCIJI \"EMISAR\" U KOJOJ JE PAO I NASER ORIĆ! Ovako je bivša narodna poslanica uhapšena u Istočnom Sarajevu (FOTO, VIDEO)",
+  "OBJAVLJENE FOTOGRAFIJE POLICIJSKE AKCIJE U KOJOJ SU UHAPŠENI ORIĆ I ŠLJIVIĆ: Pet osoba privedeno u okviru operacije \"EMISAR\" (FOTO)",
+  "FOTO Ovako je uhapšena Nikolina Šljivić, bivša poslanica u Skupštini Republike Srpske"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -120,6 +134,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Promenada_Isto%C4%8Dno_Sarajevo.jpg",
   "alt": "SIPA i policija RS uhapsile Nasera Orića i Nikolinu Šljivić u akciji širom BiH"
  },
- "novo_od_pisanja": 7,
- "boost": 1.56
+ "novo_od_pisanja": 9,
+ "boost": 1.6
 }

@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T11:54:36.696000+00:00",
- "updated": "2026-11-24T10:45:26.187919+00:00",
+ "updated": "2026-11-24T11:00:18.955630+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -105,6 +105,24 @@
    "url": "https://www.novosti.rs/vesti/politika/1674107/konstitutivna-sednica-skupstine-vucic-doneli-smo-odluku-ucestvujemo-radu-odbora-video",
    "title": "KONSTITUTIVNA SEDNICA SKUPŠTINE Vučić: Doneli smo odluku da ne učestvujemo u radu odbora (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/vucic-doneli-smo-odluku-da-ne-ucestvujemo-u-radu-odbora/",
+   "title": "Vučić: Doneli smo odluku da ne učestvujemo u radu odbora",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300377/vucic-jednoglasno-smo-odlucili-da-ne-ucestvujemo-u-radu-skupstinskih-odbora/vest",
+   "title": "Vučić: Jednoglasno smo odlučili da ne učestvujemo u radu skupštinskih odbora",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/vucic-necemo-ucestvovati-u-radu-skupstinskih-odbora/",
+   "title": "Vučić: Nećemo učestvovati u radu skupštinskih odbora",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -120,7 +138,10 @@
   "SKUPŠTINA SRBIJE: Počele konsultacije sa samostalnim poslanicima o odborima",
   "Skupština Srbije, još jedan važan dan: Poslanici biraju članove odbora, čeka se i odluka opozicije o učešću",
   "Skupština Srbije bira odbore",
-  "KONSTITUTIVNA SEDNICA SKUPŠTINE Vučić: Doneli smo odluku da ne učestvujemo u radu odbora (VIDEO)"
+  "KONSTITUTIVNA SEDNICA SKUPŠTINE Vučić: Doneli smo odluku da ne učestvujemo u radu odbora (VIDEO)",
+  "Vučić: Doneli smo odluku da ne učestvujemo u radu odbora",
+  "Vučić: Jednoglasno smo odlučili da ne učestvujemo u radu skupštinskih odbora",
+  "Vučić: Nećemo učestvovati u radu skupštinskih odbora"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -133,7 +154,7 @@
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 6,
  "boost": 1.6,
  "prepisano": "2026-11-23T15:38:13.610731+00:00",
  "verzija": 3

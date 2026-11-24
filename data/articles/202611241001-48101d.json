@@ -33,7 +33,7 @@
  ],
  "importance": 7,
  "published": "2026-11-24T09:01:04.718161+00:00",
- "updated": "2026-11-24T10:45:26.187919+00:00",
+ "updated": "2026-11-24T11:00:18.955630+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -118,6 +118,30 @@
    "url": "https://www.telegraf.rs/4438720-macut-uputio-saucesce-spc-povodom-smrti-mitropolita-backog-irineja",
    "title": "Macut uputio saučešće SPC povodom smrti mitropolita bačkog Irineja",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10171201/patrijarh-porfirije-sluzio-pomen-mitropolitu-irineju",
+   "title": "Patrijarh Porfirije služio pomen Mitropolitu Irineju u Moskvi! Oglasila se SPC - evo ko je sve prisustvovao molitvi u Rusiji!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/300485/patrijarh-porfirije-sluzio-pomen-mitropolitu-backom-irineju-u-moskvi/vest",
+   "title": "Patrijarh Porfirije služio pomen mitropolitu bačkom Irineju u Moskvi",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/patrijarh-porfirije-sluzio-pomen-mitropolitu-irineju-u-moskvi/",
+   "title": "Patrijarh Porfirije služio pomen mitropolitu Irineju u Moskvi",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/patrijarh-porfirije-sluzio-pomen-mitropolitu-irineju/",
+   "title": "Patrijarh Porfirije služio pomen mitropolitu Irineju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -134,7 +158,11 @@
   "Dačić izrazio saučešće povodom smrti mitropolita bačkog Irineja",
   "Dačić se oglasio povodom smrti mitropolita Irineja! Njegove reči odjekuju: \"Veliki gubitak za naš narod\"",
   "Macut uputio saučešće SPC povodom smrti mitropolita bačkog Irineja",
-  "Macut uputio saučešće SPC povodom smrti mitropolita bačkog Irineja"
+  "Macut uputio saučešće SPC povodom smrti mitropolita bačkog Irineja",
+  "Patrijarh Porfirije služio pomen Mitropolitu Irineju u Moskvi! Oglasila se SPC - evo ko je sve prisustvovao molitvi u Rusiji!",
+  "Patrijarh Porfirije služio pomen mitropolitu bačkom Irineju u Moskvi",
+  "Patrijarh Porfirije služio pomen mitropolitu Irineju u Moskvi",
+  "Patrijarh Porfirije služio pomen mitropolitu Irineju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -147,7 +175,7 @@
   "alt": "A large building with a clock tower on top of it",
   "link": "https://unsplash.com/@marishphoto"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-24T10:45:26.187919+00:00",
  "verzija": 2

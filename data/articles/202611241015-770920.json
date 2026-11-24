@@ -27,17 +27,24 @@
  ],
  "importance": 5,
  "published": "2026-11-24T09:15:46.899242+00:00",
- "updated": "2026-11-24T09:15:46.899242+00:00",
+ "updated": "2026-11-24T11:00:18.955630+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/300441/oskrnavljena-zvonara-u-porti-crkve-svetog-ilije-u-cernici-kod-gnjilana/vest",
    "title": "Oskrnavljena zvonara u porti crkve Svetog Ilije u Cernici kod Gnjilana",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/kamenovana-zvonara-crkve-svetog-ilije-u-cernici-kod-gnjilana-mestani-uznemireni/",
+   "title": "Kamenovana zvonara crkve Svetog Ilije u Cernici kod Gnjilana, meštani uznemireni (FOTO)",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Oskrnavljena zvonara u porti crkve Svetog Ilije u Cernici kod Gnjilana"
+  "Oskrnavljena zvonara u porti crkve Svetog Ilije u Cernici kod Gnjilana",
+  "Kamenovana zvonara crkve Svetog Ilije u Cernici kod Gnjilana, meštani uznemireni (FOTO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Crkva_Svetog_Ilije,_Rti_(op%C5%A1tina_Lu%C4%8Dani)_05.jpg",
   "alt": "Kamenovana zvonara u porti crkve Svetog Ilije u Cernici kod Gnjilana"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

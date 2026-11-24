@@ -36,7 +36,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T07:11:46.061338+00:00",
- "updated": "2026-11-24T09:15:46.899242+00:00",
+ "updated": "2026-11-24T11:00:18.955630+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -55,12 +55,19 @@
    "url": "https://n1info.rs/biznis/amd-za-29-milijardi-dolara-preuzeo-taalas-ciji-su-osnivaci-iz-srbije-crne-gore-i-bih/",
    "title": "AMD za 2,9 milijardi dolara preuzeo Taalas čiji su osnivači iz Srbije, Crne Gore i BiH",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10171191/amd-preuzeo-ai-startap-taalas-za-2-9-milijardi-dolara",
+   "title": "AI kompanija koju su osnovali i inženjeri iz Srbije prodata za 2,9 milijardi dolara: Evo šta su napravili",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Američki gigant AMD za oko 2,9 milijardi dolara kupio kompaniju Taalas koju su osnovali inženjeri iz Srbije, Crne Gore i Bosne i Hercegovine: Najveća akvizicija osnivača sa naših prostora",
   "Kraudstrajk preuzima Ziskeler za 43,9 milijardi dolara",
-  "AMD za 2,9 milijardi dolara preuzeo Taalas čiji su osnivači iz Srbije, Crne Gore i BiH"
+  "AMD za 2,9 milijardi dolara preuzeo Taalas čiji su osnivači iz Srbije, Crne Gore i BiH",
+  "AI kompanija koju su osnovali i inženjeri iz Srbije prodata za 2,9 milijardi dolara: Evo šta su napravili"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "alt": "macro photography of black circuit board",
   "link": "https://unsplash.com/@alexkixa"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
