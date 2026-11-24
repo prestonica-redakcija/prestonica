@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T15:23:19.150328+00:00",
- "updated": "2026-11-24T21:26:51.183491+00:00",
+ "updated": "2026-11-24T21:41:40.191274+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -53,12 +53,19 @@
    "url": "https://www.tanjug.rs/srbija/politika/300695/skupstina-nisa-usvojila-rebalans-budzeta-budzetska-kasa-uvecana-za-162-milijarde-dinara/vest",
    "title": "Skupština Niša usvojila rebalans budžeta; Budžetska kasa uvećana za 1,62 milijarde dinara",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300470/skupstina-nisa-usvojila-rebalans-budzeta-budzetska-kasa-uvecana-za-162-milijarde-dinara/vest",
+   "title": "Skupština Niša usvojila rebalans budžeta; Budžetska kasa uvećana za 1,62 milijarde dinara",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Prema rebalansu budžet Beograda 232 milijarde dinara",
   "Skupština grada usvojila treći rebalans budžeta: Beograd raspolaže sa 231,9 milijardi dinara",
   "Usvojen treći rebalans ovogodišnjeg budžeta Grada Beograda, rashodi povećani na 215 milijardi dinara",
+  "Skupština Niša usvojila rebalans budžeta; Budžetska kasa uvećana za 1,62 milijarde dinara",
   "Skupština Niša usvojila rebalans budžeta; Budžetska kasa uvećana za 1,62 milijarde dinara"
  ],
  "author": "Redakcija Prestonice",
@@ -71,6 +78,6 @@
   "local": true,
   "alt": "Rebalans budžeta Beograda težak 231,9 milijardi dinara, gradske opštine 16 milijardi"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

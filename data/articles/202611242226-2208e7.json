@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T21:26:51.183491+00:00",
- "updated": "2026-11-24T21:26:51.183491+00:00",
+ "updated": "2026-11-24T21:41:40.191274+00:00",
  "sources": [
   {
    "name": "N1",
@@ -58,6 +58,18 @@
    "url": "https://www.telegraf.rs/vesti/beograd/4439225-nestala-devojcica-u-obrenovcu-aktiviran-sistem-pronadji-me",
    "title": "Nestala devojčica u Obrenovcu: Aktiviran sistem \"Pronađi me\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/nestala-devojcica-u-obrenovcu-aktiviran-sistem-pronadi-me",
+   "title": "Nestala devojčica u Obrenovcu: Aktiviran sistem Pronađi me",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300698/aktiviran-sistem-pronadi-me-nestala-devojcica-u-obrenovcu/vest",
+   "title": "Aktiviran sistem Pronađi me: Nestala devojčica u Obrenovcu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -65,7 +77,9 @@
   "Nestala devojčica u Obrenovcu; Aktiviran sistem \"Pronađi me\"",
   "Aktiviran sistem Pronađi me: Nestala devojčica (14) u Obrenovcu",
   "AKTIVIRAN SISTEM \"PRONAĐI ME\": U Obrenovcu nestala devojčica (14) - poslednji put viđena u školi",
-  "Nestala devojčica u Obrenovcu: Aktiviran sistem \"Pronađi me\""
+  "Nestala devojčica u Obrenovcu: Aktiviran sistem \"Pronađi me\"",
+  "Nestala devojčica u Obrenovcu: Aktiviran sistem Pronađi me",
+  "Aktiviran sistem Pronađi me: Nestala devojčica u Obrenovcu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,5 +91,7 @@
   "local": false,
   "alt": "A person wearing a police jacket in a crowd",
   "link": "https://unsplash.com/@grmot"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T21:26:51.183491+00:00",
- "updated": "2026-11-24T21:26:51.183491+00:00",
+ "updated": "2026-11-24T21:41:40.191274+00:00",
  "sources": [
   {
    "name": "N1",
@@ -46,9 +46,16 @@
    "url": "https://nova.rs/vesti/politika/bakic-skoro-sigurno-cemo-ici-na-privremeno-finansiranje-cak-iako-vlada-bude-u-decembru/",
    "title": "Bakić: Skoro sigurno ćemo ići na privremeno finansiranje, čak iako Vlada bude u decembru",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/bakic-skoro-sigurno-cemo-ici-na-privremeno-finansiranje-cak-iako-vlada-bude-u-decembru",
+   "title": "Bakić: Skoro sigurno ćemo ići na privremeno finansiranje, čak iako Vlada bude u decembru",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Bakić: Skoro sigurno ćemo ići na privremeno finansiranje, čak iako Vlada bude u decembru",
   "Bakić: Skoro sigurno ćemo ići na privremeno finansiranje, čak iako Vlada bude u decembru",
   "Bakić: Skoro sigurno ćemo ići na privremeno finansiranje, čak iako Vlada bude u decembru",
   "Bakić: Skoro sigurno ćemo ići na privremeno finansiranje, čak iako Vlada bude u decembru"
@@ -63,5 +70,7 @@
   "local": false,
   "alt": "aerial view photography of room",
   "link": "https://unsplash.com/@internetztube"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
