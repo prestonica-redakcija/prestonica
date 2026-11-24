@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T10:45:26.187919+00:00",
- "updated": "2026-11-24T11:00:18.955630+00:00",
+ "updated": "2026-11-24T17:43:21.511848+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -44,11 +44,18 @@
    "url": "https://www.youtube.com/watch?v=TusY-2EhXQ4",
    "title": "Brnabić: Dugujete izvinjenje kragujevačkim mučenicima",
    "spektar": "stranka"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=x19z0NBpvco",
+   "title": "Treba da se stidite i da vas je sram što ste u ovom domu izrekli da su studenti simbol stradanja.",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
   "\"TREBA DA VAS JE SRAM I STID\" Brnabićeva žestoko reagovala na Čupićeve reči: Simbol stradanja u ovoj zemlji su kragujevački mučenici",
-  "Brnabić: Dugujete izvinjenje kragujevačkim mučenicima"
+  "Brnabić: Dugujete izvinjenje kragujevačkim mučenicima",
+  "Treba da se stidite i da vas je sram što ste u ovom domu izrekli da su studenti simbol stradanja."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +70,6 @@
   "izvor_x": true,
   "alt": "Brnabić traži izvinjenje od Čupića zbog izjave o studentima kao simbolu stradanja"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

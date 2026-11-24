@@ -31,17 +31,24 @@
  ],
  "importance": 6,
  "published": "2026-11-24T16:58:36.932241+00:00",
- "updated": "2026-11-24T16:58:36.932241+00:00",
+ "updated": "2026-11-24T17:43:21.511848+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1674107/burno-parlamentu-vucic-slobodni-gradjani-srbije-pobedicemo-tiraniju-pokazati-vam-vas-uopste-nismo-uplasili",
    "title": "BURNO U PARLAMENTU Vučić: Mi slobodni građani Srbije pobedićemo tu tiraniju i pokazati vam da vas uopšte nismo uplašili",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674107/burno-parlamentu-vucic-nazalost-srbija-nije-pobedila-pobedila-mafija",
+   "title": "BURNO U PARLAMENTU Vučić: \"Nažalost, Srbija nije pobedila - pobedila je mafija\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "BURNO U PARLAMENTU Vučić: Mi slobodni građani Srbije pobedićemo tu tiraniju i pokazati vam da vas uopšte nismo uplašili"
+  "BURNO U PARLAMENTU Vučić: Mi slobodni građani Srbije pobedićemo tu tiraniju i pokazati vam da vas uopšte nismo uplašili",
+  "BURNO U PARLAMENTU Vučić: \"Nažalost, Srbija nije pobedila - pobedila je mafija\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "alt": "A large semicircular legislative chamber with rows of red seats and wooden desks",
   "link": "https://unsplash.com/@marcooriolesi"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

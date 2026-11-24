@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T11:59:57.109788+00:00",
- "updated": "2026-11-24T14:43:59.540144+00:00",
+ "updated": "2026-11-24T17:43:21.511848+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -61,6 +61,12 @@
    "url": "https://www.kurir.rs/vesti/politika/10171375/bakic-odgovorio-vucicu-i-pomenuo-vracarce-neke-od-vas-cemo-stititi-a-neke-goniti",
    "title": "ŽUSTRA RASPRAVA U SKUPŠTINI! Bakić: Neke od vas ćemo štititi, a neke goniti! Vučić: Vi ste organizovana kriminalna grupa i odgovaraćete!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674222/bakic-zapretio-gonjenjem-vucic-odgovorio-ste-organizovana-kriminalna-grupa-odgovaracete",
+   "title": "BAKIĆ ZAPRETIO GONjENjEM, VUČIĆ MU ODGOVORIO: Vi ste organizovana kriminalna grupa, odgovaraćete!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -68,7 +74,8 @@
   "BAKIĆ ZAPRETIO GONjENjEM, VUČIĆ MU ODOGOVORIO: Vi ste organizovana kriminalna grupa, odgovaraćete!",
   "Vučić: Vi ste organizovana kriminalna grupa, vas je vodio i Maršavelski i mnogi drugi",
   "Bakić poslanicima Ujedinjene Srbije: Neke od vas ćemo štititi, a neke od vas goniti",
-  "ŽUSTRA RASPRAVA U SKUPŠTINI! Bakić: Neke od vas ćemo štititi, a neke goniti! Vučić: Vi ste organizovana kriminalna grupa i odgovaraćete!"
+  "ŽUSTRA RASPRAVA U SKUPŠTINI! Bakić: Neke od vas ćemo štititi, a neke goniti! Vučić: Vi ste organizovana kriminalna grupa i odgovaraćete!",
+  "BAKIĆ ZAPRETIO GONjENjEM, VUČIĆ MU ODGOVORIO: Vi ste organizovana kriminalna grupa, odgovaraćete!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -81,6 +88,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Oštra razmena Vučića i Bakića u Skupštini oko \"organizovane kriminalne grupe\""
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

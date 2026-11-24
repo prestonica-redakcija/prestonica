@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T15:13:52.963107+00:00",
- "updated": "2026-11-24T15:13:52.963107+00:00",
+ "updated": "2026-11-24T17:43:21.511848+00:00",
  "sources": [
   {
    "name": "N1",
@@ -41,11 +41,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/rts-zaposljavanje-manja-grcic/",
    "title": "UNS: RTS za vreme mandata Manje Grčić zaposlio 111 ljudi, najviše novinara i urednika primljeno na konkurs za TV lica",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/za-vreme-manje-grcic-u-rts-primljeno-111-osoba/",
+   "title": "Za vreme Manje Grčić u RTS primljeno 111 osoba",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "UNS: Za vreme mandata Manje Grčić u RTS-u zaposleno 111 ljudi, najviše u Informativnom programu",
-  "UNS: RTS za vreme mandata Manje Grčić zaposlio 111 ljudi, najviše novinara i urednika primljeno na konkurs za TV lica"
+  "UNS: RTS za vreme mandata Manje Grčić zaposlio 111 ljudi, najviše novinara i urednika primljeno na konkurs za TV lica",
+  "Za vreme Manje Grčić u RTS primljeno 111 osoba"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "UNS: RTS za mandata Manje Grčić zaposlio 111 ljudi, najviše u Informativnom programu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

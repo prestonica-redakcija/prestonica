@@ -26,17 +26,24 @@
  ],
  "importance": 4,
  "published": "2026-11-24T16:58:36.932241+00:00",
- "updated": "2026-11-24T16:58:36.932241+00:00",
+ "updated": "2026-11-24T17:43:21.511848+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/region/300626/mmf-euro-model-moze-dici-inflaciju-u-crnoj-gori-na-90-odsto-i-javni-dug-na-72-odsto/vest",
    "title": "MMF: Euro model može dići inflaciju u Crnoj Gori na 9,0 odsto i javni dug na 72 odsto",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/region/vesti/287786/mmf-euro-model-moze-dici-inflaciju-u-crnoj-gori-na-90-odsto-i-javni-dug-na-72-odsto/vest",
+   "title": "Oglasio se MMF: Euro model može dići inflaciju i javni dug u Crnoj Gori",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "MMF: Euro model može dići inflaciju u Crnoj Gori na 9,0 odsto i javni dug na 72 odsto"
+  "MMF: Euro model može dići inflaciju u Crnoj Gori na 9,0 odsto i javni dug na 72 odsto",
+  "Oglasio se MMF: Euro model može dići inflaciju i javni dug u Crnoj Gori"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Kralji%C4%8Dina_pla%C5%BEa_(Milo%C4%8Der,_Crna_Gora)_07.jpg",
   "alt": "MMF upozorava da bi Euro model u Crnoj Gori podigao inflaciju na oko devet odsto"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

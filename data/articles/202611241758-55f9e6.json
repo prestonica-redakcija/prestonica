@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T16:58:36.932241+00:00",
- "updated": "2026-11-24T16:58:36.932241+00:00",
+ "updated": "2026-11-24T17:43:21.511848+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -52,12 +52,19 @@
    "url": "https://www.b92.net/info/svet/287755/poljska-mir-u-ukrajini-nece-da-zaustavi-ruske-sabotaze-u-evropi/vest",
    "title": "\"Mir u Ukrajini neće spasiti Evropu od Putina\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10171751/poljska-mir-u-ukrajini-nece-da-zaustavi-ruske-sabotaze-u-evropi",
+   "title": "NATO SILA UPOZORAVA NA NAMERE MOSKVE! Čak ni kraj rata u Ukrajini neće otkloniti opasnost po Evropu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Poljska: Mir u Ukrajini neće da zaustavi ruske sabotaže u Evropi",
   "„Moskva želi da poništi promene koje su usledile nakon Hladnog rata“: Poljska upozorava da mirom u Ukrajini ne bi bile okončane ruske sabotaže u Evropi",
-  "\"Mir u Ukrajini neće spasiti Evropu od Putina\""
+  "\"Mir u Ukrajini neće spasiti Evropu od Putina\"",
+  "NATO SILA UPOZORAVA NA NAMERE MOSKVE! Čak ni kraj rata u Ukrajini neće otkloniti opasnost po Evropu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,5 +76,7 @@
   "local": false,
   "alt": "a button that is sitting on a piece of paper",
   "link": "https://unsplash.com/@jccards"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
