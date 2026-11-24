@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T18:13:25.121786+00:00",
- "updated": "2026-11-24T20:12:16.418672+00:00",
+ "updated": "2026-11-24T20:27:05.952526+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -107,6 +107,18 @@
    "url": "https://nova.rs/vesti/hronika/oglasilo-se-tuzilastvo-o-hapsenju-pavla-bihalija-novac-iz-republickog-budzeta-namenjen-kampanji-preneo-na-svoj-racun/",
    "title": "Oglasilo se tužilaštvo o hapšenju Pavla Bihalija: Novac iz republičkog budžeta namenjen kampanji preneo na svoj račun",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300527/u-smederevu-uhapsena-2-lica-osumnjicena-da-su-ostetili-budzet-srbije-za-vise-od-17-miliona-din/vest",
+   "title": "U Smederevu uhapšena 2 lica osumnjičena da su oštetili budžet Srbije za više od 1,7 miliona din",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300647/pavle-bihali-osumnjicen-da-je-ostetio-budzet-za-225-miliona-dinara/vest",
+   "title": "Pavle Bihali osumnjičen da je oštetio budžet za 22,5 miliona dinara",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -122,7 +134,9 @@
   "Uhapšen Pavle Bihali",
   "„Ker“ koji radi šta mu se kaže: Ko je Pavle Bihali, vođa pokreta Levijatan koji je uhapšen zbog zloupotrebe više od 22 miliona dinara?",
   "Više tužilaštvo: Uhapšen Pavle Bihali zbog sumnje da je prisvojio novac od kampanje \"Rusko manjinskog saveza\"",
-  "Oglasilo se tužilaštvo o hapšenju Pavla Bihalija: Novac iz republičkog budžeta namenjen kampanji preneo na svoj račun"
+  "Oglasilo se tužilaštvo o hapšenju Pavla Bihalija: Novac iz republičkog budžeta namenjen kampanji preneo na svoj račun",
+  "U Smederevu uhapšena 2 lica osumnjičena da su oštetili budžet Srbije za više od 1,7 miliona din",
+  "Pavle Bihali osumnjičen da je oštetio budžet za 22,5 miliona dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -134,7 +148,7 @@
   "local": true,
   "alt": "Uhapšen Pavle Bihali, sumnja se da je zloupotrebio više od 22 miliona dinara"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-24T20:12:16.418672+00:00",
  "verzija": 2

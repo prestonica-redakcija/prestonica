@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-24T18:42:56.025649+00:00",
- "updated": "2026-11-24T18:42:56.025649+00:00",
+ "updated": "2026-11-24T20:27:05.952526+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/300602/venecuela-procenila-dug-na-2375-milijardi-dolara-vlada-najavljuje-restrukturiranje/vest",
    "title": "Venecuela procenila dug na 237,5 milijardi dolara, vlada najavljuje restrukturiranje",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/287751/venecuela-objavila-podatke-o-dugu-od-237-milijardi-dolara-najavila-restrukturiranje/vest",
+   "title": "Na korak do najvećeg restrukturiranja u istoriji: Dug od čak 237,5 milijardi",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Venecuela procenila dug na 237,5 milijardi dolara, vlada najavljuje restrukturiranje"
+  "Venecuela procenila dug na 237,5 milijardi dolara, vlada najavljuje restrukturiranje",
+  "Na korak do najvećeg restrukturiranja u istoriji: Dug od čak 237,5 milijardi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "alt": "Dramatic sunrise over a city skyline with clouds and sunbeams",
   "link": "https://unsplash.com/@shotsbyedgardo"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
