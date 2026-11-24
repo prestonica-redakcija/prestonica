@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-22T21:46:37.641049+00:00",
- "updated": "2026-11-23T08:11:15.177849+00:00",
+ "updated": "2026-11-24T09:01:04.718161+00:00",
  "sources": [
   {
    "name": "B92",
@@ -59,13 +59,20 @@
    "url": "https://www.b92.net/info/svet/287277/zelenski-potvrdio-ruska-korveta-merkur-je-potopljena/vest",
    "title": "Potvrđeno; Da, Rusi su potopljeni VIDEO",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287590/rat-u-ukrajini-1734-dan/vest",
+   "title": "Rusi se obrušili na Zaporožje: Udar za udarom; Broje se mrtvi FOTO/VIDEO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Ukrajina udarila tamo gde Rusija nije očekivala: Brutalni napadi od Finske do Libije FOTO/VIDEO",
   "BRUTALNI UDARI NA RUSE OD FINSKE DO LIBIJE Ukrajinski dronovi razaraju sve pred sobom, ali u svemu ovome postoji jedna velika misterija (VIDEO)",
   "Ukrajinci napali dronom ruski brod u Libiji: U strahovitoj eksploziji više mrtvih Libijaca i Rusa",
-  "Potvrđeno; Da, Rusi su potopljeni VIDEO"
+  "Potvrđeno; Da, Rusi su potopljeni VIDEO",
+  "Rusi se obrušili na Zaporožje: Udar za udarom; Broje se mrtvi FOTO/VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -78,6 +85,6 @@
   "alt": "A space satellite hovering above the coastline",
   "link": "https://unsplash.com/@spacex"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
