@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T22:05:45.618419+00:00",
- "updated": "2026-11-23T22:20:33.126631+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "B92",
@@ -48,12 +48,19 @@
    "url": "https://www.tanjug.rs/svet/politika/300359/analize-broj-poginulih-ruskih-vojnika-u-ukrajini-mogao-bi-da-premasi-720000/vest",
    "title": "Analize: Broj poginulih ruskih vojnika u Ukrajini mogao bi da premaši 720.000",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/putinova-skrivena-statistika-smrti-analiza-11-miliona-umrlica-otkriva-stvarne-razmere-ruskih-gubitaka-u-ukrajini/",
+   "title": "Putinova skrivena statistika smrti: Analiza 11 miliona umrlica otkriva stvarne razmere ruskih gubitaka u Ukrajini",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Otkriveni strogo čuvani ruski podaci",
   "OTKRIVENE RAZMERE RUSKIH GUBITAKA U UKRAJINI! Ovi podaci su bili strogo čuvani, brojke otkrivaju zastrašujuću sliku rata",
-  "Analize: Broj poginulih ruskih vojnika u Ukrajini mogao bi da premaši 720.000"
+  "Analize: Broj poginulih ruskih vojnika u Ukrajini mogao bi da premaši 720.000",
+  "Putinova skrivena statistika smrti: Analiza 11 miliona umrlica otkriva stvarne razmere ruskih gubitaka u Ukrajini"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "alt": "a cemetery with rows of headstones and trees",
   "link": "https://unsplash.com/@thetaikun"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

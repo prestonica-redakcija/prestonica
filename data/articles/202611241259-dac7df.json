@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T11:59:57.109788+00:00",
- "updated": "2026-11-24T12:59:34.665665+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -49,12 +49,26 @@
    "url": "https://www.youtube.com/watch?v=Ac2RJ5RcVEM",
    "title": "Vučić: Vi ste organizovana kriminalna grupa, vas je vodio i Maršavelski i mnogi drugi",
    "spektar": "stranka"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/bakic-poslanicima-ujedinjene-srbije-neke-od-vas-cemo-stititi-a-neke-od-vas-goniti/",
+   "title": "Bakić poslanicima Ujedinjene Srbije: Neke od vas ćemo štititi, a neke od vas goniti",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10171375/bakic-odgovorio-vucicu-i-pomenuo-vracarce-neke-od-vas-cemo-stititi-a-neke-goniti",
+   "title": "ŽUSTRA RASPRAVA U SKUPŠTINI! Bakić: Neke od vas ćemo štititi, a neke goniti! Vučić: Vi ste organizovana kriminalna grupa i odgovaraćete!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "VUČIĆ ŽESTOKO ODGOVORIO BAKIĆU: Vi ste organizovana kriminalna grupa, odgovaraćete!",
   "BAKIĆ ZAPRETIO GONjENjEM, VUČIĆ MU ODOGOVORIO: Vi ste organizovana kriminalna grupa, odgovaraćete!",
-  "Vučić: Vi ste organizovana kriminalna grupa, vas je vodio i Maršavelski i mnogi drugi"
+  "Vučić: Vi ste organizovana kriminalna grupa, vas je vodio i Maršavelski i mnogi drugi",
+  "Bakić poslanicima Ujedinjene Srbije: Neke od vas ćemo štititi, a neke od vas goniti",
+  "ŽUSTRA RASPRAVA U SKUPŠTINI! Bakić: Neke od vas ćemo štititi, a neke goniti! Vučić: Vi ste organizovana kriminalna grupa i odgovaraćete!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +81,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Oštra razmena Vučića i Bakića u Skupštini oko \"organizovane kriminalne grupe\""
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

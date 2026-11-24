@@ -23,17 +23,31 @@
  ],
  "importance": 3,
  "published": "2026-11-23T15:08:19.469711+00:00",
- "updated": "2026-11-23T15:08:19.469711+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/300244/promet-na-beogradskoj-berzi-blizu-56-miliona-dinara-indeksi-u-minusu/vest",
    "title": "Promet na Beogradskoj berzi blizu 5,6 miliona dinara, indeksi u minusu",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/300562/promet-na-beogradskoj-berzi-oko-187-miliona-dinara-indeksi-u-plusu/vest",
+   "title": "Promet na Beogradskoj berzi oko 1,87 miliona dinara, indeksi u plusu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4438937-beogradska-berza-u-zelenom-indeksi-u-plusu-promet-187-miliona-dinara",
+   "title": "Beogradska berza u zelenom: Indeksi u plusu, promet 1,87 miliona dinara",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Promet na Beogradskoj berzi blizu 5,6 miliona dinara, indeksi u minusu"
+  "Promet na Beogradskoj berzi blizu 5,6 miliona dinara, indeksi u minusu",
+  "Promet na Beogradskoj berzi oko 1,87 miliona dinara, indeksi u plusu",
+  "Beogradska berza u zelenom: Indeksi u plusu, promet 1,87 miliona dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -45,5 +59,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Aerodrom_Nikola_Tesla.jpg",
   "alt": "Beogradska berza: promet 5,6 miliona dinara, Belex15 oslabio za 0,20 odsto"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

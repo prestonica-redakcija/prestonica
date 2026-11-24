@@ -23,7 +23,7 @@
  "places": [],
  "importance": 3,
  "published": "2026-11-23T14:53:23.090850+00:00",
- "updated": "2026-11-23T14:53:23.090850+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -36,11 +36,18 @@
    "url": "https://biznis.telegraf.rs/info-biz/4438257-kriptovalute-u-zelenom-bitkoin-skocio-na-58355-evra-ali-na-trzistu-i-dalje-vlada-ekstremni-strah",
    "title": "Kriptovalute u zelenom: Bitkoin skočio na 58.355 evra, ali na tržištu i dalje vlada \"ekstremni strah\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/300564/bitkoin-pao-za-548-odsto-na-54700-evra-itirijum-za-555-odsto-na-1540-evra/vest",
+   "title": "Bitkoin pao za 5,48 odsto na 54.700 evra, itirijum za 5,55 odsto na 1.540 evra",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Bitkoin porastao za pet odsto na 58.355 evra, itirijum za 5,87 odsto na 1.657 evra",
-  "Kriptovalute u zelenom: Bitkoin skočio na 58.355 evra, ali na tržištu i dalje vlada \"ekstremni strah\""
+  "Kriptovalute u zelenom: Bitkoin skočio na 58.355 evra, ali na tržištu i dalje vlada \"ekstremni strah\"",
+  "Bitkoin pao za 5,48 odsto na 54.700 evra, itirijum za 5,55 odsto na 1.540 evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "gold-colored Bitcoin",
   "link": "https://unsplash.com/@silverhousehd"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

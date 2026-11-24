@@ -29,17 +29,24 @@
  ],
  "importance": 4,
  "published": "2026-11-23T17:52:32.310734+00:00",
- "updated": "2026-11-23T17:52:32.310734+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/ekonomija/nebojsa-cetkovic-sinepleks-srbija/",
    "title": "Nebojša Ćetković preuzima vođenje kompanije Sinepleks Srbija",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/kultura/nebojsa-cetkovic-na-celu-sinepleksa/",
+   "title": "Nakon iznenadne smrti Ivana Hinića, Ćetković na čelu Sinepleksa",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Nebojša Ćetković preuzima vođenje kompanije Sinepleks Srbija"
+  "Nebojša Ćetković preuzima vođenje kompanije Sinepleks Srbija",
+  "Nakon iznenadne smrti Ivana Hinića, Ćetković na čelu Sinepleksa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "alt": "Empty cinema hall with red seats and large screen",
   "link": "https://unsplash.com/@adhitya_2505"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

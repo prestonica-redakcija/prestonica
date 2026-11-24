@@ -30,16 +30,23 @@
  ],
  "importance": 3,
  "published": "2026-11-24T11:30:04.987837+00:00",
- "updated": "2026-11-24T11:30:04.987837+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/300495/saradnja-srbije-i-holandije-predstavljeni-rezultati-i-planovi-razvoja-euprave/vest",
    "title": "Saradnja Srbije i Holandije: Predstavljeni rezultati i planovi razvoja eUprave",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253456/jovanovic-predstavio-kucu-euprave-ambasadoru-holandije/vest",
+   "title": "Saradnja Srbije i Holandije: Predstavljeni rezultati i planovi razvoja eUprave",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
+  "Saradnja Srbije i Holandije: Predstavljeni rezultati i planovi razvoja eUprave",
   "Saradnja Srbije i Holandije: Predstavljeni rezultati i planovi razvoja eUprave"
  ],
  "author": "Redakcija Prestonice",
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "people sitting on chair in front of computer",
   "link": "https://unsplash.com/@israelandrxde"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -28,7 +28,7 @@
  ],
  "importance": 2,
  "published": "2026-11-23T06:12:18.130561+00:00",
- "updated": "2026-11-23T06:12:18.130561+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -41,11 +41,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4430716-znate-li-ko-su-sveti-olimp-rodion-sosipatar-erast-i-kvart",
    "title": "Znate li ko su Sveti Olimp, Rodion, Sosipatar, Erast i Kvart?",
    "spektar": "vlast"
+  },
+  {
+   "name": "Standard",
+   "url": "https://standard.rs/2026/11/24/udar-na-srpsko-pravo-veta/",
+   "title": "Udar na srpsko pravo veta",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "POSEČENI MAČEM NA DAN RASPEĆA SVETOG APOSTOLA PETRA: Danas slavimo Svete apostole Olimpa, Erasta, Kvarta, Rodiona, Sosipatera i Tercija",
-  "Znate li ko su Sveti Olimp, Rodion, Sosipatar, Erast i Kvart?"
+  "Znate li ko su Sveti Olimp, Rodion, Sosipatar, Erast i Kvart?",
+  "Udar na srpsko pravo veta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Srpska pravoslavna crkva danas slavi svete apostole Olimpa, Rodiona, Sosipatera, Erasta, Kvarta i Tercija"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

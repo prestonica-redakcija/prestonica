@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T12:59:34.665665+00:00",
- "updated": "2026-11-24T12:59:34.665665+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -45,11 +45,18 @@
    "url": "https://www.novosti.rs/vesti/politika/1674265/vucic-sanji-fric-optuzbe-pruzi-novi-sad-subotica-bili-ste-clan-revizione-komisije-bas-taj-projekat",
    "title": "VUČIĆ SANjI FRIC NA OPTUŽBE O PRUZI NOVI SAD-SUBOTICA: \"Bili ste član revizione komisije baš za taj projekat\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674265/fric-ste-ubrzavali-radove-vucic-bili-ste-clan-revizione-komisije-bas-taj-projekat",
+   "title": "Fric: Vi ste ubrzavali radove; Vučić: Bili ste član revizione komisije baš za taj projekat",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Sanja Fric i Aleksandar Vučić o pruzi Novi Sad-Subotica: Spor oko učešća u revizionoj komisiji",
-  "VUČIĆ SANjI FRIC NA OPTUŽBE O PRUZI NOVI SAD-SUBOTICA: \"Bili ste član revizione komisije baš za taj projekat\""
+  "VUČIĆ SANjI FRIC NA OPTUŽBE O PRUZI NOVI SAD-SUBOTICA: \"Bili ste član revizione komisije baš za taj projekat\"",
+  "Fric: Vi ste ubrzavali radove; Vučić: Bili ste član revizione komisije baš za taj projekat"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +70,7 @@
   "osoba": "Aleksandar Vučić",
   "izvor_x": true,
   "alt": "Fric i Vučić se spore oko uloge u reviziji projekta pruge Novi Sad-Subotica"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

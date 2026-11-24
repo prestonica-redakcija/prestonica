@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T12:59:34.665665+00:00",
- "updated": "2026-11-24T12:59:34.665665+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "N1",
@@ -48,11 +48,46 @@
    "url": "https://nova.rs/vesti/politika/objavljena-imena-poslanika-koji-su-predlozeni-za-clanove-i-zamenike-clanova-odbora-skupstine-srbije-foto/",
    "title": "Objavljena imena poslanika koji su predloženi za članove i zamenike članova odbora Skupštine Srbije FOTO",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/pogledajte-spisak-svih-predlozenih-clanova-skupstinskih-odbora-bakic-unutrasnji-poslovi-soskic-finansije-baucal-evropske-integracije/",
+   "title": "Pogledajte spisak svih predloženih članova skupštinskih odbora: Bakić - unutrašnji poslovi, Šoškić - finansije, Baucal - evropske integracije...",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/287713/ovo-je-spisak-predlozenih-clanova-skupstinskih-odbora-bakic-unutrasnji-poslovi-soskic-finansije/vest",
+   "title": "Ovo je spisak predloženih članova skupštinskih odbora; Bakić – unutrašnji poslovi, Šoškić – finansije...",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/skupstina-odbori/",
+   "title": "Ko su predloženi članovi skupštinskih odbora?",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10171553/predlozeni-clanovi-i-zamenici-clanova-skupstinskih-odbora",
+   "title": "BAKIĆ - UNUTRAŠNJI POSLOVI, ŠOŠKIĆ - FINANSIJE Skupštinski odbori bez SNS: Ovo je spisak svih predloženih članova",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300539/objavljen-predlog-odluke-o-izboru-clanova-i-zamenika-clanova-odbora-skupstine-srbije/vest",
+   "title": "Objavljen Predlog odluke o izboru članova i zamenika članova odbora Skupštine Srbije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Spisak svih predloženih članova skupštinskih odbora: Bakić - unutrašnji poslovi, Šoškić - finansije, Baucal - evropske integracije...",
-  "Objavljena imena poslanika koji su predloženi za članove i zamenike članova odbora Skupštine Srbije FOTO"
+  "Objavljena imena poslanika koji su predloženi za članove i zamenike članova odbora Skupštine Srbije FOTO",
+  "Pogledajte spisak svih predloženih članova skupštinskih odbora: Bakić - unutrašnji poslovi, Šoškić - finansije, Baucal - evropske integracije...",
+  "Ovo je spisak predloženih članova skupštinskih odbora; Bakić – unutrašnji poslovi, Šoškić – finansije...",
+  "Ko su predloženi članovi skupštinskih odbora?",
+  "BAKIĆ - UNUTRAŠNJI POSLOVI, ŠOŠKIĆ - FINANSIJE Skupštinski odbori bez SNS: Ovo je spisak svih predloženih članova",
+  "Objavljen Predlog odluke o izboru članova i zamenika članova odbora Skupštine Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,5 +101,7 @@
   "osoba": "Aleksandar Vučić",
   "izvor_x": true,
   "alt": "Objavljen spisak članova skupštinskih odbora, poslanici SNS najavili da neće učestvovati"
- }
+ },
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

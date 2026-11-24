@@ -34,7 +34,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T16:22:56.449660+00:00",
- "updated": "2026-11-23T16:22:56.449660+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -53,12 +53,19 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4438329-izmene-u-saobracaju-radovi-kod-pecinaca-i-na-obilaznici-oko-beograda-evo-gde-ce-biti-obustava",
    "title": "IZMENE U SAOBRAĆAJU: Radovi kod Pećinaca i na Obilaznici oko Beograda, evo gde će biti obustava",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300547/zbog-radova-od-petlje-sirig-do-petlje-novi-sad-sutra-izmena-saobracaja/vest",
+   "title": "Zbog radova od petlje Sirig do petlje Novi Sad sutra izmena saobraćaja",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Zbog radova od petlje Novi Sad jug do petlje Kovilj od sutra izmena saobraćaja",
   "Izmena saobraćaja zbog radova na deonici Pećinci - Šimanovci i kod petlje Ekspo",
-  "IZMENE U SAOBRAĆAJU: Radovi kod Pećinaca i na Obilaznici oko Beograda, evo gde će biti obustava"
+  "IZMENE U SAOBRAĆAJU: Radovi kod Pećinaca i na Obilaznici oko Beograda, evo gde će biti obustava",
+  "Zbog radova od petlje Sirig do petlje Novi Sad sutra izmena saobraćaja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,5 +76,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Radovi na putevima: izmene saobraćaja kod Novog Sada, Pećinaca i na Obilaznici"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

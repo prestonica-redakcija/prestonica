@@ -25,7 +25,7 @@
  ],
  "importance": 2,
  "published": "2026-11-23T12:54:15.099579+00:00",
- "updated": "2026-11-23T13:09:05.490848+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -38,11 +38,18 @@
    "url": "https://www.euronews.rs/svet/planeta/253309/u-kini-izgraden-jedan-od-najvisih-mostova-na-svetu/vest",
    "title": "Pogled koji oduzima dah: U Kini izgrađen jedan od najviših mostova na svetu",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/287398/u-kini-izgradjen-jedinstveni-most-jedan-od-20-najvisih-na-svetu/vest",
+   "title": "Kina dobija jedan od najviših mostova na svetu: Nalazi se 405 metara iznad reke",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "U Kini izgrađen jedinstveni most, jedan od 20 najviših na svetu",
-  "Pogled koji oduzima dah: U Kini izgrađen jedan od najviših mostova na svetu"
+  "Pogled koji oduzima dah: U Kini izgrađen jedan od najviših mostova na svetu",
+  "Kina dobija jedan od najviših mostova na svetu: Nalazi se 405 metara iznad reke"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,6 +62,6 @@
   "alt": "People walk across a glass bridge",
   "link": "https://unsplash.com/@sergiokian"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -30,17 +30,24 @@
  ],
  "importance": 5,
  "published": "2026-11-23T11:39:42.278739+00:00",
- "updated": "2026-11-23T11:39:42.278739+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/video/utisak-nedelje-gosti-aleksandar-cupic-ivanka-popovic-i-stefan-surlic/",
    "title": "Utisak nedelje: Gosti Aleksandar Čupić, Ivanka Popović i Stefan Surlić (22.11.2026)",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/video/novi-dan/press-stefan-simic-24112026/",
+   "title": "Press: Stefan Simić (24.11.2026)",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Utisak nedelje: Gosti Aleksandar Čupić, Ivanka Popović i Stefan Surlić (22.11.2026)"
+  "Utisak nedelje: Gosti Aleksandar Čupić, Ivanka Popović i Stefan Surlić (22.11.2026)",
+  "Press: Stefan Simić (24.11.2026)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

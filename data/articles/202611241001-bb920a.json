@@ -29,7 +29,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T09:01:04.718161+00:00",
- "updated": "2026-11-24T11:30:04.987837+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "B92",
@@ -84,6 +84,24 @@
    "url": "https://www.danas.rs/vesti/drustvo/ministarstvo-prosvete-pucnjava-prva-tehnicka-skola/",
    "title": "Ministarstvo prosvete o pucnjavi u Prvoj tehničkoj školi: Formiran Krizni štab, naš tim na putu ka Kragujevcu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/stankovic-formiran-meduresorni-krizni-stab-u-prvoj-tehnickoj-skoli-u-kragujevcu",
+   "title": "Stanković: Formiran međuresorni krizni štab u Prvoj tehničkoj školi u Kragujevcu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/ukc-kragujevac-obe-pacijentkinje-povredjene-u-pucnjavi-u-prvoj-tehnickoj-skoli-su-stabilnog-zdravstvenog-stanja/",
+   "title": "UKC Kragujevac: Obe pacijentkinje povređene u pucnjavi u Prvoj tehničkoj školi su stabilnog zdravstvenog stanja",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287724/oglasilo-se-ministarstvo-prosvete-nakon-pucnjave-u-kragujevcu/vest",
+   "title": "Oglasilo se ministarstvo prosvete: Navedeni naredni koraci zbog pucnjave u školi u Kragujevcu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -95,7 +113,10 @@
   "Pucnjava u školi u Kragujevcu; Ima povređenih; Uhapšen učenik koji je pucao; Formiran Krizni štab FOTO/VIDEO",
   "Pucnjava u školi u Kragujevcu; Ima povređenih; Uhapšen učenik koji je pucao; Formiran Krizni štab FOTO/VIDEO",
   "Hitno se oglasio gradonačelnik Kragujevca posle pucnjave u školi! Dašić poslao važnu poruku roditeljima",
-  "Ministarstvo prosvete o pucnjavi u Prvoj tehničkoj školi: Formiran Krizni štab, naš tim na putu ka Kragujevcu"
+  "Ministarstvo prosvete o pucnjavi u Prvoj tehničkoj školi: Formiran Krizni štab, naš tim na putu ka Kragujevcu",
+  "Stanković: Formiran međuresorni krizni štab u Prvoj tehničkoj školi u Kragujevcu",
+  "UKC Kragujevac: Obe pacijentkinje povređene u pucnjavi u Prvoj tehničkoj školi su stabilnog zdravstvenog stanja",
+  "Oglasilo se ministarstvo prosvete: Navedeni naredni koraci zbog pucnjave u školi u Kragujevcu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -108,8 +129,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Prva_tehni%C4%8Dka_%C5%A1kola_Kragujevac_16.jpg",
   "alt": "Pucnjava u školi u Kragujevcu: povređene dve osobe, učenik priveden"
  },
- "novo_od_pisanja": 0,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.6,
  "prepisano": "2026-11-24T11:30:04.987837+00:00",
  "verzija": 2
 }

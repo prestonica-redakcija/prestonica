@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T09:25:37.045666+00:00",
- "updated": "2026-11-24T10:45:26.187919+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -91,6 +91,12 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1674164/nafta-najjeftinija-skoro-tri-meseca-brent-pao-ispod-89-dolara",
    "title": "NAFTA NAJJEFTINIJA ZA SKORO TRI MESECA: Brent pao ispod 89 dolara",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253432/brent-pao-na-najnizi-nivo-za-skoro-tri-meseca/vest",
+   "title": "Evropski indeksi u blagom padu, cena Brenta najniža za skoro tri meseca, AI u fokusu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -103,7 +109,8 @@
   "Cene nafte pale na najniži nivo u poslednja tri meseca, Brent pojeftinio na 89,5 dolara po barelu",
   "Evropski indeksi u blagom padu, cena Brenta najniža za skoro tri meseca, AI u fokusu",
   "Cena nafte dostigla tromesečni minimum",
-  "NAFTA NAJJEFTINIJA ZA SKORO TRI MESECA: Brent pao ispod 89 dolara"
+  "NAFTA NAJJEFTINIJA ZA SKORO TRI MESECA: Brent pao ispod 89 dolara",
+  "Evropski indeksi u blagom padu, cena Brenta najniža za skoro tri meseca, AI u fokusu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -116,7 +123,7 @@
   "alt": "graphical user interface, application",
   "link": "https://unsplash.com/@polarmermaid"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-23T22:05:45.618419+00:00",
  "verzija": 2

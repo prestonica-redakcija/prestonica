@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T17:07:41.186797+00:00",
- "updated": "2026-11-24T10:45:26.187919+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "N1",
@@ -79,6 +79,12 @@
    "url": "https://www.kurir.rs/vesti/politika/10171219/studentska-lista-o-hapsu-sa-smecem-u-smedervu-na-vlasti-je-jos-sns",
    "title": "STUDENTSKA LISTA O SMEĆU U SMEDEREVU: Nije kriva nova vlast, u gradu na vlasti i dalje SNS",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/studentski-pokret-pita-ko-je-odgovoran-za-smece-u-smederevu-i-podseca-da-je-sns-tu-i-dalje-na-vlasti/",
+   "title": "Studentski pokret pita ko je odgovoran za smeće u Smederevu i podseća da je SNS tu i dalje na vlasti",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -89,7 +95,8 @@
   "Vesna Čitaković Đurišić, kandidatkinja SNS-a, SPS-a i Zdrave Srbije, nije izabrana za gradonačelnicu Užica",
   "Užice nije dobilo novu gradonačelnicu: Vesni Čitaković Đurišić nedostajao jedan glas",
   "Studentska lista: Za Smederevo zatrpano smećem nije kriva nova vlast, u gradu na vlasti i dalje SNS",
-  "STUDENTSKA LISTA O SMEĆU U SMEDEREVU: Nije kriva nova vlast, u gradu na vlasti i dalje SNS"
+  "STUDENTSKA LISTA O SMEĆU U SMEDEREVU: Nije kriva nova vlast, u gradu na vlasti i dalje SNS",
+  "Studentski pokret pita ko je odgovoran za smeće u Smederevu i podseća da je SNS tu i dalje na vlasti"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -101,8 +108,8 @@
   "local": true,
   "alt": "Vesna Čitaković Đurišić nije izabrana za gradonačelnicu Užica"
  },
- "novo_od_pisanja": 3,
- "boost": 1.56,
+ "novo_od_pisanja": 4,
+ "boost": 1.6,
  "prepisano": "2026-11-23T18:37:04.323271+00:00",
  "verzija": 2
 }

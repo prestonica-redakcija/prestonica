@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T06:31:57.987626+00:00",
- "updated": "2026-11-24T06:31:57.987626+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.b92.net/info/drustvo/287584/stanje-na-granicnim-prelazima/vest",
    "title": "AMSS: Kamioni na prelazima Horgoš, Kelebija i Šid čekaju tri sata na izlaz iz zemlje",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300535/teretna-vozila-na-kelebiji-i-horgosu-cekaju-po-tri-sata/vest",
+   "title": "Teretna vozila na Kelebiji i Horgošu čekaju po tri sata",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "AMSS: Kamioni na graničnim prelazima Horgoš, Kelebija i Šid čekaju tri sata na izlaz iz zemlje",
-  "AMSS: Kamioni na prelazima Horgoš, Kelebija i Šid čekaju tri sata na izlaz iz zemlje"
+  "AMSS: Kamioni na prelazima Horgoš, Kelebija i Šid čekaju tri sata na izlaz iz zemlje",
+  "Teretna vozila na Kelebiji i Horgošu čekaju po tri sata"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "Border crossing with kurdistan flag under shelter",
   "link": "https://unsplash.com/@snowscat"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

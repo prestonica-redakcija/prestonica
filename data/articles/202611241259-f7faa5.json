@@ -30,17 +30,24 @@
  ],
  "importance": 6,
  "published": "2026-11-24T11:59:57.109788+00:00",
- "updated": "2026-11-24T11:59:57.109788+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/brisel-optimistican-u-pogledu-saradnje-sa-buducom-vladom-srbije-ocekuje-uskladjivanje-sa-spoljnom-politikom-eu/",
    "title": "Brisel optimističan u pogledu saradnje sa budućom Vladom Srbije, očekuje usklađivanje sa spoljnom politikom EU",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300548/eu-od-partnera-na-zapadnom-balkanu-ocekuje-uskladivanje-sa-spoljnom-politikom/vest",
+   "title": "EU od partnera na Zapadnom Balkanu očekuje usklađivanje sa spoljnom politikom",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Brisel optimističan u pogledu saradnje sa budućom Vladom Srbije, očekuje usklađivanje sa spoljnom politikom EU"
+  "Brisel optimističan u pogledu saradnje sa budućom Vladom Srbije, očekuje usklađivanje sa spoljnom politikom EU",
+  "EU od partnera na Zapadnom Balkanu očekuje usklađivanje sa spoljnom politikom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "row of european union flags",
   "link": "https://unsplash.com/@guillaumeperigois"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

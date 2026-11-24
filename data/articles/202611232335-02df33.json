@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T22:35:27.144767+00:00",
- "updated": "2026-11-24T09:15:46.899242+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -44,11 +44,18 @@
    "url": "https://www.danas.rs/vesti/politika/bakic-vucic/",
    "title": "Jovo Bakić o hapšenju Vučića: Samo uz dovoljno dokaza",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/bakic-vucic-hapsenje-tuzilastvo/",
+   "title": "Lopta je u dvorištu tužilaštva: Sagovornici Danasa o izjavi Jove Bakića da će Vučić biti hapšen samo uz dovoljno dokaza",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "\"Kada budemo u prilici!\" Šok izjava Jove Bakića: Prvo bi da zatvori Informer i hapsi novinare, a za kriminalce ima vremena...",
-  "Jovo Bakić o hapšenju Vučića: Samo uz dovoljno dokaza"
+  "Jovo Bakić o hapšenju Vučića: Samo uz dovoljno dokaza",
+  "Lopta je u dvorištu tužilaštva: Sagovornici Danasa o izjavi Jove Bakića da će Vučić biti hapšen samo uz dovoljno dokaza"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "osoba": "Branko Pavlović",
   "alt": "Bakić: obračun sa kriminalnim klanovima kada Studentska lista bude u prilici da deluje"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

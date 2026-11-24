@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T14:53:23.090850+00:00",
- "updated": "2026-11-24T12:59:34.665665+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "N1",
@@ -73,6 +73,18 @@
    "url": "https://www.euronews.rs/svet/fokus/253462/huang-vracen-na-celo-nvidije-tramp-tvrdi-da-je-uticao/vest",
    "title": "Džensen Huang ponovo na čelu Nvidije: Izvinjenja, oštre optužbe i istraga na pomolu",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1674271/drama-silicijumskoj-dolini-dobila-epilog-direktor-nvidije-ponovo-celu-kompanije-nakon-intervencije-bele-kuce",
+   "title": "DRAMA U SILICIJUMSKOJ DOLINI DOBILA EPILOG: Direktor Nvidije ponovo na čelu kompanije nakon intervencije Bele kuće",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/253460/tramp-intervenisao-za-povratak-dzensena-huanga-u-nvidiju/vest",
+   "title": "Tramp intervenisao u slučaju Nvidije: Bela kuća izvršila pritisak da se Huang vrati na čelo kompanije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -82,7 +94,9 @@
   "Džensen Huang ponovo na čelu Envidije",
   "Detalji o dramatičnom preokretu: Ovo su razlozi iz kojih je Džensen Huang vraćen na čelo Nvidie",
   "Huang ponovo na čelu Nvidije, Tramp šokirao planetu AI generisanom slikom: Šta se juče desilo u svetu?",
-  "Džensen Huang ponovo na čelu Nvidije: Izvinjenja, oštre optužbe i istraga na pomolu"
+  "Džensen Huang ponovo na čelu Nvidije: Izvinjenja, oštre optužbe i istraga na pomolu",
+  "DRAMA U SILICIJUMSKOJ DOLINI DOBILA EPILOG: Direktor Nvidije ponovo na čelu kompanije nakon intervencije Bele kuće",
+  "Tramp intervenisao u slučaju Nvidije: Bela kuća izvršila pritisak da se Huang vrati na čelo kompanije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -95,8 +109,8 @@
   "alt": "the nvidia logo is displayed on a table",
   "link": "https://unsplash.com/@mariiaberezovsky"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-24T06:17:17.877061+00:00",
  "verzija": 2
 }

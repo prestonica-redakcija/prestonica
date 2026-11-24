@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T13:39:09.854940+00:00",
- "updated": "2026-11-24T09:01:04.718161+00:00",
+ "updated": "2026-11-24T14:43:59.540144+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -113,6 +113,12 @@
    "url": "https://www.euronews.rs/srbija/politika/253411/skupstina-srbije-uzivo-nastavak-konstitutivne-sednice/vest",
    "title": "NASTAVAK KONSTITUTIVNE SEDNICE Na dnevnom redu izbor članova radnih tela, studenti prisustvuju zasedanju",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/video/novi-dan/tema-jutra-nastavak-skupstinske-sednice/",
+   "title": "Tema jutra: Nastavak skupštinske sednice",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -128,7 +134,8 @@
   "VUČIĆ I JOVANOV STIGLI U SKUPŠTINU: Danas nastavak konstitutivne sednice (VIDEO)",
   "Nastavalja se konstitutivna sednica Skupštine Srbije: Evo šta je na dnevnom redu",
   "SKUPŠTINA SRBIJE, DAN ČETVRTI: Na dnevnom redu konstitutivne sednice još dve tačke, evo o čemu poslanici danas raspravljaju",
-  "NASTAVAK KONSTITUTIVNE SEDNICE Na dnevnom redu izbor članova radnih tela, studenti prisustvuju zasedanju"
+  "NASTAVAK KONSTITUTIVNE SEDNICE Na dnevnom redu izbor članova radnih tela, studenti prisustvuju zasedanju",
+  "Tema jutra: Nastavak skupštinske sednice"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -143,7 +150,7 @@
   "izvor_x": true,
   "alt": "U Skupštini počele konsultacije o nastavku konstitutivne sednice"
  },
- "novo_od_pisanja": 2,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-24T08:30:59.703766+00:00",
  "verzija": 3
