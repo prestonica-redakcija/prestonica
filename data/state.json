@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.telegraf.rs/4435569-macura-zastita-dece-od-nasilja-mora-biti-prioritet-celog-drustva": "2026-11-19T02:16:01.022475+00:00",
   "https://www.kurir.rs/planeta/10166123/razgovarali-putin-i-takaici": "2026-11-19T04:15:14.792603+00:00",
   "https://www.telegraf.rs/vesti/srbija/4435604-obilne-padavine-ponovo-stizu-u-srbiju-evo-i-kada-otkrivamo-kada-i-gde-preti-olujni-vetar-temperatura-do-20": "2026-11-19T04:30:03.197904+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/252711/kurs-evra-danas-kursna-lista-nbs-za-19-novembar/vest": "2026-11-19T04:44:53.003825+00:00",
@@ -5884,12 +5883,6 @@
  "fokus": [],
  "runs": [
   {
-   "vreme": "2026-11-23T11:33+00:00",
-   "novih": 7,
-   "ukupno": 3933,
-   "sekundi": 499.6
-  },
-  {
    "vreme": "2026-11-23T11:51+00:00",
    "novih": 8,
    "ukupno": 3941,
@@ -6242,6 +6235,12 @@
    "novih": 0,
    "ukupno": 4200,
    "sekundi": 501.3
+  },
+  {
+   "vreme": "2026-11-24T02:25+00:00",
+   "novih": 0,
+   "ukupno": 4200,
+   "sekundi": 394.5
   }
  ],
  "licnosti_foto": {
@@ -54101,7 +54100,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "upcoming",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-24T02:04:17.279343+00:00",
+  "provereno": "2026-11-24T02:19:01.329626+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": false
  },
