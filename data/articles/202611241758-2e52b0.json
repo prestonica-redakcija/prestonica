@@ -26,17 +26,24 @@
  ],
  "importance": 5,
  "published": "2026-11-24T16:58:36.932241+00:00",
- "updated": "2026-11-24T16:58:36.932241+00:00",
+ "updated": "2026-11-24T19:42:36.931926+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/srbija/politika/253522/srpska-lista-i-unmik-razgovarali-o-polozaju-srba-na-kim/vest",
    "title": "Srpska lista razgovarala sa UNMIK-om: Upozorili na hapšenja Srba i ugrožavanje imovine SPC",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674337/srpska-lista-unmik-razgovori-zastiti-prava-spc-polozaju-srpskog-naroda-kosovu-metohiji",
+   "title": "SRPSKA LISTA SA UNMIK-OM: Razgovori o zaštiti prava SPC i položaju srpskog naroda na Kosovu i Metohiji",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Srpska lista razgovarala sa UNMIK-om: Upozorili na hapšenja Srba i ugrožavanje imovine SPC"
+  "Srpska lista razgovarala sa UNMIK-om: Upozorili na hapšenja Srba i ugrožavanje imovine SPC",
+  "SRPSKA LISTA SA UNMIK-OM: Razgovori o zaštiti prava SPC i položaju srpskog naroda na Kosovu i Metohiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Srpska lista razgovarala sa UNMIK-om o hapšenjima Srba i imovini SPC"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T09:15:46.899242+00:00",
- "updated": "2026-11-24T16:58:36.932241+00:00",
+ "updated": "2026-11-24T19:42:36.931926+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -78,6 +78,12 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4439084-kamenovana-pravoslavna-svetinja-na-kim",
    "title": "Kamenovana pravoslavna svetinja na KiM",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674361/kancelarija-kim-kamenovanje-crkve-cernici-cin-verskog-ekstremizma",
+   "title": "KANCELARIJA ZA KIM: Kamenovanje crkve u Cernici čin verskog ekstremizma",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -88,7 +94,8 @@
   "Kancelarija za KiM: \"Kamenovan Hram svetog proroka Ilije u Cernici\"",
   "KANCELARIJA ZA KiM O KAMENOVANJU HRAMA SVETOG PROROKA ILIJE U CERNICI: Akt verskog ekstremizma i netrpeljivosti",
   "Kancelarija za Kosovo i Metohiju: Kamenovan Hram Svetog proroka Ilije u Cernici",
-  "Kamenovana pravoslavna svetinja na KiM"
+  "Kamenovana pravoslavna svetinja na KiM",
+  "KANCELARIJA ZA KIM: Kamenovanje crkve u Cernici čin verskog ekstremizma"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -101,8 +108,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Crkva_Svetog_Ilije,_Rti_(op%C5%A1tina_Lu%C4%8Dani)_05.jpg",
   "alt": "Kamenovana zvonara u porti crkve Svetog Ilije u Cernici kod Gnjilana"
  },
- "novo_od_pisanja": 2,
- "boost": 1.56,
+ "novo_od_pisanja": 3,
+ "boost": 1.6,
  "prepisano": "2026-11-24T16:28:52.481798+00:00",
  "verzija": 2
 }
