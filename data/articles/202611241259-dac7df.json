@@ -30,17 +30,31 @@
  ],
  "importance": 5,
  "published": "2026-11-24T11:59:57.109788+00:00",
- "updated": "2026-11-24T11:59:57.109788+00:00",
+ "updated": "2026-11-24T12:59:34.665665+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1674222/vucic-zestoko-odgovorio-bakicu-ste-organizovana-kriminalna-grupa-odgovaracete",
    "title": "VUČIĆ ŽESTOKO ODGOVORIO BAKIĆU: Vi ste organizovana kriminalna grupa, odgovaraćete!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674222/bakic-zapretio-gonjenjem-vucic-odogovorio-ste-organizovana-kriminalna-grupa-odgovaracete",
+   "title": "BAKIĆ ZAPRETIO GONjENjEM, VUČIĆ MU ODOGOVORIO: Vi ste organizovana kriminalna grupa, odgovaraćete!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=Ac2RJ5RcVEM",
+   "title": "Vučić: Vi ste organizovana kriminalna grupa, vas je vodio i Maršavelski i mnogi drugi",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
-  "VUČIĆ ŽESTOKO ODGOVORIO BAKIĆU: Vi ste organizovana kriminalna grupa, odgovaraćete!"
+  "VUČIĆ ŽESTOKO ODGOVORIO BAKIĆU: Vi ste organizovana kriminalna grupa, odgovaraćete!",
+  "BAKIĆ ZAPRETIO GONjENjEM, VUČIĆ MU ODOGOVORIO: Vi ste organizovana kriminalna grupa, odgovaraćete!",
+  "Vučić: Vi ste organizovana kriminalna grupa, vas je vodio i Maršavelski i mnogi drugi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +66,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Oštra razmena Vučića i Bakića u Skupštini oko \"organizovane kriminalne grupe\""
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

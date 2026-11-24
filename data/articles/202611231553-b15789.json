@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T14:53:23.090850+00:00",
- "updated": "2026-11-24T06:17:17.877061+00:00",
+ "updated": "2026-11-24T12:59:34.665665+00:00",
  "sources": [
   {
    "name": "N1",
@@ -67,6 +67,12 @@
    "url": "https://www.telegraf.rs/vesti/svet/4438229-huang-ponovo-na-celu-nvidije-tramp-sokirao-planetu-ai-generisanom-slikom-sta-se-juce-desilo-u-svetu",
    "title": "Huang ponovo na čelu Nvidije, Tramp šokirao planetu AI generisanom slikom: Šta se juče desilo u svetu?",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/253462/huang-vracen-na-celo-nvidije-tramp-tvrdi-da-je-uticao/vest",
+   "title": "Džensen Huang ponovo na čelu Nvidije: Izvinjenja, oštre optužbe i istraga na pomolu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -75,7 +81,8 @@
   "DŽENSEN HUANG VRAĆEN NA MESTO DIREKTORA NVIDIJE! Deonice drastično skočile! Doneta odluka svega 11 dana nakon što je podneo ostavku!",
   "Džensen Huang ponovo na čelu Envidije",
   "Detalji o dramatičnom preokretu: Ovo su razlozi iz kojih je Džensen Huang vraćen na čelo Nvidie",
-  "Huang ponovo na čelu Nvidije, Tramp šokirao planetu AI generisanom slikom: Šta se juče desilo u svetu?"
+  "Huang ponovo na čelu Nvidije, Tramp šokirao planetu AI generisanom slikom: Šta se juče desilo u svetu?",
+  "Džensen Huang ponovo na čelu Nvidije: Izvinjenja, oštre optužbe i istraga na pomolu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -88,8 +95,8 @@
   "alt": "the nvidia logo is displayed on a table",
   "link": "https://unsplash.com/@mariiaberezovsky"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-24T06:17:17.877061+00:00",
  "verzija": 2
 }

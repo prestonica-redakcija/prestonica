@@ -30,7 +30,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T10:25:08.336957+00:00",
- "updated": "2026-11-23T11:09:53.766455+00:00",
+ "updated": "2026-11-24T12:59:34.665665+00:00",
  "sources": [
   {
    "name": "B92",
@@ -55,13 +55,20 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/300151/sneg-pada-na-zlatiboru-tari-kopaoniku-crnom-vrhu-suvoboru-u-sjenici/vest",
    "title": "Sneg pada na Zlatiboru, Tari, Kopaoniku, Crnom Vrhu, Suvoboru, u Sjenici",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4438853-pocelo-vestacko-osnezavanje-na-kopaoniku",
+   "title": "Počelo veštačko osnežavanje na Kopaoniku",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Veje sneg u Srbiji; RHMZ najavio \"debeli minus\" VIDEO",
   "ZABELELA SE SRBIJA! Sneg veje na Kopaoniku, Zlatiboru, Tari i Suvoboru, meštani spremni: Vraćaju se zime kao što su nekad bile! (FOTO/VIDEO)",
   "Sneg veje na Suvoboru, meštani spremni i kažu: Vraćaju se zime kao što su bile nekad, sneg već od novembra",
-  "Sneg pada na Zlatiboru, Tari, Kopaoniku, Crnom Vrhu, Suvoboru, u Sjenici"
+  "Sneg pada na Zlatiboru, Tari, Kopaoniku, Crnom Vrhu, Suvoboru, u Sjenici",
+  "Počelo veštačko osnežavanje na Kopaoniku"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,6 +81,6 @@
   "alt": "snow covered field and trees during daytime",
   "link": "https://unsplash.com/@ljubazarkovic"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

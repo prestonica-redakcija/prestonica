@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T11:00:18.955630+00:00",
- "updated": "2026-11-24T11:59:57.109788+00:00",
+ "updated": "2026-11-24T12:59:34.665665+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -98,6 +98,30 @@
    "url": "https://www.telegraf.rs/4438816-savet-rem-mera-upozorenja-i-podnosenje-prekrsajne-prijave-protiv-tv-hepi",
    "title": "Savet REM: Mera upozorenja i podnošenje prekršajne prijave protiv TV Hepi",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/287690/rem-izrekao-meru-upozorenja-i-podnosenje-prekrsajne-prijave-protiv-tv-hepi/vest",
+   "title": "REM doneo odluku: Mera upozorenja i prekršajna prijava za TV Hepi",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/savet-rem-a-obustavio-postupak-protiv-rts-a-pokrenuo-protiv-tv-hepi/",
+   "title": "Savet REM-a obustavio postupak protiv RTS-a, pokrenuo protiv TV Hepi",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674251/savet-rem-pokrenuo-ispitne-postupke-pod-lupom-emisije-k1-tanjugu-superstaru-prijava-luksemburgu-zbog-n1",
+   "title": "SAVET REM POKRENUO ISPITNE POSTUPKE: Pod lupom emisije na K1, Tanjugu i Superstaru, prijava Luksemburgu zbog N1",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/287700/savet-rem-pokrenuo-ispitne-postupke-protiv-k1-tv-tv-tanjug-i-tv-superstar/vest",
+   "title": "Savet REM pokrenuo ispitne postupke protiv K1 TV, TV Tanjug i TV Superstar",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -111,7 +135,11 @@
   "REM obustavio postupak protiv RTS-a u slučaju predizbornog spota SNS-a",
   "„IZNAJMLjEN TERMIN“ PO ZAKONU NE POSTOJI: REM izrekao upozorenje i podneo prekršajnu prijavu protiv TV Hepi",
   "Savet REM: Mera upozorenja i podnošenje prekršajne prijave protiv TV Hepi",
-  "Savet REM: Mera upozorenja i podnošenje prekršajne prijave protiv TV Hepi"
+  "Savet REM: Mera upozorenja i podnošenje prekršajne prijave protiv TV Hepi",
+  "REM doneo odluku: Mera upozorenja i prekršajna prijava za TV Hepi",
+  "Savet REM-a obustavio postupak protiv RTS-a, pokrenuo protiv TV Hepi",
+  "SAVET REM POKRENUO ISPITNE POSTUPKE: Pod lupom emisije na K1, Tanjugu i Superstaru, prijava Luksemburgu zbog N1",
+  "Savet REM pokrenuo ispitne postupke protiv K1 TV, TV Tanjug i TV Superstar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -125,7 +153,7 @@
   "osoba": "Rodoljub Šabić",
   "alt": "REM izrekao meru upozorenja TV Hepi, postupak protiv RTS 1 obustavljen"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-24T11:59:57.109788+00:00",
  "verzija": 2
