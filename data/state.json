@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.euronews.rs/biznis/biznis-vesti/252607/uber-i-momenta-pokrenuli-pilot-robotaksija-u-minhenu/vest": "2026-11-19T01:01:42.389012+00:00",
   "https://biznis.telegraf.rs/info-biz/4435350-predsednicki-kandidat-eduar-filip-upozorava-na-finansijsku-krizu-u-francuskoj": "2026-11-19T01:16:38.226149+00:00",
   "https://www.telegraf.rs/4435569-macura-zastita-dece-od-nasilja-mora-biti-prioritet-celog-drustva": "2026-11-19T02:16:01.022475+00:00",
   "https://www.kurir.rs/planeta/10166123/razgovarali-putin-i-takaici": "2026-11-19T04:15:14.792603+00:00",
@@ -5877,18 +5876,13 @@
   "https://www.danas.rs/zivot/da-li-vreme-kada-doruckujemo-utice-na-duzinu-zivota/": "2026-11-23T23:49:49.823798+00:00",
   "https://www.kurir.rs/vesti/drustvo/10170592/kada-je-najbolje-doruckovati-i-vecerati-studija-otkriva-uticaj-na-zivot": "2026-11-23T23:49:49.823798+00:00",
   "https://radar.nova.rs/kultura-radar/aleksandra-delic-podnela-ostavku/": "2026-11-24T00:34:32.855521+00:00",
-  "https://www.telegraf.rs/vesti/svet/4438474-jermenija-povezuje-elektroenergetske-mreze-sa-turskom-i-azerbejdzanom": "2026-11-24T00:34:32.855521+00:00"
+  "https://www.telegraf.rs/vesti/svet/4438474-jermenija-povezuje-elektroenergetske-mreze-sa-turskom-i-azerbejdzanom": "2026-11-24T00:34:32.855521+00:00",
+  "https://biznis.telegraf.rs/info-biz/4438210-francuska-privreda-sve-vise-usporava-raste-rizik-od-pada-u-tehnicku-recesiju": "2026-11-24T01:04:22.726173+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-23T10:21+00:00",
-   "novih": 6,
-   "ukupno": 3902,
-   "sekundi": 678.6
-  },
   {
    "vreme": "2026-11-23T10:34+00:00",
    "novih": 2,
@@ -6242,6 +6236,12 @@
    "novih": 0,
    "ukupno": 4200,
    "sekundi": 619.3
+  },
+  {
+   "vreme": "2026-11-24T01:12+00:00",
+   "novih": 0,
+   "ukupno": 4200,
+   "sekundi": 494.9
   }
  ],
  "licnosti_foto": {
@@ -54101,7 +54101,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "upcoming",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-24T00:49:58.621958+00:00",
+  "provereno": "2026-11-24T01:04:57.530378+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": false
  },

@@ -25,17 +25,24 @@
  ],
  "importance": 4,
  "published": "2026-11-23T12:39:18.637197+00:00",
- "updated": "2026-11-23T12:39:18.637197+00:00",
+ "updated": "2026-11-24T01:04:22.726173+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/300200/francuska-privreda-sve-vise-usporava-raste-rizik-od-pada-u-tehnicku-recesiju/vest",
    "title": "Francuska privreda sve više usporava, raste rizik od pada u tehničku recesiju",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4438210-francuska-privreda-sve-vise-usporava-raste-rizik-od-pada-u-tehnicku-recesiju",
+   "title": "Francuska privreda sve više usporava: Raste rizik od pada u tehničku recesiju",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Francuska privreda sve više usporava, raste rizik od pada u tehničku recesiju"
+  "Francuska privreda sve više usporava, raste rizik od pada u tehničku recesiju",
+  "Francuska privreda sve više usporava: Raste rizik od pada u tehničku recesiju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Francuska privreda slabi, raste rizik od tehničke recesije u četvrtom kvartalu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
