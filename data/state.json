@@ -5878,18 +5878,13 @@
   "https://biznis.telegraf.rs/info-biz/4438210-francuska-privreda-sve-vise-usporava-raste-rizik-od-pada-u-tehnicku-recesiju": "2026-11-24T01:04:22.726173+00:00",
   "https://www.telegraf.rs/4438414-linta-napadi-na-srbe-i-njihovu-imovinu-fbih-ne-jenjavaju-nadlezni-cute": "2026-11-24T02:03:47.474882+00:00",
   "https://biznis.telegraf.rs/info-biz/4438417-srednji-kurs-dinara-za-evro-u-utorak-1176503-dinara": "2026-11-24T02:33:51.531249+00:00",
-  "https://www.telegraf.rs/vesti/svet/4438478-sankcije-iranu-sad-uvode-nove-mere-protiv-finansijskih-mreza-teherana": "2026-11-24T03:03:23.866757+00:00"
+  "https://www.telegraf.rs/vesti/svet/4438478-sankcije-iranu-sad-uvode-nove-mere-protiv-finansijskih-mreza-teherana": "2026-11-24T03:03:23.866757+00:00",
+  "https://radar.nova.rs/ekonomija/danica-popovic-selakovic-korupcija-ekspo/": "2026-11-24T03:18:21.105225+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-23T12:32+00:00",
-   "novih": 1,
-   "ukupno": 3956,
-   "sekundi": 492.5
-  },
   {
    "vreme": "2026-11-23T12:49+00:00",
    "novih": 10,
@@ -6243,6 +6238,12 @@
    "novih": 0,
    "ukupno": 4200,
    "sekundi": 503.5
+  },
+  {
+   "vreme": "2026-11-24T03:28+00:00",
+   "novih": 1,
+   "ukupno": 4201,
+   "sekundi": 623.3
   }
  ],
  "licnosti_foto": {
@@ -54102,7 +54103,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "upcoming",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-24T03:03:57.861041+00:00",
+  "provereno": "2026-11-24T03:19:25.132015+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": false
  },
