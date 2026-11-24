@@ -1,0 +1,58 @@
+{
+ "id": "202611242356-281730",
+ "slug": "hakerski-napad-na-cia-u-pogodjen-sistem-sa-neklasifikovanim-podacima",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Hakerski napad na CIA-u: pogođen sistem sa neklasifikovanim podacima",
+ "lead": "Američka Centralna obaveštajna agencija bila je meta hakerskog napada koji je pogodio sistem sa neklasifikovanim informacijama, navode CNN i AP pozivajući se na izvore. Poverljivi podaci, prema tim navodima, nisu ugroženi.",
+ "body": [
+  "Prema informacijama koje prenosi Tanjug pozivajući se na CNN, meta napada bile su CIA i Kancelarija direktora Nacionalne obaveštajne službe. O tome su, kako se navodi, govorila četiri izvora upoznata sa situacijom.",
+  "Jedan od izvora rekao je za CNN da je upad pogodio sistem koji agencije koriste za analizu obaveštajnih podataka iz otvorenih izvora. Zvaničnici su, prema istim navodima, naglasili da poverljive informacije nisu pogođene, a puni obim kršenja bezbednosti još nije poznat.",
+  "N1 navodi da je agencija AP od neimenovanog izvora saznala da je napadnut kompjuterski sistem CIA-e koji ne sadrži poverljive podatke. Taj izvor je, kako piše N1, rekao i da je problem rešen.",
+  "Reč je o sistemu obaveštajnog rada na osnovu javno dostupnih izvora (open source intelligence), koji služi za prikupljanje i analizu podataka sa interneta i iz komercijalnih baza, piše N1.",
+  "Prema pisanju N1, za sada se ne zna ko stoji iza napada niti kada se dogodio. N1 navodi i da je o tome prvi izvestio list Njujork tajms. Navodi nisu potvrđeni zvaničnim saopštenjem u priloženim izvorima."
+ ],
+ "tags": [
+  "CIA",
+  "hakerski napad",
+  "sajber bezbednost",
+  "obaveštajne službe",
+  "SAD"
+ ],
+ "people": [],
+ "places": [
+  "Vašington"
+ ],
+ "importance": 5,
+ "published": "2026-11-24T22:56:10.148905+00:00",
+ "updated": "2026-11-24T22:56:10.148905+00:00",
+ "sources": [
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/300704/cnn-cia-bila-meta-hakerskog-napada-koji-je-uticao-na-neklasifikovane-informacije/vest",
+   "title": "CNN: CIA bila meta hakerskog napada koji je uticao na neklasifikovane informacije",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/sistem-cia-e-bio-meta-sajber-napada/",
+   "title": "Sistem CIA-e bio meta sajber napada",
+   "spektar": "opozicija"
+  }
+ ],
+ "source_titles": [
+  "CNN: CIA bila meta hakerskog napada koji je uticao na neklasifikovane informacije",
+  "Sistem CIA-e bio meta sajber napada"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 2.325,
+ "image": {
+  "src": "https://images.unsplash.com/photo-1614064548237-096f735f344f?ixid=M3wxMTQwNDIwfDB8MXxzZWFyY2h8Mnx8Y3liZXIlMjBhdHRhY2slMjBpbnRlbGxpZ2VuY2UlMjBhZ2VuY3l8ZW58MXwwfHx8MTc5NTU1OTMwMnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+  "credit": "Unsplash / FlyD",
+  "ilustracija": true,
+  "local": false,
+  "alt": "padlock on laptop with light trails",
+  "link": "https://unsplash.com/@flyd2069"
+ }
+}

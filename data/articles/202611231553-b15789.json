@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T14:53:23.090850+00:00",
- "updated": "2026-11-24T19:42:36.931926+00:00",
+ "updated": "2026-11-24T22:56:10.148905+00:00",
  "sources": [
   {
    "name": "N1",
@@ -127,6 +127,18 @@
    "url": "https://www.danas.rs/vesti/ekonomija/dzensen-huang-nvidia-biografija/",
    "title": "Tehnološki mogul ponovo jaše: Ko je Džensen Huang, nedavno smenjeni, pa vraćeni direktor NVIDIA?",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253524/tramp-bi-mogao-da-zaradi-do-15-miliona-na-akcijama-nvidije/vest",
+   "title": "Gardijan: Tramp bi mogao da zaradi 15 miliona dolara od Nvidije nakon povratka Huanga",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/dzensen-huang-donald-tramp-nvidia/",
+   "title": "Nakon povratka Huanga na čelo Nvidije odahnule berze, ali i Tramp: \"Način na koji se vratio ostavlja pomalo gorak ukus\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -145,7 +157,9 @@
   "Vučić: Ne interesuje ih demokratija",
   "Gardijan: Tramp bi mogao da zaradi 15 miliona dolara od Nvidije nakon povratka Huanga",
   "Tramp zarađuje 15 miliona zbog Nvidie: \"Ubedio sam ih\"",
-  "Tehnološki mogul ponovo jaše: Ko je Džensen Huang, nedavno smenjeni, pa vraćeni direktor NVIDIA?"
+  "Tehnološki mogul ponovo jaše: Ko je Džensen Huang, nedavno smenjeni, pa vraćeni direktor NVIDIA?",
+  "Gardijan: Tramp bi mogao da zaradi 15 miliona dolara od Nvidije nakon povratka Huanga",
+  "Nakon povratka Huanga na čelo Nvidije odahnule berze, ali i Tramp: \"Način na koji se vratio ostavlja pomalo gorak ukus\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -158,7 +172,7 @@
   "alt": "the nvidia logo is displayed on a table",
   "link": "https://unsplash.com/@mariiaberezovsky"
  },
- "novo_od_pisanja": 10,
+ "novo_od_pisanja": 12,
  "boost": 1.6,
  "prepisano": "2026-11-24T06:17:17.877061+00:00",
  "verzija": 2

@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T17:43:21.511848+00:00",
- "updated": "2026-11-24T21:26:51.183491+00:00",
+ "updated": "2026-11-24T22:56:10.148905+00:00",
  "sources": [
   {
    "name": "N1",
@@ -83,6 +83,12 @@
    "url": "https://www.b92.net/info/politika/287837/apelacioni-sud-ukinuo-resenje-o-pustanju-na-slobodu-vozaca-pomilovanog-za-gazenje-studentkinje-sonje-ponjavic/vest",
    "title": "Apelacioni sud ukinuo rešenje o puštanju na slobodu vozača pomilovanog za gaženje studentkinje Sonje Ponjavić",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/287837/pomilovan-za-gazenje-studentkinje-ali-ne-ide-na-slobodu-apelacioni-sud-ukinuo-resenje-o-pustanju-vozaca/vest",
+   "title": "Pomilovan za gaženje studentkinje, ali ne ide na slobodu: Apelacioni sud ukinuo rešenje o puštanju vozača",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -93,7 +99,8 @@
   "Apelacioni sud ukinuo rešenje kojim je pomilovani za gaženje studentkinje Sonje Ponjavić pušten na slobodu",
   "Otac studentkinje Sonje Ponjavić: Odluka suda bi mogla da dovede u pitanje predsedničko pomilovanje",
   "Apelacioni sud ukinuo rešenje o ukidanju pritvora vozaču kojeg je pomilovao Vučić",
-  "Apelacioni sud ukinuo rešenje o puštanju na slobodu vozača pomilovanog za gaženje studentkinje Sonje Ponjavić"
+  "Apelacioni sud ukinuo rešenje o puštanju na slobodu vozača pomilovanog za gaženje studentkinje Sonje Ponjavić",
+  "Pomilovan za gaženje studentkinje, ali ne ide na slobodu: Apelacioni sud ukinuo rešenje o puštanju vozača"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -105,8 +112,8 @@
   "local": true,
   "alt": "Apelacioni sud vratio na ponovno odlučivanje ukidanje pritvora Marku Pavloviću"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-24T21:26:51.183491+00:00",
  "verzija": 2
 }

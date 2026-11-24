@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T20:36:28.314137+00:00",
- "updated": "2026-11-24T21:26:51.183491+00:00",
+ "updated": "2026-11-24T22:56:10.148905+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,10 +46,17 @@
    "url": "https://insajder.net/prenosimo/guteres-trazi-globalna-pravila-za-kontrolu-rizika-od-vestacke-inteligencije",
    "title": "Gutereš traži globalna pravila za kontrolu rizika od veštačke inteligencije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/planeta/253517/guteres-trazi-globalni-okvir-za-upravljanje-ai-rizicima/vest",
+   "title": "Gutereš traži globalna pravila za kontrolu rizika od veštačke inteligencije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Šef Metinog sektora za AI: Ne smemo da dozvolimo da društvo prepustimo veštačkoj inteligenciji",
+  "Gutereš traži globalna pravila za kontrolu rizika od veštačke inteligencije",
   "Gutereš traži globalna pravila za kontrolu rizika od veštačke inteligencije",
   "Gutereš traži globalna pravila za kontrolu rizika od veštačke inteligencije"
  ],
@@ -64,6 +71,6 @@
   "alt": "a computer circuit board with a brain on it",
   "link": "https://unsplash.com/@steve_j"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

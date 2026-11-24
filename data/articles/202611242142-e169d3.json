@@ -31,7 +31,7 @@
  "places": [],
  "importance": 3,
  "published": "2026-11-24T20:42:13.217039+00:00",
- "updated": "2026-11-24T20:42:13.217039+00:00",
+ "updated": "2026-11-24T22:56:10.148905+00:00",
  "sources": [
   {
    "name": "N1",
@@ -56,13 +56,27 @@
    "url": "https://www.kurir.rs/zabava/kultura/10171919/rekordna-poseta-u-prvim-danima-32-festivala-autorskog-filma",
    "title": "Rekordna poseta u prvim danima 32. Festivala autorskog filma",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/kultura/studentima-montaze-fdu-nagrada-marko-glusac/",
+   "title": "\"Posle neprospavanih noći, suza, krvi i znoja, od pištaljke stigli smo do pobede\": Studenti montaže FDU \"Studenti u blokadi\" dobili Nagradu \"Marko Glušac\"",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/studenti-u-blokadi-fdu-dobitnici-nagrade-za-montazu-na-festivalu-autorskog-filma",
+   "title": "Studenti u blokadi FDU dobitnici nagrade za montažu na Festivalu autorskog filma",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Studenti u blokadi FDU dobitnici nagrade za montažu na Festivalu autorskog filma",
   "Studenti u blokadi FDU dobitnici nagrade za montažu na Festivalu autorskog filma",
   "Rekordna poseta u prvim danima 32. Festivala autorskog filma",
-  "Rekordna poseta u prvim danima 32. Festivala autorskog filma"
+  "Rekordna poseta u prvim danima 32. Festivala autorskog filma",
+  "\"Posle neprospavanih noći, suza, krvi i znoja, od pištaljke stigli smo do pobede\": Studenti montaže FDU \"Studenti u blokadi\" dobili Nagradu \"Marko Glušac\"",
+  "Studenti u blokadi FDU dobitnici nagrade za montažu na Festivalu autorskog filma"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,5 +88,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:1996_11_19_-_festival_autorskog_filma.jpg",
   "alt": "Na Festivalu autorskog filma rekordna poseta, nagrada za studente montaže FDU"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

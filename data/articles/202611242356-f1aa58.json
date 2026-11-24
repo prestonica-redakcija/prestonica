@@ -1,0 +1,58 @@
+{
+ "id": "202611242356-f1aa58",
+ "slug": "hakeri-upali-u-mrezu-cia-i-kancelarije-direktora-nacionalne",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Hakeri upali u mrežu CIA i kancelarije direktora nacionalne obaveštajne službe",
+ "lead": "Američka CIA i Kancelarija direktora nacionalne obaveštajne službe saopštile su da su hakeri ušli u njihovu računarsku mrežu i došli do dela podataka koji nisu klasifikovani kao tajni. Prema navodima Njujork Tajmsa, napad je pogodio mrežu za analizu javno dostupnih obaveštajnih podataka.",
+ "body": [
+  "Vest o upadu objavio je Njujork Tajms, pozivajući se na svoje izvore, a prenose je Nova i Danas. Prema tim navodima, iz CIA i Kancelarije direktora nacionalne obaveštajne službe saopšteno je da su napadači pristupili delu podataka koji nisu bili označeni kao tajni.",
+  "Napad je pogodio mrežu koja se koristi za prikupljanje i analizu obaveštajnih podataka iz javno dostupnih izvora, uključujući internet i komercijalne baze podataka. Za sada nije poznato do kojih su konkretno informacija hakeri došli.",
+  "Kako prenosi Index, sumnja se da su napadom kompromitovani i podaci drugih američkih državnih agencija. Taj navod u prenetim izvorima nije potvrđen.",
+  "Iz Kancelarije direktora nacionalne obaveštajne službe potvrđeno je agenciji Rojters da nije bilo poremećaja u radu ključnih sistema, ni sistema koji sadrže poverljive podatke.",
+  "Za sada nije poznato ko stoji iza hakerskog napada. Oba medija izveštavaju gotovo identično i ne navode dodatne detalje o incidentu."
+ ],
+ "tags": [
+  "CIA",
+  "hakerski napad",
+  "obaveštajne službe",
+  "SAD",
+  "sajber bezbednost"
+ ],
+ "people": [],
+ "places": [
+  "SAD"
+ ],
+ "importance": 5,
+ "published": "2026-11-24T22:56:10.148905+00:00",
+ "updated": "2026-11-24T22:56:10.148905+00:00",
+ "sources": [
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/hakeri-obavestajne-sluzbe-sad-cia/",
+   "title": "Hakeri upali u mreže američkih obaveštajnih službi, pristupili podacima CIA",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/hakeri-upali-u-sistem-cia/",
+   "title": "Hakeri upali u sistem CIA",
+   "spektar": "opozicija"
+  }
+ ],
+ "source_titles": [
+  "Hakeri upali u mreže američkih obaveštajnih službi, pristupili podacima CIA",
+  "Hakeri upali u sistem CIA"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 2.455,
+ "image": {
+  "src": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?ixid=M3wxMTQwNDIwfDB8MXxzZWFyY2h8MXx8Y3liZXIlMjBhdHRhY2slMjBpbnRlbGxpZ2VuY2UlMjBhZ2VuY3l8ZW58MXwwfHx8MTc5NTU1OTMwMnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+  "credit": "Unsplash / FlyD",
+  "ilustracija": true,
+  "local": false,
+  "alt": "red padlock on black computer keyboard",
+  "link": "https://unsplash.com/@flyd2069"
+ }
+}

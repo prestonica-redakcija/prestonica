@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T16:28:52.481798+00:00",
- "updated": "2026-11-24T16:58:36.932241+00:00",
+ "updated": "2026-11-24T22:56:10.148905+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -59,6 +59,12 @@
    "url": "https://insajder.net/prenosimo/mup-uhapsen-mladic-koji-je-zapalio-jedan-automobil-na-vozdovcu",
    "title": "MUP: Uhapšen mladić koji je zapalio jedan automobil na Voždovcu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10171759/uhapsen-mladic-25-zbog-paljenja-porsea-na-vozdovcu",
+   "title": "UHAPŠEN PIROMAN SA VOŽDOVCA! Mladić (25) osumnjičen da je u gluvo doba noći zapalio skupoceni \"porše\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -66,7 +72,8 @@
   "MUP: Uhapšen mladić koji je zapalio jedan automobil na Voždovcu",
   "Mladić uhapšen zbog paljenja \"poršea\" u Beogradu",
   "SPECIJALCI GA SALETELI NA ULICI I BACILI NA ASFALT: Evo kako je pao osumnjičeni za paljenje poršea!",
-  "MUP: Uhapšen mladić koji je zapalio jedan automobil na Voždovcu"
+  "MUP: Uhapšen mladić koji je zapalio jedan automobil na Voždovcu",
+  "UHAPŠEN PIROMAN SA VOŽDOVCA! Mladić (25) osumnjičen da je u gluvo doba noći zapalio skupoceni \"porše\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -79,6 +86,6 @@
   "alt": "a group of motorcycles parked on the side of a road",
   "link": "https://unsplash.com/@maxence_pira"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
