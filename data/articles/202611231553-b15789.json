@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T14:53:23.090850+00:00",
- "updated": "2026-11-24T16:28:52.481798+00:00",
+ "updated": "2026-11-24T19:12:45.042672+00:00",
  "sources": [
   {
    "name": "N1",
@@ -109,6 +109,18 @@
    "url": "https://www.youtube.com/watch?v=X-V9sKeAhzU",
    "title": "Vučić: Ne interesuje ih demokratija",
    "spektar": "stranka"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/300598/gardijan-tramp-bi-mogao-da-zaradi-15-miliona-dolara-od-nvidije-nakon-povratka-huanga/vest",
+   "title": "Gardijan: Tramp bi mogao da zaradi 15 miliona dolara od Nvidije nakon povratka Huanga",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/287773/tramp-zaradjuje-15-miliona-zbog-nvidie-ubedio-sam-ih/vest",
+   "title": "Tramp zarađuje 15 miliona zbog Nvidie: \"Ubedio sam ih\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -124,7 +136,9 @@
   "Vadeful: Šokiran sam Trampovom intervencijom u vezi sa povratkom Huanga u Envidiju",
   "Džensen Huang se vraća na čelo Nvidije: Trampova podrška nije zaustavila pitanja o vezama sa Kinom",
   "Demokrate optužuju Trampa za korupciju zbog povratka direktora Envidije",
-  "Vučić: Ne interesuje ih demokratija"
+  "Vučić: Ne interesuje ih demokratija",
+  "Gardijan: Tramp bi mogao da zaradi 15 miliona dolara od Nvidije nakon povratka Huanga",
+  "Tramp zarađuje 15 miliona zbog Nvidie: \"Ubedio sam ih\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -137,7 +151,7 @@
   "alt": "the nvidia logo is displayed on a table",
   "link": "https://unsplash.com/@mariiaberezovsky"
  },
- "novo_od_pisanja": 7,
+ "novo_od_pisanja": 9,
  "boost": 1.6,
  "prepisano": "2026-11-24T06:17:17.877061+00:00",
  "verzija": 2
