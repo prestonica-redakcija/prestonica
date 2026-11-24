@@ -25,7 +25,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T22:56:10.148905+00:00",
- "updated": "2026-11-24T22:56:10.148905+00:00",
+ "updated": "2026-11-24T23:40:52.458738+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -38,11 +38,18 @@
    "url": "https://n1info.rs/svet/sistem-cia-e-bio-meta-sajber-napada/",
    "title": "Sistem CIA-e bio meta sajber napada",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/300704/cnn-cia-bila-meta-hakerskog-napada-koji-je-uticao-na-neklasifikovane-informacije/vest",
+   "title": "CNN: CIA bila meta hakerskog napada koji je uticao na neklasifikovane informacije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "CNN: CIA bila meta hakerskog napada koji je uticao na neklasifikovane informacije",
-  "Sistem CIA-e bio meta sajber napada"
+  "Sistem CIA-e bio meta sajber napada",
+  "CNN: CIA bila meta hakerskog napada koji je uticao na neklasifikovane informacije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "alt": "padlock on laptop with light trails",
   "link": "https://unsplash.com/@flyd2069"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

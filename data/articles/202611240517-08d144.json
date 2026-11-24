@@ -33,7 +33,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T04:17:52.650439+00:00",
- "updated": "2026-11-24T07:46:23.419063+00:00",
+ "updated": "2026-11-24T23:40:52.458738+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -76,6 +76,12 @@
    "url": "https://www.b92.net/info/drustvo/287595/vremenska-prognoza-za-24-novembar/vest",
    "title": "Mraz okovao Srbiju: Na Kopaoniku -10 stepeni; Evo koliko će biti stepeni tokom dana",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/magazin/vremenska-prognoza/u-srbiji-ujutru-mraz-tokom-dana-oblacno-uvece-kisa-i-sneg-na-planinama/",
+   "title": "U Srbiji ujutru mraz, tokom dana oblačno, uveče kiša i sneg na planinama",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -85,7 +91,8 @@
   "Posle hladnog jutra sa mrazem, tokom dana sunčano, najniža temperatura minus tri, maksimalna od šest do devet stepeni",
   "Danas jutro hladno, tokom dana sunčano",
   "Jutro sa mrazom, tokom dana sunčano: Temperatura do devet stepeni",
-  "Mraz okovao Srbiju: Na Kopaoniku -10 stepeni; Evo koliko će biti stepeni tokom dana"
+  "Mraz okovao Srbiju: Na Kopaoniku -10 stepeni; Evo koliko će biti stepeni tokom dana",
+  "U Srbiji ujutru mraz, tokom dana oblačno, uveče kiša i sneg na planinama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -98,8 +105,8 @@
   "alt": "silhouette of electric post during sunset",
   "link": "https://unsplash.com/@thestefankostic"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-24T07:46:23.419063+00:00",
  "verzija": 2
 }

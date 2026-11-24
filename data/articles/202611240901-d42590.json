@@ -26,7 +26,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T23:11:05.001369+00:00",
+ "updated": "2026-11-24T23:40:52.458738+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -549,6 +549,12 @@
    "url": "https://www.b92.net/info/razno/287852/novine-ucenik-pucao-u-skoli-povredjene-dve-osobe-bez-sns-u-odborima-i-gasenje-mikrofona/vest",
    "title": "Novine: \"Učenik pucao u školi, povređene dve osobe\"; \"Bez SNS u odborima i gašenje mikrofona\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300596/optuzeni-za-pucnjavu-ispred-skupstine-izneo-odbranu-rekao-da-se-kaje/vest",
+   "title": "Optuženi za pucnjavu ispred Skupštine izneo odbranu, rekao da se kaje",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -638,7 +644,8 @@
   "\"Može bolje...\" Mirka Vasiljević ovako odgovorila Amidžiću na pitanje o privatnom životu, pa napustila studio",
   "Pucao na muškarca i izazvao požar ispred Skupštine: \"Žao mi je, nisam hteo nikoga da povredim\"",
   "\"IRAN RAZVIJA HEMIJSKO ORUŽJE\": Izraelski ministar odbrane: Tel Aviv spreman za napad",
-  "Novine: \"Učenik pucao u školi, povređene dve osobe\"; \"Bez SNS u odborima i gašenje mikrofona\""
+  "Novine: \"Učenik pucao u školi, povređene dve osobe\"; \"Bez SNS u odborima i gašenje mikrofona\"",
+  "Optuženi za pucnjavu ispred Skupštine izneo odbranu, rekao da se kaje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -651,7 +658,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 6,
+ "novo_od_pisanja": 7,
  "boost": 1.6,
  "prepisano": "2026-11-24T21:26:51.183491+00:00",
  "verzija": 8
