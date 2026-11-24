@@ -27,17 +27,38 @@
  ],
  "importance": 4,
  "published": "2026-11-24T07:46:23.419063+00:00",
- "updated": "2026-11-24T07:46:23.419063+00:00",
+ "updated": "2026-11-24T09:30:42.550620+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10170938/oko-60-studenata-pratice-nastavak-sednice-skupstine-srbije-sa-galerije",
    "title": "OKO 60 STUDENATA DANAS U SKUPŠTINI: Evo ko im je dao zeleno svetlo, pratiće zasedanje iz galerije",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674107/nastavak-konstitutivne-sednice-skupstine-proglasena-pauza-sat-vremena-nisu-spremni-materijali-video",
+   "title": "NASTAVAK KONSTITUTIVNE SEDNICE SKUPŠTINE: Proglašena pauza sat vremena, nisu spremni materijali (VIDEO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/cetvrti-dan-konstitutivne-sednice-skupstine-na-dnevnom-redu-izbor-clanova-radnih-tela-i-stalnih-parlamentarnih-delegacija",
+   "title": "Četvrti dan konstitutivne sednice Skupštine: Čupić pozdravio studente koji sa galerije prate zasedanje, proglašena pauza jer još nisu spremni materijali",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/studenti-u-skupstini-srbije-predstavnici-studentskog-pokreta-pratice-danasnju-sednicu-sa-galerije-video/",
+   "title": "Studenti prate današnju sednicu sa galerije: Čupić im se zahvalio na prisustvu, poslanici SNS negodovali VIDEO",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "OKO 60 STUDENATA DANAS U SKUPŠTINI: Evo ko im je dao zeleno svetlo, pratiće zasedanje iz galerije"
+  "OKO 60 STUDENATA DANAS U SKUPŠTINI: Evo ko im je dao zeleno svetlo, pratiće zasedanje iz galerije",
+  "NASTAVAK KONSTITUTIVNE SEDNICE SKUPŠTINE: Proglašena pauza sat vremena, nisu spremni materijali (VIDEO)",
+  "Četvrti dan konstitutivne sednice Skupštine: Čupić pozdravio studente koji sa galerije prate zasedanje, proglašena pauza jer još nisu spremni materijali",
+  "Studenti prate današnju sednicu sa galerije: Čupić im se zahvalio na prisustvu, poslanici SNS negodovali VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +72,7 @@
   "osoba": "Studenti u blokadi",
   "izvor_x": true,
   "alt": "Oko 60 studenata prati nastavak sednice Skupštine Srbije sa galerije"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

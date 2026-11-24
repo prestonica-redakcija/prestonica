@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T08:46:01.118594+00:00",
+ "updated": "2026-11-24T09:30:42.550620+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -71,6 +71,12 @@
    "url": "https://insajder.net/prenosimo/uhapseni-naser-oric-i-bivsa-poslanica-nikolina-sljivic-u-akciji-policije-sirom-bih",
    "title": "Uhapšeni Naser Orić i bivša poslanica Nikolina Šljivić u akciji policije širom BiH",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4438666-prve-fotografije-hapsenja-bivse-poslanice-nikoline-sljivic-zajedno-sa-njom-pao-i-naser-oric",
+   "title": "Prve fotografije hapšenja bivše poslanice Nikoline Šljivić: Zajedno sa njom \"pao\" i Naser Orić",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -79,7 +85,8 @@
   "UHAPŠEN NASER ORIĆ: SIPA potvrdila, akcija sprovedena u Istočnom Sarajevu i Olovu",
   "SIPA pretresa objekte Nasera Orića, sumnja se da je pomogao osumnjičenom za pokušaj ubistva",
   "SIPA PRETRESA OBJEKTE NASERA ORIĆA I NIKOLINE ŠLJIVIĆ! U toku velika policijska akcija u BiH",
-  "Uhapšeni Naser Orić i bivša poslanica Nikolina Šljivić u akciji policije širom BiH"
+  "Uhapšeni Naser Orić i bivša poslanica Nikolina Šljivić u akciji policije širom BiH",
+  "Prve fotografije hapšenja bivše poslanice Nikoline Šljivić: Zajedno sa njom \"pao\" i Naser Orić"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -92,6 +99,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Promenada_Isto%C4%8Dno_Sarajevo.jpg",
   "alt": "SIPA i policija RS uhapsile Nasera Orića i Nikolinu Šljivić u akciji širom BiH"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

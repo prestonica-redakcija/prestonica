@@ -1,0 +1,52 @@
+{
+ "id": "202611241030-1b3b98",
+ "slug": "uoci-crnog-petka-porast-fising-napada-kako-prepoznati-lazne-internet",
+ "kind": "vest",
+ "section": "drustvo",
+ "headline": "Uoči crnog petka porast fišing napada: kako prepoznati lažne internet prodavnice",
+ "lead": "Kompanija Kaspersky saopštila je da je od januara do oktobra 2026. blokirano više od 19 miliona fišing napada na kupce u internet prodavnicama i korisnike bankarskih i platnih servisa. Kako prenosi Kurir, u Srbiji se uoči crnog petka posebno upozorava na lažne prodavnice i poruke o navodnim paketima.",
+ "body": [
+  "Prema podacima Kasperskog, koje navodi Kurir, broj otkrivenih fišing napada veći je za 198,1 odsto nego u istom periodu prošle godine. Podaci se odnose na globalno registrovane napade, a ne samo na Srbiju.",
+  "Kurir navodi da prevaranti prave lažne internet prodavnice koje kopiraju fotografije, logotipe i dizajn poznatih brendova, pa čak i komentare navodnih kupaca. Oglasi se često pojavljuju na društvenim mrežama, uz telefone po višestruko nižoj ceni ili popuste od 80 odsto. Na stranici za plaćanje traže se lični podaci i podaci o platnoj kartici.",
+  "Posebna vrsta prevare je lažno predstavljanje Pošte Srbije i kurirskih službi. Građanima stižu SMS poruke da paket ne može da bude isporučen zbog nepotpune adrese, neplaćene poštarine ili carinske naknade, uz link ka stranici koja imitira zvaničan sajt. Nacionalni CERT je ranije upozoravao na slične kampanje, među njima i na poruke o doplati od 200 dinara. Pošta Srbije traži da se sumnjive poruke prijave na adresu it.bezbednost@posta.rs.",
+  "Prema objašnjenju Kasperskog, napadači koriste specijalizovane fišing alate i veštačku inteligenciju da sadržaj prilagode različitim tržištima i jezicima. Zbog toga loš prevod ili pravopisna greška više nisu pouzdan znak prevare. Dodatni rizik je ponavljanje iste lozinke na više servisa.",
+  "Kao znake upozorenja Kurir navodi neverovatno nisku cenu, neobičnu adresu sajta, pritisak da se odmah plati, nedostatak proverljivih podataka o trgovcu i traženje podataka o kartici putem poruke ili sumnjivog linka. Tekst upozorava i da oznaka HTTPS i katanac u adresnoj liniji ne potvrđuju da je prodavac legitiman, već samo da je veza šifrovana."
+ ],
+ "tags": [
+  "crni petak",
+  "fišing",
+  "internet prevare",
+  "Kaspersky",
+  "Pošta Srbije",
+  "sajber bezbednost"
+ ],
+ "people": [],
+ "places": [
+  "Srbija"
+ ],
+ "importance": 4,
+ "published": "2026-11-24T09:30:42.550620+00:00",
+ "updated": "2026-11-24T09:30:42.550620+00:00",
+ "sources": [
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/saveti/10171065/crni-petak-prevare-srbija",
+   "title": "Ovako izgledaju prevare za Crni petak u Srbiji: Odaje ih 5 detalja",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Ovako izgledaju prevare za Crni petak u Srbiji: Odaje ih 5 detalja"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.908,
+ "image": {
+  "src": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixid=M3wxMTQwNDIwfDB8MXxzZWFyY2h8MXx8b25saW5lJTIwc2hvcHBpbmclMjBzY2FtJTIwd2FybmluZ3xlbnwxfDB8fHwxNzk1NTEyNzU2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+  "credit": "Unsplash / rupixen",
+  "ilustracija": true,
+  "local": false,
+  "alt": "person using laptop computer holding card",
+  "link": "https://unsplash.com/@rupixen"
+ }
+}

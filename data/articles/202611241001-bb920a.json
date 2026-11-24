@@ -28,7 +28,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T09:01:04.718161+00:00",
- "updated": "2026-11-24T09:15:46.899242+00:00",
+ "updated": "2026-11-24T09:30:42.550620+00:00",
  "sources": [
   {
    "name": "B92",
@@ -65,6 +65,12 @@
    "url": "https://www.b92.net/info/hronika/287633/pucnjava-u-skoli-u-kragujevcu-ima-povredjenih-uhapsen-ucenik-koji-je-pucao-formiran-krizni-stab-fotovideo/vest",
    "title": "Pucnjava u školi u Kragujevcu; Ima povređenih; Uhapšen učenik koji je pucao; Formiran Krizni štab FOTO/VIDEO",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287633/pucnjava-u-skoli-u-kragujevcu-ucenik-pucao-ima-povredjenih/vest",
+   "title": "Pucnjava u školi u Kragujevcu; Ima povređenih; Uhapšen učenik koji je pucao; Formiran Krizni štab FOTO/VIDEO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -73,6 +79,7 @@
   "Formiran krizni štab zbog pucnjave u školi u Kragujevcu! Hitno se oglasilo Ministarstvo prosvete",
   "U Ministarstvu prosvete formiran krizni štab, tim Ministarstva uputio se u školu u Kragujevcu",
   "Formiran Krizni štab; Tim Ministarstva prosvete se uputio u školu u Kragujevcu",
+  "Pucnjava u školi u Kragujevcu; Ima povređenih; Uhapšen učenik koji je pucao; Formiran Krizni štab FOTO/VIDEO",
   "Pucnjava u školi u Kragujevcu; Ima povređenih; Uhapšen učenik koji je pucao; Formiran Krizni štab FOTO/VIDEO"
  ],
  "author": "Redakcija Prestonice",
@@ -86,6 +93,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Prva_tehni%C4%8Dka_%C5%A1kola_Kragujevac_16.jpg",
   "alt": "Pucnjava u školi u Kragujevcu: povređene dve osobe, učenik priveden"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

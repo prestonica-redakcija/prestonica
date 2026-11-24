@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T15:53:13.325699+00:00",
- "updated": "2026-11-23T15:53:13.325699+00:00",
+ "updated": "2026-11-24T09:30:42.550620+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -45,11 +45,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4438174-novi-talas-padavina-donece-novu-opasnost-ledena-kisa-i-poledica-prete-ovim-delovima-srbije-otkrivamo-i-kada",
    "title": "Novi talas padavina doneće novu opasnost! Ledena kiša i poledica prete ovim delovima Srbije: Otkrivamo i kada",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4438554-srbiji-prete-olujni-vetar-ledena-kisa-i-poledica-stize-novo-pogorsanje-vremena-otkrivamo-i-kada",
+   "title": "Srbiji prete olujni vetar, ledena kiša i poledica! Stiže novo pogoršanje vremena: Otkrivamo i kada",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "OPASNOST OD LEDENE KIŠE I POLEDICE U SRBIJI! Sutra kratak predah uz mraz do -11, a u sredu uveče stiže novi obrt: Evo u kojim krajevima će biti najkritičnije!",
-  "Novi talas padavina doneće novu opasnost! Ledena kiša i poledica prete ovim delovima Srbije: Otkrivamo i kada"
+  "Novi talas padavina doneće novu opasnost! Ledena kiša i poledica prete ovim delovima Srbije: Otkrivamo i kada",
+  "Srbiji prete olujni vetar, ledena kiša i poledica! Stiže novo pogoršanje vremena: Otkrivamo i kada"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "local": false,
   "alt": "brown and black wooden surface",
   "link": "https://unsplash.com/@designfuchs"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

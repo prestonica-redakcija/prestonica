@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T06:17:17.877061+00:00",
- "updated": "2026-11-24T09:15:46.899242+00:00",
+ "updated": "2026-11-24T09:30:42.550620+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -55,12 +55,19 @@
    "url": "https://www.tanjug.rs/srbija/politika/300436/stimac-moguce-formiranje-nove-vlade-pre-nove-godine-neka-imena-vec-iskristalisana/vest",
    "title": "Štimac: Moguće formiranje nove Vlade pre Nove godine, neka imena već iskristalisana",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253422/aleksandra-stimac-nova-vlada-mozda-pre-nove-godine/vest",
+   "title": "Štimac: Moguće formiranje nove Vlade pre Nove godine, neka imena već iskristalisana",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Štimac: Moguće je da nova vlada bude formirana pre Nove godine, za pojedine resore već su iskristalisana imena",
   "Štimac: Za pojedine resore Vlade već iskristalisana imena, kvalitet rešenja je prioritet",
   "Štimac: Moguće da nova vlada bude formirana pre Nove godine, neka imena već iskristalisana",
+  "Štimac: Moguće formiranje nove Vlade pre Nove godine, neka imena već iskristalisana",
   "Štimac: Moguće formiranje nove Vlade pre Nove godine, neka imena već iskristalisana"
  ],
  "author": "Redakcija Prestonice",
@@ -74,6 +81,6 @@
   "alt": "white and brown concrete building near body of water during daytime",
   "link": "https://unsplash.com/@ivrn"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

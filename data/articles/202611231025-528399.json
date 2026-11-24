@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T09:25:37.045666+00:00",
- "updated": "2026-11-23T22:20:33.126631+00:00",
+ "updated": "2026-11-24T09:30:42.550620+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -73,6 +73,18 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/253378/cene-nafte-na-najnizem-nivou-u-tri-meseca-brent-895-dolara/vest",
    "title": "Cene nafte pale na najniži nivo u poslednja tri meseca, Brent pojeftinio na 89,5 dolara po barelu",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/300439/evropski-indeksi-u-blagom-padu-cena-brenta-najniza-za-skoro-tri-meseca-ai-u-fokusu/vest",
+   "title": "Evropski indeksi u blagom padu, cena Brenta najniža za skoro tri meseca, AI u fokusu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4438658-cena-nafte-dostigla-tromesecni-minimum",
+   "title": "Cena nafte dostigla tromesečni minimum",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -82,7 +94,9 @@
   "Cena nafte pala na najniži nivo u poslednja tri meseca, Brent oko 89,5 dolara",
   "Cena nafte pala na najniži nivo u poslednja tri meseca, Brent oko 89,5 dolara",
   "Cena nafte pala na najniži nivo u poslednja tri meseca, Brent oko 89,5 dolara",
-  "Cene nafte pale na najniži nivo u poslednja tri meseca, Brent pojeftinio na 89,5 dolara po barelu"
+  "Cene nafte pale na najniži nivo u poslednja tri meseca, Brent pojeftinio na 89,5 dolara po barelu",
+  "Evropski indeksi u blagom padu, cena Brenta najniža za skoro tri meseca, AI u fokusu",
+  "Cena nafte dostigla tromesečni minimum"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -95,8 +109,8 @@
   "alt": "graphical user interface, application",
   "link": "https://unsplash.com/@polarmermaid"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-23T22:05:45.618419+00:00",
  "verzija": 2
 }

@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-24T09:01:04.718161+00:00",
- "updated": "2026-11-24T09:15:46.899242+00:00",
+ "updated": "2026-11-24T09:30:42.550620+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -75,6 +75,18 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10171056/oglasila-se-spc-povodom-smrti-mitropolita-backog-irineja",
    "title": "Oglasila se SPC povodom smrti Mitropolita Irineja: Večan ti spomen, dostojni blaženstva i nezaboravni oče i vladiko naš Irineje!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300440/vucic-uputio-saucesce-povodom-smrti-mitropolita-backog-irineja/vest",
+   "title": "Vučić uputio saučešće povodom smrti mitropolita bačkog Irineja",
+   "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674131/vucic-uputio-saucesce-povodom-smrti-mitropolita-backog-irineja-vecan-pomen-carstvo-nebesko-dragi-vladiko",
+   "title": "VUČIĆ UPUTIO SAUČEŠĆE POVODOM SMRTI MITROPOLITA BAČKOG IRINEJA: Večan ti pomen i Carstvo nebesko, dragi Vladiko",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -84,7 +96,9 @@
   "Eparhija bačka: Preminuo arhiepiskop novosadski i mitropolit bački Irinej",
   "\"Večan ti pomen i Carstvo nebesko, dragi Vladiko\"! Vučić uputio saučešće povodom smrti mitropolita bačkog Irineja",
   "Vučić uputio saučešće povodom smrti Mitropolita bačkog Irineja",
-  "Oglasila se SPC povodom smrti Mitropolita Irineja: Večan ti spomen, dostojni blaženstva i nezaboravni oče i vladiko naš Irineje!"
+  "Oglasila se SPC povodom smrti Mitropolita Irineja: Večan ti spomen, dostojni blaženstva i nezaboravni oče i vladiko naš Irineje!",
+  "Vučić uputio saučešće povodom smrti mitropolita bačkog Irineja",
+  "VUČIĆ UPUTIO SAUČEŠĆE POVODOM SMRTI MITROPOLITA BAČKOG IRINEJA: Večan ti pomen i Carstvo nebesko, dragi Vladiko"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -97,6 +111,6 @@
   "alt": "A large building with a clock tower on top of it",
   "link": "https://unsplash.com/@marishphoto"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }

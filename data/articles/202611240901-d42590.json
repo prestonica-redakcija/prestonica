@@ -27,7 +27,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T09:15:46.899242+00:00",
+ "updated": "2026-11-24T09:30:42.550620+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -124,6 +124,18 @@
    "url": "https://n1info.rs/vesti/stankovic-saosecam-sa-povredjenima-u-pucnjavi-u-kragujevcu-u-kontaktu-smo-sa-skolom/",
    "title": "Stanković: Saosećam sa povređenima u pucnjavi u Kragujevcu, u kontaktu smo sa školom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/dejan-vuk-stankovic-pucnjava-prva-tehnicka-skola-kragujevac/",
+   "title": "Ministar Dejan Vuk Stanković za Danas: Policija uhapsila napadača, saosećam sa povređenima",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4438655-oglasio-se-gradonacelnik-kragujevca-nakon-pucnjave-u-prvoj-tehnickoj-skoli",
+   "title": "Oglasio se gradonačelnik Kragujevca nakon pucnjave u Prvoj tehničkoj školi",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -142,7 +154,9 @@
   "Pucnjava u školi u Kragujevcu: Ranjene dve tetkice, MUP uhapsio učenika (17) koji je pucao iz puške",
   "Prve slike nakon pucnjave u Kragujevcu: Policija opkolila školu u kojoj je učenik (17) ranio dve tetkice",
   "Pucnjava u školi u Kragujevcu: Učenik ranio zaposlenu",
-  "Stanković: Saosećam sa povređenima u pucnjavi u Kragujevcu, u kontaktu smo sa školom"
+  "Stanković: Saosećam sa povređenima u pucnjavi u Kragujevcu, u kontaktu smo sa školom",
+  "Ministar Dejan Vuk Stanković za Danas: Policija uhapsila napadača, saosećam sa povređenima",
+  "Oglasio se gradonačelnik Kragujevca nakon pucnjave u Prvoj tehničkoj školi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -155,7 +169,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-24T09:01:04.718161+00:00",
  "verzija": 2
