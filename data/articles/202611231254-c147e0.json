@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T11:54:36.696000+00:00",
- "updated": "2026-11-24T11:45:00.940273+00:00",
+ "updated": "2026-11-24T15:13:52.963107+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -107,6 +107,12 @@
    "url": "https://www.tanjug.rs/srbija/politika/300507/linta-pozvao-poslanike-evropskog-parlamenta-da-ne-podrze-rezoluciju-o-vukovaru/vest",
    "title": "Linta pozvao poslanike Evropskog parlamenta da ne podrže Rezoluciju o Vukovaru",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4438981-linta-pozvao-poslanike-evropskog-parlamenta-da-ne-podrze-rezoluciju-o-vukovaru",
+   "title": "Linta pozvao poslanike Evropskog parlamenta da ne podrže Rezoluciju o Vukovaru",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -122,6 +128,7 @@
   "Evropski parlament u četvrtak glasa o rezoluciji o Vukovaru: Od Srbije se traže ratni arhivi i podaci o grobnicama",
   "Studentski pokret: Evropski parlament zanemario stradanja srpskih civila u Hrvatskoj",
   "Studentskoj listi stigao odgovor iz Hrvatske nakon kritike predloga rezolucije o Vukovaru",
+  "Linta pozvao poslanike Evropskog parlamenta da ne podrže Rezoluciju o Vukovaru",
   "Linta pozvao poslanike Evropskog parlamenta da ne podrže Rezoluciju o Vukovaru"
  ],
  "author": "Redakcija Prestonice",
@@ -134,7 +141,7 @@
   "local": true,
   "alt": "Studenti u blokadi kritikovali predlog rezolucije Evropskog parlamenta o Vukovaru"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-23T21:50:49.650794+00:00",
  "verzija": 3

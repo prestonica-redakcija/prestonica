@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T11:09:53.766455+00:00",
- "updated": "2026-11-24T14:43:59.540144+00:00",
+ "updated": "2026-11-24T15:13:52.963107+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -56,13 +56,20 @@
    "url": "https://www.tanjug.rs/svet/politika/300551/libijska-vlada-negira-da-se-dogovorila-s-kijevom-o-napadu-na-2-ruska-broda/vest",
    "title": "Libijska vlada negira da se dogovorila s Kijevom o napadu na 2 ruska broda",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/300568/andrij-sibiha-ukrajinski-napad-na-ruske-brodove-u-libiji-bio-samoodbrana/vest",
+   "title": "Andrij Sibiha: Ukrajinski napad na ruske brodove u Libiji bio samoodbrana",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Kakve veze ima Albanija sa napadom u Libiji: Oglasilo se Ministarstvo",
   "KRENULI IZ ALBANIJE I ZADALI BOLAN UDARAC PUTINU?! Šire se glasine o napadu na moćnu rusku korvetu u Libiji, hitno se oglasila Tirana: Prešli čak 800 pre UDARA?",
   "Albanija se oglasila posle navoda da je učestvovala u napadu na ruske brodove u Libiji",
-  "Libijska vlada negira da se dogovorila s Kijevom o napadu na 2 ruska broda"
+  "Libijska vlada negira da se dogovorila s Kijevom o napadu na 2 ruska broda",
+  "Andrij Sibiha: Ukrajinski napad na ruske brodove u Libiji bio samoodbrana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -75,6 +82,6 @@
   "alt": "A large ship in the middle of the ocean",
   "link": "https://unsplash.com/@aa_hasan"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -32,7 +32,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T08:30:59.703766+00:00",
- "updated": "2026-11-24T14:43:59.540144+00:00",
+ "updated": "2026-11-24T15:13:52.963107+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,12 +51,26 @@
    "url": "https://www.danas.rs/bbc-news-serbian/dnevnik-pape-franje-tri-puta-video-djavola-i-bio-pred-vratima-pakla/",
    "title": "Dnevnik pape Franje: ‘Tri puta video đavola i bio pred vratima pakla’",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/vatikan-objavio-dnevnik-pape-franje-spomnje-odlucne-napade-sila-zla/",
+   "title": "Vatikan objavio dnevnik pape Franje, spominje „odlučne napade sila zla“",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/zanimljivosti/svastara/4438544-otkrio-koliko-je-puta-video-djavola-i-vrata-pakla-objavljeni-odlomci-iz-dnevnika-pape-franje",
+   "title": "Otkrio koliko je puta video đavola i vrata pakla: Objavljeni odlomci iz dnevnika pape Franje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Papa Franja u dnevniku napisao da je tri puta video đavola i jednom \"vrata pakla\"",
   "Objavljeni odlomci dnevnika pape Franje: \"Tri puta sam video đavola, jednom i vrata pakla\"",
-  "Dnevnik pape Franje: ‘Tri puta video đavola i bio pred vratima pakla’"
+  "Dnevnik pape Franje: ‘Tri puta video đavola i bio pred vratima pakla’",
+  "Vatikan objavio dnevnik pape Franje, spominje „odlučne napade sila zla“",
+  "Otkrio koliko je puta video đavola i vrata pakla: Objavljeni odlomci iz dnevnika pape Franje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +83,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Baljci_%E2%80%93_Gr%C4%8Dkokatoli%C4%8Dka_crkva_02.jpg",
   "alt": "Objavljeni odlomci dnevnika pape Franje: tri puta video đavola, jednom vrata pakla"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

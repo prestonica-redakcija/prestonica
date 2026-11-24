@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T13:39:09.854940+00:00",
- "updated": "2026-11-24T14:43:59.540144+00:00",
+ "updated": "2026-11-24T15:13:52.963107+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -119,6 +119,18 @@
    "url": "https://n1info.rs/video/novi-dan/tema-jutra-nastavak-skupstinske-sednice/",
    "title": "Tema jutra: Nastavak skupštinske sednice",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4438994-cupic-dostavio-predlog-sastava-skupstinskih-odbora-uz-studentsku-listu-i-poslanici-manjina-bez-sns-a-i-svm-a",
+   "title": "Čupić dostavio predlog sastava skupštinskih odbora: Uz Studentsku listu i poslanici manjina, bez SNS-a i SVM-a",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10171641/aleksandar-cupic-najavio-da-ce-skupstina-srbije-raditi-i-posle-18-casova",
+   "title": "NEMA ZAVRŠETKA U 18 ČASOVA: Skupština nastavlja rad, Čupić objasnio zbog čega",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -135,7 +147,9 @@
   "Nastavalja se konstitutivna sednica Skupštine Srbije: Evo šta je na dnevnom redu",
   "SKUPŠTINA SRBIJE, DAN ČETVRTI: Na dnevnom redu konstitutivne sednice još dve tačke, evo o čemu poslanici danas raspravljaju",
   "NASTAVAK KONSTITUTIVNE SEDNICE Na dnevnom redu izbor članova radnih tela, studenti prisustvuju zasedanju",
-  "Tema jutra: Nastavak skupštinske sednice"
+  "Tema jutra: Nastavak skupštinske sednice",
+  "Čupić dostavio predlog sastava skupštinskih odbora: Uz Studentsku listu i poslanici manjina, bez SNS-a i SVM-a",
+  "NEMA ZAVRŠETKA U 18 ČASOVA: Skupština nastavlja rad, Čupić objasnio zbog čega"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -150,7 +164,7 @@
   "izvor_x": true,
   "alt": "U Skupštini počele konsultacije o nastavku konstitutivne sednice"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-24T08:30:59.703766+00:00",
  "verzija": 3

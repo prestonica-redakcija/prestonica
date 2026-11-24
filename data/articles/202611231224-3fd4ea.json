@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T11:24:57.416792+00:00",
- "updated": "2026-11-23T11:54:36.696000+00:00",
+ "updated": "2026-11-24T15:13:52.963107+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -39,11 +39,18 @@
    "url": "https://biznis.telegraf.rs/info-biz/4438117-kraj-jedne-ere-dzim-bim-zatvara-istorijsku-destileriju",
    "title": "Kraj jedne ere: Džim Bim zatvara istorijsku destileriju",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/287374/dzim-bim-obustavlja-proizvodnju-u-svojoj-istorijskoj-destileriji-u-kentakiju/vest",
+   "title": "Istorijska destilerija staje s radom: Poznati proizvođač viskija obustavlja proizvodnju",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Džim Bim obustavlja proizvodnju u svojoj istorijskoj destileriji u Kentakiju",
-  "Kraj jedne ere: Džim Bim zatvara istorijsku destileriju"
+  "Kraj jedne ere: Džim Bim zatvara istorijsku destileriju",
+  "Istorijska destilerija staje s radom: Poznati proizvođač viskija obustavlja proizvodnju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,6 +63,6 @@
   "alt": "brown wooden barrels on rack",
   "link": "https://unsplash.com/@katherineconrad"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

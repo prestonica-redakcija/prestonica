@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T14:53:23.090850+00:00",
- "updated": "2026-11-24T14:43:59.540144+00:00",
+ "updated": "2026-11-24T15:13:52.963107+00:00",
  "sources": [
   {
    "name": "N1",
@@ -85,6 +85,18 @@
    "url": "https://www.euronews.rs/svet/fokus/253460/tramp-intervenisao-za-povratak-dzensena-huanga-u-nvidiju/vest",
    "title": "Tramp intervenisao u slučaju Nvidije: Bela kuća izvršila pritisak da se Huang vrati na čelo kompanije",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/300465/vadeful-sokiran-sam-trampovom-intervencijom-u-vezi-sa-povratkom-huanga-u-envidiju/vest",
+   "title": "Vadeful: Šokiran sam Trampovom intervencijom u vezi sa povratkom Huanga u Envidiju",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10171637/dzensen-huang-se-vraca-pitanja-o-vezama-sa-kinom-ostaju",
+   "title": "Džensen Huang se vraća na čelo Nvidije: Trampova podrška nije zaustavila pitanja o vezama sa Kinom",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -96,7 +108,9 @@
   "Huang ponovo na čelu Nvidije, Tramp šokirao planetu AI generisanom slikom: Šta se juče desilo u svetu?",
   "Džensen Huang ponovo na čelu Nvidije: Izvinjenja, oštre optužbe i istraga na pomolu",
   "DRAMA U SILICIJUMSKOJ DOLINI DOBILA EPILOG: Direktor Nvidije ponovo na čelu kompanije nakon intervencije Bele kuće",
-  "Tramp intervenisao u slučaju Nvidije: Bela kuća izvršila pritisak da se Huang vrati na čelo kompanije"
+  "Tramp intervenisao u slučaju Nvidije: Bela kuća izvršila pritisak da se Huang vrati na čelo kompanije",
+  "Vadeful: Šokiran sam Trampovom intervencijom u vezi sa povratkom Huanga u Envidiju",
+  "Džensen Huang se vraća na čelo Nvidije: Trampova podrška nije zaustavila pitanja o vezama sa Kinom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -109,8 +123,8 @@
   "alt": "the nvidia logo is displayed on a table",
   "link": "https://unsplash.com/@mariiaberezovsky"
  },
- "novo_od_pisanja": 3,
- "boost": 1.56,
+ "novo_od_pisanja": 5,
+ "boost": 1.6,
  "prepisano": "2026-11-24T06:17:17.877061+00:00",
  "verzija": 2
 }
