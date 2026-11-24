@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T14:43:59.540144+00:00",
- "updated": "2026-11-24T14:43:59.540144+00:00",
+ "updated": "2026-11-24T15:28:54.686511+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,12 +51,19 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4438930-predsednik-saveta-rem-a-usvaja-se-nova-metodologija-za-pracenje-predsednickih-izbora",
    "title": "Predsednik Saveta REM-a: Usvaja se nova metodologija za praćenje predsedničkih izbora",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/smederevac-usvaja-se-nova-metodologija-za-pracenje-predsednickih-izbora",
+   "title": "Smederevac: Usvaja se nova metodologija za praćenje predsedničkih izbora",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Smederevac: Usvaja se nova metodologija za praćenje predsedničkih izbora",
   "Smederevac: Usvaja se nova metodologija za praćenje predsedničkih izbora",
-  "Predsednik Saveta REM-a: Usvaja se nova metodologija za praćenje predsedničkih izbora"
+  "Predsednik Saveta REM-a: Usvaja se nova metodologija za praćenje predsedničkih izbora",
+  "Smederevac: Usvaja se nova metodologija za praćenje predsedničkih izbora"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,5 +74,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "REM najavio sastanak sa medijima 30. novembra i novu metodologiju za praćenje izbora"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

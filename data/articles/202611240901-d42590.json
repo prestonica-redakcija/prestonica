@@ -27,7 +27,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T14:43:59.540144+00:00",
+ "updated": "2026-11-24T15:28:54.686511+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -382,6 +382,24 @@
    "url": "https://nova.rs/vesti/hronika/muskarac-iz-sokobanje-uhapsen-zbog-uznemiravanja-maloletnice-14/",
    "title": "Muškarac iz Sokobanje uhapšen zbog uznemiravanja maloletnice (14)",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10171642/ministar-prosvete-o-pucnjavi-u-skoli-slucaj-iznenadjujuci",
+   "title": "\"SLUČAJ JE IZNENAĐUJUĆ, DEČAK NIJE BIO ASOCIJALAN\": Ministar prosvete obišao mesto zločina u Kragujevcu",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10171685/muskarac-53-kod-sokobanje-uhapsen-zbog-uznemiravanja-devojcice-14",
+   "title": "HOROR U SOKOBANJI! Muškarac (53) priveden zbog polnog uznemiravanja devojčice (14): Prvo joj pisao na mrežama, a onda prešao i na direktan kontakt!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/sokobanjac-uhapsen-zbog-polnog-uznemiravanja-maloletnice/",
+   "title": "Sokobanjac uhapšen zbog polnog uznemiravanja maloletnice",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -443,7 +461,10 @@
   "Uhapšena dvojica muškaraca koji su provalili u rezidenciju princa Vilijama",
   "Maskirani muškarci upali u rezidenciju princa Vilijama? Policija uhapsila dvojicu osumnjičenih",
   "Proglašena uzbuna: \"Napadnuti smo\" VIDEO",
-  "Muškarac iz Sokobanje uhapšen zbog uznemiravanja maloletnice (14)"
+  "Muškarac iz Sokobanje uhapšen zbog uznemiravanja maloletnice (14)",
+  "\"SLUČAJ JE IZNENAĐUJUĆ, DEČAK NIJE BIO ASOCIJALAN\": Ministar prosvete obišao mesto zločina u Kragujevcu",
+  "HOROR U SOKOBANJI! Muškarac (53) priveden zbog polnog uznemiravanja devojčice (14): Prvo joj pisao na mrežama, a onda prešao i na direktan kontakt!",
+  "Sokobanjac uhapšen zbog polnog uznemiravanja maloletnice"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -456,7 +477,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-24T14:43:59.540144+00:00",
  "verzija": 5

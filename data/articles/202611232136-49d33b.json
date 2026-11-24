@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-23T20:36:28.314137+00:00",
- "updated": "2026-11-23T20:36:28.314137+00:00",
+ "updated": "2026-11-24T15:28:54.686511+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/300336/sef-metinog-sektora-za-ai-ne-smemo-da-dozvolimo-da-drustvo-prepustimo-vestackoj-inteligenciji/vest",
    "title": "Šef Metinog sektora za AI: Ne smemo da dozvolimo da društvo prepustimo veštačkoj inteligenciji",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/300582/guteres-trazi-globalna-pravila-za-kontrolu-rizika-od-vestacke-inteligencije/vest",
+   "title": "Gutereš traži globalna pravila za kontrolu rizika od veštačke inteligencije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Šef Metinog sektora za AI: Ne smemo da dozvolimo da društvo prepustimo veštačkoj inteligenciji"
+  "Šef Metinog sektora za AI: Ne smemo da dozvolimo da društvo prepustimo veštačkoj inteligenciji",
+  "Gutereš traži globalna pravila za kontrolu rizika od veštačke inteligencije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "alt": "a computer circuit board with a brain on it",
   "link": "https://unsplash.com/@steve_j"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T15:13:52.963107+00:00",
- "updated": "2026-11-24T15:13:52.963107+00:00",
+ "updated": "2026-11-24T15:28:54.686511+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,12 +48,19 @@
    "url": "https://nova.rs/vesti/politika/cupic-osoba-koja-se-fotografisala-sa-balkona-i-objavila-neprimereni-sadrzaj-udaljena-iz-skupstine-bice-joj-zabranjen-ulaz-video/",
    "title": "Čupić: Osoba koja se fotografisala sa balkona i objavila neprimereni sadržaj - udaljena iz Skupštine, biće joj zabranjen ulaz VIDEO",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4439024-cupic-udaljena-osoba-koja-je-snimala-poslanike",
+   "title": "Čupić: Udaljena osoba koja je snimala poslanike",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Čupić: Osoba koja se slikala na galeriji identifikovana i udaljena iz Skupštine",
   "Čupić: Osoba koja je fotografisala poslanike udaljena, biće joj zabranjen pristup Skupštini",
-  "Čupić: Osoba koja se fotografisala sa balkona i objavila neprimereni sadržaj - udaljena iz Skupštine, biće joj zabranjen ulaz VIDEO"
+  "Čupić: Osoba koja se fotografisala sa balkona i objavila neprimereni sadržaj - udaljena iz Skupštine, biće joj zabranjen ulaz VIDEO",
+  "Čupić: Udaljena osoba koja je snimala poslanike"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,5 +72,7 @@
   "local": false,
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

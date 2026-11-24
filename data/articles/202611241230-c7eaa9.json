@@ -27,7 +27,7 @@
  ],
  "importance": 2,
  "published": "2026-11-24T11:30:04.987837+00:00",
- "updated": "2026-11-24T11:30:04.987837+00:00",
+ "updated": "2026-11-24T15:28:54.686511+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -40,11 +40,18 @@
    "url": "https://www.kurir.rs/crna-hronika/10171260/makedonac-uhapsen-u-vladicinom-hanu",
    "title": "KRENUO NA PUT SA 420 ELEKTRONSKIH CIGARETA, PA GA ZAUSTAVILA POLICIJA: Uhapšen državljanin Severne Makedonije",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/region/uhapsen-zatvorski-policajac-u-severnoj-makedoniji-zbog-prodaje-kokaina/",
+   "title": "Uhapšen zatvorski policajac u Severnoj Makedoniji zbog prodaje kokaina",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Uhapšen Makedonac zbog 420 električnih cigareta bez dokumentacije",
-  "KRENUO NA PUT SA 420 ELEKTRONSKIH CIGARETA, PA GA ZAUSTAVILA POLICIJA: Uhapšen državljanin Severne Makedonije"
+  "KRENUO NA PUT SA 420 ELEKTRONSKIH CIGARETA, PA GA ZAUSTAVILA POLICIJA: Uhapšen državljanin Severne Makedonije",
+  "Uhapšen zatvorski policajac u Severnoj Makedoniji zbog prodaje kokaina"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Vladi%C4%8Din_Han_-_Ju%C5%BEna_Morava_02.jpg",
   "alt": "U Vladičinom Hanu uhapšen državljanin Severne Makedonije zbog 420 elektronskih cigareta"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T15:13:52.963107+00:00",
+ "updated": "2026-11-24T15:28:54.686511+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -156,6 +156,18 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4439002-akcija-emisar-oglasila-se-sipa-posle-hapsenja-nasera-orica-oduzeti-novac-i-oruzje",
    "title": "AKCIJA \"EMISAR\" Oglasila se SIPA posle hapšenja Nasera Orića: Oduzeti novac i oružje",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/region/287740/detalji-akcije-sipa-e-u-kojoj-je-uhapsen-naser-oric/vest",
+   "title": "Arsenal oružja i gomila novca: Isplivali detalji akcije u kojoj je \"pao\" Orić",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/region/bosna-i-hercegovina/10171676/naser-oric-izveden-iz-policije-u-istocnom-sarajevu-nakon-ispitivanja",
+   "title": "POLICAJCI SA DUGIM CEVIMA IZVODE NASERA ORIĆA! Završeno ispitivanje u Policijskoj stanici Istočno Sarajevo (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -178,7 +190,9 @@
   "Pogledajte snimak privođenja Nasera Orića: Nakon hapšenja sproveden u Istočno Sarajevo",
   "(VIDEO) Hapšenje Nasera Orića",
   "NASER ORIĆ U LISICAMA, POGLEDAJTE SNIMAK! Ovako ga je SIPA predala policiji u Istočnom Sarajevu (VIDEO)",
-  "AKCIJA \"EMISAR\" Oglasila se SIPA posle hapšenja Nasera Orića: Oduzeti novac i oružje"
+  "AKCIJA \"EMISAR\" Oglasila se SIPA posle hapšenja Nasera Orića: Oduzeti novac i oružje",
+  "Arsenal oružja i gomila novca: Isplivali detalji akcije u kojoj je \"pao\" Orić",
+  "POLICAJCI SA DUGIM CEVIMA IZVODE NASERA ORIĆA! Završeno ispitivanje u Policijskoj stanici Istočno Sarajevo (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -191,7 +205,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Promenada_Isto%C4%8Dno_Sarajevo.jpg",
   "alt": "SIPA i policija RS uhapsile Nasera Orića i Nikolinu Šljivić u akciji širom BiH"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-24T15:13:52.963107+00:00",
  "verzija": 3

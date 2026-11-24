@@ -30,7 +30,7 @@
  ],
  "importance": 7,
  "published": "2026-11-23T11:09:53.766455+00:00",
- "updated": "2026-11-24T15:13:52.963107+00:00",
+ "updated": "2026-11-24T15:28:54.686511+00:00",
  "sources": [
   {
    "name": "N1",
@@ -55,13 +55,20 @@
    "url": "https://www.kurir.rs/vesti/politika/10171647/ana-brnabic-kritikovala-institucije-zbog-pretnji-upucenih-vucicu-i-njenoj-porodici",
    "title": "\"VUČIĆ JE JAVNO PRIJAVIO PRETNJE SMRĆU OD STRANE VRAČARSKOG KLANA\" Brnabić: Nadležne institucije nisu reagovale, kao ni predsednik Narodne skupštine",
    "spektar": "vlast"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=Sa1D-rm_iUg",
+   "title": "Vučić: Ne umete da se ponašate kao predsednik Narodne skupštine",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
   "Vučić tvrdi da je dobio pretnje smrću od vračarskog klana, ali ih nije prijavio policiji",
   "Vučić tvrdi da je dobio pretnje smrću od vračarskog klana ali ih nije prijavio policiji",
   "Vučić kaže da je dobio pretnje smrću od vračarskog klana ali ih nije prijavio policiji",
-  "\"VUČIĆ JE JAVNO PRIJAVIO PRETNJE SMRĆU OD STRANE VRAČARSKOG KLANA\" Brnabić: Nadležne institucije nisu reagovale, kao ni predsednik Narodne skupštine"
+  "\"VUČIĆ JE JAVNO PRIJAVIO PRETNJE SMRĆU OD STRANE VRAČARSKOG KLANA\" Brnabić: Nadležne institucije nisu reagovale, kao ni predsednik Narodne skupštine",
+  "Vučić: Ne umete da se ponašate kao predsednik Narodne skupštine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +83,6 @@
   "izvor_x": true,
   "alt": "Vučić tvrdi da je dobio pretnje od vračarskog klana, a policiji ih nije prijavio"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
