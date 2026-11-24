@@ -5886,12 +5886,6 @@
  "fokus": [],
  "runs": [
   {
-   "vreme": "2026-11-23T12:49+00:00",
-   "novih": 10,
-   "ukupno": 3966,
-   "sekundi": 621.3
-  },
-  {
    "vreme": "2026-11-23T13:05+00:00",
    "novih": 10,
    "ukupno": 3976,
@@ -6244,6 +6238,12 @@
    "novih": 1,
    "ukupno": 4201,
    "sekundi": 623.3
+  },
+  {
+   "vreme": "2026-11-24T03:43+00:00",
+   "novih": 0,
+   "ukupno": 4201,
+   "sekundi": 604.7
   }
  ],
  "licnosti_foto": {
@@ -21530,42 +21530,6 @@
   }
  },
  "foto_cache": {
-  "t:borselino": {
-   "t": 1794885732.2889795,
-   "items": []
-  },
-  "t:falkone": {
-   "t": 1794885733.8351398,
-   "items": [
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Feldkirch-Schattenburg-Falkonett-03ESD.jpg/1920px-Feldkirch-Schattenburg-Falkonett-03ESD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4000,
-     "h": 3000,
-     "god": 2026,
-     "credit": "Wikimedia Commons / Rikki Mitterer / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Feldkirch-Schattenburg-Falkonett-03ESD.jpg",
-     "naslov": "Feldkirch-Schattenburg-Falkonett-03ESD.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Feldkirch-Schattenburg-Falkonett-02ESD.jpg/1920px-Feldkirch-Schattenburg-Falkonett-02ESD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4000,
-     "h": 3000,
-     "god": 2026,
-     "credit": "Wikimedia Commons / Rikki Mitterer / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Feldkirch-Schattenburg-Falkonett-02ESD.jpg",
-     "naslov": "Feldkirch-Schattenburg-Falkonett-02ESD.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Feldkirch-Schattenburg-Falkonett-01ESD.jpg/1920px-Feldkirch-Schattenburg-Falkonett-01ESD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4000,
-     "h": 3000,
-     "god": 2026,
-     "credit": "Wikimedia Commons / Rikki Mitterer / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Feldkirch-Schattenburg-Falkonett-01ESD.jpg",
-     "naslov": "Feldkirch-Schattenburg-Falkonett-01ESD.jpg"
-    }
-   ]
-  },
   "t:muzej africke umetnosti": {
    "t": 1794889335.7287102,
    "items": [
@@ -54103,7 +54067,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "upcoming",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-24T03:19:25.132015+00:00",
+  "provereno": "2026-11-24T03:33:46.136154+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": false
  },
