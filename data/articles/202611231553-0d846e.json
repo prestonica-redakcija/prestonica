@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T14:53:23.090850+00:00",
- "updated": "2026-11-24T06:17:17.877061+00:00",
+ "updated": "2026-11-24T07:16:38.934187+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -44,12 +44,19 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4436406-danas-se-obelezava-sveti-mina-evo-da-li-postoje-neka-posebna-pravila-za-ovaj-dan",
    "title": "Danas se obeležava Sveti Mina: Evo da li postoje neka posebna pravila za ovaj dan",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10170342/bozicni-post-kada-pocinje-i-kako-se-posti",
+   "title": "U subotu počinje Božićni post i ovo morate da znate! Koliko traje, šta se jede i da li smete da počnete kasnije",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Kad počinje božićni post, koliko traje i koja su pravila",
   "Božićni post donosi posebna pravila: Evo kada se jede riba, a kada se posti na vodi",
-  "Danas se obeležava Sveti Mina: Evo da li postoje neka posebna pravila za ovaj dan"
+  "Danas se obeležava Sveti Mina: Evo da li postoje neka posebna pravila za ovaj dan",
+  "U subotu počinje Božićni post i ovo morate da znate! Koliko traje, šta se jede i da li smete da počnete kasnije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "alt": "bread on white ceramic plate beside sliced bread on table",
   "link": "https://unsplash.com/@jediahowen"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -32,7 +32,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T13:09:05.490848+00:00",
- "updated": "2026-11-23T13:09:05.490848+00:00",
+ "updated": "2026-11-24T07:16:38.934187+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -45,11 +45,18 @@
    "url": "https://biznis.telegraf.rs/info-biz/4438157-pronasli-250-novih-nalazista-u-jednoj-godini-pod-zemljom-leze-milijarde-a-evo-sta-je-sve-otkriveno",
    "title": "Pronašli 250 novih nalazišta u jednoj godini: Pod zemljom leže milijarde, a evo šta je sve otkriveno",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/287409/u-rusiji-ove-godine-otkriveno-250-nalazista-strateskih-sirovina/vest",
+   "title": "Rusija otkrila 250 nalazišta strateških sirovina: Tone i tone zlata, bakra, cinka, olova...",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "U Rusiji ove godine otkriveno 250 nalazišta strateških sirovina",
-  "Pronašli 250 novih nalazišta u jednoj godini: Pod zemljom leže milijarde, a evo šta je sve otkriveno"
+  "Pronašli 250 novih nalazišta u jednoj godini: Pod zemljom leže milijarde, a evo šta je sve otkriveno",
+  "Rusija otkrila 250 nalazišta strateških sirovina: Tone i tone zlata, bakra, cinka, olova..."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "local": false,
   "alt": "a rocky area with rocks and trees in the background",
   "link": "https://unsplash.com/@mrparalloid"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

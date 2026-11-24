@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T13:39:09.854940+00:00",
- "updated": "2026-11-24T06:31:57.987626+00:00",
+ "updated": "2026-11-24T07:16:38.934187+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -75,6 +75,12 @@
    "url": "https://www.novosti.rs/vesti/politika/1674085/nastavak-konstitutivne-sednice-skupstine-srbije-opozicija-danas-donosi-vaznu-odluku",
    "title": "NASTAVAK KONSTITUTIVNE SEDNICE SKUPŠTINE SRBIJE: Opozicija danas donosi važnu odluku",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253388/skupstina-srbije-danas-nastavlja-konstitutivnu-sednicu/vest",
+   "title": "Danas nastavak konstitutivne sednice Skupštine Srbije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -84,7 +90,8 @@
   "Danas nastavak konstitutivne sednice Skupštine Srbije",
   "Danas nastavak sednice Skupštine Srbije: Poznat je dnevni red i o čemu će se glasati",
   "Danas nastavak konstitutivne sednice Skupštine Srbije; Održane konsultacije – ističe rok za izjašnjavanje",
-  "NASTAVAK KONSTITUTIVNE SEDNICE SKUPŠTINE SRBIJE: Opozicija danas donosi važnu odluku"
+  "NASTAVAK KONSTITUTIVNE SEDNICE SKUPŠTINE SRBIJE: Opozicija danas donosi važnu odluku",
+  "Danas nastavak konstitutivne sednice Skupštine Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -99,8 +106,8 @@
   "izvor_x": true,
   "alt": "U Skupštini počele konsultacije o nastavku konstitutivne sednice"
  },
- "novo_od_pisanja": 2,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-24T06:02:10.788491+00:00",
  "verzija": 2
 }
