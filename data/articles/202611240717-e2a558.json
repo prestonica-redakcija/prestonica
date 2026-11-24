@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T06:17:17.877061+00:00",
- "updated": "2026-11-24T07:01:48.347062+00:00",
+ "updated": "2026-11-24T08:46:01.118594+00:00",
  "sources": [
   {
    "name": "N1",
@@ -56,12 +56,19 @@
    "url": "https://www.danas.rs/vesti/politika/skupstina-sednica/",
    "title": "Poslanici Skupštine Srbije danas nastavljaju zasedanje, biraju i članove parlamentarnih odbora",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/blog-uzivo-nastavak-sednice-skupstine-ocekuje-se-izbor-clanova-skupstinskih-odbora-i-stranih-parlamentarnih-delegacija/",
+   "title": "BLOG UŽIVO Nastavak sednice Skupštine: Očekuje se izbor članova skupštinskih odbora i stranih parlamentarnih delegacija",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Poslanici Skupštine Srbije nastavljaju zasedanje, biraju članove odbora i delegacija",
   "Poslanici nastavljaju sa konstitutivnom sednicom Skupštine Srbije: Biraju članove odbora i parlamentarnih delegacija",
-  "Poslanici Skupštine Srbije danas nastavljaju zasedanje, biraju i članove parlamentarnih odbora"
+  "Poslanici Skupštine Srbije danas nastavljaju zasedanje, biraju i članove parlamentarnih odbora",
+  "BLOG UŽIVO Nastavak sednice Skupštine: Očekuje se izbor članova skupštinskih odbora i stranih parlamentarnih delegacija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,6 +81,6 @@
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

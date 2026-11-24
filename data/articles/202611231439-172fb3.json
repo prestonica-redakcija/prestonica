@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T13:39:09.854940+00:00",
- "updated": "2026-11-24T08:30:59.703766+00:00",
+ "updated": "2026-11-24T08:46:01.118594+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -101,6 +101,12 @@
    "url": "https://informer.rs/politika/vesti/1172711/skupstina-srbije-konstitutivna-sednica",
    "title": "Nastavalja se konstitutivna sednica Skupštine Srbije: Evo šta je na dnevnom redu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10171016/konstitutivna-sednica-skupstina-srbije-cetvrti-dan",
+   "title": "SKUPŠTINA SRBIJE, DAN ČETVRTI: Na dnevnom redu konstitutivne sednice još dve tačke, evo o čemu poslanici danas raspravljaju",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -114,7 +120,8 @@
   "Danas nastavak konstitutivne sednice Skupštine Srbije",
   "Nastavak konstitutivne sednice Skupštine Srbije: Na dnevnom redu izbor članova odbora",
   "VUČIĆ I JOVANOV STIGLI U SKUPŠTINU: Danas nastavak konstitutivne sednice (VIDEO)",
-  "Nastavalja se konstitutivna sednica Skupštine Srbije: Evo šta je na dnevnom redu"
+  "Nastavalja se konstitutivna sednica Skupštine Srbije: Evo šta je na dnevnom redu",
+  "SKUPŠTINA SRBIJE, DAN ČETVRTI: Na dnevnom redu konstitutivne sednice još dve tačke, evo o čemu poslanici danas raspravljaju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -129,7 +136,7 @@
   "izvor_x": true,
   "alt": "U Skupštini počele konsultacije o nastavku konstitutivne sednice"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-24T08:30:59.703766+00:00",
  "verzija": 3

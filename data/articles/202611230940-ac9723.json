@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T08:40:57.565229+00:00",
- "updated": "2026-11-24T07:16:38.934187+00:00",
+ "updated": "2026-11-24T08:46:01.118594+00:00",
  "sources": [
   {
    "name": "N1",
@@ -154,6 +154,12 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4438540-detalj-koji-je-obelezio-sudjenje-za-danku-ilic-pet-svedoka-opisalo-istu-scenu-iz-banjskog-polja",
    "title": "Detalj koji je obeležio suđenje za Danku Ilić: Pet svedoka opisalo istu scenu iz Banjskog Polja",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/nastavlja-se-sudjenje-za-ubistvo-danke-ilic-pred-sudom-danas-svedoci-zatrazeno-novo-vestacenje-optuzenih/",
+   "title": "Nastavlja se suđenje za ubistvo Danke Ilić: Pred sudom danas svedoci, zatraženo novo veštačenje optuženih",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -176,7 +182,8 @@
   "U nastavku suđenja u slučaju ubistva Danke Ilić advokati odbrane tražili novo neuropsihijatrijsko veštačenje osumnjičenih",
   "Suđenje u slučaju Danke Ilić: Odbrana traži novo neuropsihijatrijsko veštačenje optužbenih",
   "Na današnji dan, 24. novembar",
-  "Detalj koji je obeležio suđenje za Danku Ilić: Pet svedoka opisalo istu scenu iz Banjskog Polja"
+  "Detalj koji je obeležio suđenje za Danku Ilić: Pet svedoka opisalo istu scenu iz Banjskog Polja",
+  "Nastavlja se suđenje za ubistvo Danke Ilić: Pred sudom danas svedoci, zatraženo novo veštačenje optuženih"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -189,7 +196,7 @@
   "alt": "brown wooden tool on white surface",
   "link": "https://unsplash.com/@tingeyinjurylawfirm"
  },
- "novo_od_pisanja": 2,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-23T18:22:28.432581+00:00",
  "verzija": 5

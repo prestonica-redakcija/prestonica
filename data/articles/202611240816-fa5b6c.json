@@ -27,16 +27,23 @@
  ],
  "importance": 4,
  "published": "2026-11-24T07:16:38.934187+00:00",
- "updated": "2026-11-24T07:16:38.934187+00:00",
+ "updated": "2026-11-24T08:46:01.118594+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/svet/politika/300404/nemacki-ekonomski-institut-nemacka-ostaje-najveci-neto-doprinosilac-budzetu-eu/vest",
    "title": "Nemački ekonomski institut: Nemačka ostaje najveći neto doprinosilac budžetu EU",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253399/nemacka-i-dalje-najveci-neto-doprinosilac-budzetu-eu/vest",
+   "title": "Nemački ekonomski institut: Nemačka ostaje najveći neto doprinosilac budžetu EU",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
+  "Nemački ekonomski institut: Nemačka ostaje najveći neto doprinosilac budžetu EU",
   "Nemački ekonomski institut: Nemačka ostaje najveći neto doprinosilac budžetu EU"
  ],
  "author": "Redakcija Prestonice",
@@ -48,5 +55,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Nemačka i prošle godine najveći neto uplatilac u budžet EU, 14,9 milijardi evra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -25,7 +25,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T08:30:59.703766+00:00",
+ "updated": "2026-11-24T08:46:01.118594+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -74,6 +74,30 @@
    "url": "https://www.kurir.rs/crna-hronika/10170997/oglasio-se-mup-ucenik-17-upotrebio-malokalibarsku-pusku-u-holu-skole-u-kragujevcu",
    "title": "OGLASIO SE MUP O PUCNJAVI U ŠKOLI U KRAGUJEVCU: Uhapšen sedamnaestogodišnji učenik, upotrebio malokalibarsku pušku",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/detalji-pucanjve-u-skoli-u-kragujevcu/",
+   "title": "Detalji pucanjve u školi u Kragujevcu: Učenik upao u hol za vreme nastave i zapucao, ubrzo uhapšen",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300425/mup-u-incidentu-u-skoli-u-kragujevcu-dve-osobe-povredene-uhapsen-17-godisnji-ucenik/vest",
+   "title": "MUP: U incidentu u školi u Kragujevcu dve osobe povređene, uhapšen 17-godišnji učenik",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/pucnjava-u-skoli-u-kragujevcu-uhapsen-sedamnaestogodisnji-ucenik-dve-osobe-povredene",
+   "title": "Pucnjava u školi u Kragujevcu: Uhapšen sedamnaestogodišnji učenik, dve osobe povređene",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287622/mup-u-pucnjavi-u-skoli-u-kragujevcu-dve-osobe-povredjene-uhapsen-17-godisnji-ucenik/vest",
+   "title": "Oglasio se MUP o pucnjavi u školi: Povređene dve osobe, uhapšen učenik",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -84,7 +108,11 @@
   "KURIR SAZNAJE! Ranjene dve spremačice, u njih pucao maturant kragujevačke Tehničke škole naoružan puškom",
   "MUP se oglasio o pucnjavi u Kragujevcu: Uhapšen učenik (17), pucao iz puške u holu škole, dvoje povređenih",
   "Oglasio se MUP o pucnjavi u školi u Kragujevcu: Uhapšen sedamnaestogodišnji učenik, dve osobe povređene",
-  "OGLASIO SE MUP O PUCNJAVI U ŠKOLI U KRAGUJEVCU: Uhapšen sedamnaestogodišnji učenik, upotrebio malokalibarsku pušku"
+  "OGLASIO SE MUP O PUCNJAVI U ŠKOLI U KRAGUJEVCU: Uhapšen sedamnaestogodišnji učenik, upotrebio malokalibarsku pušku",
+  "Detalji pucanjve u školi u Kragujevcu: Učenik upao u hol za vreme nastave i zapucao, ubrzo uhapšen",
+  "MUP: U incidentu u školi u Kragujevcu dve osobe povređene, uhapšen 17-godišnji učenik",
+  "Pucnjava u školi u Kragujevcu: Uhapšen sedamnaestogodišnji učenik, dve osobe povređene",
+  "Oglasio se MUP o pucnjavi u školi: Povređene dve osobe, uhapšen učenik"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -97,6 +125,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 6,
- "boost": 1.48
+ "novo_od_pisanja": 10,
+ "boost": 1.6
 }
