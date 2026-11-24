@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T22:56:10.148905+00:00",
- "updated": "2026-11-24T22:56:10.148905+00:00",
+ "updated": "2026-11-24T23:11:05.001369+00:00",
  "sources": [
   {
    "name": "N1",
@@ -45,12 +45,19 @@
    "url": "https://nova.rs/vesti/svet/stelantis-ukida-nocnu-smenu-u-fabrici-u-francuskoj-smanjuje-proizvodnju-pezoa-3008-i-5008/",
    "title": "Stelantis ukida noćnu smenu u fabrici u Francuskoj, smanjuje proizvodnju pežoa 3008 i 5008",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/stelantis-ukida-nocnu-smenu-u-fabrici-u-francuskoj-smanjuje-proizvodnju/",
+   "title": "Stelantis ukida noćnu smenu u fabrici u Francuskoj, smanjuje proizvodnju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Stelantis ukida noćnu smenu u fabrici u Francuskoj, smanjuje proizvodnju",
   "Stelantis ukida noćnu smenu u fabrici u Francuskoj, smanjuje proizvodnju",
-  "Stelantis ukida noćnu smenu u fabrici u Francuskoj, smanjuje proizvodnju pežoa 3008 i 5008"
+  "Stelantis ukida noćnu smenu u fabrici u Francuskoj, smanjuje proizvodnju pežoa 3008 i 5008",
+  "Stelantis ukida noćnu smenu u fabrici u Francuskoj, smanjuje proizvodnju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "local": false,
   "alt": "Robotic arms assembling a car chassis on a factory line",
   "link": "https://unsplash.com/@nailil"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -26,7 +26,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T22:56:10.148905+00:00",
+ "updated": "2026-11-24T23:11:05.001369+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -537,6 +537,18 @@
    "url": "https://www.b92.net/info/hronika/287851/optuzeni-za-pucnjavu-ispred-skupstine-izneo-odbranu/vest",
    "title": "Pucao na muškarca i izazvao požar ispred Skupštine: \"Žao mi je, nisam hteo nikoga da povredim\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10172024/izrael-iran-razvija-hemijsko-oruzje",
+   "title": "\"IRAN RAZVIJA HEMIJSKO ORUŽJE\": Izraelski ministar odbrane: Tel Aviv spreman za napad",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/razno/287852/novine-ucenik-pucao-u-skoli-povredjene-dve-osobe-bez-sns-u-odborima-i-gasenje-mikrofona/vest",
+   "title": "Novine: \"Učenik pucao u školi, povređene dve osobe\"; \"Bez SNS u odborima i gašenje mikrofona\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -624,7 +636,9 @@
   "Oglasio se MUP o nestaloj devojčici (14) iz Obrenovca: Evo šta je imala na sebi",
   "Novi detalji nestanka devojčice u Obrenovcu",
   "\"Može bolje...\" Mirka Vasiljević ovako odgovorila Amidžiću na pitanje o privatnom životu, pa napustila studio",
-  "Pucao na muškarca i izazvao požar ispred Skupštine: \"Žao mi je, nisam hteo nikoga da povredim\""
+  "Pucao na muškarca i izazvao požar ispred Skupštine: \"Žao mi je, nisam hteo nikoga da povredim\"",
+  "\"IRAN RAZVIJA HEMIJSKO ORUŽJE\": Izraelski ministar odbrane: Tel Aviv spreman za napad",
+  "Novine: \"Učenik pucao u školi, povređene dve osobe\"; \"Bez SNS u odborima i gašenje mikrofona\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -637,7 +651,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 6,
  "boost": 1.6,
  "prepisano": "2026-11-24T21:26:51.183491+00:00",
  "verzija": 8

@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T14:53:23.090850+00:00",
- "updated": "2026-11-24T07:16:38.934187+00:00",
+ "updated": "2026-11-24T23:11:05.001369+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -50,13 +50,20 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10170342/bozicni-post-kada-pocinje-i-kako-se-posti",
    "title": "U subotu počinje Božićni post i ovo morate da znate! Koliko traje, šta se jede i da li smete da počnete kasnije",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/razno/287849/na-danasnji-dan-25-novembar/vest",
+   "title": "Na današnji dan, 25. novembar",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Kad počinje božićni post, koliko traje i koja su pravila",
   "Božićni post donosi posebna pravila: Evo kada se jede riba, a kada se posti na vodi",
   "Danas se obeležava Sveti Mina: Evo da li postoje neka posebna pravila za ovaj dan",
-  "U subotu počinje Božićni post i ovo morate da znate! Koliko traje, šta se jede i da li smete da počnete kasnije"
+  "U subotu počinje Božićni post i ovo morate da znate! Koliko traje, šta se jede i da li smete da počnete kasnije",
+  "Na današnji dan, 25. novembar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "alt": "bread on white ceramic plate beside sliced bread on table",
   "link": "https://unsplash.com/@jediahowen"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
