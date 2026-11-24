@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T09:25:37.045666+00:00",
- "updated": "2026-11-24T14:43:59.540144+00:00",
+ "updated": "2026-11-24T20:12:16.418672+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -97,6 +97,18 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/253432/brent-pao-na-najnizi-nivo-za-skoro-tri-meseca/vest",
    "title": "Evropski indeksi u blagom padu, cena Brenta najniža za skoro tri meseca, AI u fokusu",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/300682/cena-nafte-brent-oko-90-dolara-dok-se-ceka-na-diplomatsko-resenje-u-ratu-sad-i-irana/vest",
+   "title": "Cena nafte Brent oko 90 dolara dok se čeka na diplomatsko rešenje u ratu SAD i Irana",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/cena-nafte-brent-oko-90-dolara-dok-se-ceka-na-diplomatsko-resenje-u-ratu-sad-i-irana",
+   "title": "Cena nafte Brent oko 90 dolara dok se čeka na diplomatsko rešenje u ratu SAD i Irana",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -110,7 +122,9 @@
   "Evropski indeksi u blagom padu, cena Brenta najniža za skoro tri meseca, AI u fokusu",
   "Cena nafte dostigla tromesečni minimum",
   "NAFTA NAJJEFTINIJA ZA SKORO TRI MESECA: Brent pao ispod 89 dolara",
-  "Evropski indeksi u blagom padu, cena Brenta najniža za skoro tri meseca, AI u fokusu"
+  "Evropski indeksi u blagom padu, cena Brenta najniža za skoro tri meseca, AI u fokusu",
+  "Cena nafte Brent oko 90 dolara dok se čeka na diplomatsko rešenje u ratu SAD i Irana",
+  "Cena nafte Brent oko 90 dolara dok se čeka na diplomatsko rešenje u ratu SAD i Irana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -123,7 +137,7 @@
   "alt": "graphical user interface, application",
   "link": "https://unsplash.com/@polarmermaid"
  },
- "novo_od_pisanja": 5,
+ "novo_od_pisanja": 7,
  "boost": 1.6,
  "prepisano": "2026-11-23T22:05:45.618419+00:00",
  "verzija": 2

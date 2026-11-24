@@ -27,17 +27,31 @@
  ],
  "importance": 5,
  "published": "2026-11-24T19:12:45.042672+00:00",
- "updated": "2026-11-24T19:12:45.042672+00:00",
+ "updated": "2026-11-24T20:12:16.418672+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/politika/adrijana-mesarevic-i-nikola-selakovic-podneli-ostavke-na-ministarske-funkcije-presli-u-poslanike/",
    "title": "Adrijana Mesarević i Nikola Selaković podneli ostavke na ministarske funkcije, prešli u poslanike",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10171924/selakovic-i-mesarovic-podneli-ostavke-na-mesta-ministara",
+   "title": "NISU VIŠE MINISTRI: Adrijana Mesarović i Nikola Selaković podneli ostavke na ministarske funkcije",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/selakovic-i-mesarovic-podneli-ostavke-na-ministarske-funkcije/",
+   "title": "Selaković i Mesarović podneli ostavke na ministarske funkcije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Adrijana Mesarević i Nikola Selaković podneli ostavke na ministarske funkcije, prešli u poslanike"
+  "Adrijana Mesarević i Nikola Selaković podneli ostavke na ministarske funkcije, prešli u poslanike",
+  "NISU VIŠE MINISTRI: Adrijana Mesarović i Nikola Selaković podneli ostavke na ministarske funkcije",
+  "Selaković i Mesarović podneli ostavke na ministarske funkcije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +63,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Vlada_Srbije_ulaz_5.jpg",
   "alt": "Mesarević i Selaković napustili Vladu, mandati u Skupštini potvrđeni"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

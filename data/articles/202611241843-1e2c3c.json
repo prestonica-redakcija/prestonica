@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T17:43:21.511848+00:00",
- "updated": "2026-11-24T18:13:25.121786+00:00",
+ "updated": "2026-11-24T20:12:16.418672+00:00",
  "sources": [
   {
    "name": "N1",
@@ -64,6 +64,18 @@
    "url": "https://www.kurir.rs/vesti/politika/10171850/apelacioni-sud-ukinuo-resenje-kojim-je-pomilovani-za-gazenje-studentkinje-sonje-ponjavic-pusten-na-s",
    "title": "Apelacioni sud ukinuo rešenje kojim je pomilovani za gaženje studentkinje Sonje Ponjavić pušten na slobodu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/otac-studentkinje-sonje-ponjavic-odluka-suda-bi-mogla-da-dovede-u-pitanje-predsednicko-pomilovanje",
+   "title": "Otac studentkinje Sonje Ponjavić: Odluka suda bi mogla da dovede u pitanje predsedničko pomilovanje",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4439187-apelacioni-sud-ukinuo-resenje-o-ukidanju-pritvora-vozacu-kojeg-je-pomilovao-vucic",
+   "title": "Apelacioni sud ukinuo rešenje o ukidanju pritvora vozaču kojeg je pomilovao Vučić",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -71,7 +83,9 @@
   "Apelacioni sud vratio na ponovno odlučivanje rešenje o ukidanju pritvora pomilovanom Marku Pavloviću kojem se sudilo zbog gaženja studentkinje",
   "Apelacioni sud ukinuo rešenje kojim je pomilovani za gaženje studentkinje Sonje Ponjavić pušten na slobodu",
   "Apelacioni sud ukinuo odluku o ukidanju pritvora optuženom za pokušaj ubistva Sonje Ponjavić",
-  "Apelacioni sud ukinuo rešenje kojim je pomilovani za gaženje studentkinje Sonje Ponjavić pušten na slobodu"
+  "Apelacioni sud ukinuo rešenje kojim je pomilovani za gaženje studentkinje Sonje Ponjavić pušten na slobodu",
+  "Otac studentkinje Sonje Ponjavić: Odluka suda bi mogla da dovede u pitanje predsedničko pomilovanje",
+  "Apelacioni sud ukinuo rešenje o ukidanju pritvora vozaču kojeg je pomilovao Vučić"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -83,6 +97,6 @@
   "local": true,
   "alt": "Apelacioni sud vratio na ponovno odlučivanje ukidanje pritvora Marku Pavloviću"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

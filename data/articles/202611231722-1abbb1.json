@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T16:22:56.449660+00:00",
- "updated": "2026-11-24T19:42:36.931926+00:00",
+ "updated": "2026-11-24T20:12:16.418672+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -69,6 +69,12 @@
    "url": "https://www.tanjug.rs/svet/politika/300673/poljska-pozvala-ruskog-ambasadora-zbog-upada-tri-ruske-krstarece-rakete/vest",
    "title": "Poljska pozvala ruskog ambasadora zbog upada tri ruske krstareće rakete",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10171914/poljska-pozvala-ruskog-ambasadora-zbog-upada-raketa-u-njen-vazdusni-prostor",
+   "title": "RUSKI AMBASADOR HITNO POZVAN NA RAZGOVOR! Članica NATO uputila oštar zahtev Moskvi nakon upada raketa",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -77,7 +83,8 @@
   "NATO šalje avion za rano upozoravanje u Poljsku nakon pada ruskih raketa",
   "NATO PODIGAO UZBUNU NA ISTOČNOM KRILU! Nakon pada ruskih raketa doneta hitna odluka: U akciju kreću \"oči Alijanse na nebu\"",
   "Zalevski: NATO šalje avion za rano upozoravanje u Poljsku nakon pada ruskih raketa",
-  "Poljska pozvala ruskog ambasadora zbog upada tri ruske krstareće rakete"
+  "Poljska pozvala ruskog ambasadora zbog upada tri ruske krstareće rakete",
+  "RUSKI AMBASADOR HITNO POZVAN NA RAZGOVOR! Članica NATO uputila oštar zahtev Moskvi nakon upada raketa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -90,6 +97,6 @@
   "alt": "six fighter jets",
   "link": "https://unsplash.com/@uxgun"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

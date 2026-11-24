@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T19:42:36.931926+00:00",
- "updated": "2026-11-24T19:42:36.931926+00:00",
+ "updated": "2026-11-24T20:12:16.418672+00:00",
  "sources": [
   {
    "name": "N1",
@@ -39,10 +39,17 @@
    "url": "https://nova.rs/vesti/svet/pet-clanova-posade-poginulo-u-padu-helikoptera-ratnog-vazduhoplovstva-turske-tokom-skolskog-leta/",
    "title": "Pet članova posade poginulo u padu helikoptera Ratnog vazduhoplovstva Turske tokom školskog leta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/srusen-helikopter-turska-pet-poginulo/",
+   "title": "Pet članova posade poginulo u padu helikoptera Ratnog vazduhoplovstva Turske tokom školskog leta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Petoro vojnika poginulo u padu helikoptera u Turskoj",
+  "Pet članova posade poginulo u padu helikoptera Ratnog vazduhoplovstva Turske tokom školskog leta",
   "Pet članova posade poginulo u padu helikoptera Ratnog vazduhoplovstva Turske tokom školskog leta"
  ],
  "author": "Redakcija Prestonice",
@@ -55,5 +62,7 @@
   "local": false,
   "alt": "brown boat on body of water near brown concrete building during daytime",
   "link": "https://unsplash.com/@ana_gard"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
