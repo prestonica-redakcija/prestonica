@@ -29,17 +29,24 @@
  ],
  "importance": 3,
  "published": "2026-11-23T23:34:58.487330+00:00",
- "updated": "2026-11-23T23:34:58.487330+00:00",
+ "updated": "2026-11-24T10:45:26.187919+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/studenti-glume-akademije-umetnosti-u-beogradu-osvojili-specijalnu-nagradu-na-festivalu-u-moskvi",
    "title": "Studenti glume Akademije umetnosti u Beogradu osvojili specijalnu nagradu na festivalu u Moskvi",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/kultura/specijalno-priznanje-studentima-akademije-umetnosti-u-moskvi/",
+   "title": "Veliki uspeh studenata glume: Specijalno priznanje studentima Akademije umetnosti u Moskvi",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Studenti glume Akademije umetnosti u Beogradu osvojili specijalnu nagradu na festivalu u Moskvi"
+  "Studenti glume Akademije umetnosti u Beogradu osvojili specijalnu nagradu na festivalu u Moskvi",
+  "Veliki uspeh studenata glume: Specijalno priznanje studentima Akademije umetnosti u Moskvi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "alt": "silhouette of three performers on stage",
   "link": "https://unsplash.com/@kyleunderscorehead"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -32,7 +32,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T06:17:17.877061+00:00",
- "updated": "2026-11-24T08:30:59.703766+00:00",
+ "updated": "2026-11-24T10:45:26.187919+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -51,12 +51,19 @@
    "url": "https://nova.rs/magazin/lifestyle/danas-je-mratindan-i-evo-sta-znaci-ako-je-na-ovaj-praznik-suncano-vreme/",
    "title": "Danas je Mratindan i evo šta znači ako je na ovaj praznik sunčano vreme",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10171170/narodna-verovanja-o-vremenu-na-mratindan",
+   "title": "Šta znači kad na Mratindan sija sunce: Naši preci su verovali da ovaj dan otkriva kakva na zima čeka",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Danas se slavi Mratindan: Verovanja o prazniku koji najavljuje zimu",
   "DANAS SLAVIMO MRATINDAN: Jednu stvar nikako ne smete da uradite ako želite mir i blagostanje u kući! Narodno verovanje najavljuje kakva nas zima čeka",
-  "Danas je Mratindan i evo šta znači ako je na ovaj praznik sunčano vreme"
+  "Danas je Mratindan i evo šta znači ako je na ovaj praznik sunčano vreme",
+  "Šta znači kad na Mratindan sija sunce: Naši preci su verovali da ovaj dan otkriva kakva na zima čeka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "local": true,
   "alt": "Srpska pravoslavna crkva danas slavi Svetog Stefana Dečanskog i Svetog Minu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

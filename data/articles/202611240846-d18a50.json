@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T07:46:23.419063+00:00",
- "updated": "2026-11-24T09:30:42.550620+00:00",
+ "updated": "2026-11-24T10:45:26.187919+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -52,13 +52,27 @@
    "url": "https://nova.rs/vesti/politika/studenti-u-skupstini-srbije-predstavnici-studentskog-pokreta-pratice-danasnju-sednicu-sa-galerije-video/",
    "title": "Studenti prate današnju sednicu sa galerije: Čupić im se zahvalio na prisustvu, poslanici SNS negodovali VIDEO",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674153/brnabic-pauzi-pocetku-skupstinskog-zasedanja-cetiri-dana-nisu-uspeli-spreme-sednicu-moja-srbijo-video",
+   "title": "BRNABIĆ O PAUZI NA POČETKU SKUPŠTINSKOG ZASEDANjA: Za četiri dana nisu uspeli da se spreme za sednicu, e moja Srbijo! (VIDEO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300377/nastavljena-konstitutivna-sednica-skupstine-srbije-posle-jednosatne-pauze/vest",
+   "title": "Nastavljena konstitutivna sednica Skupštine Srbije posle jednosatne pauze",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "OKO 60 STUDENATA DANAS U SKUPŠTINI: Evo ko im je dao zeleno svetlo, pratiće zasedanje iz galerije",
   "NASTAVAK KONSTITUTIVNE SEDNICE SKUPŠTINE: Proglašena pauza sat vremena, nisu spremni materijali (VIDEO)",
   "Četvrti dan konstitutivne sednice Skupštine: Čupić pozdravio studente koji sa galerije prate zasedanje, proglašena pauza jer još nisu spremni materijali",
-  "Studenti prate današnju sednicu sa galerije: Čupić im se zahvalio na prisustvu, poslanici SNS negodovali VIDEO"
+  "Studenti prate današnju sednicu sa galerije: Čupić im se zahvalio na prisustvu, poslanici SNS negodovali VIDEO",
+  "BRNABIĆ O PAUZI NA POČETKU SKUPŠTINSKOG ZASEDANjA: Za četiri dana nisu uspeli da se spreme za sednicu, e moja Srbijo! (VIDEO)",
+  "Nastavljena konstitutivna sednica Skupštine Srbije posle jednosatne pauze"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +87,6 @@
   "izvor_x": true,
   "alt": "Oko 60 studenata prati nastavak sednice Skupštine Srbije sa galerije"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

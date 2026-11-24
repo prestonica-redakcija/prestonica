@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T09:15:46.899242+00:00",
- "updated": "2026-11-24T09:15:46.899242+00:00",
+ "updated": "2026-11-24T10:45:26.187919+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://nova.rs/vesti/politika/bakic-mozemo-obecati-da-ce-vucic-imati-posteno-i-javno-sudjenje/",
    "title": "Bakić: Možemo obećati da će Vučić imati pošteno i javno suđenje",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10171095/jovo-bakic-o-hapsenju-vucica",
+   "title": "\"VUČIĆ ĆE BITI UHAPŠEN AKO PROTIV NJEGA BUDE DOKAZA\" Jovo Bakić: Možemo obećati da će imati javno i pošteno suđenje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Bakić: Možemo obećati da će Vučić imati pošteno i javno suđenje",
-  "Bakić: Možemo obećati da će Vučić imati pošteno i javno suđenje"
+  "Bakić: Možemo obećati da će Vučić imati pošteno i javno suđenje",
+  "\"VUČIĆ ĆE BITI UHAPŠEN AKO PROTIV NJEGA BUDE DOKAZA\" Jovo Bakić: Možemo obećati da će imati javno i pošteno suđenje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Jovo_Baki%C4%87_(2015).jpg",
   "osoba": "Jovo Bakić",
   "alt": "Bakić: Vučić neće biti uhapšen kao politički protivnik, već samo ako ima dokaza"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

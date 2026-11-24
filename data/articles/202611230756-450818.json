@@ -33,17 +33,24 @@
  ],
  "importance": 6,
  "published": "2026-11-23T06:56:54.841202+00:00",
- "updated": "2026-11-23T06:56:54.841202+00:00",
+ "updated": "2026-11-24T10:45:26.187919+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1673724/dodiku-mladjem-mandat-vladu-porucio-prvog-dana-ministri-raditi-stabilnim-platama-penzijama-zdravstvenoj-zastiti-obrazovanj",
    "title": "DODIKU MLAĐEM MANDAT ZA VLADU: Poručio da će od prvog dana ministri raditi na stabilnim platama, penzijama, zdravstvenoj zaštiti i obrazovanj",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/igor-dodik-konsultacije-o-sastavu-nove-vlade-republike-srpske/",
+   "title": "Igor Dodik počeo konsultacije o sastavu nove Vlade Republike Srpske",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "DODIKU MLAĐEM MANDAT ZA VLADU: Poručio da će od prvog dana ministri raditi na stabilnim platama, penzijama, zdravstvenoj zaštiti i obrazovanj"
+  "DODIKU MLAĐEM MANDAT ZA VLADU: Poručio da će od prvog dana ministri raditi na stabilnim platama, penzijama, zdravstvenoj zaštiti i obrazovanj",
+  "Igor Dodik počeo konsultacije o sastavu nove Vlade Republike Srpske"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "alt": "a large building with towers",
   "link": "https://unsplash.com/@nelsonwongisme"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

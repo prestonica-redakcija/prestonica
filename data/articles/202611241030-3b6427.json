@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T09:30:42.550620+00:00",
- "updated": "2026-11-24T09:30:42.550620+00:00",
+ "updated": "2026-11-24T10:45:26.187919+00:00",
  "sources": [
   {
    "name": "N1",
@@ -39,11 +39,25 @@
    "url": "https://www.danas.rs/vesti/drustvo/povredjeno-sest-osoba-u-sudaru-kombija-i-automobila-kod-zablja/",
    "title": "Povređeno šest osoba u sudaru kombija i automobila kod Žablja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300450/sest-osoba-povredeno-u-sudaru-kombija-i-automobila-kod-zablja/vest",
+   "title": "Šest osoba povređeno u sudaru kombija i automobila kod Žablja",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10171196/6-povredjenih-u-sudaru-u-djurdjevu-kod-zablja",
+   "title": "6 POVREĐENIH U ĐURĐEVU KOD ŽABLJA: Težak sudar kombija i automobila (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Šest osoba povređeno u sudaru kombija i automobila kod Žablja",
-  "Povređeno šest osoba u sudaru kombija i automobila kod Žablja"
+  "Povređeno šest osoba u sudaru kombija i automobila kod Žablja",
+  "Šest osoba povređeno u sudaru kombija i automobila kod Žablja",
+  "6 POVREĐENIH U ĐURĐEVU KOD ŽABLJA: Težak sudar kombija i automobila (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +69,7 @@
   "local": false,
   "alt": "a car that has crashed into another car",
   "link": "https://unsplash.com/@anthonymaw"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

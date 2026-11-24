@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T08:30:59.703766+00:00",
- "updated": "2026-11-24T08:30:59.703766+00:00",
+ "updated": "2026-11-24T10:45:26.187919+00:00",
  "sources": [
   {
    "name": "N1",
@@ -43,11 +43,18 @@
    "url": "https://nova.rs/vesti/hronika/vrhovno-javno-tuzilastvo-obezbedilo-da-srbija-od-francuske-dobije-skaj-prepiske/",
    "title": "Vrhovno javno tužilaštvo obezbedilo da Srbija od Francuske dobije Skaj prepiske",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/danas-saznaje-srbija-dobija-od-francuske-kompletnu-skaj-komunikaciju-sa-razgovorima-kriminalaca/",
+   "title": "Danas saznaje: Srbija dobija od Francuske kompletnu SKAJ komunikaciju sa razgovorima kriminalaca",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Danas: Vrhovno javno tužilaštvo obezbedilo da Srbija od Francuske dobije Skaj prepiske",
-  "Vrhovno javno tužilaštvo obezbedilo da Srbija od Francuske dobije Skaj prepiske"
+  "Vrhovno javno tužilaštvo obezbedilo da Srbija od Francuske dobije Skaj prepiske",
+  "Danas saznaje: Srbija dobija od Francuske kompletnu SKAJ komunikaciju sa razgovorima kriminalaca"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vrhovno tužilaštvo: Srbija ponovo dobija kompletnu Skaj dokumentaciju iz Francuske"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

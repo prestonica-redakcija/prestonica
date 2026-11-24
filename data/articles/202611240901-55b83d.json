@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T09:30:42.550620+00:00",
+ "updated": "2026-11-24T10:45:26.187919+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -77,6 +77,24 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4438666-prve-fotografije-hapsenja-bivse-poslanice-nikoline-sljivic-zajedno-sa-njom-pao-i-naser-oric",
    "title": "Prve fotografije hapšenja bivše poslanice Nikoline Šljivić: Zajedno sa njom \"pao\" i Naser Orić",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/sipa-o-hapsenju-nasera-orica/",
+   "title": "Oglasila se SIPA o hapšenju Nasera Orića",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10171137/ko-je-naser-oric-cuvao-milosevica-hapsio-draskovica-danas-uhapsen",
+   "title": "Čuvao Miloševića, hapsio Draškovića, a onda završio na poternici Srbije: Ko je Naser Orić koji je danas uhapšen u velikoj akciji?",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/region/bosna-i-hercegovina/10171215/snimak-sprovodjenja-nikoline-sljivic-u-akciji-u-kojoj-je-uhapsen-i-naser-oric",
+   "title": "SNIMAK SPROVOĐENJA NIKOLINE ŠLJIVIĆ U AKCIJI \"EMISAR\" U KOJOJ JE PAO I NASER ORIĆ! Ovako je bivša narodna poslanica uhapšena u Istočnom Sarajevu (FOTO, VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -86,7 +104,10 @@
   "SIPA pretresa objekte Nasera Orića, sumnja se da je pomogao osumnjičenom za pokušaj ubistva",
   "SIPA PRETRESA OBJEKTE NASERA ORIĆA I NIKOLINE ŠLJIVIĆ! U toku velika policijska akcija u BiH",
   "Uhapšeni Naser Orić i bivša poslanica Nikolina Šljivić u akciji policije širom BiH",
-  "Prve fotografije hapšenja bivše poslanice Nikoline Šljivić: Zajedno sa njom \"pao\" i Naser Orić"
+  "Prve fotografije hapšenja bivše poslanice Nikoline Šljivić: Zajedno sa njom \"pao\" i Naser Orić",
+  "Oglasila se SIPA o hapšenju Nasera Orića",
+  "Čuvao Miloševića, hapsio Draškovića, a onda završio na poternici Srbije: Ko je Naser Orić koji je danas uhapšen u velikoj akciji?",
+  "SNIMAK SPROVOĐENJA NIKOLINE ŠLJIVIĆ U AKCIJI \"EMISAR\" U KOJOJ JE PAO I NASER ORIĆ! Ovako je bivša narodna poslanica uhapšena u Istočnom Sarajevu (FOTO, VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -99,6 +120,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Promenada_Isto%C4%8Dno_Sarajevo.jpg",
   "alt": "SIPA i policija RS uhapsile Nasera Orića i Nikolinu Šljivić u akciji širom BiH"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 7,
+ "boost": 1.56
 }

@@ -36,7 +36,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T10:55:00.391086+00:00",
- "updated": "2026-11-23T10:55:00.391086+00:00",
+ "updated": "2026-11-24T10:45:26.187919+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -49,11 +49,32 @@
    "url": "https://n1info.rs/vesti/skupstina-grada-sat-i-po-utvrdjivala-dnevni-red-odbijeni-svi-predlozi-opozicije-za-dopunu/",
    "title": "Skupština grada sat i po utvrđivala dnevni red: Odbijeni svi predlozi opozicije za dopunu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300470/skupstina-grada-nisa-o-rebalansu-buzeta/vest",
+   "title": "Skupština Grada Niša o rebalansu bužeta",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4438715-skupstina-grada-nisa-o-rebalansu-budzeta",
+   "title": "Skupština Grada Niša o rebalansu budžeta",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/sednica-skupstine-nisa-pocela-bez-vecine-opozicije-na-dnevnom-redu-i-rebalans-budzeta/",
+   "title": "Sednica Skupštine Niša počela bez većine opozicije, na dnevnom redu i rebalans budžeta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Odbornici Skupštine grada usvojili dnevni red sednice, odbačeni predlozi opozicije",
-  "Skupština grada sat i po utvrđivala dnevni red: Odbijeni svi predlozi opozicije za dopunu"
+  "Skupština grada sat i po utvrđivala dnevni red: Odbijeni svi predlozi opozicije za dopunu",
+  "Skupština Grada Niša o rebalansu bužeta",
+  "Skupština Grada Niša o rebalansu budžeta",
+  "Sednica Skupštine Niša počela bez većine opozicije, na dnevnom redu i rebalans budžeta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,5 +86,7 @@
   "local": false,
   "alt": "Rows of wooden chairs with cane backs and leather desks in a legislative chamber",
   "link": "https://unsplash.com/@kel_foto"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

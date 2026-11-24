@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T13:09:05.490848+00:00",
- "updated": "2026-11-23T15:53:13.325699+00:00",
+ "updated": "2026-11-24T10:45:26.187919+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -68,6 +68,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/hapsenje-silovanje-smederevo/",
    "title": "Uhapšen osumnjičeni za silovanje u Smederevu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300469/tuzilastvo-trazi-pritvor-za-osumnjicenog-da-je-silovao-i-pokrao-zenu-u-smederevu/vest",
+   "title": "Tužilaštvo traži pritvor za osumnjičenog da je silovao i pokrao ženu u Smederevu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -77,7 +83,8 @@
   "Policija u Smederevu uhapsila muškarca osumnjičenog za silovanje",
   "Uhapšen muškarac u Smederevu osumnjičen za silovanje",
   "Manijak u Smederevu presreo ženu dok je išla na posao, uvukao je u napuštenu kuću i silovao",
-  "Uhapšen osumnjičeni za silovanje u Smederevu"
+  "Uhapšen osumnjičeni za silovanje u Smederevu",
+  "Tužilaštvo traži pritvor za osumnjičenog da je silovao i pokrao ženu u Smederevu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -90,8 +97,8 @@
   "alt": "cars parked in front of store during night time",
   "link": "https://unsplash.com/@hiepdaiduong93"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-23T15:53:13.325699+00:00",
  "verzija": 2
 }

@@ -38,7 +38,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T09:45:53.910539+00:00",
- "updated": "2026-11-24T09:45:53.910539+00:00",
+ "updated": "2026-11-24T10:45:26.187919+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -51,11 +51,18 @@
    "url": "https://www.kurir.rs/region/bosna-i-hercegovina/10171020/ko-je-djordje-zdrale-naser-oric",
    "title": "KO JE ĐORĐE ŽDRALE, ZBOG ČIJEG JE NAVODNOG SKRIVANJA UHAPŠEN NASER ORIĆ? Iz blindiranog \"audija A8\" ranio Pandurevića pred detetom u Sarajevu, pa pobegao (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/ko-je-odbegli-djordje-zdrale-kriminalac-zbog-kojeg-je-uhapsen-naser-oric-osudjen-na-20-godina-zbog-ubistva-mauzera-ranio-muskarca-pred-detetom/",
+   "title": "Ko je odbegli Đorđe Ždrale, kriminalac zbog kojeg je uhapšen Naser Orić: Osuđen na 20 godina zbog ubistva Mauzera, ranio muškarca pred detetom",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Ko je Đorđe Ždrale: Od ubistva Mauzera do bijega zbog kojeg su danas uhapšeni Orić i Šljivić",
-  "KO JE ĐORĐE ŽDRALE, ZBOG ČIJEG JE NAVODNOG SKRIVANJA UHAPŠEN NASER ORIĆ? Iz blindiranog \"audija A8\" ranio Pandurevića pred detetom u Sarajevu, pa pobegao (FOTO)"
+  "KO JE ĐORĐE ŽDRALE, ZBOG ČIJEG JE NAVODNOG SKRIVANJA UHAPŠEN NASER ORIĆ? Iz blindiranog \"audija A8\" ranio Pandurevića pred detetom u Sarajevu, pa pobegao (FOTO)",
+  "Ko je odbegli Đorđe Ždrale, kriminalac zbog kojeg je uhapšen Naser Orić: Osuđen na 20 godina zbog ubistva Mauzera, ranio muškarca pred detetom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,5 +74,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Isto%C4%8Dno_Sarajevo.jpg",
   "alt": "Akcija SIPA zbog bekstva Đorđa Ždrala: uhapšeni Naser Orić i Nikolina Šljivić"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

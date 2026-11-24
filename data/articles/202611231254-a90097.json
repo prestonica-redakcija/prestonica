@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T11:54:36.696000+00:00",
- "updated": "2026-11-24T08:16:13.275771+00:00",
+ "updated": "2026-11-24T10:45:26.187919+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -93,6 +93,18 @@
    "url": "https://www.telegraf.rs/4438299-skupstina-srbije-nova-sednica-poslanici-biraju-clanove-odbora",
    "title": "Skupština Srbije, još jedan važan dan: Poslanici biraju članove odbora, čeka se i odluka opozicije o učešću",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/bbc-news-serbian/skupstina-srbije-bira-odbore/",
+   "title": "Skupština Srbije bira odbore",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674107/konstitutivna-sednica-skupstine-vucic-doneli-smo-odluku-ucestvujemo-radu-odbora-video",
+   "title": "KONSTITUTIVNA SEDNICA SKUPŠTINE Vučić: Doneli smo odluku da ne učestvujemo u radu odbora (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -106,7 +118,9 @@
   "U Skupštini Srbije počele konsultacije sa samostalnim poslanicima o odborima",
   "U Skupštini Srbije počele konsultacije sa samostalnim poslanicima o odborima",
   "SKUPŠTINA SRBIJE: Počele konsultacije sa samostalnim poslanicima o odborima",
-  "Skupština Srbije, još jedan važan dan: Poslanici biraju članove odbora, čeka se i odluka opozicije o učešću"
+  "Skupština Srbije, još jedan važan dan: Poslanici biraju članove odbora, čeka se i odluka opozicije o učešću",
+  "Skupština Srbije bira odbore",
+  "KONSTITUTIVNA SEDNICA SKUPŠTINE Vučić: Doneli smo odluku da ne učestvujemo u radu odbora (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -119,7 +133,7 @@
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-23T15:38:13.610731+00:00",
  "verzija": 3

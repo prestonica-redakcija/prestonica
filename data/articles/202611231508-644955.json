@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T14:08:52.547352+00:00",
- "updated": "2026-11-24T09:45:53.910539+00:00",
+ "updated": "2026-11-24T10:45:26.187919+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -61,6 +61,24 @@
    "url": "https://www.b92.net/biz/srbija/vesti/287643/od-danas-mozete-da-se-provozate-otvorena-nova-deonica-dunavskog-koridora-duga-25-kilometara/vest",
    "title": "Od danas možete da se provozate: Otvorena nova deonica Dunavskog koridora duga 2,5 kilometara",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/300449/u-saobracaj-pusteno-jos-25-km-dunavskog-koridora-povezano-64-km-brze-saobracajnice/vest",
+   "title": "U saobraćaj pušteno još 2,5 km Dunavskog koridora, povezano 64 km brze saobraćajnice",
+   "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253437/pusteno-u-saobracaj-jos-256-kilometara-dunavskog-koridora/vest",
+   "title": "U saobraćaj pušteno još 2,5 kilometara Dunavskog koridora, povezano 64 kilometara brze saobraćajnice",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/otvorena-nova-deonica-dunavskog-koridora-do-zavrsetka-jos-cetiri-kilometra/",
+   "title": "Otvorena deonica Dunavskog koridora duga 2,5 kilometara, do završetka još četiri kilometra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -68,7 +86,10 @@
   "Ovako izgleda nova deonica Dunavskog koridora: Od Beograda do Golupca stizaće se za samo 80 minuta",
   "Otvara se za saobraćaj nova deonica Dunavskog koridora: Evo kako izgleda VIDEO",
   "Danas se otvara za saobraćaj nova deonica Dunavskog koridora od 2,56 kilometara",
-  "Od danas možete da se provozate: Otvorena nova deonica Dunavskog koridora duga 2,5 kilometara"
+  "Od danas možete da se provozate: Otvorena nova deonica Dunavskog koridora duga 2,5 kilometara",
+  "U saobraćaj pušteno još 2,5 km Dunavskog koridora, povezano 64 km brze saobraćajnice",
+  "U saobraćaj pušteno još 2,5 kilometara Dunavskog koridora, povezano 64 kilometara brze saobraćajnice",
+  "Otvorena deonica Dunavskog koridora duga 2,5 kilometara, do završetka još četiri kilometra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,6 +101,6 @@
   "local": true,
   "alt": "Nova deonica Dunavskog koridora od 2,56 kilometara sutra se otvara za saobraćaj"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }

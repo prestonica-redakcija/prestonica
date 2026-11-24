@@ -27,7 +27,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T09:30:42.550620+00:00",
+ "updated": "2026-11-24T10:45:26.187919+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -136,6 +136,42 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4438655-oglasio-se-gradonacelnik-kragujevca-nakon-pucnjave-u-prvoj-tehnickoj-skoli",
    "title": "Oglasio se gradonačelnik Kragujevca nakon pucnjave u Prvoj tehničkoj školi",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300462/prva-tehnicka-skola-u-kragujevcu-svi-ucenici-bezbedno-napustili-skoludanas-nece-biti-nastave/vest",
+   "title": "Prva tehnička škola u Kragujevcu: Svi učenici bezbedno napustili školu,danas neće biti nastave",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287654/oglasila-se-prva-tehnicka-skola-u-kragujevcu-svi-ucenici-su-bezbedno-napustili-skolu-danas-nece-biti-nastave/vest",
+   "title": "Oglasila se Prva tehnička škola u Kragujevcu: Svi učenici su bezbedno napustili školu, danas neće biti nastave",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10171117/pucnjava-u-skoli-u-kragujevcu-kako-je-sprecen-krvavi-pir",
+   "title": "NAJNOVIJI DETALJI PUCNJAVE U ŠKOLI U KRAGUJEVCU: Maturant posle ranjavanja tetkice hteo još da puca, a onda se desilo OVO!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/ucenik-pucao-iz-oceve-puske-novi-detalji-pucnjave-u-tehnickoj-skoli-u-kragujevcu/",
+   "title": "Učenik (17) pucao iz očeve puške: Novi detalji pucnjave u Tehničkoj školi u Kragujevcu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4438727-dva-sata-pre-pucnjave-na-viberu-objavio-sliku-sa-puskom-i-2411-ministar-stigao-u-skolu-u-kragujevcu",
+   "title": "Dva sata pre pucnjave na Viberu objavio sliku sa puškom i \"24.11\"! Ministar stigao u školu u Kragujevcu",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/maloletnik-17-koji-je-pucao-u-skoli-u-kragujevcu-nekoliko-sati-pre-napada-objavio-fotografiju-sa-puskom-na-drustvenim-mrezama-dve-osobe-povredjene/",
+   "title": "Maloletnik (17) koji je pucao u školi u Kragujevcu nekoliko sati pre napada objavio fotografiju sa puškom na društvenim mrežama: Dve osobe povređene",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -156,7 +192,13 @@
   "Pucnjava u školi u Kragujevcu: Učenik ranio zaposlenu",
   "Stanković: Saosećam sa povređenima u pucnjavi u Kragujevcu, u kontaktu smo sa školom",
   "Ministar Dejan Vuk Stanković za Danas: Policija uhapsila napadača, saosećam sa povređenima",
-  "Oglasio se gradonačelnik Kragujevca nakon pucnjave u Prvoj tehničkoj školi"
+  "Oglasio se gradonačelnik Kragujevca nakon pucnjave u Prvoj tehničkoj školi",
+  "Prva tehnička škola u Kragujevcu: Svi učenici bezbedno napustili školu,danas neće biti nastave",
+  "Oglasila se Prva tehnička škola u Kragujevcu: Svi učenici su bezbedno napustili školu, danas neće biti nastave",
+  "NAJNOVIJI DETALJI PUCNJAVE U ŠKOLI U KRAGUJEVCU: Maturant posle ranjavanja tetkice hteo još da puca, a onda se desilo OVO!",
+  "Učenik (17) pucao iz očeve puške: Novi detalji pucnjave u Tehničkoj školi u Kragujevcu",
+  "Dva sata pre pucnjave na Viberu objavio sliku sa puškom i \"24.11\"! Ministar stigao u školu u Kragujevcu",
+  "Maloletnik (17) koji je pucao u školi u Kragujevcu nekoliko sati pre napada objavio fotografiju sa puškom na društvenim mrežama: Dve osobe povređene"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -169,7 +211,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 9,
  "boost": 1.6,
  "prepisano": "2026-11-24T09:01:04.718161+00:00",
  "verzija": 2

@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T09:45:53.910539+00:00",
- "updated": "2026-11-24T09:45:53.910539+00:00",
+ "updated": "2026-11-24T10:45:26.187919+00:00",
  "sources": [
   {
    "name": "N1",
@@ -45,11 +45,25 @@
    "url": "https://www.danas.rs/vesti/drustvo/bez-pritvora-za-uhapsene-u-slucaju-pio-backa-palanka/",
    "title": "Bez pritvora za uhapšene u slučaju PIO Bačka Palanka",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/visi-sud-u-novom-sadu-bez-pritvora-za-uhapsene-u-slucaju-pio-backa-palanka",
+   "title": "Viši sud u Novom Sadu: Bez pritvora za uhapšene u slučaju PIO Bačka Palanka",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/zaposlili-ga-u-pio-fondu-iako-su-znali-da-ce-raditi-u-stranackim-prostorijama-sns-bez-pritvora-za-uhapsene-u-slucaju-pio-backa-palanka/",
+   "title": "Zaposlili ga u PIO fondu iako su znali da će raditi u stranačkim prostorijama SNS: Bez pritvora za uhapšene u slučaju PIO Bačka Palanka",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Viši sud u Novom Sadu: Odbijen predlog da se odredi pritvor direktoru PIO fonda u Bačkoj Palanci i rukovodiocu iz Opštinske uprave Bač",
-  "Bez pritvora za uhapšene u slučaju PIO Bačka Palanka"
+  "Bez pritvora za uhapšene u slučaju PIO Bačka Palanka",
+  "Viši sud u Novom Sadu: Bez pritvora za uhapšene u slučaju PIO Bačka Palanka",
+  "Zaposlili ga u PIO fondu iako su znali da će raditi u stranačkim prostorijama SNS: Bez pritvora za uhapšene u slučaju PIO Bačka Palanka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +75,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Ba%C4%8Dka_Palanka-Srbija.JPG",
   "alt": "Sud odbio pritvor za osumnjičene u slučaju PIO fonda u Bačkoj Palanci"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

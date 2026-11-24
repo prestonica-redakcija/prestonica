@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T09:45:53.910539+00:00",
- "updated": "2026-11-24T09:45:53.910539+00:00",
+ "updated": "2026-11-24T10:45:26.187919+00:00",
  "sources": [
   {
    "name": "N1",
@@ -43,11 +43,18 @@
    "url": "https://www.danas.rs/svet/kina-svemirska-misija/",
    "title": "Kina predstavila posadu za novu svemirsku misiju, u ekipi prvi put jedan stranac",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/300406/pakistanski-astronaut-prvi-put-leti-na-kinesku-svemirsku-stanicu/vest",
+   "title": "Pakistanski astronaut prvi put leti na kinesku svemirsku stanicu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Kina predstavila posadu za novu svemirsku misiju, u ekipi prvi put jedan stranac",
-  "Kina predstavila posadu za novu svemirsku misiju, u ekipi prvi put jedan stranac"
+  "Kina predstavila posadu za novu svemirsku misiju, u ekipi prvi put jedan stranac",
+  "Pakistanski astronaut prvi put leti na kinesku svemirsku stanicu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "alt": "a tall building with a crane on top of it",
   "link": "https://unsplash.com/@starsang"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
