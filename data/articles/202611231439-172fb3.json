@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T13:39:09.854940+00:00",
- "updated": "2026-11-24T19:42:36.931926+00:00",
+ "updated": "2026-11-24T20:42:13.217039+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -143,6 +143,12 @@
    "url": "https://www.telegraf.rs/4439153-studentska-lista-odrzala-konferenciju-za-medije-posle-zasedanja-skupstine-pomenut-i-djokovic",
    "title": "Studentska lista održala konferenciju za medije posle zasedanja Skupštine: Pomenut i Đoković",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/srudentska-lista-predsednici-odbora-bice-izabrani/",
+   "title": "Poslanica Studentske liste: Predsednici odbora biće izabrani na prvim sednicama tih tela",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -163,7 +169,8 @@
   "Čupić dostavio predlog sastava skupštinskih odbora: Uz Studentsku listu i poslanici manjina, bez SNS-a i SVM-a",
   "NEMA ZAVRŠETKA U 18 ČASOVA: Skupština nastavlja rad, Čupić objasnio zbog čega",
   "Skupština većinom glasova usvojila odluku o članovima odbora",
-  "Studentska lista održala konferenciju za medije posle zasedanja Skupštine: Pomenut i Đoković"
+  "Studentska lista održala konferenciju za medije posle zasedanja Skupštine: Pomenut i Đoković",
+  "Poslanica Studentske liste: Predsednici odbora biće izabrani na prvim sednicama tih tela"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -178,7 +185,7 @@
   "izvor_x": true,
   "alt": "U Skupštini počele konsultacije o nastavku konstitutivne sednice"
  },
- "novo_od_pisanja": 7,
+ "novo_od_pisanja": 8,
  "boost": 1.6,
  "prepisano": "2026-11-24T08:30:59.703766+00:00",
  "verzija": 3

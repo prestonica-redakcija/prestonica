@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T20:12:16.418672+00:00",
- "updated": "2026-11-24T20:27:05.952526+00:00",
+ "updated": "2026-11-24T20:42:13.217039+00:00",
  "sources": [
   {
    "name": "N1",
@@ -50,12 +50,19 @@
    "url": "https://www.tanjug.rs/svet/hronika/300643/naoruzani-napadaci-u-pljacki-supermarketa-u-kolumbiji-uzeli-za-taoce-desetak-ljudi/vest",
    "title": "Naoružani napadači u pljački supermarketa u Kolumbiji uzeli za taoce desetak ljudi",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/253539/naoruzani-napadaci-zauzeli-supermarket-eksito/vest",
+   "title": "Nastavljen talas nasilja u Kolumbiji: Naoružani napadači u pljački supermarketa uzeli za taoce desetak ljudi",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Banda drži taoce u supermarketu u Kolumbiji, traži dva miliona dolara i bezbedan odlazak",
   "TALAČKA KRIZA U KOLUMBIJI: Banda drži taoce u supermarketu, traži dva miliona dolara i bezbedan odlazak (VIDEO, FOTO)",
-  "Naoružani napadači u pljački supermarketa u Kolumbiji uzeli za taoce desetak ljudi"
+  "Naoružani napadači u pljački supermarketa u Kolumbiji uzeli za taoce desetak ljudi",
+  "Nastavljen talas nasilja u Kolumbiji: Naoružani napadači u pljački supermarketa uzeli za taoce desetak ljudi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "alt": "unknown persons standing indoors",
   "link": "https://unsplash.com/@rgaleriacom"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

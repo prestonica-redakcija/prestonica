@@ -28,17 +28,24 @@
  ],
  "importance": 7,
  "published": "2026-11-24T08:46:01.118594+00:00",
- "updated": "2026-11-24T08:46:01.118594+00:00",
+ "updated": "2026-11-24T20:42:13.217039+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/english/news/serbian-intelligence-agency-rejects-democratic-party-leaders-surveillance-claims-as-malicious/",
    "title": "Serbian intelligence agency rejects Democratic Party leader’s surveillance claims as malicious",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/english/news/police-deny-ds-leaders-claims-of-illegal-surveillance/",
+   "title": "Police deny DS leader’s claims of illegal surveillance",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Serbian intelligence agency rejects Democratic Party leader’s surveillance claims as malicious"
+  "Serbian intelligence agency rejects Democratic Party leader’s surveillance claims as malicious",
+  "Police deny DS leader’s claims of illegal surveillance"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "BIA odbacuje navode lidera DS-a o nezakonitom nadzoru i najavljuje prijavu nadležnima"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

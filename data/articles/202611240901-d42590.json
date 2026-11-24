@@ -27,7 +27,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T20:27:05.952526+00:00",
+ "updated": "2026-11-24T20:42:13.217039+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -478,6 +478,24 @@
    "url": "https://n1info.rs/vesti/slavica-radovanovic-nase-drustvo-se-od-ribnikara-nije-dovoljno-bavilo-prevencijom/",
    "title": "Radovanović o pucnjavi u Kragujevcu: Od Ribnikara se nismo bavili prevencijom nasilja, potreban je \"reset sistema\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/oruzani-napad-u-kragujevcu-posledica-kulture-nasilja-odgovoran-odlazeci-rezim/",
+   "title": "\"Oružani napad u Kragujevcu posledica kulture nasilja, odgovoran odlazeći režim\"",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10171755/radoslav-dragijevic-kao-svedok-u-slucaju-ubistva-danke",
+   "title": "I ON ĆE SVEDOČITI NA SUĐENJU ZA UBISTVO DEVOJČICE: Prvo ga teretili za premeštanje tela, a onda došlo do velikog preokreta!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/sport/ibon-navaro-crvena-zvezda-virtus-evroliga/",
+   "title": "Navaro: Odgovoran sam, manjak energije je presudio",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -555,7 +573,10 @@
   "ZR: AI donosi nova radna mesta, biće jedan od glavnih trendova zapošljavanja u 2027. godini",
   "Španska policija razbila mrežu za finansiranje Hamasa: Dve osobe uhapšene u Barseloni",
   "Policija istražuje provalu u porodičnu rezidenciju princa Vilijama i Kejt",
-  "Radovanović o pucnjavi u Kragujevcu: Od Ribnikara se nismo bavili prevencijom nasilja, potreban je \"reset sistema\""
+  "Radovanović o pucnjavi u Kragujevcu: Od Ribnikara se nismo bavili prevencijom nasilja, potreban je \"reset sistema\"",
+  "\"Oružani napad u Kragujevcu posledica kulture nasilja, odgovoran odlazeći režim\"",
+  "I ON ĆE SVEDOČITI NA SUĐENJU ZA UBISTVO DEVOJČICE: Prvo ga teretili za premeštanje tela, a onda došlo do velikog preokreta!",
+  "Navaro: Odgovoran sam, manjak energije je presudio"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -568,7 +589,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-24T20:27:05.952526+00:00",
  "verzija": 7

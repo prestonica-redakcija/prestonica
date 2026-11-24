@@ -34,7 +34,7 @@
  ],
  "importance": 7,
  "published": "2026-11-24T09:01:04.718161+00:00",
- "updated": "2026-11-24T20:12:16.418672+00:00",
+ "updated": "2026-11-24T20:42:13.217039+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -221,6 +221,24 @@
    "url": "https://www.danas.rs/vesti/drustvo/eparhija-backa-opelo-mitropolitu-irineju-u-petak-u-novom-sadu-sahrana-u-kripti-sabornog-hrama/",
    "title": "Eparhija bačka: Opelo mitropolitu Irineju u petak u Novom Sadu, sahrana u kripti Sabornog hrama",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300683/maja-gojkovic-uputila-telegram-saucesca-povodom-smrti-mitropolita-backog-irineja/vest",
+   "title": "Maja Gojković uputila telegram saučešća povodom smrti mitropolita bačkog Irineja",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300685/nemet-odlazak-mitropolita-irineja-veliki-gubitak-za-spc-i-hriscansku-zajednicu/vest",
+   "title": "Nemet: Odlazak mitropolita Irineja veliki gubitak za SPC i hrišćansku zajednicu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4439204-kardinal-ladislav-nemet-odlazak-mitropolita-irineja-veliki-gubitak-za-spc-i-hriscansku-zajednicu",
+   "title": "Kardinal Ladislav Nemet: Odlazak mitropolita Irineja veliki gubitak za SPC i hrišćansku zajednicu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -254,7 +272,10 @@
   "Kardinal Nemet uputio pismo saučešća SPC povodom smrti mitropolita Irineja",
   "Kardinal Nemet uputio pismo saučešća SPC povodom smrti mitropolita Irineja",
   "Eparhija bačka objavila datum opela i sahrane mitropolita Irineja",
-  "Eparhija bačka: Opelo mitropolitu Irineju u petak u Novom Sadu, sahrana u kripti Sabornog hrama"
+  "Eparhija bačka: Opelo mitropolitu Irineju u petak u Novom Sadu, sahrana u kripti Sabornog hrama",
+  "Maja Gojković uputila telegram saučešća povodom smrti mitropolita bačkog Irineja",
+  "Nemet: Odlazak mitropolita Irineja veliki gubitak za SPC i hrišćansku zajednicu",
+  "Kardinal Ladislav Nemet: Odlazak mitropolita Irineja veliki gubitak za SPC i hrišćansku zajednicu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -267,7 +288,7 @@
   "alt": "A large building with a clock tower on top of it",
   "link": "https://unsplash.com/@marishphoto"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-24T20:12:16.418672+00:00",
  "verzija": 5
