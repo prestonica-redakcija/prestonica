@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://biznis.telegraf.rs/info-biz/4435350-predsednicki-kandidat-eduar-filip-upozorava-na-finansijsku-krizu-u-francuskoj": "2026-11-19T01:16:38.226149+00:00",
   "https://www.telegraf.rs/4435569-macura-zastita-dece-od-nasilja-mora-biti-prioritet-celog-drustva": "2026-11-19T02:16:01.022475+00:00",
   "https://www.kurir.rs/planeta/10166123/razgovarali-putin-i-takaici": "2026-11-19T04:15:14.792603+00:00",
   "https://www.telegraf.rs/vesti/srbija/4435604-obilne-padavine-ponovo-stizu-u-srbiju-evo-i-kada-otkrivamo-kada-i-gde-preti-olujni-vetar-temperatura-do-20": "2026-11-19T04:30:03.197904+00:00",
@@ -5884,12 +5883,6 @@
  "fokus": [],
  "runs": [
   {
-   "vreme": "2026-11-23T10:34+00:00",
-   "novih": 2,
-   "ukupno": 3904,
-   "sekundi": 570.5
-  },
-  {
    "vreme": "2026-11-23T10:48+00:00",
    "novih": 8,
    "ukupno": 3912,
@@ -6242,6 +6235,12 @@
    "novih": 0,
    "ukupno": 4200,
    "sekundi": 494.9
+  },
+  {
+   "vreme": "2026-11-24T01:29+00:00",
+   "novih": 0,
+   "ukupno": 4200,
+   "sekundi": 597.4
   }
  ],
  "licnosti_foto": {
@@ -54101,7 +54100,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "upcoming",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-24T01:04:57.530378+00:00",
+  "provereno": "2026-11-24T01:19:42.906843+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": false
  },
