@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T10:55:00.391086+00:00",
- "updated": "2026-11-23T10:55:00.391086+00:00",
+ "updated": "2026-11-24T06:31:57.987626+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/sneg-vikend-vreme-do-23-decembra-rhmz/",
    "title": "Za vikend stiže sneg: Kakvo će vreme biti do 23. decembra?",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/magazin/vremenska-prognoza/u-srbiju-stize-sneg-i-8-stepeni-evo-kada-pocinje-prvi-nalet-ledenog-vremena-i-kakvo-ce-vreme-biti-do-decembra/",
+   "title": "U Srbiju stiže sneg i -8 stepeni: Evo kada počinje prvi nalet ledenog vremena i kakvo će vreme biti do decembra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Za vikend sneg: Kakvo će biti vreme do kraja meseca",
-  "Za vikend stiže sneg: Kakvo će vreme biti do 23. decembra?"
+  "Za vikend stiže sneg: Kakvo će vreme biti do 23. decembra?",
+  "U Srbiju stiže sneg i -8 stepeni: Evo kada počinje prvi nalet ledenog vremena i kakvo će vreme biti do decembra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "alt": "time lapse photography of cars on road between trees during night time",
   "link": "https://unsplash.com/@ljubazarkovic"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

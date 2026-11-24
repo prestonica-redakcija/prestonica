@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T04:17:52.650439+00:00",
- "updated": "2026-11-24T05:47:28.436565+00:00",
+ "updated": "2026-11-24T06:31:57.987626+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -50,12 +50,19 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/300376/u-srbiji-danas-pretezno-suncano-ujutru-slab-mraz-temperatura-do-devet-stepeni/vest",
    "title": "U Srbiji danas pretežno sunčano, ujutru slab mraz, temperatura do devet stepeni",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/posle-hladnog-jutra-sa-mrazem-tokom-dana-suncano-najniza-temperatura-minus-tri-maksimalna-od-sest-do-devet-stepeni/",
+   "title": "Posle hladnog jutra sa mrazem, tokom dana sunčano, najniža temperatura minus tri, maksimalna od šest do devet stepeni",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "U Srbiji ujutru slab mraz, tokom dana sunčano",
   "Jutro u Srbiji uz slab mraz, najniža temperatura -3°C",
-  "U Srbiji danas pretežno sunčano, ujutru slab mraz, temperatura do devet stepeni"
+  "U Srbiji danas pretežno sunčano, ujutru slab mraz, temperatura do devet stepeni",
+  "Posle hladnog jutra sa mrazem, tokom dana sunčano, najniža temperatura minus tri, maksimalna od šest do devet stepeni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "alt": "silhouette of electric post during sunset",
   "link": "https://unsplash.com/@thestefankostic"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

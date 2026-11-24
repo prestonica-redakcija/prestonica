@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T10:10:21.132289+00:00",
- "updated": "2026-11-23T10:10:21.132289+00:00",
+ "updated": "2026-11-24T06:31:57.987626+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,12 +51,19 @@
    "url": "https://www.kurir.rs/planeta/10169897/lansiranje-ruskog-satelita-sa-nuklearnim-oruzjem-moguce-vec-u-decembru",
    "title": "RUSIJA DIŽE NUKLEARNO ORUŽJE U SVEMIR? UDAR SPUTNJIKA-S OD KOG CEO SVET STAJE! Nemci kažu da je lansiranje moguće već u decembru, ugroženi zapadni vojni sistemi",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4438519-rusija-sprema-nuklearni-satelit-koji-moze-da-unisti-letelice-alarm-u-nato-zbog-najnovijeg-putinovog-plana",
+   "title": "Rusija sprema nuklearni satelit koji može da uništi letelice? Alarm u NATO zbog najnovijeg Putinovog plana",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Nemački mediji: Rusija planira lansiranje satelita sa nuklearnim oružjem",
   "Nemci \"na nogama\"; Rusi dižu nuklearni satelit koji preti totalnim uništavanjem",
-  "RUSIJA DIŽE NUKLEARNO ORUŽJE U SVEMIR? UDAR SPUTNJIKA-S OD KOG CEO SVET STAJE! Nemci kažu da je lansiranje moguće već u decembru, ugroženi zapadni vojni sistemi"
+  "RUSIJA DIŽE NUKLEARNO ORUŽJE U SVEMIR? UDAR SPUTNJIKA-S OD KOG CEO SVET STAJE! Nemci kažu da je lansiranje moguće već u decembru, ugroženi zapadni vojni sistemi",
+  "Rusija sprema nuklearni satelit koji može da uništi letelice? Alarm u NATO zbog najnovijeg Putinovog plana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,5 +75,7 @@
   "local": false,
   "alt": "Earth with clouds above the African continent",
   "link": "https://unsplash.com/@nasa"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

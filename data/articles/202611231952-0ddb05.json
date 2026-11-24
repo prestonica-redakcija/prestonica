@@ -32,17 +32,24 @@
  ],
  "importance": 4,
  "published": "2026-11-23T18:52:05.763223+00:00",
- "updated": "2026-11-23T18:52:05.763223+00:00",
+ "updated": "2026-11-24T06:31:57.987626+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/srbija/10170736/amss-upozorio-vozace-na-poledicu",
    "title": "HITNO UPOZORENJE AMSS-a! Večeras stiže debeli minus, preti opasnost od poledice, a u ovom delu Srbije duvaće OLUJNI VETAR! Evo kakvo je stanje na granicama",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/amss-vlazni-kolovozi-poledica-vetar/",
+   "title": "AMSS: Vlažni kolovozi, poledica, vetar",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "HITNO UPOZORENJE AMSS-a! Večeras stiže debeli minus, preti opasnost od poledice, a u ovom delu Srbije duvaće OLUJNI VETAR! Evo kakvo je stanje na granicama"
+  "HITNO UPOZORENJE AMSS-a! Večeras stiže debeli minus, preti opasnost od poledice, a u ovom delu Srbije duvaće OLUJNI VETAR! Evo kakvo je stanje na granicama",
+  "AMSS: Vlažni kolovozi, poledica, vetar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "alt": "Dark surface reflecting vibrant orange and blue light",
   "link": "https://unsplash.com/@linkfang"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
