@@ -34,7 +34,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T07:16:38.934187+00:00",
- "updated": "2026-11-24T16:28:52.481798+00:00",
+ "updated": "2026-11-24T18:13:25.121786+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -47,11 +47,18 @@
    "url": "https://www.tanjug.rs/svet/hronika/300597/kolumbija-u-eksploziji-automobila-bombe-ispred-lokalne-vlade-povredene-23-osobe/vest",
    "title": "Kolumbija: U eksploziji automobila-bombe ispred lokalne vlade povređene 23 osobe",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/253523/eksplozija-na-nekoliko-metara-od-zgrade-regionalne-vlade/vest",
+   "title": "Eksplozija automobila-bombe ispred sedišta vlade u Kolumbiji: Povređene 23 osobe među kojima i devojčica (9)",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Teroristički napad u Kolumbiji: Automobil-bomba eksplodirao ispred zgrade vlade, povređeno najmanje 12 ljudi (VIDEO)",
-  "Kolumbija: U eksploziji automobila-bombe ispred lokalne vlade povređene 23 osobe"
+  "Kolumbija: U eksploziji automobila-bombe ispred lokalne vlade povređene 23 osobe",
+  "Eksplozija automobila-bombe ispred sedišta vlade u Kolumbiji: Povređene 23 osobe među kojima i devojčica (9)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "alt": "Nypd car on a snowy city street with billboards",
   "link": "https://unsplash.com/@romasha"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

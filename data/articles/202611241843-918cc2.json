@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T17:43:21.511848+00:00",
- "updated": "2026-11-24T17:43:21.511848+00:00",
+ "updated": "2026-11-24T18:13:25.121786+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -42,11 +42,25 @@
    "url": "https://nova.rs/vesti/politika/studenti-medicinskog-fakulteta-uputili-izvinjenje-zbog-kolege-koji-je-fotografisao-sednicu-skupstine/",
    "title": "Studenti Medicinskog fakulteta uputili izvinjenje zbog kolege koji je fotografisao sednicu Skupštine",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4439108-studenti-se-oglasili-nakon-incidenta-na-galeriji-skupstine-srbije",
+   "title": "Studenti se oglasili nakon incidenta na galeriji Skupštine Srbije: \"Želimo da se izvinimo...\"",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10171847/nosioci-studentske-liste-uputili-izvinjenje-zbog-incidenta-u-skupstini",
+   "title": "OGLASILI SE STUDENTI POSLE INCIDENTA NA GALERIJI U SKUPŠTINI! Ogradili se od postupka delegata Medicinskog fakulteta i uputili javno izvinjenje poslanicima!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Studenti Medicinskog fakulteta uputili izvinjenje zbog kolege koji je fotografisao sednicu Skupštine",
-  "Studenti Medicinskog fakulteta uputili izvinjenje zbog kolege koji je fotografisao sednicu Skupštine"
+  "Studenti Medicinskog fakulteta uputili izvinjenje zbog kolege koji je fotografisao sednicu Skupštine",
+  "Studenti se oglasili nakon incidenta na galeriji Skupštine Srbije: \"Želimo da se izvinimo...\"",
+  "OGLASILI SE STUDENTI POSLE INCIDENTA NA GALERIJI U SKUPŠTINI! Ogradili se od postupka delegata Medicinskog fakulteta i uputili javno izvinjenje poslanicima!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +74,7 @@
   "osoba": "Studenti u blokadi",
   "izvor_x": true,
   "alt": "Studenti Medicinskog fakulteta izvinili se zbog fotografije sa galerije Skupštine"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

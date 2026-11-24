@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T22:05:45.618419+00:00",
- "updated": "2026-11-23T23:05:09.416142+00:00",
+ "updated": "2026-11-24T18:13:25.121786+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -55,13 +55,20 @@
    "url": "https://www.danas.rs/vesti/drustvo/spc-patrijarh-porfirije-i-nikita-mihalkov-u-moskvi-o-kulturnim-vezama-srpskog-i-ruskog-naroda/",
    "title": "SPC: Patrijarh Porfirije i Nikita Mihalkov u Moskvi o kulturnim vezama srpskog i ruskog naroda",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/zabava/kultura/10171851/patrijarh-porfirije-razgovarao-sa-nikitom-mihalkovim",
+   "title": "Patrijarh Porfirije razgovarao sa Nikitom Mihalkovim",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Porfirije razgovarao sa Mihalkovim o istorijskim i kulturnom vezama Srbije i Rusije",
   "Porfirije se sastao sa Nikitom Mihalkovim u Moskvi: Razgovarali o vezama srpskog i ruskog naroda",
   "Porfirije razgovarao sa Mihalkovim o istorijskim i kulturnim vezama Srbije i Rusije",
-  "SPC: Patrijarh Porfirije i Nikita Mihalkov u Moskvi o kulturnim vezama srpskog i ruskog naroda"
+  "SPC: Patrijarh Porfirije i Nikita Mihalkov u Moskvi o kulturnim vezama srpskog i ruskog naroda",
+  "Patrijarh Porfirije razgovarao sa Nikitom Mihalkovim"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,6 +81,6 @@
   "alt": "people walking on street near brown and green building during daytime",
   "link": "https://unsplash.com/@randominstitute"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

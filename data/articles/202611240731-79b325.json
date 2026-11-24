@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T06:31:57.987626+00:00",
- "updated": "2026-11-24T16:28:52.481798+00:00",
+ "updated": "2026-11-24T18:13:25.121786+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -56,13 +56,20 @@
    "url": "https://www.euronews.rs/svet/fokus/253518/ulleungdo-uzbuna-zbog-priblizavanja-ruskih-vojnih-aviona/vest",
    "title": "Uzbuna u Južnoj Koreji: Stanovnici ostrva Uleungdo dobili poziv da idu u skloništa zbog ruskih aviona",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/300584/stanovnicima-juznokorejskog-ostrva-uleungdo-naredeno-da-se-sklone-zbog-ruskih-aviona/vest",
+   "title": "Stanovnicima južnokorejskog ostrva Uleungdo naređeno da se sklone zbog ruskih aviona",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Južna Koreja podigla borbene avione nakon ulaska ruskih letelica u zonu PVO",
   "Rusi su upali; Južna Koreja podigla borbene avione",
   "RUSKI BORBENI AVIONI UPALI U ZONU PVO JUŽNE KOREJE! Seul jutros odmah digao lovce i izdao upozorenje na ostrvu Uleung",
-  "Uzbuna u Južnoj Koreji: Stanovnici ostrva Uleungdo dobili poziv da idu u skloništa zbog ruskih aviona"
+  "Uzbuna u Južnoj Koreji: Stanovnici ostrva Uleungdo dobili poziv da idu u skloništa zbog ruskih aviona",
+  "Stanovnicima južnokorejskog ostrva Uleungdo naređeno da se sklone zbog ruskih aviona"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,6 +81,6 @@
   "local": true,
   "alt": "Ruski avioni ušli u južnokorejsku zonu PVO, Seul podigao borbene avione"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
