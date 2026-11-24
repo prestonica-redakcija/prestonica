@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T20:06:36.832576+00:00",
- "updated": "2026-11-23T20:06:36.832576+00:00",
+ "updated": "2026-11-24T00:34:32.855521+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -45,11 +45,18 @@
    "url": "https://www.b92.net/biz/svet/vesti/287541/s-kim-ce-jermenija-povezati-svoju-elektroenergetsku-mrezu/vest",
    "title": "S kim će Jermenija povezati svoju elektroenergetsku mrežu?",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4438474-jermenija-povezuje-elektroenergetske-mreze-sa-turskom-i-azerbejdzanom",
+   "title": "Jermenija planira povezivanje elektroenergetskih mreža sa Turskom i Azerbejdžanom",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Jermenija planira povezivanje elektroenergetskih mreža sa Turskom i Azerbejdžanom",
-  "S kim će Jermenija povezati svoju elektroenergetsku mrežu?"
+  "S kim će Jermenija povezati svoju elektroenergetsku mrežu?",
+  "Jermenija planira povezivanje elektroenergetskih mreža sa Turskom i Azerbejdžanom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Pašinjan: Jermenija će povezati elektroenergetske mreže sa Turskom i Azerbejdžanom"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.telegraf.rs/vesti/svet/4435051-rubio-se-oglasio-o-mogucem-susretu-trampa-i-kim-dzong-una-on-bi-to-voleo-videcemo": "2026-11-19T00:31:50.563546+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/252607/uber-i-momenta-pokrenuli-pilot-robotaksija-u-minhenu/vest": "2026-11-19T01:01:42.389012+00:00",
   "https://biznis.telegraf.rs/info-biz/4435350-predsednicki-kandidat-eduar-filip-upozorava-na-finansijsku-krizu-u-francuskoj": "2026-11-19T01:16:38.226149+00:00",
   "https://www.telegraf.rs/4435569-macura-zastita-dece-od-nasilja-mora-biti-prioritet-celog-drustva": "2026-11-19T02:16:01.022475+00:00",
@@ -5876,18 +5875,14 @@
   "https://www.kurir.rs/planeta/10170553/nigerija-najmanje-64-osobe-ubijene-u-napadima": "2026-11-23T23:34:58.487330+00:00",
   "https://radar.nova.rs/global/price-iz-indija-dipavali-praznik/": "2026-11-23T23:34:58.487330+00:00",
   "https://www.danas.rs/zivot/da-li-vreme-kada-doruckujemo-utice-na-duzinu-zivota/": "2026-11-23T23:49:49.823798+00:00",
-  "https://www.kurir.rs/vesti/drustvo/10170592/kada-je-najbolje-doruckovati-i-vecerati-studija-otkriva-uticaj-na-zivot": "2026-11-23T23:49:49.823798+00:00"
+  "https://www.kurir.rs/vesti/drustvo/10170592/kada-je-najbolje-doruckovati-i-vecerati-studija-otkriva-uticaj-na-zivot": "2026-11-23T23:49:49.823798+00:00",
+  "https://radar.nova.rs/kultura-radar/aleksandra-delic-podnela-ostavku/": "2026-11-24T00:34:32.855521+00:00",
+  "https://www.telegraf.rs/vesti/svet/4438474-jermenija-povezuje-elektroenergetske-mreze-sa-turskom-i-azerbejdzanom": "2026-11-24T00:34:32.855521+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-23T09:49+00:00",
-   "novih": 7,
-   "ukupno": 3889,
-   "sekundi": 557.2
-  },
   {
    "vreme": "2026-11-23T10:06+00:00",
    "novih": 7,
@@ -6241,6 +6236,12 @@
    "novih": 0,
    "ukupno": 4200,
    "sekundi": 434.8
+  },
+  {
+   "vreme": "2026-11-24T00:42+00:00",
+   "novih": 0,
+   "ukupno": 4200,
+   "sekundi": 500.7
   }
  ],
  "licnosti_foto": {
@@ -9070,15 +9071,15 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2124915956379976089",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "parandilovicnls": {
     "since_id": "2124971304579411982",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "ininic": {
-    "since_id": "2124623877116723549",
-    "t": 1795476057.795203
+    "since_id": "2125023275155911090",
+    "t": 1795480491.0608437
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -9086,15 +9087,15 @@
    },
    "sviublokade_fdu": {
     "since_id": "2124504391600210079",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "dragandjilas": {
     "since_id": "2121691848313884992",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "marinikatepic": {
     "since_id": "2122007271508959331",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "radomirlazovic": {
     "since_id": null,
@@ -9118,27 +9119,27 @@
    },
    "avucic": {
     "since_id": "2124882664565952926",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "anabrnabic": {
     "since_id": "2124975388044763382",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "milos_vucevic": {
     "since_id": "2124803967268057206",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "sns_srbija": {
     "since_id": "2124954541858881999",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "studentblokade": {
     "since_id": "2124876177525391719",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -9174,31 +9175,31 @@
    },
    "markodjuric": {
     "since_id": "2123870662255419709",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "nstarovic": {
     "since_id": "2122967633863565451",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "milenkojovanov": {
     "since_id": "2124130847993336246",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "acasapic": {
     "since_id": null,
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "borkostef": {
     "since_id": "2123837042505155014",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "dobrinacelnik": {
     "since_id": "2124860523967648079",
@@ -9210,7 +9211,7 @@
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "srdjanmil037": {
     "since_id": "2124854434559610956",
@@ -9262,7 +9263,7 @@
    },
    "borakonj": {
     "since_id": "2124868959308488959",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "narodnipokrets": {
     "since_id": "2124821953370267690",
@@ -9270,51 +9271,51 @@
    },
    "direktnors": {
     "since_id": "2124970643242582142",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "crtars": {
     "since_id": "2124910039161044995",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "veceivan": {
     "since_id": "2124889813165973767",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "repjoewilson": {
-    "since_id": "2123869192789094550",
-    "t": 1795476057.795203
+    "since_id": "2125024964466073894",
+    "t": 1795480491.0608437
    },
    "jugoslavcosic": {
     "since_id": "2123147946694787141",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "tvnova_s": {
     "since_id": "2124973057731162430",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "oljautisak": {
     "since_id": "2124115162684629476",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "srdjan_nogo": {
     "since_id": "2123527863307735237",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "agrifblokira": {
     "since_id": "2124971529389920662",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "etfblokada": {
     "since_id": "2124925642714259902",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "nastraninaroda": {
     "since_id": "2124240486932386139",
@@ -9322,15 +9323,15 @@
    },
    "bcenzure": {
     "since_id": "2124978841613422778",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "bezstraha26279": {
     "since_id": "2124944401298543087",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "lazidetektor": {
     "since_id": "2124961074805940380",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "nedeljniknin": {
     "since_id": "2125001447226196305",
@@ -9346,11 +9347,11 @@
    },
    "tvbalkaninfo": {
     "since_id": "2124878813276344672",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "1152justice": {
     "since_id": "2123584561330217393",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    },
    "zatrijebacki": {
     "since_id": "2123844027036709035",
@@ -9382,10 +9383,97 @@
    },
    "masinars": {
     "since_id": "2124978562792837190",
-    "t": 1795476057.795203
+    "t": 1795480491.0608437
    }
   },
   "posts": [
+   {
+    "id": "2125024964466073894",
+    "x": "RepJoeWilson",
+    "ime": "Joe Wilson",
+    "grupa": "",
+    "uloga": "",
+    "text": "I agree with my colleagues regarding the legitimate national security concerns surrounding Mr. Huang’s conduct. I look forward to reviewing the substance of their interviews. American ingenuity must not be put at risk. https://t.co/wYOwZdAM5f",
+    "published": "2026-11-24T00:33:27.000+00:00",
+    "lajk": 2,
+    "prikazi": true,
+    "rubrika": "svet",
+    "tema": "Kongresmen o bezbednosnim zabrinutostima zbog ponašanja g. Huanga"
+   },
+   {
+    "id": "2125023275155911090",
+    "x": "INinic",
+    "ime": "Ivan Ninić",
+    "grupa": "aktivisti",
+    "uloga": "Advokat",
+    "text": "Ukoliko policija ne pohapsi sve odgovorne u Dunavu, koji su razorili to osiguranje do temelja, privatizovali i tretirali kao latifundiju Andreja i Tanje Vukić, ovoj državi nema spasa !!! Nema nam budućnosti ni sa onima koji, bez pardona, \"peglaju\" ovaj KRIMINAL, kroz PR tekstove!",
+    "published": "2026-11-24T00:26:44.000+00:00",
+    "lajk": 5,
+    "prikazi": true,
+    "rubrika": "ekonomija",
+    "tema": "Ninić traži hapšenje odgovornih u Dunav osiguranju"
+   },
+   {
+    "id": "2125023270814806260",
+    "x": "INinic",
+    "ime": "Ivan Ninić",
+    "grupa": "aktivisti",
+    "uloga": "Advokat",
+    "text": "I na kraju, ko je autor najglupljeg intervjua na svetu Niko, jer je potpis: \"Promo\". Znači, PR služba Dunava!\nIzgubili ste sa 600.000 razlike, razorili ste državu, oplevili ste Dunav, kao i svaku drugu kompaniju i umesto da se sklonite, vi plaćate Kuriru PR tekstove. https://t.co/rQFhhy7vFh",
+    "published": "2026-11-24T00:26:43.000+00:00",
+    "lajk": 3,
+    "prikazi": true,
+    "rubrika": "mediji",
+    "tema": "Ninić kritikuje promo intervju Dunav osiguranja u Kuriru"
+   },
+   {
+    "id": "2125023267119349854",
+    "x": "INinic",
+    "ime": "Ivan Ninić",
+    "grupa": "aktivisti",
+    "uloga": "Advokat",
+    "text": "\"Čekajte, da li je u \"Dunav osiguranju\" bio tajni kol-centar SNS?\" , odgovor: \"Nije!\" Kakvo pitanje, kakav odgovor, kakav nesvakidašnji prodor u suštinu onoga što je otkriveno i publikovano... Ovo samo totalni idiot može da osmisli kao PR strategiju Dunava! https://t.co/DnpKOO6eox",
+    "published": "2026-11-24T00:26:42.000+00:00",
+    "lajk": 3,
+    "slike": [
+     "https://pbs.twimg.com/media/HX2WaOdXEAEvHHQ.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Ninić o navodnom kol-centru SNS u Dunav osiguranju"
+   },
+   {
+    "id": "2125023264137228409",
+    "x": "INinic",
+    "ime": "Ivan Ninić",
+    "grupa": "aktivisti",
+    "uloga": "Advokat",
+    "text": "\"Tim objavama ugrožena su prava pojedinca na zaštitu podataka o ličnosti, koja se odnose na naše zaposlene\"?! Pa, jel ti nas i dalje zajebavaš?! Sva ta imena su spiskovi DUNAVA za odlaske na MITINGE, koordinaciju i pravljenje spiskova od strane ljudi u DUNAV-u za sigurne glasove! https://t.co/sXAcZv1xDL",
+    "published": "2026-11-24T00:26:41.000+00:00",
+    "lajk": 4,
+    "slike": [
+     "https://pbs.twimg.com/media/HX2VlZtW0AAPNKc.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Ninić o spiskovima zaposlenih u Dunavu i zaštiti podataka"
+   },
+   {
+    "id": "2125023261180277067",
+    "x": "INinic",
+    "ime": "Ivan Ninić",
+    "grupa": "aktivisti",
+    "uloga": "Advokat",
+    "text": "Trifunović \"...kaže da su te neistine poslale negativan signal njihovim osiguranicima, kako u zemlji tako i u regionu i šire\". NE, to što ste vi od državnog DUNAV-a napravili opštinski odbor OKG-a i sve resurse kompanije stavili u funkciju mafije - to je uništitilo Dunav 👇 https://t.co/VY9RYvkEin",
+    "published": "2026-11-24T00:26:41.000+00:00",
+    "lajk": 6,
+    "slike": [
+     "https://pbs.twimg.com/media/HX2UqskWoAAbo6o.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Ninić o odgovoru Dunava i navodnoj zloupotrebi kompanije"
+   },
    {
     "id": "2125001447226196305",
     "x": "NedeljnikNIN",
@@ -20733,85 +20821,6 @@
     "rubrika": "politika",
     "tema": "Rada Trajković o privođenju Vojislava Šešelja na informativni razgovor",
     "vest": "202611201300-3cf519"
-   },
-   {
-    "id": "2123775242124329267",
-    "x": "Bcenzure",
-    "ime": "Bez Cenzure",
-    "grupa": "",
-    "uloga": "",
-    "text": "DZVM: Izborom Tibora Lazara za potpredsednika, srušen jednostranački monopol u parlamentarnom predstavljanju vojvođanskih Mađara\n\nDemokratska zajednica vojvođanskih Mađara (DZVM) ocenila je danas da je izborom Tibora Lazara za potpredsednika Skupštine Srbije i promenom odnosa https://t.co/zkOGkmx22b",
-    "published": "2026-11-20T13:47:30.000+00:00",
-    "lajk": 0,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "DZVM o izboru Tibora Lazara za potpredsednika Skupštine",
-    "vest": "202611201245-4e255d"
-   },
-   {
-    "id": "2123774621283418209",
-    "x": "izlaz_dot_com",
-    "ime": "IZLAZ.com",
-    "grupa": "",
-    "uloga": "",
-    "text": "“Dunav osiguranje” u službi režima: Ninić podneo krivičnu prijavu zbog mahinacija u vezi sa izborima\n\nhttps://t.co/eGWMp7qg9u",
-    "published": "2026-11-20T13:45:02.000+00:00",
-    "lajk": 7,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Krivična prijava Ninića protiv Dunav osiguranja zbog izbora"
-   },
-   {
-    "id": "2123774089353461986",
-    "x": "INinic",
-    "ime": "Ivan Ninić",
-    "grupa": "aktivisti",
-    "uloga": "Advokat",
-    "text": "Siniša, braća Rajić, Pedro, Orban, Alek, Aasaf... svi na aparatima. Gledaju i ne veruju šta vide.  Ekipa https://t.co/0i3wRFHiCK @novarsonline od prvog dana kida mafiju, a sada i dominira u tom poduhvatu 👇 https://t.co/9C3rYsYVYg",
-    "published": "2026-11-20T13:42:55.000+00:00",
-    "lajk": 196,
-    "prikazi": false,
-    "rubrika": "mediji",
-    "tema": "Podrugljiva objava o Novoj/N1 ekipi i imenima, nejasan smisao"
-   },
-   {
-    "id": "2123773455124324376",
-    "x": "MasinaRS",
-    "ime": "Mašina",
-    "grupa": "",
-    "uloga": "",
-    "text": "Novinarka Jovana Gligorijević za Mašinu komentariše raspisivanje predstojećih predsedničkih izbora i očekivanja o učešću bivše vlasti ali i drugih kandidata. https://t.co/aunvLx13yk",
-    "published": "2026-11-20T13:40:24.000+00:00",
-    "lajk": 22,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Gligorijević o raspisivanju predsedničkih izbora i učešću kandidata"
-   },
-   {
-    "id": "2123773078182195257",
-    "x": "INinic",
-    "ime": "Ivan Ninić",
-    "grupa": "aktivisti",
-    "uloga": "Advokat",
-    "text": "Ako, ako, robijaće, samo tako https://t.co/NPLk26qhc9",
-    "published": "2026-11-20T13:38:54.000+00:00",
-    "lajk": 290,
-    "prikazi": false,
-    "rubrika": "politika",
-    "tema": "Kratak podrugljiv komentar bez jasnog smisla"
-   },
-   {
-    "id": "2123772476962361438",
-    "x": "INinic",
-    "ime": "Ivan Ninić",
-    "grupa": "aktivisti",
-    "uloga": "Advokat",
-    "text": "Možda je razlika bila  600.000, \ndanas je 1.600.000, pa u to ime podelite jedan spot 👇 https://t.co/UgsgeZ80u7",
-    "published": "2026-11-20T13:36:30.000+00:00",
-    "lajk": 490,
-    "prikazi": false,
-    "rubrika": "politika",
-    "tema": "Sarkastičan komentar o razlici u glasovima i spotu, nejasan"
    }
   ],
   "pratim": [
@@ -54092,7 +54101,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "upcoming",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-24T00:20:24.633952+00:00",
+  "provereno": "2026-11-24T00:35:16.200047+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": false
  },

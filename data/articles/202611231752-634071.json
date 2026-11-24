@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T16:52:53.490254+00:00",
- "updated": "2026-11-23T17:22:37.242611+00:00",
+ "updated": "2026-11-24T00:34:32.855521+00:00",
  "sources": [
   {
    "name": "N1",
@@ -72,6 +72,12 @@
    "url": "https://www.kurir.rs/zabava/kultura/10170673/direktorka-sabackog-pozorista-podnela-ostavku-oglasili-se-iz-sindikata-nezavisnost",
    "title": "Direktorka Šabačkog pozorišta podnela ostavku, oglasili se iz sindikata “Nezavisnost”",
    "spektar": "vlast"
+  },
+  {
+   "name": "Radar",
+   "url": "https://radar.nova.rs/kultura-radar/aleksandra-delic-podnela-ostavku/",
+   "title": "Direktorka Šabačkog pozorišta podnela ostavku",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -81,7 +87,8 @@
   "Direktorka Šabačkog pozorišta podnela ostavku: Aleksandra Delić se oglasila saopštenjem, evo šta je poručila",
   "Direktorka Šabačkog pozorišta Aleksandra Delić podnela ostavku",
   "\"Na ovo se čekalo predugo\": Oglasio se Sindikat Nezavisnost Šabačkog pozorišta nakon što je Delić podnela ostavku",
-  "Direktorka Šabačkog pozorišta podnela ostavku, oglasili se iz sindikata “Nezavisnost”"
+  "Direktorka Šabačkog pozorišta podnela ostavku, oglasili se iz sindikata “Nezavisnost”",
+  "Direktorka Šabačkog pozorišta podnela ostavku"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -93,6 +100,6 @@
   "local": true,
   "alt": "Direktorka Šabačkog pozorišta Aleksandra Delić podnela neopozivu ostavku"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
