@@ -5883,12 +5883,6 @@
  "fokus": [],
  "runs": [
   {
-   "vreme": "2026-11-23T10:48+00:00",
-   "novih": 8,
-   "ukupno": 3912,
-   "sekundi": 504.3
-  },
-  {
    "vreme": "2026-11-23T11:03+00:00",
    "novih": 7,
    "ukupno": 3919,
@@ -6241,6 +6235,12 @@
    "novih": 0,
    "ukupno": 4200,
    "sekundi": 597.4
+  },
+  {
+   "vreme": "2026-11-24T01:44+00:00",
+   "novih": 0,
+   "ukupno": 4200,
+   "sekundi": 604.3
   }
  ],
  "licnosti_foto": {
@@ -9098,23 +9098,23 @@
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "bibislav": {
     "since_id": "2123404577495986296",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "savomanojlovic": {
     "since_id": "2124928355829170668",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "zdravkoponos": {
     "since_id": "2123476746787860570",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "pavlegrbovic": {
     "since_id": "2124616487013134506",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "avucic": {
     "since_id": "2124882664565952926",
@@ -9202,11 +9202,11 @@
    },
    "dobrinacelnik": {
     "since_id": "2124860523967648079",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "jeremic_vuk": {
     "since_id": "2123007427536732502",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
@@ -9214,51 +9214,51 @@
    },
    "srdjanmil037": {
     "since_id": "2124854434559610956",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "zoranlutovac": {
     "since_id": "2124920519216738552",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "pajticbojan": {
     "since_id": "2124855975492407587",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "n_zelenovic": {
     "since_id": "2123561201799921899",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "boskoobradovic": {
     "since_id": "2123742987129635150",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "sasaradulovich": {
     "since_id": "2124894354955235759",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "zaklina_prva": {
     "since_id": "2124885760423907685",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "stevanoccrp": {
     "since_id": "2124924438672027651",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "igorbrakus": {
     "since_id": "2124133421958013055",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "radoholicar": {
     "since_id": "2123165000919326944",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "borakonj": {
     "since_id": "2124868959308488959",
@@ -9266,7 +9266,7 @@
    },
    "narodnipokrets": {
     "since_id": "2124821953370267690",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "direktnors": {
     "since_id": "2124970643242582142",
@@ -9334,15 +9334,15 @@
    },
    "nedeljniknin": {
     "since_id": "2125001447226196305",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "trajkovic_rada": {
     "since_id": "2123775843264569788",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "stateinl": {
     "since_id": "2124882590389924146",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "tvbalkaninfo": {
     "since_id": "2124878813276344672",
@@ -9354,31 +9354,31 @@
    },
    "zatrijebacki": {
     "since_id": "2123844027036709035",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "srbininfo": {
-    "since_id": "2124958474195042720",
-    "t": 1795479608.5554082
+    "since_id": "2125035789138489573",
+    "t": 1795484060.5771854
    },
    "mfaserbia": {
     "since_id": "2124891627940426237",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "izlaz_dot_com": {
     "since_id": "2124998939984199997",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "tihinavezi": {
     "since_id": "2124909854368109013",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "relativizacija": {
     "since_id": "2124951990702895277",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "seanmilanovic": {
     "since_id": "2124563888821743898",
-    "t": 1795479608.5554082
+    "t": 1795484060.5771854
    },
    "masinars": {
     "since_id": "2124978562792837190",
@@ -9386,6 +9386,20 @@
    }
   },
   "posts": [
+   {
+    "id": "2125035789138489573",
+    "x": "srbininfo",
+    "ime": "СРБИН инфо",
+    "grupa": "",
+    "uloga": "",
+    "text": "Sudija smestila devojčicu kod majke koja živi sa pedofilom, oteli je iz škole u sredu, dete vrištalo, molilo i plakalo da je ne vode i budžetaši je fizičkom silom prinudili (rekli prisutni u školi). Od srede se detetu gubi svaki trag, u školu više nije došla. \n\nMediji ćute i https://t.co/n6swOJXBMG",
+    "published": "2026-11-24T01:16:28.000+00:00",
+    "lajk": 0,
+    "prikazi": true,
+    "rubrika": "drustvo",
+    "tema": "Slučaj devojčice na Voždovcu: odluka suda, oduzimanje iz škole, nestanak",
+    "vest": "202611232051-2f8563"
+   },
    {
     "id": "2125024964466073894",
     "x": "RepJoeWilson",
@@ -20806,20 +20820,6 @@
     "prikazi": false,
     "rubrika": "politika",
     "tema": "Nadbiskup Nemet čestitao Čupiću izbor za predsednika Skupštine"
-   },
-   {
-    "id": "2123775843264569788",
-    "x": "trajkovic_rada",
-    "ime": "Rada Trajkovic",
-    "grupa": "",
-    "uloga": "",
-    "text": "Toliko sam toga preživela proteklih 14 godina pod SNS režimom da nekad i zaboravim sve progone koje sam pretovarila preko glave.\n\nEvo i podsetnika zašto je danas Vojislav Šešelj priveden na informativni razgovor, četiri godine nakon moje prijave i reakcije javnosti na njegove https://t.co/XHNsJZ0iDi",
-    "published": "2026-11-20T13:49:53.000+00:00",
-    "lajk": 38,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Rada Trajković o privođenju Vojislava Šešelja na informativni razgovor",
-    "vest": "202611201300-3cf519"
    }
   ],
   "pratim": [
@@ -54100,7 +54100,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "upcoming",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-24T01:19:42.906843+00:00",
+  "provereno": "2026-11-24T01:34:42.608177+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": false
  },
