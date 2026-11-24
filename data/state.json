@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://n1info.rs/vesti/19-novembar-lokalni-pljuskovi-vremenska-prognoza/": "2026-11-19T05:59:16.631536+00:00",
-  "https://www.euronews.rs/biznis/biznis-vesti/252636/fed-voler-trazi-povecanje-kamate-za-50-baznih-poena/vest": "2026-11-19T05:59:16.631536+00:00",
   "https://www.tanjug.rs/srbija/drustvo/299004/u-srbiji-danas-oblacno-posle-podne-i-uvece-mestimicno-sa-kisom-do-19-stepeni/vest": "2026-11-19T06:14:04.945422+00:00",
   "https://www.tanjug.rs/ekonomija/kompanije/298793/kompanija-ey-danas-dodeljuje-priznanje-preduzetnik-godine/vest": "2026-11-19T06:14:04.945422+00:00",
   "https://www.tanjug.rs/srbija/politika/298955/danas-nastavak-konstitutivne-sednice-rasprava-o-kandidatima-za-predsednika-skupstine/vest": "2026-11-19T06:14:04.945422+00:00",
@@ -5890,18 +5888,18 @@
   "https://www.tanjug.rs/srbija/drustvo/300376/u-srbiji-danas-pretezno-suncano-ujutru-slab-mraz-temperatura-do-devet-stepeni/vest": "2026-11-24T05:47:28.436565+00:00",
   "https://www.euronews.rs/svet/fokus/253303/harvard-centri-podataka-u-sad-trose-do-99-twh-struje/vest": "2026-11-24T05:47:28.436565+00:00",
   "https://www.tanjug.rs/svet/politika/300366/melanija-tramp-radi-se-na-novim-predlozima-za-primirje-u-ukrajini/vest": "2026-11-24T05:47:28.436565+00:00",
-  "https://www.telegraf.rs/vesti/svet/4438512-melanija-tramp-situacija-u-ukrajini-ide-u-dobrom-pravcu": "2026-11-24T05:47:28.436565+00:00"
+  "https://www.telegraf.rs/vesti/svet/4438512-melanija-tramp-situacija-u-ukrajini-ide-u-dobrom-pravcu": "2026-11-24T05:47:28.436565+00:00",
+  "https://www.tanjug.rs/srbija/politika/300377/danas-nastavak-konstitutivne-sednice-skupstine-srbije/vest": "2026-11-24T06:02:10.788491+00:00",
+  "https://www.telegraf.rs/4438503-danas-nastavak-sednice-skupstine-srbije-poznat-je-dnevni-red-i-o-cemu-ce-se-glasati": "2026-11-24T06:02:10.788491+00:00",
+  "https://www.tanjug.rs/ekonomija/srbija/300380/danas-se-otvara-za-saobracaj-nova-deonica-dunavskog-koridora-od-256-kilometara/vest": "2026-11-24T06:02:10.788491+00:00",
+  "https://www.novosti.rs/ekonomija/vesti/1674010/kursna-lista-srednji-kurs-dinara-evro-117-6503-dinara": "2026-11-24T06:02:10.788491+00:00",
+  "https://www.euronews.rs/biznis/biznis-vesti/253291/radojka-nikolic-zivotni-standard-u-srbiji-stagnira/vest": "2026-11-24T06:02:10.788491+00:00",
+  "https://www.danas.rs/kolumna/nenad-kulacin/skupstina-bitnija-od-gta-6/": "2026-11-24T06:02:10.788491+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-23T15:19+00:00",
-   "novih": 6,
-   "ukupno": 4031,
-   "sekundi": 700.7
-  },
   {
    "vreme": "2026-11-23T15:32+00:00",
    "novih": 8,
@@ -6255,6 +6253,12 @@
    "novih": 1,
    "ukupno": 4206,
    "sekundi": 463.5
+  },
+  {
+   "vreme": "2026-11-24T06:09+00:00",
+   "novih": 1,
+   "ukupno": 4207,
+   "sekundi": 417.8
   }
  ],
  "licnosti_foto": {
@@ -54036,7 +54040,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "upcoming",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-24T05:48:15.939267+00:00",
+  "provereno": "2026-11-24T06:03:24.050764+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": false
  },

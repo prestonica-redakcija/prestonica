@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T04:13:29.356392+00:00",
- "updated": "2026-11-24T04:02:57.046225+00:00",
+ "updated": "2026-11-24T06:02:10.788491+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -74,6 +74,12 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/253382/srednji-kurs-dinara-za-evro-1176503-dinara/vest",
    "title": "Objavljen kursna lista NBS: Evro gotovo nepromenjen, dolar oslabio prema dinaru",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1674010/kursna-lista-srednji-kurs-dinara-evro-117-6503-dinara",
+   "title": "KURSNA LISTA: Srednji kurs dinara za evro 117,6503 dinara",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -84,7 +90,8 @@
   "Narodna banka Srbije objavila brojke: Ovo je srednji kurs dinara 23. novembra",
   "Objavljen zvanični kurs evra za sutra",
   "Srednji kurs dinara za evro u utorak 117,6503 dinara",
-  "Objavljen kursna lista NBS: Evro gotovo nepromenjen, dolar oslabio prema dinaru"
+  "Objavljen kursna lista NBS: Evro gotovo nepromenjen, dolar oslabio prema dinaru",
+  "KURSNA LISTA: Srednji kurs dinara za evro 117,6503 dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -97,8 +104,8 @@
   "alt": "A scattered pile of various euro banknotes including twenty, one hundred, and two hundred denominations",
   "link": "https://unsplash.com/@ibrahimboran"
  },
- "novo_od_pisanja": 2,
- "boost": 1.56,
+ "novo_od_pisanja": 3,
+ "boost": 1.6,
  "prepisano": "2026-11-23T19:21:53.756571+00:00",
  "verzija": 2
 }
