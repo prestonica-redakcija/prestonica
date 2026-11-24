@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.kurir.rs/planeta/10166123/razgovarali-putin-i-takaici": "2026-11-19T04:15:14.792603+00:00",
   "https://www.telegraf.rs/vesti/srbija/4435604-obilne-padavine-ponovo-stizu-u-srbiju-evo-i-kada-otkrivamo-kada-i-gde-preti-olujni-vetar-temperatura-do-20": "2026-11-19T04:30:03.197904+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/252711/kurs-evra-danas-kursna-lista-nbs-za-19-novembar/vest": "2026-11-19T04:44:53.003825+00:00",
   "https://www.kurir.rs/planeta/10166328/trilateralni-sastanak-sija-trampa-i-putina-na-samitu-apec-u-sendzenu-u-kini": "2026-11-19T04:59:42.571922+00:00",
@@ -5880,18 +5879,16 @@
   "https://biznis.telegraf.rs/info-biz/4438417-srednji-kurs-dinara-za-evro-u-utorak-1176503-dinara": "2026-11-24T02:33:51.531249+00:00",
   "https://www.telegraf.rs/vesti/svet/4438478-sankcije-iranu-sad-uvode-nove-mere-protiv-finansijskih-mreza-teherana": "2026-11-24T03:03:23.866757+00:00",
   "https://radar.nova.rs/ekonomija/danica-popovic-selakovic-korupcija-ekspo/": "2026-11-24T03:18:21.105225+00:00",
-  "https://www.euronews.rs/biznis/biznis-vesti/253382/srednji-kurs-dinara-za-evro-1176503-dinara/vest": "2026-11-24T04:02:57.046225+00:00"
+  "https://www.euronews.rs/biznis/biznis-vesti/253382/srednji-kurs-dinara-za-evro-1176503-dinara/vest": "2026-11-24T04:02:57.046225+00:00",
+  "https://nova.rs/magazin/vremenska-prognoza/u-srbiji-ujutru-slab-mraz-tokom-dana-suncano/": "2026-11-24T04:17:52.650439+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4438490-jutro-u-srbiji-uz-slab-mraz-najniza-temperatura-3c": "2026-11-24T04:17:52.650439+00:00",
+  "https://www.kurir.rs/vesti/beograd/10170536/dobrovoljno-davanje-krvi-u-beogradu-i-valjevu-spisak-lokacija-i-satnica": "2026-11-24T04:17:52.650439+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4438404-vase-malo-nekome-znaci-mnogo-evo-gde-danas-mozete-dati-krv": "2026-11-24T04:17:52.650439+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-23T13:33+00:00",
-   "novih": 0,
-   "ukupno": 3985,
-   "sekundi": 558.6
-  },
   {
    "vreme": "2026-11-23T13:48+00:00",
    "novih": 10,
@@ -6245,6 +6242,12 @@
    "novih": 0,
    "ukupno": 4201,
    "sekundi": 593.1
+  },
+  {
+   "vreme": "2026-11-24T04:24+00:00",
+   "novih": 2,
+   "ukupno": 4203,
+   "sekundi": 425.6
   }
  ],
  "licnosti_foto": {
@@ -6394,6 +6397,33 @@
   }
  },
  "videos": [
+  {
+   "id": "eL5ggXOEqME",
+   "title": "Industrie vs. Gewerkschaften — Das Standort-Dilemma",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-24T03:56:00+00:00",
+   "thumb": "https://i.ytimg.com/vi/eL5ggXOEqME/hqdefault.jpg",
+   "live": "none",
+   "desc": "Deutschlands Industrie steht auf der Kippe. Während bei VW und Mercedes Zehntausende Jobs wackeln und Investitionen ins Ausland abzufließen drohen, wird mit harten Worten in die Tarifverhandlungen eingestiegen. Maximilian Stascheit ordnet zusammen mit Romanus Otte von PRO „Industrie & Handel am Morgen“: https://www.politico.eu/politico-pro-industrie-handel-am-morgen-newsletter-trial/ ein, ob der härteste Arbeitskampf in der Geschichte der Branche bevorsteht und welche drastischen Sparmaßnahmen die Autokonzerne jetzt durchdrücken wollen.\n\nIm 200-Sekunden-Interview stellt sich die IG-Metall-Vorsitzende Christiane Benner der Frage, ob die Gewerkschaft angesichts der Krise zu Kompromissen bereit",
+   "spektar": "centar",
+   "viewers": null,
+   "naslov": "Nemačka industrija i sindikati: dilema oko radnih mesta u autoindustriji",
+   "opis": "Snimak POLITICO Europe bavi se krizom nemačke industrije, u kojoj su, kako se navodi, ugrožene desetine hiljada radnih mesta u kompanijama Folksvagen i Mercedes. Maximilian Stascheit i Romanus Otte iz POLITICO PRO razmatraju da li sledi najžešći radni sukob u istoriji sektora.",
+   "tekst": [
+    "U snimku se navodi da su u Folksvagenu i Mercedesu ugrožene desetine hiljada radnih mesta, kao i da postoji opasnost da se investicije presele u inostranstvo. Kolektivni pregovori, kako se kaže, počinju oštrom retorikom.",
+    "Stascheit i Otte, novinari POLITICO PRO biltena o industriji i trgovini, razmatraju da li je pred branšom najteži radni sukob u njenoj istoriji i koje drastične mere štednje automobilski koncerni žele da sprovedu.",
+    "U okviru formata od 200 sekundi govori i predsednica sindikata IG Metall Christiane Benner. Postavlja joj se pitanje da li je sindikat spreman na kompromise u uslovima krize."
+   ],
+   "rubrika": "ekonomija",
+   "oznake": [
+    "Nemačka industrija",
+    "IG Metall",
+    "Christiane Benner",
+    "Folksvagen",
+    "Mercedes"
+   ],
+   "slug": "nemacka-industrija-i-sindikati-dilema-oko-radnih-mesta-u-el5ggxoeqme"
+  },
   {
    "id": "Tam_Dtc7y94",
    "title": "Šapić ostaje, optužbe ostaju",
@@ -8887,33 +8917,6 @@
    "slug": "koalicija-voljnih-pred-ispitom-u-berlinu-uloga-evrope-u-pyixbszphsq"
   },
   {
-   "id": "kjszs0TJBDY",
-   "title": "Die Koalition der Wartenden: Europa blickt nach Shenzhen",
-   "kanal": "POLITICO Europe",
-   "published": "2026-11-19T03:56:00+00:00",
-   "thumb": "https://i.ytimg.com/vi/kjszs0TJBDY/hqdefault.jpg",
-   "live": "none",
-   "desc": "Donald Trump, Xi Jinping und Wladimir Putin verhandeln in Shenzhen womöglich über die neue Weltordnung – und Europa guckt zu. Eine „Koalition der Willigen“ aus Dutzenden Staats- und Regierungschefs sucht gleichzeitig in Berlin nach einer Antwort auf die drohende Verschiebung und plant ein weiteres finanzielles Signal an Moskau, damit Putin den Ukraine-Krieg beendet. Darüber spricht Rixa Fürsen mit Hans von der Burchard.\n\n\n\nIm 200-Sekunden-Interview warnt der CDU-Außenexperte Roderich Kiesewetter erneut vor den Folgen eines schnellen, von Washington diktierten Friedens. Er fordert, aus den Willigen nun Entschlossene zu machen.\n\n\n\nInnenpolitisch liefert die schwarz-rote Koalition derweil ein s",
-   "spektar": "centar",
-   "viewers": null,
-   "naslov": "Evropa posmatra Šenžen dok koalicija voljnih u Berlinu traži odgovor",
-   "opis": "U emisiji POLITICO Europe govori se o tome da Tramp, Si Điping i Putin možda u Šenženu razgovaraju o novom svetskom poretku, dok Evropa čeka. Novinarka Rixa Fürsen razgovara sa Hansom von der Burchardom, a gost je i Roderich Kiesewetter iz CDU.",
-   "tekst": [
-    "U emisiji se navodi da Donald Tramp, Si Điping i Vladimir Putin u Šenženu možda pregovaraju o novom svetskom poretku, dok Evropa to prati sa strane. Istovremeno se u Berlinu okuplja „koalicija voljnih“ sa desetinama državnih i vladinih lidera, koja traži odgovor na moguće odlaganje i planira novi finansijski signal Moskvi kako bi Putin okončao rat u Ukrajini.",
-    "O tome razgovaraju Rixa Fürsen i Hans von der Burchard.",
-    "U intervjuu od 200 sekundi Roderich Kiesewetter, spoljnopolitički stručnjak CDU, ponovo upozorava na posledice brzog mira koji bi diktirao Vašington. On u snimku traži da se od „voljnih“ naprave „odlučni“."
-   ],
-   "rubrika": "svet",
-   "oznake": [
-    "Koalicija voljnih",
-    "Roderich Kiesewetter",
-    "Ukrajina",
-    "Šenžen",
-    "POLITICO Europe"
-   ],
-   "slug": "evropa-posmatra-senzen-dok-koalicija-voljnih-u-berlinu-kjszs0tjbdy"
-  },
-  {
    "id": "nrp2Lg5Lsjw",
    "title": "INTERVJU: Dragomir Anđelković - Otkrio šta će se desiti ako ostane Vučić na slobodi! (18.11.2026)",
    "kanal": "Slavija Info",
@@ -8987,7 +8990,7 @@
    "slug": "aleksandar-ivanovic-sedeo-sam-u-prostoriji-sa-covekom-koji-6vhn2aan3j8"
   }
  ],
- "_novi_snimci": false,
+ "_novi_snimci": true,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -9074,15 +9077,15 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2124915956379976089",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "parandilovicnls": {
     "since_id": "2124971304579411982",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "ininic": {
     "since_id": "2125023275155911090",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -9090,15 +9093,15 @@
    },
    "sviublokade_fdu": {
     "since_id": "2124504391600210079",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "dragandjilas": {
     "since_id": "2121691848313884992",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "marinikatepic": {
     "since_id": "2122007271508959331",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "radomirlazovic": {
     "since_id": null,
@@ -9122,27 +9125,27 @@
    },
    "avucic": {
     "since_id": "2124882664565952926",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "anabrnabic": {
     "since_id": "2124975388044763382",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "milos_vucevic": {
     "since_id": "2124803967268057206",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "sns_srbija": {
     "since_id": "2124954541858881999",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "studentblokade": {
     "since_id": "2124876177525391719",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -9178,31 +9181,31 @@
    },
    "markodjuric": {
     "since_id": "2123870662255419709",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "nstarovic": {
     "since_id": "2122967633863565451",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "milenkojovanov": {
     "since_id": "2124130847993336246",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "acasapic": {
     "since_id": null,
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "borkostef": {
     "since_id": "2123837042505155014",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "dobrinacelnik": {
     "since_id": "2124860523967648079",
@@ -9214,7 +9217,7 @@
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "srdjanmil037": {
     "since_id": "2124854434559610956",
@@ -9266,7 +9269,7 @@
    },
    "borakonj": {
     "since_id": "2124868959308488959",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "narodnipokrets": {
     "since_id": "2124821953370267690",
@@ -9274,51 +9277,51 @@
    },
    "direktnors": {
     "since_id": "2124970643242582142",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "crtars": {
     "since_id": "2124910039161044995",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "veceivan": {
     "since_id": "2124889813165973767",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "repjoewilson": {
     "since_id": "2125024964466073894",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "jugoslavcosic": {
     "since_id": "2123147946694787141",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "tvnova_s": {
     "since_id": "2124973057731162430",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "oljautisak": {
     "since_id": "2124115162684629476",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "srdjan_nogo": {
     "since_id": "2123527863307735237",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "agrifblokira": {
     "since_id": "2124971529389920662",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "etfblokada": {
     "since_id": "2124925642714259902",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "nastraninaroda": {
     "since_id": "2124240486932386139",
@@ -9326,15 +9329,15 @@
    },
    "bcenzure": {
     "since_id": "2124978841613422778",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "bezstraha26279": {
     "since_id": "2124944401298543087",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "lazidetektor": {
     "since_id": "2124961074805940380",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "nedeljniknin": {
     "since_id": "2125001447226196305",
@@ -9350,11 +9353,11 @@
    },
    "tvbalkaninfo": {
     "since_id": "2124878813276344672",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "1152justice": {
     "since_id": "2123584561330217393",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    },
    "zatrijebacki": {
     "since_id": "2123844027036709035",
@@ -9386,7 +9389,7 @@
    },
    "masinars": {
     "since_id": "2124978562792837190",
-    "t": 1795489419.7515442
+    "t": 1795493922.1477616
    }
   },
   "posts": [
@@ -48818,6 +48821,10 @@
   "t:drzava niger": {
    "t": 1795476965.01677,
    "items": []
+  },
+  "t:institut za transfuziju krvi srbije": {
+   "t": 1795493917.3430114,
+   "items": []
   }
  },
  "x_objave": {
@@ -54068,7 +54075,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "upcoming",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-24T04:03:34.262103+00:00",
+  "provereno": "2026-11-24T04:18:55.674200+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": false
  },
@@ -65045,6 +65052,29 @@
    ],
    "slug": "rasprava-o-smeni-sapica-u-skupstini-grada-trajala-tri-sata-tam-dtc7y94",
    "spektar": "opozicija"
+  },
+  "eL5ggXOEqME": {
+   "id": "eL5ggXOEqME",
+   "title": "Industrie vs. Gewerkschaften — Das Standort-Dilemma",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-24T03:56:00+00:00",
+   "naslov": "Nemačka industrija i sindikati: dilema oko radnih mesta u autoindustriji",
+   "opis": "Snimak POLITICO Europe bavi se krizom nemačke industrije, u kojoj su, kako se navodi, ugrožene desetine hiljada radnih mesta u kompanijama Folksvagen i Mercedes. Maximilian Stascheit i Romanus Otte iz POLITICO PRO razmatraju da li sledi najžešći radni sukob u istoriji sektora.",
+   "tekst": [
+    "U snimku se navodi da su u Folksvagenu i Mercedesu ugrožene desetine hiljada radnih mesta, kao i da postoji opasnost da se investicije presele u inostranstvo. Kolektivni pregovori, kako se kaže, počinju oštrom retorikom.",
+    "Stascheit i Otte, novinari POLITICO PRO biltena o industriji i trgovini, razmatraju da li je pred branšom najteži radni sukob u njenoj istoriji i koje drastične mere štednje automobilski koncerni žele da sprovedu.",
+    "U okviru formata od 200 sekundi govori i predsednica sindikata IG Metall Christiane Benner. Postavlja joj se pitanje da li je sindikat spreman na kompromise u uslovima krize."
+   ],
+   "rubrika": "ekonomija",
+   "oznake": [
+    "Nemačka industrija",
+    "IG Metall",
+    "Christiane Benner",
+    "Folksvagen",
+    "Mercedes"
+   ],
+   "slug": "nemacka-industrija-i-sindikati-dilema-oko-radnih-mesta-u-el5ggxoeqme",
+   "spektar": "centar"
   }
  }
 }
