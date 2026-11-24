@@ -27,17 +27,24 @@
  ],
  "importance": 5,
  "published": "2026-11-24T11:30:04.987837+00:00",
- "updated": "2026-11-24T11:30:04.987837+00:00",
+ "updated": "2026-11-24T11:45:00.940273+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/valentik-svako-ko-je-radio-protivustavno-i-protivno-zakonu-treba-da-odgovara-i-odgovarace-za-svoje-postupke/",
    "title": "Valentik: Svako ko je radio protivustavno i protivno zakonu treba da odgovara i odgovaraće za svoje postupke",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300377/valentik-se-izvinila-zbog-svoje-izjave-vucic-to-je-pokvareni-trik/vest",
+   "title": "Valentik se izvinila zbog svoje izjave; Vučić: To je pokvareni trik",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Valentik: Svako ko je radio protivustavno i protivno zakonu treba da odgovara i odgovaraće za svoje postupke"
+  "Valentik: Svako ko je radio protivustavno i protivno zakonu treba da odgovara i odgovaraće za svoje postupke",
+  "Valentik se izvinila zbog svoje izjave; Vučić: To je pokvareni trik"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Narodna_skupstina_Srbije.jpg",
   "alt": "Valentik se izvinila poslanicima liste Aleksandar Vučić - Ujedinjena Srbija"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

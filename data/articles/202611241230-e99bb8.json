@@ -32,17 +32,24 @@
  ],
  "importance": 4,
  "published": "2026-11-24T11:30:04.987837+00:00",
- "updated": "2026-11-24T11:30:04.987837+00:00",
+ "updated": "2026-11-24T11:45:00.940273+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/biznis/biznis-vesti/253450/srpski-startapi-na-expand-north-star-2026-u-dubaiju/vest",
    "title": "Srpski startap, vredan 1,5 milijardi američkih dolara, okreće se globalnom tržištu na događaju Expand North Star u UAE",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/300497/srpski-inovatori-na-dogadaju-expand-north-star-2026-od-8-do-10-decembra-u-dubaiju/vest",
+   "title": "Srpski inovatori na događaju \"Expand North Star 2026\" od 8. do 10. decembra u Dubaiju",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Srpski startap, vredan 1,5 milijardi američkih dolara, okreće se globalnom tržištu na događaju Expand North Star u UAE"
+  "Srpski startap, vredan 1,5 milijardi američkih dolara, okreće se globalnom tržištu na događaju Expand North Star u UAE",
+  "Srpski inovatori na događaju \"Expand North Star 2026\" od 8. do 10. decembra u Dubaiju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "alt": "The Burj Khalifa and skyscrapers above a multi-level highway interchange in Dubai",
   "link": "https://unsplash.com/@david__r"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

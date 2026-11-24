@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T16:22:56.449660+00:00",
- "updated": "2026-11-24T09:30:42.550620+00:00",
+ "updated": "2026-11-24T11:45:00.940273+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,12 +44,19 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/300442/u-domu-zdravlja-nis-do-27-novembra-akcija-otvorena-vrata-za-hpv-vakcijanaciju/vest",
    "title": "U Domu zdravlja Niš do 27. novembra akcija \"Otvorena vrata za HPV vakcijanaciju\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4438664-u-niskom-domu-zdravlja-do-27-novembra-akcija-otvorena-vrata-za-hpv-vakcijanaciju",
+   "title": "U niškom Domu zdravlja do 27. novembra akcija \"Otvorena vrata za HPV vakcijanaciju\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Dan otvorenih vrata u DZ Novi Sad: U subotu vakcinacija dece HPV i dT vakcinom",
   "Dan otvorenih vrata u Domu zdravlja Novi Sad: U subotu vakcinacija dece HPV i dT vakcinom",
-  "U Domu zdravlja Niš do 27. novembra akcija \"Otvorena vrata za HPV vakcijanaciju\""
+  "U Domu zdravlja Niš do 27. novembra akcija \"Otvorena vrata za HPV vakcijanaciju\"",
+  "U niškom Domu zdravlja do 27. novembra akcija \"Otvorena vrata za HPV vakcijanaciju\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Dom_zdravlja_Novi_Sad.jpg",
   "alt": "Dom zdravlja Novi Sad u subotu vakciniše decu HPV i dT vakcinom bez zakazivanja"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

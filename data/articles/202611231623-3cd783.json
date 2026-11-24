@@ -30,17 +30,24 @@
  ],
  "importance": 4,
  "published": "2026-11-23T15:23:19.150328+00:00",
- "updated": "2026-11-23T15:23:19.150328+00:00",
+ "updated": "2026-11-24T11:45:00.940273+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/bjelic-sitab-nije-tipican-predstavnik-taksista-potrebno-ukidanje-ogranicenja",
    "title": "Bjelić: SITAB nije tipičan predstavnik taksista, potrebno ukidanje ograničenja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/bulatovic-sitab-nakon-usvajanja-izmene-odluke-o-taksi-prevozu-razmatramo-dalje-korake/",
+   "title": "Bulatović (SITAB): Nakon usvajanja izmene Odluke o taksi prevozu razmatramo dalje korake",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Bjelić: SITAB nije tipičan predstavnik taksista, potrebno ukidanje ograničenja"
+  "Bjelić: SITAB nije tipičan predstavnik taksista, potrebno ukidanje ograničenja",
+  "Bulatović (SITAB): Nakon usvajanja izmene Odluke o taksi prevozu razmatramo dalje korake"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "Taxis waiting outside a building at night",
   "link": "https://unsplash.com/@40uf411"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

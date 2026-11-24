@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T11:00:18.955630+00:00",
- "updated": "2026-11-24T11:30:04.987837+00:00",
+ "updated": "2026-11-24T11:45:00.940273+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -79,6 +79,12 @@
    "url": "https://insajder.net/prenosimo/rem-obustavio-postupak-protiv-rts-a-u-slucaju-predizbornog-spota-sns-a",
    "title": "REM obustavio postupak protiv RTS-a u slučaju predizbornog spota SNS-a",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674223/iznajmljen-termin-zakonu-postoji-rem-izrekao-upozorenje-podneo-prekrsajnu-prijavu-protiv-hepi",
+   "title": "„IZNAJMLjEN TERMIN“ PO ZAKONU NE POSTOJI: REM izrekao upozorenje i podneo prekršajnu prijavu protiv TV Hepi",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -89,7 +95,8 @@
   "Savet REM-a obustavio postupak protiv RTS",
   "SAVET REM-A OBUSTAVIO POSTUPAK PROTIV RTS: Nema elemenata za izricanje mere",
   "Savet REM-a obustavio postupak protiv RTS; \"Nema elemenata za izricanje mere\"",
-  "REM obustavio postupak protiv RTS-a u slučaju predizbornog spota SNS-a"
+  "REM obustavio postupak protiv RTS-a u slučaju predizbornog spota SNS-a",
+  "„IZNAJMLjEN TERMIN“ PO ZAKONU NE POSTOJI: REM izrekao upozorenje i podneo prekršajnu prijavu protiv TV Hepi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -103,6 +110,6 @@
   "osoba": "Rodoljub Šabić",
   "alt": "REM izrekao meru upozorenja TV Hepi, postupak protiv RTS 1 obustavljen"
  },
- "novo_od_pisanja": 5,
- "boost": 1.4
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }
