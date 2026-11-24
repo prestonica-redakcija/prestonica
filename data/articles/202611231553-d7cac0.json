@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T14:53:23.090850+00:00",
- "updated": "2026-11-23T16:07:56.396557+00:00",
+ "updated": "2026-11-24T08:01:19.541357+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -44,11 +44,18 @@
    "url": "https://www.telegraf.rs/4438316-snimak-iz-skupstine-srbije-privukao-paznju-evo-kako-su-reagovali-bakic-i-vucic-dok-su-sedeli-jedan-uz-drugog",
    "title": "Snimak iz Skupštine Srbije privukao pažnju: Evo kako su reagovali Bakić i Vučić dok su sedeli jedan uz drugog",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1172698/jovo-bakic-snimak-ples",
+   "title": "Isplivao šok snimak Jova Bakića: Ovo morate da pogledate (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "VIDEO Imamo snimak godine: Pogledajte kako Jovo Bakić i Aleksandar Vučić sede jedan do drugog na konsultacijama u Skupštini Srbije",
-  "Snimak iz Skupštine Srbije privukao pažnju: Evo kako su reagovali Bakić i Vučić dok su sedeli jedan uz drugog"
+  "Snimak iz Skupštine Srbije privukao pažnju: Evo kako su reagovali Bakić i Vučić dok su sedeli jedan uz drugog",
+  "Isplivao šok snimak Jova Bakića: Ovo morate da pogledate (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +70,6 @@
   "izvor_x": true,
   "alt": "Konsultacije u Skupštini: Bakić i Vučić za istim stolom pred nastavak konstitutivne sednice"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T06:31:57.987626+00:00",
- "updated": "2026-11-24T06:31:57.987626+00:00",
+ "updated": "2026-11-24T08:01:19.541357+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,11 +44,18 @@
    "url": "https://www.b92.net/info/svet/287585/juzna-koreja-podigla-borbene-avione-nakon-ulaska-ruskih-letelica-u-zonu-pvo/vest",
    "title": "Rusi su upali; Južna Koreja podigla borbene avione",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10170954/ruski-borbeni-avioni-usli-u-zonu-pvo-juzne-koreje-seul-digao-lovce",
+   "title": "RUSKI BORBENI AVIONI UPALI U ZONU PVO JUŽNE KOREJE! Seul jutros odmah digao lovce i izdao upozorenje na ostrvu Uleung",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Južna Koreja podigla borbene avione nakon ulaska ruskih letelica u zonu PVO",
-  "Rusi su upali; Južna Koreja podigla borbene avione"
+  "Rusi su upali; Južna Koreja podigla borbene avione",
+  "RUSKI BORBENI AVIONI UPALI U ZONU PVO JUŽNE KOREJE! Seul jutros odmah digao lovce i izdao upozorenje na ostrvu Uleung"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Ruski avioni ušli u južnokorejsku zonu PVO, Seul podigao borbene avione"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

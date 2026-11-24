@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T04:13:29.356392+00:00",
- "updated": "2026-11-24T06:46:52.706910+00:00",
+ "updated": "2026-11-24T08:01:19.541357+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -86,6 +86,12 @@
    "url": "https://nova.rs/vesti/biznis/pogledajte-danasnji-kurs-nbs-objavila-da-to-najmanja-vrednost-dinara-prema-evru-u-ovoj-godini/",
    "title": "Pogledajte današnji kurs: NBS objavila da to najmanja vrednost dinara prema evru u ovoj godini",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/300410/srednji-kurs-dinara-za-evro-danas-1176503-dinara-za-dolar-1078174/vest",
+   "title": "Srednji kurs dinara za evro danas 117,6503 dinara, za dolar 107,8174",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -98,7 +104,8 @@
   "Srednji kurs dinara za evro u utorak 117,6503 dinara",
   "Objavljen kursna lista NBS: Evro gotovo nepromenjen, dolar oslabio prema dinaru",
   "KURSNA LISTA: Srednji kurs dinara za evro 117,6503 dinara",
-  "Pogledajte današnji kurs: NBS objavila da to najmanja vrednost dinara prema evru u ovoj godini"
+  "Pogledajte današnji kurs: NBS objavila da to najmanja vrednost dinara prema evru u ovoj godini",
+  "Srednji kurs dinara za evro danas 117,6503 dinara, za dolar 107,8174"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -111,7 +118,7 @@
   "alt": "A scattered pile of various euro banknotes including twenty, one hundred, and two hundred denominations",
   "link": "https://unsplash.com/@ibrahimboran"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-23T19:21:53.756571+00:00",
  "verzija": 2

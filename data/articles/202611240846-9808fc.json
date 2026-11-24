@@ -28,7 +28,7 @@
  ],
  "importance": 7,
  "published": "2026-11-24T07:46:23.419063+00:00",
- "updated": "2026-11-24T07:46:23.419063+00:00",
+ "updated": "2026-11-24T08:01:19.541357+00:00",
  "sources": [
   {
    "name": "B92",
@@ -53,13 +53,34 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10159945/preminuo-mitropolit-backi-irinej-bulovic",
    "title": "Preminuo Mitropolit bački Irinej Bulović: Tuga u SPC",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674093/preminuo-mitropolit-backi-irinej-bulovic",
+   "title": "PREMINUO MITROPOLIT BAČKI IRINEJ BULOVIĆ",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4438567-umro-mitropolit-backi-irinej-bulovic",
+   "title": "Umro mitropolit bački Irinej Bulović",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/preminuo-mitropolit-backi-irinej-bulovic/",
+   "title": "Preminuo mitropolit bački Irinej Bulović",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Preminuo mitropolit bački Irinej",
   "PREMINUO MITROPOLIT BAČKI IRINEJ",
   "Preminuo mitropolit Irinej Bulović",
-  "Preminuo Mitropolit bački Irinej Bulović: Tuga u SPC"
+  "Preminuo Mitropolit bački Irinej Bulović: Tuga u SPC",
+  "PREMINUO MITROPOLIT BAČKI IRINEJ BULOVIĆ",
+  "Umro mitropolit bački Irinej Bulović",
+  "Preminuo mitropolit bački Irinej Bulović"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,5 +93,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Irinej_Bulovi%C4%87.jpg",
   "osoba": "Irinej Bulović",
   "alt": "Preminuo mitropolit bački Irinej Bulović"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
