@@ -34,7 +34,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T20:51:11.195466+00:00",
- "updated": "2026-11-23T20:51:11.195466+00:00",
+ "updated": "2026-11-24T07:01:48.347062+00:00",
  "sources": [
   {
    "name": "B92",
@@ -47,11 +47,18 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10170793/temperature-srbija-kopaonik-minus-9-sneg-putevi",
    "title": "TEMPERATURE U SRBIJI PALE ISPOD NULE! Ovo su najhladnija mesta u zemlji tokom večeri: Putevi Srbije upozoravaju na sneg na kolovozima, a evo šta nas čeka sutra",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300400/rhmz-u-sedam-sati-najhladnije-na-kopaoniku-sa-minus-10-stepeni-u-vecini-mesta-ispod-nule/vest",
+   "title": "RHMZ: U sedam sati najhladnije na Kopaoniku sa minus 10 stepeni, u većini mesta ispod nule",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "MUP upozorio građane; Srbija na udaru ledenog talasa – temperature ispod nule",
-  "TEMPERATURE U SRBIJI PALE ISPOD NULE! Ovo su najhladnija mesta u zemlji tokom večeri: Putevi Srbije upozoravaju na sneg na kolovozima, a evo šta nas čeka sutra"
+  "TEMPERATURE U SRBIJI PALE ISPOD NULE! Ovo su najhladnija mesta u zemlji tokom večeri: Putevi Srbije upozoravaju na sneg na kolovozima, a evo šta nas čeka sutra",
+  "RHMZ: U sedam sati najhladnije na Kopaoniku sa minus 10 stepeni, u većini mesta ispod nule"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +70,7 @@
   "local": false,
   "alt": "time lapse photography of cars on road between trees during night time",
   "link": "https://unsplash.com/@ljubazarkovic"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

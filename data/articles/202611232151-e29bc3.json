@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T20:51:11.195466+00:00",
- "updated": "2026-11-23T20:51:11.195466+00:00",
+ "updated": "2026-11-24T07:01:48.347062+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,11 +44,18 @@
    "url": "https://www.b92.net/info/svet/287559/tramp-naredio-vojsci-da-ne-unistava-eksplozivne-materije-u-ajovi-bez-odobrenja-suda/vest",
    "title": "Tramp izdao naređenje vojsci; Stanovnici Ajove u panici – zatvaraju prozore i vrata",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/300402/americka-vojska-sutra-detonira-eksploziv-sa-olovom-u-ajovi/vest",
+   "title": "Američka vojska sutra detonira eksploziv sa olovom u Ajovi",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Tramp naredio vojsci da ne uništava eksplozivne materije u Ajovi bez odobrenja suda",
-  "Tramp izdao naređenje vojsci; Stanovnici Ajove u panici – zatvaraju prozore i vrata"
+  "Tramp izdao naređenje vojsci; Stanovnici Ajove u panici – zatvaraju prozore i vrata",
+  "Američka vojska sutra detonira eksploziv sa olovom u Ajovi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Tramp: vojska neće uništavati olovni azid u Ajovi bez odobrenja apelacionog suda"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
