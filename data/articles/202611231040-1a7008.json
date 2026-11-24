@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T09:40:32.910688+00:00",
- "updated": "2026-11-23T16:07:56.396557+00:00",
+ "updated": "2026-11-24T16:58:36.932241+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -46,11 +46,18 @@
    "url": "https://www.youtube.com/watch?v=FNkA7TjxPPg",
    "title": "Borba za Srbiju se nastavlja.",
    "spektar": "stranka"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=J3oz1fKiPlI",
+   "title": "Pantić Pilja: Nastavljamo borbu za Srbiju",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
   "NASTAVAK BORBE ZA DVA PITANJA OD NACIONALNOG ZNAČAJA! Nema odustajanja od Kosova i Metohije i Republike Srpske!",
-  "Borba za Srbiju se nastavlja."
+  "Borba za Srbiju se nastavlja.",
+  "Pantić Pilja: Nastavljamo borbu za Srbiju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "osoba": "Nenad Stevandić",
   "alt": "Program Studentske liste: očuvanje KiM u sastavu Srbije i ustavnog položaja RS"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

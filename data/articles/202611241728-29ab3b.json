@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T16:28:52.481798+00:00",
- "updated": "2026-11-24T16:28:52.481798+00:00",
+ "updated": "2026-11-24T16:58:36.932241+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,12 +48,19 @@
    "url": "https://www.danas.rs/vesti/ekonomija/dri-oko-44-odsto-lokalnih-samouprava-bez-akcionih-planova-za-migracije/",
    "title": "DRI: Oko 44 odsto lokalnih samouprava bez akcionih planova za migracije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/dri-oko-44-odsto-lokalnih-samouprava-bez-akcionih-planova-za-migracije-340-miliona-dinara-potroseno-mimo-programa",
+   "title": "DRI: Oko 44 odsto lokalnih samouprava bez akcionih planova za migracije, 340 miliona dinara potrošeno mimo programa",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "DRI: Oko 44 odsto lokalnih samouprava bez akcionih planova za migracije",
   "DRI: Oko 44 odsto lokalnih samouprava bez akcionih planova za migracije",
-  "DRI: Oko 44 odsto lokalnih samouprava bez akcionih planova za migracije"
+  "DRI: Oko 44 odsto lokalnih samouprava bez akcionih planova za migracije",
+  "DRI: Oko 44 odsto lokalnih samouprava bez akcionih planova za migracije, 340 miliona dinara potrošeno mimo programa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,5 +72,7 @@
   "local": false,
   "alt": "Public trust office building facade with columns",
   "link": "https://unsplash.com/@donaldwuid"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

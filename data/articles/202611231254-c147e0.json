@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T11:54:36.696000+00:00",
- "updated": "2026-11-24T16:28:52.481798+00:00",
+ "updated": "2026-11-24T16:58:36.932241+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -119,6 +119,24 @@
    "url": "https://www.danas.rs/svet/srpski-studenti-protiv-rezolucije-o-vukovaru-odrgovorio-im-hrvatski-evroparlamentarac/",
    "title": "Srpski studenti protiv rezolucije o Vukovaru, odgovorio im hrvatski evroparlamentarac",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10171061/rezolucija-o-vukovaru-sta-hrvatski-poslanici-traze-od-srbije",
+   "title": "ŠTA HRVATSKI POSLANICI U EVROPSKOM PARLAMENTU TRAŽE OD SRBIJE: Evo šta sve piše u nacrtu rezolucije o Vukovaru i šta su poručili Studentskoj listi",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10171783/linta-evropski-parlament-ne-treba-da-podrzi-rezoluciju-o-vukovaru-u-sadasnjem-obliku",
+   "title": "\"HRVATSKA I DALJE PREĆUTKUJE STRADANJE SRBA\"! LINTA: Evropski parlament ne treba da podrži rezoluciju o Vukovaru u sadašnjem obliku!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10171266/veljko-odalovic-o-rezoluciji-o-vukovaru",
+   "title": "\"NEMA IZBALANSIRANOG PRISTUPA PREMA ZLOČINIMA\"! Odalović: Predlogom rezolucije o Vukovaru Hrvatska pokušava da promeni istoriju",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -136,7 +154,10 @@
   "Studentskoj listi stigao odgovor iz Hrvatske nakon kritike predloga rezolucije o Vukovaru",
   "Linta pozvao poslanike Evropskog parlamenta da ne podrže Rezoluciju o Vukovaru",
   "Linta pozvao poslanike Evropskog parlamenta da ne podrže Rezoluciju o Vukovaru",
-  "Srpski studenti protiv rezolucije o Vukovaru, odgovorio im hrvatski evroparlamentarac"
+  "Srpski studenti protiv rezolucije o Vukovaru, odgovorio im hrvatski evroparlamentarac",
+  "ŠTA HRVATSKI POSLANICI U EVROPSKOM PARLAMENTU TRAŽE OD SRBIJE: Evo šta sve piše u nacrtu rezolucije o Vukovaru i šta su poručili Studentskoj listi",
+  "\"HRVATSKA I DALJE PREĆUTKUJE STRADANJE SRBA\"! LINTA: Evropski parlament ne treba da podrži rezoluciju o Vukovaru u sadašnjem obliku!",
+  "\"NEMA IZBALANSIRANOG PRISTUPA PREMA ZLOČINIMA\"! Odalović: Predlogom rezolucije o Vukovaru Hrvatska pokušava da promeni istoriju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -148,7 +169,7 @@
   "local": true,
   "alt": "Studenti u blokadi kritikovali predlog rezolucije Evropskog parlamenta o Vukovaru"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 6,
  "boost": 1.6,
  "prepisano": "2026-11-23T21:50:49.650794+00:00",
  "verzija": 3

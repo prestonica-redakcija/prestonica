@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T09:15:46.899242+00:00",
- "updated": "2026-11-24T16:28:52.481798+00:00",
+ "updated": "2026-11-24T16:58:36.932241+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -66,6 +66,18 @@
    "url": "https://www.kurir.rs/vesti/srbi-na-kim/10171769/kancelarija-za-kim-o-kamenovanju-hrama-svetog-proroka-ilije-u-cernici",
    "title": "KANCELARIJA ZA KiM O KAMENOVANJU HRAMA SVETOG PROROKA ILIJE U CERNICI: Akt verskog ekstremizma i netrpeljivosti",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/kancelarija-za-kosovo-i-metohiju-kamenovan-hram-svetog-proroka-ilije-u-cernici",
+   "title": "Kancelarija za Kosovo i Metohiju: Kamenovan Hram Svetog proroka Ilije u Cernici",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4439084-kamenovana-pravoslavna-svetinja-na-kim",
+   "title": "Kamenovana pravoslavna svetinja na KiM",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -74,7 +86,9 @@
   "NOVI PRITISAK NA SRBE SA KIM: Kamenovana zvonara crkve Svetog Ilije u Cernici kod Gnjilana",
   "Kancelarija za KiM: Kamenovan Hram svetog proroka Ilije u Cernici",
   "Kancelarija za KiM: \"Kamenovan Hram svetog proroka Ilije u Cernici\"",
-  "KANCELARIJA ZA KiM O KAMENOVANJU HRAMA SVETOG PROROKA ILIJE U CERNICI: Akt verskog ekstremizma i netrpeljivosti"
+  "KANCELARIJA ZA KiM O KAMENOVANJU HRAMA SVETOG PROROKA ILIJE U CERNICI: Akt verskog ekstremizma i netrpeljivosti",
+  "Kancelarija za Kosovo i Metohiju: Kamenovan Hram Svetog proroka Ilije u Cernici",
+  "Kamenovana pravoslavna svetinja na KiM"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -87,8 +101,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Crkva_Svetog_Ilije,_Rti_(op%C5%A1tina_Lu%C4%8Dani)_05.jpg",
   "alt": "Kamenovana zvonara u porti crkve Svetog Ilije u Cernici kod Gnjilana"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.56,
  "prepisano": "2026-11-24T16:28:52.481798+00:00",
  "verzija": 2
 }

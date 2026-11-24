@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T07:16:38.934187+00:00",
- "updated": "2026-11-24T16:28:52.481798+00:00",
+ "updated": "2026-11-24T16:58:36.932241+00:00",
  "sources": [
   {
    "name": "N1",
@@ -72,6 +72,18 @@
    "url": "https://www.kurir.rs/vesti/politika/10171765/mup-i-direkcija-policije-odbacili-optuzbe-srdjana-milivojevica",
    "title": "OGLASIO SE MUP O IZJAVI MILIVOJEVIĆA (DS): \"Zlonamerni i netačni navodi, preduzećemo pravne korake!\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300628/mup-netacne-i-zlonamerne-tvrdnje-milivojevica-o-pripadnicima-ukp-i-uprave-policije/vest",
+   "title": "MUP: Netačne i zlonamerne tvrdnje Milivojevića o pripadnicima UKP i Uprave policije",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/mup-reagovao-na-tvrdnje-milivojevica-da-je-deo-policije-bio-aktivan-u-radu-situacionog-centra-u-bia/",
+   "title": "MUP reagovao na tvrdnje Milivojevića da je deo policije bio aktivan u radu situacionog centra u BIA",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -81,7 +93,9 @@
   "BIA odbacila optužbe o postojanju Situacionog centra za hibridne pretnje",
   "BIA POVODOM IZJAVE MILIVOJEVIĆA: Odbacujemo sve zlonamerne i lažne optužbe o navodnom Situacionog centra za hibridne pretnje",
   "OGLASILA SE BIA POVODOM IZJAVE MILIVOJEVIĆA (DS): Odbacujemo sve zlonamerne i lažne optužbe o navodnom postojanju Situacionog centra za hibridne pretnje",
-  "OGLASIO SE MUP O IZJAVI MILIVOJEVIĆA (DS): \"Zlonamerni i netačni navodi, preduzećemo pravne korake!\""
+  "OGLASIO SE MUP O IZJAVI MILIVOJEVIĆA (DS): \"Zlonamerni i netačni navodi, preduzećemo pravne korake!\"",
+  "MUP: Netačne i zlonamerne tvrdnje Milivojevića o pripadnicima UKP i Uprave policije",
+  "MUP reagovao na tvrdnje Milivojevića da je deo policije bio aktivan u radu situacionog centra u BIA"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -94,8 +108,8 @@
   "alt": "an old run down building on a street corner",
   "link": "https://unsplash.com/@lambi13"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-24T09:01:04.718161+00:00",
  "verzija": 2
 }

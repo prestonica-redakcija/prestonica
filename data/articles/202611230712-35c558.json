@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T06:12:18.130561+00:00",
- "updated": "2026-11-24T16:28:52.481798+00:00",
+ "updated": "2026-11-24T16:58:36.932241+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -47,11 +47,18 @@
    "url": "https://n1info.rs/najave-emisija/n1-studio-live-bez-srbije-na-samitu-u-briselu/",
    "title": "N1 Studio live: Bez Srbije na Samitu u Briselu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/video/n1-studio-live/n1-studio-live-23112026/",
+   "title": "N1 Studio Live (23.11.2026)",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Srbija i EU biće u svađi za šest meseci: Upozorenje posle prve odluke \"Studentske liste\"",
-  "N1 Studio live: Bez Srbije na Samitu u Briselu"
+  "N1 Studio live: Bez Srbije na Samitu u Briselu",
+  "N1 Studio Live (23.11.2026)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +70,6 @@
   "local": true,
   "alt": "Čupić neće na samit EU i Zapadni Balkan, analitičari različito o posledicama"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

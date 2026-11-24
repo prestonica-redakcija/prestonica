@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-23T09:40:32.910688+00:00",
- "updated": "2026-11-23T23:05:09.416142+00:00",
+ "updated": "2026-11-24T16:58:36.932241+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -68,6 +68,12 @@
    "url": "https://www.novosti.rs/vesti/politika/1674071/zastita-spc-kim-sta-najavljuje-gasic-sta-vec-uradila-srpska-lista",
    "title": "ZAŠTITA SPC NA KIM: Šta najavljuje Gašić, a šta je već uradila Srpska lista",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/rasic-zakon-o-centralnom-kulturnom-inspektoratu/",
+   "title": "Rašić: Zakon o Centralnom kulturnom inspektoratu usaglasiti sa ustavom i zakonima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -76,7 +82,8 @@
   "Igor Simić: Srpska lista podnela amandmane na Nacrt zakona o centralnom inspektoratu",
   "Simić: Srpska lista podnela amandmane na nacrt zakona o centralnom inspektoratu",
   "SRPSKA LISTA VEĆ URADILA ONO O ČEMU GAŠIĆ GOVORI: Podneti amandmani za zaštitu SPC na KiM",
-  "ZAŠTITA SPC NA KIM: Šta najavljuje Gašić, a šta je već uradila Srpska lista"
+  "ZAŠTITA SPC NA KIM: Šta najavljuje Gašić, a šta je već uradila Srpska lista",
+  "Rašić: Zakon o Centralnom kulturnom inspektoratu usaglasiti sa ustavom i zakonima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -89,8 +96,8 @@
   "alt": "A large building with a clock tower on top of it",
   "link": "https://unsplash.com/@tbister98"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-23T22:35:27.144767+00:00",
  "verzija": 2
 }
