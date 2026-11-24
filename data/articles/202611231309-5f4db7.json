@@ -23,17 +23,24 @@
  ],
  "importance": 4,
  "published": "2026-11-23T12:09:30.329551+00:00",
- "updated": "2026-11-23T12:09:30.329551+00:00",
+ "updated": "2026-11-24T06:17:17.877061+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/video/novi-dan/press-radomir-diklic-23112026/",
    "title": "Press: Radomir Diklić (23.11.2026)",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/zanimljivosti/sudoku/4438231-sudoku-za-utorak-24112026",
+   "title": "Sudoku za utorak 24.11.2026.",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Press: Radomir Diklić (23.11.2026)"
+  "Press: Radomir Diklić (23.11.2026)",
+  "Sudoku za utorak 24.11.2026."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -45,5 +52,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Narodna_skupstina_Srbije.jpg",
   "alt": "Predsednik Skupštine neće na samit EU i Zapadnog Balkana zbog sednice u utorak"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T13:39:09.854940+00:00",
- "updated": "2026-11-24T06:02:10.788491+00:00",
+ "updated": "2026-11-24T06:17:17.877061+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -63,6 +63,12 @@
    "url": "https://www.telegraf.rs/4438503-danas-nastavak-sednice-skupstine-srbije-poznat-je-dnevni-red-i-o-cemu-ce-se-glasati",
    "title": "Danas nastavak sednice Skupštine Srbije: Poznat je dnevni red i o čemu će se glasati",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/287533/konstitutivna-sednica-skupstine-srbije/vest",
+   "title": "Danas nastavak konstitutivne sednice Skupštine Srbije; Održane konsultacije – ističe rok za izjašnjavanje",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -70,7 +76,8 @@
   "(FOTO) Bakić i Vučić za istim stolom: Konsultacije u Skupštini Srbije",
   "Završena prva runda konsultacija u Skupštini Srbije: Evo ko je sada za stolom",
   "Danas nastavak konstitutivne sednice Skupštine Srbije",
-  "Danas nastavak sednice Skupštine Srbije: Poznat je dnevni red i o čemu će se glasati"
+  "Danas nastavak sednice Skupštine Srbije: Poznat je dnevni red i o čemu će se glasati",
+  "Danas nastavak konstitutivne sednice Skupštine Srbije; Održane konsultacije – ističe rok za izjašnjavanje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -85,8 +92,8 @@
   "izvor_x": true,
   "alt": "U Skupštini počele konsultacije o nastavku konstitutivne sednice"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-24T06:02:10.788491+00:00",
  "verzija": 2
 }
