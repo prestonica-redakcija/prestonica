@@ -5878,18 +5878,14 @@
   "https://radar.nova.rs/ekonomija/nacionalni-stadion-u-surcinu/": "2026-11-23T23:34:58.487330+00:00",
   "https://www.tanjug.rs/svet/hronika/300265/nigerija-najmanje-64-osobe-ubijene-u-napadima-tokom-vikenda/vest": "2026-11-23T23:34:58.487330+00:00",
   "https://www.kurir.rs/planeta/10170553/nigerija-najmanje-64-osobe-ubijene-u-napadima": "2026-11-23T23:34:58.487330+00:00",
-  "https://radar.nova.rs/global/price-iz-indija-dipavali-praznik/": "2026-11-23T23:34:58.487330+00:00"
+  "https://radar.nova.rs/global/price-iz-indija-dipavali-praznik/": "2026-11-23T23:34:58.487330+00:00",
+  "https://www.danas.rs/zivot/da-li-vreme-kada-doruckujemo-utice-na-duzinu-zivota/": "2026-11-23T23:49:49.823798+00:00",
+  "https://www.kurir.rs/vesti/drustvo/10170592/kada-je-najbolje-doruckovati-i-vecerati-studija-otkriva-uticaj-na-zivot": "2026-11-23T23:49:49.823798+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-23T09:06+00:00",
-   "novih": 5,
-   "ukupno": 3872,
-   "sekundi": 625.6
-  },
   {
    "vreme": "2026-11-23T09:20+00:00",
    "novih": 3,
@@ -6243,6 +6239,12 @@
    "novih": 3,
    "ukupno": 4199,
    "sekundi": 552.1
+  },
+  {
+   "vreme": "2026-11-24T00:00+00:00",
+   "novih": 1,
+   "ukupno": 4200,
+   "sekundi": 622.6
   }
  ],
  "licnosti_foto": {
@@ -49133,7 +49135,8 @@
    "202611231837-e5f14c",
    "202611231852-c95037",
    "202611231737-884af3",
-   "202611232305-26a76a"
+   "202611232305-26a76a",
+   "202611232305-210085"
   ],
   "istorija": [
    {
@@ -50053,6 +50056,12 @@
     "id": "202611232305-26a76a",
     "x": "2125006763141288096",
     "link": false
+   },
+   {
+    "t": 1795477840.7646081,
+    "id": "202611232305-210085",
+    "x": "2125014199206064155",
+    "link": true
    }
   ],
   "ankete": {
@@ -54091,7 +54100,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "upcoming",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-23T23:36:32.159393+00:00",
+  "provereno": "2026-11-23T23:50:53.784357+00:00",
   "uzivo_t": "2026-11-21T12:51:45.749197+00:00",
   "nedostupan": false
  },
