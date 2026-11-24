@@ -37,17 +37,24 @@
  ],
  "importance": 6,
  "published": "2026-11-24T06:17:17.877061+00:00",
- "updated": "2026-11-24T06:17:17.877061+00:00",
+ "updated": "2026-11-24T06:46:52.706910+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/poslanici-skupstine-srbije-nastavljaju-zasedanje-biraju-clanove-odbora-i-delegacija/",
    "title": "Poslanici Skupštine Srbije nastavljaju zasedanje, biraju članove odbora i delegacija",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/poslanici-nastavljaju-sa-konstitutivnom-sednicom-skupstine-srbije-biraju-clanove-odbora-i-parlamentarnih-delegacija/",
+   "title": "Poslanici nastavljaju sa konstitutivnom sednicom Skupštine Srbije: Biraju članove odbora i parlamentarnih delegacija",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Poslanici Skupštine Srbije nastavljaju zasedanje, biraju članove odbora i delegacija"
+  "Poslanici Skupštine Srbije nastavljaju zasedanje, biraju članove odbora i delegacija",
+  "Poslanici nastavljaju sa konstitutivnom sednicom Skupštine Srbije: Biraju članove odbora i parlamentarnih delegacija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
