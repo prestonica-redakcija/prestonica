@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T04:17:52.650439+00:00",
- "updated": "2026-11-24T07:01:48.347062+00:00",
+ "updated": "2026-11-24T07:31:27.587600+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -62,6 +62,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/danas-jutro-hladno-tokom-dana-suncano/",
    "title": "Danas jutro hladno, tokom dana sunčano",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/jutro-sa-mrazom-tokom-dana-suncano-temperatura-do-devet-stepeni",
+   "title": "Jutro sa mrazom, tokom dana sunčano: Temperatura do devet stepeni",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -69,7 +75,8 @@
   "Jutro u Srbiji uz slab mraz, najniža temperatura -3°C",
   "U Srbiji danas pretežno sunčano, ujutru slab mraz, temperatura do devet stepeni",
   "Posle hladnog jutra sa mrazem, tokom dana sunčano, najniža temperatura minus tri, maksimalna od šest do devet stepeni",
-  "Danas jutro hladno, tokom dana sunčano"
+  "Danas jutro hladno, tokom dana sunčano",
+  "Jutro sa mrazom, tokom dana sunčano: Temperatura do devet stepeni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -82,6 +89,6 @@
   "alt": "silhouette of electric post during sunset",
   "link": "https://unsplash.com/@thestefankostic"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

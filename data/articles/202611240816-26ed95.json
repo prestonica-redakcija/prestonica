@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T07:16:38.934187+00:00",
- "updated": "2026-11-24T07:16:38.934187+00:00",
+ "updated": "2026-11-24T07:31:27.587600+00:00",
  "sources": [
   {
    "name": "N1",
@@ -41,11 +41,32 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10170914/saopstenje-bia-povodom-izjave-srdjana-milivojevica",
    "title": "OGLASILA SE BIA POVODOM IZJAVE MILIVOJEVIĆA (DS): Odbacujemo sve zlonamerne i lažne optužbe o navodnom postojanju Situacionog centra za hibridne pretnje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/bia-situacioni-centar/",
+   "title": "BIA odbacila optužbe o postojanju Situacionog centra za hibridne pretnje",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/bia-odbacila-optuzbe-o-postojanju-situacionog-centra-za-hibridne-pretnje/",
+   "title": "BIA odbacila optužbe o postojanju Situacionog centra za hibridne pretnje",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674092/bia-povodom-izjave-milivojevica-odbacujemo-sve-zlonamerne-lazne-optuzbe-navodnom-situacionog-centra-hibridne-pretnje",
+   "title": "BIA POVODOM IZJAVE MILIVOJEVIĆA: Odbacujemo sve zlonamerne i lažne optužbe o navodnom Situacionog centra za hibridne pretnje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "BIA odbacuje tvrdnje Milivojevića kao zlonamerne, obratiće se nadležnim instancama",
-  "OGLASILA SE BIA POVODOM IZJAVE MILIVOJEVIĆA (DS): Odbacujemo sve zlonamerne i lažne optužbe o navodnom postojanju Situacionog centra za hibridne pretnje"
+  "OGLASILA SE BIA POVODOM IZJAVE MILIVOJEVIĆA (DS): Odbacujemo sve zlonamerne i lažne optužbe o navodnom postojanju Situacionog centra za hibridne pretnje",
+  "BIA odbacila optužbe o postojanju Situacionog centra za hibridne pretnje",
+  "BIA odbacila optužbe o postojanju Situacionog centra za hibridne pretnje",
+  "BIA POVODOM IZJAVE MILIVOJEVIĆA: Odbacujemo sve zlonamerne i lažne optužbe o navodnom Situacionog centra za hibridne pretnje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +78,7 @@
   "local": false,
   "alt": "an old run down building on a street corner",
   "link": "https://unsplash.com/@lambi13"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

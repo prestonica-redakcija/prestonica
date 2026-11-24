@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-23T20:51:11.195466+00:00",
- "updated": "2026-11-24T07:01:48.347062+00:00",
+ "updated": "2026-11-24T07:31:27.587600+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -50,12 +50,19 @@
    "url": "https://www.tanjug.rs/svet/politika/300402/americka-vojska-sutra-detonira-eksploziv-sa-olovom-u-ajovi/vest",
    "title": "Američka vojska sutra detonira eksploziv sa olovom u Ajovi",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4438547-americka-vojska-sutra-detonira-eksploziv-sa-olovom-tramp-dao-zeleno-svetlo-za-opasnu-operaciju",
+   "title": "Američka vojska sutra detonira eksploziv sa olovom: Tramp dao zeleno svetlo za opasnu operaciju",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Tramp naredio vojsci da ne uništava eksplozivne materije u Ajovi bez odobrenja suda",
   "Tramp izdao naređenje vojsci; Stanovnici Ajove u panici – zatvaraju prozore i vrata",
-  "Američka vojska sutra detonira eksploziv sa olovom u Ajovi"
+  "Američka vojska sutra detonira eksploziv sa olovom u Ajovi",
+  "Američka vojska sutra detonira eksploziv sa olovom: Tramp dao zeleno svetlo za opasnu operaciju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,6 @@
   "local": true,
   "alt": "Tramp: vojska neće uništavati olovni azid u Ajovi bez odobrenja apelacionog suda"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
