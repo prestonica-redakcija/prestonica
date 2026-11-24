@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T17:07:41.186797+00:00",
- "updated": "2026-11-23T21:36:15.776106+00:00",
+ "updated": "2026-11-24T09:45:53.910539+00:00",
  "sources": [
   {
    "name": "N1",
@@ -67,6 +67,12 @@
    "url": "https://www.euronews.rs/srbija/politika/253381/uzice-nije-izabralo-novu-gradonacelnicu-falio-jedan-glas/vest",
    "title": "Užice nije dobilo novu gradonačelnicu: Vesni Čitaković Đurišić nedostajao jedan glas",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/studentska-lista-za-smederevo-zatrpano-smecem-nije-kriva-nova-vlast-u-gradu-na-vlasti-i-dalje-sns/",
+   "title": "Studentska lista: Za Smederevo zatrpano smećem nije kriva nova vlast, u gradu na vlasti i dalje SNS",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -75,7 +81,8 @@
   "PALA VLAST U UŽICU! Propao izbor nove gradonačelnice zbog jednog nevažećeg listića: Vesni Čitaković Đurišić nedostajao jedan glas!",
   "Vesna Čitaković Đurišić nije izabrana za gradonačelnicu Užica",
   "Vesna Čitaković Đurišić, kandidatkinja SNS-a, SPS-a i Zdrave Srbije, nije izabrana za gradonačelnicu Užica",
-  "Užice nije dobilo novu gradonačelnicu: Vesni Čitaković Đurišić nedostajao jedan glas"
+  "Užice nije dobilo novu gradonačelnicu: Vesni Čitaković Đurišić nedostajao jedan glas",
+  "Studentska lista: Za Smederevo zatrpano smećem nije kriva nova vlast, u gradu na vlasti i dalje SNS"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -87,8 +94,8 @@
   "local": true,
   "alt": "Vesna Čitaković Đurišić nije izabrana za gradonačelnicu Užica"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-23T18:37:04.323271+00:00",
  "verzija": 2
 }

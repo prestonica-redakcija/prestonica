@@ -32,17 +32,24 @@
  ],
  "importance": 5,
  "published": "2026-11-24T09:30:42.550620+00:00",
- "updated": "2026-11-24T09:30:42.550620+00:00",
+ "updated": "2026-11-24T09:45:53.910539+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1172730/skupstina-nova-vlast-studentska-lista",
    "title": "Šok na početku sednice! Proglašen prekid rada?! Pogledajte njihovu ozbiljnu politiku (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300377/proglasena-jednosatna-pauza-u-radu-skupstine-srbije/vest",
+   "title": "Proglašena jednosatna pauza u radu Skupštine Srbije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Šok na početku sednice! Proglašen prekid rada?! Pogledajte njihovu ozbiljnu politiku (FOTO)"
+  "Šok na početku sednice! Proglašen prekid rada?! Pogledajte njihovu ozbiljnu politiku (FOTO)",
+  "Proglašena jednosatna pauza u radu Skupštine Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

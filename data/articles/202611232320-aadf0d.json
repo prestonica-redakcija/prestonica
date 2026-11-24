@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T22:20:33.126631+00:00",
- "updated": "2026-11-24T08:46:01.118594+00:00",
+ "updated": "2026-11-24T09:45:53.910539+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -40,11 +40,25 @@
    "url": "https://www.kurir.rs/vesti/politika/10171015/studenti-skupstina-srbije",
    "title": "STIGLI STUDENTI KOJI ĆE DANAS PRATITI SKUPŠTINE SA GALERIJE: Njih 60 prisustvovaće današnjoj sednicu (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/studenti-ipak-u-skupstini-prate-raspravu-sa-galerije/",
+   "title": "Studenti ipak u Skupštini - prate raspravu sa galerije",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/studenti-skupstina-galerija/",
+   "title": "Studenti ipak na skupštinskoj galeriji (VIDEO)",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "STUDENTI NA SEDNICI SKUPŠTINE SRBIJE \"Na galeriji će nas biti oko 60, hvala generalnoj sekretarki Mirjani Radaković koja je odobrila naše prisustvo\"",
-  "STIGLI STUDENTI KOJI ĆE DANAS PRATITI SKUPŠTINE SA GALERIJE: Njih 60 prisustvovaće današnjoj sednicu (VIDEO)"
+  "STIGLI STUDENTI KOJI ĆE DANAS PRATITI SKUPŠTINE SA GALERIJE: Njih 60 prisustvovaće današnjoj sednicu (VIDEO)",
+  "Studenti ipak u Skupštini - prate raspravu sa galerije",
+  "Studenti ipak na skupštinskoj galeriji (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +73,6 @@
   "izvor_x": true,
   "alt": "Studenti u blokadi sutra na galeriji Skupštine Srbije, najavljeno oko 60 posetilaca"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

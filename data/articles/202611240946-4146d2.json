@@ -3,21 +3,23 @@
  "slug": "pucnjava-u-skoli-u-kragujevcu-uhapsen-ucenik-ranjena-koleginica-nije",
  "kind": "vest",
  "section": "hronika",
- "headline": "Pucnjava u školi u Kragujevcu: uhapšen učenik, ranjena koleginica nije životno ugrožena",
- "lead": "U Prvoj tehničkoj školi u Kragujevcu jutros je bilo pucnjave, a učenik četvrtog razreda je uhapšen, saopštio je direktor škole. Prema njegovim rečima, ranjena je jedna koleginica osumnjičenog, koja nije životno ugrožena.",
+ "headline": "Pucnjava u školi u Kragujevcu: povređene dve osobe, uhapšen 17-godišnji učenik",
+ "lead": "U pucnjavi u Prvoj tehničkoj školi u Kragujevcu jutros oko 8 časova povređene su dve osobe, a uhapšen je sedamnaestogodišnji učenik, navodi B92. Ministarstvo prosvete formiralo je Krizni štab i uputilo tim u školu.",
  "body": [
-  "Direktor Prve tehničke škole u Kragujevcu Nemanja Joksimović izjavio je nakon jutrošnje pucnjave da su učenici bezbedno napustili zgradu, prenosi N1. Kako je naveo, učenik četvrtog razreda ranio je jednu koleginicu.",
-  "Prema direktorovim rečima, povređena nije životno ugrožena. Za sada nema dodatnih informacija o njenom stanju u izvoru koji prenosimo.",
-  "„Brzom reakcijom MUP-a učenik je uhapšen“, rekao je Joksimović. Dodao je da škola i dalje prati situaciju i da će se potruditi da se nastava što pre normalizuje.",
-  "Direktor je kazao da se događaj odigrao za vreme prvog časa, što je, kako je ocenio, dobra okolnost u ovoj situaciji. Rekao je i da sa učenikom koji je uhapšen ranije nije bilo problema.",
-  "Policija obavlja uviđaj, a više informacija očekuje se nakon njegovog završetka, navodi N1."
+  "Prema navodima B92, do pucnjave je došlo u holu škole, a osumnjičeni učenik je, kako se sumnja, upotrebio malokalibarsku pušku. Policija ga je savladala i uhapsila, a B92 navodi da ga je savladao policajac.",
+  "Direktor škole Nemanja Joksimović rekao je da je napadač učenik četvrtog razreda i da su učenici bezbedno napustili zgradu. Prema njegovim rečima, ranjena osoba nije životno ugrožena. Direktor je izjavio da je „brzom reakcijom“ MUP-a učenik uhapšen.",
+  "Povređena se u izveštajima različito opisuje: direktor je, kako prenose N1 i B92, govorio o koleginici osumnjičenog, dok Danas navodi da je reč o pomoćnoj radnici. B92 piše da su povređene dve osobe, ali u izvorima kojima raspolažemo nema podataka o identitetu i stanju druge povređene osobe.",
+  "Joksimović je kazao da se događaj odigrao za vreme prvog časa, pa niko od ostalih učenika nije bio prisutan, što je ocenio kao dobru okolnost. Dodao je da sa učenikom ranije nikada nije bilo problema.",
+  "Povodom nezvaničnih informacija o postojanju spiska, direktor je rekao da za sada nema takva saznanja. Policija obavlja uviđaj, a više informacija se očekuje nakon njegovog završetka.",
+  "Ministarstvo prosvete saopštilo je da je odmah nakon pucnjave formiran Krizni štab i da se tim ministarstva uputio u školu u Kragujevcu. Direktor je najavio da će se škola potruditi da što pre normalizuje nastavu."
  ],
  "tags": [
+  "pucnjava",
   "Kragujevac",
-  "pucnjava u školi",
   "Prva tehnička škola",
-  "MUP",
-  "bezbednost u školama"
+  "bezbednost u školama",
+  "Ministarstvo prosvete",
+  "uhapšen učenik"
  ],
  "people": [
   "Nemanja Joksimović"
@@ -27,7 +29,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:46:01.118594+00:00",
- "updated": "2026-11-24T09:30:42.550620+00:00",
+ "updated": "2026-11-24T09:45:53.910539+00:00",
  "sources": [
   {
    "name": "N1",
@@ -52,13 +54,27 @@
    "url": "https://insajder.net/prenosimo/direktor-tehnicke-skole-u-kraguejvcu-ucenici-bezbedno-napustili-zgradu-pratimo-situaciju-potrudicemo-se-da-sto-pre-normalizujem-nastavu",
    "title": "Direktor tehničke škole u Kraguejvcu: Učenik četvrtog razreda ranio koleginicu koja nije životno ugrožena",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/direktor-prve-tehnicke-skole-u-kragujevcu-radnica-ranjena-nije-zivotno-ugrozena/",
+   "title": "Direktor Prve tehničke škole u Kragujevcu: Radnica ranjena nije životno ugrožena",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/287640/direktor-tehnicke-skole-u-kragujevcu-napadac-ucenik-cetvrtog-razreda-koleginica-nije-zivotno-ugrozena/vest",
+   "title": "Direktor tehničke škole u Kragujevcu: Napadač učenik četvrtog razreda, koleginica nije životno ugrožena",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Direktor tehničke škole u Kragujevcu: I dalje pratimo situaciju, potrudićemo se da što pre normalizujemo nastavu",
   "Oglasio se direktor tehničke škole u Kragujevcu nakon pucnjave: Pratimo situaciju, potrudićemo se da što pre normalizujemo nastavu",
   "Oglasio se direktor škole u Kragujevcu: Povređena radnica nije životno ugrožena, učenik nije bio problematičan",
-  "Direktor tehničke škole u Kraguejvcu: Učenik četvrtog razreda ranio koleginicu koja nije životno ugrožena"
+  "Direktor tehničke škole u Kraguejvcu: Učenik četvrtog razreda ranio koleginicu koja nije životno ugrožena",
+  "Direktor Prve tehničke škole u Kragujevcu: Radnica ranjena nije životno ugrožena",
+  "Direktor tehničke škole u Kragujevcu: Napadač učenik četvrtog razreda, koleginica nije životno ugrožena"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +87,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Prva_tehni%C4%8Dka_%C5%A1kola_Kragujevac_05.jpg",
   "alt": "Pucnjava u školi u Kragujevcu: uhapšen učenik, ranjena koleginica nije životno ugrožena"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 0,
+ "boost": 1.4,
+ "prepisano": "2026-11-24T09:45:53.910539+00:00",
+ "verzija": 2
 }

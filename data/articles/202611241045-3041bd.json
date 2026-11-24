@@ -1,0 +1,56 @@
+{
+ "id": "202611241045-3041bd",
+ "slug": "firmu-taalas-koju-su-osnovali-ljudi-sa-balkana-amd-kupuje-za-oko-2-9",
+ "kind": "vest",
+ "section": "ekonomija",
+ "headline": "Firmu Taalas, koju su osnovali ljudi sa Balkana, AMD kupuje za oko 2,9 milijardi dolara",
+ "lead": "Kompaniju Taalas iz Toronta, čiji osnivači i tim potiču iz zemalja bivše Jugoslavije, AMD je kupio za oko 2,9 milijardi dolara, navodi Danas. Firma razvija tehnologiju ugradnje AI modela direktno u čipove.",
+ "body": [
+  "Taalas su osnovali Ljubiša Bajić, Lejla Bajić i Drago Ignjatović, a u timu su ljudi iz Bosne i Hercegovine, Crne Gore i Srbije, piše Danas. Firma je osnovana 2023. godine, a od tada je u nju, prema istom izvoru, uloženo više od 200 miliona dolara.",
+  "Interesovanje AMD-a, kako navodi Danas, proističe iz tehnologije koja omogućava da se određeni AI model ugradi direktno u čip, umesto da čip stalno učitava podatke iz memorije. Takav pristup, prema tom listu, čini čip bržim i efikasnijim, a cilj je smanjenje troškova i ubrzanje primene veštačke inteligencije u velikim data centrima.",
+  "Danas navodi da je tim već imao iskustva u razvoju čipova. Ljubiša Bajić je 2016. godine bio jedan od osnivača kompanije Tenstorrent, koja trenutno vredi oko 6,2 milijarde dolara. Lejla Bajić i Drago Ignjatović ranije su radili u AMD-u.",
+  "Ako se ova tehnologija široko primeni, AI industrija se, prema pisanju Danasa, više neće oslanjati na hardver opšte namene, već na namenski proizvedene čipove. Kao mogući efekat navodi se pojeftinjenje RAM memorije i procesora za kancelarijski rad i gejming. Taalas je već napravio prvi demonstracioni čip, nazvan HC1 (Hardcore 1).",
+  "Srpski tehnološki preduzetnik, investitor i softverski inženjer rekao je za The Recursive da „Jadranski region i njegova dijaspora danas imaju veliki broj iskusnih stručnjaka za dizajn čipova i razvoj računarskih sistema, a sve više uspešnih preduzetnika koji ponovo pokreću nove kompanije“, prenosi Danas."
+ ],
+ "tags": [
+  "Taalas",
+  "AMD",
+  "AI čipovi",
+  "tehnološke akvizicije",
+  "dijaspora",
+  "preduzetništvo"
+ ],
+ "people": [
+  "Ljubiša Bajić",
+  "Lejla Bajić",
+  "Drago Ignjatović"
+ ],
+ "places": [
+  "Toronto"
+ ],
+ "importance": 5,
+ "published": "2026-11-24T09:45:53.910539+00:00",
+ "updated": "2026-11-24T09:45:53.910539+00:00",
+ "sources": [
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/balkanci-prodali-firmu-amd/",
+   "title": "Balkanci razvili nove tehnologije za proizvodnju AI čipova i prodali firmu AMD-u za 2,9 milijardi dolara",
+   "spektar": "opozicija"
+  }
+ ],
+ "source_titles": [
+  "Balkanci razvili nove tehnologije za proizvodnju AI čipova i prodali firmu AMD-u za 2,9 milijardi dolara"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 2.807,
+ "image": {
+  "src": "https://images.unsplash.com/photo-1562408590-e32931084e23?ixid=M3wxMTQwNDIwfDB8MXxzZWFyY2h8MXx8Y29tcHV0ZXIlMjBjaGlwJTIwc2VtaWNvbmR1Y3RvciUyMGRhdGElMjBjZW50ZXJ8ZW58MXwwfHx8MTc5NTUxMzY0OHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+  "credit": "Unsplash / Umberto",
+  "ilustracija": true,
+  "local": false,
+  "alt": "blue circuit board",
+  "link": "https://unsplash.com/@umby"
+ }
+}

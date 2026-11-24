@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-23T14:08:52.547352+00:00",
- "updated": "2026-11-24T06:02:10.788491+00:00",
+ "updated": "2026-11-24T09:45:53.910539+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -55,13 +55,20 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/300380/danas-se-otvara-za-saobracaj-nova-deonica-dunavskog-koridora-od-256-kilometara/vest",
    "title": "Danas se otvara za saobraćaj nova deonica Dunavskog koridora od 2,56 kilometara",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/287643/od-danas-mozete-da-se-provozate-otvorena-nova-deonica-dunavskog-koridora-duga-25-kilometara/vest",
+   "title": "Od danas možete da se provozate: Otvorena nova deonica Dunavskog koridora duga 2,5 kilometara",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Sutra se otvara za saobraćaj nova deonica Dunavskog koridora od 2,56 kilometara",
   "Ovako izgleda nova deonica Dunavskog koridora: Od Beograda do Golupca stizaće se za samo 80 minuta",
   "Otvara se za saobraćaj nova deonica Dunavskog koridora: Evo kako izgleda VIDEO",
-  "Danas se otvara za saobraćaj nova deonica Dunavskog koridora od 2,56 kilometara"
+  "Danas se otvara za saobraćaj nova deonica Dunavskog koridora od 2,56 kilometara",
+  "Od danas možete da se provozate: Otvorena nova deonica Dunavskog koridora duga 2,5 kilometara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "local": true,
   "alt": "Nova deonica Dunavskog koridora od 2,56 kilometara sutra se otvara za saobraćaj"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
