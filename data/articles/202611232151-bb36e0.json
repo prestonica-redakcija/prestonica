@@ -34,7 +34,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T20:51:11.195466+00:00",
- "updated": "2026-11-25T06:52:49.016455+00:00",
+ "updated": "2026-11-25T08:07:21.321482+00:00",
  "sources": [
   {
    "name": "B92",
@@ -59,13 +59,20 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/300722/rhmz-u-7-sati-najhladnije-u-sjenici-gde-je-minus-9-stepeni-u-beogradu-1-stepen/vest",
    "title": "RHMZ: U 7 sati najhladnije u Sjenici gde je minus 9 stepeni, u Beogradu 1 stepen",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4439342-ledeno-jutro-srbija-u-minusu-temperatura-pala-na-minus-10-ove-nize-predele-ocekuje-i-sneg",
+   "title": "Ledeno jutro, Srbija u minusu! Temperatura pala na MINUS 10: Ove niže predele očekuje i SNEG",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "MUP upozorio građane; Srbija na udaru ledenog talasa – temperature ispod nule",
   "TEMPERATURE U SRBIJI PALE ISPOD NULE! Ovo su najhladnija mesta u zemlji tokom večeri: Putevi Srbije upozoravaju na sneg na kolovozima, a evo šta nas čeka sutra",
   "RHMZ: U sedam sati najhladnije na Kopaoniku sa minus 10 stepeni, u većini mesta ispod nule",
-  "RHMZ: U 7 sati najhladnije u Sjenici gde je minus 9 stepeni, u Beogradu 1 stepen"
+  "RHMZ: U 7 sati najhladnije u Sjenici gde je minus 9 stepeni, u Beogradu 1 stepen",
+  "Ledeno jutro, Srbija u minusu! Temperatura pala na MINUS 10: Ove niže predele očekuje i SNEG"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -78,6 +85,6 @@
   "alt": "time lapse photography of cars on road between trees during night time",
   "link": "https://unsplash.com/@ljubazarkovic"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

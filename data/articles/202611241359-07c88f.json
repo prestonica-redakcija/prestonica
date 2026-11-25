@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T12:59:34.665665+00:00",
- "updated": "2026-11-24T12:59:34.665665+00:00",
+ "updated": "2026-11-25T08:07:21.321482+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,12 +46,26 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1674247/isplaceno-skoro-pola-osiguranih-sredstava-alta-banke-postanska-stedionica-sada-isplatila-167-8-miliona-evra",
    "title": "ISPLAĆENO SKORO POLA OSIGURANIH SREDSTAVA ALTA BANKE: Poštanska štedionica do sada isplatila 167,8 miliona evra",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/300737/banka-postanska-stedionica-isplaceno-vise-od-pola-ukupnih-osiguranih-sredstava-alta-banke-18538-miliona-evra/vest",
+   "title": "Banka Poštanska štedionica: Isplaćeno više od pola ukupnih osiguranih sredstava Alta banke - 185,38 miliona evra",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4439333-postanska-stedionica-isplatila-185-miliona-evra-deponentima-alta-banke",
+   "title": "Poštanska štedionica isplatila 185 miliona evra deponentima Alta banke",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Banka Poštanska štedionica: Isplaćeno 49,35 odsto osiguranih sredstava Alta banke, više od 167,8 miliona evra",
   "Isplaćeno 49,35 odsto osiguranih sredstava Alta banke",
-  "ISPLAĆENO SKORO POLA OSIGURANIH SREDSTAVA ALTA BANKE: Poštanska štedionica do sada isplatila 167,8 miliona evra"
+  "ISPLAĆENO SKORO POLA OSIGURANIH SREDSTAVA ALTA BANKE: Poštanska štedionica do sada isplatila 167,8 miliona evra",
+  "Banka Poštanska štedionica: Isplaćeno više od pola ukupnih osiguranih sredstava Alta banke - 185,38 miliona evra",
+  "Poštanska štedionica isplatila 185 miliona evra deponentima Alta banke"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +76,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Deponentima Alta banke isplaćeno 49,35 odsto osiguranih sredstava, 167,8 miliona evra"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

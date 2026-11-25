@@ -29,17 +29,24 @@
  ],
  "importance": 3,
  "published": "2026-11-24T21:56:48.072967+00:00",
- "updated": "2026-11-24T21:56:48.072967+00:00",
+ "updated": "2026-11-25T08:07:21.321482+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/kompanije/300599/vlasnik-gugla-kupio-poslovnu-zgradu-u-londonu-za-oko-500-miliona-funti/vest",
    "title": "Vlasnik Gugla kupio poslovnu zgradu u Londonu za oko 500 miliona funti",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4439060-vlasnik-google-kupio-poslovnu-zgradu-u-londonu-za-500-miliona-funti-ova-transakcija-salje-jasnu-poruku",
+   "title": "Vlasnik Google kupio poslovnu zgradu u Londonu za 500 miliona funti: \"Ova transakcija šalje jasnu poruku\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Vlasnik Gugla kupio poslovnu zgradu u Londonu za oko 500 miliona funti"
+  "Vlasnik Gugla kupio poslovnu zgradu u Londonu za oko 500 miliona funti",
+  "Vlasnik Google kupio poslovnu zgradu u Londonu za 500 miliona funti: \"Ova transakcija šalje jasnu poruku\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "alt": "a red double decker bus on the street",
   "link": "https://unsplash.com/@marksaxby"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
