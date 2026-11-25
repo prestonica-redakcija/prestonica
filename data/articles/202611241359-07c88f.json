@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T12:59:34.665665+00:00",
- "updated": "2026-11-25T09:21:54.243757+00:00",
+ "updated": "2026-11-25T09:37:03.545768+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -70,6 +70,12 @@
    "url": "https://www.b92.net/biz/srbija/vesti/287882/isplaceno-vise-od-pola-ukupnih-osiguranih-sredstava-alta-banke/vest",
    "title": "Isplaćeno više od pola ukupnih osiguranih sredstava Alta banke",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253586/alta-banka-isplaceno-oko-185-miliona-evra-depozita/vest",
+   "title": "Više od polovine novca već isplaćeno: Banka Poštanska štedionica isplatila 185 miliona evra klijentima Alta banke",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -79,7 +85,8 @@
   "Banka Poštanska štedionica: Isplaćeno više od pola ukupnih osiguranih sredstava Alta banke - 185,38 miliona evra",
   "Poštanska štedionica isplatila 185 miliona evra deponentima Alta banke",
   "Banka Poštanska štedionica isplatila više od polovine osiguranih depozita Alta banke",
-  "Isplaćeno više od pola ukupnih osiguranih sredstava Alta banke"
+  "Isplaćeno više od pola ukupnih osiguranih sredstava Alta banke",
+  "Više od polovine novca već isplaćeno: Banka Poštanska štedionica isplatila 185 miliona evra klijentima Alta banke"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -91,8 +98,8 @@
   "local": true,
   "alt": "Deponentima Alta banke isplaćeno 49,35 odsto osiguranih sredstava, 167,8 miliona evra"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-25T09:21:54.243757+00:00",
  "verzija": 2
 }

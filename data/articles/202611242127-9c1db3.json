@@ -33,7 +33,7 @@
  ],
  "importance": 7,
  "published": "2026-11-24T20:27:05.952526+00:00",
- "updated": "2026-11-25T09:21:54.243757+00:00",
+ "updated": "2026-11-25T09:37:03.545768+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -94,6 +94,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/uhapsen-dragan-j-vucicevic/",
    "title": "Uhapšen Dragan J. Vučićević",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300774/informer-uhapsen-dragan-j-vucicevic/vest",
+   "title": "Informer: Uhapšen Dragan J. Vučićević",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4439436-ovo-je-razlog-zbog-kojeg-je-uhapsen-dragan-j-vucicevic",
+   "title": "Informer: Ovo je razlog zbog kojeg je uhapšen Dragan J. Vučićević",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -106,7 +118,9 @@
   "Uhapšen Dragan J. Vučićević",
   "Uhapšen Dragan J. Vučićević",
   "Uhapšen Dragan J. Vučićević",
-  "Uhapšen Dragan J. Vučićević"
+  "Uhapšen Dragan J. Vučićević",
+  "Informer: Uhapšen Dragan J. Vučićević",
+  "Informer: Ovo je razlog zbog kojeg je uhapšen Dragan J. Vučićević"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -119,6 +133,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Prva_tehni%C4%8Dka_%C5%A1kola_Kragujevac_19.jpg",
   "alt": "Pucnjava u školi u Kragujevcu: uhapšen sedamnaestogodišnji učenik, povređene dve osobe"
  },
- "novo_od_pisanja": 8,
+ "novo_od_pisanja": 10,
  "boost": 1.6
 }
