@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T12:59:34.665665+00:00",
- "updated": "2026-11-24T12:59:34.665665+00:00",
+ "updated": "2026-11-25T13:35:22.608313+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -52,13 +52,27 @@
    "url": "https://insajder.net/prenosimo/putevi-srbije-apel-vozacima-zbog-najavljenih-padavina-u-istocnoj-srbiji",
    "title": "Putevi Srbije: Apel vozačima zbog najavljenih padavina u istočnoj Srbiji",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4439661-vozaci-oprez-stizu-ledena-kisa-i-olujni-vetar-oglasili-se-putevi-srbije-evo-gde-je-najkriticnije",
+   "title": "VOZAČI OPREZ! Stižu ledena kiša i olujni vetar: Oglasili se Putevi Srbije, evo gde je najkritičnije",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/putevi-srbije-kisa-veceras-sutra-lediti-na-tlu-apel-vozacima/",
+   "title": "Putevi Srbije: Kiša će se večeras i sutra lediti na tlu, apel vozačima na oprez",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Putevi Srbije: Apel vozačima zbog najavljenih padavina u istočnoj Srbiji",
   "Putevi Srbije apeluju na oprez - u sredu uveče i u toku noći očekuje se ledena kiša",
   "Putevi Srbije apelovali na vozače da budu oprezni zbog najavljene poledice",
-  "Putevi Srbije: Apel vozačima zbog najavljenih padavina u istočnoj Srbiji"
+  "Putevi Srbije: Apel vozačima zbog najavljenih padavina u istočnoj Srbiji",
+  "VOZAČI OPREZ! Stižu ledena kiša i olujni vetar: Oglasili se Putevi Srbije, evo gde je najkritičnije",
+  "Putevi Srbije: Kiša će se večeras i sutra lediti na tlu, apel vozačima na oprez"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,5 +83,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Putevi Srbije apeluju na oprez: u istočnoj Srbiji kiša koja će se ponegde lediti"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

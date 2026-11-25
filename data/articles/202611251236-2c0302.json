@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-25T11:36:25.611292+00:00",
- "updated": "2026-11-25T12:20:45.927340+00:00",
+ "updated": "2026-11-25T13:35:22.608313+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -63,6 +63,12 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1674606/prosecna-plata-srbiji-septembar-evo-koliko-prima-polovina-zaposlenih",
    "title": "PROSEČNA PLATA U SRBIJI ZA SEPTEMBAR: Evo koliko prima polovina zaposlenih",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253627/rzs-prosecna-neto-zarada-u-septembru-119335-dinara/vest",
+   "title": "Novi podaci RZS o platama u Srbiji: Prosečna neto zarada 119.335 dinara, poznato koliku platu prima polovina zaposlenih",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -71,7 +77,8 @@
   "Najnoviji podaci o zaradi u Srbiji: Prosečna plata 119.335 dinara, medijalna 94.829",
   "Prosečna plata u septembru 119.335 dinara, medijalna 94.829 dinara",
   "Polovina zaposlenih u Srbiji u septembru imala platu do 94.829 dinara",
-  "PROSEČNA PLATA U SRBIJI ZA SEPTEMBAR: Evo koliko prima polovina zaposlenih"
+  "PROSEČNA PLATA U SRBIJI ZA SEPTEMBAR: Evo koliko prima polovina zaposlenih",
+  "Novi podaci RZS o platama u Srbiji: Prosečna neto zarada 119.335 dinara, poznato koliku platu prima polovina zaposlenih"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -84,6 +91,6 @@
   "alt": "200 banknote on white textile",
   "link": "https://unsplash.com/@mufidpwt"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
