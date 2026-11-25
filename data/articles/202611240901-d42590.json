@@ -26,7 +26,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-25T08:07:21.321482+00:00",
+ "updated": "2026-11-25T08:22:23.862038+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -615,6 +615,24 @@
    "url": "https://www.novosti.rs/vesti/politika/1674472/vucevic-sns-nece-biti-paravan-uvodjenje-jednopartijskog-sistema",
    "title": "VUČEVIĆ: SNS neće biti paravan za uvođenje jednopartijskog sistema",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300747/damjanovic-skraceni-casovi-u-tehnickoj-skoli-radionice-sa-psiholozima-i-pedagozima/vest",
+   "title": "Damjanović: Skraćeni časovi u Tehničkoj školi, radionice sa psiholozima i pedagozima",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/clan-veca-grada-nisa-iz-sns-a-podneo-ostavku/",
+   "title": "Član Veća grada Niša iz SNS-a podneo ostavku",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4439359-za-odeljenje-osumnjicenog-ucenika-vaze-posebne-mere-evo-sta-je-najavio-nacelnik-skolske-uprave-u-kragujevcu",
+   "title": "Za odeljenje osumnjičenog učenika važe POSEBNE MERE! Evo šta je najavio načelnik školske uprave u Kragujevcu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -715,7 +733,10 @@
   "Vučević: SNS neće biti paravan za uvođenje jednopartijskog sistema",
   "Prvi časovi posvećeni događaju: U školi u Kragujevcu pojačano prisustvo policije i zdravstvenih službi",
   "Dejan Stanković preuzima klupu velikana?",
-  "VUČEVIĆ: SNS neće biti paravan za uvođenje jednopartijskog sistema"
+  "VUČEVIĆ: SNS neće biti paravan za uvođenje jednopartijskog sistema",
+  "Damjanović: Skraćeni časovi u Tehničkoj školi, radionice sa psiholozima i pedagozima",
+  "Član Veća grada Niša iz SNS-a podneo ostavku",
+  "Za odeljenje osumnjičenog učenika važe POSEBNE MERE! Evo šta je najavio načelnik školske uprave u Kragujevcu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -728,7 +749,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-25T07:52:25.458035+00:00",
  "verzija": 10

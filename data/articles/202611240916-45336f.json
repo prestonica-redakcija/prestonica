@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T08:16:13.275771+00:00",
- "updated": "2026-11-24T08:30:59.703766+00:00",
+ "updated": "2026-11-25T08:22:23.862038+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -51,12 +51,19 @@
    "url": "https://n1info.rs/vesti/vukosavic-moramo-da-se-dogovaramo-sa-evropom-ali-taj-dogovor-mora-da-bude-posten/",
    "title": "Vukosavić: Moramo da se dogovaramo sa Evropom, ali taj dogovor mora da bude pošten",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/vukovar-rezolucija-ep-srbija/",
+   "title": "Večernji list: Postignut dogovor u EP o rezoluciji o Vukovaru, ovo je pet izmena",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Vukosavić (SL): Moramo da se dogovaramo sa Evropom, ali taj dogovor mora da bude pošten",
   "Vukosavić (SL): Moramo da se dogovaramo sa Evropom, ali taj dogovor mora da bude pošten",
-  "Vukosavić: Moramo da se dogovaramo sa Evropom, ali taj dogovor mora da bude pošten"
+  "Vukosavić: Moramo da se dogovaramo sa Evropom, ali taj dogovor mora da bude pošten",
+  "Večernji list: Postignut dogovor u EP o rezoluciji o Vukovaru, ovo je pet izmena"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata_2.jpg",
   "alt": "Vukosavić: Dogovor sa Evropom mora biti pošten, rezolucija o Vukovaru jednostrana"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

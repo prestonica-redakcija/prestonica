@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-25T07:37:28.564598+00:00",
+ "updated": "2026-11-25T08:22:23.862038+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -204,6 +204,18 @@
    "url": "https://www.kurir.rs/crna-hronika/10172080/snimak-hapsenja-pavle-bihali",
    "title": "PRVI SNIMAK! Ovako je uhapšen Pavle Bihali (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/pojavio-se-snimak-hapsenja-pavla-bihalija-video/",
+   "title": "Pojavio se snimak hapšenja Pavla Bihalija VIDEO",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4439364-ovako-je-uhapsen-pavle-bihali-lisice-na-ledjima-dvojica-policajaca-ga-vode-posle-optuzbi-za-milionsku-prevaru",
+   "title": "Ovako je uhapšen Pavle Bihali: Lisice na leđima, dvojica policajaca ga vode posle optužbi za milionsku prevaru",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -234,7 +246,9 @@
   "NASER ORIĆ SPROVEDEN U BANJALUKU! Isplivali detalji velike policijske akcije, zaplenjeni oružje i novac (VIDEO)",
   "Ko je Nikolina Šljivić, bivša poslanica uhapšena u istoj akciji kao Naser Orić? Od salona lepote do poslaničke klupe",
   "Tragedija: Preminuo bivši reprezentativac Švedske (38)",
-  "PRVI SNIMAK! Ovako je uhapšen Pavle Bihali (VIDEO)"
+  "PRVI SNIMAK! Ovako je uhapšen Pavle Bihali (VIDEO)",
+  "Pojavio se snimak hapšenja Pavla Bihalija VIDEO",
+  "Ovako je uhapšen Pavle Bihali: Lisice na leđima, dvojica policajaca ga vode posle optužbi za milionsku prevaru"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -247,7 +261,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Promenada_Isto%C4%8Dno_Sarajevo.jpg",
   "alt": "SIPA i policija RS uhapsile Nasera Orića i Nikolinu Šljivić u akciji širom BiH"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 6,
  "boost": 1.6,
  "prepisano": "2026-11-24T16:58:36.932241+00:00",
  "verzija": 4

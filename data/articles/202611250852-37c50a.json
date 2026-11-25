@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-25T07:52:25.458035+00:00",
- "updated": "2026-11-25T07:52:25.458035+00:00",
+ "updated": "2026-11-25T08:22:23.862038+00:00",
  "sources": [
   {
    "name": "N1",
@@ -45,11 +45,25 @@
    "url": "https://www.danas.rs/svet/sad-rusija-putin-rat-ukrajina-planovi/",
    "title": "SAD odlažu planove za poslovne aranžmane sa Rusijom: Putin nezainteresovana za kraj rata?",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/300738/fajnensel-tajms-sad-odustale-da-poslovnim-sporazumima-sa-rusijom-uticu-na-okoncanje-rata-u-ukrajini/vest",
+   "title": "Fajnenšel tajms: SAD odustale da poslovnim sporazumima sa Rusijom utiču na okončanje rata u Ukrajini",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/287879/kremlj-nezainteresovan-amerika-odustala/vest",
+   "title": "Kremlj nezainteresovan, Amerika odustala",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "SAD odlažu planove za poslovne aranžmane sa Rusijom, koji je trebalo da doprinesu da se okonča rat",
-  "SAD odlažu planove za poslovne aranžmane sa Rusijom: Putin nezainteresovana za kraj rata?"
+  "SAD odlažu planove za poslovne aranžmane sa Rusijom: Putin nezainteresovana za kraj rata?",
+  "Fajnenšel tajms: SAD odustale da poslovnim sporazumima sa Rusijom utiču na okončanje rata u Ukrajini",
+  "Kremlj nezainteresovan, Amerika odustala"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +76,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:A_swearing-in_ceremony_for_Senior_Adviser_and_Special_Envoy_Steve_Witkoff,_May_6,_2025_(cropped).jpg",
   "osoba": "Stiv Vitkof",
   "alt": "Vašington odlaže poslovne ponude Rusiji za okončanje rata u Ukrajini, piše FT"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -26,17 +26,24 @@
  ],
  "importance": 4,
  "published": "2026-11-25T08:07:21.321482+00:00",
- "updated": "2026-11-25T08:07:21.321482+00:00",
+ "updated": "2026-11-25T08:22:23.862038+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/300742/poreska-uprava-objavila-kalendar-poreskih-obaveza-firmi-za-novembar/vest",
    "title": "Poreska uprava objavila kalendar poreskih obaveza firmi za novembar",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4439347-objavljen-poreski-kalendar-za-decembar-ovo-su-svi-vazni-rokovi-za-firme-i-preduzetnike",
+   "title": "Objavljen poreski kalendar za decembar: Ovo su svi važni rokovi za firme i preduzetnike",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Poreska uprava objavila kalendar poreskih obaveza firmi za novembar"
+  "Poreska uprava objavila kalendar poreskih obaveza firmi za novembar",
+  "Objavljen poreski kalendar za decembar: Ovo su svi važni rokovi za firme i preduzetnike"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "alt": "a calculator sitting on top of a table next to a laptop",
   "link": "https://unsplash.com/@jakubzerdzicki"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

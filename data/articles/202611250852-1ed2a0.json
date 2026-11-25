@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-25T07:52:25.458035+00:00",
- "updated": "2026-11-25T07:52:25.458035+00:00",
+ "updated": "2026-11-25T08:22:23.862038+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,11 +44,18 @@
    "url": "https://www.euronews.rs/svet/fokus/253566/sestoro-poginulo-u-padu-aviona-kod-ostrva-horn-misisipi/vest",
    "title": "Poginulo šest putnika u padu aviona kod ostrva Horn u Misisipiju",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/srusio-se-avion-uz-obalu-misisipija-poginulo-svih-sest-putnika-ukljucujuci-i-dvoje-dece/",
+   "title": "Srušio se avion uz obalu Misisipija, poginulo svih šest putnika, uključujući i dvoje dece",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Poginulo šest putnika u padu aviona kod ostrva Horn u Misisipiju",
-  "Poginulo šest putnika u padu aviona kod ostrva Horn u Misisipiju"
+  "Poginulo šest putnika u padu aviona kod ostrva Horn u Misisipiju",
+  "Srušio se avion uz obalu Misisipija, poginulo svih šest putnika, uključujući i dvoje dece"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "alt": "A red and yellow boat traveling down a river",
   "link": "https://unsplash.com/@bullterriere"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
