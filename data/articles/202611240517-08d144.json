@@ -33,7 +33,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T04:17:52.650439+00:00",
- "updated": "2026-11-24T23:55:48.495044+00:00",
+ "updated": "2026-11-25T04:23:48.488279+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -88,6 +88,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/vreme-danas-ujutru-mraz-tokom-dana-oblacno/",
    "title": "Vreme danas: Ujutru mraz, tokom dana oblačno",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4439179-ujutru-slab-i-umeren-mraz-tokom-dana-naoblacenje-i-kisa-najvisa-dnevna-do-9",
+   "title": "Ujutru slab i umeren mraz, tokom dana naoblačenje i kiša: Najviša dnevna do 9",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -99,7 +105,8 @@
   "Jutro sa mrazom, tokom dana sunčano: Temperatura do devet stepeni",
   "Mraz okovao Srbiju: Na Kopaoniku -10 stepeni; Evo koliko će biti stepeni tokom dana",
   "U Srbiji ujutru mraz, tokom dana oblačno, uveče kiša i sneg na planinama",
-  "Vreme danas: Ujutru mraz, tokom dana oblačno"
+  "Vreme danas: Ujutru mraz, tokom dana oblačno",
+  "Ujutru slab i umeren mraz, tokom dana naoblačenje i kiša: Najviša dnevna do 9"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -112,8 +119,8 @@
   "alt": "silhouette of electric post during sunset",
   "link": "https://unsplash.com/@thestefankostic"
  },
- "novo_od_pisanja": 2,
- "boost": 1.56,
+ "novo_od_pisanja": 3,
+ "boost": 1.6,
  "prepisano": "2026-11-24T07:46:23.419063+00:00",
  "verzija": 2
 }

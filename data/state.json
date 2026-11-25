@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.telegraf.rs/vesti/srbija/4436201-vase-malo-nekome-znaci-mnogo-evo-gde-danas-mozete-dati-krv": "2026-11-20T04:19:22.490652+00:00",
   "https://www.kurir.rs/vesti/srbija/10166903/smece-pluta-ulicama-smedereva": "2026-11-20T04:34:10.218874+00:00",
   "https://www.kurir.rs/vesti/beograd/10166786/bez-vode-danas-u-beogradu": "2026-11-20T04:34:10.218874+00:00",
   "https://www.kurir.rs/vesti/srbija/10166810/nedelja-italijanske-kuhinje-u-vranju": "2026-11-20T04:49:04.128210+00:00",
@@ -5260,18 +5259,15 @@
   "https://www.kurir.rs/vesti/beograd/10171174/rekonstrukcija-pancevackog-mosta-novi-plan-sa-cetiri-rampe": "2026-11-25T03:09:22.869914+00:00",
   "https://www.telegraf.rs/vesti/srbija/4439178-vase-malo-nekome-znaci-mnogo-evo-gde-danas-mozete-dati-krv": "2026-11-25T04:08:50.335633+00:00",
   "https://www.kurir.rs/vesti/beograd/10171671/gde-danas-mozete-dobrovoljno-da-date-krv-u-srbiji-spisak-lokacija": "2026-11-25T04:08:50.335633+00:00",
-  "https://www.euronews.rs/biznis/biznis-vesti/253534/kursna-lista-nbs-za-25-novembar/vest": "2026-11-25T04:08:50.335633+00:00"
+  "https://www.euronews.rs/biznis/biznis-vesti/253534/kursna-lista-nbs-za-25-novembar/vest": "2026-11-25T04:08:50.335633+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4439179-ujutru-slab-i-umeren-mraz-tokom-dana-naoblacenje-i-kisa-najvisa-dnevna-do-9": "2026-11-25T04:23:48.488279+00:00",
+  "https://www.b92.net/info/svet/287825/zelenski-rusija-ce-biti-primorana-na-prekid-vatre-zbog-velikih-gubitaka-na-frontu/vest": "2026-11-25T04:23:48.488279+00:00",
+  "https://nova.rs/vesti/svet/lukasenko-nudi-da-otputuje-sa-zelenskim-u-moskvu-na-sastanak-sa-putinom/": "2026-11-25T04:23:48.488279+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-24T06:26+00:00",
-   "novih": 7,
-   "ukupno": 4214,
-   "sekundi": 553.6
-  },
   {
    "vreme": "2026-11-24T06:44+00:00",
    "novih": 6,
@@ -5625,6 +5621,12 @@
    "novih": 1,
    "ukupno": 4505,
    "sekundi": 430.3
+  },
+  {
+   "vreme": "2026-11-25T04:33+00:00",
+   "novih": 1,
+   "ukupno": 4506,
+   "sekundi": 593.1
   }
  ],
  "licnosti_foto": {
@@ -5774,6 +5776,33 @@
   }
  },
  "videos": [
+  {
+   "id": "8e8UclxtZvE",
+   "title": "Die schwierigen Wochen bis Weihnachten des Kanzlers",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-25T04:04:00+00:00",
+   "thumb": "https://i.ytimg.com/vi/8e8UclxtZvE/hqdefault.jpg",
+   "live": "none",
+   "desc": "Der Jahresendspurt bringt Kanzler Friedrich Merz an die Belastungsgrenze. Neben dem Bundeshaushalt und einem Treffen mit dem Papst droht der toxische Streit um die Rentenreform zwischen SPD und Union zur Zerreißprobe zu werden. Rasmus Buchsteiner ordnet zusammen mit Rixa Fürsen ein, ob der Kanzler sein Wort halten kann und welche Gefahr die mögliche Wahl eines AfD-Ministerpräsidenten in Sachsen-Anhalt für die Bundespolitik unmittelbar birgt.\n\nBeim Ausgleich der kalten Progression verhärten sich die Fronten zwischen Bund und Ländern. Hessens CDU-Ministerpräsident Boris Rhein verteidigt die Blockadehaltung der Länder im 200-Sekunden-Interview. Er macht deutlich, warum die Länder die milliarden",
+   "spektar": "centar",
+   "viewers": null,
+   "naslov": "Merz pred teškim nedeljama do Božića: budžet, papa i spor oko penzija",
+   "opis": "Politico Europe analizira kako se nemački kancelar Fridrih Merc suočava sa krajem godine u kojem se prepliću budžet, susret s papom i spor SPD-a i Unije oko penzijske reforme. U snimku se govori i o kolizijama između Berlina i pokrajina oko kompenzacije hladne progresije.",
+   "tekst": [
+    "U analizi Politico Europe se navodi da završnica godine dovodi kancelara Fridriha Merca do granice izdržljivosti. Pored saveznog budžeta i susreta s papom, spor SPD-a i Unije oko penzijske reforme, kako se ocenjuje, preti da preraste u ozbiljnu probu za koaliciju.",
+    "Rasmus Buksajner i Riksa Firzen razmatraju da li kancelar može da održi datu reč i kakvu neposrednu opasnost po saveznu politiku bi nosio eventualni izbor premijera pokrajine Saksonija-Anhalt iz redova AfD-a.",
+    "U drugom delu snimka tema je odnos Berlina i pokrajina oko kompenzacije hladne progresije. Hesenski premijer iz CDU-a Boris Rajn u intervjuu od 200 sekundi brani blokadu koju su, prema snimku, zauzele pokrajine."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "Friedrich Merz",
+    "SPD",
+    "CDU",
+    "AfD",
+    "Boris Rhein"
+   ],
+   "slug": "merz-pred-teskim-nedeljama-do-bozica-budzet-papa-i-spor-oko-8e8uclxtzve"
+  },
   {
    "id": "RfpF7y_FKGs",
    "title": "Aleksandar Vučić ponovo pozvao na pomirenje, ali ljudi iz sadašnjeg režima nisu želeli da ga čuju!",
@@ -8286,33 +8315,6 @@
    "slug": "zasto-manuela-svezig-okleva-oko-cela-spd-i-sta-to-znaci-za-dmxu4vnxp8i"
   },
   {
-   "id": "fMCcLIQGNCw",
-   "title": "Stockpiling Britain: Does Westminster know something we don’t? | Westminster Insider",
-   "kanal": "POLITICO Europe",
-   "published": "2026-11-20T04:00:09+00:00",
-   "thumb": "https://i.ytimg.com/vi/fMCcLIQGNCw/hqdefault.jpg",
-   "live": "none",
-   "desc": "A ‘Black Sky event’ — a major blackout that could knock out communications, disrupt food supplies and bring everyday life to a standstill — is among the scenarios emergency planners worry about.\n\nNow the government's new ‘Be Ready’ campaign is urging Britons to stockpile food, water and other essentials.\n\nBut why are politicians suddenly so keen for us to prepare for the worst?\n\nThis week, host Patrick Baker meets the MPs who think the government isn't going far enough.\n\nHe hits the supermarket with Conservative Shadow Minister for Defence, Security and Resilience David Reed to put together a 72-hour emergency kit — and find out what threats have him worried.\n\nLiberal Democrat MP and Shetlan",
-   "spektar": "centar",
-   "viewers": null,
-   "naslov": "Zaliha hrane i vode u Britaniji: zašto vlada poziva građane da se pripreme za najgore",
-   "opis": "U emisiji Westminster Insider POLITICO-a voditelj Patrik Bejker govori sa poslanicima o novoj vladinoj kampanji „Be Ready“, kojom se Britanci pozivaju da prave zalihe hrane, vode i drugih potrepština. Povod je zabrinutost planera za vanredne situacije zbog scenarija poput „Black Sky“ događaja, velikog nestanka struje.",
-   "tekst": [
-    "U epizodi emisije Westminster Insider otvara se pitanje zašto političari odjednom podstiču građane da se pripreme za krizne situacije. Kao jedan od scenarija zbog kojih su planeri za vanredne situacije zabrinuti navodi se „Black Sky“ događaj, veliki nestanak struje koji bi mogao da prekine komunikacije, poremeti snabdevanje hranom i zaustavi svakodnevni život.",
-    "Voditelj Patrik Bejker upoznaje poslanike koji smatraju da vlada ne ide dovoljno daleko. Sa Dejvidom Ridom, članom konzervativne senke vlade zaduženim za odbranu, bezbednost i otpornost, odlazi u supermarket da sastave komplet za hitne slučajeve za 72 sata i saznaju koje pretnje Rida brinu.",
-    "U emisiji se pojavljuje i poslanik Liberalnih demokrata, a opis snimka je na tom mestu skraćen."
-   ],
-   "rubrika": "svet",
-   "oznake": [
-    "Britanija",
-    "kampanja Be Ready",
-    "Black Sky",
-    "David Reed",
-    "POLITICO"
-   ],
-   "slug": "zaliha-hrane-i-vode-u-britaniji-zasto-vlada-poziva-gradjane-fmccliqgncw"
-  },
-  {
    "id": "q1VSWOlA-JQ",
    "title": "Čupić izabran, Vučić o „sedam stanova\", Bakić o „revolucionarnoj pravdi\" | Skupština danas",
    "naslov": "Čupić izabran, Vučić o „sedam stanova\", Bakić o „revolucionarnoj pravdi\" | Skupština danas",
@@ -8406,7 +8408,7 @@
    "slug": "aleksandar-ivanovic-sedeo-sam-u-prostoriji-sa-covekom-koji-6vhn2aan3j8"
   }
  ],
- "_novi_snimci": false,
+ "_novi_snimci": true,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -53232,7 +53234,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-25T04:09:34.209054+00:00",
+  "provereno": "2026-11-25T04:24:48.659640+00:00",
   "uzivo_t": "2026-11-24T18:17:48.738804+00:00",
   "nedostupan": false
  },
@@ -67508,6 +67510,29 @@
    ],
    "slug": "srpska-kulturna-bastina-na-kosovu-i-metohiji-i-pristinski-i1-mz-4mfna",
    "spektar": "vlast"
+  },
+  "8e8UclxtZvE": {
+   "id": "8e8UclxtZvE",
+   "title": "Die schwierigen Wochen bis Weihnachten des Kanzlers",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-25T04:04:00+00:00",
+   "naslov": "Merz pred teškim nedeljama do Božića: budžet, papa i spor oko penzija",
+   "opis": "Politico Europe analizira kako se nemački kancelar Fridrih Merc suočava sa krajem godine u kojem se prepliću budžet, susret s papom i spor SPD-a i Unije oko penzijske reforme. U snimku se govori i o kolizijama između Berlina i pokrajina oko kompenzacije hladne progresije.",
+   "tekst": [
+    "U analizi Politico Europe se navodi da završnica godine dovodi kancelara Fridriha Merca do granice izdržljivosti. Pored saveznog budžeta i susreta s papom, spor SPD-a i Unije oko penzijske reforme, kako se ocenjuje, preti da preraste u ozbiljnu probu za koaliciju.",
+    "Rasmus Buksajner i Riksa Firzen razmatraju da li kancelar može da održi datu reč i kakvu neposrednu opasnost po saveznu politiku bi nosio eventualni izbor premijera pokrajine Saksonija-Anhalt iz redova AfD-a.",
+    "U drugom delu snimka tema je odnos Berlina i pokrajina oko kompenzacije hladne progresije. Hesenski premijer iz CDU-a Boris Rajn u intervjuu od 200 sekundi brani blokadu koju su, prema snimku, zauzele pokrajine."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "Friedrich Merz",
+    "SPD",
+    "CDU",
+    "AfD",
+    "Boris Rhein"
+   ],
+   "slug": "merz-pred-teskim-nedeljama-do-bozica-budzet-papa-i-spor-oko-8e8uclxtzve",
+   "spektar": "centar"
   }
  }
 }
