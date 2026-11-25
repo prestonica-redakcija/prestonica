@@ -26,7 +26,7 @@ concurrency:
 jobs:
   osvezi:
     runs-on: ubuntu-latest
-    timeout-minutes: 14
+    timeout-minutes: 25
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
@@ -44,7 +44,7 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - name: Keš kartica za deljenje (og:image)
-        uses: actions/cache@v4
+        uses: actions/cache/restore@v4
         with:
           path: .og-cache
           key: og-${{ github.run_id }}
@@ -68,6 +68,15 @@ jobs:
           MAX_VESTI: ${{ github.event.inputs.max_vesti }}
         run: |
           if [ -n "$MAX_VESTI" ]; then python -m engine.run --max "$MAX_VESTI"; else python -m engine.run; fi
+
+      # Keš se čuva odmah posle izgradnje, i kad kasniji korak padne, da sledeće osvežavanje ne pravi sve kartice ispočetka
+      - name: Sačuvaj keš kartica
+        if: always()
+        continue-on-error: true
+        uses: actions/cache/save@v4
+        with:
+          path: .og-cache
+          key: og-${{ github.run_id }}
 
       - name: Pošalji stanje produkcije internoj aplikaciji
         if: ${{ env.STAT_UPIS != '' }}
