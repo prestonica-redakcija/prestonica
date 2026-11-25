@@ -1,0 +1,57 @@
+{
+ "id": "202611250210-4dc135",
+ "slug": "radar-o-ai-detektorima-alat-za-proveru-sve-cesce-postaje-presuda",
+ "kind": "vest",
+ "section": "drustvo",
+ "headline": "Radar o AI detektorima: alat za proveru sve češće postaje presuda autoru",
+ "lead": "Alati koji procenjuju da li je tekst napisala veštačka inteligencija ove godine su uticali na otkazane ugovore, osporene nagrade i odbijene radove, piše Radar. Portal upozorava da procena zasnovana na verovatnoći ne bi smela da bude konačna odluka.",
+ "body": [
+  "Kako navodi Radar, kolumnista Njujork tajmsa Brajan Čen testirao je u avgustu alat Pangram, koji tvrdi da prepoznaje tekst veštačke inteligencije u 9.999 od 10.000 slučajeva. Od pedesetak tekstova nije pogrešio nijednom, dok su rezultati sa slikama bili slabiji: od 21 lažne fotografije tri je ocenio kao autentične.",
+  "Radar podseća na slučaj romana Shy Girl Mije Balard. Osnivač Pangrama Maks Spero ocenio je na mreži Iks da je 78 odsto teksta generisano, a izdavačka kuća Hačet potom je otkazala izdanje. WIRED je kasnije izvestio da je Speroov primerak rukopisa poticao sa piratskog sajta i da ga je on, kako sam kaže, samo ubacio u alat.",
+  "U maju je Pangram celu priču The Serpent in the Grove Džamira Nazira, dobitnika Komonvelt nagrade za kratku priču, ocenio kao mašinski napisanu, sa sto odsto. Fondacija Komonvelt je objasnila da radove nije proveravala detektorima jer bi slanje neobjavljenih rukopisa AI alatima otvorilo pitanje pristanka autora i vlasništva. Časopis Granta proverio je priču četbotom Klodom, koji je zaključio da gotovo sigurno nije nastala bez mašinske pomoći, a izdavačica Sigrid Rauzing priznala je da istinu možda nikada neće saznati. Fondacija je zatim pregledala nacrte i beleške, zaključila da AI nije korišćen i Naziru dodelila glavnu nagradu.",
+  "Semafor je u avgustu kroz Pangram propustio 310 gostujućih kolumni iz Volstrit džornala, Njujork tajmsa i Vašington posta: deset je označeno kao mašinsko, a četrdeset kao delimično napisano uz AI. Jedan autor rekao je da je ChatGPT koristio samo za doradu argumenata jer mu engleski nije maternji jezik. Radar navodi da se pravila redakcija razlikuju: Njujork tajms zabranjuje AI već u razvijanju teksta, dok WSJ traži samo da ključni argument bude autorski.",
+  "Konferencija NeurIPS je, prema Radaru, na osnovu Pangrama odbila 178 radova, bez prava na žalbu. Jedan odbijeni autor proverio je radove predsedavajućih iste konferencije i dobio ocene do 69 odsto, što je udeo teksta koji alat svrstava u mašinski, a ne tvrdnja da su ti radovi generisani. Istraživač sa Prinstona izračunao je da bi greška od jedan na deset hiljada, primenjena na sve studentske radove tokom studija, mogla lažno da optuži pet do deset odsto studenata. Pangram je još 2024. upozoravao da njegov klasifikator ne sme biti jedini arbitar.",
+  "Radar zaključuje da se dogodila „tiha inverzija tereta dokaza“, jer sada autor mora da dokazuje da je čovek. Portal ocenjuje da detektori mogu biti početak provere ili istrage, ali ne i njen kraj, te da odluku uz obrazloženje i pravo na odgovor treba da donosi čovek."
+ ],
+ "tags": [
+  "veštačka inteligencija",
+  "AI detektori",
+  "Pangram",
+  "autorstvo",
+  "izdavaštvo",
+  "akademski radovi"
+ ],
+ "people": [
+  "Brajan Čen",
+  "Maks Spero",
+  "Mija Balard",
+  "Džamir Nazir",
+  "Sigrid Rauzing"
+ ],
+ "places": [],
+ "importance": 3,
+ "published": "2026-11-25T01:10:08.054126+00:00",
+ "updated": "2026-11-25T01:10:08.054126+00:00",
+ "sources": [
+  {
+   "name": "Radar",
+   "url": "https://radar.nova.rs/radar-kolaz/ai-detektori-presudi-tekst-napisao-covek/",
+   "title": "Sto odsto čovek – AI detektori kao sudije",
+   "spektar": "opozicija"
+  }
+ ],
+ "source_titles": [
+  "Sto odsto čovek – AI detektori kao sudije"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.878,
+ "image": {
+  "src": "https://images.unsplash.com/photo-1591696331111-ef9586a5b17a?ixid=M3wxMTQwNDIwfDB8MXxzZWFyY2h8MXx8d3JpdGVyJTIwbGFwdG9wJTIwYXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZSUyMHRleHR8ZW58MXwwfHx8MTc5NTU2OTA3Mnww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+  "credit": "Unsplash / Markus Winkler",
+  "ilustracija": true,
+  "local": false,
+  "alt": "white and black typewriter with white printer paper",
+  "link": "https://unsplash.com/@markuswinkler"
+ }
+}
