@@ -35,16 +35,23 @@
  ],
  "importance": 3,
  "published": "2026-11-25T10:06:42.291972+00:00",
- "updated": "2026-11-25T10:06:42.291972+00:00",
+ "updated": "2026-11-25T10:51:19.075874+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/crnadak-sljivic-oric/",
    "title": "Crnadak prozvao Stevandića zbog Šljivić: Orića zvala „generale moj“",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/crnadak-sljivic-oric/",
+   "title": "Crnadak prozvao Stevandića zbog Šljivić: Orića zvala „generale moj“",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Crnadak prozvao Stevandića zbog Šljivić: Orića zvala „generale moj“",
   "Crnadak prozvao Stevandića zbog Šljivić: Orića zvala „generale moj“"
  ],
  "author": "Redakcija Prestonice",
@@ -58,5 +65,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Igor_Crnadak_2023_(cropped).png",
   "osoba": "Igor Crnadak",
   "alt": "Crnadak kritikovao Ujedinjenu Srpsku zbog obraćanja Šljivić Naseru Oriću"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

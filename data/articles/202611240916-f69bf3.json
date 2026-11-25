@@ -31,17 +31,24 @@
  ],
  "importance": 4,
  "published": "2026-11-24T08:16:13.275771+00:00",
- "updated": "2026-11-24T08:16:13.275771+00:00",
+ "updated": "2026-11-25T10:51:19.075874+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/bbc-news-serbian/opet-sam-ponizena-zizel-peliko/",
    "title": "‘Opet sam ponižena’: Žizel Peliko",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/kultura/zizel-peliko-danas-sam-ponovo-ponizena/",
+   "title": "„Danas se ponovo osećam poniženo“: Nage fotografije Žizel Peliko korišćene za promociju knjige",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "‘Opet sam ponižena’: Žizel Peliko"
+  "‘Opet sam ponižena’: Žizel Peliko",
+  "„Danas se ponovo osećam poniženo“: Nage fotografije Žizel Peliko korišćene za promociju knjige"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Žizel Peliko najavila pravni postupak zbog fotografija u promociji knjige"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

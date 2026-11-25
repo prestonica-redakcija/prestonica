@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-25T07:52:25.458035+00:00",
- "updated": "2026-11-25T08:22:23.862038+00:00",
+ "updated": "2026-11-25T10:51:19.075874+00:00",
  "sources": [
   {
    "name": "N1",
@@ -57,13 +57,20 @@
    "url": "https://www.b92.net/biz/svet/vesti/287879/kremlj-nezainteresovan-amerika-odustala/vest",
    "title": "Kremlj nezainteresovan, Amerika odustala",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10172336/tramp-odustao-poslovnh-sporazuma-sa-rusijom-za-okoncanje-rata-u-ukrajini",
+   "title": "TRAMP ODUSTAO OD POSLOVNIH SPORAZUMA SA RUSIJOM! Trebalo da posluže kao podsticaj za okončanje rata u Ukrajini, ali je Putin bio slabo zainteresovan (FOTO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "SAD odlažu planove za poslovne aranžmane sa Rusijom, koji je trebalo da doprinesu da se okonča rat",
   "SAD odlažu planove za poslovne aranžmane sa Rusijom: Putin nezainteresovana za kraj rata?",
   "Fajnenšel tajms: SAD odustale da poslovnim sporazumima sa Rusijom utiču na okončanje rata u Ukrajini",
-  "Kremlj nezainteresovan, Amerika odustala"
+  "Kremlj nezainteresovan, Amerika odustala",
+  "TRAMP ODUSTAO OD POSLOVNIH SPORAZUMA SA RUSIJOM! Trebalo da posluže kao podsticaj za okončanje rata u Ukrajini, ali je Putin bio slabo zainteresovan (FOTO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +84,6 @@
   "osoba": "Stiv Vitkof",
   "alt": "Vašington odlaže poslovne ponude Rusiji za okončanje rata u Ukrajini, piše FT"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

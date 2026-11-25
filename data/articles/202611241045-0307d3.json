@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T09:45:53.910539+00:00",
- "updated": "2026-11-25T09:07:06.301378+00:00",
+ "updated": "2026-11-25T10:51:19.075874+00:00",
  "sources": [
   {
    "name": "N1",
@@ -67,6 +67,12 @@
    "url": "https://www.kurir.rs/planeta/10172087/kina-lansirala-svemirsku-letelicu-sendzou-24-ka-stanici-tjenkung-sa-prvim-stranim-astronautom-u",
    "title": "Kina lansirala svemirsku letelicu „Šendžou-24“ ka stanici „Tjenkung“, sa prvim stranim astronautom u posadi",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/kina-uspesno-lansirala-svemirski-brod-sendzou-24-u-kojem-je-prvi-strani-astronaut",
+   "title": "Kina uspešno lansirala svemirski brod Šendžou-24 u kojem je prvi strani astronaut",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -75,7 +81,8 @@
   "Pakistanski astronaut prvi put leti na kinesku svemirsku stanicu",
   "Kina uspešno lansirala svemirski brod Šendžou-24: Prvi put strani astronaut dolazi u Nebesku palatu",
   "Šendžou-24 pristala na kinesku svemirsku stanicu, Pakistanac prvi stranac u misiji",
-  "Kina lansirala svemirsku letelicu „Šendžou-24“ ka stanici „Tjenkung“, sa prvim stranim astronautom u posadi"
+  "Kina lansirala svemirsku letelicu „Šendžou-24“ ka stanici „Tjenkung“, sa prvim stranim astronautom u posadi",
+  "Kina uspešno lansirala svemirski brod Šendžou-24 u kojem je prvi strani astronaut"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -88,6 +95,6 @@
   "alt": "a tall building with a crane on top of it",
   "link": "https://unsplash.com/@starsang"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

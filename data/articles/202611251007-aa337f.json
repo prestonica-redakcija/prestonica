@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-25T09:07:06.301378+00:00",
- "updated": "2026-11-25T10:06:42.291972+00:00",
+ "updated": "2026-11-25T10:51:19.075874+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -58,6 +58,12 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4439449-mladic-poginuo-u-saobracajnoj-nesreci-u-sokobanji",
    "title": "Mladić poginuo u saobraćajnoj nesreći u Sokobanji",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/automobil-sleteo-s-puta-i-prevrnuo-se-u-sokobanji-jedna-osoba-poginula/",
+   "title": "Automobil sleteo s puta i prevrnuo se u Sokobanji, jedna osoba poginula",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -65,7 +71,8 @@
   "MLADIĆ POGINUO U TEŠKOJ SAOBRAĆAJNOJ NESREĆI U SOKOBANJI: Sleteo s puta i prevrnuo se, nije mu bilo spasa",
   "U prevrtanju vozila u Sokobanji poginuo 24-godišnjak",
   "Mladić poginuo u saobraćajnoj nesreći u Sokobanji",
-  "Mladić poginuo u saobraćajnoj nesreći u Sokobanji"
+  "Mladić poginuo u saobraćajnoj nesreći u Sokobanji",
+  "Automobil sleteo s puta i prevrnuo se u Sokobanji, jedna osoba poginula"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -78,6 +85,6 @@
   "alt": "a police car parked on the side of the road",
   "link": "https://unsplash.com/@nsx_2000"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

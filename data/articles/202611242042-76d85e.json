@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T19:42:36.931926+00:00",
- "updated": "2026-11-25T10:06:42.291972+00:00",
+ "updated": "2026-11-25T10:51:19.075874+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -47,12 +47,26 @@
    "url": "https://insajder.net/prenosimo/aleksandar-cupic-imenovao-draganu-dordevic-za-generalnu-sekretarku-predsednika-republike",
    "title": "Aleksandar Čupić imenovao Draganu Đorđević za generalnu sekretarku predsednika Republike",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10172319/dragana-djordjevic-nova-generalna-sekretarka-predsednika-srbije",
+   "title": "ČUPIĆ IMENOVAO DRAGANU ĐORĐEVIĆ ZA GENERALNOG SEKRETARA PREDSEDNIKA SRBIJE: Odluka objavljena u Službenom glasniku",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253611/dordevic-imenovana-za-generalnog-sekretara-predsednika/vest",
+   "title": "Čupić imenovao Draganu Đorđević za generalnog sekretara predsednika Republike",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Nova-stara lica! Nekad Tadićeva saradnica, sada imenovana za generalnog sekretara predsednika Republike",
   "Preminuo nekadašnji generalni direktor RTS-a",
-  "Aleksandar Čupić imenovao Draganu Đorđević za generalnu sekretarku predsednika Republike"
+  "Aleksandar Čupić imenovao Draganu Đorđević za generalnu sekretarku predsednika Republike",
+  "ČUPIĆ IMENOVAO DRAGANU ĐORĐEVIĆ ZA GENERALNOG SEKRETARA PREDSEDNIKA SRBIJE: Odluka objavljena u Službenom glasniku",
+  "Čupić imenovao Draganu Đorđević za generalnog sekretara predsednika Republike"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +79,6 @@
   "alt": "grayscale photography of man standing near studio camera and woman sitting while holding book",
   "link": "https://unsplash.com/@austriannationallibrary"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

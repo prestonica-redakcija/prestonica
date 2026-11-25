@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T03:09:22.869914+00:00",
- "updated": "2026-11-25T09:07:06.301378+00:00",
+ "updated": "2026-11-25T10:51:19.075874+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -44,11 +44,18 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/300757/objavljen-javni-uvid-za-potrebe-izrade-plana-detaljne-regulacije-za-rekonstrukciju-pancevackog-mosta/vest",
    "title": "Objavljen javni uvid za potrebe izrade Plana detaljne regulacije za rekonstrukciju Pančevačkog mosta",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/objavljen-rani-javni-uvid-za-potrebe-izrade-plana-detaljne-regulacije-za-rekonstrukciju-pancevackog-mosta",
+   "title": "Objavljen rani javni uvid za potrebe izrade Plana detaljne regulacije za rekonstrukciju Pančevačkog mosta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Četiri rampe i petlja na tri nivoa: Evo šta predviđa plan rekonstrukcije Pančevačkog mosta",
-  "Objavljen javni uvid za potrebe izrade Plana detaljne regulacije za rekonstrukciju Pančevačkog mosta"
+  "Objavljen javni uvid za potrebe izrade Plana detaljne regulacije za rekonstrukciju Pančevačkog mosta",
+  "Objavljen rani javni uvid za potrebe izrade Plana detaljne regulacije za rekonstrukciju Pančevačkog mosta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Serbia,_Belgrade,_Pancevacki_most,_truss_construction,_25.04.2011,_2.jpg",
   "alt": "Pančevački most: rani javni uvid za plan sa četiri rampe i petljom na tri nivoa"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

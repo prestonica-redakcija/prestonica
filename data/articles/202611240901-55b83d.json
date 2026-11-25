@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-25T10:06:42.291972+00:00",
+ "updated": "2026-11-25T10:51:19.075874+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -270,6 +270,24 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4439466-ispitana-supruga-djordja-zdrala-imala-status-svedoka-uhapseni-naser-oric-i-nikolina-sljivic-za-njim-se-traga",
    "title": "Ispitana žena Đorđa Ždrala, imala status svedoka: Uhapšeni Naser Orić i Nikolina Šljivić, za njim se traga",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/zdrale-u-bekstvu-oric-iza-resetaka-istrazitelji-ispitali-i-suprugu-odbeglog-osumnjicenog/",
+   "title": "Ždrale u bekstvu, Orić iza rešetaka: Istražitelji ispitali i suprugu odbeglog osumnjičenog",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/region/bosna-i-hercegovina/10172348/ispitana-supruga-djordje-zdrale-tatjana-zdrale",
+   "title": "ISPITANA SUPRUGA ĐORĐA ŽDRALA! Imala status svedoka, pa osumnjičene",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4439518-oglasio-se-ukc-o-stanju-nikoline-sljivic-nakon-hapsenja",
+   "title": "Oglasio se UKC o stanju Nikoline Šljivić nakon hapšenja",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -311,7 +329,10 @@
   "Pozlilo uhapšenoj Nikolini Šljivić: Nakon ukazane lekarske pomoći vraćena u tužilaštvo",
   "Uhapšen pomoćnik gradonačelnika Kraljeva",
   "Uhapšen pomoćnik gradonačelnika Kraljeva, oglasilo se tužilaštvo",
-  "Ispitana žena Đorđa Ždrala, imala status svedoka: Uhapšeni Naser Orić i Nikolina Šljivić, za njim se traga"
+  "Ispitana žena Đorđa Ždrala, imala status svedoka: Uhapšeni Naser Orić i Nikolina Šljivić, za njim se traga",
+  "Ždrale u bekstvu, Orić iza rešetaka: Istražitelji ispitali i suprugu odbeglog osumnjičenog",
+  "ISPITANA SUPRUGA ĐORĐA ŽDRALA! Imala status svedoka, pa osumnjičene",
+  "Oglasio se UKC o stanju Nikoline Šljivić nakon hapšenja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -324,7 +345,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Promenada_Isto%C4%8Dno_Sarajevo.jpg",
   "alt": "SIPA i policija RS uhapsile Nasera Orića i Nikolinu Šljivić u akciji širom BiH"
  },
- "novo_od_pisanja": 15,
+ "novo_od_pisanja": 18,
  "boost": 1.6,
  "prepisano": "2026-11-24T16:58:36.932241+00:00",
  "verzija": 4
