@@ -29,17 +29,24 @@
  ],
  "importance": 3,
  "published": "2026-11-24T18:42:56.025649+00:00",
- "updated": "2026-11-24T18:42:56.025649+00:00",
+ "updated": "2026-11-25T02:09:53.341684+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/300600/maja-gojkovic-razgovarala-sa-delegacijom-lubuskog-vojvodstva-o-unapredenju-saradnje/vest",
    "title": "Maja Gojković razgovarala sa delegacijom Lubuškog vojvodstva o unapređenju saradnje",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4439171-gojkovic-sa-delegacijom-lubuskog-vojvodstva-o-unapredjenju-saradnje",
+   "title": "Gojković sa delegacijom Lubuškog vojvodstva o unapređenju saradnje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Maja Gojković razgovarala sa delegacijom Lubuškog vojvodstva o unapređenju saradnje"
+  "Maja Gojković razgovarala sa delegacijom Lubuškog vojvodstva o unapređenju saradnje",
+  "Gojković sa delegacijom Lubuškog vojvodstva o unapređenju saradnje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "alt": "two people shaking hands in front of a laptop",
   "link": "https://unsplash.com/@radission"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

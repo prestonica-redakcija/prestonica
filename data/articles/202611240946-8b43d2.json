@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T08:46:01.118594+00:00",
- "updated": "2026-11-24T08:46:01.118594+00:00",
+ "updated": "2026-11-25T02:09:53.341684+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://insajder.net/prenosimo/nsz-organizuje-testiranje-za-profesionalnu-orijentaciju-namenjeno-osmacima-i-maturantima",
    "title": "NSZ organizuje testiranje za profesionalnu orijentaciju: Namenjeno osmacima i maturantima",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10171086/kako-se-prijaviti-za-testiranje-nsz",
+   "title": "NSZ organizuje testiranje za profesionalnu orijentaciju učenika završnih godina",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "NSZ organizuje testiranje za profesionalnu orijentaciju učenika završnih godina",
-  "NSZ organizuje testiranje za profesionalnu orijentaciju: Namenjeno osmacima i maturantima"
+  "NSZ organizuje testiranje za profesionalnu orijentaciju: Namenjeno osmacima i maturantima",
+  "NSZ organizuje testiranje za profesionalnu orijentaciju učenika završnih godina"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "alt": "woman carrying white and green textbook",
   "link": "https://unsplash.com/@javotrueba"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

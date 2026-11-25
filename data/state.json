@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://biznis.telegraf.rs/info-biz/4436199-regionalni-poslovni-forum-okupio-vise-od-300-pravnika-na-zlatiboru": "2026-11-20T02:05:34.373335+00:00",
   "https://www.telegraf.rs/vesti/srbija/4436192-rzs-stopa-rizika-od-siromastva-medju-decom-u-srbiji-pala-sa-244-na-204-odsto": "2026-11-20T02:35:20.824067+00:00",
   "https://www.kurir.rs/vesti/srbija/10166618/festival-zlatna-kap-u-curugu-okupio-80-izlagaca-i-predstavio-140-uzoraka-likera": "2026-11-20T03:04:51.928002+00:00",
   "https://www.telegraf.rs/vesti/svet/4436306-haiti-najmanje-34-clana-bandi-ubijena-u-akciji-policije": "2026-11-20T03:19:47.764711+00:00",
@@ -5257,18 +5256,14 @@
   "https://radar.nova.rs/politika/srbija-politika-prema-kosovu/": "2026-11-25T01:10:08.054126+00:00",
   "https://radar.nova.rs/radar-kolaz/ai-detektori-presudi-tekst-napisao-covek/": "2026-11-25T01:10:08.054126+00:00",
   "https://radar.nova.rs/misljenja/kako-pomoci-osobi-u-depresiji-odnosi/": "2026-11-25T01:10:08.054126+00:00",
-  "https://www.kurir.rs/vesti/srbija/10171084/akcija-hpv-vakcinacije-u-domu-zdravlja-nis": "2026-11-25T01:25:03.117017+00:00"
+  "https://www.kurir.rs/vesti/srbija/10171084/akcija-hpv-vakcinacije-u-domu-zdravlja-nis": "2026-11-25T01:25:03.117017+00:00",
+  "https://www.telegraf.rs/4439171-gojkovic-sa-delegacijom-lubuskog-vojvodstva-o-unapredjenju-saradnje": "2026-11-25T02:09:53.341684+00:00",
+  "https://www.kurir.rs/vesti/drustvo/10171086/kako-se-prijaviti-za-testiranje-nsz": "2026-11-25T02:09:53.341684+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-24T04:12+00:00",
-   "novih": 0,
-   "ukupno": 4201,
-   "sekundi": 593.1
-  },
   {
    "vreme": "2026-11-24T04:24+00:00",
    "novih": 2,
@@ -5622,6 +5617,12 @@
    "novih": 0,
    "ukupno": 4502,
    "sekundi": 675.2
+  },
+  {
+   "vreme": "2026-11-25T02:19+00:00",
+   "novih": 0,
+   "ukupno": 4502,
+   "sekundi": 557.9
   }
  ],
  "licnosti_foto": {
@@ -53146,7 +53147,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-25T01:55:35.475989+00:00",
+  "provereno": "2026-11-25T02:10:22.380385+00:00",
   "uzivo_t": "2026-11-24T18:17:48.738804+00:00",
   "nedostupan": false
  },
