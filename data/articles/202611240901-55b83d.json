@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-25T06:08:12.574594+00:00",
+ "updated": "2026-11-25T07:37:28.564598+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -198,6 +198,12 @@
    "url": "https://www.telegraf.rs/sport/fudbal/4439280-tragedija-preminuo-bivsi-reprezentativac-svedske-38",
    "title": "Tragedija: Preminuo bivši reprezentativac Švedske (38)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10172080/snimak-hapsenja-pavle-bihali",
+   "title": "PRVI SNIMAK! Ovako je uhapšen Pavle Bihali (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -227,7 +233,8 @@
   "Ovako je uhapšen Nasera Orića; Policija ga sprovodi u Sarajevo VIDEO",
   "NASER ORIĆ SPROVEDEN U BANJALUKU! Isplivali detalji velike policijske akcije, zaplenjeni oružje i novac (VIDEO)",
   "Ko je Nikolina Šljivić, bivša poslanica uhapšena u istoj akciji kao Naser Orić? Od salona lepote do poslaničke klupe",
-  "Tragedija: Preminuo bivši reprezentativac Švedske (38)"
+  "Tragedija: Preminuo bivši reprezentativac Švedske (38)",
+  "PRVI SNIMAK! Ovako je uhapšen Pavle Bihali (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -240,7 +247,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Promenada_Isto%C4%8Dno_Sarajevo.jpg",
   "alt": "SIPA i policija RS uhapsile Nasera Orića i Nikolinu Šljivić u akciji širom BiH"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-24T16:58:36.932241+00:00",
  "verzija": 4

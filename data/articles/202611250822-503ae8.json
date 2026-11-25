@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T07:22:39.121611+00:00",
- "updated": "2026-11-25T07:22:39.121611+00:00",
+ "updated": "2026-11-25T07:37:28.564598+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,11 +47,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4439313-rhmz-izdao-upozorenje-upaljeni-alarmi-ovim-delovima-srbije-preti-ledena-kisa",
    "title": "RHMZ izdao upozorenje, upaljeni alarmi: Ovim delovima Srbije preti ledena kiša",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/287870/rhmz-izdao-upozorenje-za-ledenu-kisu/vest",
+   "title": "Srbija pod žutim meteoalarmom: RHMZ izdao upozorenje",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "RHMZ objavio upozorenje na ledenu kišu za podruje istočne Srbije",
-  "RHMZ izdao upozorenje, upaljeni alarmi: Ovim delovima Srbije preti ledena kiša"
+  "RHMZ izdao upozorenje, upaljeni alarmi: Ovim delovima Srbije preti ledena kiša",
+  "Srbija pod žutim meteoalarmom: RHMZ izdao upozorenje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +70,7 @@
   "local": false,
   "alt": "a puddle of water on a brick sidewalk",
   "link": "https://unsplash.com/@seiya_maeda"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

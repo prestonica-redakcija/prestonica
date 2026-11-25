@@ -24,7 +24,7 @@
  ],
  "importance": 4,
  "published": "2026-11-25T07:07:45.365426+00:00",
- "updated": "2026-11-25T07:22:39.121611+00:00",
+ "updated": "2026-11-25T07:37:28.564598+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -37,11 +37,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4439301-muskarac-izboden-nasred-ulice-zbog-svadje-u-saobracaju-hitno-pokrenuta-akcija-vihor",
    "title": "Muškarac izboden nasred ulice zbog svađe u saobraćaju: Hitno pokrenuta akcija Vihor",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300730/muskarac-izboden-nakon-svade-u-saobracaju-potraga-za-pociniocem/vest",
+   "title": "Muškarac izboden nakon svađe u saobraćaju, potraga za počiniocem",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "UBODEN U OKO ZBOG SVAĐE U SAOBRAĆAJU?! U toku potraga za napadačem, pobegao sa lica mesta, policija odmah aktivirala Vihor 3",
-  "Muškarac izboden nasred ulice zbog svađe u saobraćaju: Hitno pokrenuta akcija Vihor"
+  "Muškarac izboden nasred ulice zbog svađe u saobraćaju: Hitno pokrenuta akcija Vihor",
+  "Muškarac izboden nakon svađe u saobraćaju, potraga za počiniocem"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,6 +61,6 @@
   "alt": "cars parked in front of store during night time",
   "link": "https://unsplash.com/@hiepdaiduong93"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

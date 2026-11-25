@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-25T06:23:07.337159+00:00",
- "updated": "2026-11-25T06:23:07.337159+00:00",
+ "updated": "2026-11-25T07:37:28.564598+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -45,11 +45,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4439279-vozaci-paznja-savetuje-se-oprez-zbog-mogucih-odrona-i-raskvasenog-snega-na-pojedinim-deonicama",
    "title": "Vozači, pažnja: Savetuje se oprez zbog mogućih odrona i raskvašenog snega na pojedinim deonicama",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10172074/opasnost-od-poledice-odrona-i-raskvasenog-snega",
+   "title": "AMSS UPOZORAVA: Opasnost od poledice, odrona i raskvašenog snega, putevi prohodni",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Putevi prohodni, vozačima se savetuje oprez zbog mogućih odrona i raskvašenog snega",
-  "Vozači, pažnja: Savetuje se oprez zbog mogućih odrona i raskvašenog snega na pojedinim deonicama"
+  "Vozači, pažnja: Savetuje se oprez zbog mogućih odrona i raskvašenog snega na pojedinim deonicama",
+  "AMSS UPOZORAVA: Opasnost od poledice, odrona i raskvašenog snega, putevi prohodni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "local": false,
   "alt": "gray roads between mountains",
   "link": "https://unsplash.com/@albertohlfrias"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
