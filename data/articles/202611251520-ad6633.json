@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T14:20:12.062560+00:00",
- "updated": "2026-11-25T14:35:06.881481+00:00",
+ "updated": "2026-11-25T15:34:50.957886+00:00",
  "sources": [
   {
    "name": "N1",
@@ -51,12 +51,19 @@
    "url": "https://www.danas.rs/vesti/ekonomija/krik-uhapseni-brat-davora-macure-i-direktorka-firme-alta-pay-group/",
    "title": "KRIK: Uhapšeni brat Davora Macure i direktorka firme Alta Pay Group",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/288046/uhapsen-brat-davora-macure-i-direktorka-firme-alta-pay-group/vest",
+   "title": "Uhapšen brat Davora Macure i direktorka firme Alta Pay Group",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "KRIK: Uhapšeni brat Davora Macure i direktorka Alta grupe",
   "Uhapšeni brat Davora Macure i direktorka firme Alta Pay Group",
-  "KRIK: Uhapšeni brat Davora Macure i direktorka firme Alta Pay Group"
+  "KRIK: Uhapšeni brat Davora Macure i direktorka firme Alta Pay Group",
+  "Uhapšen brat Davora Macure i direktorka firme Alta Pay Group"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "local": true,
   "alt": "Uhapšeni brat Davora Macure i direktorka Alta grupe, zadržani 48 sati"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

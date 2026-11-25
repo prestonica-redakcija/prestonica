@@ -26,7 +26,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-25T15:19:59.966329+00:00",
+ "updated": "2026-11-25T15:34:50.957886+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -4605,6 +4605,258 @@
    "url": "https://www.telegraf.rs/vesti/svet/4439688-preti-joj-smrtna-kazna-ako-se-vrati-u-iran-glumica-filmova-za-odrasle-dobila-novu-sansu-u-britaniji",
    "title": "Preti joj smrtna kazna ako se vrati u Iran: Glumica filmova za odrasle dobila novu šansu u Britaniji",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300949/odreden-pritvor-ocu-maloletnika-osumnjicenog-za-pucnjavu-u-skoli-u-kragujevcu/vest",
+   "title": "Određen pritvor ocu maloletnika osumnjičenog za pucnjavu u školi u Kragujevcu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/pritvor-do-30-dana-ocu-maloletnika-koji-je-juce-pucao-u-prvoj-tehnickoj-skoli-u-kragujevcu/",
+   "title": "Pritvor do 30 dana ocu maloletnika koji je juče pucao u Prvoj tehničkoj školi u Kragujevcu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/300950/burger-king-otvorio-drugi-restoran-u-beogradu/vest",
+   "title": "Burger King otvorio drugi restoran u Beogradu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/300953/kardinal-zupi-seksualno-zlostavljanje-maloletnika-od-strane-svestenstva-uzasan-zlocin/vest",
+   "title": "Kardinal Zupi: Seksualno zlostavljanje maloletnika od strane sveštenstva užasan zločin",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/stars/10172883/svadja-desingerice-i-aleksandre-radovic",
+   "title": "RAT IZMEĐU DESINGERICE I ALEKSANDRE RADOVIĆ BUKTI! Reper udario na pevačicu kao nikad pre, uputio joj ove reči",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/zanimljivosti/svastara/4439513-drama-u-japanskom-zeleznickom-saobracaju-cak-25000-ljudi-ostalo-u-problemu-evo-sta-se-dogodilo",
+   "title": "Drama u japanskom železničkom saobraćaju, čak 25.000 ljudi ostalo u problemu: Evo šta se dogodilo",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://ubrzanje.telegraf.rs/nauka-i-privreda/4439750-anthropic-prosiruje-poslovanje-u-cirihu-zakupili-2500-kvadrata-otvara-de-150-radnih-mesta",
+   "title": "Anthropic proširuje poslovanje u Cirihu: Zakupili 2.500 kvadrata, otvara de 150 radnih mesta",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/zabava/pop-kultura/10172717/cerka-hejden-panetijer-nasledila-svo-njeno-bogatstvo",
+   "title": "Otkriveno ko je nasledio bogatstvo Hejden Panetijer: Nije ostavila testament, zbog tog njeni milioni idu ovoj osobi",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/najave-emisija/novi-dan-bombasticna-hapsenja/",
+   "title": "Novi dan: Bombastična hapšenja",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/teretnjaci-uprkos-zabrani-i-dalje-tutnje-pored-klizista-u-puckarosu-kod-novog-sada-video/",
+   "title": "Teretnjaci uprkos zabrani i dalje tutnje pored klizišta u Puckarošu kod Novog Sada (VIDEO)",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1674692/dnevnice-sluzbeni-put-srbiji-inostranstvu-evo-cega-sve-zavisi-koliko-novca-primiti-zaposleni",
+   "title": "DNEVNICE ZA SLUŽBENI PUT U SRBIJI I INOSTRANSTVU: Evo od čega sve zavisi koliko će novca primiti zaposleni",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/beograd/4439767-devet-decenija-cuvanja-tradicije-kud-polet-celovecernjim-koncertom-obelezava-90-godina-postojanja",
+   "title": "DEVET DECENIJA ČUVANJA TRADICIJE: KUD „Polet“ obeležava 90 godina postojanja",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/sport/ostali-sportovi/4439770-olimpijska-sampionka-zavrsila-karijeru",
+   "title": "Olimpijska šampionka završila karijeru!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/sport/ostali-sportovi/10172910/olimpijska-sampionka-u-skijanju-federika-brinjone-zavrsila-takmicarsku-karijeru",
+   "title": "SUZE I KRAJ VELIKE KARIJERE: Olimpijska kraljica skijanja više ne može na stazu",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/sport/kosarka/dzabari-parker-blizu-novog-kluba-partizanov-promasaj-odlazi-iz-evrope/",
+   "title": "Partizanov promašaj odlazi iz Evrope, na korak od novog kluba",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/sport/kosarka/evroliga/10172896/dubai-partizan-uzivo-prenos-livestream",
+   "title": "DUBAI - PARTIZAN: Crno-beli na teškom gostovanju u pustinji",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/sport/dubai-partizan-livestream-prenos-uzivo-online/",
+   "title": "UŽIVO Dubai – Partizan, crno-beli jure prvu pobedu u Koka-kola areni",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/rekordan-priliv-migranata-na-kanarska-ostrva-gotovo-2000-ljudi-stiglo-za-jedan-dan/",
+   "title": "Rekordan priliv migranata na Kanarska ostrva: Gotovo 2.000 ljudi stiglo za jedan dan",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/najave-emisija/n1-intervju-sa-jakovom-milatovicem-veceras-u-2015/",
+   "title": "N1 intervju sa Jakovom Milatovićem, večeras u 20.15",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173172/dragan-j-vucicevic-hapsenje-svet",
+   "title": "Ceo svet bruji o hapšenju Dragana J. Vučićevića! Washington Post preneo Vučićeve reči (FOTO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/rezolucija-ep-o-vukovaru-studentski-pokret/",
+   "title": "Šta piše u predlogu rezolucije EP o Vukovaru i šta je saopštio Studentski pokret?",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://ona.telegraf.rs/dom-i-dekor/4439748-bubasvabe-ulaze-u-kucu-kad-zahladni-pogledajte-gde-vole-da-se-zavuku-na-vreme-sprecite-veci-problem",
+   "title": "Bubašvabe ulaze u kuću kad zahladni: Pogledajte gde vole da se zavuku, na vreme sprečite veći problem",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674696/kurti-opasno-naoruzava-pristina-nabavlja-rakete-hiljade-dronova-planu-americko-oruzje",
+   "title": "KURTI SE OPASNO NAORUŽAVA: Priština nabavlja rakete, hiljade dronova, u planu američko oružje",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/za-dve-godine-dve-smrti-tokom-sportskih-aktivnosti-u-zatvoru-u-sremskoj-mitrovici/",
+   "title": "Za dve godine dve smrti tokom sportskih aktivnosti u zatvoru u Sremskoj Mitrovici: Mladić preminuo nakon što je na njega pao gol",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10170479/aleksandar-cupic-sutra-raspisuje-predsednicke-izbore",
+   "title": "ČUPIĆ SUTRA RASPISUJE PREDSEDNIČKE IZBORE! Šta ako Srbija ne dobije predsednika u prvom krugu?! Član RIK-a detaljno objasnio proces",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674695/sandra-bozic-hapsenju-vucicevica-lisicama-nece-ucutkati-istinu",
+   "title": "SANDRA BOŽIĆ O HAPŠENjU VUČIĆEVIĆA: Lisicama neće ućutkati istinu",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/287955/sad-predlozile-uvodjenje-novih-carina-za-eu-kinu-i-druge-trgovinske-partnere/vest",
+   "title": "Tramp nije odustao: Sprema novi \"udar\"",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10172862/upozorenje-rhmz-na-ledenu-kisu-i-poledicu-saveti-za-vozace",
+   "title": "Opasna zamka vreba na putevima po Srbiji! RHMZ upalio narandžasti alarm, stručnjaci upozoravaju vozače: Ovo je presudno!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/kamberi-albanci-spremni-na-dijalog-s-novom-vlascu/",
+   "title": "Kamberi: Albanci spremni na dijalog s novom vlašću, ali na osnovu rezultata, ne obećanja",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/sindikat-nezavisnost-reagovao-posle-incidenta-ispred-centra-za-socijalni-rad-na-vozdovcu/",
+   "title": "Sindikat „Nezavisnost“ reagovao posle incidenta ispred Centra za socijalni rad na Voždovcu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/zabava/sudbine/ljubavna-prica-danila-lazovica-i-njegove-zene/",
+   "title": "Nesvakidašnja ljubavna priča Branke i Danila Lazovića: Čim ju je ugledao, znao je da će mu biti žena, dobili su četvoro dece, a jedan sin im je uspešan sportista",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/genadij-sisojev-igor-dodik-rs/",
+   "title": "Ruski Komersant: Igor Dodik, baš kao i njegov otac, nastojaće da se osloni na podršku Rusije",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/ministarstvo-odbrane-demantovalo-da-su-vojna-policija-i-vba-ucestvovale-u-nelegalnom-pracenju-i-prisluskivanju-gradjana/",
+   "title": "Ministarstvo odbrane demantovalo da su Vojna policija i VBA učestvovale u nelegalnom praćenju i prisluškivanju građana",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/ministarstvo-odbrane-dematuje-da-su-vojne-sluzbe-prisluskivale-gradjane/",
+   "title": "Ministarstvo odbrane dematuje da su vojne službe prisluškivale građane",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4439772-uhapseni-rodjeni-brat-i-najbliza-saradnica-zbog-nestanka-390-miliona-evra",
+   "title": "Uhapšeni rođeni brat i najbliža saradnica zbog nestanka 390 miliona evra",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/english/news/student-list-mp-appointed-secretary-general-of-serbian-presidency/",
+   "title": "Student List MP Appointed Secretary-General of Serbian Presidency",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/koliko-kostaju-strani-radnici/",
+   "title": "Azijati sami plaćaju avio-kartu, Afrikanci traže da im se plati: Koliko poslodavce koštaju strani radnici?",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/novcanik/4439774-stizu-poslednje-penzije-pre-povecanja-od-75-odsto-objavljen-tacan-kalendar-isplate-za-sve-kategorije",
+   "title": "Stižu poslednje penzije pre povećanja od 7,5 odsto: Objavljen tačan kalendar isplate za sve kategorije",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/zabava/kultura/10172908/koncert-elektricnog-orgazma-40-godina-distorzije",
+   "title": "Četiri decenije \"Distorzije\" i novi hitovi: Električni orgazam sprema spektakl sa Anicom Dobrom i Canetom u Beogradu",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/jetset/vesti-jetset/4439746-ne-mogu-da-podnesem-da-samo-sede-i-pricaju-tijana-bogicevic-zapretila-kolegama-prozvacu-ih-na-mikrofon",
+   "title": "\"Ne mogu da podnesem da samo sede i pričaju\" Tijana Bogićević zapretila kolegama: \"Prozvaću ih na mikrofon\"",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/sport/fudbal/tezak-poraz-omladinaca-crvene-zvezde-u-ligi-sampiona-salcburg-razbio-desetkovane-crveno-bele/",
+   "title": "Težak poraz omladinaca Crvene zvezde u Ligi šampiona, Salcburg razbio desetkovane crveno-bele",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/kreni-promeni-saopstio-kako-su-predstavnici-stranaka-glasali-o-smeni-sapica/",
+   "title": "Kreni - Promeni saopštio kako su predstavnici stranaka glasali o smeni Šapića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -5370,7 +5622,49 @@
   "Saopštenje Ministarstva odbrane: Demantovali optužbe",
   "Skoro pola miliona ruskih vojnika poginulo u ratu u Ukrajini, pokazuju podaci Moskve",
   "Namirnica koju su jele naše bake postala svetski hit: Prodaja skočila 124 odsto, kupci promenili navike",
-  "Preti joj smrtna kazna ako se vrati u Iran: Glumica filmova za odrasle dobila novu šansu u Britaniji"
+  "Preti joj smrtna kazna ako se vrati u Iran: Glumica filmova za odrasle dobila novu šansu u Britaniji",
+  "Određen pritvor ocu maloletnika osumnjičenog za pucnjavu u školi u Kragujevcu",
+  "Pritvor do 30 dana ocu maloletnika koji je juče pucao u Prvoj tehničkoj školi u Kragujevcu",
+  "Burger King otvorio drugi restoran u Beogradu",
+  "Kardinal Zupi: Seksualno zlostavljanje maloletnika od strane sveštenstva užasan zločin",
+  "RAT IZMEĐU DESINGERICE I ALEKSANDRE RADOVIĆ BUKTI! Reper udario na pevačicu kao nikad pre, uputio joj ove reči",
+  "Drama u japanskom železničkom saobraćaju, čak 25.000 ljudi ostalo u problemu: Evo šta se dogodilo",
+  "Anthropic proširuje poslovanje u Cirihu: Zakupili 2.500 kvadrata, otvara de 150 radnih mesta",
+  "Otkriveno ko je nasledio bogatstvo Hejden Panetijer: Nije ostavila testament, zbog tog njeni milioni idu ovoj osobi",
+  "Novi dan: Bombastična hapšenja",
+  "Teretnjaci uprkos zabrani i dalje tutnje pored klizišta u Puckarošu kod Novog Sada (VIDEO)",
+  "DNEVNICE ZA SLUŽBENI PUT U SRBIJI I INOSTRANSTVU: Evo od čega sve zavisi koliko će novca primiti zaposleni",
+  "DEVET DECENIJA ČUVANJA TRADICIJE: KUD „Polet“ obeležava 90 godina postojanja",
+  "Olimpijska šampionka završila karijeru!",
+  "SUZE I KRAJ VELIKE KARIJERE: Olimpijska kraljica skijanja više ne može na stazu",
+  "Partizanov promašaj odlazi iz Evrope, na korak od novog kluba",
+  "DUBAI - PARTIZAN: Crno-beli na teškom gostovanju u pustinji",
+  "UŽIVO Dubai – Partizan, crno-beli jure prvu pobedu u Koka-kola areni",
+  "Rekordan priliv migranata na Kanarska ostrva: Gotovo 2.000 ljudi stiglo za jedan dan",
+  "N1 intervju sa Jakovom Milatovićem, večeras u 20.15",
+  "Ceo svet bruji o hapšenju Dragana J. Vučićevića! Washington Post preneo Vučićeve reči (FOTO)",
+  "Šta piše u predlogu rezolucije EP o Vukovaru i šta je saopštio Studentski pokret?",
+  "Bubašvabe ulaze u kuću kad zahladni: Pogledajte gde vole da se zavuku, na vreme sprečite veći problem",
+  "KURTI SE OPASNO NAORUŽAVA: Priština nabavlja rakete, hiljade dronova, u planu američko oružje",
+  "Za dve godine dve smrti tokom sportskih aktivnosti u zatvoru u Sremskoj Mitrovici: Mladić preminuo nakon što je na njega pao gol",
+  "ČUPIĆ SUTRA RASPISUJE PREDSEDNIČKE IZBORE! Šta ako Srbija ne dobije predsednika u prvom krugu?! Član RIK-a detaljno objasnio proces",
+  "SANDRA BOŽIĆ O HAPŠENjU VUČIĆEVIĆA: Lisicama neće ućutkati istinu",
+  "Tramp nije odustao: Sprema novi \"udar\"",
+  "Opasna zamka vreba na putevima po Srbiji! RHMZ upalio narandžasti alarm, stručnjaci upozoravaju vozače: Ovo je presudno!",
+  "Kamberi: Albanci spremni na dijalog s novom vlašću, ali na osnovu rezultata, ne obećanja",
+  "Sindikat „Nezavisnost“ reagovao posle incidenta ispred Centra za socijalni rad na Voždovcu",
+  "Nesvakidašnja ljubavna priča Branke i Danila Lazovića: Čim ju je ugledao, znao je da će mu biti žena, dobili su četvoro dece, a jedan sin im je uspešan sportista",
+  "Ruski Komersant: Igor Dodik, baš kao i njegov otac, nastojaće da se osloni na podršku Rusije",
+  "Ministarstvo odbrane demantovalo da su Vojna policija i VBA učestvovale u nelegalnom praćenju i prisluškivanju građana",
+  "Ministarstvo odbrane dematuje da su vojne službe prisluškivale građane",
+  "Uhapšeni rođeni brat i najbliža saradnica zbog nestanka 390 miliona evra",
+  "Student List MP Appointed Secretary-General of Serbian Presidency",
+  "Azijati sami plaćaju avio-kartu, Afrikanci traže da im se plati: Koliko poslodavce koštaju strani radnici?",
+  "Stižu poslednje penzije pre povećanja od 7,5 odsto: Objavljen tačan kalendar isplate za sve kategorije",
+  "Četiri decenije \"Distorzije\" i novi hitovi: Električni orgazam sprema spektakl sa Anicom Dobrom i Canetom u Beogradu",
+  "\"Ne mogu da podnesem da samo sede i pričaju\" Tijana Bogićević zapretila kolegama: \"Prozvaću ih na mikrofon\"",
+  "Težak poraz omladinaca Crvene zvezde u Ligi šampiona, Salcburg razbio desetkovane crveno-bele",
+  "Kreni - Promeni saopštio kako su predstavnici stranaka glasali o smeni Šapića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -5383,7 +5677,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 666,
+ "novo_od_pisanja": 708,
  "boost": 1.6,
  "prepisano": "2026-11-25T07:52:25.458035+00:00",
  "verzija": 10
