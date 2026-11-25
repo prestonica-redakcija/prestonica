@@ -29,16 +29,23 @@
  ],
  "importance": 6,
  "published": "2026-11-25T09:37:03.545768+00:00",
- "updated": "2026-11-25T09:37:03.545768+00:00",
+ "updated": "2026-11-25T10:06:42.291972+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/300777/fon-der-lajen-evropa-ce-nastaviti-da-podrzava-ukrajinu-i-pojacava-pritisak-na-rusiju/vest",
    "title": "Fon der Lajen: Evropa će nastaviti da podržava Ukrajinu i pojačava pritisak na Rusiju",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/fon-der-lajen-evropa-ce-nastaviti-da-podrzava-ukrajinu-i-pojacava-pritisak-na-rusiju",
+   "title": "Fon der Lajen: Evropa će nastaviti da podržava Ukrajinu i pojačava pritisak na Rusiju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Fon der Lajen: Evropa će nastaviti da podržava Ukrajinu i pojačava pritisak na Rusiju",
   "Fon der Lajen: Evropa će nastaviti da podržava Ukrajinu i pojačava pritisak na Rusiju"
  ],
  "author": "Redakcija Prestonice",
@@ -51,5 +58,7 @@
   "local": false,
   "alt": "glass walled building during daytime",
   "link": "https://unsplash.com/@guillaumeperigois"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

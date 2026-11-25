@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T19:42:36.931926+00:00",
- "updated": "2026-11-24T19:42:36.931926+00:00",
+ "updated": "2026-11-25T10:06:42.291972+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -41,11 +41,18 @@
    "url": "https://www.telegraf.rs/jetset/vesti-jetset/4439168-preminuo-nenad-nesa-ristic-nekadasnji-generalni-direktor-rts-a",
    "title": "Preminuo nekadašnji generalni direktor RTS-a",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/aleksandar-cupic-imenovao-draganu-dordevic-za-generalnu-sekretarku-predsednika-republike",
+   "title": "Aleksandar Čupić imenovao Draganu Đorđević za generalnu sekretarku predsednika Republike",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Nova-stara lica! Nekad Tadićeva saradnica, sada imenovana za generalnog sekretara predsednika Republike",
-  "Preminuo nekadašnji generalni direktor RTS-a"
+  "Preminuo nekadašnji generalni direktor RTS-a",
+  "Aleksandar Čupić imenovao Draganu Đorđević za generalnu sekretarku predsednika Republike"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "alt": "grayscale photography of man standing near studio camera and woman sitting while holding book",
   "link": "https://unsplash.com/@austriannationallibrary"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

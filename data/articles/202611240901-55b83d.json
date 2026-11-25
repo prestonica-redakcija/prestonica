@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-25T09:37:03.545768+00:00",
+ "updated": "2026-11-25T10:06:42.291972+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -240,6 +240,36 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4439443-pozlilo-nikolini-sljivic-nakon-hapsenja-prevezena-u-bolnicu-pa-vracena-u-tuzilastvo",
    "title": "Pozlilo Nikolini Šljivić nakon hapšenja: Prevezena u bolnicu, pa vraćena u Tužilaštvo",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/region/bosna-i-hercegovina/10172265/nikolini-sljivic-pozlilo-prebacena-u-prebacena-u-univerzitetski-klinicki-centar",
+   "title": "NIKOLINI ŠLJIVIĆ POZLILO! Bivša narodna poslanica RS prebačena u Univerzitetski klinički centar",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/pozlilo-uhapsenoj-nikolini-sljivic-nakon-ukazane-lekarske-pomoci-vracena-u-tuzilastvo/",
+   "title": "Pozlilo uhapšenoj Nikolini Šljivić: Nakon ukazane lekarske pomoći vraćena u tužilaštvo",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/uhapsen-pomocnik-gradonacelnika-kraljeva/",
+   "title": "Uhapšen pomoćnik gradonačelnika Kraljeva",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/uhapsen-pomocnik-gradonacelnika-kraljeva-oglasilo-se-tuzilastvo/",
+   "title": "Uhapšen pomoćnik gradonačelnika Kraljeva, oglasilo se tužilaštvo",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4439466-ispitana-supruga-djordja-zdrala-imala-status-svedoka-uhapseni-naser-oric-i-nikolina-sljivic-za-njim-se-traga",
+   "title": "Ispitana žena Đorđa Ždrala, imala status svedoka: Uhapšeni Naser Orić i Nikolina Šljivić, za njim se traga",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -276,7 +306,12 @@
   "Naser Orić i ostali sprovedeni u Republičko javno tužilaštvo u Banjaluci (VIDEO)",
   "Naser Orić i ostali uhapšeni sprovedeni u Republičko javno tužilaštvo u Banjaluci",
   "OGLASILA SE DEVOJKA UHAPŠENOG VOĐE POKRETA LEVIJATAN: Pevačica objavila zajedničku fotografiju i poslala poruku (FOTO)",
-  "Pozlilo Nikolini Šljivić nakon hapšenja: Prevezena u bolnicu, pa vraćena u Tužilaštvo"
+  "Pozlilo Nikolini Šljivić nakon hapšenja: Prevezena u bolnicu, pa vraćena u Tužilaštvo",
+  "NIKOLINI ŠLJIVIĆ POZLILO! Bivša narodna poslanica RS prebačena u Univerzitetski klinički centar",
+  "Pozlilo uhapšenoj Nikolini Šljivić: Nakon ukazane lekarske pomoći vraćena u tužilaštvo",
+  "Uhapšen pomoćnik gradonačelnika Kraljeva",
+  "Uhapšen pomoćnik gradonačelnika Kraljeva, oglasilo se tužilaštvo",
+  "Ispitana žena Đorđa Ždrala, imala status svedoka: Uhapšeni Naser Orić i Nikolina Šljivić, za njim se traga"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -289,7 +324,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Promenada_Isto%C4%8Dno_Sarajevo.jpg",
   "alt": "SIPA i policija RS uhapsile Nasera Orića i Nikolinu Šljivić u akciji širom BiH"
  },
- "novo_od_pisanja": 10,
+ "novo_od_pisanja": 15,
  "boost": 1.6,
  "prepisano": "2026-11-24T16:58:36.932241+00:00",
  "verzija": 4

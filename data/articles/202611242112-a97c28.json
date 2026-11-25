@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T20:12:16.418672+00:00",
- "updated": "2026-11-24T20:12:16.418672+00:00",
+ "updated": "2026-11-25T10:06:42.291972+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -53,12 +53,19 @@
    "url": "https://www.kurir.rs/planeta/10171904/rusija-upozorila-estoniju-na-mogucnost-otvorenog-vojnog-sukoba",
    "title": "RUSIJA OPASNO ZAPRETILA ESTONIJI: Pomoć Ukrajini u izvođenju napada na rusku teritoriju dovela bi do direktnog vojnog sukoba!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/rusija-upozorila-estoniju-na-mogucnost-otvorenog-vojnog-sukoba",
+   "title": "Rusija upozorila Estoniju na mogućnost otvorenog vojnog sukoba",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Rusija upozorila Estoniju na mogućnost otvorenog vojnog sukoba",
   "Rusija zapretila još jednoj zemlji – rizikujete otvoreni vojni sukob",
-  "RUSIJA OPASNO ZAPRETILA ESTONIJI: Pomoć Ukrajini u izvođenju napada na rusku teritoriju dovela bi do direktnog vojnog sukoba!"
+  "RUSIJA OPASNO ZAPRETILA ESTONIJI: Pomoć Ukrajini u izvođenju napada na rusku teritoriju dovela bi do direktnog vojnog sukoba!",
+  "Rusija upozorila Estoniju na mogućnost otvorenog vojnog sukoba"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,5 +76,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Moskva upozorila Estoniju da pomoć Ukrajini u napadima dronovima vodi ka otvorenom sukobu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

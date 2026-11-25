@@ -29,17 +29,24 @@
  ],
  "importance": 6,
  "published": "2026-11-25T09:07:06.301378+00:00",
- "updated": "2026-11-25T09:07:06.301378+00:00",
+ "updated": "2026-11-25T10:06:42.291972+00:00",
  "sources": [
   {
    "name": "Telegraf",
    "url": "https://biznis.telegraf.rs/info-biz/4439385-srbija-vise-nije-jeftina-destinacija-industrije-koje-su-privukle-niske-plate-mogle-bi-da-odu",
    "title": "Srbija više nije jeftina destinacija: Industrije koje su privukle niske plate mogle bi da odu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/zeliger-srbija-vise-nije-zemlja-jeftine-radne-snage-podsticaje-treba-usmeriti-ka-tehnoloski-naprednijim-industrijama/",
+   "title": "Zeliger: Srbija više nije zemlja jeftine radne snage, podsticaje treba usmeriti ka tehnološki naprednijim industrijama",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Srbija više nije jeftina destinacija: Industrije koje su privukle niske plate mogle bi da odu"
+  "Srbija više nije jeftina destinacija: Industrije koje su privukle niske plate mogle bi da odu",
+  "Zeliger: Srbija više nije zemlja jeftine radne snage, podsticaje treba usmeriti ka tehnološki naprednijim industrijama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Zeliger: Srbija više nije zemlja niskih troškova, podsticaje usmeriti ka naprednim industrijama"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

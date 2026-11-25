@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-25T09:37:03.545768+00:00",
- "updated": "2026-11-25T09:37:03.545768+00:00",
+ "updated": "2026-11-25T10:06:42.291972+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/milivojevic-demokratska-stranka-zahteva-da-bia-bude-raspustena-a-mup-reorganizovan/",
    "title": "Milivojević: Demokratska stranka zahteva da BIA bude raspuštena, a MUP reorganizovan",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/milivojevic-bia-da-bude-raspustena-a-mup-reorganizovan/",
+   "title": "Milivojević: BIA da bude raspuštena, a MUP reorganizovan",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Milivojević: BIA da bude raspuštena, a MUP reorganizovan - svako ko je sarađivao sa organizovanim kriminalom mora da odgovara",
-  "Milivojević: Demokratska stranka zahteva da BIA bude raspuštena, a MUP reorganizovan"
+  "Milivojević: Demokratska stranka zahteva da BIA bude raspuštena, a MUP reorganizovan",
+  "Milivojević: BIA da bude raspuštena, a MUP reorganizovan"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Sr%C4%91an_Milivojevi%C4%87_12_May_2023_2.png",
   "osoba": "Srđan Milivojević",
   "alt": "Milivojević traži raspuštanje BIA i reorganizaciju MUP-a nakon demantija službi"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

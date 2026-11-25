@@ -29,7 +29,7 @@
  "places": [],
  "importance": 3,
  "published": "2026-11-24T20:42:13.217039+00:00",
- "updated": "2026-11-25T08:37:21.026632+00:00",
+ "updated": "2026-11-25T10:06:42.291972+00:00",
  "sources": [
   {
    "name": "N1",
@@ -84,6 +84,12 @@
    "url": "https://www.kurir.rs/zabava/kultura/10171959/studenti-montaze-fdu-studenti-u-blokadi-dobitnici-nagrade-marko-glusac-za-montazu",
    "title": "Studenti montaže FDU \"Studenti u blokadi\" dobitnici nagrade \"Marko Glušac\" za montažu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/pop-i-kultura/film-tv/4439460-rekordna-poseta-u-prvim-danima-32-festivala-autorskog-filma",
+   "title": "Rekordna poseta u prvim danima 32. Festivala autorskog filma",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -95,7 +101,8 @@
   "Studenti u blokadi FDU dobitnici nagrade za montažu na Festivalu autorskog filma",
   "Rekordna poseta u prvim danima 32. Festivala autorskog filma",
   "Studenti montaže FDU „Studenti u blokadi” dobitnici nagrade „Marko Glušac” za montažu",
-  "Studenti montaže FDU \"Studenti u blokadi\" dobitnici nagrade \"Marko Glušac\" za montažu"
+  "Studenti montaže FDU \"Studenti u blokadi\" dobitnici nagrade \"Marko Glušac\" za montažu",
+  "Rekordna poseta u prvim danima 32. Festivala autorskog filma"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -108,8 +115,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:1996_11_19_-_festival_autorskog_filma.jpg",
   "alt": "Na Festivalu autorskog filma rekordna poseta, nagrada za studente montaže FDU"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-25T07:37:28.564598+00:00",
  "verzija": 2
 }

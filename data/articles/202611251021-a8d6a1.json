@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T09:21:54.243757+00:00",
- "updated": "2026-11-25T09:21:54.243757+00:00",
+ "updated": "2026-11-25T10:06:42.291972+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -49,11 +49,25 @@
    "url": "https://www.novosti.rs/vesti/politika/1674499/konstitutivna-sednica-skupstine-vucic-vracarski-klan-dobio-zeleno-svetlo-formiranja-toboznjih-institucija-sprovodi-teror-video",
    "title": "KONSTITUTIVNA SEDNICA SKUPŠTINE Vučić: Vračarski klan dobio zeleno svetlo da do formiranja tobožnjih institucija sprovodi teror (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=SjaP0dYrtPM",
+   "title": "Vučić: Vračarski klan dobio zeleno svetlo da sprovodi teror u Srbiji",
+   "spektar": "stranka"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10172288/napad-na-kucu-direktora-pro-tenta-u-obrenovcu-vucic-najavio-krivicne-prijave",
+   "title": "\"BIO JE SA SUPRUGOM I DVOJE DECE UNUTRA\" Vučić o bombi bačenoj na kuću direktora Pro Tenta: \"Dobili su zeleno svetlo za teror u Srbiji\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Nastavljena sednica Skupštine Srbije",
-  "KONSTITUTIVNA SEDNICA SKUPŠTINE Vučić: Vračarski klan dobio zeleno svetlo da do formiranja tobožnjih institucija sprovodi teror (VIDEO)"
+  "KONSTITUTIVNA SEDNICA SKUPŠTINE Vučić: Vračarski klan dobio zeleno svetlo da do formiranja tobožnjih institucija sprovodi teror (VIDEO)",
+  "Vučić: Vračarski klan dobio zeleno svetlo da sprovodi teror u Srbiji",
+  "\"BIO JE SA SUPRUGOM I DVOJE DECE UNUTRA\" Vučić o bombi bačenoj na kuću direktora Pro Tenta: \"Dobili su zeleno svetlo za teror u Srbiji\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,5 +79,7 @@
   "local": false,
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
