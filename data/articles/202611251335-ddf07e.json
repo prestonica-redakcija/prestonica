@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-25T12:35:55.277131+00:00",
- "updated": "2026-11-25T12:35:55.277131+00:00",
+ "updated": "2026-11-25T12:50:40.853752+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,10 +44,17 @@
    "url": "https://nova.rs/standard-soskic-spreman-da-kao-premijer-unese-red-u-privredu-srbije/",
    "title": "Štandard: \"Šoškić spreman da kao premijer unese red u privredu Srbije\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/standard-soskic-spreman-da-kao-premijer-unese-red-u-privredu-srbije/",
+   "title": "Štandard: \"Šoškić spreman da kao premijer unese red u privredu Srbije\"",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Štandard: Šoškić spreman da kao premijer unese red u privredu Srbije",
+  "Štandard: \"Šoškić spreman da kao premijer unese red u privredu Srbije\"",
   "Štandard: \"Šoškić spreman da kao premijer unese red u privredu Srbije\""
  ],
  "author": "Redakcija Prestonice",
@@ -61,5 +68,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Dejan_%C5%A0o%C5%A1ki%C4%87.png",
   "osoba": "Dejan Šoškić",
   "alt": "Štandard: Šoškić kao kandidat Studentske liste za premijera želi da sredi privredu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

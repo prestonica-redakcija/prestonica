@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T21:41:40.191274+00:00",
- "updated": "2026-11-24T21:41:40.191274+00:00",
+ "updated": "2026-11-25T12:50:40.853752+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -49,12 +49,19 @@
    "url": "https://www.kurir.rs/planeta/10171979/szo-sad-da-hitno-ukinu-blokadu-isporuka-nafte-kubi",
    "title": "\"UGROŽENI SU ŽIVOTI DECE\"! SZO: SAD da hitno ukinu blokadu isporuka nafte Kubi",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/generalni-direktor-svetske-zdravstvene-organizacije-sad-da-hitno-ukinu-blokadu-isporuka-nafte-kubi-ugrozeni-su-zivoti-dece",
+   "title": "Generalni direktor Svetske zdravstvene organizacije: SAD da hitno ukinu blokadu isporuka nafte Kubi, ugroženi su životi dece",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Tedros: SAD da hitno ukinu blokadu isporuka nafte Kubi, ugroženi su životi dece",
   "Tedros: SAD da hitno ukinu blokadu isporuka nafte Kubi, ugroženi su životi dece",
-  "\"UGROŽENI SU ŽIVOTI DECE\"! SZO: SAD da hitno ukinu blokadu isporuka nafte Kubi"
+  "\"UGROŽENI SU ŽIVOTI DECE\"! SZO: SAD da hitno ukinu blokadu isporuka nafte Kubi",
+  "Generalni direktor Svetske zdravstvene organizacije: SAD da hitno ukinu blokadu isporuka nafte Kubi, ugroženi su životi dece"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,5 +72,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Tedros pozvao SAD da ukinu blokadu goriva Kubi, SZO izdvaja dva miliona dolara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -31,17 +31,24 @@
  ],
  "importance": 6,
  "published": "2026-11-24T11:30:04.987837+00:00",
- "updated": "2026-11-24T11:30:04.987837+00:00",
+ "updated": "2026-11-25T12:50:40.853752+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/english/news/serbian-parliament-resumes-inaugural-session-as-students-attend/",
    "title": "Serbian Parliament resumes inaugural session as students attend",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/english/news/serbian-parliament-concludes-inaugural-session/",
+   "title": "Serbian Parliament concludes inaugural session",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Serbian Parliament resumes inaugural session as students attend"
+  "Serbian Parliament resumes inaugural session as students attend",
+  "Serbian Parliament concludes inaugural session"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Nastavljena konstitutivna sednica Skupštine, studenti prate rad iz galerije"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
