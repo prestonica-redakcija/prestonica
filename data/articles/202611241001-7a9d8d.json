@@ -24,7 +24,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T09:01:04.718161+00:00",
- "updated": "2026-11-25T10:51:19.075874+00:00",
+ "updated": "2026-11-25T14:50:09.568294+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -61,6 +61,12 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/300808/sutra-treca-aukcija-prevremenog-otkupa-drzavnih-obveznica/vest",
    "title": "Sutra treća aukcija prevremenog otkupa državnih obveznica",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253625/sutra-treca-aukcija-otkupa-drzavnih-obveznica/vest",
+   "title": "Sutra treća aukcija prevremenog otkupa državnih obveznica",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -69,6 +75,7 @@
   "Srbija otkupila državne obveznice vredne 10 milijardi dinara",
   "Republika Srbija otkupila desetogodišnje državne obveznice u iznosu od 10 milijardi dinara",
   "Republika Srbija otkupila desetogodišnje državne obveznice u iznosu od 10 milijardi dinara",
+  "Sutra treća aukcija prevremenog otkupa državnih obveznica",
   "Sutra treća aukcija prevremenog otkupa državnih obveznica"
  ],
  "author": "Redakcija Prestonice",
@@ -82,8 +89,8 @@
   "alt": "white concrete building under sky",
   "link": "https://unsplash.com/@katiemoum"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-25T02:39:37.375939+00:00",
  "verzija": 2
 }
