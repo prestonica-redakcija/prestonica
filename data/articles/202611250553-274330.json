@@ -31,17 +31,24 @@
  ],
  "importance": 3,
  "published": "2026-11-25T04:53:37.582664+00:00",
- "updated": "2026-11-25T04:53:37.582664+00:00",
+ "updated": "2026-11-25T06:23:07.337159+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/beograd/10171175/bez-struje-danas-u-beogradu",
    "title": "BEZ STRUJE SU DANAS OVIH 9 DELOVA BEOGRADA: Spisak isključenja najduži u Sopotu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/beograd/4438931-bg-servis-delovi-beograda-danas-bez-struje",
+   "title": "BG Servis: Delovi Beograda danas bez struje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "BEZ STRUJE SU DANAS OVIH 9 DELOVA BEOGRADA: Spisak isključenja najduži u Sopotu"
+  "BEZ STRUJE SU DANAS OVIH 9 DELOVA BEOGRADA: Spisak isključenja najduži u Sopotu",
+  "BG Servis: Delovi Beograda danas bez struje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "alt": "silhouette of buildings under cloudy sky during sunset",
   "link": "https://unsplash.com/@5tep5"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

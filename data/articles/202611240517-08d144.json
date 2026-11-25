@@ -33,7 +33,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T04:17:52.650439+00:00",
- "updated": "2026-11-25T04:23:48.488279+00:00",
+ "updated": "2026-11-25T06:23:07.337159+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -94,6 +94,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4439179-ujutru-slab-i-umeren-mraz-tokom-dana-naoblacenje-i-kisa-najvisa-dnevna-do-9",
    "title": "Ujutru slab i umeren mraz, tokom dana naoblačenje i kiša: Najviša dnevna do 9",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300718/u-srbiji-ujutru-hladno-sa-mrazem-tokom-dana-naoblacenje-sa-kisom/vest",
+   "title": "U Srbiji ujutru hladno sa mrazem, tokom dana naoblačenje sa kišom",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/posle-hladnog-jutra-sa-mrazem-naoblacenje-sa-kisom-na-planinama-snegom-minimalna-temperatura-minus-sedam-maksimalna-devet/",
+   "title": "Posle hladnog jutra sa mrazem, naoblačenje sa kišom, na planinama snegom, minimalna temperatura minus sedam, maksimalna devet",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -106,7 +118,9 @@
   "Mraz okovao Srbiju: Na Kopaoniku -10 stepeni; Evo koliko će biti stepeni tokom dana",
   "U Srbiji ujutru mraz, tokom dana oblačno, uveče kiša i sneg na planinama",
   "Vreme danas: Ujutru mraz, tokom dana oblačno",
-  "Ujutru slab i umeren mraz, tokom dana naoblačenje i kiša: Najviša dnevna do 9"
+  "Ujutru slab i umeren mraz, tokom dana naoblačenje i kiša: Najviša dnevna do 9",
+  "U Srbiji ujutru hladno sa mrazem, tokom dana naoblačenje sa kišom",
+  "Posle hladnog jutra sa mrazem, naoblačenje sa kišom, na planinama snegom, minimalna temperatura minus sedam, maksimalna devet"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -119,7 +133,7 @@
   "alt": "silhouette of electric post during sunset",
   "link": "https://unsplash.com/@thestefankostic"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-24T07:46:23.419063+00:00",
  "verzija": 2

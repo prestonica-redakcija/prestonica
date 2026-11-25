@@ -26,7 +26,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-25T03:09:22.869914+00:00",
+ "updated": "2026-11-25T06:23:07.337159+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -561,6 +561,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4439211-spanska-policija-razbila-mrezu-za-finansiranje-hamasa-dve-osobe-uhapsene-u-barseloni",
    "title": "Španska policija razbila mrežu za finansiranje Hamasa: Dve osobe uhapšene u Barseloni",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4438935-najvaznije-vesti-iz-sveta-za-24-novembar-2026",
+   "title": "Provalnici upali u dom princa Vilijama i Kejt Midlton, hakovana CIA: Šta se juče desilo u svetu?",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/studenti-blokade-fakulteta-smena-vucic/",
+   "title": "Dve godine studentske borbe: Od blokada fakulteta do smene Vučićevog režima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -652,7 +664,9 @@
   "\"IRAN RAZVIJA HEMIJSKO ORUŽJE\": Izraelski ministar odbrane: Tel Aviv spreman za napad",
   "Novine: \"Učenik pucao u školi, povređene dve osobe\"; \"Bez SNS u odborima i gašenje mikrofona\"",
   "Optuženi za pucnjavu ispred Skupštine izneo odbranu, rekao da se kaje",
-  "Španska policija razbila mrežu za finansiranje Hamasa: Dve osobe uhapšene u Barseloni"
+  "Španska policija razbila mrežu za finansiranje Hamasa: Dve osobe uhapšene u Barseloni",
+  "Provalnici upali u dom princa Vilijama i Kejt Midlton, hakovana CIA: Šta se juče desilo u svetu?",
+  "Dve godine studentske borbe: Od blokada fakulteta do smene Vučićevog režima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -665,7 +679,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 8,
+ "novo_od_pisanja": 10,
  "boost": 1.6,
  "prepisano": "2026-11-24T21:26:51.183491+00:00",
  "verzija": 8

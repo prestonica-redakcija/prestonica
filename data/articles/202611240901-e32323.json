@@ -25,7 +25,7 @@
  ],
  "importance": 9,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-25T05:38:15.475256+00:00",
+ "updated": "2026-11-25T06:23:07.337159+00:00",
  "sources": [
   {
    "name": "N1",
@@ -146,6 +146,18 @@
    "url": "https://www.telegraf.rs/vesti/beograd/4439276-hitna-pomoc-jedna-osoba-lakse-povredjena-u-udesu-u-beogradu",
    "title": "Hitna pomoć: Jedna osoba lakše povređena u udesu u Beogradu",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287857/hitna-pomoc-jedna-osoba-lakse-povredjena-u-udesu-u-beogradu/vest",
+   "title": "Hitna pomoć: Jedna osoba lakše povređena u udesu u Beogradu",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/u-udesu-tokom-noci-u-beogradu-jedna-osoba-povredjena/",
+   "title": "U udesu tokom noći u Beogradu jedna osoba povređena",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -168,7 +180,9 @@
   "Požar u staroj čaršiji Tešnjar u Valjevu: Jedna osoba zadobila opekotine lica",
   "Jedna osoba poginula, a dve povređene u ruskom napadu na železničku stanicu u Korostenu",
   "Požar u staroj čaršiji Tešnjar u Valjevu, jedna osoba zadobila opekotine lica",
-  "Hitna pomoć: Jedna osoba lakše povređena u udesu u Beogradu"
+  "Hitna pomoć: Jedna osoba lakše povređena u udesu u Beogradu",
+  "Hitna pomoć: Jedna osoba lakše povređena u udesu u Beogradu",
+  "U udesu tokom noći u Beogradu jedna osoba povređena"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -181,7 +195,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_i_%C5%A0kola_za_dizajn_tekstila_i_ko%C5%BEe_Novi_Pazar_04.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, napadač savladan, izvori se razlikuju o povredama"
  },
- "novo_od_pisanja": 5,
+ "novo_od_pisanja": 7,
  "boost": 1.6,
  "prepisano": "2026-11-24T11:00:18.955630+00:00",
  "verzija": 2

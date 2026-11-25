@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T20:27:05.952526+00:00",
- "updated": "2026-11-24T20:27:05.952526+00:00",
+ "updated": "2026-11-25T06:23:07.337159+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,11 +44,18 @@
    "url": "https://www.kurir.rs/planeta/10171912/zelenski-i-madjar-najavili-isporuke-gasa-i-dizela-kijevu-i-nove-zeleznicke-linije",
    "title": "DOGOVOR UKRAJINE I MAĐARSKE: Zelenski i Mađar najavili isporuke gasa i dizela Kijevu i nove železničke linije",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4439289-zelenski-i-madjar-postigli-dogovor-o-gasu-i-dizelu-ukrajina-bi-mogla-da-dobija-energente-iz-madjarske",
+   "title": "Zelenski i Mađar postigli dogovor o gasu i dizelu: Ukrajina bi mogla da dobija energente iz Mađarske",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Zelenski i Mađar dogovorili isporuke gasa i dizela Ukrajini i nove železničke linije",
-  "DOGOVOR UKRAJINE I MAĐARSKE: Zelenski i Mađar najavili isporuke gasa i dizela Kijevu i nove železničke linije"
+  "DOGOVOR UKRAJINE I MAĐARSKE: Zelenski i Mađar najavili isporuke gasa i dizela Kijevu i nove železničke linije",
+  "Zelenski i Mađar postigli dogovor o gasu i dizelu: Ukrajina bi mogla da dobija energente iz Mađarske"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Zelenski i Mađar dogovorili razmatranje isporuka gasa i dizela Ukrajini"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

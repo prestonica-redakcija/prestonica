@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T06:17:17.877061+00:00",
- "updated": "2026-11-25T06:08:12.574594+00:00",
+ "updated": "2026-11-25T06:23:07.337159+00:00",
  "sources": [
   {
    "name": "N1",
@@ -74,6 +74,12 @@
    "url": "https://www.tanjug.rs/srbija/politika/300717/skupstina-nastavlja-konstitutivnu-sednicu-poslednja-tacka-izbor-delegacija/vest",
    "title": "Skupština nastavlja konstitutivnu sednicu, poslednja tačka izbor delegacija",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253569/skupstina-srbije-nastavlja-konstitutivnu-sednicu/vest",
+   "title": "Skupština nastavlja konstitutivnu sednicu, poslednja tačka izbor delegacija",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -82,6 +88,7 @@
   "Poslanici Skupštine Srbije danas nastavljaju zasedanje, biraju i članove parlamentarnih odbora",
   "BLOG UŽIVO Nastavak sednice Skupštine: Očekuje se izbor članova skupštinskih odbora i stranih parlamentarnih delegacija",
   "Skupština nastavlja konstitutivnu sednicu: Rasprava o poslednjoj tački dnevnog reda",
+  "Skupština nastavlja konstitutivnu sednicu, poslednja tačka izbor delegacija",
   "Skupština nastavlja konstitutivnu sednicu, poslednja tačka izbor delegacija"
  ],
  "author": "Redakcija Prestonice",
@@ -95,8 +102,8 @@
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-25T05:23:24.621382+00:00",
  "verzija": 2
 }

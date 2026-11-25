@@ -30,7 +30,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T06:31:57.987626+00:00",
- "updated": "2026-11-25T05:53:26.871783+00:00",
+ "updated": "2026-11-25T06:23:07.337159+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -67,6 +67,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4439278-horgos-i-kelebija-teretna-vozila-na-granicnim-prelazima-zadrzavaju-se-do-cetiri-sata",
    "title": "Horgoš i Kelebija: Teretna vozila na graničnim prelazima zadržavaju se do četiri sata",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300715/teretna-vozila-na-granicnim-prelazima-zadrzavaju-se-do-cetiri-sata/vest",
+   "title": "Teretna vozila na graničnim prelazima zadržavaju se do četiri sata",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/287858/stanje-na-granicnim-prelazima/vest",
+   "title": "AMSS: Teretna vozila na graničnim prelazima zadržavaju se do četiri sata",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -75,7 +87,9 @@
   "Teretna vozila na Kelebiji i Horgošu čekaju po tri sata",
   "AMSS: Kamioni na izlazu iz Srbije na prelazu Horgoš čekaju do četiri sata",
   "AMSS: Kamioni na izlazu iz Srbije na prelazu Horgoš čekaju do četiri sata",
-  "Horgoš i Kelebija: Teretna vozila na graničnim prelazima zadržavaju se do četiri sata"
+  "Horgoš i Kelebija: Teretna vozila na graničnim prelazima zadržavaju se do četiri sata",
+  "Teretna vozila na graničnim prelazima zadržavaju se do četiri sata",
+  "AMSS: Teretna vozila na graničnim prelazima zadržavaju se do četiri sata"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -88,8 +102,8 @@
   "alt": "Border crossing with kurdistan flag under shelter",
   "link": "https://unsplash.com/@snowscat"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-25T05:53:26.871783+00:00",
  "verzija": 2
 }
