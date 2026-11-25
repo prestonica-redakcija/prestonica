@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.telegraf.rs/vesti/srbija/4436192-rzs-stopa-rizika-od-siromastva-medju-decom-u-srbiji-pala-sa-244-na-204-odsto": "2026-11-20T02:35:20.824067+00:00",
   "https://www.kurir.rs/vesti/srbija/10166618/festival-zlatna-kap-u-curugu-okupio-80-izlagaca-i-predstavio-140-uzoraka-likera": "2026-11-20T03:04:51.928002+00:00",
   "https://www.telegraf.rs/vesti/svet/4436306-haiti-najmanje-34-clana-bandi-ubijena-u-akciji-policije": "2026-11-20T03:19:47.764711+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/252855/kurs-dinara-danas-1176412-za-evro-dolar-1070049/vest": "2026-11-20T04:04:30.128065+00:00",
@@ -5260,18 +5259,13 @@
   "https://www.telegraf.rs/4439171-gojkovic-sa-delegacijom-lubuskog-vojvodstva-o-unapredjenju-saradnje": "2026-11-25T02:09:53.341684+00:00",
   "https://www.kurir.rs/vesti/drustvo/10171086/kako-se-prijaviti-za-testiranje-nsz": "2026-11-25T02:09:53.341684+00:00",
   "https://www.tanjug.rs/svet/politika/300671/rojters-nemacka-ce-uloziti-vise-od-cetiri-milijarde-evra-u-pvo-sistem-patriot/vest": "2026-11-25T02:24:43.129378+00:00",
-  "https://www.b92.net/biz/svet/vesti/287819/nemacka-kupuje-rakete-patriot-za-vise-od-cetiri-milijarde-evra/vest": "2026-11-25T02:24:43.129378+00:00"
+  "https://www.b92.net/biz/svet/vesti/287819/nemacka-kupuje-rakete-patriot-za-vise-od-cetiri-milijarde-evra/vest": "2026-11-25T02:24:43.129378+00:00",
+  "https://biznis.telegraf.rs/info-biz/4439173-republika-srbija-otkupila-desetogodisnje-drzavne-obveznice-u-iznosu-od-10-mlrd-dinara": "2026-11-25T02:39:37.375939+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-24T04:43+00:00",
-   "novih": 1,
-   "ukupno": 4204,
-   "sekundi": 621.0
-  },
   {
    "vreme": "2026-11-24T04:58+00:00",
    "novih": 0,
@@ -5625,6 +5619,12 @@
    "novih": 1,
    "ukupno": 4503,
    "sekundi": 710.2
+  },
+  {
+   "vreme": "2026-11-25T02:51+00:00",
+   "novih": 0,
+   "ukupno": 4503,
+   "sekundi": 686.9
   }
  ],
  "licnosti_foto": {
@@ -53149,7 +53149,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-25T02:25:49.705794+00:00",
+  "provereno": "2026-11-25T02:40:21.248229+00:00",
   "uzivo_t": "2026-11-24T18:17:48.738804+00:00",
   "nedostupan": false
  },
