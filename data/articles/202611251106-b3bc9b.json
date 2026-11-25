@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-25T10:06:42.291972+00:00",
- "updated": "2026-11-25T10:06:42.291972+00:00",
+ "updated": "2026-11-25T11:06:18.181669+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -58,6 +58,12 @@
    "url": "https://insajder.net/prenosimo/uhapsen-direktor-novosadske-osnovne-skole-zbog-sumnje-da-je-ostetio-skolu-za-539-miliona-dinara",
    "title": "Uhapšen direktor novosadske osnovne škole zbog sumnje da je oštetio školu za 53,9 miliona dinara",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10172410/uhapsen-direktor-novosadske-osnovne-skole",
+   "title": "UHAPŠEN DIREKTOR OSNOVNE ŠKOLE IZ NOVOG SADA: Zloupotrebama oštetio OŠ \"Prva vojvođanska brigada\" za skoro 54 miliona dinara",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -65,7 +71,8 @@
   "Uhapšen direktor osnovne škole iz Novog Sada zbog nesavesnog rada",
   "Novi Sad: Biviši direktor OŠ „Prva vojvođanska brigada“ uhapšen zbog sumnje da je oštetio školu za više od 54 miliona dinara",
   "Uhapšen direktor novosadske osnovne škole; Osumnjičen za zloupotrebu službenog položaja",
-  "Uhapšen direktor novosadske osnovne škole zbog sumnje da je oštetio školu za 53,9 miliona dinara"
+  "Uhapšen direktor novosadske osnovne škole zbog sumnje da je oštetio školu za 53,9 miliona dinara",
+  "UHAPŠEN DIREKTOR OSNOVNE ŠKOLE IZ NOVOG SADA: Zloupotrebama oštetio OŠ \"Prva vojvođanska brigada\" za skoro 54 miliona dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,5 +84,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Great_City_Hospital_of_Novi_Sad.jpg",
   "alt": "Uhapšen direktor novosadske škole, sumnja se na štetu od skoro 54 miliona dinara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

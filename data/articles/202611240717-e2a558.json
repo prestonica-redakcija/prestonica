@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T06:17:17.877061+00:00",
- "updated": "2026-11-25T09:37:03.545768+00:00",
+ "updated": "2026-11-25T11:06:18.181669+00:00",
  "sources": [
   {
    "name": "N1",
@@ -146,6 +146,18 @@
    "url": "https://www.tanjug.rs/srbija/politika/300717/skupstina-nastavila-rad-na-dnevnom-redu-poslednja-tacka-izbor-delegacija/vest",
    "title": "Skupština nastavila rad, na dnevnom redu poslednja tačka - izbor delegacija",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/vucic-prihvatamo-ucesce-u-parlamentarnim-delegacijama-u-medjunarodnim-institucijama/",
+   "title": "Vučić: Prihvatamo učešće u parlamentarnim delegacijama u međunarodnim institucijama",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/poslanici-medjunarodne-delegacije/",
+   "title": "Ko su predloženi poslanici za međunarodne delegacije?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -166,7 +178,9 @@
   "Skupština Srbije: Na redu izbor međunarodnih delegacija, poslanici stižu, među prvima Bakić i Lidija Vukićević",
   "SKUPŠTINA NASTAVLjA KONSTITUTIVNU SEDNICU: Poslednja tačka izbor delegacija (VIDEO)",
   "(BLOG) Nastavak konstitutivne sednice Skupštine: Rasprava o članovima međunarodnih parlamentarnih delegacija",
-  "Skupština nastavila rad, na dnevnom redu poslednja tačka - izbor delegacija"
+  "Skupština nastavila rad, na dnevnom redu poslednja tačka - izbor delegacija",
+  "Vučić: Prihvatamo učešće u parlamentarnim delegacijama u međunarodnim institucijama",
+  "Ko su predloženi poslanici za međunarodne delegacije?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -179,7 +193,7 @@
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
  },
- "novo_od_pisanja": 13,
+ "novo_od_pisanja": 15,
  "boost": 1.6,
  "prepisano": "2026-11-25T05:23:24.621382+00:00",
  "verzija": 2

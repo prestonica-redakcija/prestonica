@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-25T07:52:25.458035+00:00",
- "updated": "2026-11-25T09:07:06.301378+00:00",
+ "updated": "2026-11-25T11:06:18.181669+00:00",
  "sources": [
   {
    "name": "N1",
@@ -72,6 +72,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/rts-bacena-bomba-na-kucu-direktora-firme-pro-tent-slobodana-vujicica-u-obrenovcu/",
    "title": "RTS: Bačena bomba na kuću direktora firme „Pro Tent“ Slobodana Vujičića u Obrenovcu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10172366/detalji-bacene-bombe-na-kucu-direktora-pro-tenta-u-obrenovcu",
+   "title": "OVO JE VILA DIREKTORA PRO TENTA U OBRENOVCU NA KOJU JE BAČENA BOMBA: Deca spavala u kući kada je puklo, sve vrvi od policije (foto)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -81,7 +87,8 @@
   "KURIR SAZNAJE! Bačena bomba na kuću direktora Pro Tenta",
   "Bačena bomba na kuću direktora \"Pro tenta\"!",
   "Na kuću vlasnika Pro Tenta u Obrenovcu bačena bomba",
-  "RTS: Bačena bomba na kuću direktora firme „Pro Tent“ Slobodana Vujičića u Obrenovcu"
+  "RTS: Bačena bomba na kuću direktora firme „Pro Tent“ Slobodana Vujičića u Obrenovcu",
+  "OVO JE VILA DIREKTORA PRO TENTA U OBRENOVCU NA KOJU JE BAČENA BOMBA: Deca spavala u kući kada je puklo, sve vrvi od policije (foto)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -96,6 +103,6 @@
   "izvor_x": true,
   "alt": "Bomba bačena na kuću direktora Pro Tenta u Obrenovcu, policija vrši uviđaj"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

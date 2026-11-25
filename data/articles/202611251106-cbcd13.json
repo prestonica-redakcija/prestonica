@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-25T10:06:42.291972+00:00",
- "updated": "2026-11-25T10:51:19.075874+00:00",
+ "updated": "2026-11-25T11:06:18.181669+00:00",
  "sources": [
   {
    "name": "N1",
@@ -49,12 +49,19 @@
    "url": "https://n1info.rs/vesti/ekipa-n1-ometana-ispred-kuce-direktora-pro-tenta-na-koju-je-bacena-bomba/",
    "title": "Ekipa N1 ometana ispred kuće direktora Pro Tenta na koju je bačena bomba",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/english/news/n1-crew-obstructed-outside-serbian-state-company-directors-home-after-blast/",
+   "title": "N1 crew obstructed outside Serbian state company director’s home after blast",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Explosive device thrown at home of Serbian state company Pro Tent director",
   "Bačena eksplozivna naprava na kuću direktora “Pro Tenta”",
-  "Ekipa N1 ometana ispred kuće direktora Pro Tenta na koju je bačena bomba"
+  "Ekipa N1 ometana ispred kuće direktora Pro Tenta na koju je bačena bomba",
+  "N1 crew obstructed outside Serbian state company director’s home after blast"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "izvor_x": true,
   "alt": "Eksplozivna naprava bačena na kuću direktora Pro Tenta u Obrenovcu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

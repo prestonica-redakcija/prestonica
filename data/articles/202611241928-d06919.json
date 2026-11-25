@@ -35,17 +35,24 @@
  ],
  "importance": 5,
  "published": "2026-11-24T18:28:15.144156+00:00",
- "updated": "2026-11-24T18:28:15.144156+00:00",
+ "updated": "2026-11-25T11:06:18.181669+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/nemacka-stampa-herkulovski-zadatak-studentske-liste/",
    "title": "Nemačka štampa: \"Herkulovski zadatak\" Studentske liste",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/herkulovski-zadatak-studentske-liste/",
+   "title": "„Herkulovski zadatak“ Studentske liste",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Nemačka štampa: \"Herkulovski zadatak\" Studentske liste"
+  "Nemačka štampa: \"Herkulovski zadatak\" Studentske liste",
+  "„Herkulovski zadatak“ Studentske liste"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "alt": "Berlin-printed sticker on black surface",
   "link": "https://unsplash.com/@christianlue"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

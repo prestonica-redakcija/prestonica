@@ -29,17 +29,24 @@
  ],
  "importance": 7,
  "published": "2026-11-25T10:51:19.075874+00:00",
- "updated": "2026-11-25T10:51:19.075874+00:00",
+ "updated": "2026-11-25T11:06:18.181669+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1674553/advokat-dragana-vucicevica-nisam-video-nista-konkretno-sto-opravdavalo-njegovo-lisenje-slobode",
    "title": "ADVOKAT DRAGANA J. VUČIĆEVIĆA: Nisam video ništa konkretno što bi opravdavalo njegovo lišenje slobode",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173078/advokat-boris-bogdanovic-hapsenje-vucicevic",
+   "title": "Advokat Dragana J. Vučićevića: \"U rešenju nisam video ništa konkretno...\" (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "ADVOKAT DRAGANA J. VUČIĆEVIĆA: Nisam video ništa konkretno što bi opravdavalo njegovo lišenje slobode"
+  "ADVOKAT DRAGANA J. VUČIĆEVIĆA: Nisam video ništa konkretno što bi opravdavalo njegovo lišenje slobode",
+  "Advokat Dragana J. Vučićevića: \"U rešenju nisam video ništa konkretno...\" (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "alt": "a red building with a traffic light in front of it",
   "link": "https://unsplash.com/@meditative"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

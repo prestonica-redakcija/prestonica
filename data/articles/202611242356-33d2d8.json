@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T22:56:10.148905+00:00",
- "updated": "2026-11-25T10:51:19.075874+00:00",
+ "updated": "2026-11-25T11:06:18.181669+00:00",
  "sources": [
   {
    "name": "N1",
@@ -57,6 +57,12 @@
    "url": "https://www.tanjug.rs/ekonomija/svet/300792/stelantis-smanjuje-proizvodnju-u-fabrici-u-francuskom-sosou-zbog-slabije-traznje/vest",
    "title": "Stelantis smanjuje proizvodnju u fabrici u francuskom Sošou zbog slabije tražnje",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4439544-stelantis-smanjuje-proizvodnju-u-ovoj-fabrici",
+   "title": "Stelantis smanjuje proizvodnju u ovoj fabrici",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -64,7 +70,8 @@
   "Stelantis ukida noćnu smenu u fabrici u Francuskoj, smanjuje proizvodnju",
   "Stelantis ukida noćnu smenu u fabrici u Francuskoj, smanjuje proizvodnju pežoa 3008 i 5008",
   "Stelantis ukida noćnu smenu u fabrici u Francuskoj, smanjuje proizvodnju",
-  "Stelantis smanjuje proizvodnju u fabrici u francuskom Sošou zbog slabije tražnje"
+  "Stelantis smanjuje proizvodnju u fabrici u francuskom Sošou zbog slabije tražnje",
+  "Stelantis smanjuje proizvodnju u ovoj fabrici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +84,6 @@
   "alt": "Robotic arms assembling a car chassis on a factory line",
   "link": "https://unsplash.com/@nailil"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
