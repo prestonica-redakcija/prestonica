@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-25T04:23:48.488279+00:00",
- "updated": "2026-11-25T04:23:48.488279+00:00",
+ "updated": "2026-11-25T04:38:45.728818+00:00",
  "sources": [
   {
    "name": "B92",
@@ -47,11 +47,18 @@
    "url": "https://nova.rs/vesti/svet/lukasenko-nudi-da-otputuje-sa-zelenskim-u-moskvu-na-sastanak-sa-putinom/",
    "title": "Lukašenko nudi da otputuje sa Zelenskim u Moskvu na sastanak sa Putinom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/300681/zelenski-rusija-ce-biti-primorana-na-prekid-vatre-zbog-velikih-gubitaka-na-frontu/vest",
+   "title": "Zelenski: Rusija će biti primorana na prekid vatre zbog velikih gubitaka na frontu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Zelenski opet provocira Putina, žestoko",
-  "Lukašenko nudi da otputuje sa Zelenskim u Moskvu na sastanak sa Putinom"
+  "Lukašenko nudi da otputuje sa Zelenskim u Moskvu na sastanak sa Putinom",
+  "Zelenski: Rusija će biti primorana na prekid vatre zbog velikih gubitaka na frontu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Zelenski: Rusija će morati na prekid vatre, Lukašenko nudi da ga prati u Moskvu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

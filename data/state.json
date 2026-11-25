@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.kurir.rs/vesti/srbija/10166903/smece-pluta-ulicama-smedereva": "2026-11-20T04:34:10.218874+00:00",
-  "https://www.kurir.rs/vesti/beograd/10166786/bez-vode-danas-u-beogradu": "2026-11-20T04:34:10.218874+00:00",
   "https://www.kurir.rs/vesti/srbija/10166810/nedelja-italijanske-kuhinje-u-vranju": "2026-11-20T04:49:04.128210+00:00",
   "https://www.kurir.rs/vesti/beograd/10166923/bez-struje-danas-u-beogradu": "2026-11-20T05:03:51.843709+00:00",
   "https://www.telegraf.rs/4436382-cupic-posle-izbora-u-skupstini-sada-je-vreme-da-studentska-lista-preuzme-odgovornost": "2026-11-20T05:18:48.613825+00:00",
@@ -5262,18 +5260,14 @@
   "https://www.euronews.rs/biznis/biznis-vesti/253534/kursna-lista-nbs-za-25-novembar/vest": "2026-11-25T04:08:50.335633+00:00",
   "https://www.telegraf.rs/vesti/srbija/4439179-ujutru-slab-i-umeren-mraz-tokom-dana-naoblacenje-i-kisa-najvisa-dnevna-do-9": "2026-11-25T04:23:48.488279+00:00",
   "https://www.b92.net/info/svet/287825/zelenski-rusija-ce-biti-primorana-na-prekid-vatre-zbog-velikih-gubitaka-na-frontu/vest": "2026-11-25T04:23:48.488279+00:00",
-  "https://nova.rs/vesti/svet/lukasenko-nudi-da-otputuje-sa-zelenskim-u-moskvu-na-sastanak-sa-putinom/": "2026-11-25T04:23:48.488279+00:00"
+  "https://nova.rs/vesti/svet/lukasenko-nudi-da-otputuje-sa-zelenskim-u-moskvu-na-sastanak-sa-putinom/": "2026-11-25T04:23:48.488279+00:00",
+  "https://www.tanjug.rs/svet/politika/300681/zelenski-rusija-ce-biti-primorana-na-prekid-vatre-zbog-velikih-gubitaka-na-frontu/vest": "2026-11-25T04:38:45.728818+00:00",
+  "https://www.kurir.rs/vesti/beograd/10171166/bez-vode-danas-u-beogradu": "2026-11-25T04:38:45.728818+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-24T06:44+00:00",
-   "novih": 6,
-   "ukupno": 4220,
-   "sekundi": 724.5
-  },
   {
    "vreme": "2026-11-24T06:57+00:00",
    "novih": 0,
@@ -5627,6 +5621,12 @@
    "novih": 1,
    "ukupno": 4506,
    "sekundi": 593.1
+  },
+  {
+   "vreme": "2026-11-25T04:48+00:00",
+   "novih": 1,
+   "ukupno": 4507,
+   "sekundi": 577.4
   }
  ],
  "licnosti_foto": {
@@ -8408,7 +8408,7 @@
    "slug": "aleksandar-ivanovic-sedeo-sam-u-prostoriji-sa-covekom-koji-6vhn2aan3j8"
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -53234,7 +53234,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-25T04:24:48.659640+00:00",
+  "provereno": "2026-11-25T04:39:29.102548+00:00",
   "uzivo_t": "2026-11-24T18:17:48.738804+00:00",
   "nedostupan": false
  },
