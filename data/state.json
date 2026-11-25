@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.kurir.rs/vesti/srbija/10166618/festival-zlatna-kap-u-curugu-okupio-80-izlagaca-i-predstavio-140-uzoraka-likera": "2026-11-20T03:04:51.928002+00:00",
   "https://www.telegraf.rs/vesti/svet/4436306-haiti-najmanje-34-clana-bandi-ubijena-u-akciji-policije": "2026-11-20T03:19:47.764711+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/252855/kurs-dinara-danas-1176412-za-evro-dolar-1070049/vest": "2026-11-20T04:04:30.128065+00:00",
   "https://www.tanjug.rs/svet/drustvo/299313/nekoliko-bozicnih-marketa-u-nemackoj-otkazano-zbog-manjka-novca-u-gradskim-kasama/vest": "2026-11-20T04:04:30.128065+00:00",
@@ -5260,18 +5259,14 @@
   "https://www.kurir.rs/vesti/drustvo/10171086/kako-se-prijaviti-za-testiranje-nsz": "2026-11-25T02:09:53.341684+00:00",
   "https://www.tanjug.rs/svet/politika/300671/rojters-nemacka-ce-uloziti-vise-od-cetiri-milijarde-evra-u-pvo-sistem-patriot/vest": "2026-11-25T02:24:43.129378+00:00",
   "https://www.b92.net/biz/svet/vesti/287819/nemacka-kupuje-rakete-patriot-za-vise-od-cetiri-milijarde-evra/vest": "2026-11-25T02:24:43.129378+00:00",
-  "https://biznis.telegraf.rs/info-biz/4439173-republika-srbija-otkupila-desetogodisnje-drzavne-obveznice-u-iznosu-od-10-mlrd-dinara": "2026-11-25T02:39:37.375939+00:00"
+  "https://biznis.telegraf.rs/info-biz/4439173-republika-srbija-otkupila-desetogodisnje-drzavne-obveznice-u-iznosu-od-10-mlrd-dinara": "2026-11-25T02:39:37.375939+00:00",
+  "https://www.telegraf.rs/vesti/svet/4439211-spanska-policija-razbila-mrezu-za-finansiranje-hamasa-dve-osobe-uhapsene-u-barseloni": "2026-11-25T03:09:22.869914+00:00",
+  "https://www.kurir.rs/vesti/beograd/10171174/rekonstrukcija-pancevackog-mosta-novi-plan-sa-cetiri-rampe": "2026-11-25T03:09:22.869914+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-24T05:09+00:00",
-   "novih": 0,
-   "ukupno": 4204,
-   "sekundi": 427.9
-  },
   {
    "vreme": "2026-11-24T05:27+00:00",
    "novih": 0,
@@ -5625,6 +5620,12 @@
    "novih": 0,
    "ukupno": 4503,
    "sekundi": 678.2
+  },
+  {
+   "vreme": "2026-11-25T03:20+00:00",
+   "novih": 1,
+   "ukupno": 4504,
+   "sekundi": 663.7
   }
  ],
  "licnosti_foto": {
@@ -47412,6 +47413,92 @@
   "t:ai detektori": {
    "t": 1795569071.5582662,
    "items": []
+  },
+  "t:pancevacki most": {
+   "t": 1795576198.2801902,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Serbia%2C_Belgrade%2C_Pancevacki_most%2C_truss_construction%2C_25.04.2011%2C_2.jpg/1920px-Serbia%2C_Belgrade%2C_Pancevacki_most%2C_truss_construction%2C_25.04.2011%2C_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2716,
+     "h": 1766,
+     "god": 2011,
+     "credit": "Wikimedia Commons / User:Михајло Анђелковић / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Serbia,_Belgrade,_Pancevacki_most,_truss_construction,_25.04.2011,_2.jpg",
+     "naslov": "Serbia, Belgrade, Pancevacki most, truss construction, 25.04.2011, 2.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/View_from_the_Pan%C4%8Devo_Bridge_%28%D0%9F%D0%B0%D0%BD%D1%87%D0%B5%D0%B2%D0%B0%D1%87%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82%29_to_train_station_with_the_same_name._Belgrade%2C_Serbia_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1600,
+     "h": 1155,
+     "god": 2012,
+     "credit": "Wikimedia Commons / Maarten Sepp / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:View_from_the_Pan%C4%8Devo_Bridge_(%D0%9F%D0%B0%D0%BD%D1%87%D0%B5%D0%B2%D0%B0%D1%87%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82)_to_train_station_with_the_same_name._Belgrade,_Serbia_-_panoramio.jpg",
+     "naslov": "View from the Pančevo Bridge (Панчевачки мост) to train station with the same name. Belgrade, Serbia - panoramio.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Serbia%2C_Belgrade%2C_Pancevacki_most%2C_approach%2C_25.04.2011.jpg/1920px-Serbia%2C_Belgrade%2C_Pancevacki_most%2C_approach%2C_25.04.2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2560,
+     "h": 1920,
+     "god": 2011,
+     "credit": "Wikimedia Commons / User:Михајло Анђелковић / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Serbia,_Belgrade,_Pancevacki_most,_approach,_25.04.2011.jpg",
+     "naslov": "Serbia, Belgrade, Pancevacki most, approach, 25.04.2011.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Serbia%2C_Belgrade%2C_Pancevacki_most%2C_truss_construction%2C_25.04.2011.jpg/1920px-Serbia%2C_Belgrade%2C_Pancevacki_most%2C_truss_construction%2C_25.04.2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2184,
+     "h": 1412,
+     "god": 2011,
+     "credit": "Wikimedia Commons / User:Михајло Анђелковић / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Serbia,_Belgrade,_Pancevacki_most,_truss_construction,_25.04.2011.jpg",
+     "naslov": "Serbia, Belgrade, Pancevacki most, truss construction, 25.04.2011.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pancevacki_most.JPG/1920px-Pancevacki_most.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2592,
+     "h": 1944,
+     "god": 2007,
+     "credit": "Wikimedia Commons / Petar Milošević / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Pancevacki_most.JPG",
+     "naslov": "Pancevacki most.JPG"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Pan%C4%8Deva%C4%8Dki_most.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1656,
+     "h": 1072,
+     "god": 2018,
+     "credit": "Wikimedia Commons / Unknown authorUnknown author / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Pan%C4%8Deva%C4%8Dki_most.jpg",
+     "naslov": "Pančevački most.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Coming_from_the_Pan%C4%8Devo_Bridge_%28%D0%9F%D0%B0%D0%BD%D1%87%D0%B5%D0%B2%D0%B0%D1%87%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82%29_over_the_Danube_into_Belgrade%2C_Serbia._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1200,
+     "h": 1600,
+     "god": 2012,
+     "credit": "Wikimedia Commons / Maarten Sepp / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Coming_from_the_Pan%C4%8Devo_Bridge_(%D0%9F%D0%B0%D0%BD%D1%87%D0%B5%D0%B2%D0%B0%D1%87%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82)_over_the_Danube_into_Belgrade,_Serbia._-_panoramio.jpg",
+     "naslov": "Coming from the Pančevo Bridge (Панчевачки мост) over the Danube into Belgrade, Serbia. - panoramio.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Downstream_view_from_the_Pan%C4%8Devo_Bridge_%28%D0%9F%D0%B0%D0%BD%D1%87%D0%B5%D0%B2%D0%B0%D1%87%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82%29_over_the_Danube._Belgrade%2C_Serbia._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1700,
+     "h": 1147,
+     "god": 2012,
+     "credit": "Wikimedia Commons / Maarten Sepp / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Downstream_view_from_the_Pan%C4%8Devo_Bridge_(%D0%9F%D0%B0%D0%BD%D1%87%D0%B5%D0%B2%D0%B0%D1%87%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82)_over_the_Danube._Belgrade,_Serbia._-_panoramio.jpg",
+     "naslov": "Downstream view from the Pančevo Bridge (Панчевачки мост) over the Danube. Belgrade, Serbia. - panoramio.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Pan%C4%8Devo_Bridge_%28%D0%9F%D0%B0%D0%BD%D1%87%D0%B5%D0%B2%D0%B0%D1%87%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82%29_over_the_Danube_to_Belgrade%2C_Serbia._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1600,
+     "h": 1146,
+     "god": 2012,
+     "credit": "Wikimedia Commons / Maarten Sepp / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Pan%C4%8Devo_Bridge_(%D0%9F%D0%B0%D0%BD%D1%87%D0%B5%D0%B2%D0%B0%D1%87%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82)_over_the_Danube_to_Belgrade,_Serbia._-_panoramio.jpg",
+     "naslov": "Pančevo Bridge (Панчевачки мост) over the Danube to Belgrade, Serbia. - panoramio.jpg"
+    }
+   ]
   }
  },
  "x_objave": {
@@ -53149,7 +53236,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-25T02:55:08.371891+00:00",
+  "provereno": "2026-11-25T03:10:27.010725+00:00",
   "uzivo_t": "2026-11-24T18:17:48.738804+00:00",
   "nedostupan": false
  },

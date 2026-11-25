@@ -26,7 +26,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-24T23:40:52.458738+00:00",
+ "updated": "2026-11-25T03:09:22.869914+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -555,6 +555,12 @@
    "url": "https://www.tanjug.rs/srbija/hronika/300596/optuzeni-za-pucnjavu-ispred-skupstine-izneo-odbranu-rekao-da-se-kaje/vest",
    "title": "Optuženi za pucnjavu ispred Skupštine izneo odbranu, rekao da se kaje",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4439211-spanska-policija-razbila-mrezu-za-finansiranje-hamasa-dve-osobe-uhapsene-u-barseloni",
+   "title": "Španska policija razbila mrežu za finansiranje Hamasa: Dve osobe uhapšene u Barseloni",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -645,7 +651,8 @@
   "Pucao na muškarca i izazvao požar ispred Skupštine: \"Žao mi je, nisam hteo nikoga da povredim\"",
   "\"IRAN RAZVIJA HEMIJSKO ORUŽJE\": Izraelski ministar odbrane: Tel Aviv spreman za napad",
   "Novine: \"Učenik pucao u školi, povređene dve osobe\"; \"Bez SNS u odborima i gašenje mikrofona\"",
-  "Optuženi za pucnjavu ispred Skupštine izneo odbranu, rekao da se kaje"
+  "Optuženi za pucnjavu ispred Skupštine izneo odbranu, rekao da se kaje",
+  "Španska policija razbila mrežu za finansiranje Hamasa: Dve osobe uhapšene u Barseloni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -658,7 +665,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 7,
+ "novo_od_pisanja": 8,
  "boost": 1.6,
  "prepisano": "2026-11-24T21:26:51.183491+00:00",
  "verzija": 8
