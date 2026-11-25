@@ -28,6 +28,7 @@ log = logging.getLogger("prestonica")
 W, H = 1200, 630
 CACHE = ROOT / ".og-cache"
 VERZIJA = "3"
+_WIKI_PAUZA = False
 UA = {"User-Agent": "PrestonicaBot/1.0 (+https://prestonica.rs/o-nama.html; redakcija@prestonica.rs)"}
 NAVY, LINE, RED, WHITE, MUTED = (13, 23, 48), (22, 34, 66), (211, 38, 58), (255, 255, 255), (190, 199, 218)
 
@@ -55,9 +56,16 @@ def _photo(a: dict) -> Image.Image | None:
         cp = CACHE / "src" / f"{key}.jpg"
         if cp.exists():
             return Image.open(cp).convert("RGB")
-        r = requests.get(url, headers=UA, timeout=25)
+        global _WIKI_PAUZA
+        wiki = "wikimedia.org" in url or "wikimedia.org" in img["src"]
+        if wiki and _WIKI_PAUZA:
+            return None                        # Wikimedia nas je usporila: kartica bez fotografije, pokušaj u sledećem osvežavanju
+        r = requests.get(url, headers=UA, timeout=12)
+        if r.status_code == 429:
+            _WIKI_PAUZA = wiki or _WIKI_PAUZA
+            r.raise_for_status()
         if r.status_code != 200 or len(r.content) < 3000:
-            r = requests.get(img["src"], headers=UA, timeout=25)
+            r = requests.get(img["src"], headers=UA, timeout=12)
         r.raise_for_status()
         ph = ImageOps.exif_transpose(Image.open(io.BytesIO(r.content))).convert("RGB")
         ph.thumbnail((1600, 1600))
@@ -250,6 +258,8 @@ def build_cards(cfg, arts: list[dict], out: Path) -> int:
         if not cf.exists():
             if time.time() - t0 > float(oc.get("najvise_sekundi", 240)):
                 continue                       # ostale u sledećem osvežavanju
+            if _WIKI_PAUZA and "wikimedia.org" in (a.get("image") or {}).get("src", ""):
+                continue                       # ne keširaj karticu bez fotografije; sledeće osvežavanje je pravi
             try:
                 cf.write_bytes(card(a, cfg))
                 n += 1
