@@ -33,7 +33,7 @@
  ],
  "importance": 7,
  "published": "2026-11-24T20:27:05.952526+00:00",
- "updated": "2026-11-24T20:27:05.952526+00:00",
+ "updated": "2026-11-25T09:07:06.301378+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -46,11 +46,32 @@
    "url": "https://www.telegraf.rs/jetset/vesti-jetset/4439192-informacija-je-prestrasna-jelena-tomasevic-se-oglasila-nakon-pucnjave-u-skoli-u-kragujevcu-gde-je-odrasla",
    "title": "\"Informacija je prestrašna\" Jelena Tomašević se oglasila nakon pucnjave u školi u Kragujevcu, gde je odrasla",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173037/dragan-j-vucicevic-hapsenje-informer-tv",
+   "title": "Uhapšen Dragan J. Vučićević",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674507/uhapsen-dragan-vucicevic",
+   "title": "Uhapšen Dragan J. Vučićević",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4439417-informer-uhapsen-dragan-j-vucicevic",
+   "title": "Informer: Uhapšen Dragan J. Vučićević",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "\"DRUG GA JE VIDEO NA PUTU KA ŠKOLI, A KAD GA JE PITAO 'ŠTA TI JE TO...\" Bivši načelnik BIA izneo nove informacije o pucnjavi u Kragujevcu: \"Puška je zaglavila\"",
-  "\"Informacija je prestrašna\" Jelena Tomašević se oglasila nakon pucnjave u školi u Kragujevcu, gde je odrasla"
+  "\"Informacija je prestrašna\" Jelena Tomašević se oglasila nakon pucnjave u školi u Kragujevcu, gde je odrasla",
+  "Uhapšen Dragan J. Vučićević",
+  "Uhapšen Dragan J. Vučićević",
+  "Informer: Uhapšen Dragan J. Vučićević"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +83,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Prva_tehni%C4%8Dka_%C5%A1kola_Kragujevac_19.jpg",
   "alt": "Pucnjava u školi u Kragujevcu: uhapšen sedamnaestogodišnji učenik, povređene dve osobe"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

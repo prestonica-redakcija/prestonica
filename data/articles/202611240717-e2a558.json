@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T06:17:17.877061+00:00",
- "updated": "2026-11-25T08:37:21.026632+00:00",
+ "updated": "2026-11-25T09:07:06.301378+00:00",
  "sources": [
   {
    "name": "N1",
@@ -110,6 +110,36 @@
    "url": "https://informer.rs/politika/vesti/1173011/skupstina-srbije-sednica-izbor-delegacija",
    "title": "Skupština nastavlja konstitutivnu sednicu: Evo šta je poslednja tačka dnevnog reda",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10172177/konstitutivna-sednica-skupstina-srbije-peti-dan",
+   "title": "SKUPŠTINA, DAN PETI: Pred poslanicima danas i poslednja tačka dnevnog reda, evo o čemu će raspravljati",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/blog-uzivo-poslanici-raspravljaju-o-poslednjoj-tacki-dnevnog-reda-sns-nije-hteo-u-odbore-ali-predlozili-sastave-delegacija-u-medjunarodnim-institucijama/",
+   "title": "BLOG UŽIVO Poslanici raspravljaju o poslednjoj tački dnevnog reda: SNS nije hteo u odbore, ali predložili sastave delegacija u međunarodnim institucijama",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4439406-skupstina-srbije-nastavlja-rad-poslanici-biraju-clanove-medjunarodnih-delegacija",
+   "title": "Skupština Srbije: Na redu izbor međunarodnih delegacija, poslanici stižu, među prvima Bakić i Lidija Vukićević",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674499/skupstina-nastavlja-konstitutivnu-sednicu-poslednja-tacka-izbor-delegacija-video",
+   "title": "SKUPŠTINA NASTAVLjA KONSTITUTIVNU SEDNICU: Poslednja tačka izbor delegacija (VIDEO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/blog-nastavak-sednica-skupstine-25-11-2026/",
+   "title": "(BLOG) Nastavak konstitutivne sednice Skupštine: Rasprava o članovima međunarodnih parlamentarnih delegacija",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -124,7 +154,12 @@
   "Skupština nastavlja konstitutivnu sednicu – poslednja tačka izbor delegacija",
   "Danas nastavak sednice Skupštine: Na redu poslednja tačka dnevnog reda",
   "Skupština danas bira parlamentarne delegacije, čime se završava konstituisanje rukovodstva",
-  "Skupština nastavlja konstitutivnu sednicu: Evo šta je poslednja tačka dnevnog reda"
+  "Skupština nastavlja konstitutivnu sednicu: Evo šta je poslednja tačka dnevnog reda",
+  "SKUPŠTINA, DAN PETI: Pred poslanicima danas i poslednja tačka dnevnog reda, evo o čemu će raspravljati",
+  "BLOG UŽIVO Poslanici raspravljaju o poslednjoj tački dnevnog reda: SNS nije hteo u odbore, ali predložili sastave delegacija u međunarodnim institucijama",
+  "Skupština Srbije: Na redu izbor međunarodnih delegacija, poslanici stižu, među prvima Bakić i Lidija Vukićević",
+  "SKUPŠTINA NASTAVLjA KONSTITUTIVNU SEDNICU: Poslednja tačka izbor delegacija (VIDEO)",
+  "(BLOG) Nastavak konstitutivne sednice Skupštine: Rasprava o članovima međunarodnih parlamentarnih delegacija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -137,7 +172,7 @@
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
  },
- "novo_od_pisanja": 7,
+ "novo_od_pisanja": 12,
  "boost": 1.6,
  "prepisano": "2026-11-25T05:23:24.621382+00:00",
  "verzija": 2

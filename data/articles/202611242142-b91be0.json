@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T20:42:13.217039+00:00",
- "updated": "2026-11-24T21:56:48.072967+00:00",
+ "updated": "2026-11-25T09:07:06.301378+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,12 +44,19 @@
    "url": "https://insajder.net/prenosimo/majkrosoft-proglasio-crveni-alarm-posle-istorijskog-prekida-rada-svojih-servisa",
    "title": "Majkrosoft proglasio ''crveni alarm'' posle istorijskog prekida rada svojih servisa",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://ubrzanje.telegraf.rs/nauka-i-privreda/4439396-microsoft-proglasio-crveni-alarm-posle-istorijskog-prekida-rada-nikada-ranije-pogodjeno-toliko-korisnika",
+   "title": "Microsoft proglasio ''crveni alarm'' posle istorijskog prekida rada: Nikada ranije pogođeno toliko korisnika",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Majkrosoft proglasio ''crveni alarm'' posle istorijskog prekida rada svojih servisa",
   "Majkrosoft proglasio ''crveni alarm'' posle istorijskog prekida rada svojih servisa",
-  "Majkrosoft proglasio ''crveni alarm'' posle istorijskog prekida rada svojih servisa"
+  "Majkrosoft proglasio ''crveni alarm'' posle istorijskog prekida rada svojih servisa",
+  "Microsoft proglasio ''crveni alarm'' posle istorijskog prekida rada: Nikada ranije pogođeno toliko korisnika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Microsoft_365.jpg",
   "alt": "Majkrosoft proglasio \"crveni alarm\" posle višesatnog globalnog kvara servisa"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

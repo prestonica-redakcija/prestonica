@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T22:56:10.148905+00:00",
- "updated": "2026-11-24T22:56:10.148905+00:00",
+ "updated": "2026-11-25T09:07:06.301378+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,12 +51,19 @@
    "url": "https://nova.rs/vesti/svet/tramp-svom-bivsem-advokatu-djulijaniju-urucio-najvise-civilno-odlikovanje-sad-medalju-slobode/",
    "title": "Tramp svom bivšem advokatu Đulijaniju uručio najviše civilno odlikovanje SAD - Medalju slobode",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/300765/tramp-urucio-dulijaniju-predsednicku-medalju-slobode/vest",
+   "title": "Tramp uručio Đulijaniju Predsedničku medalju slobode",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Tramp planira da dodeli Predsedničku medalju slobode Rubiju Đulijaniju",
   "Tramp svom bivšem advokatu Đulijaniju uručio najviše civilno odlikovanje SAD – Medalju slobode",
-  "Tramp svom bivšem advokatu Đulijaniju uručio najviše civilno odlikovanje SAD - Medalju slobode"
+  "Tramp svom bivšem advokatu Đulijaniju uručio najviše civilno odlikovanje SAD - Medalju slobode",
+  "Tramp uručio Đulijaniju Predsedničku medalju slobode"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,5 +76,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025)_(3x4).jpg",
   "osoba": "Donald Tramp",
   "alt": "Tramp uručio Medalju slobode Rudiju Đulijaniju u Ovalnom kabinetu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

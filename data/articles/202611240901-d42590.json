@@ -26,7 +26,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-25T08:37:21.026632+00:00",
+ "updated": "2026-11-25T09:07:06.301378+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -651,6 +651,90 @@
    "url": "https://www.telegraf.rs/jetset/vesti-jetset/4439370-zaboravljena-sam-niko-me-22-godine-nije-pozvao-glumica-je-pobedila-rak-pa-dozivela-najvecu-tragediju",
    "title": "\"Zaboravljena sam, niko me 22 godine nije pozvao\": Glumica je pobedila rak, pa doživela najveću tragediju",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/nacelnik-skolske-uprave-u-kragujevcu-pojacano-prisustvo-policije-psiholoska-podrska-ucenicima-i-roditeljima",
+   "title": "Načelnik Školske uprave u Kragujevcu: Pojačano prisustvo policije, psihološka podrška učenicima i roditeljima",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10172189/kako-se-odvija-nastava-posle-incidenta-u-kragujevcu",
+   "title": "Dan posle pucnjave u školi u Kragujevcu uvedene posebne mere! Policija pojačava prisustvo, časovi skraćeni, psiholozi razgovaraju sa decom",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300758/odreden-pritvor-maloletniku-osumnjicenom-da-je-pucao-u-skoli-i-povredio-dve-osobe/vest",
+   "title": "Određen pritvor maloletniku osumnjičenom da je pucao u školi i povredio dve osobe",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4439389-pritvor-maloletniku-osumnjicenom-da-je-pucao-u-skoli-u-kragujevcu-ranio-dve-radnice",
+   "title": "Pritvor maloletniku osumnjičenom da je pucao u školi u Kragujevcu: Ranio dve radnice",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287903/maloletniku-koji-je-pucao-u-skoli-u-kragujevcu-odredjen-pritvor/vest",
+   "title": "Maloletniku koji je pucao u školi u Kragujevcu određen pritvor",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300763/u-porodilistu-u-uzicu-za-24-sata-rodeno-sedam-beba/vest",
+   "title": "U porodilištu u Užicu za 24 sata rođeno sedam beba",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10172144/uceniku-koji-je-pucao-u-tehnickoj-skoli-u-kragujevcu-odredjen-pritvor",
+   "title": "UČENIKU (17) IZ KRAGUJEVCA ODREĐEN PRITVOR: Posle pucnjave u Tehničkoj školi saslušao ga sudija za maloletnike",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/savet-roditelja-elektrotehnicke-skole-u-zemunu-sumnja-u-proneveru-novca-i-trazi-smenu-direktorke/",
+   "title": "Savet roditelja Elektrotehničke škole u Zemunu sumnja u proneveru novca i traži smenu direktorke",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4439393-veliki-pozar-u-politehnickoj-skoli-u-kragujevcu",
+   "title": "Veliki požar u Politehničkoj školi u Kragujevcu",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10172154/pozar-u-srednjoj-skoli-u-kragujevcu",
+   "title": "POŽAR U SREDNJOJ ŠKOLI U KRAGUJEVCU: Đaci evakuisani, a evo šta se zapalilo!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/veliki-pozar-u-skoli-u-kragujevcu/",
+   "title": "Veliki požar u Politehničkoj školi u Kragujevcu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/izvori-cnn-ko-je-hakovao-cia/",
+   "title": "Izvori CNN: Ko je hakovao CIA",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/najave-emisija/dan-uzivo-u-1630h-sta-smo-naucili/",
+   "title": "Dan uživo u 16.30h: Šta smo naučili?",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10171308/tetkica-sprecila-masakr-u-skoli-u-kragujevcu",
+   "title": "TETKICA IZ KRAGUJEVAČKE ŠKOLE SPREČILA NOVI \"RIBNIKAR\" Goloruka krenula na naoružanog đaka i tako sprečila da uđe u učionicu s puškom: Ona je heroina! (foto)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -757,7 +841,21 @@
   "Za odeljenje osumnjičenog učenika važe POSEBNE MERE! Evo šta je najavio načelnik školske uprave u Kragujevcu",
   "Izdato upozorenje: \"Ne idite tamo – napad može da se desi svakog trenutka\"",
   "Član Veća grada Niša iz SNS-a podneo ostavku",
-  "\"Zaboravljena sam, niko me 22 godine nije pozvao\": Glumica je pobedila rak, pa doživela najveću tragediju"
+  "\"Zaboravljena sam, niko me 22 godine nije pozvao\": Glumica je pobedila rak, pa doživela najveću tragediju",
+  "Načelnik Školske uprave u Kragujevcu: Pojačano prisustvo policije, psihološka podrška učenicima i roditeljima",
+  "Dan posle pucnjave u školi u Kragujevcu uvedene posebne mere! Policija pojačava prisustvo, časovi skraćeni, psiholozi razgovaraju sa decom",
+  "Određen pritvor maloletniku osumnjičenom da je pucao u školi i povredio dve osobe",
+  "Pritvor maloletniku osumnjičenom da je pucao u školi u Kragujevcu: Ranio dve radnice",
+  "Maloletniku koji je pucao u školi u Kragujevcu određen pritvor",
+  "U porodilištu u Užicu za 24 sata rođeno sedam beba",
+  "UČENIKU (17) IZ KRAGUJEVCA ODREĐEN PRITVOR: Posle pucnjave u Tehničkoj školi saslušao ga sudija za maloletnike",
+  "Savet roditelja Elektrotehničke škole u Zemunu sumnja u proneveru novca i traži smenu direktorke",
+  "Veliki požar u Politehničkoj školi u Kragujevcu",
+  "POŽAR U SREDNJOJ ŠKOLI U KRAGUJEVCU: Đaci evakuisani, a evo šta se zapalilo!",
+  "Veliki požar u Politehničkoj školi u Kragujevcu",
+  "Izvori CNN: Ko je hakovao CIA",
+  "Dan uživo u 16.30h: Šta smo naučili?",
+  "TETKICA IZ KRAGUJEVAČKE ŠKOLE SPREČILA NOVI \"RIBNIKAR\" Goloruka krenula na naoružanog đaka i tako sprečila da uđe u učionicu s puškom: Ona je heroina! (foto)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -770,7 +868,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 7,
+ "novo_od_pisanja": 21,
  "boost": 1.6,
  "prepisano": "2026-11-25T07:52:25.458035+00:00",
  "verzija": 10

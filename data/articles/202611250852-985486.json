@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-25T07:52:25.458035+00:00",
- "updated": "2026-11-25T07:52:25.458035+00:00",
+ "updated": "2026-11-25T09:07:06.301378+00:00",
  "sources": [
   {
    "name": "N1",
@@ -60,6 +60,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4439330-bacena-bomba-na-kucu-direktora-pro-tenta",
    "title": "Bačena bomba na kuću direktora \"Pro tenta\"!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300744/na-kucu-vlasnika-pro-tenta-u-obrenovcu-bacena-bomba/vest",
+   "title": "Na kuću vlasnika Pro Tenta u Obrenovcu bačena bomba",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/rts-bacena-bomba-na-kucu-direktora-firme-pro-tent-slobodana-vujicica-u-obrenovcu/",
+   "title": "RTS: Bačena bomba na kuću direktora firme „Pro Tent“ Slobodana Vujičića u Obrenovcu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -67,7 +79,9 @@
   "SAZNAJEMO Bačena bomba na kuću Slobodana Vujičića, direktora \"Pro Tenta\": Ulica zatvorena, Obrenovac vrvi od policije",
   "Prve fotografije iz Obrenovca nakon što je bačena bomba na kuću direktora \"Pro Tenta\" FOTO",
   "KURIR SAZNAJE! Bačena bomba na kuću direktora Pro Tenta",
-  "Bačena bomba na kuću direktora \"Pro tenta\"!"
+  "Bačena bomba na kuću direktora \"Pro tenta\"!",
+  "Na kuću vlasnika Pro Tenta u Obrenovcu bačena bomba",
+  "RTS: Bačena bomba na kuću direktora firme „Pro Tent“ Slobodana Vujičića u Obrenovcu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -81,5 +95,7 @@
   "osoba": "Ivan Ninić",
   "izvor_x": true,
   "alt": "Bomba bačena na kuću direktora Pro Tenta u Obrenovcu, policija vrši uviđaj"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T12:59:34.665665+00:00",
- "updated": "2026-11-25T08:07:21.321482+00:00",
+ "updated": "2026-11-25T09:07:06.301378+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -58,6 +58,12 @@
    "url": "https://biznis.telegraf.rs/info-biz/4439333-postanska-stedionica-isplatila-185-miliona-evra-deponentima-alta-banke",
    "title": "Poštanska štedionica isplatila 185 miliona evra deponentima Alta banke",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/banka-postanska-stedionica-isplatila-vise-od-polovine-osiguranih-depozita-alta-banke",
+   "title": "Banka Poštanska štedionica isplatila više od polovine osiguranih depozita Alta banke",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -65,7 +71,8 @@
   "Isplaćeno 49,35 odsto osiguranih sredstava Alta banke",
   "ISPLAĆENO SKORO POLA OSIGURANIH SREDSTAVA ALTA BANKE: Poštanska štedionica do sada isplatila 167,8 miliona evra",
   "Banka Poštanska štedionica: Isplaćeno više od pola ukupnih osiguranih sredstava Alta banke - 185,38 miliona evra",
-  "Poštanska štedionica isplatila 185 miliona evra deponentima Alta banke"
+  "Poštanska štedionica isplatila 185 miliona evra deponentima Alta banke",
+  "Banka Poštanska štedionica isplatila više od polovine osiguranih depozita Alta banke"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +84,6 @@
   "local": true,
   "alt": "Deponentima Alta banke isplaćeno 49,35 odsto osiguranih sredstava, 167,8 miliona evra"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
