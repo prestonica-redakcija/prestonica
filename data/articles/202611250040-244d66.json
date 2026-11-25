@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T23:40:52.458738+00:00",
- "updated": "2026-11-24T23:55:48.495044+00:00",
+ "updated": "2026-11-25T06:37:52.711850+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -52,12 +52,33 @@
    "url": "https://www.kurir.rs/planeta/10172033/sud-u-sad-proglasio-huavej-krivim-za-zaveru-zbog-kradje-poslovnih-tajni",
    "title": "ŠPIJUNSKE IGRE: Sud u Americi proglasio Huavej krivim za zaveru zbog krađe poslovnih tajni",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/magazin/scitech/americka-porota-huavej-kriv-za-zaveru-radi-kradje-poslovnih-tajni/",
+   "title": "Američka porota: Huavej kriv za zaveru radi krađe poslovnih tajni",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/kineski-tehnoloski-gigant-huavej-kriv-za-zaveru-radi-krade-poslovnih-tajni-utvrdila-americka-porota",
+   "title": "Kineski tehnološki gigant Huavej kriv za zaveru radi krađe poslovnih tajni, utvrdila američka porota",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/americka-porota-huavej-kriv-za-zaveru-radi-kradje-poslovnih-tajni/",
+   "title": "Američka porota: Huavej kriv za zaveru radi krađe poslovnih tajni",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Sud u SAD proglasio Huavej krivim za zaveru radi krađe poslovnih tajni",
   "Kineski tehnološki gigant Huavej kriv za zaveru radi krađe poslovnih tajni, utvrdila američka porota",
-  "ŠPIJUNSKE IGRE: Sud u Americi proglasio Huavej krivim za zaveru zbog krađe poslovnih tajni"
+  "ŠPIJUNSKE IGRE: Sud u Americi proglasio Huavej krivim za zaveru zbog krađe poslovnih tajni",
+  "Američka porota: Huavej kriv za zaveru radi krađe poslovnih tajni",
+  "Kineski tehnološki gigant Huavej kriv za zaveru radi krađe poslovnih tajni, utvrdila američka porota",
+  "Američka porota: Huavej kriv za zaveru radi krađe poslovnih tajni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +91,6 @@
   "alt": "New York signage",
   "link": "https://unsplash.com/@tjump"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

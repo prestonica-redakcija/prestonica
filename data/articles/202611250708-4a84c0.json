@@ -40,17 +40,24 @@
  ],
  "importance": 4,
  "published": "2026-11-25T06:08:12.574594+00:00",
- "updated": "2026-11-25T06:08:12.574594+00:00",
+ "updated": "2026-11-25T06:37:52.711850+00:00",
  "sources": [
   {
    "name": "Telegraf",
    "url": "https://www.telegraf.rs/vesti/srbija/4439285-pre-tacno-106-godina-vojvodina-je-proglasila-prisajedinjenje-srbiji-ovo-su-detalji-istorijske-odluke",
    "title": "Pre tačno 106 godina Vojvodina je proglasila prisajedinjenje Srbiji: Ovo su detalji istorijske odluke",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300711/vojvodina-proglasila-prisajedinjenje-srbiji-25-novembra-1918/vest",
+   "title": "Vojvodina proglasila prisajedinjenje Srbiji 25. novembra 1918.",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Pre tačno 106 godina Vojvodina je proglasila prisajedinjenje Srbiji: Ovo su detalji istorijske odluke"
+  "Pre tačno 106 godina Vojvodina je proglasila prisajedinjenje Srbiji: Ovo su detalji istorijske odluke",
+  "Vojvodina proglasila prisajedinjenje Srbiji 25. novembra 1918."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Velika-narodna-skupstina-1918.jpg",
   "alt": "Godišnjica Novosadske skupštine: Vojvodina se 1918. prisajedinila Srbiji"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

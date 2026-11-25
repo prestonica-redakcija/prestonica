@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T09:45:53.910539+00:00",
- "updated": "2026-11-24T10:45:26.187919+00:00",
+ "updated": "2026-11-25T06:37:52.711850+00:00",
  "sources": [
   {
    "name": "N1",
@@ -49,12 +49,19 @@
    "url": "https://www.tanjug.rs/svet/drustvo/300406/pakistanski-astronaut-prvi-put-leti-na-kinesku-svemirsku-stanicu/vest",
    "title": "Pakistanski astronaut prvi put leti na kinesku svemirsku stanicu",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://nauka.telegraf.rs/svemir/4439296-prvi-put-strani-astronaut-dolazi-u-nebesku-palatu",
+   "title": "Kina uspešno lansirala svemirski brod Šendžou-24: Prvi put strani astronaut dolazi u Nebesku palatu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Kina predstavila posadu za novu svemirsku misiju, u ekipi prvi put jedan stranac",
   "Kina predstavila posadu za novu svemirsku misiju, u ekipi prvi put jedan stranac",
-  "Pakistanski astronaut prvi put leti na kinesku svemirsku stanicu"
+  "Pakistanski astronaut prvi put leti na kinesku svemirsku stanicu",
+  "Kina uspešno lansirala svemirski brod Šendžou-24: Prvi put strani astronaut dolazi u Nebesku palatu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,6 @@
   "alt": "a tall building with a crane on top of it",
   "link": "https://unsplash.com/@starsang"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

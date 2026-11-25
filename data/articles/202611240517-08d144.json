@@ -33,7 +33,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T04:17:52.650439+00:00",
- "updated": "2026-11-25T06:23:07.337159+00:00",
+ "updated": "2026-11-25T06:37:52.711850+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -106,6 +106,18 @@
    "url": "https://n1info.rs/vesti/posle-hladnog-jutra-sa-mrazem-naoblacenje-sa-kisom-na-planinama-snegom-minimalna-temperatura-minus-sedam-maksimalna-devet/",
    "title": "Posle hladnog jutra sa mrazem, naoblačenje sa kišom, na planinama snegom, minimalna temperatura minus sedam, maksimalna devet",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/u-srbiji-ujutru-hladno-sa-mrazom-tokom-dana-naoblacenje-sa-kisom",
+   "title": "U Srbiji ujutru hladno sa mrazom, tokom dana naoblačenje sa kišom",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4439299-u-ovom-gradu-u-srbiji-je-jutros-izmereno-9-stepeni-u-vecini-mesta-temperatura-ispod-nule-stize-nova-promena",
+   "title": "U ovom gradu u Srbiji jutros izmereno -9 stepeni: U većini mesta temperatura ispod nule, stiže nova promena",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -120,7 +132,9 @@
   "Vreme danas: Ujutru mraz, tokom dana oblačno",
   "Ujutru slab i umeren mraz, tokom dana naoblačenje i kiša: Najviša dnevna do 9",
   "U Srbiji ujutru hladno sa mrazem, tokom dana naoblačenje sa kišom",
-  "Posle hladnog jutra sa mrazem, naoblačenje sa kišom, na planinama snegom, minimalna temperatura minus sedam, maksimalna devet"
+  "Posle hladnog jutra sa mrazem, naoblačenje sa kišom, na planinama snegom, minimalna temperatura minus sedam, maksimalna devet",
+  "U Srbiji ujutru hladno sa mrazom, tokom dana naoblačenje sa kišom",
+  "U ovom gradu u Srbiji jutros izmereno -9 stepeni: U većini mesta temperatura ispod nule, stiže nova promena"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -133,7 +147,7 @@
   "alt": "silhouette of electric post during sunset",
   "link": "https://unsplash.com/@thestefankostic"
  },
- "novo_od_pisanja": 5,
+ "novo_od_pisanja": 7,
  "boost": 1.6,
  "prepisano": "2026-11-24T07:46:23.419063+00:00",
  "verzija": 2

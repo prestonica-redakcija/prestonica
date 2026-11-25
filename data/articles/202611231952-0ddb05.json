@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-23T18:52:05.763223+00:00",
- "updated": "2026-11-25T06:23:07.337159+00:00",
+ "updated": "2026-11-25T06:37:52.711850+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -63,6 +63,12 @@
    "url": "https://n1info.rs/vesti/amss-upozorava-na-opasnost-od-poledice/",
    "title": "AMSS upozorava na opasnost od poledice",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/amss-upozorava-vozace-na-opasnost-od-poledice/",
+   "title": "AMSS upozorava vozače na opasnost od poledice",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -70,7 +76,8 @@
   "AMSS: Vlažni kolovozi, poledica, vetar",
   "AMSS upozorava: Vlažni kolovozi, poledica i vetar",
   "Jak zemljotres na granici sa Albanijom!",
-  "AMSS upozorava na opasnost od poledice"
+  "AMSS upozorava na opasnost od poledice",
+  "AMSS upozorava vozače na opasnost od poledice"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -83,6 +90,6 @@
   "alt": "Dark surface reflecting vibrant orange and blue light",
   "link": "https://unsplash.com/@linkfang"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }
