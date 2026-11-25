@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T23:40:52.458738+00:00",
- "updated": "2026-11-24T23:40:52.458738+00:00",
+ "updated": "2026-11-24T23:55:48.495044+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,11 +46,18 @@
    "url": "https://www.danas.rs/vesti/ekonomija/kineski-tehnoloski-gigant-huavej-kriv-za-zaveru-radi-kradje-poslovnih-tajni-utvrdila-americka-porota/",
    "title": "Kineski tehnološki gigant Huavej kriv za zaveru radi krađe poslovnih tajni, utvrdila američka porota",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10172033/sud-u-sad-proglasio-huavej-krivim-za-zaveru-zbog-kradje-poslovnih-tajni",
+   "title": "ŠPIJUNSKE IGRE: Sud u Americi proglasio Huavej krivim za zaveru zbog krađe poslovnih tajni",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Sud u SAD proglasio Huavej krivim za zaveru radi krađe poslovnih tajni",
-  "Kineski tehnološki gigant Huavej kriv za zaveru radi krađe poslovnih tajni, utvrdila američka porota"
+  "Kineski tehnološki gigant Huavej kriv za zaveru radi krađe poslovnih tajni, utvrdila američka porota",
+  "ŠPIJUNSKE IGRE: Sud u Americi proglasio Huavej krivim za zaveru zbog krađe poslovnih tajni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "local": false,
   "alt": "New York signage",
   "link": "https://unsplash.com/@tjump"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

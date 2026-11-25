@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://www.telegraf.rs/4436360-cupic-nakon-sednice-skupstine-nadam-se-da-sam-pokazao-da-cu-biti-predsednik-svih-poslanika": "2026-11-19T23:51:20.430617+00:00",
-  "https://nova.rs/magazin/vremenska-prognoza/u-srbiji-danas-pre-podne-suncano-tokom-dana-kisa/": "2026-11-19T23:51:20.430617+00:00",
-  "https://www.danas.rs/vesti/politika/manjinska-inicijativa-romi-u-srbiji-bez-samostalnog-predstavnika-u-skupstini-od-2007-godine/": "2026-11-19T23:51:20.430617+00:00",
-  "https://insajder.net/prenosimo/direktor-majkrosofta-vestacka-inteligencija-bi-mogla-da-izazove-brojne-probleme": "2026-11-19T23:51:20.430617+00:00",
   "https://insajder.net/prenosimo/nevreme-pogodilo-crnu-goru-podgorica-cetinje-i-tivat-bez-struje-vetar-oborio-krov-u-kotoru": "2026-11-20T00:06:12.740649+00:00",
   "https://biznis.telegraf.rs/info-biz/4436296-ovo-je-danasnji-srednji-kurs-evra": "2026-11-20T00:06:12.740649+00:00",
   "https://www.telegraf.rs/4436361-oglasili-se-studenti-posle-izbora-6-potpredsednika-skupstine-sa-studentske-liste": "2026-11-20T00:06:12.740649+00:00",
@@ -5255,18 +5251,16 @@
   "https://www.kurir.rs/vesti/srbija/10171714/prvi-sneg-na-besnoj-kobili-kod-vranja-evo-kako-je-planina-dobila-ime": "2026-11-24T23:40:52.458738+00:00",
   "https://www.kurir.rs/vesti/beograd/10170822/iskljucenja-struje-beograd-26-novembar-ulice": "2026-11-24T23:40:52.458738+00:00",
   "https://www.kurir.rs/zabava/zanimljivosti/10171243/kako-moc-menja-ljudski-mozak": "2026-11-24T23:40:52.458738+00:00",
-  "https://www.youtube.com/watch?v=s02Zb-EGLjY": "2026-11-24T23:40:52.458738+00:00"
+  "https://www.youtube.com/watch?v=s02Zb-EGLjY": "2026-11-24T23:40:52.458738+00:00",
+  "https://www.kurir.rs/planeta/10171776/venecuela-predstavila-ekonomski-plan": "2026-11-24T23:55:48.495044+00:00",
+  "https://www.kurir.rs/planeta/10172033/sud-u-sad-proglasio-huavej-krivim-za-zaveru-zbog-kradje-poslovnih-tajni": "2026-11-24T23:55:48.495044+00:00",
+  "https://www.danas.rs/vesti/drustvo/vreme-danas-ujutru-mraz-tokom-dana-oblacno/": "2026-11-24T23:55:48.495044+00:00",
+  "https://www.kurir.rs/zabava/zanimljivosti/10171027/ukras-koji-smo-nekada-svi-imali-na-novogodisnjoj-jelci-ponovo-je-hit": "2026-11-24T23:55:48.495044+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-24T01:57+00:00",
-   "novih": 0,
-   "ukupno": 4200,
-   "sekundi": 503.2
-  },
   {
    "vreme": "2026-11-24T02:12+00:00",
    "novih": 0,
@@ -5620,6 +5614,12 @@
    "novih": 3,
    "ukupno": 4497,
    "sekundi": 766.4
+  },
+  {
+   "vreme": "2026-11-25T00:07+00:00",
+   "novih": 0,
+   "ukupno": 4497,
+   "sekundi": 694.9
   }
  ],
  "licnosti_foto": {
@@ -53124,7 +53124,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-24T23:42:55.404136+00:00",
+  "provereno": "2026-11-24T23:56:31.702872+00:00",
   "uzivo_t": "2026-11-24T18:17:48.738804+00:00",
   "nedostupan": false
  },
