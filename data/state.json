@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://birn.rs/komisija-vrhovnog-tuzilastva-ispitivala-bekstvo-cuja-guanghaja-i-dzona-milera/": "2026-11-20T00:21:00.835496+00:00",
   "https://biznis.telegraf.rs/info-biz/4436199-regionalni-poslovni-forum-okupio-vise-od-300-pravnika-na-zlatiboru": "2026-11-20T02:05:34.373335+00:00",
   "https://www.telegraf.rs/vesti/srbija/4436192-rzs-stopa-rizika-od-siromastva-medju-decom-u-srbiji-pala-sa-244-na-204-odsto": "2026-11-20T02:35:20.824067+00:00",
   "https://www.kurir.rs/vesti/srbija/10166618/festival-zlatna-kap-u-curugu-okupio-80-izlagaca-i-predstavio-140-uzoraka-likera": "2026-11-20T03:04:51.928002+00:00",
@@ -5248,18 +5247,15 @@
   "https://www.kurir.rs/planeta/10171776/venecuela-predstavila-ekonomski-plan": "2026-11-24T23:55:48.495044+00:00",
   "https://www.kurir.rs/planeta/10172033/sud-u-sad-proglasio-huavej-krivim-za-zaveru-zbog-kradje-poslovnih-tajni": "2026-11-24T23:55:48.495044+00:00",
   "https://www.danas.rs/vesti/drustvo/vreme-danas-ujutru-mraz-tokom-dana-oblacno/": "2026-11-24T23:55:48.495044+00:00",
-  "https://www.kurir.rs/zabava/zanimljivosti/10171027/ukras-koji-smo-nekada-svi-imali-na-novogodisnjoj-jelci-ponovo-je-hit": "2026-11-24T23:55:48.495044+00:00"
+  "https://www.kurir.rs/zabava/zanimljivosti/10171027/ukras-koji-smo-nekada-svi-imali-na-novogodisnjoj-jelci-ponovo-je-hit": "2026-11-24T23:55:48.495044+00:00",
+  "https://www.tanjug.rs/srbija/drustvo/300593/obelezen-dan-250-raketne-brigade-za-protivvazduhoplovna-dejstva/vest": "2026-11-25T00:25:34.580572+00:00",
+  "https://www.kurir.rs/vesti/drustvo/10171678/obelezen-dan-250-raketne-brigade-za-pvd": "2026-11-25T00:25:34.580572+00:00",
+  "https://www.kurir.rs/vesti/srbija/10171102/eu-ulaze-7-8-miliona-evra-u-novi-sad": "2026-11-25T00:25:34.580572+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-24T02:25+00:00",
-   "novih": 0,
-   "ukupno": 4200,
-   "sekundi": 394.5
-  },
   {
    "vreme": "2026-11-24T02:41+00:00",
    "novih": 0,
@@ -5613,6 +5609,12 @@
    "novih": 0,
    "ukupno": 4497,
    "sekundi": 586.2
+  },
+  {
+   "vreme": "2026-11-25T00:37+00:00",
+   "novih": 2,
+   "ukupno": 4499,
+   "sekundi": 727.5
   }
  ],
  "licnosti_foto": {
@@ -8485,11 +8487,11 @@
    },
    "parandilovicnls": {
     "since_id": "2125302591395598475",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "ininic": {
     "since_id": "2125233307189117103",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -8497,15 +8499,15 @@
    },
    "sviublokade_fdu": {
     "since_id": "2125273670839124278",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "dragandjilas": {
     "since_id": "2121691848313884992",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "marinikatepic": {
     "since_id": "2122007271508959331",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "radomirlazovic": {
     "since_id": null,
@@ -8545,11 +8547,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "studentblokade": {
     "since_id": "2125302681287762250",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -8605,11 +8607,11 @@
    },
    "borkostef": {
     "since_id": "2123837042505155014",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "dobrinacelnik": {
     "since_id": "2124860523967648079",
@@ -8621,7 +8623,7 @@
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "srdjanmil037": {
     "since_id": "2125134769801265471",
@@ -8672,8 +8674,8 @@
     "t": 1795565462.245727
    },
    "borakonj": {
-    "since_id": "2125334386316804444",
-    "t": 1795562031.7705376
+    "since_id": "2125376566129791006",
+    "t": 1795566394.4923325
    },
    "narodnipokrets": {
     "since_id": "2125150420486238315",
@@ -8681,51 +8683,51 @@
    },
    "direktnors": {
     "since_id": "2125325142675042425",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "crtars": {
     "since_id": "2124910039161044995",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "veceivan": {
     "since_id": "2124889813165973767",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "repjoewilson": {
-    "since_id": "2125024964466073894",
-    "t": 1795562031.7705376
+    "since_id": "2125375182487671236",
+    "t": 1795566394.4923325
    },
    "jugoslavcosic": {
     "since_id": "2123147946694787141",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "tvnova_s": {
     "since_id": "2125336596379562136",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "oljautisak": {
     "since_id": "2124115162684629476",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "srdjan_nogo": {
     "since_id": "2123527863307735237",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "agrifblokira": {
     "since_id": "2125293144811929940",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "etfblokada": {
     "since_id": "2125284460707086376",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "nastraninaroda": {
     "since_id": "2124240486932386139",
@@ -8733,15 +8735,15 @@
    },
    "bcenzure": {
     "since_id": "2125326311941898631",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "bezstraha26279": {
     "since_id": "2125298449973456911",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "lazidetektor": {
     "since_id": "2125323114133287405",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "nedeljniknin": {
     "since_id": "2125363850434465973",
@@ -8757,11 +8759,11 @@
    },
    "tvbalkaninfo": {
     "since_id": "2125313499450458243",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "1152justice": {
     "since_id": "2123584561330217393",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    },
    "zatrijebacki": {
     "since_id": "2125315752265728509",
@@ -8793,10 +8795,36 @@
    },
    "masinars": {
     "since_id": "2125341207421223265",
-    "t": 1795562031.7705376
+    "t": 1795566394.4923325
    }
   },
   "posts": [
+   {
+    "id": "2125376566129791006",
+    "x": "BoraKonj",
+    "ime": "Bora",
+    "grupa": "novinari",
+    "uloga": "",
+    "text": "iiide gaaas 🙌 https://t.co/t7Eyixc5KX",
+    "published": "2026-11-24T23:50:35.000+00:00",
+    "lajk": 61,
+    "prikazi": false,
+    "rubrika": "drustvo",
+    "tema": "Neartikulisan uzvik bez jasnog sadržaja"
+   },
+   {
+    "id": "2125375182487671236",
+    "x": "RepJoeWilson",
+    "ime": "Joe Wilson",
+    "grupa": "",
+    "uloga": "",
+    "text": "The people of Serbia have chosen a different future. \n\nAs Thatcher said “I always cheer up immensely if an attack is particularly wounding because I think, well, if they attack one personally, it means they have not a single political argument left.” https://t.co/ZmAHWs0Rup",
+    "published": "2026-11-24T23:45:05.000+00:00",
+    "lajk": 130,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Američki kongresmen o izboru Srbije i navodni citat Tačer"
+   },
    {
     "id": "2125363850434465973",
     "x": "NedeljnikNIN",
@@ -20702,35 +20730,6 @@
     "prikazi": false,
     "rubrika": "mediji",
     "tema": "Bez Cenzure slavi 350.000 pratilaca na YouTube-u"
-   },
-   {
-    "id": "2124220057139986579",
-    "x": "izlaz_dot_com",
-    "ime": "IZLAZ.com",
-    "grupa": "",
-    "uloga": "",
-    "text": "Zlatne sablje, rasni psi, sat od 68.000 evra: Koliko vrede pokloni koje je dobijao Vučić i šta je zadržao za sebe?\n\nhttps://t.co/SrI7ugUZdu",
-    "published": "2026-11-21T19:15:02.000+00:00",
-    "lajk": 2,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Pokloni koje je dobijao Vučić, vrednost i šta je zadržao"
-   },
-   {
-    "id": "2124219856731897863",
-    "x": "sns_srbija",
-    "ime": "SNS",
-    "grupa": "vlast",
-    "uloga": "Srpska napredna stranka",
-    "text": "За разлику од њих, који људима утерују страх у кости јер другачије мисле, моћи ћу да се хвалим да сам градио путеве, пруге, повећавао плате и пензије. @avucic https://t.co/iYQe7NMzBC",
-    "published": "2026-11-21T19:14:14.000+00:00",
-    "lajk": 3,
-    "slike": [
-     "https://pbs.twimg.com/media/HXq-szMXAAAf8L_.jpg"
-    ],
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "SNS citira Vučića: gradnja puteva, pruga, rast plata i penzija"
    }
   ],
   "pratim": [
@@ -47377,6 +47376,10 @@
   "t:elektrodistribucija srbije": {
    "t": 1795563730.3522522,
    "items": []
+  },
+  "t:nato agresija 1999": {
+   "t": 1795566372.800997,
+   "items": []
   }
  },
  "x_objave": {
@@ -53114,7 +53117,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-25T00:11:23.121588+00:00",
+  "provereno": "2026-11-25T00:26:58.783335+00:00",
   "uzivo_t": "2026-11-24T18:17:48.738804+00:00",
   "nedostupan": false
  },
