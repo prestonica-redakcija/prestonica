@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.kurir.rs/vesti/beograd/10166923/bez-struje-danas-u-beogradu": "2026-11-20T05:03:51.843709+00:00",
   "https://www.telegraf.rs/4436382-cupic-posle-izbora-u-skupstini-sada-je-vreme-da-studentska-lista-preuzme-odgovornost": "2026-11-20T05:18:48.613825+00:00",
   "https://n1info.rs/vesti/na-danasnji-dan-20-novembar-preminuo-patrijarh-irinej-momirovic-i-tanaskovic-podneli-ostavke-nakon-pada-nadstresnice/": "2026-11-20T05:18:48.613825+00:00",
   "https://www.telegraf.rs/vesti/srbija/4436379-na-batrovcima-kamioni-cekaju-sest-sati-na-izlaz-dok-putnickih-zadrzavanja-nema": "2026-11-20T05:33:36.946895+00:00",
@@ -5262,18 +5261,14 @@
   "https://nova.rs/vesti/svet/lukasenko-nudi-da-otputuje-sa-zelenskim-u-moskvu-na-sastanak-sa-putinom/": "2026-11-25T04:23:48.488279+00:00",
   "https://www.tanjug.rs/svet/politika/300681/zelenski-rusija-ce-biti-primorana-na-prekid-vatre-zbog-velikih-gubitaka-na-frontu/vest": "2026-11-25T04:38:45.728818+00:00",
   "https://www.kurir.rs/vesti/beograd/10171166/bez-vode-danas-u-beogradu": "2026-11-25T04:38:45.728818+00:00",
-  "https://www.kurir.rs/vesti/beograd/10171175/bez-struje-danas-u-beogradu": "2026-11-25T04:53:37.582664+00:00"
+  "https://www.kurir.rs/vesti/beograd/10171175/bez-struje-danas-u-beogradu": "2026-11-25T04:53:37.582664+00:00",
+  "https://n1info.rs/vesti/na-danasnji-dan-25-novembar-2026-godine/": "2026-11-25T05:08:35.973609+00:00",
+  "https://www.kurir.rs/stars/10171128/mirka-vasiljevic-o-gubitku-oca": "2026-11-25T05:08:35.973609+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-24T07:11+00:00",
-   "novih": 4,
-   "ukupno": 4224,
-   "sekundi": 584.1
-  },
   {
    "vreme": "2026-11-24T07:28+00:00",
    "novih": 9,
@@ -5627,6 +5622,12 @@
    "novih": 1,
    "ukupno": 4508,
    "sekundi": 694.3
+  },
+  {
+   "vreme": "2026-11-25T05:16+00:00",
+   "novih": 0,
+   "ukupno": 4508,
+   "sekundi": 503.1
   }
  ],
  "licnosti_foto": {
@@ -47810,7 +47811,8 @@
    "202611242127-9c1db3",
    "202611242226-0480b5",
    "202611242241-5f36a1",
-   "202611242356-47b0bf"
+   "202611242356-47b0bf",
+   "202611250523-ae53f4"
   ],
   "istorija": [
    {
@@ -48903,6 +48905,12 @@
     "t": 1795563762.212597,
     "id": "202611242356-47b0bf",
     "x": "2125374579338051749",
+    "link": false
+   },
+   {
+    "t": 1795583343.096522,
+    "id": "202611250523-ae53f4",
+    "x": "2125456707673362616",
     "link": false
    }
   ],
@@ -53234,7 +53242,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-25T04:54:31.938446+00:00",
+  "provereno": "2026-11-25T05:09:13.532877+00:00",
   "uzivo_t": "2026-11-24T18:17:48.738804+00:00",
   "nedostupan": false
  },
