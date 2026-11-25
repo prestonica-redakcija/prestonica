@@ -32,7 +32,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T20:12:16.418672+00:00",
- "updated": "2026-11-25T06:52:49.016455+00:00",
+ "updated": "2026-11-25T08:37:21.026632+00:00",
  "sources": [
   {
    "name": "N1",
@@ -69,6 +69,12 @@
    "url": "https://www.euronews.rs/svet/planeta/253571/talacka-kriza-u-kolumbiji-ljudi-zarobljeni-u-supermarketu/vest",
    "title": "Vojska i snajperisti opkolili supermarket u Kolumbiji: Otmičari drže desetine ljudi, talačka kriza traje satima (VIDEO)",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/300750/svi-taoci-oslobodeni-nakon-upada-policije-u-supermarket-u-kolumbiji/vest",
+   "title": "Svi taoci oslobođeni nakon upada policije u supermarket u Kolumbiji",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -77,7 +83,8 @@
   "Naoružani napadači u pljački supermarketa u Kolumbiji uzeli za taoce desetak ljudi",
   "Nastavljen talas nasilja u Kolumbiji: Naoružani napadači u pljački supermarketa uzeli za taoce desetak ljudi",
   "Esprielja: Maskirani napadači u Kartaheni uzeli taoce kada im nije uspela pljačka",
-  "Vojska i snajperisti opkolili supermarket u Kolumbiji: Otmičari drže desetine ljudi, talačka kriza traje satima (VIDEO)"
+  "Vojska i snajperisti opkolili supermarket u Kolumbiji: Otmičari drže desetine ljudi, talačka kriza traje satima (VIDEO)",
+  "Svi taoci oslobođeni nakon upada policije u supermarket u Kolumbiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -90,8 +97,8 @@
   "alt": "unknown persons standing indoors",
   "link": "https://unsplash.com/@rgaleriacom"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-25T06:52:49.016455+00:00",
  "verzija": 2
 }

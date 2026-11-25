@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T08:07:21.321482+00:00",
- "updated": "2026-11-25T08:07:21.321482+00:00",
+ "updated": "2026-11-25T08:37:21.026632+00:00",
  "sources": [
   {
    "name": "N1",
@@ -47,12 +47,26 @@
    "url": "https://www.danas.rs/vesti/drustvo/u-novom-sadu-uhapsen-zastupnik-jos-jednog-udruzenja-gradjana/",
    "title": "U Novom Sadu uhapšen zastupnik još jednog udruženja građana",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287890/uhapsen-zastupnik-udruzenja-gradjana-zbog-zloupotrebe-polozaja/vest",
+   "title": "Uhapšen zastupnik udruženja građana; Oštetio budžet Novo Sada za četiri miliona dinara",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/uhapsen-jois-jedan-zastupnik-fiktivnog-udruzenja-gradjana-iz-novog-sada-za-cetiri-godine-dobio-vise-od-4-miliona-dinara-za-nepostojece-projekte/",
+   "title": "Uhapšen joiš jedan zastupnik fiktivnog udruženja građana iz Novog Sada: Za četiri godine dobio više od 4 miliona dinara za nepostojeće projekte",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "U Novom Sadu uhapšen zastupnik još jednog udruženja građana - oštetio grad za više od četiri miliona dinara",
   "Uhapšen zastupnik udruženja građana osumnjičen da je oštetio budžet za 4 miliona dinara",
-  "U Novom Sadu uhapšen zastupnik još jednog udruženja građana"
+  "U Novom Sadu uhapšen zastupnik još jednog udruženja građana",
+  "Uhapšen zastupnik udruženja građana; Oštetio budžet Novo Sada za četiri miliona dinara",
+  "Uhapšen joiš jedan zastupnik fiktivnog udruženja građana iz Novog Sada: Za četiri godine dobio više od 4 miliona dinara za nepostojeće projekte"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +78,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Dunavska_street_in_Novi_Sad.jpg",
   "alt": "U Novom Sadu uhapšen zastupnik udruženja građana zbog sumnje da je oštetio budžet grada"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
