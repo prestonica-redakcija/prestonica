@@ -27,7 +27,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-25T06:37:52.711850+00:00",
+ "updated": "2026-11-25T06:52:49.016455+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -580,6 +580,12 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4439294-posle-ribnikara-nismo-dovoljno-naucili-profesorka-upozorava-na-veliki-problem-posle-incidenta-u-kragujevcu",
    "title": "\"Posle Ribnikara nismo dovoljno naučili\": Profesorka upozorava na veliki problem posle incidenta u Kragujevcu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4437539-krvavi-zlocin-u-smestaju-za-strane-radnike-muskarac-ubijen-nozem-policija-istrazuje-dvojicu-nepalaca",
+   "title": "Krvavi zločin u smeštaju za strane radnike: Muškarac ubijen nožem, policija istražuje dvojicu Nepalaca",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -674,7 +680,8 @@
   "Španska policija razbila mrežu za finansiranje Hamasa: Dve osobe uhapšene u Barseloni",
   "Provalnici upali u dom princa Vilijama i Kejt Midlton, hakovana CIA: Šta se juče desilo u svetu?",
   "Dve godine studentske borbe: Od blokada fakulteta do smene Vučićevog režima",
-  "\"Posle Ribnikara nismo dovoljno naučili\": Profesorka upozorava na veliki problem posle incidenta u Kragujevcu"
+  "\"Posle Ribnikara nismo dovoljno naučili\": Profesorka upozorava na veliki problem posle incidenta u Kragujevcu",
+  "Krvavi zločin u smeštaju za strane radnike: Muškarac ubijen nožem, policija istražuje dvojicu Nepalaca"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -687,7 +694,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-25T06:37:52.711850+00:00",
  "verzija": 9
