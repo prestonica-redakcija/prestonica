@@ -31,16 +31,23 @@
  ],
  "importance": 6,
  "published": "2026-11-25T12:05:51.952563+00:00",
- "updated": "2026-11-25T12:05:51.952563+00:00",
+ "updated": "2026-11-25T12:20:45.927340+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/poslanica-bulatovic-sasvim-opravdan-aplauz-posle-vesti-o-hapsenju-vucicevica/",
    "title": "Poslanica Bulatović: Sasvim opravdan aplauz posle vesti o hapšenju Vučićevića",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/poslanica-bulatovic-sasvim-opravdan-aplauz-posle-vesti-o-hapsenju-vucicevica/",
+   "title": "Poslanica Bulatović: Sasvim opravdan aplauz posle vesti o hapšenju Vučićevića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Poslanica Bulatović: Sasvim opravdan aplauz posle vesti o hapšenju Vučićevića",
   "Poslanica Bulatović: Sasvim opravdan aplauz posle vesti o hapšenju Vučićevića"
  ],
  "author": "Redakcija Prestonice",
@@ -54,5 +61,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Aleksandar_Vu%C4%8Di%C4%87_(2024).jpg",
   "osoba": "Aleksandar Vučić",
   "alt": "Bulatović: Aplauz većine posle vesti o hapšenju Vučićevića bio je opravdan"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
