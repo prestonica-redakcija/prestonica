@@ -24,7 +24,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T16:58:36.932241+00:00",
- "updated": "2026-11-24T17:43:21.511848+00:00",
+ "updated": "2026-11-25T06:08:12.574594+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -37,11 +37,18 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1674371/nbs-objavila-novu-kursnu-listu-srednji-kurs-dinara-evro-sredu-117-6478-dinara",
    "title": "NBS OBJAVILA NOVU KURSNU LISTU: Srednji kurs dinara za evro u sredu 117,6478 dinara",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1674390/najnovija-kursna-lista-nbs-srednji-kurs-evra-danas-117-6478-dinara",
+   "title": "NAJNOVIJA KURSNA LISTA NBS: Srednji kurs evra danas 117,6478 dinara",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Poznato je koliki će devizni kurs biti sutra: Najmanja vrednost dinara prema evru u ovoj godini",
-  "NBS OBJAVILA NOVU KURSNU LISTU: Srednji kurs dinara za evro u sredu 117,6478 dinara"
+  "NBS OBJAVILA NOVU KURSNU LISTU: Srednji kurs dinara za evro u sredu 117,6478 dinara",
+  "NAJNOVIJA KURSNA LISTA NBS: Srednji kurs evra danas 117,6478 dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,6 +60,6 @@
   "local": true,
   "alt": "NBS: sutrašnji srednji kurs 117,6478 dinara za evro, dinar blizu najslabije vrednosti u godini"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

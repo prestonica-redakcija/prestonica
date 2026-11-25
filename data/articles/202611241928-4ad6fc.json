@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T18:28:15.144156+00:00",
- "updated": "2026-11-24T21:26:51.183491+00:00",
+ "updated": "2026-11-25T06:08:12.574594+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -57,6 +57,12 @@
    "url": "https://www.b92.net/info/svet/287793/u-turskoj-se-tokom-obuke-srusio-vojni-helikopter-pet-vojnika-poginulo/vest",
    "title": "Srušio se vojni helikopter: Nema preživelih; Pojavio se zastrašujući snimak VIDEO",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4439286-avion-se-srusio-u-sad-nema-prezivelih-medju-poginulima-ima-i-dece",
+   "title": "Avion se srušio u SAD: Nema preživelih, među poginulima ima i dece",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -64,7 +70,8 @@
   "Srušio se vojni helikopter; Pojavio se zastrašujući snimak VIDEO",
   "Vojni helikopter pao u Turskoj! Ima poginulih, pojavio se uznemirujući snimak",
   "VOJNI HELIKOPTER PAO U TURSKOJ: Letelica se srušila posle poletanja, poginulo pet osoba (VIDEO)",
-  "Srušio se vojni helikopter: Nema preživelih; Pojavio se zastrašujući snimak VIDEO"
+  "Srušio se vojni helikopter: Nema preživelih; Pojavio se zastrašujući snimak VIDEO",
+  "Avion se srušio u SAD: Nema preživelih, među poginulima ima i dece"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +84,6 @@
   "alt": "a helicopter flying in the sky with a person standing on the front of it",
   "link": "https://unsplash.com/@davidhili123"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

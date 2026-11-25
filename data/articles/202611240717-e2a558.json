@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T06:17:17.877061+00:00",
- "updated": "2026-11-25T05:23:24.621382+00:00",
+ "updated": "2026-11-25T06:08:12.574594+00:00",
  "sources": [
   {
    "name": "N1",
@@ -68,6 +68,12 @@
    "url": "https://www.telegraf.rs/4439271-skupstina-nastavlja-konstitutivnu-sednicu-rasprava-o-poslednjoj-tacki-dnevnog-reda",
    "title": "Skupština nastavlja konstitutivnu sednicu: Rasprava o poslednjoj tački dnevnog reda",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300717/skupstina-nastavlja-konstitutivnu-sednicu-poslednja-tacka-izbor-delegacija/vest",
+   "title": "Skupština nastavlja konstitutivnu sednicu, poslednja tačka izbor delegacija",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -75,7 +81,8 @@
   "Poslanici nastavljaju sa konstitutivnom sednicom Skupštine Srbije: Biraju članove odbora i parlamentarnih delegacija",
   "Poslanici Skupštine Srbije danas nastavljaju zasedanje, biraju i članove parlamentarnih odbora",
   "BLOG UŽIVO Nastavak sednice Skupštine: Očekuje se izbor članova skupštinskih odbora i stranih parlamentarnih delegacija",
-  "Skupština nastavlja konstitutivnu sednicu: Rasprava o poslednjoj tački dnevnog reda"
+  "Skupština nastavlja konstitutivnu sednicu: Rasprava o poslednjoj tački dnevnog reda",
+  "Skupština nastavlja konstitutivnu sednicu, poslednja tačka izbor delegacija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -88,8 +95,8 @@
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-25T05:23:24.621382+00:00",
  "verzija": 2
 }
