@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T09:21:54.243757+00:00",
- "updated": "2026-11-25T10:06:42.291972+00:00",
+ "updated": "2026-11-25T23:02:14.184226+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -61,13 +61,20 @@
    "url": "https://www.kurir.rs/vesti/politika/10172288/napad-na-kucu-direktora-pro-tenta-u-obrenovcu-vucic-najavio-krivicne-prijave",
    "title": "\"BIO JE SA SUPRUGOM I DVOJE DECE UNUTRA\" Vučić o bombi bačenoj na kuću direktora Pro Tenta: \"Dobili su zeleno svetlo za teror u Srbiji\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173268/sns-slobodan-vujicic-politika",
+   "title": "Jezivo! Bomba bačena na kuću člana SNS: \"Ovo je akt terora!\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Nastavljena sednica Skupštine Srbije",
   "KONSTITUTIVNA SEDNICA SKUPŠTINE Vučić: Vračarski klan dobio zeleno svetlo da do formiranja tobožnjih institucija sprovodi teror (VIDEO)",
   "Vučić: Vračarski klan dobio zeleno svetlo da sprovodi teror u Srbiji",
-  "\"BIO JE SA SUPRUGOM I DVOJE DECE UNUTRA\" Vučić o bombi bačenoj na kuću direktora Pro Tenta: \"Dobili su zeleno svetlo za teror u Srbiji\""
+  "\"BIO JE SA SUPRUGOM I DVOJE DECE UNUTRA\" Vučić o bombi bačenoj na kuću direktora Pro Tenta: \"Dobili su zeleno svetlo za teror u Srbiji\"",
+  "Jezivo! Bomba bačena na kuću člana SNS: \"Ovo je akt terora!\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,6 +87,6 @@
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

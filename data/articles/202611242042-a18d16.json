@@ -26,17 +26,24 @@
  ],
  "importance": 3,
  "published": "2026-11-24T19:42:36.931926+00:00",
- "updated": "2026-11-24T19:42:36.931926+00:00",
+ "updated": "2026-11-25T23:02:14.184226+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/300675/americke-akcije-uglavnom-u-minusu-nakon-pada-vrednosti-envidije-od-sedam-odsto/vest",
    "title": "Američke akcije uglavnom u minusu nakon pada vrednosti Envidije od sedam odsto",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/301043/americke-akcije-uglavnom-u-minusu-nakon-pada-vrednosti-tehnoloskih-kompanija/vest",
+   "title": "Američke akcije uglavnom u minusu nakon pada vrednosti tehnoloških kompanija",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Američke akcije uglavnom u minusu nakon pada vrednosti Envidije od sedam odsto"
+  "Američke akcije uglavnom u minusu nakon pada vrednosti Envidije od sedam odsto",
+  "Američke akcije uglavnom u minusu nakon pada vrednosti tehnoloških kompanija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "alt": "graphical user interface, application",
   "link": "https://unsplash.com/@polarmermaid"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

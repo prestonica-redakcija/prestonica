@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-24T14:43:59.540144+00:00",
- "updated": "2026-11-24T14:43:59.540144+00:00",
+ "updated": "2026-11-25T23:02:14.184226+00:00",
  "sources": [
   {
    "name": "N1",
@@ -49,11 +49,25 @@
    "url": "https://www.danas.rs/vesti/politika/rse-brisel-optimistican-o-odnosima-sa-vlastima/",
    "title": "RSE: Brisel s optimizmom gleda na odnose sa budućim vlastima Srbije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/samit-eu-zapadni-balkan-bez-srbije-beogradu-se-ne-zamera-sto-ne-prisustvuje/",
+   "title": "Samit EU - Zapadni Balkan bez Srbije: Beogradu se ne zamera što ne prisustvuje",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/samit-eu-zapadni-balkan-bez-srbije-beogradu-se-ne-zamera-sto-ne-prisustvuje/",
+   "title": "Samit EU - Zapadni Balkan bez Srbije: Beogradu se ne zamera što ne prisustvuje",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Novi dan: Budućnost odnosa Srbije i EU",
-  "RSE: Brisel s optimizmom gleda na odnose sa budućim vlastima Srbije"
+  "RSE: Brisel s optimizmom gleda na odnose sa budućim vlastima Srbije",
+  "Samit EU - Zapadni Balkan bez Srbije: Beogradu se ne zamera što ne prisustvuje",
+  "Samit EU - Zapadni Balkan bez Srbije: Beogradu se ne zamera što ne prisustvuje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,5 +81,7 @@
   "osoba": "Aleksandar Vučić",
   "izvor_x": true,
   "alt": "Brisel razume što Čupić neće doći na samit EU i Zapadnog Balkana"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

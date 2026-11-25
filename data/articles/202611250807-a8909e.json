@@ -33,17 +33,24 @@
  ],
  "importance": 2,
  "published": "2026-11-25T07:07:45.365426+00:00",
- "updated": "2026-11-25T07:07:45.365426+00:00",
+ "updated": "2026-11-25T23:02:14.184226+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1674468/fidelovo-srce-bilo-srbe-kubanski-ambasador-otkrio-sta-revolucionar-mislio-nasem-narodu",
    "title": "FIDELOVO SRCE BILO JE UZ SRBE: Kubanski ambasador otkrio šta je revolucionar mislio o našem narodu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/planeta/253709/deset-godina-od-smrti-fidela-kastra-sta-je-ostalo-od-kube/vest",
+   "title": "Decenija od smrti Fidela Kastra: Šta je ostalo od kubanske revolucije?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "FIDELOVO SRCE BILO JE UZ SRBE: Kubanski ambasador otkrio šta je revolucionar mislio o našem narodu"
+  "FIDELOVO SRCE BILO JE UZ SRBE: Kubanski ambasador otkrio šta je revolucionar mislio o našem narodu",
+  "Decenija od smrti Fidela Kastra: Šta je ostalo od kubanske revolucije?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "alt": "flag of us a on pole by the sea during daytime",
   "link": "https://unsplash.com/@robincanfield"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

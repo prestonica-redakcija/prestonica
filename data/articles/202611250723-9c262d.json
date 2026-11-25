@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-25T06:23:07.337159+00:00",
- "updated": "2026-11-25T10:06:42.291972+00:00",
+ "updated": "2026-11-25T23:02:14.184226+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -57,13 +57,20 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10172054/upozorenje-amss-a-evo-kada-je-najbezbednije-putovati-tokom-ledene-kise",
    "title": "VOZAČI, OPREZ! AMSS upozorava na opasnu pojavu na srpskim putevima: \"Dovoljna je sekunda nepažnje za lančani sudar\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/amss-putevi-prohodni-i-bez-snega-opasnost-od-poledice/",
+   "title": "AMSS: Putevi prohodni i bez snega, opasnost od poledice",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Putevi prohodni, vozačima se savetuje oprez zbog mogućih odrona i raskvašenog snega",
   "Vozači, pažnja: Savetuje se oprez zbog mogućih odrona i raskvašenog snega na pojedinim deonicama",
   "AMSS UPOZORAVA: Opasnost od poledice, odrona i raskvašenog snega, putevi prohodni",
-  "VOZAČI, OPREZ! AMSS upozorava na opasnu pojavu na srpskim putevima: \"Dovoljna je sekunda nepažnje za lančani sudar\""
+  "VOZAČI, OPREZ! AMSS upozorava na opasnu pojavu na srpskim putevima: \"Dovoljna je sekunda nepažnje za lančani sudar\"",
+  "AMSS: Putevi prohodni i bez snega, opasnost od poledice"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +83,6 @@
   "alt": "gray roads between mountains",
   "link": "https://unsplash.com/@albertohlfrias"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

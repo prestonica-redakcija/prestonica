@@ -29,7 +29,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T09:37:03.545768+00:00",
- "updated": "2026-11-25T09:37:03.545768+00:00",
+ "updated": "2026-11-25T23:02:14.184226+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -42,11 +42,18 @@
    "url": "https://nova.rs/vesti/hronika/vucic-o-hapsenju-dragana-j-vucicevica-u-skupstini-uhapsen-zbog-novinarskog-rada/",
    "title": "Vučić komentarisao hapšenje Dragana J. Vučićevića: \"Uhapšen zbog novinarskog rada\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=mLLG_fRhPAw",
+   "title": "Vučić: Ovo što rade Vučićeviću je sramota bez presedana",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
   "Vučić o hapšenju Dragana J. Vučićevića: \"Sramota u savremenoj Evropi, uhapšen je zbog svog novinarskog rada\"",
-  "Vučić komentarisao hapšenje Dragana J. Vučićevića: \"Uhapšen zbog novinarskog rada\""
+  "Vučić komentarisao hapšenje Dragana J. Vučićevića: \"Uhapšen zbog novinarskog rada\"",
+  "Vučić: Ovo što rade Vučićeviću je sramota bez presedana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "a large room with rows of chairs and a podium",
   "link": "https://unsplash.com/@gerdadesign"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

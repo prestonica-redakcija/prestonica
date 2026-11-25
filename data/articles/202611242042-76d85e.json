@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T19:42:36.931926+00:00",
- "updated": "2026-11-25T14:05:08.313227+00:00",
+ "updated": "2026-11-25T23:02:14.184226+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -77,6 +77,42 @@
    "url": "https://www.novosti.rs/vesti/politika/1674646/dragana-djordjevic-imenovana-generalnog-sekretara-predsednika-republike",
    "title": "Dragana Đorđević imenovana za generalnog sekretara predsednika Republike",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/cupic-sutra-raspisuje-predsednicke-izbore",
+   "title": "Čupić sutra raspisuje predsedničke izbore",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253689/aleksandar-cupic-sutra-raspisuje-predsednicke-izbore/vest",
+   "title": "Čupić sutra u 12 časova potpisuje Odluku o raspisivanju izbora za predsednika Republike",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/cupic-u-cetvrtak-raspisuje-predsednicke-izbore/",
+   "title": "Čupić sutra raspisuje predsedničke izbore",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674713/cupic-sutra-raspisuje-predsednicke-izbore-potpisace-odluku-12-casova",
+   "title": "ČUPIĆ SUTRA RASPISUJE PREDSEDNIČKE IZBORE: Potpisaće odluku u 12 časova",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300987/cupic-sutra-raspisuje-izbore-za-predsednika-republike/vest",
+   "title": "Čupić sutra raspisuje izbore za predsednika Republike",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288151/cupic-raspisuje-predsednicke-izbore-u-srbiji-dan-odluke-27-decembar/vest",
+   "title": "Čupić raspisuje predsedničke izbore u Srbiji; Dan odluke – 27. decembar",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -87,7 +123,13 @@
   "Čupić imenovao Draganu Đorđević za generalnog sekretara predsednika Republike",
   "Dragana Đorđević imenovana za generalnog sekretara predsednika Republike",
   "Dragana Đorđević imenovana za generalnog sekretara predsednika Republike",
-  "Dragana Đorđević imenovana za generalnog sekretara predsednika Republike"
+  "Dragana Đorđević imenovana za generalnog sekretara predsednika Republike",
+  "Čupić sutra raspisuje predsedničke izbore",
+  "Čupić sutra u 12 časova potpisuje Odluku o raspisivanju izbora za predsednika Republike",
+  "Čupić sutra raspisuje predsedničke izbore",
+  "ČUPIĆ SUTRA RASPISUJE PREDSEDNIČKE IZBORE: Potpisaće odluku u 12 časova",
+  "Čupić sutra raspisuje izbore za predsednika Republike",
+  "Čupić raspisuje predsedničke izbore u Srbiji; Dan odluke – 27. decembar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -100,6 +142,6 @@
   "alt": "grayscale photography of man standing near studio camera and woman sitting while holding book",
   "link": "https://unsplash.com/@austriannationallibrary"
  },
- "novo_od_pisanja": 6,
- "boost": 1.48
+ "novo_od_pisanja": 12,
+ "boost": 1.6
 }

@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T18:13:25.121786+00:00",
- "updated": "2026-11-24T20:27:05.952526+00:00",
+ "updated": "2026-11-25T23:02:14.184226+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -119,6 +119,24 @@
    "url": "https://www.tanjug.rs/srbija/hronika/300647/pavle-bihali-osumnjicen-da-je-ostetio-budzet-za-225-miliona-dinara/vest",
    "title": "Pavle Bihali osumnjičen da je oštetio budžet za 22,5 miliona dinara",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/drustvo/tuzilastvo-zatrazilo-pritvor-za-bihalija-osumnjicen-za-zloupotrebu-polozaja-i-falsifikovanje-isprave-steta-po-budzet-veca-od-225-miliona-dinara",
+   "title": "Tužilaštvo zatražilo pritvor za Bihalija: Osumnjičen za zloupotrebu položaja i falsifikovanje isprave, šteta po budžet veća od 22,5 miliona dinara",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301041/odreden-pritvor-bihaliju-osumnjicenom-da-je-ostetio-budzet-za-225-miliona-dinara/vest",
+   "title": "Određen pritvor Bihaliju, osumnjičenom da je oštetio budžet za 22,5 miliona dinara",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301032/vise-javno-tuzilastvo-u-novom-sadu-uhapseno-troje-osumnjicenih-iz-msk-kikinda-zbog-zloupotrebe-polozaja/vest",
+   "title": "Više javno tužilaštvo u Novom Sadu: Uhapšeno troje osumnjičenih iz MSK Kikinda zbog zloupotrebe položaja",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -136,7 +154,10 @@
   "Više tužilaštvo: Uhapšen Pavle Bihali zbog sumnje da je prisvojio novac od kampanje \"Rusko manjinskog saveza\"",
   "Oglasilo se tužilaštvo o hapšenju Pavla Bihalija: Novac iz republičkog budžeta namenjen kampanji preneo na svoj račun",
   "U Smederevu uhapšena 2 lica osumnjičena da su oštetili budžet Srbije za više od 1,7 miliona din",
-  "Pavle Bihali osumnjičen da je oštetio budžet za 22,5 miliona dinara"
+  "Pavle Bihali osumnjičen da je oštetio budžet za 22,5 miliona dinara",
+  "Tužilaštvo zatražilo pritvor za Bihalija: Osumnjičen za zloupotrebu položaja i falsifikovanje isprave, šteta po budžet veća od 22,5 miliona dinara",
+  "Određen pritvor Bihaliju, osumnjičenom da je oštetio budžet za 22,5 miliona dinara",
+  "Više javno tužilaštvo u Novom Sadu: Uhapšeno troje osumnjičenih iz MSK Kikinda zbog zloupotrebe položaja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -148,7 +169,7 @@
   "local": true,
   "alt": "Uhapšen Pavle Bihali, sumnja se da je zloupotrebio više od 22 miliona dinara"
  },
- "novo_od_pisanja": 2,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-24T20:12:16.418672+00:00",
  "verzija": 2

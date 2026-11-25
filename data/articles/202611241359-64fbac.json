@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T12:59:34.665665+00:00",
- "updated": "2026-11-24T14:43:59.540144+00:00",
+ "updated": "2026-11-25T23:02:14.184226+00:00",
  "sources": [
   {
    "name": "N1",
@@ -78,6 +78,12 @@
    "url": "https://www.tanjug.rs/srbija/politika/300539/objavljen-predlog-odluke-o-izboru-clanova-i-zamenika-clanova-odbora-skupstine-srbije/vest",
    "title": "Objavljen Predlog odluke o izboru članova i zamenika članova odbora Skupštine Srbije",
    "spektar": "centar"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173280/aleksandar-vucic-sns",
+   "title": "\"Odluka o izborima 13. decembra!\" Vučić najavio temeljne rezove u SNS-u (FOTO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -87,7 +93,8 @@
   "Ovo je spisak predloženih članova skupštinskih odbora; Bakić – unutrašnji poslovi, Šoškić – finansije...",
   "Ko su predloženi članovi skupštinskih odbora?",
   "BAKIĆ - UNUTRAŠNJI POSLOVI, ŠOŠKIĆ - FINANSIJE Skupštinski odbori bez SNS: Ovo je spisak svih predloženih članova",
-  "Objavljen Predlog odluke o izboru članova i zamenika članova odbora Skupštine Srbije"
+  "Objavljen Predlog odluke o izboru članova i zamenika članova odbora Skupštine Srbije",
+  "\"Odluka o izborima 13. decembra!\" Vučić najavio temeljne rezove u SNS-u (FOTO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -102,6 +109,6 @@
   "izvor_x": true,
   "alt": "Objavljen spisak članova skupštinskih odbora, poslanici SNS najavili da neće učestvovati"
  },
- "novo_od_pisanja": 5,
- "boost": 1.4
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }

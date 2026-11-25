@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T18:57:48.710854+00:00",
- "updated": "2026-11-24T21:26:51.183491+00:00",
+ "updated": "2026-11-25T23:02:14.184226+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -53,13 +53,27 @@
    "url": "https://www.b92.net/info/politika/287813/vasiljevic-blagojevic-danasnja-energija-u-skupstini-bila-je-potpuno-razlicita-od-prethodna-tri-dana/vest",
    "title": "Vasiljević Blagojević: \"Današnja energija u Skupštini bila je potpuno različita od prethodna tri dana\"",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/video/dan-uzivo/dan-uzivo-24112026/",
+   "title": "Dan uživo (24.11.2026)",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/razno/288162/na-danasnji-dan-26-novembar/vest",
+   "title": "Na današnji dan, 26. novembar",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "UŽIVO STUDENTSKA LISTA, KONFERENCIJA ZA MEDIJE: Energija u Skupštini ovoga dana bila potpuno različita od prethodna 3 dana",
   "Uživo - Skupština: Vanredna konferencija Studentske liste, Vučić pobegao",
   "Studentska lista: \"Današnja energija u Skupštini bila je potpuno različita od prethodna tri dana\"",
-  "Vasiljević Blagojević: \"Današnja energija u Skupštini bila je potpuno različita od prethodna tri dana\""
+  "Vasiljević Blagojević: \"Današnja energija u Skupštini bila je potpuno različita od prethodna tri dana\"",
+  "Dan uživo (24.11.2026)",
+  "Na današnji dan, 26. novembar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,6 +86,6 @@
   "alt": "Woman stands in an empty parliament assembly hall",
   "link": "https://unsplash.com/@anniehatuanh"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

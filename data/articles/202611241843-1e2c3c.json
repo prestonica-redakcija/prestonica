@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T17:43:21.511848+00:00",
- "updated": "2026-11-24T22:56:10.148905+00:00",
+ "updated": "2026-11-25T23:02:14.184226+00:00",
  "sources": [
   {
    "name": "N1",
@@ -89,6 +89,30 @@
    "url": "https://www.b92.net/info/politika/287837/pomilovan-za-gazenje-studentkinje-ali-ne-ide-na-slobodu-apelacioni-sud-ukinuo-resenje-o-pustanju-vozaca/vest",
    "title": "Pomilovan za gaženje studentkinje, ali ne ide na slobodu: Apelacioni sud ukinuo rešenje o puštanju vozača",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/moze-li-odluka-o-pomilovanju-u-slucaju-pokusaja-ubistva-sonje-ponjavic-da-bude-ponistena-advokatica-pavlovic-pomilovan-za-delo-za-koje-nije-optuzen-video",
+   "title": "Može li odluka o pomilovanju u slučaju pokušaja ubistva Sonje Ponjavić da bude poništena, advokatica: Pavlović pomilovan za delo za koje nije optužen (VIDEO)",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/visi-sud-u-beogradu-odredio-pritvor-do-30-dana-pavlu-bihaliju/",
+   "title": "Pavlu Bihaliju određen pritvor do 30 dana",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/visi-sud-u-beogradu-odredio-pritvor-do-30-dana-pavlu-bihaliju/",
+   "title": "Viši sud odredio pritvor Pavlu Bihaliju",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/pavle-bihalij-pritvor-30-dana/",
+   "title": "Pavlu Bihaliju određen pritvor do 30 dana",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -100,7 +124,11 @@
   "Otac studentkinje Sonje Ponjavić: Odluka suda bi mogla da dovede u pitanje predsedničko pomilovanje",
   "Apelacioni sud ukinuo rešenje o ukidanju pritvora vozaču kojeg je pomilovao Vučić",
   "Apelacioni sud ukinuo rešenje o puštanju na slobodu vozača pomilovanog za gaženje studentkinje Sonje Ponjavić",
-  "Pomilovan za gaženje studentkinje, ali ne ide na slobodu: Apelacioni sud ukinuo rešenje o puštanju vozača"
+  "Pomilovan za gaženje studentkinje, ali ne ide na slobodu: Apelacioni sud ukinuo rešenje o puštanju vozača",
+  "Može li odluka o pomilovanju u slučaju pokušaja ubistva Sonje Ponjavić da bude poništena, advokatica: Pavlović pomilovan za delo za koje nije optužen (VIDEO)",
+  "Pavlu Bihaliju određen pritvor do 30 dana",
+  "Viši sud odredio pritvor Pavlu Bihaliju",
+  "Pavlu Bihaliju određen pritvor do 30 dana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -112,8 +140,8 @@
   "local": true,
   "alt": "Apelacioni sud vratio na ponovno odlučivanje ukidanje pritvora Marku Pavloviću"
  },
- "novo_od_pisanja": 1,
- "boost": 1.48,
+ "novo_od_pisanja": 5,
+ "boost": 1.6,
  "prepisano": "2026-11-24T21:26:51.183491+00:00",
  "verzija": 2
 }

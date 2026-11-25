@@ -26,17 +26,24 @@
  ],
  "importance": 4,
  "published": "2026-11-25T11:06:18.181669+00:00",
- "updated": "2026-11-25T11:06:18.181669+00:00",
+ "updated": "2026-11-25T23:02:14.184226+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/kompanije/300793/dobit-avio-kompanije-izi-dzet-pala-za-96-odsto-zbog-skupog-goriva-i-slabije-traznje/vest",
    "title": "Dobit avio-kompanije Izi džet pala za 96 odsto zbog skupog goriva i slabije tražnje",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/287927/potopila-ih-cena-goriva-dobit-kompanije-pala-96-odsto/vest",
+   "title": "Potopila ih cena goriva: Dobit kompanije pala 96 odsto",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Dobit avio-kompanije Izi džet pala za 96 odsto zbog skupog goriva i slabije tražnje"
+  "Dobit avio-kompanije Izi džet pala za 96 odsto zbog skupog goriva i slabije tražnje",
+  "Potopila ih cena goriva: Dobit kompanije pala 96 odsto"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "alt": "gray airplane on parking",
   "link": "https://unsplash.com/@starocker"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
