@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T09:15:46.899242+00:00",
- "updated": "2026-11-24T10:45:26.187919+00:00",
+ "updated": "2026-11-25T07:52:25.458035+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -70,6 +70,12 @@
    "url": "https://www.b92.net/info/politika/287533/konstitutivna-sednica-skupstine-srbije-24-novembar/vest",
    "title": "Konstitutivna sednica Skupštine Srbije; Studenti na balkonu; Minut ćutanja zbog smrti mitropolita Irineja",
    "spektar": "centar"
+  },
+  {
+   "name": "Srbin.info",
+   "url": "https://www.youtube.com/watch?v=UtVc2E_ZIF4",
+   "title": "Uživo - Skupština: Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu",
+   "spektar": "desnica"
   }
  ],
  "source_titles": [
@@ -78,7 +84,8 @@
   "Nastavljena prva sednica Narodne Skupštine",
   "NASTAVAK KONSTITUTIVNE SEDNICE SKUPŠTINE: Poslanici minutom ćutanja odali počast mitropolitu Irineju Buloviću (VIDEO)",
   "Jovanov: Sednica da počne minutom ćutanja za upokojenog mitropolita bačkog Irineja Bulovića",
-  "Konstitutivna sednica Skupštine Srbije; Studenti na balkonu; Minut ćutanja zbog smrti mitropolita Irineja"
+  "Konstitutivna sednica Skupštine Srbije; Studenti na balkonu; Minut ćutanja zbog smrti mitropolita Irineja",
+  "Uživo - Skupština: Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -91,6 +98,6 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
