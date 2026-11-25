@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T19:42:36.931926+00:00",
- "updated": "2026-11-25T12:50:40.853752+00:00",
+ "updated": "2026-11-25T13:05:31.712277+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -65,6 +65,12 @@
    "url": "https://n1info.rs/vesti/dragana-djordjevic-imenovana-za-generalnog-sekretara-predsednika-republike/",
    "title": "Dragana Đorđević imenovana za generalnog sekretara predsednika Republike",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/dragana-djordjevic-imenovana-za-generalnog-sekretara-predsednika-republike/",
+   "title": "Dragana Đorđević imenovana za generalnog sekretara predsednika Republike",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -73,6 +79,7 @@
   "Aleksandar Čupić imenovao Draganu Đorđević za generalnu sekretarku predsednika Republike",
   "ČUPIĆ IMENOVAO DRAGANU ĐORĐEVIĆ ZA GENERALNOG SEKRETARA PREDSEDNIKA SRBIJE: Odluka objavljena u Službenom glasniku",
   "Čupić imenovao Draganu Đorđević za generalnog sekretara predsednika Republike",
+  "Dragana Đorđević imenovana za generalnog sekretara predsednika Republike",
   "Dragana Đorđević imenovana za generalnog sekretara predsednika Republike"
  ],
  "author": "Redakcija Prestonice",
@@ -86,6 +93,6 @@
   "alt": "grayscale photography of man standing near studio camera and woman sitting while holding book",
   "link": "https://unsplash.com/@austriannationallibrary"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

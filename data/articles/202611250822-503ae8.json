@@ -3,21 +3,21 @@
  "slug": "rhmz-upozorava-na-ledenu-kisu-u-istocnoj-srbiji-vecina-zemlje-pod",
  "kind": "vest",
  "section": "drustvo",
- "headline": "RHMZ upozorava na ledenu kišu u istočnoj Srbiji, većina zemlje pod žutim meteoalarmom",
- "lead": "Republički hidrometeorološki zavod izdao je upozorenje na lokalnu pojavu ledene kiše u istočnoj Srbiji za 25. i 26. novembar. Veći deo zemlje nalazi se pod žutim meteoalarmom.",
+ "headline": "RHMZ: ledena kiša u istočnoj Srbiji, košava sa udarima do 90 km/h na jugu Banata",
+ "lead": "Republički hidrometeorološki zavod upozorava da će se kiša u planinama istočne Srbije i u Negotinskoj krajini ponegde ledi pri tlu, a da se u košavskom području očekuje jak vetar. Većina zemlje je pod žutim meteoalarmom.",
  "body": [
-  "Kako prenosi Tanjug, upozorenje se odnosi na područje istočne Srbije i važi za danas, 25. novembar, i sutra, 26. novembar.",
-  "Večeras i tokom noći ka četvrtku na planinama istočne Srbije i u Negotinskoj krajini očekuje se kiša koja će se ponegde ledi pri tlu, navode Tanjug i Telegraf.",
+  "Kako navodi Danas, posle podne se kiša ponegde očekuje na jugozapadu, a kasno večeras, tokom noći i sutra, 26. novembra, u planinskim predelima istočne Srbije i u Negotinskoj krajini, uz mestimično poledicu na tlu. Tanjug i Telegraf prenose da upozorenje na ledenu kišu važi za 25. i 26. novembar.",
+  "Prema Danasu, u toku noći i sutra u košavskom području biće vetrovito, sa umerenim i jakim vetrom. Na jugu Banata i u donjem Podunavlju duvaće olujni jugoistočni vetar sa udarima od 60 do 90 kilometara na sat, a uveče se očekuje slabljenje vetra.",
   "Pod žutim meteoalarmom su sve oblasti osim Beograda, Srema, Banata i Bačke. Prema pisanju Telegrafa, žuti alarm znači da vreme može biti potencijalno opasno.",
   "RHMZ u upozorenju navodi da prognozirane pojave nisu neuobičajene, ali da je potreban oprez pri aktivnostima izloženim meteorološkom riziku. Zavod savetuje građanima da se informišu o očekivanim uslovima i da ne preduzimaju nepotrebne rizike.",
-  "Telegraf prenosi i hidrološko upozorenje RHMZ-a, koje važi do 1. decembra. Prema njemu, vodostaji Dunava od Bezdana do Novog Sada narednih dana biće ispod niskih plovidbenih nivoa."
+  "Telegraf prenosi i hidrološko upozorenje RHMZ-a koje važi do 1. decembra. Prema njemu, vodostaji Dunava od Bezdana do Novog Sada narednih dana biće ispod niskih plovidbenih nivoa."
  ],
  "tags": [
   "RHMZ",
   "ledena kiša",
+  "košava",
   "meteoalarm",
-  "istočna Srbija",
-  "vreme",
+  "vremenska prognoza",
   "vodostaj Dunava"
  ],
  "people": [],
@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T07:22:39.121611+00:00",
- "updated": "2026-11-25T12:05:51.952563+00:00",
+ "updated": "2026-11-25T13:05:31.712277+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -71,6 +71,12 @@
    "url": "https://n1info.rs/vesti/rhmz-upozorava-na-ledenu-kisu-i-kosavu-popodne-i-tokom-noci-na-jugozapadu-srbije/",
    "title": "RHMZ upozorava na ledenu kišu i košavu popodne i tokom noći na jugozapadu Srbije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/rhmz-upozorava-na-ledenu-kisu-i-kosavu-popodne-i-tokom-noci/",
+   "title": "RHMZ upozorava na ledenu kišu i košavu popodne i tokom noći",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -79,7 +85,8 @@
   "Srbija pod žutim meteoalarmom: RHMZ izdao upozorenje",
   "Upozorenje za Srbiju: U ovim delovima zemlje večeras ledena kiša, a za vikend sneg u Beogradu",
   "RHMZ objavio upozorenje na ledenu kišu za područje istočne Srbije",
-  "RHMZ upozorava na ledenu kišu i košavu popodne i tokom noći na jugozapadu Srbije"
+  "RHMZ upozorava na ledenu kišu i košavu popodne i tokom noći na jugozapadu Srbije",
+  "RHMZ upozorava na ledenu kišu i košavu popodne i tokom noći"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -92,6 +99,8 @@
   "alt": "a puddle of water on a brick sidewalk",
   "link": "https://unsplash.com/@seiya_maeda"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 0,
+ "boost": 1.4,
+ "prepisano": "2026-11-25T13:05:31.712277+00:00",
+ "verzija": 2
 }
