@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T08:07:21.321482+00:00",
- "updated": "2026-11-25T09:07:06.301378+00:00",
+ "updated": "2026-11-25T12:05:51.952563+00:00",
  "sources": [
   {
    "name": "N1",
@@ -71,6 +71,12 @@
    "url": "https://www.kurir.rs/crna-hronika/10172187/uhapsen-zastupnik-udruzenja-gradjana-iz-novog-sada",
    "title": "OŠTETIO BUDŽET GRADA NOVOG SADA ZA 4 MILIONA DINARA: Lisice stavljene zastupniku udruženja građana",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10172511/pod-sumnjom-da-je-ostetio-budzet-za-4-miliona-dinara",
+   "title": "HAPŠENJE U NOVOM SADU: Zastupnik udruženja građana pod sumnjom da je oštetio budžet za 4 miliona dinara",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -80,7 +86,8 @@
   "Uhapšen zastupnik udruženja građana; Oštetio budžet Novo Sada za četiri miliona dinara",
   "Uhapšen joiš jedan zastupnik fiktivnog udruženja građana iz Novog Sada: Za četiri godine dobio više od 4 miliona dinara za nepostojeće projekte",
   "Uhapšen muškarac zbog sumnje da je oštetio budžet Novog Sada za četiri miliona dinara",
-  "OŠTETIO BUDŽET GRADA NOVOG SADA ZA 4 MILIONA DINARA: Lisice stavljene zastupniku udruženja građana"
+  "OŠTETIO BUDŽET GRADA NOVOG SADA ZA 4 MILIONA DINARA: Lisice stavljene zastupniku udruženja građana",
+  "HAPŠENJE U NOVOM SADU: Zastupnik udruženja građana pod sumnjom da je oštetio budžet za 4 miliona dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -93,6 +100,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Dunavska_street_in_Novi_Sad.jpg",
   "alt": "U Novom Sadu uhapšen zastupnik udruženja građana zbog sumnje da je oštetio budžet grada"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T07:22:39.121611+00:00",
- "updated": "2026-11-25T08:07:21.321482+00:00",
+ "updated": "2026-11-25T12:05:51.952563+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -65,6 +65,12 @@
    "url": "https://insajder.net/prenosimo/rhmz-objavio-upozorenje-na-ledenu-kisu-za-podrucje-istocne-srbije",
    "title": "RHMZ objavio upozorenje na ledenu kišu za područje istočne Srbije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/rhmz-upozorava-na-ledenu-kisu-i-kosavu-popodne-i-tokom-noci-na-jugozapadu-srbije/",
+   "title": "RHMZ upozorava na ledenu kišu i košavu popodne i tokom noći na jugozapadu Srbije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -72,7 +78,8 @@
   "RHMZ izdao upozorenje, upaljeni alarmi: Ovim delovima Srbije preti ledena kiša",
   "Srbija pod žutim meteoalarmom: RHMZ izdao upozorenje",
   "Upozorenje za Srbiju: U ovim delovima zemlje večeras ledena kiša, a za vikend sneg u Beogradu",
-  "RHMZ objavio upozorenje na ledenu kišu za područje istočne Srbije"
+  "RHMZ objavio upozorenje na ledenu kišu za područje istočne Srbije",
+  "RHMZ upozorava na ledenu kišu i košavu popodne i tokom noći na jugozapadu Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -85,6 +92,6 @@
   "alt": "a puddle of water on a brick sidewalk",
   "link": "https://unsplash.com/@seiya_maeda"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

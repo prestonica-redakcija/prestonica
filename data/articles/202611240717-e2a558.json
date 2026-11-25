@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T06:17:17.877061+00:00",
- "updated": "2026-11-25T11:36:25.611292+00:00",
+ "updated": "2026-11-25T12:05:51.952563+00:00",
  "sources": [
   {
    "name": "N1",
@@ -170,6 +170,18 @@
    "url": "https://n1info.rs/vesti/sastav-delegacija-skupstina-srbije-medjunarodne-parlamentarne-institucije/",
    "title": "Spisak svih predloženih članova parlamentarnih delegacija u međunarodnim institucijama",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300785/zavrsena-konstitutivna-sednica-skupstine-srbije-usvojene-odluke-o-sastavu-stalnih-delegacija/vest",
+   "title": "Završena konstitutivna sednica Skupštine Srbije, usvojene odluke o sastavu stalnih delegacija",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/287974/spisak-svih-izglasanih-clanova-parlamentarnih-delegacija-u-medjunarodnim-institucijama/vest",
+   "title": "Spisak svih izglasanih članova parlamentarnih delegacija u međunarodnim institucijama",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -194,7 +206,9 @@
   "Vučić: Prihvatamo učešće u parlamentarnim delegacijama u međunarodnim institucijama",
   "Ko su predloženi poslanici za međunarodne delegacije?",
   "Završena konstitutivna sednica Skupštine Srbije, usvojene odluke o sastavu stalnih delegacija u međunarodnim institucija",
-  "Spisak svih predloženih članova parlamentarnih delegacija u međunarodnim institucijama"
+  "Spisak svih predloženih članova parlamentarnih delegacija u međunarodnim institucijama",
+  "Završena konstitutivna sednica Skupštine Srbije, usvojene odluke o sastavu stalnih delegacija",
+  "Spisak svih izglasanih članova parlamentarnih delegacija u međunarodnim institucijama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -207,7 +221,7 @@
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
  },
- "novo_od_pisanja": 17,
+ "novo_od_pisanja": 19,
  "boost": 1.6,
  "prepisano": "2026-11-25T05:23:24.621382+00:00",
  "verzija": 2

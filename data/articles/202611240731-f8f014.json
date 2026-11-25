@@ -30,7 +30,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T06:31:57.987626+00:00",
- "updated": "2026-11-25T07:52:25.458035+00:00",
+ "updated": "2026-11-25T12:05:51.952563+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -85,6 +85,12 @@
    "url": "https://insajder.net/prenosimo/putevi-prohodni-ali-oprez-zbog-odrona-i-magle-kamioni-na-granici-cekaju-do-cetiri-sata",
    "title": "Putevi prohodni, ali oprez zbog odrona i magle; kamioni na granici čekaju do četiri sata",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300835/teretnjaci-na-granicnim-prelazima-zadrzavaju-se-i-do-cetiri-sata-na-izlazu-iz-srbije/vest",
+   "title": "Teretnjaci na graničnim prelazima zadržavaju se i do četiri sata na izlazu iz Srbije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -96,7 +102,8 @@
   "Horgoš i Kelebija: Teretna vozila na graničnim prelazima zadržavaju se do četiri sata",
   "Teretna vozila na graničnim prelazima zadržavaju se do četiri sata",
   "AMSS: Teretna vozila na graničnim prelazima zadržavaju se do četiri sata",
-  "Putevi prohodni, ali oprez zbog odrona i magle; kamioni na granici čekaju do četiri sata"
+  "Putevi prohodni, ali oprez zbog odrona i magle; kamioni na granici čekaju do četiri sata",
+  "Teretnjaci na graničnim prelazima zadržavaju se i do četiri sata na izlazu iz Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -109,8 +116,8 @@
   "alt": "Border crossing with kurdistan flag under shelter",
   "link": "https://unsplash.com/@snowscat"
  },
- "novo_od_pisanja": 3,
- "boost": 1.56,
+ "novo_od_pisanja": 4,
+ "boost": 1.6,
  "prepisano": "2026-11-25T05:53:26.871783+00:00",
  "verzija": 2
 }

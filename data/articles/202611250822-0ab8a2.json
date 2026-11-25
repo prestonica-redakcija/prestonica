@@ -29,17 +29,24 @@
  ],
  "importance": 5,
  "published": "2026-11-25T07:22:39.121611+00:00",
- "updated": "2026-11-25T07:22:39.121611+00:00",
+ "updated": "2026-11-25T12:05:51.952563+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/papir-ne-zaustavlja-nasilnika-zrtva-pokusaja-femicida-poziva-zene-da-prijave-nasilje-a-institucije-da-pokazu-razumevanje/",
    "title": "Papir ne zaustavlja nasilnika: Žrtva pokušaja femicida poziva žene da prijave nasilje, a institucije - da pokažu razumevanje",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300849/macura-kada-se-nasilje-prijavi-ono-moze-da-se-zaustavi/vest",
+   "title": "Macura: Kada se nasilje prijavi, ono može da se zaustavi",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Papir ne zaustavlja nasilnika: Žrtva pokušaja femicida poziva žene da prijave nasilje, a institucije - da pokažu razumevanje"
+  "Papir ne zaustavlja nasilnika: Žrtva pokušaja femicida poziva žene da prijave nasilje, a institucije - da pokažu razumevanje",
+  "Macura: Kada se nasilje prijavi, ono može da se zaustavi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Preživela pokušaj femicida poziva žene da prijave nasilje, a institucije na empatiju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-25T11:36:25.611292+00:00",
- "updated": "2026-11-25T11:36:25.611292+00:00",
+ "updated": "2026-11-25T12:05:51.952563+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -45,12 +45,26 @@
    "url": "https://www.b92.net/biz/srbija/vesti/287957/rzs-prosecna-zarada-u-srbiji-septembar-2026/vest",
    "title": "Najnoviji podaci o zaradi u Srbiji: Prosečna plata 119.335 dinara, medijalna 94.829",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/prosecna-plata-u-septembru-119-335-dinara-medijalna-94-829-dinara/",
+   "title": "Prosečna plata u septembru 119.335 dinara, medijalna 94.829 dinara",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/novcanik/4439593-polovina-zaposlenih-u-srbiji-u-septembru-imala-platu-do-94829-dinara",
+   "title": "Polovina zaposlenih u Srbiji u septembru imala platu do 94.829 dinara",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Prosečna plata u Srbiji za septembar 119.335 dinara, medijalna 94.829 dinara",
   "RZS: Prosečna zarada u Srbiji u septembru 119.335, medijalna 97.829 dinara",
-  "Najnoviji podaci o zaradi u Srbiji: Prosečna plata 119.335 dinara, medijalna 94.829"
+  "Najnoviji podaci o zaradi u Srbiji: Prosečna plata 119.335 dinara, medijalna 94.829",
+  "Prosečna plata u septembru 119.335 dinara, medijalna 94.829 dinara",
+  "Polovina zaposlenih u Srbiji u septembru imala platu do 94.829 dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +76,7 @@
   "local": false,
   "alt": "200 banknote on white textile",
   "link": "https://unsplash.com/@mufidpwt"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
