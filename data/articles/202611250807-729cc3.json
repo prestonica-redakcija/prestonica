@@ -24,17 +24,24 @@
  ],
  "importance": 4,
  "published": "2026-11-25T07:07:45.365426+00:00",
- "updated": "2026-11-25T07:07:45.365426+00:00",
+ "updated": "2026-11-25T07:22:39.121611+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10172058/ubadanje-nozem-u-ruku-i-oko-u-beogradu",
    "title": "UBODEN U OKO ZBOG SVAĐE U SAOBRAĆAJU?! U toku potraga za napadačem, pobegao sa lica mesta, policija odmah aktivirala Vihor 3",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4439301-muskarac-izboden-nasred-ulice-zbog-svadje-u-saobracaju-hitno-pokrenuta-akcija-vihor",
+   "title": "Muškarac izboden nasred ulice zbog svađe u saobraćaju: Hitno pokrenuta akcija Vihor",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "UBODEN U OKO ZBOG SVAĐE U SAOBRAĆAJU?! U toku potraga za napadačem, pobegao sa lica mesta, policija odmah aktivirala Vihor 3"
+  "UBODEN U OKO ZBOG SVAĐE U SAOBRAĆAJU?! U toku potraga za napadačem, pobegao sa lica mesta, policija odmah aktivirala Vihor 3",
+  "Muškarac izboden nasred ulice zbog svađe u saobraćaju: Hitno pokrenuta akcija Vihor"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "local": false,
   "alt": "cars parked in front of store during night time",
   "link": "https://unsplash.com/@hiepdaiduong93"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T18:13:25.121786+00:00",
- "updated": "2026-11-24T18:13:25.121786+00:00",
+ "updated": "2026-11-25T07:22:39.121611+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,12 +51,19 @@
    "url": "https://www.kurir.rs/planeta/10171817/putin-situacija-na-ruskom-trzistu-naftnih-derivata-teska-neizbezne-mere-odmazde",
    "title": "PUTIN PRIZNAO TEŠKOĆE MOSKVE: Situacija na ruskom tržištu naftnih derivata teška, neizbežne mere odmazde!",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/287782/putin-teska-situacija-na-ruskom-trzistu-naftnih-derivata/vest",
+   "title": "Putin o nafti: \"Teško je...\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Putin: Situacija na ruskom tržištu naftnih derivata trenutno je teška",
   "Putin: Situacija na ruskom tržištu naftnih derivata trenutno je teška",
-  "PUTIN PRIZNAO TEŠKOĆE MOSKVE: Situacija na ruskom tržištu naftnih derivata teška, neizbežne mere odmazde!"
+  "PUTIN PRIZNAO TEŠKOĆE MOSKVE: Situacija na ruskom tržištu naftnih derivata teška, neizbežne mere odmazde!",
+  "Putin o nafti: \"Teško je...\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,5 +75,7 @@
   "local": false,
   "alt": "red and white tower under blue sky during night time",
   "link": "https://unsplash.com/@qwitka"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

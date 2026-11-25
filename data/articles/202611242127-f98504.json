@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T20:27:05.952526+00:00",
- "updated": "2026-11-25T06:23:07.337159+00:00",
+ "updated": "2026-11-25T07:22:39.121611+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -50,12 +50,19 @@
    "url": "https://www.telegraf.rs/vesti/svet/4439289-zelenski-i-madjar-postigli-dogovor-o-gasu-i-dizelu-ukrajina-bi-mogla-da-dobija-energente-iz-madjarske",
    "title": "Zelenski i Mađar postigli dogovor o gasu i dizelu: Ukrajina bi mogla da dobija energente iz Mađarske",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1674469/gas-dizel-nove-zeleznicke-linije-zelenski-madjar-postigli-vazne-dogovore-evo-sta-menja-izmedju-dve-zemlje",
+   "title": "GAS, DIZEL I NOVE ŽELEZNIČKE LINIJE: Zelenski i Mađar postigli važne dogovore, evo šta se menja između dve zemlje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Zelenski i Mađar dogovorili isporuke gasa i dizela Ukrajini i nove železničke linije",
   "DOGOVOR UKRAJINE I MAĐARSKE: Zelenski i Mađar najavili isporuke gasa i dizela Kijevu i nove železničke linije",
-  "Zelenski i Mađar postigli dogovor o gasu i dizelu: Ukrajina bi mogla da dobija energente iz Mađarske"
+  "Zelenski i Mađar postigli dogovor o gasu i dizelu: Ukrajina bi mogla da dobija energente iz Mađarske",
+  "GAS, DIZEL I NOVE ŽELEZNIČKE LINIJE: Zelenski i Mađar postigli važne dogovore, evo šta se menja između dve zemlje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,6 @@
   "local": true,
   "alt": "Zelenski i Mađar dogovorili razmatranje isporuka gasa i dizela Ukrajini"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

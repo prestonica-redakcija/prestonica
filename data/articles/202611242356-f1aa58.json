@@ -25,7 +25,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T22:56:10.148905+00:00",
- "updated": "2026-11-24T23:11:05.001369+00:00",
+ "updated": "2026-11-25T07:22:39.121611+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -50,13 +50,20 @@
    "url": "https://www.b92.net/info/svet/287853/hakovana-cia-sajber-napad-na-americku-obavestajnu-agenciju/vest",
    "title": "Hakovana CIA: Ugrožen sistem za analizu obaveštajnih podataka",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/253573/cia-i-odni-meta-hakera-pogodene-neklasifikovane-informacije/vest",
+   "title": "Hakerski napad na CIA: Američke obaveštajne službe na udaru",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Hakeri upali u mreže američkih obaveštajnih službi, pristupili podacima CIA",
   "Hakeri upali u sistem CIA",
   "HAKOVANA CIA! Napadači prodrli u mrežu američkih obaveštajnih službi, još se ne zna do kojih su podataka došli",
-  "Hakovana CIA: Ugrožen sistem za analizu obaveštajnih podataka"
+  "Hakovana CIA: Ugrožen sistem za analizu obaveštajnih podataka",
+  "Hakerski napad na CIA: Američke obaveštajne službe na udaru"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "alt": "red padlock on black computer keyboard",
   "link": "https://unsplash.com/@flyd2069"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
