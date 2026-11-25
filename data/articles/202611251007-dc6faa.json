@@ -28,17 +28,24 @@
  ],
  "importance": 4,
  "published": "2026-11-25T09:07:06.301378+00:00",
- "updated": "2026-11-25T09:07:06.301378+00:00",
+ "updated": "2026-11-25T11:36:25.611292+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/300766/mitrovic-neophodno-promeniti-dosadasnji-sistem-odlaganja-otpadom/vest",
    "title": "Mitrović: Neophodno promeniti dosadašnji sistem odlaganja otpadom",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/mitrovic-privredna-komora-srbije-neophodno-promeniti-dosadasnji-sistem-odlaganja-otpada",
+   "title": "Mitrović (Privredna komora Srbije): Neophodno promeniti dosadašnji sistem odlaganja otpada",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Mitrović: Neophodno promeniti dosadašnji sistem odlaganja otpadom"
+  "Mitrović: Neophodno promeniti dosadašnji sistem odlaganja otpadom",
+  "Mitrović (Privredna komora Srbije): Neophodno promeniti dosadašnji sistem odlaganja otpada"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "alt": "a pile of garbage sitting next to a street light",
   "link": "https://unsplash.com/@katertottz"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

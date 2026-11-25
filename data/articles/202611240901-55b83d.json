@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-25T10:51:19.075874+00:00",
+ "updated": "2026-11-25T11:36:25.611292+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -288,6 +288,18 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4439518-oglasio-se-ukc-o-stanju-nikoline-sljivic-nakon-hapsenja",
    "title": "Oglasio se UKC o stanju Nikoline Šljivić nakon hapšenja",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/region/bosna-i-hercegovina/10172466/poznato-zdravstveno-stanje-nikoline-sljivic",
+   "title": "POZNATO ZDRAVSTVENO STANJE NIKOLINE ŠLJIVIĆ: Oglasio se Univerzitetski klinički centar Republike Srpske",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/tuzilastvo-uhapsen-pomocnik-gradonacelnika-kraljeva/",
+   "title": "Tužilaštvo: Uhapšen pomoćnik gradonačelnika Kraljeva",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -332,7 +344,9 @@
   "Ispitana žena Đorđa Ždrala, imala status svedoka: Uhapšeni Naser Orić i Nikolina Šljivić, za njim se traga",
   "Ždrale u bekstvu, Orić iza rešetaka: Istražitelji ispitali i suprugu odbeglog osumnjičenog",
   "ISPITANA SUPRUGA ĐORĐA ŽDRALA! Imala status svedoka, pa osumnjičene",
-  "Oglasio se UKC o stanju Nikoline Šljivić nakon hapšenja"
+  "Oglasio se UKC o stanju Nikoline Šljivić nakon hapšenja",
+  "POZNATO ZDRAVSTVENO STANJE NIKOLINE ŠLJIVIĆ: Oglasio se Univerzitetski klinički centar Republike Srpske",
+  "Tužilaštvo: Uhapšen pomoćnik gradonačelnika Kraljeva"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -345,7 +359,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Promenada_Isto%C4%8Dno_Sarajevo.jpg",
   "alt": "SIPA i policija RS uhapsile Nasera Orića i Nikolinu Šljivić u akciji širom BiH"
  },
- "novo_od_pisanja": 18,
+ "novo_od_pisanja": 20,
  "boost": 1.6,
  "prepisano": "2026-11-24T16:58:36.932241+00:00",
  "verzija": 4

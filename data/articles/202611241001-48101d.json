@@ -34,7 +34,7 @@
  ],
  "importance": 7,
  "published": "2026-11-24T09:01:04.718161+00:00",
- "updated": "2026-11-25T09:21:54.243757+00:00",
+ "updated": "2026-11-25T11:36:25.611292+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -245,6 +245,18 @@
    "url": "https://insajder.net/prenosimo/navrsava-se-108-godina-od-velike-narodne-skupstine-u-novom-sadu-koja-je-proglasila-prisajedinjenje-vojvodine-srbiji",
    "title": "Navršava se 108 godina od Velike narodne skupštine u Novom Sadu, koja je proglasila prisajedinjenje Vojvodine Srbiji",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300826/u-novom-sadu-polozeni-venci-povodom-108-godisnjice-prisajedinjenja-vojvodine-srbiji/vest",
+   "title": "U Novom Sadu položeni venci povodom 108. godišnjice prisajedinjenja Vojvodine Srbiji",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4439547-u-novom-sadu-polozeni-venci-povodom-108-godisnjice-prisajedinjenja-vojvodine-srbiji",
+   "title": "U Novom Sadu položeni venci povodom 108. godišnjice prisajedinjenja Vojvodine Srbiji",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -282,7 +294,9 @@
   "Maja Gojković uputila telegram saučešća povodom smrti mitropolita bačkog Irineja",
   "Nemet: Odlazak mitropolita Irineja veliki gubitak za SPC i hrišćansku zajednicu",
   "Kardinal Ladislav Nemet: Odlazak mitropolita Irineja veliki gubitak za SPC i hrišćansku zajednicu",
-  "Navršava se 108 godina od Velike narodne skupštine u Novom Sadu, koja je proglasila prisajedinjenje Vojvodine Srbiji"
+  "Navršava se 108 godina od Velike narodne skupštine u Novom Sadu, koja je proglasila prisajedinjenje Vojvodine Srbiji",
+  "U Novom Sadu položeni venci povodom 108. godišnjice prisajedinjenja Vojvodine Srbiji",
+  "U Novom Sadu položeni venci povodom 108. godišnjice prisajedinjenja Vojvodine Srbiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -295,7 +309,7 @@
   "alt": "A large building with a clock tower on top of it",
   "link": "https://unsplash.com/@marishphoto"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 6,
  "boost": 1.6,
  "prepisano": "2026-11-24T20:12:16.418672+00:00",
  "verzija": 5

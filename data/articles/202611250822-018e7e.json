@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-25T07:22:39.121611+00:00",
- "updated": "2026-11-25T08:37:21.026632+00:00",
+ "updated": "2026-11-25T11:36:25.611292+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -48,12 +48,19 @@
    "url": "https://n1info.rs/vesti/akademski-plenum-trazi-objasnjenje-od-gradonacelnika-subotice-kako-je-prvo-doktorirao-pa-onda-zavrsio-master-studije/",
    "title": "Akademski plenum traži objašnjenje od gradonačelnika Subotice: \"Kako je prvo doktorirao, pa onda završio master studije?\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/gradonacelnik-subotice-dostavio-diplome-nakon-optuzbi-akademskog-plenuma-o-redosledu-studiranja/",
+   "title": "Gradonačelnik Subotice dostavio diplome nakon optužbi Akademskog plenuma o redosledu studiranja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Akadamski plenum: Novi gradonačelnik Subotice doktorirao pre nego što je završio master studije",
   "Akademski plenum: Kozomora da objasni doktorat",
-  "Akademski plenum traži objašnjenje od gradonačelnika Subotice: \"Kako je prvo doktorirao, pa onda završio master studije?\""
+  "Akademski plenum traži objašnjenje od gradonačelnika Subotice: \"Kako je prvo doktorirao, pa onda završio master studije?\"",
+  "Gradonačelnik Subotice dostavio diplome nakon optužbi Akademskog plenuma o redosledu studiranja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "local": true,
   "alt": "Akademski plenum traži od gradonačelnika Subotice da objasni redosled studija"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
