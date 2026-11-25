@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T19:42:36.931926+00:00",
- "updated": "2026-11-25T23:02:14.184226+00:00",
+ "updated": "2026-11-25T23:20:00.404645+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -113,6 +113,12 @@
    "url": "https://www.b92.net/info/politika/288151/cupic-raspisuje-predsednicke-izbore-u-srbiji-dan-odluke-27-decembar/vest",
    "title": "Čupić raspisuje predsedničke izbore u Srbiji; Dan odluke – 27. decembar",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300987/cupic-danas-raspisuje-izbore-za-predsednika-republike/vest",
+   "title": "Čupić danas raspisuje izbore za predsednika Republike",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -129,7 +135,8 @@
   "Čupić sutra raspisuje predsedničke izbore",
   "ČUPIĆ SUTRA RASPISUJE PREDSEDNIČKE IZBORE: Potpisaće odluku u 12 časova",
   "Čupić sutra raspisuje izbore za predsednika Republike",
-  "Čupić raspisuje predsedničke izbore u Srbiji; Dan odluke – 27. decembar"
+  "Čupić raspisuje predsedničke izbore u Srbiji; Dan odluke – 27. decembar",
+  "Čupić danas raspisuje izbore za predsednika Republike"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -142,6 +149,6 @@
   "alt": "grayscale photography of man standing near studio camera and woman sitting while holding book",
   "link": "https://unsplash.com/@austriannationallibrary"
  },
- "novo_od_pisanja": 12,
+ "novo_od_pisanja": 13,
  "boost": 1.6
 }
