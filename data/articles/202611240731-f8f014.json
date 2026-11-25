@@ -3,21 +3,22 @@
  "slug": "kamioni-na-izlazu-iz-srbije-na-horgosu-kelebiji-i-sidu-cekaju-tri-sata",
  "kind": "vest",
  "section": "drustvo",
- "headline": "Kamioni na izlazu iz Srbije na Horgošu, Kelebiji i Šidu čekaju tri sata",
- "lead": "Teretna vozila na graničnim prelazima Horgoš, Kelebija i Šid na izlazu iz zemlje zadržavaju se oko tri sata, a na Batrovcima 60 minuta. Na putničkim terminalima nema zadržavanja, navodi se u informacijama koje prenosi AMSS.",
+ "headline": "Kamioni na Horgošu i Kelebiji čekaju do četiri sata, na Šidu dva sata",
+ "lead": "Teretna vozila na izlazu iz Srbije na prelazima Horgoš i Kelebija zadržavaju se po 240 minuta, što je sat više nego juče. Na putničkim terminalima, prema AMSS-u, nema zadržavanja.",
  "body": [
-  "Prema podacima Uprave granične policije dobijenim u 5.15 časova, koje prenose Tanjug i B92, na putničkim terminalima graničnih prelaza nema zadržavanja vozila.",
-  "Teretna motorna vozila na prelazima Horgoš, Kelebija i Šid na izlazu iz zemlje čekaju tri sata, dok je na Batrovcima čekanje 60 minuta. Na ostalim graničnim prelazima, kako se navodi, nema dužih zadržavanja.",
-  "B92 dodaje da na naplatnim stanicama na autoputevima u Srbiji nema zadržavanja vozila.",
-  "Auto-moto savez Srbije (AMSS) upozorava vozače na promenljive uslove vožnje: mestimično vlažne kolovoze, povremeno jak vetar na istoku i jugoistoku i temperature od nekoliko stepeni ispod nule. Prema saopštenju AMSS-a, poledica je moguća na svim vlažnim mestima, posebno u planinskim predelima, kao i na mostovima i nadvožnjacima, gde se savetuje manja brzina i veće odstojanje."
+  "Prema poslednjim informacijama Uprave granične policije, koje je saopštio AMSS, a prenosi Telegraf (uz Tanjug), kamioni na izlazu iz zemlje na Horgošu i Kelebiji čekaju po 240 minuta. Na Batrovcima je čekanje 60 minuta.",
+  "Na prelazu Šid-drumski teretna vozila čekaju 120 minuta, a na Vatinu 90 minuta. Na ostalim graničnim prelazima, kako se navodi, nema dužih zadržavanja.",
+  "Dan ranije, prema podacima granične policije koje su prenosili Tanjug i B92, kamioni na Horgošu, Kelebiji i Šidu čekali su oko tri sata, a na Batrovcima 60 minuta. Čekanje na Horgošu i Kelebiji je od tada poraslo, dok je na Šidu smanjeno sa oko tri na dva sata.",
+  "Na naplatnim stanicama na autoputevima u Srbiji nema zadržavanja vozila, navodi se u istom saopštenju.",
+  "AMSS je ranije upozoravao vozače na promenljive uslove vožnje: mestimično vlažne kolovoze, povremeno jak vetar na istoku i jugoistoku i temperature od nekoliko stepeni ispod nule. Poledica je moguća na svim vlažnim mestima, posebno u planinskim predelima, na mostovima i nadvožnjacima, gde se savetuje manja brzina i veće odstojanje."
  ],
  "tags": [
   "granični prelazi",
-  "AMSS",
-  "teretna vozila",
   "Horgoš",
-  "Batrovci",
-  "uslovi na putevima"
+  "Kelebija",
+  "teretna vozila",
+  "AMSS",
+  "Uprava granične policije"
  ],
  "people": [],
  "places": [
@@ -29,7 +30,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T06:31:57.987626+00:00",
- "updated": "2026-11-24T17:43:21.511848+00:00",
+ "updated": "2026-11-25T05:53:26.871783+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -60,6 +61,12 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4439100-amss-kamioni-na-izlazu-iz-srbije-na-prelazu-horgos-cekaju-do-cetiri-sata",
    "title": "AMSS: Kamioni na izlazu iz Srbije na prelazu Horgoš čekaju do četiri sata",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4439278-horgos-i-kelebija-teretna-vozila-na-granicnim-prelazima-zadrzavaju-se-do-cetiri-sata",
+   "title": "Horgoš i Kelebija: Teretna vozila na graničnim prelazima zadržavaju se do četiri sata",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -67,7 +74,8 @@
   "AMSS: Kamioni na prelazima Horgoš, Kelebija i Šid čekaju tri sata na izlaz iz zemlje",
   "Teretna vozila na Kelebiji i Horgošu čekaju po tri sata",
   "AMSS: Kamioni na izlazu iz Srbije na prelazu Horgoš čekaju do četiri sata",
-  "AMSS: Kamioni na izlazu iz Srbije na prelazu Horgoš čekaju do četiri sata"
+  "AMSS: Kamioni na izlazu iz Srbije na prelazu Horgoš čekaju do četiri sata",
+  "Horgoš i Kelebija: Teretna vozila na graničnim prelazima zadržavaju se do četiri sata"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,6 +88,8 @@
   "alt": "Border crossing with kurdistan flag under shelter",
   "link": "https://unsplash.com/@snowscat"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 0,
+ "boost": 1.32,
+ "prepisano": "2026-11-25T05:53:26.871783+00:00",
+ "verzija": 2
 }

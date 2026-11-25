@@ -5260,18 +5260,14 @@
   "https://www.telegraf.rs/vesti/beograd/4439268-bez-vode-delovi-novog-beograda-i-surcina": "2026-11-25T05:23:24.621382+00:00",
   "https://www.telegraf.rs/4439271-skupstina-nastavlja-konstitutivnu-sednicu-rasprava-o-poslednjoj-tacki-dnevnog-reda": "2026-11-25T05:23:24.621382+00:00",
   "https://www.telegraf.rs/vesti/beograd/4439276-hitna-pomoc-jedna-osoba-lakse-povredjena-u-udesu-u-beogradu": "2026-11-25T05:38:15.475256+00:00",
-  "https://www.kurir.rs/zabava/zena/10170031/recept-za-mramorni-kolac": "2026-11-25T05:38:15.475256+00:00"
+  "https://www.kurir.rs/zabava/zena/10170031/recept-za-mramorni-kolac": "2026-11-25T05:38:15.475256+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4439278-horgos-i-kelebija-teretna-vozila-na-granicnim-prelazima-zadrzavaju-se-do-cetiri-sata": "2026-11-25T05:53:26.871783+00:00",
+  "https://www.telegraf.rs/vesti/svet/4439154-trampova-administracija-raspravlja-o-atentatima-na-iranske-lidere": "2026-11-25T05:53:26.871783+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-24T07:58+00:00",
-   "novih": 6,
-   "ukupno": 4243,
-   "sekundi": 698.7
-  },
   {
    "vreme": "2026-11-24T08:10+00:00",
    "novih": 4,
@@ -5625,6 +5621,12 @@
    "novih": 0,
    "ukupno": 4508,
    "sekundi": 445.5
+  },
+  {
+   "vreme": "2026-11-25T06:01+00:00",
+   "novih": 0,
+   "ukupno": 4508,
+   "sekundi": 498.8
   }
  ],
  "licnosti_foto": {
@@ -8406,7 +8408,7 @@
    "slug": "aleksandar-ivanovic-sedeo-sam-u-prostoriji-sa-covekom-koji-6vhn2aan3j8"
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -53246,7 +53248,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-25T05:39:00.290440+00:00",
+  "provereno": "2026-11-25T05:54:00.537408+00:00",
   "uzivo_t": "2026-11-24T18:17:48.738804+00:00",
   "nedostupan": false
  },

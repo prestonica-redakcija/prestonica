@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T18:28:15.144156+00:00",
- "updated": "2026-11-24T18:28:15.144156+00:00",
+ "updated": "2026-11-25T05:53:26.871783+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,12 +51,19 @@
    "url": "https://www.kurir.rs/planeta/10171858/trampova-administracija-razmatra-i-atentate-na-iranske-lidere",
    "title": "ŠOK! TRAMPOVA ADMINISTRACIJA RAZMATRA ATENTATE NA IRANSKE LIDERE: \"Takav potez mogao bi da okonča rat sa Iranom\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4439154-trampova-administracija-raspravlja-o-atentatima-na-iranske-lidere",
+   "title": "Administracija Donalda Trampa razmatra atentate na iranske lidere",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "NBC: Trampova administracija razmatra i atentate na iranske lidere",
   "Amerika sprema atentat na iranski vrh?",
-  "ŠOK! TRAMPOVA ADMINISTRACIJA RAZMATRA ATENTATE NA IRANSKE LIDERE: \"Takav potez mogao bi da okonča rat sa Iranom\""
+  "ŠOK! TRAMPOVA ADMINISTRACIJA RAZMATRA ATENTATE NA IRANSKE LIDERE: \"Takav potez mogao bi da okonča rat sa Iranom\"",
+  "Administracija Donalda Trampa razmatra atentate na iranske lidere"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,5 +75,7 @@
   "local": false,
   "alt": "White House, Washington DC",
   "link": "https://unsplash.com/@mktgmantra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
