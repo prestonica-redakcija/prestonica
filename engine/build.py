@@ -1,6 +1,7 @@
 """Gradi kompletan statički sajt u site/: naslovna, rubrike, članci, pretraga, RSS, sitemap."""
 from __future__ import annotations
 
+import hashlib
 import json
 import logging
 import shutil
@@ -162,8 +163,16 @@ def build(cfg: Config, articles: list[dict], state: dict, live_widgets: bool = T
     env.filters["xtext"] = _xtext
     css = (root / "static" / "style.css").read_text(encoding="utf-8") + _section_css(cfg)
     js = (root / "static" / "app.js").read_text(encoding="utf-8")
+    # Stil i skripta idu u zajedničke fajlove (jednom po sajtu, keširani u pregledaču), a ne u svaku stranicu:
+    # tako sajt ostaje daleko ispod granice od 1 GB za GitHub Pages i postavlja se brzo.
+    (out / "static").mkdir(parents=True, exist_ok=True)
+    css_h = hashlib.md5(css.encode("utf-8")).hexdigest()[:10]
+    js_h = hashlib.md5(js.encode("utf-8")).hexdigest()[:10]
+    (out / "static" / f"style.{css_h}.css").write_text(css, encoding="utf-8")
+    (out / "static" / f"app.{js_h}.js").write_text(js, encoding="utf-8")
+    css_href, js_src = f"static/style.{css_h}.css", f"static/app.{js_h}.js"
     base_ctx = {
-        "portal": cfg.portal, "rubrike": cfg.rubrike, "css": css, "js": js, "now": now,
+        "portal": cfg.portal, "rubrike": cfg.rubrike, "css_href": css_href, "js_src": js_src, "now": now,
         "today": sr_date(now, True), "w": w, "updated": now.strftime("%H:%M"),
         "newsletter": (cfg.portal.get("newsletter") or {}).get("akcija_url", ""),
         "ticker": [a for a in by_date if a["kind"] == "vest"][:6], "domain": cfg.portal.get("domen", ""),
