@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T07:16:38.934187+00:00",
- "updated": "2026-11-24T17:43:21.511848+00:00",
+ "updated": "2026-11-25T07:07:45.365426+00:00",
  "sources": [
   {
    "name": "N1",
@@ -101,6 +101,12 @@
    "url": "https://www.novosti.rs/vesti/politika/1674375/policija-mup-srdjan-milivojevic",
    "title": "OŠTAR ODGOVOR MUP MILIVOJEVIĆU: Zlonamerne tvrdnje predsednika DS",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/milivojevic-izneo-optuzbe-o-nezakonitom-prisluskivanju-bia-demantovala-istraga/",
+   "title": "Milivojević izneo optužbe o nezakonitom prisluškivanju, BIA demantovala: Ima li osnova za pokretanje istrage?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -115,7 +121,8 @@
   "MUP reagovao na tvrdnje Milivojevića da je deo policije bio aktivan u radu situacionog centra u BIA",
   "MUP: Milivojevićevi navodi o nezakonitom nadzoru zlonamerni, netačni i neutemeljeni",
   "MUP: Milivojevićevi navodi o nezakonitom nadzoru zlonamerni, netačni i neutemeljeni",
-  "OŠTAR ODGOVOR MUP MILIVOJEVIĆU: Zlonamerne tvrdnje predsednika DS"
+  "OŠTAR ODGOVOR MUP MILIVOJEVIĆU: Zlonamerne tvrdnje predsednika DS",
+  "Milivojević izneo optužbe o nezakonitom prisluškivanju, BIA demantovala: Ima li osnova za pokretanje istrage?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -128,7 +135,7 @@
   "alt": "an old run down building on a street corner",
   "link": "https://unsplash.com/@lambi13"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-24T17:43:21.511848+00:00",
  "verzija": 3

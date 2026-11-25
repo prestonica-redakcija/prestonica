@@ -33,7 +33,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T04:17:52.650439+00:00",
- "updated": "2026-11-25T06:37:52.711850+00:00",
+ "updated": "2026-11-25T07:07:45.365426+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -118,6 +118,12 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4439299-u-ovom-gradu-u-srbiji-je-jutros-izmereno-9-stepeni-u-vecini-mesta-temperatura-ispod-nule-stize-nova-promena",
    "title": "U ovom gradu u Srbiji jutros izmereno -9 stepeni: U većini mesta temperatura ispod nule, stiže nova promena",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/vreme-danas-ujutru-mraz-tokom-dana-oblacno-moguca-kisa/",
+   "title": "Vreme danas: Ujutru mraz, tokom dana oblačno, moguća kiša",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -134,7 +140,8 @@
   "U Srbiji ujutru hladno sa mrazem, tokom dana naoblačenje sa kišom",
   "Posle hladnog jutra sa mrazem, naoblačenje sa kišom, na planinama snegom, minimalna temperatura minus sedam, maksimalna devet",
   "U Srbiji ujutru hladno sa mrazom, tokom dana naoblačenje sa kišom",
-  "U ovom gradu u Srbiji jutros izmereno -9 stepeni: U većini mesta temperatura ispod nule, stiže nova promena"
+  "U ovom gradu u Srbiji jutros izmereno -9 stepeni: U većini mesta temperatura ispod nule, stiže nova promena",
+  "Vreme danas: Ujutru mraz, tokom dana oblačno, moguća kiša"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -147,7 +154,7 @@
   "alt": "silhouette of electric post during sunset",
   "link": "https://unsplash.com/@thestefankostic"
  },
- "novo_od_pisanja": 7,
+ "novo_od_pisanja": 8,
  "boost": 1.6,
  "prepisano": "2026-11-24T07:46:23.419063+00:00",
  "verzija": 2
