@@ -33,7 +33,7 @@
  ],
  "importance": 7,
  "published": "2026-11-24T20:27:05.952526+00:00",
- "updated": "2026-11-25T09:07:06.301378+00:00",
+ "updated": "2026-11-25T09:21:54.243757+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -64,6 +64,36 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4439417-informer-uhapsen-dragan-j-vucicevic",
    "title": "Informer: Uhapšen Dragan J. Vučićević",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10172200/uhapsen-dragan-j-vucicevic",
+   "title": "Uhapšen Dragan J. Vučićević",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/priveden-dragan-j-vucicevic/",
+   "title": "Uhapšen Dragan J. Vučićević",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/uhasen-dragan-j-vucicevic/",
+   "title": "Uhapšen Dragan J. Vučićević",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/287909/uhapsen-dragan-j-vucicevic/vest",
+   "title": "Uhapšen Dragan J. Vučićević",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/uhapsen-dragan-j-vucicevic/",
+   "title": "Uhapšen Dragan J. Vučićević",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -71,7 +101,12 @@
   "\"Informacija je prestrašna\" Jelena Tomašević se oglasila nakon pucnjave u školi u Kragujevcu, gde je odrasla",
   "Uhapšen Dragan J. Vučićević",
   "Uhapšen Dragan J. Vučićević",
-  "Informer: Uhapšen Dragan J. Vučićević"
+  "Informer: Uhapšen Dragan J. Vučićević",
+  "Uhapšen Dragan J. Vučićević",
+  "Uhapšen Dragan J. Vučićević",
+  "Uhapšen Dragan J. Vučićević",
+  "Uhapšen Dragan J. Vučićević",
+  "Uhapšen Dragan J. Vučićević"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -84,6 +119,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Prva_tehni%C4%8Dka_%C5%A1kola_Kragujevac_19.jpg",
   "alt": "Pucnjava u školi u Kragujevcu: uhapšen sedamnaestogodišnji učenik, povređene dve osobe"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 8,
+ "boost": 1.6
 }
