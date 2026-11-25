@@ -3,21 +3,21 @@
  "slug": "skupstina-srbije-nastavlja-konstitutivnu-sednicu-na-redu-odbori-i",
  "kind": "vest",
  "section": "politika",
- "headline": "Skupština Srbije nastavlja konstitutivnu sednicu, na redu odbori i delegacije",
- "lead": "Poslanici Skupštine Srbije danas nastavljaju konstitutivnu sednicu iz 17. novembra, a na dnevnom redu je izbor članova odbora i stalnih parlamentarnih delegacija. Kako navodi N1, zasedanje počinje u 10.00 časova.",
+ "headline": "Skupština nastavlja konstitutivnu sednicu raspravom o izboru parlamentarnih delegacija",
+ "lead": "Poslanici Skupštine Srbije danas nastavljaju konstitutivnu sednicu raspravom o poslednjoj tački dnevnog reda, izboru stalnog sastava parlamentarnih delegacija, prenosi Telegraf. Sednica je nastavak zasedanja novog saziva od 17. novembra.",
  "body": [
-  "Prema pisanju N1, poslanici bi danas trebalo da izaberu članove skupštinskih radnih tela, odnosno odbora, kao i stalnih parlamentarnih delegacija u međunarodnim institucijama. Sednica je nastavak konstitutivnog zasedanja održanog 17. novembra.",
-  "Saziv je formiran na osnovu rezultata parlamentarnih izbora održanih 25. oktobra, na kojima je, kako navodi N1, pobedila Studentska lista. Od 250 poslaničkih mandata ta lista je osvojila 140, koalicija okupljena oko Srpske napredne stranke 103, a manjinske liste ukupno sedam.",
-  "Među manjinskim listama, Savez vojvođanskih Mađara i Albanska koalicija imaju po dva poslanika. Po jednog poslanika imaju lista Rasima Ljajića, Stranka demokratske akcije Sandžaka i lista Usamea Zukorlića.",
-  "Za predsednika parlamenta izabran je Aleksandar Čupić sa Studentske liste. Izabrano je i šest potpredsednika Skupštine: Jelena Petrović, Lidija Dimitrijević, Marija Bjelobrk, Sara Valentik, Tibor Lazar i Adem Mavrić, a svi su, prema N1, sa Studentske liste.",
-  "Novi saziv Skupštine imenovao je i Mirjanu Radaković za generalnog sekretara parlamenta."
+  "Prema pisanju Telegrafa, izbor stalnog sastava parlamentarnih delegacija poslednja je tačka dnevnog reda ove sednice. Delegacije predstavljaju parlament u međunarodnim institucijama.",
+  "N1 je ranije pisao da su na dnevnom redu nastavka sednice bili i izbor članova skupštinskih odbora i stalnih parlamentarnih delegacija.",
+  "Saziv je formiran na osnovu parlamentarnih izbora održanih 25. oktobra, na kojima je, kako navodi N1, pobedila Studentska lista. Od 250 poslaničkih mandata ona je osvojila 140, koalicija okupljena oko Srpske napredne stranke 103, a manjinske liste ukupno sedam.",
+  "Među manjinskim listama, Savez vojvođanskih Mađara i Albanska koalicija imaju po dva poslanika, a po jednog lista Rasima Ljajića, Stranka demokratske akcije Sandžaka i lista Usamea Zukorlića.",
+  "Za predsednika parlamenta izabran je Aleksandar Čupić sa Studentske liste. Izabrano je i šest potpredsednika: Jelena Petrović, Lidija Dimitrijević, Marija Bjelobrk, Sara Valentik, Tibor Lazar i Adem Mavrić, a svi su, prema N1, sa Studentske liste. Mirjana Radaković imenovana je za generalnog sekretara parlamenta."
  ],
  "tags": [
   "Skupština Srbije",
   "konstitutivna sednica",
-  "skupštinski odbori",
+  "parlamentarne delegacije",
   "Studentska lista",
-  "parlamentarni izbori"
+  "Aleksandar Čupić"
  ],
  "people": [
   "Aleksandar Čupić",
@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-24T06:17:17.877061+00:00",
- "updated": "2026-11-24T08:46:01.118594+00:00",
+ "updated": "2026-11-25T05:23:24.621382+00:00",
  "sources": [
   {
    "name": "N1",
@@ -62,13 +62,20 @@
    "url": "https://nova.rs/vesti/politika/blog-uzivo-nastavak-sednice-skupstine-ocekuje-se-izbor-clanova-skupstinskih-odbora-i-stranih-parlamentarnih-delegacija/",
    "title": "BLOG UŽIVO Nastavak sednice Skupštine: Očekuje se izbor članova skupštinskih odbora i stranih parlamentarnih delegacija",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4439271-skupstina-nastavlja-konstitutivnu-sednicu-rasprava-o-poslednjoj-tacki-dnevnog-reda",
+   "title": "Skupština nastavlja konstitutivnu sednicu: Rasprava o poslednjoj tački dnevnog reda",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Poslanici Skupštine Srbije nastavljaju zasedanje, biraju članove odbora i delegacija",
   "Poslanici nastavljaju sa konstitutivnom sednicom Skupštine Srbije: Biraju članove odbora i parlamentarnih delegacija",
   "Poslanici Skupštine Srbije danas nastavljaju zasedanje, biraju i članove parlamentarnih odbora",
-  "BLOG UŽIVO Nastavak sednice Skupštine: Očekuje se izbor članova skupštinskih odbora i stranih parlamentarnih delegacija"
+  "BLOG UŽIVO Nastavak sednice Skupštine: Očekuje se izbor članova skupštinskih odbora i stranih parlamentarnih delegacija",
+  "Skupština nastavlja konstitutivnu sednicu: Rasprava o poslednjoj tački dnevnog reda"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -81,6 +88,8 @@
   "alt": "The ornate semicircular chamber of the Hungarian Parliament Building in Budapest with wooden desks",
   "link": "https://unsplash.com/@ktabori"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 0,
+ "boost": 1.32,
+ "prepisano": "2026-11-25T05:23:24.621382+00:00",
+ "verzija": 2
 }
