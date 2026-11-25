@@ -24,17 +24,24 @@
  ],
  "importance": 2,
  "published": "2026-11-25T12:20:45.927340+00:00",
- "updated": "2026-11-25T12:20:45.927340+00:00",
+ "updated": "2026-11-25T12:35:55.277131+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/drustvo/300848/drustvo-za-zastitu-i-proucavanje-ptica-srbije-poceo-sestogodisnji-medunarodni-projekat-za-zastitu-retke-vrste-pataka/vest",
    "title": "Društvo za zaštitu i proučavanje ptica Srbije: Počeo šestogodišnji međunarodni projekat za zaštitu retke vrste pataka",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/zeleni-kutak/pocinje-projekat-zastite-pataka-ronilica/",
+   "title": "Počinje projekat zaštite pataka ronilica",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Društvo za zaštitu i proučavanje ptica Srbije: Počeo šestogodišnji međunarodni projekat za zaštitu retke vrste pataka"
+  "Društvo za zaštitu i proučavanje ptica Srbije: Počeo šestogodišnji međunarodni projekat za zaštitu retke vrste pataka",
+  "Počinje projekat zaštite pataka ronilica"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "local": false,
   "alt": "A bird dives into water, legs and tail visible",
   "link": "https://unsplash.com/@mare_alida"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

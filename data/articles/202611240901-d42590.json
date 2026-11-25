@@ -26,7 +26,7 @@
  ],
  "importance": 8,
  "published": "2026-11-24T08:01:19.541357+00:00",
- "updated": "2026-11-25T12:20:45.927340+00:00",
+ "updated": "2026-11-25T12:35:55.277131+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -2181,6 +2181,234 @@
    "url": "https://www.youtube.com/watch?v=pftVXELxSoI",
    "title": "Vučević: Hapšenje Vučićevića skandalozno, povezano sa političkim ambijentom",
    "spektar": "stranka"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/planeta/253574/cisterna-se-zapalila-na-auto-putu-u-teksasu-vozac-poginuo/vest",
+   "title": "Užasna nesreća na auto-putu u Teksasu: Plamen progutao cisternu sa gorivom, vozač poginuo zarobljen u zapaljenom vozilu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/300753/u-briselu-danas-samit-evropske-unije-i-zapadnog-balkana-glavna-tema-postepena-integracija-plan-rasta-migracije/vest",
+   "title": "U Briselu danas samit Evropske unije i Zapadnog Balkana, glavna tema postepena integracija, Plan rasta, migracije",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/zivot/voznja-zimi-auto-potrosnja-goriva/",
+   "title": "Automobil zimi troši više goriva: Evo kako da smanjite potrošnju",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/ko-je-dragan-j-vucicevic-vlasnik-informera-koji-je-danas-uhapsen-vredjao-pretio-odavao-licne-podatke-stradale-u-padu-nadstresnice-nazvao-satro-zrtvama/",
+   "title": "Ko je Dragan J. Vučićević, vlasnik Informera koji je danas uhapšen: Vređao, pretio, odavao lične podatke, stradale u padu nadstrešnice nazvao \"šatro žrtvama\"",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/sport/fudbal/10172338/zoao-feliks-dao-gol-za-tv-spice",
+   "title": "AU, ŠTA JE OVO?! DAJTE ČOVEKU \"PUŠKAŠA\": Nestvaran gol legendarnog Portugalca - makazice sa 16 metara, ovako nešto ne viđamo svaki dan! (VIDEO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287938/dvoje-mrtvih-kod-bengazija-nakon-ukrajinskog-napada/vest",
+   "title": "Sukob se širi na Mediteran?; Ukrajinski napad kod Bengazija odneo prve žrtve",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/sport/fudbal/zestoke-uvrede-i-pominjanje-svinjske-glave-slavni-fudbaler-u-zestokom-sukobu-zbog-izbora-za-tebe-ne-bi-glasali-ni-rodjaci/",
+   "title": "Žestoke uvrede i pominjanje svinjske glave - slavni fudbaler u žestokom sukobu zbog izbora: \"Za tebe ne bi glasali ni rođaci\"",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/u-poplavi-u-nelegalnom-rudniku-zlata-u-indoneziji-troje-stradalo-potraga-za-jos-23-rudara/",
+   "title": "U poplavi u nelegalnom rudniku zlata u Indoneziji troje stradalo: Potraga za još 23 rudara",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/zastitnik-gradana-pokrenuo-postupke-protiv-centra-za-socijalni-rad-mup-a-i-ministarstva-prosvete-zbog-pucnjave-u-skoli",
+   "title": "Zaštitnik građana pokrenuo postupke protiv Centra za socijalni rad, MUP-a i Ministarstva prosvete zbog pucnjave u školi",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/300878/zastitnik-gradana-pokrenuo-postupke-kontrole-povodom-pucnjave-u-kragujevackoj-skoli/vest",
+   "title": "Zaštitnik građana pokrenuo postupke kontrole povodom pucnjave u kragujevačkoj školi",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300859/ikea-preventivno-evakuisana-robna-kuca-u-beogradu-alarm-se-oglasio-zbog-tehnickih-poteskoca/vest",
+   "title": "IKEA: Preventivno evakuisana robna kuća u Beogradu ,alarm se oglasio zbog tehničkih poteškoća",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/evakuacije-iz-robne-kuce-ikea-u-beogradu-jer-se-oglasio-alarm-zbog-tehnickih-problema/",
+   "title": "Evakuacije iz robne kuće IKEA u Beogradu jer se oglasio alarm zbog tehničkih problema",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10172503/microsoft-proglasio-code-red-zbog-globalnog-incidenta",
+   "title": "Microsoft upalio crveni alarm: Prekid servisa nije bio delo hakera, niti AI",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10172533/djurdjevic-stamenkovski-istorijska-odgovornost-generacija",
+   "title": "VOJVODINI NE MOGU ODUZETI SRPSKI IDENTITET: Ministarka Stamenkovski u Novom Sadu, povodom 108. godišnjice prisajedinjenja Vojvodine Kraljevini Srbiji",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/300869/u-novom-sadu-odrzana-svecana-akademija-povodom-108-godisnjice-prisajedinjenja-vojvodine/vest",
+   "title": "U Novom Sadu održana svečana akademija povodom 108. godišnjice prisajedinjenja Vojvodine",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10172538/nemacki-vidovnjak-se-ukljucio-u-potragu-za-nestalom-tamarom-skoric",
+   "title": "U POTRAZI ZA NESTALOM TAMAROM ŠKORIĆ I NEMAC KOJI TVRDI DA JE VIDOVNJAK: Kaže da već 20 godina policiji redovno šalje svoja \"saznanja\" o nestalim osobama",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674601/hvala-vam-sto-citirate-aljbina-kurtija-okrsaj-zlatanovica-ane-brnabic-holu-skupstine",
+   "title": "„HVALA VAM ŠTO CITIRATE ALjBINA KURTIJA!“ Okršaj Zlatanovića i Ane Brnabić u holu Skupštine",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10172297/maloletnik-iz-kragujevcu-pre-pucnjave-delio-jezivi-sadrzaj",
+   "title": "\"ŠTA SE DEŠAVA KADA MU PUCAŠ U GLAVU?\" Užasavajuće objave tinejdžera koji je hteo da počini masakr u školi u Kragujevcu, a tek reč kojom je opisao sebe! (FOTO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300779/vucic-hapsenje-vucicevica-neverovatan-bezobrazluk-kakav-srbija-nije-videla/vest",
+   "title": "Vučić: Hapšenje Vučićevića neverovatan bezobrazluk kakav Srbija nije videla",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10172555/savet-za-monitoring-osudio-hapsenje-dragana-j-vucicevica",
+   "title": "\"NEDOPUSTIVO HAPŠENJE NOVINARA U SRBIJI\" Savet za monitoring traži da Evropska komisija, Savet Evrope i predstavnik OEBS-a reaguju",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173110/ans-hapsenje-dragan-j-vucicevic",
+   "title": "Crveni alarm za slobodu medija u Srbiji! ANS najoštrije osuđuje hapšenje Dragana J. Vučićevića",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300876/zavrsen-skup-podrske-draganu-j-vucicevicu-ispred-policijske-stanice-vozdovac-novo-okupljanje-u-19-casova/vest",
+   "title": "Završen skup podrške Draganu J. Vučićeviću ispred Policijske stanice Voždovac, novo okupljanje u 19 časova",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/najave-emisija/slike-zivota-nedelja-u-1515h-branicevske-noci/",
+   "title": "Slike života, nedelja u 15.15h: Braničevske noći",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/zabava/zena/10172489/profesor-psihologije-sa-jejla-tvrdi-da-je-ovo-vrhunac-emocionalne-inteligencije-u-odnosima-sa-toksic",
+   "title": "Profesor psihologije sa Jejla tvrdi da je ovo vrhunac emocionalne inteligencije u odnosima sa toksičnim ljudima: Biće poraženi bez ijedne reči",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/magazin/lifestyle/sest-godina-od-smrti-dijega-maradone-coveka-koji-je-bio-vise-od-fudbala/",
+   "title": "Šest godina od smrti Dijega Maradone - čoveka koji je bio više od fudbala",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/287982/iran-najavio-strozi-nadzor-nad-ormuzom/vest",
+   "title": "Iranska vojska pojačala borbenu gotovost; Pooštriće nadzor nad Ormuskim moreuzom",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4439619-oglasio-se-vucic-o-hapsenju-vucicevica",
+   "title": "Oglasio se Vučić o hapšenju Vučićevića",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/stars/10172565/tijana-milutinovic-zbog-pinkovih-zvezda-nije-mogla-da-otputuje-sa-muzem",
+   "title": "\"OTIŠAO JE NA DRUGI KRAJ SVETA\" Voditeljka zbog ovoga nije mogla da otputuje sa mužem, ali mu je jedno naredila: Otkrila o čemu se radi",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674507/uhapsen-dragan-vucicevic-odredjen-pritvor-oglasio-sin-advokat-skup-podrske-veceras-19h",
+   "title": "UHAPŠEN DRAGAN J. VUČIĆEVIĆ: Određen mu pritvor, oglasio se sin i advokat. Skup podrške i večeras u 19h",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/upucen-zahtev-za-ponistavanje-prenosa-vlasnistva-nad-tv-nova-i-n1-ali-i-provera-porekla-novca-kojim-je-alpak-hteo-da-kupi-medije-objavljen-kompletan-zahtev-komisiji-za-zastitu-konkurencije/",
+   "title": "Upućen zahtev za poništavanje prenosa vlasništva nad Nova, N1, Radar, Danas i provera porekla novca kojim je Alpak hteo da kupi medije: Objavljen kompletan zahtev Komisiji za zaštitu konkurencije",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/glasovi-se-kupovali-u-niskom-lokalu-na-dan-izbora-tuzilastvo-formiralo-predmet-i-nalozilo-provere/",
+   "title": "Glasovi se kupovali u niškom lokalu na dan izbora? Tužilaštvo formiralo predmet i naložilo provere",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4439604-albanci-provalili-u-rezidenciju-princa-vilijama-i-kejt-midlton-kralj-carls-treci-boravio-u-susednoj-vili",
+   "title": "Albanci provalili u rezidenciju princa Vilijama i Kejt Midlton: Kralj Čarls Treći boravio u susednoj vili",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10172542/fridrih-merc-planira-nemacki-vojni-budzet-od-200-milijardi-evra",
+   "title": "\"POKAZAĆEMO RUSIJI GDE SU NJENE GRANICE\" Merc grmi u Bundestagu! Kancelar brani pomoć Ukrajini i planira nemački vojni budžet od 200 milijardi evra! (VIDEO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/ds-podnela-krivicne-prijave-protiv-repca-i-bojovica-pripadnici-beogradske-policije-bili-na-raspolaganju-kriminalnim-strukturama-sns/",
+   "title": "DS podnela krivične prijave protiv Repca i Bojovića: \"Pripadnici beogradske policije bili na raspolaganju kriminalnim strukturama SNS\"",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4439617-ovo-je-mladi-fudbaler-24-koji-je-stradao-u-sokobanji-klub-se-oprostio-potresnom-porukom-pocivaj-u-miru",
+   "title": "Ovo je mladi fudbaler (24) koji je stradao u Sokobanji: Klub se oprostio potresnom porukom - \"Počivaj u miru\"",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/jetset/vesti-jetset/4439300-pevac-odusevio-podvigom-napravio-pravo-remek-delo-do-sitnih-detalja-uradio-maketu-manastira-visoki-decani",
+   "title": "Pevać oduševio podvigom! Napravio pravo remek delo: Do sitnih detalja uradio maketu manastira Visoki Dečani",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/sport/kosarka/foro-atraktivna-kosarkasica-se-slikala-gola-i-pricala-o-veri-pa-izazvala-burne-reakcije/",
+   "title": "FORO Atraktivna košarkašica se slikala gola i pričala o veri, pa izazvala burne reakcije",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/radikali-vredjaju-n1-protest-dragan-j-vucicevic/",
+   "title": "(VIDEO) \"Slino jedna, smeće jedno\": Radikali grubo vređali novinaraku N1 na protestu podrške Draganu J. Vučićeviću",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -2542,7 +2770,45 @@
   "Branko Ružić očekuje da registruje stranku u januaru",
   "„Došlo mi je da se vratim i održim trening za decu u srednjoj školi“: Adelman oštar nakon poraza Denvera",
   "Pokosio biciklistu (75) kod Leskovca i ostavio ga na putu: Policija brzo reagovala i uhapsila odbeglog vozača",
-  "Vučević: Hapšenje Vučićevića skandalozno, povezano sa političkim ambijentom"
+  "Vučević: Hapšenje Vučićevića skandalozno, povezano sa političkim ambijentom",
+  "Užasna nesreća na auto-putu u Teksasu: Plamen progutao cisternu sa gorivom, vozač poginuo zarobljen u zapaljenom vozilu",
+  "U Briselu danas samit Evropske unije i Zapadnog Balkana, glavna tema postepena integracija, Plan rasta, migracije",
+  "Automobil zimi troši više goriva: Evo kako da smanjite potrošnju",
+  "Ko je Dragan J. Vučićević, vlasnik Informera koji je danas uhapšen: Vređao, pretio, odavao lične podatke, stradale u padu nadstrešnice nazvao \"šatro žrtvama\"",
+  "AU, ŠTA JE OVO?! DAJTE ČOVEKU \"PUŠKAŠA\": Nestvaran gol legendarnog Portugalca - makazice sa 16 metara, ovako nešto ne viđamo svaki dan! (VIDEO)",
+  "Sukob se širi na Mediteran?; Ukrajinski napad kod Bengazija odneo prve žrtve",
+  "Žestoke uvrede i pominjanje svinjske glave - slavni fudbaler u žestokom sukobu zbog izbora: \"Za tebe ne bi glasali ni rođaci\"",
+  "U poplavi u nelegalnom rudniku zlata u Indoneziji troje stradalo: Potraga za još 23 rudara",
+  "Zaštitnik građana pokrenuo postupke protiv Centra za socijalni rad, MUP-a i Ministarstva prosvete zbog pucnjave u školi",
+  "Zaštitnik građana pokrenuo postupke kontrole povodom pucnjave u kragujevačkoj školi",
+  "IKEA: Preventivno evakuisana robna kuća u Beogradu ,alarm se oglasio zbog tehničkih poteškoća",
+  "Evakuacije iz robne kuće IKEA u Beogradu jer se oglasio alarm zbog tehničkih problema",
+  "Microsoft upalio crveni alarm: Prekid servisa nije bio delo hakera, niti AI",
+  "VOJVODINI NE MOGU ODUZETI SRPSKI IDENTITET: Ministarka Stamenkovski u Novom Sadu, povodom 108. godišnjice prisajedinjenja Vojvodine Kraljevini Srbiji",
+  "U Novom Sadu održana svečana akademija povodom 108. godišnjice prisajedinjenja Vojvodine",
+  "U POTRAZI ZA NESTALOM TAMAROM ŠKORIĆ I NEMAC KOJI TVRDI DA JE VIDOVNJAK: Kaže da već 20 godina policiji redovno šalje svoja \"saznanja\" o nestalim osobama",
+  "„HVALA VAM ŠTO CITIRATE ALjBINA KURTIJA!“ Okršaj Zlatanovića i Ane Brnabić u holu Skupštine",
+  "\"ŠTA SE DEŠAVA KADA MU PUCAŠ U GLAVU?\" Užasavajuće objave tinejdžera koji je hteo da počini masakr u školi u Kragujevcu, a tek reč kojom je opisao sebe! (FOTO)",
+  "Vučić: Hapšenje Vučićevića neverovatan bezobrazluk kakav Srbija nije videla",
+  "\"NEDOPUSTIVO HAPŠENJE NOVINARA U SRBIJI\" Savet za monitoring traži da Evropska komisija, Savet Evrope i predstavnik OEBS-a reaguju",
+  "Crveni alarm za slobodu medija u Srbiji! ANS najoštrije osuđuje hapšenje Dragana J. Vučićevića",
+  "Završen skup podrške Draganu J. Vučićeviću ispred Policijske stanice Voždovac, novo okupljanje u 19 časova",
+  "Slike života, nedelja u 15.15h: Braničevske noći",
+  "Profesor psihologije sa Jejla tvrdi da je ovo vrhunac emocionalne inteligencije u odnosima sa toksičnim ljudima: Biće poraženi bez ijedne reči",
+  "Šest godina od smrti Dijega Maradone - čoveka koji je bio više od fudbala",
+  "Iranska vojska pojačala borbenu gotovost; Pooštriće nadzor nad Ormuskim moreuzom",
+  "Oglasio se Vučić o hapšenju Vučićevića",
+  "\"OTIŠAO JE NA DRUGI KRAJ SVETA\" Voditeljka zbog ovoga nije mogla da otputuje sa mužem, ali mu je jedno naredila: Otkrila o čemu se radi",
+  "UHAPŠEN DRAGAN J. VUČIĆEVIĆ: Određen mu pritvor, oglasio se sin i advokat. Skup podrške i večeras u 19h",
+  "Upućen zahtev za poništavanje prenosa vlasništva nad Nova, N1, Radar, Danas i provera porekla novca kojim je Alpak hteo da kupi medije: Objavljen kompletan zahtev Komisiji za zaštitu konkurencije",
+  "Glasovi se kupovali u niškom lokalu na dan izbora? Tužilaštvo formiralo predmet i naložilo provere",
+  "Albanci provalili u rezidenciju princa Vilijama i Kejt Midlton: Kralj Čarls Treći boravio u susednoj vili",
+  "\"POKAZAĆEMO RUSIJI GDE SU NJENE GRANICE\" Merc grmi u Bundestagu! Kancelar brani pomoć Ukrajini i planira nemački vojni budžet od 200 milijardi evra! (VIDEO)",
+  "DS podnela krivične prijave protiv Repca i Bojovića: \"Pripadnici beogradske policije bili na raspolaganju kriminalnim strukturama SNS\"",
+  "Ovo je mladi fudbaler (24) koji je stradao u Sokobanji: Klub se oprostio potresnom porukom - \"Počivaj u miru\"",
+  "Pevać oduševio podvigom! Napravio pravo remek delo: Do sitnih detalja uradio maketu manastira Visoki Dečani",
+  "FORO Atraktivna košarkašica se slikala gola i pričala o veri, pa izazvala burne reakcije",
+  "(VIDEO) \"Slino jedna, smeće jedno\": Radikali grubo vređali novinaraku N1 na protestu podrške Draganu J. Vučićeviću"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -2555,7 +2821,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Tehni%C4%8Dka_%C5%A1kola_Zrenjanin_06.jpg",
   "alt": "Pucnjava u Tehničkoj školi u Kragujevcu, izvori se razilaze oko povređenih"
  },
- "novo_od_pisanja": 262,
+ "novo_od_pisanja": 300,
  "boost": 1.6,
  "prepisano": "2026-11-25T07:52:25.458035+00:00",
  "verzija": 10

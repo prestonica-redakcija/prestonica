@@ -25,16 +25,23 @@
  ],
  "importance": 5,
  "published": "2026-11-25T10:51:19.075874+00:00",
- "updated": "2026-11-25T10:51:19.075874+00:00",
+ "updated": "2026-11-25T12:35:55.277131+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/300804/nemacki-bdp-porastao-samo-01-odsto-u-trecem-tromesecju-2026-slabiji-od-procene/vest",
    "title": "Nemački BDP porastao samo 0,1 odsto u trećem tromesečju 2026, slabiji od procene",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253617/nemacka-privreda-porasla-01-odsto-u-trecem-tromesecju/vest",
+   "title": "Nemački BDP porastao samo 0,1 odsto u trećem tromesečju 2026, slabiji od procene",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
+  "Nemački BDP porastao samo 0,1 odsto u trećem tromesečju 2026, slabiji od procene",
   "Nemački BDP porastao samo 0,1 odsto u trećem tromesečju 2026, slabiji od procene"
  ],
  "author": "Redakcija Prestonice",
@@ -47,5 +54,7 @@
   "local": false,
   "alt": "aerial photography of city during daytime",
   "link": "https://unsplash.com/@igor_flek"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
