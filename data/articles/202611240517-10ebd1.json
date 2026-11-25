@@ -30,7 +30,7 @@
  ],
  "importance": 3,
  "published": "2026-11-24T04:17:52.650439+00:00",
- "updated": "2026-11-24T04:17:52.650439+00:00",
+ "updated": "2026-11-25T04:08:50.335633+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -43,11 +43,25 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4438404-vase-malo-nekome-znaci-mnogo-evo-gde-danas-mozete-dati-krv",
    "title": "Vaše malo nekome znači mnogo: Evo gde danas možete dati krv",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4439178-vase-malo-nekome-znaci-mnogo-evo-gde-danas-mozete-dati-krv",
+   "title": "Vaše malo nekome znači mnogo: Evo gde danas možete dati krv",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/beograd/10171671/gde-danas-mozete-dobrovoljno-da-date-krv-u-srbiji-spisak-lokacija",
+   "title": "BUDITE HUMANI I SPASITE NEKOME ŽIVOT! Evo na kojim sve lokacijama u Srbiji danas možete dobrovoljno da date krv i ko sve može biti davalac!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "SPASITE NEKOME ŽIVOT, DANAS MOŽETE DOBROVOLJNO DATI KRV! Evo spiska svih lokacija u Srbiji!",
-  "Vaše malo nekome znači mnogo: Evo gde danas možete dati krv"
+  "Vaše malo nekome znači mnogo: Evo gde danas možete dati krv",
+  "Vaše malo nekome znači mnogo: Evo gde danas možete dati krv",
+  "BUDITE HUMANI I SPASITE NEKOME ŽIVOT! Evo na kojim sve lokacijama u Srbiji danas možete dobrovoljno da date krv i ko sve može biti davalac!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +73,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Crveni_Krst_concentration_camp_(2024-09-05)_01.jpg",
   "alt": "Dobrovoljno davanje krvi danas u Valjevu i Beogradu: lokacije i satnica"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
