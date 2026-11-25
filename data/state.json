@@ -5250,18 +5250,13 @@
   "https://www.kurir.rs/zabava/zanimljivosti/10171027/ukras-koji-smo-nekada-svi-imali-na-novogodisnjoj-jelci-ponovo-je-hit": "2026-11-24T23:55:48.495044+00:00",
   "https://www.tanjug.rs/srbija/drustvo/300593/obelezen-dan-250-raketne-brigade-za-protivvazduhoplovna-dejstva/vest": "2026-11-25T00:25:34.580572+00:00",
   "https://www.kurir.rs/vesti/drustvo/10171678/obelezen-dan-250-raketne-brigade-za-pvd": "2026-11-25T00:25:34.580572+00:00",
-  "https://www.kurir.rs/vesti/srbija/10171102/eu-ulaze-7-8-miliona-evra-u-novi-sad": "2026-11-25T00:25:34.580572+00:00"
+  "https://www.kurir.rs/vesti/srbija/10171102/eu-ulaze-7-8-miliona-evra-u-novi-sad": "2026-11-25T00:25:34.580572+00:00",
+  "https://radar.nova.rs/ekonomija/privredna-komora-srbije-kamen-spoticanja/": "2026-11-25T00:55:19.285414+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-24T02:55+00:00",
-   "novih": 0,
-   "ukupno": 4200,
-   "sekundi": 432.8
-  },
   {
    "vreme": "2026-11-24T03:11+00:00",
    "novih": 0,
@@ -5615,6 +5610,12 @@
    "novih": 0,
    "ukupno": 4499,
    "sekundi": 567.7
+  },
+  {
+   "vreme": "2026-11-25T01:06+00:00",
+   "novih": 1,
+   "ukupno": 4500,
+   "sekundi": 697.1
   }
  ],
  "licnosti_foto": {
@@ -47380,6 +47381,10 @@
   "t:nato agresija 1999": {
    "t": 1795566372.800997,
    "items": []
+  },
+  "t:forum privrednika cacka": {
+   "t": 1795568156.1106455,
+   "items": []
   }
  },
  "x_objave": {
@@ -53117,7 +53122,7 @@
   "yt": "QxOLhJHQs-U",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštine Republike Srbije u Petnaestom sazivu 19.11.2026.",
-  "provereno": "2026-11-25T00:40:56.496328+00:00",
+  "provereno": "2026-11-25T00:56:20.218617+00:00",
   "uzivo_t": "2026-11-24T18:17:48.738804+00:00",
   "nedostupan": false
  },
