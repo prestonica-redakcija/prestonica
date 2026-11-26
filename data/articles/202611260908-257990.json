@@ -28,17 +28,24 @@
  ],
  "importance": 3,
  "published": "2026-11-26T08:08:30.221609+00:00",
- "updated": "2026-11-26T08:08:30.221609+00:00",
+ "updated": "2026-11-26T08:52:52.281543+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/svet/putin-godisnja-konferencija-2026/",
    "title": "Kremlj objavio kada je velika godišnja konferencija Putina: „Svako može da postavi pitanje“",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288207/putinova-godisnja-konferencija-10-decembra/vest",
+   "title": "Objavljeno kada će biti održana Putinova velika godišnja konferencija",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Kremlj objavio kada je velika godišnja konferencija Putina: „Svako može da postavi pitanje“"
+  "Kremlj objavio kada je velika godišnja konferencija Putina: „Svako može da postavi pitanje“",
+  "Objavljeno kada će biti održana Putinova velika godišnja konferencija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Putinova godišnja konferencija i direktna linija biće održane 10. decembra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

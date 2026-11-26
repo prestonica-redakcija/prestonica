@@ -1,0 +1,56 @@
+{
+ "id": "202611260952-8b4428",
+ "slug": "openai-omogucava-povezivanje-chatgpt-ja-sa-bankovnim-racunima-za-sada",
+ "kind": "vest",
+ "section": "ekonomija",
+ "headline": "OpenAI omogućava povezivanje ChatGPT-ja sa bankovnim računima, za sada u SAD",
+ "lead": "Kompanija OpenAI uvela je funkciju koja korisnicima omogućava da povežu bankovne račune sa ChatGPT-jem, koji potom analizira njihove prihode, rashode i dugovanja. Opcija je za sada dostupna samo u SAD, a stručnjaci upozoravaju na bezbednosne rizike.",
+ "body": [
+  "Kako prenosi Euronews Srbija pozivajući se na portal Kamatica, nova mogućnost obuhvata analizu prihoda, rashoda, štednje, investicija i dugovanja. Za sada je dostupna korisnicima paketa ChatGPT Pro u Sjedinjenim Državama.",
+  "Korisnici će moći da pitaju, na primer, koliko mesečno troše na hranu, račune, restorane ili putovanja i gde mogu da uštede. Navodi se i da će moći da uporede potrošnju kroz mesece, pronađu nepotrebne troškove, naprave plan štednje ili procene koliko novca mogu da izdvoje za automobil ili nekretninu.",
+  "Prema pisanju TechCrunch-a, koje prenosi Euronews Srbija, povezivanje je omogućeno preko kompanije Plaid. Ona obezbeđuje pristup podacima iz više od 12.000 finansijskih institucija, među kojima su velike američke banke, investicione platforme i izdavaoci kreditnih kartica.",
+  "Kamatica, pozivajući se na OpenAI, navodi da ChatGPT neće imati pristup kompletnim brojevima računa. Takođe neće moći da prebacuje novac niti samostalno obavlja transakcije, a njegova uloga biće ograničena na pregled i analizu podataka.",
+  "Ipak, prema navodima iz teksta, podaci o prihodima, potrošnji, dugovima i investicijama dovoljni su za detaljan finansijski profil korisnika. Stručnjaci upozoravaju da bi u slučaju curenja podataka ili neovlašćenog pristupa nalogu oni mogli da budu iskorišćeni za internet prevare, lažne poruke banaka i krađu identiteta. Upozorenja o rizicima korišćenja osetljivih podataka u sistemima veštačke inteligencije iznosi i profesor Univerziteta u Ilinoisu Gang Vang.",
+  "Euronews Srbija navodi da za sada nije poznato kada bi opcija mogla da bude dostupna na drugim tržištima, uključujući Srbiju."
+ ],
+ "tags": [
+  "OpenAI",
+  "ChatGPT",
+  "bankovni računi",
+  "veštačka inteligencija",
+  "bezbednost podataka",
+  "Plaid"
+ ],
+ "people": [
+  "Gang Vang"
+ ],
+ "places": [
+  "Sjedinjene Američke Države",
+  "Srbija"
+ ],
+ "importance": 4,
+ "published": "2026-11-26T08:52:52.281543+00:00",
+ "updated": "2026-11-26T08:52:52.281543+00:00",
+ "sources": [
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253749/openai-povezuje-chatgpt-sa-bankovnim-racunima-u-sad/vest",
+   "title": "Chat gpt dobija pristup bankovnim računama - analiziraće bankovne račune, potrošnju i dugove",
+   "spektar": "centar"
+  }
+ ],
+ "source_titles": [
+  "Chat gpt dobija pristup bankovnim računama - analiziraće bankovne račune, potrošnju i dugove"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 3.322,
+ "image": {
+  "src": "https://images.unsplash.com/photo-1744900647430-965ccc7a6078?ixid=M3wxMTQwNDIwfDB8MXxzZWFyY2h8MXx8c21hcnRwaG9uZSUyMGJhbmtpbmclMjBhcHAlMjBhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlfGVufDF8MHx8fDE3OTU2ODMyMzN8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+  "credit": "Unsplash / Aerps.com",
+  "ilustracija": true,
+  "local": false,
+  "alt": "A hand holds a smartphone with various apps",
+  "link": "https://unsplash.com/@almoya"
+ }
+}
