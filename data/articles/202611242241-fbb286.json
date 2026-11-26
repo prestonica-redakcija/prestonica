@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-24T21:41:40.191274+00:00",
- "updated": "2026-11-25T23:02:14.184226+00:00",
+ "updated": "2026-11-26T06:52:02.295680+00:00",
  "sources": [
   {
    "name": "N1",
@@ -43,11 +43,18 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/300985/pocelo-odnosenje-nagomilanog-komunalnog-otpada-sa-teritorije-grada-smedereva/vest",
    "title": "Počelo odnošenje nagomilanog komunalnog otpada sa teritorije grada Smedereva",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/drustvo/pocelo-odnosenje-nagomilanog-komunalnog-otpada-u-smederevu-u-toku-i-dezinfekcija-javnih-povrsina",
+   "title": "Posle deset dana počelo odnošenje nagomilanog smeća i komunalnog otpada u Smederevu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Grad Smederevo: Odvoz nagomilanog otpada počinje u sredu, potpisan ugovor sa firmom \"FCC EKO\"",
-  "Počelo odnošenje nagomilanog komunalnog otpada sa teritorije grada Smedereva"
+  "Počelo odnošenje nagomilanog komunalnog otpada sa teritorije grada Smedereva",
+  "Posle deset dana počelo odnošenje nagomilanog smeća i komunalnog otpada u Smederevu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,6 +67,6 @@
   "alt": "people collecting trash in garbage truck",
   "link": "https://unsplash.com/@zibik"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

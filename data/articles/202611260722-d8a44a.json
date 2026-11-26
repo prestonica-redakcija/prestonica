@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-26T06:37:04.447175+00:00",
+ "updated": "2026-11-26T06:52:02.295680+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -64,6 +64,18 @@
    "url": "https://n1info.rs/vesti/gori-tehnomanija-na-novom-beogradu-gasenje-otezava-jak-vetar/",
    "title": "Gori \"Tehnomanija\" na Novom Beogradu, gašenje otežava jak vetar",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/288172/ogroman-pozar-u-novom-beogradu-gori-poznata-prodavnica-bele-tehnike-jak-vetar-otezava-gasenje-video/vest",
+   "title": "Ogroman požar u Novom Beogradu; Gori poznata prodavnica bele tehnike, jak vetar otežava gašenje VIDEO",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/prvi-snimci-pozara-u-tehnomaniji-na-novom-beogradu-video/",
+   "title": "Prvi snimci požara u Tehnomaniji na Novom Beogradu VIDEO",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -72,7 +84,9 @@
   "VELIKI POŽAR U NOVOM BEOGRADU U BLOKU 70A: Gori prodavnica tehnike prekoputa Delta sitija, obustavljen saobraćaj u delu Jurija Gagarina u smeru ka gradu",
   "Ogroman požar na Novom Beogradu: Gori Tehnomanija, vatrogasci na terenu",
   "Gori \"Tehnomanija\" na Novom Beogradu: Vatra zahvatila veliku površinu prodavnice, vetar otežava gašenje, policija blokirala saobraćaj u tom delu",
-  "Gori \"Tehnomanija\" na Novom Beogradu, gašenje otežava jak vetar"
+  "Gori \"Tehnomanija\" na Novom Beogradu, gašenje otežava jak vetar",
+  "Ogroman požar u Novom Beogradu; Gori poznata prodavnica bele tehnike, jak vetar otežava gašenje VIDEO",
+  "Prvi snimci požara u Tehnomaniji na Novom Beogradu VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -85,6 +99,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

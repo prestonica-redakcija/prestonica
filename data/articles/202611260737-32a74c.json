@@ -24,7 +24,7 @@
  ],
  "importance": 2,
  "published": "2026-11-26T06:37:04.447175+00:00",
- "updated": "2026-11-26T06:37:04.447175+00:00",
+ "updated": "2026-11-26T06:52:02.295680+00:00",
  "sources": [
   {
    "name": "N1",
@@ -49,13 +49,27 @@
    "url": "https://www.telegraf.rs/vesti/beograd/4439978-hitna-u-beogradu-tokom-noci-tri-saobracajne-nesrece-cetiri-osobe-lakse-povredjene",
    "title": "Hitna: U Beogradu tokom noći tri saobraćajne nesreće, četiri osobe lakše povređene",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301086/najmanje-sedam-osoba-povredeno-u-ruskom-napadu-na-kijev-tokom-noci/vest",
+   "title": "Najmanje sedam osoba povređeno u ruskom napadu na Kijev tokom noći",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/hitna-pomoc-u-beogradu-tokom-noci-tri-saobracajne-nesrece-cetiri-osobe-lakse-povredene",
+   "title": "Hitna pomoć: U Beogradu tokom noći tri saobraćajne nesreće, četiri osobe lakše povređene",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Četiri osobe povređene u tri udesa tokom noći u Beogradu",
   "U Beogradu tokom noći tri saobraćajne nesreće, četiri osobe povređene",
   "Četiri osobe povređene u tri saobraćajne nezgode prethodne noći u Beogradu",
-  "Hitna: U Beogradu tokom noći tri saobraćajne nesreće, četiri osobe lakše povređene"
+  "Hitna: U Beogradu tokom noći tri saobraćajne nesreće, četiri osobe lakše povređene",
+  "Najmanje sedam osoba povređeno u ruskom napadu na Kijev tokom noći",
+  "Hitna pomoć: U Beogradu tokom noći tri saobraćajne nesreće, četiri osobe lakše povređene"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,5 +81,7 @@
   "local": false,
   "alt": "red vehicle in timelapse photography",
   "link": "https://unsplash.com/@camstejim"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -30,17 +30,24 @@
  ],
  "importance": 4,
  "published": "2026-11-26T01:04:52.951841+00:00",
- "updated": "2026-11-26T01:04:52.951841+00:00",
+ "updated": "2026-11-26T06:52:02.295680+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/301063/volstrit-dzornal-americke-sluzbe-nemaju-dokaze-da-je-kina-naredila-spijuniranje-direktora-envidije/vest",
    "title": "Volstrit džornal: Američke službe nemaju dokaze da je Kina naredila špijuniranje direktora Envidije",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301089/sluzbe-sad-podeljene-oko-navoda-o-kineskoj-spijunazi-povezanoj-sa-direktorom-envidije/vest",
+   "title": "Službe SAD podeljene oko navoda o kineskoj špijunaži povezanoj sa direktorom Envidije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Volstrit džornal: Američke službe nemaju dokaze da je Kina naredila špijuniranje direktora Envidije"
+  "Volstrit džornal: Američke službe nemaju dokaze da je Kina naredila špijuniranje direktora Envidije",
+  "Službe SAD podeljene oko navoda o kineskoj špijunaži povezanoj sa direktorom Envidije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "Nighttime city street with illuminated signs and bare trees",
   "link": "https://unsplash.com/@ferrothorn"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

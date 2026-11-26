@@ -30,17 +30,24 @@
  ],
  "importance": 4,
  "published": "2026-11-25T12:05:51.952563+00:00",
- "updated": "2026-11-25T12:05:51.952563+00:00",
+ "updated": "2026-11-26T06:52:02.295680+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/tramp-pomilovanje-za-dzensena-huanga-je-uvek-opcija-ali-verovatno-nece-biti-potrebno",
    "title": "Tramp: Pomilovanje za Džensena Huanga je uvek opcija, ali verovatno neće biti potrebno",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301087/vens-dzensenu-huangu-nije-potrebno-pomilovanje-nije-pod-istragom/vest",
+   "title": "Vens: Džensenu Huangu nije potrebno pomilovanje, nije pod istragom",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Tramp: Pomilovanje za Džensena Huanga je uvek opcija, ali verovatno neće biti potrebno"
+  "Tramp: Pomilovanje za Džensena Huanga je uvek opcija, ali verovatno neće biti potrebno",
+  "Vens: Džensenu Huangu nije potrebno pomilovanje, nije pod istragom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "Nighttime city street with illuminated signs and bare trees",
   "link": "https://unsplash.com/@ferrothorn"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T01:04:52.951841+00:00",
- "updated": "2026-11-26T06:37:04.447175+00:00",
+ "updated": "2026-11-26T06:52:02.295680+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -43,10 +43,17 @@
    "url": "https://www.danas.rs/svet/kako-to-da-nemacke-kompanije-ne-napustaju-ukrajinu/",
    "title": "Kako to da nemačke kompanije ne napuštaju Ukrajinu?",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/kako-to-da-nemacke-kompanije-ne-napustaju-ukrajinu/",
+   "title": "Kako to da nemačke kompanije ne napuštaju Ukrajinu?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "VUČIĆ: \"Drekslmajer napušta Zrenjanin, u kompaniji radi 1.220 ljudi\"",
+  "Kako to da nemačke kompanije ne napuštaju Ukrajinu?",
   "Kako to da nemačke kompanije ne napuštaju Ukrajinu?"
  ],
  "author": "Redakcija Prestonice",
@@ -62,6 +69,6 @@
   "izvor_x": true,
   "alt": "Vučić: Drekslmajer napušta Zrenjanin, u kompaniji radi 1.220 ljudi"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

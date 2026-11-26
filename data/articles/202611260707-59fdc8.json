@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T06:07:23.074382+00:00",
- "updated": "2026-11-26T06:37:04.447175+00:00",
+ "updated": "2026-11-26T06:52:02.295680+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -54,13 +54,20 @@
    "url": "https://nova.rs/vesti/drustvo/amss-kisa-niska-temperatura-i-jaki-udari-vetra/",
    "title": "AMSS: Kiša, niska temperatura i jaki udari vetra",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/amss-kisa-niska-temperatura-i-jaki-udari-vetra-otezavaju-voznju/",
+   "title": "AMSS: Kiša, niska temperatura i jaki udari vetra otežavaju vožnju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "U Srbiji danas oblačno i vetrovito, temperature do 12 stepeni",
   "Danas kišovito i malo toplije, temperatura do 12 stepeni: Evo gde se očekuju olujni udari vetra od 100 km/h",
   "U Srbiji danas kišovito, na istoku ledena kiša, maksimalno do 12 stepeni",
-  "AMSS: Kiša, niska temperatura i jaki udari vetra"
+  "AMSS: Kiša, niska temperatura i jaki udari vetra",
+  "AMSS: Kiša, niska temperatura i jaki udari vetra otežavaju vožnju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "alt": "people walking on street in rainy day",
   "link": "https://unsplash.com/@gileres"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

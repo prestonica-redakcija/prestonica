@@ -34,7 +34,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T01:36:38.441667+00:00",
- "updated": "2026-11-26T01:36:38.441667+00:00",
+ "updated": "2026-11-26T06:52:02.295680+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,11 +47,18 @@
    "url": "https://www.euronews.rs/svet/planeta/253683/dzej-di-vens-za-dan-zahvalnosti-u-bazi-rajt-paterson/vest",
    "title": "Džej Di Vens sa porodicom služiće ćuretinu američkim vojnicima za Dan zahvalnosti",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4439998-dzej-di-vens-sa-zenom-i-decom-sluzio-praznicni-rucak-vojnicima-dan-zahvalnosti-u-ohaju",
+   "title": "Džej Di Vens sa ženom i decom služio praznični ručak vojnicima: Dan zahvalnosti u Ohaju",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Džej Di Vens sa porodicom posluživao praznični ručak američkim vojnicima u Ohaju",
-  "Džej Di Vens sa porodicom služiće ćuretinu američkim vojnicima za Dan zahvalnosti"
+  "Džej Di Vens sa porodicom služiće ćuretinu američkim vojnicima za Dan zahvalnosti",
+  "Džej Di Vens sa ženom i decom služio praznični ručak vojnicima: Dan zahvalnosti u Ohaju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +70,7 @@
   "local": false,
   "alt": "white ceramic bowl with rice and green vegetable",
   "link": "https://unsplash.com/@meganwatson"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
