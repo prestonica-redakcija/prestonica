@@ -34,7 +34,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T17:20:53.866188+00:00",
- "updated": "2026-11-26T22:16:39.173534+00:00",
+ "updated": "2026-11-26T22:48:39.221071+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -77,6 +77,12 @@
    "url": "https://www.euronews.rs/svet/planeta/253868/sad-otkazano-skoro-400-letova-zbog-oluja-za-dan-zahvalnosti/vest",
    "title": "Nevreme poremetilo aviosaobraćaj u SAD: Otkazano skoro 400 letova, na hiljade putnika zaglavljeno na aerodromima",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288489/oluja-paralisala-ameriku-proglaseno-vanredno-stanje-u-dve-drzave/vest",
+   "title": "Amerika na udaru snažne oluje: Više od 800.000 ljudi bez struje; Dve države proglasile vanredno stanje VIDEO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -86,7 +92,8 @@
   "NEVREME U SAD PARALISALO AERODROME: Otkazano i odloženo više od 1.600 letova tokom proslave Dana zahvalnosti",
   "NEVREME U SAD PARALISALO AERODROME: Otkazano i odloženo više od 1.600 letova tokom proslave Dana zahvalnosti",
   "Više stotina letova širom SAD-a otkazano, a više od 1.500 kasni zbog oluja",
-  "Nevreme poremetilo aviosaobraćaj u SAD: Otkazano skoro 400 letova, na hiljade putnika zaglavljeno na aerodromima"
+  "Nevreme poremetilo aviosaobraćaj u SAD: Otkazano skoro 400 letova, na hiljade putnika zaglavljeno na aerodromima",
+  "Amerika na udaru snažne oluje: Više od 800.000 ljudi bez struje; Dve države proglasile vanredno stanje VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -99,8 +106,8 @@
   "alt": "a car driving down a snow covered street",
   "link": "https://unsplash.com/@clayleconey"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-26T22:16:39.173534+00:00",
  "verzija": 2
 }
