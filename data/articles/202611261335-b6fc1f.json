@@ -35,7 +35,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T12:35:38.207926+00:00",
- "updated": "2026-11-26T20:45:20.797882+00:00",
+ "updated": "2026-11-26T21:00:06.042454+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -72,6 +72,12 @@
    "url": "https://www.danas.rs/svet/naseru-oricu-sljivic-odredjen-pritvor/",
    "title": "Naseru Oriću i Nikolini Šljivić određen pritvor do 30 dana",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/region/naseru-oricu-i-nikolini-sljivic-odredjen-pritvor/",
+   "title": "Naseru Oriću i Nikolini Šljivić određen pritvor",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -80,7 +86,8 @@
   "Naseru Oriću i Nikolini Šljivić određen pritvor",
   "Određen pritvor Naseru Oriću i ostalim uhapšenima",
   "NASER ORIĆ U PRITVORU 30 DANA: Okružni sud u Banjaluci doneo meru za ratnog zločinca i ostale uhapšene u slučaju \"Emisar\"",
-  "Naseru Oriću i Nikolini Šljivić određen pritvor do 30 dana"
+  "Naseru Oriću i Nikolini Šljivić određen pritvor do 30 dana",
+  "Naseru Oriću i Nikolini Šljivić određen pritvor"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -93,8 +100,8 @@
   "alt": "Two royal guards march past a red sentry box",
   "link": "https://unsplash.com/@cheeseandwine"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-26T20:45:20.797882+00:00",
  "verzija": 2
 }

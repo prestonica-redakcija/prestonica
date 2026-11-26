@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-26T20:45:20.797882+00:00",
+ "updated": "2026-11-26T21:00:06.042454+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -357,6 +357,12 @@
    "url": "https://nova.rs/vesti/hronika/saznajemo-vlasniku-informera-odredjen-pritvor/",
    "title": "SAZNAJEMO Vlasniku \"Informera\" određen pritvor",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173587/dragan-j-vucicevic-pritvor-centralni-zatvor",
+   "title": "PRVI SNIMAK! Dragan J. Vučićević dovezen u Centralni zatvor nakon skandalozne odluke o pritvoru! (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -413,7 +419,8 @@
   "Vučićeviću određen pritvor do 30 dana",
   "Vučićeviću određen pritvor do 30 dana, njegov advokat: Na putu je ka CZ-u",
   "Draganu J. Vučićeviću određen pritvor do 30 dana",
-  "SAZNAJEMO Vlasniku \"Informera\" određen pritvor"
+  "SAZNAJEMO Vlasniku \"Informera\" određen pritvor",
+  "PRVI SNIMAK! Dragan J. Vučićević dovezen u Centralni zatvor nakon skandalozne odluke o pritvoru! (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -426,7 +433,7 @@
   "alt": "Car entering a brightly lit tunnel at night",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-26T20:45:20.797882+00:00",
  "verzija": 10
