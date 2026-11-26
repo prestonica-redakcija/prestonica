@@ -3,21 +3,21 @@
  "slug": "kamioni-na-kelebiji-na-izlazu-iz-srbije-cekaju-do-cetiri-sata-putnici",
  "kind": "vest",
  "section": "drustvo",
- "headline": "Kamioni na Kelebiji na izlazu iz Srbije čekaju do četiri sata, putnici bez zadržavanja",
- "lead": "Na graničnim prelazima u Srbiji jutros nema zadržavanja na putničkim terminalima, dok teretna vozila na izlazu iz zemlje na pojedinim prelazima čekaju i do četiri sata. Podatke je saopštio Auto-moto savez Srbije.",
+ "headline": "Kamioni na Horgošu na izlazu iz Srbije čekaju četiri sata, putnici bez zadržavanja",
+ "lead": "Prema najnovijim podacima AMSS-a iz 17:15, teretna vozila najduže čekaju na prelazu Horgoš na izlazu iz zemlje, četiri sata, dok na putničkim terminalima nema zadržavanja. Ujutru je najduže čekanje bilo na Kelebiji.",
  "body": [
-  "Kako prenosi Tanjug, pozivajući se na saopštenje Auto-moto saveza Srbije, putnička vozila jutros na graniči prelazima ne čekaju.",
-  "Prema informacijama Uprave granične policije dobijenim u 5 časova, na prelazu Kelebija kamioni na izlazu čekaju četiri sata. Na Horgošu je zadržavanje tri sata.",
-  "Na prelazu Sremska Rača zadržavanje teretnih vozila iznosi 160 minuta.",
-  "Na ostalim graniČnim prelazima, navodi se u saopštenju, nema dužih zadržavanja."
+  "Prema informacijama Uprave granične policije dobijenim u 17:15, na putničkim terminalima graničnih prelaza u Srbiji nema zadržavanja, saopštio je Auto-moto savez Srbije (AMSS), kako prenose Tanjug, Telegraf i Kurir.",
+  "Kamioni najduže čekaju na prelazu Horgoš, na izlazu iz zemlje, četiri sata. Na Kelebiji teretna vozila na izlazu čekaju tri sata, a na prelazu Sremska Rača 60 minuta.",
+  "Na ostalim graničnim prelazima, navodi se u saopštenju, nema dužih zadržavanja.",
+  "Stanje se u toku dana promenilo. Prema jutarnjim podacima Uprave granične policije iz 5 časova, koje je prenosio Tanjug pozivajući se na AMSS, kamioni na Kelebiji čekali su četiri sata, na Horgošu tri sata, a na Sremskoj Rači 160 minuta. Putnička vozila i tada nisu čekala."
  ],
  "tags": [
   "granični prelazi",
-  "Kelebija",
+  "AMSS",
   "Horgoš",
-  "Sremska Rača",
+  "Kelebija",
   "teretna vozila",
-  "AMSS"
+  "Sremska Rača"
  ],
  "people": [],
  "places": [
@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T06:07:23.074382+00:00",
- "updated": "2026-11-26T07:06:54.320153+00:00",
+ "updated": "2026-11-26T17:54:07.703046+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,32 @@
    "url": "https://insajder.net/prenosimo/amss-teretnjaci-na-kelebiji-cekaju-do-cetiri-satana-putnickim-terminalima-bez-zadrzavanja",
    "title": "AMSS: Teretnjaci na Kelebiji čekaju do četiri sata,na putničkim terminalima bez zadržavanja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301310/amss-kamioni-na-granicnom-prelazu-horgos-cekaju-cetiri-sata-nema-zadrzavanja-putnickih-vozila-na-granici/vest",
+   "title": "AMSS: Kamioni na graničnom prelazu Horgoš čekaju četiri sata, nema zadržavanja putničkih vozila na granici",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4440519-kamioni-na-horgosu-cekaju-cetiri-sata-nema-zadrzavanja-putnickih-vozila-na-granici",
+   "title": "Kamioni na Horgošu čekaju četiri sata, nema zadržavanja putničkih vozila na granici",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10174082/kamioni-cekanje-granicni-prelazi-horgos-kelebija",
+   "title": "Kamioni čekaju satima na izlazu iz Srbije: AMSS objavio stanje na granicama tokom večeri",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Teretnjaci na Kelebiji čekaju do četiri sata, na putničkim terminalima bez zadržavanja",
-  "AMSS: Teretnjaci na Kelebiji čekaju do četiri sata,na putničkim terminalima bez zadržavanja"
+  "AMSS: Teretnjaci na Kelebiji čekaju do četiri sata,na putničkim terminalima bez zadržavanja",
+  "AMSS: Kamioni na graničnom prelazu Horgoš čekaju četiri sata, nema zadržavanja putničkih vozila na granici",
+  "Kamioni na Horgošu čekaju četiri sata, nema zadržavanja putničkih vozila na granici",
+  "Kamioni čekaju satima na izlazu iz Srbije: AMSS objavio stanje na granicama tokom večeri"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +79,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Sremska_Ra%C4%8Da_0011_(7).jpg",
   "alt": "Kamioni na Kelebiji na izlazu iz Srbije čekaju do četiri sata, putnici bez zadržavanja"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 0,
+ "boost": 1.32,
+ "prepisano": "2026-11-26T17:54:07.703046+00:00",
+ "verzija": 2
 }

@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T07:06:54.320153+00:00",
- "updated": "2026-11-26T07:53:18.497760+00:00",
+ "updated": "2026-11-26T17:54:07.703046+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -50,12 +50,19 @@
    "url": "https://n1info.rs/vesti/ssp-komisija-za-reviziju-birackog-spiska-utvrdila-kradju-izbora-u-beogradu-2023-godine/",
    "title": "SSP: Komisija za reviziju biračkog spiska utvrdila krađu izbora u Beogradu 2023. godine",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/teme/ana-godevac-o-izvestaju-komisije-za-reviziju-birackog-spiska-uocena-dva-obrasca-nepravilnosti-u-vezi-sa-beogradskim-izborima-2023-godine-video",
+   "title": "Gođevac o izveštaju Komisije za reviziju biračkog spiska: Uočena dva obrasca nepravilnosti u vezi sa beogradskim izborima 2023. godine (VIDEO)",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "\"Komisija za reviziju biračkog spiska zvanično utvrdila krađu izbora 2023. u Beogradu, ovo je dokaz\"",
   "SSP: Komisija za reviziju biračkog spiska utvrdila krađu izbora u Beogradu 2023.",
-  "SSP: Komisija za reviziju biračkog spiska utvrdila krađu izbora u Beogradu 2023. godine"
+  "SSP: Komisija za reviziju biračkog spiska utvrdila krađu izbora u Beogradu 2023. godine",
+  "Gođevac o izveštaju Komisije za reviziju biračkog spiska: Uočena dva obrasca nepravilnosti u vezi sa beogradskim izborima 2023. godine (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "alt": "a sign on a sidewalk in front of a building",
   "link": "https://unsplash.com/@oksdesign"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

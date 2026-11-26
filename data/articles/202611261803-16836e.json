@@ -33,7 +33,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T17:03:44.772604+00:00",
- "updated": "2026-11-26T17:37:53.758490+00:00",
+ "updated": "2026-11-26T17:54:07.703046+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -52,10 +52,17 @@
    "url": "https://n1info.rs/vesti/rik-utvrdjeni-rezultati-izbora-za-nacionalne-savete-albanske-madjarske-i-bunjevacke-manjine/",
    "title": "RIK: Utvrđeni rezultati izbora za nacionalne savete albanske, mađarske i bunjevačke manjine",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/rik-utvrdeni-rezultati-izbora-za-nacionalne-savete-albanske-madarske-i-bunjevacke-manjine",
+   "title": "RIK: Utvrđeni rezultati izbora za nacionalne savete albanske, mađarske i bunjevačke manjine",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Usvojen izveštaj o izborima za savete albanske, bunjevačke i mađarske manjine",
+  "RIK: Utvrđeni rezultati izbora za nacionalne savete albanske, mađarske i bunjevačke manjine",
   "RIK: Utvrđeni rezultati izbora za nacionalne savete albanske, mađarske i bunjevačke manjine",
   "RIK: Utvrđeni rezultati izbora za nacionalne savete albanske, mađarske i bunjevačke manjine"
  ],
@@ -69,6 +76,6 @@
   "local": true,
   "alt": "RIK usvojio izveštaj o izborima za nacionalne savete albanske, bunjevačke i mađarske manjine"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
