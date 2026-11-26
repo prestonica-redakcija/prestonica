@@ -36,7 +36,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-26T10:43:27.881389+00:00",
+ "updated": "2026-11-26T17:37:53.758490+00:00",
  "sources": [
   {
    "name": "B92",
@@ -55,12 +55,19 @@
    "url": "https://www.telegraf.rs/vesti/svet/4440063-rusija-pretila-nuklearnim-napadom-na-baltiku-dvojica-evropskih-lidera-tajnim-kanalima-stigla-do-putina",
    "title": "Rusija pretila nuklearnim napadom na Baltiku: Dvojica evropskih lidera tajnim kanalima stigla do Putina",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/tajnim-pregovorima-sprecen-nuklearni-napad-na-baltik-rusija-i-nato-bili-na-korak-od-direktnog-rata/",
+   "title": "Tajnim pregovorima sprečen nuklearni napad na Baltik? Rusija i NATO bili na korak od direktnog rata",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Tajni kanal komunikacije sa Putinom: Sprečen nuklearni udar?",
   "RUSIJA ZAPRETILA PREVENTIVNIM NUKLEARNIM UDAROM NA BALTIKU! Finska i Norveška tajnim kanalom došle do Putina - ko je misteriozni oligarh koji je sprečio pakao?",
-  "Rusija pretila nuklearnim napadom na Baltiku: Dvojica evropskih lidera tajnim kanalima stigla do Putina"
+  "Rusija pretila nuklearnim napadom na Baltiku: Dvojica evropskih lidera tajnim kanalima stigla do Putina",
+  "Tajnim pregovorima sprečen nuklearni napad na Baltik? Rusija i NATO bili na korak od direktnog rata"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "alt": "a large red and white ship",
   "link": "https://unsplash.com/@asyarey"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

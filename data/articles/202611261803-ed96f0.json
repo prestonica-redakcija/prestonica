@@ -26,16 +26,23 @@
  ],
  "importance": 4,
  "published": "2026-11-26T17:03:44.772604+00:00",
- "updated": "2026-11-26T17:03:44.772604+00:00",
+ "updated": "2026-11-26T17:37:53.758490+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/ekonomija/gradska-uprava-novog-pazara-odustala-od-kupovine-led-svetiljki-nakon-kritika-da-je-tender-namesten/",
    "title": "Gradska uprava Novog Pazara odustala od kupovine LED svetiljki nakon kritika da je tender namešten",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/gradska-uprava-novog-pazara-odustala-od-kupovine-led-svetiljki-nakon-kritika-da-je-tender-namesten/",
+   "title": "Gradska uprava Novog Pazara odustala od kupovine LED svetiljki nakon kritika da je tender namešten",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Gradska uprava Novog Pazara odustala od kupovine LED svetiljki nakon kritika da je tender namešten",
   "Gradska uprava Novog Pazara odustala od kupovine LED svetiljki nakon kritika da je tender namešten"
  ],
  "author": "Redakcija Prestonice",
@@ -48,5 +55,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:%D0%90%D1%83%D0%B3%D1%83%D1%81%D1%82_2025_-_Views_of_Novi_Pazar_02.jpg",
   "alt": "Novi Pazar obustavio tender za LED svetiljke posle žalbi ponuđača i plaćenih naknada"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

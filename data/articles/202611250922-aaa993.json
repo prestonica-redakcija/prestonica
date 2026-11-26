@@ -36,7 +36,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T08:22:23.862038+00:00",
- "updated": "2026-11-25T23:02:14.184226+00:00",
+ "updated": "2026-11-26T17:37:53.758490+00:00",
  "sources": [
   {
    "name": "N1",
@@ -49,11 +49,18 @@
    "url": "https://www.danas.rs/svet/srpka-politicarka-i-bosnjacki-komandant-u-zastiti-podzemlja/",
    "title": "Srpska političarka i bošnjački komandant u zaštiti podzemlja?",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4440514-tuzilastvo-trazi-pritvor-za-nasera-orica-zbog-teskih-krivicnih-sumnji",
+   "title": "Oglasilo se Tužilaštvo Republike Srpske zbog hapšenja Nasera Orića i Nikoline Šljivić",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "DW: Srpska političarka i bošnjački komandant u zaštiti podzemlja?",
-  "Srpska političarka i bošnjački komandant u zaštiti podzemlja?"
+  "Srpska političarka i bošnjački komandant u zaštiti podzemlja?",
+  "Oglasilo se Tužilaštvo Republike Srpske zbog hapšenja Nasera Orića i Nikoline Šljivić"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,6 @@
   "osoba": "Naser Orić",
   "alt": "Uhapšeni Naser Orić i Nikolina Šljivić u istrazi o pomaganju odbeglom Đorđu Ždrali"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

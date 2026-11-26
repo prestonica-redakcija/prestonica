@@ -32,7 +32,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T16:17:51.241334+00:00",
- "updated": "2026-11-26T16:17:51.241334+00:00",
+ "updated": "2026-11-26T17:37:53.758490+00:00",
  "sources": [
   {
    "name": "N1",
@@ -45,11 +45,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4440442-umesto-kolevke-ponovo-crnina-andrija-cekao-sina-pa-otisao-kod-brata-stefana-sutra-dan-zalosti-u-v-plani",
    "title": "Nije dočekao ni da mu čuje prvi plač! Andrija Filić objavio da čeka sina, pa umro: Sutra Dan žalosti u Plani",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/sutra-dan-zalosti-u-velikoj-plani-zbog-tragicne-smrti-andrije-filica/",
+   "title": "Sutra Dan žalosti u Velikoj Plani zbog tragične smrti Andrije Filića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "U Velikoj Plani u petak Dan žalosti zbog smrti Andrije Filića, brata mladića ubijenog u tuči 2020.",
-  "Nije dočekao ni da mu čuje prvi plač! Andrija Filić objavio da čeka sina, pa umro: Sutra Dan žalosti u Plani"
+  "Nije dočekao ni da mu čuje prvi plač! Andrija Filić objavio da čeka sina, pa umro: Sutra Dan žalosti u Plani",
+  "Sutra Dan žalosti u Velikoj Plani zbog tragične smrti Andrije Filića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "local": false,
   "alt": "us a flag on pole under cloudy sky",
   "link": "https://unsplash.com/@istrfry"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

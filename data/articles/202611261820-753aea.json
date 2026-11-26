@@ -26,17 +26,24 @@
  ],
  "importance": 5,
  "published": "2026-11-26T17:20:53.866188+00:00",
- "updated": "2026-11-26T17:20:53.866188+00:00",
+ "updated": "2026-11-26T17:37:53.758490+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1675090/smece-dalje-zatrpava-ulice-smedereva-prepuni-kontejneri-gomile-otpada-trotoarima",
    "title": "SMEĆE I DALjE ZATRPAVA ULICE SMEDEREVA: Prepuni kontejneri i gomile otpada na trotoarima",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1675090/smece-dalje-zatrpava-ulice-smedereva-prepuni-kontejneri-gomile-otpada-trotoarima-video",
+   "title": "SMEĆE I DALjE ZATRPAVA ULICE SMEDEREVA: Prepuni kontejneri i gomile otpada na trotoarima (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "SMEĆE I DALjE ZATRPAVA ULICE SMEDEREVA: Prepuni kontejneri i gomile otpada na trotoarima"
+  "SMEĆE I DALjE ZATRPAVA ULICE SMEDEREVA: Prepuni kontejneri i gomile otpada na trotoarima",
+  "SMEĆE I DALjE ZATRPAVA ULICE SMEDEREVA: Prepuni kontejneri i gomile otpada na trotoarima (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Jelen_Do,_stari_nadgrobni_spomenici_33.jpg",
   "alt": "Smederevo: i dalje prepuni kontejneri i gomile otpada na trotoarima, navode Novosti"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

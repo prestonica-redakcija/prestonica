@@ -28,17 +28,31 @@
  ],
  "importance": 5,
  "published": "2026-11-26T17:20:53.866188+00:00",
- "updated": "2026-11-26T17:20:53.866188+00:00",
+ "updated": "2026-11-26T17:37:53.758490+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/zadrzan-zbog-sumnje-na-ometanje-pravde-mediji-prenose-da-je-rec-o-vodji-navijaca-zvezde/",
    "title": "Zadržan zbog sumnje na ometanje pravde, mediji prenose da je reč o vođi navijača Zvezde",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/288396/po-nalogu-treceg-ojt-u-beogradu-odredjen-pritvor-osumnjicenom-zbog-ometanja-pravde/vest",
+   "title": "Po nalogu Trećeg OJT u Beogradu: Određen pritvor osumnjičenom zbog ometanja pravde",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301307/trece-osnovno-javno-tuzilastvo-pritvor-muskarcu-zbog-ometanja-pravde-mediji-tvrde-da-je-voda-navijaca-crvene-zvezde/vest",
+   "title": "Treće osnovno javno tužilaštvo: Pritvor muškarcu zbog ometanja pravde, mediji tvrde da je vođa navijača Crvene zvezde",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Zadržan zbog sumnje na ometanje pravde, mediji prenose da je reč o vođi navijača Zvezde"
+  "Zadržan zbog sumnje na ometanje pravde, mediji prenose da je reč o vođi navijača Zvezde",
+  "Po nalogu Trećeg OJT u Beogradu: Određen pritvor osumnjičenom zbog ometanja pravde",
+  "Treće osnovno javno tužilaštvo: Pritvor muškarcu zbog ometanja pravde, mediji tvrde da je vođa navijača Crvene zvezde"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +64,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:NesOne,_Hogar_(%D0%A5%D0%BE%D0%B3%D0%B0%D1%80,_H%C3%A4gar_the_Horrible),_Blok_45,_Novi_Beograd,_2019.jpg",
   "alt": "Zadržavanje do 48 sati zbog sumnje na ometanje pravde, mediji pominju vođu navijača"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
