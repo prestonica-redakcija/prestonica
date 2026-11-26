@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-26T16:17:51.241334+00:00",
+ "updated": "2026-11-26T16:49:07.091141+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -110,6 +110,18 @@
    "url": "https://insajder.net/prenosimo/uhapsen-devetnaestogodisnjak-osumnjicen-za-izazivanje-pozara-u-dva-lokala-u-beogradu",
    "title": "Uhapšen devetnaestogodišnjak osumnjičen za izazivanje požara u dva lokala u Beogradu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/kod-sedamnaestogodisnjaka-pronadjeno-35-kg-kokaina-100-kg-marihuane-45-kg-heroina-rucne-bombe-i-snajper/",
+   "title": "Kod sedamnaestogodišnjaka pronađeno 3,5 kg kokaina, 100 kg marihuane, 4,5 kg heroina, ručne bombe i snajper",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/uhapsen-sedamnaestogodisnjak-osumnjicen-za-trgovinu-drogom-i-posedovanje-nelegalnog-oruzja/",
+   "title": "Uhapšen sedamnaestogodišnjak, osumnjičen za trgovinu drogom i posedovanje nelegalnog oružja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -125,7 +137,9 @@
   "Uhapšen mladić zbog sumnje da je namerno izazvao požar u lokalima na Novom Beogradu i Savskom vencu",
   "Uhapšen mladi piroman iz Beograda: Podmetnuo požar u lokale na Savskom vencu i Novom Beogradu",
   "Uhapšen devetnaestogodišnjak osumnjičen za izazivanje požara u dva lokala u Beogradu",
-  "Uhapšen devetnaestogodišnjak osumnjičen za izazivanje požara u dva lokala u Beogradu"
+  "Uhapšen devetnaestogodišnjak osumnjičen za izazivanje požara u dva lokala u Beogradu",
+  "Kod sedamnaestogodišnjaka pronađeno 3,5 kg kokaina, 100 kg marihuane, 4,5 kg heroina, ručne bombe i snajper",
+  "Uhapšen sedamnaestogodišnjak, osumnjičen za trgovinu drogom i posedovanje nelegalnog oružja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -138,7 +152,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Novi_Beograd_test.jpg",
   "alt": "Uhapšene dve osobe zbog sumnje da su bacile ručne bombe na kuću i u baštu restorana u Beogradu"
  },
- "novo_od_pisanja": 6,
+ "novo_od_pisanja": 8,
  "boost": 1.6,
  "prepisano": "2026-11-26T12:05:48.172440+00:00",
  "verzija": 2

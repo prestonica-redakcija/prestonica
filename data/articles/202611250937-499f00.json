@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-25T08:37:21.026632+00:00",
- "updated": "2026-11-25T11:06:18.181669+00:00",
+ "updated": "2026-11-26T16:49:07.091141+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -39,11 +39,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4439380-zbog-radova-na-petlji-krusevac-istok-od-danas-do-1-decembra-izmena-saobracaja",
    "title": "Zbog radova na petlji Kruševac istok od danas do 1. decembra izmena saobraćaja",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301302/sutra-izmenjen-rezim-saobracaja-na-auto-putu-kod-petlji-kolari-i-vodanj-zbog-radova/vest",
+   "title": "Sutra izmenjen režim saobraćaja na auto-putu kod petlji Kolari i Vodanj zbog radova",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Zbog radova na petlji Kruševac istok od danas do 1. decembra izmena saobraćaja",
-  "Zbog radova na petlji Kruševac istok od danas do 1. decembra izmena saobraćaja"
+  "Zbog radova na petlji Kruševac istok od danas do 1. decembra izmena saobraćaja",
+  "Sutra izmenjen režim saobraćaja na auto-putu kod petlji Kolari i Vodanj zbog radova"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,6 +63,6 @@
   "alt": "a road sign with orange cones",
   "link": "https://unsplash.com/@zacgudakov"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

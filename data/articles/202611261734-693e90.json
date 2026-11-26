@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T16:34:09.007546+00:00",
- "updated": "2026-11-26T16:34:09.007546+00:00",
+ "updated": "2026-11-26T16:49:07.091141+00:00",
  "sources": [
   {
    "name": "N1",
@@ -39,11 +39,25 @@
    "url": "https://n1info.rs/vesti/rik-o-predsednickim-izborima-glasacki-listic-bice-krem-boje/",
    "title": "RIK o predsedničkim izborima: Glasački listić biće krem boje",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4440486-rik-objavio-vazne-detalje-o-izborima-27-decembra-evo-kako-ce-izgledati-glasacki-listici",
+   "title": "RIK objavio važne detalje o predsedničkim izborima 27. decembra: Evo kako će izgledati glasački listići",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1675078/rik-doneo-odluku-obrascima-usvojen-rokovnik-predsednicke-izbore-27-decembra",
+   "title": "RIK DONEO ODLUKU O OBRASCIMA: Usvojen rokovnik za predsedničke izbore 27. decembra",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Koje boje će biti listići za predsedničke izbore",
-  "RIK o predsedničkim izborima: Glasački listić biće krem boje"
+  "RIK o predsedničkim izborima: Glasački listić biće krem boje",
+  "RIK objavio važne detalje o predsedničkim izborima 27. decembra: Evo kako će izgledati glasački listići",
+  "RIK DONEO ODLUKU O OBRASCIMA: Usvojen rokovnik za predsedničke izbore 27. decembra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +68,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "RIK usvojio odluke o predsedničkim izborima: listić krem boje, kontrolni list roze"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
