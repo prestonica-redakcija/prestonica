@@ -33,7 +33,7 @@
  ],
  "importance": 4,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-25T23:35:10.456739+00:00",
+ "updated": "2026-11-26T01:36:38.441667+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,11 +46,18 @@
    "url": "https://insajder.net/prenosimo/cupic-sa-ambasadorom-uae-o-unapredenju-bilateralne-saradnje",
    "title": "Čupić sa ambasadorom UAE o unapređenju bilateralne saradnje",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300979/duric-razgovarao-sa-cucumijem-o-bilateralnim-odnosima-i-saradnji-srbije-i-japana/vest",
+   "title": "Đurić razgovarao sa Cucumijem o bilateralnim odnosima i saradnji Srbije i Japana",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Đurić razgovarao sa nerezidentnim ambasadorom Kraljevine Bahrein o bilateralnoj saradnji",
-  "Čupić sa ambasadorom UAE o unapređenju bilateralne saradnje"
+  "Čupić sa ambasadorom UAE o unapređenju bilateralne saradnje",
+  "Đurić razgovarao sa Cucumijem o bilateralnim odnosima i saradnji Srbije i Japana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Narodna_skupstina_Srbije.jpg",
   "alt": "Čupić i ambasador UAE razgovarali o ulaganjima i saradnji u oblasti veštačke inteligencije"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
