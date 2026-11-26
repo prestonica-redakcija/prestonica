@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-25T23:50:05.738495+00:00",
+ "updated": "2026-11-26T10:11:46.265687+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -56,13 +56,20 @@
    "url": "https://nova.rs/vesti/hronika/bacali-bombe-na-kucu-i-restoran-na-novom-beogradu-i-zvezdari-uhapsena-dvojica-mladica-kod-jednog-pronadjena-marihuana-i-kokain/",
    "title": "Bacali bombe na kuću i restoran na Novom Beogradu i Zvezdari: Uhapšena dvojica mladića, kod jednog pronađena marihuana i kokain",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4440149-uhapseni-bombasi-koji-su-napali-restoran-avenija-u-beogradu-bacili-dve-bombe-u-stanu-im-nadjen-i-kokain",
+   "title": "Uhapšeni bombaši koji su napali restoran \"Avenija\" u Beogradu: Bacili dve bombe, u stanu im nađen i kokain",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Uhapšeni osumnjičeni da su u Beogradu bacili ručnu bombu na kuću i u baštu restorana",
   "Uhapšene dve osobe zbog sumnje da su bacile bombe na porodičnu kuću na Novom Beogradu i baštu restorana na Zvezdari",
   "BACALI BOMBE PO BEOGRADU! Prvo napali porodičnu kuću na Novom Beogradu, pa restoran na Zvezdari- uhapšena trojica POGLEDAJTE KAKO SU IM STAVLJENE LISICE NA RUKE",
-  "Bacali bombe na kuću i restoran na Novom Beogradu i Zvezdari: Uhapšena dvojica mladića, kod jednog pronađena marihuana i kokain"
+  "Bacali bombe na kuću i restoran na Novom Beogradu i Zvezdari: Uhapšena dvojica mladića, kod jednog pronađena marihuana i kokain",
+  "Uhapšeni bombaši koji su napali restoran \"Avenija\" u Beogradu: Bacili dve bombe, u stanu im nađen i kokain"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -75,6 +82,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Novi_Beograd_test.jpg",
   "alt": "Uhapšene dve osobe zbog sumnje da su bacile ručne bombe na kuću i u baštu restorana u Beogradu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

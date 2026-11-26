@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T00:05:01.814826+00:00",
- "updated": "2026-11-26T07:06:54.320153+00:00",
+ "updated": "2026-11-26T10:11:46.265687+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -72,6 +72,12 @@
    "url": "https://www.tanjug.rs/svet/hronika/301091/u-pozaru-nakon-eksplozije-cisterne-u-egiptu-poginula-najmanje-31-osoba/vest",
    "title": "U požaru nakon eksplozije cisterne u Egiptu poginula najmanje 31 osoba",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/301143/najmanje-sedam-povredenih-u-eksploziji-i-pozaru-u-rafineriji-u-bangkoku/vest",
+   "title": "Najmanje sedam povređenih u eksploziji i požaru u rafineriji u Bangkoku",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -81,7 +87,8 @@
   "Tragedija u Egiptu: Najmanje 30 poginulih u požaru nakon eksplozije cisterne s gorivom",
   "Jeziva eksplozija kod Kaira: Najmanje 30 mrtvih, 15 povređenih; Vatra guta vozila FOTO/VIDEO",
   "Najmanje 30 poginulih u eksploziji cisterne sa gorivom u blizini Kaira",
-  "U požaru nakon eksplozije cisterne u Egiptu poginula najmanje 31 osoba"
+  "U požaru nakon eksplozije cisterne u Egiptu poginula najmanje 31 osoba",
+  "Najmanje sedam povređenih u eksploziji i požaru u rafineriji u Bangkoku"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -94,6 +101,6 @@
   "alt": "a busy highway with cars",
   "link": "https://unsplash.com/@stocker_ll"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

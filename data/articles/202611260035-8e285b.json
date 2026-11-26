@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-25T23:35:10.456739+00:00",
+ "updated": "2026-11-26T10:11:46.265687+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/253686/gasprom-rekordno-povlacenje-gasa-iz-skladista-u-evropi/vest",
    "title": "Arktička hladnoća ubrzala pražnjenje evropskih skladišta gasa, oboren istorijski rekord",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/288084/gasprom-hladni-talas-u-evropi-izazvao-rekordno-povlacenje-gasa-iz-skladista/vest",
+   "title": "Istorijski rekord: Arktička hladnoća ispraznila evropska skladišta gasa",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Gasprom: Hladni talas u Evropi izazvao rekordno povlačenje gasa iz skladišta",
-  "Arktička hladnoća ubrzala pražnjenje evropskih skladišta gasa, oboren istorijski rekord"
+  "Arktička hladnoća ubrzala pražnjenje evropskih skladišta gasa, oboren istorijski rekord",
+  "Istorijski rekord: Arktička hladnoća ispraznila evropska skladišta gasa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Gasprom: hladni talas izazvao rekordno povlačenje gasa iz evropskih skladišta"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
