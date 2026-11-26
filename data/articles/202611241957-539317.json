@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T18:57:48.710854+00:00",
- "updated": "2026-11-24T21:56:48.072967+00:00",
+ "updated": "2026-11-26T06:37:04.447175+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -50,13 +50,20 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/253559/postanska-stedionica-prodala-deo-obveznica-na-aukciji/vest",
    "title": "Banka Poštanska štedionica: Prodajom dela obveznica na drugoj aukciji dodatno ojačana likvidnost banke",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/300808/danas-treca-aukcija-prevremenog-otkupa-drzavnih-obveznica/vest",
+   "title": "Danas treća aukcija prevremenog otkupa državnih obveznica",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Banka Poštanska štedionica: Prodajom dela obveznica na drugoj aukciji dodatno ojačana likvidnost banke",
   "Kako su prošle prve dve aukcije: Otkup obveznica od Poštanske štedionice pre roka dospeća",
   "Poštanska štedionica prodala deo državnih obveznica i povećala dinarsku likvidnost",
-  "Banka Poštanska štedionica: Prodajom dela obveznica na drugoj aukciji dodatno ojačana likvidnost banke"
+  "Banka Poštanska štedionica: Prodajom dela obveznica na drugoj aukciji dodatno ojačana likvidnost banke",
+  "Danas treća aukcija prevremenog otkupa državnih obveznica"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Po%C5%A1tanska_%C5%A1tedionica_-_panoramio.jpg",
   "alt": "Poštanska štedionica prodala deo obveznica na aukciji prevremenog otkupa"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

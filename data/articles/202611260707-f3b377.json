@@ -33,17 +33,24 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:07:23.074382+00:00",
- "updated": "2026-11-26T06:07:23.074382+00:00",
+ "updated": "2026-11-26T06:37:04.447175+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/svet/srbija-rusija-letovi-opasnosti/",
    "title": "„Pratili smo vesti iz Srbije i odlučili da rizikujemo“: Opasnosti nisu samo hipotetičke, problemi putnika koji lete ka Rusiji",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/studentska-lista-predstavila-plan-zastite-srpske-bastine-na-kosovu-digitalizacija-sistemsko-finansiranje-i-povratak-strucnjaka/",
+   "title": "„Pratili smo vesti iz Srbije i odlučili da rizikujemo“: Problemi putnika koji lete ka Rusiji",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "„Pratili smo vesti iz Srbije i odlučili da rizikujemo“: Opasnosti nisu samo hipotetičke, problemi putnika koji lete ka Rusiji"
+  "„Pratili smo vesti iz Srbije i odlučili da rizikujemo“: Opasnosti nisu samo hipotetičke, problemi putnika koji lete ka Rusiji",
+  "„Pratili smo vesti iz Srbije i odlučili da rizikujemo“: Problemi putnika koji lete ka Rusiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "alt": "a group of people in a room",
   "link": "https://unsplash.com/@josephbobadilla"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

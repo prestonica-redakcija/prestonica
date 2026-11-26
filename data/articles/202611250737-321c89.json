@@ -31,7 +31,7 @@
  ],
  "importance": 2,
  "published": "2026-11-25T06:37:52.711850+00:00",
- "updated": "2026-11-25T06:37:52.711850+00:00",
+ "updated": "2026-11-26T06:37:04.447175+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -44,11 +44,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4436421-obelezava-se-sveti-jovan-milostivi-sta-vernici-treba-da-znaju-za-danasnji-dan",
    "title": "Obeležava se Sveti Jovan Milostivi: Šta vernici treba da znaju za današnji dan",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301081/srpska-pravoslavna-crkva-danas-slavi-dan-rodenja-svetog-jovana-zlatoustog/vest",
+   "title": "Srpska pravoslavna crkva danas slavi dan rođenja Svetog Jovana Zlatoustog",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "DANAS SLAVIMO SVETOG JOVANA MILOSTIVOG: Večeras tačno u ponoć pogledajte u nebo, želja se ispunjava samo ako ispoštujete običaj",
-  "Obeležava se Sveti Jovan Milostivi: Šta vernici treba da znaju za današnji dan"
+  "Obeležava se Sveti Jovan Milostivi: Šta vernici treba da znaju za današnji dan",
+  "Srpska pravoslavna crkva danas slavi dan rođenja Svetog Jovana Zlatoustog"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "alt": "lighted candle inside temple",
   "link": "https://unsplash.com/@olga_kononenko"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

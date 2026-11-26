@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-26T06:22:16.988509+00:00",
+ "updated": "2026-11-26T06:37:04.447175+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -46,12 +46,33 @@
    "url": "https://www.kurir.rs/crna-hronika/10173221/pozar-u-prodavnici-tehnike-u-bloku-70a-u-novom-beogradu",
    "title": "VELIKI POŽAR U NOVOM BEOGRADU U BLOKU 70A: Gori prodavnica tehnike prekoputa Delta sitija, obustavljen saobraćaj u delu Jurija Gagarina u smeru ka gradu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/beograd/4439976-ogroman-pozar-na-novom-beogradu-izgorela-tehnomanija-vatrogasci-na-terenu",
+   "title": "Ogroman požar na Novom Beogradu: Gori Tehnomanija, vatrogasci na terenu",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/gori-tehnomanija-na-novom-beogradu-vatra-zahvatila-veliku-povrsinu-prodavnice-vetar-otezava-gasenje/",
+   "title": "Gori \"Tehnomanija\" na Novom Beogradu: Vatra zahvatila veliku površinu prodavnice, vetar otežava gašenje, policija blokirala saobraćaj u tom delu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/gori-tehnomanija-na-novom-beogradu-gasenje-otezava-jak-vetar/",
+   "title": "Gori \"Tehnomanija\" na Novom Beogradu, gašenje otežava jak vetar",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Požar izbio u „Tehnomaniji“ na Novom Beogradu, vetar otežava gašenje",
   "Požar u prodavnici \"Tehnomanija\" na Novom Beogradu, vetar otežava gašenje",
-  "VELIKI POŽAR U NOVOM BEOGRADU U BLOKU 70A: Gori prodavnica tehnike prekoputa Delta sitija, obustavljen saobraćaj u delu Jurija Gagarina u smeru ka gradu"
+  "VELIKI POŽAR U NOVOM BEOGRADU U BLOKU 70A: Gori prodavnica tehnike prekoputa Delta sitija, obustavljen saobraćaj u delu Jurija Gagarina u smeru ka gradu",
+  "Ogroman požar na Novom Beogradu: Gori Tehnomanija, vatrogasci na terenu",
+  "Gori \"Tehnomanija\" na Novom Beogradu: Vatra zahvatila veliku površinu prodavnice, vetar otežava gašenje, policija blokirala saobraćaj u tom delu",
+  "Gori \"Tehnomanija\" na Novom Beogradu, gašenje otežava jak vetar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +84,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

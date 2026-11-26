@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T19:42:36.931926+00:00",
- "updated": "2026-11-26T06:07:23.074382+00:00",
+ "updated": "2026-11-26T06:37:04.447175+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -125,6 +125,12 @@
    "url": "https://www.telegraf.rs/4439987-aleksandar-cupic-danas-raspisuje-izbore-za-predsednika-republike-ovo-je-cela-procedura",
    "title": "Aleksandar Čupić danas raspisuje izbore za predsednika Republike: Ovo je cela procedura",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253731/aleksandar-cupic-raspisuje-izbore-za-predsednika-srbije/vest",
+   "title": "Čupić danas raspisuje izbore za predsednika Republike",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -143,7 +149,8 @@
   "Čupić sutra raspisuje izbore za predsednika Republike",
   "Čupić raspisuje predsedničke izbore u Srbiji; Dan odluke – 27. decembar",
   "Čupić danas raspisuje izbore za predsednika Republike",
-  "Aleksandar Čupić danas raspisuje izbore za predsednika Republike: Ovo je cela procedura"
+  "Aleksandar Čupić danas raspisuje izbore za predsednika Republike: Ovo je cela procedura",
+  "Čupić danas raspisuje izbore za predsednika Republike"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -156,6 +163,6 @@
   "alt": "grayscale photography of man standing near studio camera and woman sitting while holding book",
   "link": "https://unsplash.com/@austriannationallibrary"
  },
- "novo_od_pisanja": 14,
+ "novo_od_pisanja": 15,
  "boost": 1.6
 }
