@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T06:52:02.295680+00:00",
- "updated": "2026-11-26T06:52:02.295680+00:00",
+ "updated": "2026-11-26T07:38:26.049111+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -39,11 +39,18 @@
    "url": "https://biznis.telegraf.rs/info-biz/4440004-svako-dete-u-sad-dobice-dve-akcije-kompanije-space-x-milijarder-mask-ima-novi-plan",
    "title": "Svako dete u SAD dobiće dve akcije kompanije \"Space X\": Milijarder Mask ima novi plan",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/288178/mask-najavio-da-ce-svako-dete-u-sad-dobiti-dve-akcije-kompanije-spejseks/vest",
+   "title": "Mask deli bogatstvo: Poklanja akcije SpejsEksa",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Mask najavio da će svako dete u SAD dobiti dve akcije kompanije SpejsEks",
-  "Svako dete u SAD dobiće dve akcije kompanije \"Space X\": Milijarder Mask ima novi plan"
+  "Svako dete u SAD dobiće dve akcije kompanije \"Space X\": Milijarder Mask ima novi plan",
+  "Mask deli bogatstvo: Poklanja akcije SpejsEksa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "alt": "rocket ship photography",
   "link": "https://unsplash.com/@spacex"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

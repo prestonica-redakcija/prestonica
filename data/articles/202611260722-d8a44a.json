@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-26T07:23:32.467029+00:00",
+ "updated": "2026-11-26T07:38:26.049111+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -118,6 +118,24 @@
    "url": "https://www.kurir.rs/crna-hronika/10173243/mup-o-pozaru-u-tehnomaniji-na-novom-beogradu-30-vatrogasaca-gasilo-vatru",
    "title": "OGLASIO SE MUP NAKON VELIKOG POŽARA NA NOVOM BEOGRADU: Cela prodavnica bila u plamenu, pričinjena ogromna šteta - 30 vatrogasaca se borilo sa vatrenom stihijom",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301095/mup-lokalizovan-pozar-u-prodavnici-tehnomanija-na-novom-beogradu-nema-povredenih/vest",
+   "title": "MUP: Lokalizovan požar u prodavnici \"Tehnomanija\" na Novom Beogradu, nema povređenih",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4440012-od-objekta-nije-ostalo-nista-pogledajte-kako-izgleda-tehnomanija-na-novom-beogradu-tri-sata-posle-pozara",
+   "title": "Od objekta nije ostalo ništa: Pogledajte kako izgleda \"Tehnomanija\" na Novom Beogradu tri sata posle požara",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/n1-na-mestu-velikog-pozara-na-novom-beogradu-potpuno-izgorela-prodavnica-tehnomanije/",
+   "title": "N1 na mestu velikog požara na Novom Beogradu: Potpuno izgorela prodavnica Tehnomanije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -135,7 +153,10 @@
   "MUP otkrio detalje požara na Novom Beogradu: 30 vatrogasaca gasilo buktinju, poznato ima li povređenih",
   "Ogroman požar na Novom Beogradu; Izgorela poznata prodavnica bele tehnike, vetar otežavao gašenje FOTO/VIDEO",
   "Oglasio se MUP o požaru u Tehnomaniji: Vatra pod kontrolom, nema povređenih, izgoreo ceo objekat VIDEO",
-  "OGLASIO SE MUP NAKON VELIKOG POŽARA NA NOVOM BEOGRADU: Cela prodavnica bila u plamenu, pričinjena ogromna šteta - 30 vatrogasaca se borilo sa vatrenom stihijom"
+  "OGLASIO SE MUP NAKON VELIKOG POŽARA NA NOVOM BEOGRADU: Cela prodavnica bila u plamenu, pričinjena ogromna šteta - 30 vatrogasaca se borilo sa vatrenom stihijom",
+  "MUP: Lokalizovan požar u prodavnici \"Tehnomanija\" na Novom Beogradu, nema povređenih",
+  "Od objekta nije ostalo ništa: Pogledajte kako izgleda \"Tehnomanija\" na Novom Beogradu tri sata posle požara",
+  "N1 na mestu velikog požara na Novom Beogradu: Potpuno izgorela prodavnica Tehnomanije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -148,7 +169,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-26T07:23:32.467029+00:00",
  "verzija": 2

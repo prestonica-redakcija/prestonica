@@ -31,17 +31,24 @@
  ],
  "importance": 6,
  "published": "2026-11-26T07:06:54.320153+00:00",
- "updated": "2026-11-26T07:06:54.320153+00:00",
+ "updated": "2026-11-26T07:38:26.049111+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/politika/komisija-za-reviziju-birackog-spiska-zvanicno-utvrdila-kradju-izbora-2023-u-beogradu-ovo-je-dokaz/",
    "title": "\"Komisija za reviziju biračkog spiska zvanično utvrdila krađu izbora 2023. u Beogradu, ovo je dokaz\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/ssp-komisija-za-reviziju-birackog-spiska-utvrdila-kradju-izbora-u-beogradu-2023/",
+   "title": "SSP: Komisija za reviziju biračkog spiska utvrdila krađu izbora u Beogradu 2023.",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "\"Komisija za reviziju biračkog spiska zvanično utvrdila krađu izbora 2023. u Beogradu, ovo je dokaz\""
+  "\"Komisija za reviziju biračkog spiska zvanično utvrdila krađu izbora 2023. u Beogradu, ovo je dokaz\"",
+  "SSP: Komisija za reviziju biračkog spiska utvrdila krađu izbora u Beogradu 2023."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "alt": "a sign on a sidewalk in front of a building",
   "link": "https://unsplash.com/@oksdesign"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

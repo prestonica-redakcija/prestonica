@@ -34,7 +34,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T23:20:00.404645+00:00",
- "updated": "2026-11-25T23:20:00.404645+00:00",
+ "updated": "2026-11-26T07:38:26.049111+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -47,11 +47,18 @@
    "url": "https://www.kurir.rs/vesti/politika/10173127/kosta-nastavicemo-da-radimo-sa-vlastima-u-srb-fon-der-lajen-prosirenje-je-imperativ",
    "title": "SAMIZ EU-ZAPADNI BALKAN Košta: Nastavićemo da radimo sa vlastima u Srbiji, Fon der Lajen: Proširenje je imperativ",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288184/kosta-nastavicemo-da-radimo-sa-vlastima-u-srbiji/vest",
+   "title": "Jasna poruka Brisela: \"Nastavićemo da radimo sa vlastima u Srbiji\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Fon der Lajen: Iskoristiti sadašnji zamah u proširenju EU",
-  "SAMIZ EU-ZAPADNI BALKAN Košta: Nastavićemo da radimo sa vlastima u Srbiji, Fon der Lajen: Proširenje je imperativ"
+  "SAMIZ EU-ZAPADNI BALKAN Košta: Nastavićemo da radimo sa vlastima u Srbiji, Fon der Lajen: Proširenje je imperativ",
+  "Jasna poruka Brisela: \"Nastavićemo da radimo sa vlastima u Srbiji\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +70,7 @@
   "local": false,
   "alt": "row of european union flags",
   "link": "https://unsplash.com/@guillaumeperigois"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

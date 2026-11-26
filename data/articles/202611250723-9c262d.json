@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-25T06:23:07.337159+00:00",
- "updated": "2026-11-26T06:52:02.295680+00:00",
+ "updated": "2026-11-26T07:38:26.049111+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -75,6 +75,12 @@
    "url": "https://insajder.net/prenosimo/putevi-prohodni-moguca-pojava-poledice-i-magle",
    "title": "Putevi prohodni, moguća pojava poledice i magle",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/putevi-srbije-oprez-zbog-moguce-poledice/",
+   "title": "Putevi Srbije: Oprez zbog moguće poledice",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -84,7 +90,8 @@
   "VOZAČI, OPREZ! AMSS upozorava na opasnu pojavu na srpskim putevima: \"Dovoljna je sekunda nepažnje za lančani sudar\"",
   "AMSS: Putevi prohodni i bez snega, opasnost od poledice",
   "Putevi prohodni, moguća pojava poledice i magle",
-  "Putevi prohodni, moguća pojava poledice i magle"
+  "Putevi prohodni, moguća pojava poledice i magle",
+  "Putevi Srbije: Oprez zbog moguće poledice"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -97,6 +104,6 @@
   "alt": "gray roads between mountains",
   "link": "https://unsplash.com/@albertohlfrias"
  },
- "novo_od_pisanja": 5,
- "boost": 1.4
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }

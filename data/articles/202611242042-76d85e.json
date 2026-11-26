@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T19:42:36.931926+00:00",
- "updated": "2026-11-26T07:06:54.320153+00:00",
+ "updated": "2026-11-26T07:38:26.049111+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -143,6 +143,18 @@
    "url": "https://n1info.rs/vesti/cupic-danas-u-podne-raspisuje-predsednicke-izbore/",
    "title": "Čupić danas u podne raspisuje predsedničke izbore",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/cupic-danas-u-podne-raspisuje-predsednicke-izbore/",
+   "title": "Čupić danas u podne raspisuje predsedničke izbore",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10173258/raspisivanje-predsednickih-izbora",
+   "title": "TAČNO U PODNE: Predsednik Narodne skupštine Srbije Aleksandar Čupić raspisuje izbore za predsednika Republike",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -164,7 +176,9 @@
   "Aleksandar Čupić danas raspisuje izbore za predsednika Republike: Ovo je cela procedura",
   "Čupić danas raspisuje izbore za predsednika Republike",
   "Aleksandar Čupić danas raspisuje predsedničke izbore",
-  "Čupić danas u podne raspisuje predsedničke izbore"
+  "Čupić danas u podne raspisuje predsedničke izbore",
+  "Čupić danas u podne raspisuje predsedničke izbore",
+  "TAČNO U PODNE: Predsednik Narodne skupštine Srbije Aleksandar Čupić raspisuje izbore za predsednika Republike"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -177,6 +191,6 @@
   "alt": "grayscale photography of man standing near studio camera and woman sitting while holding book",
   "link": "https://unsplash.com/@austriannationallibrary"
  },
- "novo_od_pisanja": 17,
+ "novo_od_pisanja": 19,
  "boost": 1.6
 }
