@@ -28,17 +28,24 @@
  ],
  "importance": 6,
  "published": "2026-11-26T13:09:30.305892+00:00",
- "updated": "2026-11-26T13:09:30.305892+00:00",
+ "updated": "2026-11-26T14:40:27.845598+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/energetska-zajednica-srbija-bi-2027-mogla-da-se-prikljuci-trzistu-elektricne-energije-evropske-unije",
    "title": "Energetska zajednica: Srbija bi 2027. mogla da se priključi tržištu električne energije Evropske unije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253815/srbija-medu-kandidatima-za-integraciju-u-trziste-struje-eu/vest",
+   "title": "Energetska zajednica: Puna integracija Srbije u tržište struje EU moguća od 2027. godine",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Energetska zajednica: Srbija bi 2027. mogla da se priključi tržištu električne energije Evropske unije"
+  "Energetska zajednica: Srbija bi 2027. mogla da se priključi tržištu električne energije Evropske unije",
+  "Energetska zajednica: Puna integracija Srbije u tržište struje EU moguća od 2027. godine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Energetska zajednica: Srbija bi 2027. mogla da uđe u jedinstveno tržište struje EU"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

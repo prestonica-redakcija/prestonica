@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-26T13:09:30.305892+00:00",
+ "updated": "2026-11-26T14:40:27.845598+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -178,6 +178,12 @@
    "url": "https://n1info.rs/zeleni-kutak/batut-ne-boraviti-blizu-mesta-pozara-24-sata/",
    "title": "Batut: Ne boraviti blizu mesta požara 24 sata",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/301239/jaka-kisa-vetar-i-poplave-pogadaju-veliki-deo-sad-tokom-dana-zahvalnosti/vest",
+   "title": "Jaka kiša, vetar i poplave pogađaju veliki deo SAD tokom Dana zahvalnosti",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -205,7 +211,8 @@
   "Vatra sve progutala; Jezive scene ne mestu požara na Novom Beogradu, delovi tehnike razbacani po putu FOTO",
   "Jutro posle požara u Tehnomaniji na Novom Beogradu: Objekat gotovo potpuno uništen, pogledajte snimke sa lica mesta VIDEO",
   "Novi snimci pakla; Vatrena stihija je progutala sve; Poginula 31 osoba FOTO/VIDEO",
-  "Batut: Ne boraviti blizu mesta požara 24 sata"
+  "Batut: Ne boraviti blizu mesta požara 24 sata",
+  "Jaka kiša, vetar i poplave pogađaju veliki deo SAD tokom Dana zahvalnosti"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -218,7 +225,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-26T13:09:30.305892+00:00",
  "verzija": 4

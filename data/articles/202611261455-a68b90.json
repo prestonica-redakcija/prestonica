@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T13:55:33.392531+00:00",
- "updated": "2026-11-26T13:55:33.392531+00:00",
+ "updated": "2026-11-26T14:40:27.845598+00:00",
  "sources": [
   {
    "name": "N1",
@@ -40,10 +40,17 @@
    "url": "https://nova.rs/vesti/hronika/tuzilastvo-trazi-od-policije-da-proveri-navode-o-kupovini-glasova-u-babusnickom-selu-radosevcu/",
    "title": "Tužilaštvo traži od policije da proveri navode o kupovini glasova u babušničkom selu Radoševcu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/tuzilastvo-trazi-od-policije-da-proveri-navode-o-kupovini-glasova-u-babusnickom-selu-radosevcu/",
+   "title": "Tužilaštvo traži od policije da proveri navode o kupovini glasova u babušničkom selu Radoševcu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "VJT u Nišu traži od policije da proveri navode o kupovini glasova u selu Radoševac",
+  "Tužilaštvo traži od policije da proveri navode o kupovini glasova u babušničkom selu Radoševcu",
   "Tužilaštvo traži od policije da proveri navode o kupovini glasova u babušničkom selu Radoševcu"
  ],
  "author": "Redakcija Prestonice",
@@ -56,5 +63,7 @@
   "local": false,
   "alt": "A pole with a sign that says polling station",
   "link": "https://unsplash.com/@philhearing"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
