@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T23:20:00.404645+00:00",
- "updated": "2026-11-25T23:20:00.404645+00:00",
+ "updated": "2026-11-26T02:07:56.609696+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,10 +47,17 @@
    "url": "https://www.euronews.rs/srbija/politika/253695/miodrag-linta-pozvao-ep-da-osudi-velicanje-ustastva/vest",
    "title": "Linta pozvao Evropski parlament da osudi veličanje ustaštva u Hrvatskoj",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4439917-linta-pozvao-evropski-parlament-da-osudi-velicanje-ustastva-u-hrvatskoj",
+   "title": "Linta pozvao Evropski parlament da osudi veličanje ustaštva u Hrvatskoj",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Miodrag Linta pozvao Evropski parlament da osudi veličanje ustaštva u Hrvatskoj",
+  "Linta pozvao Evropski parlament da osudi veličanje ustaštva u Hrvatskoj",
   "Linta pozvao Evropski parlament da osudi veličanje ustaštva u Hrvatskoj"
  ],
  "author": "Redakcija Prestonice",
@@ -63,5 +70,7 @@
   "local": false,
   "alt": "aerial view photography of room",
   "link": "https://unsplash.com/@internetztube"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
