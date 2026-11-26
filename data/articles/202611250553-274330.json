@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-25T04:53:37.582664+00:00",
- "updated": "2026-11-25T23:20:00.404645+00:00",
+ "updated": "2026-11-26T04:52:57.988438+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -50,12 +50,19 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4439958-delovi-ovih-mesta-u-vojvodini-u-cetvrtak-bez-struje",
    "title": "Delovi ovih mesta u Vojvodini u četvrtak bez struje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/beograd/10172589/danas-bez-struje-u-beogradu",
+   "title": "BEZ STRUJE DANAS I STROGI CENTAR BEOGRADA: Ali i delovi još 10 opština",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "BEZ STRUJE SU DANAS OVIH 9 DELOVA BEOGRADA: Spisak isključenja najduži u Sopotu",
   "BG Servis: Delovi Beograda danas bez struje",
-  "Delovi ovih mesta u Vojvodini u četvrtak bez struje"
+  "Delovi ovih mesta u Vojvodini u četvrtak bez struje",
+  "BEZ STRUJE DANAS I STROGI CENTAR BEOGRADA: Ali i delovi još 10 opština"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "alt": "silhouette of buildings under cloudy sky during sunset",
   "link": "https://unsplash.com/@5tep5"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
