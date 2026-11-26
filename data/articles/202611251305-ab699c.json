@@ -24,16 +24,23 @@
  ],
  "importance": 4,
  "published": "2026-11-25T12:05:51.952563+00:00",
- "updated": "2026-11-25T12:05:51.952563+00:00",
+ "updated": "2026-11-26T01:04:52.951841+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/300850/eu-zabelezila-trgovinski-deficit-od-36-milijardi-evra-u-trecem-kvartalu-2026/vest",
    "title": "EU zabeležila trgovinski deficit od 36 milijardi evra u trećem kvartalu 2026.",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4439679-eu-zabelezila-trgovinski-deficit-od-36-milijardi-evra-u-trecem-kvartalu-2026",
+   "title": "EU zabeležila trgovinski deficit od 36 milijardi evra u trećem kvartalu 2026.",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
+  "EU zabeležila trgovinski deficit od 36 milijardi evra u trećem kvartalu 2026.",
   "EU zabeležila trgovinski deficit od 36 milijardi evra u trećem kvartalu 2026."
  ],
  "author": "Redakcija Prestonice",
@@ -46,5 +53,7 @@
   "local": false,
   "alt": "a large ship in the water",
   "link": "https://unsplash.com/@nathan_cima"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

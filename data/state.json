@@ -5523,18 +5523,26 @@
   "https://www.euronews.rs/svet/fokus/253716/krvavi-obracun-u-nigeriji-najmanje-30-mrtvih/vest": "2026-11-26T00:50:01.876652+00:00",
   "https://www.danas.rs/kolumna/marko-vidojkovic/prevario-sam-chatgpt-sa-geminijem/": "2026-11-26T00:50:01.876652+00:00",
   "https://www.tanjug.rs/ekonomija/svet/301021/godisnja-inflacija-u-rusiji-dostigla-717-odsto/vest": "2026-11-26T00:50:01.876652+00:00",
-  "https://insajder.net/prenosimo/mup-u-beogradu-uhapsen-ruski-drzavljanin-zbog-sumnje-da-je-prevarama-prisvojio-oko-200000-evra-i-sest-zlatnih-dukata": "2026-11-26T00:50:01.876652+00:00"
+  "https://insajder.net/prenosimo/mup-u-beogradu-uhapsen-ruski-drzavljanin-zbog-sumnje-da-je-prevarama-prisvojio-oko-200000-evra-i-sest-zlatnih-dukata": "2026-11-26T00:50:01.876652+00:00",
+  "https://biznis.telegraf.rs/info-biz/4439679-eu-zabelezila-trgovinski-deficit-od-36-milijardi-evra-u-trecem-kvartalu-2026": "2026-11-26T01:04:52.951841+00:00",
+  "https://n1info.rs/vesti/uhapseno-rukovodstvo-drzavnog-preduzeca-dali-vise-od-100000-evra-na-stimulacije-za-odlazak-na-mitinge-sns/": "2026-11-26T01:04:52.951841+00:00",
+  "https://nova.rs/vesti/hronika/uhapseno-rukovodstvo-drzavnog-preduzeca-dali-vise-od-100000-evra-na-stimulacije-za-odlazak-na-mitinge-sns/": "2026-11-26T01:04:52.951841+00:00",
+  "https://n1info.rs/vesti/uhapsen-ruski-drzavljanin-zbog-prevare-dovodio-ljude-u-zabludu-da-su-im-clanovi-porodice-tesko-povredjeni/": "2026-11-26T01:04:52.951841+00:00",
+  "https://www.tanjug.rs/srbija/hronika/301018/ruski-drzavljanin-uhapsen-u-beogradu-zbog-prevara/vest": "2026-11-26T01:04:52.951841+00:00",
+  "https://www.tanjug.rs/svet/drustvo/301016/federalna-komisija-za-komunikacije-odobrila-maskovom-spejseksu-postavljanje-milion-satelita-za-svemirske-data-centre/vest": "2026-11-26T01:04:52.951841+00:00",
+  "https://insajder.net/prenosimo/fcc-odobrio-maskovom-spejseksu-postavljanje-milion-satelita-za-svemirske-data-centre": "2026-11-26T01:04:52.951841+00:00",
+  "https://www.danas.rs/bbc-news-serbian/stizes-duolingo-od-skupstine-zasto-su-toliko-gledane-sednice-parlamenta-srbije/": "2026-11-26T01:04:52.951841+00:00",
+  "https://www.kurir.rs/vesti/srbija/10172799/besplatni-preventivni-pregledi-za-odredjivanje-gustine-kostiju-u-dz-nis": "2026-11-26T01:04:52.951841+00:00",
+  "https://www.tanjug.rs/ekonomija/svet/301064/pad-akcija-antropika-dovodi-u-pitanje-visoka-ocekivanja-od-buduce-zarade-u-ai-sektoru/vest": "2026-11-26T01:04:52.951841+00:00",
+  "https://www.euronews.rs/biznis/biznis-vesti/253493/studentska-lista-eps-ostaje-drzavni-zabrana-cevnih-mhe/vest": "2026-11-26T01:04:52.951841+00:00",
+  "https://www.b92.net/info/politika/288142/vucic-o-vucicevicu-uhapsili-su-ga-zbog-verbalnog-delikta/vest": "2026-11-26T01:04:52.951841+00:00",
+  "https://www.tanjug.rs/ekonomija/svet/301063/volstrit-dzornal-americke-sluzbe-nemaju-dokaze-da-je-kina-naredila-spijuniranje-direktora-envidije/vest": "2026-11-26T01:04:52.951841+00:00",
+  "https://www.novosti.rs/vesti/politika/1674803/vucic-drekslmajer-napusta-zrenjanin-kompaniji-radi-1-220-ljudi": "2026-11-26T01:04:52.951841+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-25T01:06+00:00",
-   "novih": 1,
-   "ukupno": 4500,
-   "sekundi": 697.1
-  },
   {
    "vreme": "2026-11-25T01:18+00:00",
    "novih": 2,
@@ -5888,6 +5896,12 @@
    "novih": 9,
    "ukupno": 4722,
    "sekundi": 677.7
+  },
+  {
+   "vreme": "2026-11-26T01:19+00:00",
+   "novih": 10,
+   "ukupno": 4732,
+   "sekundi": 905.6
   }
  ],
  "licnosti_foto": {
@@ -43571,6 +43585,20 @@
   "t:ministarstvo za ekonomski razvoj": {
    "t": 1795654337.687062,
    "items": []
+  },
+  "t:nasdaq 100": {
+   "t": 1795655195.664435,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Safin_at_the_Nasdaq_100_Open_%282006%29.jpg/1920px-Safin_at_the_Nasdaq_100_Open_%282006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2431,
+     "h": 1529,
+     "god": 2006,
+     "credit": "Wikimedia Commons / The original uploader was AndonicO at English Wikipedia. / CC BY-SA 2.5",
+     "link": "https://commons.wikimedia.org/wiki/File:Safin_at_the_Nasdaq_100_Open_(2006).jpg",
+     "naslov": "Safin at the Nasdaq 100 Open (2006).jpg"
+    }
+   ]
   }
  },
  "x_objave": {
@@ -49600,7 +49628,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštinace Republike Srbije u Petnaestom sazivu 25.11.2026.",
-  "provereno": "2026-11-26T00:52:46.052787+00:00",
+  "provereno": "2026-11-26T01:07:58.662367+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
