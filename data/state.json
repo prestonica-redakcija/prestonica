@@ -5595,18 +5595,17 @@
   "https://www.youtube.com/watch?v=cEZ6qWRWe0A": "2026-11-26T02:39:01.055761+00:00",
   "https://www.youtube.com/watch?v=x1yNDV71vhs": "2026-11-26T02:39:01.055761+00:00",
   "https://www.youtube.com/watch?v=qBbXlIV0pDY": "2026-11-26T02:54:04.937693+00:00",
-  "https://www.youtube.com/watch?v=9aK23fYY7H0": "2026-11-26T02:54:04.937693+00:00"
+  "https://www.youtube.com/watch?v=9aK23fYY7H0": "2026-11-26T02:54:04.937693+00:00",
+  "https://www.tanjug.rs/svet/drustvo/301038/kanadanka-osumnjicena-za-spijunazu-u-nato-u-bice-pod-elektronskim-nadzorom/vest": "2026-11-26T03:08:54.521380+00:00",
+  "https://www.telegraf.rs/vesti/svet/4439935-osumnjicena-za-spijunazu-u-nato-u-bice-pod-elektronskim-nadzorom": "2026-11-26T03:08:54.521380+00:00",
+  "https://www.kurir.rs/vesti/srbija/10172669/licitacija-za-tezge-u-novom-sadu": "2026-11-26T03:08:54.521380+00:00",
+  "https://www.youtube.com/watch?v=xy5QJgGmpCQ": "2026-11-26T03:08:54.521380+00:00",
+  "https://www.youtube.com/watch?v=LBTnrpPaRi4": "2026-11-26T03:08:54.521380+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-25T03:05+00:00",
-   "novih": 0,
-   "ukupno": 4503,
-   "sekundi": 678.2
-  },
   {
    "vreme": "2026-11-25T03:20+00:00",
    "novih": 1,
@@ -5960,6 +5959,12 @@
    "novih": 0,
    "ukupno": 4767,
    "sekundi": 640.7
+  },
+  {
+   "vreme": "2026-11-26T03:22+00:00",
+   "novih": 1,
+   "ukupno": 4768,
+   "sekundi": 799.9
   }
  ],
  "licnosti_foto": {
@@ -49750,7 +49755,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštinace Republike Srbije u Petnaestom sazivu 25.11.2026.",
-  "provereno": "2026-11-26T02:54:44.728916+00:00",
+  "provereno": "2026-11-26T03:10:06.057399+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
