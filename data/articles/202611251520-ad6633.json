@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T14:20:12.062560+00:00",
- "updated": "2026-11-25T23:02:14.184226+00:00",
+ "updated": "2026-11-26T00:19:47.859831+00:00",
  "sources": [
   {
    "name": "N1",
@@ -87,6 +87,12 @@
    "url": "https://www.b92.net/info/hronika/288145/bratu-vlasnika-alta-banke-odredjen-pritvor/vest",
    "title": "Bratu vlasnika Alta banke određen pritvor",
    "spektar": "centar"
+  },
+  {
+   "name": "Radar",
+   "url": "https://radar.nova.rs/ekonomija/ko-je-i-zasto-davoru-macuri-cuvao-ledja/",
+   "title": "Ko je i zašto Davoru Macuri čuvao leđa",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -98,7 +104,8 @@
   "Uhapšeni brat vlasnika Alta banke i direktorka Alta Pay Group",
   "BRATU VLASNIKA ALTA BANKE ODREĐEN PRITVOR: Dubravko Macura ostaje iza rešetaka",
   "Bratu vlasnika Alta banke određen pritvor",
-  "Bratu vlasnika Alta banke određen pritvor"
+  "Bratu vlasnika Alta banke određen pritvor",
+  "Ko je i zašto Davoru Macuri čuvao leđa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -110,8 +117,8 @@
   "local": true,
   "alt": "Uhapšeni brat Davora Macure i direktorka Alta grupe, zadržani 48 sati"
  },
- "novo_od_pisanja": 0,
- "boost": 1.56,
+ "novo_od_pisanja": 1,
+ "boost": 1.6,
  "prepisano": "2026-11-25T23:02:14.184226+00:00",
  "verzija": 2
 }

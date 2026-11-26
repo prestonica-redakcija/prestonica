@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T00:05:01.814826+00:00",
- "updated": "2026-11-26T00:05:01.814826+00:00",
+ "updated": "2026-11-26T00:19:47.859831+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -54,13 +54,20 @@
    "url": "https://www.danas.rs/svet/egipat-poginuli-u-pozaru-eksplozija/",
    "title": "Tragedija u Egiptu: Najmanje 30 poginulih u požaru nakon eksplozije cisterne s gorivom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288126/zapalio-se-kamion-cisterna-na-obilaznici-u-egiptu-poginulo-30-povredjeno-15-osoba/vest",
+   "title": "Jeziva eksplozija kod Kaira: Najmanje 30 mrtvih, 15 povređenih; Vatra guta vozila FOTO/VIDEO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Zapalio se kamion-cisterna na obilaznici u Egiptu, poginula 21, povređeno 15 osoba",
   "Veliki požar na obilaznici u Egiptu: Zapalilo se vozilo sa naftnim derivatima, najmanje 30 poginulih (VIDEO)",
   "(VIDEO) Cisterna s gorivom eksplodirala kod Kaira, najmanje 30 ljudi poginulo",
-  "Tragedija u Egiptu: Najmanje 30 poginulih u požaru nakon eksplozije cisterne s gorivom"
+  "Tragedija u Egiptu: Najmanje 30 poginulih u požaru nakon eksplozije cisterne s gorivom",
+  "Jeziva eksplozija kod Kaira: Najmanje 30 mrtvih, 15 povređenih; Vatra guta vozila FOTO/VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,5 +79,7 @@
   "local": false,
   "alt": "a busy highway with cars",
   "link": "https://unsplash.com/@stocker_ll"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
