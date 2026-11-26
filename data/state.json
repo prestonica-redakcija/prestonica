@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://biznis.telegraf.rs/info-biz/4436645-javni-dug-velike-britanije-dostigao-958-odsto-bdp-a-a-ekonomisti-beleze-poboljsanje": "2026-11-21T01:09:52.851456+00:00",
-  "https://www.tanjug.rs/svet/politika/299615/francuske-vlasti-istrazuju-odavanje-poverljivih-informacija-stranci-marin-le-pen/vest": "2026-11-21T01:09:52.851456+00:00",
-  "https://www.kurir.rs/planeta/10167576/francuska-prefekt-odavao-tajne-marin-le-pen": "2026-11-21T01:09:52.851456+00:00",
   "https://www.telegraf.rs/4436900-u-ponedeljak-skupstina-grada-o-rebalansu-budzeta-i-inicijativi-za-razresenje-sapica": "2026-11-21T02:09:26.683381+00:00",
   "https://www.telegraf.rs/vesti/svet/4436442-nato-poslao-jasnu-poruku-putinu-ukrajinski-napad-na-krimski-most-bio-je-legitiman": "2026-11-21T03:08:59.619718+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/252933/velnes-je-novi-luksuz-kako-je-islandsko-cudo-prirode-postalo-globalna-biznis-imperija/vest": "2026-11-21T03:08:59.619718+00:00",
@@ -5537,18 +5534,19 @@
   "https://www.euronews.rs/biznis/biznis-vesti/253493/studentska-lista-eps-ostaje-drzavni-zabrana-cevnih-mhe/vest": "2026-11-26T01:04:52.951841+00:00",
   "https://www.b92.net/info/politika/288142/vucic-o-vucicevicu-uhapsili-su-ga-zbog-verbalnog-delikta/vest": "2026-11-26T01:04:52.951841+00:00",
   "https://www.tanjug.rs/ekonomija/svet/301063/volstrit-dzornal-americke-sluzbe-nemaju-dokaze-da-je-kina-naredila-spijuniranje-direktora-envidije/vest": "2026-11-26T01:04:52.951841+00:00",
-  "https://www.novosti.rs/vesti/politika/1674803/vucic-drekslmajer-napusta-zrenjanin-kompaniji-radi-1-220-ljudi": "2026-11-26T01:04:52.951841+00:00"
+  "https://www.novosti.rs/vesti/politika/1674803/vucic-drekslmajer-napusta-zrenjanin-kompaniji-radi-1-220-ljudi": "2026-11-26T01:04:52.951841+00:00",
+  "https://www.danas.rs/vesti/drustvo/policija-uhapsen-zbog-sumnje-da-je-varao-gradjane-da-su-im-clanovi-porodice-povredjeni-i-uzimao-novac/": "2026-11-26T01:21:19.345689+00:00",
+  "https://www.danas.rs/vesti/ekonomija/ai-alati-i-kvalitet-podataka-platforma-je-izbrojala-218-sastanaka-a-nije-dosao-niko/": "2026-11-26T01:21:19.345689+00:00",
+  "https://insajder.net/teme/gajic-iz-brisela-za-insajder-za-izostanak-srbije-sa-samita-sada-vise-razumevanja-nego-pre-godinu-dana-ali-preti-gubitak-dela-novca-iz-plana-rasta": "2026-11-26T01:21:19.345689+00:00",
+  "https://n1info.rs/english/news/costa-says-eu-will-have-more-opportunities-to-meet-with-serbian-authorities/": "2026-11-26T01:21:19.345689+00:00",
+  "https://insajder.net/teme/dubravku-macuri-zabranjeno-raspolaganje-imovinom-poslovni-prostor-od-300-kvadrata-na-vracaru-zgrada-od-925-kvadrata-u-zelezniku-i-stambeno-poslovni-objekat-u-zemunu": "2026-11-26T01:21:19.345689+00:00",
+  "https://www.danas.rs/vesti/politika/kreni-promeni-pozvao-na-skup-podrske-odbornici-koja-je-tuzila-sapica-zbog-uvreda/": "2026-11-26T01:21:19.345689+00:00",
+  "https://www.novosti.rs/vesti/politika/1674593/vucic-obratio-javnosti-informera-boricemo-dok-disemo-kad-vidite-podocnjake-znajte-jer-sam-mislio-dragana": "2026-11-26T01:21:19.345689+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-25T01:18+00:00",
-   "novih": 2,
-   "ukupno": 4502,
-   "sekundi": 480.7
-  },
   {
    "vreme": "2026-11-25T01:35+00:00",
    "novih": 0,
@@ -5902,6 +5900,12 @@
    "novih": 10,
    "ukupno": 4732,
    "sekundi": 905.6
+  },
+  {
+   "vreme": "2026-11-26T01:35+00:00",
+   "novih": 5,
+   "ukupno": 4737,
+   "sekundi": 844.8
   }
  ],
  "licnosti_foto": {
@@ -8682,7 +8686,7 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2125653072945045608",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "parandilovicnls": {
     "since_id": "2125689577541153253",
@@ -8710,39 +8714,39 @@
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "bibislav": {
     "since_id": "2125645033235784184",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "savomanojlovic": {
     "since_id": "2125708700589625615",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "zdravkoponos": {
     "since_id": "2123476746787860570",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "pavlegrbovic": {
     "since_id": "2125720267922043293",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "avucic": {
     "since_id": "2125704749492187244",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "anabrnabic": {
     "since_id": "2125162391440601222",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "milos_vucevic": {
     "since_id": "2125578808287719575",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "sns_srbija": {
-    "since_id": "2125742799903752314",
-    "t": 1795651716.524287
+    "since_id": "2125762191231963162",
+    "t": 1795656187.7038708
    },
    "vlada_srbije": {
     "since_id": null,
@@ -8786,23 +8790,23 @@
    },
    "markodjuric": {
     "since_id": "2123870662255419709",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "nstarovic": {
     "since_id": "2122967633863565451",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "milenkojovanov": {
     "since_id": "2125263868012245341",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "acasapic": {
     "since_id": null,
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "borkostef": {
     "since_id": "2123837042505155014",
@@ -8814,11 +8818,11 @@
    },
    "dobrinacelnik": {
     "since_id": "2125619953965420831",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "jeremic_vuk": {
     "since_id": "2123007427536732502",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
@@ -8826,51 +8830,51 @@
    },
    "srdjanmil037": {
     "since_id": "2125570574390870113",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "zoranlutovac": {
     "since_id": "2125676651476623475",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "pajticbojan": {
     "since_id": "2124855975492407587",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "n_zelenovic": {
     "since_id": "2125181071285162024",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "boskoobradovic": {
     "since_id": "2123742987129635150",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "sasaradulovich": {
     "since_id": "2125229031469601121",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "zaklina_prva": {
     "since_id": "2125642423456124947",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "stevanoccrp": {
     "since_id": "2125698229480178052",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "igorbrakus": {
     "since_id": "2125605797149257883",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "radoholicar": {
     "since_id": "2123165000919326944",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "borakonj": {
     "since_id": "2125749261694632423",
@@ -8878,7 +8882,7 @@
    },
    "narodnipokrets": {
     "since_id": "2125150420486238315",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "direktnors": {
     "since_id": "2125702878811541873",
@@ -8946,11 +8950,11 @@
    },
    "nedeljniknin": {
     "since_id": "2125726226425827775",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "trajkovic_rada": {
     "since_id": "2123775843264569788",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "stateinl": {
     "since_id": "2124882590389924146",
@@ -8966,31 +8970,31 @@
    },
    "zatrijebacki": {
     "since_id": "2125315752265728509",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "srbininfo": {
     "since_id": "2125709878337696153",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "mfaserbia": {
     "since_id": "2125625581920243813",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "izlaz_dot_com": {
     "since_id": "2125718577109979608",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "tihinavezi": {
     "since_id": "2125676108674891897",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "relativizacija": {
     "since_id": "2125312343618019666",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "seanmilanovic": {
     "since_id": "2125594275283124362",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    },
    "masinars": {
     "since_id": "2125695287469519313",
@@ -8998,10 +9002,76 @@
    },
    "claudedevs": {
     "since_id": "2125628717263372512",
-    "t": 1795651716.524287
+    "t": 1795656187.7038708
    }
   },
   "posts": [
+   {
+    "id": "2125762191231963162",
+    "x": "sns_srbija",
+    "ime": "SNS",
+    "grupa": "vlast",
+    "uloga": "Srpska napredna stranka",
+    "text": "Лидер опозиције Александар Вучић @avucic изјавио је да сматра да представници „Студентске листе“ не уважавају студенте који су их подржали, већ да им је првенствени циљ преузимање извршне власти.\nhttps://t.co/4hGC5Lg886 https://t.co/B4hDjD7mBC",
+    "published": "2026-11-26T01:22:55.000+00:00",
+    "lajk": 0,
+    "slike": [
+     "https://pbs.twimg.com/media/HYA5YdqXkAAcYwA.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić o Studentskoj listi i težnji za preuzimanjem vlasti"
+   },
+   {
+    "id": "2125759764869079523",
+    "x": "sns_srbija",
+    "ime": "SNS",
+    "grupa": "vlast",
+    "uloga": "Srpska napredna stranka",
+    "text": "Лидер опозиције Александар Вучић @avucic изјавио је вечерас да га је хапшење Драгана Ј. Вучићевића посебно погодило због његове породице и деце, наводећи да се тешко носи са чињеницом да ће ноћ провести без оца.\nhttps://t.co/t2lE0BOugV https://t.co/I0jzcKWsoo",
+    "published": "2026-11-26T01:13:17.000+00:00",
+    "lajk": 1,
+    "slike": [
+     "https://pbs.twimg.com/media/HYA3POkXoAAqAHD.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić o hapšenju Vučićevića i njegovoj porodici",
+    "vest": "202611260002-bd9f40"
+   },
+   {
+    "id": "2125754914848772588",
+    "x": "sns_srbija",
+    "ime": "SNS",
+    "grupa": "vlast",
+    "uloga": "Srpska napredna stranka",
+    "text": "\"Моја улога је да будем са народом и са људима када је тешко. Нисам ја велики лидер зато што имам два метра и 115 килограма, већ зато што сам ту да поделим не само добро, већ и када је зло и када је тешко\", изјавио је лидер опозиције Александар Вучић @avucic на ТВ Информер. https://t.co/xSgmqE1VPn",
+    "published": "2026-11-26T00:54:00.000+00:00",
+    "lajk": 1,
+    "slike": [
+     "https://pbs.twimg.com/media/HYAyy_GXYAAswji.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić na TV Informer o svojoj ulozi lidera",
+    "vest": "202611260105-40fca0"
+   },
+   {
+    "id": "2125751403041710165",
+    "x": "sns_srbija",
+    "ime": "SNS",
+    "grupa": "vlast",
+    "uloga": "Srpska napredna stranka",
+    "text": "Лидер опозиције Александар Вучић @avucic изјавио је вечерас да би усвајање економских и социјалних мера које предлаже нова власт могло да доведе до одласка домаћих и страних инвеститора из Србије.\nhttps://t.co/nwqf8J0623 https://t.co/EYYc7WPN0C",
+    "published": "2026-11-26T00:40:03.000+00:00",
+    "lajk": 2,
+    "slike": [
+     "https://pbs.twimg.com/media/HYAvh2bX0AAOzuu.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "ekonomija",
+    "tema": "Vučić o merama nove vlasti i odlasku investitora"
+   },
    {
     "id": "2125749261694632423",
     "x": "BoraKonj",
@@ -20865,67 +20935,6 @@
     "rubrika": "politika",
     "tema": "Studentska lista o rezoluciji EP o Vukovaru",
     "vest": "202611231354-38e653"
-   },
-   {
-    "id": "2124838409021599831",
-    "x": "avucic",
-    "ime": "Aleksandar Vučić",
-    "grupa": "vlast",
-    "uloga": "Predsednik Srbije",
-    "text": "Уништили су институције, владају преко улице. https://t.co/Er9ts5DTN9",
-    "published": "2026-11-23T12:12:08.000+00:00",
-    "lajk": 40,
-    "slike": [
-     "https://pbs.twimg.com/amplify_video_thumb/2124838318802087936/img/pbWv7860nMnsPICl.jpg"
-    ],
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Vučić: uništili su institucije, vladaju preko ulice"
-   },
-   {
-    "id": "2124837828500570461",
-    "x": "izlaz_dot_com",
-    "ime": "IZLAZ.com",
-    "grupa": "",
-    "uloga": "",
-    "text": "Studentski pokret kritikovao predlog rezolucije EP o Vukovaru zbog izostavljanja srpskih žrtava\n\nhttps://t.co/r5NiOtQfiF",
-    "published": "2026-11-23T12:09:50.000+00:00",
-    "lajk": 1,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Studenti kritikuju rezoluciju EP o Vukovaru",
-    "vest": "202611231254-c147e0"
-   },
-   {
-    "id": "2124836894232154430",
-    "x": "DirektnoRS",
-    "ime": "Direktno",
-    "grupa": "",
-    "uloga": "",
-    "text": "\"Ne slažemo se sa sadržinom predloga rezolucije Evropskog parlamenta povodom 35. godišnjice pada i razaranja Vukovara.\"\nhttps://t.co/PYBaHc4mxK",
-    "published": "2026-11-23T12:06:07.000+00:00",
-    "lajk": 0,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Neslaganje sa rezolucijom EP o Vukovaru",
-    "vest": "202611231354-38e653"
-   },
-   {
-    "id": "2124836668477669654",
-    "x": "sns_srbija",
-    "ime": "SNS",
-    "grupa": "vlast",
-    "uloga": "Srpska napredna stranka",
-    "text": "\"Има много година откако нас је Зорана напустила и свакојаких је ту чуда и речи било, али данас сам срећан јер поштујем људе који се у тешким тренуцима, када није лако и када си под великим притиском власти, понашају храбро\", поручио је Александар Вучић @avucic. https://t.co/8ul6odyUSj",
-    "published": "2026-11-23T12:05:13.000+00:00",
-    "lajk": 37,
-    "slike": [
-     "https://pbs.twimg.com/media/HXzvq0VWIAABVsa.jpg"
-    ],
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Vučić o povratku Zorane Mihajlović u SNS",
-    "vest": "202611231354-955ff1"
    }
   ],
   "pratim": [
@@ -43599,6 +43608,14 @@
      "naslov": "Safin at the Nasdaq 100 Open (2006).jpg"
     }
    ]
+  },
+  "t:pristupanje eu": {
+   "t": 1795656134.1395264,
+   "items": []
+  },
+  "t:tuzilastvo za organizovani kriminal": {
+   "t": 1795656149.6061435,
+   "items": []
   }
  },
  "x_objave": {
@@ -49628,7 +49645,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštinace Republike Srbije u Petnaestom sazivu 25.11.2026.",
-  "provereno": "2026-11-26T01:07:58.662367+00:00",
+  "provereno": "2026-11-26T01:23:38.906125+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },

@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T01:04:52.951841+00:00",
- "updated": "2026-11-26T01:04:52.951841+00:00",
+ "updated": "2026-11-26T01:21:19.345689+00:00",
  "sources": [
   {
    "name": "N1",
@@ -41,11 +41,18 @@
    "url": "https://www.tanjug.rs/srbija/hronika/301018/ruski-drzavljanin-uhapsen-u-beogradu-zbog-prevara/vest",
    "title": "Ruski državljanin uhapšen u Beogradu zbog prevara",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/policija-uhapsen-zbog-sumnje-da-je-varao-gradjane-da-su-im-clanovi-porodice-povredjeni-i-uzimao-novac/",
+   "title": "Policija: Uhapšen zbog sumnje da je varao građane da su im članovi porodice povređeni i uzimao novac",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Uhapšen ruski državljanin zbog prevare: Dovodio ljude u zabludu da su im članovi porodice teško povređeni",
-  "Ruski državljanin uhapšen u Beogradu zbog prevara"
+  "Ruski državljanin uhapšen u Beogradu zbog prevara",
+  "Policija: Uhapšen zbog sumnje da je varao građane da su im članovi porodice povređeni i uzimao novac"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "alt": "a pair of scissors and a roll of money on a table",
   "link": "https://unsplash.com/@bermixstudio"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
