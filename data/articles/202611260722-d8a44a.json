@@ -3,22 +3,22 @@
  "slug": "pozar-u-prodavnici-tehnomanije-na-novom-beogradu-saobracaj",
  "kind": "vest",
  "section": "hronika",
- "headline": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina",
- "lead": "Veliki požar izbio je jutros u prodavnici \"Tehnomanije\" na Novom Beogradu, preko puta tržnog centra \"Delta siti\". Prema nezvaničnim informacijama koje prenose mediji, nema povređenih, a gašenje otežava vetar.",
+ "headline": "Požar u Tehnomaniji na Novom Beogradu lokalizovan, MUP: nema povređenih, objekat izgoreo",
+ "lead": "Sektor za vanredne situacije MUP-a lokalizovao je požar koji je jutros izbio u prodavnici \"Tehnomanija\" u Ulici Agostina Neta na Novom Beogradu. Prema saopštenju MUP-a, nema povređenih, a materijalna šteta je ogromna.",
  "body": [
-  "Insajder i Danas, pozivajući se na RTS, navode da je vatra zahvatila veliku površinu prodavnice tehnike. Kurir, koji tekst potpisuje zajedno sa Blicom i Tanjugom, piše da je požar zahvatio ceo objekat i da je na lice mesta upućeno više vatrogasnih vozila.",
-  "Danas navodi da vetar duva brzinom od 40 kilometara na čas i da se vatrogasci bore sa vatrenom stihijom. Kurir dodaje da se požar rasplamsao uprkos jakoj kiši i nevremenu koje je jutros zahvatilo Beograd.",
-  "Policija je obustavila saobraćaj u delu Ulice Jurija Gagarina u smeru ka gradu, preko puta \"Delta sitija\", prenosi Tanjug. Kurir navodi da policija preusmerava saobraćaj dok traje intervencija i da se radi o objektu na uglu sa Ulicom Agostina Neta.",
-  "Svi izvori navode da se očekuje da će gašenje potrajati. Uzrok požara za sada nije poznat, a iz MUP-a su, kako prenose Insajder i Danas, saopštili da će se više znati nakon uviđaja.",
-  "Podaci o odsustvu povređenih za sada su nezvanični. Izvori ne navode visinu štete niti kada bi požar mogao biti lokalizovan."
+  "Požar je dojavljen u 05.04 časova, a prve ekipe vatrogasaca-spasilaca stigle su za manje od pet minuta, navodi se u saopštenju MUP-a koje prenosi Nova. Tada je, kako se navodi, ceo objekat već bio u plamenu.",
+  "U gašenju je učestvovalo ukupno 30 vatrogasaca-spasilaca sa 11 vozila, kao i cisterna kapaciteta 30 tona za dopremanje vode, prenose Nova i Kurir. Nova u naslovu navodi da je izgoreo ceo objekat.",
+  "B92 piše da je požar lokalizovan nakon intervencije vatrogasaca i da je gašenje otežavao vetar brzine 40 kilometara na čas. Na terenu je bilo i vatrogasno vozilo sa kranom za gašenje sa visine, a u trenutku objave tog teksta trajalo je dogašavanje.",
+  "Saobraćaj je bio obustavljen u delu Ulice Jurija Gagarina u smeru ka gradu, preko puta tržnog centra \"Delta siti\". Prema podacima gradskog Sekretarijata za javni prevoz koje prenosi B92, linije 7A, 9A, 89 i 95 saobraćale su u oba smera Bulevarom Crvene armije i Ulicama Đorđa Stanojevića i Marka Hristića, a linija 35 kroz Ulicu Omladinskih brigada.",
+  "Uzrok požara za sada nije poznat. Iz MUP-a su ranije saopštili da će se okolnosti izbijanja požara više znati nakon uviđaja. Izvori ne navode tačan iznos štete."
  ],
  "tags": [
   "požar",
   "Tehnomanija",
   "Novi Beograd",
+  "MUP",
   "vatrogasci",
-  "saobraćaj",
-  "MUP"
+  "saobraćaj"
  ],
  "people": [],
  "places": [
@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-26T07:06:54.320153+00:00",
+ "updated": "2026-11-26T07:23:32.467029+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -100,6 +100,24 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4440019-mup-otkrio-detalje-pozara-na-novom-beogradu-30-vatrogasaca-gasilo-buktinju-poznato-ima-li-povredjenih",
    "title": "MUP otkrio detalje požara na Novom Beogradu: 30 vatrogasaca gasilo buktinju, poznato ima li povređenih",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/288172/pozar-u-tehnomaniji-na-novom-beogradu/vest",
+   "title": "Ogroman požar na Novom Beogradu; Izgorela poznata prodavnica bele tehnike, vetar otežavao gašenje FOTO/VIDEO",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/oglasio-se-mup-o-pozaru-u-tehnomaniji-vatra-pod-kontrolom-nema-povredjenih-izgoreo-ceo-objekat-video/",
+   "title": "Oglasio se MUP o požaru u Tehnomaniji: Vatra pod kontrolom, nema povređenih, izgoreo ceo objekat VIDEO",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10173243/mup-o-pozaru-u-tehnomaniji-na-novom-beogradu-30-vatrogasaca-gasilo-vatru",
+   "title": "OGLASIO SE MUP NAKON VELIKOG POŽARA NA NOVOM BEOGRADU: Cela prodavnica bila u plamenu, pričinjena ogromna šteta - 30 vatrogasaca se borilo sa vatrenom stihijom",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -114,7 +132,10 @@
   "Ogroman požar u Novom Beogradu; Izgorela poznata prodavnica bele tehnike, jak vetar otežava gašenje FOTO/VIDEO",
   "MUP: Lokalizovan požar u prodavnici \"Tehnomanija\" na Novom Beogradu, nema povređenih",
   "(VIDEO) MUP: Lokalizovan požar u Tehnomaniji, ogromna materijalna šteta",
-  "MUP otkrio detalje požara na Novom Beogradu: 30 vatrogasaca gasilo buktinju, poznato ima li povređenih"
+  "MUP otkrio detalje požara na Novom Beogradu: 30 vatrogasaca gasilo buktinju, poznato ima li povređenih",
+  "Ogroman požar na Novom Beogradu; Izgorela poznata prodavnica bele tehnike, vetar otežavao gašenje FOTO/VIDEO",
+  "Oglasio se MUP o požaru u Tehnomaniji: Vatra pod kontrolom, nema povređenih, izgoreo ceo objekat VIDEO",
+  "OGLASIO SE MUP NAKON VELIKOG POŽARA NA NOVOM BEOGRADU: Cela prodavnica bila u plamenu, pričinjena ogromna šteta - 30 vatrogasaca se borilo sa vatrenom stihijom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -127,6 +148,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 9,
- "boost": 1.6
+ "novo_od_pisanja": 0,
+ "boost": 1.6,
+ "prepisano": "2026-11-26T07:23:32.467029+00:00",
+ "verzija": 2
 }

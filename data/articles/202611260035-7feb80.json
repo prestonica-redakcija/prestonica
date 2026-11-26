@@ -29,7 +29,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-25T23:35:10.456739+00:00",
+ "updated": "2026-11-26T07:23:32.467029+00:00",
  "sources": [
   {
    "name": "N1",
@@ -48,12 +48,19 @@
    "url": "https://nova.rs/vesti/biznis/rse-eu-predlaze-sankcije-za-api-banku-i-tri-firme-iz-srbije/",
    "title": "RSE: EU predlaže sankcije za API banku i tri firme iz Srbije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173304/evropska-unija-sankcije-firme-srbija-rusija",
+   "title": "Počelo je! Firme iz Srbije na udaru sankcija Evropske unije: Šok iz Brisela, na spisku se našla i jedna banka",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "RSE: EU predlaže sankcije za API banku i tri firme iz Srbije",
   "RSE: Evropska komisija predlaže sankcije za API banku i tri firme iz Srbije",
-  "RSE: EU predlaže sankcije za API banku i tri firme iz Srbije"
+  "RSE: EU predlaže sankcije za API banku i tri firme iz Srbije",
+  "Počelo je! Firme iz Srbije na udaru sankcija Evropske unije: Šok iz Brisela, na spisku se našla i jedna banka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,5 +72,7 @@
   "local": false,
   "alt": "group of people walking straight during daytime",
   "link": "https://unsplash.com/@klausswright"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
