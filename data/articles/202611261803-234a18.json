@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T17:03:44.772604+00:00",
- "updated": "2026-11-26T18:25:03.828784+00:00",
+ "updated": "2026-11-26T19:29:15.498897+00:00",
  "sources": [
   {
    "name": "N1",
@@ -89,6 +89,12 @@
    "url": "https://www.danas.rs/vesti/ekonomija/kompanija-milenijum-tim-trazi-izuzece-svih-tuzilaca-treceg-ojt-zbog-sumnje-u-nepristrasnost/",
    "title": "Kompanija Milenijum tim traži izuzeće svih tužilaca Trećeg OJT zbog sumnje u nepristrasnost",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301334/milenijum-tim-trazimo-izuzece-svih-tuzilaca-treceg-osnovnog-javnog-tuzilastva/vest",
+   "title": "Milenijum tim: Tražimo izuzeće svih tužilaca Trećeg osnovnog javnog tužilaštva",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -101,7 +107,8 @@
   "Branioci u slučaju \"Hotel Jugoslavija\" tražili izuzeće svih tužilaca Trećeg osnovnog javnog tužilaštva",
   "\"Milenijum Tim\" zatražio izuzeće celog Trećeg osnovnog tužilaštva",
   "Kompanija Milenijum tim traži izuzeće svih tužilaca Trećeg OJT zbog sumnje u nepristrasnost",
-  "Kompanija Milenijum tim traži izuzeće svih tužilaca Trećeg OJT zbog sumnje u nepristrasnost"
+  "Kompanija Milenijum tim traži izuzeće svih tužilaca Trećeg OJT zbog sumnje u nepristrasnost",
+  "Milenijum tim: Tražimo izuzeće svih tužilaca Trećeg osnovnog javnog tužilaštva"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -114,8 +121,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Hotel_Jugoslavija_(2020)_03.jpg",
   "alt": "Apelaciono tužilaštvo: Treće osnovno tužilaštvo nadležno za predmete „Hotel Jugoslavija“ i „Belgrade Eye“"
  },
- "novo_od_pisanja": 0,
- "boost": 1.56,
+ "novo_od_pisanja": 1,
+ "boost": 1.6,
  "prepisano": "2026-11-26T18:25:03.828784+00:00",
  "verzija": 2
 }

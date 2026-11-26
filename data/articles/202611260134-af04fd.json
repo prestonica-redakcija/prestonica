@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T00:34:43.228346+00:00",
- "updated": "2026-11-26T13:40:39.112185+00:00",
+ "updated": "2026-11-26T19:29:15.498897+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -54,13 +54,20 @@
    "url": "https://insajder.net/prenosimo/trece-tuzilastvo-u-beogradu-vodi-vise-postupaka-zbog-izazivanja-opste-opasnosti-i-zbog-iznude",
    "title": "Treće tužilaštvo u Beogradu vodi više postupaka zbog izazivanja opšte opasnosti i zbog iznude",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/naselje-u-opstini-surcin-sutra-bez-vode/",
+   "title": "Naselje u opštini Surčin sutra bez vode",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Treće osnovno javno tužilaštvo u Beogradu: Vodi se pet postupaka zbog iznude i izazivanja opšte opasnosti",
   "Oglasio se Treće OJT u Beogradu: Vodi se 5 postupaka zbog iznude i izazivanja opšte opasnosti",
   "Treće tužilaštvo u Beogradu vodi više postupaka zbog izazivanja opšte opasnosti i zbog iznude",
-  "Treće tužilaštvo u Beogradu vodi više postupaka zbog izazivanja opšte opasnosti i zbog iznude"
+  "Treće tužilaštvo u Beogradu vodi više postupaka zbog izazivanja opšte opasnosti i zbog iznude",
+  "Naselje u opštini Surčin sutra bez vode"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,6 +79,6 @@
   "local": true,
   "alt": "Treće OJT u Beogradu vodi pet postupaka zbog iznude i izazivanja opšte opasnosti"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

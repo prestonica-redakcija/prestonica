@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T16:49:07.091141+00:00",
- "updated": "2026-11-26T19:14:20.668837+00:00",
+ "updated": "2026-11-26T19:29:15.498897+00:00",
  "sources": [
   {
    "name": "B92",
@@ -54,12 +54,19 @@
    "url": "https://n1info.rs/svet/crnomorsko-poluostrvo-krim-bez-struje/",
    "title": "Crnomorsko poluostrvo Krim bez struje",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288432/finska-produzava-zakon-o-zastiti-granice-sa-rusijom-do-kraja-2028/vest",
+   "title": "Nova rampa za Putina",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Brutalna osveta; Panika u Parizu: \"Mi smo mete Vladimira Putina\"; Izdato dramatično upozorenje FOTO/VIDEO",
   "Čitav Krim ostao bez struje",
-  "Crnomorsko poluostrvo Krim bez struje"
+  "Crnomorsko poluostrvo Krim bez struje",
+  "Nova rampa za Putina"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,6 @@
   "local": true,
   "alt": "Granatiran Kijev, nestanak struje na Krimu, Zelenski upozorava na novi napad"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
