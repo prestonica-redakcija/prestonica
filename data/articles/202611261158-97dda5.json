@@ -26,17 +26,31 @@
  ],
  "importance": 4,
  "published": "2026-11-26T10:58:19.885511+00:00",
- "updated": "2026-11-26T10:58:19.885511+00:00",
+ "updated": "2026-11-26T11:31:30.898193+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/301165/danska-premijerka-mete-frederiksen-stavovi-lidera-eu-o-budzetu-su-veoma-udaljeni/vest",
    "title": "Danska premijerka Mete Frederiksen: Stavovi lidera EU o budžetu su veoma udaljeni",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10173414/pocinje-samit-lidera-eu-rasprava-o-budzetu-od-2028-do-2034",
+   "title": "POČINJE SAMIT LIDERA EU! Danas rasprava o višegodišnjem budžetu Unije od 2028. do 2034.",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301178/frederiksen-lideri-eu-i-dalje-veoma-udaljeni-u-pregovorima-o-budzetu-unije/vest",
+   "title": "Frederiksen: Lideri EU i dalje veoma udaljeni u pregovorima o budžetu Unije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Danska premijerka Mete Frederiksen: Stavovi lidera EU o budžetu su veoma udaljeni"
+  "Danska premijerka Mete Frederiksen: Stavovi lidera EU o budžetu su veoma udaljeni",
+  "POČINJE SAMIT LIDERA EU! Danas rasprava o višegodišnjem budžetu Unije od 2028. do 2034.",
+  "Frederiksen: Lideri EU i dalje veoma udaljeni u pregovorima o budžetu Unije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +62,7 @@
   "local": false,
   "alt": "row of european union flags",
   "link": "https://unsplash.com/@guillaumeperigois"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

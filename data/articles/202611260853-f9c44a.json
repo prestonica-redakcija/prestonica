@@ -32,7 +32,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-26T11:13:21.726257+00:00",
+ "updated": "2026-11-26T11:31:30.898193+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -81,6 +81,54 @@
    "url": "https://www.novosti.rs/vesti/politika/1674908/cupic-raspisao-izbore-predsednika-republike-27-decembar-video",
    "title": "Čupić raspisao izbore za predsednika Republike za 27. decembar (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10173521/aleksandar-cupic-raspisuje-predsednicke-izbore",
+   "title": "PREDSEDNIK SKUPŠTINE ČUPIĆ RASPISAO IZBORE: Srbija bira predsednika 27. decembra",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674908/cupic-raspisao-izbore-gradjani-srbije-biraju-predsednika-republike-27-decembra-video",
+   "title": "ČUPIĆ RASPISAO IZBORE: Građani Srbije biraju predsednika Republike 27. decembra (VIDEO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/300987/cupic-raspisao-izbore-za-predsednika-republike-za-27-decembar/vest",
+   "title": "Čupić raspisao izbore za predsednika Republike za 27. decembar",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4440206-cupic-pozvao-gradjane-da-izadju-na-izbore-za-predsednika-srbije-i-ovo-im-porucio",
+   "title": "Čupić pozvao građane da izađu na izbore za predsednika Srbije i OVO im poručio",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4440215-evo-kako-su-studenti-bodrili-cupica-ovo-su-mu-rekli-nakon-sto-je-potpisao-odluku-o-raspisivanju-izbora",
+   "title": "Evo kako su studenti bodrili Čupića: Ovo su mu rekli nakon što je potpisao Odluku o raspisivanju izbora",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288268/oglasili-se-studenti-nakon-raspisivanja-predsednickih-izbora-da-pobeda-bude-potpuna-foto/vest",
+   "title": "Oglasili se studenti nakon raspisivanja predsedničkih izbora; \"Da pobeda bude potpuna\" FOTO",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/bbc-news-serbian/raspisani-predsednicki-izbori-u-srbiji-za-27-decembar-manje-od-mesec-dana-za-kampanju/",
+   "title": "Raspisani predsednički izbori u Srbiji za 27. decembar, manje od mesec dana za kampanju",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/pravila-o-izboru-predsednika-srbije/",
+   "title": "Pravila o izboru predsednika Srbije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -91,7 +139,15 @@
   "Čupić raspisao predsedničke izbore u Srbiji za 27. decembar VIDEO",
   "Aleksandar Čupić raspisao predsedničke izbore",
   "Aleksandar Čupić raspisao predsedničke izbore",
-  "Čupić raspisao izbore za predsednika Republike za 27. decembar (VIDEO)"
+  "Čupić raspisao izbore za predsednika Republike za 27. decembar (VIDEO)",
+  "PREDSEDNIK SKUPŠTINE ČUPIĆ RASPISAO IZBORE: Srbija bira predsednika 27. decembra",
+  "ČUPIĆ RASPISAO IZBORE: Građani Srbije biraju predsednika Republike 27. decembra (VIDEO)",
+  "Čupić raspisao izbore za predsednika Republike za 27. decembar",
+  "Čupić pozvao građane da izađu na izbore za predsednika Srbije i OVO im poručio",
+  "Evo kako su studenti bodrili Čupića: Ovo su mu rekli nakon što je potpisao Odluku o raspisivanju izbora",
+  "Oglasili se studenti nakon raspisivanja predsedničkih izbora; \"Da pobeda bude potpuna\" FOTO",
+  "Raspisani predsednički izbori u Srbiji za 27. decembar, manje od mesec dana za kampanju",
+  "Pravila o izboru predsednika Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -104,8 +160,8 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 0,
- "boost": 1.56,
+ "novo_od_pisanja": 8,
+ "boost": 1.6,
  "prepisano": "2026-11-26T11:13:21.726257+00:00",
  "verzija": 2
 }

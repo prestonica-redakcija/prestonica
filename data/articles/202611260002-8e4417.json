@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-25T23:02:14.184226+00:00",
- "updated": "2026-11-25T23:02:14.184226+00:00",
+ "updated": "2026-11-26T11:31:30.898193+00:00",
  "sources": [
   {
    "name": "N1",
@@ -57,13 +57,20 @@
    "url": "https://nova.rs/vesti/biznis/konzorcijum-na-celu-sa-americkim-milijarderom-todom-bolijem-preuzima-medjunarodnu-imovinu-lukoila/",
    "title": "Konzorcijum na čelu sa američkim milijarderom Todom Bolijem preuzima međunarodnu imovinu Lukoila",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/301182/milijarder-tod-bouli-potpisao-sporazum-o-preuzimanju-medunarodne-imovine-lukoila/vest",
+   "title": "Milijarder Tod Bouli potpisao sporazum o preuzimanju međunarodne imovine Lukoila",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Konzorcijum na čelu sa Todom Bolijem preuzima međunarodnu imovinu Lukoila",
   "Konzorcijum američkog milijardera preuzeo veliki deo međunarodne imovine Lukoila",
   "Konzorcijum američkog milijardera Toda Bolija preuzeo veliki deo međunarodne imovine ruskog Lukoila",
-  "Konzorcijum na čelu sa američkim milijarderom Todom Bolijem preuzima međunarodnu imovinu Lukoila"
+  "Konzorcijum na čelu sa američkim milijarderom Todom Bolijem preuzima međunarodnu imovinu Lukoila",
+  "Milijarder Tod Bouli potpisao sporazum o preuzimanju međunarodne imovine Lukoila"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -75,5 +82,7 @@
   "local": false,
   "alt": "a row of gas pumps sitting in a parking lot",
   "link": "https://unsplash.com/@waidshots"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

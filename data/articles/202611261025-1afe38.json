@@ -28,7 +28,7 @@
  ],
  "importance": 2,
  "published": "2026-11-26T09:25:09.026225+00:00",
- "updated": "2026-11-26T09:40:25.804528+00:00",
+ "updated": "2026-11-26T11:31:30.898193+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -47,12 +47,19 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/301125/nezgoda-na-begaljickom-brdu-saobracaj-se-odvija-voznom-trakom/vest",
    "title": "Nezgoda na Begaljičkom brdu, saobraćaj se odvija voznom trakom",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301175/normalizovan-saobracaj-na-auto-putu-ka-beogradu-nakon-nezgode-na-begaljickom-brdu/vest",
+   "title": "Normalizovan saobraćaj na auto-putu ka Beogradu nakon nezgode na Begaljičkom brdu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "UDES U BEOGRADU KOČI SAOBRAĆAJ: Nezgoda na Begaljičkom brdu, saobraćaj se odvija voznom trakom",
   "Saobraćajna nezgoda na Begaljičkom brdu: Usporeno ka Beogradu, vozi se samo jednom trakom",
-  "Nezgoda na Begaljičkom brdu, saobraćaj se odvija voznom trakom"
+  "Nezgoda na Begaljičkom brdu, saobraćaj se odvija voznom trakom",
+  "Normalizovan saobraćaj na auto-putu ka Beogradu nakon nezgode na Begaljičkom brdu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "alt": "cars on road during daytime",
   "link": "https://unsplash.com/@zenitarka"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -33,7 +33,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-26T10:58:19.885511+00:00",
+ "updated": "2026-11-26T11:31:30.898193+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -172,6 +172,24 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4440193-dragana-j-vucicevica-sa-lisicama-na-rukama-dovode-u-palatu-pravde-pogledajte-snimak",
    "title": "Dragana J. Vučićevića, sa lisicama na rukama dovode u Palatu pravde: Pogledajte snimak",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/288221/vucicevic-doveden-u-palatu-pravde-ispred-palate-pravde-skup-podrske-video/vest",
+   "title": "Vučićević doveden u Palatu pravde; Ispred Palate pravde skup podrške VIDEO",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10173557/skup-podrske-draganu-j-vucicevicu-ispred-palate-pravde",
+   "title": "\"UHAPŠEN NA PRAVDI BOGA\" Skup podrške Draganu J. Vučićeviću ispred Palate pravde: Ko je sve u ova dva dana bio uz glavnog i odgovornog urednika Informera",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/dragana-j-vucicevica-sa-lisicama-na-rukama-doveli-u-palatu-pravde-pogledajte-snimak-video/",
+   "title": "Dragana J. Vučićevića sa lisicama na rukama doveli u Palatu pravde: Pogledajte snimak VIDEO",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -197,7 +215,10 @@
   "Vučićević doveden u Palatu pravde: Danas saslušanje, ispred zgrade skup podrške",
   "SKUP PODRŠKE DRAGANU J. VUČIĆEVIĆU: Zaposleni na Informeru traže odgovore od Ivice Dačića (VIDEO)",
   "Vučićević doveden u Palatu pravde, ispred zgrade skup podrške",
-  "Dragana J. Vučićevića, sa lisicama na rukama dovode u Palatu pravde: Pogledajte snimak"
+  "Dragana J. Vučićevića, sa lisicama na rukama dovode u Palatu pravde: Pogledajte snimak",
+  "Vučićević doveden u Palatu pravde; Ispred Palate pravde skup podrške VIDEO",
+  "\"UHAPŠEN NA PRAVDI BOGA\" Skup podrške Draganu J. Vučićeviću ispred Palate pravde: Ko je sve u ova dva dana bio uz glavnog i odgovornog urednika Informera",
+  "Dragana J. Vučićevića sa lisicama na rukama doveli u Palatu pravde: Pogledajte snimak VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -210,7 +231,7 @@
   "alt": "Car entering a brightly lit tunnel at night",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-26T10:43:27.881389+00:00",
  "verzija": 5

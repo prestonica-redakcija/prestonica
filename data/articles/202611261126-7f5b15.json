@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T10:26:34.441569+00:00",
- "updated": "2026-11-26T10:58:19.885511+00:00",
+ "updated": "2026-11-26T11:31:30.898193+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -45,11 +45,25 @@
    "url": "https://nova.rs/vesti/hronika/odredjen-pritvor-vladimiru-mandicu-i-doneta-naredba-za-sprovodjenje-istrage/",
    "title": "Određen pritvor Vladimiru Mandiću i doneta naredba za sprovođenje istrage",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/raspisana-poternica-za-vladimirom-mandicem/",
+   "title": "Raspisana poternica za Vladimirom Mandićem",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/288274/odredjen-pritvor-vladimiru-mandicu-raspisana-poternica-i-doneta-naredba-za-sprovodjenje-istrage/vest",
+   "title": "Određen pritvor Vladimiru Mandiću: Raspisana poternica i doneta naredba za sprovođenje istrage",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Određen pritvor Vladimiru Mandiću i doneta naredba za sprovođenje istrage",
-  "Određen pritvor Vladimiru Mandiću i doneta naredba za sprovođenje istrage"
+  "Određen pritvor Vladimiru Mandiću i doneta naredba za sprovođenje istrage",
+  "Raspisana poternica za Vladimirom Mandićem",
+  "Određen pritvor Vladimiru Mandiću: Raspisana poternica i doneta naredba za sprovođenje istrage"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +75,6 @@
   "local": true,
   "alt": "Određen pritvor osumnjičenom V. M. zbog zloupotrebe položaja u projektu EU"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
