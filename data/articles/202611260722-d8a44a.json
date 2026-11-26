@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-26T19:29:15.498897+00:00",
+ "updated": "2026-11-26T20:14:09.529080+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -269,6 +269,12 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/301311/mup-pozar-koji-je-ponovo-izbio-u-tehnomaniji-lokalizovan/vest",
    "title": "MUP: Požar koji je ponovo izbio u Tehnomaniji lokalizovan",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/nova-pise-tri-opcije-za-sudbinu-rts/",
+   "title": "\"Nova\" piše: Tri opcije za sudbinu RTS",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -311,7 +317,8 @@
   "Oglasio se RTS: Saopštili kako su birali nova TV lica",
   "Novi detalji drame u Varšavi: Otkriveno ko je Ukrajinac koji se zapalio VIDEO",
   "Poznato TV lice vodi Dnevnik 2 na RTS -u",
-  "MUP: Požar koji je ponovo izbio u Tehnomaniji lokalizovan"
+  "MUP: Požar koji je ponovo izbio u Tehnomaniji lokalizovan",
+  "\"Nova\" piše: Tri opcije za sudbinu RTS"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -324,7 +331,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6

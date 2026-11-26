@@ -36,7 +36,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-26T17:37:53.758490+00:00",
+ "updated": "2026-11-26T20:14:09.529080+00:00",
  "sources": [
   {
    "name": "B92",
@@ -61,13 +61,20 @@
    "url": "https://nova.rs/vesti/svet/tajnim-pregovorima-sprecen-nuklearni-napad-na-baltik-rusija-i-nato-bili-na-korak-od-direktnog-rata/",
    "title": "Tajnim pregovorima sprečen nuklearni napad na Baltik? Rusija i NATO bili na korak od direktnog rata",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301344/iaea-pregovara-sa-rusijom-i-ukrajinom-o-prekidu-vatre-u-nuklearki-zaporozje/vest",
+   "title": "IAEA pregovara sa Rusijom i Ukrajinom o prekidu vatre u nuklearki Zaporožje",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Tajni kanal komunikacije sa Putinom: Sprečen nuklearni udar?",
   "RUSIJA ZAPRETILA PREVENTIVNIM NUKLEARNIM UDAROM NA BALTIKU! Finska i Norveška tajnim kanalom došle do Putina - ko je misteriozni oligarh koji je sprečio pakao?",
   "Rusija pretila nuklearnim napadom na Baltiku: Dvojica evropskih lidera tajnim kanalima stigla do Putina",
-  "Tajnim pregovorima sprečen nuklearni napad na Baltik? Rusija i NATO bili na korak od direktnog rata"
+  "Tajnim pregovorima sprečen nuklearni napad na Baltik? Rusija i NATO bili na korak od direktnog rata",
+  "IAEA pregovara sa Rusijom i Ukrajinom o prekidu vatre u nuklearki Zaporožje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,6 +87,6 @@
   "alt": "a large red and white ship",
   "link": "https://unsplash.com/@asyarey"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
