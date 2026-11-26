@@ -23,17 +23,24 @@
  ],
  "importance": 4,
  "published": "2026-11-26T16:00:17.624373+00:00",
- "updated": "2026-11-26T16:00:17.624373+00:00",
+ "updated": "2026-11-26T16:34:09.007546+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/301279/pad-cena-goriva-smanjuje-profitabilnost-rafinerija-sirom-sveta/vest",
    "title": "Pad cena goriva smanjuje profitabilnost rafinerija širom sveta",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/288381/pad-cena-goriva-rusi-profitabilnost-rafinerija/vest",
+   "title": "Pad cena goriva ruši profitabilnost rafinerija",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Pad cena goriva smanjuje profitabilnost rafinerija širom sveta"
+  "Pad cena goriva smanjuje profitabilnost rafinerija širom sveta",
+  "Pad cena goriva ruši profitabilnost rafinerija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -44,5 +51,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Zarada rafinerija pala na najniži nivo u poslednjih nekoliko meseci"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

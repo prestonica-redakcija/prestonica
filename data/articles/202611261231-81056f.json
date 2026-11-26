@@ -27,7 +27,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T11:31:30.898193+00:00",
- "updated": "2026-11-26T12:35:38.207926+00:00",
+ "updated": "2026-11-26T16:34:09.007546+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -40,11 +40,18 @@
    "url": "https://www.danas.rs/vesti/politika/oglasili-se-studenti-o-raspisivanju-predsednickih-izbora-borba-nije-zavrsena/",
    "title": "Oglasili se studenti o raspisivanju predsedničkih izbora: Borba nije završena",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/studentski-pokret-predsednicki-izbori/",
+   "title": "„Zajedno smo ispisali istoriju, ali naša borba još nije završena“: Studentski pokret najavio konferenciju za medije o predsedničkim izborima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Oglasili se Studenti u blokadi nakon raspisivanja izbora: Zajedno smo ispisali istoriju, naša borba još nije završena",
-  "Oglasili se studenti o raspisivanju predsedničkih izbora: Borba nije završena"
+  "Oglasili se studenti o raspisivanju predsedničkih izbora: Borba nije završena",
+  "„Zajedno smo ispisali istoriju, ali naša borba još nije završena“: Studentski pokret najavio konferenciju za medije o predsedničkim izborima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "izvor_x": true,
   "alt": "Čupić raspisao predsedničke izbore za 27. decembar, oglasili se Studenti u blokadi"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

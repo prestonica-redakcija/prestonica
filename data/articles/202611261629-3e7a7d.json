@@ -31,17 +31,31 @@
  ],
  "importance": 5,
  "published": "2026-11-26T15:29:12.553398+00:00",
- "updated": "2026-11-26T15:29:12.553398+00:00",
+ "updated": "2026-11-26T16:34:09.007546+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1675047/rusija-promeni-vlasti-pratimo-situaciju-srbiji",
    "title": "RUSIJA O PROMENI VLASTI: Pratimo situaciju u Srbiji",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301292/marija-zaharova-pratimo-situaciju-u-srbiji-u-konstruktivan-stav-srpskog-naroda-nema-sumnje/vest",
+   "title": "Marija Zaharova: Pratimo situaciju u Srbiji, u konstruktivan stav srpskog naroda nema sumnje",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4440479-moskva-pratimo-situaciju-u-srbiji-u-konstruktivan-stav-srpskog-naroda-nema-sumnje",
+   "title": "Moskva: Pratimo situaciju u Srbiji, u konstruktivan stav srpskog naroda nema sumnje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "RUSIJA O PROMENI VLASTI: Pratimo situaciju u Srbiji"
+  "RUSIJA O PROMENI VLASTI: Pratimo situaciju u Srbiji",
+  "Marija Zaharova: Pratimo situaciju u Srbiji, u konstruktivan stav srpskog naroda nema sumnje",
+  "Moskva: Pratimo situaciju u Srbiji, u konstruktivan stav srpskog naroda nema sumnje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +68,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Maria_Zakharova_(cropped)_(2).jpg",
   "osoba": "Marija Zaharova",
   "alt": "Zaharova: Moskva prati konstituisanje vlasti u Srbiji, računa na saradnju"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

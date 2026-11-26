@@ -32,17 +32,24 @@
  ],
  "importance": 6,
  "published": "2026-11-26T14:40:27.845598+00:00",
- "updated": "2026-11-26T14:40:27.845598+00:00",
+ "updated": "2026-11-26T16:34:09.007546+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1675022/kurti-optimisticni-smo-novo-rukovodstvo-srbije-pomoci-clanstvu-kosova",
    "title": "KURTI: Optimistični smo da će novo rukovodstvo Srbije pomoći članstvu Kosova u EU",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301296/kurti-nadamo-se-da-ce-novo-rukovodstvo-srbije-pomoci-clanstvu-kosova-u-eu/vest",
+   "title": "Kurti: Nadamo se da će novo rukovodstvo Srbije pomoći članstvu Kosova u EU",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "KURTI: Optimistični smo da će novo rukovodstvo Srbije pomoći članstvu Kosova u EU"
+  "KURTI: Optimistični smo da će novo rukovodstvo Srbije pomoći članstvu Kosova u EU",
+  "Kurti: Nadamo se da će novo rukovodstvo Srbije pomoći članstvu Kosova u EU"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Albin_Kurti_2022.jpg",
   "osoba": "Aljbin Kurti",
   "alt": "Kurti: Imam razloga za optimizam da će novo rukovodstvo Srbije pomoći kandidaturi Kosova"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

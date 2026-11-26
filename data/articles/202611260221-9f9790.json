@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T01:21:19.345689+00:00",
- "updated": "2026-11-26T09:56:47.507907+00:00",
+ "updated": "2026-11-26T16:34:09.007546+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -52,12 +52,19 @@
    "url": "https://n1info.rs/vesti/samit-odsustvo-srbije-najava-preraspodele-novca-iz-plana-rasta/",
    "title": "Dopisnik N1 iz Brisela: Samit EU–Zapadni Balkan obeležili odsustvo Srbije i najava preraspodele novca iz Plana rasta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/video/dan-uzivo/dan-uzivo-25112026/",
+   "title": "Dan uživo (25.11.2026)",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Gajić iz Brisela za Insajder: Za izostanak Srbije sa samita sada više razumevanja nego pre godinu dana, ali preti gubitak dela novca iz Plana rasta (VIDEO)",
   "Dan uživo: (Ne)razumevanje izbora",
-  "Dopisnik N1 iz Brisela: Samit EU–Zapadni Balkan obeležili odsustvo Srbije i najava preraspodele novca iz Plana rasta"
+  "Dopisnik N1 iz Brisela: Samit EU–Zapadni Balkan obeležili odsustvo Srbije i najava preraspodele novca iz Plana rasta",
+  "Dan uživo (25.11.2026)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,6 @@
   "osoba": "Ratko Mladić",
   "alt": "Gajić za Insajder: u Briselu više razumevanja za odsustvo Srbije sa samita nego lani"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
