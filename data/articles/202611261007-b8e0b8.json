@@ -25,7 +25,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T09:07:56.153268+00:00",
- "updated": "2026-11-26T09:56:47.507907+00:00",
+ "updated": "2026-11-26T10:43:27.881389+00:00",
  "sources": [
   {
    "name": "N1",
@@ -38,11 +38,18 @@
    "url": "https://www.danas.rs/vesti/ekonomija/komisija-za-zastitu-konkurencije-ispituje-navode-o-promeni-vlasnistva-nad-medijima-iz-adria-news-grupe/",
    "title": "Komisija za zaštitu konkurencije ispituje navode o promeni vlasništva nad medijima iz Adria News grupe",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/komisija-za-zastitu-konkurencije-srbije-ispituje-okolnosti-prodaje-medija-iz-adria-news-grupe/",
+   "title": "Komisija za zaštitu konkurencije Srbije ispituje okolnosti prodaje medija iz Adria News grupe",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Komisija za zaštitu konkurencije razmatra predstavku o promenama vlasničke strukture kompanija koje posluju u okviru Adria News",
-  "Komisija za zaštitu konkurencije ispituje navode o promeni vlasništva nad medijima iz Adria News grupe"
+  "Komisija za zaštitu konkurencije ispituje navode o promeni vlasništva nad medijima iz Adria News grupe",
+  "Komisija za zaštitu konkurencije Srbije ispituje okolnosti prodaje medija iz Adria News grupe"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,6 +61,6 @@
   "local": true,
   "alt": "Komisija za zaštitu konkurencije uzela u rad predstavku o vlasničkoj strukturi Adria News"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

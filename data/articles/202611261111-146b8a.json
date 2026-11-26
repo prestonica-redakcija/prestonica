@@ -26,17 +26,24 @@
  ],
  "importance": 6,
  "published": "2026-11-26T10:11:46.265687+00:00",
- "updated": "2026-11-26T10:11:46.265687+00:00",
+ "updated": "2026-11-26T10:43:27.881389+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/301147/vasic-rast-referetne-stope-najvise-utice-na-dinarske-kredite-sa-varijabilnom-kamatom/vest",
    "title": "Vasić: Rast referetne stope najviše utiče na dinarske kredite sa varijabilnom kamatom",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253776/referentna-kamata-nbs-povecana-na-sest-odsto/vest",
+   "title": "Vasić o rastu referentne kamate NBS: Dinarski krediti mogu da poskupe",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Vasić: Rast referetne stope najviše utiče na dinarske kredite sa varijabilnom kamatom"
+  "Vasić: Rast referetne stope najviše utiče na dinarske kredite sa varijabilnom kamatom",
+  "Vasić o rastu referentne kamate NBS: Dinarski krediti mogu da poskupe"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Beograd_-_Narodna_banka_Srbije_(44377815534).jpg",
   "alt": "Vasić: Veća referentna stopa najviše pogađa dinarske kredite sa promenljivom kamatom"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

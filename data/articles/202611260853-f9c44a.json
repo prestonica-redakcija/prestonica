@@ -31,17 +31,24 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-26T07:53:18.497760+00:00",
+ "updated": "2026-11-26T10:43:27.881389+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/politika/predsednik-narodne-skupstine-aleksandar-cupic-u-podne-raspisuje-izbore-za-predsednika-republike-srbije",
    "title": "Predsednik Narodne skupštine Aleksandar Čupić u podne raspisuje izbore za predsednika Republike Srbije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4440167-sve-spremno-ovako-izgleda-centralni-hol-gde-ce-cupic-potpisati-odluku-o-raspisivanju-izbora",
+   "title": "Sve spremno! Ovako izgleda centralni hol gde će Čupić potpisati Odluku o raspisivanju izbora",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Predsednik Narodne skupštine Aleksandar Čupić u podne raspisuje izbore za predsednika Republike Srbije"
+  "Predsednik Narodne skupštine Aleksandar Čupić u podne raspisuje izbore za predsednika Republike Srbije",
+  "Sve spremno! Ovako izgleda centralni hol gde će Čupić potpisati Odluku o raspisivanju izbora"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
