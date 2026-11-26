@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.euronews.rs/biznis/biznis-vesti/252940/aerodrom-nikola-tesla-nastavlja-obuku-za-141-ucenika/vest": "2026-11-21T05:52:39.982552+00:00",
   "https://www.telegraf.rs/pop-i-kultura/aktuelno-kultura/4436756-arandjelovdan-je-jedna-od-najcescih-slava-sta-narodna-verovanja-kazu-o-arhangelu-mihailu": "2026-11-21T06:07:36.692528+00:00",
   "https://n1info.rs/magazin/lifestyle/arandjelovdan-slava-svetog-arhangela-mihaila-cuvara-pravde-i-vere/": "2026-11-21T06:07:36.692528+00:00",
   "https://n1info.rs/vesti/danas-pad-temperature-moguci-kisa-i-pljuskovi/": "2026-11-21T06:07:36.692528+00:00",
@@ -5598,18 +5597,25 @@
   "https://www.novosti.rs/vesti/politika/1674796/inspektori-moci-gone-monahe-spc-problematican-nacrt-zakona-centralnom-inspektoratu-kosovu-metohiji": "2026-11-26T05:37:32.903613+00:00",
   "https://www.kurir.rs/stars/10172916/zivotna-prica-kemala-montena": "2026-11-26T05:37:32.903613+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/253660/ecb-verovatno-podize-kamatne-stope-u-decembru/vest": "2026-11-26T05:52:23.330254+00:00",
-  "https://www.kurir.rs/zabava/pop-kultura/10170202/ubistvo-fila-hartmana": "2026-11-26T05:52:23.330254+00:00"
+  "https://www.kurir.rs/zabava/pop-kultura/10170202/ubistvo-fila-hartmana": "2026-11-26T05:52:23.330254+00:00",
+  "https://informer.rs/politika/vesti/1173294/skup-podrske-palata-pravde-dragan-j-vucicevic": "2026-11-26T06:07:23.074382+00:00",
+  "https://www.telegraf.rs/4439987-aleksandar-cupic-danas-raspisuje-izbore-za-predsednika-republike-ovo-je-cela-procedura": "2026-11-26T06:07:23.074382+00:00",
+  "https://www.danas.rs/kolumna/dragoljub-petrovic/deset-krimi-cacija/": "2026-11-26T06:07:23.074382+00:00",
+  "https://www.danas.rs/vesti/drustvo/ivan-ninic-branilac-nemanje-aleksica-moj-branjenik-je-jedan-od-najuglednijih-advokata-u-srbiji-i-nije-ucestvovao-u-tuci/": "2026-11-26T06:07:23.074382+00:00",
+  "https://nova.rs/zabava/sudbine/tina-tarner-biografija/": "2026-11-26T06:07:23.074382+00:00",
+  "https://www.danas.rs/vesti/drustvo/bavljenje-decom-nema-druge-tri-godine-posle-ribnikara-ponovo-pucnjava-u-skoli-ko-je-zakazao/": "2026-11-26T06:07:23.074382+00:00",
+  "https://www.tanjug.rs/srbija/drustvo/301084/u-srbiji-danas-oblacno-i-vetrovito-temperature-do-12-stepeni/vest": "2026-11-26T06:07:23.074382+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4439895-danas-kisovito-i-malo-toplije-temperatura-do-12-stepeni-evo-gde-se-ocekuju-olujni-udari-vetra-od-100-kmh": "2026-11-26T06:07:23.074382+00:00",
+  "https://www.kurir.rs/crna-hronika/10170170/likvidirani-skaljarac-gasao-vodju-kavackog-klana-jajima-i-dezodoransom": "2026-11-26T06:07:23.074382+00:00",
+  "https://www.kurir.rs/stars/10172827/vujadin-savic-preko-prijatelja-pokusava-da-ucutka-aleks-korac": "2026-11-26T06:07:23.074382+00:00",
+  "https://www.tanjug.rs/srbija/drustvo/301080/teretnjaci-na-kelebiji-cekaju-do-cetiri-sata-na-putnickim-terminalima-bez-zadrzavanja/vest": "2026-11-26T06:07:23.074382+00:00",
+  "https://www.danas.rs/svet/srbija-rusija-letovi-opasnosti/": "2026-11-26T06:07:23.074382+00:00",
+  "https://www.danas.rs/zivot/namirnice-za-snizavanje-loseg-holesterola/": "2026-11-26T06:07:23.074382+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-25T06:01+00:00",
-   "novih": 0,
-   "ukupno": 4508,
-   "sekundi": 498.8
-  },
   {
    "vreme": "2026-11-25T06:21+00:00",
    "novih": 4,
@@ -5963,6 +5969,12 @@
    "novih": 1,
    "ukupno": 4772,
    "sekundi": 641.8
+  },
+  {
+   "vreme": "2026-11-26T06:19+00:00",
+   "novih": 6,
+   "ukupno": 4778,
+   "sekundi": 748.3
   }
  ],
  "licnosti_foto": {
@@ -8747,7 +8759,7 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2125653072945045608",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "parandilovicnls": {
     "since_id": "2125689577541153253",
@@ -8775,39 +8787,39 @@
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "bibislav": {
     "since_id": "2125645033235784184",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "savomanojlovic": {
     "since_id": "2125708700589625615",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "zdravkoponos": {
     "since_id": "2123476746787860570",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "pavlegrbovic": {
     "since_id": "2125720267922043293",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "avucic": {
     "since_id": "2125704749492187244",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "anabrnabic": {
     "since_id": "2125162391440601222",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "milos_vucevic": {
     "since_id": "2125578808287719575",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "sns_srbija": {
     "since_id": "2125767341543923864",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "vlada_srbije": {
     "since_id": null,
@@ -8851,23 +8863,23 @@
    },
    "markodjuric": {
     "since_id": "2123870662255419709",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "nstarovic": {
     "since_id": "2122967633863565451",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "milenkojovanov": {
     "since_id": "2125263868012245341",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "acasapic": {
     "since_id": null,
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "borkostef": {
     "since_id": "2123837042505155014",
@@ -8879,63 +8891,63 @@
    },
    "dobrinacelnik": {
     "since_id": "2125619953965420831",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "jeremic_vuk": {
     "since_id": "2123007427536732502",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
     "t": 1795669687.6454802
    },
    "srdjanmil037": {
-    "since_id": "2125570574390870113",
-    "t": 1795668793.58728
+    "since_id": "2125830509255151644",
+    "t": 1795673364.2156575
    },
    "zoranlutovac": {
     "since_id": "2125676651476623475",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "pajticbojan": {
     "since_id": "2124855975492407587",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "n_zelenovic": {
     "since_id": "2125181071285162024",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "boskoobradovic": {
     "since_id": "2123742987129635150",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "sasaradulovich": {
     "since_id": "2125229031469601121",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "zaklina_prva": {
     "since_id": "2125642423456124947",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "stevanoccrp": {
     "since_id": "2125698229480178052",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "igorbrakus": {
     "since_id": "2125605797149257883",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "radoholicar": {
     "since_id": "2123165000919326944",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "borakonj": {
     "since_id": "2125749261694632423",
@@ -8943,7 +8955,7 @@
    },
    "narodnipokrets": {
     "since_id": "2125150420486238315",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "direktnors": {
     "since_id": "2125702878811541873",
@@ -9010,12 +9022,12 @@
     "t": 1795669687.6454802
    },
    "nedeljniknin": {
-    "since_id": "2125726226425827775",
-    "t": 1795668793.58728
+    "since_id": "2125831919053025338",
+    "t": 1795673364.2156575
    },
    "trajkovic_rada": {
     "since_id": "2123775843264569788",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "stateinl": {
     "since_id": "2124882590389924146",
@@ -9031,31 +9043,31 @@
    },
    "zatrijebacki": {
     "since_id": "2125315752265728509",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "srbininfo": {
     "since_id": "2125709878337696153",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "mfaserbia": {
     "since_id": "2125625581920243813",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "izlaz_dot_com": {
-    "since_id": "2125718577109979608",
-    "t": 1795668793.58728
+    "since_id": "2125826894511636963",
+    "t": 1795673364.2156575
    },
    "tihinavezi": {
     "since_id": "2125676108674891897",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "relativizacija": {
     "since_id": "2125312343618019666",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "seanmilanovic": {
     "since_id": "2125779805820080420",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    },
    "masinars": {
     "since_id": "2125695287469519313",
@@ -9063,10 +9075,50 @@
    },
    "claudedevs": {
     "since_id": "2125628717263372512",
-    "t": 1795668793.58728
+    "t": 1795673364.2156575
    }
   },
   "posts": [
+   {
+    "id": "2125831919053025338",
+    "x": "NedeljnikNIN",
+    "ime": "NIN",
+    "grupa": "",
+    "uloga": "",
+    "text": "Novi lek za rak dojke pokazao bolje rezultate od standardne terapije: Rizik od povratka bolesti manji za 30 odsto\n https://t.co/BvjoFoABSM",
+    "published": "2026-11-26T06:00:00.000+00:00",
+    "lajk": 1,
+    "prikazi": true,
+    "rubrika": "drustvo",
+    "tema": "Novi lek za rak dojke smanjuje rizik od povratka bolesti"
+   },
+   {
+    "id": "2125830509255151644",
+    "x": "srdjanmil037",
+    "ime": "Srđan Milivojević",
+    "grupa": "opozicija",
+    "uloga": "Demokratska stranka",
+    "text": "Zašto Nebitnik nije došao da podrži Vučićevića ispred policijske stanice?\nMakar da mu otpeva onu pesmu Godine bola, godine tuge...\nZato što nikada ne zna koga će policija sledećeg da uhapsi...",
+    "published": "2026-11-26T05:54:24.000+00:00",
+    "lajk": 48,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Milivojević o hapšenju Vučićevića i izostanku podrške",
+    "vest": "202611260251-efa3e6"
+   },
+   {
+    "id": "2125826894511636963",
+    "x": "izlaz_dot_com",
+    "ime": "IZLAZ.com",
+    "grupa": "",
+    "uloga": "",
+    "text": "Požar u prodavnici Tehnomanije na Novom Beogradu, saobraćaj obustavljen u Jurija Gagarina\n\nhttps://t.co/i0N8oS0lVK",
+    "published": "2026-11-26T05:40:02.000+00:00",
+    "lajk": 3,
+    "prikazi": true,
+    "rubrika": "hronika",
+    "tema": "Požar u Tehnomaniji na Novom Beogradu, obustavljen saobraćaj"
+   },
    {
     "id": "2125779805820080420",
     "x": "seanmilanovic",
@@ -20956,47 +21008,6 @@
     "prikazi": false,
     "rubrika": "sport",
     "tema": "Poređenje košarkaša Hrvatske i poslanika SNS-a"
-   },
-   {
-    "id": "2124842911359488429",
-    "x": "izlaz_dot_com",
-    "ime": "IZLAZ.com",
-    "grupa": "",
-    "uloga": "",
-    "text": "Tužilaštvo proverava Šapićevu imovinu u Trstu, zatražena pravna pomoć od Italije\n\nhttps://t.co/Bde8v3Z0Mt",
-    "published": "2026-11-23T12:30:02.000+00:00",
-    "lajk": 74,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Tužilaštvo proverava Šapićevu imovinu u Trstu",
-    "vest": "202611231439-954732"
-   },
-   {
-    "id": "2124842905932042387",
-    "x": "NedeljnikNIN",
-    "ime": "NIN",
-    "grupa": "",
-    "uloga": "",
-    "text": "\"Petrohemija\" pokreće proizvodnju: U remont uloženo 15 miliona evra\nhttps://t.co/GajOSPYAbD",
-    "published": "2026-11-23T12:30:01.000+00:00",
-    "lajk": 0,
-    "prikazi": true,
-    "rubrika": "ekonomija",
-    "tema": "Petrohemija pokreće proizvodnju nakon remonta",
-    "vest": "202611231209-46cd33"
-   },
-   {
-    "id": "2124841089437982998",
-    "x": "ZoranLutovac",
-    "ime": "Zoran Lutovac",
-    "grupa": "opozicija",
-    "uloga": "Demokratska stranka",
-    "text": "Milan Jovanović, simbol otpora u vremenu kriminala i beščašća. https://t.co/L0o2xlexBs",
-    "published": "2026-11-23T12:22:48.000+00:00",
-    "lajk": 5,
-    "prikazi": true,
-    "rubrika": "drustvo",
-    "tema": "Lutovac o preminulom novinaru Milanu Jovanoviću"
    }
   ],
   "pratim": [
@@ -43864,6 +43875,10 @@
      "naslov": "Novo Beograd - ada ciganlija and Cukarica - Banovo Brdo IMG 1757 tempo supermarket E763.jpg"
     }
    ]
+  },
+  "t:zatvor spuz": {
+   "t": 1795673323.9793868,
+   "items": []
   }
  },
  "x_objave": {
@@ -44196,7 +44211,8 @@
    "202611251305-361ea7",
    "202611260002-f23071",
    "202611260236-54e2a8",
-   "202611260150-2fe017"
+   "202611260150-2fe017",
+   "202611260119-a2a3b4"
   ],
   "istorija": [
    {
@@ -45368,6 +45384,18 @@
     "id": "202611260150-2fe017",
     "x": "2125826486833656153",
     "link": false
+   },
+   {
+    "t": 1795673375.2126431,
+    "id": "202611260119-a2a3b4",
+    "x": "2125834329746239838",
+    "link": false
+   },
+   {
+    "t": 1795673387.1928341,
+    "id": "anketa:a202611260609",
+    "x": "2125834380405023120",
+    "link": true
    }
   ],
   "ankete": {
@@ -45381,7 +45409,8 @@
    "a202611211933": "2124224578331562272",
    "a202611221935": "2124587583296659830",
    "a202611231939": "2124951051224617397",
-   "a202611241946": "2125315060759155032"
+   "a202611241946": "2125315060759155032",
+   "a202611260609": "2125834380405023120"
   }
  },
  "licnosti_auto": {
@@ -49919,13 +49948,28 @@
    "izvor": "dnevna",
    "vest": "202611240901-e32323",
    "tema": "Bezbednost u školama"
+  },
+  {
+   "id": "a202611260609",
+   "pitanje": "Da li je ispravno da se sredstva iz Plana rasta preusmere na zemlje Zapadnog Balkana s najvećim napretkom?",
+   "opcije": [
+    "Da, nagrađuje reforme",
+    "Ne, kažnjava ostale",
+    "Zavisi od kriterijuma",
+    "Nemam stav"
+   ],
+   "start": "2026-11-26T06:09+00:00",
+   "kraj": "2026-11-29T06:09+00:00",
+   "izvor": "dnevna",
+   "vest": "202611260105-033134",
+   "tema": "Plan rasta za Zapadni Balkan"
   }
  ],
  "skupstina": {
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštinace Republike Srbije u Petnaestom sazivu 25.11.2026.",
-  "provereno": "2026-11-26T05:53:11.020314+00:00",
+  "provereno": "2026-11-26T06:09:53.691024+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },

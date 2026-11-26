@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-25T23:50:05.738495+00:00",
+ "updated": "2026-11-26T06:07:23.074382+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -63,6 +63,12 @@
    "url": "https://informer.rs/politika/vesti/1173225/dragan-j-vuicicevic-skup-podrske-palata-pravde",
    "title": "Sutra u 9.45 ispred Palate pravde! Skup podrške Draganu J. Vučićeviću - Pokažimo da ne pristajemo na progon (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173294/skup-podrske-palata-pravde-dragan-j-vucicevic",
+   "title": "Svi ispred Palate pravde u 9:45 časova! Skup podrške Draganu J. Vučićeviću - Pokažimo da ne pristajemo na pritiske i progon (FOTO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -70,7 +76,8 @@
   "Novi skup podrške uhapšenom Draganu Vučićeviću ispred PS Voždovac",
   "Novi skup podrške uhapšenom Draganu Vučićeviću ispred PS Voždovac",
   "Novi skup podrške uhapšenom Draganu Vučićeviću ispred PS Voždovac",
-  "Sutra u 9.45 ispred Palate pravde! Skup podrške Draganu J. Vučićeviću - Pokažimo da ne pristajemo na progon (FOTO)"
+  "Sutra u 9.45 ispred Palate pravde! Skup podrške Draganu J. Vučićeviću - Pokažimo da ne pristajemo na progon (FOTO)",
+  "Svi ispred Palate pravde u 9:45 časova! Skup podrške Draganu J. Vučićeviću - Pokažimo da ne pristajemo na pritiske i progon (FOTO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -83,6 +90,6 @@
   "alt": "Car entering a brightly lit tunnel at night",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
