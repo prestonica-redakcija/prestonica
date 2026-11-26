@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T16:17:51.241334+00:00",
- "updated": "2026-11-26T20:14:09.529080+00:00",
+ "updated": "2026-11-26T20:45:20.797882+00:00",
  "sources": [
   {
    "name": "N1",
@@ -52,13 +52,27 @@
    "url": "https://nova.rs/vesti/drustvo/pannon-rtv-se-izvinjava-zbog-jednostranog-izvestavanja/",
    "title": "Pannon RTV se izvinjava zbog jednostranog izveštavanja, tvrde da su bili pod političkim uticajem: Odgovorio im Peter Mađar",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/madjar-reagovao-na-objavu-pannon-rtv/",
+   "title": "Mađar reagovao na objavu Pannon RTV-a: Od koga su dolazili politički uticaji, šta je naručeno?",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/region/peter-madjar-reagovao-na-objavu-pannon-rtv/",
+   "title": "Mađar reagovao na objavu Pannon RTV-a: Od koga su dolazili politički uticaji i cenzura?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Panon RTV zacrnela sajt, izvinjava se zbog jednostranog informisanja",
   "Subotica: Panon RTV zacrnela sajt, izvinjava se zbog jednostranog informisanja",
   "Panon RTV se izvinio zbog \"jednostranog informisanja\", navodi da je bio pod političkim uticajem; Reagovao i Peter Mađar",
-  "Pannon RTV se izvinjava zbog jednostranog izveštavanja, tvrde da su bili pod političkim uticajem: Odgovorio im Peter Mađar"
+  "Pannon RTV se izvinjava zbog jednostranog izveštavanja, tvrde da su bili pod političkim uticajem: Odgovorio im Peter Mađar",
+  "Mađar reagovao na objavu Pannon RTV-a: Od koga su dolazili politički uticaji, šta je naručeno?",
+  "Mađar reagovao na objavu Pannon RTV-a: Od koga su dolazili politički uticaji i cenzura?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +85,6 @@
   "alt": "This is an empty modern news studio set",
   "link": "https://unsplash.com/@musgraphic"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

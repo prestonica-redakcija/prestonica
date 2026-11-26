@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T12:35:38.207926+00:00",
- "updated": "2026-11-26T19:44:09.384390+00:00",
+ "updated": "2026-11-26T20:45:20.797882+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -71,6 +71,12 @@
    "url": "https://www.danas.rs/sport/fifa-hakerski-napad/",
    "title": "FIFA na meti sajber napada",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301351/zelenski-upozorio-da-rusija-priprema-novi-masovni-napad/vest",
+   "title": "Zelenski upozorio da Rusija priprema novi masovni napad",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -79,7 +85,8 @@
   "\"Imamo informacije, spremaju se za novi masovni napad\"",
   "MOSKVA PROMENILA TAKTIKU, RUSIJA IMA NOVE METE U UKRAJINI! Anatiličar upozorava: Napadi dronovima liče na \"ujede komaraca\", ali evo šta im je pravi cilj",
   "Spremaju nova pravila: Penzija sa 63 godine – moguće je, ali...",
-  "FIFA na meti sajber napada"
+  "FIFA na meti sajber napada",
+  "Zelenski upozorio da Rusija priprema novi masovni napad"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -93,6 +100,6 @@
   "osoba": "Volodimir Zelenski",
   "alt": "Zelenski: Rusija privodi kraju pripreme za novi masovni napad na infrastrukturu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

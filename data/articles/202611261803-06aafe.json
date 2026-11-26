@@ -24,16 +24,23 @@
  "places": [],
  "importance": 7,
  "published": "2026-11-26T17:03:44.772604+00:00",
- "updated": "2026-11-26T17:03:44.772604+00:00",
+ "updated": "2026-11-26T20:45:20.797882+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/vlajic-predsednicki-izbori-vucic-studentska-lista/",
    "title": "Vlajić o predsedničkim izborima: Najava da SNS neće učestvovati može biti politički spin",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/vlajic-o-predsednickim-izborima-najava-da-sns-nece-ucestvovati-moze-biti-politicki-spin/",
+   "title": "Vlajić o predsedničkim izborima: Najava da SNS neće učestvovati može biti politički spin",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Vlajić o predsedničkim izborima: Najava da SNS neće učestvovati može biti politički spin",
   "Vlajić o predsedničkim izborima: Najava da SNS neće učestvovati može biti politički spin"
  ],
  "author": "Redakcija Prestonice",
@@ -48,5 +55,7 @@
   "osoba": "Aleksandar Vučić",
   "izvor_x": true,
   "alt": "Vlajić: Vučićeva najava da SNS neće na predsedničke izbore može biti politički spin"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
