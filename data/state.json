@@ -1,15 +1,5 @@
 {
  "seen": {
-  "https://www.kurir.rs/planeta/10168994/novi-protesti-sirom-francuske": "2026-11-21T18:31:19.960105+00:00",
-  "https://www.kurir.rs/vesti/drustvo/10169004/Aktiviran-sistem-Pronadji-me-zbog-decaka-iz-Zemuna": "2026-11-21T18:31:19.960105+00:00",
-  "https://www.danas.rs/vesti/drustvo/mup-alarm-pronadji-me-nestao-17-godisnji-andrej-davidovic/": "2026-11-21T18:31:19.960105+00:00",
-  "https://www.b92.net/biz/svet/vesti/286938/tramp-huang-zasluzuje-drugu-sansu/vest": "2026-11-21T18:31:19.960105+00:00",
-  "https://www.kurir.rs/planeta/10169008/rusi-pogodili-trafostanicu-koja-snabdeva-ukrajinsku-vojnu-industriju": "2026-11-21T18:31:19.960105+00:00",
-  "https://nova.rs/vesti/drustvo/gledajte-uzivo-dnevnik-tv-nova21112026/": "2026-11-21T18:31:19.960105+00:00",
-  "https://nova.rs/vesti/politika/kurti-pozvao-zelenskog-da-prizna-kosovo-time-bi-ojacao-medjunarodni-poredak-koji-ukrajina-brani/": "2026-11-21T18:31:19.960105+00:00",
-  "https://n1info.rs/vesti/francuska-ambasada-cestitala-srbiji-formiranje-skupstine-aleksandar-cupic/": "2026-11-21T18:31:19.960105+00:00",
-  "https://www.telegraf.rs/vesti/srbija/4437295-ovakvo-vreme-niste-ocekivali-mnogi-ce-se-iznenaditi-detaljna-prognoza-vremena-do-kraja-novembra": "2026-11-21T18:31:19.960105+00:00",
-  "https://www.youtube.com/watch?v=SLmSWWIMlY8": "2026-11-21T18:31:19.960105+00:00",
   "https://www.tanjug.rs/svet/politika/299762/francuska-na-protestima-82500-ljudi-organizatori-tvrde-da-ih-je-bilo-150000/vest": "2026-11-21T18:46:04.223189+00:00",
   "https://www.tanjug.rs/svet/drustvo/299770/preminuo-paolo-bulgari-cuveni-italijanski-juvelir/vest": "2026-11-21T18:46:04.223189+00:00",
   "https://www.tanjug.rs/srbija/drustvo/299773/mup-nestao-andrej-davidovic-17-iz-zemuna-aktiviran-sistem-pronadi-me/vest": "2026-11-21T18:46:04.223189+00:00",
@@ -5953,18 +5943,19 @@
   "https://www.danas.rs/vesti/politika/hadziu-maksimalno-se-angazujemo-da-kosovo-ne-izgubi-sredstva-iz-plana-rasta-eu/": "2026-11-26T18:25:03.828784+00:00",
   "https://www.kurir.rs/region/hrvatska/10174114/zaharova-o-rezoluciji-ep-o-vukovaru-zlocin-je-precutkivanje-srpskih-zrtava": "2026-11-26T18:25:03.828784+00:00",
   "https://n1info.rs/video/novi-dan/tema-jutra-hiperprodukcija-hapsenja/": "2026-11-26T18:25:03.828784+00:00",
-  "https://www.kurir.rs/vesti/politika/10173967/srbija-bira-6-predsednika-27-decembra": "2026-11-26T18:25:03.828784+00:00"
+  "https://www.kurir.rs/vesti/politika/10173967/srbija-bira-6-predsednika-27-decembra": "2026-11-26T18:25:03.828784+00:00",
+  "https://www.tanjug.rs/srbija/politika/301322/miodrag-linta-rezolucija-evropskog-parlamenta-o-vukovaru-produbljuje-podele-jer-precutkuje-srpske-zrtve/vest": "2026-11-26T18:41:26.337473+00:00",
+  "https://www.tanjug.rs/svet/drustvo/301321/vise-od-1200-letova-u-sad-otkazano-i-odlozeno-na-dan-zahvalnosti-zbog-nevremena/vest": "2026-11-26T18:41:26.337473+00:00",
+  "https://www.kurir.rs/planeta/10174121/NEVREME-U-SAD-PARALISALO-AERODROME-Otkazano-i-odlozeno-vise-od-1.600-letova-tokom-proslave-Dana-zahvalnosti": "2026-11-26T18:41:26.337473+00:00",
+  "https://nova.rs/vesti/drustvo/gledajte-uzivo-dnevnik-tv-nova-26-11/": "2026-11-26T18:41:26.337473+00:00",
+  "https://n1info.rs/vesti/uhapsen-maloletnik-iz-okoline-petrovca-na-mlavi-sa-snajperskom-puskom-bombama-i-drogom/": "2026-11-26T18:41:26.337473+00:00",
+  "https://www.euronews.rs/srbija/politika/253865/rik-usvojio-obrasce-i-rokovnik-za-predsednicke-izbore/vest": "2026-11-26T18:41:26.337473+00:00",
+  "https://www.telegraf.rs/vesti/beograd/4440547-oglasio-se-mup-o-ponovnom-izbijanju-pozara-u-tehnomaniji-nakon-20-minuta-opet-buknula-vatra": "2026-11-26T18:41:26.337473+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-26T03:22+00:00",
-   "novih": 1,
-   "ukupno": 4768,
-   "sekundi": 799.9
-  },
   {
    "vreme": "2026-11-26T03:32+00:00",
    "novih": 0,
@@ -6318,6 +6309,12 @@
    "novih": 0,
    "ukupno": 5063,
    "sekundi": 899.5
+  },
+  {
+   "vreme": "2026-11-26T18:56+00:00",
+   "novih": 0,
+   "ukupno": 5063,
+   "sekundi": 915.6
   }
  ],
  "licnosti_foto": {
@@ -6510,6 +6507,84 @@
    "skip": false,
    "viewers": null,
    "slug": "priveden-vlasnik-informera-dragan-j-vucicevic-zvanicne-xnncvsitbn8"
+  },
+  {
+   "id": "-J0oxR_vnNY",
+   "title": "Zašto Crni petak zapravo nije počeo kao dan za kupovinu",
+   "kanal": "Insajder",
+   "published": "2026-11-26T18:40:07+00:00",
+   "thumb": "https://i.ytimg.com/vi/-J0oxR_vnNY/hqdefault.jpg",
+   "live": "none",
+   "desc": "Iako se danas Crni petak univerzalno povezuje sa velikim rasprodajama, popustima i ogromnim redovima ispred prodavnica, njegovo poreklo zapravo nije vezano za kupovinu. Analiza istorijata ovog termina otkriva da se naziv prvobitno vezuje za finansijsku krizu koja je pogodila američko tržište zlata davne 1869. godine. Tek mnogo kasnije, ovaj izraz dobija potpuno drugačiju konotaciju, koja ga je transformisala u globalni šoping fenomen poznat širom sveta.\n\nGotovo čitav vek nakon finansijskog sloma, termin 'crni petak' ponovo je počeo da se koristi, ali u sasvim drugačijem kontekstu. Policija u Filadelfiji je ovim izrazom opisivala haos i saobraćajne gužve koje su nastajale u gradu dan nakon Da",
+   "spektar": "opozicija",
+   "viewers": null,
+   "naslov": "Zašto Crni petak zapravo nije počeo kao dan za kupovinu",
+   "opis": "Snimak Insajdera analizira poreklo termina Crni petak, koji se danas vezuje za rasprodaje i popuste. Prema opisu, naziv se prvobitno odnosio na finansijsku krizu na američkom tržištu zlata 1869. godine.",
+   "tekst": [
+    "Snimak se bavi istorijatom izraza Crni petak, koji se danas univerzalno povezuje sa velikim rasprodajama, popustima i redovima ispred prodavnica. Kako se navodi, njegovo poreklo nije vezano za kupovinu.",
+    "U opisu se navodi da se naziv prvobitno vezuje za finansijsku krizu koja je pogodila američko tržište zlata 1869. godine, a da je tek mnogo kasnije izraz dobio drugačije značenje i postao globalni šoping fenomen.",
+    "Gotovo vek posle finansijskog sloma termin se ponovo javlja u drugom kontekstu: policija u Filadelfiji njime je opisivala haos i saobraćajne gužve u gradu."
+   ],
+   "rubrika": "drustvo",
+   "oznake": [
+    "Crni petak",
+    "istorija",
+    "Filadelfija",
+    "tržište zlata",
+    "Insajder"
+   ],
+   "slug": "zasto-crni-petak-zapravo-nije-poceo-kao-dan-za-kupovinu--j0oxr-vnny"
+  },
+  {
+   "id": "--OHtkn6AtI",
+   "title": "SVET I MI - CELA EMISIJA - 26. novembar 2026.",
+   "kanal": "Insajder",
+   "published": "2026-11-26T18:39:04+00:00",
+   "thumb": "https://i.ytimg.com/vi/--OHtkn6AtI/hqdefault.jpg",
+   "live": "none",
+   "desc": "🔺 Pratite nas na https://insajder.net/ 🔺\r\n\r\nSamo nas gledajte:\r\n📺 MTS/Iris 123\r\n📺 Supernova 23 \r\n📺 SBB/EON/Yettel 11\r\n\r\n🔺 Preuzmite Insajder aplikaciju za vaš telefon 🔺\r\nverzija za Android korisnike https://play.google.com/store/apps/details?id=io.mediaworks.android.insajder\r\nverzija za IOS korisnike https://apps.apple.com/us/app/insajder/id1297639983\r\n\r\nInsajder i na društvenim mrežama\r\nFacebook https://www.facebook.com/insajder.net\r\nInstagram https://www.instagram.com/insajder_net/\r\nTwitter https://twitter.com/Insajder_net\r\nTikTok https://www.tiktok.com/@insajdertv\r\n\r\n🧡 Zapratite Insajder Video kanal ukoliko do sada niste 🧡\r\nhttps://www.youtube.com/insajdervideo?sub_confirmation=1",
+   "spektar": "opozicija",
+   "viewers": null,
+   "naslov": "Svet i mi - cela emisija od 26. novembra 2026.",
+   "opis": "Cela epizoda emisije Svet i mi koju emituje Insajder, objavljena 26. novembra 2026. Opis snimka ne navodi teme ni goste.",
+   "tekst": [
+    "U pitanju je cela epizoda emisije Svet i mi, emitovana 26. novembra 2026. godine na Insajderu.",
+    "Opis snimka ne navodi teme emisije ni goste, već samo kanale na kojima se program prati."
+   ],
+   "rubrika": "mediji",
+   "oznake": [
+    "Svet i mi",
+    "Insajder",
+    "emisija"
+   ],
+   "slug": "svet-i-mi-cela-emisija-od-26-novembra-2026---ohtkn6ati"
+  },
+  {
+   "id": "UWIithOk_8s",
+   "title": "Stručnjak za čistu energiju: Obnovljivi izvori smanjuju cene i pružaju energetsku nezavisnost",
+   "kanal": "Insajder",
+   "published": "2026-11-26T18:26:36+00:00",
+   "thumb": "https://i.ytimg.com/vi/UWIithOk_8s/hqdefault.jpg",
+   "live": "none",
+   "desc": "Konferencija Ujedinjenih nacija o klimatskim promenama u Turskoj završena je posle rekordno dugog produžetka diskusije, ali bez uspeha. Završna deklaracija Samita nije usvojena jer je izostao konsenzus o jednom od ključnih pitanja u borbi protiv globalnog zagrevanja - napuštanju fosilnih goriva. Klimatske promene i globalno zagrevanje nisu nešto što se dešava daleko od nas i dokaz za to su sve češće ekstremne vremenske prilike u Srbiji. U isto vreme, Srbija je i dalje prilično zavisna od uglja, ali i od uvoza energenata - što u današnje vreme predstavlja spoljno-politički izazov. Kako sprovesti energetsku tranziciju čiji bi rezultat bio efikasan prelazak na čiste izvore energije bez šoka po ",
+   "spektar": "opozicija",
+   "viewers": null,
+   "naslov": "Stručnjak za čistu energiju: Obnovljivi izvori smanjuju cene i pružaju energetsku nezavisnost",
+   "opis": "U prilogu Insajdera stručnjak za čistu energiju govori o energetskoj tranziciji u Srbiji, povodom završetka klimatske konferencije UN u Turskoj. Konferencija je završena bez usvojene završne deklaracije zbog neslaganja oko napuštanja fosilnih goriva.",
+   "tekst": [
+    "Konferencija Ujedinjenih nacija o klimatskim promenama u Turskoj završena je posle rekordno dugog produžetka diskusije, ali bez završne deklaracije. Konsenzus je izostao oko napuštanja fosilnih goriva, jednog od ključnih pitanja u borbi protiv globalnog zagrevanja.",
+    "U opisu se navodi da su ekstremne vremenske prilike u Srbiji sve češće i da je zemlja i dalje prilično zavisna od uglja i uvoza energenata, što je i spoljnopolitički izazov.",
+    "Otvara se pitanje kako sprovesti energetsku tranziciju i efikasno preći na čiste izvore energije bez šoka po građane i privredu. Stručnjak u snimku, prema naslovu, tvrdi da obnovljivi izvori smanjuju cene i pružaju energetsku nezavisnost."
+   ],
+   "rubrika": "drustvo",
+   "oznake": [
+    "energetska tranzicija",
+    "obnovljivi izvori",
+    "klimatske promene",
+    "Srbija",
+    "UN"
+   ],
+   "slug": "strucnjak-za-cistu-energiju-obnovljivi-izvori-smanjuju-cene-uwiithok-8s"
   },
   {
    "id": "K6VnCHPUp5g",
@@ -7019,59 +7094,6 @@
    "slug": "kurir-televizija-o-talasu-hapsenja-od-policijskih-sefova-do-glfr32yjbm4"
   },
   {
-   "id": "tx7QSoUluSI",
-   "title": "Nastavljeno suđenje za napad na novinarku Insajdera Natašu Mijušković",
-   "kanal": "Insajder",
-   "published": "2026-11-26T15:52:32+00:00",
-   "thumb": "https://i.ytimg.com/vi/tx7QSoUluSI/hqdefault.jpg",
-   "live": "none",
-   "desc": "Policija nije obezbeđivala javni red i mir za vreme odlazeće vlasti. Mnogi su to osetili i na svojoj koži, poput naše koleginice, novinarke Insajdera Nataše Mijušković. Suđenje za napad na nju nastavljeno je danas u Prvom sudu u Beogradu gde je u svoju oštećene saslušana. Nataša Mijušković je detaljno opisala šta se tačno dogodilo 2. novembra prošle godine dok je bila na novinarskom zadatku, kada ju je u šatorskom naselju napala grupa muškaraca i uputila joj pretnje. Sledeće suđenje zakazano je za 2. februar, kada će biti pozvani svedoci. Suđenje je pratila novinarka Insajdera Ana Mihaljčić.\n\n🔺 Pratite nas na https://insajder.net/ 🔺\n\nSamo nas gledajte:\n📺 MTS/Iris 123\n📺 Supernova 23 \n📺 SBB/EO",
-   "spektar": "opozicija",
-   "viewers": null,
-   "naslov": "Nastavljeno suđenje za napad na novinarku Insajdera Natašu Mijušković",
-   "opis": "Pred Prvim sudom u Beogradu nastavljeno je suđenje za napad na novinarku Insajdera Natašu Mijušković, koja je saslušana u svojstvu oštećene. Ona je opisala događaj od 2. novembra prošle godine, kada je, prema njenom iskazu, na novinarskom zadatku u šatorskom naselju napadnuta i pretnjama izložena od grupe muškaraca.",
-   "tekst": [
-    "Suđenje za napad na novinarku Insajdera Natašu Mijušković nastavljeno je u Prvom sudu u Beogradu. Na ovom ročištu saslušana je Nataša Mijušković u svojstvu oštećene.",
-    "Mijušković je detaljno opisala šta se dogodilo 2. novembra prošle godine, dok je bila na novinarskom zadatku. Kako se navodi, u šatorskom naselju ju je napala grupa muškaraca i uputila joj pretnje.",
-    "Sledeće ročište zakazano je za 2. februar, kada će biti pozvani svedoci. Suđenje je pratila novinarka Insajdera Ana Mihaljčić."
-   ],
-   "rubrika": "hronika",
-   "oznake": [
-    "Nataša Mijušković",
-    "Insajder",
-    "Prvi sud u Beogradu",
-    "napad na novinare",
-    "Ana Mihaljčić"
-   ],
-   "slug": "nastavljeno-sudjenje-za-napad-na-novinarku-insajdera-natasu-tx7qsoulusi"
-  },
-  {
-   "id": "4SO6hNXD8JM",
-   "title": "Nikola Seneši o cenama nekretnina",
-   "kanal": "Insajder",
-   "published": "2026-11-26T15:44:59+00:00",
-   "thumb": "https://i.ytimg.com/vi/4SO6hNXD8JM/hqdefault.jpg",
-   "live": "none",
-   "desc": "Finansijski forenzičar dr Nikola Seneši u emisiji 3D na Insajder TV, govoreći o tržištu nekretnina u Srbiji, izneo je očekivanje da bi cene kvadrata mogle da padnu na 50 do 60 odsto sadašnje vrednosti, najpre u najskupljim delovima Beograda, a zatim i u ostatku zemlje.\n\nSeneši je naglasio da su njegove ranije prognoze bile pogrešne, a ukazao je i na nesrazmeru između cena nekretnina i primanja građana, ocenjujući da sadašnji odnos nema ekonomskog smisla.\n\n🔺 Pratite nas na https://insajder.net/ 🔺\n\nSamo nas gledajte:\n📺 MTS/Iris 123\n📺 SBB/EON/Yettel 11\n📺 Supernova 23\n\n🔺 Preuzmite Insajder aplikaciju za vaš telefon 🔺\nverzija za Android korisnike https://play.google.com/store/apps/details?id=io.m",
-   "spektar": "opozicija",
-   "viewers": null,
-   "naslov": "Nikola Seneši o cenama nekretnina",
-   "opis": "U emisiji 3D na Insajder TV finansijski forenzičar dr Nikola Seneši govorio je o tržištu nekretnina u Srbiji. Prema njegovom očekivanju, cene kvadrata mogle bi da padnu na 50 do 60 odsto sadašnje vrednosti, prvo u najskupljim delovima Beograda, a potom i u ostatku zemlje.",
-   "tekst": [
-    "Gostujući u emisiji 3D na Insajder TV, finansijski forenzičar dr Nikola Seneši izneo je svoja očekivanja o kretanju cena nekretnina u Srbiji. Seneši navodi da bi cene kvadrata mogle da padnu na 50 do 60 odsto sadašnje vrednosti, najpre u najskupljim delovima Beograda, a zatim i u ostatku zemlje.",
-    "Seneši je naglasio da su njegove ranije prognoze bile pogrešne. Ukazao je i na nesrazmeru između cena nekretnina i primanja građana, a prema njegovoj oceni, sadašnji odnos nema ekonomskog smisla."
-   ],
-   "rubrika": "ekonomija",
-   "oznake": [
-    "Nikola Seneši",
-    "tržište nekretnina",
-    "cene kvadrata",
-    "emisija 3D",
-    "Insajder TV"
-   ],
-   "slug": "nikola-senesi-o-cenama-nekretnina-4so6hnxd8jm"
-  },
-  {
    "id": "Sz4YtYd3l98",
    "title": "SPECIJAL SA ANOM BRNABIC 26 11",
    "kanal": "Informer",
@@ -7094,33 +7116,6 @@
     "specijal"
    ],
    "slug": "specijal-sa-anom-brnabic-na-informer-tv-26-novembar-sz4ytyd3l98"
-  },
-  {
-   "id": "mB2-1F-3-K0",
-   "title": "Prof. Kovačević (FPN): Rezolucija o Vukovaru pokazuje opšte nerazumevanje onoga što treba regionu",
-   "kanal": "Insajder",
-   "published": "2026-11-26T15:33:08+00:00",
-   "thumb": "https://i.ytimg.com/vi/mB2-1F-3-K0/hqdefault.jpg",
-   "live": "none",
-   "desc": "Evropski parlament usvojio je rezoluciju povodom 35. godišnjice pada i razaranja Vukovara. Rezolucijom se traži otvaranje ratnih arhiva, dostavljanje informacija o nestalima i prestanak veličanja osuđenih ratnih zločinaca. Predlog  rezolucije koji su podneli hrvatski poslanici u Evropskom parlamentu doživeo je izmene kroz amandmane pa je prvobitni tekst donekle ublažen. Da li je ova rezolucija predložena samo zbog godišnjice obeležavanja Dana žrtava Vukovara ili postoji širi kontekst, o tome je za 3D govorio profesor Fakulteta političkih nauka Despot Kovačević. \n\n🔺 Pratite nas na https://insajder.net/ 🔺\r\n\r\nSamo nas gledajte:\r\n📺 MTS/Iris 123\r\n📺 Supernova 23 \r\n📺 SBB/EON/Yettel 11\r\n\r\n🔺 Preuzmit",
-   "spektar": "opozicija",
-   "viewers": null,
-   "naslov": "Kovačević o rezoluciji Evropskog parlamenta o Vukovaru: opšte nerazumevanje regiona",
-   "opis": "Profesor Fakulteta političkih nauka Despot Kovačević govorio je u emisiji 3D o rezoluciji Evropskog parlamenta povodom 35. godišnjice pada i razaranja Vukovara. U snimku se razmatra da li je rezolucija predložena samo zbog godišnjice ili postoji širi kontekst.",
-   "tekst": [
-    "Evropski parlament usvojio je rezoluciju povodom 35. godišnjice pada i razaranja Vukovara. Njome se traži otvaranje ratnih arhiva, dostavljanje informacija o nestalima i prestanak veličanja osuđenih ratnih zločinaca.",
-    "Predlog rezolucije podneli su hrvatski poslanici u Evropskom parlamentu. Amandmanima je prvobitni tekst donekle ublažen.",
-    "Prema naslovu snimka, Kovačević smatra da rezolucija pokazuje opšte nerazumevanje onoga što je regionu potrebno. U emisiji se otvara i pitanje šireg konteksta njenog usvajanja."
-   ],
-   "rubrika": "politika",
-   "oznake": [
-    "Despot Kovačević",
-    "Evropski parlament",
-    "Vukovar",
-    "rezolucija",
-    "Fakultet političkih nauka"
-   ],
-   "slug": "kovacevic-o-rezoluciji-evropskog-parlamenta-o-vukovaru-mb2-1f-3-k0"
   },
   {
    "id": "45IBdJq2t0s",
@@ -9187,7 +9182,7 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2125653072945045608",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "parandilovicnls": {
     "since_id": "2126001420726116463",
@@ -9215,39 +9210,39 @@
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "bibislav": {
     "since_id": "2125995640350216203",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "savomanojlovic": {
     "since_id": "2125708700589625615",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "zdravkoponos": {
     "since_id": "2123476746787860570",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "pavlegrbovic": {
     "since_id": "2125984975501525442",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "avucic": {
     "since_id": "2125973843126669741",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "anabrnabic": {
     "since_id": "2125989686778970255",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "milos_vucevic": {
     "since_id": "2125578808287719575",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "sns_srbija": {
-    "since_id": "2125989629275124044",
-    "t": 1795714721.8260112
+    "since_id": "2126011010607616034",
+    "t": 1795718553.6525753
    },
    "vlada_srbije": {
     "since_id": null,
@@ -9291,23 +9286,23 @@
    },
    "markodjuric": {
     "since_id": "2123870662255419709",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "nstarovic": {
     "since_id": "2122967633863565451",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "milenkojovanov": {
     "since_id": "2125263868012245341",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "acasapic": {
     "since_id": null,
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "borkostef": {
     "since_id": "2123837042505155014",
@@ -9319,11 +9314,11 @@
    },
    "dobrinacelnik": {
     "since_id": "2125934275107205252",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "jeremic_vuk": {
     "since_id": "2123007427536732502",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
@@ -9331,51 +9326,51 @@
    },
    "srdjanmil037": {
     "since_id": "2125894646828077282",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "zoranlutovac": {
     "since_id": "2126006288316518692",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "pajticbojan": {
     "since_id": "2124855975492407587",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "n_zelenovic": {
     "since_id": "2125994451071811584",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "boskoobradovic": {
     "since_id": "2123742987129635150",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "sasaradulovich": {
     "since_id": "2125893466747973687",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "zaklina_prva": {
     "since_id": "2125892350140616816",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "stevanoccrp": {
     "since_id": "2125698229480178052",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "igorbrakus": {
     "since_id": "2125605797149257883",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "radoholicar": {
     "since_id": "2123165000919326944",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "borakonj": {
     "since_id": "2125909139595346374",
@@ -9383,7 +9378,7 @@
    },
    "narodnipokrets": {
     "since_id": "2125977301318078936",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "direktnors": {
     "since_id": "2126014304029712795",
@@ -9450,12 +9445,12 @@
     "t": 1795716604.933849
    },
    "nedeljniknin": {
-    "since_id": "2125998020370309579",
-    "t": 1795714721.8260112
+    "since_id": "2126013118128259535",
+    "t": 1795718553.6525753
    },
    "trajkovic_rada": {
     "since_id": "2123775843264569788",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "stateinl": {
     "since_id": "2124882590389924146",
@@ -9471,31 +9466,31 @@
    },
    "zatrijebacki": {
     "since_id": "2125910063739236520",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "srbininfo": {
-    "since_id": "2126000776946339870",
-    "t": 1795714721.8260112
+    "since_id": "2126022927946588325",
+    "t": 1795718553.6525753
    },
    "mfaserbia": {
     "since_id": "2125625581920243813",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "izlaz_dot_com": {
-    "since_id": "2126007024727085195",
-    "t": 1795714721.8260112
+    "since_id": "2126019354575683834",
+    "t": 1795718553.6525753
    },
    "tihinavezi": {
     "since_id": "2125951653216243840",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "relativizacija": {
     "since_id": "2125312343618019666",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "seanmilanovic": {
     "since_id": "2125779805820080420",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    },
    "masinars": {
     "since_id": "2126012629017628798",
@@ -9503,10 +9498,51 @@
    },
    "claudedevs": {
     "since_id": "2125628717263372512",
-    "t": 1795714721.8260112
+    "t": 1795718553.6525753
    }
   },
   "posts": [
+   {
+    "id": "2126022927946588325",
+    "x": "srbininfo",
+    "ime": "СРБИН инфо",
+    "grupa": "",
+    "uloga": "",
+    "text": "Вучић припрема штрајк глађу у Скупштини да би изазвао сажаљење ЕУ и себе покушао да спаси затвора: Креће невиђени циркус!?\n\nhttps://t.co/QpG5RrlrkU",
+    "published": "2026-11-26T18:39:00.000+00:00",
+    "lajk": 0,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić i najava mogućeg štrajka glađu u Skupštini",
+    "vest": "202611261717-ccd0a4"
+   },
+   {
+    "id": "2126019354575683834",
+    "x": "izlaz_dot_com",
+    "ime": "IZLAZ.com",
+    "grupa": "",
+    "uloga": "",
+    "text": "Studenti nagovestili da je Saičić predsednički kandidat? U objavi sakrili pesmu o \"samuraju\n\nhttps://t.co/d0hcSYKIMd",
+    "published": "2026-11-26T18:24:48.000+00:00",
+    "lajk": 12,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Studenti nagoveštavaju Saičića kao predsedničkog kandidata",
+    "vest": "202611261717-8eb4ef"
+   },
+   {
+    "id": "2126016897174876586",
+    "x": "izlaz_dot_com",
+    "ime": "IZLAZ.com",
+    "grupa": "",
+    "uloga": "",
+    "text": "Veze vrha SNS-a, biznismena i kriminalnih klanova: Kapilarni glasovi i poslovi u energetici\n\nhttps://t.co/ilPzf0sN6Z",
+    "published": "2026-11-26T18:15:02.000+00:00",
+    "lajk": 5,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Veze vrha SNS-a, biznismena i kriminalnih klanova u energetici"
+   },
    {
     "id": "2126014407347970050",
     "x": "LaziDetektor",
@@ -9538,6 +9574,23 @@
     "tema": "Samit Procesa Brdo-Brioni sutra u Ohridu"
    },
    {
+    "id": "2126014092364140856",
+    "x": "izlaz_dot_com",
+    "ime": "IZLAZ.com",
+    "grupa": "",
+    "uloga": "",
+    "text": "Raspisni su predsednički izbori. Studentski pokret sutra bi trebalo da saopšti ime svog kandidata, rekao je za https://t.co/tkFnQtdenF narodni poslanik Studentske liste Željko Hubač. Srbija bira predsednika 27. decembra.\n\nProšlo je mesec dana od parlamentarnih izbora. Događaji su https://t.co/BuHDp1q1xI",
+    "published": "2026-11-26T18:03:53.000+00:00",
+    "lajk": 4,
+    "slike": [
+     "https://pbs.twimg.com/amplify_video_thumb/2126011551580635137/img/mzDds2-sh2UCkl6s.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Predsednički izbori 27. decembra, studenti sutra saopštavaju kandidata",
+    "vest": "202611261717-8eb4ef"
+   },
+   {
     "id": "2126013980321989081",
     "x": "veceivan",
     "ime": "Ivan Ivanović",
@@ -9567,6 +9620,33 @@
     "tema": "Siniša Kovačević o RTS-u"
    },
    {
+    "id": "2126013118128259535",
+    "x": "NedeljnikNIN",
+    "ime": "NIN",
+    "grupa": "",
+    "uloga": "",
+    "text": "Brisel uvodi kvote za hibride iz Srbije, koliko bi nova mera mogla da pogodi fabriku u Kragujevcu\nhttps://t.co/rSd4fbbGq3",
+    "published": "2026-11-26T18:00:01.000+00:00",
+    "lajk": 2,
+    "prikazi": true,
+    "rubrika": "ekonomija",
+    "tema": "Kvote EU za hibride iz Srbije i uticaj na fabriku u Kragujevcu"
+   },
+   {
+    "id": "2126012648076591139",
+    "x": "izlaz_dot_com",
+    "ime": "IZLAZ.com",
+    "grupa": "",
+    "uloga": "",
+    "text": "Formirana Grupa građana „Studenti ponovo pobeđuju!\", koja će predložiti predsedničkog kandidata\n\nhttps://t.co/gcyY3ujC82",
+    "published": "2026-11-26T17:58:09.000+00:00",
+    "lajk": 52,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Grupa građana 'Studenti ponovo pobeđuju!' predložiće predsedničkog kandidata",
+    "vest": "202611261717-8eb4ef"
+   },
+   {
     "id": "2126012629017628798",
     "x": "MasinaRS",
     "ime": "Mašina",
@@ -9581,6 +9661,22 @@
     "prikazi": true,
     "rubrika": "politika",
     "tema": "Raspisani predsednički izbori, Vučićević u Tužilaštvu, konferencija Kome smeta žena"
+   },
+   {
+    "id": "2126011010607616034",
+    "x": "sns_srbija",
+    "ime": "SNS",
+    "grupa": "vlast",
+    "uloga": "Srpska napredna stranka",
+    "text": "Све ће ово проћи пре или касније, а многе, који учествују у овом покушају обрачуна са једном критички настројеном телевизијском станицом, ће бити срамота због тога што су у овоме учествовали.  @nstarovic https://t.co/IglYg0YN6M",
+    "published": "2026-11-26T17:51:38.000+00:00",
+    "lajk": 9,
+    "slike": [
+     "https://pbs.twimg.com/amplify_video_thumb/2126010868798308352/img/ZItAjelINwPlj1AK.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "mediji",
+    "tema": "SNS o pritisku na kritički nastrojenu televizijsku stanicu"
    },
    {
     "id": "2126010904378769610",
@@ -21273,113 +21369,6 @@
     "rubrika": "drustvo",
     "tema": "Oproštaj od mitropolita Irineja",
     "vest": "202611240846-9808fc"
-   },
-   {
-    "id": "2125162391440601222",
-    "x": "anabrnabic",
-    "ime": "Ana Brnabić",
-    "grupa": "vlast",
-    "uloga": "Srpska napredna stranka",
-    "text": "Od kada je Studentska lista preuzela vođenje Narodnom skupštinom, više imamo pauza nego što radimo. Koliko su sposobni i radni, najbolje govori to što za četiri dana nisu uspeli da se spreme za sednicu! Nobelovci! Zato, ponovo navala na skupštinski restoran! Strateški su se https://t.co/lP2SpkAEJH",
-    "published": "2026-11-24T09:39:32.000+00:00",
-    "lajk": 186,
-    "slike": [
-     "https://pbs.twimg.com/amplify_video_thumb/2125162034417352704/img/YeKogzKyY1o7dKl2.jpg"
-    ],
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Brnabić o pauzama Studentske liste u Skupštini",
-    "vest": "202611241145-884ae4"
-   },
-   {
-    "id": "2125161977009897560",
-    "x": "srbininfo",
-    "ime": "СРБИН инфо",
-    "grupa": "",
-    "uloga": "",
-    "text": "Teša Tešanović: „Vučić mora da bude uhapšen. Riba smrdi od glave. Inače nismo ništa uradili.”\nBivši režim i dalje ima poluge u opštinama, administraciji, medijima, novčanim tokovima i bezbednosnim strukturama.\nhttps://t.co/nfC7bcb641",
-    "published": "2026-11-24T09:37:53.000+00:00",
-    "lajk": 5,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Tešanović: Vučić mora biti uhapšen, bivši režim ima poluge"
-   },
-   {
-    "id": "2125161032306110503",
-    "x": "NedeljnikNIN",
-    "ime": "NIN",
-    "grupa": "",
-    "uloga": "",
-    "text": "Dinar gotovo nepromenjen prema evru, veći pad prema dolaru\nhttps://t.co/w0HwR6BwOQ",
-    "published": "2026-11-24T09:34:08.000+00:00",
-    "lajk": 0,
-    "prikazi": true,
-    "rubrika": "ekonomija",
-    "tema": "Dinar gotovo nepromenjen prema evru, pad prema dolaru"
-   },
-   {
-    "id": "2125159129274569188",
-    "x": "MasinaRS",
-    "ime": "Mašina",
-    "grupa": "",
-    "uloga": "",
-    "text": "Studenti prate današnju sednicu Skupštine sa balkona. https://t.co/wy9vQ2nJni",
-    "published": "2026-11-24T09:26:34.000+00:00",
-    "lajk": 500,
-    "slike": [
-     "https://pbs.twimg.com/amplify_video_thumb/2125159097402114048/img/T85YTkoRuMFE0RwY.jpg"
-    ],
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Studenti prate sednicu Skupštine sa balkona",
-    "vest": "202611241145-cee88a"
-   },
-   {
-    "id": "2125158835060883803",
-    "x": "BoraKonj",
-    "ime": "Bora",
-    "grupa": "novinari",
-    "uloga": "",
-    "text": "@studentblokade https://t.co/Gzgy3ugKWo",
-    "published": "2026-11-24T09:25:24.000+00:00",
-    "lajk": 118,
-    "slike": [
-     "https://pbs.twimg.com/amplify_video_thumb/2125158801556770816/img/ntYvZMZNu0TGcUNN.jpg"
-    ],
-    "prikazi": false,
-    "rubrika": "politika",
-    "tema": "Objava bez teksta, samo oznaka naloga"
-   },
-   {
-    "id": "2125157060274782703",
-    "x": "sns_srbija",
-    "ime": "SNS",
-    "grupa": "vlast",
-    "uloga": "Srpska napredna stranka",
-    "text": "Јованов @MilenkoJovanov: Седница да почне минутом ћутања за упокојеног митрополита бачког Иринеја Буловића\nhttps://t.co/719Gm7tzT2 https://t.co/xbbJBkG5z8",
-    "published": "2026-11-24T09:18:21.000+00:00",
-    "lajk": 27,
-    "slike": [
-     "https://pbs.twimg.com/media/HX4TDChXIAAmTAx.png"
-    ],
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Jovanov: sednica da počne minutom ćutanja za mitropolita Irineja",
-    "vest": "202611241015-bbe49e"
-   },
-   {
-    "id": "2125156878623867243",
-    "x": "srbininfo",
-    "ime": "СРБИН инфо",
-    "grupa": "",
-    "uloga": "",
-    "text": "Крагујевац: Ученик пуцао у школи, има рањених! \nМУП: Матурант са малокалибарском пушком је ухапшен\n\nhttps://t.co/m6K6x4AYSj",
-    "published": "2026-11-24T09:17:38.000+00:00",
-    "lajk": 2,
-    "prikazi": true,
-    "rubrika": "hronika",
-    "tema": "Pucnjava u školi u Kragujevcu, uhapšen maturant",
-    "vest": "202611241030-4894ee"
    }
   ],
   "pratim": [
@@ -44286,7 +44275,8 @@
    "202611261700-f1f240",
    "202611261717-8eb4ef",
    "202611261803-234a18",
-   "202611261803-06aafe"
+   "202611261803-06aafe",
+   "202611261820-9a99b4"
   ],
   "istorija": [
    {
@@ -45464,6 +45454,12 @@
     "id": "202611261803-06aafe",
     "x": "2126015726175596756",
     "link": false
+   },
+   {
+    "t": 1795718573.3920274,
+    "id": "202611261820-9a99b4",
+    "x": "2126023904225632356",
+    "link": false
    }
   ],
   "ankete": {
@@ -45676,7 +45672,7 @@
    "t": 1794508345.854927,
    "ok": true,
    "foto": null,
-   "foto_t": 1795113601.361823
+   "foto_t": 1795718587.7144876
   },
   "Marta Kos": {
    "ime": "Marta Kos",
@@ -50253,7 +50249,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-26T18:26:37.222110+00:00",
+  "provereno": "2026-11-26T18:43:09.221336+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
@@ -69211,6 +69207,72 @@
    ],
    "slug": "koliko-alta-kriza-kosta-merkator-i-kako-se-preliva-na-pq19y86qneo",
    "spektar": "vlast"
+  },
+  "-J0oxR_vnNY": {
+   "id": "-J0oxR_vnNY",
+   "title": "Zašto Crni petak zapravo nije počeo kao dan za kupovinu",
+   "kanal": "Insajder",
+   "published": "2026-11-26T18:40:07+00:00",
+   "naslov": "Zašto Crni petak zapravo nije počeo kao dan za kupovinu",
+   "opis": "Snimak Insajdera analizira poreklo termina Crni petak, koji se danas vezuje za rasprodaje i popuste. Prema opisu, naziv se prvobitno odnosio na finansijsku krizu na američkom tržištu zlata 1869. godine.",
+   "tekst": [
+    "Snimak se bavi istorijatom izraza Crni petak, koji se danas univerzalno povezuje sa velikim rasprodajama, popustima i redovima ispred prodavnica. Kako se navodi, njegovo poreklo nije vezano za kupovinu.",
+    "U opisu se navodi da se naziv prvobitno vezuje za finansijsku krizu koja je pogodila američko tržište zlata 1869. godine, a da je tek mnogo kasnije izraz dobio drugačije značenje i postao globalni šoping fenomen.",
+    "Gotovo vek posle finansijskog sloma termin se ponovo javlja u drugom kontekstu: policija u Filadelfiji njime je opisivala haos i saobraćajne gužve u gradu."
+   ],
+   "rubrika": "drustvo",
+   "oznake": [
+    "Crni petak",
+    "istorija",
+    "Filadelfija",
+    "tržište zlata",
+    "Insajder"
+   ],
+   "slug": "zasto-crni-petak-zapravo-nije-poceo-kao-dan-za-kupovinu--j0oxr-vnny",
+   "spektar": "opozicija"
+  },
+  "--OHtkn6AtI": {
+   "id": "--OHtkn6AtI",
+   "title": "SVET I MI - CELA EMISIJA - 26. novembar 2026.",
+   "kanal": "Insajder",
+   "published": "2026-11-26T18:39:04+00:00",
+   "naslov": "Svet i mi - cela emisija od 26. novembra 2026.",
+   "opis": "Cela epizoda emisije Svet i mi koju emituje Insajder, objavljena 26. novembra 2026. Opis snimka ne navodi teme ni goste.",
+   "tekst": [
+    "U pitanju je cela epizoda emisije Svet i mi, emitovana 26. novembra 2026. godine na Insajderu.",
+    "Opis snimka ne navodi teme emisije ni goste, već samo kanale na kojima se program prati."
+   ],
+   "rubrika": "mediji",
+   "oznake": [
+    "Svet i mi",
+    "Insajder",
+    "emisija"
+   ],
+   "slug": "svet-i-mi-cela-emisija-od-26-novembra-2026---ohtkn6ati",
+   "spektar": "opozicija"
+  },
+  "UWIithOk_8s": {
+   "id": "UWIithOk_8s",
+   "title": "Stručnjak za čistu energiju: Obnovljivi izvori smanjuju cene i pružaju energetsku nezavisnost",
+   "kanal": "Insajder",
+   "published": "2026-11-26T18:26:36+00:00",
+   "naslov": "Stručnjak za čistu energiju: Obnovljivi izvori smanjuju cene i pružaju energetsku nezavisnost",
+   "opis": "U prilogu Insajdera stručnjak za čistu energiju govori o energetskoj tranziciji u Srbiji, povodom završetka klimatske konferencije UN u Turskoj. Konferencija je završena bez usvojene završne deklaracije zbog neslaganja oko napuštanja fosilnih goriva.",
+   "tekst": [
+    "Konferencija Ujedinjenih nacija o klimatskim promenama u Turskoj završena je posle rekordno dugog produžetka diskusije, ali bez završne deklaracije. Konsenzus je izostao oko napuštanja fosilnih goriva, jednog od ključnih pitanja u borbi protiv globalnog zagrevanja.",
+    "U opisu se navodi da su ekstremne vremenske prilike u Srbiji sve češće i da je zemlja i dalje prilično zavisna od uglja i uvoza energenata, što je i spoljnopolitički izazov.",
+    "Otvara se pitanje kako sprovesti energetsku tranziciju i efikasno preći na čiste izvore energije bez šoka po građane i privredu. Stručnjak u snimku, prema naslovu, tvrdi da obnovljivi izvori smanjuju cene i pružaju energetsku nezavisnost."
+   ],
+   "rubrika": "drustvo",
+   "oznake": [
+    "energetska tranzicija",
+    "obnovljivi izvori",
+    "klimatske promene",
+    "Srbija",
+    "UN"
+   ],
+   "slug": "strucnjak-za-cistu-energiju-obnovljivi-izvori-smanjuju-cene-uwiithok-8s",
+   "spektar": "opozicija"
   }
  }
 }

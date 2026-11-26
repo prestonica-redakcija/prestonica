@@ -3,20 +3,23 @@
  "slug": "rik-usvojio-odluke-o-predsednickim-izborima-listic-krem-boje",
  "kind": "vest",
  "section": "politika",
- "headline": "RIK usvojio odluke o predsedničkim izborima: listić krem boje, kontrolni list roze",
- "lead": "Republička izborna komisija usvojila je na sednici više odluka u vezi sa predsedničkim izborima raspisanim za 27. decembar. Određeno je da glasački listić bude krem boje, a kontrolni list za glasačku kutiju roze.",
+ "headline": "RIK usvojio obrasce za kandidate i rokovnik za predsedničke izbore 27. decembra",
+ "lead": "Republička izborna komisija usvojila je obrasce za podnošenje kandidatura i prijavu posmatrača, kao i rokovnik izbornih radnji za predsedničke izbore 27. decembra. Određeno je i da glasački listić bude krem boje, a kontrolni list za glasačku kutiju roze.",
  "body": [
-  "Kako navodi N1, RIK je danas usvojio više odluka u vezi sa predsedničkim izborima. Prema tom izvoru, odlučeno je da glasački listić za glasanje bude krem boje, a kontrolni list za glasačku kutiju roze boje.",
-  "Odluke o obrascima za prijavu kandidata, kao i o prijavama domaćih i stranih posmatrača, donete su jednoglasno, piše N1.",
-  "Utvrđen je i rokovnik izbornih radnji. Prema navodima N1, on je predviđen nizom zakonskih odredbi i uputstava koja se odnose na sprovođenje izbornog procesa.",
-  "Predsednik Skupštine Srbije Aleksandar Đupić raspisao je danas izbore za predsednika Republike, navodi N1. Izbori će biti održani u nedelju, 27. decembra."
+  "Prema navodima Euronews Srbije, odlukom o obrascima propisani su predlog kandidata za predsednika Republike, saglasnost kandidata, izjava birača da podržava kandidata i spisak birača koji potpisima podržavaju predlog. N1 navodi da su odluke o obrascima za prijavu kandidata i prijavama posmatrača donete jednoglasno.",
+  "Predsednik RIK-a Vladimir Dimitrijević rekao je, kako prenosi Euronews Srbija, da izjave birača moraju biti složene po azbučnom redu opštine i grada na čijoj teritoriji su overene, a u okviru njih po ovlašćenim overiteljima. Dokumentaciju predlagač dostavlja RIK-u prilikom podnošenja predloga, a usvojeni obrasci biće objavljeni na veb prezentaciji komisije.",
+  "RIK je usvojio i obrasce za prijavu posmatranja rada organa za sprovođenje izbora. Odluka se, prema Euronews Srbiji, odnosi na RIK, lokalne izborne komisije i biračke odbore, a obuhvata domaće posmatrače (udruženja registrovana u Srbiji čiji se ciljevi ostvaruju u oblasti izbora), strane i međunarodne organizacije i udruženja, kao i strane države.",
+  "Rokovnik izbornih radnji, prema Dimitrijevićevim rečima, čine standardni rokovi utvrđeni zakonima i uputstvima, među kojima su uputstva o žrebu za redosled kandidata, određivanju biračkih mesta, jedinstvenim standardima za izborni materijal i primopredaji izbornog materijala.",
+  "Doneta je odluka da glasački listić bude krem boje, a kontrolni list za proveru ispravnosti glasačke kutije roze. RIK je usvojio i predlog da se opštinskim i gradskim upravama da prethodna saglasnost za predlaganje biračkih mesta sa manje od 100 birača.",
+  "Izbore za predsednika Republike za nedelju, 27. decembar, raspisao je danas predsednik Skupštine Srbije Aleksandar Đupić, navodi N1."
  ],
  "tags": [
   "RIK",
   "predsednički izbori",
+  "27. decembar",
+  "rokovnik",
   "glasački listić",
-  "rokovnik izbornih radnji",
-  "posmatrači izbora"
+  "posmatrači"
  ],
  "people": [
   "Aleksandar Đupić"
@@ -26,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T16:34:09.007546+00:00",
- "updated": "2026-11-26T17:03:44.772604+00:00",
+ "updated": "2026-11-26T18:41:26.337473+00:00",
  "sources": [
   {
    "name": "N1",
@@ -75,6 +78,12 @@
    "url": "https://www.danas.rs/vesti/politika/rik-usvojio-odluke-o-izborima/",
    "title": "RIK usvojio odluke o predsedničkim izborima",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253865/rik-usvojio-obrasce-i-rokovnik-za-predsednicke-izbore/vest",
+   "title": "Poznato kako će izgledati glasački listić za predsedničke izbore 27. decembra",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -85,7 +94,8 @@
   "RIK doneo odluku o obrascima i usvojio rokovnik za predsedničke izbore",
   "RIK SE OGLASIO O PREDSEDNIČKIM IZBORIMA 27. DECEMBRA: Doneta odluka o obrascima i usvojen rokovnik, poznato i kako će izgledati glasački listići",
   "RIK doneo odluku o obrascima i usvojio rokovnik za predsedničke izbore",
-  "RIK usvojio odluke o predsedničkim izborima"
+  "RIK usvojio odluke o predsedničkim izborima",
+  "Poznato kako će izgledati glasački listić za predsedničke izbore 27. decembra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -97,6 +107,8 @@
   "local": true,
   "alt": "RIK usvojio odluke o predsedničkim izborima: listić krem boje, kontrolni list roze"
  },
- "novo_od_pisanja": 6,
- "boost": 1.48
+ "novo_od_pisanja": 0,
+ "boost": 1.56,
+ "prepisano": "2026-11-26T18:41:26.337473+00:00",
+ "verzija": 2
 }

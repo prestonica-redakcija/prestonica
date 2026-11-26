@@ -34,7 +34,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T17:20:53.866188+00:00",
- "updated": "2026-11-26T17:20:53.866188+00:00",
+ "updated": "2026-11-26T18:41:26.337473+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -47,11 +47,25 @@
    "url": "https://www.kurir.rs/planeta/10173882/nevreme-u-sad-na-dan-zahvalnosti",
    "title": "NEVREME NAPRAVILO HAOS U AMERICI NA DAN ZAHVALNOSTI: Vanredno stanje u Nju Džersiju, udaraju \"kraljevske plime\", otkazana i jubilarna parada u Njujorku (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/301321/vise-od-1200-letova-u-sad-otkazano-i-odlozeno-na-dan-zahvalnosti-zbog-nevremena/vest",
+   "title": "Više od 1.200 letova u SAD otkazano i odloženo na Dan zahvalnosti zbog nevremena",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10174121/NEVREME-U-SAD-PARALISALO-AERODROME-Otkazano-i-odlozeno-vise-od-1.600-letova-tokom-proslave-Dana-zahvalnosti",
+   "title": "NEVREME U SAD PARALISALO AERODROME: Otkazano i odloženo više od 1.600 letova tokom proslave Dana zahvalnosti",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Nevreme paralisalo delove SAD za Dan zahvalnosti: Stotine hiljada ljudi bez struje, otkazani letovi i odložena parada",
-  "NEVREME NAPRAVILO HAOS U AMERICI NA DAN ZAHVALNOSTI: Vanredno stanje u Nju Džersiju, udaraju \"kraljevske plime\", otkazana i jubilarna parada u Njujorku (VIDEO)"
+  "NEVREME NAPRAVILO HAOS U AMERICI NA DAN ZAHVALNOSTI: Vanredno stanje u Nju Džersiju, udaraju \"kraljevske plime\", otkazana i jubilarna parada u Njujorku (VIDEO)",
+  "Više od 1.200 letova u SAD otkazano i odloženo na Dan zahvalnosti zbog nevremena",
+  "NEVREME U SAD PARALISALO AERODROME: Otkazano i odloženo više od 1.600 letova tokom proslave Dana zahvalnosti"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +77,7 @@
   "local": false,
   "alt": "a car driving down a snow covered street",
   "link": "https://unsplash.com/@clayleconey"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

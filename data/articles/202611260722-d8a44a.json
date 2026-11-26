@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-26T17:54:07.703046+00:00",
+ "updated": "2026-11-26T18:41:26.337473+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -227,6 +227,12 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/301311/ponovo-izbio-pozar-u-tehnomaniji-ali-je-brzo-lokalizovan/vest",
    "title": "Ponovo izbio požar u Tehnomaniji, ali je brzo lokalizovan",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/beograd/4440547-oglasio-se-mup-o-ponovnom-izbijanju-pozara-u-tehnomaniji-nakon-20-minuta-opet-buknula-vatra",
+   "title": "Oglasio se MUP o ponovnom izbijanju požara u Tehnomaniji: Nakon 20 minuta opet buknula vatra",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -262,7 +268,8 @@
   "\"NAREDNA 24 SATA NE BORAVITE U OKOLINI OVOG MESTA\" Batut izdao upozorenje građanima",
   "Ugašen još jedan požar u \"Tehnomaniji\" na Novom Beogradu, \"Batut\" savetuje građanima da izbegavaju to područje",
   "Ponovo izbio požar u Tehnomaniji: Hitno upućen apel građanima",
-  "Ponovo izbio požar u Tehnomaniji, ali je brzo lokalizovan"
+  "Ponovo izbio požar u Tehnomaniji, ali je brzo lokalizovan",
+  "Oglasio se MUP o ponovnom izbijanju požara u Tehnomaniji: Nakon 20 minuta opet buknula vatra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -275,7 +282,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-26T17:37:53.758490+00:00",
  "verzija": 5
