@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.euronews.rs/biznis/biznis-vesti/252944/rzs-investicije-u-srbiji-2025-porasle-28-odsto/vest": "2026-11-21T05:22:49.899410+00:00",
   "https://www.kurir.rs/stars/10166324/jelena-gavrilovic-ocekivanja-od-zena-u-glumi-i-zivotu": "2026-11-21T05:37:45.209429+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/252940/aerodrom-nikola-tesla-nastavlja-obuku-za-141-ucenika/vest": "2026-11-21T05:52:39.982552+00:00",
   "https://www.telegraf.rs/pop-i-kultura/aktuelno-kultura/4436756-arandjelovdan-je-jedna-od-najcescih-slava-sta-narodna-verovanja-kazu-o-arhangelu-mihailu": "2026-11-21T06:07:36.692528+00:00",
@@ -5596,18 +5595,14 @@
   "https://www.kurir.rs/vesti/srbija/10172657/backa-palanka-dodelila-65-stipendija-srednjoskolcima": "2026-11-26T04:23:17.328755+00:00",
   "https://www.kurir.rs/vesti/srbija/10172642/brojanje-sova-u-kikindi": "2026-11-26T04:38:03.415326+00:00",
   "https://www.kurir.rs/vesti/beograd/10172589/danas-bez-struje-u-beogradu": "2026-11-26T04:52:57.988438+00:00",
-  "https://n1info.rs/vesti/na-danasnji-dan-26-novembar-2026-godine/": "2026-11-26T05:07:49.586351+00:00"
+  "https://n1info.rs/vesti/na-danasnji-dan-26-novembar-2026-godine/": "2026-11-26T05:07:49.586351+00:00",
+  "https://www.novosti.rs/vesti/politika/1674796/inspektori-moci-gone-monahe-spc-problematican-nacrt-zakona-centralnom-inspektoratu-kosovu-metohiji": "2026-11-26T05:37:32.903613+00:00",
+  "https://www.kurir.rs/stars/10172916/zivotna-prica-kemala-montena": "2026-11-26T05:37:32.903613+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-25T05:32+00:00",
-   "novih": 0,
-   "ukupno": 4508,
-   "sekundi": 572.7
-  },
   {
    "vreme": "2026-11-25T05:45+00:00",
    "novih": 0,
@@ -5961,6 +5956,12 @@
    "novih": 0,
    "ukupno": 4770,
    "sekundi": 776.6
+  },
+  {
+   "vreme": "2026-11-26T05:50+00:00",
+   "novih": 1,
+   "ukupno": 4771,
+   "sekundi": 776.0
   }
  ],
  "licnosti_foto": {
@@ -6110,6 +6111,33 @@
   }
  },
  "videos": [
+  {
+   "id": "4AkGnIlw8f4",
+   "title": "EU leaders brace for a summit ‘bloodbath’ | Brussels Playbook Podcast",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-26T05:30:15+00:00",
+   "thumb": "https://i.ytimg.com/vi/4AkGnIlw8f4/hqdefault.jpg",
+   "live": "none",
+   "desc": "EU leaders are gathering for two days of budget talks — but with little appetite for compromise, European Council President António Costa has his work cut out for him.\n\nOn today’s show, Ian Wishart and Kathryn Carlson unpack the sticking points in the EU’s proposed 7-year budget as leaders prepare to battle it out around the Council table. The clock is ticking: Costa wants countries to strike a final deal in less than a month’s time, despite the deep divisions over the proposal.\n\nNext, Spain heads to the polls on Sunday as the ghosts of its brutal Civil War haunt the vote.\n\nFinally, China has unveiled a new electric aircraft  … and its latest tech breakthrough is making European plane manufa",
+   "spektar": "centar",
+   "viewers": null,
+   "naslov": "Lideri EU pred samit o budžetu: malo volje za kompromis, Kosta pred teškim zadatkom",
+   "opis": "U podkastu Brussels Playbook novinari Ijan Višart iKetrin Karlson govore o spornim tačkama predloženog sedmogodišnjeg budžeta EU uoči dvodnevnog samita lidera. Predsednik Evropskog saveta António Costa želi konačan dogovor za manje od mesec dana, uprkos dubokim podelama.",
+   "tekst": [
+    "U emisiji Brussels Playbook Podcast, koju producira POLITICO Europe, voditelji Ian Wishart i Kathryn Carlson analiziraju šta otežava dogovor o predloženom sedmogodišnjem budžetu EU. Lideri se okupljaju na dvodnevnim razgovorima o budžetu, a, kako se navodi u opisu, malo je spremnosti za kompromis.",
+    "Predsednik Evropskog saveta António Costa, prema opisu snimka, želi da države postignu konačan dogovor za manje od mesec dana, uprkos dubokim podelama oko predloga.",
+    "U nastavku emisije govori se o izborima u Španiji, koji se održavaju u nedelju, uz osvrt na to kako je nasleđe građanskog rata prisutno u izbornoj atmosferi. Poslednja tema je novi kineski električni avion i tehnološki iskorak koji, kako se navodi, zabrinjava evropske proizvođače aviona."
+   ],
+   "rubrika": "svet",
+   "oznake": [
+    "EU budžet",
+    "António Costa",
+    "Evropski savet",
+    "Izbori u Španiji",
+    "Brussels Playbook"
+   ],
+   "slug": "lideri-eu-pred-samit-o-budzetu-malo-volje-za-kompromis-4akgnilw8f4"
+  },
   {
    "id": "zxwBb99XAWk",
    "title": "Prostitution in Deutschland vor dem Aus?",
@@ -8215,33 +8243,6 @@
    "slug": "moze-li-evropa-da-zastiti-medjunarodni-krivicni-sud-od-5-g9kme0ulm"
   },
   {
-   "id": "eL5ggXOEqME",
-   "title": "Industrie vs. Gewerkschaften — Das Standort-Dilemma",
-   "kanal": "POLITICO Europe",
-   "published": "2026-11-24T03:56:00+00:00",
-   "thumb": "https://i.ytimg.com/vi/eL5ggXOEqME/hqdefault.jpg",
-   "live": "none",
-   "desc": "Deutschlands Industrie steht auf der Kippe. Während bei VW und Mercedes Zehntausende Jobs wackeln und Investitionen ins Ausland abzufließen drohen, wird mit harten Worten in die Tarifverhandlungen eingestiegen. Maximilian Stascheit ordnet zusammen mit Romanus Otte von PRO „Industrie & Handel am Morgen“: https://www.politico.eu/politico-pro-industrie-handel-am-morgen-newsletter-trial/ ein, ob der härteste Arbeitskampf in der Geschichte der Branche bevorsteht und welche drastischen Sparmaßnahmen die Autokonzerne jetzt durchdrücken wollen.\n\nIm 200-Sekunden-Interview stellt sich die IG-Metall-Vorsitzende Christiane Benner der Frage, ob die Gewerkschaft angesichts der Krise zu Kompromissen bereit",
-   "spektar": "centar",
-   "viewers": null,
-   "naslov": "Nemačka industrija i sindikati: dilema oko radnih mesta u autoindustriji",
-   "opis": "Snimak POLITICO Europe bavi se krizom nemačke industrije, u kojoj su, kako se navodi, ugrožene desetine hiljada radnih mesta u kompanijama Folksvagen i Mercedes. Maximilian Stascheit i Romanus Otte iz POLITICO PRO razmatraju da li sledi najžešći radni sukob u istoriji sektora.",
-   "tekst": [
-    "U snimku se navodi da su u Folksvagenu i Mercedesu ugrožene desetine hiljada radnih mesta, kao i da postoji opasnost da se investicije presele u inostranstvo. Kolektivni pregovori, kako se kaže, počinju oštrom retorikom.",
-    "Stascheit i Otte, novinari POLITICO PRO biltena o industriji i trgovini, razmatraju da li je pred branšom najteži radni sukob u njenoj istoriji i koje drastične mere štednje automobilski koncerni žele da sprovedu.",
-    "U okviru formata od 200 sekundi govori i predsednica sindikata IG Metall Christiane Benner. Postavlja joj se pitanje da li je sindikat spreman na kompromise u uslovima krize."
-   ],
-   "rubrika": "ekonomija",
-   "oznake": [
-    "Nemačka industrija",
-    "IG Metall",
-    "Christiane Benner",
-    "Folksvagen",
-    "Mercedes"
-   ],
-   "slug": "nemacka-industrija-i-sindikati-dilema-oko-radnih-mesta-u-el5ggxoeqme"
-  },
-  {
    "id": "yWFlCp-CONg",
    "title": "„Uskok\" ili „Teško nogama pod manitom glavom\" | Oko magazin",
    "kanal": "RTS",
@@ -8657,7 +8658,7 @@
    "slug": "aleksandar-ivanovic-sedeo-sam-u-prostoriji-sa-covekom-koji-6vhn2aan3j8"
   }
  ],
- "_novi_snimci": false,
+ "_novi_snimci": true,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -44193,7 +44194,8 @@
    "202611251520-ad6633",
    "202611251305-361ea7",
    "202611260002-f23071",
-   "202611260236-54e2a8"
+   "202611260236-54e2a8",
+   "202611260150-2fe017"
   ],
   "istorija": [
    {
@@ -45359,6 +45361,12 @@
     "id": "202611260236-54e2a8",
     "x": "2125818900872843661",
     "link": true
+   },
+   {
+    "t": 1795671505.3156817,
+    "id": "202611260150-2fe017",
+    "x": "2125826486833656153",
+    "link": false
    }
   ],
   "ankete": {
@@ -49915,8 +49923,8 @@
  "skupstina": {
   "yt": "RdPk6Vq7MJE",
   "live": "none",
-  "naslov": "",
-  "provereno": "2026-11-26T05:23:32.052331+00:00",
+  "naslov": "Nastavak Prve sednice Narodne skupštinace Republike Srbije u Petnaestom sazivu 25.11.2026.",
+  "provereno": "2026-11-26T05:38:39.972262+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
@@ -67102,6 +67110,29 @@
     "nordijski model"
    ],
    "slug": "nemacka-debata-o-prostituciji-stroza-pravila-ili-zabrana-zxwbb99xawk",
+   "spektar": "centar"
+  },
+  "4AkGnIlw8f4": {
+   "id": "4AkGnIlw8f4",
+   "title": "EU leaders brace for a summit ‘bloodbath’ | Brussels Playbook Podcast",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-26T05:30:15+00:00",
+   "naslov": "Lideri EU pred samit o budžetu: malo volje za kompromis, Kosta pred teškim zadatkom",
+   "opis": "U podkastu Brussels Playbook novinari Ijan Višart iKetrin Karlson govore o spornim tačkama predloženog sedmogodišnjeg budžeta EU uoči dvodnevnog samita lidera. Predsednik Evropskog saveta António Costa želi konačan dogovor za manje od mesec dana, uprkos dubokim podelama.",
+   "tekst": [
+    "U emisiji Brussels Playbook Podcast, koju producira POLITICO Europe, voditelji Ian Wishart i Kathryn Carlson analiziraju šta otežava dogovor o predloženom sedmogodišnjem budžetu EU. Lideri se okupljaju na dvodnevnim razgovorima o budžetu, a, kako se navodi u opisu, malo je spremnosti za kompromis.",
+    "Predsednik Evropskog saveta António Costa, prema opisu snimka, želi da države postignu konačan dogovor za manje od mesec dana, uprkos dubokim podelama oko predloga.",
+    "U nastavku emisije govori se o izborima u Španiji, koji se održavaju u nedelju, uz osvrt na to kako je nasleđe građanskog rata prisutno u izbornoj atmosferi. Poslednja tema je novi kineski električni avion i tehnološki iskorak koji, kako se navodi, zabrinjava evropske proizvođače aviona."
+   ],
+   "rubrika": "svet",
+   "oznake": [
+    "EU budžet",
+    "António Costa",
+    "Evropski savet",
+    "Izbori u Španiji",
+    "Brussels Playbook"
+   ],
+   "slug": "lideri-eu-pred-samit-o-budzetu-malo-volje-za-kompromis-4akgnilw8f4",
    "spektar": "centar"
   }
  }
