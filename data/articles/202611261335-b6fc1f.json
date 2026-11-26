@@ -36,7 +36,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T12:35:38.207926+00:00",
- "updated": "2026-11-26T12:35:38.207926+00:00",
+ "updated": "2026-11-26T20:28:59.866853+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -49,11 +49,25 @@
    "url": "https://www.kurir.rs/region/bosna-i-hercegovina/10173622/pocelo-rociste-naseru-oricu-nikolini-sljivic-i-ostalima",
    "title": "POČELO ROČIŠTE NASERU ORIĆU, NIKOLINI ŠLJIVIĆ I OSTALIMA: Policajci s dugim cevima ispred Okružnog suda u Banjaluci (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4440583-naseru-oricu-i-nikolini-sljivic-odredjen-pritvor",
+   "title": "Naseru Oriću i Nikolini Šljivić određen pritvor",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/region/288453/naseru-oricu-i-ostalim-uhapsenima-u-akciji-emisar-odredjen-pritvor/vest",
+   "title": "Određen pritvor Naseru Oriću i ostalim uhapšenima",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Počelo ročište Naseru Oriću, Nikolini Šljivić i ostalim osumnjičenima: Jake policijske snage ispred suda u Banjaluci",
-  "POČELO ROČIŠTE NASERU ORIĆU, NIKOLINI ŠLJIVIĆ I OSTALIMA: Policajci s dugim cevima ispred Okružnog suda u Banjaluci (VIDEO)"
+  "POČELO ROČIŠTE NASERU ORIĆU, NIKOLINI ŠLJIVIĆ I OSTALIMA: Policajci s dugim cevima ispred Okružnog suda u Banjaluci (VIDEO)",
+  "Naseru Oriću i Nikolini Šljivić određen pritvor",
+  "Određen pritvor Naseru Oriću i ostalim uhapšenima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,5 +79,7 @@
   "local": false,
   "alt": "Two royal guards march past a red sentry box",
   "link": "https://unsplash.com/@cheeseandwine"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

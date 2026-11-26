@@ -27,17 +27,31 @@
  ],
  "importance": 6,
  "published": "2026-11-26T12:51:19.902058+00:00",
- "updated": "2026-11-26T12:51:19.902058+00:00",
+ "updated": "2026-11-26T20:28:59.866853+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10173697/kako-se-odredjuje-redosled-kandidata-na-glasackom-listicu-za-predsednicke-izbore",
    "title": "Ko će dobiti broj jedan na predsedničkim izborima? Evo kako RIK određuje redosled na listiću",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301346/rik-kandidatura-za-predsednicke-izbore-do-6-decembra-zreb-za-redosled-do-11-decembra/vest",
+   "title": "RIK: Kandidatura za predsedničke izbore do 6. decembra, žreb za redosled do 11. decembra",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4440586-rik-saopstio-do-kada-vazi-kandidatura-za-predsednicke-izbore",
+   "title": "RIK saopštio do kada važi kandidatura za predsedničke izbore",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Ko će dobiti broj jedan na predsedničkim izborima? Evo kako RIK određuje redosled na listiću"
+  "Ko će dobiti broj jedan na predsedničkim izborima? Evo kako RIK određuje redosled na listiću",
+  "RIK: Kandidatura za predsedničke izbore do 6. decembra, žreb za redosled do 11. decembra",
+  "RIK saopštio do kada važi kandidatura za predsedničke izbore"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +63,7 @@
   "local": false,
   "alt": "a person is casting a vote into a box",
   "link": "https://unsplash.com/@element5digital"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

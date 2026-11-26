@@ -32,17 +32,24 @@
  ],
  "importance": 5,
  "published": "2026-11-26T17:03:44.772604+00:00",
- "updated": "2026-11-26T17:03:44.772604+00:00",
+ "updated": "2026-11-26T20:28:59.866853+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1173521/aljbin-kurti-nova-vlast-kim",
    "title": "Šokantna izjava Kurtija za Politiko! Otkrio šta očekuje od nove vlasti, pa poručio: Imam razloga za optimizam",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/kurti-odnos-sa-vlastima-u-srbiji/",
+   "title": "Kurti kaže da „ima razloga za optimizam“ kada je reč o odnosima sa budućim vlastima u Srbiji",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Šokantna izjava Kurtija za Politiko! Otkrio šta očekuje od nove vlasti, pa poručio: Imam razloga za optimizam"
+  "Šokantna izjava Kurtija za Politiko! Otkrio šta očekuje od nove vlasti, pa poručio: Imam razloga za optimizam",
+  "Kurti kaže da „ima razloga za optimizam“ kada je reč o odnosima sa budućim vlastima u Srbiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Kurti za Politiko: Imam razloga za optimizam kad je reč o novom rukovodstvu Srbije"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
