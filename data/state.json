@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.tanjug.rs/svet/politika/299611/maroko-ulaze-366-miliona-evra-u-izgradnju-odbrambene-industrije-do-2035-godine/vest": "2026-11-21T04:23:22.279213+00:00",
-  "https://www.kurir.rs/planeta/10168471/maroko-ulaze-366-miliona-evra-u-izgradnju-odbrambene-industrije-do-2035-godine": "2026-11-21T04:23:22.279213+00:00",
-  "https://www.telegraf.rs/vesti/srbija/4437008-danas-oblacno-pre-podne-suvo-popodne-s-kisom-mestimicno-temperatura-do-18-stepeni": "2026-11-21T04:23:22.279213+00:00",
   "https://www.euronews.rs/svet/planeta/252990/tramp-preti-visokim-porezima-americkim-firmama/vest": "2026-11-21T04:38:15.819373+00:00",
   "https://www.kurir.rs/vesti/drustvo/10167982/pazljiva-voznja-na-arandjelovdan-apel-puteva-srbije": "2026-11-21T04:52:58.868447+00:00",
   "https://www.kurir.rs/stars/10168055/kebin-sin-za-trudnu-zenu-porucio-najbolji-biftek": "2026-11-21T05:08:01.718240+00:00",
@@ -5599,18 +5596,13 @@
   "https://www.youtube.com/watch?v=LBTnrpPaRi4": "2026-11-26T03:08:54.521380+00:00",
   "https://www.youtube.com/watch?v=bCe-yr38igY": "2026-11-26T03:23:41.770888+00:00",
   "https://www.kurir.rs/vesti/beograd/10172599/trka-oko-savskog-jezera": "2026-11-26T04:08:13.871961+00:00",
-  "https://www.kurir.rs/vesti/srbija/10172657/backa-palanka-dodelila-65-stipendija-srednjoskolcima": "2026-11-26T04:23:17.328755+00:00"
+  "https://www.kurir.rs/vesti/srbija/10172657/backa-palanka-dodelila-65-stipendija-srednjoskolcima": "2026-11-26T04:23:17.328755+00:00",
+  "https://www.kurir.rs/vesti/srbija/10172642/brojanje-sova-u-kikindi": "2026-11-26T04:38:03.415326+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-25T04:33+00:00",
-   "novih": 1,
-   "ukupno": 4506,
-   "sekundi": 593.1
-  },
   {
    "vreme": "2026-11-25T04:48+00:00",
    "novih": 1,
@@ -5964,6 +5956,12 @@
    "novih": 1,
    "ukupno": 4770,
    "sekundi": 654.0
+  },
+  {
+   "vreme": "2026-11-26T04:45+00:00",
+   "novih": 0,
+   "ukupno": 4770,
+   "sekundi": 470.9
   }
  ],
  "licnosti_foto": {
@@ -8660,7 +8658,7 @@
    "slug": "aleksandar-ivanovic-sedeo-sam-u-prostoriji-sa-covekom-koji-6vhn2aan3j8"
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -49912,7 +49910,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštinace Republike Srbije u Petnaestom sazivu 25.11.2026.",
-  "provereno": "2026-11-26T04:24:14.044219+00:00",
+  "provereno": "2026-11-26T04:38:37.052907+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
