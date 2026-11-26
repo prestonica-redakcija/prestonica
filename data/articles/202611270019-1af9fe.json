@@ -1,0 +1,60 @@
+{
+ "id": "202611270019-1af9fe",
+ "slug": "hakeri-ponovo-provalili-u-nacionalni-registar-danske-ugrozeni-podaci",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Hakeri ponovo provalili u nacionalni registar Danske, ugroženi podaci 11.000 ljudi",
+ "lead": "Hakeri su pristupili ličnim podacima 11.000 ljudi u danskom nacionalnom registru, saopštilo je dansko Ministarstvo za digitalne poslove. Napad je usledio nakon oktobarskog upada u kom su bili ugroženi podaci 8,8 miliona ljudi.",
+ "body": [
+  "Dansko Ministarstvo za digitalne poslove saopštilo je danas da je administracija Sistema za civilnu registraciju (CPR) otkrila novi propust u bezbednosti. Kako prenose Tanjug i Insajder pozivajući se na Juronjuz, hakeri su pristupili podacima 11.000 ljudi.",
+  "Danske vlasti navode da su nakon prethodnog napada, do kojeg je došlo početkom oktobra, ažurirale i modernizovale bezbednosne sisteme. Tada je ilegalno bilo pristupljeno podacima 8,8 miliona ljudi.",
+  "Prema navodima Insajdera, u saopštenju stoji da je incident zaustavljen zahvaljujući novom tehničkom sistemu za praćenje konsultacija, koji je uveden nakon prvog incidenta.",
+  "Insajder navodi i da ni počinioci najnovijeg napada ni oni koji stoje iza oktobarskog hakovanja još nisu identifikovani. Nakon oktobarskog upada, neidentifikovana osoba se javila danskim novinama Politiken putem šifrovane usluge za razmenu poruka i preuzela odgovornost.",
+  "Taj navodni haker tvrdio je da je pristupnu tačku pronašao u roku od nekoliko sati, koristeći pristupne podatke bivšeg zaposlenog u maloj danskoj kompaniji, i da je lozinka bila 123456. Te tvrdnje nisu potvrđene u izvorima. Agencija za civilnu bezbednost je u septembru podigla nivo pretnje od sajber napada na Dansku na „visok“."
+ ],
+ "tags": [
+  "Danska",
+  "sajber napad",
+  "hakeri",
+  "lični podaci",
+  "CPR registar",
+  "sajber bezbednost"
+ ],
+ "people": [],
+ "places": [
+  "Danska",
+  "Kopenhagen"
+ ],
+ "importance": 4,
+ "published": "2026-11-26T23:19:48.792595+00:00",
+ "updated": "2026-11-26T23:19:48.792595+00:00",
+ "sources": [
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/301254/hakeri-provalili-u-nacionalni-registar-danske-i-pristupili-podacima-11000-ljudi/vest",
+   "title": "Hakeri provalili u nacionalni registar Danske i pristupili podacima 11.000 ljudi",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/hakeri-ponovo-provalili-u-nacionalni-registar-danske-ugrozeni-podaci-11000-ljudi",
+   "title": "Hakeri ponovo provalili u nacionalni registar Danske, ugroženi podaci 11.000 ljudi",
+   "spektar": "opozicija"
+  }
+ ],
+ "source_titles": [
+  "Hakeri provalili u nacionalni registar Danske i pristupili podacima 11.000 ljudi",
+  "Hakeri ponovo provalili u nacionalni registar Danske, ugroženi podaci 11.000 ljudi"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 4.293,
+ "image": {
+  "src": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?ixid=M3wxMTQwNDIwfDB8MXxzZWFyY2h8MXx8Y3liZXIlMjBhdHRhY2slMjBkYXRhJTIwc2VjdXJpdHl8ZW58MXwwfHx8MTc5NTczNTIzOXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+  "credit": "Unsplash / FlyD",
+  "ilustracija": true,
+  "local": false,
+  "alt": "red padlock on black computer keyboard",
+  "link": "https://unsplash.com/@flyd2069"
+ }
+}
