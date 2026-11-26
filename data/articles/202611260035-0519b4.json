@@ -33,7 +33,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-26T21:15:12.934903+00:00",
+ "updated": "2026-11-26T21:29:53.639559+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -382,6 +382,24 @@
    "url": "https://informer.rs/politika/vesti/1173584/vukasin-vucicevic-dragan-j-vucicevic-pritvor",
    "title": "\"Sa kime se konsultuju satima?!\" Vukašin Vučićević o pritvoru oca do 30 dana: Borićemo se i izborićemo se! (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/odreden-pritvor-draganu-j-vucicevicu-do-30-dana",
+   "title": "Određen pritvor Draganu J. Vučićeviću do 30 dana",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301355/odreden-pritvor-do-30-dana-draganu-j-vucicevicu/vest",
+   "title": "Određen pritvor do 30 dana Draganu J. Vučićeviću",
+   "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1675136/prvi-snimak-dragana-vucicevica-dovezen-centralni-zatvor-nakon-skandalozne-odluke-pritvoru-video",
+   "title": "PRVI SNIMAK DRAGANA J. VUČIĆEVIĆA: Dovezen u Centralni zatvor nakon skandalozne odluke o pritvoru (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -442,7 +460,10 @@
   "PRVI SNIMAK! Dragan J. Vučićević dovezen u Centralni zatvor nakon skandalozne odluke o pritvoru! (VIDEO)",
   "Draganu J. Vučićeviću određen pritvor do 30 dana",
   "Sin Dragana J. Vučićevića nakon odluke o pritvoru: \"Borićemo se, neće nas ućutkati\"",
-  "\"Sa kime se konsultuju satima?!\" Vukašin Vučićević o pritvoru oca do 30 dana: Borićemo se i izborićemo se! (VIDEO)"
+  "\"Sa kime se konsultuju satima?!\" Vukašin Vučićević o pritvoru oca do 30 dana: Borićemo se i izborićemo se! (VIDEO)",
+  "Određen pritvor Draganu J. Vučićeviću do 30 dana",
+  "Određen pritvor do 30 dana Draganu J. Vučićeviću",
+  "PRVI SNIMAK DRAGANA J. VUČIĆEVIĆA: Dovezen u Centralni zatvor nakon skandalozne odluke o pritvoru (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -455,7 +476,7 @@
   "alt": "Car entering a brightly lit tunnel at night",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:15:12.934903+00:00",
  "verzija": 11
