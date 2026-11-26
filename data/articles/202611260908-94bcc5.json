@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T08:08:30.221609+00:00",
- "updated": "2026-11-26T08:08:30.221609+00:00",
+ "updated": "2026-11-26T08:23:02.641089+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -46,11 +46,18 @@
    "url": "https://www.kurir.rs/planeta/10173236/ruski-napad-balistickim-raketama-na-kijev-pogodjen-trzni-centar",
    "title": "BALISTIČKE RAKETE POGODILE TRŽNI CENTAR U KIJEVU! KLIČKO: GRAD JE NAPADNUT! Žestok ruski udar nakon što se Zelenski žalio da Trampov ministar ne da Patriote",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/gradonacelnik-kijeva-u-ruskom-napadu-balistickim-raketama-cetiri-osobe-ranjene/",
+   "title": "Gradonačelnik Kijeva: U ruskom napadu balističkim raketama četiri osobe ranjene",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Rusija ponovo napala Kijev balističkim raketama: Pogođeni tržni centar i dve zgrade",
-  "BALISTIČKE RAKETE POGODILE TRŽNI CENTAR U KIJEVU! KLIČKO: GRAD JE NAPADNUT! Žestok ruski udar nakon što se Zelenski žalio da Trampov ministar ne da Patriote"
+  "BALISTIČKE RAKETE POGODILE TRŽNI CENTAR U KIJEVU! KLIČKO: GRAD JE NAPADNUT! Žestok ruski udar nakon što se Zelenski žalio da Trampov ministar ne da Patriote",
+  "Gradonačelnik Kijeva: U ruskom napadu balističkim raketama četiri osobe ranjene"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +70,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Vitali_Klitschko_in_2024.jpg",
   "osoba": "Vitalij Kličko",
   "alt": "Ruski balistički napad na Kijev: pogođen tržni centar, ranjeno najmanje sedam osoba"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

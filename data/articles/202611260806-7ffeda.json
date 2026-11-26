@@ -37,17 +37,24 @@
  ],
  "importance": 7,
  "published": "2026-11-26T07:06:54.320153+00:00",
- "updated": "2026-11-26T07:06:54.320153+00:00",
+ "updated": "2026-11-26T08:23:02.641089+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/bbc-news-serbian/mali-ali-zasto-je-sin-cecenskog-lidera-postao-drzavljanin-srbije/",
    "title": "‘Mali Ali’: Zašto je sin čečenskog lidera postao državljanin Srbije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/bbc-news-serbian/zasto-je-sin-cecenskog-lidera-postao-drzavljanin-srbije/",
+   "title": "Zašto je sin čečenskog lidera postao državljanin Srbije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "‘Mali Ali’: Zašto je sin čečenskog lidera postao državljanin Srbije"
+  "‘Mali Ali’: Zašto je sin čečenskog lidera postao državljanin Srbije",
+  "Zašto je sin čečenskog lidera postao državljanin Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "alt": "A United States passport resting open on a colorful world map",
   "link": "https://unsplash.com/@globalresidenceindex"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
