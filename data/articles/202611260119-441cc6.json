@@ -24,7 +24,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T00:19:47.859831+00:00",
- "updated": "2026-11-26T00:19:47.859831+00:00",
+ "updated": "2026-11-26T00:50:01.876652+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -37,11 +37,18 @@
    "url": "https://www.b92.net/biz/srbija/vesti/288079/vise-od-98-odsto-bankomata-postanske-stedionice-u-funkciji-dopunjava-se-jos-45/vest",
    "title": "Više od 98 odsto bankomata Poštanske štedionice u funkciji: Dopunjava se još 45",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/banka-postanska-stedionica-u-funkciji-vise-od-98-odsto-bankomata-u-mrezi-banke-245-milijardi-dinara",
+   "title": "Banka Poštanska štedionica: U funkciji više od 98 odsto bankomata, u mreži banke 2,45 milijardi dinara",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Banka Poštanska štedionica: U funkciji više od 98 odsto bankomata, u mreži banke 2,45 milijardi dinara",
-  "Više od 98 odsto bankomata Poštanske štedionice u funkciji: Dopunjava se još 45"
+  "Više od 98 odsto bankomata Poštanske štedionice u funkciji: Dopunjava se još 45",
+  "Banka Poštanska štedionica: U funkciji više od 98 odsto bankomata, u mreži banke 2,45 milijardi dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Poštanska štedionica: u funkciji više od 98 odsto bankomata, pune se još 45"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
