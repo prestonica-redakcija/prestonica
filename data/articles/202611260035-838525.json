@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-25T23:35:10.456739+00:00",
+ "updated": "2026-11-25T23:50:05.738495+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -44,11 +44,25 @@
    "url": "https://insajder.net/prenosimo/uhapsene-dve-osobe-zbog-sumnje-da-su-bacile-bombe-na-porodicnu-kucu-na-novom-beogradu-i-bastu-restorana-na-zvezdari",
    "title": "Uhapšene dve osobe zbog sumnje da su bacile bombe na porodičnu kuću na Novom Beogradu i baštu restorana na Zvezdari",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10173162/trojica-uhapsena-zbog-bacanja-bombi",
+   "title": "BACALI BOMBE PO BEOGRADU! Prvo napali porodičnu kuću na Novom Beogradu, pa restoran na Zvezdari- uhapšena trojica POGLEDAJTE KAKO SU IM STAVLJENE LISICE NA RUKE",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/bacali-bombe-na-kucu-i-restoran-na-novom-beogradu-i-zvezdari-uhapsena-dvojica-mladica-kod-jednog-pronadjena-marihuana-i-kokain/",
+   "title": "Bacali bombe na kuću i restoran na Novom Beogradu i Zvezdari: Uhapšena dvojica mladića, kod jednog pronađena marihuana i kokain",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Uhapšeni osumnjičeni da su u Beogradu bacili ručnu bombu na kuću i u baštu restorana",
-  "Uhapšene dve osobe zbog sumnje da su bacile bombe na porodičnu kuću na Novom Beogradu i baštu restorana na Zvezdari"
+  "Uhapšene dve osobe zbog sumnje da su bacile bombe na porodičnu kuću na Novom Beogradu i baštu restorana na Zvezdari",
+  "BACALI BOMBE PO BEOGRADU! Prvo napali porodičnu kuću na Novom Beogradu, pa restoran na Zvezdari- uhapšena trojica POGLEDAJTE KAKO SU IM STAVLJENE LISICE NA RUKE",
+  "Bacali bombe na kuću i restoran na Novom Beogradu i Zvezdari: Uhapšena dvojica mladića, kod jednog pronađena marihuana i kokain"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +74,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Novi_Beograd_test.jpg",
   "alt": "Uhapšene dve osobe zbog sumnje da su bacile ručne bombe na kuću i u baštu restorana u Beogradu"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
