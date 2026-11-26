@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T17:03:44.772604+00:00",
- "updated": "2026-11-26T18:41:26.337473+00:00",
+ "updated": "2026-11-26T19:14:20.668837+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -54,12 +54,19 @@
    "url": "https://n1info.rs/vesti/uhapsen-maloletnik-iz-okoline-petrovca-na-mlavi-sa-snajperskom-puskom-bombama-i-drogom/",
    "title": "Uhapšen maloletnik iz okoline Petrovca na Mlavi sa snajperskom puškom, bombama i drogom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/uhapsen-maloletnik-iz-okoline-petrovca-na-mlavi-sa-puskom/",
+   "title": "Uhapšen maloletnik iz okoline Petrovca na Mlavi sa snajperskom puškom, bombama i drogom",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "MUP: Uhapšen maloletnik u Beogradu, pronađen snajper, bombe, oko 100 kilograma marihuane",
   "SNAJPER SA PRIGUŠIVAČEM, BOMBE I VIŠE OD 100 KILOGRAMA DROGE Šok zaplena u stanu koji je koristio maloletnik u Beogradu: Policija saopštila detalje",
   "Drama u Beogradu! Kod maloletnika pronađen snajper, bombe i oko 100 kg psihoaktivnih supstanci",
+  "Uhapšen maloletnik iz okoline Petrovca na Mlavi sa snajperskom puškom, bombama i drogom",
   "Uhapšen maloletnik iz okoline Petrovca na Mlavi sa snajperskom puškom, bombama i drogom"
  ],
  "author": "Redakcija Prestonice",
@@ -73,6 +80,6 @@
   "alt": "black semi automatic airsoft pistol on white textile",
   "link": "https://unsplash.com/@maxzzerzz"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

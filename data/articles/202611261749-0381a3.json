@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T16:49:07.091141+00:00",
- "updated": "2026-11-26T17:03:44.772604+00:00",
+ "updated": "2026-11-26T19:14:20.668837+00:00",
  "sources": [
   {
    "name": "B92",
@@ -48,11 +48,18 @@
    "url": "https://nova.rs/vesti/svet/citav-krim-ostao-bez-struje/",
    "title": "Čitav Krim ostao bez struje",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/crnomorsko-poluostrvo-krim-bez-struje/",
+   "title": "Crnomorsko poluostrvo Krim bez struje",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Brutalna osveta; Panika u Parizu: \"Mi smo mete Vladimira Putina\"; Izdato dramatično upozorenje FOTO/VIDEO",
-  "Čitav Krim ostao bez struje"
+  "Čitav Krim ostao bez struje",
+  "Crnomorsko poluostrvo Krim bez struje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "local": true,
   "alt": "Granatiran Kijev, nestanak struje na Krimu, Zelenski upozorava na novi napad"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
