@@ -35,17 +35,24 @@
  ],
  "importance": 6,
  "published": "2026-11-26T10:26:34.441569+00:00",
- "updated": "2026-11-26T10:26:34.441569+00:00",
+ "updated": "2026-11-26T15:29:12.553398+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/radar-goran-kovacevic-goranac-sns-skaj/",
    "title": "Radar: Goran Kovačević Goranac sarađivao sa SNS, u Skaj prepisci navodi o kupovini glasova, tenderima i prodaji droge",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/radar-goran-kovacevic-goranac-komunicirao-sa-vucevicem-u-skaj-prepiskama-pisao-o-kupovini-glasova-za-sns/",
+   "title": "Radar: Goran Kovačević Goranac komunicirao sa Vučevićem, u Skaj prepiskama pisao o kupovini glasova za SNS",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Radar: Goran Kovačević Goranac sarađivao sa SNS, u Skaj prepisci navodi o kupovini glasova, tenderima i prodaji droge"
+  "Radar: Goran Kovačević Goranac sarađivao sa SNS, u Skaj prepisci navodi o kupovini glasova, tenderima i prodaji droge",
+  "Radar: Goran Kovačević Goranac komunicirao sa Vučevićem, u Skaj prepiskama pisao o kupovini glasova za SNS"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "osoba": "Miloš Vučević",
   "izvor_x": true,
   "alt": "Radar: Goran Kovačević Goranac navodno angažovan za SNS na izborima 2020"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

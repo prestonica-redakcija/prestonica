@@ -25,17 +25,24 @@
  ],
  "importance": 3,
  "published": "2026-11-26T09:25:09.026225+00:00",
- "updated": "2026-11-26T09:25:09.026225+00:00",
+ "updated": "2026-11-26T15:29:12.553398+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/ekonomija/vesti/1674882/delikates-koji-izdvaja-veliki-novac-cvarci-skuplji-pojedinih-vrsta-mesa",
    "title": "DELIKATES ZA KOJI SE IZDVAJA VELIKI NOVAC: Čvarci skuplji i od pojedinih vrsta mesa",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/288350/cena-cvaraka-u-srbiji-dostigla-3300-dinara-po-kilogramu/vest",
+   "title": "Čvarci postali luksuz: Kilogram košta i do 3.300 dinara",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "DELIKATES ZA KOJI SE IZDVAJA VELIKI NOVAC: Čvarci skuplji i od pojedinih vrsta mesa"
+  "DELIKATES ZA KOJI SE IZDVAJA VELIKI NOVAC: Čvarci skuplji i od pojedinih vrsta mesa",
+  "Čvarci postali luksuz: Kilogram košta i do 3.300 dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "local": false,
   "alt": "Fried snacks being drained in a bowl",
   "link": "https://unsplash.com/@le_y0u"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

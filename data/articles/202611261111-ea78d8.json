@@ -40,7 +40,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T10:11:46.265687+00:00",
- "updated": "2026-11-26T10:11:46.265687+00:00",
+ "updated": "2026-11-26T15:29:12.553398+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -53,11 +53,18 @@
    "url": "https://biznis.telegraf.rs/info-biz/4440134-strajk-na-crni-petak-nemacki-sindikat-pozvao-na-obustavu-rada-u-11-centara-amazona",
    "title": "Štrajk na Crni petak: Nemački sindikat pozvao na obustavu rada u 11 centara Amazona",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1675048/strajk-amazonu-nemacka-crni-petak-obustava-rada-11-lokacija",
+   "title": "VELIKI ŠTRAJK U AMAZONU NA CRNI PETAK: Obustava rada na 11 lokacija u Nemačkoj",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Sindikat Verdi pozvao na štrajk u 11 Amazonovih centara u Nemačkoj na Crni petak",
-  "Štrajk na Crni petak: Nemački sindikat pozvao na obustavu rada u 11 centara Amazona"
+  "Štrajk na Crni petak: Nemački sindikat pozvao na obustavu rada u 11 centara Amazona",
+  "VELIKI ŠTRAJK U AMAZONU NA CRNI PETAK: Obustava rada na 11 lokacija u Nemačkoj"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,5 +76,7 @@
   "local": false,
   "alt": "a large group of people wearing helmets in front of a building",
   "link": "https://unsplash.com/@omarvellous14"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

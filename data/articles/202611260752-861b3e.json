@@ -36,7 +36,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T06:52:02.295680+00:00",
- "updated": "2026-11-26T13:55:33.392531+00:00",
+ "updated": "2026-11-26T15:29:12.553398+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -79,6 +79,12 @@
    "url": "https://www.tanjug.rs/svet/politika/301228/vadeful-nemacka-podrzava-ukrajinu-ali-sukob-ne-sme-da-se-prosiri/vest",
    "title": "Vadeful: Nemačka podržava Ukrajinu ali sukob ne sme da se proširi",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10173917/rat-u-ukrajini-mediteran-rusija-djordja-meloni",
+   "title": "\"RAT U UKRAJINI NE SME DA SE PROŠIRI NA MEDITERAN\" Meloni na marginama zasedanja Evropskog saveta u Briselu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -88,7 +94,8 @@
   "Tramp i Rute upozorili Putina da ne širi rat na Evropu: Za Kremlj su to „besmislice“",
   "Tramp i Rute: Rusija treba da izbegava poteze koji bi doveli do proširenja rata u Ukrajini",
   "Meloni: Rat u Ukrajini ne sme da se proširi na Mediteran",
-  "Vadeful: Nemačka podržava Ukrajinu ali sukob ne sme da se proširi"
+  "Vadeful: Nemačka podržava Ukrajinu ali sukob ne sme da se proširi",
+  "\"RAT U UKRAJINI NE SME DA SE PROŠIRI NA MEDITERAN\" Meloni na marginama zasedanja Evropskog saveta u Briselu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -101,8 +108,8 @@
   "alt": "white concrete building near body of water during daytime",
   "link": "https://unsplash.com/@billhamway"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-26T13:55:33.392531+00:00",
  "verzija": 2
 }
