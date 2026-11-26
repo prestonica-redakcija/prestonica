@@ -24,7 +24,7 @@
  ],
  "importance": 4,
  "published": "2026-11-25T07:07:45.365426+00:00",
- "updated": "2026-11-25T07:37:28.564598+00:00",
+ "updated": "2026-11-26T15:13:30.727796+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -43,12 +43,19 @@
    "url": "https://www.tanjug.rs/srbija/hronika/300730/muskarac-izboden-nakon-svade-u-saobracaju-potraga-za-pociniocem/vest",
    "title": "Muškarac izboden nakon svađe u saobraćaju, potraga za počiniocem",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4440418-novi-detalji-drame-u-beogradu-izbo-muskarca-48-po-licu-u-630-ujutru-posle-akcije-vihor-pao-napadac",
+   "title": "NOVI DETALJI DRAME U BEOGRADU: Izbo muškarca (48) po licu u 6.30 ujutru - posle akcije \"Vihor\" pao napadač!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "UBODEN U OKO ZBOG SVAĐE U SAOBRAĆAJU?! U toku potraga za napadačem, pobegao sa lica mesta, policija odmah aktivirala Vihor 3",
   "Muškarac izboden nasred ulice zbog svađe u saobraćaju: Hitno pokrenuta akcija Vihor",
-  "Muškarac izboden nakon svađe u saobraćaju, potraga za počiniocem"
+  "Muškarac izboden nakon svađe u saobraćaju, potraga za počiniocem",
+  "NOVI DETALJI DRAME U BEOGRADU: Izbo muškarca (48) po licu u 6.30 ujutru - posle akcije \"Vihor\" pao napadač!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "alt": "cars parked in front of store during night time",
   "link": "https://unsplash.com/@hiepdaiduong93"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

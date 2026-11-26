@@ -28,17 +28,24 @@
  ],
  "importance": 6,
  "published": "2026-11-26T13:55:33.392531+00:00",
- "updated": "2026-11-26T13:55:33.392531+00:00",
+ "updated": "2026-11-26T15:13:30.727796+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/drustvo/301217/advokat-bogdanovic-vucicevic-negirao-krivicu-predlozili-smo-ukidanje-zadrazavanja/vest",
    "title": "Advokat Bogdanović: Vučićević negirao krivicu, predložili smo ukidanje zadražavanja",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301217/advokat-bogdanovic-vucicevic-negirao-krivicu-predlozili-smo-ukidanje-zadrzavanja/vest",
+   "title": "Advokat Bogdanović: Vučićević negirao krivicu, predložili smo ukidanje zadržavanja",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Advokat Bogdanović: Vučićević negirao krivicu, predložili smo ukidanje zadražavanja"
+  "Advokat Bogdanović: Vučićević negirao krivicu, predložili smo ukidanje zadražavanja",
+  "Advokat Bogdanović: Vučićević negirao krivicu, predložili smo ukidanje zadržavanja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "alt": "an old run down building on a street corner",
   "link": "https://unsplash.com/@lambi13"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T07:22:39.121611+00:00",
- "updated": "2026-11-26T10:58:19.885511+00:00",
+ "updated": "2026-11-26T15:13:30.727796+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -89,6 +89,18 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10173526/upozorenje-rhmz-narandzasti-meteo-alarm-i-ledena-kisa",
    "title": "RHMZ izdao hitno upozorenje: Opasna pojava preti Srbiji! Upaljen narandžasti meteo-alarm! Ovi delovi zemlje su na udaru",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301251/u-srbiji-tokom-vikenda-sneg-na-planinama-i-do-20-centimetra/vest",
+   "title": "U Srbiji tokom vikenda sneg, na planinama i do 20 centimetra",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4440404-kisa-prelazi-u-sneg-tokom-vikenda-rhmz-najavio-do-20-centimetara-pokrivaca-i-narandzasti-meteo-alarm",
+   "title": "Kiša prelazi u sneg tokom vikenda, RHMZ najavio do 20 centimetara pokrivača i narandžasti meteo-alarm",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -100,7 +112,9 @@
   "RHMZ upozorava na ledenu kišu i košavu popodne i tokom noći na jugozapadu Srbije",
   "RHMZ upozorava na ledenu kišu i košavu popodne i tokom noći",
   "Čak dva upozorenja RHMZ-a; Pola zemlje pod alarmima FOTO",
-  "RHMZ izdao hitno upozorenje: Opasna pojava preti Srbiji! Upaljen narandžasti meteo-alarm! Ovi delovi zemlje su na udaru"
+  "RHMZ izdao hitno upozorenje: Opasna pojava preti Srbiji! Upaljen narandžasti meteo-alarm! Ovi delovi zemlje su na udaru",
+  "U Srbiji tokom vikenda sneg, na planinama i do 20 centimetra",
+  "Kiša prelazi u sneg tokom vikenda, RHMZ najavio do 20 centimetara pokrivača i narandžasti meteo-alarm"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -113,8 +127,8 @@
   "alt": "a puddle of water on a brick sidewalk",
   "link": "https://unsplash.com/@seiya_maeda"
  },
- "novo_od_pisanja": 2,
- "boost": 1.56,
+ "novo_od_pisanja": 4,
+ "boost": 1.6,
  "prepisano": "2026-11-25T13:05:31.712277+00:00",
  "verzija": 2
 }

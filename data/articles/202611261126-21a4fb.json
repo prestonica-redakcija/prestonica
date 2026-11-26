@@ -31,7 +31,7 @@
  ],
  "importance": 7,
  "published": "2026-11-26T10:26:34.441569+00:00",
- "updated": "2026-11-26T10:58:19.885511+00:00",
+ "updated": "2026-11-26T15:13:30.727796+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -50,12 +50,19 @@
    "url": "https://www.b92.net/info/politika/288251/cupic-za-nemacku-televiziju-razocaran-sam-briselom-sankcije-rusiji-necemo-uvoditi/vest",
    "title": "Čupić za nemačku televiziju: \"Razočaran sam Briselom\"; \"Sankcije Rusiji nećemo uvoditi\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253834/aleksandar-cupic-necemo-uvoditi-sankcije-rusiji/vest",
+   "title": "Čupić za nemački ZDF: Nećemo uvoditi sankcije Rusiji, slobodu medija vraćamo zbog sebe, a ne jer neko traži od nas",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Aleksandar Čupić za nemački ZDF rekao da SL neće uvoditi sankcije Rusiji",
   "\"NEĆEMO UVODITI SANKCIJE RUSIJI\" Aleksandar Čupić za nemačke medije: Verujem da EU razume taj naš stav!",
-  "Čupić za nemačku televiziju: \"Razočaran sam Briselom\"; \"Sankcije Rusiji nećemo uvoditi\""
+  "Čupić za nemačku televiziju: \"Razočaran sam Briselom\"; \"Sankcije Rusiji nećemo uvoditi\"",
+  "Čupić za nemački ZDF: Nećemo uvoditi sankcije Rusiji, slobodu medija vraćamo zbog sebe, a ne jer neko traži od nas"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,6 @@
   "local": true,
   "alt": "Čupić za ZDF: Srbija neće uvoditi sankcije Rusiji, EU to razume"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

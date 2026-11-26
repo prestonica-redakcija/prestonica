@@ -25,7 +25,7 @@
  ],
  "importance": 6,
  "published": "2026-11-25T10:06:42.291972+00:00",
- "updated": "2026-11-26T14:55:18.186613+00:00",
+ "updated": "2026-11-26T15:13:30.727796+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -38,11 +38,18 @@
    "url": "https://biznis.telegraf.rs/info-biz/4440401-pio-fond-objavio-raspored-isplata-evo-kada-stizu-penzije-i-ko-prvi-dobija-novac",
    "title": "PIO fond objavio raspored isplata: Evo kada stižu penzije i ko prvi dobija novac",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/301252/novembarske-penzije-prvo-samostalcima-isplata-pocinje-2-decembra/vest",
+   "title": "Novembarske penzije prvo samostalcima, isplata počinje 2. decembra",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "ISPLATA NOVEMBARSKIH PENZIJA U SRBIJI: Evo kada počinje i ko će prvi dobiti novac",
-  "PIO fond objavio raspored isplata: Evo kada stižu penzije i ko prvi dobija novac"
+  "PIO fond objavio raspored isplata: Evo kada stižu penzije i ko prvi dobija novac",
+  "Novembarske penzije prvo samostalcima, isplata počinje 2. decembra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,6 +62,6 @@
   "alt": "A pile of money sitting on top of a table",
   "link": "https://unsplash.com/@ttepavac"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

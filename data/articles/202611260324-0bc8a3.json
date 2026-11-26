@@ -32,17 +32,24 @@
  ],
  "importance": 4,
  "published": "2026-11-26T02:24:11.163398+00:00",
- "updated": "2026-11-26T02:24:11.163398+00:00",
+ "updated": "2026-11-26T15:13:30.727796+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/biznis/biznis-vesti/253707/dualno-obrazovanje-u-srbiji-predlozi-za-modernizaciju/vest",
    "title": "Dualno obrazovanje u Srbiji: Kako uskladiti školske programe sa potrebama tržišta rada",
    "spektar": "centar"
+  },
+  {
+   "name": "Standard",
+   "url": "https://standard.rs/2026/11/26/obrazlozenje-predloga-o-odustajanju-od-eu-puta/",
+   "title": "Obrazloženje predloga o odustajanju od EU puta",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Dualno obrazovanje u Srbiji: Kako uskladiti školske programe sa potrebama tržišta rada"
+  "Dualno obrazovanje u Srbiji: Kako uskladiti školske programe sa potrebama tržišta rada",
+  "Obrazloženje predloga o odustajanju od EU puta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "alt": "a group of men working on a piece of metal",
   "link": "https://unsplash.com/@septian_s09"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T14:55:18.186613+00:00",
- "updated": "2026-11-26T14:55:18.186613+00:00",
+ "updated": "2026-11-26T15:13:30.727796+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://biznis.telegraf.rs/tech-biz/4440398-srbija-napravila-vazan-korak-u-ai-revoluciji-nasi-naucnici-razvili-alate-koji-razumeju-srpski-jezik",
    "title": "Srbija napravila važan korak u AI revoluciji: Naši naučnici razvili alate koji razumeju srpski jezik",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/na-univerzitetu-u-beogradu-zavrsen-projekat-tesla-razvijeni-alati-vestacke-inteligencije-koji-razumeju-srpski-jezik",
+   "title": "Na Univerzitetu u Beogradu završen projekat TESLA, razvijeni alati veštačke inteligencije koji razumeju srpski jezik",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Na Univerzitetu u Beogradu završen projekat TESLA ,razvijeni alati AI koji razumeju srpski",
-  "Srbija napravila važan korak u AI revoluciji: Naši naučnici razvili alate koji razumeju srpski jezik"
+  "Srbija napravila važan korak u AI revoluciji: Naši naučnici razvili alate koji razumeju srpski jezik",
+  "Na Univerzitetu u Beogradu završen projekat TESLA, razvijeni alati veštačke inteligencije koji razumeju srpski jezik"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Stara_kompjuterska_kolekcija_11,_Matemati%C4%8Dki_fakultet,_Univerzitet_u_Beogradu.jpg",
   "alt": "Univerzitet u Beogradu završio projekat TESLA: AI alati za srpski jezik"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

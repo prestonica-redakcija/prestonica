@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T14:10:27.685416+00:00",
- "updated": "2026-11-26T14:10:27.685416+00:00",
+ "updated": "2026-11-26T15:13:30.727796+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -38,11 +38,25 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4440347-misteriozna-smrt-mlade-ruskinje-u-beogradu-na-telu-uocene-povrede-priveden-njen-prijatelj",
    "title": "Misteriozna smrt mlade Ruskinje u Beogradu: Na telu uočene povrede, priveden njen prijatelj",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301258/u-stanu-na-vozdovcu-pronadeno-telo-ruskinje/vest",
+   "title": "U stanu na Voždovcu pronađeno telo Ruskinje",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/telo-ruske-drzavljanke-nadjeno-u-stanu-njenog-prijatelja-u-beogradu/",
+   "title": "Telo ruske državljanke nađeno u stanu njenog prijatelja u Beogradu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "PRONAĐENO TELO MLADE RUSKINJE U BEOGRADU: Na telu imala povrede, priveden njen prijatelj",
-  "Misteriozna smrt mlade Ruskinje u Beogradu: Na telu uočene povrede, priveden njen prijatelj"
+  "Misteriozna smrt mlade Ruskinje u Beogradu: Na telu uočene povrede, priveden njen prijatelj",
+  "U stanu na Voždovcu pronađeno telo Ruskinje",
+  "Telo ruske državljanke nađeno u stanu njenog prijatelja u Beogradu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +68,7 @@
   "local": false,
   "alt": "cars parked in front of store during night time",
   "link": "https://unsplash.com/@hiepdaiduong93"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
