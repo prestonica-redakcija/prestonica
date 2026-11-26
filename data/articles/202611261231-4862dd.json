@@ -29,7 +29,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T11:31:30.898193+00:00",
- "updated": "2026-11-26T11:31:30.898193+00:00",
+ "updated": "2026-11-26T19:59:16.486533+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.b92.net/info/politika/288270/izbori-za-predsednika-republike-predlozi-kandidata-najkasnije-20-dana-pre-glasanja/vest",
    "title": "Izbori za predsednika Republike – predlozi kandidata najkasnije 20 dana pre glasanja",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/razno/288445/novine-zelimo-jaci-glas-afrike-u-novom-svetskom-poretku-predsednicki-izbori-raspisani-za-27-decembar/vest",
+   "title": "Novine: \"Želimo jači glas Afrike u novom svetskom poretku\"; \"Predsednički izbori raspisani za 27. decembar\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Izbori za predsednika Republike - predlozi kandidata najkasnije 20 dana pre glasanja",
-  "Izbori za predsednika Republike – predlozi kandidata najkasnije 20 dana pre glasanja"
+  "Izbori za predsednika Republike – predlozi kandidata najkasnije 20 dana pre glasanja",
+  "Novine: \"Želimo jači glas Afrike u novom svetskom poretku\"; \"Predsednički izbori raspisani za 27. decembar\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "a person is casting a vote into a box",
   "link": "https://unsplash.com/@element5digital"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
