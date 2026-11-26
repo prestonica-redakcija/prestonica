@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-26T15:45:14.837070+00:00",
+ "updated": "2026-11-26T16:00:17.624373+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -98,6 +98,12 @@
    "url": "https://nova.rs/vesti/hronika/uhapsen-mladi-piroman-iz-beograda-podmetnuo-pozar-u-lokale-na-savskom-vencu-i-novom-beogradu/",
    "title": "Uhapšen mladi piroman iz Beograda: Podmetnuo požar u lokale na Savskom vencu i Novom Beogradu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301274/uhapsen-devetnaestogodisnjak-osumnjicen-za-izazivanje-pozara-u-dva-lokala-u-beogradu/vest",
+   "title": "Uhapšen devetnaestogodišnjak osumnjičen za izazivanje požara u dva lokala u Beogradu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -111,7 +117,8 @@
   "Uhapšen muškarac u Svrljigu: Prilikom kontrole u vozilu pronađena droga!",
   "Ovako je uhapšen mladić (19) zbog požara u lokalima u Beogradu: Zatekli ga na spavanju i stavili mu lisice!",
   "Uhapšen mladić zbog sumnje da je namerno izazvao požar u lokalima na Novom Beogradu i Savskom vencu",
-  "Uhapšen mladi piroman iz Beograda: Podmetnuo požar u lokale na Savskom vencu i Novom Beogradu"
+  "Uhapšen mladi piroman iz Beograda: Podmetnuo požar u lokale na Savskom vencu i Novom Beogradu",
+  "Uhapšen devetnaestogodišnjak osumnjičen za izazivanje požara u dva lokala u Beogradu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -124,7 +131,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Novi_Beograd_test.jpg",
   "alt": "Uhapšene dve osobe zbog sumnje da su bacile ručne bombe na kuću i u baštu restorana u Beogradu"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-26T12:05:48.172440+00:00",
  "verzija": 2

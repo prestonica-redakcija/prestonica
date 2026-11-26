@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T15:29:12.553398+00:00",
- "updated": "2026-11-26T15:29:12.553398+00:00",
+ "updated": "2026-11-26T16:00:17.624373+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://www.b92.net/info/hronika/288369/odrzana-pripremna-sednica-za-razmatranje-predloga-o-zabrani-rada-udruzenja-levijatan/vest",
    "title": "Levijatanu preti zabrana rada; Ustavni sud razmatrao predlog tužilaštva",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4440462-ustavni-sud-odlucuje-o-gasenju-levijatana-odrzana-pripremna-sednica-za-zabranu-rada-udruzenja",
+   "title": "Ustavni sud odlučuje o gašenju \"Levijatana\": Održana pripremna sednica za zabranu rada udruženja",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Održana pripremna sednica za razmatranje predloga o zabrani rada udruženja Levijatan",
-  "Levijatanu preti zabrana rada; Ustavni sud razmatrao predlog tužilaštva"
+  "Levijatanu preti zabrana rada; Ustavni sud razmatrao predlog tužilaštva",
+  "Ustavni sud odlučuje o gašenju \"Levijatana\": Održana pripremna sednica za zabranu rada udruženja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Ustavni_sud_Republike_Srpske.jpg",
   "alt": "Ustavni sud razmatrao predlog tužilaštva o zabrani rada Pokreta Levijatan"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

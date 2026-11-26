@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T00:50:01.876652+00:00",
- "updated": "2026-11-26T00:50:01.876652+00:00",
+ "updated": "2026-11-26T16:00:17.624373+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.euronews.rs/svet/planeta/253690/dan-zahvalnosti-u-sad-guzve-na-aerodromima-i-lose-vreme/vest",
    "title": "Haos u avio-saobraćaju pred Dan zahvalnosti: Gužve i loše vreme remete putovanja širom SAD",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/301277/za-dan-zahvalnosti-u-sad-zbog-nevremena-vise-od-500000-potrosaca-bez-struje/vest",
+   "title": "Za Dan zahvalnosti u SAD zbog nevremena više od 500.000 potrošača bez struje",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Gužve na aerodromima i loše vreme otežavaju putovanja u SAD uoči Dana zahvalnosti",
-  "Haos u avio-saobraćaju pred Dan zahvalnosti: Gužve i loše vreme remete putovanja širom SAD"
+  "Haos u avio-saobraćaju pred Dan zahvalnosti: Gužve i loše vreme remete putovanja širom SAD",
+  "Za Dan zahvalnosti u SAD zbog nevremena više od 500.000 potrošača bez struje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Gužve na aerodromima i nevreme otežavaju putovanja u SAD uoči Dana zahvalnosti"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

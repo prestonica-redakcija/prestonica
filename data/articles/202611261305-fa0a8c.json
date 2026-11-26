@@ -25,17 +25,24 @@
  ],
  "importance": 5,
  "published": "2026-11-26T12:05:48.172440+00:00",
- "updated": "2026-11-26T12:05:48.172440+00:00",
+ "updated": "2026-11-26T16:00:17.624373+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/ekonomija/api-banka-reaguje-povodom-navoda-o-sankcijama-eu-ne-pruzamo-usluge-povezane-sa-kripto-imovinom/",
    "title": "API banka reaguje povodom navoda o sankcijama EU: Ne pružamo usluge povezane sa kripto imovinom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/api-banka-neprovereni-navodi-o-sankcijama-protiv-nas/",
+   "title": "API banka: Neprovereni navodi o sankcijama protiv nas",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "API banka reaguje povodom navoda o sankcijama EU: Ne pružamo usluge povezane sa kripto imovinom"
+  "API banka reaguje povodom navoda o sankcijama EU: Ne pružamo usluge povezane sa kripto imovinom",
+  "API banka: Neprovereni navodi o sankcijama protiv nas"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "API banka odbacuje navode o sankcijama EU: ne pružamo usluge povezane sa kripto imovinom"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
