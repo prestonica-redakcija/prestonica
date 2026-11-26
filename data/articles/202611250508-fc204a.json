@@ -24,7 +24,7 @@
  ],
  "importance": 3,
  "published": "2026-11-25T04:08:50.335633+00:00",
- "updated": "2026-11-25T07:37:28.564598+00:00",
+ "updated": "2026-11-26T08:08:30.221609+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -43,12 +43,33 @@
    "url": "https://biznis.telegraf.rs/info-biz/4439316-ovo-je-danas-srednji-kurs-dinara-nbs-objavila-brojke",
    "title": "Ovo je danas srednji kurs dinara: NBS objavila brojke",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/301102/srednji-kurs-dinara-za-evro-danas-1176432-dinara-za-dolar-1073093/vest",
+   "title": "Srednji kurs dinara za evro danas 117,6432 dinara, za dolar 107,3093",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4440046-nbs-objavila-brojke-ovo-je-danasnji-srednji-kurs-dinara-26-novembar",
+   "title": "NBS objavila brojke: Ovo je današnji srednji kurs dinara - 26. novembar",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1674842/danasnja-kursna-lista-pogledajte-koliko-dinara-danas-treba-izdvojiti-evro",
+   "title": "DANAŠNjA KURSNA LISTA: Pogledajte koliko dinara danas treba izdvojiti za evro",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Objavljena kursna lista Narodne banke Srbije: Dinar prema evru slabiji nego pre mesec dana, dolar zabeležio rast",
   "Srednji kurs dinara za evro danas 117,6478 dinara, za dolar 107,5195",
-  "Ovo je danas srednji kurs dinara: NBS objavila brojke"
+  "Ovo je danas srednji kurs dinara: NBS objavila brojke",
+  "Srednji kurs dinara za evro danas 117,6432 dinara, za dolar 107,3093",
+  "NBS objavila brojke: Ovo je današnji srednji kurs dinara - 26. novembar",
+  "DANAŠNjA KURSNA LISTA: Pogledajte koliko dinara danas treba izdvojiti za evro"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +82,6 @@
   "alt": "A scattered pile of various euro banknotes including twenty, one hundred, and two hundred denominations",
   "link": "https://unsplash.com/@ibrahimboran"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

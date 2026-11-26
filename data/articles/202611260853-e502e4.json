@@ -28,7 +28,7 @@
  ],
  "importance": 7,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-26T07:53:18.497760+00:00",
+ "updated": "2026-11-26T08:08:30.221609+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -41,11 +41,18 @@
    "url": "https://nova.rs/vesti/svet/sta-pise-u-deklaraciji-sa-samita-eu-posvecenost-perspektivi-clanstva-zapadnog-balkana-uskladjivanje-s-politikom-unije-izraz-opredeljenja/",
    "title": "Šta piše u Deklaraciji sa Samita EU: Posvećenost perspektivi članstva Zapadnog Balkana, usklađivanje s politikom Unije izraz opredeljenja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/lideri-eu-posvecenost-perspektivi-clanstva-zapadnog-balkana-uskladjivanje-sa-politikom-unije-izraz-opredeljenja/",
+   "title": "Lideri EU: Posvećenost perspektivi članstva Zapadnog Balkana, usklađivanje sa politikom Unije izraz opredeljenja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Lideri EU: Posvećenost perspektivi članstva Zapadnog Balkana, usklađivanje sa politikom Unije izraz opredeljenja",
-  "Šta piše u Deklaraciji sa Samita EU: Posvećenost perspektivi članstva Zapadnog Balkana, usklađivanje s politikom Unije izraz opredeljenja"
+  "Šta piše u Deklaraciji sa Samita EU: Posvećenost perspektivi članstva Zapadnog Balkana, usklađivanje s politikom Unije izraz opredeljenja",
+  "Lideri EU: Posvećenost perspektivi članstva Zapadnog Balkana, usklađivanje sa politikom Unije izraz opredeljenja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Deklaracija samita EU i Zapadnog Balkana: perspektiva članstva i poziv na normalizaciju Beograda i Prištine"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

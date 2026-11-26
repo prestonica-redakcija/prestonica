@@ -29,17 +29,24 @@
  ],
  "importance": 5,
  "published": "2026-11-26T07:06:54.320153+00:00",
- "updated": "2026-11-26T07:06:54.320153+00:00",
+ "updated": "2026-11-26T08:08:30.221609+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1674828/vucic-narod-mora-zna-vlada-srbijom-video",
    "title": "VUČIĆ: \"Narod mora da zna ko vlada Srbijom\" (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674828/narod-mora-zna-vucic-otkrio-vlada-srbijom-video",
+   "title": "\"NAROD MORA DA ZNA\" Vučić otkrio ko vlada Srbijom (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "VUČIĆ: \"Narod mora da zna ko vlada Srbijom\" (VIDEO)"
+  "VUČIĆ: \"Narod mora da zna ko vlada Srbijom\" (VIDEO)",
+  "\"NAROD MORA DA ZNA\" Vučić otkrio ko vlada Srbijom (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučić tvrdi da Srbijom vlada nekoliko centara moći, među njima stranci i kriminalni klan"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

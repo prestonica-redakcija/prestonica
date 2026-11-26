@@ -32,7 +32,7 @@
  ],
  "importance": 3,
  "published": "2026-11-25T11:36:25.611292+00:00",
- "updated": "2026-11-25T11:36:25.611292+00:00",
+ "updated": "2026-11-26T08:08:30.221609+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -45,11 +45,18 @@
    "url": "https://www.euronews.rs/svet/fokus/253607/ice-uhapsio-dobitnika-lutrije-u-masacusetsu-iz-salvadora/vest",
    "title": "ICE u istočnom Bostonu uhapsio dobitnika milion dolara na lutriji Masačusetsa (FOTO)",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4440037-imigrant-osvojio-milion-dolara-na-lutriji-u-bostonu-uhapsen-je-i-sada-ga-ocekuje-deportacija",
+   "title": "Imigrant osvojio milion dolara na lutriji u Bostonu: Uhapšen je i sada ga očekuje deportacija",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "ICE uhapsio dobitnika milion dolara na lutriji Masačusetsa zbog naloga za deportaciju",
-  "ICE u istočnom Bostonu uhapsio dobitnika milion dolara na lutriji Masačusetsa (FOTO)"
+  "ICE u istočnom Bostonu uhapsio dobitnika milion dolara na lutriji Masačusetsa (FOTO)",
+  "Imigrant osvojio milion dolara na lutriji u Bostonu: Uhapšen je i sada ga očekuje deportacija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "local": false,
   "alt": "Boston Police officer walking on the street during daytime",
   "link": "https://unsplash.com/@chaseelliottclark"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
