@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T13:55:33.392531+00:00",
- "updated": "2026-11-26T14:10:27.685416+00:00",
+ "updated": "2026-11-26T14:25:21.015125+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -58,12 +58,19 @@
    "url": "https://n1info.rs/kultura/bojan-sudjic-ostavka-beogradska-filharmonija/",
    "title": "Bojan Suđić podneo ostavku na mesto v.d. direktora Beogradske filharmonije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/kultura/bojan-sudjic-podneo-ostavku/",
+   "title": "Bojan Suđić podneo ostavku na mesto v.d. direktora Beogradske filharmonije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "V. d. direktora Beogradske filharmonije Bojan Suđić podneo ostavku",
   "V.d. direktora Beogradske filharmonije Bojan Suđić podneo ostavku",
   "V.d. direktora Beogradske filharmonije Bojan Suđić podneo ostavku",
+  "Bojan Suđić podneo ostavku na mesto v.d. direktora Beogradske filharmonije",
   "Bojan Suđić podneo ostavku na mesto v.d. direktora Beogradske filharmonije",
   "Bojan Suđić podneo ostavku na mesto v.d. direktora Beogradske filharmonije"
  ],
@@ -78,6 +85,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Beogradska_filharmonija_-_panoramio.jpg",
   "alt": "Bojan Suđić podneo ostavku na mesto v. d. direktora Beogradske filharmonije"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

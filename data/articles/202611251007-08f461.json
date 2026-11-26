@@ -30,17 +30,24 @@
  ],
  "importance": 4,
  "published": "2026-11-25T09:07:06.301378+00:00",
- "updated": "2026-11-25T09:07:06.301378+00:00",
+ "updated": "2026-11-26T14:25:21.015125+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/politika/naprednjaci-nece-u-skupstinske-odbore-ali-hoce-u-delegacije-pri-medjunarodnih-organizacijama-pogledajte-ko-ide-u-savet-evrope-oebs-ili-nato/",
    "title": "Naprednjaci neće u skupštinske odbore, ali hoće u delegacije pri međunarodnih organizacijama: Pogledajte ko ide u Savet Evrope, OEBS ili NATO",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/naprednjacke-vedete-za-lobiranje-po-svetu-zasto-sns-nece-u-skupstinske-odbore-ali-hoce-u-delegacije-za-savet-evrope-oebs-ili-nato/",
+   "title": "Naprednjačke vedete za lobiranje po svetu: Zašto SNS neće u skupštinske odbore, ali hoće u delegacije za Savet Evrope, OEBS ili NATO",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Naprednjaci neće u skupštinske odbore, ali hoće u delegacije pri međunarodnih organizacijama: Pogledajte ko ide u Savet Evrope, OEBS ili NATO"
+  "Naprednjaci neće u skupštinske odbore, ali hoće u delegacije pri međunarodnih organizacijama: Pogledajte ko ide u Savet Evrope, OEBS ili NATO",
+  "Naprednjačke vedete za lobiranje po svetu: Zašto SNS neće u skupštinske odbore, ali hoće u delegacije za Savet Evrope, OEBS ili NATO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "aerial view photography of room",
   "link": "https://unsplash.com/@internetztube"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

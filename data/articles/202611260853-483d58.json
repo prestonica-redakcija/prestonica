@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-26T08:08:30.221609+00:00",
+ "updated": "2026-11-26T14:25:21.015125+00:00",
  "sources": [
   {
    "name": "N1",
@@ -47,12 +47,19 @@
    "url": "https://www.danas.rs/vesti/politika/toskovic-studenti-kandidat-za-predsednika/",
    "title": "Tošković: Studenti imaju najverovatnijeg kandidata za predsednika",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/studenti-objasnili-ko-ce-biti-predlagac-njihovog-predsednickog-kandidata/",
+   "title": "Studenti objasnili ko će biti predlagač njihovog predsedničkog kandidata",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Tošković: Imamo najverovatnijeg kandidata za predsednika države, verujem da će vlada opstati četiri godine",
   "Tošković (Studentska lista): Imamo najverovatnijeg kandidata za predsednika države, Vlada do kraja godine",
-  "Tošković: Studenti imaju najverovatnijeg kandidata za predsednika"
+  "Tošković: Studenti imaju najverovatnijeg kandidata za predsednika",
+  "Studenti objasnili ko će biti predlagač njihovog predsedničkog kandidata"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Tošković: Studentska lista uskoro saopštava kandidata za predsednika države"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

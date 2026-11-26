@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-25T06:37:52.711850+00:00",
- "updated": "2026-11-26T13:55:33.392531+00:00",
+ "updated": "2026-11-26T14:25:21.015125+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -44,10 +44,17 @@
    "url": "https://www.b92.net/biz/svet/vesti/288334/poznato-ko-ce-biti-novi-predsednik-ecb/vest",
    "title": "Poznato ko će biti novi predsednik ECB",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/288334/naslednik-kristin-lagard-pablo-ernandez-de-kos-na-celu-ecb/vest",
+   "title": "Poznato ko će biti novi predsednik ECB",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Raskrinkana \"plenumska\" Skupština! Jerković o poslanicima nove vlasti: Ovo što gledamo ne ohrabruje",
+  "Poznato ko će biti novi predsednik ECB",
   "Poznato ko će biti novi predsednik ECB"
  ],
  "author": "Redakcija Prestonice",
@@ -61,6 +68,6 @@
   "alt": "Woman stands in an empty parliament assembly hall",
   "link": "https://unsplash.com/@anniehatuanh"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

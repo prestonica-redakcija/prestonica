@@ -27,7 +27,7 @@
  ],
  "importance": 7,
  "published": "2026-11-26T13:40:39.112185+00:00",
- "updated": "2026-11-26T13:55:33.392531+00:00",
+ "updated": "2026-11-26T14:25:21.015125+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -40,11 +40,18 @@
    "url": "https://informer.rs/politika/vesti/1173444/boris-bogdanovic-vucicevic-saslusanje",
    "title": "Evo šta je sada sa zadržavanjem! Oglasio se advokat Dragana J. Vučićevića nakon saslušanja - Ovo su detalji odbrane (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173472/dragan-j-vucicevic-pritvor",
+   "title": "Skandal! Saznajemo: Tužilaštvo predložilo pritvor za Dragana J. Vučićevića",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Dragan Vučićević saslušan u tužilaštvu, njegovi branioci predložili da mu se ukine zadržavanje",
-  "Evo šta je sada sa zadržavanjem! Oglasio se advokat Dragana J. Vučićevića nakon saslušanja - Ovo su detalji odbrane (VIDEO)"
+  "Evo šta je sada sa zadržavanjem! Oglasio se advokat Dragana J. Vučićevića nakon saslušanja - Ovo su detalji odbrane (VIDEO)",
+  "Skandal! Saznajemo: Tužilaštvo predložilo pritvor za Dragana J. Vučićevića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,6 +63,6 @@
   "local": true,
   "alt": "Vučićević saslušan u tužilaštvu, odbrana traži ukidanje zadržavanja"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

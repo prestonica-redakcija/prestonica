@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T12:05:48.172440+00:00",
- "updated": "2026-11-26T12:05:48.172440+00:00",
+ "updated": "2026-11-26T14:25:21.015125+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -49,12 +49,19 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4440262-poternica-za-vladimirom-mandicem-sumnjici-se-za-ozbiljne-malverzacije-sa-fondovima-evropske-unije-od-275320",
    "title": "Poternica za Vladimirom Mandićem! Sumnjiči se za ozbiljne malverzacije sa fondovima Evropske unije od 275.320€",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10173829/odredjen-pritvor-i-raspisana-poternica-za-vladimirom-mandicem",
+   "title": "VLADIMIRU MANDIĆU ODREĐEN PRITVOR I IZDAT NALOG ZA RASPISIVANJE POTERNICE: Bivši rukometaš nije pronađen na adresi, evo za šta se sumnjiči",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Raspisana poternica za Vladimirom Mandićem",
   "Sud raspisao poternicu za Vladimirom Mandićem",
-  "Poternica za Vladimirom Mandićem! Sumnjiči se za ozbiljne malverzacije sa fondovima Evropske unije od 275.320€"
+  "Poternica za Vladimirom Mandićem! Sumnjiči se za ozbiljne malverzacije sa fondovima Evropske unije od 275.320€",
+  "VLADIMIRU MANDIĆU ODREĐEN PRITVOR I IZDAT NALOG ZA RASPISIVANJE POTERNICE: Bivši rukometaš nije pronađen na adresi, evo za šta se sumnjiči"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,5 +73,7 @@
   "local": false,
   "alt": "brown wooden tool on white surface",
   "link": "https://unsplash.com/@tingeyinjurylawfirm"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

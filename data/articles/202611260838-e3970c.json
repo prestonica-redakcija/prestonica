@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T07:38:26.049111+00:00",
- "updated": "2026-11-26T13:55:33.392531+00:00",
+ "updated": "2026-11-26T14:25:21.015125+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -38,11 +38,18 @@
    "url": "https://insajder.net/prenosimo/republika-srbija-otkupila-petogodisnje-drzavne-obveznice",
    "title": "Republika Srbija otkupila petogodišnje državne obveznice",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/288332/srbija-prevremeno-otkupila-drzavne-obveznice-vredne-79-milijardi-dinara/vest",
+   "title": "Srbija prevremeno otkupila državne obveznice vredne 7,9 milijardi dinara",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Danas treća aukcija prevremenog otkupa državnih obveznica, planirani iznos 10 milijardi dinara",
-  "Republika Srbija otkupila petogodišnje državne obveznice"
+  "Republika Srbija otkupila petogodišnje državne obveznice",
+  "Srbija prevremeno otkupila državne obveznice vredne 7,9 milijardi dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,6 +62,6 @@
   "alt": "white concrete building under sky",
   "link": "https://unsplash.com/@katiemoum"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

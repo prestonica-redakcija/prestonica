@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T14:10:27.685416+00:00",
- "updated": "2026-11-26T14:10:27.685416+00:00",
+ "updated": "2026-11-26T14:25:21.015125+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -45,11 +45,18 @@
    "url": "https://biznis.telegraf.rs/info-biz/4440356-poznato-ko-ce-naslediti-kristin-lagard-evo-ko-dolazi-na-celo-evropske-centralne-banke-u-februaru",
    "title": "Poznato ko će naslediti Kristin Lagard: Evo ko dolazi na čelo Evropske centralne banke u februaru!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1675017/smena-celu-ecb-naslednik-kristin-lagard",
+   "title": "SMENA NA ČELU ECB: Ko je naslednik Kristin Lagard",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Španac Pablo Ernandez de Kos u februaru dolazi na čelo Evropske centralne banke",
-  "Poznato ko će naslediti Kristin Lagard: Evo ko dolazi na čelo Evropske centralne banke u februaru!"
+  "Poznato ko će naslediti Kristin Lagard: Evo ko dolazi na čelo Evropske centralne banke u februaru!",
+  "SMENA NA ČELU ECB: Ko je naslednik Kristin Lagard"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Pablo Ernandez de Kos od 8. februara na čelu Evropske centralne banke"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
