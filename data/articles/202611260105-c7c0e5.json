@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T00:05:01.814826+00:00",
- "updated": "2026-11-26T13:24:11.416137+00:00",
+ "updated": "2026-11-26T13:40:39.112185+00:00",
  "sources": [
   {
    "name": "N1",
@@ -53,12 +53,19 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4440322-napeto-u-briselu-milatovic-o-ucenama-hrvatske-a-plenkovic-o-teritorijalnim-pretenzijama-crne-gore",
    "title": "Napeto u Briselu: Milatović o ucenama Hrvatske, a Plenković o teritorijalnim pretenzijama Crne Gore",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301221/brisel-milatovic-o-ucenama-hrvatske-a-plenkovic-o-teritorijalnim-pretenzijama-cg/vest",
+   "title": "Brisel: Milatović o ucenama Hrvatske, a Plenković o teritorijalnim pretenzijama CG",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Jakov Milatović za N1: Srbija je za Crnu Goru više od ekonomije, sa novom vlašću prvo o životnim problemima naših građana",
   "Hrvatska ucenjuje Crnu Goru?",
-  "Napeto u Briselu: Milatović o ucenama Hrvatske, a Plenković o teritorijalnim pretenzijama Crne Gore"
+  "Napeto u Briselu: Milatović o ucenama Hrvatske, a Plenković o teritorijalnim pretenzijama Crne Gore",
+  "Brisel: Milatović o ucenama Hrvatske, a Plenković o teritorijalnim pretenzijama CG"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,6 @@
   "alt": "three european flags flying in front of a building",
   "link": "https://unsplash.com/@squads_cap"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

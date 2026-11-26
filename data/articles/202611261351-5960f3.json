@@ -39,7 +39,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T12:51:19.902058+00:00",
- "updated": "2026-11-26T13:24:11.416137+00:00",
+ "updated": "2026-11-26T13:40:39.112185+00:00",
  "sources": [
   {
    "name": "N1",
@@ -88,6 +88,12 @@
    "url": "https://www.euronews.rs/srbija/politika/253821/aleksandar-cupic-na-sastanku-lidera-regiona-u-ohridu/vest",
    "title": "V.d.predsednika Srbije Aleksandar Čupić na sastanku lidera procesa Brdo-Brioni u Ohridu",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/vd-predsednika-srbije-aleksandar-cupic-na-sastanku-lidera-procesa-brdo-brioni-u-ohridu",
+   "title": "V.D. predsednika Srbije Aleksandar Čupić na sastanku lidera procesa Brdo-Brioni u Ohridu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -98,7 +104,8 @@
   "ČUPIĆ U OHRIDU: Prisustvovaće sastanku lidera procesa Brdo-Brioni",
   "Aleksandar Čupić na prvom sastanku u inostranstvu: Već večeras putuje van Srbije",
   "Aleksandar Čupić sutra na sastanku lidera procesa Brdo-Brioni sutra u Ohridu",
-  "V.d.predsednika Srbije Aleksandar Čupić na sastanku lidera procesa Brdo-Brioni u Ohridu"
+  "V.d.predsednika Srbije Aleksandar Čupić na sastanku lidera procesa Brdo-Brioni u Ohridu",
+  "V.D. predsednika Srbije Aleksandar Čupić na sastanku lidera procesa Brdo-Brioni u Ohridu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -111,6 +118,6 @@
   "alt": "People are watching the sunset over the water",
   "link": "https://unsplash.com/@martinkoloski"
  },
- "novo_od_pisanja": 5,
- "boost": 1.4
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }

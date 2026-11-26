@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T10:43:27.881389+00:00",
- "updated": "2026-11-26T11:48:13.410537+00:00",
+ "updated": "2026-11-26T13:40:39.112185+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -68,6 +68,12 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4440144-drama-u-priboju-spasioci-tragaju-za-ljiljanom-po-reci-lim-jedna-stvar-znacajno-otezava-potragu",
    "title": "Drama u Priboju! Spasioci tragaju za Ljiljanom po reci Lim: Jedna stvar značajno otežava potragu",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/nestala-zena-iz-priboja-pretrazuje-se-lim/",
+   "title": "Nestala žena iz Priboja, pretražuje se Lim",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -76,7 +82,8 @@
   "POTRAGA ZA NESTALOM LJILJANOM IZ PRIBOJA UŠLA U PETI DAN: Spasioci pretražuju reku Lim, dve stvari najviše otežavaju celu situaciju (foto)",
   "Nestala žena u Priboju! Policija na nogama, pretražuje se ceo grad i reka Lim",
   "Nestala žena u Priboju, policija pretražuje grad i reku Lim; Situaciju otežava pogranično područje FOTO",
-  "Drama u Priboju! Spasioci tragaju za Ljiljanom po reci Lim: Jedna stvar značajno otežava potragu"
+  "Drama u Priboju! Spasioci tragaju za Ljiljanom po reci Lim: Jedna stvar značajno otežava potragu",
+  "Nestala žena iz Priboja, pretražuje se Lim"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -89,6 +96,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Jeep_Renegade_-_Sektor_za_vanredne_situacije_MUPa_Srbije.jpg",
   "alt": "Potraga za nestalom Ljiljanom Džaković u Priboju traje petи dan, pretražuje se i Lim"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

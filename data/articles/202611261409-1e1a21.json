@@ -26,7 +26,7 @@
  ],
  "importance": 7,
  "published": "2026-11-26T13:09:30.305892+00:00",
- "updated": "2026-11-26T13:24:11.416137+00:00",
+ "updated": "2026-11-26T13:40:39.112185+00:00",
  "sources": [
   {
    "name": "N1",
@@ -45,12 +45,40 @@
    "url": "https://www.telegraf.rs/4440320-demokratska-stranka-se-oglasila-i-otkrila-cijeg-kandidata-ce-podrzati-na-predsednickim-izborima",
    "title": "Demokratska stranka se oglasila i otkrila čijeg kandidata će podržati na predsedničkim izborima",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301226/demokratska-stranka-ce-podrzati-predsednickog-kandidata-studentske-liste/vest",
+   "title": "Demokratska stranka će podržati predsedničkog kandidata Studentske liste",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10173750/ds-saopstila-da-podrzava-studentski-pokret-na-izborima-27-decembra",
+   "title": "Oglasila se Demokratska stranka: Doneli odluku koga će podržati na narednim predsedničkim izborima",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/ds-kreni-promeni-studenti-kandidat-predsednicki-izbori/",
+   "title": "DS i KP: Podržaćemo studentskog kandidata na predsedničkim izborima",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10173770/kada-studentska-lista-objavljuje-ime-kandidata-za-predsednika-srbije",
+   "title": "Ko će biti kandidat Studentske liste za predsednika Srbije? Iz pokreta otkrili kada će objaviti ime predstavnika na izborima",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "DS: Podržaćemo kandidata studentskog pokreta za predsednika Srbije",
   "Demokratska stranka i Pokret Kreni-promeni: Podrška predsedničkom kandidatu Studentskog pokreta",
-  "Demokratska stranka se oglasila i otkrila čijeg kandidata će podržati na predsedničkim izborima"
+  "Demokratska stranka se oglasila i otkrila čijeg kandidata će podržati na predsedničkim izborima",
+  "Demokratska stranka će podržati predsedničkog kandidata Studentske liste",
+  "Oglasila se Demokratska stranka: Doneli odluku koga će podržati na narednim predsedničkim izborima",
+  "DS i KP: Podržaćemo studentskog kandidata na predsedničkim izborima",
+  "Ko će biti kandidat Studentske liste za predsednika Srbije? Iz pokreta otkrili kada će objaviti ime predstavnika na izborima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +91,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Za_pravednu_Srbiju_%E2%80%93_Demokratska_stranka_1.jpg",
   "alt": "DS i Kreni-promeni podržavaju kandidata Studentskog pokreta na predsedničkim izborima"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }
