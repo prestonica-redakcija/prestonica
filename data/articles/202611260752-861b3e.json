@@ -36,7 +36,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T06:52:02.295680+00:00",
- "updated": "2026-11-26T07:23:32.467029+00:00",
+ "updated": "2026-11-26T07:53:18.497760+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -55,12 +55,19 @@
    "url": "https://www.kurir.rs/planeta/10173254/tramp-i-rute-o-rusiji-i-riziku-od-sirenja-rata-u-ukrajini",
    "title": "TRAMP I GENSEK NATO SE SLAŽU: RUSIJA DA IZBEGNE ŠIRENJE RATA U UKRAJINI! Predsednik SAD primio Rutea na Floridi, žele mirno rešenje sukoba u što kraćem roku",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/tramp-rute-putin-rat-evropa/",
+   "title": "Tramp i Rute upozorili Putina da ne širi rat na Evropu: Za Kremlj su to „besmislice“",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Tramp i Rute: Rusija treba da izbegava poteze koji bi doveli do proširenja rata u Ukrajini",
   "Tramp i šef NATO upozorili Putina: \"Rusija mora da izbegne poteze koji bi doveli do širenja rata\"",
-  "TRAMP I GENSEK NATO SE SLAŽU: RUSIJA DA IZBEGNE ŠIRENJE RATA U UKRAJINI! Predsednik SAD primio Rutea na Floridi, žele mirno rešenje sukoba u što kraćem roku"
+  "TRAMP I GENSEK NATO SE SLAŽU: RUSIJA DA IZBEGNE ŠIRENJE RATA U UKRAJINI! Predsednik SAD primio Rutea na Floridi, žele mirno rešenje sukoba u što kraćem roku",
+  "Tramp i Rute upozorili Putina da ne širi rat na Evropu: Za Kremlj su to „besmislice“"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "alt": "white concrete building near body of water during daytime",
   "link": "https://unsplash.com/@billhamway"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
