@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T09:07:56.153268+00:00",
- "updated": "2026-11-26T09:56:47.507907+00:00",
+ "updated": "2026-11-26T10:26:34.441569+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,12 +47,19 @@
    "url": "https://www.b92.net/biz/srbija/vesti/288205/postanska-stedionica-isplatila-skoro-59-odsto-osiguranih-depozita-alta-banke/vest",
    "title": "Poštanska štedionica isplatila skoro 59 odsto osiguranih depozita Alta banke",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253757/postanska-stedionica-isplatila-20044-miliona-evra/vest",
+   "title": "Isplaćeno više od 200 miliona evra klijentima Alta banke: Angažovane i mobilne ekspoziture, evo gde stižu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Banka Poštanska štedionica: Deponentima Alta banke u stečaju isplaćeno oko 59 odsto osiguranih depozita",
   "Isplaćeno skoro 59 odsto osiguranih depozita Alta banke: Angažovane i mobilne ekspoziture",
-  "Poštanska štedionica isplatila skoro 59 odsto osiguranih depozita Alta banke"
+  "Poštanska štedionica isplatila skoro 59 odsto osiguranih depozita Alta banke",
+  "Isplaćeno više od 200 miliona evra klijentima Alta banke: Angažovane i mobilne ekspoziture, evo gde stižu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Po%C5%A1tanska_%C5%A1tedionica_Pan%C4%8Devo.jpg",
   "alt": "Deponentima Alta banke isplaćeno oko 59 odsto osiguranih depozita, uključene i mobilne ekspoziture"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

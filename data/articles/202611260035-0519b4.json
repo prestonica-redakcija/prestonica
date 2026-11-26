@@ -33,7 +33,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-26T10:11:46.265687+00:00",
+ "updated": "2026-11-26T10:26:34.441569+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -142,6 +142,18 @@
    "url": "https://www.b92.net/info/drustvo/288221/vucicevic-doveden-u-palatu-pravde-ispred-palate-pravde-skup-podrske/vest",
    "title": "Vučićević doveden u Palatu pravde; Ispred Palate pravde skup podrške",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301128/vucicevic-doveden-u-palatu-pravde-ispred-zgrade-skup-podrske/vest",
+   "title": "Vučićević doveden u Palatu pravde, ispred zgrade skup podrške",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4440158-vucicevic-doveden-u-palatu-pravde-danas-saslusanje-ispred-zgrade-skup-podrske",
+   "title": "Vučićević doveden u Palatu pravde: Danas saslušanje, ispred zgrade skup podrške",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -162,7 +174,9 @@
   "Vučićević na saslušanju kod tužioca: Ispred Palate pravde skup podrške uredniku Informera (VIDEO)",
   "SKUP PODRŠKE DRAGANU J. VUČIĆEVIĆU: Okupljeni uzvikuju \"pustite Dragana\" (VIDEO)",
   "SKUP PODRŠKE DRAGANU J. VUČIĆEVIĆU: Glavni urednik Informera doveden u Palatu pravde - okupljeni uzvikuju \"pustite Dragana\" (VIDEO)",
-  "Vučićević doveden u Palatu pravde; Ispred Palate pravde skup podrške"
+  "Vučićević doveden u Palatu pravde; Ispred Palate pravde skup podrške",
+  "Vučićević doveden u Palatu pravde, ispred zgrade skup podrške",
+  "Vučićević doveden u Palatu pravde: Danas saslušanje, ispred zgrade skup podrške"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -175,7 +189,7 @@
   "alt": "Car entering a brightly lit tunnel at night",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-26T10:11:46.265687+00:00",
  "verzija": 4

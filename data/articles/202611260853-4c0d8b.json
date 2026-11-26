@@ -36,17 +36,24 @@
  ],
  "importance": 6,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-26T07:53:18.497760+00:00",
+ "updated": "2026-11-26T10:26:34.441569+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/info/svet/288185/stub-i-gar-stere-uspostavili-tajni-kanal-komunikacije-sa-putinom-sprecili-direktni-vojni-sukob/vest",
    "title": "Tajni kanal komunikacije sa Putinom: Sprečen nuklearni udar?",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10173383/tajni-kanal-finska-norveska-nukelarni-udar-rusija-baltik",
+   "title": "RUSIJA ZAPRETILA PREVENTIVNIM NUKLEARNIM UDAROM NA BALTIKU! Finska i Norveška tajnim kanalom došle do Putina - ko je misteriozni oligarh koji je sprečio pakao?",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Tajni kanal komunikacije sa Putinom: Sprečen nuklearni udar?"
+  "Tajni kanal komunikacije sa Putinom: Sprečen nuklearni udar?",
+  "RUSIJA ZAPRETILA PREVENTIVNIM NUKLEARNIM UDAROM NA BALTIKU! Finska i Norveška tajnim kanalom došle do Putina - ko je misteriozni oligarh koji je sprečio pakao?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "a large red and white ship",
   "link": "https://unsplash.com/@asyarey"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -31,17 +31,31 @@
  ],
  "importance": 5,
  "published": "2026-11-26T10:11:46.265687+00:00",
- "updated": "2026-11-26T10:11:46.265687+00:00",
+ "updated": "2026-11-26T10:26:34.441569+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10173449/otkriveno-ko-je-bacio-bombe-na-kucu-i-kafic-biznismena",
    "title": "OTKRIVENO KO JE BACIO BOMBE NA KUĆU I KAFIĆ BIZNISMENA IZ BEOGRADA: Uhapšena dvojica muškaraca, oglasilo se tužilaštvo",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/uhapseni-muskarci-koji-su-bacili-bombu-na-kucu-na-ledinama-oglasilo-se-tuzilastvo/",
+   "title": "Uhapšeni muškarci koji su bacili bombu na kuću na Ledinama: Oglasilo se tužilaštvo",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/288244/novo-hapsenje-osumnjiceni-da-su-bacili-bombe-na-kucu-i-ugostiteljski-objekat-u-beogradu/vest",
+   "title": "Novo hapšenje: Osumnjičeni da su bacili bombe na kuću i ugostiteljski objekat u Beogradu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "OTKRIVENO KO JE BACIO BOMBE NA KUĆU I KAFIĆ BIZNISMENA IZ BEOGRADA: Uhapšena dvojica muškaraca, oglasilo se tužilaštvo"
+  "OTKRIVENO KO JE BACIO BOMBE NA KUĆU I KAFIĆ BIZNISMENA IZ BEOGRADA: Uhapšena dvojica muškaraca, oglasilo se tužilaštvo",
+  "Uhapšeni muškarci koji su bacili bombu na kuću na Ledinama: Oglasilo se tužilaštvo",
+  "Novo hapšenje: Osumnjičeni da su bacili bombe na kuću i ugostiteljski objekat u Beogradu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Bra%C4%87e_Jerkovi%C4%87_from_air.jpg",
   "alt": "Uhapšena dvojica osumnjičenih za bacanje bombi na kuću biznismena i kafić u Beogradu"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

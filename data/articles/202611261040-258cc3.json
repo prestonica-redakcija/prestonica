@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T09:40:25.804528+00:00",
- "updated": "2026-11-26T10:11:46.265687+00:00",
+ "updated": "2026-11-26T10:26:34.441569+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -72,6 +72,18 @@
    "url": "https://biznis.telegraf.rs/info-biz/4440150-ko-je-stanko-fustar-izabran-je-za-predsednika-odbora-koji-odlucuje-i-o-platama-poslanika",
    "title": "Ko je Stanko Fuštar? Izabran je za predsednika odbora koji odlučuje i o platama poslanika",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/stanko-fustar-izabran-za-predsednika-odbora-za-administrativno-budzetska-i-mandatno-imunitetska-pitanja",
+   "title": "Stanko Fuštar izabran za predsednika Odbora za administrativno-budžetska i mandatno-imunitetska pitanja",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10173429/stanko-fustar-izabran-za-predsednika-odbora",
+   "title": "ODRŽANA PRVA SEDNICA: Stanko Fuštar izabran za predsednika Odbora za administrativno-budžetska i mandatno-imunitetska pitanja",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -81,7 +93,9 @@
   "Stanko Fuštar predsednik Administrativnog odbora",
   "Fuštar (SL) izabran za predsednika Odbora za administrativno-budžetska i mandatno-imunitetska pitanja",
   "Stanko Fuštar predsednik Administrativnog odbora",
-  "Ko je Stanko Fuštar? Izabran je za predsednika odbora koji odlučuje i o platama poslanika"
+  "Ko je Stanko Fuštar? Izabran je za predsednika odbora koji odlučuje i o platama poslanika",
+  "Stanko Fuštar izabran za predsednika Odbora za administrativno-budžetska i mandatno-imunitetska pitanja",
+  "ODRŽANA PRVA SEDNICA: Stanko Fuštar izabran za predsednika Odbora za administrativno-budžetska i mandatno-imunitetska pitanja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -94,6 +108,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Stanko Fuštar izabran za predsednika Odbora za administrativno-budžetska pitanja"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }

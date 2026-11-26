@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T09:56:47.507907+00:00",
- "updated": "2026-11-26T09:56:47.507907+00:00",
+ "updated": "2026-11-26T10:26:34.441569+00:00",
  "sources": [
   {
    "name": "N1",
@@ -47,12 +47,26 @@
    "url": "https://nova.rs/vesti/hronika/udruzenje-sudija-i-tuzilaca-odbrana-struke-trazi-ostavke-clanova-visokog-saveta-sudstva/",
    "title": "Udruženje sudija i tužilaca Odbrana struke traži ostavke članova Visokog saveta sudstva",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/drugo-osnovno-tuzilastvo-trazimo-reakciju-visokog-saveta-zbog-vucicevih-optuzbi-i-uvreda-tuzilaca",
+   "title": "Drugo osnovno tužilaštvo: Tražimo reakciju Visokog saveta zbog Vučićevih optužbi i uvreda tužilaca",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/udruzenje-sudija-i-tuzilaca-odbrana-struke-trazi-ostavke-clanova-visokog-saveta-sudstva",
+   "title": "Udruženje sudija i tužilaca \"Odbrana struke\" traži ostavke članova Visokog saveta sudstva",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Odbrana struke traži ostavke članova Visokog saveta sudstva",
   "Odbrana struke traži ostavke članova Visokog saveta sudstva",
-  "Udruženje sudija i tužilaca Odbrana struke traži ostavke članova Visokog saveta sudstva"
+  "Udruženje sudija i tužilaca Odbrana struke traži ostavke članova Visokog saveta sudstva",
+  "Drugo osnovno tužilaštvo: Tražimo reakciju Visokog saveta zbog Vučićevih optužbi i uvreda tužilaca",
+  "Udruženje sudija i tužilaca \"Odbrana struke\" traži ostavke članova Visokog saveta sudstva"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +77,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Odbrana struke traži ostavke članova Visokog saveta sudstva zbog zakasnele zaštite sudija"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
