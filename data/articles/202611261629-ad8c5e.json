@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T15:29:12.553398+00:00",
- "updated": "2026-11-26T15:29:12.553398+00:00",
+ "updated": "2026-11-26T15:45:14.837070+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -38,11 +38,25 @@
    "url": "https://www.kurir.rs/crna-hronika/10173938/ilegalna-laboratorija-za-marihuanu-otkrivena-u-sopotu",
    "title": "ŠOK KOD SOPOTA! ZAPLENJENO ČAK 300 KG DROGE: Policija upala u kuću i zatekla laboratoriju za uzgoj marihuane, uhapšena jedna osoba (foto)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4440447-velika-akcija-ukp-a-kod-sopota-otkrivena-ilegalna-laboratorija-zaplenjeno-300-kilograma-marihuane",
+   "title": "Velika akcija UKP-a kod Sopota: Otkrivena ilegalna laboratorija, zaplenjeno 300 kilograma marihuane!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/foto-otkrivena-laboratorija-marihuane-kod-sopota-zaplenjeno-oko-300-kilograma-marihuane/",
+   "title": "(FOTO) Otkrivena laboratorija marihuane kod Sopota, zaplenjeno oko 300 kilograma marihuane",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Otkrivena plantaža kod Sopota: Zaplenjeno oko 300 kilograma sirove marihuane FOTO",
-  "ŠOK KOD SOPOTA! ZAPLENJENO ČAK 300 KG DROGE: Policija upala u kuću i zatekla laboratoriju za uzgoj marihuane, uhapšena jedna osoba (foto)"
+  "ŠOK KOD SOPOTA! ZAPLENJENO ČAK 300 KG DROGE: Policija upala u kuću i zatekla laboratoriju za uzgoj marihuane, uhapšena jedna osoba (foto)",
+  "Velika akcija UKP-a kod Sopota: Otkrivena ilegalna laboratorija, zaplenjeno 300 kilograma marihuane!",
+  "(FOTO) Otkrivena laboratorija marihuane kod Sopota, zaplenjeno oko 300 kilograma marihuane"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +68,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:VW_Crafter_-_MUP_Srbije.jpg",
   "alt": "Kod Sopota otkrivena ilegalna laboratorija, zaplenjeno oko 300 kilograma marihuane"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

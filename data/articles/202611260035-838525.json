@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-26T15:29:12.553398+00:00",
+ "updated": "2026-11-26T15:45:14.837070+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -86,6 +86,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4440436-ovako-je-uhapsen-mladic-19-zbog-pozara-u-lokalima-u-beogradu-zatekli-ga-na-spavanju-i-stavili-mu-lisice",
    "title": "Ovako je uhapšen mladić (19) zbog požara u lokalima u Beogradu: Zatekli ga na spavanju i stavili mu lisice!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/uhapsen-mladic-zbog-sumnje-da-je-namerno-izazvao-pozar-u-lokalima-na-novom-beogradu-i-savskom-vencu/",
+   "title": "Uhapšen mladić zbog sumnje da je namerno izazvao požar u lokalima na Novom Beogradu i Savskom vencu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/uhapsen-mladi-piroman-iz-beograda-podmetnuo-pozar-u-lokale-na-savskom-vencu-i-novom-beogradu/",
+   "title": "Uhapšen mladi piroman iz Beograda: Podmetnuo požar u lokale na Savskom vencu i Novom Beogradu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -97,7 +109,9 @@
   "Uhapšeni mladići zbog dva bombaška napada u Beogradu",
   "Uhapšena dva muškarca zbog dva bombaška napada u Beogradu",
   "Uhapšen muškarac u Svrljigu: Prilikom kontrole u vozilu pronađena droga!",
-  "Ovako je uhapšen mladić (19) zbog požara u lokalima u Beogradu: Zatekli ga na spavanju i stavili mu lisice!"
+  "Ovako je uhapšen mladić (19) zbog požara u lokalima u Beogradu: Zatekli ga na spavanju i stavili mu lisice!",
+  "Uhapšen mladić zbog sumnje da je namerno izazvao požar u lokalima na Novom Beogradu i Savskom vencu",
+  "Uhapšen mladi piroman iz Beograda: Podmetnuo požar u lokale na Savskom vencu i Novom Beogradu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -110,8 +124,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Novi_Beograd_test.jpg",
   "alt": "Uhapšene dve osobe zbog sumnje da su bacile ručne bombe na kuću i u baštu restorana u Beogradu"
  },
- "novo_od_pisanja": 2,
- "boost": 1.56,
+ "novo_od_pisanja": 4,
+ "boost": 1.6,
  "prepisano": "2026-11-26T12:05:48.172440+00:00",
  "verzija": 2
 }

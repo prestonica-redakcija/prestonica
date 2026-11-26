@@ -35,7 +35,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T10:58:19.885511+00:00",
- "updated": "2026-11-26T15:29:12.553398+00:00",
+ "updated": "2026-11-26T15:45:14.837070+00:00",
  "sources": [
   {
    "name": "N1",
@@ -48,11 +48,18 @@
    "url": "https://n1info.rs/video/n1-studio-live/n1-studio-live-25112026/",
    "title": "N1 Studio live (25.11.2026)",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/najave-emisija/studio-live-ko-nece-u-trku-za-predsednika/",
+   "title": "Studio Live: Ko (ne)će u trku za predsednika?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Gledajte UŽIVO N1 Studio live: Čekajući predsednika",
-  "N1 Studio live (25.11.2026)"
+  "N1 Studio live (25.11.2026)",
+  "Studio Live: Ko (ne)će u trku za predsednika?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "alt": "brown wooden tool on white surface",
   "link": "https://unsplash.com/@tingeyinjurylawfirm"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

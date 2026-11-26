@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T05:52:23.330254+00:00",
- "updated": "2026-11-26T15:29:12.553398+00:00",
+ "updated": "2026-11-26T15:45:14.837070+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -43,11 +43,18 @@
    "url": "https://www.danas.rs/vesti/ekonomija/spanski-ekonomista-novi-predsednik-evropske-centralne-banke/",
    "title": "Španski ekonomista novi predsednik Evropske centralne banke?",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/spanski-ekonomista-bice-predozen-za-novog-predsednika-evropske-centralne-banke/",
+   "title": "Španski ekonomista biće predožen za novog predsednika Evropske centralne banke",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Stižu loše vesti za građane sa kreditima u evrima: Zvaničnici Evropske centralne banke najavili novi potez u decembru",
-  "Španski ekonomista novi predsednik Evropske centralne banke?"
+  "Španski ekonomista novi predsednik Evropske centralne banke?",
+  "Španski ekonomista biće predožen za novog predsednika Evropske centralne banke"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,6 +67,6 @@
   "alt": "city buildings under white sky during daytime",
   "link": "https://unsplash.com/@cmophoto"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

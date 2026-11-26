@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T00:19:47.859831+00:00",
- "updated": "2026-11-26T14:10:27.685416+00:00",
+ "updated": "2026-11-26T15:45:14.837070+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -45,12 +45,19 @@
    "url": "https://n1info.rs/biznis/potrosaci-u-zoni-evra-zele-mogucnost-da-placaju-i-karticama-i-gotovinom/",
    "title": "Potrošači u zoni evra žele mogućnost da plaćaju i karticama i gotovinom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/301207/placanja-karticama-u-grckoj-prvi-put-premasila-gotovinske-transakcije-u-prodavnicama/vest",
+   "title": "Plaćanja karticama u Grčkoj prvi put premašila gotovinske transakcije u prodavnicama",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Kartice prvi put pretekle gotovinu u evrozoni: Kako Evropljani danas najčešće plaćaju u prodavnicama?",
   "Plaćanje karticama ili gotovinom: Evropljani žele mogućnost izbora",
-  "Potrošači u zoni evra žele mogućnost da plaćaju i karticama i gotovinom"
+  "Potrošači u zoni evra žele mogućnost da plaćaju i karticama i gotovinom",
+  "Plaćanja karticama u Grčkoj prvi put premašila gotovinske transakcije u prodavnicama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +70,6 @@
   "alt": "a person holding a credit card in front of a machine",
   "link": "https://unsplash.com/@nathanareboucas"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

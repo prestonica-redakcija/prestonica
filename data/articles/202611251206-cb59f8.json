@@ -36,17 +36,24 @@
  ],
  "importance": 7,
  "published": "2026-11-25T11:06:18.181669+00:00",
- "updated": "2026-11-25T11:06:18.181669+00:00",
+ "updated": "2026-11-26T15:45:14.837070+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10172209/u-tekst-rezolucije-o-vukovaru-ubaceno-izvinjenje-borisa-tadica",
    "title": "IZVINJENJE BORISA TADIĆA HRVATSKOJ UBAČENO U REZOLUCIJU EP O VUKOVARU! Pet ključnih izmena pred sutrašnje glasanje u Strazburu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/dodik-napao-evropski-parlament-zbog-rezolucije-o-vukovaru-vise-necemo-da-cutimo/",
+   "title": "Dodik napao Evropski parlament zbog rezolucije o Vukovaru: „Više nećemo da ćutimo“",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "IZVINJENJE BORISA TADIĆA HRVATSKOJ UBAČENO U REZOLUCIJU EP O VUKOVARU! Pet ključnih izmena pred sutrašnje glasanje u Strazburu"
+  "IZVINJENJE BORISA TADIĆA HRVATSKOJ UBAČENO U REZOLUCIJU EP O VUKOVARU! Pet ključnih izmena pred sutrašnje glasanje u Strazburu",
+  "Dodik napao Evropski parlament zbog rezolucije o Vukovaru: „Više nećemo da ćutimo“"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Boris_Tadi%C4%87_(2012).jpg",
   "osoba": "Boris Tadić",
   "alt": "Evropski parlament u četvrtak glasa o rezoluciji o Vukovaru, u tekst uneto pet izmena"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

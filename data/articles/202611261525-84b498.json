@@ -31,17 +31,24 @@
  ],
  "importance": 5,
  "published": "2026-11-26T14:25:21.015125+00:00",
- "updated": "2026-11-26T14:25:21.015125+00:00",
+ "updated": "2026-11-26T15:45:14.837070+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/zeleni-kutak/pozar-u-tehnomaniji-kancerogene-materije-u-vazduhu/",
    "title": "Nakon požara u Tehnomaniji kancerogene materije u vazduhu, a Zavod za zaštitu zdravlja, tradicionalno - ne upozorava građane",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/gradski-zavod-za-zastitu-zdravlja-nismo-formalno-obavesteni-o-poza/",
+   "title": "Gradski zavod za zaštitu zdravlja: Nismo formalno obavešteni o požaru",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Nakon požara u Tehnomaniji kancerogene materije u vazduhu, a Zavod za zaštitu zdravlja, tradicionalno - ne upozorava građane"
+  "Nakon požara u Tehnomaniji kancerogene materije u vazduhu, a Zavod za zaštitu zdravlja, tradicionalno - ne upozorava građane",
+  "Gradski zavod za zaštitu zdravlja: Nismo formalno obavešteni o požaru"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Novi_Beograd_-_The_SIV_building.jpg",
   "alt": "Posle požara u Tehnomaniji na Novom Beogradu stručnjaci traže upozorenja građanima"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
