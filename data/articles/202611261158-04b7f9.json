@@ -25,17 +25,45 @@
  ],
  "importance": 6,
  "published": "2026-11-26T10:58:19.885511+00:00",
- "updated": "2026-11-26T10:58:19.885511+00:00",
+ "updated": "2026-11-26T11:13:21.726257+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/ekonomija/vesti/1674925/vlada-donela-dve-odluke-ticu-nafte-naftnih-derivata",
    "title": "VLADA DONELA DVE ODLUKE: Tiču se nafte i naftnih derivata",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/301167/vlada-produzila-privremeno-smanjenje-akciza-na-derivate-nafte-do-6-decembra/vest",
+   "title": "Vlada produžila privremeno smanjenje akciza na derivate nafte do 6. decembra",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/288262/vlada-produzila-privremeno-smanjenje-akciza-na-derivate-nafte-do-6-decembra/vest",
+   "title": "Vlada produžila smanjenje akciza na gorivo: Evo do kada će važiti",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/vlada-usvojila-odluke-u-vezi-sa-akcizama-na-gorivo/",
+   "title": "Vlada usvojila odluke u vezi sa akcizama na gorivo",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/vlada-produzila-privremeno-smanjenje-akciza-na-derivate-nafte-do-6-decembra/",
+   "title": "Vlada u tehničkom mandatu produžila privremeno smanjenje akciza na derivate nafte do 6. decembra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "VLADA DONELA DVE ODLUKE: Tiču se nafte i naftnih derivata"
+  "VLADA DONELA DVE ODLUKE: Tiču se nafte i naftnih derivata",
+  "Vlada produžila privremeno smanjenje akciza na derivate nafte do 6. decembra",
+  "Vlada produžila smanjenje akciza na gorivo: Evo do kada će važiti",
+  "Vlada usvojila odluke u vezi sa akcizama na gorivo",
+  "Vlada u tehničkom mandatu produžila privremeno smanjenje akciza na derivate nafte do 6. decembra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +75,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Slika1536_Vlada_Srbije.jpg",
   "alt": "Vlada produžila smanjenje akciza na derivate nafte i zabranu izvoza nafte"
- }
+ },
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
