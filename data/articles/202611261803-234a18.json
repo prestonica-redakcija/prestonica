@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T17:03:44.772604+00:00",
- "updated": "2026-11-26T17:54:07.703046+00:00",
+ "updated": "2026-11-26T18:08:58.706526+00:00",
  "sources": [
   {
    "name": "N1",
@@ -71,6 +71,18 @@
    "url": "https://www.tanjug.rs/srbija/hronika/301313/branioci-u-slucaju-hotel-jugoslavija-trazili-izuzece-svih-tuzilaca-treceg-osnovnog-javnog-tuzilastva/vest",
    "title": "Branioci u slučaju \"Hotel Jugoslavija\" tražili izuzeće svih tužilaca Trećeg osnovnog javnog tužilaštva",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288420/millennium-team-zatrazio-izuzece-celog-treceg-osnovnog-tuzilastva/vest",
+   "title": "\"Milenijum Tim\" zatražio izuzeće celog Trećeg osnovnog tužilaštva",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/kompanija-milenijum-tim-trazi-izuzece-svih-tuzilaca-treceg-ojt-zbog-sumnje-u-nepristrasnost/",
+   "title": "Kompanija Milenijum tim traži izuzeće svih tužilaca Trećeg OJT zbog sumnje u nepristrasnost",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -80,7 +92,9 @@
   "Slučajevi \"Hotel Jugoslavija\" i \"Belgrade Eye\" vraćeni Trećem osnovnom tužilaštvu",
   "Apelaciono tužilaštvo ukinulo odluku u slučajevima Hotel Jugoslavija i Belgrade Eye",
   "Treće osnovno tužilaštvo ponovo nadležno za predmete „Hotel Jugoslavija“ i „Belgrade Eye“",
-  "Branioci u slučaju \"Hotel Jugoslavija\" tražili izuzeće svih tužilaca Trećeg osnovnog javnog tužilaštva"
+  "Branioci u slučaju \"Hotel Jugoslavija\" tražili izuzeće svih tužilaca Trećeg osnovnog javnog tužilaštva",
+  "\"Milenijum Tim\" zatražio izuzeće celog Trećeg osnovnog tužilaštva",
+  "Kompanija Milenijum tim traži izuzeće svih tužilaca Trećeg OJT zbog sumnje u nepristrasnost"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -93,6 +107,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Hotel_Jugoslavija_(2020)_03.jpg",
   "alt": "Apelaciono tužilaštvo: Treće osnovno tužilaštvo nadležno za predmete „Hotel Jugoslavija“ i „Belgrade Eye“"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }

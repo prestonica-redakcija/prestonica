@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T06:07:23.074382+00:00",
- "updated": "2026-11-26T17:54:07.703046+00:00",
+ "updated": "2026-11-26T18:08:58.706526+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -59,6 +59,12 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10174082/kamioni-cekanje-granicni-prelazi-horgos-kelebija",
    "title": "Kamioni čekaju satima na izlazu iz Srbije: AMSS objavio stanje na granicama tokom večeri",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301220/zadrzavanja-za-teretnjake-na-horgosu-240-na-kelebiji-180-minuta/vest",
+   "title": "Zadržavanja za teretnjake na Horgošu 240, na Kelebiji 180 minuta",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -66,7 +72,8 @@
   "AMSS: Teretnjaci na Kelebiji čekaju do četiri sata,na putničkim terminalima bez zadržavanja",
   "AMSS: Kamioni na graničnom prelazu Horgoš čekaju četiri sata, nema zadržavanja putničkih vozila na granici",
   "Kamioni na Horgošu čekaju četiri sata, nema zadržavanja putničkih vozila na granici",
-  "Kamioni čekaju satima na izlazu iz Srbije: AMSS objavio stanje na granicama tokom večeri"
+  "Kamioni čekaju satima na izlazu iz Srbije: AMSS objavio stanje na granicama tokom večeri",
+  "Zadržavanja za teretnjake na Horgošu 240, na Kelebiji 180 minuta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -79,8 +86,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Sremska_Ra%C4%8Da_0011_(7).jpg",
   "alt": "Kamioni na Kelebiji na izlazu iz Srbije čekaju do četiri sata, putnici bez zadržavanja"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-26T17:54:07.703046+00:00",
  "verzija": 2
 }

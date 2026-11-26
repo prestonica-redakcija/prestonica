@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T16:17:51.241334+00:00",
- "updated": "2026-11-26T16:17:51.241334+00:00",
+ "updated": "2026-11-26T18:08:58.706526+00:00",
  "sources": [
   {
    "name": "N1",
@@ -40,11 +40,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/subotica-panon-rtv-zacrnela-sajt-izvinjava-se-zbog-jednostranog-informisanja/",
    "title": "Subotica: Panon RTV zacrnela sajt, izvinjava se zbog jednostranog informisanja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/panon-rtv-se-izvinio-zbog-jednostranog-informisanja-navodi-da-je-bio-pod-politickim-uticajem-reagovao-i-peter-madar",
+   "title": "Panon RTV se izvinio zbog \"jednostranog informisanja\", navodi da je bio pod političkim uticajem; Reagovao i Peter Mađar",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Panon RTV zacrnela sajt, izvinjava se zbog jednostranog informisanja",
-  "Subotica: Panon RTV zacrnela sajt, izvinjava se zbog jednostranog informisanja"
+  "Subotica: Panon RTV zacrnela sajt, izvinjava se zbog jednostranog informisanja",
+  "Panon RTV se izvinio zbog \"jednostranog informisanja\", navodi da je bio pod političkim uticajem; Reagovao i Peter Mađar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "alt": "This is an empty modern news studio set",
   "link": "https://unsplash.com/@musgraphic"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

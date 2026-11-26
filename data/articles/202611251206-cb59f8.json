@@ -36,7 +36,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T11:06:18.181669+00:00",
- "updated": "2026-11-26T16:17:51.241334+00:00",
+ "updated": "2026-11-26T18:08:58.706526+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -55,12 +55,19 @@
    "url": "https://insajder.net/prenosimo/matic-rezolucija-evropskog-parlamenta-o-vukovaru-ima-funkciju-u-unutrasnjoj-politici-hrvatske",
    "title": "Matić: Rezolucija Evropskog parlamenta o Vukovaru ima funkciju u unutrašnjoj politici Hrvatske",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/veran-matic-rezolucija-o-vukovaru/",
+   "title": "Veran Matić: Rezolucija EP o Vukovaru ima funkciju u unutrašnjoj politici Hrvatske",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "IZVINJENJE BORISA TADIĆA HRVATSKOJ UBAČENO U REZOLUCIJU EP O VUKOVARU! Pet ključnih izmena pred sutrašnje glasanje u Strazburu",
   "Dodik napao Evropski parlament zbog rezolucije o Vukovaru: „Više nećemo da ćutimo“",
-  "Matić: Rezolucija Evropskog parlamenta o Vukovaru ima funkciju u unutrašnjoj politici Hrvatske"
+  "Matić: Rezolucija Evropskog parlamenta o Vukovaru ima funkciju u unutrašnjoj politici Hrvatske",
+  "Veran Matić: Rezolucija EP o Vukovaru ima funkciju u unutrašnjoj politici Hrvatske"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,6 +81,6 @@
   "osoba": "Boris Tadić",
   "alt": "Evropski parlament u četvrtak glasa o rezoluciji o Vukovaru, u tekst uneto pet izmena"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
