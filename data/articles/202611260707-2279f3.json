@@ -28,17 +28,24 @@
  ],
  "importance": 4,
  "published": "2026-11-26T06:07:23.074382+00:00",
- "updated": "2026-11-26T06:07:23.074382+00:00",
+ "updated": "2026-11-26T07:06:54.320153+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/drustvo/301080/teretnjaci-na-kelebiji-cekaju-do-cetiri-sata-na-putnickim-terminalima-bez-zadrzavanja/vest",
    "title": "Teretnjaci na Kelebiji čekaju do četiri sata, na putničkim terminalima bez zadržavanja",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/amss-teretnjaci-na-kelebiji-cekaju-do-cetiri-satana-putnickim-terminalima-bez-zadrzavanja",
+   "title": "AMSS: Teretnjaci na Kelebiji čekaju do četiri sata,na putničkim terminalima bez zadržavanja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Teretnjaci na Kelebiji čekaju do četiri sata, na putničkim terminalima bez zadržavanja"
+  "Teretnjaci na Kelebiji čekaju do četiri sata, na putničkim terminalima bez zadržavanja",
+  "AMSS: Teretnjaci na Kelebiji čekaju do četiri sata,na putničkim terminalima bez zadržavanja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Sremska_Ra%C4%8Da_0011_(7).jpg",
   "alt": "Kamioni na Kelebiji na izlazu iz Srbije čekaju do četiri sata, putnici bez zadržavanja"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

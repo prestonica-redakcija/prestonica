@@ -32,17 +32,24 @@
  ],
  "importance": 4,
  "published": "2026-11-24T21:26:51.183491+00:00",
- "updated": "2026-11-24T21:26:51.183491+00:00",
+ "updated": "2026-11-26T07:06:54.320153+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1172977/ginter-felinger-aleksandar-cupic-studentska-lista",
    "title": "\"To je moja ponuda!\" Skandalozni zahtevi Gintera Felingera: Šiptarski lobista se obratio Čupiću - Evo šta traži od nove vlasti (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674826/novi-udar-srbiju-felinger-trazi-srbija-prizna-laznu-drzavu-kosovo-zauzvrat-nudi-evro-cupica-kovanici",
+   "title": "NOVI UDAR NA SRBIJU: Felinger traži da Srbija prizna lažnu državu Kosovo, a zauzvrat nudi evro i Čupića na kovanici",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "\"To je moja ponuda!\" Skandalozni zahtevi Gintera Felingera: Šiptarski lobista se obratio Čupiću - Evo šta traži od nove vlasti (FOTO)"
+  "\"To je moja ponuda!\" Skandalozni zahtevi Gintera Felingera: Šiptarski lobista se obratio Čupiću - Evo šta traži od nove vlasti (FOTO)",
+  "NOVI UDAR NA SRBIJU: Felinger traži da Srbija prizna lažnu državu Kosovo, a zauzvrat nudi evro i Čupića na kovanici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "alt": "three flags flying in the wind on a sunny day",
   "link": "https://unsplash.com/@ertelier"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

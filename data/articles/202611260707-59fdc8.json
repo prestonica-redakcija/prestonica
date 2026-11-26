@@ -3,21 +3,22 @@
  "slug": "oblacno-i-vetrovito-na-istoku-ledena-kisa-udari-kosave-i-do-100-km-h",
  "kind": "vest",
  "section": "drustvo",
- "headline": "Oblačno i vetrovito, na istoku ledena kiša, udari košave i do 100 km/h",
- "lead": "U Srbiji će danas biti oblačno sa kišom, na istoku se mestimično očekuje ledena kiša, a košava će na jugu Banata imati olujne udare. Temperature se kreću do 12 stepeni.",
+ "headline": "AMSS: otežana vožnja zbog kiše i košave, na istoku se kiša ponegde ledi pri tlu",
+ "lead": "Auto moto savez Srbije upozorava da su uslovi na putevima danas promenljivi i mestimično otežani zbog kiše, niskih temperatura i jakih udara vetra. RHMZ najavljuje oblačno vreme, ledenu kišu na istoku i olujne udare košave na jugu Banata.",
  "body": [
-  "Prema saopštenju Republičkog hidrometeorološkog zavoda, koje prenosi Tanjug, u Srbiji će danas biti pretežno oblačno, mestimično s kišom, a ponegde i sa lokalnim pljuskovima. Temperature će biti od dva do 12 stepeni.",
-  "U Timočkoj Krajini biće znatno hladnije, od jedan do tri stepena. U planinskim predelima istočne Srbije kiša će se, navodi Tanjug, lediti na tlu.",
-  "Duvaće slab do umeren vetar, a u košavskom području i na planinama jak, južni i jugoistočni. Na jugu Banata i u donjem Podunavlju udari će biti olujne jačine, od 60 do 90 kilometara na sat. Posle podne i uveče vetar će na severozapadu i zapadu zemlje skretati na severozapadni, dok će košava pred kraj dana postepeno slabiti.",
-  "Telegraf navodi nešto višu procenu udara: na jugu Banata do 100 km/h. Taj portal piše i da će jutarnja temperatura biti od 2 do 6 stepeni, a maksimalna dnevna od 4 stepena na istoku do 12 na zapadu zemlje. Led na kolovozu Telegraf pominje ujutro na istoku Srbije.",
-  "Za Beograd Telegraf najavljuje oblačno vreme sa kišom i pljuskovima, veoma jak jugoistočni vetar povremeno sa olujnim udarima i temperaturu tokom dana od 5 do 7 stepeni, bez većih promena."
+  "Prema saopštenju AMSS-a, koje prenosi Danas, poseban oprez je potreban u košavskom području, naročito na jugu Banata, u Podunavlju i u istočnoj Srbiji. U jutarnjim satima se kiša ponegde može lediti pri tlu. Vozačima se savetuje da brzinu prilagode stanju kolovoza, održavaju bezbedno odstojanje i koriste propisanu zimsku opremu.",
+  "AMSS navodi da su najopterećeniji putni pravci prvog prioriteta održavanja prohodni i da nema snega. Na naplatnim rampama i na putničkim terminalima graničnih prelaza nema zadržavanja. Kamioni na prelazu Kelebija na izlazu iz Srbije čekaju oko četiri sata, a na Horgošu oko tri.",
+  "Prema saopštenju Republičkog hidrometeorološkog zavoda, koje prenosi Tanjug, danas će biti pretežno oblačno, mestimično s kišom, a ponegde i sa lokalnim pljuskovima. Temperature će biti od dva do 12 stepeni, a u Timočkoj Krajini znatno hladnije, od jedan do tri stepena. U planinskim predelima istočne Srbije kiša će se, navodi Tanjug, lediti na tlu.",
+  "Duvaće slab do umeren vetar, a u košavskom području i na planinama jak, južni i jugoistočni. Na jugu Banata i u donjem Podunavlju udari će biti olujne jačine, od 60 do 90 kilometara na sat. Posle podne i uveče vetar će na severozapadu i zapadu skretati na severozapadni, a košava će pred kraj dana postepeno slabiti.",
+  "Telegraf navodi nešto višu procenu udara, do 100 km/h na jugu Banata, i piše da će jutarnja temperatura biti od 2 do 6 stepeni, a maksimalna od 4 stepena na istoku do 12 na zapadu zemlje. Za Beograd Telegraf najavljuje oblačno vreme sa kišom i pljuskovima, veoma jak jugoistočni vetar povremeno sa olujnim udarima i temperaturu od 5 do 7 stepeni."
  ],
  "tags": [
   "vreme",
+  "stanje na putevima",
+  "AMSS",
   "RHMZ",
   "košava",
-  "ledena kiša",
-  "prognoza"
+  "ledena kiša"
  ],
  "people": [],
  "places": [
@@ -29,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T06:07:23.074382+00:00",
- "updated": "2026-11-26T06:52:02.295680+00:00",
+ "updated": "2026-11-26T07:06:54.320153+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -60,6 +61,12 @@
    "url": "https://n1info.rs/vesti/amss-kisa-niska-temperatura-i-jaki-udari-vetra-otezavaju-voznju/",
    "title": "AMSS: Kiša, niska temperatura i jaki udari vetra otežavaju vožnju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/stanje-na-putevima-amss/",
+   "title": "Stanje na putevima: Kiša, niska temperatura i jaki udari vetra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -67,7 +74,8 @@
   "Danas kišovito i malo toplije, temperatura do 12 stepeni: Evo gde se očekuju olujni udari vetra od 100 km/h",
   "U Srbiji danas kišovito, na istoku ledena kiša, maksimalno do 12 stepeni",
   "AMSS: Kiša, niska temperatura i jaki udari vetra",
-  "AMSS: Kiša, niska temperatura i jaki udari vetra otežavaju vožnju"
+  "AMSS: Kiša, niska temperatura i jaki udari vetra otežavaju vožnju",
+  "Stanje na putevima: Kiša, niska temperatura i jaki udari vetra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,6 +88,8 @@
   "alt": "people walking on street in rainy day",
   "link": "https://unsplash.com/@gileres"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 0,
+ "boost": 1.32,
+ "prepisano": "2026-11-26T07:06:54.320153+00:00",
+ "verzija": 2
 }

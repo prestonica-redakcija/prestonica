@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-26T06:52:02.295680+00:00",
+ "updated": "2026-11-26T07:06:54.320153+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -76,6 +76,30 @@
    "url": "https://nova.rs/vesti/hronika/prvi-snimci-pozara-u-tehnomaniji-na-novom-beogradu-video/",
    "title": "Prvi snimci požara u Tehnomaniji na Novom Beogradu VIDEO",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/288172/ogroman-pozar-u-novom-beogradu-izgorela-poznata-prodavnica-bele-tehnike-jak-vetar-otezava-gasenje-fotovideo/vest",
+   "title": "Ogroman požar u Novom Beogradu; Izgorela poznata prodavnica bele tehnike, jak vetar otežava gašenje FOTO/VIDEO",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/lokalizovan-pozar-u-objektu-tehnomanije-na-novom-beogradu-nema-povredenih",
+   "title": "MUP: Lokalizovan požar u prodavnici \"Tehnomanija\" na Novom Beogradu, nema povređenih",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/video-mup-lokalizovan-pozar-u-tehnomaniji-ogromna-materijalna-steta/",
+   "title": "(VIDEO) MUP: Lokalizovan požar u Tehnomaniji, ogromna materijalna šteta",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4440019-mup-otkrio-detalje-pozara-na-novom-beogradu-30-vatrogasaca-gasilo-buktinju-poznato-ima-li-povredjenih",
+   "title": "MUP otkrio detalje požara na Novom Beogradu: 30 vatrogasaca gasilo buktinju, poznato ima li povređenih",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -86,7 +110,11 @@
   "Gori \"Tehnomanija\" na Novom Beogradu: Vatra zahvatila veliku površinu prodavnice, vetar otežava gašenje, policija blokirala saobraćaj u tom delu",
   "Gori \"Tehnomanija\" na Novom Beogradu, gašenje otežava jak vetar",
   "Ogroman požar u Novom Beogradu; Gori poznata prodavnica bele tehnike, jak vetar otežava gašenje VIDEO",
-  "Prvi snimci požara u Tehnomaniji na Novom Beogradu VIDEO"
+  "Prvi snimci požara u Tehnomaniji na Novom Beogradu VIDEO",
+  "Ogroman požar u Novom Beogradu; Izgorela poznata prodavnica bele tehnike, jak vetar otežava gašenje FOTO/VIDEO",
+  "MUP: Lokalizovan požar u prodavnici \"Tehnomanija\" na Novom Beogradu, nema povređenih",
+  "(VIDEO) MUP: Lokalizovan požar u Tehnomaniji, ogromna materijalna šteta",
+  "MUP otkrio detalje požara na Novom Beogradu: 30 vatrogasaca gasilo buktinju, poznato ima li povređenih"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -99,6 +127,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 5,
- "boost": 1.4
+ "novo_od_pisanja": 9,
+ "boost": 1.6
 }

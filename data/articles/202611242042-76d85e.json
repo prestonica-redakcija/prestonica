@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-24T19:42:36.931926+00:00",
- "updated": "2026-11-26T06:37:04.447175+00:00",
+ "updated": "2026-11-26T07:06:54.320153+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -131,6 +131,18 @@
    "url": "https://www.euronews.rs/srbija/politika/253731/aleksandar-cupic-raspisuje-izbore-za-predsednika-srbije/vest",
    "title": "Čupić danas raspisuje izbore za predsednika Republike",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/cupic-predsednicki-izbori/",
+   "title": "Aleksandar Čupić danas raspisuje predsedničke izbore",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/cupic-danas-u-podne-raspisuje-predsednicke-izbore/",
+   "title": "Čupić danas u podne raspisuje predsedničke izbore",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -150,7 +162,9 @@
   "Čupić raspisuje predsedničke izbore u Srbiji; Dan odluke – 27. decembar",
   "Čupić danas raspisuje izbore za predsednika Republike",
   "Aleksandar Čupić danas raspisuje izbore za predsednika Republike: Ovo je cela procedura",
-  "Čupić danas raspisuje izbore za predsednika Republike"
+  "Čupić danas raspisuje izbore za predsednika Republike",
+  "Aleksandar Čupić danas raspisuje predsedničke izbore",
+  "Čupić danas u podne raspisuje predsedničke izbore"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -163,6 +177,6 @@
   "alt": "grayscale photography of man standing near studio camera and woman sitting while holding book",
   "link": "https://unsplash.com/@austriannationallibrary"
  },
- "novo_od_pisanja": 15,
+ "novo_od_pisanja": 17,
  "boost": 1.6
 }
