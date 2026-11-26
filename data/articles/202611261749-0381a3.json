@@ -35,17 +35,24 @@
  ],
  "importance": 6,
  "published": "2026-11-26T16:49:07.091141+00:00",
- "updated": "2026-11-26T16:49:07.091141+00:00",
+ "updated": "2026-11-26T17:03:44.772604+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/info/svet/288180/rat-u-ukrajini-1736-dan/vest",
    "title": "Brutalna osveta; Panika u Parizu: \"Mi smo mete Vladimira Putina\"; Izdato dramatično upozorenje FOTO/VIDEO",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/citav-krim-ostao-bez-struje/",
+   "title": "Čitav Krim ostao bez struje",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Brutalna osveta; Panika u Parizu: \"Mi smo mete Vladimira Putina\"; Izdato dramatično upozorenje FOTO/VIDEO"
+  "Brutalna osveta; Panika u Parizu: \"Mi smo mete Vladimira Putina\"; Izdato dramatično upozorenje FOTO/VIDEO",
+  "Čitav Krim ostao bez struje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Granatiran Kijev, nestanak struje na Krimu, Zelenski upozorava na novi napad"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -27,17 +27,24 @@
  ],
  "importance": 3,
  "published": "2026-11-26T16:49:07.091141+00:00",
- "updated": "2026-11-26T16:49:07.091141+00:00",
+ "updated": "2026-11-26T17:03:44.772604+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10174022/pretio-advokatu-koji-ga-je-prepoznao",
    "title": "PRETIO ADVOKATU KOJI GA JE PREPOZNAO! Uhapšen muškarac (43), sutra će biti saslušan",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4440465-pokusao-da-utice-na-advokata-da-promeni-iskaz-pa-zavrsio-u-policiji-odredjeno-zadrzavanje-muskarcu-43",
+   "title": "Pokušao da utiče na advokata da promeni iskaz, pa završio u policiji: Određeno zadržavanje muškarcu (43)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "PRETIO ADVOKATU KOJI GA JE PREPOZNAO! Uhapšen muškarac (43), sutra će biti saslušan"
+  "PRETIO ADVOKATU KOJI GA JE PREPOZNAO! Uhapšen muškarac (43), sutra će biti saslušan",
+  "Pokušao da utiče na advokata da promeni iskaz, pa završio u policiji: Određeno zadržavanje muškarcu (43)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Angel,_Louis_Armstrong_(2002),_Blok_45,_Novi_Beograd.jpg",
   "alt": "Uhapšen osumnjičeni da je pokušao da natera advokata da promeni iskaz"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

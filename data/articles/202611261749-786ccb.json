@@ -28,16 +28,23 @@
  ],
  "importance": 4,
  "published": "2026-11-26T16:49:07.091141+00:00",
- "updated": "2026-11-26T16:49:07.091141+00:00",
+ "updated": "2026-11-26T17:03:44.772604+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/inspekcija-zatvorila-tri-perona-autobuske-stanice-u-backoj-topoli-ceka-se-provera-statike/",
    "title": "Inspekcija zatvorila tri perona autobuske stanice u Bačkoj Topoli, čeka se provera statike",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/inspekcija-zatvorila-tri-perona-autobuske-stanice-u-backoj-topoli-ceka-se-provera-statike/",
+   "title": "Inspekcija zatvorila tri perona autobuske stanice u Bačkoj Topoli, čeka se provera statike",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Inspekcija zatvorila tri perona autobuske stanice u Bačkoj Topoli, čeka se provera statike",
   "Inspekcija zatvorila tri perona autobuske stanice u Bačkoj Topoli, čeka se provera statike"
  ],
  "author": "Redakcija Prestonice",
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Koncertna_sala_muzi%C4%8Dke_%C5%A1kole,_Ba%C4%8Dka_Topola_1000018228.jpg",
   "alt": "Zabranjeno korišćenje tri perona autobuske stanice u Bačkoj Topoli zbog oštećene nadstrešnice"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

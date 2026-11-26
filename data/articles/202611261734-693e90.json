@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T16:34:09.007546+00:00",
- "updated": "2026-11-26T16:49:07.091141+00:00",
+ "updated": "2026-11-26T17:03:44.772604+00:00",
  "sources": [
   {
    "name": "N1",
@@ -51,13 +51,41 @@
    "url": "https://www.novosti.rs/vesti/politika/1675078/rik-doneo-odluku-obrascima-usvojen-rokovnik-predsednicke-izbore-27-decembra",
    "title": "RIK DONEO ODLUKU O OBRASCIMA: Usvojen rokovnik za predsedničke izbore 27. decembra",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301298/rik-doneo-odluku-o-obrascima-i-usvojio-rokovnik-za-predsednicke-izbore/vest",
+   "title": "RIK doneo odluku o obrascima i usvojio rokovnik za predsedničke izbore",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10174028/rik-odluke-predsednicki-izbori-27-decembar",
+   "title": "RIK SE OGLASIO O PREDSEDNIČKIM IZBORIMA 27. DECEMBRA: Doneta odluka o obrascima i usvojen rokovnik, poznato i kako će izgledati glasački listići",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288403/rik-doneo-odluku-o-obrascima-i-usvojio-rokovnik-za-predsednicke-izbore/vest",
+   "title": "RIK doneo odluku o obrascima i usvojio rokovnik za predsedničke izbore",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/rik-usvojio-odluke-o-izborima/",
+   "title": "RIK usvojio odluke o predsedničkim izborima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Koje boje će biti listići za predsedničke izbore",
   "RIK o predsedničkim izborima: Glasački listić biće krem boje",
   "RIK objavio važne detalje o predsedničkim izborima 27. decembra: Evo kako će izgledati glasački listići",
-  "RIK DONEO ODLUKU O OBRASCIMA: Usvojen rokovnik za predsedničke izbore 27. decembra"
+  "RIK DONEO ODLUKU O OBRASCIMA: Usvojen rokovnik za predsedničke izbore 27. decembra",
+  "RIK doneo odluku o obrascima i usvojio rokovnik za predsedničke izbore",
+  "RIK SE OGLASIO O PREDSEDNIČKIM IZBORIMA 27. DECEMBRA: Doneta odluka o obrascima i usvojen rokovnik, poznato i kako će izgledati glasački listići",
+  "RIK doneo odluku o obrascima i usvojio rokovnik za predsedničke izbore",
+  "RIK usvojio odluke o predsedničkim izborima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +97,6 @@
   "local": true,
   "alt": "RIK usvojio odluke o predsedničkim izborima: listić krem boje, kontrolni list roze"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }
