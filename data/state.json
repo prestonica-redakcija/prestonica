@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.telegraf.rs/vesti/svet/4436442-nato-poslao-jasnu-poruku-putinu-ukrajinski-napad-na-krimski-most-bio-je-legitiman": "2026-11-21T03:08:59.619718+00:00",
-  "https://www.euronews.rs/biznis/biznis-vesti/252933/velnes-je-novi-luksuz-kako-je-islandsko-cudo-prirode-postalo-globalna-biznis-imperija/vest": "2026-11-21T03:08:59.619718+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/252981/srednji-kurs-dinara-za-evro-u-ponedeljak-1176491-dinar/vest": "2026-11-21T04:08:32.062947+00:00",
   "https://www.kurir.rs/vesti/beograd/10167837/kako-crveni-krst-obezbedjuje-beogradski-polumaraton": "2026-11-21T04:08:32.062947+00:00",
   "https://www.tanjug.rs/svet/politika/299611/maroko-ulaze-366-miliona-evra-u-izgradnju-odbrambene-industrije-do-2035-godine/vest": "2026-11-21T04:23:22.279213+00:00",
@@ -5600,18 +5598,13 @@
   "https://www.telegraf.rs/vesti/svet/4439935-osumnjicena-za-spijunazu-u-nato-u-bice-pod-elektronskim-nadzorom": "2026-11-26T03:08:54.521380+00:00",
   "https://www.kurir.rs/vesti/srbija/10172669/licitacija-za-tezge-u-novom-sadu": "2026-11-26T03:08:54.521380+00:00",
   "https://www.youtube.com/watch?v=xy5QJgGmpCQ": "2026-11-26T03:08:54.521380+00:00",
-  "https://www.youtube.com/watch?v=LBTnrpPaRi4": "2026-11-26T03:08:54.521380+00:00"
+  "https://www.youtube.com/watch?v=LBTnrpPaRi4": "2026-11-26T03:08:54.521380+00:00",
+  "https://www.youtube.com/watch?v=bCe-yr38igY": "2026-11-26T03:23:41.770888+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-25T03:20+00:00",
-   "novih": 1,
-   "ukupno": 4504,
-   "sekundi": 663.7
-  },
   {
    "vreme": "2026-11-25T03:32+00:00",
    "novih": 0,
@@ -5965,6 +5958,12 @@
    "novih": 1,
    "ukupno": 4768,
    "sekundi": 799.9
+  },
+  {
+   "vreme": "2026-11-26T03:32+00:00",
+   "novih": 0,
+   "ukupno": 4768,
+   "sekundi": 502.1
   }
  ],
  "licnosti_foto": {
@@ -49755,7 +49754,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštinace Republike Srbije u Petnaestom sazivu 25.11.2026.",
-  "provereno": "2026-11-26T03:10:06.057399+00:00",
+  "provereno": "2026-11-26T03:24:11.176566+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
