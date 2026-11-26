@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-25T06:23:07.337159+00:00",
- "updated": "2026-11-26T07:38:26.049111+00:00",
+ "updated": "2026-11-26T13:09:30.305892+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -81,6 +81,12 @@
    "url": "https://n1info.rs/vesti/putevi-srbije-oprez-zbog-moguce-poledice/",
    "title": "Putevi Srbije: Oprez zbog moguće poledice",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/putevi-srbije-poledica-sneg/",
+   "title": "Putevi Srbije: U planinskim predelima moguća poledica, u subotu sneg i u nižim krajevima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -91,7 +97,8 @@
   "AMSS: Putevi prohodni i bez snega, opasnost od poledice",
   "Putevi prohodni, moguća pojava poledice i magle",
   "Putevi prohodni, moguća pojava poledice i magle",
-  "Putevi Srbije: Oprez zbog moguće poledice"
+  "Putevi Srbije: Oprez zbog moguće poledice",
+  "Putevi Srbije: U planinskim predelima moguća poledica, u subotu sneg i u nižim krajevima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -104,6 +111,6 @@
   "alt": "gray roads between mountains",
   "link": "https://unsplash.com/@albertohlfrias"
  },
- "novo_od_pisanja": 6,
- "boost": 1.48
+ "novo_od_pisanja": 7,
+ "boost": 1.56
 }

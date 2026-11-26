@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T12:35:38.207926+00:00",
- "updated": "2026-11-26T12:35:38.207926+00:00",
+ "updated": "2026-11-26T13:09:30.305892+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -40,11 +40,18 @@
    "url": "https://www.telegraf.rs/4440263-poslanici-srpske-liste-sa-nemackim-ambasadorom-u-pristini-o-polozaju-srpskog-naroda",
    "title": "Poslanici Srpske liste sa nemačkim ambasadorom u Prištini o položaju srpskog naroda",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253810/srpska-lista-sa-nemackim-ambasadorom-o-polozaju-srba-na-kim/vest",
+   "title": "Srpska lista sa nemačkim ambasadorom o položaju Srba: Zatražena zaštita SPC i srpske kulturne baštine",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Poslanici Srpske liste sa nemačkim ambasadorom u Prištini o položaju srpskog naroda",
-  "Poslanici Srpske liste sa nemačkim ambasadorom u Prištini o položaju srpskog naroda"
+  "Poslanici Srpske liste sa nemačkim ambasadorom u Prištini o položaju srpskog naroda",
+  "Srpska lista sa nemačkim ambasadorom o položaju Srba: Zatražena zaštita SPC i srpske kulturne baštine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "alt": "a large white building with a flag on top of it",
   "link": "https://unsplash.com/@jcotten"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-26T12:05:48.172440+00:00",
+ "updated": "2026-11-26T13:09:30.305892+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -74,6 +74,12 @@
    "url": "https://n1info.rs/vesti/uhapsena-dva-muskarca-bombaski-napadi-beograd/",
    "title": "Uhapšena dva muškarca zbog dva bombaška napada u Beogradu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4440308-uhapsen-muskarac-u-svrljigu-prilikom-kontrole-u-vozilu-pronadjena-droga",
+   "title": "Uhapšen muškarac u Svrljigu: Prilikom kontrole u vozilu pronađena droga!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -83,7 +89,8 @@
   "Bacali bombe na kuću i restoran na Novom Beogradu i Zvezdari: Uhapšena dvojica mladića, kod jednog pronađena marihuana i kokain",
   "Uhapšeni bombaši koji su napali restoran \"Avenija\" u Beogradu: Bacili dve bombe, u stanu im nađen i kokain",
   "Uhapšeni mladići zbog dva bombaška napada u Beogradu",
-  "Uhapšena dva muškarca zbog dva bombaška napada u Beogradu"
+  "Uhapšena dva muškarca zbog dva bombaška napada u Beogradu",
+  "Uhapšen muškarac u Svrljigu: Prilikom kontrole u vozilu pronađena droga!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -96,8 +103,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Novi_Beograd_test.jpg",
   "alt": "Uhapšene dve osobe zbog sumnje da su bacile ručne bombe na kuću i u baštu restorana u Beogradu"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-26T12:05:48.172440+00:00",
  "verzija": 2
 }

@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T12:20:57.174212+00:00",
- "updated": "2026-11-26T12:20:57.174212+00:00",
+ "updated": "2026-11-26T13:09:30.305892+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -40,11 +40,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4440251-identifikovana-dvojica-zlostavljaca-iz-policije-mucili-maloletnika-u-odzacima-odredjeno-zadrzavanje-od-48h",
    "title": "Identifikovana dvojica zlostavljača iz policije: Mučili maloletnika u Odžacima, određeno zadržavanje od 48h",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301219/uhapsena-jos-jedna-osoba-zbog-zlostavljanja-maloletnika-u-odzacima/vest",
+   "title": "Uhapšena još jedna osoba zbog zlostavljanja maloletnika u Odžacima",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Određen pritvor muškarcu koji je osumnjičen za seksualno zlostavljanje maloletnice",
-  "Identifikovana dvojica zlostavljača iz policije: Mučili maloletnika u Odžacima, određeno zadržavanje od 48h"
+  "Identifikovana dvojica zlostavljača iz policije: Mučili maloletnika u Odžacima, određeno zadržavanje od 48h",
+  "Uhapšena još jedna osoba zbog zlostavljanja maloletnika u Odžacima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "alt": "a large building with columns and a clock on the front of it",
   "link": "https://unsplash.com/@onthesearchforpineapples"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

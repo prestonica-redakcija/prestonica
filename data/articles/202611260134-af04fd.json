@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T00:34:43.228346+00:00",
- "updated": "2026-11-26T00:34:43.228346+00:00",
+ "updated": "2026-11-26T13:09:30.305892+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.b92.net/info/hronika/288136/oglasio-se-trece-ojt-u-beogradu-vodi-se-5-postupaka-zbog-iznude-i-izazivanja-opste-opasnosti/vest",
    "title": "Oglasio se Treće OJT u Beogradu: Vodi se 5 postupaka zbog iznude i izazivanja opšte opasnosti",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/trece-tuzilastvo-izazivanje-opste-opasnosti-iznuda/",
+   "title": "Treće tužilaštvo u Beogradu vodi više postupaka zbog izazivanja opšte opasnosti i zbog iznude",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Treće osnovno javno tužilaštvo u Beogradu: Vodi se pet postupaka zbog iznude i izazivanja opšte opasnosti",
-  "Oglasio se Treće OJT u Beogradu: Vodi se 5 postupaka zbog iznude i izazivanja opšte opasnosti"
+  "Oglasio se Treće OJT u Beogradu: Vodi se 5 postupaka zbog iznude i izazivanja opšte opasnosti",
+  "Treće tužilaštvo u Beogradu vodi više postupaka zbog izazivanja opšte opasnosti i zbog iznude"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Treće OJT u Beogradu vodi pet postupaka zbog iznude i izazivanja opšte opasnosti"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

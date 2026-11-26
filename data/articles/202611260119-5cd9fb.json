@@ -26,17 +26,24 @@
  ],
  "importance": 4,
  "published": "2026-11-26T00:19:47.859831+00:00",
- "updated": "2026-11-26T00:19:47.859831+00:00",
+ "updated": "2026-11-26T13:09:30.305892+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/biznis/biznis-vesti/253679/kartice-prvi-put-pretekle-gotovinu-u-evrozoni/vest",
    "title": "Kartice prvi put pretekle gotovinu u evrozoni: Kako Evropljani danas najčešće plaćaju u prodavnicama?",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/placanje-karticama-ili-gotovinom-evropljani-zele-mogucnost-izbora/",
+   "title": "Plaćanje karticama ili gotovinom: Evropljani žele mogućnost izbora",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Kartice prvi put pretekle gotovinu u evrozoni: Kako Evropljani danas najčešće plaćaju u prodavnicama?"
+  "Kartice prvi put pretekle gotovinu u evrozoni: Kako Evropljani danas najčešće plaćaju u prodavnicama?",
+  "Plaćanje karticama ili gotovinom: Evropljani žele mogućnost izbora"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "alt": "a person holding a credit card in front of a machine",
   "link": "https://unsplash.com/@nathanareboucas"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

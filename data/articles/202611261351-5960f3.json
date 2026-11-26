@@ -39,7 +39,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T12:51:19.902058+00:00",
- "updated": "2026-11-26T12:51:19.902058+00:00",
+ "updated": "2026-11-26T13:09:30.305892+00:00",
  "sources": [
   {
    "name": "N1",
@@ -58,12 +58,33 @@
    "url": "https://nova.rs/vesti/politika/cupic-sutra-na-sastanku-lidera-procesa-brdo-brioni-sutra-u-ohridu/",
    "title": "Čupić sutra na sastanku lidera procesa Brdo-Brioni sutra u Ohridu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301203/vd-predsednika-srbije-aleksandar-cupic-na-sastanku-lidera-procesa-brdo-brioni-u-ohridu/vest",
+   "title": "V.d. predsednika Srbije Aleksandar Čupić na sastanku lidera procesa Brdo-Brioni u Ohridu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674991/cupic-ohridu-prisustvovace-sastanku-lidera-procesa-brdo-brioni",
+   "title": "ČUPIĆ U OHRIDU: Prisustvovaće sastanku lidera procesa Brdo-Brioni",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4440297-aleksandar-cupic-na-prvom-sastanku-u-inostranstvu-vec-veceras-putuje-van-srbije",
+   "title": "Aleksandar Čupić na prvom sastanku u inostranstvu: Već večeras putuje van Srbije",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Čupić danas i sutra na sastanku lidera Zapadnog Balkana u Ohridu",
   "Čupić ide u Ohrid: Učestvovaće na sastanku lidera procesa Brdo-Brioni u Ohridu",
-  "Čupić sutra na sastanku lidera procesa Brdo-Brioni sutra u Ohridu"
+  "Čupić sutra na sastanku lidera procesa Brdo-Brioni sutra u Ohridu",
+  "V.d. predsednika Srbije Aleksandar Čupić na sastanku lidera procesa Brdo-Brioni u Ohridu",
+  "ČUPIĆ U OHRIDU: Prisustvovaće sastanku lidera procesa Brdo-Brioni",
+  "Aleksandar Čupić na prvom sastanku u inostranstvu: Već večeras putuje van Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -75,5 +96,7 @@
   "local": false,
   "alt": "People are watching the sunset over the water",
   "link": "https://unsplash.com/@martinkoloski"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T12:35:38.207926+00:00",
- "updated": "2026-11-26T12:51:19.902058+00:00",
+ "updated": "2026-11-26T13:09:30.305892+00:00",
  "sources": [
   {
    "name": "B92",
@@ -83,6 +83,24 @@
    "url": "https://nova.rs/vesti/politika/mali-i-vujic-preuzimaju-jos-dva-ministarstva/",
    "title": "Mali i Vujić preuzimaju još dva ministarstva",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301211/nenad-vujic-preuzima-ovlascenja-ministra-kulture-do-izbora-novog-ministra/vest",
+   "title": "Nenad Vujić preuzima ovlašćenja ministra kulture do izbora novog ministra",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/do-izbora-nove-vlade-mali-preuzima-ovlascenja-ministra-privrede-a-vujic-ministra-kulture",
+   "title": "Do izbora nove vlade Mali preuzima ovlašćenja ministra privrede, a Vujić ministra kulture",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674992/nenad-vujic-preuzima-ovlascenja-ministra-kulture-izbora-novog-ministra",
+   "title": "Nenad Vujić preuzima ovlašćenja ministra kulture do izbora novog ministra",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -94,7 +112,10 @@
   "Siniša Mali vodi Ministarstvo privrede do izbora novog ministra",
   "Nenad Vujić preuzima ovlašćenja ministra kulture do izbora novog ministra",
   "Mali i Vujić preuzimaju još dva ministarstva",
-  "Mali i Vujić preuzimaju još dva ministarstva"
+  "Mali i Vujić preuzimaju još dva ministarstva",
+  "Nenad Vujić preuzima ovlašćenja ministra kulture do izbora novog ministra",
+  "Do izbora nove vlade Mali preuzima ovlašćenja ministra privrede, a Vujić ministra kulture",
+  "Nenad Vujić preuzima ovlašćenja ministra kulture do izbora novog ministra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -108,6 +129,6 @@
   "osoba": "Siniša Mali",
   "alt": "Siniša Mali preuzima ovlašćenja ministra privrede do izbora novog ministra"
  },
- "novo_od_pisanja": 7,
- "boost": 1.56
+ "novo_od_pisanja": 10,
+ "boost": 1.6
 }

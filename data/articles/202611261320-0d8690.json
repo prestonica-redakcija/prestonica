@@ -37,7 +37,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T12:20:57.174212+00:00",
- "updated": "2026-11-26T12:35:38.207926+00:00",
+ "updated": "2026-11-26T13:09:30.305892+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -50,11 +50,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/milivojevic-ustavna-zalba-pomilovanje-eksplozija-u-lucanima/",
    "title": "Porodica Milivojević podnela ustavnu žalbu zbog pomilovanja osuđenog za eksploziju u Lučanima",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/milovan-milivojevic-ustavna-zalba-pomilovanje/",
+   "title": "Porodica Milivojević podnela ustavnu žalbu protiv odluke Vučića da pomiluje osuđenog za nesreću u Lučanima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Advokat podneo ustavnu žalbu i tužbu Upravnom sudu protiv odluke o pomilovanju osuđenog zbog nesreću u Lučanima",
-  "Porodica Milivojević podnela ustavnu žalbu zbog pomilovanja osuđenog za eksploziju u Lučanima"
+  "Porodica Milivojević podnela ustavnu žalbu zbog pomilovanja osuđenog za eksploziju u Lučanima",
+  "Porodica Milivojević podnela ustavnu žalbu protiv odluke Vučića da pomiluje osuđenog za nesreću u Lučanima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "izvor_x": true,
   "alt": "Porodica Milivojević podnela ustavnu žalbu i tužbu protiv pomilovanja Tome Stojića"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
