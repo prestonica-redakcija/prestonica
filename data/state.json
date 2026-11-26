@@ -5599,18 +5599,13 @@
   "https://www.kurir.rs/vesti/srbija/10172669/licitacija-za-tezge-u-novom-sadu": "2026-11-26T03:08:54.521380+00:00",
   "https://www.youtube.com/watch?v=xy5QJgGmpCQ": "2026-11-26T03:08:54.521380+00:00",
   "https://www.youtube.com/watch?v=LBTnrpPaRi4": "2026-11-26T03:08:54.521380+00:00",
-  "https://www.youtube.com/watch?v=bCe-yr38igY": "2026-11-26T03:23:41.770888+00:00"
+  "https://www.youtube.com/watch?v=bCe-yr38igY": "2026-11-26T03:23:41.770888+00:00",
+  "https://www.kurir.rs/vesti/beograd/10172599/trka-oko-savskog-jezera": "2026-11-26T04:08:13.871961+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-25T04:05+00:00",
-   "novih": 0,
-   "ukupno": 4504,
-   "sekundi": 676.9
-  },
   {
    "vreme": "2026-11-25T04:15+00:00",
    "novih": 1,
@@ -5964,6 +5959,12 @@
    "novih": 0,
    "ukupno": 4768,
    "sekundi": 451.1
+  },
+  {
+   "vreme": "2026-11-26T04:16+00:00",
+   "novih": 1,
+   "ukupno": 4769,
+   "sekundi": 526.2
   }
  ],
  "licnosti_foto": {
@@ -43707,6 +43708,164 @@
   "t:sporazum o sukcesiji": {
    "t": 1795659987.5524213,
    "items": []
+  },
+  "t:ada ciganlija": {
+   "t": 1795666118.211666,
+   "items": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ada_Ciganlija_5.JPG/1920px-Ada_Ciganlija_5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2288,
+     "h": 1712,
+     "god": 2005,
+     "credit": "Wikimedia Commons / Filip Maljković / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Ada_Ciganlija_5.JPG",
+     "naslov": "Ada Ciganlija 5.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Ada_Ciganlija_2.JPG/1920px-Ada_Ciganlija_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2288,
+     "h": 1712,
+     "god": 2005,
+     "credit": "Wikimedia Commons / Filip Maljković / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Ada_Ciganlija_2.JPG",
+     "naslov": "Ada Ciganlija 2.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Ada_Ciganlija_january.jpg/1920px-Ada_Ciganlija_january.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 6260,
+     "h": 1680,
+     "god": 2009,
+     "credit": "Wikimedia Commons / Dejan Jovanović / CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ada_Ciganlija_january.jpg",
+     "naslov": "Ada Ciganlija january.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Ada_Ciganlija_7.JPG/1920px-Ada_Ciganlija_7.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2288,
+     "h": 1712,
+     "god": 2005,
+     "credit": "Wikimedia Commons / Filip Maljković / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Ada_Ciganlija_7.JPG",
+     "naslov": "Ada Ciganlija 7.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/%D0%90%D0%B4%D0%B0_%D1%86%D0%B8%D0%B3%D0%B0%D0%BD%D0%BB%D0%B8%D1%98%D0%B0%2C_%D1%82%D0%B0%D0%BB%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA.jpg/1920px-%D0%90%D0%B4%D0%B0_%D1%86%D0%B8%D0%B3%D0%B0%D0%BD%D0%BB%D0%B8%D1%98%D0%B0%2C_%D1%82%D0%B0%D0%BB%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3240,
+     "h": 3240,
+     "god": 2016,
+     "credit": "Wikimedia Commons / Gmihail at Serbian Wikipedia / CC BY-SA 3.0 rs",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%90%D0%B4%D0%B0_%D1%86%D0%B8%D0%B3%D0%B0%D0%BD%D0%BB%D0%B8%D1%98%D0%B0,_%D1%82%D0%B0%D0%BB%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA.jpg",
+     "naslov": "Ада циганлија, таложник.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Ada_Ciganlija_6.JPG/1920px-Ada_Ciganlija_6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2288,
+     "h": 1712,
+     "god": 2005,
+     "credit": "Wikimedia Commons / Filip Maljković / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Ada_Ciganlija_6.JPG",
+     "naslov": "Ada Ciganlija 6.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Ada_Ciganlija_lake.jpg/1920px-Ada_Ciganlija_lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2048,
+     "h": 1536,
+     "god": 2010,
+     "credit": "Wikimedia Commons / Gmihail at Serbian Wikipedia / CC BY-SA 3.0 rs",
+     "link": "https://commons.wikimedia.org/wiki/File:Ada_Ciganlija_lake.jpg",
+     "naslov": "Ada Ciganlija lake.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Belgrade_sign_on_Ada_Ciganlija.jpg/1920px-Belgrade_sign_on_Ada_Ciganlija.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3264,
+     "h": 1504,
+     "god": 2021,
+     "credit": "Wikimedia Commons / Andrej Danković / CC BY 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Belgrade_sign_on_Ada_Ciganlija.jpg",
+     "naslov": "Belgrade sign on Ada Ciganlija.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ada_Ciganlija_Beach.JPG/1920px-Ada_Ciganlija_Beach.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3264,
+     "h": 2176,
+     "god": 2010,
+     "credit": "Wikimedia Commons / Bukephalos / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Ada_Ciganlija_Beach.JPG",
+     "naslov": "Ada Ciganlija Beach.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Ada_Ciganlija_panorama.jpg/1920px-Ada_Ciganlija_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2048,
+     "h": 1111,
+     "god": 2014,
+     "credit": "Wikimedia Commons / Magyshadow / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ada_Ciganlija_panorama.jpg",
+     "naslov": "Ada Ciganlija panorama.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_-_%D0%90%D0%B4%D0%B0_%D0%A6%D0%B8%D0%B3%D0%B0%D0%BD%D0%BB%D0%B8%D1%98%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1196,
+     "h": 799,
+     "god": 2010,
+     "credit": "Wikimedia Commons / Zebeljan at Serbian Wikipedia / CC BY-SA 3.0 rs",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_-_%D0%90%D0%B4%D0%B0_%D0%A6%D0%B8%D0%B3%D0%B0%D0%BD%D0%BB%D0%B8%D1%98%D0%B0.jpg",
+     "naslov": "Београд - Ада Циганлија.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Ada_Ciganlija_3.JPG/1920px-Ada_Ciganlija_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2288,
+     "h": 1712,
+     "god": 2005,
+     "credit": "Wikimedia Commons / Filip Maljković / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Ada_Ciganlija_3.JPG",
+     "naslov": "Ada Ciganlija 3.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Ada_Ciganlija_panorama2.jpg/1920px-Ada_Ciganlija_panorama2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2048,
+     "h": 1152,
+     "god": 2014,
+     "credit": "Wikimedia Commons / Magyshadow / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ada_Ciganlija_panorama2.jpg",
+     "naslov": "Ada Ciganlija panorama2.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/%D0%90%D0%B4%D0%B0_%D0%A6%D0%B8%D0%B3%D0%B0%D0%BD%D0%BB%D0%B8%D1%98%D0%B0%2C_%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D0%B4.jpg/1920px-%D0%90%D0%B4%D0%B0_%D0%A6%D0%B8%D0%B3%D0%B0%D0%BD%D0%BB%D0%B8%D1%98%D0%B0%2C_%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D0%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5152,
+     "h": 3864,
+     "god": 2020,
+     "credit": "Wikimedia Commons / Andrija12345678 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%D0%90%D0%B4%D0%B0_%D0%A6%D0%B8%D0%B3%D0%B0%D0%BD%D0%BB%D0%B8%D1%98%D0%B0,_%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D0%B4.jpg",
+     "naslov": "Ада Циганлија, Биоград.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Lights_of_Cukrica_from_Ada_Ciganlija_at_dusk_4_%282008-04-14%29.jpg/1920px-Lights_of_Cukrica_from_Ada_Ciganlija_at_dusk_4_%282008-04-14%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3648,
+     "h": 2736,
+     "god": 2008,
+     "credit": "Wikimedia Commons / Milos Rancic / CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Lights_of_Cukrica_from_Ada_Ciganlija_at_dusk_4_(2008-04-14).jpg",
+     "naslov": "Lights of Cukrica from Ada Ciganlija at dusk 4 (2008-04-14).jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ada_Ciganlija_staza_za_skijanje1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1200,
+     "h": 900,
+     "god": 2010,
+     "credit": "Wikimedia Commons / CrniBombarder!!! / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Ada_Ciganlija_staza_za_skijanje1.jpg",
+     "naslov": "Ada Ciganlija staza za skijanje1.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Novo_Beograd_-_ada_ciganlija_and_Cukarica_-_Banovo_Brdo_IMG_1757_tempo_supermarket_E763.jpg/1920px-Novo_Beograd_-_ada_ciganlija_and_Cukarica_-_Banovo_Brdo_IMG_1757_tempo_supermarket_E763.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2412,
+     "h": 2330,
+     "god": 2015,
+     "credit": "Wikimedia Commons / Bjoertvedt / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Novo_Beograd_-_ada_ciganlija_and_Cukarica_-_Banovo_Brdo_IMG_1757_tempo_supermarket_E763.jpg",
+     "naslov": "Novo Beograd - ada ciganlija and Cukarica - Banovo Brdo IMG 1757 tempo supermarket E763.jpg"
+    }
+   ]
   }
  },
  "x_objave": {
@@ -49754,7 +49913,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštinace Republike Srbije u Petnaestom sazivu 25.11.2026.",
-  "provereno": "2026-11-26T03:53:49.827175+00:00",
+  "provereno": "2026-11-26T04:08:56.826520+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
