@@ -25,7 +25,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T10:58:19.885511+00:00",
- "updated": "2026-11-26T11:13:21.726257+00:00",
+ "updated": "2026-11-26T11:48:13.410537+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -56,6 +56,18 @@
    "url": "https://n1info.rs/biznis/vlada-produzila-privremeno-smanjenje-akciza-na-derivate-nafte-do-6-decembra/",
    "title": "Vlada u tehničkom mandatu produžila privremeno smanjenje akciza na derivate nafte do 6. decembra",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/ekonomija/tehnicka-vlada-produzila-odluku-o-smanjenju-akciza-na-gorivo-i-zabrani-izvoza-naftnih-derivata",
+   "title": "Tehnička vlada produžila odluku o smanjenju akciza na gorivo i zabrani izvoza naftnih derivata",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253791/vlada-srbije-produzila-nize-akcize-i-zabranu-izvoza-nafte/vest",
+   "title": "Vlada produžila privremeno smanjenje akciza na derivate nafte do 6. decembra",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -63,7 +75,9 @@
   "Vlada produžila privremeno smanjenje akciza na derivate nafte do 6. decembra",
   "Vlada produžila smanjenje akciza na gorivo: Evo do kada će važiti",
   "Vlada usvojila odluke u vezi sa akcizama na gorivo",
-  "Vlada u tehničkom mandatu produžila privremeno smanjenje akciza na derivate nafte do 6. decembra"
+  "Vlada u tehničkom mandatu produžila privremeno smanjenje akciza na derivate nafte do 6. decembra",
+  "Tehnička vlada produžila odluku o smanjenju akciza na gorivo i zabrani izvoza naftnih derivata",
+  "Vlada produžila privremeno smanjenje akciza na derivate nafte do 6. decembra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +90,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Slika1536_Vlada_Srbije.jpg",
   "alt": "Vlada produžila smanjenje akciza na derivate nafte i zabranu izvoza nafte"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }

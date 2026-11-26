@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-26T10:11:46.265687+00:00",
+ "updated": "2026-11-26T11:48:13.410537+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -62,6 +62,12 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4440149-uhapseni-bombasi-koji-su-napali-restoran-avenija-u-beogradu-bacili-dve-bombe-u-stanu-im-nadjen-i-kokain",
    "title": "Uhapšeni bombaši koji su napali restoran \"Avenija\" u Beogradu: Bacili dve bombe, u stanu im nađen i kokain",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/uhapseni-mladici-zbog-dva-bombaska-napada-u-beogradu/",
+   "title": "Uhapšeni mladići zbog dva bombaška napada u Beogradu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -69,7 +75,8 @@
   "Uhapšene dve osobe zbog sumnje da su bacile bombe na porodičnu kuću na Novom Beogradu i baštu restorana na Zvezdari",
   "BACALI BOMBE PO BEOGRADU! Prvo napali porodičnu kuću na Novom Beogradu, pa restoran na Zvezdari- uhapšena trojica POGLEDAJTE KAKO SU IM STAVLJENE LISICE NA RUKE",
   "Bacali bombe na kuću i restoran na Novom Beogradu i Zvezdari: Uhapšena dvojica mladića, kod jednog pronađena marihuana i kokain",
-  "Uhapšeni bombaši koji su napali restoran \"Avenija\" u Beogradu: Bacili dve bombe, u stanu im nađen i kokain"
+  "Uhapšeni bombaši koji su napali restoran \"Avenija\" u Beogradu: Bacili dve bombe, u stanu im nađen i kokain",
+  "Uhapšeni mladići zbog dva bombaška napada u Beogradu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -82,6 +89,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Novi_Beograd_test.jpg",
   "alt": "Uhapšene dve osobe zbog sumnje da su bacile ručne bombe na kuću i u baštu restorana u Beogradu"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

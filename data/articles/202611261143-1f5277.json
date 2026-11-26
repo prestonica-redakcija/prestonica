@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T10:43:27.881389+00:00",
- "updated": "2026-11-26T10:58:19.885511+00:00",
+ "updated": "2026-11-26T11:48:13.410537+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -52,12 +52,19 @@
    "url": "https://www.b92.net/info/svet/288260/britanija-sprema-100000-rezervista-za-rat/vest",
    "title": "Moćna evropska sila se sprema; 100.000 rezervista dobilo je pisma; \"Spremite se za rat\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301153/juznokorejski-ministar-odbrane-pozvao-na-smirivanje-tenzija-sa-rusijom/vest",
+   "title": "Južnokorejski ministar odbrane pozvao na smirivanje tenzija sa Rusijom",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "„Budite spremni za rat“: Britanija poslala pisma na adrese 100.000 bivših vojnika",
   "LONDON POZVAO REZERVISTE DA SE SPREME ZA RAT! Pisma dobilo 100.000 veterana, Rusija raketirala zonu na 100 km od ministra odbrane tokom posete trupama! (FOTO)",
-  "Moćna evropska sila se sprema; 100.000 rezervista dobilo je pisma; \"Spremite se za rat\""
+  "Moćna evropska sila se sprema; 100.000 rezervista dobilo je pisma; \"Spremite se za rat\"",
+  "Južnokorejski ministar odbrane pozvao na smirivanje tenzija sa Rusijom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +77,6 @@
   "alt": "man in battle tank",
   "link": "https://unsplash.com/@robertoc95"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
