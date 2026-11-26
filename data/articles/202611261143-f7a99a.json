@@ -31,17 +31,24 @@
  ],
  "importance": 5,
  "published": "2026-11-26T10:43:27.881389+00:00",
- "updated": "2026-11-26T10:43:27.881389+00:00",
+ "updated": "2026-11-26T10:58:19.885511+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10173511/brnabic-o-draganu-j-vucicevicu-uhapsen-je-na-pravdi-boga",
    "title": "BRNABIĆ NA SKUPU PODRŠKE VUČIĆEVIĆU: \"Ovo što se danas dešava njemu i Informeru, sutra će se desiti svima koji misle svojom glavom\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301162/brnabichapsenje-vucicevica-pokazatelj-da-u-srb-vise-nema-demokratije-i-slobode-govor/vest",
+   "title": "Brnabić:Hapšenje Vučićevića pokazatelj da u SRB više nema demokratije i slobode govor",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "BRNABIĆ NA SKUPU PODRŠKE VUČIĆEVIĆU: \"Ovo što se danas dešava njemu i Informeru, sutra će se desiti svima koji misle svojom glavom\""
+  "BRNABIĆ NA SKUPU PODRŠKE VUČIĆEVIĆU: \"Ovo što se danas dešava njemu i Informeru, sutra će se desiti svima koji misle svojom glavom\"",
+  "Brnabić:Hapšenje Vučićevića pokazatelj da u SRB više nema demokratije i slobode govor"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Brnabić na skupu podrške Vučićeviću: hapšenje je napad na slobodu govora"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

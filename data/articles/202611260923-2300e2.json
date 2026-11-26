@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T08:23:02.641089+00:00",
- "updated": "2026-11-26T08:52:52.281543+00:00",
+ "updated": "2026-11-26T10:58:19.885511+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -48,11 +48,18 @@
    "url": "https://www.novosti.rs/vesti/politika/1674854/baucal-nato-gujon-strazbur-svadja-studentske-liste-naprednjaka-nakon-privodjenja-vucicevica",
    "title": "BAUCAL U NATO, A GUJON U STRAZBUR: Svađa Studentske liste i naprednjaka nakon privođenja Vučićevića",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674854/baucal-nato-gujon-strazbur-zasedanje-obelezila-polemika-studentske-liste-naprednjaka-nakon-privodjenja-vucicevica",
+   "title": "BAUCAL U NATO, A GUJON U STRAZBUR: Zasedanje obeležila polemika Studentske liste i naprednjaka nakon privođenja Vučićevića",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "BAUCAL U NATO, A GUJON U SRAZBUR: Svađa Studentske liste i naprednjaka nakon privođenja Vučićevića",
-  "BAUCAL U NATO, A GUJON U STRAZBUR: Svađa Studentske liste i naprednjaka nakon privođenja Vučićevića"
+  "BAUCAL U NATO, A GUJON U STRAZBUR: Svađa Studentske liste i naprednjaka nakon privođenja Vučićevića",
+  "BAUCAL U NATO, A GUJON U STRAZBUR: Zasedanje obeležila polemika Studentske liste i naprednjaka nakon privođenja Vučićevića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "alt": "Woman stands in an empty parliament assembly hall",
   "link": "https://unsplash.com/@anniehatuanh"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

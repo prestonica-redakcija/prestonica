@@ -32,16 +32,23 @@
  ],
  "importance": 5,
  "published": "2026-11-26T10:26:34.441569+00:00",
- "updated": "2026-11-26T10:26:34.441569+00:00",
+ "updated": "2026-11-26T10:58:19.885511+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/odreden-pritvor-mandicu-i-doneta-naredba-za-sprovodenje-istrage",
    "title": "Određen pritvor Vladimiru Mandiću i doneta naredba za sprovođenje istrage",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/odredjen-pritvor-vladimiru-mandicu-i-doneta-naredba-za-sprovodjenje-istrage/",
+   "title": "Određen pritvor Vladimiru Mandiću i doneta naredba za sprovođenje istrage",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Određen pritvor Vladimiru Mandiću i doneta naredba za sprovođenje istrage",
   "Određen pritvor Vladimiru Mandiću i doneta naredba za sprovođenje istrage"
  ],
  "author": "Redakcija Prestonice",
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Određen pritvor osumnjičenom V. M. zbog zloupotrebe položaja u projektu EU"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

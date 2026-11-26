@@ -33,7 +33,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-26T10:43:27.881389+00:00",
+ "updated": "2026-11-26T10:58:19.885511+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -166,6 +166,12 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/301128/vucicevic-doveden-u-palatu-pravde-ispred-zgrade-skup-podrske/vest",
    "title": "Vučićević doveden u Palatu pravde, ispred zgrade skup podrške",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4440193-dragana-j-vucicevica-sa-lisicama-na-rukama-dovode-u-palatu-pravde-pogledajte-snimak",
+   "title": "Dragana J. Vučićevića, sa lisicama na rukama dovode u Palatu pravde: Pogledajte snimak",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -190,7 +196,8 @@
   "Vučićević doveden u Palatu pravde, ispred zgrade skup podrške",
   "Vučićević doveden u Palatu pravde: Danas saslušanje, ispred zgrade skup podrške",
   "SKUP PODRŠKE DRAGANU J. VUČIĆEVIĆU: Zaposleni na Informeru traže odgovore od Ivice Dačića (VIDEO)",
-  "Vučićević doveden u Palatu pravde, ispred zgrade skup podrške"
+  "Vučićević doveden u Palatu pravde, ispred zgrade skup podrške",
+  "Dragana J. Vučićevića, sa lisicama na rukama dovode u Palatu pravde: Pogledajte snimak"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -203,7 +210,7 @@
   "alt": "Car entering a brightly lit tunnel at night",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-26T10:43:27.881389+00:00",
  "verzija": 5

@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T10:26:34.441569+00:00",
- "updated": "2026-11-26T10:26:34.441569+00:00",
+ "updated": "2026-11-26T10:58:19.885511+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -47,11 +47,18 @@
    "url": "https://www.b92.net/info/region/288231/plenkovic-zapretio-crnoj-gori/vest",
    "title": "Hrvatska i Crna Gora ušle su, i zvanično, u otvoreni \"rat\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/plenkovic-postavio-ultimatum-crnoj-gori-bez-dogovora-o-granici-nema-zatvaranja-poglavlja-31/",
+   "title": "Plenković postavio ultimatum Crnoj Gori: Bez dogovora o granici nema zatvaranja poglavlja 31",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Večernji list: Hrvatska je uspela, Brisel prihvatio zahteve koje Srbija i Crna Gora neće moći lako da zaobiđu",
-  "Hrvatska i Crna Gora ušle su, i zvanično, u otvoreni \"rat\""
+  "Hrvatska i Crna Gora ušle su, i zvanično, u otvoreni \"rat\"",
+  "Plenković postavio ultimatum Crnoj Gori: Bez dogovora o granici nema zatvaranja poglavlja 31"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +71,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Andrej_Plenkovi%C4%87.jpg",
   "osoba": "Andrej Plenković",
   "alt": "Plenković: poglavlje 31 neće biti zatvoreno dok se ne reši granica sa Crnom Gorom"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

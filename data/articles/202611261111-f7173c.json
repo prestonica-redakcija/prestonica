@@ -30,17 +30,24 @@
  ],
  "importance": 4,
  "published": "2026-11-26T10:11:46.265687+00:00",
- "updated": "2026-11-26T10:11:46.265687+00:00",
+ "updated": "2026-11-26T10:58:19.885511+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/sta-je-sa-vodom-u-zrenjaninu-i-da-li-je-ispravna/",
    "title": "Šta je sa vodom u Zrenjaninu i da li je ispravna",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/voda-zrenjanin/",
+   "title": "Da li je voda u Zrenjaninu ispravna?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Šta je sa vodom u Zrenjaninu i da li je ispravna"
+  "Šta je sa vodom u Zrenjaninu i da li je ispravna",
+  "Da li je voda u Zrenjaninu ispravna?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "person holding clear drinking glass",
   "link": "https://unsplash.com/@enginakyurt"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

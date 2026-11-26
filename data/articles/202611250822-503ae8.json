@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T07:22:39.121611+00:00",
- "updated": "2026-11-26T08:37:59.828436+00:00",
+ "updated": "2026-11-26T10:58:19.885511+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -83,6 +83,12 @@
    "url": "https://www.b92.net/info/drustvo/288202/vremenska-prognoza-za-cetvrtak-26-novembar/vest",
    "title": "Čak dva upozorenja RHMZ-a; Pola zemlje pod alarmima FOTO",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10173526/upozorenje-rhmz-narandzasti-meteo-alarm-i-ledena-kisa",
+   "title": "RHMZ izdao hitno upozorenje: Opasna pojava preti Srbiji! Upaljen narandžasti meteo-alarm! Ovi delovi zemlje su na udaru",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -93,7 +99,8 @@
   "RHMZ objavio upozorenje na ledenu kišu za područje istočne Srbije",
   "RHMZ upozorava na ledenu kišu i košavu popodne i tokom noći na jugozapadu Srbije",
   "RHMZ upozorava na ledenu kišu i košavu popodne i tokom noći",
-  "Čak dva upozorenja RHMZ-a; Pola zemlje pod alarmima FOTO"
+  "Čak dva upozorenja RHMZ-a; Pola zemlje pod alarmima FOTO",
+  "RHMZ izdao hitno upozorenje: Opasna pojava preti Srbiji! Upaljen narandžasti meteo-alarm! Ovi delovi zemlje su na udaru"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -106,8 +113,8 @@
   "alt": "a puddle of water on a brick sidewalk",
   "link": "https://unsplash.com/@seiya_maeda"
  },
- "novo_od_pisanja": 1,
- "boost": 1.48,
+ "novo_od_pisanja": 2,
+ "boost": 1.56,
  "prepisano": "2026-11-25T13:05:31.712277+00:00",
  "verzija": 2
 }
