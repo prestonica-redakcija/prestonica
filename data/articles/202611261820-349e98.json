@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T17:20:53.866188+00:00",
- "updated": "2026-11-26T17:20:53.866188+00:00",
+ "updated": "2026-11-26T19:44:09.384390+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -44,11 +44,18 @@
    "url": "https://informer.rs/politika/vesti/1173532/ana-brnabic-studentska-lista-aleksandar-cupic",
    "title": "Čak i režimski tabloid \"Vreme\" priznaje istinu o Čupiću! Brnabić rasturila Studentsku listu: \"Sve što pirčaju je laž\" (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10174165/Ana-Brnabic-Cupic-najbrze-izabrani-predsednik-parlamenta-jos-od-2000",
+   "title": "ČUPIĆ NAJBRŽE IZABRANI PREDSEDNIK PARLAMENTA JOŠ OD 2000. Brnabić: Formirajte institucije, uradite nešto za ljude u Srbiji",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "BRNABIĆ: \"Čak i nedeljnik Vreme priznaje - Čupić najbrže izabrani predsednik Skupštine još od 2000. godine\"",
-  "Čak i režimski tabloid \"Vreme\" priznaje istinu o Čupiću! Brnabić rasturila Studentsku listu: \"Sve što pirčaju je laž\" (FOTO)"
+  "Čak i režimski tabloid \"Vreme\" priznaje istinu o Čupiću! Brnabić rasturila Studentsku listu: \"Sve što pirčaju je laž\" (FOTO)",
+  "ČUPIĆ NAJBRŽE IZABRANI PREDSEDNIK PARLAMENTA JOŠ OD 2000. Brnabić: Formirajte institucije, uradite nešto za ljude u Srbiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "alt": "Woman stands in an empty parliament assembly hall",
   "link": "https://unsplash.com/@anniehatuanh"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
