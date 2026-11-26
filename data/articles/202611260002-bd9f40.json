@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T23:02:14.184226+00:00",
- "updated": "2026-11-25T23:02:14.184226+00:00",
+ "updated": "2026-11-26T09:56:47.507907+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -45,11 +45,18 @@
    "url": "https://www.novosti.rs/vesti/politika/1674779/ovakav-teror-nije-postojao-1945-vucic-hapsenju-dragana-vucicevica",
    "title": "\"OVAKAV TEROR NIJE POSTOJAO OD 1945.\" Vučić o hapšenju Dragana J. Vučićevića",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/dijalog/licni-stavovi/nije-rec-samo-o-draganu-j-vucicevicu/",
+   "title": "Nije reč samo o Draganu J. Vučićeviću",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "\"Ovakav teror nije bio od 1945.\": Vučić o hapšenju Dragana J. Vučićevića i reakciji poslanika u Skupštini",
-  "\"OVAKAV TEROR NIJE POSTOJAO OD 1945.\" Vučić o hapšenju Dragana J. Vučićevića"
+  "\"OVAKAV TEROR NIJE POSTOJAO OD 1945.\" Vučić o hapšenju Dragana J. Vučićevića",
+  "Nije reč samo o Draganu J. Vučićeviću"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Dinko_Gruhonji%C4%871.jpg",
   "osoba": "Dinko Gruhonjić",
   "alt": "Vučić o hapšenju Vučićevića: Ovakav teror u Srbiji nije postojao od 1945"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

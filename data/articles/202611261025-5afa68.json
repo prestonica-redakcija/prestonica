@@ -28,7 +28,7 @@
  ],
  "importance": 7,
  "published": "2026-11-26T09:25:09.026225+00:00",
- "updated": "2026-11-26T09:25:09.026225+00:00",
+ "updated": "2026-11-26T09:56:47.507907+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -41,11 +41,18 @@
    "url": "https://nova.rs/vesti/hronika/drugo-osnovno-javno-tuzilastvo-osudilo-izjavu-aleksandra-vucica/",
    "title": "Drugo Osnovno javno tužilaštvo osudilo izjavu Aleksandra Vučića",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288235/drugo-osnovno-tuzilastvo-osudilo-javno-istupanje-vucica-povodom-hapsenja-vucicevica/vest",
+   "title": "Drugo osnovno tužilaštvo osudilo javno istupanje Vučića povodom hapšenja Vučićevića",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Drugo osnovno tužilaštvo osudilo javno istupanje Vučića povodom hapšenja Vučićevića",
-  "Drugo Osnovno javno tužilaštvo osudilo izjavu Aleksandra Vučića"
+  "Drugo Osnovno javno tužilaštvo osudilo izjavu Aleksandra Vučića",
+  "Drugo osnovno tužilaštvo osudilo javno istupanje Vučića povodom hapšenja Vučićevića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Drugo osnovno tužilaštvo osudilo Vučićeve izjave o tužiocima posle zadržavanja Vučićevića"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

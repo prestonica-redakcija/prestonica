@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-26T09:40:25.804528+00:00",
+ "updated": "2026-11-26T09:56:47.507907+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -123,6 +123,12 @@
    "url": "https://www.euronews.rs/srbija/politika/253765/vucicevic-na-saslusanju-kod-tuzioca/vest",
    "title": "Vučićević na saslušanju kod tužioca: Ispred Palate pravde skup podrške uredniku Informera (VIDEO)",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674873/skup-podrske-draganu-vucicevicu-okupljeni-uzvikuju-pustite-dragana-video",
+   "title": "SKUP PODRŠKE DRAGANU J. VUČIĆEVIĆU: Okupljeni uzvikuju \"pustite Dragana\" (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -140,7 +146,8 @@
   "Ispred Palate pravde skup podrške glavnom uredniku Informera Draganu Vučićeviću",
   "Ispred Palate pravde skup zbog hapšenja glavnog urednika Informera Dragana Vučićevića",
   "SKUP PODRŠKE DRAGANU J. VUČIĆEVIĆU ISPRED PALATE PRAVDE: Glavnom uredniku Informera zakazano saslušanje od 10 časova",
-  "Vučićević na saslušanju kod tužioca: Ispred Palate pravde skup podrške uredniku Informera (VIDEO)"
+  "Vučićević na saslušanju kod tužioca: Ispred Palate pravde skup podrške uredniku Informera (VIDEO)",
+  "SKUP PODRŠKE DRAGANU J. VUČIĆEVIĆU: Okupljeni uzvikuju \"pustite Dragana\" (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -153,7 +160,7 @@
   "alt": "Car entering a brightly lit tunnel at night",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-26T09:25:09.026225+00:00",
  "verzija": 3

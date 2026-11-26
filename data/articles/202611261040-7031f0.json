@@ -26,7 +26,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T09:40:25.804528+00:00",
- "updated": "2026-11-26T09:40:25.804528+00:00",
+ "updated": "2026-11-26T09:56:47.507907+00:00",
  "sources": [
   {
    "name": "N1",
@@ -39,11 +39,18 @@
    "url": "https://nova.rs/vesti/drustvo/otvorena-desna-cev-u-tunelu-laz-na-auto-putu-milos-veliki-u-smeru-ka-pozegi/",
    "title": "Otvorena desna cev u tunelu Laz na auto-putu Miloš Veliki u smeru ka Požegi",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/desna-strana-tunela-laz-pustena-u-saobracaj/",
+   "title": "Desna strana tunela Laz puštena u saobraćaj",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Otvorena desna cev u tunelu Laz u smeru ka Požegi",
-  "Otvorena desna cev u tunelu Laz na auto-putu Miloš Veliki u smeru ka Požegi"
+  "Otvorena desna cev u tunelu Laz na auto-putu Miloš Veliki u smeru ka Požegi",
+  "Desna strana tunela Laz puštena u saobraćaj"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Pakovra%C4%87e,_Auto-put_Milo%C5%A1_Veliki.jpg",
   "alt": "Otvorena desna cev tunela Laz na auto-putu Miloš Veliki ka Požegi"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -27,17 +27,24 @@
  ],
  "importance": 5,
  "published": "2026-11-26T09:25:09.026225+00:00",
- "updated": "2026-11-26T09:25:09.026225+00:00",
+ "updated": "2026-11-26T09:56:47.507907+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/svet/politika/301124/kosta-nastoji-da-priblizi-lidere-eu-dogovoru-o-budzetu-holandija-trazi-smanjenje/vest",
    "title": "Košta nastoji da približi lidere EU dogovoru o budžetu, Holandija traži smanjenje",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301132/lideri-eu-danas-o-dugorocnom-budzetu-unije-do-2034-godine/vest",
+   "title": "Lideri EU danas o dugoročnom budžetu unije do 2034. godine",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Košta nastoji da približi lidere EU dogovoru o budžetu, Holandija traži smanjenje"
+  "Košta nastoji da približi lidere EU dogovoru o budžetu, Holandija traži smanjenje",
+  "Lideri EU danas o dugoročnom budžetu unije do 2034. godine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "alt": "row of european union flags",
   "link": "https://unsplash.com/@guillaumeperigois"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
