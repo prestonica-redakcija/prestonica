@@ -35,7 +35,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T12:35:38.207926+00:00",
- "updated": "2026-11-26T21:00:06.042454+00:00",
+ "updated": "2026-11-26T21:45:47.570231+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -78,6 +78,18 @@
    "url": "https://n1info.rs/region/naseru-oricu-i-nikolini-sljivic-odredjen-pritvor/",
    "title": "Naseru Oriću i Nikolini Šljivić određen pritvor",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/naseru-oricu-i-nikolini-sljivic-odredjen-pritvor/",
+   "title": "Naseru Oriću i Nikolini Šljivić određen pritvor",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/bbc-news-serbian/jednomesecni-pritvor-naseru-oricu-bivsem-komandantu-armije-bosne-i-hercegovine-u-srebrenici/",
+   "title": "Jednomesečni pritvor Naseru Oriću, bivšem komandantu Armije Bosne i Hercegovine u Srebrenici",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -87,7 +99,9 @@
   "Određen pritvor Naseru Oriću i ostalim uhapšenima",
   "NASER ORIĆ U PRITVORU 30 DANA: Okružni sud u Banjaluci doneo meru za ratnog zločinca i ostale uhapšene u slučaju \"Emisar\"",
   "Naseru Oriću i Nikolini Šljivić određen pritvor do 30 dana",
-  "Naseru Oriću i Nikolini Šljivić određen pritvor"
+  "Naseru Oriću i Nikolini Šljivić određen pritvor",
+  "Naseru Oriću i Nikolini Šljivić određen pritvor",
+  "Jednomesečni pritvor Naseru Oriću, bivšem komandantu Armije Bosne i Hercegovine u Srebrenici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -100,8 +114,8 @@
   "alt": "Two royal guards march past a red sentry box",
   "link": "https://unsplash.com/@cheeseandwine"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-26T20:45:20.797882+00:00",
  "verzija": 2
 }

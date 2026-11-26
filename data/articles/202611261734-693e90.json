@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T16:34:09.007546+00:00",
- "updated": "2026-11-26T21:15:12.934903+00:00",
+ "updated": "2026-11-26T21:45:47.570231+00:00",
  "sources": [
   {
    "name": "N1",
@@ -96,6 +96,12 @@
    "url": "https://www.euronews.rs/srbija/politika/253879/rik-odredio-rokove-za-predsednicke-izbore-27-decembra/vest",
    "title": "RIK objavio rokove za predsedničke izbore: Do kada se predaju kandidature i kada počinje izborna tišina",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288475/rik-kandidatura-za-predsednicke-izbore-do-6-decembra/vest",
+   "title": "RIK objavio ključne rokove: Evo kada ističe rok za kandidature i kada se održavaju izbori",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -109,7 +115,8 @@
   "RIK usvojio odluke o predsedničkim izborima",
   "Poznato kako će izgledati glasački listić za predsedničke izbore 27. decembra",
   "RIK o predsedničkim izborima: Glasački listić biće krem boje",
-  "RIK objavio rokove za predsedničke izbore: Do kada se predaju kandidature i kada počinje izborna tišina"
+  "RIK objavio rokove za predsedničke izbore: Do kada se predaju kandidature i kada počinje izborna tišina",
+  "RIK objavio ključne rokove: Evo kada ističe rok za kandidature i kada se održavaju izbori"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -121,7 +128,7 @@
   "local": true,
   "alt": "RIK usvojio odluke o predsedničkim izborima: listić krem boje, kontrolni list roze"
  },
- "novo_od_pisanja": 2,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:41:26.337473+00:00",
  "verzija": 2
