@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T12:35:38.207926+00:00",
- "updated": "2026-11-26T12:35:38.207926+00:00",
+ "updated": "2026-11-26T12:51:19.902058+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -59,13 +59,20 @@
    "url": "https://www.kurir.rs/planeta/10173568/zasto-su-mostovi-u-kijevu-postali-nova-meta-rusije",
    "title": "MOSKVA PROMENILA TAKTIKU, RUSIJA IMA NOVE METE U UKRAJINI! Anatiličar upozorava: Napadi dronovima liče na \"ujede komaraca\", ali evo šta im je pravi cilj",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/288254/penzija-sa-63-godine-u-nemackoj-ko-ce-imati-pravo-na-nju/vest",
+   "title": "Spremaju nova pravila: Penzija sa 63 godine – moguće je, ali...",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Zelenski: Rusija priprema novi masovni napad na ukrajinsku infrastrukturu",
   "FIFA tvrdi da je bila na meti sajber napada",
   "\"Imamo informacije, spremaju se za novi masovni napad\"",
-  "MOSKVA PROMENILA TAKTIKU, RUSIJA IMA NOVE METE U UKRAJINI! Anatiličar upozorava: Napadi dronovima liče na \"ujede komaraca\", ali evo šta im je pravi cilj"
+  "MOSKVA PROMENILA TAKTIKU, RUSIJA IMA NOVE METE U UKRAJINI! Anatiličar upozorava: Napadi dronovima liče na \"ujede komaraca\", ali evo šta im je pravi cilj",
+  "Spremaju nova pravila: Penzija sa 63 godine – moguće je, ali..."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -78,5 +85,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_(31-12-2025)_(cropped).jpg",
   "osoba": "Volodimir Zelenski",
   "alt": "Zelenski: Rusija privodi kraju pripreme za novi masovni napad na infrastrukturu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

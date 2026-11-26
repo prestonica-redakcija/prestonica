@@ -26,17 +26,24 @@
  ],
  "importance": 3,
  "published": "2026-11-25T04:38:45.728818+00:00",
- "updated": "2026-11-25T04:38:45.728818+00:00",
+ "updated": "2026-11-26T12:51:19.902058+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/beograd/10171166/bez-vode-danas-u-beogradu",
    "title": "10 SATI BEZ VODE DANAS JE OVAJ DEO BEOGRADA! Isključenja i u ovom naselju u Surčinu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/beograd/4440268-naselje-petrovcic-u-surcinu-sutra-bez-vode-od-9-do-18-sati",
+   "title": "Naselje Petrovčić u Surčinu sutra bez vode od 9 do 18 sati",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "10 SATI BEZ VODE DANAS JE OVAJ DEO BEOGRADA! Isključenja i u ovom naselju u Surčinu"
+  "10 SATI BEZ VODE DANAS JE OVAJ DEO BEOGRADA! Isključenja i u ovom naselju u Surčinu",
+  "Naselje Petrovčić u Surčinu sutra bez vode od 9 do 18 sati"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Novi_Beograd_(Blok_45,_44,_70,_71).jpg",
   "alt": "Bez vode u sredu deo Novog Beograda i naselje Progar u Surčinu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

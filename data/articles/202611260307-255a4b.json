@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T02:07:56.609696+00:00",
- "updated": "2026-11-26T06:22:16.988509+00:00",
+ "updated": "2026-11-26T12:51:19.902058+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -46,12 +46,19 @@
    "url": "https://www.telegraf.rs/vesti/svet/4439992-kim-dzong-un-naredio-rasporedjivanje-taktickog-nuklearnog-oruzja-nista-od-denuklearizacije-u-aziji",
    "title": "Kim Džong Un naredio raspoređivanje taktičkog nuklearnog oružja: Ništa od denuklearizacije u Aziji",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/kim-dzong-un-obecava-izgradnju-jos-nuklearnog-oruzja/",
+   "title": "Kim Džong Un obećava izgradnju još nuklearnog oružja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Kim Džong Un najavio raspoređivanje taktičkog nuklearnog oružja u različitim operativnim oblastima",
   "Naređenje je izdato: \"Rasporedite nuklearno oružje\"",
-  "Kim Džong Un naredio raspoređivanje taktičkog nuklearnog oružja: Ništa od denuklearizacije u Aziji"
+  "Kim Džong Un naredio raspoređivanje taktičkog nuklearnog oružja: Ništa od denuklearizacije u Aziji",
+  "Kim Džong Un obećava izgradnju još nuklearnog oružja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "osoba": "Kim Džong Un",
   "alt": "Kim Džong Un poručio da treba rasporediti taktičko nuklearno oružje u više oblasti"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

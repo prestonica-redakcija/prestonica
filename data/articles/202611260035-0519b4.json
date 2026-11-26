@@ -33,7 +33,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-26T12:35:38.207926+00:00",
+ "updated": "2026-11-26T12:51:19.902058+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -202,6 +202,24 @@
    "url": "https://www.novosti.rs/vesti/politika/1674873/zavrseno-saslusanje-dragana-vucicevica-odbrana-trazi-pustanje-slobodu-ispred-palate-pravde-odrzan-skup-podrske-video",
    "title": "ZAVRŠENO SASLUŠANjE DRAGANA J. VUČIĆEVIĆA: Odbrana traži puštanje na slobodu - ispred Palate pravde održan skup podrške (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10173683/saslusan-dragan-j-vucicevic",
+   "title": "Saslušan Dragan J. Vučićević: Odbrana traži odbacivanje optužbi, odluka tužilaštva očekuje se sutra",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/288309/saslusan-vucicevic-odbrana-trazi-odbacivanje-optuzbi-ceka-se-odluka-suda/vest",
+   "title": "Saslušan Vučićević; Odbrana traži odbacivanje optužbi, čeka se odluka suda",
+   "spektar": "centar"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173442/andrea-veskov-dragan-j-vucicevic-palata-pravde",
+   "title": "\"Više od dva sata držan u prostoriji, a dokaza nema!\" Prve informcije nakon saslušanja Vučićevića - Veskov otkrila šta se dešavalo unutar Palate pravde",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -232,7 +250,10 @@
   "\"UHAPŠEN NA PRAVDI BOGA\" Skup podrške Draganu J. Vučićeviću ispred Palate pravde: Ko je sve u ova dva dana bio uz glavnog i odgovornog urednika Informera",
   "Dragana J. Vučićevića sa lisicama na rukama doveli u Palatu pravde: Pogledajte snimak VIDEO",
   "Saslušan Dragan J. Vučićević: Odbrana traži odbacivanje optužbi, odluka suda sutra ujutru",
-  "ZAVRŠENO SASLUŠANjE DRAGANA J. VUČIĆEVIĆA: Odbrana traži puštanje na slobodu - ispred Palate pravde održan skup podrške (VIDEO)"
+  "ZAVRŠENO SASLUŠANjE DRAGANA J. VUČIĆEVIĆA: Odbrana traži puštanje na slobodu - ispred Palate pravde održan skup podrške (VIDEO)",
+  "Saslušan Dragan J. Vučićević: Odbrana traži odbacivanje optužbi, odluka tužilaštva očekuje se sutra",
+  "Saslušan Vučićević; Odbrana traži odbacivanje optužbi, čeka se odluka suda",
+  "\"Više od dva sata držan u prostoriji, a dokaza nema!\" Prve informcije nakon saslušanja Vučićevića - Veskov otkrila šta se dešavalo unutar Palate pravde"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -245,7 +266,7 @@
   "alt": "Car entering a brightly lit tunnel at night",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-26T12:35:38.207926+00:00",
  "verzija": 6

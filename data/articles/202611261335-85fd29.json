@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T12:35:38.207926+00:00",
- "updated": "2026-11-26T12:35:38.207926+00:00",
+ "updated": "2026-11-26T12:51:19.902058+00:00",
  "sources": [
   {
    "name": "B92",
@@ -41,11 +41,60 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1674975/sinisa-mali-preuzima-ovlascenja-ministra-privrede-formiranja-nove-vlade",
    "title": "Siniša Mali preuzima ovlašćenja ministra privrede do formiranja nove vlade",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/301204/sinisa-mali-preuzima-ovlascenja-ministra-privrede-do-formiranja-nove-vlade/vest",
+   "title": "Siniša Mali preuzima ovlašćenja ministra privrede do formiranja nove vlade",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4440283-evo-ko-ce-preuzeti-ovlascenja-ministra-privrede-do-formiranja-nove-vlade",
+   "title": "Evo ko će preuzeti ovlašćenja ministra privrede do formiranja nove vlade",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253814/sinisa-mali-preuzeo-ovlascenja-ministra-privrede/vest",
+   "title": "Siniša Mali preuzima ovlašćenja ministra privrede do formiranja nove vlade",
+   "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674980/sinisa-mali-vodi-ministarstvo-privrede-izbora-novog-ministra",
+   "title": "Siniša Mali vodi Ministarstvo privrede do izbora novog ministra",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288311/nenad-vujic-preuzima-ovlascenja-ministra-kulture-do-izbora-novog-ministra/vest",
+   "title": "Nenad Vujić preuzima ovlašćenja ministra kulture do izbora novog ministra",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/mali-i-vujic-preuzimaju-jos-dva-ministarstva/",
+   "title": "Mali i Vujić preuzimaju još dva ministarstva",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/mali-i-vujic-preuzimaju-jos-dva-ministarstva/",
+   "title": "Mali i Vujić preuzimaju još dva ministarstva",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Siniša Mali preuzima ovlašćenja ministra privrede do formiranja nove vlade",
-  "Siniša Mali preuzima ovlašćenja ministra privrede do formiranja nove vlade"
+  "Siniša Mali preuzima ovlašćenja ministra privrede do formiranja nove vlade",
+  "Siniša Mali preuzima ovlašćenja ministra privrede do formiranja nove vlade",
+  "Evo ko će preuzeti ovlašćenja ministra privrede do formiranja nove vlade",
+  "Siniša Mali preuzima ovlašćenja ministra privrede do formiranja nove vlade",
+  "Siniša Mali vodi Ministarstvo privrede do izbora novog ministra",
+  "Nenad Vujić preuzima ovlašćenja ministra kulture do izbora novog ministra",
+  "Mali i Vujić preuzimaju još dva ministarstva",
+  "Mali i Vujić preuzimaju još dva ministarstva"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +107,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Sini%C5%A1a_Mali.jpg",
   "osoba": "Siniša Mali",
   "alt": "Siniša Mali preuzima ovlašćenja ministra privrede do izbora novog ministra"
- }
+ },
+ "novo_od_pisanja": 7,
+ "boost": 1.56
 }

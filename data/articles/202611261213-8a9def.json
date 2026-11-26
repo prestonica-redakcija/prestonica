@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T11:13:21.726257+00:00",
- "updated": "2026-11-26T11:13:21.726257+00:00",
+ "updated": "2026-11-26T12:51:19.902058+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4440185-uhapsen-zamenik-glavnokomandujuceg-vazdusno-kosmickih-snaga-rusije",
    "title": "Uhapšen zamenik glavnokomandujućeg Vazdušno-kosmičkih snaga Rusije",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/rusija-hapsenje-general-jurij-grehov/",
+   "title": "Mediji: U Rusiji uhapšen general vazdušnih snaga",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "U Moskvi uhapšen zamenik glavnokomandujućeg Vazdušno-kosmičkih snaga Rusije",
-  "Uhapšen zamenik glavnokomandujućeg Vazdušno-kosmičkih snaga Rusije"
+  "Uhapšen zamenik glavnokomandujućeg Vazdušno-kosmičkih snaga Rusije",
+  "Mediji: U Rusiji uhapšen general vazdušnih snaga"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "U Moskvi uhapšen zamenik komandanta ruskih Vazdušno-kosmičkih snaga Jurij Grehov"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
