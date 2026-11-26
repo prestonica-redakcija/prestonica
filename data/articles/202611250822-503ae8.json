@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T07:22:39.121611+00:00",
- "updated": "2026-11-25T13:05:31.712277+00:00",
+ "updated": "2026-11-26T08:37:59.828436+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -77,6 +77,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/rhmz-upozorava-na-ledenu-kisu-i-kosavu-popodne-i-tokom-noci/",
    "title": "RHMZ upozorava na ledenu kišu i košavu popodne i tokom noći",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/288202/vremenska-prognoza-za-cetvrtak-26-novembar/vest",
+   "title": "Čak dva upozorenja RHMZ-a; Pola zemlje pod alarmima FOTO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -86,7 +92,8 @@
   "Upozorenje za Srbiju: U ovim delovima zemlje večeras ledena kiša, a za vikend sneg u Beogradu",
   "RHMZ objavio upozorenje na ledenu kišu za područje istočne Srbije",
   "RHMZ upozorava na ledenu kišu i košavu popodne i tokom noći na jugozapadu Srbije",
-  "RHMZ upozorava na ledenu kišu i košavu popodne i tokom noći"
+  "RHMZ upozorava na ledenu kišu i košavu popodne i tokom noći",
+  "Čak dva upozorenja RHMZ-a; Pola zemlje pod alarmima FOTO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -99,8 +106,8 @@
   "alt": "a puddle of water on a brick sidewalk",
   "link": "https://unsplash.com/@seiya_maeda"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-25T13:05:31.712277+00:00",
  "verzija": 2
 }

@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T08:23:02.641089+00:00",
- "updated": "2026-11-26T08:23:02.641089+00:00",
+ "updated": "2026-11-26T08:37:59.828436+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -50,12 +50,19 @@
    "url": "https://nova.rs/zabava/sudbine/preminuo-bivsi-gitarista-grupe-duran-duran-imao-je-65-godina/",
    "title": "Preminuo bivši gitarista grupe Duran Duran: Imao je 65 godina",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/zabava/pop-kultura/10173310/umro-endi-tejlor-gitarista-grupe-duran-duran",
+   "title": "Umro gitarista grupe Duran Duran Endi Tejlor: Ušao je u istoriju rokenrola, a onda ga je opaka bolest sasekla",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Gitarista grupe Djuran Djuran Endi Tejlor preminuo u 65. godini",
   "Preminuo Endi Tejlor, gitarista grupe Duran Duran",
-  "Preminuo bivši gitarista grupe Duran Duran: Imao je 65 godina"
+  "Preminuo bivši gitarista grupe Duran Duran: Imao je 65 godina",
+  "Umro gitarista grupe Duran Duran Endi Tejlor: Ušao je u istoriju rokenrola, a onda ga je opaka bolest sasekla"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,5 +74,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Duran_Duran_1983.jpg",
   "alt": "Preminuo Endi Tejlor, gitarista grupe Duran Duran, imao je 65 godina"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

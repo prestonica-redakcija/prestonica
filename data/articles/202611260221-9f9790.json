@@ -33,17 +33,24 @@
  ],
  "importance": 6,
  "published": "2026-11-26T01:21:19.345689+00:00",
- "updated": "2026-11-26T01:21:19.345689+00:00",
+ "updated": "2026-11-26T08:37:59.828436+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/teme/gajic-iz-brisela-za-insajder-za-izostanak-srbije-sa-samita-sada-vise-razumevanja-nego-pre-godinu-dana-ali-preti-gubitak-dela-novca-iz-plana-rasta",
    "title": "Gajić iz Brisela za Insajder: Za izostanak Srbije sa samita sada više razumevanja nego pre godinu dana, ali preti gubitak dela novca iz Plana rasta (VIDEO)",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/najave-emisija/dan-uzivo-nerazumevanje-izbora/",
+   "title": "Dan uživo: (Ne)razumevanje izbora",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Gajić iz Brisela za Insajder: Za izostanak Srbije sa samita sada više razumevanja nego pre godinu dana, ali preti gubitak dela novca iz Plana rasta (VIDEO)"
+  "Gajić iz Brisela za Insajder: Za izostanak Srbije sa samita sada više razumevanja nego pre godinu dana, ali preti gubitak dela novca iz Plana rasta (VIDEO)",
+  "Dan uživo: (Ne)razumevanje izbora"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Evstafiev-ratko-mladic-1993-w.jpg",
   "osoba": "Ratko Mladić",
   "alt": "Gajić za Insajder: u Briselu više razumevanja za odsustvo Srbije sa samita nego lani"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

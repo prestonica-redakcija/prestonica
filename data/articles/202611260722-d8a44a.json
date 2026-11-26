@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-26T08:23:02.641089+00:00",
+ "updated": "2026-11-26T08:37:59.828436+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -148,6 +148,18 @@
    "url": "https://www.kurir.rs/vesti/beograd/10173293/normalizovan-saobracaj-posle-pozara-u-bloku-70a",
    "title": "PUŠTEN SAOBRAĆAJ U JURIJA GAGARINA: Deo centralne novobeogradske ulice bio \"odsečen\" zbog gašenja velikog požara u Bloku 70a",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301095/normalizovan-saobracaj-u-jurija-gagarina-u-toku-dogasavanje-pozara/vest",
+   "title": "Normalizovan saobraćaj u Jurija Gagarina, u toku dogašavanje požara",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/288200/pozar-u-tehnomaniji-na-novom-beogradu-slike-sa-lica-mesta/vest",
+   "title": "Vatra sve progutala; Jezive scene ne mestu požara na Novom Beogradu, delovi tehnike razbacani po putu FOTO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -170,7 +182,9 @@
   "Od objekta nije ostalo ništa: Pogledajte kako izgleda \"Tehnomanija\" na Novom Beogradu tri sata posle požara",
   "N1 na mestu velikog požara na Novom Beogradu: Potpuno izgorela prodavnica Tehnomanije",
   "Slike nakon požara na Novom Beogradu: Izgorela prodavnica Tehnomanije, izmenjene trase gradskog prevoza (FOTO)",
-  "PUŠTEN SAOBRAĆAJ U JURIJA GAGARINA: Deo centralne novobeogradske ulice bio \"odsečen\" zbog gašenja velikog požara u Bloku 70a"
+  "PUŠTEN SAOBRAĆAJ U JURIJA GAGARINA: Deo centralne novobeogradske ulice bio \"odsečen\" zbog gašenja velikog požara u Bloku 70a",
+  "Normalizovan saobraćaj u Jurija Gagarina, u toku dogašavanje požara",
+  "Vatra sve progutala; Jezive scene ne mestu požara na Novom Beogradu, delovi tehnike razbacani po putu FOTO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -183,7 +197,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-26T08:23:02.641089+00:00",
  "verzija": 3

@@ -27,17 +27,24 @@
  ],
  "importance": 6,
  "published": "2026-11-26T01:51:38.963841+00:00",
- "updated": "2026-11-26T01:51:38.963841+00:00",
+ "updated": "2026-11-26T08:37:59.828436+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/info/razno/288159/novine-zavrseno-konstituisanje-republickog-parlamenta-picula-bez-uvijanja-tek-cemo-ucenjivati-beograd/vest",
    "title": "Novine: \"Završeno konstituisanje republičkog parlamenta\"; \"Picula bez uvijanja – tek ćemo ucenjivati Beograd\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674860/tek-cemo-ucenjivati-beograd-picula-bez-uvijanja",
+   "title": "\"TEK ĆEMO UCENjIVATI BEOGRAD\": Picula bez uvijanja",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Novine: \"Završeno konstituisanje republičkog parlamenta\"; \"Picula bez uvijanja – tek ćemo ucenjivati Beograd\""
+  "Novine: \"Završeno konstituisanje republičkog parlamenta\"; \"Picula bez uvijanja – tek ćemo ucenjivati Beograd\"",
+  "\"TEK ĆEMO UCENjIVATI BEOGRAD\": Picula bez uvijanja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Narodna_skupstina_Srbije.jpg",
   "alt": "Policija zadržala direktora i glavnog urednika Informera Dragana J. Vučićevića"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
