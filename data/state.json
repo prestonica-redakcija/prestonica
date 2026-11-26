@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.telegraf.rs/jetset/vesti-jetset/4437029-srpska-pevacica-bila-u-avionu-er-srbije-za-mostar-koji-je-pogodila-munja": "2026-11-21T00:25:15.142945+00:00",
   "https://biznis.telegraf.rs/info-biz/4436645-javni-dug-velike-britanije-dostigao-958-odsto-bdp-a-a-ekonomisti-beleze-poboljsanje": "2026-11-21T01:09:52.851456+00:00",
   "https://www.tanjug.rs/svet/politika/299615/francuske-vlasti-istrazuju-odavanje-poverljivih-informacija-stranci-marin-le-pen/vest": "2026-11-21T01:09:52.851456+00:00",
   "https://www.kurir.rs/planeta/10167576/francuska-prefekt-odavao-tajne-marin-le-pen": "2026-11-21T01:09:52.851456+00:00",
@@ -5500,18 +5499,19 @@
   "https://radar.nova.rs/politika/aleksandar-sapic-beograd-sns-sps-sednica/": "2026-11-26T00:19:47.859831+00:00",
   "https://www.tanjug.rs/ekonomija/srbija/300969/banka-postanska-stedionica-u-funkciji-vise-od-98-odsto-bankomata-u-mrezi-banke-245-milijardi-dinara/vest": "2026-11-26T00:19:47.859831+00:00",
   "https://www.b92.net/biz/srbija/vesti/288079/vise-od-98-odsto-bankomata-postanske-stedionice-u-funkciji-dopunjava-se-jos-45/vest": "2026-11-26T00:19:47.859831+00:00",
-  "https://www.youtube.com/watch?v=2L4YxqwH-QY": "2026-11-26T00:19:47.859831+00:00"
+  "https://www.youtube.com/watch?v=2L4YxqwH-QY": "2026-11-26T00:19:47.859831+00:00",
+  "https://www.tanjug.rs/srbija/drustvo/301049/trece-osnovno-javno-tuzilastvo-u-beogradu-vodi-se-pet-postupaka-zbog-iznude-i-izazivanja-opste-opasnosti/vest": "2026-11-26T00:34:43.228346+00:00",
+  "https://www.b92.net/info/hronika/288136/oglasio-se-trece-ojt-u-beogradu-vodi-se-5-postupaka-zbog-iznude-i-izazivanja-opste-opasnosti/vest": "2026-11-26T00:34:43.228346+00:00",
+  "https://n1info.rs/vesti/da-li-je-ugrozen-celokupni-javni-prevoz-u-nisu-direkcija-za-saobracaj-ostala-bez-170-miliona-u-alta-banci/": "2026-11-26T00:34:43.228346+00:00",
+  "https://nova.rs/vesti/politika/demokratska-stranka-vrsac-podnosi-krivicnu-prijavu-protiv-predsednika-skupstine-grada-zbog-neraspisivanja-izbora-za-savete-mesnih-zajednica/": "2026-11-26T00:34:43.228346+00:00",
+  "https://nova.rs/magazin/vremenska-prognoza/danas-oblacno-mestimicno-s-kisom/": "2026-11-26T00:34:43.228346+00:00",
+  "https://www.danas.rs/vesti/drustvo/vreme-danas-oblacno-mestimicno-s-kisom/": "2026-11-26T00:34:43.228346+00:00",
+  "https://www.tanjug.rs/ekonomija/svet/301031/cena-zlata-blago-pala-uoci-objavljivanja-podataka-o-inflaciji-u-sad/vest": "2026-11-26T00:34:43.228346+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-25T00:37+00:00",
-   "novih": 2,
-   "ukupno": 4499,
-   "sekundi": 727.5
-  },
   {
    "vreme": "2026-11-25T00:49+00:00",
    "novih": 0,
@@ -5865,6 +5865,12 @@
    "novih": 6,
    "ukupno": 4708,
    "sekundi": 757.2
+  },
+  {
+   "vreme": "2026-11-26T00:48+00:00",
+   "novih": 5,
+   "ukupno": 4713,
+   "sekundi": 839.6
   }
  ],
  "licnosti_foto": {
@@ -8649,11 +8655,11 @@
    },
    "parandilovicnls": {
     "since_id": "2125689577541153253",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "ininic": {
     "since_id": "2125663451590635657",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -8661,15 +8667,15 @@
    },
    "sviublokade_fdu": {
     "since_id": "2125273670839124278",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "dragandjilas": {
     "since_id": "2121691848313884992",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "marinikatepic": {
     "since_id": "2122007271508959331",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "radomirlazovic": {
     "since_id": null,
@@ -8709,11 +8715,11 @@
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "studentblokade": {
     "since_id": "2125684533085483177",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -8769,11 +8775,11 @@
    },
    "borkostef": {
     "since_id": "2123837042505155014",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "dobrinacelnik": {
     "since_id": "2125619953965420831",
@@ -8785,7 +8791,7 @@
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "srdjanmil037": {
     "since_id": "2125570574390870113",
@@ -8836,8 +8842,8 @@
     "t": 1795651716.524287
    },
    "borakonj": {
-    "since_id": "2125696486818075028",
-    "t": 1795649009.1869898
+    "since_id": "2125749261694632423",
+    "t": 1795653388.9993258
    },
    "narodnipokrets": {
     "since_id": "2125150420486238315",
@@ -8845,51 +8851,51 @@
    },
    "direktnors": {
     "since_id": "2125702878811541873",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "crtars": {
     "since_id": "2125502302685409443",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "veceivan": {
     "since_id": "2125633828911726705",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "repjoewilson": {
     "since_id": "2125375182487671236",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "jugoslavcosic": {
     "since_id": "2125720890528944629",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "tvnova_s": {
     "since_id": "2125689190352327166",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "oljautisak": {
     "since_id": "2124115162684629476",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "srdjan_nogo": {
     "since_id": "2125666480817631440",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "agrifblokira": {
     "since_id": "2125719877159661903",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "etfblokada": {
     "since_id": "2125696956458578398",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "nastraninaroda": {
     "since_id": "2124240486932386139",
@@ -8897,15 +8903,15 @@
    },
    "bcenzure": {
     "since_id": "2125688550091870465",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "bezstraha26279": {
     "since_id": "2125681578198315224",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "lazidetektor": {
-    "since_id": "2125709927091978284",
-    "t": 1795649009.1869898
+    "since_id": "2125749020186251763",
+    "t": 1795653388.9993258
    },
    "nedeljniknin": {
     "since_id": "2125726226425827775",
@@ -8917,15 +8923,15 @@
    },
    "stateinl": {
     "since_id": "2124882590389924146",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "tvbalkaninfo": {
     "since_id": "2125693619093017041",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "1152justice": {
     "since_id": "2123584561330217393",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "zatrijebacki": {
     "since_id": "2125315752265728509",
@@ -8957,7 +8963,7 @@
    },
    "masinars": {
     "since_id": "2125695287469519313",
-    "t": 1795649009.1869898
+    "t": 1795653388.9993258
    },
    "claudedevs": {
     "since_id": "2125628717263372512",
@@ -8965,6 +8971,99 @@
    }
   },
   "posts": [
+   {
+    "id": "2125749261694632423",
+    "x": "BoraKonj",
+    "ime": "Bora",
+    "grupa": "novinari",
+    "uloga": "",
+    "text": "❤️ https://t.co/BBhEB469Ma",
+    "published": "2026-11-26T00:31:33.000+00:00",
+    "lajk": 2,
+    "prikazi": false,
+    "rubrika": "",
+    "tema": ""
+   },
+   {
+    "id": "2125749020186251763",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "ZVEZDA I PARTIZAN OSTAJU BEZ NOVCA: Aleksandar Vučić najavio plan Studentske liste za ova dva kluba!\n\n\"Naravno da neće novca, i Zvezda i Partizan od sledeće godine, posebno košarkaški klubovi, moći će da deru kožu na šiljak. Ali uopšte ne žalim zbog toga, ako me to već pitate. https://t.co/yw1O3dxhqH",
+    "published": "2026-11-26T00:30:35.000+00:00",
+    "lajk": 0,
+    "slike": [
+     "https://pbs.twimg.com/amplify_video_thumb/2125748895254712320/img/JcUJ0og7aMt64oiA.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić o budućem finansiranju Zvezde i Partizana pod novom vlašću"
+   },
+   {
+    "id": "2125747365587906796",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "ALEKSANDAR VUČIĆ O DNEVNOM REDU BUDUĆEG PREDSEDNIKA SAIČIĆA:\n\n\"Sat i po će da radi, ostatak će da spava. A u tih sat i po će da progoni patrijarha i neposlušne episkope...\" https://t.co/eE9FcFUMO1",
+    "published": "2026-11-26T00:24:01.000+00:00",
+    "lajk": 5,
+    "slike": [
+     "https://pbs.twimg.com/amplify_video_thumb/2125747329055473664/img/aQwVgqh0QFrL5top.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić o dnevnom redu budućeg predsednika Saičića i patrijarhu"
+   },
+   {
+    "id": "2125746775315096045",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "Aleksandar Vučić ispričao vrlo poučnu priču koju bi trebalo da čuju poslanici Studentske liste i budući ministri: https://t.co/NdQpjpfmJB",
+    "published": "2026-11-26T00:21:40.000+00:00",
+    "lajk": 0,
+    "slike": [
+     "https://pbs.twimg.com/amplify_video_thumb/2125746658520473601/img/TZqOIo8pjAP6M5_6.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić ispričao priču za poslanike Studentske liste i ministre"
+   },
+   {
+    "id": "2125746147235160434",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "Aleksandar Vučić: \"Do sada su na sve funkcije postavili tajkune a na čelo Vlade će postaviti najvećeg tajkuna od svih tajkuna!\" https://t.co/7dHVH4Uiob",
+    "published": "2026-11-26T00:19:10.000+00:00",
+    "lajk": 1,
+    "slike": [
+     "https://pbs.twimg.com/amplify_video_thumb/2125746096622149633/img/qTYT36dvISdRRua7.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić o tajkunima i budućem čelniku Vlade"
+   },
+   {
+    "id": "2125745414401900683",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "Aleksandar Vučić: \"Situacija u društvu će se znantno promeniti za manje od dve godine jer ovi ljudi nemaju skrupula, jer im se sve svodi na rušenju a ništa na gradnji države!\" https://t.co/T8TvmdBQul",
+    "published": "2026-11-26T00:16:15.000+00:00",
+    "lajk": 0,
+    "slike": [
+     "https://pbs.twimg.com/amplify_video_thumb/2125745370554658816/img/8JqmMycotNQGTtxd.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić o promeni situacije u društvu za manje od dve godine"
+   },
    {
     "id": "2125742799903752314",
     "x": "sns_srbija",
@@ -8977,7 +9076,11 @@
     "slike": [
      "https://pbs.twimg.com/media/HYAmrnZXwAEAw-w.jpg"
     ],
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić o ranijem Zakonu o radu i interesima investitora",
+    "vest": "202611260119-c0b6b9"
    },
    {
     "id": "2125739459027009659",
@@ -8991,7 +9094,11 @@
     "slike": [
      "https://pbs.twimg.com/media/HYAkwI7WoAAWbEk.jpg"
     ],
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "ekonomija",
+    "tema": "Vučić o ekonomskim rezultatima prethodne vlasti",
+    "vest": "202611260119-c0b6b9"
    },
    {
     "id": "2125736505159118888",
@@ -9005,7 +9112,11 @@
     "slike": [
      "https://pbs.twimg.com/media/HYAhaXgWYAAZDbp.jpg"
     ],
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić: cilj protivnika je da ga uklone iz političkog života",
+    "vest": "202611260119-c0b6b9"
    },
    {
     "id": "2125732938226835563",
@@ -9019,7 +9130,11 @@
     "slike": [
      "https://pbs.twimg.com/media/HYAe0RqWcAE962v.jpg"
     ],
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić kritikuje poslanike većine zbog ranijih koristi od sistema",
+    "vest": "202611260119-c0b6b9"
    },
    {
     "id": "2125730191825879258",
@@ -9033,7 +9148,11 @@
     "slike": [
      "https://pbs.twimg.com/media/HYAblXOWoAAPGoP.jpg"
     ],
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić o najavama hapšenja u Skupštini kao narušavanju ustavnog poretka",
+    "vest": "202611260119-c0b6b9"
    },
    {
     "id": "2125727490656407897",
@@ -9942,7 +10061,10 @@
     "text": "Nije se znalo kolike tikete ubadaju Handanovići, nije se znao spisak pomilovanih, pa opet sa 600.000 glasova razlike mafija izgubi. Kada se rašrafe totalno u svakoj pori društva i države, ima da ostanu samo dugmići... a, oni ponavljaju i teše se se međusobno kako će se vratiti😭",
     "published": "2026-11-25T18:50:34.000+00:00",
     "lajk": 2362,
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Ninić o izbornom porazu vlasti i aferi sa kladionicom"
    },
    {
     "id": "2125658602283135203",
@@ -9956,7 +10078,10 @@
     "slike": [
      "https://pbs.twimg.com/ext_tw_video_thumb/2125658450315079680/pu/img/eKxScrfwo6ccgysL.jpg"
     ],
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Čupić o Vučiću kao autokrati i despotu"
    },
    {
     "id": "2125656955528110496",
@@ -9967,7 +10092,10 @@
     "text": "Valjalo bi organizovati neko druženje i vatromet sutra kada Konjoglavom odrede 30 dana pritvor 🥳",
     "published": "2026-11-25T18:24:45.000+00:00",
     "lajk": 712,
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": false,
+    "rubrika": "",
+    "tema": ""
    },
    {
     "id": "2125656798489116763",
@@ -9993,7 +10121,10 @@
     "text": "VJT u Beogradu podneo sam krivičnu prijavu protiv Damira Handanovića i MOZZART kladionice, da se otvori malo njihov softver i taj agoritam koji daje dobitak od 1.000.000 € i izdaje potvrde o legalnom poreklu para koje se pptom ubacuju u legalne tokove i na račun ministarke...",
     "published": "2026-11-25T18:17:50.000+00:00",
     "lajk": 4893,
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "hronika",
+    "tema": "Krivična prijava protiv Handanovića i Mozzarta zbog dobitka od milion evra"
    },
    {
     "id": "2125653379586080991",
@@ -10007,7 +10138,10 @@
     "slike": [
      "https://pbs.twimg.com/ext_tw_video_thumb/2125652758841663488/pu/img/XtIA8MAcmBmD5Oed.jpg"
     ],
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": false,
+    "rubrika": "",
+    "tema": ""
    },
    {
     "id": "2125653072945045608",
@@ -10045,7 +10179,10 @@
     "slike": [
      "https://pbs.twimg.com/ext_tw_video_thumb/2125651216348655616/pu/img/yhIDBuM2XiyV7eZy.jpg"
     ],
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Parandilović traži da Vučić bude izveden pred pravdu"
    },
    {
     "id": "2125648447898284312",
@@ -10056,7 +10193,10 @@
     "text": "Saobraćajna nezgoda dogodila se danas na uglu Ulice kneza Miloša i Nemanjine u Beogradu, zbog čega je saobraćaj u smeru ka centru grada trenutno obustavljen.\nhttps://t.co/wuxgi0Z6Bl",
     "published": "2026-11-25T17:50:57.000+00:00",
     "lajk": 0,
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "hronika",
+    "tema": "Saobraćajna nezgoda u Kneza Miloša i Nemanjine, obustavljen saobraćaj"
    },
    {
     "id": "2125645490913976391",
@@ -10094,7 +10234,10 @@
     "slike": [
      "https://pbs.twimg.com/media/HX_N4KfWEAAZXJs.jpg"
     ],
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": false,
+    "rubrika": "",
+    "tema": ""
    },
    {
     "id": "2125643417070043211",
@@ -10105,7 +10248,10 @@
     "text": "RADNA GRUPA ZA ŽELEZNICU \n\nJE NAKARADNO I SELEKTIVNO \n\nFORMIRALA PREDMET !\n\n👇👇👇 https://t.co/sfMbOTWejQ",
     "published": "2026-11-25T17:30:57.000+00:00",
     "lajk": 42,
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Radna grupa za železnicu selektivno formirala predmet"
    },
    {
     "id": "2125643091709509810",
@@ -10116,7 +10262,10 @@
     "text": "Apelacioni sud u Beogradu je odbacio optužnicu Višeg javnog tužilaštva (VJT) u Beogradu u slučaju pada nadstrešnice na Železničkoj stanici u Novom Sadu 1. novembra 2024. godine, saznao je portal Insajder.\nhttps://t.co/Y5N6t3JR97",
     "published": "2026-11-25T17:29:40.000+00:00",
     "lajk": 0,
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "hronika",
+    "tema": "Apelacioni sud odbacio optužnicu za pad nadstrešnice u Novom Sadu"
    },
    {
     "id": "2125642423456124947",
@@ -10154,7 +10303,11 @@
     "text": "Naprednjaci, Ivica je još uvek ministar policije, načelnici su isti, tužioci takoðe, to su vaši ljudi. \nVAŠI LJUDI !\nSamo ih pozovite i recite im da puste DJV. \n🤣🤣🤣",
     "published": "2026-11-25T16:52:51.000+00:00",
     "lajk": 3281,
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Ivanović poručuje naprednjacima da policija i tužioci mogu da puste Vučićevića",
+    "vest": "202611260002-f23071"
    },
    {
     "id": "2125628717263372512",
@@ -10180,7 +10333,10 @@
     "slike": [
      "https://pbs.twimg.com/amplify_video_thumb/2125628328975470592/img/DKMmrvPA-dL6no6-.jpg"
     ],
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "drustvo",
+    "tema": "Godišnjica prvog plenuma studenata FDU i blokade fakulteta"
    },
    {
     "id": "2125626313905987729",
@@ -10233,7 +10389,10 @@
     "slike": [
      "https://pbs.twimg.com/amplify_video_thumb/2125623100746186752/img/9jMcNa89ps5BxlnA.jpg"
     ],
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "drustvo",
+    "tema": "Nogo o kladionicama kao paravanu za pranje novca, tiket od 140 miliona"
    },
    {
     "id": "2125622970152317347",
@@ -10244,7 +10403,10 @@
     "text": "Mnoge je zanimalo kako su odbornici glasali o razrešenju Aleksandra Šapića. Evo kompletnog izveštaja.\n\nHvala svima koji pratite naš rad, predlažete, sugerišete, hvalite, ali i kritikujete. Skupština grada pripada Beograđanima. ❤️ https://t.co/YA0FA5BtiT",
     "published": "2026-11-25T16:09:42.000+00:00",
     "lajk": 44,
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Izveštaj o glasanju odbornika o razrešenju Aleksandra Šapića"
    },
    {
     "id": "2125621452648989056",
@@ -10255,7 +10417,10 @@
     "text": "Combines heavy UK dub and reggae rhythms with militant anti-fascist and anti-racist spoken word in Jamaican patois.\n\n#AlbumOfTheDay\nLinton Kwesi Johnson\n“Forces Of Victory”\n\n#NowPlaying \nFite dem back Vinylrip \nhttps://t.co/9P1ldpVmGY via @YouTube",
     "published": "2026-11-25T16:03:41.000+00:00",
     "lajk": 3,
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": false,
+    "rubrika": "",
+    "tema": ""
    },
    {
     "id": "2125621171194356212",
@@ -10269,7 +10434,10 @@
     "slike": [
      "https://pbs.twimg.com/amplify_video_thumb/2125621087673241600/img/O1w7VagzKJvdjK5j.jpg"
     ],
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić pita dokle će dovoditi navijačke grupe"
    },
    {
     "id": "2125619953965420831",
@@ -10280,7 +10448,10 @@
     "text": "Jao Veselinoviću... https://t.co/oN4rEnKxPF",
     "published": "2026-11-25T15:57:43.000+00:00",
     "lajk": 26,
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": false,
+    "rubrika": "",
+    "tema": ""
    },
    {
     "id": "2125616444654121104",
@@ -10294,7 +10465,10 @@
     "slike": [
      "https://pbs.twimg.com/media/HX-047HXgAAhBB7.jpg"
     ],
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Đurić sa ambasadorom Japana o bilateralnim odnosima"
    },
    {
     "id": "2125615444375777523",
@@ -10308,7 +10482,10 @@
     "slike": [
      "https://pbs.twimg.com/amplify_video_thumb/2125615040296353792/img/84kcL72CyDjbLLaR.jpg"
     ],
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": false,
+    "rubrika": "",
+    "tema": ""
    },
    {
     "id": "2125609852760203304",
@@ -10322,7 +10499,10 @@
     "slike": [
      "https://pbs.twimg.com/media/HX-u5FmWEAAUOMl.jpg"
     ],
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Đurić sa otpravnikom poslova ambasade SAD Titolom"
    },
    {
     "id": "2125609231487225923",
@@ -10367,7 +10547,11 @@
     "slike": [
      "https://pbs.twimg.com/amplify_video_thumb/2125606408427114496/img/Pvm3HucX865aAFEB.jpg"
     ],
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić o navijačkim grupama u Skupštini i hapšenju novinara",
+    "vest": "202611260002-bd9f40"
    },
    {
     "id": "2125606385526112692",
@@ -10408,7 +10592,10 @@
     "text": "I opet je poslao svoje na hladnoću a on ostao u toplom...",
     "published": "2026-11-25T15:01:28.000+00:00",
     "lajk": 1042,
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": false,
+    "rubrika": "",
+    "tema": ""
    },
    {
     "id": "2125604693854294402",
@@ -13014,7 +13201,10 @@
     "text": "A practical guide to shipping with Claude Code: how to hand off PR follow-up work to Claude Ship and stay in flow.\n\nhttps://t.co/Mw3qjuFQa3",
     "published": "2026-11-24T23:07:17.000+00:00",
     "lajk": 2840,
-    "pokusaja": 2
+    "pokusaja": 2,
+    "prikazi": false,
+    "rubrika": "",
+    "tema": ""
    },
    {
     "id": "2125363850434465973",
@@ -20705,92 +20895,6 @@
     "rubrika": "politika",
     "tema": "Vučić o povratku Zorane Mihajlović u SNS",
     "vest": "202611231354-955ff1"
-   },
-   {
-    "id": "2124835817776431419",
-    "x": "avucic",
-    "ime": "Aleksandar Vučić",
-    "grupa": "vlast",
-    "uloga": "Predsednik Srbije",
-    "text": "Поново заједно у нашој странци. После готово пет година, Зорана је дошла у странку коју је напустила. Храбро се супротставља блокадерском терору и то је нешто што изузетно поштујем. https://t.co/1tU8PFgbtB",
-    "published": "2026-11-23T12:01:51.000+00:00",
-    "lajk": 135,
-    "slike": [
-     "https://pbs.twimg.com/amplify_video_thumb/2124835610774921216/img/5Vz8D7RS4SHMixXY.jpg"
-    ],
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Vučić o povratku Zorane Mihajlović u SNS",
-    "vest": "202611231354-955ff1"
-   },
-   {
-    "id": "2124835359930421405",
-    "x": "NedeljnikNIN",
-    "ime": "NIN",
-    "grupa": "",
-    "uloga": "",
-    "text": "Preminuo Milan Jovanović, dugogodišnji novinar portala Žig info\nhttps://t.co/OwVhEWS8dP",
-    "published": "2026-11-23T12:00:01.000+00:00",
-    "lajk": 1,
-    "prikazi": true,
-    "rubrika": "mediji",
-    "tema": "Preminuo novinar Žig infoa Milan Jovanović"
-   },
-   {
-    "id": "2124835078799044744",
-    "x": "srbininfo",
-    "ime": "СРБИН инфо",
-    "grupa": "",
-    "uloga": "",
-    "text": "БЕСРАМНО Од „не дао Бог да дођу на власт“ до улизивања студентима: Како је Додик променио плочи и окренуо леђа Вучићу (ВИДЕО)\n\nhttps://t.co/xdf4r4ouCP",
-    "published": "2026-11-23T11:58:54.000+00:00",
-    "lajk": 5,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Dodik promenio stav prema Vučiću i studentima"
-   },
-   {
-    "id": "2124834659372605912",
-    "x": "dobrinacelnik",
-    "ime": "Dobrica Veselinović",
-    "grupa": "opozicija",
-    "uloga": "Zeleno-levi front",
-    "text": "Hej @prijavi_problem da obrati pažnju na ovo osušeno stablo u Dositejevoj ulici kod broja 31, pašće nekome na glavu ili vozilo... https://t.co/ID8JbWXbWd",
-    "published": "2026-11-23T11:57:14.000+00:00",
-    "lajk": 2,
-    "slike": [
-     "https://pbs.twimg.com/media/HXztxvSWUAAMxNo.jpg",
-     "https://pbs.twimg.com/media/HXzt2FvWUAAwNYy.jpg"
-    ],
-    "prikazi": false,
-    "rubrika": "drustvo",
-    "tema": "Osušeno stablo u Dositejevoj ulici"
-   },
-   {
-    "id": "2124834612979302615",
-    "x": "MasinaRS",
-    "ime": "Mašina",
-    "grupa": "",
-    "uloga": "",
-    "text": "Građanski pokret Bravo ići će u obilazak škola u Novom Sadu i okolini zbog, kako navode, alarmantnog stanja zbog kog su im se roditelji javljali u vezi bezbednosti dece.\n\nSaznajte više na našem sajtu👇\nhttps://t.co/R44atvZR6o",
-    "published": "2026-11-23T11:57:03.000+00:00",
-    "lajk": 0,
-    "prikazi": true,
-    "rubrika": "drustvo",
-    "tema": "Pokret Bravo obilazi škole u Novom Sadu zbog bezbednosti dece"
-   },
-   {
-    "id": "2124834101354013068",
-    "x": "izlaz_dot_com",
-    "ime": "IZLAZ.com",
-    "grupa": "",
-    "uloga": "",
-    "text": "Nastavljeno suđenje optuženima za ubistvo dvogodišnje Danke Ilić\n\nhttps://t.co/ErkidGH0UW",
-    "published": "2026-11-23T11:55:01.000+00:00",
-    "lajk": 0,
-    "prikazi": true,
-    "rubrika": "hronika",
-    "tema": "Suđenje za ubistvo dvogodišnje Danke Ilić"
    }
   ],
   "pratim": [
@@ -43426,6 +43530,10 @@
   "t:tehnicka vlada": {
    "t": 1795652424.9323847,
    "items": []
+  },
+  "t:direkcija za saobracaj": {
+   "t": 1795653343.0358026,
+   "items": []
   }
  },
  "x_objave": {
@@ -49455,7 +49563,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštinace Republike Srbije u Petnaestom sazivu 25.11.2026.",
-  "provereno": "2026-11-26T00:22:48.736145+00:00",
+  "provereno": "2026-11-26T00:37:16.672117+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
