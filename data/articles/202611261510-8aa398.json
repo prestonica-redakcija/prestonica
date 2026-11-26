@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T14:10:27.685416+00:00",
- "updated": "2026-11-26T17:54:07.703046+00:00",
+ "updated": "2026-11-26T18:25:03.828784+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -63,6 +63,12 @@
    "url": "https://nova.rs/vesti/svet/evropska-centralna-banka-dobila-novog-predsednika-spanca-pabla-ernandeza-de-kosa/",
    "title": "Evropska centralna banka dobila novog predsednika, Španca Pabla Ernandeza de Kosa",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/evropska-centralna-banka-dobila-novog-predsednika/",
+   "title": "Evropska centralna banka dobila novog predsednika",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -70,7 +76,8 @@
   "Poznato ko će naslediti Kristin Lagard: Evo ko dolazi na čelo Evropske centralne banke u februaru!",
   "SMENA NA ČELU ECB: Ko je naslednik Kristin Lagard",
   "Španac Pablo Ernandez de Kos u februaru dolazi na čelo Evropske centralne banke",
-  "Evropska centralna banka dobila novog predsednika, Španca Pabla Ernandeza de Kosa"
+  "Evropska centralna banka dobila novog predsednika, Španca Pabla Ernandeza de Kosa",
+  "Evropska centralna banka dobila novog predsednika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -82,6 +89,6 @@
   "local": true,
   "alt": "Pablo Ernandez de Kos od 8. februara na čelu Evropske centralne banke"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

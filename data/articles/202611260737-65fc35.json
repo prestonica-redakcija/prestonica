@@ -29,7 +29,7 @@
  ],
  "importance": 7,
  "published": "2026-11-26T06:37:04.447175+00:00",
- "updated": "2026-11-26T07:06:54.320153+00:00",
+ "updated": "2026-11-26T18:25:03.828784+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -42,11 +42,18 @@
    "url": "https://www.novosti.rs/vesti/politika/1674824/hapsenje-vucicevica-odjeknulo-amerike-breitbart-objavio-tekst-eskalaciji-cenzure-srbiji-foto",
    "title": "HAPŠENjE VUČIĆEVIĆA ODJEKNULO DO AMERIKE: Breitbart objavio tekst o eskalaciji cenzure u Srbiji (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/video/novi-dan/tema-jutra-hiperprodukcija-hapsenja/",
+   "title": "Tema jutra: Hiperprodukcija hapšenja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Hapšenje Dragana J. Vučićevića tema svetskih medija! Oglasio se i ugledni američki Breitbart: \"Cenzura eskalirala u Srbiji\" (FOTO)",
-  "HAPŠENjE VUČIĆEVIĆA ODJEKNULO DO AMERIKE: Breitbart objavio tekst o eskalaciji cenzure u Srbiji (FOTO)"
+  "HAPŠENjE VUČIĆEVIĆA ODJEKNULO DO AMERIKE: Breitbart objavio tekst o eskalaciji cenzure u Srbiji (FOTO)",
+  "Tema jutra: Hiperprodukcija hapšenja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "alt": "man in black jacket holding white printer paper",
   "link": "https://unsplash.com/@koshuuu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

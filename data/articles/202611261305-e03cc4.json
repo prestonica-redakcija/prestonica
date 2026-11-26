@@ -35,7 +35,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T12:05:48.172440+00:00",
- "updated": "2026-11-26T14:25:21.015125+00:00",
+ "updated": "2026-11-26T18:25:03.828784+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -60,13 +60,20 @@
    "url": "https://www.novosti.rs/vesti/politika/1675016/evo-zasto-srbija-izgubila-stotine-miliona-evra-oglasili-evropske-komisije",
    "title": "EVO ZAŠTO JE SRBIJA IZGUBILA STOTINE MILIONA EVRA: Oglasili se iz Evropske komisije!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/hadziu-maksimalno-se-angazujemo-da-kosovo-ne-izgubi-sredstva-iz-plana-rasta-eu/",
+   "title": "Hadžiu: Maksimalno se angažujemo da Kosovo ne izgubi sredstva iz Plana rasta EU",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "EVROPSKA KOMISIJA ĆE PREUSMERITI DEO NOVCA NAMENJEN SRBIJI: Fon der Lajenova potvrdila: Više para Crnoj Gori, Albaniji i Severnoj Makedoniji!",
   "(VIDEO) Katastrofa! Evropa zvanično otpisala Srbiju: Gubimo stotine miliona evra, sve ode Albaniji, Crnoj Gori, Severnoj Makedoniji...",
   "NEPRIJATNE VESTI ZA SRBIJU: Ursula objavila da preusmerava sredstva Crnoj Gori, Albaniji i Severnoj Makedoniji",
-  "EVO ZAŠTO JE SRBIJA IZGUBILA STOTINE MILIONA EVRA: Oglasili se iz Evropske komisije!"
+  "EVO ZAŠTO JE SRBIJA IZGUBILA STOTINE MILIONA EVRA: Oglasili se iz Evropske komisije!",
+  "Hadžiu: Maksimalno se angažujemo da Kosovo ne izgubi sredstva iz Plana rasta EU"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -79,6 +86,6 @@
   "alt": "row of european union flags",
   "link": "https://unsplash.com/@guillaumeperigois"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

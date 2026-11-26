@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T08:08:30.221609+00:00",
- "updated": "2026-11-26T17:37:53.758490+00:00",
+ "updated": "2026-11-26T18:25:03.828784+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -64,6 +64,12 @@
    "url": "https://www.tanjug.rs/svet/hronika/301173/u-harkovu-dron-pogodio-univerzitetsku-zgradu-poginula-zena-cetiri-osobe-povredene/vest",
    "title": "U Harkovu dron pogodio univerzitetsku zgradu, poginula žena, četiri osobe povređene",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10174105/jedna-osoba-poginula-cetiri-ranjene-u-napadu-ruskih-snaga-na-zaporozje",
+   "title": "RUSKI NAPAD NA ZAPOROŽJE: Jedna osoba poginula, četiri ranjene! Saobraćaj u gradu potpuno obustavljen!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -71,7 +77,8 @@
   "BALISTIČKE RAKETE POGODILE TRŽNI CENTAR U KIJEVU! KLIČKO: GRAD JE NAPADNUT! Žestok ruski udar nakon što se Zelenski žalio da Trampov ministar ne da Patriote",
   "Gradonačelnik Kijeva: U ruskom napadu balističkim raketama četiri osobe ranjene",
   "Jedna osoba poginula, četiri ranjene u napadu ruskih snaga na Zaporožje",
-  "U Harkovu dron pogodio univerzitetsku zgradu, poginula žena, četiri osobe povređene"
+  "U Harkovu dron pogodio univerzitetsku zgradu, poginula žena, četiri osobe povređene",
+  "RUSKI NAPAD NA ZAPOROŽJE: Jedna osoba poginula, četiri ranjene! Saobraćaj u gradu potpuno obustavljen!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -85,6 +92,6 @@
   "osoba": "Vitalij Kličko",
   "alt": "Ruski balistički napad na Kijev: pogođen tržni centar, ranjeno najmanje sedam osoba"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
