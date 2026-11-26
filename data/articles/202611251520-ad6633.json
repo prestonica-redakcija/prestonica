@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T14:20:12.062560+00:00",
- "updated": "2026-11-26T00:19:47.859831+00:00",
+ "updated": "2026-11-26T06:22:16.988509+00:00",
  "sources": [
   {
    "name": "N1",
@@ -93,6 +93,12 @@
    "url": "https://radar.nova.rs/ekonomija/ko-je-i-zasto-davoru-macuri-cuvao-ledja/",
    "title": "Ko je i zašto Davoru Macuri čuvao leđa",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4439993-pritvor-za-brata-davora-macure-zbog-afere-od-45-milijardi",
+   "title": "Pritvor za brata Davora Macure zbog afere od 45 milijardi!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -105,7 +111,8 @@
   "BRATU VLASNIKA ALTA BANKE ODREĐEN PRITVOR: Dubravko Macura ostaje iza rešetaka",
   "Bratu vlasnika Alta banke određen pritvor",
   "Bratu vlasnika Alta banke određen pritvor",
-  "Ko je i zašto Davoru Macuri čuvao leđa"
+  "Ko je i zašto Davoru Macuri čuvao leđa",
+  "Pritvor za brata Davora Macure zbog afere od 45 milijardi!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -117,7 +124,7 @@
   "local": true,
   "alt": "Uhapšeni brat Davora Macure i direktorka Alta grupe, zadržani 48 sati"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-25T23:02:14.184226+00:00",
  "verzija": 2

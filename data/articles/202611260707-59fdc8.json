@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T06:07:23.074382+00:00",
- "updated": "2026-11-26T06:07:23.074382+00:00",
+ "updated": "2026-11-26T06:22:16.988509+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4439895-danas-kisovito-i-malo-toplije-temperatura-do-12-stepeni-evo-gde-se-ocekuju-olujni-udari-vetra-od-100-kmh",
    "title": "Danas kišovito i malo toplije, temperatura do 12 stepeni: Evo gde se očekuju olujni udari vetra od 100 km/h",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/u-srbiji-danas-kisovito-na-istoku-ledena-kisa-maksimalno-do-12-stepeni/",
+   "title": "U Srbiji danas kišovito, na istoku ledena kiša, maksimalno do 12 stepeni",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "U Srbiji danas oblačno i vetrovito, temperature do 12 stepeni",
-  "Danas kišovito i malo toplije, temperatura do 12 stepeni: Evo gde se očekuju olujni udari vetra od 100 km/h"
+  "Danas kišovito i malo toplije, temperatura do 12 stepeni: Evo gde se očekuju olujni udari vetra od 100 km/h",
+  "U Srbiji danas kišovito, na istoku ledena kiša, maksimalno do 12 stepeni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "people walking on street in rainy day",
   "link": "https://unsplash.com/@gileres"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

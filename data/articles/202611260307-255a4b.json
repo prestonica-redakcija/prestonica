@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T02:07:56.609696+00:00",
- "updated": "2026-11-26T02:07:56.609696+00:00",
+ "updated": "2026-11-26T06:22:16.988509+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -40,11 +40,18 @@
    "url": "https://www.b92.net/info/svet/288161/kim-dzong-un-nalozio-sirenje-nuklearnog-arsenala/vest",
    "title": "Naređenje je izdato: \"Rasporedite nuklearno oružje\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4439992-kim-dzong-un-naredio-rasporedjivanje-taktickog-nuklearnog-oruzja-nista-od-denuklearizacije-u-aziji",
+   "title": "Kim Džong Un naredio raspoređivanje taktičkog nuklearnog oružja: Ništa od denuklearizacije u Aziji",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Kim Džong Un najavio raspoređivanje taktičkog nuklearnog oružja u različitim operativnim oblastima",
-  "Naređenje je izdato: \"Rasporedite nuklearno oružje\""
+  "Naređenje je izdato: \"Rasporedite nuklearno oružje\"",
+  "Kim Džong Un naredio raspoređivanje taktičkog nuklearnog oružja: Ništa od denuklearizacije u Aziji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Kim_Jong-un_and_Vladimir_Putin_(2023-09-13)_12_(cropped).jpg",
   "osoba": "Kim Džong Un",
   "alt": "Kim Džong Un poručio da treba rasporediti taktičko nuklearno oružje u više oblasti"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
