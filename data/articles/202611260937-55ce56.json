@@ -32,17 +32,24 @@
  ],
  "importance": 7,
  "published": "2026-11-26T08:37:59.828436+00:00",
- "updated": "2026-11-26T08:37:59.828436+00:00",
+ "updated": "2026-11-26T09:07:56.153268+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/agencija-za-sprecavanje-korupcije-oznaka-tajnosti-u-postupcima-protiv-sapica-i-dubravke-djedovic-handanovic/",
    "title": "Agencija za sprečavanje korupcije za N1: Oznaka tajnosti u postupcima protiv Šapića i Dubravke Đedović Handanović",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/agencija-za-sprecavanje-korupcije-oznaka-tajnosti-u-postupcima-protiv-aleksandra-sapica-i-dubravke-handanovic-djedovic/",
+   "title": "Agencija za sprečavanje korupcije: Oznaka tajnosti u postupcima protiv Aleksandra Šapića i Dubravke Handanović Đedović",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Agencija za sprečavanje korupcije za N1: Oznaka tajnosti u postupcima protiv Šapića i Dubravke Đedović Handanović"
+  "Agencija za sprečavanje korupcije za N1: Oznaka tajnosti u postupcima protiv Šapića i Dubravke Đedović Handanović",
+  "Agencija za sprečavanje korupcije: Oznaka tajnosti u postupcima protiv Aleksandra Šapića i Dubravke Handanović Đedović"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Agencija za sprečavanje korupcije: postupci o imovini Šapića i Đedović Handanović tajni"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

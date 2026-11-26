@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T08:37:59.828436+00:00",
- "updated": "2026-11-26T08:37:59.828436+00:00",
+ "updated": "2026-11-26T09:07:56.153268+00:00",
  "sources": [
   {
    "name": "N1",
@@ -49,12 +49,19 @@
    "url": "https://nova.rs/vesti/politika/vucic-pitanje-trenutka-kad-krecem-u-strajk-gladju-zabranicu-lekarima-da-mi-pruze-pomoc/",
    "title": "Vučić: Pitanje trenutka kad krećem u štrajk glađu, zabraniću lekarima da mi pruže pomoć",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288213/vucic-pitanje-je-trenutka-kada-cu-da-krenem-u-strajk-gladju/vest",
+   "title": "Vučić: \"Pitanje je trenutka kada ću da krenem u štrajk glađu\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Vučić najavio da bi mogao da štrajkuje glađu i da zabrani lekarima da mu pruže pomoć",
   "Vučić ponovo najavio štrajk glađu i dodao neuzimanje terapije: Kada u to krenem, tu povratka nema",
-  "Vučić: Pitanje trenutka kad krećem u štrajk glađu, zabraniću lekarima da mi pruže pomoć"
+  "Vučić: Pitanje trenutka kad krećem u štrajk glađu, zabraniću lekarima da mi pruže pomoć",
+  "Vučić: \"Pitanje je trenutka kada ću da krenem u štrajk glađu\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,5 +72,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučić najavio mogućnost štrajka glađu: neće da uzima terapiju"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

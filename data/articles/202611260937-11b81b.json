@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T08:37:59.828436+00:00",
- "updated": "2026-11-26T08:52:52.281543+00:00",
+ "updated": "2026-11-26T09:07:56.153268+00:00",
  "sources": [
   {
    "name": "N1",
@@ -51,13 +51,20 @@
    "url": "https://insajder.net/prenosimo/mup-tri-osobe-iz-kikinde-uhapsene-zbog-sumnje-da-su-zaposlenima-isplacivale-stimulacije-za-odlazak-na-mitinge",
    "title": "MUP: Tri osobe iz Kikinde uhapšene zbog sumnje da su zaposlenima isplaćivale stimulacije za odlazak na mitinge",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/u-kikindi-uhapsene-tri-osobe-zbog-sumnje-da-su-zaposlenima-isplacivale-novac-za-odlazak-na-mitinge/",
+   "title": "U Kikindi uhapšene tri osobe zbog sumnje da su zaposlenima isplaćivale novac za odlazak na mitinge",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "U Kikindi uhapšene tri osobe zbog sumnje da su zaposlenima isplaćivale novac za odlazak na mitinge",
   "Uhapšena tri člana Izvršnog odbora privrednog društva iz Kikinde zbog sumnje da su zloupotrebili položaj",
   "UHAPŠENA TRI ČLANA IZVRŠNOG ODBORA FIRME IZ KIKINDE: Sumnja se da su zaposlenima nezakonito isplaćivali stimulacije",
-  "MUP: Tri osobe iz Kikinde uhapšene zbog sumnje da su zaposlenima isplaćivale stimulacije za odlazak na mitinge"
+  "MUP: Tri osobe iz Kikinde uhapšene zbog sumnje da su zaposlenima isplaćivale stimulacije za odlazak na mitinge",
+  "U Kikindi uhapšene tri osobe zbog sumnje da su zaposlenima isplaćivale novac za odlazak na mitinge"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +77,6 @@
   "alt": "a pair of scissors and a roll of money on a table",
   "link": "https://unsplash.com/@bermixstudio"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

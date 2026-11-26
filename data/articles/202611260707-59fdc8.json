@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T06:07:23.074382+00:00",
- "updated": "2026-11-26T08:52:52.281543+00:00",
+ "updated": "2026-11-26T09:07:56.153268+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -73,6 +73,12 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/301111/u-celoj-srbiji-oblacno-beogradu-i-negotinu-jaka-kisa-na-crnom-vrhu-ledena-kisa/vest",
    "title": "U celoj Srbiji oblačno, Beogradu i Negotinu jaka kiša, na Crnom Vrhu ledena kiša",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10173352/amss-kisa-niska-temperatura-i-jaki-udari-vetra",
+   "title": "AMSS: Kiša, niska temperatura i jaki udari vetra",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -82,7 +88,8 @@
   "AMSS: Kiša, niska temperatura i jaki udari vetra",
   "AMSS: Kiša, niska temperatura i jaki udari vetra otežavaju vožnju",
   "Stanje na putevima: Kiša, niska temperatura i jaki udari vetra",
-  "U celoj Srbiji oblačno, Beogradu i Negotinu jaka kiša, na Crnom Vrhu ledena kiša"
+  "U celoj Srbiji oblačno, Beogradu i Negotinu jaka kiša, na Crnom Vrhu ledena kiša",
+  "AMSS: Kiša, niska temperatura i jaki udari vetra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -95,8 +102,8 @@
   "alt": "people walking on street in rainy day",
   "link": "https://unsplash.com/@gileres"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-26T07:06:54.320153+00:00",
  "verzija": 2
 }

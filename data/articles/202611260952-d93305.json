@@ -35,7 +35,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T08:52:52.281543+00:00",
- "updated": "2026-11-26T08:52:52.281543+00:00",
+ "updated": "2026-11-26T09:07:56.153268+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -48,11 +48,18 @@
    "url": "https://nova.rs/vesti/politika/janis-varufakis-srpski-studenti-su-primer-za-evropu-ali-gde-lezi-opasnost-po-njihov-pokret/",
    "title": "Janis Varufakis: Srpski studenti su primer za Evropu, ali gde leži opasnost po njihov pokret?",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/janis-varufakis-pobeda-studenata-dar-svakom-evropljaninu/",
+   "title": "Janis Varufakis: Pobeda studenata u Srbiji dar je svakom Evropljaninu koji je izgubio nadu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Šta Janis Varufakis kaže o studentima?",
-  "Janis Varufakis: Srpski studenti su primer za Evropu, ali gde leži opasnost po njihov pokret?"
+  "Janis Varufakis: Srpski studenti su primer za Evropu, ali gde leži opasnost po njihov pokret?",
+  "Janis Varufakis: Pobeda studenata u Srbiji dar je svakom Evropljaninu koji je izgubio nadu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +71,7 @@
   "local": false,
   "alt": "a group of people walking across a street",
   "link": "https://unsplash.com/@vukburga"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
