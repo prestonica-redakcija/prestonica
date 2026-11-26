@@ -32,17 +32,24 @@
  ],
  "importance": 4,
  "published": "2026-11-26T09:07:56.153268+00:00",
- "updated": "2026-11-26T09:07:56.153268+00:00",
+ "updated": "2026-11-26T09:40:25.804528+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10173349/andrija-draskovic-oslobodjen-optuzbi-za-ubistvo",
    "title": "ANDRIJA DRAŠKOVIĆ OSLOBOĐEN OPTUŽBI ZA UBISTVO U BELGIJI: Dva puta osuđivan na doživotnu robiju, sud je sada doneo konačnu odluku",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301131/andrija-draskovic-pravosnazno-osloboden-za-ubistvo-envera-hadrija/vest",
+   "title": "Andrija Drašković pravosnažno oslobođen za ubistvo Envera Hadrija",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "ANDRIJA DRAŠKOVIĆ OSLOBOĐEN OPTUŽBI ZA UBISTVO U BELGIJI: Dva puta osuđivan na doživotnu robiju, sud je sada doneo konačnu odluku"
+  "ANDRIJA DRAŠKOVIĆ OSLOBOĐEN OPTUŽBI ZA UBISTVO U BELGIJI: Dva puta osuđivan na doživotnu robiju, sud je sada doneo konačnu odluku",
+  "Andrija Drašković pravosnažno oslobođen za ubistvo Envera Hadrija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "alt": "a 3d image of a judge's hammer on a black background",
   "link": "https://unsplash.com/@choys_"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

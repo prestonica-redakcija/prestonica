@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T09:25:09.026225+00:00",
- "updated": "2026-11-26T09:25:09.026225+00:00",
+ "updated": "2026-11-26T09:40:25.804528+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,32 @@
    "url": "https://insajder.net/prenosimo/preminuo-ivan-torov-novinar-urednik-i-jedan-od-osnivaca-dnevnog-lista-danas",
    "title": "Preminuo Ivan Torov, novinar, urednik i jedan od osnivača dnevnog lista \"Danas\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/umro-ivan-torov/",
+   "title": "Preminuo Ivan Torov, jedan od osnivača lista Danas",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4440135-umro-ivan-torov",
+   "title": "Umro Ivan Torov",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/preminuo-ivan-torov-istaknuti-kolumnista-novinar-i-jedan-od-osnivaca-dnevnog-lista-danas/",
+   "title": "Preminuo Ivan Torov, istaknuti kolumnista, novinar i jedan od osnivača dnevnog lista Danas",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Preminuo Ivan Torov, jedan od osnivača dnevnog lista \"Danas\"",
-  "Preminuo Ivan Torov, novinar, urednik i jedan od osnivača dnevnog lista \"Danas\""
+  "Preminuo Ivan Torov, novinar, urednik i jedan od osnivača dnevnog lista \"Danas\"",
+  "Preminuo Ivan Torov, jedan od osnivača lista Danas",
+  "Umro Ivan Torov",
+  "Preminuo Ivan Torov, istaknuti kolumnista, novinar i jedan od osnivača dnevnog lista Danas"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +81,7 @@
   "local": false,
   "alt": "pile of newspapers",
   "link": "https://unsplash.com/@timmossholder"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

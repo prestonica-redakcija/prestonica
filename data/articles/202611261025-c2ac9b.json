@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T09:25:09.026225+00:00",
- "updated": "2026-11-26T09:25:09.026225+00:00",
+ "updated": "2026-11-26T09:40:25.804528+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -45,11 +45,18 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10173347/rhmz-upozorava-ledena-kisa-i-olujni-vetrovi-evo-gde-je-minus",
    "title": "RHMZ izdao hitno upozorenje za ove krajeve: Pada ledena kiša, evo gde je jutros minus u Srbiji",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301123/rhmz-upozorava-na-ledenu-kisu-na-istoku-srbije-na-snazi-narandzasti-meteo-alarm/vest",
+   "title": "RHMZ upozorava na ledenu kišu na istoku Srbije, na snazi narandžasti meteo-alarm",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "RHMZ upozorava na ledenu kišu na istoku Srbije, na snazi narandžasti meteo-alarm",
-  "RHMZ izdao hitno upozorenje za ove krajeve: Pada ledena kiša, evo gde je jutros minus u Srbiji"
+  "RHMZ izdao hitno upozorenje za ove krajeve: Pada ledena kiša, evo gde je jutros minus u Srbiji",
+  "RHMZ upozorava na ledenu kišu na istoku Srbije, na snazi narandžasti meteo-alarm"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "local": false,
   "alt": "a puddle of water on a brick sidewalk",
   "link": "https://unsplash.com/@seiya_maeda"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

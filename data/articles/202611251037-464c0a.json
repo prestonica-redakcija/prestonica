@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-25T09:37:03.545768+00:00",
- "updated": "2026-11-26T09:25:09.026225+00:00",
+ "updated": "2026-11-26T09:40:25.804528+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -47,12 +47,19 @@
    "url": "https://www.tanjug.rs/ekonomija/svet/301130/evropske-berze-rastu-nakon-dvodnevnog-pada-jaca-tehnoloski-sektor-nafta-brent-94-dolara/vest",
    "title": "Evropske berze rastu nakon dvodnevnog pada, jača tehnološki sektor, nafta Brent 94 dolara",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4440103-cena-nafte-nastavlja-da-pada-brent-pao-na-94-dolara",
+   "title": "Cena nafte nastavlja da pada: Brent pao na 94 dolara",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "NAFTA I ZLATO U PADU, ŠTA JE SA GASOM? Potres na berzama uoči ključnih brojki iz SAD",
   "EVROPSKE BERZE PONOVO U PLUSU: Jača tehnološki sektor, nafta Brent iznad 94 dolara",
-  "Evropske berze rastu nakon dvodnevnog pada, jača tehnološki sektor, nafta Brent 94 dolara"
+  "Evropske berze rastu nakon dvodnevnog pada, jača tehnološki sektor, nafta Brent 94 dolara",
+  "Cena nafte nastavlja da pada: Brent pao na 94 dolara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "alt": "graphical user interface, application",
   "link": "https://unsplash.com/@polarmermaid"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
