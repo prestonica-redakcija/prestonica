@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-26T14:40:27.845598+00:00",
+ "updated": "2026-11-26T14:55:18.186613+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -231,6 +231,36 @@
    "url": "https://www.novosti.rs/vesti/politika/1674873/tuzilastvo-predlozilo-pritvor-vucicevica-odbrana-trazi-pustanje-slobodu-ispred-palate-pravde-odrzan-skup-podrske-video",
    "title": "TUŽILAŠTVO PREDLOŽILO PRITVOR ZA VUČIĆEVIĆA: Odbrana traži puštanje na slobodu - ispred Palate pravde održan skup podrške (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/dragan-vucicevic-izneo-odbranu-tuzilastvo-trazi-da-mu-se-odredi-pritvor/",
+   "title": "Dragan Vučićević izneo odbranu u tužilaštvu, traže da mu se odredi pritvor",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674873/tuzilastvo-trazi-pritvor-30-dana-vucicevica",
+   "title": "Tužilaštvo traži pritvor do 30 dana za Vučićevića",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4440407-tuzilastvo-trazi-pritvor-do-30-dana-za-dragana-j-vucicevica",
+   "title": "Tužilaštvo traži pritvor do 30 dana za Dragana J. Vučićevića",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/tuzilastvo-predlozilo-pritvor-za-dragana-j-vucicevica/",
+   "title": "Tužilaštvo predložilo pritvor za Dragana J. Vučićevića",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/tuzilastvo-trazi-pritvor-za-vucicevica-odluka-na-sudu/",
+   "title": "Tužilaštvo traži pritvor za Vučićevića, odluka na sudu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -266,7 +296,12 @@
   "Saslušan Vučićević; Odbrana traži odbacivanje optužbi, čeka se odluka suda",
   "\"Više od dva sata držan u prostoriji, a dokaza nema!\" Prve informcije nakon saslušanja Vučićevića - Veskov otkrila šta se dešavalo unutar Palate pravde",
   "Saslušan Dragan J. Vučićević, čeka se odluka tužioca",
-  "TUŽILAŠTVO PREDLOŽILO PRITVOR ZA VUČIĆEVIĆA: Odbrana traži puštanje na slobodu - ispred Palate pravde održan skup podrške (VIDEO)"
+  "TUŽILAŠTVO PREDLOŽILO PRITVOR ZA VUČIĆEVIĆA: Odbrana traži puštanje na slobodu - ispred Palate pravde održan skup podrške (VIDEO)",
+  "Dragan Vučićević izneo odbranu u tužilaštvu, traže da mu se odredi pritvor",
+  "Tužilaštvo traži pritvor do 30 dana za Vučićevića",
+  "Tužilaštvo traži pritvor do 30 dana za Dragana J. Vučićevića",
+  "Tužilaštvo predložilo pritvor za Dragana J. Vučićevića",
+  "Tužilaštvo traži pritvor za Vučićevića, odluka na sudu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -279,7 +314,7 @@
   "alt": "Car entering a brightly lit tunnel at night",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-26T14:40:27.845598+00:00",
  "verzija": 7

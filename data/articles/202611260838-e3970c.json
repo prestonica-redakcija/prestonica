@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T07:38:26.049111+00:00",
- "updated": "2026-11-26T14:25:21.015125+00:00",
+ "updated": "2026-11-26T14:55:18.186613+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -44,12 +44,26 @@
    "url": "https://www.b92.net/biz/srbija/vesti/288332/srbija-prevremeno-otkupila-drzavne-obveznice-vredne-79-milijardi-dinara/vest",
    "title": "Srbija prevremeno otkupila državne obveznice vredne 7,9 milijardi dinara",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/301243/banka-postanska-stedionica-ucestvovala-na-trecoj-aukciji-otkupa-drzavnih-obveznica-jacamo-likvidnost/vest",
+   "title": "Banka Poštanska štedionica učestvovala na trećoj aukciji otkupa državnih obveznica: Jačamo likvidnost",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/banka-postanska-stedionica-ucestvovala-na-trecoj-aukciji-otkupa-drzavnih-obveznica-jacamo-likvidnost",
+   "title": "Banka Poštanska štedionica učestvovala na trećoj aukciji otkupa državnih obveznica: Jačamo likvidnost",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Danas treća aukcija prevremenog otkupa državnih obveznica, planirani iznos 10 milijardi dinara",
   "Republika Srbija otkupila petogodišnje državne obveznice",
-  "Srbija prevremeno otkupila državne obveznice vredne 7,9 milijardi dinara"
+  "Srbija prevremeno otkupila državne obveznice vredne 7,9 milijardi dinara",
+  "Banka Poštanska štedionica učestvovala na trećoj aukciji otkupa državnih obveznica: Jačamo likvidnost",
+  "Banka Poštanska štedionica učestvovala na trećoj aukciji otkupa državnih obveznica: Jačamo likvidnost"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +76,6 @@
   "alt": "white concrete building under sky",
   "link": "https://unsplash.com/@katiemoum"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

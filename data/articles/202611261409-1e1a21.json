@@ -29,7 +29,7 @@
  ],
  "importance": 7,
  "published": "2026-11-26T13:09:30.305892+00:00",
- "updated": "2026-11-26T14:25:21.015125+00:00",
+ "updated": "2026-11-26T14:55:18.186613+00:00",
  "sources": [
   {
    "name": "N1",
@@ -96,6 +96,18 @@
    "url": "https://www.euronews.rs/srbija/politika/253823/ds-ce-podrzati-predsednickog-kandidata-studentske-liste/vest",
    "title": "Demokratska stranka će podržati predsedničkog kandidata Studentske liste",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/studentski-pokret-uskoro-otkriva-ime-kandidata-za-predsednika-srbije",
+   "title": "Studentski pokret uskoro otkriva ime kandidata za predsednika Srbije",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10173875/kreni-promeni-podrzace-kandidata-studentskog-pokreta-na-predsednickim-izborima",
+   "title": "Pokret Kreni-Promeni doneo odluku o predsedničkim izborima: Podržaće kandidata studenata",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -109,7 +121,9 @@
   "Studentska lista u petak otkriva kandidata za predsednika?",
   "Otkriveno: Evo kada Studentska lista otkriva ime kandidata za predsednika Srbije",
   "POZNATO KADA STUDENTSKA LISTA OTKRIVA SVOG PREDSEDNIČKOG KANDIDATA: Počinje kampanja za decembarske izbore",
-  "Demokratska stranka će podržati predsedničkog kandidata Studentske liste"
+  "Demokratska stranka će podržati predsedničkog kandidata Studentske liste",
+  "Studentski pokret uskoro otkriva ime kandidata za predsednika Srbije",
+  "Pokret Kreni-Promeni doneo odluku o predsedničkim izborima: Podržaće kandidata studenata"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -122,7 +136,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Za_pravednu_Srbiju_%E2%80%93_Demokratska_stranka_1.jpg",
   "alt": "DS i Kreni-promeni podržavaju kandidata Studentskog pokreta na predsedničkim izborima"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-26T14:10:27.685416+00:00",
  "verzija": 2

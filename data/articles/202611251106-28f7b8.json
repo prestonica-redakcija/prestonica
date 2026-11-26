@@ -25,17 +25,24 @@
  ],
  "importance": 6,
  "published": "2026-11-25T10:06:42.291972+00:00",
- "updated": "2026-11-25T10:06:42.291972+00:00",
+ "updated": "2026-11-26T14:55:18.186613+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/ekonomija/vesti/1674536/isplata-novembarskih-penzija-srbiji-evo-kada-pocinje-prvi-dobiti-novac",
    "title": "ISPLATA NOVEMBARSKIH PENZIJA U SRBIJI: Evo kada počinje i ko će prvi dobiti novac",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4440401-pio-fond-objavio-raspored-isplata-evo-kada-stizu-penzije-i-ko-prvi-dobija-novac",
+   "title": "PIO fond objavio raspored isplata: Evo kada stižu penzije i ko prvi dobija novac",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "ISPLATA NOVEMBARSKIH PENZIJA U SRBIJI: Evo kada počinje i ko će prvi dobiti novac"
+  "ISPLATA NOVEMBARSKIH PENZIJA U SRBIJI: Evo kada počinje i ko će prvi dobiti novac",
+  "PIO fond objavio raspored isplata: Evo kada stižu penzije i ko prvi dobija novac"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "local": false,
   "alt": "A pile of money sitting on top of a table",
   "link": "https://unsplash.com/@ttepavac"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

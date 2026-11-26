@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T09:40:25.804528+00:00",
- "updated": "2026-11-26T10:43:27.881389+00:00",
+ "updated": "2026-11-26T14:55:18.186613+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -90,6 +90,12 @@
    "url": "https://www.telegraf.rs/4440174-stanko-fustar-izglasan-za-predsednika-administrativnog-odbora",
    "title": "Stanko Fuštar izglasan za predsednika Administrativnog odbora",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/najave-emisija/novi-dan-gost-stanko-fustar/",
+   "title": "Novi dan: Gost Stanko Fuštar",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -102,7 +108,8 @@
   "Ko je Stanko Fuštar? Izabran je za predsednika odbora koji odlučuje i o platama poslanika",
   "Stanko Fuštar izabran za predsednika Odbora za administrativno-budžetska i mandatno-imunitetska pitanja",
   "ODRŽANA PRVA SEDNICA: Stanko Fuštar izabran za predsednika Odbora za administrativno-budžetska i mandatno-imunitetska pitanja",
-  "Stanko Fuštar izglasan za predsednika Administrativnog odbora"
+  "Stanko Fuštar izglasan za predsednika Administrativnog odbora",
+  "Novi dan: Gost Stanko Fuštar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -115,6 +122,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Stanko Fuštar izabran za predsednika Odbora za administrativno-budžetska pitanja"
  },
- "novo_od_pisanja": 7,
- "boost": 1.56
+ "novo_od_pisanja": 8,
+ "boost": 1.6
 }

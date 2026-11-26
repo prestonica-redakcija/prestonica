@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T02:24:11.163398+00:00",
- "updated": "2026-11-26T14:10:27.685416+00:00",
+ "updated": "2026-11-26T14:55:18.186613+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -46,11 +46,18 @@
    "url": "https://nova.rs/vesti/svet/jansa-sumnja-da-je-marta-kos-bila-jugoslovenska-spijunka-od-beograda-trazi-otvaranje-tajnih-arhiva/",
    "title": "Janša sumnja da je Marta Kos bila jugoslovenska špijunka: Od Beograda traži otvaranje tajnih arhiva",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288355/jansa-trazi-od-beograda-otvaranje-tajnih-arhiva-sumnja-da-je-marta-kos-bila-jugoslovenska-spijunka/vest",
+   "title": "Marta Kos bila jugoslovenska špijunka?; Traži se da Beograd otvori tajne arhive",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "SLOVENIJA POSTAVILA NOVI ZAHTEV SRBIJI! Traže tajne arhive iz Beograda, u centru priče Marta Kos",
-  "Janša sumnja da je Marta Kos bila jugoslovenska špijunka: Od Beograda traži otvaranje tajnih arhiva"
+  "Janša sumnja da je Marta Kos bila jugoslovenska špijunka: Od Beograda traži otvaranje tajnih arhiva",
+  "Marta Kos bila jugoslovenska špijunka?; Traži se da Beograd otvori tajne arhive"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +70,6 @@
   "alt": "blue and yellow flag on pole",
   "link": "https://unsplash.com/@alexandrelallemand"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -36,7 +36,7 @@
  ],
  "importance": 6,
  "published": "2026-11-25T07:07:45.365426+00:00",
- "updated": "2026-11-25T23:02:14.184226+00:00",
+ "updated": "2026-11-26T14:55:18.186613+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -55,12 +55,19 @@
    "url": "https://www.danas.rs/svet/igor-dodik-najavio-povecanje-plata-i-smene-u-javnim-preduzecima-u-republici-srpskoj/",
    "title": "Šta je najavio Igor Dodik?",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/igor-dodik-kritikovao-opoziciju-zbog-nedolaska-na-konsultacije/",
+   "title": "Igor Dodik kritikovao opoziciju zbog nedolaska na konsultacije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Republika Srpska kao porodična firma Dodika?",
   "Mandatar Igor Dodik nastavlja konsultacije za sastav nove Vlade Republike Srpske",
-  "Šta je najavio Igor Dodik?"
+  "Šta je najavio Igor Dodik?",
+  "Igor Dodik kritikovao opoziciju zbog nedolaska na konsultacije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Ferhat-Pasha_mosque_arabesque_(Banja_Luka,_Republika_Srpska).jpg",
   "alt": "Igor Dodik nastavlja konsultacije o novoj vladi Srpske, opozicija kritikuje izbor"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

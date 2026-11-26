@@ -1,0 +1,61 @@
+{
+ "id": "202611261555-ba8a59",
+ "slug": "univerzitet-u-beogradu-zavrsio-projekat-tesla-ai-alati-za-srpski-jezik",
+ "kind": "vest",
+ "section": "drustvo",
+ "headline": "Univerzitet u Beogradu završio projekat TESLA: AI alati za srpski jezik",
+ "lead": "Tim Univerziteta u Beogradu saopštio je da završava trogodišnji projekat TESLA, u kome su razvijeni alati veštačke inteligencije prilagođeni srpskom jeziku. Rezultati su otvoreno dostupni istraživačima, nastavnicima i programerima.",
+ "body": [
+  "Kako prenosi Telegraf Biznis, uz Tanjug, projekat TESLA (Text Embeddings Serbian Language Applications) finansira Fond za nauku Srbije. Prema saopštenju tima, razvijeni su alati koji razumeju srpski jezik, čitaju ga i pišu na njemu.",
+  "Kao najvažniji rezultat navodi se portal koji objedinjuje razvijene resurse, modele i alate za analizu, obeležavanje, istraživanje i generisanje teksta. Autori ističu da su im podjednako važni jezički modeli i pažljivo pripremljene zbirke tekstova na kojima se modeli obučavaju.",
+  "Projekat je realizovan od 2023. do 2026. godine. Sproveo ga je tim Univerziteta u Beogradu, Rudarsko-geološkog fakulteta i Filološkog fakulteta, uz podršku Društva za jezičke resurse i tehnologije JeRTeh. Finansiran je iz programa PRIZMA Fonda za nauku Republike Srbije.",
+  "Rezultati su dostupni preko platformi Hugging Face i GitHub, kao i preko projektnog portala na kome se modeli mogu isprobati. U saopštenju se navodi da su već predstavljeni u naučnim radovima, na konferencijama i radionicama.",
+  "Autori tvrde da TESLA daje srpskom jeziku sopstvenu osnovu na kojoj domaći istraživači, nastavnici, institucije i kompanije mogu graditi alate, umesto da se oslanjaju na rešenja pravljena za druge jezike. Kako se navodi, to nije samo tehnološko već i kulturno pitanje.",
+  "\"Nadamo se da će kolege naše rezultate koristiti u istraživanju i nastavi i da će na njima graditi svoja rešenja\", navedeno je u saopštenju tima."
+ ],
+ "tags": [
+  "veštačka inteligencija",
+  "srpski jezik",
+  "Univerzitet u Beogradu",
+  "Fond za nauku",
+  "TESLA",
+  "jezičke tehnologije"
+ ],
+ "people": [],
+ "places": [
+  "Beograd",
+  "Srbija"
+ ],
+ "importance": 4,
+ "published": "2026-11-26T14:55:18.186613+00:00",
+ "updated": "2026-11-26T14:55:18.186613+00:00",
+ "sources": [
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/301247/na-univerzitetu-u-beogradu-zavrsen-projekat-tesla-razvijeni-alati-ai-koji-razumeju-srpski/vest",
+   "title": "Na Univerzitetu u Beogradu završen projekat TESLA ,razvijeni alati AI koji razumeju srpski",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/tech-biz/4440398-srbija-napravila-vazan-korak-u-ai-revoluciji-nasi-naucnici-razvili-alate-koji-razumeju-srpski-jezik",
+   "title": "Srbija napravila važan korak u AI revoluciji: Naši naučnici razvili alate koji razumeju srpski jezik",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Na Univerzitetu u Beogradu završen projekat TESLA ,razvijeni alati AI koji razumeju srpski",
+  "Srbija napravila važan korak u AI revoluciji: Naši naučnici razvili alate koji razumeju srpski jezik"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 3.324,
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Stara_kompjuterska_kolekcija_11%2C_Matemati%C4%8Dki_fakultet%2C_Univerzitet_u_Beogradu.jpg/1920px-Stara_kompjuterska_kolekcija_11%2C_Matemati%C4%8Dki_fakultet%2C_Univerzitet_u_Beogradu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Wikimedia Commons / Djordje Stakic / CC BY 3.0 rs",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:Stara_kompjuterska_kolekcija_11,_Matemati%C4%8Dki_fakultet,_Univerzitet_u_Beogradu.jpg",
+  "alt": "Univerzitet u Beogradu završio projekat TESLA: AI alati za srpski jezik"
+ }
+}

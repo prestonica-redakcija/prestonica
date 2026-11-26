@@ -36,17 +36,31 @@
  ],
  "importance": 5,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-26T07:53:18.497760+00:00",
+ "updated": "2026-11-26T14:55:18.186613+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/info/region/288187/oricu-i-ostalim-uhapsenima-u-akciji-emisar-bice-predlozen-pritvor/vest",
    "title": "Traži se jednomesečni pritvor za Nasera Orića i ostale uhapšene",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/region/bosna-i-hercegovina/10173854/nikolina-sljivic-naser-oric-banjaluka-rocisterosicte-nikolini-sljivic-i-naseru-oricu-u-banjaluci",
+   "title": "ZAVRŠENO ROČIŠTE ORIĆU I ŠLJIVIĆ! Advokat uhapšene bivše poslanice: \"Ona je samo zamoljena da pomogne u smirivanju strasti između Ždrale i Pandurevića\"",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/zavrseno-rociste-naseru-oricu-i-ostalima-tuzilastvo-zatrazilo-jednomesecni-pritvor-oglasili-se-advokati/",
+   "title": "Završeno ročište Naseru Oriću i ostalima, tužilaštvo zatražilo jednomesečni pritvor, oglasili se advokati",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Traži se jednomesečni pritvor za Nasera Orića i ostale uhapšene"
+  "Traži se jednomesečni pritvor za Nasera Orića i ostale uhapšene",
+  "ZAVRŠENO ROČIŠTE ORIĆU I ŠLJIVIĆ! Advokat uhapšene bivše poslanice: \"Ona je samo zamoljena da pomogne u smirivanju strasti između Ždrale i Pandurevića\"",
+  "Završeno ročište Naseru Oriću i ostalima, tužilaštvo zatražilo jednomesečni pritvor, oglasili se advokati"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +72,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Ferhat-Pasha_mosque_arabesque_(Banja_Luka,_Republika_Srpska).jpg",
   "alt": "Tužilaštvo RS traži mesec dana pritvora za Nasera Orića i ostale uhapšene u akciji Emisar"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

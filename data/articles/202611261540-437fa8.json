@@ -27,16 +27,23 @@
  ],
  "importance": 6,
  "published": "2026-11-26T14:40:27.845598+00:00",
- "updated": "2026-11-26T14:40:27.845598+00:00",
+ "updated": "2026-11-26T14:55:18.186613+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/rasuo-potrebno-mnogo-rada-na-sredjivanju-birackog-spiska-do-predsednickih-izbora-premalo-vremena-za-znacajnije-promene/",
    "title": "Rašuo: Potrebno mnogo rada na sređivanju biračkog spiska, do predsedničkih izbora - premalo vremena za značajnije promene",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/rasuo-potrebno-mnogo-rada-na-sredjivanju-birackog-spiska-do-predsednickih-izbora-premalo-vremena-za-znacajnije-promene/",
+   "title": "Rašuo: Potrebno mnogo rada na sređivanju biračkog spiska, do predsedničkih izbora - premalo vremena za značajnije promene",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Rašuo: Potrebno mnogo rada na sređivanju biračkog spiska, do predsedničkih izbora - premalo vremena za značajnije promene",
   "Rašuo: Potrebno mnogo rada na sređivanju biračkog spiska, do predsedničkih izbora - premalo vremena za značajnije promene"
  ],
  "author": "Redakcija Prestonice",
@@ -49,5 +56,7 @@
   "local": false,
   "alt": "Voted printed papers on white surface",
   "link": "https://unsplash.com/@element5digital"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

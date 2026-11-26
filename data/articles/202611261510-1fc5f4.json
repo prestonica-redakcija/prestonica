@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T14:10:27.685416+00:00",
- "updated": "2026-11-26T14:10:27.685416+00:00",
+ "updated": "2026-11-26T14:55:18.186613+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -45,12 +45,19 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4440344-pozar-u-bunuskom-cifluku-vatra-progutala-pola-porodicne-kuce-zena-67-nastradala-u-dimu",
    "title": "Požar u Bunuškom Čifluku: Vatra progutala pola porodične kuće, žena (67) nastradala u dimu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301248/u-pozaru-u-bunuskom-cifluku-kod-leskovca-nastradala-zena/vest",
+   "title": "U požaru u Bunuškom Čifluku kod Leskovca nastradala žena",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Žena (67) stradala u požaru u selu kod Leskovca",
   "TRAGEDIJA U SELU KOD LESKOVCA: Žena stradala u požaru u Bunuškom Čifluku",
-  "Požar u Bunuškom Čifluku: Vatra progutala pola porodične kuće, žena (67) nastradala u dimu"
+  "Požar u Bunuškom Čifluku: Vatra progutala pola porodične kuće, žena (67) nastradala u dimu",
+  "U požaru u Bunuškom Čifluku kod Leskovca nastradala žena"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "local": false,
   "alt": "2 men in black helmet standing near fire",
   "link": "https://unsplash.com/@doso7"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

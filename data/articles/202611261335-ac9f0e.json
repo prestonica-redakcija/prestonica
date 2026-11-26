@@ -26,17 +26,24 @@
  ],
  "importance": 5,
  "published": "2026-11-26T12:35:38.207926+00:00",
- "updated": "2026-11-26T12:35:38.207926+00:00",
+ "updated": "2026-11-26T14:55:18.186613+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/srbija/politika/253811/skupstina-tzv-kosova-zastave-ovk-na-mestima-srpske-liste/vest",
    "title": "Albanska zastava i zastava tzv. OVK postavljene pa uklonjene sa poslaničkih mesta Srpske liste u skupštini tzv. Kosova",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4440382-sta-se-desava-u-skupstini-tzv-kosova-evo-cime-se-kite-albanski-poslanici",
+   "title": "Šta se dešava u tzv. Skupštini Kosova: Evo čime se kite albanski poslanici",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Albanska zastava i zastava tzv. OVK postavljene pa uklonjene sa poslaničkih mesta Srpske liste u skupštini tzv. Kosova"
+  "Albanska zastava i zastava tzv. OVK postavljene pa uklonjene sa poslaničkih mesta Srpske liste u skupštini tzv. Kosova",
+  "Šta se dešava u tzv. Skupštini Kosova: Evo čime se kite albanski poslanici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "alt": "Modern parliamentary chamber with tiered seating",
   "link": "https://unsplash.com/@nico_ruge"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
