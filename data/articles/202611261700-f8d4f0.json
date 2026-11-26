@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T16:00:17.624373+00:00",
- "updated": "2026-11-26T16:34:09.007546+00:00",
+ "updated": "2026-11-26T17:20:53.866188+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,18 @@
    "url": "https://insajder.net/prenosimo/imenovan-vrsilac-duznosti-upravnika-narodnog-pozorista-u-subotici",
    "title": "Imenovan vršilac dužnosti upravnika Narodnog pozorišta u Subotici",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/kultura/v-d-upravnika-pozorista-u-subotici/",
+   "title": "Imenovan v.d. upravnika Narodnog pozorišta u Subotici",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Imenovan vršilac dužnosti upravnika Narodnog pozorišta u Subotici",
-  "Imenovan vršilac dužnosti upravnika Narodnog pozorišta u Subotici"
+  "Imenovan vršilac dužnosti upravnika Narodnog pozorišta u Subotici",
+  "Imenovan v.d. upravnika Narodnog pozorišta u Subotici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Narodno_pozori%C5%A1te_subotica.jpg",
   "alt": "Glumac Mihajlo Nestorović vršilac dužnosti upravnika Narodnog pozorišta u Subotici"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

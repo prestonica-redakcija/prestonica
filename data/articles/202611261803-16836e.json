@@ -33,17 +33,24 @@
  ],
  "importance": 4,
  "published": "2026-11-26T17:03:44.772604+00:00",
- "updated": "2026-11-26T17:03:44.772604+00:00",
+ "updated": "2026-11-26T17:20:53.866188+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/301299/usvojen-izvestaj-o-izborima-za-savete-albanske-bunjevacke-i-madarske-manjine/vest",
    "title": "Usvojen izveštaj o izborima za savete albanske, bunjevačke i mađarske manjine",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/rik-utvrdjeni-rezultati-izbora-za-nacionalne-savete-albanske-madjarske-i-bunjevacke-manjine/",
+   "title": "RIK: Utvrđeni rezultati izbora za nacionalne savete albanske, mađarske i bunjevačke manjine",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Usvojen izveštaj o izborima za savete albanske, bunjevačke i mađarske manjine"
+  "Usvojen izveštaj o izborima za savete albanske, bunjevačke i mađarske manjine",
+  "RIK: Utvrđeni rezultati izbora za nacionalne savete albanske, mađarske i bunjevačke manjine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "RIK usvojio izveštaj o izborima za nacionalne savete albanske, bunjevačke i mađarske manjine"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

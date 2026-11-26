@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T08:08:30.221609+00:00",
- "updated": "2026-11-26T08:23:02.641089+00:00",
+ "updated": "2026-11-26T17:20:53.866188+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -52,12 +52,19 @@
    "url": "https://n1info.rs/svet/gradonacelnik-kijeva-u-ruskom-napadu-balistickim-raketama-cetiri-osobe-ranjene/",
    "title": "Gradonačelnik Kijeva: U ruskom napadu balističkim raketama četiri osobe ranjene",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301305/jedna-osoba-poginula-cetiri-ranjene-u-napadu-ruskih-snaga-na-zaporozje/vest",
+   "title": "Jedna osoba poginula, četiri ranjene u napadu ruskih snaga na Zaporožje",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Rusija ponovo napala Kijev balističkim raketama: Pogođeni tržni centar i dve zgrade",
   "BALISTIČKE RAKETE POGODILE TRŽNI CENTAR U KIJEVU! KLIČKO: GRAD JE NAPADNUT! Žestok ruski udar nakon što se Zelenski žalio da Trampov ministar ne da Patriote",
-  "Gradonačelnik Kijeva: U ruskom napadu balističkim raketama četiri osobe ranjene"
+  "Gradonačelnik Kijeva: U ruskom napadu balističkim raketama četiri osobe ranjene",
+  "Jedna osoba poginula, četiri ranjene u napadu ruskih snaga na Zaporožje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,6 @@
   "osoba": "Vitalij Kličko",
   "alt": "Ruski balistički napad na Kijev: pogođen tržni centar, ranjeno najmanje sedam osoba"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

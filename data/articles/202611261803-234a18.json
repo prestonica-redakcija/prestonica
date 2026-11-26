@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T17:03:44.772604+00:00",
- "updated": "2026-11-26T17:03:44.772604+00:00",
+ "updated": "2026-11-26T17:20:53.866188+00:00",
  "sources": [
   {
    "name": "N1",
@@ -47,12 +47,26 @@
    "url": "https://www.kurir.rs/crna-hronika/10174038/odluka-o-nadleznosti-u-predmetima-hotel-jugoslavija-i-belgrade-eye",
    "title": "TREĆE OSNOVNO JAVNO TUŽILAŠTVO: Primili smo rešenje Apelacionog javnog tužilaštva povodom predmeta „Hotel Jugoslavija“ i „Belgrade Eye“",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/288406/slucajevi-hotel-jugoslavija-i-belgrade-eye-vraceni-trecem-osnovnom-tuzilastvu/vest",
+   "title": "Slučajevi \"Hotel Jugoslavija\" i \"Belgrade Eye\" vraćeni Trećem osnovnom tužilaštvu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4440507-apelaciono-tuzilastvo-ukinulo-odluku-u-slucajevima-hotel-jugoslavija-i-belgrade-eye",
+   "title": "Apelaciono tužilaštvo ukinulo odluku u slučajevima Hotel Jugoslavija i Belgrade Eye",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Tužilaštvo: Treće OJT ipak nadležno za postupanje u predmetima \"Hotel Jugoslavija\" i \"Belgrade Eye\"",
   "Apelacija vratila predmete „Hotel Jugoslavija“ i „Belgrade Eye“ Trećem osnovnom tužilaštvu",
-  "TREĆE OSNOVNO JAVNO TUŽILAŠTVO: Primili smo rešenje Apelacionog javnog tužilaštva povodom predmeta „Hotel Jugoslavija“ i „Belgrade Eye“"
+  "TREĆE OSNOVNO JAVNO TUŽILAŠTVO: Primili smo rešenje Apelacionog javnog tužilaštva povodom predmeta „Hotel Jugoslavija“ i „Belgrade Eye“",
+  "Slučajevi \"Hotel Jugoslavija\" i \"Belgrade Eye\" vraćeni Trećem osnovnom tužilaštvu",
+  "Apelaciono tužilaštvo ukinulo odluku u slučajevima Hotel Jugoslavija i Belgrade Eye"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +78,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Hotel_Jugoslavija_(2020)_03.jpg",
   "alt": "Apelaciono tužilaštvo: Treće osnovno tužilaštvo nadležno za predmete „Hotel Jugoslavija“ i „Belgrade Eye“"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

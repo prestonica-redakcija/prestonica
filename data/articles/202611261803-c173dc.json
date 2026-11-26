@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T17:03:44.772604+00:00",
- "updated": "2026-11-26T17:03:44.772604+00:00",
+ "updated": "2026-11-26T17:20:53.866188+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.kurir.rs/crna-hronika/10174047/zaplena-oruzja-i-droge-kod-maloletnika-u-beogradu",
    "title": "SNAJPER SA PRIGUŠIVAČEM, BOMBE I VIŠE OD 100 KILOGRAMA DROGE Šok zaplena u stanu koji je koristio maloletnik u Beogradu: Policija saopštila detalje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4440500-drama-u-beogradu-kod-maloletnika-pronadjen-snajper-bombe-i-oko-100-kg-psihoaktivnih-supstanci",
+   "title": "Drama u Beogradu! Kod maloletnika pronađen snajper, bombe i oko 100 kg psihoaktivnih supstanci",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "MUP: Uhapšen maloletnik u Beogradu, pronađen snajper, bombe, oko 100 kilograma marihuane",
-  "SNAJPER SA PRIGUŠIVAČEM, BOMBE I VIŠE OD 100 KILOGRAMA DROGE Šok zaplena u stanu koji je koristio maloletnik u Beogradu: Policija saopštila detalje"
+  "SNAJPER SA PRIGUŠIVAČEM, BOMBE I VIŠE OD 100 KILOGRAMA DROGE Šok zaplena u stanu koji je koristio maloletnik u Beogradu: Policija saopštila detalje",
+  "Drama u Beogradu! Kod maloletnika pronađen snajper, bombe i oko 100 kg psihoaktivnih supstanci"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "black semi automatic airsoft pistol on white textile",
   "link": "https://unsplash.com/@maxzzerzz"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -25,7 +25,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T12:05:48.172440+00:00",
- "updated": "2026-11-26T16:00:17.624373+00:00",
+ "updated": "2026-11-26T17:20:53.866188+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -38,11 +38,18 @@
    "url": "https://nova.rs/vesti/biznis/api-banka-neprovereni-navodi-o-sankcijama-protiv-nas/",
    "title": "API banka: Neprovereni navodi o sankcijama protiv nas",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/api-banka-povodom-navoda-o-sankcijama-eu-poslujemo-u-skladu-sa-propisima-srbije-i-ne-pruzamo-usluge-povezane-sa-kripto-imovinom/",
+   "title": "API banka povodom navoda o sankcijama EU: Poslujemo u skladu sa propisima Srbije i ne pružamo usluge povezane sa kripto imovinom",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "API banka reaguje povodom navoda o sankcijama EU: Ne pružamo usluge povezane sa kripto imovinom",
-  "API banka: Neprovereni navodi o sankcijama protiv nas"
+  "API banka: Neprovereni navodi o sankcijama protiv nas",
+  "API banka povodom navoda o sankcijama EU: Poslujemo u skladu sa propisima Srbije i ne pružamo usluge povezane sa kripto imovinom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,6 +61,6 @@
   "local": true,
   "alt": "API banka odbacuje navode o sankcijama EU: ne pružamo usluge povezane sa kripto imovinom"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
