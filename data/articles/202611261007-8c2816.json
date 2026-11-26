@@ -34,17 +34,24 @@
  ],
  "importance": 5,
  "published": "2026-11-26T09:07:56.153268+00:00",
- "updated": "2026-11-26T09:07:56.153268+00:00",
+ "updated": "2026-11-26T12:20:57.174212+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1674849/srpske-zrtve-izbrisane-vukovarske-rezolucije-hrvatska-iskoristila-trenutak-udarila-srbiju-koja-nema-svoje-predstavnike",
    "title": "SRPSKE ŽRTVE IZBRISANE IZ VUKOVARSKE REZOLUCIJE: Hrvatska iskoristila trenutak i udarila na Srbiju koja nema svoje predstavnike",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674965/vukovarska-rezolucija-usvojena-srbiji-ispostavljen-novi-spisak-zahteva",
+   "title": "VUKOVARSKA REZOLUCIJA USVOJENA U EP: Srbiji ispostavljen novi spisak zahteva",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "SRPSKE ŽRTVE IZBRISANE IZ VUKOVARSKE REZOLUCIJE: Hrvatska iskoristila trenutak i udarila na Srbiju koja nema svoje predstavnike"
+  "SRPSKE ŽRTVE IZBRISANE IZ VUKOVARSKE REZOLUCIJE: Hrvatska iskoristila trenutak i udarila na Srbiju koja nema svoje predstavnike",
+  "VUKOVARSKA REZOLUCIJA USVOJENA U EP: Srbiji ispostavljen novi spisak zahteva"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Savo_Strbac-mc.rs.jpg",
   "osoba": "Savo Štrbac",
   "alt": "Štrbac: rezolucija o Vukovaru ne donosi nove zahteve Srbiji, a izostavlja srpske žrtve"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

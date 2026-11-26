@@ -30,17 +30,24 @@
  ],
  "importance": 9,
  "published": "2026-11-26T11:48:13.410537+00:00",
- "updated": "2026-11-26T11:48:13.410537+00:00",
+ "updated": "2026-11-26T12:20:57.174212+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/english/news/serbian-parliament-speaker-cupic-calls-presidential-election-for-december-27/",
    "title": "Serbian Parliament Speaker Cupic calls presidential election for December 27",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/english/4440220-cupic-signs-decision-to-call-serbian-presidential-elections-voting-to-take-place-on-december-27",
+   "title": "Cupic signs decision to call Serbian presidential elections: Voting to take place on December 27",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Serbian Parliament Speaker Cupic calls presidential election for December 27"
+  "Serbian Parliament Speaker Cupic calls presidential election for December 27",
+  "Cupic signs decision to call Serbian presidential elections: Voting to take place on December 27"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "a red building with a traffic light in front of it",
   "link": "https://unsplash.com/@meditative"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
