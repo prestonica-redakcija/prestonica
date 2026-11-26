@@ -30,16 +30,23 @@
  ],
  "importance": 6,
  "published": "2026-11-26T13:40:39.112185+00:00",
- "updated": "2026-11-26T13:40:39.112185+00:00",
+ "updated": "2026-11-26T13:55:33.392531+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/jugoslav-ristic-studentska-lista-predsednicki-izbori-ocekujem-cistiju-kampanju/",
    "title": "Ristić: Ime kandidata Studentske liste biće poznato vrlo brzo, kampanja će biti neuobičajena",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/ristic-ime-kandidata-studentske-liste-bice-poznato-vrlo-brzo-kampanja-ce-biti-neuobicajena/",
+   "title": "Ristić: Ime kandidata Studentske liste biće poznato vrlo brzo, kampanja će biti neuobičajena",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Ristić: Ime kandidata Studentske liste biće poznato vrlo brzo, kampanja će biti neuobičajena",
   "Ristić: Ime kandidata Studentske liste biće poznato vrlo brzo, kampanja će biti neuobičajena"
  ],
  "author": "Redakcija Prestonice",
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "two flags with a coat of arms on them",
   "link": "https://unsplash.com/@thestefankostic"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

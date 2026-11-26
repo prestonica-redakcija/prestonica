@@ -25,17 +25,24 @@
  ],
  "importance": 4,
  "published": "2026-11-26T07:38:26.049111+00:00",
- "updated": "2026-11-26T07:38:26.049111+00:00",
+ "updated": "2026-11-26T13:55:33.392531+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/danas-treca-aukcija-prevremenog-otkupa-drzavnih-obveznica-planirani-iznos-otkupa-10-milijardi-dinara",
    "title": "Danas treća aukcija prevremenog otkupa državnih obveznica, planirani iznos 10 milijardi dinara",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/republika-srbija-otkupila-petogodisnje-drzavne-obveznice",
+   "title": "Republika Srbija otkupila petogodišnje državne obveznice",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Danas treća aukcija prevremenog otkupa državnih obveznica, planirani iznos 10 milijardi dinara"
+  "Danas treća aukcija prevremenog otkupa državnih obveznica, planirani iznos 10 milijardi dinara",
+  "Republika Srbija otkupila petogodišnje državne obveznice"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "local": false,
   "alt": "white concrete building under sky",
   "link": "https://unsplash.com/@katiemoum"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

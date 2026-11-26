@@ -28,17 +28,24 @@
  ],
  "importance": 4,
  "published": "2026-11-26T12:51:19.902058+00:00",
- "updated": "2026-11-26T12:51:19.902058+00:00",
+ "updated": "2026-11-26T13:55:33.392531+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/nis-razgovor-dzonson-elektrik-50-radnika-placeno-odsustvo/",
    "title": "\"Niš, moj grad\" traži hitan razgovor sa \"Džonson elektrikom“ zbog slanja 50 radnika na plaćeno odsustvo",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/nis-moj-grad-u-dzonson-elektriku-50-radnika-ide-na-placeno-odsustvo/",
+   "title": "„Niš, moj grad“: U Džonson elektriku 50 radnika ide na plaćeno odsustvo",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "\"Niš, moj grad\" traži hitan razgovor sa \"Džonson elektrikom“ zbog slanja 50 radnika na plaćeno odsustvo"
+  "\"Niš, moj grad\" traži hitan razgovor sa \"Džonson elektrikom“ zbog slanja 50 radnika na plaćeno odsustvo",
+  "„Niš, moj grad“: U Džonson elektriku 50 radnika ide na plaćeno odsustvo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "alt": "a group of men in a factory",
   "link": "https://unsplash.com/@arnosenoner"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

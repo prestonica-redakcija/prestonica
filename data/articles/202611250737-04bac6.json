@@ -31,17 +31,24 @@
  ],
  "importance": 4,
  "published": "2026-11-25T06:37:52.711850+00:00",
- "updated": "2026-11-25T06:37:52.711850+00:00",
+ "updated": "2026-11-26T13:55:33.392531+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1172986/aleksandar-jerkovic-nova-vlast-plenumi",
    "title": "Raskrinkana \"plenumska\" Skupština! Jerković o poslanicima nove vlasti: Ovo što gledamo ne ohrabruje",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/288334/poznato-ko-ce-biti-novi-predsednik-ecb/vest",
+   "title": "Poznato ko će biti novi predsednik ECB",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Raskrinkana \"plenumska\" Skupština! Jerković o poslanicima nove vlasti: Ovo što gledamo ne ohrabruje"
+  "Raskrinkana \"plenumska\" Skupština! Jerković o poslanicima nove vlasti: Ovo što gledamo ne ohrabruje",
+  "Poznato ko će biti novi predsednik ECB"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "alt": "Woman stands in an empty parliament assembly hall",
   "link": "https://unsplash.com/@anniehatuanh"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

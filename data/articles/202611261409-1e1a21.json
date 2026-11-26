@@ -26,7 +26,7 @@
  ],
  "importance": 7,
  "published": "2026-11-26T13:09:30.305892+00:00",
- "updated": "2026-11-26T13:40:39.112185+00:00",
+ "updated": "2026-11-26T13:55:33.392531+00:00",
  "sources": [
   {
    "name": "N1",
@@ -69,6 +69,18 @@
    "url": "https://www.kurir.rs/vesti/politika/10173770/kada-studentska-lista-objavljuje-ime-kandidata-za-predsednika-srbije",
    "title": "Ko će biti kandidat Studentske liste za predsednika Srbije? Iz pokreta otkrili kada će objaviti ime predstavnika na izborima",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/studentska-lista-u-petak-otkriva-kandidata-za-predsednika/",
+   "title": "Studentska lista u petak otkriva kandidata za predsednika?",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288340/poznato-kada-studentska-lista-otkriva-ime-kandidata-za-predsednika-srbije/vest",
+   "title": "Otkriveno: Evo kada Studentska lista otkriva ime kandidata za predsednika Srbije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -78,7 +90,9 @@
   "Demokratska stranka će podržati predsedničkog kandidata Studentske liste",
   "Oglasila se Demokratska stranka: Doneli odluku koga će podržati na narednim predsedničkim izborima",
   "DS i KP: Podržaćemo studentskog kandidata na predsedničkim izborima",
-  "Ko će biti kandidat Studentske liste za predsednika Srbije? Iz pokreta otkrili kada će objaviti ime predstavnika na izborima"
+  "Ko će biti kandidat Studentske liste za predsednika Srbije? Iz pokreta otkrili kada će objaviti ime predstavnika na izborima",
+  "Studentska lista u petak otkriva kandidata za predsednika?",
+  "Otkriveno: Evo kada Studentska lista otkriva ime kandidata za predsednika Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -91,6 +105,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Za_pravednu_Srbiju_%E2%80%93_Demokratska_stranka_1.jpg",
   "alt": "DS i Kreni-promeni podržavaju kandidata Studentskog pokreta na predsedničkim izborima"
  },
- "novo_od_pisanja": 5,
- "boost": 1.4
+ "novo_od_pisanja": 7,
+ "boost": 1.56
 }
