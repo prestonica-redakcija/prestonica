@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T00:05:01.814826+00:00",
- "updated": "2026-11-26T10:11:46.265687+00:00",
+ "updated": "2026-11-26T14:10:27.685416+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -78,6 +78,12 @@
    "url": "https://www.tanjug.rs/svet/drustvo/301143/najmanje-sedam-povredenih-u-eksploziji-i-pozaru-u-rafineriji-u-bangkoku/vest",
    "title": "Najmanje sedam povređenih u eksploziji i požaru u rafineriji u Bangkoku",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4440350-pozar-u-rafineriji-u-bangkoku-povredjeno-najmanje-sedam-osoba-neke-zivotno-ugrozene",
+   "title": "Požar u rafineriji u Bangkoku: Povređeno najmanje sedam osoba, neke životno ugrožene",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -88,7 +94,8 @@
   "Jeziva eksplozija kod Kaira: Najmanje 30 mrtvih, 15 povređenih; Vatra guta vozila FOTO/VIDEO",
   "Najmanje 30 poginulih u eksploziji cisterne sa gorivom u blizini Kaira",
   "U požaru nakon eksplozije cisterne u Egiptu poginula najmanje 31 osoba",
-  "Najmanje sedam povređenih u eksploziji i požaru u rafineriji u Bangkoku"
+  "Najmanje sedam povređenih u eksploziji i požaru u rafineriji u Bangkoku",
+  "Požar u rafineriji u Bangkoku: Povređeno najmanje sedam osoba, neke životno ugrožene"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -101,6 +108,6 @@
   "alt": "a busy highway with cars",
   "link": "https://unsplash.com/@stocker_ll"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

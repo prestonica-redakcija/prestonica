@@ -24,17 +24,24 @@
  ],
  "importance": 2,
  "published": "2026-11-25T12:35:55.277131+00:00",
- "updated": "2026-11-25T12:35:55.277131+00:00",
+ "updated": "2026-11-26T14:10:27.685416+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/turizam/300866/turisticka-organizacija-republike-srpske-na-medunarodnom-sajmu-turizma-u-novom-sadu/vest",
    "title": "Turistička organizacija Republike Srpske na Međunarodnom sajmu turizma u Novom Sadu",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/301236/tob-promovise-ponudu-prestonice-na-57-medunarodnom-sajmu-turizma-u-novom-sadu/vest",
+   "title": "TOB promoviše ponudu prestonice na 57. Međunarodnom sajmu turizma u Novom Sadu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Turistička organizacija Republike Srpske na Međunarodnom sajmu turizma u Novom Sadu"
+  "Turistička organizacija Republike Srpske na Međunarodnom sajmu turizma u Novom Sadu",
+  "TOB promoviše ponudu prestonice na 57. Međunarodnom sajmu turizma u Novom Sadu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Dunavska_street_in_Novi_Sad.jpg",
   "alt": "Republika Srpska predstavlja turističku ponudu na sajmu turizma u Novom Sadu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

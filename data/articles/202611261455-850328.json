@@ -29,17 +29,31 @@
  ],
  "importance": 5,
  "published": "2026-11-26T13:55:33.392531+00:00",
- "updated": "2026-11-26T13:55:33.392531+00:00",
+ "updated": "2026-11-26T14:10:27.685416+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/politika/djukic-dejanovic-organi-sps-jos-nisu-odlucili-nastupu-na-predsednickim-izborima/",
    "title": "Đukić Dejanović: Organi SPS još nisu odlučili nastupu na predsedničkim izborima",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/djukic-dejanovic-sps-predsednicki-izbori/",
+   "title": "Đukić Dejanović: Organi SPS još nisu odlučili o nastupu na predsedničkim izborima",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/djukic-dejanovic-sps-predsednicki-izbori/",
+   "title": "Đukić Dejanović: Organi SPS još nisu odlučili o nastupu na predsedničkim izborima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Đukić Dejanović: Organi SPS još nisu odlučili nastupu na predsedničkim izborima"
+  "Đukić Dejanović: Organi SPS još nisu odlučili nastupu na predsedničkim izborima",
+  "Đukić Dejanović: Organi SPS još nisu odlučili o nastupu na predsedničkim izborima",
+  "Đukić Dejanović: Organi SPS još nisu odlučili o nastupu na predsedničkim izborima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +65,7 @@
   "local": false,
   "alt": "two flags with a coat of arms on them",
   "link": "https://unsplash.com/@thestefankostic"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

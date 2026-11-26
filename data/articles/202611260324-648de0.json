@@ -33,17 +33,24 @@
  ],
  "importance": 6,
  "published": "2026-11-26T02:24:11.163398+00:00",
- "updated": "2026-11-26T02:24:11.163398+00:00",
+ "updated": "2026-11-26T14:10:27.685416+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1674797/janez-jansa-marta-kos-srbija-slovenija-tajne-arhive-kos",
    "title": "SLOVENIJA POSTAVILA NOVI ZAHTEV SRBIJI! Traže tajne arhive iz Beograda, u centru priče Marta Kos",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/jansa-sumnja-da-je-marta-kos-bila-jugoslovenska-spijunka-od-beograda-trazi-otvaranje-tajnih-arhiva/",
+   "title": "Janša sumnja da je Marta Kos bila jugoslovenska špijunka: Od Beograda traži otvaranje tajnih arhiva",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "SLOVENIJA POSTAVILA NOVI ZAHTEV SRBIJI! Traže tajne arhive iz Beograda, u centru priče Marta Kos"
+  "SLOVENIJA POSTAVILA NOVI ZAHTEV SRBIJI! Traže tajne arhive iz Beograda, u centru priče Marta Kos",
+  "Janša sumnja da je Marta Kos bila jugoslovenska špijunka: Od Beograda traži otvaranje tajnih arhiva"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "alt": "blue and yellow flag on pole",
   "link": "https://unsplash.com/@alexandrelallemand"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
