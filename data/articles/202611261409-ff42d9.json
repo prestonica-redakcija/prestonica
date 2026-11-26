@@ -28,17 +28,24 @@
  ],
  "importance": 4,
  "published": "2026-11-26T13:09:30.305892+00:00",
- "updated": "2026-11-26T13:09:30.305892+00:00",
+ "updated": "2026-11-26T21:15:12.934903+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/301218/micotakis-ne-mozemo-govoriti-o-jakoj-evropi-sa-slabim-budzetom/vest",
    "title": "Micotakis: Ne možemo govoriti o jakoj Evropi sa slabim budžetom",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/301359/makron-smanjenja-u-evropskom-budzetu-su-strateska-greska/vest",
+   "title": "Makron: Smanjenja u evropskom budžetu su strateška greška",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Micotakis: Ne možemo govoriti o jakoj Evropi sa slabim budžetom"
+  "Micotakis: Ne možemo govoriti o jakoj Evropi sa slabim budžetom",
+  "Makron: Smanjenja u evropskom budžetu su strateška greška"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Micotakis: Grčka neće prihvatiti dalja smanjenja poljoprivrednih i kohezionih fondova"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

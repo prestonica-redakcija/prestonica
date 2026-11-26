@@ -30,7 +30,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T11:48:13.410537+00:00",
- "updated": "2026-11-26T21:00:06.042454+00:00",
+ "updated": "2026-11-26T21:15:12.934903+00:00",
  "sources": [
   {
    "name": "N1",
@@ -109,6 +109,24 @@
    "url": "https://www.kurir.rs/crna-hronika/10174207/mup-se-oglasio-zbog-hapsenja-zbog-alta-banke",
    "title": "SA BRATOM DAVORA MACURE, UHAPŠENE I DVE ŽENE! Oglasio se MUP: Po ovoj šemi su \"izneli\" 45 milijardi dinara",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/uhapsen-vodja-navijaca-zvezde-stevan-sojic/",
+   "title": "Uhapšen vođa navijača Zvezde Stevan Sojić",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/nova-uhapsen-vodja-navijaca-zvezde-stevan-stojic/",
+   "title": "Nova: Uhapšen vođa navijača Zvezde Stevan Sojić",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/oglasio-se-mup-o-hapsenju-dubravka-macure-brata-vlasnika-alta-banke-sumnjici-se-da-je-iz-trezora-iznosio-novac-steta-veca-od-45-milijardi-dinara/",
+   "title": "Oglasio se MUP o hapšenju Dubravka Macure, brata vlasnika Alta banke: Sumnjiči se da je iz trezora iznosio novac, šteta veća od 45 milijardi dinara",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -124,7 +142,10 @@
   "Oglasilo se tužilaštvo o hapšenju Stefana Sojića, vođe navijačke grupe Belgrade Boys",
   "Uhapšen vođa navijačke grupe Belgrade Boys; Tužilaštvo otkrilo detalje",
   "MUP o hapšenju Dubravka Macure",
-  "SA BRATOM DAVORA MACURE, UHAPŠENE I DVE ŽENE! Oglasio se MUP: Po ovoj šemi su \"izneli\" 45 milijardi dinara"
+  "SA BRATOM DAVORA MACURE, UHAPŠENE I DVE ŽENE! Oglasio se MUP: Po ovoj šemi su \"izneli\" 45 milijardi dinara",
+  "Uhapšen vođa navijača Zvezde Stevan Sojić",
+  "Nova: Uhapšen vođa navijača Zvezde Stevan Sojić",
+  "Oglasio se MUP o hapšenju Dubravka Macure, brata vlasnika Alta banke: Sumnjiči se da je iz trezora iznosio novac, šteta veća od 45 milijardi dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -137,7 +158,7 @@
   "alt": "opened gray stainless steel drawers",
   "link": "https://unsplash.com/@jasonpofahlphotography"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 3,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:00:06.042454+00:00",
  "verzija": 2

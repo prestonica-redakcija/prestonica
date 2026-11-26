@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T16:34:09.007546+00:00",
- "updated": "2026-11-26T18:57:53.338854+00:00",
+ "updated": "2026-11-26T21:15:12.934903+00:00",
  "sources": [
   {
    "name": "N1",
@@ -90,6 +90,12 @@
    "url": "https://insajder.net/prenosimo/rik-o-predsednickim-izborima-glasacki-listic-bice-krem-boje",
    "title": "RIK o predsedničkim izborima: Glasački listić biće krem boje",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253879/rik-odredio-rokove-za-predsednicke-izbore-27-decembra/vest",
+   "title": "RIK objavio rokove za predsedničke izbore: Do kada se predaju kandidature i kada počinje izborna tišina",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -102,7 +108,8 @@
   "RIK doneo odluku o obrascima i usvojio rokovnik za predsedničke izbore",
   "RIK usvojio odluke o predsedničkim izborima",
   "Poznato kako će izgledati glasački listić za predsedničke izbore 27. decembra",
-  "RIK o predsedničkim izborima: Glasački listić biće krem boje"
+  "RIK o predsedničkim izborima: Glasački listić biće krem boje",
+  "RIK objavio rokove za predsedničke izbore: Do kada se predaju kandidature i kada počinje izborna tišina"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -114,7 +121,7 @@
   "local": true,
   "alt": "RIK usvojio odluke o predsedničkim izborima: listić krem boje, kontrolni list roze"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:41:26.337473+00:00",
  "verzija": 2
