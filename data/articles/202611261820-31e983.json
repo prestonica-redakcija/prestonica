@@ -34,7 +34,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T17:20:53.866188+00:00",
- "updated": "2026-11-26T18:41:26.337473+00:00",
+ "updated": "2026-11-26T18:57:53.338854+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -59,12 +59,19 @@
    "url": "https://www.kurir.rs/planeta/10174121/NEVREME-U-SAD-PARALISALO-AERODROME-Otkazano-i-odlozeno-vise-od-1.600-letova-tokom-proslave-Dana-zahvalnosti",
    "title": "NEVREME U SAD PARALISALO AERODROME: Otkazano i odloženo više od 1.600 letova tokom proslave Dana zahvalnosti",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10174121/nevreme-u-sad-otkazano-i-odlozeno-vise-od-1-600-letova",
+   "title": "NEVREME U SAD PARALISALO AERODROME: Otkazano i odloženo više od 1.600 letova tokom proslave Dana zahvalnosti",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Nevreme paralisalo delove SAD za Dan zahvalnosti: Stotine hiljada ljudi bez struje, otkazani letovi i odložena parada",
   "NEVREME NAPRAVILO HAOS U AMERICI NA DAN ZAHVALNOSTI: Vanredno stanje u Nju Džersiju, udaraju \"kraljevske plime\", otkazana i jubilarna parada u Njujorku (VIDEO)",
   "Više od 1.200 letova u SAD otkazano i odloženo na Dan zahvalnosti zbog nevremena",
+  "NEVREME U SAD PARALISALO AERODROME: Otkazano i odloženo više od 1.600 letova tokom proslave Dana zahvalnosti",
   "NEVREME U SAD PARALISALO AERODROME: Otkazano i odloženo više od 1.600 letova tokom proslave Dana zahvalnosti"
  ],
  "author": "Redakcija Prestonice",
@@ -78,6 +85,6 @@
   "alt": "a car driving down a snow covered street",
   "link": "https://unsplash.com/@clayleconey"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -31,7 +31,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-26T18:25:03.828784+00:00",
+ "updated": "2026-11-26T18:57:53.338854+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -230,6 +230,18 @@
    "url": "https://www.kurir.rs/vesti/politika/10173967/srbija-bira-6-predsednika-27-decembra",
    "title": "SRBIJA 27. DECEMBRA BIRA 6. PREDSEDNIKA! Lacmanović: Očekuju nas verovatno najdosadniji izbori ako SNS ne izađe sa svojim kandidatom!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/oformljena-grupa-gradana-studenti-ponovo-pobeduju-za-predsednicke-izbore",
+   "title": "Oformljena grupa građana \"Studenti ponovo pobeđuju\" za predsedničke izbore",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/301327/marija-zaharova-severni-tok-moze-da-bude-pokrenut-za-mesec-dana-ako-se-donese-odluka/vest",
+   "title": "Marija Zaharova: Severni tok može da bude pokrenut za mesec dana, ako se donese odluka",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -265,7 +277,9 @@
   "Formirana grupa građana \"Studenti ponovo pobeđuju\" uoči predsedničkih izbora 27. decembra",
   "Studentska lista formirala novu grupu građana pred predsedničke izbore: Evo kako se zove",
   "Formirana grupa građana \"Studenti ponovo pobeđuju!\"",
-  "SRBIJA 27. DECEMBRA BIRA 6. PREDSEDNIKA! Lacmanović: Očekuju nas verovatno najdosadniji izbori ako SNS ne izađe sa svojim kandidatom!"
+  "SRBIJA 27. DECEMBRA BIRA 6. PREDSEDNIKA! Lacmanović: Očekuju nas verovatno najdosadniji izbori ako SNS ne izađe sa svojim kandidatom!",
+  "Oformljena grupa građana \"Studenti ponovo pobeđuju\" za predsedničke izbore",
+  "Marija Zaharova: Severni tok može da bude pokrenut za mesec dana, ako se donese odluka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -278,7 +292,7 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 2,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:25:03.828784+00:00",
  "verzija": 6

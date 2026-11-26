@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T08:08:30.221609+00:00",
- "updated": "2026-11-26T09:25:09.026225+00:00",
+ "updated": "2026-11-26T18:57:53.338854+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -47,12 +47,19 @@
    "url": "https://www.tanjug.rs/svet/politika/301126/putinova-godisnja-konferencija-10-decembra/vest",
    "title": "Putinova godišnja konferencija 10. decembra",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10174133/putin-ce-10-decembra-odrzati-godisnju-konferenciju-za-novinare",
+   "title": "CEO SVET ĆE SLUŠATI PUTINA: Ruski predsednik će 10. decembra održati godišnju konferenciju za novinare",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Kremlj objavio kada je velika godišnja konferencija Putina: „Svako može da postavi pitanje“",
   "Objavljeno kada će biti održana Putinova velika godišnja konferencija",
-  "Putinova godišnja konferencija 10. decembra"
+  "Putinova godišnja konferencija 10. decembra",
+  "CEO SVET ĆE SLUŠATI PUTINA: Ruski predsednik će 10. decembra održati godišnju konferenciju za novinare"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "local": true,
   "alt": "Putinova godišnja konferencija i direktna linija biće održane 10. decembra"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
