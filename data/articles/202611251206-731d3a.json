@@ -25,17 +25,24 @@
  ],
  "importance": 4,
  "published": "2026-11-25T11:06:18.181669+00:00",
- "updated": "2026-11-25T11:06:18.181669+00:00",
+ "updated": "2026-11-26T00:05:01.814826+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/300791/evropska-komisija-predlozila-zakon-o-kvantnim-tehnologijama-i-novi-fond-za-tehnoloski-suverenitet/vest",
    "title": "Evropska komisija predložila Zakon o kvantnim tehnologijama i novi fond za tehnološki suverenitet",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/tech-biz/4439498-ek-predlozila-zakon-o-kvantnim-tehnologijama-i-novi-fond-za-tehnoloski-suverenitet-plan-pociva-na-3-stuba",
+   "title": "EK predložila Zakon o kvantnim tehnologijama i novi fond za tehnološki suverenitet: Plan počiva na 3 stuba",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Evropska komisija predložila Zakon o kvantnim tehnologijama i novi fond za tehnološki suverenitet"
+  "Evropska komisija predložila Zakon o kvantnim tehnologijama i novi fond za tehnološki suverenitet",
+  "EK predložila Zakon o kvantnim tehnologijama i novi fond za tehnološki suverenitet: Plan počiva na 3 stuba"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Evropska komisija predložila Zakon o kvantnim tehnologijama i fond za tehnološki suverenitet"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
