@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-25T23:02:14.184226+00:00",
- "updated": "2026-11-25T23:02:14.184226+00:00",
+ "updated": "2026-11-26T12:35:38.207926+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -61,6 +61,12 @@
    "url": "https://nova.rs/vesti/politika/sef-unmika-u-kosovskoj-mitrovici-sa-predstavnicima-studentske-liste-srpske-liste-i-civilnog-drustva/",
    "title": "Šef Unmika u Kosovskoj Mitrovici sa predstavnicima Studentske liste, Srpske liste i civilnog društva",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/srpske-organizacije-s-kosova-narednih-dana-na-sastanku-s-predstavnicima-studentskog-pokreta/",
+   "title": "Srpske organizacije s Kosova narednih dana na sastanku s predstavnicima studentskog pokreta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -68,7 +74,8 @@
   "Šef Unmika u Kosovskoj Mitrovici: Sastao se sa predstavnicima Studentske i Srpske liste",
   "Šef Unmika u Kosovskoj Mitrovici sa predstavnicima Studentske liste, Srpske liste i civilnog društva",
   "Šef Unmika na KiM: Sastanak sa predstavnicima Studentske liste, Srpske liste, civilnog društva",
-  "Šef Unmika u Kosovskoj Mitrovici sa predstavnicima Studentske liste, Srpske liste i civilnog društva"
+  "Šef Unmika u Kosovskoj Mitrovici sa predstavnicima Studentske liste, Srpske liste i civilnog društva",
+  "Srpske organizacije s Kosova narednih dana na sastanku s predstavnicima studentskog pokreta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,5 +87,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Kosovska_Mitrovica_19.jpg",
   "alt": "Šef Unmika u Kosovskoj Mitrovici razgovarao sa Studentskom i Srpskom listom"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

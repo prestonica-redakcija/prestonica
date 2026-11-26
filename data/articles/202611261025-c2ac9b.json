@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T09:25:09.026225+00:00",
- "updated": "2026-11-26T12:20:57.174212+00:00",
+ "updated": "2026-11-26T12:35:38.207926+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -70,6 +70,18 @@
    "url": "https://insajder.net/prenosimo/rhmz-danas-olujni-vetar-u-kosavskom-podrucju-na-istoku-ledena-kisa-u-subotu-sneg",
    "title": "RHMZ: Danas olujni vetar u košavskom području, na istoku ledena kiša, u subotu sneg",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301201/rhmz-upozorava-na-ledenu-kisu-i-jaku-kosavu-danas-u-subotu-se-ocekuje-sneg/vest",
+   "title": "RHMZ upozorava na ledenu kišu i jaku košavu danas, u subotu se očekuje sneg",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/288301/vremenska-prognoza-rhmz-upozorio-danas-ledena-kisa-i-jaka-kosava-danas-u-subotu-sneg/vest",
+   "title": "Novo upozorenje RHMZ: Stiže sneg; Pašće i do 20 santimetara",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -78,7 +90,9 @@
   "RHMZ upozorava na ledenu kišu na istoku Srbije, na snazi narandžasti meteo-alarm",
   "Novo dramatično upozorenje RHMZ: Na snazi narandžasti meteo-alarm, ledena kiša pravi HAOS u ovom delu Srbije",
   "RHMZ: Danas olujni vetar i ledena kiša, u subotu sneg i do 20 centimetara",
-  "RHMZ: Danas olujni vetar u košavskom području, na istoku ledena kiša, u subotu sneg"
+  "RHMZ: Danas olujni vetar u košavskom području, na istoku ledena kiša, u subotu sneg",
+  "RHMZ upozorava na ledenu kišu i jaku košavu danas, u subotu se očekuje sneg",
+  "Novo upozorenje RHMZ: Stiže sneg; Pašće i do 20 santimetara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -91,8 +105,8 @@
   "alt": "a puddle of water on a brick sidewalk",
   "link": "https://unsplash.com/@seiya_maeda"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-26T12:20:57.174212+00:00",
  "verzija": 2
 }

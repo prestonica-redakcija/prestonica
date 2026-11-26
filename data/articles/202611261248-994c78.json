@@ -29,7 +29,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T11:48:13.410537+00:00",
- "updated": "2026-11-26T11:48:13.410537+00:00",
+ "updated": "2026-11-26T12:35:38.207926+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,18 @@
    "url": "https://www.kurir.rs/vesti/politika/10173509/kako-se-bira-predsednik-srbije",
    "title": "KAKO SE BIRA PREDSEDNIK SRBIJE: Koliko traje mandat, šta su to prvi i drugi krug, kako se postaje kandidat na predsedničkim izborima",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/od-kandidature-do-drugog-kruga-sta-treba-znati-o-izboru-predsednika-srbije",
+   "title": "Od kandidature do drugog kruga: Šta treba znati o izboru predsednika Srbije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Kako će izgledati predsednički izbori: Rokovi za kandidature, kampanju i drugi krug",
-  "KAKO SE BIRA PREDSEDNIK SRBIJE: Koliko traje mandat, šta su to prvi i drugi krug, kako se postaje kandidat na predsedničkim izborima"
+  "KAKO SE BIRA PREDSEDNIK SRBIJE: Koliko traje mandat, šta su to prvi i drugi krug, kako se postaje kandidat na predsedničkim izborima",
+  "Od kandidature do drugog kruga: Šta treba znati o izboru predsednika Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "Red handprint and text on a fence",
   "link": "https://unsplash.com/@lotharborispiltz"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

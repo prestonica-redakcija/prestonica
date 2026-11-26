@@ -30,7 +30,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T11:48:13.410537+00:00",
- "updated": "2026-11-26T12:20:57.174212+00:00",
+ "updated": "2026-11-26T12:35:38.207926+00:00",
  "sources": [
   {
    "name": "N1",
@@ -73,6 +73,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/tuzilstvo-uhapseno-vise-osoba-koje-su-pomagale-davoru-macuri-u-nezakonitim-radnjama/",
    "title": "Tužilštvo: Uhapšeno više osoba koje su pomagale Davoru Macuri u nezakonitim radnjama",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/oglasio-se-tok-pored-brata-davora-macure-i-direktorke-alta-grupe-uhapsena-jos-jedna-osoba-poznato-sta-im-se-stavlja-na-teret",
+   "title": "Oglasio se TOK: Pored brata Davora Macure i direktorke Alta grupe uhapšena još jedna osoba, poznato šta im se stavlja na teret",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/bbc-news-serbian/slucaj-alta-banke-i-sumnja-u-proneveru-380-miliona-evra-uhapsen-brat-vlasnika/",
+   "title": "Slučaj Alta banke i sumnja u proneveru 380 miliona evra: Uhapšen brat vlasnika",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -82,7 +94,9 @@
   "BRAT VLASNIKA ALTA BANKE ULAZIO U TREZOR I IZNOSIO EVRE: Oglasilo se tužilaštvo i otkrilo za šta se sumnjiči uhapšeni Dubravko Macura",
   "U slučaju Alta banke pored brata Davora Macure uhapšene još dve osobe",
   "Brat Davora Macure osumnjičen da je iznosio evre iz trezora Alta banke; Uhapšene još dve osobe",
-  "Tužilštvo: Uhapšeno više osoba koje su pomagale Davoru Macuri u nezakonitim radnjama"
+  "Tužilštvo: Uhapšeno više osoba koje su pomagale Davoru Macuri u nezakonitim radnjama",
+  "Oglasio se TOK: Pored brata Davora Macure i direktorke Alta grupe uhapšena još jedna osoba, poznato šta im se stavlja na teret",
+  "Slučaj Alta banke i sumnja u proneveru 380 miliona evra: Uhapšen brat vlasnika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -95,6 +109,6 @@
   "alt": "opened gray stainless steel drawers",
   "link": "https://unsplash.com/@jasonpofahlphotography"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }

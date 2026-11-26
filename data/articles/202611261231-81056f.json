@@ -27,17 +27,24 @@
  ],
  "importance": 8,
  "published": "2026-11-26T11:31:30.898193+00:00",
- "updated": "2026-11-26T11:31:30.898193+00:00",
+ "updated": "2026-11-26T12:35:38.207926+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/srbija/politika/253790/oglasili-se-studenti-u-blokadi-nakon-raspisivanja-izbora/vest",
    "title": "Oglasili se Studenti u blokadi nakon raspisivanja izbora: Zajedno smo ispisali istoriju, naša borba još nije završena",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/oglasili-se-studenti-o-raspisivanju-predsednickih-izbora-borba-nije-zavrsena/",
+   "title": "Oglasili se studenti o raspisivanju predsedničkih izbora: Borba nije završena",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Oglasili se Studenti u blokadi nakon raspisivanja izbora: Zajedno smo ispisali istoriju, naša borba još nije završena"
+  "Oglasili se Studenti u blokadi nakon raspisivanja izbora: Zajedno smo ispisali istoriju, naša borba još nije završena",
+  "Oglasili se studenti o raspisivanju predsedničkih izbora: Borba nije završena"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "osoba": "Studenti u blokadi",
   "izvor_x": true,
   "alt": "Čupić raspisao predsedničke izbore za 27. decembar, oglasili se Studenti u blokadi"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
