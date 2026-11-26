@@ -36,7 +36,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T06:52:02.295680+00:00",
- "updated": "2026-11-26T08:23:02.641089+00:00",
+ "updated": "2026-11-26T12:05:48.172440+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -67,6 +67,12 @@
    "url": "https://insajder.net/prenosimo/tramp-i-rute-rusija-treba-da-izbegava-poteze-koji-bi-doveli-do-prosirenja-rata-u-ukrajini",
    "title": "Tramp i Rute: Rusija treba da izbegava poteze koji bi doveli do proširenja rata u Ukrajini",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301186/meloni-rat-u-ukrajini-ne-sme-da-se-prosiri-na-mediteran/vest",
+   "title": "Meloni: Rat u Ukrajini ne sme da se proširi na Mediteran",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -74,7 +80,8 @@
   "Tramp i šef NATO upozorili Putina: \"Rusija mora da izbegne poteze koji bi doveli do širenja rata\"",
   "TRAMP I GENSEK NATO SE SLAŽU: RUSIJA DA IZBEGNE ŠIRENJE RATA U UKRAJINI! Predsednik SAD primio Rutea na Floridi, žele mirno rešenje sukoba u što kraćem roku",
   "Tramp i Rute upozorili Putina da ne širi rat na Evropu: Za Kremlj su to „besmislice“",
-  "Tramp i Rute: Rusija treba da izbegava poteze koji bi doveli do proširenja rata u Ukrajini"
+  "Tramp i Rute: Rusija treba da izbegava poteze koji bi doveli do proširenja rata u Ukrajini",
+  "Meloni: Rat u Ukrajini ne sme da se proširi na Mediteran"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -87,6 +94,6 @@
   "alt": "white concrete building near body of water during daytime",
   "link": "https://unsplash.com/@billhamway"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

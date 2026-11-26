@@ -30,7 +30,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T11:48:13.410537+00:00",
- "updated": "2026-11-26T11:48:13.410537+00:00",
+ "updated": "2026-11-26T12:05:48.172440+00:00",
  "sources": [
   {
    "name": "N1",
@@ -49,12 +49,33 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4440239-oglasilo-se-tuzilastvo-povodom-hapsenja-rodjenog-brata-davora-macure-ovo-su-najnovije-informacije",
    "title": "Oglasilo se tužilaštvo povodom hapšenja rođenog brata Davora Macure: Ovo su najnovije informacije",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10173598/oglasilo-se-tuzilastvo-o-hapsenju-brata-vlasnika-alta-banke",
+   "title": "BRAT VLASNIKA ALTA BANKE ULAZIO U TREZOR I IZNOSIO EVRE: Oglasilo se tužilaštvo i otkrilo za šta se sumnjiči uhapšeni Dubravko Macura",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301191/u-slucaju-alta-banke-pored-brata-davora-macure-uhapsene-jos-dve-osobe/vest",
+   "title": "U slučaju Alta banke pored brata Davora Macure uhapšene još dve osobe",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/288288/brat-davora-macure-osumnjicen-da-je-iznosio-evre-iz-trezora-alta-banke-uhapsene-jos-dve-osobe/vest",
+   "title": "Brat Davora Macure osumnjičen da je iznosio evre iz trezora Alta banke; Uhapšene još dve osobe",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Brat Davora Macure osumnjičen da je iznosio evre iz trezora Alta banke",
   "Oglasilo se tužilaštvo o hapšenju Dubravka Macure i ostalih osumnjičenih: Ulazio u depo trezora i iznosio novac u evrima, pa ga predavao vlasniku Alta banke",
-  "Oglasilo se tužilaštvo povodom hapšenja rođenog brata Davora Macure: Ovo su najnovije informacije"
+  "Oglasilo se tužilaštvo povodom hapšenja rođenog brata Davora Macure: Ovo su najnovije informacije",
+  "BRAT VLASNIKA ALTA BANKE ULAZIO U TREZOR I IZNOSIO EVRE: Oglasilo se tužilaštvo i otkrilo za šta se sumnjiči uhapšeni Dubravko Macura",
+  "U slučaju Alta banke pored brata Davora Macure uhapšene još dve osobe",
+  "Brat Davora Macure osumnjičen da je iznosio evre iz trezora Alta banke; Uhapšene još dve osobe"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,5 +87,7 @@
   "local": false,
   "alt": "opened gray stainless steel drawers",
   "link": "https://unsplash.com/@jasonpofahlphotography"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

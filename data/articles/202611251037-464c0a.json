@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-25T09:37:03.545768+00:00",
- "updated": "2026-11-26T09:40:25.804528+00:00",
+ "updated": "2026-11-26T12:05:48.172440+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -53,13 +53,20 @@
    "url": "https://biznis.telegraf.rs/info-biz/4440103-cena-nafte-nastavlja-da-pada-brent-pao-na-94-dolara",
    "title": "Cena nafte nastavlja da pada: Brent pao na 94 dolara",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288285/mohebi-stanje-iranskog-ofanzivnog-i-odbrambenog-naoruzanja-mnogo-bolje-nego-u-sad/vest",
+   "title": "\"Jači smo od SAD\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "NAFTA I ZLATO U PADU, ŠTA JE SA GASOM? Potres na berzama uoči ključnih brojki iz SAD",
   "EVROPSKE BERZE PONOVO U PLUSU: Jača tehnološki sektor, nafta Brent iznad 94 dolara",
   "Evropske berze rastu nakon dvodnevnog pada, jača tehnološki sektor, nafta Brent 94 dolara",
-  "Cena nafte nastavlja da pada: Brent pao na 94 dolara"
+  "Cena nafte nastavlja da pada: Brent pao na 94 dolara",
+  "\"Jači smo od SAD\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,6 +79,6 @@
   "alt": "graphical user interface, application",
   "link": "https://unsplash.com/@polarmermaid"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
