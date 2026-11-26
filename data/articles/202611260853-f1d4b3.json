@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-26T07:53:18.497760+00:00",
+ "updated": "2026-11-26T16:17:51.241334+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -46,11 +46,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4440032-novi-masovni-upad-migranata-u-spaniju-madrid-salje-vojsku-na-kanarska-ostrva-ovo-je-van-kontrole",
    "title": "Novi masovni upad migranata u Španiju: Madrid šalje vojsku na Kanarska ostrva, \"ovo je van kontrole\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/301287/vise-od-240-migranata-stiglo-na-jug-krita-i-ostrvo-gavdos-za-manje-od-12-sati/vest",
+   "title": "Više od 240 migranata stiglo na jug Krita i ostrvo Gavdos za manje od 12 sati",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Više od 2.100 migranata stiglo na Kanarska ostrva za 24 sata: „Više ne možemo da izdržimo“",
-  "Novi masovni upad migranata u Španiju: Madrid šalje vojsku na Kanarska ostrva, \"ovo je van kontrole\""
+  "Novi masovni upad migranata u Španiju: Madrid šalje vojsku na Kanarska ostrva, \"ovo je van kontrole\"",
+  "Više od 240 migranata stiglo na jug Krita i ostrvo Gavdos za manje od 12 sati"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "local": false,
   "alt": "Small boat on a sandy beach with distant mountains",
   "link": "https://unsplash.com/@jeton7"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

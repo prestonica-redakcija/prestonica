@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-26T15:13:30.727796+00:00",
- "updated": "2026-11-26T15:13:30.727796+00:00",
+ "updated": "2026-11-26T16:17:51.241334+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/301262/pokrenuta-nova-kargo-avio-linija-izmedu-kine-i-srbije-povezuju-se-sidadzuang-i-beograd/vest",
    "title": "Pokrenuta nova kargo avio-linija između Kine i Srbije: Povezuju se Šiđadžuang i Beograd",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/pokrenuta-nova-kargo-linija-izmedu-kine-i-srbije-preko-taskenta",
+   "title": "Pokrenuta nova kargo-linija između Kine i Srbije preko Taškenta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Pokrenuta nova kargo avio-linija između Kine i Srbije: Povezuju se Šiđadžuang i Beograd"
+  "Pokrenuta nova kargo avio-linija između Kine i Srbije: Povezuju se Šiđadžuang i Beograd",
+  "Pokrenuta nova kargo-linija između Kine i Srbije preko Taškenta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:UK67018_Boeing_767-333ER(BCF)_My_Freighter_Liege_18.3.26_(55173531068).jpg",
   "alt": "Nova kargo linija povezuje kineski Šiđadžuang i Beograd preko Taškenta"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T15:29:12.553398+00:00",
- "updated": "2026-11-26T16:00:17.624373+00:00",
+ "updated": "2026-11-26T16:17:51.241334+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -68,6 +68,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/policija-otkrila-labortoriju-marihuane-kod-sopota-zaplenjeno-oko-300-kilograma/",
    "title": "Policija otkrila laboratoriju marihuane kod Sopota, zaplenjeno oko 300 kilograma",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10173985/uhapsen-muskarac-valjevo-pijan-drogiran-vozio-bmw-pistolj",
+   "title": "UHAPŠEN MUŠKARAC (45) U VALJEVU: Pijan i drogiran vozio BMW, policija mu pronašla pištolj i 15 metaka",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -77,7 +83,8 @@
   "(FOTO) Otkrivena laboratorija marihuane kod Sopota, zaplenjeno oko 300 kilograma marihuane",
   "Policija u blizni Sopota zaplenila oko 300 kg marihuane, uhapšen jedan muškarac",
   "Policija u Valjevu uhapsila muškarca zbog nedozvoljenog držanja oružja",
-  "Policija otkrila laboratoriju marihuane kod Sopota, zaplenjeno oko 300 kilograma"
+  "Policija otkrila laboratoriju marihuane kod Sopota, zaplenjeno oko 300 kilograma",
+  "UHAPŠEN MUŠKARAC (45) U VALJEVU: Pijan i drogiran vozio BMW, policija mu pronašla pištolj i 15 metaka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -90,6 +97,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:VW_Crafter_-_MUP_Srbije.jpg",
   "alt": "Kod Sopota otkrivena ilegalna laboratorija, zaplenjeno oko 300 kilograma marihuane"
  },
- "novo_od_pisanja": 5,
- "boost": 1.4
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }
