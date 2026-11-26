@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T06:52:02.295680+00:00",
- "updated": "2026-11-26T07:38:26.049111+00:00",
+ "updated": "2026-11-26T22:00:44.134363+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -45,12 +45,19 @@
    "url": "https://www.b92.net/biz/svet/vesti/288178/mask-najavio-da-ce-svako-dete-u-sad-dobiti-dve-akcije-kompanije-spejseks/vest",
    "title": "Mask deli bogatstvo: Poklanja akcije SpejsEksa",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10174229/MASK-POKLANJA-PO-DVE-AKCIJE-SVAKOM-DETETU-U-AMERICI-Ukupna-vrednost-paketa-oko-18-milijardi-dolara",
+   "title": "MASK POKLANJA PO DVE AKCIJE SVAKOM DETETU U AMERICI: Ukupna vrednost paketa oko 18 milijardi dolara",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Mask najavio da će svako dete u SAD dobiti dve akcije kompanije SpejsEks",
   "Svako dete u SAD dobiće dve akcije kompanije \"Space X\": Milijarder Mask ima novi plan",
-  "Mask deli bogatstvo: Poklanja akcije SpejsEksa"
+  "Mask deli bogatstvo: Poklanja akcije SpejsEksa",
+  "MASK POKLANJA PO DVE AKCIJE SVAKOM DETETU U AMERICI: Ukupna vrednost paketa oko 18 milijardi dolara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +70,6 @@
   "alt": "rocket ship photography",
   "link": "https://unsplash.com/@spacex"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
