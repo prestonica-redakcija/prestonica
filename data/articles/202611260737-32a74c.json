@@ -24,7 +24,7 @@
  ],
  "importance": 2,
  "published": "2026-11-26T06:37:04.447175+00:00",
- "updated": "2026-11-26T06:52:02.295680+00:00",
+ "updated": "2026-11-26T09:25:09.026225+00:00",
  "sources": [
   {
    "name": "N1",
@@ -61,6 +61,12 @@
    "url": "https://insajder.net/prenosimo/hitna-pomoc-u-beogradu-tokom-noci-tri-saobracajne-nesrece-cetiri-osobe-lakse-povredene",
    "title": "Hitna pomoć: U Beogradu tokom noći tri saobraćajne nesreće, četiri osobe lakše povređene",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/beograd/10173359/cetvoro-povredjenih-u-tri-udesa",
+   "title": "NOĆ U BEOGRADU: Četvoro povređenih u tri udesa",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -69,7 +75,8 @@
   "Četiri osobe povređene u tri saobraćajne nezgode prethodne noći u Beogradu",
   "Hitna: U Beogradu tokom noći tri saobraćajne nesreće, četiri osobe lakše povređene",
   "Najmanje sedam osoba povređeno u ruskom napadu na Kijev tokom noći",
-  "Hitna pomoć: U Beogradu tokom noći tri saobraćajne nesreće, četiri osobe lakše povređene"
+  "Hitna pomoć: U Beogradu tokom noći tri saobraćajne nesreće, četiri osobe lakše povređene",
+  "NOĆ U BEOGRADU: Četvoro povređenih u tri udesa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -82,6 +89,6 @@
   "alt": "red vehicle in timelapse photography",
   "link": "https://unsplash.com/@camstejim"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

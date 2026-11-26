@@ -31,17 +31,24 @@
  ],
  "importance": 4,
  "published": "2026-11-24T22:56:10.148905+00:00",
- "updated": "2026-11-24T22:56:10.148905+00:00",
+ "updated": "2026-11-26T09:25:09.026225+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1674437/nepristojna-ponuda-kurtijevog-lobiste-priznate-tzv-kosovo-vama-sarena-laza-kovanica-2-evra-vasim-likom",
    "title": "NEPRISTOJNA PONUDA KURTIJEVOG LOBISTE: Vi priznate tzv. Kosovo, vama šarena laža od Eu i kovanica od 2 evra sa vašim likom",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288175/tramp-i-rute-rusija-treba-da-izbegava-poteze-koji-bi-doveli-do-prosirenja-rata/vest",
+   "title": "\"Nepristojna\" ponuda za Putina",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "NEPRISTOJNA PONUDA KURTIJEVOG LOBISTE: Vi priznate tzv. Kosovo, vama šarena laža od Eu i kovanica od 2 evra sa vašim likom"
+  "NEPRISTOJNA PONUDA KURTIJEVOG LOBISTE: Vi priznate tzv. Kosovo, vama šarena laža od Eu i kovanica od 2 evra sa vašim likom",
+  "\"Nepristojna\" ponuda za Putina"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0_%D1%81%D0%BA%D1%83%D0%BF%D1%88%D1%82%D0%B8%D0%BD%D0%B0_%D0%A0%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B5_%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B5,_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4_-_%D0%BF%D0%BE%D0%B3%D0%BB%D0%B5%D0%B4_%D0%BE%D0%B4_%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B3_%D0%B4%D0%B2%D0%BE%D1%80%D0%B0_(%D0%93%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B5_%D1%81%D0%BA%D1%83%D0%BF%D1%88%D1%82%D0%B8%D0%BD%D0%B5).jpg",
   "alt": "Lobista za Kosovo predložio Čupiću priznanje Kosova u zamenu za evro 2027. godine"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
