@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.euronews.rs/biznis/biznis-vesti/252981/srednji-kurs-dinara-za-evro-u-ponedeljak-1176491-dinar/vest": "2026-11-21T04:08:32.062947+00:00",
-  "https://www.kurir.rs/vesti/beograd/10167837/kako-crveni-krst-obezbedjuje-beogradski-polumaraton": "2026-11-21T04:08:32.062947+00:00",
   "https://www.tanjug.rs/svet/politika/299611/maroko-ulaze-366-miliona-evra-u-izgradnju-odbrambene-industrije-do-2035-godine/vest": "2026-11-21T04:23:22.279213+00:00",
   "https://www.kurir.rs/planeta/10168471/maroko-ulaze-366-miliona-evra-u-izgradnju-odbrambene-industrije-do-2035-godine": "2026-11-21T04:23:22.279213+00:00",
   "https://www.telegraf.rs/vesti/srbija/4437008-danas-oblacno-pre-podne-suvo-popodne-s-kisom-mestimicno-temperatura-do-18-stepeni": "2026-11-21T04:23:22.279213+00:00",
@@ -5600,18 +5598,13 @@
   "https://www.youtube.com/watch?v=xy5QJgGmpCQ": "2026-11-26T03:08:54.521380+00:00",
   "https://www.youtube.com/watch?v=LBTnrpPaRi4": "2026-11-26T03:08:54.521380+00:00",
   "https://www.youtube.com/watch?v=bCe-yr38igY": "2026-11-26T03:23:41.770888+00:00",
-  "https://www.kurir.rs/vesti/beograd/10172599/trka-oko-savskog-jezera": "2026-11-26T04:08:13.871961+00:00"
+  "https://www.kurir.rs/vesti/beograd/10172599/trka-oko-savskog-jezera": "2026-11-26T04:08:13.871961+00:00",
+  "https://www.kurir.rs/vesti/srbija/10172657/backa-palanka-dodelila-65-stipendija-srednjoskolcima": "2026-11-26T04:23:17.328755+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-25T04:15+00:00",
-   "novih": 1,
-   "ukupno": 4505,
-   "sekundi": 430.3
-  },
   {
    "vreme": "2026-11-25T04:33+00:00",
    "novih": 1,
@@ -5965,6 +5958,12 @@
    "novih": 1,
    "ukupno": 4769,
    "sekundi": 526.2
+  },
+  {
+   "vreme": "2026-11-26T04:34+00:00",
+   "novih": 1,
+   "ukupno": 4770,
+   "sekundi": 654.0
   }
  ],
  "licnosti_foto": {
@@ -6114,6 +6113,33 @@
   }
  },
  "videos": [
+  {
+   "id": "zxwBb99XAWk",
+   "title": "Prostitution in Deutschland vor dem Aus?",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-26T04:01:00+00:00",
+   "thumb": "https://i.ytimg.com/vi/zxwBb99XAWk/hqdefault.jpg",
+   "live": "none",
+   "desc": "Deutschland als „Puff Europas“, so hat es Bundestagspräsidentin Julia Klöckner mal forumliert. Doch wie lässt sich Ausbeutung in der Prostitution wirksam stoppen? Eine Expertenkommission unter Familienministerin Karin Prien setzt nun auf schärfere Regeln statt auf ein striktes Sexkaufverbot. Das sorgt für parteiübergreifenden Zündstoff und offenbart einen tiefen Riss in der politischen und gesellschaftlichen Debatte, die Maximilian Stascheit zusammenfasst.\n\nIm 200-Sekunden-Interview kritisiert Anne König, frauenpolitische Sprecherin der Unionsfraktion, die Ergebnisse der Kommission. Sie fordert einen echten Paradigmenwechsel nach dem nordischen Modell und skizziert, wie ihre Fraktion ein Sex",
+   "spektar": "centar",
+   "viewers": null,
+   "naslov": "Nemačka debata o prostituciji: stroža pravila ili zabrana kupovine seksualnih usluga",
+   "opis": "Stručna komisija pod vođstvom ministarke za porodicu Karin Prien u Nemačkoj se zalaže za strožu regulaciju prostitucije umesto potpune zabrane kupovine seksualnih usluga. U snimku POLITICO Europe novinar Maksimilijan Štašajt sumira spor koji deli političke stranke i društvo, a u kratkom intervjuu govori Ane Kenig iz poslaničke grupe Unije.",
+   "tekst": [
+    "Snimak otvara pitanje kako se u Nemačkoj može delotvorno zaustaviti iskorišćavanje u prostituciji. Podseća se da je predsednica Bundestaga Julija Klekner ranije Nemačku nazvala „bordelom Evrope“.",
+    "Prema snimku, stručna komisija pod vođstvom ministarke za porodicu Karin Prien opredelila se za strožija pravila, a ne za strogu zabranu kupovine seksualnih usluga. Taj predlog, kako se navodi, izaziva sporove među strankama i otkriva dublju podelu u političkoj i društvenoj raspravi.",
+    "U intervjuu Ane Kenig, poslanica Unije zadužena za politiku prema ženama, kritikuje zaključke komisije. Ona u snimku traži pravi zaokret prema takozvanom nordijskom modelu i iznosi kako bi njena poslanička grupa mogla da pristupi tom pitanju."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "prostitucija",
+    "Nemačka",
+    "Karin Prien",
+    "Ane Kenig",
+    "nordijski model"
+   ],
+   "slug": "nemacka-debata-o-prostituciji-stroza-pravila-ili-zabrana-zxwbb99xawk"
+  },
   {
    "id": "qzKlA0GCH9Q",
    "title": "Vučić: Ne gone Vučićevića zato je nešto ukrao, gone ga za verbalni delikt",
@@ -8359,33 +8385,6 @@
    "slug": "milos-pavlovic-vanredni-izbori-jedino-su-resenje-za-beograd-iwqugcgbigc"
   },
   {
-   "id": "oBDz_39CSYA",
-   "title": "France gets an EU budget win — but wants more | Brussels Playbook Podcast",
-   "kanal": "POLITICO Europe",
-   "published": "2026-11-23T05:30:28+00:00",
-   "thumb": "https://i.ytimg.com/vi/oBDz_39CSYA/hqdefault.jpg",
-   "live": "none",
-   "desc": "Over the weekend, European Council President António Costa unveiled a new budget in which he managed to slash the money pot by €44 billion. The main winner? French President Emmanuel Macron.\n\nToday on the show, Ian Wishart and Nick Vinocur discuss how Costa’s plan hands Macron a key win ahead of a meeting of EU leaders this Thursday, as well as why the French are still super unhappy with how the budget proposal looks now.\n\nAlso on the podcast: Kinga Gál, co-president of the far-right Patriots group in the European Parliament, wants to reshape Brussels in the 2029 EU election.\n\nAnd finally, the U.K. and the EU may be trying to rekindle ties, but as with any toxic couple, things last week got ",
-   "spektar": "centar",
-   "viewers": null,
-   "naslov": "Francuska dobija u pregovorima o budžetu EU, ali želi više",
-   "opis": "U podkastu Brussels Playbook novinari Ian Wishart i Nick Vinocur govore o novom predlogu budžeta EU koji je predstavio predsednik Evropskog saveta António Costa. Povod je vikend predlog kojim je, kako se navodi, smanjen budžetski okvir za 44 milijarde evra, a koji je donео korist francuskom predsedniku Emmanuelu Macronu.",
-   "tekst": [
-    "U epizodi podkasta Brussels Playbook voditelji Ian Wishart i Nick Vinocur razmatraju novi predlog budžeta EU koji je tokom vikenda predstavio António Costa. Prema opisu snimka, Costa je uspeo da smanji ukupan iznos za 44 milijarde evra, a najveći dobitnik je francuski predsednik Emmanuel Macron.",
-    "Govori se o tome kako Costin plan Macronu donosi važnu pobedu uoči sastanka lidera EU koji je zakazan za četvrtak, ali i zašto su Francuzi i dalje veoma nezadovoljni aktuelnim izgledom predloga.",
-    "U epizodi se pominje i Kinga Gál, supredsednica krajnje desne grupe Patrioti u Evropskom parlamentu, koja želi da preoblikuje Brisel na izborima za Evropski parlament 2029. godine. Tema je i stanje u odnosima Velike Britanije i EU, koji se, uprkos pokušajima ponovnog zbližavanja, prema opisu komplikuju."
-   ],
-   "rubrika": "politika",
-   "oznake": [
-    "budžet EU",
-    "António Costa",
-    "Emmanuel Macron",
-    "Kinga Gál",
-    "Evropski savet"
-   ],
-   "slug": "francuska-dobija-u-pregovorima-o-budzetu-eu-ali-zeli-vise-obdz-39csya"
-  },
-  {
    "id": "eaH9rs_vPAw",
    "title": "Studentski svedoci…",
    "kanal": "Vukša Dragović",
@@ -8661,7 +8660,7 @@
    "slug": "aleksandar-ivanovic-sedeo-sam-u-prostoriji-sa-covekom-koji-6vhn2aan3j8"
   }
  ],
- "_novi_snimci": false,
+ "_novi_snimci": true,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -49913,7 +49912,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "Nastavak Prve sednice Narodne skupštinace Republike Srbije u Petnaestom sazivu 25.11.2026.",
-  "provereno": "2026-11-26T04:08:56.826520+00:00",
+  "provereno": "2026-11-26T04:24:14.044219+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
@@ -67077,6 +67076,29 @@
    ],
    "slug": "vucic-vucicevica-ne-gone-zbog-kradje-vec-zbog-verbalnog-qzkla0gch9q",
    "spektar": "stranka"
+  },
+  "zxwBb99XAWk": {
+   "id": "zxwBb99XAWk",
+   "title": "Prostitution in Deutschland vor dem Aus?",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-26T04:01:00+00:00",
+   "naslov": "Nemačka debata o prostituciji: stroža pravila ili zabrana kupovine seksualnih usluga",
+   "opis": "Stručna komisija pod vođstvom ministarke za porodicu Karin Prien u Nemačkoj se zalaže za strožu regulaciju prostitucije umesto potpune zabrane kupovine seksualnih usluga. U snimku POLITICO Europe novinar Maksimilijan Štašajt sumira spor koji deli političke stranke i društvo, a u kratkom intervjuu govori Ane Kenig iz poslaničke grupe Unije.",
+   "tekst": [
+    "Snimak otvara pitanje kako se u Nemačkoj može delotvorno zaustaviti iskorišćavanje u prostituciji. Podseća se da je predsednica Bundestaga Julija Klekner ranije Nemačku nazvala „bordelom Evrope“.",
+    "Prema snimku, stručna komisija pod vođstvom ministarke za porodicu Karin Prien opredelila se za strožija pravila, a ne za strogu zabranu kupovine seksualnih usluga. Taj predlog, kako se navodi, izaziva sporove među strankama i otkriva dublju podelu u političkoj i društvenoj raspravi.",
+    "U intervjuu Ane Kenig, poslanica Unije zadužena za politiku prema ženama, kritikuje zaključke komisije. Ona u snimku traži pravi zaokret prema takozvanom nordijskom modelu i iznosi kako bi njena poslanička grupa mogla da pristupi tom pitanju."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "prostitucija",
+    "Nemačka",
+    "Karin Prien",
+    "Ane Kenig",
+    "nordijski model"
+   ],
+   "slug": "nemacka-debata-o-prostituciji-stroza-pravila-ili-zabrana-zxwbb99xawk",
+   "spektar": "centar"
   }
  }
 }
