@@ -35,7 +35,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T12:05:48.172440+00:00",
- "updated": "2026-11-26T12:05:48.172440+00:00",
+ "updated": "2026-11-26T13:24:11.416137+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -48,11 +48,18 @@
    "url": "https://informer.rs/politika/vesti/1173373/evropska-komisija-novac-srbija-albanija-crna-gora",
    "title": "(VIDEO) Katastrofa! Evropa zvanično otpisala Srbiju: Gubimo stotine miliona evra, sve ode Albaniji, Crnoj Gori, Severnoj Makedoniji...",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1674995/neprijatne-vesti-srbiju-ursula-objavila-preusmerava-sredstva-crnoj-gori-albaniji-severnoj-makedoniji",
+   "title": "NEPRIJATNE VESTI ZA SRBIJU: Ursula objavila da preusmerava sredstva Crnoj Gori, Albaniji i Severnoj Makedoniji",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "EVROPSKA KOMISIJA ĆE PREUSMERITI DEO NOVCA NAMENJEN SRBIJI: Fon der Lajenova potvrdila: Više para Crnoj Gori, Albaniji i Severnoj Makedoniji!",
-  "(VIDEO) Katastrofa! Evropa zvanično otpisala Srbiju: Gubimo stotine miliona evra, sve ode Albaniji, Crnoj Gori, Severnoj Makedoniji..."
+  "(VIDEO) Katastrofa! Evropa zvanično otpisala Srbiju: Gubimo stotine miliona evra, sve ode Albaniji, Crnoj Gori, Severnoj Makedoniji...",
+  "NEPRIJATNE VESTI ZA SRBIJU: Ursula objavila da preusmerava sredstva Crnoj Gori, Albaniji i Severnoj Makedoniji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +71,7 @@
   "local": false,
   "alt": "row of european union flags",
   "link": "https://unsplash.com/@guillaumeperigois"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

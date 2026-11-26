@@ -28,7 +28,7 @@
  ],
  "importance": 2,
  "published": "2026-11-26T10:43:27.881389+00:00",
- "updated": "2026-11-26T12:51:19.902058+00:00",
+ "updated": "2026-11-26T13:24:11.416137+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -41,11 +41,18 @@
    "url": "https://n1info.rs/vesti/varvarin-napad-na-policajce-nasilje-u-porodici/",
    "title": "Uhapšen muškarac iz Varvarina zbog napada na policajace koji su intervenisali zbog nasilja u porodici",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/uhapsen-zitelj-varvarina-zbog-sumnje-da-je-napao-policajce-koji-su-dosli-po-prijavi-za-nasilje-u-porodici/",
+   "title": "Uhapšen žitelj Varvarina zbog sumnje da je napao policajce koji su došli po prijavi za nasilje u porodici",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "POLICIJA MU DOŠLA NA VRATA ZBOG PRIJAVE ZA NASILJE U PORODICI, ON NASRNUO I NA NJIH: Uhapšen muškarac (29) iz Varvarina",
-  "Uhapšen muškarac iz Varvarina zbog napada na policajace koji su intervenisali zbog nasilja u porodici"
+  "Uhapšen muškarac iz Varvarina zbog napada na policajace koji su intervenisali zbog nasilja u porodici",
+  "Uhapšen žitelj Varvarina zbog sumnje da je napao policajce koji su došli po prijavi za nasilje u porodici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +65,6 @@
   "alt": "A police light bar flashing red and blue against a dark night background",
   "link": "https://unsplash.com/@scottrodgerson"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

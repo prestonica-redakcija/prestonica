@@ -26,7 +26,7 @@
  ],
  "importance": 7,
  "published": "2026-11-26T13:09:30.305892+00:00",
- "updated": "2026-11-26T13:09:30.305892+00:00",
+ "updated": "2026-11-26T13:24:11.416137+00:00",
  "sources": [
   {
    "name": "N1",
@@ -39,11 +39,18 @@
    "url": "https://insajder.net/prenosimo/pokret-kreni-promeni-podrska-predsednickom-kandidatu-studentskog-pokreta",
    "title": "Demokratska stranka i Pokret Kreni-promeni: Podrška predsedničkom kandidatu Studentskog pokreta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4440320-demokratska-stranka-se-oglasila-i-otkrila-cijeg-kandidata-ce-podrzati-na-predsednickim-izborima",
+   "title": "Demokratska stranka se oglasila i otkrila čijeg kandidata će podržati na predsedničkim izborima",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "DS: Podržaćemo kandidata studentskog pokreta za predsednika Srbije",
-  "Demokratska stranka i Pokret Kreni-promeni: Podrška predsedničkom kandidatu Studentskog pokreta"
+  "Demokratska stranka i Pokret Kreni-promeni: Podrška predsedničkom kandidatu Studentskog pokreta",
+  "Demokratska stranka se oglasila i otkrila čijeg kandidata će podržati na predsedničkim izborima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Za_pravednu_Srbiju_%E2%80%93_Demokratska_stranka_1.jpg",
   "alt": "DS i Kreni-promeni podržavaju kandidata Studentskog pokreta na predsedničkim izborima"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

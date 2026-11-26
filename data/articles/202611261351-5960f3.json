@@ -39,7 +39,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T12:51:19.902058+00:00",
- "updated": "2026-11-26T13:09:30.305892+00:00",
+ "updated": "2026-11-26T13:24:11.416137+00:00",
  "sources": [
   {
    "name": "N1",
@@ -76,6 +76,18 @@
    "url": "https://www.telegraf.rs/4440297-aleksandar-cupic-na-prvom-sastanku-u-inostranstvu-vec-veceras-putuje-van-srbije",
    "title": "Aleksandar Čupić na prvom sastanku u inostranstvu: Već večeras putuje van Srbije",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/aleksandar-cupic-sutra-na-sastanku-lidera-procesa-brdo-brioni-sutra-u-ohridu/",
+   "title": "Aleksandar Čupić sutra na sastanku lidera procesa Brdo-Brioni sutra u Ohridu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253821/aleksandar-cupic-na-sastanku-lidera-regiona-u-ohridu/vest",
+   "title": "V.d.predsednika Srbije Aleksandar Čupić na sastanku lidera procesa Brdo-Brioni u Ohridu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -84,7 +96,9 @@
   "Čupić sutra na sastanku lidera procesa Brdo-Brioni sutra u Ohridu",
   "V.d. predsednika Srbije Aleksandar Čupić na sastanku lidera procesa Brdo-Brioni u Ohridu",
   "ČUPIĆ U OHRIDU: Prisustvovaće sastanku lidera procesa Brdo-Brioni",
-  "Aleksandar Čupić na prvom sastanku u inostranstvu: Već večeras putuje van Srbije"
+  "Aleksandar Čupić na prvom sastanku u inostranstvu: Već večeras putuje van Srbije",
+  "Aleksandar Čupić sutra na sastanku lidera procesa Brdo-Brioni sutra u Ohridu",
+  "V.d.predsednika Srbije Aleksandar Čupić na sastanku lidera procesa Brdo-Brioni u Ohridu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -97,6 +111,6 @@
   "alt": "People are watching the sunset over the water",
   "link": "https://unsplash.com/@martinkoloski"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

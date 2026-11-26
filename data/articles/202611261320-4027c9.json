@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T12:20:57.174212+00:00",
- "updated": "2026-11-26T13:09:30.305892+00:00",
+ "updated": "2026-11-26T13:24:11.416137+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -46,12 +46,19 @@
    "url": "https://www.tanjug.rs/srbija/hronika/301219/uhapsena-jos-jedna-osoba-zbog-zlostavljanja-maloletnika-u-odzacima/vest",
    "title": "Uhapšena još jedna osoba zbog zlostavljanja maloletnika u Odžacima",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/uhapsen-jos-jedan-policajac-osumnjicen-za-zlostavljanje-i-mucenje-tinejdzera-iz-odzaka/",
+   "title": "Uhapšen još jedan policajac osumnjičen za zlostavljanje i mučenje tinejdžera iz Odžaka",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Određen pritvor muškarcu koji je osumnjičen za seksualno zlostavljanje maloletnice",
   "Identifikovana dvojica zlostavljača iz policije: Mučili maloletnika u Odžacima, određeno zadržavanje od 48h",
-  "Uhapšena još jedna osoba zbog zlostavljanja maloletnika u Odžacima"
+  "Uhapšena još jedna osoba zbog zlostavljanja maloletnika u Odžacima",
+  "Uhapšen još jedan policajac osumnjičen za zlostavljanje i mučenje tinejdžera iz Odžaka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "alt": "a large building with columns and a clock on the front of it",
   "link": "https://unsplash.com/@onthesearchforpineapples"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
