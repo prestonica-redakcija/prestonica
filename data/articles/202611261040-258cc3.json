@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T09:40:25.804528+00:00",
- "updated": "2026-11-26T14:55:18.186613+00:00",
+ "updated": "2026-11-27T14:09:56.940428+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -96,6 +96,12 @@
    "url": "https://n1info.rs/najave-emisija/novi-dan-gost-stanko-fustar/",
    "title": "Novi dan: Gost Stanko Fuštar",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/video/novi-dan/press-stanko-fustar-27112026/",
+   "title": "Press: Stanko Fuštar (27.11.2026)",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -109,7 +115,8 @@
   "Stanko Fuštar izabran za predsednika Odbora za administrativno-budžetska i mandatno-imunitetska pitanja",
   "ODRŽANA PRVA SEDNICA: Stanko Fuštar izabran za predsednika Odbora za administrativno-budžetska i mandatno-imunitetska pitanja",
   "Stanko Fuštar izglasan za predsednika Administrativnog odbora",
-  "Novi dan: Gost Stanko Fuštar"
+  "Novi dan: Gost Stanko Fuštar",
+  "Press: Stanko Fuštar (27.11.2026)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -122,6 +129,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata.jpg",
   "alt": "Stanko Fuštar izabran za predsednika Odbora za administrativno-budžetska pitanja"
  },
- "novo_od_pisanja": 8,
+ "novo_od_pisanja": 9,
  "boost": 1.6
 }

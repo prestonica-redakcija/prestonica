@@ -26,16 +26,23 @@
  ],
  "importance": 7,
  "published": "2026-11-27T13:34:04.120066+00:00",
- "updated": "2026-11-27T13:34:04.120066+00:00",
+ "updated": "2026-11-27T14:09:56.940428+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/gotovo-svaki-cetvrti-evro-izvoza-srbije-u-eu-pod-uticajem-novih-zelenih-pravila-od-30-decembra",
    "title": "Gotovo svaki četvrti evro izvoza Srbije u EU pod uticajem novih zelenih pravila od 30. decembra",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/301495/gotovo-svaki-cetvrti-evro-izvoza-srbije-u-eu-pod-uticajem-novih-zelenih-pravila-od-30-decembra/vest",
+   "title": "Gotovo svaki četvrti evro izvoza Srbije u EU pod uticajem novih zelenih pravila od 30. decembra",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
+  "Gotovo svaki četvrti evro izvoza Srbije u EU pod uticajem novih zelenih pravila od 30. decembra",
   "Gotovo svaki četvrti evro izvoza Srbije u EU pod uticajem novih zelenih pravila od 30. decembra"
  ],
  "author": "Redakcija Prestonice",
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "NALED: nova zelena pravila EU pogađaju gotovo četvrtinu srpskog izvoza, vrednu 4,64 milijarde evra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

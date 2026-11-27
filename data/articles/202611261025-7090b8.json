@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T09:25:09.026225+00:00",
- "updated": "2026-11-27T13:54:38.749331+00:00",
+ "updated": "2026-11-27T14:09:56.940428+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -88,6 +88,18 @@
    "url": "https://nova.rs/vesti/hronika/pesak-poginuo-u-zemunu-udario-ga-automobil-kada-je-pokusao-da-predje-novi-novosadski-put/",
    "title": "Pešak poginuo u Zemunu: Udario ga automobil kada je pokušao da pređe Novi novosadski put",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301514/automobil-usmrtio-pesaka-u-zemunu/vest",
+   "title": "Automobil usmrtio pešaka u Zemunu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10174832/automobil-usmrtio-pesaka-u-zemunu",
+   "title": "AUTOMOBIL POKOSIO PEŠAKA! Detalji stravične nesreće kod Zemunu: Muškarac stradao na licu mesta",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -100,7 +112,9 @@
   "TEŽAK UDES U ZEMUNU: Jezive scene na Starom novosadskom putu kod \"Astaca\", strahuje se da ima teško povređenih",
   "Tragedija u Zemunu: Automobil oborio pešaka na Novom novosadskom putu, muškarac (40) stradao na licu mesta",
   "JEZIVI PRIZORI POSLE SUDARA U ZEMUNU: Došlo do stravične nesreće na Starom novosadskom putu, strahuje se da ima teško povređenih (foto)",
-  "Pešak poginuo u Zemunu: Udario ga automobil kada je pokušao da pređe Novi novosadski put"
+  "Pešak poginuo u Zemunu: Udario ga automobil kada je pokušao da pređe Novi novosadski put",
+  "Automobil usmrtio pešaka u Zemunu",
+  "AUTOMOBIL POKOSIO PEŠAKA! Detalji stravične nesreće kod Zemunu: Muškarac stradao na licu mesta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -113,6 +127,6 @@
   "alt": "people walking on street near red and white bus during daytime",
   "link": "https://unsplash.com/@jubilation"
  },
- "novo_od_pisanja": 7,
- "boost": 1.56
+ "novo_od_pisanja": 9,
+ "boost": 1.6
 }

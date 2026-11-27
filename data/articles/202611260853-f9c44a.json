@@ -32,7 +32,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-27T13:54:38.749331+00:00",
+ "updated": "2026-11-27T14:09:56.940428+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -633,6 +633,24 @@
    "url": "https://www.danas.rs/vesti/politika/poziv-dijaspori-da-se-sto-pre-prijavi-za-glasanje-na-predsednickim-izborima-27-decembra/",
    "title": "Poziv dijaspori da se što pre prijavi za glasanje na predsedničkim izborima 27. decembra",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10174801/elek-srpska-lista-ne-znam-da-li-cemo-podrzati-saicica-odlucice-predsednistvo",
+   "title": "ELEK (SRPSKA LISTA): Ne znam da li ćemo podržati Saičića, odlučiće Predsedništvo",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/izbori-predsednik-srbije-rok-drugi-krug/",
+   "title": "Izbori za predsednika Srbije: Koji je rok za prijavu kandidata i kada se ide u drugi krug?",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/rik-dijaspora-prijave-za-glasanje-na-predsednickim-izborima/",
+   "title": "Član RIK-a pozvao građane u dijaspori da se što pre prijave za glasanje na predsedničkim izborima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -735,7 +753,10 @@
   "Opposition MP Brnabic says SNS to decide on presidential candidate December 13 - days after deadline",
   "Elek (Srpska lista): Ne znam da li ćemo podržati Saičića, odlučiće Predsedništvo",
   "Elek (Srpska lista): Ne znam da li ćemo podržati Saičića, odlučiće Predsedništvo",
-  "Poziv dijaspori da se što pre prijavi za glasanje na predsedničkim izborima 27. decembra"
+  "Poziv dijaspori da se što pre prijavi za glasanje na predsedničkim izborima 27. decembra",
+  "ELEK (SRPSKA LISTA): Ne znam da li ćemo podržati Saičića, odlučiće Predsedništvo",
+  "Izbori za predsednika Srbije: Koji je rok za prijavu kandidata i kada se ide u drugi krug?",
+  "Član RIK-a pozvao građane u dijaspori da se što pre prijave za glasanje na predsedničkim izborima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -748,7 +769,7 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 60,
+ "novo_od_pisanja": 63,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:45:47.570231+00:00",
  "verzija": 7

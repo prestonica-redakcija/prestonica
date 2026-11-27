@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T16:34:09.007546+00:00",
- "updated": "2026-11-27T10:48:25.392298+00:00",
+ "updated": "2026-11-27T14:09:56.940428+00:00",
  "sources": [
   {
    "name": "N1",
@@ -114,6 +114,12 @@
    "url": "https://nova.rs/vesti/svet/rojters-o-studentskoj-listi-srbija-jos-nema-mandatara-a-tri-kljucna-roka-isticu-u-decembru/",
    "title": "Rojters o Studentskoj listi: Srbija još nema mandatara, a tri ključna roka ističu u decembru",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/rojters-vlada-srbija-nije-formirana/",
+   "title": "Rojters o posledicama neformiranja vlade u Srbiji: „Tri važna roka ističu, a njihovo propuštanje preti blokadi“",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -130,7 +136,8 @@
   "RIK objavio rokove za predsedničke izbore: Do kada se predaju kandidature i kada počinje izborna tišina",
   "RIK objavio ključne rokove: Evo kada ističe rok za kandidature i kada se održavaju izbori",
   "Ovo su ključni datumi koje birači u Srbiji treba da znaju pred predsedničke izbore 27. decembra",
-  "Rojters o Studentskoj listi: Srbija još nema mandatara, a tri ključna roka ističu u decembru"
+  "Rojters o Studentskoj listi: Srbija još nema mandatara, a tri ključna roka ističu u decembru",
+  "Rojters o posledicama neformiranja vlade u Srbiji: „Tri važna roka ističu, a njihovo propuštanje preti blokadi“"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -142,7 +149,7 @@
   "local": true,
   "alt": "RIK usvojio odluke o predsedničkim izborima: listić krem boje, kontrolni list roze"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-27T10:48:25.392298+00:00",
  "verzija": 3

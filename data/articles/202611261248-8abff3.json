@@ -29,7 +29,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T11:48:13.410537+00:00",
- "updated": "2026-11-27T09:10:00.039987+00:00",
+ "updated": "2026-11-27T14:09:56.940428+00:00",
  "sources": [
   {
    "name": "N1",
@@ -204,6 +204,18 @@
    "url": "https://www.danas.rs/vesti/drustvo/pritvor-za-direktorku-privrednog-drustva-alta-grup/",
    "title": "Pritvor za direktorku privrednog društva Alta grup",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/saslusan-navijac-stevan-sojic-tuzilastvo-trazi-pritvor/",
+   "title": "Saslušan navijač Stevan Sojić: Tužilaštvo traži pritvor",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4441042-saslusan-vodja-navijaca-zvezde-stevan-sojic-osumnjicen-da-je-ispred-suda-pritiskao-advokata-da-promeni-iskaz",
+   "title": "SASLUŠAN VOĐA NAVIJAČA ZVEZDE: Stevan Sojić osumnjičen da je ispred suda pritiskao advokata da promeni iskaz!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -235,7 +247,9 @@
   "Viši sud u Beogradu odredio pritvor direktorki Alta grup",
   "Određen pritvor direktorki Alta group; Zaposlenoj u Alta banci kućni pritvor",
   "Određen pritvor direktorki Alta group, zaposlenoj u Alta banci kućni pritvor",
-  "Pritvor za direktorku privrednog društva Alta grup"
+  "Pritvor za direktorku privrednog društva Alta grup",
+  "Saslušan navijač Stevan Sojić: Tužilaštvo traži pritvor",
+  "SASLUŠAN VOĐA NAVIJAČA ZVEZDE: Stevan Sojić osumnjičen da je ispred suda pritiskao advokata da promeni iskaz!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -248,7 +262,7 @@
   "alt": "opened gray stainless steel drawers",
   "link": "https://unsplash.com/@jasonpofahlphotography"
  },
- "novo_od_pisanja": 4,
+ "novo_od_pisanja": 6,
  "boost": 1.6,
  "prepisano": "2026-11-27T08:08:26.700787+00:00",
  "verzija": 4
