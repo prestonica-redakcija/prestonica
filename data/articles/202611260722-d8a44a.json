@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-27T13:14:03.031491+00:00",
+ "updated": "2026-11-27T13:34:04.120066+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -665,6 +665,36 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/301499/mup-apeluje-na-vozace-da-budu-posebno-oprezni-zbog-najavljenih-vremenskih-prilika/vest",
    "title": "MUP apeluje na vozače da budu posebno oprezni zbog najavljenih vremenskih prilika",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301387/opelo-mitropolitu-backom-irineju-u-novom-sadu-sluzi-patrijarh-porfirije/vest",
+   "title": "Opelo mitropolitu bačkom Irineju u Novom Sadu služi patrijarh Porfirije",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10174752/apel-mup-a-pripremite-se-za-snezne-uslove",
+   "title": "APEL MUP-A POVODOM NAJAVLJENOG SNEGA: Rizik od nesreća je povećan, pojačane saobraćajne kontrole",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1675336/patrijarh-kiril-oprostio-mitropolita-irineja-otisao-veliki-cuvar-jedinstva-pravoslavlja",
+   "title": "PATRIJARH KIRIL SE OPROSTIO OD MITROPOLITA IRINEJA: Otišao je veliki čuvar jedinstva pravoslavlja",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4441016-oglasio-se-mitropolit-nektarije-pravoslavna-crkva-izgubila-velikog-teologa-irineja",
+   "title": "Oglasio se mitropolit Nektarije: Pravoslavna crkva izgubila velikog teologa Irineja",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4441017-stize-naglo-zahladjenje-a-mup-krece-u-masovne-kontrole-bez-ove-opreme-ne-sedajte-za-volan",
+   "title": "Stiže naglo zahlađenje, a MUP kreće u masovne kontrole: Bez ove opreme NE SEDAJTE ZA VOLAN",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -773,7 +803,12 @@
   "Viz er uvodi četiri nove linije iz Beograda",
   "MUP apeluje na vozače: Ne krećite na put bez zimske opreme, najavljene pojačane kontrole",
   "LITVANCI SRUŠILI SRBIJU, PA DOBILI SJAJNE VESTI: Valančijunas u timu za meč protiv Bosne, a uz njega stiže još jedan igrač!",
-  "MUP apeluje na vozače da budu posebno oprezni zbog najavljenih vremenskih prilika"
+  "MUP apeluje na vozače da budu posebno oprezni zbog najavljenih vremenskih prilika",
+  "Opelo mitropolitu bačkom Irineju u Novom Sadu služi patrijarh Porfirije",
+  "APEL MUP-A POVODOM NAJAVLJENOG SNEGA: Rizik od nesreća je povećan, pojačane saobraćajne kontrole",
+  "PATRIJARH KIRIL SE OPROSTIO OD MITROPOLITA IRINEJA: Otišao je veliki čuvar jedinstva pravoslavlja",
+  "Oglasio se mitropolit Nektarije: Pravoslavna crkva izgubila velikog teologa Irineja",
+  "Stiže naglo zahlađenje, a MUP kreće u masovne kontrole: Bez ove opreme NE SEDAJTE ZA VOLAN"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -786,7 +821,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 69,
+ "novo_od_pisanja": 74,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6

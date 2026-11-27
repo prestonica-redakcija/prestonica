@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-27T13:14:03.031491+00:00",
- "updated": "2026-11-27T13:14:03.031491+00:00",
+ "updated": "2026-11-27T13:34:04.120066+00:00",
  "sources": [
   {
    "name": "N1",
@@ -43,11 +43,18 @@
    "url": "https://www.danas.rs/vesti/politika/miroslav-aleksic-u-svojstvu-odbornika-nps-u-trsteniku-najavljuje-provere-rada-lokalne-vlasti/",
    "title": "Miroslav Aleksić u svojstvu odbornika NPS u Trsteniku najavljuje provere rada lokalne vlasti",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/aleksic-najavio-reviziju-rada-vlasti-u-trsteniku-i-proveru-imovine-opstinskih-funkcionera/",
+   "title": "Aleksić najavio reviziju rada vlasti u Trsteniku i proveru imovine opštinskih funkcionera",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Aleksić najavio reviziju rada vlasti u Trsteniku i proveru imovine opštinskih funkcionera",
-  "Miroslav Aleksić u svojstvu odbornika NPS u Trsteniku najavljuje provere rada lokalne vlasti"
+  "Miroslav Aleksić u svojstvu odbornika NPS u Trsteniku najavljuje provere rada lokalne vlasti",
+  "Aleksić najavio reviziju rada vlasti u Trsteniku i proveru imovine opštinskih funkcionera"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "alt": "A group of men are having a meeting",
   "link": "https://unsplash.com/@yogisplash"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T09:25:09.026225+00:00",
- "updated": "2026-11-27T09:59:26.049974+00:00",
+ "updated": "2026-11-27T13:34:04.120066+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -64,6 +64,18 @@
    "url": "https://www.tanjug.rs/srbija/hronika/301402/u-krnjevu-kod-velike-plane-voz-udario-automobil-vozac-poginuo-na-licu-mesta/vest",
    "title": "U Krnjevu kod Velike Plane voz udario automobil, vozač poginuo na licu mesta",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4441015-tezak-udes-u-zemunu-jezive-scene-na-starom-novosadskom-putu-kod-astaca-strahuje-se-da-ima-tesko-povredjenih",
+   "title": "TEŽAK UDES U ZEMUNU: Jezive scene na Starom novosadskom putu kod \"Astaca\", strahuje se da ima teško povređenih",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4441020-tragedija-u-zemunu-automobil-oborio-pesaka-na-novom-novosadskom-putu-muskarac-40-stradao-na-licu-mesta",
+   "title": "Tragedija u Zemunu: Automobil oborio pešaka na Novom novosadskom putu, muškarac (40) stradao na licu mesta",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -72,7 +84,9 @@
   "Strahuje se da ima mrtvih: Teška saobraćajna nesreća na putu Kovin - Bavanište",
   "Užas kod Velike Plane: Sudar voza i automobila, poginuo mušarac",
   "SUDARILI SE VOZ I AUTOMOBIL, IMA MRTVIH! Teška nesreća kod Velike Plane: Poginula jedna osoba",
-  "U Krnjevu kod Velike Plane voz udario automobil, vozač poginuo na licu mesta"
+  "U Krnjevu kod Velike Plane voz udario automobil, vozač poginuo na licu mesta",
+  "TEŽAK UDES U ZEMUNU: Jezive scene na Starom novosadskom putu kod \"Astaca\", strahuje se da ima teško povređenih",
+  "Tragedija u Zemunu: Automobil oborio pešaka na Novom novosadskom putu, muškarac (40) stradao na licu mesta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -85,6 +99,6 @@
   "alt": "people walking on street near red and white bus during daytime",
   "link": "https://unsplash.com/@jubilation"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

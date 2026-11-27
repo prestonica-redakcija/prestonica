@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-27T12:14:31.285146+00:00",
- "updated": "2026-11-27T12:14:31.285146+00:00",
+ "updated": "2026-11-27T13:34:04.120066+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://biznis.telegraf.rs/agro-biz/4440967-za-tri-godine-africka-kuga-svinja-odnela-preko-104000-grla-dri-upozorava-na-propuste-u-kontroli-bolesti",
    "title": "Za tri godine Afrička kuga svinja odnela preko 104.000 grla: DRI upozorava na propuste u kontroli bolesti",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/dri-africka-kuga-svinja-u-srbiji-za-tri-godine-odnela-vise-od-100000-grla",
+   "title": "DRI: Afrička kuga svinja u Srbiji za tri godine odnela više od 100.000 grla",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "DRI: Afrička kuga svinja za tri godine odnela 100.000 grla, naknada štete oko dve milijarde dinara",
-  "Za tri godine Afrička kuga svinja odnela preko 104.000 grla: DRI upozorava na propuste u kontroli bolesti"
+  "Za tri godine Afrička kuga svinja odnela preko 104.000 grla: DRI upozorava na propuste u kontroli bolesti",
+  "DRI: Afrička kuga svinja u Srbiji za tri godine odnela više od 100.000 grla"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "pink pig on brown wooden cage",
   "link": "https://unsplash.com/@diegosan"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-26T11:13:21.726257+00:00",
- "updated": "2026-11-26T11:13:21.726257+00:00",
+ "updated": "2026-11-27T13:34:04.120066+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/ekonomija/vesti/1674933/6-000-evra-vise-automobilu-evropski-propisi-podizu-cenu",
    "title": "DO 6.000 EVRA VIŠE PO AUTOMOBILU: Evropski propisi podižu cenu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/auto/auto-vesti/4440448-sef-renaulta-tvrdi-da-cete-za-novi-automobil-do-2030-placati-i-6000-evra-vise-zbog-propisa-eu",
+   "title": "Šef Renaulta tvrdi da ćete za novi automobil do 2030. plaćati i 6.000 evra više zbog propisa EU",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "DO 6.000 EVRA VIŠE PO AUTOMOBILU: Evropski propisi podižu cenu"
+  "DO 6.000 EVRA VIŠE PO AUTOMOBILU: Evropski propisi podižu cenu",
+  "Šef Renaulta tvrdi da ćete za novi automobil do 2030. plaćati i 6.000 evra više zbog propisa EU"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "alt": "Robotic arms assembling a car chassis on a factory line",
   "link": "https://unsplash.com/@nailil"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

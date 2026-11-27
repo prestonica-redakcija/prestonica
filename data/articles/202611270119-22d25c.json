@@ -26,17 +26,24 @@
  ],
  "importance": 4,
  "published": "2026-11-27T00:19:58.733385+00:00",
- "updated": "2026-11-27T00:19:58.733385+00:00",
+ "updated": "2026-11-27T13:34:04.120066+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/301341/pks-srpsko-ceski-poslovni-i-investicioni-forum-30-novembra-u-beogradu/vest",
    "title": "PKS: Srpsko-češki poslovni i investicioni forum 30. novembra u Beogradu",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/301494/srpsko-ceski-poslovni-forum-30-novembra-u-privrednoj-komori-srbije/vest",
+   "title": "Srpsko-česki poslovni forum 30. novembra u Privrednoj komori Srbije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "PKS: Srpsko-češki poslovni i investicioni forum 30. novembra u Beogradu"
+  "PKS: Srpsko-češki poslovni i investicioni forum 30. novembra u Beogradu",
+  "Srpsko-česki poslovni forum 30. novembra u Privrednoj komori Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "alt": "crowd of people sitting on chairs inside room",
   "link": "https://unsplash.com/@headwayio"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
