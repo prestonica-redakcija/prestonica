@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-26T13:55:33.392531+00:00",
- "updated": "2026-11-26T13:55:33.392531+00:00",
+ "updated": "2026-11-27T22:50:09.752761+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/301229/sp-bi-mogla-da-snizi-kreditni-rejting-envidije-zbog-zavisnosti-od-dzensena-huanga/vest",
    "title": "S&P bi mogla da snizi kreditni rejting Envidije zbog zavisnosti od Džensena Huanga",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/301657/sp-promenio-izglede-za-kreditni-rejting-francuske-u-negativne/vest",
+   "title": "S&P promenio izglede za kreditni rejting Francuske u negativne",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "S&P bi mogla da snizi kreditni rejting Envidije zbog zavisnosti od Džensena Huanga"
+  "S&P bi mogla da snizi kreditni rejting Envidije zbog zavisnosti od Džensena Huanga",
+  "S&P promenio izglede za kreditni rejting Francuske u negativne"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "alt": "the nvidia logo is displayed on a table",
   "link": "https://unsplash.com/@mariiaberezovsky"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

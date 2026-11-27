@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://informer.rs/politika/vesti/1172342/vladimir-stimac-dule-vujosevic-bizarno": "2026-11-22T22:45:57.455788+00:00",
-  "https://www.kurir.rs/vesti/politika/10169819/lidija-vukicevic-o-incidentu-sa-jogurtom": "2026-11-22T22:45:57.455788+00:00",
   "https://www.b92.net/info/svet/287245/piloti-bombardera-b-2-otkrili-dramaticne-trenutke-napada-na-iranska-nuklearna-postrojenja/vest": "2026-11-22T23:00:49.016868+00:00",
   "https://www.euronews.rs/svet/fokus/253227/napadi-sirom-istocnog-konga-pojacani-od-kraja-oktobra/vest": "2026-11-22T23:00:49.016868+00:00",
   "https://n1info.rs/vesti/sindikat-gsp-zaustaviti-povecanje-cena-privatnim-prevoznicima/": "2026-11-22T23:00:49.016868+00:00",
@@ -6407,18 +6405,25 @@
   "https://n1info.rs/sport-klub/tenis/teniseri-italije-u-finalu-dejvis-kupa-pobedom-protiv-ceske/": "2026-11-27T22:34:31.341346+00:00",
   "https://www.danas.rs/svet/istraga-protiv-konakovica/": "2026-11-27T22:34:31.341346+00:00",
   "https://informer.rs/politika/vesti/1173876/radomir-saicic-studentska-lista-nova-vlast": "2026-11-27T22:34:31.341346+00:00",
-  "https://n1info.rs/vesti/anem-lokalni-funkcioner-targetira-redakciju-portala-bujanovacke/": "2026-11-27T22:34:31.341346+00:00"
+  "https://n1info.rs/vesti/anem-lokalni-funkcioner-targetira-redakciju-portala-bujanovacke/": "2026-11-27T22:34:31.341346+00:00",
+  "https://www.telegraf.rs/vesti/svet/4441262-pad-vojnog-helikoptera-u-peruu-najmanje-osam-ljudi-poginulo": "2026-11-27T22:50:09.752761+00:00",
+  "https://www.euronews.rs/svet/planeta/254037/peru-osam-poginulih-u-padu-vojnog-helikoptera/vest": "2026-11-27T22:50:09.752761+00:00",
+  "https://insajder.net/prenosimo/odbrana-tacija-trazi-produzenje-roka-za-zalbu-na-presudu-u-slucaju-ometanja-pravde": "2026-11-27T22:50:09.752761+00:00",
+  "https://www.danas.rs/sport/italija-dejvis-kup-finale/": "2026-11-27T22:50:09.752761+00:00",
+  "https://www.tanjug.rs/ekonomija/svet/301657/sp-promenio-izglede-za-kreditni-rejting-francuske-u-negativne/vest": "2026-11-27T22:50:09.752761+00:00",
+  "https://n1info.rs/svet/norveska-carter-aviokompanija-nors-atlantik-ervejz-odlazi-u-stecaj/": "2026-11-27T22:50:09.752761+00:00",
+  "https://www.tanjug.rs/svet/politika/301654/ukrajina-ponudila-rusiji-primirje-u-crnom-moru-radi-izvoza-poljoprivrednih-proizvoda/vest": "2026-11-27T22:50:09.752761+00:00",
+  "https://insajder.net/prenosimo/sibiha-ukrajina-ponudila-rusiji-primirje-u-crnom-moru-radi-izvoza-poljoprivrednih-proizvoda": "2026-11-27T22:50:09.752761+00:00",
+  "https://www.kurir.rs/zabava/auto/10174624/nisu-sve-zimske-gume-odgovarajuce-pazite-da-vas-ne-prevare": "2026-11-27T22:50:09.752761+00:00",
+  "https://informer.rs/politika/vesti/1173879/adem-mavric-kurti-rama": "2026-11-27T22:50:09.752761+00:00",
+  "https://www.kurir.rs/vesti/beograd/10175182/izmena-rezima-saobracaja-na-obilaznici-beograda": "2026-11-27T22:50:09.752761+00:00",
+  "https://www.kurir.rs/stars/rijaliti/10175042/drama-u-eliti-sanja-grujic-nabacuje-marka-gloriji": "2026-11-27T22:50:09.752761+00:00",
+  "https://www.b92.net/info/svet/288789/netanjahu-spreman-da-ponudi-ajzenkotu-vodece-mesto-u-rotacionoj-vladi/vest": "2026-11-27T22:50:09.752761+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-27T06:14+00:00",
-   "novih": 0,
-   "ukupno": 5129,
-   "sekundi": 854.4
-  },
   {
    "vreme": "2026-11-27T06:32+00:00",
    "novih": 6,
@@ -6772,6 +6777,12 @@
    "novih": 4,
    "ukupno": 5449,
    "sekundi": 878.8
+  },
+  {
+   "vreme": "2026-11-27T23:08+00:00",
+   "novih": 5,
+   "ukupno": 5454,
+   "sekundi": 1102.3
   }
  ],
  "licnosti_foto": {
@@ -9606,7 +9617,7 @@
    "slug": "aleksandar-ivanovic-sedeo-sam-u-prostoriji-sa-covekom-koji-6vhn2aan3j8"
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -22495,14 +22506,6 @@
   }
  },
  "foto_cache": {
-  "t:kongres": {
-   "t": 1795214516.533411,
-   "items": []
-  },
-  "t:medjuizbori u sad": {
-   "t": 1795214516.7880259,
-   "items": []
-  },
   "t:fic rejtings": {
    "t": 1795215401.801957,
    "items": []
@@ -44125,6 +44128,21 @@
    "t": 1795816953.4860826,
    "ok": true,
    "foto": null
+  },
+  "Jair Golan": {
+   "ime": "Jair Golan",
+   "uloga": "lider izraelskih Demokrata",
+   "oblast": "svet",
+   "wd": "Q569975",
+   "t": 1795819930.0298622,
+   "ok": true,
+   "foto": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Yair_Golan_%28SHL_9404%29.jpg/500px-Yair_Golan_%28SHL_9404%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Wikimedia Commons / Shlomi Amsalem / CC BY-SA 4.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Yair_Golan_(SHL_9404).jpg",
+    "w": 5504,
+    "h": 8256
+   }
   }
  },
  "ankete": [
@@ -44432,7 +44450,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-27T22:36:29.615620+00:00",
+  "provereno": "2026-11-27T22:52:11.326465+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },

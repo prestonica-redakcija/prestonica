@@ -36,7 +36,7 @@
  ],
  "importance": 3,
  "published": "2026-11-27T22:34:31.341346+00:00",
- "updated": "2026-11-27T22:34:31.341346+00:00",
+ "updated": "2026-11-27T22:50:09.752761+00:00",
  "sources": [
   {
    "name": "N1",
@@ -49,11 +49,18 @@
    "url": "https://www.telegraf.rs/sport/tenis/4441257-italija-prezivela-cesku-kod-kuce-za-finale-dejvis-kupa-na-kraju-morao-da-odluci-tajbrejk-u-dublu",
    "title": "Italija preživela Češku \"kod kuće\" za finale Dejvis kupa, na kraju morao da odluči tajbrejk u dublu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/sport/italija-dejvis-kup-finale/",
+   "title": "Preko taj-brejka odlučujućeg seta do finala: Italija će se ponovo boriti za trofej Dejvis kupa",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Teniseri Italije u finalu Dejvis kupa pobedom protiv Češke",
-  "Italija preživela Češku \"kod kuće\" za finale Dejvis kupa, na kraju morao da odluči tajbrejk u dublu"
+  "Italija preživela Češku \"kod kuće\" za finale Dejvis kupa, na kraju morao da odluči tajbrejk u dublu",
+  "Preko taj-brejka odlučujućeg seta do finala: Italija će se ponovo boriti za trofej Dejvis kupa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,5 +72,7 @@
   "local": false,
   "alt": "high angle photography of sports field",
   "link": "https://unsplash.com/@pixelcop"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

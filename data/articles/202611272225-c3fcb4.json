@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T21:25:04.944447+00:00",
- "updated": "2026-11-27T22:19:51.921365+00:00",
+ "updated": "2026-11-27T22:50:09.752761+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -54,11 +54,18 @@
    "url": "https://www.b92.net/info/kosovo/288786/odbrana-tacija-trazi-produzenje-roka-za-zalbu-na-presudu-u-slucaju-ometanja-pravde/vest",
    "title": "Odbrana Tačija traži produženje roka za žalbu na presudu u slučaju ometanja pravde",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/odbrana-tacija-trazi-produzenje-roka-za-zalbu-na-presudu-u-slucaju-ometanja-pravde",
+   "title": "Odbrana Tačija traži produženje roka za žalbu na presudu u slučaju ometanja pravde",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Odbrana Tačija traži produženje roka za žalbu na presudu u slučaju ometanja pravde",
   "Odbrana Hašija Tačija traži produženje roka za žalbu na presudu u slučaju ometanja pravde",
+  "Odbrana Tačija traži produženje roka za žalbu na presudu u slučaju ometanja pravde",
   "Odbrana Tačija traži produženje roka za žalbu na presudu u slučaju ometanja pravde",
   "Odbrana Tačija traži produženje roka za žalbu na presudu u slučaju ometanja pravde"
  ],
@@ -73,6 +80,6 @@
   "alt": "Wooden gavel resting on a dark surface next to book",
   "link": "https://unsplash.com/@sasun1990"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

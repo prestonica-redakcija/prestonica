@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T11:48:13.410537+00:00",
- "updated": "2026-11-27T21:59:46.075628+00:00",
+ "updated": "2026-11-27T22:50:09.752761+00:00",
  "sources": [
   {
    "name": "B92",
@@ -84,6 +84,18 @@
    "url": "https://www.kurir.rs/planeta/10175189/broj-poginulih-u-padu-vojnog-helikoptera-u-peruu-porastao-na-osam",
    "title": "TRAGEDIJA U PERUU: Broj poginulih u padu vojnog helikoptera porastao na osam",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4441262-pad-vojnog-helikoptera-u-peruu-najmanje-osam-ljudi-poginulo",
+   "title": "Helikopter pao u Peruu, ima poginulih! Prve fotografije sa mesta nesreće",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/planeta/254037/peru-osam-poginulih-u-padu-vojnog-helikoptera/vest",
+   "title": "Broj poginulih u padu vojnog helikoptera u Peruu porastao na osam",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -94,7 +106,9 @@
   "Srušio se vojni helikopter u Peruu, poginulo najmanje pet osoba FOTO",
   "Broj poginulih u padu vojnog helikoptera u Peruu porastao na osam",
   "Srušio se vojni helikopter u Peruu, poginulo osam osoba FOTO",
-  "TRAGEDIJA U PERUU: Broj poginulih u padu vojnog helikoptera porastao na osam"
+  "TRAGEDIJA U PERUU: Broj poginulih u padu vojnog helikoptera porastao na osam",
+  "Helikopter pao u Peruu, ima poginulih! Prve fotografije sa mesta nesreće",
+  "Broj poginulih u padu vojnog helikoptera u Peruu porastao na osam"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -107,6 +121,6 @@
   "alt": "a large pile of rubble sitting on top of a street",
   "link": "https://unsplash.com/@emad_el_bayed"
  },
- "novo_od_pisanja": 6,
- "boost": 1.48
+ "novo_od_pisanja": 8,
+ "boost": 1.6
 }

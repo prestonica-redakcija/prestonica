@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-27T14:44:30.153960+00:00",
- "updated": "2026-11-27T19:00:34.330890+00:00",
+ "updated": "2026-11-27T22:50:09.752761+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -38,11 +38,18 @@
    "url": "https://aero.telegraf.rs/avio-kompanije/4441102-norse-atlantic-airways-podnosi-zahtev-za-stecaj-postupak-pogadja-304-zaposlena",
    "title": "Norse Atlantic Airways podnosi zahtev za stečaj: Postupak pogađa 304 zaposlena",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/norveska-carter-aviokompanija-nors-atlantik-ervejz-odlazi-u-stecaj/",
+   "title": "Norveška čarter aviokompanija Nors atlantik ervejz odlazi u stečaj",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Norveška avio-kompanija Nors Atlantik ervejs podnela zahtev za stečaj",
-  "Norse Atlantic Airways podnosi zahtev za stečaj: Postupak pogađa 304 zaposlena"
+  "Norse Atlantic Airways podnosi zahtev za stečaj: Postupak pogađa 304 zaposlena",
+  "Norveška čarter aviokompanija Nors atlantik ervejz odlazi u stečaj"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,6 +62,6 @@
   "alt": "airplane parked near passenger pathway",
   "link": "https://unsplash.com/@oskark"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
