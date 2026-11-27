@@ -24,7 +24,7 @@
  ],
  "importance": 2,
  "published": "2026-11-26T06:37:04.447175+00:00",
- "updated": "2026-11-27T05:45:26.361221+00:00",
+ "updated": "2026-11-27T06:15:49.885397+00:00",
  "sources": [
   {
    "name": "N1",
@@ -73,6 +73,12 @@
    "url": "https://www.telegraf.rs/vesti/beograd/4440748-pet-osoba-povredjeno-tokom-noci-u-udesima-u-beogradu-oglasila-se-hitna-pomoc",
    "title": "Pet osoba povređeno tokom noći u udesima u Beogradu: Oglasila se Hitna pomoć",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/288490/hitna-pomoc-pet-osoba-lakse-povredjeno-u-tri-udesa-u-beogradu/vest",
+   "title": "Hitna pomoć: Pet osoba lakše povređeno u tri udesa u Beogradu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -83,7 +89,8 @@
   "Najmanje sedam osoba povređeno u ruskom napadu na Kijev tokom noći",
   "Hitna pomoć: U Beogradu tokom noći tri saobraćajne nesreće, četiri osobe lakše povređene",
   "NOĆ U BEOGRADU: Četvoro povređenih u tri udesa",
-  "Pet osoba povređeno tokom noći u udesima u Beogradu: Oglasila se Hitna pomoć"
+  "Pet osoba povređeno tokom noći u udesima u Beogradu: Oglasila se Hitna pomoć",
+  "Hitna pomoć: Pet osoba lakše povređeno u tri udesa u Beogradu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -96,8 +103,8 @@
   "alt": "red vehicle in timelapse photography",
   "link": "https://unsplash.com/@camstejim"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-27T05:45:26.361221+00:00",
  "verzija": 2
 }

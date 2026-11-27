@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-27T05:13:03.424369+00:00",
+ "updated": "2026-11-27T06:15:49.885397+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -287,6 +287,12 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4440745-danas-izmena-rezima-saobracaja-u-novom-sadu-zbog-sahrane-mitropolita-backog-irineja",
    "title": "Danas izmena režima saobraćaja u Novom Sadu zbog sahrane mitropolita bačkog Irineja",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4440751-trampova-poruka-za-dan-zahvalnosti-otkrio-ko-bi-trebalo-da-ostane-u-sad",
+   "title": "Trampova poruka za Dan zahvalnosti: Otkrio ko bi trebalo da ostane u SAD",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -332,7 +338,8 @@
   "MUP: Požar koji je ponovo izbio u Tehnomaniji lokalizovan",
   "\"Nova\" piše: Tri opcije za sudbinu RTS",
   "ZBOG SAHRANE MITROPOLITA BAČKOG IRINEJA: Danas izmena režima saobraćaja u Novom Sadu",
-  "Danas izmena režima saobraćaja u Novom Sadu zbog sahrane mitropolita bačkog Irineja"
+  "Danas izmena režima saobraćaja u Novom Sadu zbog sahrane mitropolita bačkog Irineja",
+  "Trampova poruka za Dan zahvalnosti: Otkrio ko bi trebalo da ostane u SAD"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -345,7 +352,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 6,
+ "novo_od_pisanja": 7,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6
