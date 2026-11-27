@@ -30,7 +30,7 @@
  ],
  "importance": 7,
  "published": "2026-11-27T13:34:04.120066+00:00",
- "updated": "2026-11-27T13:34:04.120066+00:00",
+ "updated": "2026-11-27T13:54:38.749331+00:00",
  "sources": [
   {
    "name": "N1",
@@ -43,11 +43,18 @@
    "url": "https://birn.rs/bia-pratila-posmatrace-oebs-izbori-2023/",
    "title": "BIA pratila posmatrače OEBS-a tokom izbora 2023.",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/birn-bia-pratila-clanove-misije-oebs-a-koji-su-posmatrali-izbore/",
+   "title": "BIRN: BIA pratila članove misije OEBS-a koji su posmatrali izbore",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "BIRN: BIA pratila članove misije OEBS-a koji su posmatrali izbore",
-  "BIA pratila posmatrače OEBS-a tokom izbora 2023."
+  "BIA pratila posmatrače OEBS-a tokom izbora 2023.",
+  "BIRN: BIA pratila članove misije OEBS-a koji su posmatrali izbore"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "alt": "A young African American woman casting her ballot in 1964",
   "link": "https://unsplash.com/@unseenhistories"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

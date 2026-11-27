@@ -31,17 +31,24 @@
  ],
  "importance": 5,
  "published": "2026-11-27T10:14:47.695581+00:00",
- "updated": "2026-11-27T10:14:47.695581+00:00",
+ "updated": "2026-11-27T13:54:38.749331+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/ekonomija/zajecar-ostao-bez-gradskog-i-prigradskog-prevoza/",
    "title": "Zaječar ostao bez gradskog i prigradskog prevoza",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/zajecar-ostao-bez-gradskog-i-prigradskog-prevoza/",
+   "title": "Zaječar ostao bez gradskog i prigradskog prevoza, 50 radnika strahuje za posao",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Zaječar ostao bez gradskog i prigradskog prevoza"
+  "Zaječar ostao bez gradskog i prigradskog prevoza",
+  "Zaječar ostao bez gradskog i prigradskog prevoza, 50 radnika strahuje za posao"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "alt": "blue metal pipe on water",
   "link": "https://unsplash.com/@alexandrelallemand"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

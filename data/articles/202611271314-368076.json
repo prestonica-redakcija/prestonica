@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-27T12:14:31.285146+00:00",
- "updated": "2026-11-27T13:34:04.120066+00:00",
+ "updated": "2026-11-27T13:54:38.749331+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -63,6 +63,18 @@
    "url": "https://insajder.net/prenosimo/vjt-u-beogradu-obratilo-se-evropskim-institucijama-zbog-izvestaja-komisije-vrhovnog-javnog-tuzilastva",
    "title": "VJT u Beogradu obratilo se evropskim institucijama zbog izveštaja Komisije Vrhovnog javnog tužilaštva",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/beogradsko-vjt-pisalo-medjunarodnim-institucijama-zbog-izvestaja-komisije-vrhovnog-javnog-tuzilastva/",
+   "title": "Beogradsko VJT pisalo međunarodnim institucijama zbog Izveštaja Komisije Vrhovnog javnog tužilaštva",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/beogradsko-vjt-pisalo-medjunarodnim-institucijama-zbog-izvestaja-komisije-vrhovnog-javnog-tuzilastva/",
+   "title": "Beogradsko VJT pisalo medjunarodnim institucijama zbog Izveštaja Komisije Vrhovnog javnog tužilaštva",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -71,7 +83,9 @@
   "VIŠE JAVNO TUŽILAŠTVO U BEOGRADU OBRATILO SE EVROPSKIM INSTITUCIJAMA: Traže hitnu reakciju i doslednu primenu evropskih standarda tužilačke samostalnosti",
   "VJT u Beogradu se obratilo institucijama EU, SE, OEBS i UN zbog Izveštaja Vrhovnog tužilaštva",
   "VJT Beograd se obratio EU, Savetu Evrope, OEBS-u i UN zbog izveštaja Komisije Vrhovnog tužilaštva: Tvrde da su izloženi pritisku",
-  "VJT u Beogradu obratilo se evropskim institucijama zbog izveštaja Komisije Vrhovnog javnog tužilaštva"
+  "VJT u Beogradu obratilo se evropskim institucijama zbog izveštaja Komisije Vrhovnog javnog tužilaštva",
+  "Beogradsko VJT pisalo međunarodnim institucijama zbog Izveštaja Komisije Vrhovnog javnog tužilaštva",
+  "Beogradsko VJT pisalo medjunarodnim institucijama zbog Izveštaja Komisije Vrhovnog javnog tužilaštva"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -83,8 +97,8 @@
   "local": true,
   "alt": "Više tužilaštvo u Beogradu pisalo evropskim institucijama zbog izveštaja Komisije"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.56,
  "prepisano": "2026-11-27T13:34:04.120066+00:00",
  "verzija": 2
 }

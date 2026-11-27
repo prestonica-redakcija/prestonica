@@ -24,7 +24,7 @@
  ],
  "importance": 6,
  "published": "2026-11-27T11:43:44.653153+00:00",
- "updated": "2026-11-27T11:43:44.653153+00:00",
+ "updated": "2026-11-27T13:54:38.749331+00:00",
  "sources": [
   {
    "name": "N1",
@@ -55,6 +55,12 @@
    "url": "https://biznis.telegraf.rs/info-biz/4440826-ovo-su-nove-cene-goriva-na-pumpama-u-srbiji",
    "title": "Ovo su nove cene goriva na pumpama u Srbiji! Pojeftinjenje!",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/288604/u-narednih-sedam-dana-litar-dizela-i-benzina-jeftiniji-za-tri-dinara/vest",
+   "title": "Poznate nove cene goriva na pumpama u Srbiji",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -62,7 +68,8 @@
   "Pojeftinili dizel i benzin: Objavljene nove cene goriva koje će važiti do 4. decembra",
   "Ovo su nove cene goriva na pumpama u Srbiji",
   "Pojeftinili i dizel i benzin: Objavljene nove cene goriva",
-  "Ovo su nove cene goriva na pumpama u Srbiji! Pojeftinjenje!"
+  "Ovo su nove cene goriva na pumpama u Srbiji! Pojeftinjenje!",
+  "Poznate nove cene goriva na pumpama u Srbiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,5 +81,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Vlada_Srbije_ulaz_5.jpg",
   "alt": "Pojeftinili dizel i benzin: nove maksimalne cene važe do 4. decembra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

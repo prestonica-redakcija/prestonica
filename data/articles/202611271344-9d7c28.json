@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T12:44:20.867490+00:00",
- "updated": "2026-11-27T13:14:03.031491+00:00",
+ "updated": "2026-11-27T13:54:38.749331+00:00",
  "sources": [
   {
    "name": "Telegraf",
@@ -61,6 +61,12 @@
    "url": "https://nova.rs/vesti/svet/crna-gora-placa-18-miliona-evra-hrvatskim-logorasima-korak-ka-deblokadi-evropskog-puta/",
    "title": "Crna Gora plaća 18 miliona evra hrvatskim logorašima: Korak ka deblokadi evropskog puta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/region/crna-gora/10174796/vlada-cg-po-200-000-evra-obestecenja-porodicama-logorasa-u-lori",
+   "title": "VLADA CRNE GORE ODLUČILA: Porodicama zlostavljanih logoraša u splitskoj Lori po 200.000 evra obeštećenja!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -68,7 +74,8 @@
   "VLADA CRNE GORE DONELA ODLUKU: Za hrvatske logoraše iz Morinja isplata obeštećenja u iznosu od 18 miliona evra!",
   "Vlada Crne Gore: Za hrvatske logoraše iz Morinja oko 18 miliona evra, po 120.000 evra i za žrtve \"Lore\"",
   "Vlada Crne Gore odlučila da obešteti žrtve Morinja i Lore",
-  "Crna Gora plaća 18 miliona evra hrvatskim logorašima: Korak ka deblokadi evropskog puta"
+  "Crna Gora plaća 18 miliona evra hrvatskim logorašima: Korak ka deblokadi evropskog puta",
+  "VLADA CRNE GORE ODLUČILA: Porodicama zlostavljanih logoraša u splitskoj Lori po 200.000 evra obeštećenja!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -81,6 +88,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Kralji%C4%8Dina_pla%C5%BEa_(Milo%C4%8Der,_Crna_Gora)_07.jpg",
   "alt": "Vlada Crne Gore odlučila o obeštećenju od 200.000 evra po porodici logoraša iz Lore"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

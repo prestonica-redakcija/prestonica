@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-27T06:49:15.064156+00:00",
- "updated": "2026-11-27T08:25:16.915436+00:00",
+ "updated": "2026-11-27T13:54:38.749331+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -46,11 +46,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4440767-zelenski-udario-na-trampa-putin-je-agresor-i-ubica-ne-moze-da-bude-prijatelj",
    "title": "Zelenski udario na Trampa: \"Putin je agresor i ubica, ne može da bude prijatelj\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/zelenski-tramp-putin-prijatelj/",
+   "title": "„To je na predsedniku SAD, ali čudno je, Putin je agresor i ubica“: Zelenski o odnosu Trampa i ruskog predsednika",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "‘Putin je agresor i ubica, ne može da vam bude prijatelj’: Zelenski za BBC",
-  "Zelenski udario na Trampa: \"Putin je agresor i ubica, ne može da bude prijatelj\""
+  "Zelenski udario na Trampa: \"Putin je agresor i ubica, ne može da bude prijatelj\"",
+  "„To je na predsedniku SAD, ali čudno je, Putin je agresor i ubica“: Zelenski o odnosu Trampa i ruskog predsednika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +70,6 @@
   "alt": "a foggy night in a city with a traffic light",
   "link": "https://unsplash.com/@eugenechystiakov"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

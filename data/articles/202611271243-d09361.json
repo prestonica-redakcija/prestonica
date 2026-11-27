@@ -26,7 +26,7 @@
  "places": [],
  "importance": 5,
  "published": "2026-11-27T11:43:44.653153+00:00",
- "updated": "2026-11-27T11:43:44.653153+00:00",
+ "updated": "2026-11-27T13:54:38.749331+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -39,11 +39,18 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10174568/saopstenje-kompanije-mozzarta",
    "title": "Saopštenje kompanije Mozzarta",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/saopstenje-kompanije-mozzart/",
+   "title": "Saopštenje kompanije Mozzart",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Saopštenje kompanije Mozzart",
-  "Saopštenje kompanije Mozzarta"
+  "Saopštenje kompanije Mozzarta",
+  "Saopštenje kompanije Mozzart"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "alt": "black laptop computer turned on displaying blue screen",
   "link": "https://unsplash.com/@kanchanara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

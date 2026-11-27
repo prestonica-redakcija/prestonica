@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-27T13:34:04.120066+00:00",
+ "updated": "2026-11-27T13:54:38.749331+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -695,6 +695,42 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4441017-stize-naglo-zahladjenje-a-mup-krece-u-masovne-kontrole-bez-ove-opreme-ne-sedajte-za-volan",
    "title": "Stiže naglo zahlađenje, a MUP kreće u masovne kontrole: Bez ove opreme NE SEDAJTE ZA VOLAN",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/sport/tipsarevic-dolgopolov-tenis-rusija-ukrajina/",
+   "title": "Ukrajinac kritikovao Tipsarevića i ostale učesnike turnira u Rusiji: “Svi su protiv rata, ali daj ta tri krompira druže”",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301504/rusi-gadali-infrastrukturni-objekat-u-ukrajinskom-gradu-sumiju/vest",
+   "title": "Rusi gađali infrastrukturni objekat u ukrajinskom gradu Sumiju",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301387/patrijarh-porfirije-svi-su-se-okupljali-oko-mitropolita-irineja-da-bi-culi-rec-hristovu/vest",
+   "title": "Patrijarh Porfirije: Svi su se okupljali oko mitropolita Irineja da bi čuli reč Hristovu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301509/izlozen-na-uvid-deo-jedinstvenog-birackog-spiska-za-podrucje-grada-novog-sada/vest",
+   "title": "Izložen na uvid deo Jedinstvenog biračkog spiska za područje Grada Novog Sada",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/pop-i-kultura/film-tv/4441021-stize-nova-serija-na-rts-poznato-i-kada-ce-se-emitovati",
+   "title": "Stiže nova serija na RTS: Poznato i kada će se emitovati",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4441031-ova-zemlja-ne-menja-dobavljaca-produzili-veliki-gasni-sporazum-za-tri-godine-isporuke-ponovo-rastu",
+   "title": "Ova zemlja ne menja dobavljača: Produžili veliki gasni sporazum za tri godine, isporuke ponovo rastu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -808,7 +844,13 @@
   "APEL MUP-A POVODOM NAJAVLJENOG SNEGA: Rizik od nesreća je povećan, pojačane saobraćajne kontrole",
   "PATRIJARH KIRIL SE OPROSTIO OD MITROPOLITA IRINEJA: Otišao je veliki čuvar jedinstva pravoslavlja",
   "Oglasio se mitropolit Nektarije: Pravoslavna crkva izgubila velikog teologa Irineja",
-  "Stiže naglo zahlađenje, a MUP kreće u masovne kontrole: Bez ove opreme NE SEDAJTE ZA VOLAN"
+  "Stiže naglo zahlađenje, a MUP kreće u masovne kontrole: Bez ove opreme NE SEDAJTE ZA VOLAN",
+  "Ukrajinac kritikovao Tipsarevića i ostale učesnike turnira u Rusiji: “Svi su protiv rata, ali daj ta tri krompira druže”",
+  "Rusi gađali infrastrukturni objekat u ukrajinskom gradu Sumiju",
+  "Patrijarh Porfirije: Svi su se okupljali oko mitropolita Irineja da bi čuli reč Hristovu",
+  "Izložen na uvid deo Jedinstvenog biračkog spiska za područje Grada Novog Sada",
+  "Stiže nova serija na RTS: Poznato i kada će se emitovati",
+  "Ova zemlja ne menja dobavljača: Produžili veliki gasni sporazum za tri godine, isporuke ponovo rastu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -821,7 +863,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 74,
+ "novo_od_pisanja": 80,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6

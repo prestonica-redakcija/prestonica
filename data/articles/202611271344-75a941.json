@@ -25,17 +25,24 @@
  ],
  "importance": 3,
  "published": "2026-11-27T12:44:20.867490+00:00",
- "updated": "2026-11-27T12:44:20.867490+00:00",
+ "updated": "2026-11-27T13:54:38.749331+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/na-horgosu-zaplenjen-sat-vredan-vise-od-184000-svajcarskih-franaka-i-20-dukata/",
    "title": "Na Horgošu zaplenjen sat vredan više od 184.000 švajcarskih franaka i 20 dukata",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301493/carina-oduzeti-neprijavljeni-luksuzni-casovnik-na-aerodromu-u-beogradu-i-dukati-na-horgosu/vest",
+   "title": "Carina: Oduzeti neprijavljeni luksuzni časovnik na aerodromu u Beogradu i dukati na Horgošu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Na Horgošu zaplenjen sat vredan više od 184.000 švajcarskih franaka i 20 dukata"
+  "Na Horgošu zaplenjen sat vredan više od 184.000 švajcarskih franaka i 20 dukata",
+  "Carina: Oduzeti neprijavljeni luksuzni časovnik na aerodromu u Beogradu i dukati na Horgošu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Aerodrom_Nikola_Tesla.jpg",
   "alt": "Carina zadržala neprijavljen luksuzni sat i 20 zlatnih dukata"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
