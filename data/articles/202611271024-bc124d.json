@@ -30,7 +30,7 @@
  ],
  "importance": 3,
  "published": "2026-11-27T09:24:57.673535+00:00",
- "updated": "2026-11-27T09:24:57.673535+00:00",
+ "updated": "2026-11-27T09:40:41.632693+00:00",
  "sources": [
   {
    "name": "N1",
@@ -49,12 +49,19 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4440849-pucnjava-u-zagrebu-usred-jutra-ranjen-muskarac-u-toku-velika-policijska-potraga",
    "title": "Pucnjava u Zagrebu usred jutra: Ranjen muškarac, u toku velika policijska potraga",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/region/288548/pucnjava-u-zagrebu-ranjen-preduzetnik/vest",
+   "title": "Opsadno stanje u Zagrebu zbog pucnjave; Poznato ko je bio meta napata",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Pucnjava u Zagrebu, ranjen muškarac",
   "BIZNISMEN ROBERT PALIĆ UPUCAN U BANATSKOJ ULICI?! Napadač ga čekao blizu kuće, opsadno stanje u Zagrebu, u toku je velika policijska potraga!",
-  "Pucnjava u Zagrebu usred jutra: Ranjen muškarac, u toku velika policijska potraga"
+  "Pucnjava u Zagrebu usred jutra: Ranjen muškarac, u toku velika policijska potraga",
+  "Opsadno stanje u Zagrebu zbog pucnjave; Poznato ko je bio meta napata"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,5 +72,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Pucnjava u Zagrebu: ranjen muškarac, policija traga za napadačem"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

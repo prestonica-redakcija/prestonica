@@ -27,16 +27,23 @@
  ],
  "importance": 5,
  "published": "2026-11-27T09:24:57.673535+00:00",
- "updated": "2026-11-27T09:24:57.673535+00:00",
+ "updated": "2026-11-27T09:40:41.632693+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/iz-budzeta-opstine-backa-topola-u-alta-banci-ostalo-190-miliona-dinara-kroz-prekonocni-depozit/",
    "title": "Iz budžeta Opštine Bačka Topola u Alta banci ostalo 190 miliona dinara kroz prekonoćni depozit",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/iz-budzeta-opstine-backa-topola-u-alta-banci-ostalo-190-miliona-dinara-kroz-prekonocni-depozit/",
+   "title": "Iz budžeta Opštine Bačka Topola u Alta banci ostalo 190 miliona dinara kroz prekonoćni depozit",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Iz budžeta Opštine Bačka Topola u Alta banci ostalo 190 miliona dinara kroz prekonoćni depozit",
   "Iz budžeta Opštine Bačka Topola u Alta banci ostalo 190 miliona dinara kroz prekonoćni depozit"
  ],
  "author": "Redakcija Prestonice",
@@ -49,5 +56,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:West_Ham_v_TSC_Ba%C4%8Dka_Topola.jpeg",
   "alt": "Bačka Topola: 190 miliona dinara iz budžeta ostalo u Alta banci kroz prekonoćni depozit"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

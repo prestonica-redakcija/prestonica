@@ -30,17 +30,24 @@
  ],
  "importance": 4,
  "published": "2026-11-27T08:25:16.915436+00:00",
- "updated": "2026-11-27T08:25:16.915436+00:00",
+ "updated": "2026-11-27T09:40:41.632693+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/politika/osipa-se-vlast-sns-u-boru-tri-odbornika-napustila-njihovu-odbornicku-grupu/",
    "title": "Osipa se vlast SNS u Boru: Tri odbornika napustila njihovu odborničku grupu pred današnju sednicu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/skupstina-grada-kragujevca-prihvatila-ostavku-odbornika-sns-a/",
+   "title": "Skupština grada Kragujevca prihvatila ostavku odbornika SNS-a",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Osipa se vlast SNS u Boru: Tri odbornika napustila njihovu odborničku grupu pred današnju sednicu"
+  "Osipa se vlast SNS u Boru: Tri odbornika napustila njihovu odborničku grupu pred današnju sednicu",
+  "Skupština grada Kragujevca prihvatila ostavku odbornika SNS-a"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Odbornici SPS i SDPS napustili odborničku grupu SNS u Boru pred sednicu Skupštine grada"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
