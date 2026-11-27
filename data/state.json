@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://biznis.telegraf.rs/info-biz/4437279-fajnensel-tajms-isporuke-nafte-kroz-ormuski-moreuz-prepolovljene-za-nedelju-dana": "2026-11-22T00:13:10.495900+00:00",
   "https://biznis.telegraf.rs/info-biz/4437283-eu-i-indonezija-potpisale-trgovinski-sporazum-posle-10-godina-pregovora": "2026-11-22T01:12:51.945875+00:00",
   "https://www.kurir.rs/planeta/10168530/iran-uslovi-za-kraj-rata-sa-amerikom-arakci": "2026-11-22T01:27:32.472635+00:00",
   "https://www.telegraf.rs/4437276-linta-dejtonski-sporazum-doneo-je-mir-i-potvrdio-republiku-srpsku-kao-medjunarodnopravni-subjekat": "2026-11-22T02:12:16.501306+00:00",
@@ -5937,18 +5936,21 @@
   "https://www.b92.net/info/svet/288488/makron-kritikovao-le-pen/vest": "2026-11-27T00:05:02.528257+00:00",
   "https://www.tanjug.rs/svet/politika/301380/lula-da-silva-nece-pozvati-mileija-na-inauguraciju-brazil-povlaci-ambasadora-u-argentini/vest": "2026-11-27T00:05:02.528257+00:00",
   "https://www.kurir.rs/planeta/10174246/kljuca-u-odnosima-brazila-i-argentine": "2026-11-27T00:05:02.528257+00:00",
-  "https://www.euronews.rs/srbija/politika/253874/naslovne-strane-dnevne-stampe-za-petak-27-novembar/vest": "2026-11-27T00:05:02.528257+00:00"
+  "https://www.euronews.rs/srbija/politika/253874/naslovne-strane-dnevne-stampe-za-petak-27-novembar/vest": "2026-11-27T00:05:02.528257+00:00",
+  "https://www.tanjug.rs/svet/politika/301317/lukasenko-spreman-sam-da-odvedem-zelenskog-u-moskvu-na-pregovore-sa-putinom/vest": "2026-11-27T00:19:58.733385+00:00",
+  "https://www.b92.net/info/svet/288459/volodimir-zelenski-nisam-kofer-koji-lukasenko-moze-da-ukrca-u-avion-za-moskvu/vest": "2026-11-27T00:19:58.733385+00:00",
+  "https://insajder.net/teme/pozari-u-lokalima-i-na-automobilima-i-molotovljevi-kokteli-ko-je-odgovoaran-za-bezbednost-gradana-video": "2026-11-27T00:19:58.733385+00:00",
+  "https://www.tanjug.rs/ekonomija/srbija/301341/pks-srpsko-ceski-poslovni-i-investicioni-forum-30-novembra-u-beogradu/vest": "2026-11-27T00:19:58.733385+00:00",
+  "https://radar.nova.rs/global/mjanmar-genocid-rohindza/": "2026-11-27T00:19:58.733385+00:00",
+  "https://n1info.rs/svet/ukrajinske-vlasti-severnokorejska-vojna-pomoc-rusiji-obustavljena/": "2026-11-27T00:19:58.733385+00:00",
+  "https://www.danas.rs/svet/ukrajinske-vlasti-obustavljena-severnokorejska-vojna-pomoc-rusiji/": "2026-11-27T00:19:58.733385+00:00",
+  "https://www.tanjug.rs/ekonomija/srbija/301336/sita-pripremila-strategiju-za-rast-it-sektora-u-srbiji/vest": "2026-11-27T00:19:58.733385+00:00",
+  "https://n1info.rs/english/news/student-movement-registers-new-citizens-group-to-nominate-presidential-candidate/": "2026-11-27T00:19:58.733385+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-26T08:48+00:00",
-   "novih": 6,
-   "ukupno": 4836,
-   "sekundi": 661.4
-  },
   {
    "vreme": "2026-11-26T09:06+00:00",
    "novih": 3,
@@ -6302,6 +6304,12 @@
    "novih": 8,
    "ukupno": 5101,
    "sekundi": 654.7
+  },
+  {
+   "vreme": "2026-11-27T00:30+00:00",
+   "novih": 7,
+   "ukupno": 5108,
+   "sekundi": 649.0
   }
  ],
  "licnosti_foto": {
@@ -42877,6 +42885,14 @@
   "t:predsednicki izbori u francuskoj": {
    "t": 1795738021.0572798,
    "items": []
+  },
+  "t:b2b sastanci": {
+   "t": 1795738859.828872,
+   "items": []
+  },
+  "t:medjunarodni sud pravde": {
+   "t": 1795738874.2414112,
+   "items": []
   }
  },
  "x_objave": {
@@ -49244,7 +49260,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-27T00:07:41.734733+00:00",
+  "provereno": "2026-11-27T00:22:02.397713+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
