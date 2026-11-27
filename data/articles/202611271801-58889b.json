@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T17:01:26.843183+00:00",
- "updated": "2026-11-27T17:01:26.843183+00:00",
+ "updated": "2026-11-27T22:19:51.921365+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,11 +43,18 @@
    "url": "https://www.b92.net/biz/svet/vesti/288706/bundestag-usvojio-budzet-za-2027-novo-zaduzivanje-210-milijardi-evra/vest",
    "title": "Bundestag usvojio budžet za 2027: Novo zaduživanje 210 milijardi evra",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/nemacki-bundestag-usvojio-budzet-za-narednu-godinu-uz-novo-zaduzivanje-od-210-milijardi-evra",
+   "title": "Nemački Bundestag usvojio budžet za narednu godinu, uz novo zaduživanje od 210 milijardi evra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Nemački Bundestag usvojio budžet za 2027. uz novo zaduživanje od 210 milijardi evra",
-  "Bundestag usvojio budžet za 2027: Novo zaduživanje 210 milijardi evra"
+  "Bundestag usvojio budžet za 2027: Novo zaduživanje 210 milijardi evra",
+  "Nemački Bundestag usvojio budžet za narednu godinu, uz novo zaduživanje od 210 milijardi evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "alt": "people walking in front of white concrete building during daytime",
   "link": "https://unsplash.com/@aarsoph"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
