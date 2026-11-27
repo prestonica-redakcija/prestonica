@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-27T06:49:15.064156+00:00",
- "updated": "2026-11-27T07:36:28.834665+00:00",
+ "updated": "2026-11-27T08:25:16.915436+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,12 +44,19 @@
    "url": "https://biznis.telegraf.rs/info-biz/4440773-crni-petak-u-srbiji-pocinje-veliki-soping-spektakl-kupci-nestrpljivo-cekaju-trgovci-najavili-velike-popuste",
    "title": "Crni petak u Srbiji: Počinje veliki šoping spektakl, kupci nestrpljivo čekaju, trgovci najavili velike popuste",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/288508/danas-je-crni-petak-trgovci-u-srbiji-najavili-popuste-i-do-70-odsto/vest",
+   "title": "Danas je \"Crni petak\": Trgovci u Srbiji najavili popuste i do 70 odsto",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Danas je \"Crni petak\", trgovci u Srbiji najavili popuste i do 70 odsto",
   "Popusti do 70 odsto u Srbiji: Crni petak počeo, ali kupce čeka i jedna zamka",
-  "Crni petak u Srbiji: Počinje veliki šoping spektakl, kupci nestrpljivo čekaju, trgovci najavili velike popuste"
+  "Crni petak u Srbiji: Počinje veliki šoping spektakl, kupci nestrpljivo čekaju, trgovci najavili velike popuste",
+  "Danas je \"Crni petak\": Trgovci u Srbiji najavili popuste i do 70 odsto"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "alt": "save up to 50% Black Friday clip art",
   "link": "https://unsplash.com/@ashkfor121"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

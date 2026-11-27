@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-27T07:53:21.135233+00:00",
- "updated": "2026-11-27T07:53:21.135233+00:00",
+ "updated": "2026-11-27T08:25:16.915436+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -47,12 +47,19 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4440770-drama-kod-loznice-devojcicu-udario-automobil-na-pesackom-prelazu-prevezena-u-bolnicu",
    "title": "Drama kod Loznice: Devojčicu udario automobil na pešačkom prelazu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301402/voz-udario-u-automobil-na-pruznom-prelazu-u-krnjevu-poginuo-vozac-36/vest",
+   "title": "Voz udario u automobil na pružnom prelazu u Krnjevu, poginuo vozač (36)",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Voz udario u automobil na pružnom prelazu u Krnjevu, poginuo vozač (36)",
   "AUTOMOBIL POKOSIO DEVOJČICU NA PEŠAČKOM PRELAZU! Užas kod Loznice: Dete hitno prevezeno u bolnicu",
-  "Drama kod Loznice: Devojčicu udario automobil na pešačkom prelazu"
+  "Drama kod Loznice: Devojčicu udario automobil na pešačkom prelazu",
+  "Voz udario u automobil na pružnom prelazu u Krnjevu, poginuo vozač (36)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +71,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Mural_of_Stefan_Fili%C4%87,_Velika_Plana,_Serbia,_2023.jpg",
   "alt": "Dve saobraćajne nesreće sinoć: povređena devojčica kod Loznice, poginuo vozač u Krnjevu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

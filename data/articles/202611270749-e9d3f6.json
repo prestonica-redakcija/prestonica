@@ -33,17 +33,24 @@
  ],
  "importance": 6,
  "published": "2026-11-27T06:49:15.064156+00:00",
- "updated": "2026-11-27T06:49:15.064156+00:00",
+ "updated": "2026-11-27T08:25:16.915436+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/bbc-news-serbian/putin-je-agresor-i-ubica-ne-moze-da-vam-bude-prijatelj-zelenski-za-bbc/",
    "title": "‘Putin je agresor i ubica, ne može da vam bude prijatelj’: Zelenski za BBC",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4440767-zelenski-udario-na-trampa-putin-je-agresor-i-ubica-ne-moze-da-bude-prijatelj",
+   "title": "Zelenski udario na Trampa: \"Putin je agresor i ubica, ne može da bude prijatelj\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "‘Putin je agresor i ubica, ne može da vam bude prijatelj’: Zelenski za BBC"
+  "‘Putin je agresor i ubica, ne može da vam bude prijatelj’: Zelenski za BBC",
+  "Zelenski udario na Trampa: \"Putin je agresor i ubica, ne može da bude prijatelj\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "alt": "a foggy night in a city with a traffic light",
   "link": "https://unsplash.com/@eugenechystiakov"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
