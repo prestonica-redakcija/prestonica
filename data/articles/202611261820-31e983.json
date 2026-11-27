@@ -34,7 +34,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T17:20:53.866188+00:00",
- "updated": "2026-11-26T22:48:39.221071+00:00",
+ "updated": "2026-11-27T05:13:03.424369+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -83,6 +83,12 @@
    "url": "https://www.b92.net/info/svet/288489/oluja-paralisala-ameriku-proglaseno-vanredno-stanje-u-dve-drzave/vest",
    "title": "Amerika na udaru snažne oluje: Više od 800.000 ljudi bez struje; Dve države proglasile vanredno stanje VIDEO",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4440744-snazna-oluja-paralisala-delove-amerike-900000-ljudi-bez-struje-urusila-se-dvorana-izvlace-ljude-iz-poplava",
+   "title": "Snažna oluja paralisala delove Amerike: 900.000 ljudi bez struje, urušila se dvorana, izvlače ljude iz poplava",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -93,7 +99,8 @@
   "NEVREME U SAD PARALISALO AERODROME: Otkazano i odloženo više od 1.600 letova tokom proslave Dana zahvalnosti",
   "Više stotina letova širom SAD-a otkazano, a više od 1.500 kasni zbog oluja",
   "Nevreme poremetilo aviosaobraćaj u SAD: Otkazano skoro 400 letova, na hiljade putnika zaglavljeno na aerodromima",
-  "Amerika na udaru snažne oluje: Više od 800.000 ljudi bez struje; Dve države proglasile vanredno stanje VIDEO"
+  "Amerika na udaru snažne oluje: Više od 800.000 ljudi bez struje; Dve države proglasile vanredno stanje VIDEO",
+  "Snažna oluja paralisala delove Amerike: 900.000 ljudi bez struje, urušila se dvorana, izvlače ljude iz poplava"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -106,8 +113,8 @@
   "alt": "a car driving down a snow covered street",
   "link": "https://unsplash.com/@clayleconey"
  },
- "novo_od_pisanja": 1,
- "boost": 1.48,
+ "novo_od_pisanja": 2,
+ "boost": 1.56,
  "prepisano": "2026-11-26T22:16:39.173534+00:00",
  "verzija": 2
 }

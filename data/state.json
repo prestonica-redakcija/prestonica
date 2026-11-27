@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.kurir.rs/planeta/10168818/autobus-izleteo-na-trotoar-u-seulu-sest-osoba-povredjeno": "2026-11-22T05:10:29.125942+00:00",
-  "https://www.kurir.rs/stars/10101284/ceca-raznatovic-na-imanju-na-kipru-ima-kapelu": "2026-11-22T05:10:29.125942+00:00",
   "https://www.euronews.rs/svet/fokus/253081/indijski-kongres-najavio-nove-proteste-protiv-mete/vest": "2026-11-22T05:40:12.422336+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/253086/evropa-ili-kina-ko-zaista-pravi-bolje-elektromotore/vest": "2026-11-22T05:40:12.422336+00:00",
   "https://www.kurir.rs/stars/10168823/uslikali-smo-seku-aleksic-na-letu-za-bec": "2026-11-22T05:55:13.355181+00:00",
@@ -5989,18 +5987,17 @@
   "https://www.euronews.rs/biznis/biznis-lideri/253743/koliko-kosta-najjeftiniji-rolls-royce-automobil/vest": "2026-11-27T04:42:43.266251+00:00",
   "https://www.kurir.rs/zabava/zena/10173945/posni-pasulj-iz-rerne": "2026-11-27T04:42:43.266251+00:00",
   "https://www.kurir.rs/vesti/srbija/10173710/improvizacija-stare-dragacevske-svadbe-u-guci": "2026-11-27T04:42:43.266251+00:00",
-  "https://www.kurir.rs/vesti/srbija/10173672/kolacijada-u-novom-beceju": "2026-11-27T04:57:37.961426+00:00"
+  "https://www.kurir.rs/vesti/srbija/10173672/kolacijada-u-novom-beceju": "2026-11-27T04:57:37.961426+00:00",
+  "https://www.telegraf.rs/vesti/svet/4440744-snazna-oluja-paralisala-delove-amerike-900000-ljudi-bez-struje-urusila-se-dvorana-izvlace-ljude-iz-poplava": "2026-11-27T05:13:03.424369+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4440745-danas-izmena-rezima-saobracaja-u-novom-sadu-zbog-sahrane-mitropolita-backog-irineja": "2026-11-27T05:13:03.424369+00:00",
+  "https://www.telegraf.rs/vesti/beograd/4440555-najavljena-iskljucenja-struje-30-novembra-u-delovima-devet-opstina-u-beogradu": "2026-11-27T05:13:03.424369+00:00",
+  "https://www.kurir.rs/vesti/beograd/10173479/bez-struje-danas-u-beogradu": "2026-11-27T05:13:03.424369+00:00",
+  "https://n1info.rs/vesti/na-danasnji-dan-27-novembar-umro-pesnik-horacije-rodjen-fizicar-celzijus/": "2026-11-27T05:13:03.424369+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-26T13:52+00:00",
-   "novih": 7,
-   "ukupno": 4967,
-   "sekundi": 704.4
-  },
   {
    "vreme": "2026-11-26T14:07+00:00",
    "novih": 9,
@@ -6354,6 +6351,12 @@
    "novih": 0,
    "ukupno": 5128,
    "sekundi": 863.6
+  },
+  {
+   "vreme": "2026-11-27T05:27+00:00",
+   "novih": 1,
+   "ukupno": 5129,
+   "sekundi": 895.3
   }
  ],
  "licnosti_foto": {
@@ -9188,15 +9191,15 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2125653072945045608",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "parandilovicnls": {
     "since_id": "2126061637190737980",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "ininic": {
     "since_id": "2126129012913192969",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -9204,15 +9207,15 @@
    },
    "sviublokade_fdu": {
     "since_id": "2126051971056427211",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "dragandjilas": {
     "since_id": "2121691848313884992",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "marinikatepic": {
     "since_id": "2125983705445359899",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "radomirlazovic": {
     "since_id": null,
@@ -9236,27 +9239,27 @@
    },
    "avucic": {
     "since_id": "2125973843126669741",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "anabrnabic": {
     "since_id": "2125989686778970255",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "milos_vucevic": {
     "since_id": "2125578808287719575",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "sns_srbija": {
     "since_id": "2126032039413719279",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "studentblokade": {
     "since_id": "2126049364313579648",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -9292,31 +9295,31 @@
    },
    "markodjuric": {
     "since_id": "2123870662255419709",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "nstarovic": {
     "since_id": "2122967633863565451",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "milenkojovanov": {
     "since_id": "2125263868012245341",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "acasapic": {
     "since_id": null,
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "borkostef": {
     "since_id": "2123837042505155014",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "dobrinacelnik": {
     "since_id": "2125934275107205252",
@@ -9328,7 +9331,7 @@
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "srdjanmil037": {
     "since_id": "2125894646828077282",
@@ -9380,7 +9383,7 @@
    },
    "borakonj": {
     "since_id": "2126053471548064010",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "narodnipokrets": {
     "since_id": "2125977301318078936",
@@ -9388,51 +9391,51 @@
    },
    "direktnors": {
     "since_id": "2126053941846642838",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "crtars": {
     "since_id": "2125994469749346391",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "veceivan": {
     "since_id": "2126013980321989081",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "repjoewilson": {
     "since_id": "2125972687855952308",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "jugoslavcosic": {
     "since_id": "2125720890528944629",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "tvnova_s": {
     "since_id": "2126042530219249901",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "oljautisak": {
     "since_id": "2124115162684629476",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "srdjan_nogo": {
     "since_id": "2126047139583131799",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "agrifblokira": {
     "since_id": "2126110827702796632",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "etfblokada": {
     "since_id": "2125907672964669830",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "nastraninaroda": {
     "since_id": "2126091844706504905",
@@ -9440,15 +9443,15 @@
    },
    "bcenzure": {
     "since_id": "2126050941371580896",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "bezstraha26279": {
     "since_id": "2126070735492067675",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "lazidetektor": {
     "since_id": "2126092883757334867",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "nedeljniknin": {
     "since_id": "2126088612228014451",
@@ -9460,15 +9463,15 @@
    },
    "stateinl": {
     "since_id": "2124882590389924146",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "tvbalkaninfo": {
     "since_id": "2125693619093017041",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "1152justice": {
     "since_id": "2123584561330217393",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "zatrijebacki": {
     "since_id": "2126086892374413433",
@@ -9500,7 +9503,7 @@
    },
    "masinars": {
     "since_id": "2126065723302613464",
-    "t": 1795752697.060576
+    "t": 1795756432.8665009
    },
    "claudedevs": {
     "since_id": "2125628717263372512",
@@ -22039,110 +22042,6 @@
   }
  },
  "foto_cache": {
-  "t:beograd": {
-   "t": 1795151056.8903508,
-   "items": [
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Beograd_collage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1024,
-     "h": 2048,
-     "god": 2018,
-     "credit": "Wikimedia Commons / Zeks127 / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Beograd_collage.jpg",
-     "naslov": "Beograd collage.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Austrian_Embassy_in_Belgrade_%28Ambasada_Austrije_u_Beogradu%29.jpg/1920px-Austrian_Embassy_in_Belgrade_%28Ambasada_Austrije_u_Beogradu%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3985,
-     "h": 3456,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Petar Milošević / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Austrian_Embassy_in_Belgrade_(Ambasada_Austrije_u_Beogradu).jpg",
-     "naslov": "Austrian Embassy in Belgrade (Ambasada Austrije u Beogradu).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Stari_%C5%BEelezni%C4%8Dki_most_nad_Savom%2C_Beograd.jpg/1920px-Stari_%C5%BEelezni%C4%8Dki_most_nad_Savom%2C_Beograd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5272,
-     "h": 3948,
-     "god": 2023,
-     "credit": "Wikimedia Commons / Petar Milošević / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Stari_%C5%BEelezni%C4%8Dki_most_nad_Savom,_Beograd.jpg",
-     "naslov": "Stari železnički most nad Savom, Beograd.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/%D0%9F%D1%80%D0%B2%D0%B0_%D0%B2%D0%B0%D1%80%D0%BE%D1%88%D0%BA%D0%B0_%D0%B1%D0%BE%D0%BB%D0%BD%D0%B8%D1%86%D0%B0_%D1%83_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%83_%28First_Town_Hospital%2C_Belgrade%2C_Serbia%29.jpg/1920px-%D0%9F%D1%80%D0%B2%D0%B0_%D0%B2%D0%B0%D1%80%D0%BE%D1%88%D0%BA%D0%B0_%D0%B1%D0%BE%D0%BB%D0%BD%D0%B8%D1%86%D0%B0_%D1%83_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%83_%28First_Town_Hospital%2C_Belgrade%2C_Serbia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4484,
-     "h": 3332,
-     "god": 2025,
-     "credit": "Wikimedia Commons / Petar Milošević / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%B2%D0%B0_%D0%B2%D0%B0%D1%80%D0%BE%D1%88%D0%BA%D0%B0_%D0%B1%D0%BE%D0%BB%D0%BD%D0%B8%D1%86%D0%B0_%D1%83_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%83_(First_Town_Hospital,_Belgrade,_Serbia).jpg",
-     "naslov": "Прва варошка болница у Београду (First Town Hospital, Belgrade, Serbia).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Beograd_ekoloski_protest_against_Rio_Tinto_10_aug_2024_%284%29.jpg/1920px-Beograd_ekoloski_protest_against_Rio_Tinto_10_aug_2024_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4896,
-     "h": 3264,
-     "god": 2024,
-     "credit": "Wikimedia Commons / SergioOren / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Beograd_ekoloski_protest_against_Rio_Tinto_10_aug_2024_(4).jpg",
-     "naslov": "Beograd ekoloski protest against Rio Tinto 10 aug 2024 (4).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Rio_Tinto_Mar%C5%A1_sa_Drine%21_Slavija%2C_Beograd%2C_2021.jpg/1920px-Rio_Tinto_Mar%C5%A1_sa_Drine%21_Slavija%2C_Beograd%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4032,
-     "h": 3024,
-     "god": 2021,
-     "credit": "Wikimedia Commons / Tunic Youth / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Rio_Tinto_Mar%C5%A1_sa_Drine!_Slavija,_Beograd,_2021.jpg",
-     "naslov": "Rio Tinto Marš sa Drine! Slavija, Beograd, 2021.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Belgrade_or_Beograd_%28%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%29%2C_Serbia_2022-08_-_Mall_entrance_and_Starbucks.jpg/1920px-Belgrade_or_Beograd_%28%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%29%2C_Serbia_2022-08_-_Mall_entrance_and_Starbucks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4032,
-     "h": 3024,
-     "god": 2022,
-     "credit": "Wikimedia Commons / Sharon Hahn Darlin / CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Belgrade_or_Beograd_(%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4),_Serbia_2022-08_-_Mall_entrance_and_Starbucks.jpg",
-     "naslov": "Belgrade or Beograd (Београд), Serbia 2022-08 - Mall entrance and Starbucks.jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/El_Grande_Maradona%2C_Beograd%2C_Dor%C4%87ol%2C_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1416,
-     "h": 796,
-     "god": 2020,
-     "credit": "Wikimedia Commons / Tunic Youth / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:El_Grande_Maradona,_Beograd,_Dor%C4%87ol,_2020.jpg",
-     "naslov": "El Grande Maradona, Beograd, Dorćol, 2020.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Etnografski_muzej_Beograd_Nimca_35.jpg/1920px-Etnografski_muzej_Beograd_Nimca_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4000,
-     "h": 2248,
-     "god": 2017,
-     "credit": "Wikimedia Commons / Владимир Нимчевић / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Etnografski_muzej_Beograd_Nimca_35.jpg",
-     "naslov": "Etnografski muzej Beograd Nimca 35.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Angel%2C_Louis_Armstrong_%282002%29%2C_Blok_45%2C_Novi_Beograd.jpg/1920px-Angel%2C_Louis_Armstrong_%282002%29%2C_Blok_45%2C_Novi_Beograd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4032,
-     "h": 3024,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Tunic Youth / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Angel,_Louis_Armstrong_(2002),_Blok_45,_Novi_Beograd.jpg",
-     "naslov": "Angel, Louis Armstrong (2002), Blok 45, Novi Beograd.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Beograd_ekoloski_protest_against_Rio_Tinto_10_aug_2024_%283%29.jpg/1920px-Beograd_ekoloski_protest_against_Rio_Tinto_10_aug_2024_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4896,
-     "h": 3264,
-     "god": 2024,
-     "credit": "Wikimedia Commons / SergioOren / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Beograd_ekoloski_protest_against_Rio_Tinto_10_aug_2024_(3).jpg",
-     "naslov": "Beograd ekoloski protest against Rio Tinto 10 aug 2024 (3).jpg"
-    }
-   ]
-  },
   "t:jahorina": {
    "t": 1795152837.3495584,
    "items": [
@@ -43413,15 +43312,10 @@
    "202611261803-06aafe",
    "202611261820-9a99b4",
    "202611261749-6190f6",
-   "202611270019-5058c9"
+   "202611270019-5058c9",
+   "202611270207-b5f5d3"
   ],
   "istorija": [
-   {
-    "t": 1795151068.1184566,
-    "id": "202611200106-d8244c",
-    "x": "2123643614999752783",
-    "link": false
-   },
    {
     "t": 1795152870.6613429,
     "id": "202611200121-ca3a54",
@@ -44585,6 +44479,12 @@
     "id": "202611270019-5058c9",
     "x": "2126101550409863267",
     "link": false
+   },
+   {
+    "t": 1795756443.4661546,
+    "id": "202611270207-b5f5d3",
+    "x": "2126182743612510687",
+    "link": true
    }
   ],
   "ankete": {
@@ -49445,7 +49345,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-27T04:58:20.375196+00:00",
+  "provereno": "2026-11-27T05:14:18.839240+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
