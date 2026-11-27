@@ -26,17 +26,24 @@
  ],
  "importance": 3,
  "published": "2026-11-27T14:44:30.153960+00:00",
- "updated": "2026-11-27T14:44:30.153960+00:00",
+ "updated": "2026-11-27T17:21:41.432648+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10174859/pokusaj-ubistva-u-lebanu-muskarac-izboden-nozem",
    "title": "POKUŠAJ UBISTVA U LEBANU! Napadač uzeo nož i krvnički izbo muškarca po celom telu: Žrtvi se bore za život",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/policija-uhapsen-muskarac-iz-lebana-zbog-pokusaja-ubistva/",
+   "title": "Policija: Uhapšen muškarac iz Lebana zbog pokušaja ubistva",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "POKUŠAJ UBISTVA U LEBANU! Napadač uzeo nož i krvnički izbo muškarca po celom telu: Žrtvi se bore za život"
+  "POKUŠAJ UBISTVA U LEBANU! Napadač uzeo nož i krvnički izbo muškarca po celom telu: Žrtvi se bore za život",
+  "Policija: Uhapšen muškarac iz Lebana zbog pokušaja ubistva"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Uhapšen mladić iz Lebana zbog pokušaja ubistva, povređeni u životnoj opasnosti"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

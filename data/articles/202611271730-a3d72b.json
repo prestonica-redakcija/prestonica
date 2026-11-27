@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T16:30:13.022148+00:00",
- "updated": "2026-11-27T17:01:26.843183+00:00",
+ "updated": "2026-11-27T17:21:41.432648+00:00",
  "sources": [
   {
    "name": "Telegraf",
@@ -58,13 +58,20 @@
    "url": "https://www.tanjug.rs/svet/politika/301562/milatovic-zasto-hrvatska-bilateralna-pitanja-nije-otvarala-kada-je-dukanovic-bio-na-vlasti/vest",
    "title": "Milatović: Zašto Hrvatska bilateralna pitanja nije otvarala kada je Đukanović bio na vlasti",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/region/milatovic-hrvatska-uslovljavanjem-evropskog-puta-crne-gore-krsi-sopstvenu-rezoluciju-iz-2011/",
+   "title": "Milatović: Hrvatska uslovljavanjem evropskog puta Crne Gore krši sopstvenu rezoluciju iz 2011.",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Milatović žestoko udario na Hrvatsku zbog EU: \"Zašto to niste radili dok je Milo Đukanović bio na vlasti?\"",
   "Milatović: Zašto Hrvatska ima ucenjivački stav prema Crnoj Gori, što ne poštuje rezoluciju koju je usvojio njen Sabor 2011.? (VIDEO)",
   "Milatović: Zašto Hrvatska bilaterlna pitanja nije otvarala kada je Đukanovoić bio na vlasti",
-  "Milatović: Zašto Hrvatska bilateralna pitanja nije otvarala kada je Đukanović bio na vlasti"
+  "Milatović: Zašto Hrvatska bilateralna pitanja nije otvarala kada je Đukanović bio na vlasti",
+  "Milatović: Hrvatska uslovljavanjem evropskog puta Crne Gore krši sopstvenu rezoluciju iz 2011."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -78,6 +85,6 @@
   "osoba": "Milo Đukanović",
   "alt": "Milatović: Hrvatska uslovljavanjem puta Crne Gore EU postupa suprotno rezoluciji Sabora iz 2011"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

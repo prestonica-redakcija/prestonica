@@ -25,17 +25,24 @@
  ],
  "importance": 5,
  "published": "2026-11-27T17:01:26.843183+00:00",
- "updated": "2026-11-27T17:01:26.843183+00:00",
+ "updated": "2026-11-27T17:21:41.432648+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/batut-u-srbiji-polovinom-novembra-vise-od-17-000-osoba-s-respiratornim-infekcijama-i-gripom/",
    "title": "Batut: U Srbiji, polovinom novembra, više od 17.000 osoba s respiratornim infekcijama i gripom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/magazin/zdravlje/batut-polovinom-novembra-vise-od-17000-osoba-s-respiratornim-infekcijama-i-gripom/",
+   "title": "Batut: Polovinom novembra više od 17.000 osoba s respiratornim infekcijama i gripom",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Batut: U Srbiji, polovinom novembra, više od 17.000 osoba s respiratornim infekcijama i gripom"
+  "Batut: U Srbiji, polovinom novembra, više od 17.000 osoba s respiratornim infekcijama i gripom",
+  "Batut: Polovinom novembra više od 17.000 osoba s respiratornim infekcijama i gripom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "local": false,
   "alt": "a doctor examining a child's stomach with a stethoscope",
   "link": "https://unsplash.com/@bermixstudio"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

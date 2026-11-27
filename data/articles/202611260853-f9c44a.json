@@ -32,7 +32,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-27T17:01:26.843183+00:00",
+ "updated": "2026-11-27T17:21:41.432648+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -855,6 +855,54 @@
    "url": "https://informer.rs/politika/vesti/1173798/sinisa-mali-dragan-j-vucicevic-hapsenje",
    "title": "Mali brutalno o hapšenju Vučićevića: \"Ovo je borba za slobodu i za Srbiju!\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10175023/dejan-bodiroga-podneo-ostavku-na-mestu-narodnog-poslanika",
+   "title": "DEJAN BODIROGA PODNEO OSTAVKU: Legendarni košarkaš više neće biti poslanik Studentske liste u Skupštini Srbije",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288712/dejan-bodiroga-podneo-ostavku-u-skupstini-srbije/vest",
+   "title": "Dejan Bodiroga podneo ostavku – neće više biti poslanik u Skupštini Srbije",
+   "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/254010/dejan-bodiroga-podneo-ostavku/vest",
+   "title": "Dejan Bodiroga podneo ostavku",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/sport/evroliga-kosarka/veciti/4441142-skandal-izvredjan-dejan-bodiroga-podneta-zvanicna-prijava",
+   "title": "Skandal: Izvređan Dejan Bodiroga, podneta zvanična prijava",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301577/branko-pavlovic-najavio-prukupljanje-potpisa-i-kandidaturu-na-predsednickim-izborima/vest",
+   "title": "Branko Pavlović najavio prukupljanje potpisa i kandidaturu na predsedničkim izborima",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4441143-branko-pavlovic-najavio-prukupljanje-potpisa-i-kandidaturu-na-predsednickim-izborima",
+   "title": "Branko Pavlović najavio prukupljanje potpisa i kandidaturu na predsedničkim izborima",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1675413/kako-saicic-govori-danas-kako-govorio-nekad-video",
+   "title": "Kako Saičić govori danas, a kako je govorio nekad (VIDEO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4441145-samit-brdo-brioni-milanovic-i-cupic-o-buducnosti-odnosa-srbije-i-hrvatske",
+   "title": "Čupić razgovarao sa Milanovićem, predsednik Hrvatske priznao da gleda našu Skupštinu: \"Nikada ranije nisam...\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -994,7 +1042,15 @@
   "Bodiroga podneo ostavku u Skupštini Srbije",
   "Novo lice Srbije podržalo predsedničku kandidaturu Radomira Saičića",
   "Selektor Matić ponosan nakon nove pobede na Mundijalitu: „Ne postoji prva, druga ekipa, postoji samo jak timski duh“",
-  "Mali brutalno o hapšenju Vučićevića: \"Ovo je borba za slobodu i za Srbiju!\""
+  "Mali brutalno o hapšenju Vučićevića: \"Ovo je borba za slobodu i za Srbiju!\"",
+  "DEJAN BODIROGA PODNEO OSTAVKU: Legendarni košarkaš više neće biti poslanik Studentske liste u Skupštini Srbije",
+  "Dejan Bodiroga podneo ostavku – neće više biti poslanik u Skupštini Srbije",
+  "Dejan Bodiroga podneo ostavku",
+  "Skandal: Izvređan Dejan Bodiroga, podneta zvanična prijava",
+  "Branko Pavlović najavio prukupljanje potpisa i kandidaturu na predsedničkim izborima",
+  "Branko Pavlović najavio prukupljanje potpisa i kandidaturu na predsedničkim izborima",
+  "Kako Saičić govori danas, a kako je govorio nekad (VIDEO)",
+  "Čupić razgovarao sa Milanovićem, predsednik Hrvatske priznao da gleda našu Skupštinu: \"Nikada ranije nisam...\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -1007,7 +1063,7 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 97,
+ "novo_od_pisanja": 105,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:45:47.570231+00:00",
  "verzija": 7
