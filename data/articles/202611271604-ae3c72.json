@@ -25,16 +25,30 @@
  ],
  "importance": 4,
  "published": "2026-11-27T15:04:48.416504+00:00",
- "updated": "2026-11-27T15:04:48.416504+00:00",
+ "updated": "2026-11-27T16:13:19.447282+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/drustvo/301531/batut-prosle-nedelje-u-srbiji-6847-slucajeva-oboljenja-slicnih-gripu/vest",
    "title": "Batut: Prošle nedelje u Srbiji 6.847 slučajeva oboljenja sličnih gripu",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10174913/najnoviji-podaci-batuta-u-srbiji-6-847-slucajeva-slicnih-gripu",
+   "title": "Virus se širi Srbijom, oglasio se \"Batut\"! Čak 6.847 obolelih za nedelju dana, a ova grupa je najviše na udaru!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/batut-prosle-nedelje-u-srbiji-6847-slucajeva-oboljenja-slicnih-gripu",
+   "title": "Batut: Prošle nedelje u Srbiji 6.847 slučajeva oboljenja sličnih gripu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Batut: Prošle nedelje u Srbiji 6.847 slučajeva oboljenja sličnih gripu",
+  "Virus se širi Srbijom, oglasio se \"Batut\"! Čak 6.847 obolelih za nedelju dana, a ova grupa je najviše na udaru!",
   "Batut: Prošle nedelje u Srbiji 6.847 slučajeva oboljenja sličnih gripu"
  ],
  "author": "Redakcija Prestonice",
@@ -47,5 +61,7 @@
   "local": false,
   "alt": "a doctor examining a child's stomach with a stethoscope",
   "link": "https://unsplash.com/@bermixstudio"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-27T15:54:33.435859+00:00",
+ "updated": "2026-11-27T16:13:19.447282+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -815,6 +815,30 @@
    "url": "https://informer.rs/politika/vesti/1173775/radomir-saicic-obrve-studentska-lista",
    "title": "Ljudi, pa ovo je hit! Svi gledali u jedan detalj na Saičićevom licu - Gore mreže, da li je moguće da je to uradio?! (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/301541/spanija-otkriveni-bezbednosni-propusti-na-pruzi-u-adamuzu-gde-je-poginulo-46-ljudi/vest",
+   "title": "Španija: Otkriveni bezbednosni propusti na pruzi u Adamuzu gde je poginulo 46 ljudi",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/mitropolit-backi-irinej-sahranjen-u-kripti-sabornog-hrama-u-novom-sadu",
+   "title": "Mitropolit bački Irinej sahranjen u kripti Sabornog hrama u Novom Sadu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4440871-rhmz-izdao-posebno-upozorenje-na-opasnu-pojavu-i-to-vec-za-vikend-pogodice-3-dela-srbije",
+   "title": "RHMZ izdao posebno upozorenje na OPASNU POJAVU i to već za vikend: Pogodiće 3 dela Srbije",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10174986/U-NESRECI-NA-PRUZI-STRADAO-MLADIC-IZ-LESKOVCA-Nesrecnog-momka-udario-voz-nije-mu-bilo-spasa",
+   "title": "U NESREĆI NA PRUZI STRADAO MLADIĆ IZ LESKOVCA: Nesrećnog momka udario voz, nije mu bilo spasa",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -948,7 +972,11 @@
   "Patrijarh Porfirije i arhijereji služili opelo mitropolitu Irineju u Novom Sadu",
   "Mitropolit bački Irinej sahranjen u kripti Sabornog hrama u Novom Sadu",
   "Voda u blizini struje u školi na Novom Beogradu",
-  "Ljudi, pa ovo je hit! Svi gledali u jedan detalj na Saičićevom licu - Gore mreže, da li je moguće da je to uradio?! (FOTO)"
+  "Ljudi, pa ovo je hit! Svi gledali u jedan detalj na Saičićevom licu - Gore mreže, da li je moguće da je to uradio?! (FOTO)",
+  "Španija: Otkriveni bezbednosni propusti na pruzi u Adamuzu gde je poginulo 46 ljudi",
+  "Mitropolit bački Irinej sahranjen u kripti Sabornog hrama u Novom Sadu",
+  "RHMZ izdao posebno upozorenje na OPASNU POJAVU i to već za vikend: Pogodiće 3 dela Srbije",
+  "U NESREĆI NA PRUZI STRADAO MLADIĆ IZ LESKOVCA: Nesrećnog momka udario voz, nije mu bilo spasa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -961,7 +989,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 94,
+ "novo_od_pisanja": 98,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6

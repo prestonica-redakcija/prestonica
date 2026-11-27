@@ -23,7 +23,7 @@
  ],
  "importance": 2,
  "published": "2026-11-26T15:13:30.727796+00:00",
- "updated": "2026-11-27T15:54:33.435859+00:00",
+ "updated": "2026-11-27T16:13:19.447282+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,12 +42,19 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/301528/nedeljni-promet-na-beogradskoj-berzi-veci-od-132-miliona-dinara-indeksi-u-padu/vest",
    "title": "Nedeljni promet na Beogradskoj berzi veći od 132 miliona dinara, indeksi u padu",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/301533/promet-na-beogradskoj-berzi-oko-156-miliona-dinara-indeksi-u-minusu/vest",
+   "title": "Promet na Beogradskoj berzi oko 1,56 miliona dinara, indeksi u minusu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Promet na Beogradskoj berzi oko 22,31 miliona dinara, indeksi u plusu",
   "BERZANSKI IZVEŠTAJ: Promet na Beogradskoj berzi oko 1,56 miliona dinara",
-  "Nedeljni promet na Beogradskoj berzi veći od 132 miliona dinara, indeksi u padu"
+  "Nedeljni promet na Beogradskoj berzi veći od 132 miliona dinara, indeksi u padu",
+  "Promet na Beogradskoj berzi oko 1,56 miliona dinara, indeksi u minusu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,6 +67,6 @@
   "alt": "graphical user interface, application",
   "link": "https://unsplash.com/@polarmermaid"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
