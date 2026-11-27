@@ -32,7 +32,7 @@
  ],
  "importance": 6,
  "published": "2026-11-27T19:17:17.200095+00:00",
- "updated": "2026-11-27T19:49:23.453949+00:00",
+ "updated": "2026-11-27T21:05:27.086557+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -45,11 +45,18 @@
    "url": "https://n1info.rs/biznis/poslanica-fric-mala-verovatnoca-da-se-ekspo-2027-otkaze/",
    "title": "Poslanica Fric: Mala verovatnoća da se Ekspo 2027 otkaže, cilj će biti provera bezbednosti objekata",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/254030/sanja-fric-ekspo-2027-verovatno-nece-biti-otkazan/vest",
+   "title": "Fric: Mala je verovatnoća da otkažemo Ekspo, proverićemo bezbednost objekata",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Fric (Studentska lista): Expo ćemo vratiti u zakonske okvire i proveriti bezbednost objekata, nova vlada do kraja godine (VIDEO)",
-  "Poslanica Fric: Mala verovatnoća da se Ekspo 2027 otkaže, cilj će biti provera bezbednosti objekata"
+  "Poslanica Fric: Mala verovatnoća da se Ekspo 2027 otkaže, cilj će biti provera bezbednosti objekata",
+  "Fric: Mala je verovatnoća da otkažemo Ekspo, proverićemo bezbednost objekata"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "alt": "a view of a large city with tall buildings",
   "link": "https://unsplash.com/@antonlukin"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

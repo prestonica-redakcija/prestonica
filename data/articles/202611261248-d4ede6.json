@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T11:48:13.410537+00:00",
- "updated": "2026-11-26T11:48:13.410537+00:00",
+ "updated": "2026-11-27T21:05:27.086557+00:00",
  "sources": [
   {
    "name": "B92",
@@ -48,11 +48,18 @@
    "url": "https://insajder.net/prenosimo/izraelski-napad-na-pojas-gaze-poginulo-najmanje-devet-osoba-medu-njima-i-zamenik-ministra",
    "title": "Izraelski napad na Pojas Gaze: Poginulo najmanje devet osoba, među njima i zamenik ministra",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10175159/u-izraelskom-napadu-na-pojas-gaze-ubijeno-pet-palestinaca",
+   "title": "IZRAELSKI UDARI: U napadu na Pojas Gaze ubijeno pet Palestinaca",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Izvedeni napadi treću noć zaredom; Ubijen zamenik ministra",
-  "Izraelski napad na Pojas Gaze: Poginulo najmanje devet osoba, među njima i zamenik ministra"
+  "Izraelski napad na Pojas Gaze: Poginulo najmanje devet osoba, među njima i zamenik ministra",
+  "IZRAELSKI UDARI: U napadu na Pojas Gaze ubijeno pet Palestinaca"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +71,7 @@
   "local": false,
   "alt": "a large pile of rubble sitting on top of a street",
   "link": "https://unsplash.com/@emad_el_bayed"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
