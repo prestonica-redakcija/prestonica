@@ -27,17 +27,24 @@
  ],
  "importance": 2,
  "published": "2026-11-26T15:45:14.837070+00:00",
- "updated": "2026-11-26T15:45:14.837070+00:00",
+ "updated": "2026-11-27T16:46:26.878920+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/301230/eib-odobrila-kredit-od-90-miliona-evra-za-energetsku-obnovu-sedista-italijanske-rai/vest",
    "title": "EIB odobrila kredit od 90 miliona evra za energetsku obnovu sedišta italijanske RAI",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/301564/eib-odobrila-kredit-od-40-miliona-evra-spanskoj-kompaniji-gam-za-zelenu-tranziciju/vest",
+   "title": "EIB odobrila kredit od 40 miliona evra španskoj kompaniji GAM za zelenu tranziciju",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "EIB odobrila kredit od 90 miliona evra za energetsku obnovu sedišta italijanske RAI"
+  "EIB odobrila kredit od 90 miliona evra za energetsku obnovu sedišta italijanske RAI",
+  "EIB odobrila kredit od 40 miliona evra španskoj kompaniji GAM za zelenu tranziciju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "alt": "a view of a city from a rooftop of a building",
   "link": "https://unsplash.com/@frensisalberti"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

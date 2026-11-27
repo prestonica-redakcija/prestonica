@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-27T16:30:13.022148+00:00",
+ "updated": "2026-11-27T16:46:26.878920+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -857,6 +857,42 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10175002/upozorenje-rhmz-a-obilne-padavine-i-sneg-u-srbiji",
    "title": "(MAPA) ALARMANTNO UPOZORENJE RHMZ, STIŽE SNEŽNA VEJAVICA! Oluja i smetovi prete Srbiji već od sutra, pogodiće ova 3 dela zemlje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/novcanik/4441105-kafa-cokolada-i-secer-ponovo-na-udaru-preti-li-svetu-novi-talas-poskupljenja-hrane",
+   "title": "Kafa, čokolada i šećer ponovo na udaru: Preti li svetu novi talas poskupljenja hrane?",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/beograd/10175006/saobracajni-kolaps-u-beogradu-guzve-crni-petak",
+   "title": "SAOBRAĆAJNI KOLAPS U BEOGRADU ZBOG CRNOG PETKA! Velike gužve u prestonici, kolone duge skoro 20 km: Evo koje tačke su najkritičnije",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4441120-gusta-magla-u-ovom-delu-srbije-vidljivost-svega-100-metara-evo-gde-se-nocas-ocekuje-i-do-50-litara-kise",
+   "title": "Gusta magla u ovom delu Srbije, vidljivost svega 100 metara: Evo gde se noćas očekuje i do 50 litara kiše",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288705/snazna-oluja-pogodila-cesku/vest",
+   "title": "Strašno nevreme – oluja izazvala haos; Na stotine povređenih: izdato hitno upozorenje VIDEO",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/video/dan-uzivo/dan-uzivo-26112026/",
+   "title": "Dan uživo (26.11.2026)",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/sport/fudbal/10174962/kalvert-luin-produzio-ugovor-sa-lidsom-do-2029",
+   "title": "LIDS NE PUŠTA SVOJU ZVEZDU: Kalvert-Luin potpisao novi ugovor, poznato do kada ostaje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -997,7 +1033,13 @@
   "U NESREĆI NA PRUZI STRADAO MLADIĆ IZ LESKOVCA: Nesrećnog momka udario voz, nije mu bilo spasa",
   "U pojedinim delovima Beograda velike gužve u saobraćaju",
   "Crni petak u Beogradu, ako vas put vodi ka mostovima, budite strpljivi: U ovim delovima grada su velike gužve",
-  "(MAPA) ALARMANTNO UPOZORENJE RHMZ, STIŽE SNEŽNA VEJAVICA! Oluja i smetovi prete Srbiji već od sutra, pogodiće ova 3 dela zemlje"
+  "(MAPA) ALARMANTNO UPOZORENJE RHMZ, STIŽE SNEŽNA VEJAVICA! Oluja i smetovi prete Srbiji već od sutra, pogodiće ova 3 dela zemlje",
+  "Kafa, čokolada i šećer ponovo na udaru: Preti li svetu novi talas poskupljenja hrane?",
+  "SAOBRAĆAJNI KOLAPS U BEOGRADU ZBOG CRNOG PETKA! Velike gužve u prestonici, kolone duge skoro 20 km: Evo koje tačke su najkritičnije",
+  "Gusta magla u ovom delu Srbije, vidljivost svega 100 metara: Evo gde se noćas očekuje i do 50 litara kiše",
+  "Strašno nevreme – oluja izazvala haos; Na stotine povređenih: izdato hitno upozorenje VIDEO",
+  "Dan uživo (26.11.2026)",
+  "LIDS NE PUŠTA SVOJU ZVEZDU: Kalvert-Luin potpisao novi ugovor, poznato do kada ostaje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -1010,7 +1052,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 101,
+ "novo_od_pisanja": 107,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6

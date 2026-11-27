@@ -33,17 +33,31 @@
  ],
  "importance": 5,
  "published": "2026-11-27T16:30:13.022148+00:00",
- "updated": "2026-11-27T16:30:13.022148+00:00",
+ "updated": "2026-11-27T16:46:26.878920+00:00",
  "sources": [
   {
    "name": "Telegraf",
    "url": "https://www.telegraf.rs/vesti/jugosfera/4441119-milatovic-hrvatska-uslovljava-evropski-put-crne-gore-bilateralnim-pitanjima",
    "title": "Milatović žestoko udario na Hrvatsku zbog EU: \"Zašto to niste radili dok je Milo Đukanović bio na vlasti?\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/jakov-milatovic-hrvatska-crna-gora-ucjena/",
+   "title": "Milatović: Zašto Hrvatska ima ucenjivački stav prema Crnoj Gori, što ne poštuje rezoluciju koju je usvojio njen Sabor 2011.? (VIDEO)",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301562/milatovic-zasto-hrvatska-bilaterlna-pitanja-nije-otvarala-kada-je-dukanovoic-bio-na-vlasti/vest",
+   "title": "Milatović: Zašto Hrvatska bilaterlna pitanja nije otvarala kada je Đukanovoić bio na vlasti",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Milatović žestoko udario na Hrvatsku zbog EU: \"Zašto to niste radili dok je Milo Đukanović bio na vlasti?\""
+  "Milatović žestoko udario na Hrvatsku zbog EU: \"Zašto to niste radili dok je Milo Đukanović bio na vlasti?\"",
+  "Milatović: Zašto Hrvatska ima ucenjivački stav prema Crnoj Gori, što ne poštuje rezoluciju koju je usvojio njen Sabor 2011.? (VIDEO)",
+  "Milatović: Zašto Hrvatska bilaterlna pitanja nije otvarala kada je Đukanovoić bio na vlasti"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +70,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Visit_of_Milo_%C4%90ukanovi%C4%87,_President_of_Montenegro,_to_the_EC_(cropped).jpg",
   "osoba": "Milo Đukanović",
   "alt": "Milatović: Hrvatska uslovljavanjem puta Crne Gore EU postupa suprotno rezoluciji Sabora iz 2011"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

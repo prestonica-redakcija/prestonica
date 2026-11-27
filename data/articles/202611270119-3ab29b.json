@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T00:19:58.733385+00:00",
- "updated": "2026-11-27T00:19:58.733385+00:00",
+ "updated": "2026-11-27T16:46:26.878920+00:00",
  "sources": [
   {
    "name": "N1",
@@ -45,11 +45,18 @@
    "url": "https://www.danas.rs/svet/ukrajinske-vlasti-obustavljena-severnokorejska-vojna-pomoc-rusiji/",
    "title": "Ukrajinske vlasti: Obustavljena severnokorejska vojna pomoć Rusiji",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301563/ukrajina-severna-koreja-privremeno-obustavila-isporuke-raketa-i-municije-rusiji/vest",
+   "title": "Ukrajina: Severna Koreja privremeno obustavila isporuke raketa i municije Rusiji",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Ukrajinske vlasti: Severnokorejska vojna pomoć Rusiji obustavljena",
-  "Ukrajinske vlasti: Obustavljena severnokorejska vojna pomoć Rusiji"
+  "Ukrajinske vlasti: Obustavljena severnokorejska vojna pomoć Rusiji",
+  "Ukrajina: Severna Koreja privremeno obustavila isporuke raketa i municije Rusiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "local": false,
   "alt": "soldiers in black uniform standing near gray concrete building during daytime",
   "link": "https://unsplash.com/@yasminpeyman"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

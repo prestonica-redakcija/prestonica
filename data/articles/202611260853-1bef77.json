@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-26T13:09:30.305892+00:00",
+ "updated": "2026-11-27T16:46:26.878920+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -49,12 +49,19 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4440195-od-karcinoma-mokracne-besike-prostate-bubrega-i-testisa-u-srbiji-godisnje-oboli-vise-od-6000-ljudi",
    "title": "Od karcinoma mokraćne bešike, prostate, bubrega i testisa u Srbiji godišnje oboli više od 6.000 ljudi",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/magazin/zdravlje/savremene-terapije-menjaju-tok-lecenja-muskih-karcinoma/",
+   "title": "Savremene terapije menjaju tok lečenja muških karcinoma: Pacijentima u Srbiji nisu sve podjednako dostupne",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Savremene terapije menjaju tok lečenja muških karcinoma, ali nisu podjednako dostupne",
   "Savremene terapije menjaju lečenje muških karcinoma, ali nisu svima dostupne u Srbiji",
-  "Od karcinoma mokraćne bešike, prostate, bubrega i testisa u Srbiji godišnje oboli više od 6.000 ljudi"
+  "Od karcinoma mokraćne bešike, prostate, bubrega i testisa u Srbiji godišnje oboli više od 6.000 ljudi",
+  "Savremene terapije menjaju tok lečenja muških karcinoma: Pacijentima u Srbiji nisu sve podjednako dostupne"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,6 @@
   "alt": "A smiling doctor in a white coat talking to a patient in a clinic",
   "link": "https://unsplash.com/@nci"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
