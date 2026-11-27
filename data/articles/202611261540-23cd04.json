@@ -22,7 +22,7 @@
  "places": [],
  "importance": 3,
  "published": "2026-11-26T14:40:27.845598+00:00",
- "updated": "2026-11-26T14:55:18.186613+00:00",
+ "updated": "2026-11-27T17:01:26.843183+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -41,12 +41,19 @@
    "url": "https://biznis.telegraf.rs/info-biz/4440371-bitkoin-skocio-na-55450-evra-ali-strah-na-trzistu-i-dalje-ekstremno-visok",
    "title": "Bitkoin skočio na 55.450 evra, ali strah na tržištu i dalje ekstremno visok",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/301539/bitkoin-blago-porastao-na-56020-evra-itirijum-za-jedan-odsto-na-1570-evra/vest",
+   "title": "Bitkoin blago porastao na 56.020 evra, itirijum za jedan odsto na 1.570 evra",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "STANjE NA KRIPTO BERZI: Bitkoin porastao za 4,85 odsto na 55.450 evra, itirijum za 4,36 odsto na 1.550 evra",
   "Bitkoin porastao za 4,85 odsto na 55.450 evra, itirijum za 4,36 odsto na 1.550 evra",
-  "Bitkoin skočio na 55.450 evra, ali strah na tržištu i dalje ekstremno visok"
+  "Bitkoin skočio na 55.450 evra, ali strah na tržištu i dalje ekstremno visok",
+  "Bitkoin blago porastao na 56.020 evra, itirijum za jedan odsto na 1.570 evra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "alt": "gold-colored Bitcoin",
   "link": "https://unsplash.com/@silverhousehd"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

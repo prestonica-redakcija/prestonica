@@ -25,7 +25,7 @@
  ],
  "importance": 4,
  "published": "2026-11-27T13:14:03.031491+00:00",
- "updated": "2026-11-27T15:04:48.416504+00:00",
+ "updated": "2026-11-27T17:01:26.843183+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -38,10 +38,17 @@
    "url": "https://www.danas.rs/svet/britanski-institut-iiss-broj-ruskih-sabotaza-u-evropi-porastao-za-16-odsto-za-godinu-dana/",
    "title": "Britanski institut IISS: Broj ruskih sabotaža u Evropi porastao za 16 odsto za godinu dana",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/britanski-institut-iiss-broj-ruskih-sabotaza-u-evropi-porastao-za-16-odsto-za-godinu-dana",
+   "title": "Britanski institut IISS: Broj ruskih sabotaža u Evropi porastao za 16 odsto za godinu dana",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Evropska centralna banka: Inflatorna očekivanja građana evrozone za narednih godinu dana porasla na 3,5 odsto",
+  "Britanski institut IISS: Broj ruskih sabotaža u Evropi porastao za 16 odsto za godinu dana",
   "Britanski institut IISS: Broj ruskih sabotaža u Evropi porastao za 16 odsto za godinu dana"
  ],
  "author": "Redakcija Prestonice",
@@ -55,6 +62,6 @@
   "alt": "A scattered pile of various euro banknotes including twenty, one hundred, and two hundred denominations",
   "link": "https://unsplash.com/@ibrahimboran"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

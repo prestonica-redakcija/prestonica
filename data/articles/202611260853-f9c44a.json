@@ -32,7 +32,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-27T16:46:26.878920+00:00",
+ "updated": "2026-11-27T17:01:26.843183+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -825,6 +825,36 @@
    "url": "https://www.b92.net/info/politika/288704/mali-o-hapsenju-vucicevica-sloboda-medija-ne-moze-da-bude-selektivna/vest",
    "title": "Mali o hapšenju Vučićevića: \"Sloboda medija ne može da bude selektivna\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/sport/kosarka/4441129-dejan-bodiroga-podneo-ostavku",
+   "title": "Dejan Bodiroga podneo ostavku!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/sport/kosarka/bodiroga-podneo-ostavku-u-skupstini-srbije/",
+   "title": "Bodiroga podneo ostavku u Skupštini Srbije",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/novo-lice-srbije-podrzalo-predsednicku-kandidaturu-radomira-saicica",
+   "title": "Novo lice Srbije podržalo predsedničku kandidaturu Radomira Saičića",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/sport/igor-matic-srbija-u-17-mundijalito/",
+   "title": "Selektor Matić ponosan nakon nove pobede na Mundijalitu: „Ne postoji prva, druga ekipa, postoji samo jak timski duh“",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173798/sinisa-mali-dragan-j-vucicevic-hapsenje",
+   "title": "Mali brutalno o hapšenju Vučićevića: \"Ovo je borba za slobodu i za Srbiju!\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -959,7 +989,12 @@
   "Kolumna Ivana Radovanovića: Nošenje glave Dragana J. Vučićevića",
   "Branko Ružić odlučio da li će se kandidovati na predsedničkim izborima",
   "„Može da okupi birače različitih opredeljenja“: Sagovornici Danasa o najvećem političkom potencijalu profesora Saičića",
-  "Mali o hapšenju Vučićevića: \"Sloboda medija ne može da bude selektivna\""
+  "Mali o hapšenju Vučićevića: \"Sloboda medija ne može da bude selektivna\"",
+  "Dejan Bodiroga podneo ostavku!",
+  "Bodiroga podneo ostavku u Skupštini Srbije",
+  "Novo lice Srbije podržalo predsedničku kandidaturu Radomira Saičića",
+  "Selektor Matić ponosan nakon nove pobede na Mundijalitu: „Ne postoji prva, druga ekipa, postoji samo jak timski duh“",
+  "Mali brutalno o hapšenju Vučićevića: \"Ovo je borba za slobodu i za Srbiju!\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -972,7 +1007,7 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 92,
+ "novo_od_pisanja": 97,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:45:47.570231+00:00",
  "verzija": 7

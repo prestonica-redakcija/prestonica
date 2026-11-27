@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T06:52:02.295680+00:00",
- "updated": "2026-11-26T22:16:39.173534+00:00",
+ "updated": "2026-11-27T17:01:26.843183+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -57,6 +57,12 @@
    "url": "https://www.kurir.rs/planeta/10174229/MASK-POKLANJA-PO-DVE-AKCIJE-SVAKOM-DETETU-U-AMERICI-Ukupna-vrednost-paketa-Spejs-eks-oko-18-milijardi-dolara",
    "title": "MASK POKLANJA PO DVE AKCIJE SVAKOM DETETU U AMERICI: Ukupna vrednost paketa „Spejs eks” oko 18 milijardi dolara",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/301570/americke-akcije-u-plusu-zahvaljujuci-rastu-vrednosti-tehnoloskih-kompanija/vest",
+   "title": "Američke akcije u plusu zahvaljujući rastu vrednosti tehnoloških kompanija",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -64,7 +70,8 @@
   "Svako dete u SAD dobiće dve akcije kompanije \"Space X\": Milijarder Mask ima novi plan",
   "Mask deli bogatstvo: Poklanja akcije SpejsEksa",
   "MASK POKLANJA PO DVE AKCIJE SVAKOM DETETU U AMERICI: Ukupna vrednost paketa oko 18 milijardi dolara",
-  "MASK POKLANJA PO DVE AKCIJE SVAKOM DETETU U AMERICI: Ukupna vrednost paketa „Spejs eks” oko 18 milijardi dolara"
+  "MASK POKLANJA PO DVE AKCIJE SVAKOM DETETU U AMERICI: Ukupna vrednost paketa „Spejs eks” oko 18 milijardi dolara",
+  "Američke akcije u plusu zahvaljujući rastu vrednosti tehnoloških kompanija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +84,6 @@
   "alt": "rocket ship photography",
   "link": "https://unsplash.com/@spacex"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
