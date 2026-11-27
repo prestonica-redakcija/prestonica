@@ -5991,12 +5991,6 @@
  "fokus": [],
  "runs": [
   {
-   "vreme": "2026-11-26T11:29+00:00",
-   "novih": 8,
-   "ukupno": 4907,
-   "sekundi": 973.8
-  },
-  {
    "vreme": "2026-11-26T11:46+00:00",
    "novih": 7,
    "ukupno": 4914,
@@ -6349,6 +6343,12 @@
    "novih": 0,
    "ukupno": 5123,
    "sekundi": 700.9
+  },
+  {
+   "vreme": "2026-11-27T03:08+00:00",
+   "novih": 0,
+   "ukupno": 5123,
+   "sekundi": 1041.8
   }
  ],
  "licnosti_foto": {
@@ -49408,7 +49408,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-27T02:37:05.305908+00:00",
+  "provereno": "2026-11-27T02:52:18.836024+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
