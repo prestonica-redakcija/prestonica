@@ -30,17 +30,24 @@
  ],
  "importance": 7,
  "published": "2026-11-27T19:49:23.453949+00:00",
- "updated": "2026-11-27T19:49:23.453949+00:00",
+ "updated": "2026-11-27T20:04:07.794148+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1675446/vucic-ocekujem-nova-vlast-uvede-sankcije-rusiji-izmedju-marta-maja-naredne-godine",
    "title": "VUČIĆ: Očekujem da nova vlast uvede sankcije Rusiji između marta i maja naredne godine",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173847/aleksandar-vucic-studentska-lista-sankcije-rusiji",
+   "title": "Nova vlast uvodi sankcije Rusiji?! Vučić otkrio da li je razgovarao sa Putinom - \"Ovo možete da očekujete...\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "VUČIĆ: Očekujem da nova vlast uvede sankcije Rusiji između marta i maja naredne godine"
+  "VUČIĆ: Očekujem da nova vlast uvede sankcije Rusiji između marta i maja naredne godine",
+  "Nova vlast uvodi sankcije Rusiji?! Vučić otkrio da li je razgovarao sa Putinom - \"Ovo možete da očekujete...\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Vučić očekuje da nova vlast uvede sankcije Rusiji između marta i maja"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
