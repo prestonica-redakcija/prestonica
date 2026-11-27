@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-27T00:49:48.113257+00:00",
- "updated": "2026-11-27T00:49:48.113257+00:00",
+ "updated": "2026-11-27T01:07:29.585275+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,11 +43,18 @@
    "url": "https://www.b92.net/info/svet/288442/tramp-u-cestitki-za-dan-zahvalnosti-napao-politicke-protivnike/vest",
    "title": "Tramp čestitao Dan zahvalnosti \"ubicama, dilerima droge i kriminalcima svih vrsta\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/planeta/253870/tramp-u-cestitki-za-dan-zahvalnosti-napao-imigrante/vest",
+   "title": "Trampova čestitka za Dan zahvalnosti: Napao liberale i somalsku zajednicu - \"ostale imigrante treba odmah proterati\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Tramp iskoristio čestitku za Dan zahvalnosti za napad na političke protivnike",
-  "Tramp čestitao Dan zahvalnosti \"ubicama, dilerima droge i kriminalcima svih vrsta\""
+  "Tramp čestitao Dan zahvalnosti \"ubicama, dilerima droge i kriminalcima svih vrsta\"",
+  "Trampova čestitka za Dan zahvalnosti: Napao liberale i somalsku zajednicu - \"ostale imigrante treba odmah proterati\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:AI_generated_image_regarding_the_Greenland_Crisis_posted_by_Donald_J._Trump_on_Truth_Social.jpg",
   "alt": "Tramp u čestitci za Dan zahvalnosti napao liberale, imigrante i statistiku o BDP-u"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
