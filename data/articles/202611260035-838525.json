@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-27T10:14:47.695581+00:00",
+ "updated": "2026-11-27T10:29:58.317031+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -189,6 +189,12 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4440884-snimak-hapsenja-osumnjicenog-za-paljenje-tehnomanije-policija-mu-upala-u-kucu-pa-stavila-lisice",
    "title": "Snimak hapšenja osumnjičenog za paljenje \"Tehnomanije\": Policija mu upala u kuću, pa stavila lisice",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/uhapsene-dve-osobe-zbog-sumnje-da-su-izazvale-pozar-u-tehnomaniji-na-novom-beogradu",
+   "title": "Uhapšene dve osobe zbog sumnje da su izazvale požar u „Tehnomaniji“ na Novom Beogradu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -217,7 +223,8 @@
   "Dve osobe uhapšene zbog podmetanja požara u Tehnomaniji na Novom Beogradu VIDEO",
   "ZAPALILI TEHNOMANIJU I SALON NAMEŠTAJA! Uhapšena dva piromana zbog izazivanja požara u dve radnje: Oglasio se MUP",
   "MUP: Uhapšeni osumnjičeni za paljenje \"Tehnomanije\" na Novom Beogradu",
-  "Snimak hapšenja osumnjičenog za paljenje \"Tehnomanije\": Policija mu upala u kuću, pa stavila lisice"
+  "Snimak hapšenja osumnjičenog za paljenje \"Tehnomanije\": Policija mu upala u kuću, pa stavila lisice",
+  "Uhapšene dve osobe zbog sumnje da su izazvale požar u „Tehnomaniji“ na Novom Beogradu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -230,7 +237,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Novi_Beograd_test.jpg",
   "alt": "Uhapšene dve osobe zbog sumnje da su bacile ručne bombe na kuću i u baštu restorana u Beogradu"
  },
- "novo_od_pisanja": 9,
+ "novo_od_pisanja": 10,
  "boost": 1.6,
  "prepisano": "2026-11-26T22:32:33.956628+00:00",
  "verzija": 3

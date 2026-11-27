@@ -28,17 +28,24 @@
  ],
  "importance": 6,
  "published": "2026-11-27T10:14:47.695581+00:00",
- "updated": "2026-11-27T10:14:47.695581+00:00",
+ "updated": "2026-11-27T10:29:58.317031+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/raspisan-tender-za-projekat-rekonstrukcije-drumskog-dela-pancevackog-mosta/",
    "title": "Raspisan tender za projekat rekonstrukcije drumskog dela Pančevačkog mosta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/putevi-srbije-raspisali-tender-za-projektovanje-rekonstrukcije-drumskog-dela-pancevackog-mosta/",
+   "title": "Putevi Srbije raspisali tender za projektovanje rekonstrukcije drumskog dela Pančevačkog mosta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Raspisan tender za projekat rekonstrukcije drumskog dela Pančevačkog mosta"
+  "Raspisan tender za projekat rekonstrukcije drumskog dela Pančevačkog mosta",
+  "Putevi Srbije raspisali tender za projektovanje rekonstrukcije drumskog dela Pančevačkog mosta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:View_from_the_Pan%C4%8Devo_Bridge_(%D0%9F%D0%B0%D0%BD%D1%87%D0%B5%D0%B2%D0%B0%D1%87%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82)_to_train_station_with_the_same_name._Belgrade,_Serbia_-_panoramio.jpg",
   "alt": "Putevi Srbije raspisali tender za projekat rekonstrukcije Pančevačkog mosta"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

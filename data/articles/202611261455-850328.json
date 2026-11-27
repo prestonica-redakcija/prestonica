@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T13:55:33.392531+00:00",
- "updated": "2026-11-26T14:55:18.186613+00:00",
+ "updated": "2026-11-27T10:29:58.317031+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -66,6 +66,18 @@
    "url": "https://www.kurir.rs/vesti/politika/10173889/da-li-ce-sps-ucestvovati-na-predsednickim-izborima-27-decembra",
    "title": "Slavica Đukić Dejanović o učešću SPS na predsedničkim izborima: \"Nemam konkretan odgovor\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301434/dukic-dejanovic-ako-sps-odluci-da-ima-kandidata-na-izborima-to-ce-biti-dacic/vest",
+   "title": "Đukić Dejanović: Ako SPS odluči da ima kandidata na izborima to će biti Dačić",
+   "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253933/dukic-dejanovic-o-kandidaturi-za-predsednicke-izbore/vest",
+   "title": "Đukić Dejanović: Ako SPS odluči da ima kandidata na izborima to će biti Dačić",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -74,7 +86,9 @@
   "Đukić Dejanović: Organi SPS još nisu odlučili o nastupu na predsedničkim izborima",
   "Đukić Dejanović: \"Organi SPS još uvek nisu odlučili o nastupu na predsedničkim izborima\"",
   "Đukić Dejanović: Organi SPS još nisu odlučili o nastupu na predsedničkim izborima",
-  "Slavica Đukić Dejanović o učešću SPS na predsedničkim izborima: \"Nemam konkretan odgovor\""
+  "Slavica Đukić Dejanović o učešću SPS na predsedničkim izborima: \"Nemam konkretan odgovor\"",
+  "Đukić Dejanović: Ako SPS odluči da ima kandidata na izborima to će biti Dačić",
+  "Đukić Dejanović: Ako SPS odluči da ima kandidata na izborima to će biti Dačić"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -87,8 +101,8 @@
   "alt": "two flags with a coat of arms on them",
   "link": "https://unsplash.com/@thestefankostic"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.56,
  "prepisano": "2026-11-26T14:55:18.186613+00:00",
  "verzija": 2
 }
