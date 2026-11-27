@@ -24,7 +24,7 @@
  ],
  "importance": 3,
  "published": "2026-11-27T04:10:53.885456+00:00",
- "updated": "2026-11-27T10:14:47.695581+00:00",
+ "updated": "2026-11-27T23:10:05.467987+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -43,12 +43,19 @@
    "url": "https://www.novosti.rs/ekonomija/vesti/1675227/nbs-objavila-nove-brojke-evo-sta-desava-kursom-evra",
    "title": "NBS OBJAVILA NOVE BROJKE: Evo šta se dešava sa kursom evra",
    "spektar": "vlast"
+  },
+  {
+   "name": "Radar",
+   "url": "https://radar.nova.rs/ekonomija/osamnaest-pitanja-za-nbs/",
+   "title": "Osamnaest pitanja za Narodnu banku Srbije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Dinar nastavlja da slabi prema evru i dolaru: Objavljena kursna lista Narodne banke Srbije",
   "NBS objavila koliki je srednji kurs evra danas",
-  "NBS OBJAVILA NOVE BROJKE: Evo šta se dešava sa kursom evra"
+  "NBS OBJAVILA NOVE BROJKE: Evo šta se dešava sa kursom evra",
+  "Osamnaest pitanja za Narodnu banku Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Beograd_Narodna_banka_Srbije_Kralja_Petra_12_20.jpg",
   "alt": "Srednji kurs evra u petak 117,6319 dinara, dolar 107,1213 dinara"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -25,7 +25,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T17:01:26.843183+00:00",
- "updated": "2026-11-27T17:21:41.432648+00:00",
+ "updated": "2026-11-27T23:10:05.467987+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -38,11 +38,18 @@
    "url": "https://n1info.rs/magazin/zdravlje/batut-polovinom-novembra-vise-od-17000-osoba-s-respiratornim-infekcijama-i-gripom/",
    "title": "Batut: Polovinom novembra više od 17.000 osoba s respiratornim infekcijama i gripom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/razno/288792/na-danasnji-dan-28-novembar/vest",
+   "title": "Na današnji dan, 28. novembar",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Batut: U Srbiji, polovinom novembra, više od 17.000 osoba s respiratornim infekcijama i gripom",
-  "Batut: Polovinom novembra više od 17.000 osoba s respiratornim infekcijama i gripom"
+  "Batut: Polovinom novembra više od 17.000 osoba s respiratornim infekcijama i gripom",
+  "Na današnji dan, 28. novembar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,6 +62,6 @@
   "alt": "a doctor examining a child's stomach with a stethoscope",
   "link": "https://unsplash.com/@bermixstudio"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

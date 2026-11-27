@@ -36,7 +36,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T20:48:43.466542+00:00",
- "updated": "2026-11-27T20:48:43.466542+00:00",
+ "updated": "2026-11-27T23:10:05.467987+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -49,11 +49,18 @@
    "url": "https://insajder.net/prenosimo/zelenski-devetoro-ukrajinske-dece-vraceno-iz-okupiranih-teritorija-i-rusije",
    "title": "Zelenski: Devetoro ukrajinske dece vraćeno iz okupiranih teritorija i Rusije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/zelenski-devetoro-ukrajinske-dece-vraceno-iz-okupiranih-teritorija-i-rusije/",
+   "title": "Zelenski: Devetoro ukrajinske dece vraćeno iz okupiranih teritorija i Rusije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Zelenski: Grupa dece sa okupiranih teritorija i iz Rusije vraćena u Ukrajinu",
-  "Zelenski: Devetoro ukrajinske dece vraćeno iz okupiranih teritorija i Rusije"
+  "Zelenski: Devetoro ukrajinske dece vraćeno iz okupiranih teritorija i Rusije",
+  "Zelenski: Devetoro ukrajinske dece vraćeno iz okupiranih teritorija i Rusije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,5 +73,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Melania_Trump%E2%80%99s_Official_White_House_Portrait_(2025)_(much_further_cropped).jpg",
   "osoba": "Melanija Tramp",
   "alt": "Zelenski: devetoro dece vraćeno u Ukrajinu uz posredovanje Melanije Tramp"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -35,17 +35,24 @@
  ],
  "importance": 6,
  "published": "2026-11-27T18:29:18.328071+00:00",
- "updated": "2026-11-27T18:29:18.328071+00:00",
+ "updated": "2026-11-27T23:10:05.467987+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/culibrk-o-ekspo-2027-da-li-ce-se-odrzati/",
    "title": "Ćulibrk: Ne znam da li će biti Ekspa 2027 ili ne - stara vlast ulagala u projekat, bez da se znalo da li se isplati",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/culibrk-ne-znam-da-li-ce-biti-ekspa-2027-ili-ne/",
+   "title": "Ćulibrk o Ekspu: Ne znam da li će biti izložbe, stara vlast ulagala u projekat, a nisu znali ni da li se isplati",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Ćulibrk: Ne znam da li će biti Ekspa 2027 ili ne - stara vlast ulagala u projekat, bez da se znalo da li se isplati"
+  "Ćulibrk: Ne znam da li će biti Ekspa 2027 ili ne - stara vlast ulagala u projekat, bez da se znalo da li se isplati",
+  "Ćulibrk o Ekspu: Ne znam da li će biti izložbe, stara vlast ulagala u projekat, a nisu znali ni da li se isplati"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "alt": "a view of a large city with tall buildings",
   "link": "https://unsplash.com/@antonlukin"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

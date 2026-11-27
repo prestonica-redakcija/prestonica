@@ -39,17 +39,38 @@
  ],
  "importance": 5,
  "published": "2026-11-27T21:39:49.220132+00:00",
- "updated": "2026-11-27T21:39:49.220132+00:00",
+ "updated": "2026-11-27T23:10:05.467987+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/vlada-srbije-u-tehnickom-mandatu-razresila-osam-drzavnih-sekretara",
    "title": "Vlada Srbije u tehničkom mandatu razrešila osam državnih sekretara",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301659/razreseno-osam-drzavnih-sekretara-u-tri-ministarstva/vest",
+   "title": "Razrešeno osam državnih sekretara u tri ministarstva",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288793/vlada-srbije-u-tehnickom-mandatu-donela-odluku-razreseno-osam-drzavnih-sekretara-u-tri-ministarstva/vest",
+   "title": "Vlada Srbije u tehničkom mandatu donela odluku: Razrešeno osam državnih sekretara u tri ministarstva",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4441282-djuro-macut-razresio-osam-drzavnih-sekretara-u-tri-ministarstva",
+   "title": "Đuro Macut razrešio osam državnih sekretara u tri ministarstva",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Vlada Srbije u tehničkom mandatu razrešila osam državnih sekretara"
+  "Vlada Srbije u tehničkom mandatu razrešila osam državnih sekretara",
+  "Razrešeno osam državnih sekretara u tri ministarstva",
+  "Vlada Srbije u tehničkom mandatu donela odluku: Razrešeno osam državnih sekretara u tri ministarstva",
+  "Đuro Macut razrešio osam državnih sekretara u tri ministarstva"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +82,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Vlada_Srbije_ulaz_5.jpg",
   "alt": "Vlada u tehničkom mandatu razrešila osam državnih sekretara u tri ministarstva"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

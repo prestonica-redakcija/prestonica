@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T22:50:09.752761+00:00",
- "updated": "2026-11-27T22:50:09.752761+00:00",
+ "updated": "2026-11-27T23:10:05.467987+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,11 +44,18 @@
    "url": "https://insajder.net/prenosimo/sibiha-ukrajina-ponudila-rusiji-primirje-u-crnom-moru-radi-izvoza-poljoprivrednih-proizvoda",
    "title": "Sibiha: Ukrajina ponudila Rusiji primirje u Crnom moru radi izvoza poljoprivrednih proizvoda",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4441279-ukrajina-ponudila-rusiji-primirje-u-crnom-moru",
+   "title": "Ukrajina ponudila Rusiji primirje u Crnom moru",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Ukrajina ponudila Rusiji primirje u Crnom moru radi izvoza poljoprivrednih proizvoda",
-  "Sibiha: Ukrajina ponudila Rusiji primirje u Crnom moru radi izvoza poljoprivrednih proizvoda"
+  "Sibiha: Ukrajina ponudila Rusiji primirje u Crnom moru radi izvoza poljoprivrednih proizvoda",
+  "Ukrajina ponudila Rusiji primirje u Crnom moru"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "alt": "A black and white vintage photograph of a large sailing ship on the open sea",
   "link": "https://unsplash.com/@juliakadel"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

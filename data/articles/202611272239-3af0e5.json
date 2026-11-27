@@ -37,7 +37,7 @@
  ],
  "importance": 3,
  "published": "2026-11-27T21:39:49.220132+00:00",
- "updated": "2026-11-27T22:19:51.921365+00:00",
+ "updated": "2026-11-27T23:10:05.467987+00:00",
  "sources": [
   {
    "name": "N1",
@@ -62,13 +62,20 @@
    "url": "https://nova.rs/kultura/privid-beskrajnog-leta-najbolji-film-32-faf-a/",
    "title": "\"Privid beskrajnog leta\" najbolji film: Dodelom nagrada i domaćom premijerom \"Oče naš\" završen 32. Festival autorskog filma",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/pop-i-kultura/film-tv/4441283-dodelom-nagrada-i-premijerom-filma-oce-nas-zavrsen-32-festival-autorskog-filma-faf-na-bis-ovog-vikenda",
+   "title": "Dodelom nagrada i premijerom filma „Oče naš” završen 32. Festival autorskog filma: FAF na BIS ovog vikenda",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Dodelom nagrada i domaćom premijerom filma „Oče naš” završen 32. Festival autorskog filma",
   "Uručene nagrade 32. Festivala autorskog filma, najbolji „Privid beskrajnog leta“",
   "Dodelom nagrada i domaćom premijerom filma „Oče naš” završen 32. Festival autorskog filma",
-  "\"Privid beskrajnog leta\" najbolji film: Dodelom nagrada i domaćom premijerom \"Oče naš\" završen 32. Festival autorskog filma"
+  "\"Privid beskrajnog leta\" najbolji film: Dodelom nagrada i domaćom premijerom \"Oče naš\" završen 32. Festival autorskog filma",
+  "Dodelom nagrada i premijerom filma „Oče naš” završen 32. Festival autorskog filma: FAF na BIS ovog vikenda"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -81,6 +88,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:1996_11_19_-_festival_autorskog_filma.jpg",
   "alt": "Završen 32. Festival autorskog filma, glavna nagrada za „Privid beskrajnog leta”"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
