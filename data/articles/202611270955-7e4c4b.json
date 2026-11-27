@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-27T08:55:08.081341+00:00",
- "updated": "2026-11-27T09:10:00.039987+00:00",
+ "updated": "2026-11-27T09:24:57.673535+00:00",
  "sources": [
   {
    "name": "Telegraf",
@@ -47,12 +47,19 @@
    "url": "https://www.novosti.rs/ekonomija/preduzetnik/1675197/digitalna-platforma-redar-danas-dostupna-gradjanima-srbije",
    "title": "Digitalna platforma „Redar“ od danas dostupna građanima Srbije",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/301418/pks-digitalna-platforma-redar-od-danas-dostupna-gradanima-sirom-srbije/vest",
+   "title": "PKS: Digitalna platforma „Redar“ od danas dostupna građanima širom Srbije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Digitalna platforma \"Redar\" od danas dostupna građanima Srbije",
   "PKS: Digitalna platforma Redar od danas dostupna građanima Srbije",
-  "Digitalna platforma „Redar“ od danas dostupna građanima Srbije"
+  "Digitalna platforma „Redar“ od danas dostupna građanima Srbije",
+  "PKS: Digitalna platforma „Redar“ od danas dostupna građanima širom Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "local": true,
   "alt": "Platforma „Redar“ za prijavu komunalnih problema od danas dostupna građanima Srbije"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

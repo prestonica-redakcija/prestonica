@@ -33,7 +33,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-27T09:10:00.039987+00:00",
+ "updated": "2026-11-27T09:24:57.673535+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -418,6 +418,18 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/301416/ispred-centralnog-zatvora-skup-podrske-zbog-pritvora-dragana-j-vucicevica/vest",
    "title": "Ispred Centralnog zatvora skup podrške zbog pritvora Dragana J. Vučićevića",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301416/ljubicanovic-ulozicemo-zalbu-na-odluku-o-odredivanju-pritvora-vucicevicu/vest",
+   "title": "Ljubičanović: Uložićemo žalbu na odluku o određivanju pritvora Vučićeviću",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/bbc-news-serbian/pritvor-do-30-dana-draganu-j-vucicevicu-glavnom-uredniku-i-vlasniku-informera/",
+   "title": "Pritvor do 30 dana Draganu J. Vučićeviću, glavnom uredniku i vlasniku Informera",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -484,7 +496,9 @@
   "PRVI SNIMAK DRAGANA J. VUČIĆEVIĆA: Dovezen u Centralni zatvor nakon skandalozne odluke o pritvoru (VIDEO)",
   "DRAGAN J. VUČIĆEVIĆ DOVEZEN U CENTRALNI ZATVOR! Pogledajte snimak dolaska \"marice\" sa glavnim urednikom Informera - određen mu pritvor, pa prebačen u CZ (VIDEO)",
   "Drama na Ohridu: Požar progutao stambenu zgradu, stanari bežali iz zgrade",
-  "Ispred Centralnog zatvora skup podrške zbog pritvora Dragana J. Vučićevića"
+  "Ispred Centralnog zatvora skup podrške zbog pritvora Dragana J. Vučićevića",
+  "Ljubičanović: Uložićemo žalbu na odluku o određivanju pritvora Vučićeviću",
+  "Pritvor do 30 dana Draganu J. Vučićeviću, glavnom uredniku i vlasniku Informera"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -497,7 +511,7 @@
   "alt": "Car entering a brightly lit tunnel at night",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 6,
+ "novo_od_pisanja": 8,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:15:12.934903+00:00",
  "verzija": 11

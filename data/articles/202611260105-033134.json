@@ -34,7 +34,7 @@
  ],
  "importance": 7,
  "published": "2026-11-26T00:05:01.814826+00:00",
- "updated": "2026-11-27T09:10:00.039987+00:00",
+ "updated": "2026-11-27T09:24:57.673535+00:00",
  "sources": [
   {
    "name": "N1",
@@ -53,12 +53,19 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/301417/ljubodrag-savic-srbija-trpi-ucene-od-eu-da-bi-dobila-novac-iz-plana-rasta-za-zapadni-balkan/vest",
    "title": "Ljubodrag Savić: Srbija trpi ucene od EU da bi dobila novac iz Plana rasta za Zapadni Balkan",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4440836-srbija-trpi-ucene-evropske-unije-kako-bi-dobila-sredstva-iz-plana-rasta-za-zapadni-balkan",
+   "title": "\"Srbija trpi ucene Evropske unije kako bi dobila sredstva iz Plana rasta za Zapadni Balkan\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Fon der Lajen najavila preraspodelu sredstava iz Plana rasta: Novac trima državama koje su najviše napredovale",
   "Fon der Lajen najavila preraspodelu sredstava iz Plana rasta: Novac trima državama koje su najviše napredovale",
-  "Ljubodrag Savić: Srbija trpi ucene od EU da bi dobila novac iz Plana rasta za Zapadni Balkan"
+  "Ljubodrag Savić: Srbija trpi ucene od EU da bi dobila novac iz Plana rasta za Zapadni Balkan",
+  "\"Srbija trpi ucene Evropske unije kako bi dobila sredstva iz Plana rasta za Zapadni Balkan\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,6 @@
   "alt": "row of european union flags",
   "link": "https://unsplash.com/@guillaumeperigois"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

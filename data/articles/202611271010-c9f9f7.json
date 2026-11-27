@@ -31,17 +31,24 @@
  ],
  "importance": 6,
  "published": "2026-11-27T09:10:00.039987+00:00",
- "updated": "2026-11-27T09:10:00.039987+00:00",
+ "updated": "2026-11-27T09:24:57.673535+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/karovic-razgovara-se-o-ponovnom-formiranju-ministarstva-za-kosovo-i-metohiju/",
    "title": "Karović: Razgovara se o ponovnom formiranju Ministarstva za Kosovo i Metohiju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/nemanja-karovic-ministarstvo-za-kim-srpska-lista/",
+   "title": "Nemanja Karović: Razgovara se o formiranju Ministarstva za KiM, prioritet ispitivanje rada Srpske liste",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Karović: Razgovara se o ponovnom formiranju Ministarstva za Kosovo i Metohiju"
+  "Karović: Razgovara se o ponovnom formiranju Ministarstva za Kosovo i Metohiju",
+  "Nemanja Karović: Razgovara se o formiranju Ministarstva za KiM, prioritet ispitivanje rada Srpske liste"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata_2.jpg",
   "alt": "Karović: razgovara se o obnovi Ministarstva za Kosovo i Metohiju, Srpska lista na proveri"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

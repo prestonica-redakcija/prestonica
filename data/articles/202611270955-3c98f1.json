@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-27T08:55:08.081341+00:00",
- "updated": "2026-11-27T09:10:00.039987+00:00",
+ "updated": "2026-11-27T09:24:57.673535+00:00",
  "sources": [
   {
    "name": "N1",
@@ -50,12 +50,26 @@
    "url": "https://www.danas.rs/vesti/politika/marta-kos-s-ademom-mavricem-o-podrsci-eu-reformama-srbije/",
    "title": "Marta Kos s Ademom Mavrićem o podršci EU reformama Srbije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/marta-kos-s-ademom-mavricem-o-podrsci-eu-reformama-srbije",
+   "title": "Marta Kos s Ademom Mavrićem o podršci EU reformama Srbije",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/marta-kos-s-potpredsedikom-skupstine-ademom-mavricem-o-podrsci-eu-reformama-srbije/",
+   "title": "Marta Kos s potpredsedikom Skupštine Ademom Mavrićem o podršci EU reformama Srbije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Marta Kos se sastala sa Ademom Mavrićem: Kako EU može da podrži Srbiju",
   "MARTA KOS SA ADEMOM MAVRIĆEM (STUDENTSKA LISTA): Razgovor o reformama i podršci Evropske unije Srbiji",
-  "Marta Kos s Ademom Mavrićem o podršci EU reformama Srbije"
+  "Marta Kos s Ademom Mavrićem o podršci EU reformama Srbije",
+  "Marta Kos s Ademom Mavrićem o podršci EU reformama Srbije",
+  "Marta Kos s potpredsedikom Skupštine Ademom Mavrićem o podršci EU reformama Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +82,6 @@
   "alt": "blue and yellow flag on pole",
   "link": "https://unsplash.com/@alexandrelallemand"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

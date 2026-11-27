@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T16:34:09.007546+00:00",
- "updated": "2026-11-26T21:45:47.570231+00:00",
+ "updated": "2026-11-27T09:24:57.673535+00:00",
  "sources": [
   {
    "name": "N1",
@@ -102,6 +102,12 @@
    "url": "https://www.b92.net/info/politika/288475/rik-kandidatura-za-predsednicke-izbore-do-6-decembra/vest",
    "title": "RIK objavio ključne rokove: Evo kada ističe rok za kandidature i kada se održavaju izbori",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4440848-ovo-su-kljucni-datumi-koje-biraci-u-srbiji-treba-da-znaju-pred-predsednicke-izbore-27-decembra",
+   "title": "Ovo su ključni datumi koje birači u Srbiji treba da znaju pred predsedničke izbore 27. decembra",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -116,7 +122,8 @@
   "Poznato kako će izgledati glasački listić za predsedničke izbore 27. decembra",
   "RIK o predsedničkim izborima: Glasački listić biće krem boje",
   "RIK objavio rokove za predsedničke izbore: Do kada se predaju kandidature i kada počinje izborna tišina",
-  "RIK objavio ključne rokove: Evo kada ističe rok za kandidature i kada se održavaju izbori"
+  "RIK objavio ključne rokove: Evo kada ističe rok za kandidature i kada se održavaju izbori",
+  "Ovo su ključni datumi koje birači u Srbiji treba da znaju pred predsedničke izbore 27. decembra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -128,7 +135,7 @@
   "local": true,
   "alt": "RIK usvojio odluke o predsedničkim izborima: listić krem boje, kontrolni list roze"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:41:26.337473+00:00",
  "verzija": 2
