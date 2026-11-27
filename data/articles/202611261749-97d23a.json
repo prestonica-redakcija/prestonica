@@ -30,7 +30,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T16:49:07.091141+00:00",
- "updated": "2026-11-26T17:20:53.866188+00:00",
+ "updated": "2026-11-27T07:53:21.135233+00:00",
  "sources": [
   {
    "name": "B92",
@@ -43,11 +43,18 @@
    "url": "https://www.kurir.rs/vesti/politika/10174053/zaharova-o-formiranju-nove-vlasti-u-srbiji",
    "title": "ZAHAROVA O FORMIRANJU NOVE VLASTI U SRBIJI: Moskva očekuje nastavak saradnje sa Beogradom",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173620/marija-zaharova-nova-vlast-srbija-rusija",
+   "title": "Udarna poruka iz Moskve! Evo šta Zaharova očekuje od nove vlasti u Srbiji, spomenula i Aleksandra Vučića",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Moskva poslala poruku novoj vlasti u Srbiji: Ovo očekuje od Beograda",
-  "ZAHAROVA O FORMIRANJU NOVE VLASTI U SRBIJI: Moskva očekuje nastavak saradnje sa Beogradom"
+  "ZAHAROVA O FORMIRANJU NOVE VLASTI U SRBIJI: Moskva očekuje nastavak saradnje sa Beogradom",
+  "Udarna poruka iz Moskve! Evo šta Zaharova očekuje od nove vlasti u Srbiji, spomenula i Aleksandra Vučića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,6 +67,6 @@
   "alt": "a river with a city in the background",
   "link": "https://unsplash.com/@vadutskevich"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
