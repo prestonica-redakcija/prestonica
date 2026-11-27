@@ -28,17 +28,24 @@
  ],
  "importance": 3,
  "published": "2026-11-27T11:27:29.719068+00:00",
- "updated": "2026-11-27T11:27:29.719068+00:00",
+ "updated": "2026-11-27T11:59:37.558666+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1675284/vucic-sastao-novim-clanovima-lopardinaca-spreman-sam-izdrzim-sve-nastavim-borbu-video",
    "title": "VUČIĆ SE SASTAO SA NOVIM ČLANOVIMA IZ LOPARDINACA: Spreman sam da izdržim sve i nastavim borbu (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10174640/vucic-s-novim-clanovima-sns-iz-lopardinaca",
+   "title": "Vučić s novim članovima SNS iz Lopardinaca: Spreman sam da izdržim sve i nastavim borbu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "VUČIĆ SE SASTAO SA NOVIM ČLANOVIMA IZ LOPARDINACA: Spreman sam da izdržim sve i nastavim borbu (VIDEO)"
+  "VUČIĆ SE SASTAO SA NOVIM ČLANOVIMA IZ LOPARDINACA: Spreman sam da izdržim sve i nastavim borbu (VIDEO)",
+  "Vučić s novim članovima SNS iz Lopardinaca: Spreman sam da izdržim sve i nastavim borbu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "alt": "two person shaking hands near white painted wall",
   "link": "https://unsplash.com/@chrisliverani"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

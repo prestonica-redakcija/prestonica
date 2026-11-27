@@ -32,7 +32,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-27T11:43:44.653153+00:00",
+ "updated": "2026-11-27T11:59:37.558666+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -465,6 +465,48 @@
    "url": "https://www.tanjug.rs/srbija/politika/301478/radomir-saicic-zalagacu-se-za-suverenu-srbiju-vreme-da-funkciji-predsednika-vratimo-dostojanstvo/vest",
    "title": "Radomir Saičić: Zalagaću se za suverenu Srbiju, vreme da funkciji predsednika vratimo dostojanstvo",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4440426-ko-je-radomir-saicic-kandidat-studentske-liste-za-predsednika-srbije",
+   "title": "Ko je Radomir Saičić, kandidat Studentske liste za predsednika Srbije",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/bbc-news-serbian/od-hemije-do-politike-radomir-saicic-predsednicki-kandidat-studentskog-pokreta/",
+   "title": "Od hemije do politike: Radomir Saičić, predsednički kandidat Studentskog pokreta",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10174617/ana-brnabic-osudjujemo-progon-novinara",
+   "title": "ANA BRNABIĆ SE OBRAĆA ISPRED SNS: Odluku o učešću na predsedničkim izborima donećemo 13. decembra u Skupštini Srbije",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253959/odluka-sns-o-izborima-13-decembra/vest",
+   "title": "Brnabić o predsedničkim izborima: Poznato kada SNS odlučuje da li će imati kandidata",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/ovo-je-prvi-govor-akademika-radomira-saicica-kao-kandidata-za-predsednika-srbije/",
+   "title": "Ovo je prvi govor akademika Radomira Saičića kao kandidata za predsednika Srbije",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1675288/pokrenucemo-inicijativu-raspravu-skupstini-brnabic-hapsenju-vucicevica-ljudi-glavu-gore-srbija-pobediti",
+   "title": "\"POKRENUĆEMO INICIJATIVU ZA RASPRAVU U SKUPŠTINI\" Brnabić o hapšenju Vučićevića: Ljudi, glavu gore, Srbija će pobediti!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/saicic-konsultacije-o-vladi-u-toku-bice-formirana-relativno-brzo/",
+   "title": "Saičić: Konsultacije o vladi u toku, biće formirana relativno brzo",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -539,7 +581,14 @@
   "Ovo je ceo govor Radomira Sajčića nakon objavljivanja odluke o kandidaturi",
   "Saičić: Konsultacije o vladi u toku, biće formirana relativno brzo",
   "\"Srbija pobeđuje\" se oglašava iz Skupštine Srbije: Brnabić govori o hapšenju Dragana J. Vučićevića",
-  "Radomir Saičić: Zalagaću se za suverenu Srbiju, vreme da funkciji predsednika vratimo dostojanstvo"
+  "Radomir Saičić: Zalagaću se za suverenu Srbiju, vreme da funkciji predsednika vratimo dostojanstvo",
+  "Ko je Radomir Saičić, kandidat Studentske liste za predsednika Srbije",
+  "Od hemije do politike: Radomir Saičić, predsednički kandidat Studentskog pokreta",
+  "ANA BRNABIĆ SE OBRAĆA ISPRED SNS: Odluku o učešću na predsedničkim izborima donećemo 13. decembra u Skupštini Srbije",
+  "Brnabić o predsedničkim izborima: Poznato kada SNS odlučuje da li će imati kandidata",
+  "Ovo je prvi govor akademika Radomira Saičića kao kandidata za predsednika Srbije",
+  "\"POKRENUĆEMO INICIJATIVU ZA RASPRAVU U SKUPŠTINI\" Brnabić o hapšenju Vučićevića: Ljudi, glavu gore, Srbija će pobediti!",
+  "Saičić: Konsultacije o vladi u toku, biće formirana relativno brzo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -552,7 +601,7 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 32,
+ "novo_od_pisanja": 39,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:45:47.570231+00:00",
  "verzija": 7

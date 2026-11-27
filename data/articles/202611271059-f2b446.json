@@ -37,7 +37,7 @@
  ],
  "importance": 4,
  "published": "2026-11-27T09:59:26.049974+00:00",
- "updated": "2026-11-27T11:43:44.653153+00:00",
+ "updated": "2026-11-27T11:59:37.558666+00:00",
  "sources": [
   {
    "name": "B92",
@@ -62,13 +62,20 @@
    "url": "https://www.danas.rs/vesti/politika/cupic-se-u-ohridu-sastao-sa-milatovicem-i-zeljkom-cvijanovic/",
    "title": "Čupić se u Ohridu sastao sa Milatovićem i Željkom Cvijanović",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/region/bosna-i-hercegovina/10174626/zeljka-cvijanovic-i-aleksandar-cupic-o-jacanju-saradnje-i-bratskih-odnosa",
+   "title": "\"JAČANJE SARADNJE I NAŠIH BRATSKIH ODNOSA U OBOSTRANOM INTERESU\" Željka Cvijanović se sastala s Aleksandrom Čupićem na sastanku Brdo-Brioni u Ohridu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Cvijanović i Čupić na Ohridu; \"Jačanje saradnje i naših bratskih odnosa je u obostranom interesu\" FOTO",
   "ČUPIĆ SE SASTAO SA ŽELJKOM CVIJANOVIĆ: \"Jačanje saradnje i naših bratskih odnosa je u obostranom interesu\"",
   "Milatović i Cvijanović sa Čupićem u Ohridu: Jačanje saradnje Srbije i regiona u zajedničkom interesu",
-  "Čupić se u Ohridu sastao sa Milatovićem i Željkom Cvijanović"
+  "Čupić se u Ohridu sastao sa Milatovićem i Željkom Cvijanović",
+  "\"JAČANJE SARADNJE I NAŠIH BRATSKIH ODNOSA U OBOSTRANOM INTERESU\" Željka Cvijanović se sastala s Aleksandrom Čupićem na sastanku Brdo-Brioni u Ohridu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -82,6 +89,6 @@
   "osoba": "Željka Cvijanović",
   "alt": "Cvijanović i Čupić razgovarali u Ohridu o jačanju saradnje"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

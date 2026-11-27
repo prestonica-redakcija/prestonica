@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T10:26:34.441569+00:00",
- "updated": "2026-11-26T11:31:30.898193+00:00",
+ "updated": "2026-11-27T11:59:37.558666+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -77,6 +77,12 @@
    "url": "https://www.kurir.rs/region/crna-gora/10173577/plenkovic-kaze-da-crna-gora-ne-moze-u-eu-bez-resene-kopnene-granice-sa-hrvatskom",
    "title": "\"CRNA GORA NE MOŽE U EU BEZ REŠENE KOPNENE GRANICE SA HRVATSKOM\" Plenković kaže da neće dozvoliti zatvaranje pregovaračkog poglavlja 31 i da ne želi arbitražu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4440956-crna-gora-ispunila-jos-1-uslov-zagreba-obestecenje-za-hrvate-koji-su-bili-zatvoreni-u-logoru-morinj",
+   "title": "Crna Gora ispunila još 1 uslov Zagreba: Obeštećenje za Hrvate koji su bili zatvoreni u logoru Morinj",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -86,7 +92,8 @@
   "Plenković nikad oštriji i jasniji prema Crnoj Gori: Arbitraža nije opcija",
   "Plenković postavio uslov Crnoj Gori",
   "Plenković: Crna Gora neće zatvoriti poglavlje 31 dok se ne reši granični spor, arbitraža nije opcija",
-  "\"CRNA GORA NE MOŽE U EU BEZ REŠENE KOPNENE GRANICE SA HRVATSKOM\" Plenković kaže da neće dozvoliti zatvaranje pregovaračkog poglavlja 31 i da ne želi arbitražu"
+  "\"CRNA GORA NE MOŽE U EU BEZ REŠENE KOPNENE GRANICE SA HRVATSKOM\" Plenković kaže da neće dozvoliti zatvaranje pregovaračkog poglavlja 31 i da ne želi arbitražu",
+  "Crna Gora ispunila još 1 uslov Zagreba: Obeštećenje za Hrvate koji su bili zatvoreni u logoru Morinj"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -100,8 +107,8 @@
   "osoba": "Andrej Plenković",
   "alt": "Plenković: poglavlje 31 neće biti zatvoreno dok se ne reši granica sa Crnom Gorom"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-26T11:31:30.898193+00:00",
  "verzija": 2
 }

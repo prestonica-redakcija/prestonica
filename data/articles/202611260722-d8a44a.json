@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-27T11:43:44.653153+00:00",
+ "updated": "2026-11-27T11:59:37.558666+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -599,6 +599,24 @@
    "url": "https://nova.rs/vesti/drustvo/spc-patrijarh-porfirije-sluzio-liturgiju-u-almaskoj-crkvi-povodom-smrti-mitropolita-irineja/",
    "title": "SPC: Patrijarh Porfirije služio liturgiju u Almaškoj crkvi povodom smrti mitropolita Irineja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/milatovic-sa-cupicem-vreme-je-za-novo-poglavlje-u-odnosima-crne-gore-i-srbije-foto/",
+   "title": "Milatović sa Čupićem: Vreme je za novo poglavlje u odnosima Crne Gore i Srbije FOTO",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/region/crna-gora/10174634/turska-uvela-vize-za-drzavljane-crne-gore",
+   "title": "TURSKA UVELA VIZE DRŽAVLJANIMA CRNE GORE! Odluku potpisao lično Erdogan!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4440905-stizu-obilne-padavine-ovi-predeli-srbije-bice-prvi-na-udaru-ocekuje-se-i-do-50-litara-kise-i-do-30-cm-snega",
+   "title": "Stižu OBILNE padavine! OVI predeli Srbije biće prvi na udaru: Očekuje se i do 50 litara kiše i do 30 cm snega",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -696,7 +714,10 @@
   "Počelo opelo mitropolitu bačkom Irineju u Novom Sadu, služi patrijarh Porfirije",
   "Erdogan potpisao lično; Crnogorci, udarac je uzvraćen",
   "SPC: Patrijarh Porfirije služio liturgiju u Almaškoj crkvi povodom smrti mitropolita Irineja",
-  "SPC: Patrijarh Porfirije služio liturgiju u Almaškoj crkvi povodom smrti mitropolita Irineja"
+  "SPC: Patrijarh Porfirije služio liturgiju u Almaškoj crkvi povodom smrti mitropolita Irineja",
+  "Milatović sa Čupićem: Vreme je za novo poglavlje u odnosima Crne Gore i Srbije FOTO",
+  "TURSKA UVELA VIZE DRŽAVLJANIMA CRNE GORE! Odluku potpisao lično Erdogan!",
+  "Stižu OBILNE padavine! OVI predeli Srbije biće prvi na udaru: Očekuje se i do 50 litara kiše i do 30 cm snega"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -709,7 +730,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 58,
+ "novo_od_pisanja": 61,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6
