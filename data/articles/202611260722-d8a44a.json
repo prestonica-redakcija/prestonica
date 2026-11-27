@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-27T06:15:49.885397+00:00",
+ "updated": "2026-11-27T06:34:31.714808+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -293,6 +293,12 @@
    "url": "https://www.telegraf.rs/vesti/svet/4440751-trampova-poruka-za-dan-zahvalnosti-otkrio-ko-bi-trebalo-da-ostane-u-sad",
    "title": "Trampova poruka za Dan zahvalnosti: Otkrio ko bi trebalo da ostane u SAD",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288494/zelenski-upozorio-rusija-priprema-novi-masovni-napad/vest",
+   "title": "Dramatično upozorenje: Rusi spremaju ogroman napad",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -339,7 +345,8 @@
   "\"Nova\" piše: Tri opcije za sudbinu RTS",
   "ZBOG SAHRANE MITROPOLITA BAČKOG IRINEJA: Danas izmena režima saobraćaja u Novom Sadu",
   "Danas izmena režima saobraćaja u Novom Sadu zbog sahrane mitropolita bačkog Irineja",
-  "Trampova poruka za Dan zahvalnosti: Otkrio ko bi trebalo da ostane u SAD"
+  "Trampova poruka za Dan zahvalnosti: Otkrio ko bi trebalo da ostane u SAD",
+  "Dramatično upozorenje: Rusi spremaju ogroman napad"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -352,7 +359,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 7,
+ "novo_od_pisanja": 8,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6
