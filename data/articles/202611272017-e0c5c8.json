@@ -27,17 +27,31 @@
  ],
  "importance": 6,
  "published": "2026-11-27T19:17:17.200095+00:00",
- "updated": "2026-11-27T19:17:17.200095+00:00",
+ "updated": "2026-11-27T19:34:22.689266+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/po-opazanju-ne-po-metodologiji-mup-odgovorio-arhivu-kako-su-vrsili-procenu-broju-ljudi-na-skupovima/",
    "title": "\"Po opažanju, ne po metodologiji\": MUP odgovorio Arhivu kako su vršili procenu broja ljudi na skupovima",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/mup-odgovorio-arhivu-kako-vrse-procenu-broja-ljudi-na-skupovima/",
+   "title": "MUP odgovorio Arhivu kako su vršili procenu broja ljudi na skupovima: \"Po opažanju, ne po metodologiji\"",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/arhiv-javnih-skupova-mup-potvrdio-da-se-procena-broja-ljudi-na-skupovima-ne-zasniva-na-metodologiji/",
+   "title": "Arhiv javnih skupova: MUP potvrdio da se procena broja ljudi na skupovima ne zasniva na metodologiji",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "\"Po opažanju, ne po metodologiji\": MUP odgovorio Arhivu kako su vršili procenu broja ljudi na skupovima"
+  "\"Po opažanju, ne po metodologiji\": MUP odgovorio Arhivu kako su vršili procenu broja ljudi na skupovima",
+  "MUP odgovorio Arhivu kako su vršili procenu broja ljudi na skupovima: \"Po opažanju, ne po metodologiji\"",
+  "Arhiv javnih skupova: MUP potvrdio da se procena broja ljudi na skupovima ne zasniva na metodologiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +63,7 @@
   "local": false,
   "alt": "Protesters hold signs and flags in times square at night",
   "link": "https://unsplash.com/@olek_bznv_photo"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

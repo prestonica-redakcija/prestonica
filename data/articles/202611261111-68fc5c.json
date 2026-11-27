@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T10:11:46.265687+00:00",
- "updated": "2026-11-27T19:00:34.330890+00:00",
+ "updated": "2026-11-27T19:34:22.689266+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -68,6 +68,12 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4441177-u-vjt-u-beogradu-saslusan-dvojac-zbog-bacanja-rucnih-bombi-na-kucu-i-ugostiteljski-objekat",
    "title": "U VJT u Beogradu saslušan dvojac zbog bacanja ručnih bombi na kuću i ugostiteljski objekat",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301597/u-visem-javnom-tuzilastvu-u-beogradu-saslusana-dvojica-zbog-bacanja-bombe-na-ugostiteljske-objekte-u-novom-sadu/vest",
+   "title": "U Višem javnom tužilaštvu u Beogradu saslušana dvojica zbog bacanja bombe na ugostiteljske objekte u Novom Sadu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -76,7 +82,8 @@
   "Novo hapšenje: Osumnjičeni da su bacili bombe na kuću i ugostiteljski objekat u Beogradu",
   "Uhapšeni osumnjičeni da su bacili bombe na kuću i ugostiteljski objekat u Beogradu",
   "U Višem javnom tužilaštvu u Beogradu saslušana dvojica zbog bacanja bombe na ugostiteljske objekte u NS",
-  "U VJT u Beogradu saslušan dvojac zbog bacanja ručnih bombi na kuću i ugostiteljski objekat"
+  "U VJT u Beogradu saslušan dvojac zbog bacanja ručnih bombi na kuću i ugostiteljski objekat",
+  "U Višem javnom tužilaštvu u Beogradu saslušana dvojica zbog bacanja bombe na ugostiteljske objekte u Novom Sadu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -89,6 +96,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Bra%C4%87e_Jerkovi%C4%87_from_air.jpg",
   "alt": "Uhapšena dvojica osumnjičenih za bacanje bombi na kuću biznismena i kafić u Beogradu"
  },
- "novo_od_pisanja": 5,
- "boost": 1.4
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }

@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-27T18:29:18.328071+00:00",
- "updated": "2026-11-27T19:00:34.330890+00:00",
+ "updated": "2026-11-27T19:34:22.689266+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,25 @@
    "url": "https://www.danas.rs/vesti/politika/nestorovic-ekoloski-ustanak-u-ponedeljak-o-predsednickim-izborima-zajedno-sa-nps/",
    "title": "Nestorović (Ekološki ustanak): U ponedeljak o predsedničkim izborima, zajedno sa NPS",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/nestorovic-ekoloski-ustanak-u-ponedeljak-cemo-zajedno-sa-nps-saopstiti-odluku-o-predsednickim-izborima",
+   "title": "Nestorović (Ekološki ustanak): U ponedeljak ćemo zajedno sa NPS saopštiti odluku o predsedničkim izborima",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/vucic-sns-ce-odluku-o-ucescu-na-predsednickim-izborima-saopstiti-pocetkom-decembra/",
+   "title": "Vučić: SNS će odluku o učešću na predsedničkim izborima saopštiti početkom decembra",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Nestorović (Ekološki ustanak): U ponedeljak o predsedničkim izborima, zajedno sa NPS",
-  "Nestorović (Ekološki ustanak): U ponedeljak o predsedničkim izborima, zajedno sa NPS"
+  "Nestorović (Ekološki ustanak): U ponedeljak o predsedničkim izborima, zajedno sa NPS",
+  "Nestorović (Ekološki ustanak): U ponedeljak ćemo zajedno sa NPS saopštiti odluku o predsedničkim izborima",
+  "Vučić: SNS će odluku o učešću na predsedničkim izborima saopštiti početkom decembra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +73,6 @@
   "alt": "two flags with a coat of arms on them",
   "link": "https://unsplash.com/@thestefankostic"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
