@@ -31,7 +31,7 @@
  ],
  "importance": 7,
  "published": "2026-11-27T14:24:45.310037+00:00",
- "updated": "2026-11-27T14:24:45.310037+00:00",
+ "updated": "2026-11-27T15:04:48.416504+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://nova.rs/vesti/politika/marta-kos-nijedna-uplata-za-beograd-od-januara-meseca/",
    "title": "Marta Kos: Nijedna uplata za Beograd od januara meseca",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10174896/marta-kos-novi-pocetak-za-srbiju-i-eu-u-vezi-sredstava-iz-plana-rasta",
+   "title": "\"SADA POSTOJI MOGUĆNOST ZA NOVI POČETAK\"! Marta Kos: Evropska komisija od januara nije izvršila nijednu uplatu Srbiji",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Marta Kos: Od januara nema uplata Beogradu iz Plana rasta EU, otvara se mogućnost za novi početak",
-  "Marta Kos: Nijedna uplata za Beograd od januara meseca"
+  "Marta Kos: Nijedna uplata za Beograd od januara meseca",
+  "\"SADA POSTOJI MOGUĆNOST ZA NOVI POČETAK\"! Marta Kos: Evropska komisija od januara nije izvršila nijednu uplatu Srbiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata_2.jpg",
   "alt": "Marta Kos: Evropska komisija od januara nije uplatila ništa Beogradu iz Plana rasta"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -40,7 +40,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T12:51:19.902058+00:00",
- "updated": "2026-11-27T14:09:56.940428+00:00",
+ "updated": "2026-11-27T15:04:48.416504+00:00",
  "sources": [
   {
    "name": "N1",
@@ -185,6 +185,30 @@
    "url": "https://www.telegraf.rs/4441041-srdacan-docek-aleksandra-cupica-na-samitu-brdo-brioni-snimak",
    "title": "Srdačan doček Aleksandra Čupića na samitu Brdo-Brioni (SNIMAK)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4441055-cupic-na-samitu-u-ohridu-spoljna-politika-srbije-bice-uravnotezena-i-dosledna",
+   "title": "Čupić na samitu u Ohridu: Spoljna politika Srbije biće uravnotežena i dosledna",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/cupic-na-samitu-brdo-brioni-spoljna-politika-srbije-bice-uravnotezena-predvidljiva-i-dosledna/",
+   "title": "Čupić na samitu Brdo-Brioni: Spoljna politika Srbije biće uravnotežena, predvidljiva i dosledna",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/cupic-na-samitu-lidera-procesa-brdo-brioni-u-ohridu-zemlje-regiona-moraju-da-saradjuju/",
+   "title": "Čupić na samitu lidera procesa Brdo-Brioni u Ohridu: Zemlje regiona moraju da sarađuju",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/poruke-aleksandra-cupica-u-ohridu-na-samitu-procesa-brdo-brioni/",
+   "title": "Poruke Aleksandra Čupića u Ohridu, na samitu procesa Brdo Brioni",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -211,7 +235,11 @@
   "Čupić danas na sastanaku lidera procesa Brdo-Brioni: Prisustvovao večeri sa liderima u regionu",
   "Aleksandar Čupić na večeri sa liderima Zapadnog Balkana",
   "Čestitke Aleksandru Čupiću na izboru i ohrabrujuće poruke o popravljanju regionalnih odnosa sa samita Brdo-Brioni na Ohridu",
-  "Srdačan doček Aleksandra Čupića na samitu Brdo-Brioni (SNIMAK)"
+  "Srdačan doček Aleksandra Čupića na samitu Brdo-Brioni (SNIMAK)",
+  "Čupić na samitu u Ohridu: Spoljna politika Srbije biće uravnotežena i dosledna",
+  "Čupić na samitu Brdo-Brioni: Spoljna politika Srbije biće uravnotežena, predvidljiva i dosledna",
+  "Čupić na samitu lidera procesa Brdo-Brioni u Ohridu: Zemlje regiona moraju da sarađuju",
+  "Poruke Aleksandra Čupića u Ohridu, na samitu procesa Brdo Brioni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -224,7 +252,7 @@
   "alt": "People are watching the sunset over the water",
   "link": "https://unsplash.com/@martinkoloski"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 5,
  "boost": 1.6,
  "prepisano": "2026-11-27T11:07:40.603633+00:00",
  "verzija": 5

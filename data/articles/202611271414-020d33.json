@@ -25,17 +25,24 @@
  ],
  "importance": 4,
  "published": "2026-11-27T13:14:03.031491+00:00",
- "updated": "2026-11-27T13:14:03.031491+00:00",
+ "updated": "2026-11-27T15:04:48.416504+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/301483/evropska-centralna-banka-inflatorna-ocekivanja-gradana-evrozone-za-narednih-godinu-dana-porasla-na-35-odsto/vest",
    "title": "Evropska centralna banka: Inflatorna očekivanja građana evrozone za narednih godinu dana porasla na 3,5 odsto",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/britanski-institut-iiss-broj-ruskih-sabotaza-u-evropi-porastao-za-16-odsto-za-godinu-dana/",
+   "title": "Britanski institut IISS: Broj ruskih sabotaža u Evropi porastao za 16 odsto za godinu dana",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Evropska centralna banka: Inflatorna očekivanja građana evrozone za narednih godinu dana porasla na 3,5 odsto"
+  "Evropska centralna banka: Inflatorna očekivanja građana evrozone za narednih godinu dana porasla na 3,5 odsto",
+  "Britanski institut IISS: Broj ruskih sabotaža u Evropi porastao za 16 odsto za godinu dana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "local": false,
   "alt": "A scattered pile of various euro banknotes including twenty, one hundred, and two hundred denominations",
   "link": "https://unsplash.com/@ibrahimboran"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

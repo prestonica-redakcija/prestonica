@@ -32,7 +32,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-27T14:44:30.153960+00:00",
+ "updated": "2026-11-27T15:04:48.416504+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -723,6 +723,18 @@
    "url": "https://informer.rs/politika/vesti/1173755/radomir-saicic-predsednicki-kandidat-studenti",
    "title": "Ovo je svima promaklo! Skandal u režiji lažnih studenata: Saičićev govor objavljen pre nego što je izgovoren",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/kragujevac-potpisuje-za-pobedu-u-nedelju-na-dve-lokacije-prikuplanje-potpisa-za-predsednickog-kandidata-studentske-liste/",
+   "title": "Kragujevac potpisuje za pobedu: U nedelju na dve lokacije prikuplanje potpisa za predsedničkog kandidata Studentske liste",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/branko-ruzic-predsednicki-izbori/",
+   "title": "Branko Ružić kaže da se neće kandidovati na predsedničkim izborima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -840,7 +852,9 @@
   "Čupić: Očekujem formiranje Vlade Srbije u razumnom roku",
   "SPO: Podrška Saičiću",
   "SPO podržao Saičića",
-  "Ovo je svima promaklo! Skandal u režiji lažnih studenata: Saičićev govor objavljen pre nego što je izgovoren"
+  "Ovo je svima promaklo! Skandal u režiji lažnih studenata: Saičićev govor objavljen pre nego što je izgovoren",
+  "Kragujevac potpisuje za pobedu: U nedelju na dve lokacije prikuplanje potpisa za predsedničkog kandidata Studentske liste",
+  "Branko Ružić kaže da se neće kandidovati na predsedničkim izborima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -853,7 +867,7 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 75,
+ "novo_od_pisanja": 77,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:45:47.570231+00:00",
  "verzija": 7

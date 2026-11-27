@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T17:03:44.772604+00:00",
- "updated": "2026-11-26T19:14:20.668837+00:00",
+ "updated": "2026-11-27T15:04:48.416504+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -60,6 +60,12 @@
    "url": "https://nova.rs/vesti/hronika/uhapsen-maloletnik-iz-okoline-petrovca-na-mlavi-sa-puskom/",
    "title": "Uhapšen maloletnik iz okoline Petrovca na Mlavi sa snajperskom puškom, bombama i drogom",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301536/u-petrovcu-na-mlavi-zaplenjeno-vise-od-pola-kilograma-marihuane-uhapsen-osumnjiceni/vest",
+   "title": "U Petrovcu na Mlavi zaplenjeno više od pola kilograma marihuane, uhapšen osumnjičeni",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -67,7 +73,8 @@
   "SNAJPER SA PRIGUŠIVAČEM, BOMBE I VIŠE OD 100 KILOGRAMA DROGE Šok zaplena u stanu koji je koristio maloletnik u Beogradu: Policija saopštila detalje",
   "Drama u Beogradu! Kod maloletnika pronađen snajper, bombe i oko 100 kg psihoaktivnih supstanci",
   "Uhapšen maloletnik iz okoline Petrovca na Mlavi sa snajperskom puškom, bombama i drogom",
-  "Uhapšen maloletnik iz okoline Petrovca na Mlavi sa snajperskom puškom, bombama i drogom"
+  "Uhapšen maloletnik iz okoline Petrovca na Mlavi sa snajperskom puškom, bombama i drogom",
+  "U Petrovcu na Mlavi zaplenjeno više od pola kilograma marihuane, uhapšen osumnjičeni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,6 +87,6 @@
   "alt": "black semi automatic airsoft pistol on white textile",
   "link": "https://unsplash.com/@maxzzerzz"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
