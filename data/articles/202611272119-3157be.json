@@ -26,16 +26,23 @@
  ],
  "importance": 5,
  "published": "2026-11-27T20:19:04.009939+00:00",
- "updated": "2026-11-27T20:19:04.009939+00:00",
+ "updated": "2026-11-27T20:48:43.466542+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/301623/cena-nafte-brent-pala-na-95-dolara-po-barelu-uprkos-tenzijama-na-bliskom-istoku/vest",
    "title": "Cena nafte Brent pala na 95 dolara po barelu uprkos tenzijama na Bliskom istoku",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/cena-nafte-brent-pala-na-95-dolara-po-barelu-uprkos-tenzijama-na-bliskom-istoku",
+   "title": "Cena nafte Brent pala na 95 dolara po barelu uprkos tenzijama na Bliskom istoku",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Cena nafte Brent pala na 95 dolara po barelu uprkos tenzijama na Bliskom istoku",
   "Cena nafte Brent pala na 95 dolara po barelu uprkos tenzijama na Bliskom istoku"
  ],
  "author": "Redakcija Prestonice",
@@ -48,5 +55,7 @@
   "local": false,
   "alt": "A large cargo ship in the middle of the ocean",
   "link": "https://unsplash.com/@giorgosbara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

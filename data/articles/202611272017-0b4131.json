@@ -29,17 +29,24 @@
  ],
  "importance": 3,
  "published": "2026-11-27T19:17:17.200095+00:00",
- "updated": "2026-11-27T19:17:17.200095+00:00",
+ "updated": "2026-11-27T20:48:43.466542+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/svet/politika/301605/ministar-trampove-carine-zblizile-indoneziju-i-eu-i-ubrzale-postpisivanje-sporazuma/vest",
    "title": "Ministar: Trampove carine zbližile Indoneziju i EU i ubrzale postpisivanje sporazuma",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/288744/trampove-carine-zblizile-indoneziju-i-eu/vest",
+   "title": "Trampove carine zbližile Indoneziju i EU",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Ministar: Trampove carine zbližile Indoneziju i EU i ubrzale postpisivanje sporazuma"
+  "Ministar: Trampove carine zbližile Indoneziju i EU i ubrzale postpisivanje sporazuma",
+  "Trampove carine zbližile Indoneziju i EU"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Hartarto: američke carine ubrzale trgovinski sporazum Indonezije i EU"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
