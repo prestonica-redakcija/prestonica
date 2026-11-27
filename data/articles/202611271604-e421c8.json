@@ -28,17 +28,24 @@
  ],
  "importance": 3,
  "published": "2026-11-27T15:04:48.416504+00:00",
- "updated": "2026-11-27T15:04:48.416504+00:00",
+ "updated": "2026-11-27T15:20:21.674875+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/drustvo/301524/ambasada-ujedinjenih-arapskih-emirata-obelezava-55-nacionalni-dan-ujedinjenih-arapskih-emirata/vest",
    "title": "Ambasada Ujedinjenih Arapskih Emirata obeležava 55. Nacionalni dan Ujedinjenih Arapskih Emirata",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/na-prijemu-u-ambasadi-uae-i-vucic/",
+   "title": "Na prijemu u Ambasadi UAE i Vučić",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Ambasada Ujedinjenih Arapskih Emirata obeležava 55. Nacionalni dan Ujedinjenih Arapskih Emirata"
+  "Ambasada Ujedinjenih Arapskih Emirata obeležava 55. Nacionalni dan Ujedinjenih Arapskih Emirata",
+  "Na prijemu u Ambasadi UAE i Vučić"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Ambasador UAE u Beogradu: spremni smo da nastavimo da jačamo saradnju sa Srbijom"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T12:29:29.006406+00:00",
- "updated": "2026-11-27T14:24:45.310037+00:00",
+ "updated": "2026-11-27T15:20:21.674875+00:00",
  "sources": [
   {
    "name": "N1",
@@ -51,12 +51,19 @@
    "url": "https://n1info.rs/vesti/predsednik-albanije-u-ohridu-prosirenje-eu-geopoliticki-imperativ/",
    "title": "Predsednik Albanije u Ohridu: Proširenje EU geopolitički imperativ",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/predsednik-albanije-u-ohridu-prosirenje-evropske-unije-geopoliticki-imperativ",
+   "title": "Predsednik Albanije u Ohridu: Proširenje Evropske unije geopolitički imperativ",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Široka Pulja: Kosovo i Albanija su jedno srce, jedan um i jedna nacija",
   "Široka Pulja u Ohridu: Kosovo i Albanija su jedno srce, jedan um i jedna nacija",
-  "Predsednik Albanije u Ohridu: Proširenje EU geopolitički imperativ"
+  "Predsednik Albanije u Ohridu: Proširenje EU geopolitički imperativ",
+  "Predsednik Albanije u Ohridu: Proširenje Evropske unije geopolitički imperativ"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "alt": "People are watching the sunset over the water",
   "link": "https://unsplash.com/@martinkoloski"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

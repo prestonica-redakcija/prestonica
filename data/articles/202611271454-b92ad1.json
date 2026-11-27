@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T13:54:38.749331+00:00",
- "updated": "2026-11-27T13:54:38.749331+00:00",
+ "updated": "2026-11-27T15:20:21.674875+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,11 +44,18 @@
    "url": "https://www.b92.net/info/politika/288649/u-beogradu-sastanak-zajednickog-konsultativnog-odbora-srbija-eu-ove-teme-su-u-fokusu/vest",
    "title": "U Beogradu sastanak Zajedničkog konsultativnog odbora Srbija – EU; Ove teme su u fokusu",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253989/sastanak-zajednickog-konsultativnog-odbora-srbija-eu/vest",
+   "title": "U Beogradu sastanak Zajedničkog konsultativnog odbora Srbija - EU",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "U Beogradu sastanak Zajedničkog konsultativnog odbora Srbija - EU",
-  "U Beogradu sastanak Zajedničkog konsultativnog odbora Srbija – EU; Ove teme su u fokusu"
+  "U Beogradu sastanak Zajedničkog konsultativnog odbora Srbija – EU; Ove teme su u fokusu",
+  "U Beogradu sastanak Zajedničkog konsultativnog odbora Srbija - EU"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Brixen_kapuc%C3%ADnsk%C3%BD_kl%C3%A1%C5%A1ter_3.jpg",
   "alt": "Gačević: dinamika pregovora sa EU daleko od željene, Srbiji najteži kriterijumi"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

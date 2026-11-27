@@ -29,17 +29,24 @@
  ],
  "importance": 5,
  "published": "2026-11-27T09:59:26.049974+00:00",
- "updated": "2026-11-27T09:59:26.049974+00:00",
+ "updated": "2026-11-27T15:20:21.674875+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/english/news/eu-commissioner-kos-meets-serbian-deputy-speaker-mavric-to-discuss-eu-support/",
    "title": "EU Commissioner Kos meets Serbian Deputy Speaker Mavric to discuss EU support",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301465/kos-sa-mavricem-razgovarala-o-reformama-u-oblasti-vladavine-prava-i-unapredenju-odnosa/vest",
+   "title": "Kos sa Mavrićem razgovarala o reformama u oblasti vladavine prava i unapređenju odnosa",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "EU Commissioner Kos meets Serbian Deputy Speaker Mavric to discuss EU support"
+  "EU Commissioner Kos meets Serbian Deputy Speaker Mavric to discuss EU support",
+  "Kos sa Mavrićem razgovarala o reformama u oblasti vladavine prava i unapređenju odnosa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Narodna_skupstina_Srbije.jpg",
   "alt": "Kos razgovarala sa Ademom Mavricem o podršci EU reformama vladavine prava"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

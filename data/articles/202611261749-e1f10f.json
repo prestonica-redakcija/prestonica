@@ -33,17 +33,24 @@
  ],
  "importance": 5,
  "published": "2026-11-26T16:49:07.091141+00:00",
- "updated": "2026-11-26T16:49:07.091141+00:00",
+ "updated": "2026-11-27T15:20:21.674875+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/svajcarska-vlada-zabrinuta-zbog-polozaja-srba-na-kosovu-u-parlamentu-inicijativa-za-zastitu-prava-manjina/",
    "title": "Švajcarska vlada zabrinuta zbog položaja Srba na Kosovu, u parlamentu inicijativa za zaštitu prava manjina",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301460/clan-parlamenta-svajcarske-inicirao-izradu-izvestaja-o-pravima-srba-na-kim/vest",
+   "title": "Član parlamenta Švajcarske inicirao izradu izveštaja o pravima Srba na KiM",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Švajcarska vlada zabrinuta zbog položaja Srba na Kosovu, u parlamentu inicijativa za zaštitu prava manjina"
+  "Švajcarska vlada zabrinuta zbog položaja Srba na Kosovu, u parlamentu inicijativa za zaštitu prava manjina",
+  "Član parlamenta Švajcarske inicirao izradu izveštaja o pravima Srba na KiM"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "alt": "a large building with a clock tower on top of it",
   "link": "https://unsplash.com/@afisch"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
