@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-26T22:32:33.956628+00:00",
+ "updated": "2026-11-27T07:19:10.485589+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -135,6 +135,12 @@
    "url": "https://www.b92.net/info/hronika/288476/uhapsen-osumnjiceni-za-napad-na-kucu-direktora-pro-tenta/vest",
    "title": "Uhapšen osumnjičeni za napad na kuću direktora \"Pro Tenta\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4440763-bomba-na-kucu-direktora-pro-tent-a-i-niz-krivicnih-dela-koliko-godina-zatvora-preti-osumnjicenom",
+   "title": "Bomba na kuću direktora \"Pro TENT\"-a i niz krivičnih dela: Koliko godina zatvora preti osumnjičenom?",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -154,7 +160,8 @@
   "Kod sedamnaestogodišnjaka pronađeno 3,5 kg kokaina, 100 kg marihuane, 4,5 kg heroina, ručne bombe i snajper",
   "Uhapšen sedamnaestogodišnjak, osumnjičen za trgovinu drogom i posedovanje nelegalnog oružja",
   "Uhapšen sedamnaestogodišnjak: U motelu u Beogradu pronađeno 100 kilograma marihuane, kokain, heroin i oružje",
-  "Uhapšen osumnjičeni za napad na kuću direktora \"Pro Tenta\""
+  "Uhapšen osumnjičeni za napad na kuću direktora \"Pro Tenta\"",
+  "Bomba na kuću direktora \"Pro TENT\"-a i niz krivičnih dela: Koliko godina zatvora preti osumnjičenom?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -167,7 +174,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Novi_Beograd_test.jpg",
   "alt": "Uhapšene dve osobe zbog sumnje da su bacile ručne bombe na kuću i u baštu restorana u Beogradu"
  },
- "novo_od_pisanja": 0,
+ "novo_od_pisanja": 1,
  "boost": 1.6,
  "prepisano": "2026-11-26T22:32:33.956628+00:00",
  "verzija": 3

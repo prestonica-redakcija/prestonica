@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-27T07:04:06.020092+00:00",
+ "updated": "2026-11-27T07:19:10.485589+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -323,6 +323,24 @@
    "url": "https://www.danas.rs/vesti/drustvo/irinej-sahrana/",
    "title": "Danas sahrana mitropolita Irineja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288500/rat-u-ukrajini-1737-dan/vest",
+   "title": "Bežite; Rusi kreću u novi masovni napad FOTO/VIDEO",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10174282/sahrana-mitropolita-irineja-u-novom-sadu",
+   "title": "Danas sahrana mitropolita Irineja u Novom Sadu: Patrijarh Porfirije služi opelo",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/magazin/nauka/nasa-je-pre-cetiri-godine-namerno-udarila-u-asteroid-sada-je-prvi-put-snimljeno-sta-je-ostalo-na-njegovoj-povrsini/",
+   "title": "NASA je pre četiri godine namerno udarila u asteroid: Sada je prvi put snimljeno šta je ostalo na njegovoj površini",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -374,7 +392,10 @@
   "Sahrana mitropolita Irineja danas u Novom Sadu, opelo će služiti Porfirije",
   "Danas izmena režima saobraćaja u Novom Sadu zbog sahrane mitropolita bačkog Irineja",
   "Danas sahrana mitropolita Irineja u Novom Sadu",
-  "Danas sahrana mitropolita Irineja"
+  "Danas sahrana mitropolita Irineja",
+  "Bežite; Rusi kreću u novi masovni napad FOTO/VIDEO",
+  "Danas sahrana mitropolita Irineja u Novom Sadu: Patrijarh Porfirije služi opelo",
+  "NASA je pre četiri godine namerno udarila u asteroid: Sada je prvi put snimljeno šta je ostalo na njegovoj površini"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -387,7 +408,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 12,
+ "novo_od_pisanja": 15,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6

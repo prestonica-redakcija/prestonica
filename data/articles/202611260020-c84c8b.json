@@ -36,7 +36,7 @@
  ],
  "importance": 6,
  "published": "2026-11-25T23:20:00.404645+00:00",
- "updated": "2026-11-25T23:20:00.404645+00:00",
+ "updated": "2026-11-27T07:19:10.485589+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -55,12 +55,19 @@
    "url": "https://www.kurir.rs/planeta/10173165/trampov-zet-putin-je-istorijska-licnost-i-majstor-politike",
    "title": "TRAMPOV ZET NAHVALIO PUTINA! Kušner: On je istorijska ličnost i velemajstor politike, Evropa vodi posrednički rat protiv Rusije",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288501/tramp-voleo-bih-da-putin-dodje-na-samit-g20/vest",
+   "title": "Tramp: \"Putin? Voleo bih...\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Kušner: Evropa još nema uverljiv plan za okončanje rata u Ukrajini",
   "Trampov zet o Putinu: On je velemajstor politike, uverio nas je da neće koristiti nuklearno oružje",
-  "TRAMPOV ZET NAHVALIO PUTINA! Kušner: On je istorijska ličnost i velemajstor politike, Evropa vodi posrednički rat protiv Rusije"
+  "TRAMPOV ZET NAHVALIO PUTINA! Kušner: On je istorijska ličnost i velemajstor politike, Evropa vodi posrednički rat protiv Rusije",
+  "Tramp: \"Putin? Voleo bih...\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,5 +80,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Putin_V_2026_08_10.png",
   "osoba": "Vladimir Putin",
   "alt": "Kušner: Evropa nema uverljiv plan za mir, Putin je velemajstor politike"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -41,7 +41,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T12:51:19.902058+00:00",
- "updated": "2026-11-27T06:49:15.064156+00:00",
+ "updated": "2026-11-27T07:19:10.485589+00:00",
  "sources": [
   {
    "name": "N1",
@@ -138,6 +138,18 @@
    "url": "https://nova.rs/vesti/svet/sastanak-lidera-procesa-brdo-brioni-bice-odrzan-danas-u-ohridu/",
    "title": "Sastanak lidera Brdo-Brioni danas u Ohridu, domaćin je predsednica Severne Makedonije Gordana Siljanovska Davkova, učestovaće i Aleksandar Čupić",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/sastanak-lidera-brdo-brioni-danas-u-ohridu",
+   "title": "Sastanak lidera Brdo-Brioni danas u Ohridu",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10174276/aleksandar-cupic-na-veceri-sa-regionalnim-liderima",
+   "title": "ZA STOLOM SA MILATOVIĆEM I BEĆIROVIĆEM: Aleksandar Čupić na prvom sastanku u inostranstvu, razgovarao sa liderima iz regiona",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -156,7 +168,9 @@
   "Aleksandar Čupić za stolom sa Milatovićem i Bećirovićem: Predsednik Skupštine na prvom sastanku u inostranstvu",
   "NEFORMALNA VEČERA UOČI SAMITA BRDO BRIONI Čupić sa predstavnicima zemalja učesnica (FOTO)",
   "Danas sastanak lidera Brdo-Brioni u Ohridu, učestvuje i Čupić",
-  "Sastanak lidera Brdo-Brioni danas u Ohridu, domaćin je predsednica Severne Makedonije Gordana Siljanovska Davkova, učestovaće i Aleksandar Čupić"
+  "Sastanak lidera Brdo-Brioni danas u Ohridu, domaćin je predsednica Severne Makedonije Gordana Siljanovska Davkova, učestovaće i Aleksandar Čupić",
+  "Sastanak lidera Brdo-Brioni danas u Ohridu",
+  "ZA STOLOM SA MILATOVIĆEM I BEĆIROVIĆEM: Aleksandar Čupić na prvom sastanku u inostranstvu, razgovarao sa liderima iz regiona"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -169,7 +183,7 @@
   "alt": "People are watching the sunset over the water",
   "link": "https://unsplash.com/@martinkoloski"
  },
- "novo_od_pisanja": 2,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-26T23:50:15.553103+00:00",
  "verzija": 3
