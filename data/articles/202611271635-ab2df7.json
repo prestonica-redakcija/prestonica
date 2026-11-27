@@ -26,7 +26,7 @@
  ],
  "importance": 2,
  "published": "2026-11-27T15:35:52.749006+00:00",
- "updated": "2026-11-27T15:35:52.749006+00:00",
+ "updated": "2026-11-27T15:54:33.435859+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -39,11 +39,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4441085-ponos-srpske-avijacije-na-okupu-ovako-su-orlovi-iz-ladjevaca-obelezili-svoj-veliki-dan",
    "title": "Ponos srpske avijacije na okupu: Ovako su \"Orlovi\" iz Lađevaca obeležili svoj veliki dan",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/u-ladjevcima-obelezen-dan-98-vazduhoplovne-brigade-vojske-srbije/",
+   "title": "U Lađevcima obeležen Dan 98. vazduhoplovne brigade Vojske Srbije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "U Lađevcima obeležen Dan 98. vazduhoplovne brigade Vojske Srbije",
-  "Ponos srpske avijacije na okupu: Ovako su \"Orlovi\" iz Lađevaca obeležili svoj veliki dan"
+  "Ponos srpske avijacije na okupu: Ovako su \"Orlovi\" iz Lađevaca obeležili svoj veliki dan",
+  "U Lađevcima obeležen Dan 98. vazduhoplovne brigade Vojske Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "alt": "men in black and brown camouflage uniform standing on brown floor",
   "link": "https://unsplash.com/@actuallyjoel"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

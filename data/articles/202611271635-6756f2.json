@@ -33,16 +33,23 @@
  ],
  "importance": 3,
  "published": "2026-11-27T15:35:52.749006+00:00",
- "updated": "2026-11-27T15:35:52.749006+00:00",
+ "updated": "2026-11-27T15:54:33.435859+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/doljevcanin-oslobodjen-posle-sest-godina-sudjenja-zbog-pogibije-pesaka-koju-nije-skrivio/",
    "title": "Doljevčanin oslobođen posle šest godina suđenja zbog pogibije pešaka koju nije skrivio",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/doljevcanin-oslobodjen-posle-sest-godina-sudjenja-zbog-pogibije-pesaka-koju-nije-skrivio/",
+   "title": "Doljevčanin oslobođen posle šest godina suđenja zbog pogibije pešaka koju nije skrivio",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Doljevčanin oslobođen posle šest godina suđenja zbog pogibije pešaka koju nije skrivio",
   "Doljevčanin oslobođen posle šest godina suđenja zbog pogibije pešaka koju nije skrivio"
  ],
  "author": "Redakcija Prestonice",
@@ -54,5 +61,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Apelacioni sud u Nišu pravosnažno oslobodio Miodraga Perića za nesreću u Doljevcu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -32,17 +32,24 @@
  ],
  "importance": 4,
  "published": "2026-11-27T10:14:47.695581+00:00",
- "updated": "2026-11-27T10:14:47.695581+00:00",
+ "updated": "2026-11-27T15:54:33.435859+00:00",
  "sources": [
   {
    "name": "Telegraf",
    "url": "https://www.telegraf.rs/vesti/jugosfera/4440587-bivsi-komandant-armije-bih-pobegao-iz-zemlje-pred-izricanje-presude-za-ubistvo-zarobljenog-hrvata",
    "title": "Bivši komandant Armije BiH pobegao iz zemlje pred izricanje presude za ubistvo zarobljenog Hrvata",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/301550/kenija-bivsi-lokalni-guverner-osuden-na-25-godina-zatvora-zbog-ubistva-studentkinje/vest",
+   "title": "Kenija: Bivši lokalni guverner osuđen na 25 godina zatvora zbog ubistva studentkinje",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Bivši komandant Armije BiH pobegao iz zemlje pred izricanje presude za ubistvo zarobljenog Hrvata"
+  "Bivši komandant Armije BiH pobegao iz zemlje pred izricanje presude za ubistvo zarobljenog Hrvata",
+  "Kenija: Bivši lokalni guverner osuđen na 25 godina zatvora zbog ubistva studentkinje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Tužilaštvo BiH traži poternicu za Šerifom Patkovićem, osuđenim na deset godina zatvora"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

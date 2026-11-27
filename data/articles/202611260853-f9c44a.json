@@ -32,7 +32,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-27T15:35:52.749006+00:00",
+ "updated": "2026-11-27T15:54:33.435859+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -789,6 +789,30 @@
    "url": "https://www.b92.net/info/politika/288690/elek-ne-znam-da-li-cemo-podrzati-saicica-odlucice-predsednistvo/vest",
    "title": "Elek: \"Ne znam da li ćemo podržati Saičića, odlučiće Predsedništvo\"",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288695/vucic-razgovarao-sa-novim-clanovima-sns-prokomentarisao-i-saicicevu-kandidaturu-video/vest",
+   "title": "Vučić razgovarao sa novim članovima SNS, prokomentarisao i Saičićevu kandidaturu VIDEO",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/region/bosna-i-hercegovina/10174967/igor-dodik-kaze-je-prihvatio-da-bude-mandatar-za-premijera-rs-ali-ne-po-svaku-cenu",
+   "title": "\"PRIHVATIO SAM DA BUDEM MANDATAR, ALI NE PO SVAKU CENU\" Kandidat za premijera Republike Srpske Igor Dodik se nada da će do 10. decembra predstaviti ekspoze",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173777/ivan-radovanovic-kolumna-dragan-j-vucicevic",
+   "title": "Kolumna Ivana Radovanovića: Nošenje glave Dragana J. Vučićevića",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4441106-branko-ruzic-odlucio-da-li-ce-se-kandidovati-na-predsednickim-izborima",
+   "title": "Branko Ružić odlučio da li će se kandidovati na predsedničkim izborima",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -917,7 +941,11 @@
   "Čupić: Očekujem formiranje Vlade Srbije u razumnom roku",
   "SPO će na predsedničkim izborima podržati Radomira Saičića",
   "Novo lice Srbije podržalo predsedničku kandidaturu Radomira Saičića",
-  "Elek: \"Ne znam da li ćemo podržati Saičića, odlučiće Predsedništvo\""
+  "Elek: \"Ne znam da li ćemo podržati Saičića, odlučiće Predsedništvo\"",
+  "Vučić razgovarao sa novim članovima SNS, prokomentarisao i Saičićevu kandidaturu VIDEO",
+  "\"PRIHVATIO SAM DA BUDEM MANDATAR, ALI NE PO SVAKU CENU\" Kandidat za premijera Republike Srpske Igor Dodik se nada da će do 10. decembra predstaviti ekspoze",
+  "Kolumna Ivana Radovanovića: Nošenje glave Dragana J. Vučićevića",
+  "Branko Ružić odlučio da li će se kandidovati na predsedničkim izborima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -930,7 +958,7 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 86,
+ "novo_od_pisanja": 90,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:45:47.570231+00:00",
  "verzija": 7
