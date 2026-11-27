@@ -33,7 +33,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-27T10:48:25.392298+00:00",
+ "updated": "2026-11-27T11:07:40.603633+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -472,6 +472,12 @@
    "url": "https://n1info.rs/vesti/zaposleni-na-informeru-i-poslanici-sns-protestuju-ispred-centralnog-zatvora/",
    "title": "Zaposleni na Informeru i poslanici SNS protestuju ispred Centralnog zatvora",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/skup-poslanika-sns-i-zaposlenih-na-tv-informer-ispred-centralnog-zatvora/",
+   "title": "Skup poslanika SNS i zaposlenih na TV Informer ispred Centralnog zatvora",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -547,7 +553,8 @@
   "Stanivuković odgovorio Igoru Dodiku i najavio predloge dva nova zakona",
   "Gašić: Ovo je klasičan politički progon",
   "Održan skup podrške Draganu J. Vučićeviću ispred Centralnog zatvora",
-  "Zaposleni na Informeru i poslanici SNS protestuju ispred Centralnog zatvora"
+  "Zaposleni na Informeru i poslanici SNS protestuju ispred Centralnog zatvora",
+  "Skup poslanika SNS i zaposlenih na TV Informer ispred Centralnog zatvora"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -560,7 +567,7 @@
   "alt": "Car entering a brightly lit tunnel at night",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 15,
+ "novo_od_pisanja": 16,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:15:12.934903+00:00",
  "verzija": 11

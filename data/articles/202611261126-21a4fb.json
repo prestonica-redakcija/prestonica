@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-26T10:26:34.441569+00:00",
- "updated": "2026-11-27T09:10:00.039987+00:00",
+ "updated": "2026-11-27T11:07:40.603633+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -63,6 +63,12 @@
    "url": "https://www.b92.net/biz/srbija/vesti/288540/savic-srbija-trpi-ucene-od-eu-da-bi-dobila-novac-iz-plana-rasta-za-zapadni-balkan/vest",
    "title": "Savić: \"EU ucenjuje Srbiju, traži i sankcije Rusiji\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253920/savic-otkrio-sta-eu-trazi-od-srbije/vest",
+   "title": "\"Novac iz Brisela ima cenu\": Savić otkrio šta EU traži od Srbije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -70,7 +76,8 @@
   "\"NEĆEMO UVODITI SANKCIJE RUSIJI\" Aleksandar Čupić za nemačke medije: Verujem da EU razume taj naš stav!",
   "Čupić za nemačku televiziju: \"Razočaran sam Briselom\"; \"Sankcije Rusiji nećemo uvoditi\"",
   "Čupić za nemački ZDF: Nećemo uvoditi sankcije Rusiji, slobodu medija vraćamo zbog sebe, a ne jer neko traži od nas",
-  "Savić: \"EU ucenjuje Srbiju, traži i sankcije Rusiji\""
+  "Savić: \"EU ucenjuje Srbiju, traži i sankcije Rusiji\"",
+  "\"Novac iz Brisela ima cenu\": Savić otkrio šta EU traži od Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -82,8 +89,8 @@
   "local": true,
   "alt": "Čupić za ZDF: Srbija neće uvoditi sankcije Rusiji, EU to razume"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-27T09:10:00.039987+00:00",
  "verzija": 2
 }

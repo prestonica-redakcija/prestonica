@@ -34,16 +34,23 @@
  ],
  "importance": 3,
  "published": "2026-11-27T10:29:58.317031+00:00",
- "updated": "2026-11-27T10:29:58.317031+00:00",
+ "updated": "2026-11-27T11:07:40.603633+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/sport-klub/fudbal/bugarska-francuska-nasilje-na-utakmici-u-marseju/",
    "title": "Vlasti u Bugarskoj i Francuskoj osudile nasilje na utakmici u Marseju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/vlasti-u-bugarskoj-i-francuskoj-osudile-nasilje-na-utakmici-u-marseju",
+   "title": "Vlasti u Bugarskoj i Francuskoj osudile nasilje na utakmici u Marseju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Vlasti u Bugarskoj i Francuskoj osudile nasilje na utakmici u Marseju",
   "Vlasti u Bugarskoj i Francuskoj osudile nasilje na utakmici u Marseju"
  ],
  "author": "Redakcija Prestonice",
@@ -55,5 +62,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Bugarska i Francuska osudile nasilje navijača uoči utakmice Marsej – Levski"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

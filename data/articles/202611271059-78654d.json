@@ -25,17 +25,24 @@
  ],
  "importance": 4,
  "published": "2026-11-27T09:59:26.049974+00:00",
- "updated": "2026-11-27T09:59:26.049974+00:00",
+ "updated": "2026-11-27T11:07:40.603633+00:00",
  "sources": [
   {
    "name": "Telegraf",
    "url": "https://biznis.telegraf.rs/info-biz/4440882-hakeri-napali-penzionere-ceo-sistem-na-udaru-penzije-na-cekanju",
    "title": "Hakeri napali penzionere u ovoj zemlji: Ceo sistem na udaru - penzije na čekanju",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/301428/sajber-napad-na-penzioni-sistem-u-velikoj-britaniji-ogranicen-pristup-uslugama/vest",
+   "title": "Sajber napad na penzioni sistem u Velikoj Britaniji, ograničen pristup uslugama",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Hakeri napali penzionere u ovoj zemlji: Ceo sistem na udaru - penzije na čekanju"
+  "Hakeri napali penzionere u ovoj zemlji: Ceo sistem na udaru - penzije na čekanju",
+  "Sajber napad na penzioni sistem u Velikoj Britaniji, ograničen pristup uslugama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "local": false,
   "alt": "Matrix movie still",
   "link": "https://unsplash.com/@markusspiske"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -32,7 +32,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-27T10:29:58.317031+00:00",
+ "updated": "2026-11-27T11:07:40.603633+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -315,6 +315,18 @@
    "url": "https://www.tanjug.rs/srbija/politika/301444/srdan-barac-kratka-kampanja-za-predsednicke-izbore-odgovara-studentskoj-listi-ne-i-gradanima/vest",
    "title": "Srđan Barac: Kratka kampanja za predsedničke izbore odgovara Studentskoj listi, ne i građanima",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4440921-potencijalni-kandidat-studentske-liste-za-predsednika-srbije-radomir-saicic-ovako-bi-menjao-ekonomiju-zemlje",
+   "title": "Potencijalni kandidat Studentske liste za predsednika Srbije Radomir Saičić: Ovako bi menjao ekonomiju zemlje",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4440907-konferencija-studenti-ponovo-pobedjuju-u-sava-centru-otkrivaju-ko-je-njihov-kandidat-za-predsednika-srbije",
+   "title": "Konferencija \"Studenti ponovo pobeđuju\" u Sava centru: Otkrivaju ko je njihov kandidat za predsednika Srbije!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -364,7 +376,9 @@
   "Poslanica Katarina Šćepanović: Od predsedničkog kandidata studenata građani mogu da očekuju poštovanje Ustava",
   "Šćepanović: Od studentskog predsedničkog kandidata očekujemo poštovanje Ustava i zakona",
   "Šćepanović: \"Od studentskog predsedničkog kandidata očekujemo poštovanje Ustava i zakona\"",
-  "Srđan Barac: Kratka kampanja za predsedničke izbore odgovara Studentskoj listi, ne i građanima"
+  "Srđan Barac: Kratka kampanja za predsedničke izbore odgovara Studentskoj listi, ne i građanima",
+  "Potencijalni kandidat Studentske liste za predsednika Srbije Radomir Saičić: Ovako bi menjao ekonomiju zemlje",
+  "Konferencija \"Studenti ponovo pobeđuju\" u Sava centru: Otkrivaju ko je njihov kandidat za predsednika Srbije!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -377,7 +391,7 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 7,
+ "novo_od_pisanja": 9,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:45:47.570231+00:00",
  "verzija": 7
