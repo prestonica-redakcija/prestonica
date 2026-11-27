@@ -24,7 +24,7 @@
  ],
  "importance": 2,
  "published": "2026-11-26T06:37:04.447175+00:00",
- "updated": "2026-11-27T06:34:31.714808+00:00",
+ "updated": "2026-11-27T06:49:15.064156+00:00",
  "sources": [
   {
    "name": "N1",
@@ -91,6 +91,12 @@
    "url": "https://n1info.rs/vesti/pet-povredjenih-u-tri-udesa-tokom-noci-u-beogradu/",
    "title": "Pet povređenih u tri udesa tokom noći u Beogradu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301381/najmanje-sest-osoba-povredeno-u-ruskom-napadu-na-izjum-na-istoku-ukrajine/vest",
+   "title": "Najmanje šest osoba povređeno u ruskom napadu na Izjum na istoku Ukrajine",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -104,7 +110,8 @@
   "Pet osoba povređeno tokom noći u udesima u Beogradu: Oglasila se Hitna pomoć",
   "Hitna pomoć: Pet osoba lakše povređeno u tri udesa u Beogradu",
   "Pet osoba lakše povređeno u tri saobraćajne nezgode tokom noći u Beogradu",
-  "Pet povređenih u tri udesa tokom noći u Beogradu"
+  "Pet povređenih u tri udesa tokom noći u Beogradu",
+  "Najmanje šest osoba povređeno u ruskom napadu na Izjum na istoku Ukrajine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -117,8 +124,8 @@
   "alt": "red vehicle in timelapse photography",
   "link": "https://unsplash.com/@camstejim"
  },
- "novo_od_pisanja": 3,
- "boost": 1.56,
+ "novo_od_pisanja": 4,
+ "boost": 1.6,
  "prepisano": "2026-11-27T05:45:26.361221+00:00",
  "verzija": 2
 }

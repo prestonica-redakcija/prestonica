@@ -32,7 +32,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T16:17:51.241334+00:00",
- "updated": "2026-11-26T17:37:53.758490+00:00",
+ "updated": "2026-11-27T06:49:15.064156+00:00",
  "sources": [
   {
    "name": "N1",
@@ -51,12 +51,19 @@
    "url": "https://www.danas.rs/vesti/drustvo/sutra-dan-zalosti-u-velikoj-plani-zbog-tragicne-smrti-andrije-filica/",
    "title": "Sutra Dan žalosti u Velikoj Plani zbog tragične smrti Andrije Filića",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4440491-danas-je-dan-zalosti-u-velikoj-plani-zbog-tragicne-smrti-andrije-filica",
+   "title": "Danas je Dan žalosti u Velikoj Plani zbog tragične smrti Andrije Filića",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "U Velikoj Plani u petak Dan žalosti zbog smrti Andrije Filića, brata mladića ubijenog u tuči 2020.",
   "Nije dočekao ni da mu čuje prvi plač! Andrija Filić objavio da čeka sina, pa umro: Sutra Dan žalosti u Plani",
-  "Sutra Dan žalosti u Velikoj Plani zbog tragične smrti Andrije Filića"
+  "Sutra Dan žalosti u Velikoj Plani zbog tragične smrti Andrije Filića",
+  "Danas je Dan žalosti u Velikoj Plani zbog tragične smrti Andrije Filića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "alt": "us a flag on pole under cloudy sky",
   "link": "https://unsplash.com/@istrfry"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

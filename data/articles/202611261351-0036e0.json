@@ -27,7 +27,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T12:51:19.902058+00:00",
- "updated": "2026-11-26T20:28:59.866853+00:00",
+ "updated": "2026-11-27T06:49:15.064156+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -46,12 +46,19 @@
    "url": "https://www.telegraf.rs/4440586-rik-saopstio-do-kada-vazi-kandidatura-za-predsednicke-izbore",
    "title": "RIK saopštio do kada važi kandidatura za predsedničke izbore",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4440754-predsednicki-izbori-u-srbiji-sve-informacije-kandidatura-do-6-decembra-zreb-za-redosled-do-1112",
+   "title": "Predsednički izbori u Srbiji, sve informacije: Kandidatura do 6. decembra, žreb za redosled do 11.12.",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Ko će dobiti broj jedan na predsedničkim izborima? Evo kako RIK određuje redosled na listiću",
   "RIK: Kandidatura za predsedničke izbore do 6. decembra, žreb za redosled do 11. decembra",
-  "RIK saopštio do kada važi kandidatura za predsedničke izbore"
+  "RIK saopštio do kada važi kandidatura za predsedničke izbore",
+  "Predsednički izbori u Srbiji, sve informacije: Kandidatura do 6. decembra, žreb za redosled do 11.12."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "alt": "a person is casting a vote into a box",
   "link": "https://unsplash.com/@element5digital"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

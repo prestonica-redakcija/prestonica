@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T06:07:23.074382+00:00",
- "updated": "2026-11-27T06:34:31.714808+00:00",
+ "updated": "2026-11-27T06:49:15.064156+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -71,6 +71,12 @@
    "url": "https://www.b92.net/info/drustvo/288491/stanje-na-granicnim-prelazima/vest",
    "title": "Zadržavanja samo za teretnjake na izlazu na Horgošu – sat vremena; Putevi bez snega",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301384/zadrzavanja-samo-za-teretnjake-na-izlazu-na-horgosu-sat-vremena-putevi-bez-snega/vest",
+   "title": "Zadržavanja samo za teretnjake na izlazu na Horgošu - sat vremena, putevi bez snega",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -80,7 +86,8 @@
   "Kamioni na Horgošu čekaju četiri sata, nema zadržavanja putničkih vozila na granici",
   "Kamioni čekaju satima na izlazu iz Srbije: AMSS objavio stanje na granicama tokom večeri",
   "Zadržavanja za teretnjake na Horgošu 240, na Kelebiji 180 minuta",
-  "Zadržavanja samo za teretnjake na izlazu na Horgošu – sat vremena; Putevi bez snega"
+  "Zadržavanja samo za teretnjake na izlazu na Horgošu – sat vremena; Putevi bez snega",
+  "Zadržavanja samo za teretnjake na izlazu na Horgošu - sat vremena, putevi bez snega"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -93,8 +100,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Sremska_Ra%C4%8Da_0011_(7).jpg",
   "alt": "Kamioni na Kelebiji na izlazu iz Srbije čekaju do četiri sata, putnici bez zadržavanja"
  },
- "novo_od_pisanja": 2,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-26T17:54:07.703046+00:00",
  "verzija": 2
 }

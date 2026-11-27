@@ -29,17 +29,24 @@
  ],
  "importance": 5,
  "published": "2026-11-27T00:34:57.464001+00:00",
- "updated": "2026-11-27T00:34:57.464001+00:00",
+ "updated": "2026-11-27T06:49:15.064156+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1675102/ljiljana-smajlovic-privodjenju-dragana-vucicevica-hapsenje-politicki-motivisano-ovo-pokusaj-zastrasivanja-medija-video",
    "title": "LjILjANA SMAJLOVIĆ O PRIVOĐENjU DRAGANA J. VUČIĆEVIĆA: Hapšenje je politički motivisano, ovo je pokušaj zastrašivanja medija (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173576/ljiljana-smajlovic-hapsenje-dragan-j-vucicevic",
+   "title": "\"Hapšenje je politički motivisano, ovo je pokušaj zastrašivanja medija!\" Smajlović o privođenju Dragana J. Vučićevića (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "LjILjANA SMAJLOVIĆ O PRIVOĐENjU DRAGANA J. VUČIĆEVIĆA: Hapšenje je politički motivisano, ovo je pokušaj zastrašivanja medija (VIDEO)"
+  "LjILjANA SMAJLOVIĆ O PRIVOĐENjU DRAGANA J. VUČIĆEVIĆA: Hapšenje je politički motivisano, ovo je pokušaj zastrašivanja medija (VIDEO)",
+  "\"Hapšenje je politički motivisano, ovo je pokušaj zastrašivanja medija!\" Smajlović o privođenju Dragana J. Vučićevića (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "alt": "man in black jacket holding white printer paper",
   "link": "https://unsplash.com/@koshuuu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
