@@ -36,7 +36,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T06:52:02.295680+00:00",
- "updated": "2026-11-26T16:00:17.624373+00:00",
+ "updated": "2026-11-27T07:04:06.020092+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -91,6 +91,12 @@
    "url": "https://www.b92.net/info/svet/288387/tramp-pozvao-putina-da-okonca-napade-sirom-evrope/vest",
    "title": "Putin je upozoren",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/baltik-i-mediteran-nova-poprista-rata-u-ukrajini/",
+   "title": "Baltik i Mediteran: Nova poprišta rata u Ukrajini",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -102,7 +108,8 @@
   "Meloni: Rat u Ukrajini ne sme da se proširi na Mediteran",
   "Vadeful: Nemačka podržava Ukrajinu ali sukob ne sme da se proširi",
   "\"RAT U UKRAJINI NE SME DA SE PROŠIRI NA MEDITERAN\" Meloni na marginama zasedanja Evropskog saveta u Briselu",
-  "Putin je upozoren"
+  "Putin je upozoren",
+  "Baltik i Mediteran: Nova poprišta rata u Ukrajini"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -115,8 +122,8 @@
   "alt": "white concrete building near body of water during daytime",
   "link": "https://unsplash.com/@billhamway"
  },
- "novo_od_pisanja": 2,
- "boost": 1.56,
+ "novo_od_pisanja": 3,
+ "boost": 1.6,
  "prepisano": "2026-11-26T13:55:33.392531+00:00",
  "verzija": 2
 }

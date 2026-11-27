@@ -25,17 +25,24 @@
  ],
  "importance": 3,
  "published": "2026-11-27T06:49:15.064156+00:00",
- "updated": "2026-11-27T06:49:15.064156+00:00",
+ "updated": "2026-11-27T07:04:06.020092+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/301391/danas-je-crni-petak-trgovci-u-srbiji-najavili-popuste-i-do-70-odsto/vest",
    "title": "Danas je \"Crni petak\", trgovci u Srbiji najavili popuste i do 70 odsto",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253898/crni-petak-poceo-ali-kupce-ceka-i-jedna-zamka/vest",
+   "title": "Popusti do 70 odsto u Srbiji: Crni petak počeo, ali kupce čeka i jedna zamka",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Danas je \"Crni petak\", trgovci u Srbiji najavili popuste i do 70 odsto"
+  "Danas je \"Crni petak\", trgovci u Srbiji najavili popuste i do 70 odsto",
+  "Popusti do 70 odsto u Srbiji: Crni petak počeo, ali kupce čeka i jedna zamka"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +54,7 @@
   "local": false,
   "alt": "save up to 50% Black Friday clip art",
   "link": "https://unsplash.com/@ashkfor121"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
