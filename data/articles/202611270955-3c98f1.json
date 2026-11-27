@@ -31,7 +31,7 @@
  ],
  "importance": 6,
  "published": "2026-11-27T08:55:08.081341+00:00",
- "updated": "2026-11-27T08:55:08.081341+00:00",
+ "updated": "2026-11-27T09:10:00.039987+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://www.kurir.rs/vesti/politika/10174360/marta-kos-razgovarala-sa-ademom-mavricem",
    "title": "MARTA KOS SA ADEMOM MAVRIĆEM (STUDENTSKA LISTA): Razgovor o reformama i podršci Evropske unije Srbiji",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/marta-kos-s-ademom-mavricem-o-podrsci-eu-reformama-srbije/",
+   "title": "Marta Kos s Ademom Mavrićem o podršci EU reformama Srbije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Marta Kos se sastala sa Ademom Mavrićem: Kako EU može da podrži Srbiju",
-  "MARTA KOS SA ADEMOM MAVRIĆEM (STUDENTSKA LISTA): Razgovor o reformama i podršci Evropske unije Srbiji"
+  "MARTA KOS SA ADEMOM MAVRIĆEM (STUDENTSKA LISTA): Razgovor o reformama i podršci Evropske unije Srbiji",
+  "Marta Kos s Ademom Mavrićem o podršci EU reformama Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "alt": "blue and yellow flag on pole",
   "link": "https://unsplash.com/@alexandrelallemand"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

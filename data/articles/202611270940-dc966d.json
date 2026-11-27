@@ -31,17 +31,24 @@
  ],
  "importance": 2,
  "published": "2026-11-27T08:40:28.545868+00:00",
- "updated": "2026-11-27T08:40:28.545868+00:00",
+ "updated": "2026-11-27T09:10:00.039987+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/biz/region/vesti/288529/siri-se-industrijska-zona-nice-novih-50000-kvadrata/vest",
    "title": "Širi se industrijska zona: Niče novih 50.000 kvadrata",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/region/vesti/288529/industrijska-zona-orasje-se-siri-dodatnih-50000-kvadrata-za-nove-investicije/vest",
+   "title": "Raste industrijska zona: 19 firmi, 336 radnika i još 50.000 kvadrata u planu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Širi se industrijska zona: Niče novih 50.000 kvadrata"
+  "Širi se industrijska zona: Niče novih 50.000 kvadrata",
+  "Raste industrijska zona: 19 firmi, 336 radnika i još 50.000 kvadrata u planu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "alt": "A row of blue industrial buildings behind a matching blue wall along a road",
   "link": "https://unsplash.com/@solaticace"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

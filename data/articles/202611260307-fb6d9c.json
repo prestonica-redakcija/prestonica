@@ -27,17 +27,24 @@
  ],
  "importance": 6,
  "published": "2026-11-26T02:07:56.609696+00:00",
- "updated": "2026-11-26T02:07:56.609696+00:00",
+ "updated": "2026-11-27T09:10:00.039987+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/svet/301050/cena-nafte-brent-iznad-93-dolara-po-barelu-usled-pojacanih-napada-na-bliskom-istoku/vest",
    "title": "Cena nafte Brent iznad 93 dolara po barelu usled pojačanih napada na Bliskom istoku",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4440847-cena-nafte-ponovo-skocila-brent-skoro-98-dolara-po-barelu",
+   "title": "Cena nafte ponovo skočila: Brent skoro 98 dolara po barelu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Cena nafte Brent iznad 93 dolara po barelu usled pojačanih napada na Bliskom istoku"
+  "Cena nafte Brent iznad 93 dolara po barelu usled pojačanih napada na Bliskom istoku",
+  "Cena nafte ponovo skočila: Brent skoro 98 dolara po barelu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "alt": "red and white tower under blue sky during night time",
   "link": "https://unsplash.com/@qwitka"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

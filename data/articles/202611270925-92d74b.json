@@ -28,16 +28,23 @@
  ],
  "importance": 6,
  "published": "2026-11-27T08:25:16.915436+00:00",
- "updated": "2026-11-27T08:25:16.915436+00:00",
+ "updated": "2026-11-27T09:10:00.039987+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/drustvo/301408/rhmz-obilne-padavine-sneg-i-stvaranje-sneznih-nanosa-od-veceras-do-nedelje/vest",
    "title": "RHMZ: Obilne padavine, sneg i stvaranje snežnih nanosa od večeras do nedelje",
    "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/rhmz-obilne-padavine-sneg-i-stvaranje-sneznih-nanosa-od-veceras-do-nedelje",
+   "title": "RHMZ: Obilne padavine, sneg i stvaranje snežnih nanosa od večeras do nedelje",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "RHMZ: Obilne padavine, sneg i stvaranje snežnih nanosa od večeras do nedelje",
   "RHMZ: Obilne padavine, sneg i stvaranje snežnih nanosa od večeras do nedelje"
  ],
  "author": "Redakcija Prestonice",
@@ -50,5 +57,7 @@
   "local": false,
   "alt": "Cars driving on a snow-covered street at night",
   "link": "https://unsplash.com/@sivc"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
