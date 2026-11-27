@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T11:48:13.410537+00:00",
- "updated": "2026-11-27T21:05:27.086557+00:00",
+ "updated": "2026-11-27T21:39:49.220132+00:00",
  "sources": [
   {
    "name": "B92",
@@ -54,12 +54,26 @@
    "url": "https://www.kurir.rs/planeta/10175159/u-izraelskom-napadu-na-pojas-gaze-ubijeno-pet-palestinaca",
    "title": "IZRAELSKI UDARI: U napadu na Pojas Gaze ubijeno pet Palestinaca",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/301634/u-peruu-se-srusio-vojni-helikopter-poginulo-najmanje-pet-osoba/vest",
+   "title": "U Peruu se srušio vojni helikopter, poginulo najmanje pet osoba",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288777/srusio-se-vojni-helikopter-u-peruu-poginulo-najmanje-pet-osoba-foto/vest",
+   "title": "Srušio se vojni helikopter u Peruu, poginulo najmanje pet osoba FOTO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Izvedeni napadi treću noć zaredom; Ubijen zamenik ministra",
   "Izraelski napad na Pojas Gaze: Poginulo najmanje devet osoba, među njima i zamenik ministra",
-  "IZRAELSKI UDARI: U napadu na Pojas Gaze ubijeno pet Palestinaca"
+  "IZRAELSKI UDARI: U napadu na Pojas Gaze ubijeno pet Palestinaca",
+  "U Peruu se srušio vojni helikopter, poginulo najmanje pet osoba",
+  "Srušio se vojni helikopter u Peruu, poginulo najmanje pet osoba FOTO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -72,6 +86,6 @@
   "alt": "a large pile of rubble sitting on top of a street",
   "link": "https://unsplash.com/@emad_el_bayed"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

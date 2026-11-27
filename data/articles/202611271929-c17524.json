@@ -24,17 +24,24 @@
  ],
  "importance": 4,
  "published": "2026-11-27T18:29:18.328071+00:00",
- "updated": "2026-11-27T18:29:18.328071+00:00",
+ "updated": "2026-11-27T21:39:49.220132+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/svet/politika/301590/hakeri-upali-u-glavnu-platformu-za-racunarstvo-u-oblaku-ratnog-vazduhoplovstva-sad/vest",
    "title": "Hakeri upali u glavnu platformu za računarstvo u oblaku Ratnog vazduhoplovstva SAD",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/rojters-hakeri-upali-u-glavnu-racunarsku-platformu-americkog-ratnog-vazduhoplovstva/",
+   "title": "Rojters: Hakeri upali u glavnu računarsku platformu američkog Ratnog vazduhoplovstva",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Hakeri upali u glavnu platformu za računarstvo u oblaku Ratnog vazduhoplovstva SAD"
+  "Hakeri upali u glavnu platformu za računarstvo u oblaku Ratnog vazduhoplovstva SAD",
+  "Rojters: Hakeri upali u glavnu računarsku platformu američkog Ratnog vazduhoplovstva"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +53,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:The_Cloud_One_Caf%C3%A9,_D%C3%BCsseldorf,_September_2026_(3).jpg",
   "alt": "Hakeri upali u platformu Cloud One američkog ratnog vazduhoplovstva, javlja Rojters"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

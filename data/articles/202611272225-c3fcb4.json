@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T21:25:04.944447+00:00",
- "updated": "2026-11-27T21:25:04.944447+00:00",
+ "updated": "2026-11-27T21:39:49.220132+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -42,11 +42,18 @@
    "url": "https://www.telegraf.rs/4441243-odbrana-hasija-tacija-trazi-produzenje-roka-za-zalbu-na-presudu-u-slucaju-ometanja-pravde",
    "title": "Odbrana Hašija Tačija traži produženje roka za žalbu na presudu u slučaju ometanja pravde",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/254032/tacijeva-odbrana-trazi-duzi-rok-za-zalbu-u-hagu/vest",
+   "title": "Odbrana Tačija traži produženje roka za žalbu na presudu u slučaju ometanja pravde",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Odbrana Tačija traži produženje roka za žalbu na presudu u slučaju ometanja pravde",
-  "Odbrana Hašija Tačija traži produženje roka za žalbu na presudu u slučaju ometanja pravde"
+  "Odbrana Hašija Tačija traži produženje roka za žalbu na presudu u slučaju ometanja pravde",
+  "Odbrana Tačija traži produženje roka za žalbu na presudu u slučaju ometanja pravde"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "Wooden gavel resting on a dark surface next to book",
   "link": "https://unsplash.com/@sasun1990"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
