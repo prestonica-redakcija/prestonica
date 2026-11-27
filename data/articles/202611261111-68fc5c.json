@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T10:11:46.265687+00:00",
- "updated": "2026-11-26T10:43:27.881389+00:00",
+ "updated": "2026-11-27T19:00:34.330890+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -56,13 +56,27 @@
    "url": "https://www.tanjug.rs/srbija/hronika/301154/uhapseni-osumnjiceni-da-su-bacili-bombe-na-kucu-i-ugostiteljski-objekat-u-beogradu/vest",
    "title": "Uhapšeni osumnjičeni da su bacili bombe na kuću i ugostiteljski objekat u Beogradu",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301597/u-visem-javnom-tuzilastvu-u-beogradu-saslusana-dvojica-zbog-bacanja-bombe-na-ugostiteljske-objekte-u-ns/vest",
+   "title": "U Višem javnom tužilaštvu u Beogradu saslušana dvojica zbog bacanja bombe na ugostiteljske objekte u NS",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4441177-u-vjt-u-beogradu-saslusan-dvojac-zbog-bacanja-rucnih-bombi-na-kucu-i-ugostiteljski-objekat",
+   "title": "U VJT u Beogradu saslušan dvojac zbog bacanja ručnih bombi na kuću i ugostiteljski objekat",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "OTKRIVENO KO JE BACIO BOMBE NA KUĆU I KAFIĆ BIZNISMENA IZ BEOGRADA: Uhapšena dvojica muškaraca, oglasilo se tužilaštvo",
   "Uhapšeni muškarci koji su bacili bombu na kuću na Ledinama: Oglasilo se tužilaštvo",
   "Novo hapšenje: Osumnjičeni da su bacili bombe na kuću i ugostiteljski objekat u Beogradu",
-  "Uhapšeni osumnjičeni da su bacili bombe na kuću i ugostiteljski objekat u Beogradu"
+  "Uhapšeni osumnjičeni da su bacili bombe na kuću i ugostiteljski objekat u Beogradu",
+  "U Višem javnom tužilaštvu u Beogradu saslušana dvojica zbog bacanja bombe na ugostiteljske objekte u NS",
+  "U VJT u Beogradu saslušan dvojac zbog bacanja ručnih bombi na kuću i ugostiteljski objekat"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -75,6 +89,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Bra%C4%87e_Jerkovi%C4%87_from_air.jpg",
   "alt": "Uhapšena dvojica osumnjičenih za bacanje bombi na kuću biznismena i kafić u Beogradu"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

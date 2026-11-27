@@ -33,17 +33,31 @@
  ],
  "importance": 6,
  "published": "2026-11-27T16:46:26.878920+00:00",
- "updated": "2026-11-27T16:46:26.878920+00:00",
+ "updated": "2026-11-27T19:00:34.330890+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/siljanovska-davkova-cupic-deklaracija/",
    "title": "Siljanovska-Davkova: Čupić se saglasio sa svim principima deklaracije, ali je nije potpisao",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1675426/novinarka-samitu-brdo-brioni-cupica-zatekla-pitanjem-makedoniji-bugarskoj-interesantno-nisam-potpuno-upoznat",
+   "title": "NOVINARKA NA SAMITU BRDO BRIONI ČUPIĆA ZATEKLA PITANjEM O S. MAKEDONIJI I BUGARSKOJ: \"Interesantno je... nisam potpuno upoznat\"",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1675432/obrazlozenje-nema-legitimitet-cupic-nije-potpisao-zajednicku-deklaraciju-samitu-procesa-brdo-brioni",
+   "title": "OBRAZLOŽENjE - NEMA LEGITIMITET: Čupić nije potpisao zajedničku deklaraciju na samitu Procesa Brdo-Brioni",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Siljanovska-Davkova: Čupić se saglasio sa svim principima deklaracije, ali je nije potpisao"
+  "Siljanovska-Davkova: Čupić se saglasio sa svim principima deklaracije, ali je nije potpisao",
+  "NOVINARKA NA SAMITU BRDO BRIONI ČUPIĆA ZATEKLA PITANjEM O S. MAKEDONIJI I BUGARSKOJ: \"Interesantno je... nisam potpuno upoznat\"",
+  "OBRAZLOŽENjE - NEMA LEGITIMITET: Čupić nije potpisao zajedničku deklaraciju na samitu Procesa Brdo-Brioni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +69,7 @@
   "local": false,
   "alt": "people in conference",
   "link": "https://unsplash.com/@evangelineshaw"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

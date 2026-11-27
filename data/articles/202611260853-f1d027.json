@@ -36,7 +36,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-27T13:14:03.031491+00:00",
+ "updated": "2026-11-27T19:00:34.330890+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -49,11 +49,18 @@
    "url": "https://n1info.rs/vesti/bez-dogovora-o-budzetu-eu-pregovori-se-nastavljaju-u-decembru/",
    "title": "Bez dogovora o budžetu EU, članice podeljene: Lideri nastavljaju pregovore u decembru",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/u-briselu-bez-dogovora-o-dugorocnom-budzetu-pomoci-ukrajini/",
+   "title": "Bez dogovora u Briselu: Čelnici EU podeljeni oko dva ključna pitanja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Danas počinje samit EU, treba doneti odluku za narednih sedam godina: „Dva suprostavljena bloka, nisu spremna na kompromise“",
-  "Bez dogovora o budžetu EU, članice podeljene: Lideri nastavljaju pregovore u decembru"
+  "Bez dogovora o budžetu EU, članice podeljene: Lideri nastavljaju pregovore u decembru",
+  "Bez dogovora u Briselu: Čelnici EU podeljeni oko dva ključna pitanja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "alt": "row of european union flags",
   "link": "https://unsplash.com/@guillaumeperigois"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-27T15:04:48.416504+00:00",
- "updated": "2026-11-27T18:14:38.111504+00:00",
+ "updated": "2026-11-27T19:00:34.330890+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -66,6 +66,18 @@
    "url": "https://www.danas.rs/vesti/ekonomija/najavljen-nastavak-ulaganja-kompanije-eagle-hills-u-beograd-na-vodi/",
    "title": "Najavljen nastavak ulaganja kompanije Eagle Hills u Beograd na vodi",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301594/zukorlic-na-prijemu-povodom-nacionalnog-dana-ujedinjenih-arapskih-emirata/vest",
+   "title": "Zukorlić na prijemu povodom Nacionalnog dana Ujedinjenih Arapskih Emirata",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/najavljen-nastavak-ulaganja-kompanije-eagle-hills-u-beograd-na-vodi/",
+   "title": "Najavljen nastavak ulaganja kompanije Eagle Hills u Beograd na vodi",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -74,6 +86,8 @@
   "Vučić na obeležavanju Nacionalnog dana UAE: Susret sa ambasadorom Bargašom Almenhalijem",
   "Ambasada UAE obeležava Nacionalni dan - Almenhali: Osnažićemo saradnju UAE i Srbije",
   "Obeležen Nacionalni dan UAE: Emirati nastavljaju ulaganje u Beograd na vodi",
+  "Najavljen nastavak ulaganja kompanije Eagle Hills u Beograd na vodi",
+  "Zukorlić na prijemu povodom Nacionalnog dana Ujedinjenih Arapskih Emirata",
   "Najavljen nastavak ulaganja kompanije Eagle Hills u Beograd na vodi"
  ],
  "author": "Redakcija Prestonice",
@@ -86,8 +100,8 @@
   "local": true,
   "alt": "Ambasador UAE u Beogradu: spremni smo da nastavimo da jačamo saradnju sa Srbijom"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-27T17:57:59.926303+00:00",
  "verzija": 2
 }
