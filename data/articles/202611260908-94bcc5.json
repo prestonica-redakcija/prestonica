@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T08:08:30.221609+00:00",
- "updated": "2026-11-27T08:40:28.545868+00:00",
+ "updated": "2026-11-27T12:44:20.867490+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -82,6 +82,12 @@
    "url": "https://www.b92.net/info/svet/288515/zelenski-prozvao-trampa-zbog-fotografija-sa-putinom/vest",
    "title": "Zelenski udario na Trampa",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/ukrajinski-udari-stigli-do-libije-zelenski-otkrio-kako-kijev-koordinira-napade-na-rusku-flotu/",
+   "title": "Ukrajinski udari stigli do Libije: Zelenski otkrio kako Kijev koordinira napade na rusku flotu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -92,7 +98,8 @@
   "U Harkovu dron pogodio univerzitetsku zgradu, poginula žena, četiri osobe povređene",
   "RUSKI NAPAD NA ZAPOROŽJE: Jedna osoba poginula, četiri ranjene! Saobraćaj u gradu potpuno obustavljen!",
   "Rusija opet napala Zaporožje: Ima poginulih i povređenih",
-  "Zelenski udario na Trampa"
+  "Zelenski udario na Trampa",
+  "Ukrajinski udari stigli do Libije: Zelenski otkrio kako Kijev koordinira napade na rusku flotu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -106,8 +113,8 @@
   "osoba": "Vitalij Kličko",
   "alt": "Ruski balistički napad na Kijev: pogođen tržni centar, ranjeno najmanje sedam osoba"
  },
- "novo_od_pisanja": 1,
- "boost": 1.48,
+ "novo_od_pisanja": 2,
+ "boost": 1.56,
  "prepisano": "2026-11-27T00:34:57.464001+00:00",
  "verzija": 2
 }

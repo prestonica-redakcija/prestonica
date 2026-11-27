@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T23:03:45.194421+00:00",
- "updated": "2026-11-26T23:19:48.792595+00:00",
+ "updated": "2026-11-27T12:44:20.867490+00:00",
  "sources": [
   {
    "name": "N1",
@@ -40,11 +40,18 @@
    "url": "https://n1info.rs/vesti/predstavnici-kfor-vojske-srbije-sastali-se-u-pristini/",
    "title": "Predstavnici KFOR-a i Vojske Srbije sastali se u Prištini",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1675167/posveceni-rezoluciji-1244-predstavnici-kfor-vojske-srbije-sastali-pristini",
+   "title": "POSVEĆENI REZOLUCIJI 1244: Predstavnici KFOR-a i Vojske Srbije sastali se u Prištini",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "KFOR, Serbian Armed Forces personnel meet in Pristina",
-  "Predstavnici KFOR-a i Vojske Srbije sastali se u Prištini"
+  "Predstavnici KFOR-a i Vojske Srbije sastali se u Prištini",
+  "POSVEĆENI REZOLUCIJI 1244: Predstavnici KFOR-a i Vojske Srbije sastali se u Prištini"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,6 +63,6 @@
   "local": true,
   "alt": "Sastanak KFOR-a i Vojske Srbije u Prištini o administrativnoj liniji"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -29,17 +29,24 @@
  ],
  "importance": 4,
  "published": "2026-11-26T08:08:30.221609+00:00",
- "updated": "2026-11-26T08:08:30.221609+00:00",
+ "updated": "2026-11-27T12:44:20.867490+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/biz/moj-kvadrat/aktuelno/288105/cene-nekretnina-u-hrvatskoj-porasle-127-odsto-zagreb-belezi-rast-od-157-odsto/vest",
    "title": "Cene stanova u komšiluku ne posustaju: Rast od gotovo 16 odsto",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/region/vesti/288624/raste-hrvatski-bdp-skok-od-29-odsto/vest",
+   "title": "Raste hrvatski BDP: Skok od 2,9 odsto",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Cene stanova u komšiluku ne posustaju: Rast od gotovo 16 odsto"
+  "Cene stanova u komšiluku ne posustaju: Rast od gotovo 16 odsto",
+  "Raste hrvatski BDP: Skok od 2,9 odsto"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Cene stanova u Hrvatskoj porasle 12,7 odsto, u Zagrebu 15,7 odsto"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -32,7 +32,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-27T12:29:29.006406+00:00",
+ "updated": "2026-11-27T12:44:20.867490+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -537,6 +537,60 @@
    "url": "https://www.danas.rs/vesti/politika/sta-profesor-jovancicevic-ocekuje-od-saicica-ako-postane-predsednik-srbije/",
    "title": "Šta profesor Jovančićević očekuje od Saičića ako postane predsednik Srbije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/tv-najava/tv-najava-tabu-ima-li-svako-svoju-cenu",
+   "title": "TV najava: Tabu - Ima li svako svoju cenu?",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/saicic-o-novoj-vladi-mislim-da-ce-biti-formirana-relativno-brzo-ali-je-vaznije-da-se-pronadu-dobra-resenja",
+   "title": "Saičić o novoj vladi: Mislim da će biti formirana relativno brzo, ali je važnije da se pronađu dobra rešenja",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301486/ana-brnabic-nema-uslova-za-fer-izbore-odluka-o-ucescu-na-skupstini-sns-a-13-decembra/vest",
+   "title": "Ana Brnabić: Nema uslova za fer izbore, odluka o učešću na Skupštini SNS-a 13. decembra",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/ana-brnabic-najavljuje-odluku-sns-o-predsednickim-izborima-13-decembra-rok-za-prijavu-istice-ranije/",
+   "title": "Ana Brnabić najavljuje odluku SNS o predsedničkim izborima 13. decembra, rok za prijavu ističe ranije",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301478/radomir-saicic-nova-vlada-potrebna-sto-pre-obaveza-nove-vlasti-ujedinjavanje-srpskog-naroda/vest",
+   "title": "Radomir Saičić: Nova Vlada potrebna što pre, obaveza nove vlasti ujedinjavanje srpskog naroda",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/english/4440919-radomir-saicic-student-list-presidential-candidate-im-from-montenegro-a-serb-i-dont-see-dilemma",
+   "title": "Radomir Saicic, Student List presidential candidate: \"I'm from Montenegro, a Serb, I don't see dilemma\"",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/profesor-jovancicevic-za-razliku-od-vucica-saicic-ce-postovati-zakone-i-ustavna-ovlascenja/",
+   "title": "Profesor Jovančićević: Za razliku od Vučića, Saičić će poštovati zakone i ustavna ovlašćenja",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/jovancicevic-saicic-ce-postovati-zakone-i-ustavna-ovlascenja/",
+   "title": "Jovančićević: Za razliku od Vučića, Saičić će poštovati zakone i ustavna ovlašćenja",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/opozicija-na-sednici-skupstine-kraljeva-pozvala-predstavnike-vladajuce-vecine-da-podnesu-ostavke/",
+   "title": "Opozicija na sednici Skupštine Kraljeva pozvala predstavnike vladajuće većine da podnesu ostavke",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -623,7 +677,16 @@
   "Rok za predsedničku kandidaturu ističe 7. decembra, a Brnabić kaže da će SNS o tome raspravljati 13. decembra",
   "Brnabić o tome da li će SNS imati kandidata na predsedničkim izborima",
   "Brnabić: \"Odluka o učešću na predsedničkim izborima biće doneta 13. decembra\"",
-  "Šta profesor Jovančićević očekuje od Saičića ako postane predsednik Srbije"
+  "Šta profesor Jovančićević očekuje od Saičića ako postane predsednik Srbije",
+  "TV najava: Tabu - Ima li svako svoju cenu?",
+  "Saičić o novoj vladi: Mislim da će biti formirana relativno brzo, ali je važnije da se pronađu dobra rešenja",
+  "Ana Brnabić: Nema uslova za fer izbore, odluka o učešću na Skupštini SNS-a 13. decembra",
+  "Ana Brnabić najavljuje odluku SNS o predsedničkim izborima 13. decembra, rok za prijavu ističe ranije",
+  "Radomir Saičić: Nova Vlada potrebna što pre, obaveza nove vlasti ujedinjavanje srpskog naroda",
+  "Radomir Saicic, Student List presidential candidate: \"I'm from Montenegro, a Serb, I don't see dilemma\"",
+  "Profesor Jovančićević: Za razliku od Vučića, Saičić će poštovati zakone i ustavna ovlašćenja",
+  "Jovančićević: Za razliku od Vučića, Saičić će poštovati zakone i ustavna ovlašćenja",
+  "Opozicija na sednici Skupštine Kraljeva pozvala predstavnike vladajuće većine da podnesu ostavke"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -636,7 +699,7 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 44,
+ "novo_od_pisanja": 53,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:45:47.570231+00:00",
  "verzija": 7

@@ -30,17 +30,24 @@
  ],
  "importance": 7,
  "published": "2026-11-27T11:43:44.653153+00:00",
- "updated": "2026-11-27T11:43:44.653153+00:00",
+ "updated": "2026-11-27T12:44:20.867490+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1675288/obraca-ana-brnabic-najostrije-osudjujemo-progon-kroz-koji-trenutno-prolaze-mediji-novinari-video",
    "title": "OBRAĆA SE ANA BRNABIĆ: Najoštrije osuđujemo progon kroz koji trenutno prolaze i mediji i novinari (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=_XBMGnhWyKQ",
+   "title": "Brnabić: Najoštrije osuđujemo progon medija i novinara",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
-  "OBRAĆA SE ANA BRNABIĆ: Najoštrije osuđujemo progon kroz koji trenutno prolaze i mediji i novinari (VIDEO)"
+  "OBRAĆA SE ANA BRNABIĆ: Najoštrije osuđujemo progon kroz koji trenutno prolaze i mediji i novinari (VIDEO)",
+  "Brnabić: Najoštrije osuđujemo progon medija i novinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata_2.jpg",
   "alt": "Brnabić o hapšenju Vučićevića: pritvor od 30 dana je politički progon"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

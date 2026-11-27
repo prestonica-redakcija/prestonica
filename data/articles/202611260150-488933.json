@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T00:50:01.876652+00:00",
- "updated": "2026-11-26T00:50:01.876652+00:00",
+ "updated": "2026-11-27T12:44:20.867490+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -50,12 +50,19 @@
    "url": "https://www.kurir.rs/planeta/10173149/nigerija-u-napadima-na-nekoliko-sela-ubijeno-30-ljud",
    "title": "STRAŠAN TEROR U NIGERIJI: U napadima na nekoliko sela ubijeno 30 ljudi, zapaljene kuće",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/napadaci-ubili-13-ljudi-u-nigeriji/",
+   "title": "Napadači ubili 13 ljudi u Nigeriji",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "U napadima na sela u Nigeriji ubijeno 30 osoba, zapaljene kuće",
   "Nigerija na udaru novog talasa krvavog nasilja: U napadima na sela ubijeno 30 osoba, zapaljene kuće",
-  "STRAŠAN TEROR U NIGERIJI: U napadima na nekoliko sela ubijeno 30 ljudi, zapaljene kuće"
+  "STRAŠAN TEROR U NIGERIJI: U napadima na nekoliko sela ubijeno 30 ljudi, zapaljene kuće",
+  "Napadači ubili 13 ljudi u Nigeriji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,5 +74,7 @@
   "local": false,
   "alt": "a dilapidated house in a field",
   "link": "https://unsplash.com/@topeasokere"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
