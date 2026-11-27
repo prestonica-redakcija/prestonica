@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T13:55:33.392531+00:00",
- "updated": "2026-11-27T12:14:31.285146+00:00",
+ "updated": "2026-11-27T12:29:29.006406+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -43,11 +43,25 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/301477/u-srbiji-u-trecem-kvartalu-stopa-nezaposlenosti-77-odsto/vest",
    "title": "U Srbiji u trećem kvartalu stopa nezaposlenosti 7,7 odsto",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/rzs-u-srbiji-u-trecem-kvartalu-2026-stopa-zaposlenosti-51-odsto-nezaposlenosti-77-odsto/",
+   "title": "RZS: U Srbiji u trećem kvartalu 2026. stopa zaposlenosti 51 odsto, nezaposlenosti 7,7 odsto",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/ekonomija/rzs-u-trecem-kvartalu-nezaposlenost-iznosila-77-odsto/",
+   "title": "RZS: U trećem kvartalu nezaposlenost iznosila 7,7 odsto",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "UNIQA OBJAVILA REZULTATE ZA TREĆI KVARTAL: Dobit porasla za 18,6 odsto, prognoza za 2026. godinu revidirana naviše",
-  "U Srbiji u trećem kvartalu stopa nezaposlenosti 7,7 odsto"
+  "U Srbiji u trećem kvartalu stopa nezaposlenosti 7,7 odsto",
+  "RZS: U Srbiji u trećem kvartalu 2026. stopa zaposlenosti 51 odsto, nezaposlenosti 7,7 odsto",
+  "RZS: U trećem kvartalu nezaposlenost iznosila 7,7 odsto"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,6 +74,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:W%C5%82odzimierz_Lewoniewski_-_Open_Knowledge_Wikimedia_and_Research_in_the_CEE_Region.jpg",
   "alt": "Uniqa u devet meseci povećala neto dobit za 18,6 odsto, prognoza za 2026. revidirana naviše"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

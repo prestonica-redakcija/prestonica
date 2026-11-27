@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T01:04:52.951841+00:00",
- "updated": "2026-11-26T01:04:52.951841+00:00",
+ "updated": "2026-11-27T12:29:29.006406+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -40,11 +40,25 @@
    "url": "https://insajder.net/prenosimo/fcc-odobrio-maskovom-spejseksu-postavljanje-milion-satelita-za-svemirske-data-centre",
    "title": "FCC odobrio Maskovom SpejsEksu postavljanje milion satelita za svemirske data centre",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/magazin/scitech/milion-satelita-za-vestacku-inteligenciju-spejs-iks-dobio-zeleno-svetlo-strucnjaci-zabrinuti/",
+   "title": "Milion satelita za veštačku inteligenciju: Spejs Iks dobio zeleno svetlo, stručnjaci zabrinuti",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10174548/mask-planira-milion-satelita-ai-data-centri-sele-se-u-svemir",
+   "title": "Mask dobio zeleno svetlo za neverovatan plan: Želi da lansira MILION satelita i napravi AI data centre u svemiru",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Federalna komisija za komunikacije odobrila Maskovom SpejsEksu postavljanje milion satelita za svemirske data centre",
-  "FCC odobrio Maskovom SpejsEksu postavljanje milion satelita za svemirske data centre"
+  "FCC odobrio Maskovom SpejsEksu postavljanje milion satelita za svemirske data centre",
+  "Milion satelita za veštačku inteligenciju: Spejs Iks dobio zeleno svetlo, stručnjaci zabrinuti",
+  "Mask dobio zeleno svetlo za neverovatan plan: Želi da lansira MILION satelita i napravi AI data centre u svemiru"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +69,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "FCC odobrio SpejsEksu postavljanje do milion satelita za data centre u svemiru"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

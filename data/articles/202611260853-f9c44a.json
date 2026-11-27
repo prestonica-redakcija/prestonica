@@ -32,7 +32,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-27T11:59:37.558666+00:00",
+ "updated": "2026-11-27T12:29:29.006406+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -507,6 +507,36 @@
    "url": "https://nova.rs/vesti/politika/saicic-konsultacije-o-vladi-u-toku-bice-formirana-relativno-brzo/",
    "title": "Saičić: Konsultacije o vladi u toku, biće formirana relativno brzo",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301486/brnabic-pokrenucemo-inicijativu-da-se-u-parlamentu-govori-o-progonu-novinara-i-medija/vest",
+   "title": "Brnabić: Pokrenućemo inicijativu da se u parlamentu govori o progonu novinara i medija",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/brnabic-predsednicki-kandidat-sns-13-decembar/",
+   "title": "Rok za predsedničku kandidaturu ističe 7. decembra, a Brnabić kaže da će SNS o tome raspravljati 13. decembra",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/brnabic-o-tome-da-li-ce-sns-imati-kandidata-na-predsednickim-izborima/",
+   "title": "Brnabić o tome da li će SNS imati kandidata na predsedničkim izborima",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288627/brnabic-odluka-o-ucescu-na-predsednickim-izborima-bice-doneta-13-decembra/vest",
+   "title": "Brnabić: \"Odluka o učešću na predsedničkim izborima biće doneta 13. decembra\"",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/sta-profesor-jovancicevic-ocekuje-od-saicica-ako-postane-predsednik-srbije/",
+   "title": "Šta profesor Jovančićević očekuje od Saičića ako postane predsednik Srbije",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -588,7 +618,12 @@
   "Brnabić o predsedničkim izborima: Poznato kada SNS odlučuje da li će imati kandidata",
   "Ovo je prvi govor akademika Radomira Saičića kao kandidata za predsednika Srbije",
   "\"POKRENUĆEMO INICIJATIVU ZA RASPRAVU U SKUPŠTINI\" Brnabić o hapšenju Vučićevića: Ljudi, glavu gore, Srbija će pobediti!",
-  "Saičić: Konsultacije o vladi u toku, biće formirana relativno brzo"
+  "Saičić: Konsultacije o vladi u toku, biće formirana relativno brzo",
+  "Brnabić: Pokrenućemo inicijativu da se u parlamentu govori o progonu novinara i medija",
+  "Rok za predsedničku kandidaturu ističe 7. decembra, a Brnabić kaže da će SNS o tome raspravljati 13. decembra",
+  "Brnabić o tome da li će SNS imati kandidata na predsedničkim izborima",
+  "Brnabić: \"Odluka o učešću na predsedničkim izborima biće doneta 13. decembra\"",
+  "Šta profesor Jovančićević očekuje od Saičića ako postane predsednik Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -601,7 +636,7 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 39,
+ "novo_od_pisanja": 44,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:45:47.570231+00:00",
  "verzija": 7
