@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-27T09:59:26.049974+00:00",
+ "updated": "2026-11-27T10:14:47.695581+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -177,6 +177,18 @@
    "url": "https://www.kurir.rs/crna-hronika/10174470/uhapseni-piromani-zbog-pozara-u-tehnomaniji-i-salonu-namestaja",
    "title": "ZAPALILI TEHNOMANIJU I SALON NAMEŠTAJA! Uhapšena dva piromana zbog izazivanja požara u dve radnje: Oglasio se MUP",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301431/mup-uhapseni-osumnjiceni-za-paljenje-tehnomanije-na-novom-beogradu/vest",
+   "title": "MUP: Uhapšeni osumnjičeni za paljenje \"Tehnomanije\" na Novom Beogradu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4440884-snimak-hapsenja-osumnjicenog-za-paljenje-tehnomanije-policija-mu-upala-u-kucu-pa-stavila-lisice",
+   "title": "Snimak hapšenja osumnjičenog za paljenje \"Tehnomanije\": Policija mu upala u kuću, pa stavila lisice",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -203,7 +215,9 @@
   "Uhapšena dvojica zbog sumnje da su izazvali požar u objektu „Tehnomanije“",
   "Sumnja se da je ogrman požar koji je progutao Tehnomaniju podmetnut; Uhapšene dve osobe",
   "Dve osobe uhapšene zbog podmetanja požara u Tehnomaniji na Novom Beogradu VIDEO",
-  "ZAPALILI TEHNOMANIJU I SALON NAMEŠTAJA! Uhapšena dva piromana zbog izazivanja požara u dve radnje: Oglasio se MUP"
+  "ZAPALILI TEHNOMANIJU I SALON NAMEŠTAJA! Uhapšena dva piromana zbog izazivanja požara u dve radnje: Oglasio se MUP",
+  "MUP: Uhapšeni osumnjičeni za paljenje \"Tehnomanije\" na Novom Beogradu",
+  "Snimak hapšenja osumnjičenog za paljenje \"Tehnomanije\": Policija mu upala u kuću, pa stavila lisice"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -216,7 +230,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Novi_Beograd_test.jpg",
   "alt": "Uhapšene dve osobe zbog sumnje da su bacile ručne bombe na kuću i u baštu restorana u Beogradu"
  },
- "novo_od_pisanja": 7,
+ "novo_od_pisanja": 9,
  "boost": 1.6,
  "prepisano": "2026-11-26T22:32:33.956628+00:00",
  "verzija": 3

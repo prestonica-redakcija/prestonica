@@ -30,7 +30,7 @@
  ],
  "importance": 2,
  "published": "2026-11-26T23:19:48.792595+00:00",
- "updated": "2026-11-26T23:19:48.792595+00:00",
+ "updated": "2026-11-27T10:14:47.695581+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -43,11 +43,18 @@
    "url": "https://www.kurir.rs/zabava/zivot/10174203/umro-den-karnij-vlasnik-pica-hata",
    "title": "Preminuo suosnivač „Pica Hata“ Den Karnij: Čuveni lanac restorana pokrenuo je sa bratom kada je imao samo 26 godina",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/sport/fudbal/4440896-preminuo-cuveni-zuari",
+   "title": "Preminuo čuveni Žuari",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Osnivač lanca Pica hat Den Karni preminuo u 95. godini",
-  "Preminuo suosnivač „Pica Hata“ Den Karnij: Čuveni lanac restorana pokrenuo je sa bratom kada je imao samo 26 godina"
+  "Preminuo suosnivač „Pica Hata“ Den Karnij: Čuveni lanac restorana pokrenuo je sa bratom kada je imao samo 26 godina",
+  "Preminuo čuveni Žuari"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "local": false,
   "alt": "A pizza restaurant storefront at night",
   "link": "https://unsplash.com/@atelierbyvineeth"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

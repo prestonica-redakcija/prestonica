@@ -37,17 +37,24 @@
  ],
  "importance": 4,
  "published": "2026-11-27T09:59:26.049974+00:00",
- "updated": "2026-11-27T09:59:26.049974+00:00",
+ "updated": "2026-11-27T10:14:47.695581+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/info/politika/288557/cvijanovic-i-cupic-na-ohridu-jacanje-saradnje-i-nasih-bratskih-odnosa-je-u-obostranom-interesu-foto/vest",
    "title": "Cvijanović i Čupić na Ohridu; \"Jačanje saradnje i naših bratskih odnosa je u obostranom interesu\" FOTO",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10174491/zeljka-cvijanovic-cestitala-aleksandru-cupicu-na-imenovanju",
+   "title": "ČUPIĆ SE SASTAO SA ŽELJKOM CVIJANOVIĆ: \"Jačanje saradnje i naših bratskih odnosa je u obostranom interesu\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Cvijanović i Čupić na Ohridu; \"Jačanje saradnje i naših bratskih odnosa je u obostranom interesu\" FOTO"
+  "Cvijanović i Čupić na Ohridu; \"Jačanje saradnje i naših bratskih odnosa je u obostranom interesu\" FOTO",
+  "ČUPIĆ SE SASTAO SA ŽELJKOM CVIJANOVIĆ: \"Jačanje saradnje i naših bratskih odnosa je u obostranom interesu\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:%C5%BDeljka_Cvijanovi%C4%87_(2024-12-18).jpg",
   "osoba": "Željka Cvijanović",
   "alt": "Cvijanović i Čupić razgovarali u Ohridu o jačanju saradnje"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
