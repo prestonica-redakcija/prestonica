@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-27T11:07:40.603633+00:00",
+ "updated": "2026-11-27T11:27:29.719068+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -563,6 +563,24 @@
    "url": "https://n1info.rs/vesti/rhmz-upozorio-padavine-sneg-nocas-vikend/",
    "title": "RHMZ upozorio na obilne padavine i sneg noćas i tokom vikenda",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/288582/nedeljko-todorovic-sneg-krece-u-subotu/vest",
+   "title": "Oglasio se srpski meteorolog; \"Počinje...\"",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/kompanije/301463/viz-er-uvodi-cetiri-nove-linije-iz-beograda/vest",
+   "title": "Viz er uvodi četiri nove linije iz Beograda",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301387/pocelo-opelo-mitropolitu-backom-irineju-u-novom-sadu-sluzi-patrijarh-porfirije/vest",
+   "title": "Počelo opelo mitropolitu bačkom Irineju u Novom Sadu, služi patrijarh Porfirije",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -654,7 +672,10 @@
   "Turska suspendovala bezvizni režim za državljane Crne Gore",
   "Turska suspendovala bezvizni režim sa Crnom Gorom za građane sa običnim pasošima",
   "Još loših vesti za Srbiju, ali i komšije: Litvanija dobila ogromno pojačanje za naredni meč",
-  "RHMZ upozorio na obilne padavine i sneg noćas i tokom vikenda"
+  "RHMZ upozorio na obilne padavine i sneg noćas i tokom vikenda",
+  "Oglasio se srpski meteorolog; \"Počinje...\"",
+  "Viz er uvodi četiri nove linije iz Beograda",
+  "Počelo opelo mitropolitu bačkom Irineju u Novom Sadu, služi patrijarh Porfirije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -667,7 +688,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 52,
+ "novo_od_pisanja": 55,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6

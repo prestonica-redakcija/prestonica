@@ -33,7 +33,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-27T11:07:40.603633+00:00",
+ "updated": "2026-11-27T11:27:29.719068+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -478,6 +478,12 @@
    "url": "https://nova.rs/vesti/politika/skup-poslanika-sns-i-zaposlenih-na-tv-informer-ispred-centralnog-zatvora/",
    "title": "Skup poslanika SNS i zaposlenih na TV Informer ispred Centralnog zatvora",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Srpska napredna stranka",
+   "url": "https://www.youtube.com/watch?v=vTRYiTpQ9bg",
+   "title": "Vučić: Podrška građana najveći podstrek",
+   "spektar": "stranka"
   }
  ],
  "source_titles": [
@@ -554,7 +560,8 @@
   "Gašić: Ovo je klasičan politički progon",
   "Održan skup podrške Draganu J. Vučićeviću ispred Centralnog zatvora",
   "Zaposleni na Informeru i poslanici SNS protestuju ispred Centralnog zatvora",
-  "Skup poslanika SNS i zaposlenih na TV Informer ispred Centralnog zatvora"
+  "Skup poslanika SNS i zaposlenih na TV Informer ispred Centralnog zatvora",
+  "Vučić: Podrška građana najveći podstrek"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -567,7 +574,7 @@
   "alt": "Car entering a brightly lit tunnel at night",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 16,
+ "novo_od_pisanja": 17,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:15:12.934903+00:00",
  "verzija": 11

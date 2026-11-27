@@ -28,17 +28,24 @@
  ],
  "importance": 5,
  "published": "2026-11-27T11:07:40.603633+00:00",
- "updated": "2026-11-27T11:07:40.603633+00:00",
+ "updated": "2026-11-27T11:27:29.719068+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/komisija-ponovila-postupak-ispitivanja-dozvoljenosti-preuzimanja-kompanije-cas-media/",
    "title": "Komisija ponovila postupak ispitivanja dozvoljenosti preuzimanja kompanije CAS Media",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/komisija-za-zastitu-konkurencije-stopirala-odobrenje-alpak-kapitalu-za-preuzimanje-cas-medije-transakcija-se-ponovo-ispituje/",
+   "title": "Komisija za zaštitu konkurencije stopirala odobrenje Alpak kapitalu za preuzimanje CAS Medije: Transakcija se ponovo ispituje",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Komisija ponovila postupak ispitivanja dozvoljenosti preuzimanja kompanije CAS Media"
+  "Komisija ponovila postupak ispitivanja dozvoljenosti preuzimanja kompanije CAS Media",
+  "Komisija za zaštitu konkurencije stopirala odobrenje Alpak kapitalu za preuzimanje CAS Medije: Transakcija se ponovo ispituje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Marco_Andretti_United_Fiber_and_Data_IndyCar_(12830399763).jpg",
   "alt": "Komisija za zaštitu konkurencije ponovo ispituje preuzimanje kompanije CAS Media"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
