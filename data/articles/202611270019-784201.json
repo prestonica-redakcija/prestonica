@@ -23,16 +23,23 @@
  ],
  "importance": 3,
  "published": "2026-11-26T23:19:48.792595+00:00",
- "updated": "2026-11-26T23:19:48.792595+00:00",
+ "updated": "2026-11-27T00:05:02.528257+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/301342/srednji-kurs-dinara-za-evro-u-petak-1176319-dinara/vest",
    "title": "Srednji kurs dinara za evro u petak 117,6319 dinara",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4440619-srednji-kurs-dinara-za-evro-u-petak-1176319-dinara",
+   "title": "Srednji kurs dinara za evro u petak 117,6319 dinara",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
+  "Srednji kurs dinara za evro u petak 117,6319 dinara",
   "Srednji kurs dinara za evro u petak 117,6319 dinara"
  ],
  "author": "Redakcija Prestonice",
@@ -45,5 +52,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Beograd_Narodna_banka_Srbije_Kralja_Petra_12_25.jpg",
   "alt": "Srednji kurs dinara za evro u petak 117,6319 dinara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

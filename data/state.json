@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.kurir.rs/planeta/10169133/tramp-objavio-fotografije-sa-putinom-i-si-djinpingom": "2026-11-21T23:58:22.221069+00:00",
-  "https://www.kurir.rs/zabava/zanimljivosti/10167824/sta-je-jeo-nikola-tesla-i-zasto-je-preskakao-rucak": "2026-11-21T23:58:22.221069+00:00",
-  "https://www.telegraf.rs/vesti/srbija/4437382-umro-zivojin-jokanovic": "2026-11-21T23:58:22.221069+00:00",
   "https://biznis.telegraf.rs/info-biz/4437279-fajnensel-tajms-isporuke-nafte-kroz-ormuski-moreuz-prepolovljene-za-nedelju-dana": "2026-11-22T00:13:10.495900+00:00",
   "https://biznis.telegraf.rs/info-biz/4437283-eu-i-indonezija-potpisale-trgovinski-sporazum-posle-10-godina-pregovora": "2026-11-22T01:12:51.945875+00:00",
   "https://www.kurir.rs/planeta/10168530/iran-uslovi-za-kraj-rata-sa-amerikom-arakci": "2026-11-22T01:27:32.472635+00:00",
@@ -5926,18 +5923,26 @@
   "https://www.danas.rs/vesti/drustvo/vreme-danas-oblacno-mestimicno-sa-slabom-kisom-ponegde-sneg/": "2026-11-26T23:50:15.553103+00:00",
   "https://n1info.rs/region/albanski-studenti-najavili-osnivanje-nove-politicke-stranke-ujedinjeni-za-albaniju/": "2026-11-26T23:50:15.553103+00:00",
   "https://www.danas.rs/svet/albanski-studenti-i-strucnjaci-osnivaju-stranku-ujedinjeni-za-albaniju/": "2026-11-26T23:50:15.553103+00:00",
-  "https://www.kurir.rs/planeta/10174250/studenti-u-albaniji-zapoceli-proceduru-osnivanja-politicke-stranke": "2026-11-26T23:50:15.553103+00:00"
+  "https://www.kurir.rs/planeta/10174250/studenti-u-albaniji-zapoceli-proceduru-osnivanja-politicke-stranke": "2026-11-26T23:50:15.553103+00:00",
+  "https://biznis.telegraf.rs/info-biz/4440619-srednji-kurs-dinara-za-evro-u-petak-1176319-dinara": "2026-11-27T00:05:02.528257+00:00",
+  "https://www.tanjug.rs/svet/politika/301354/zelenski-nisam-kofer-koji-lukasenko-moze-da-ukrca-u-avion-za-moskvu/vest": "2026-11-27T00:05:02.528257+00:00",
+  "https://www.kurir.rs/planeta/10174210/zelenski-lukasenko-dovedi-putina-u-kijev": "2026-11-27T00:05:02.528257+00:00",
+  "https://www.telegraf.rs/vesti/svet/4440612-zelenski-odbacio-lukasenkov-predlog-za-pregovore-u-moskvi": "2026-11-27T00:05:02.528257+00:00",
+  "https://insajder.net/teme/reditelj-miroslav-terzic-svi-smo-krivi-zbog-vrsnjackog-nasilja-jer-se-nismo-dovoljno-ukljucili-video": "2026-11-27T00:05:02.528257+00:00",
+  "https://n1info.rs/vesti/amss-savetuje-vozacima-da-drze-bezbedno-odstojanje-tokom-voznje/": "2026-11-27T00:05:02.528257+00:00",
+  "https://www.kurir.rs/crna-hronika/10173939/uhapsen-smederevac-osumnjicen-da-je-zlostavljao-suprugu": "2026-11-27T00:05:02.528257+00:00",
+  "https://n1info.rs/vesti/sud-odlucio-zerar-depardje-ce-se-naci-pred-sudom-zbog-navodnog-silovanja-glumice-2018-godine/": "2026-11-27T00:05:02.528257+00:00",
+  "https://n1info.rs/biznis/wizz-air-najavljuje-povratak-jednog-aviona-i-cetiri-nove-destinacije-tokom-sledece-godine-sta-se-promenilo/": "2026-11-27T00:05:02.528257+00:00",
+  "https://www.tanjug.rs/svet/politika/301373/makron-optuzio-le-pen-za-cudnu-aroganciju-jer-veruje-da-vec-odlucuje-o-francuskoj/vest": "2026-11-27T00:05:02.528257+00:00",
+  "https://www.b92.net/info/svet/288488/makron-kritikovao-le-pen/vest": "2026-11-27T00:05:02.528257+00:00",
+  "https://www.tanjug.rs/svet/politika/301380/lula-da-silva-nece-pozvati-mileija-na-inauguraciju-brazil-povlaci-ambasadora-u-argentini/vest": "2026-11-27T00:05:02.528257+00:00",
+  "https://www.kurir.rs/planeta/10174246/kljuca-u-odnosima-brazila-i-argentine": "2026-11-27T00:05:02.528257+00:00",
+  "https://www.euronews.rs/srbija/politika/253874/naslovne-strane-dnevne-stampe-za-petak-27-novembar/vest": "2026-11-27T00:05:02.528257+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-26T08:34+00:00",
-   "novih": 2,
-   "ukupno": 4830,
-   "sekundi": 692.0
-  },
   {
    "vreme": "2026-11-26T08:48+00:00",
    "novih": 6,
@@ -6291,6 +6296,12 @@
    "novih": 1,
    "ukupno": 5093,
    "sekundi": 597.3
+  },
+  {
+   "vreme": "2026-11-27T00:15+00:00",
+   "novih": 8,
+   "ukupno": 5101,
+   "sekundi": 654.7
   }
  ],
  "licnosti_foto": {
@@ -9371,8 +9382,8 @@
     "t": 1795736295.3229513
    },
    "nastraninaroda": {
-    "since_id": "2126050011708330297",
-    "t": 1795734421.5022945
+    "since_id": "2126091844706504905",
+    "t": 1795738046.1091218
    },
    "bcenzure": {
     "since_id": "2126050941371580896",
@@ -9460,6 +9471,22 @@
     "rubrika": "politika",
     "tema": "Antić: sud pritvorom Vučićevića pokazao odanost novom režimu",
     "vest": "202611270003-56fee1"
+   },
+   {
+    "id": "2126091844706504905",
+    "x": "NaStraniNaroda",
+    "ime": "Vukša Dragović",
+    "grupa": "",
+    "uloga": "",
+    "text": "Za razliku od tebe, Žaklina, ja uvek govorim istinu. https://t.co/5BRhZPgdwg https://t.co/KZ4DNIq3d2",
+    "published": "2026-11-26T23:12:51.000+00:00",
+    "lajk": 83,
+    "slike": [
+     "https://pbs.twimg.com/amplify_video_thumb/2126091809373741057/img/SWuryU7BMU_c1WKC.jpg"
+    ],
+    "prikazi": false,
+    "rubrika": "politika",
+    "tema": "Vukša Dragović obraća se Žaklini, bez jasnog sadržaja"
    },
    {
     "id": "2126091801685643314",
@@ -21241,20 +21268,6 @@
     "rubrika": "politika",
     "tema": "Bakić poslanicima Ujedinjene Srbije o vračarcima",
     "vest": "202611241843-3daea8"
-   },
-   {
-    "id": "2125216673669980485",
-    "x": "Bibislav",
-    "ime": "Biljana Đorđević",
-    "grupa": "opozicija",
-    "uloga": "Zeleno-levi front",
-    "text": "A moja krivična prijava i dalje stoji u fioci, evo biće uskoro godinu dana https://t.co/2mEfpLpgTS",
-    "published": "2026-11-24T13:15:14.000+00:00",
-    "lajk": 84,
-    "pokusaja": 1,
-    "prikazi": false,
-    "rubrika": "politika",
-    "tema": "Nejasna objava o krivičnoj prijavi"
    }
   ],
   "pratim": [
@@ -21979,20 +21992,6 @@
   }
  },
  "foto_cache": {
-  "t:nacionalni savet": {
-   "t": 1795132300.491329,
-   "items": [
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Nacionalni_savet_Slova%C4%8Dke_republike_-_panoramio.jpg/1920px-Nacionalni_savet_Slova%C4%8Dke_republike_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3264,
-     "h": 2448,
-     "god": 2011,
-     "credit": "Wikimedia Commons / Mister No / CC BY 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Nacionalni_savet_Slova%C4%8Dke_republike_-_panoramio.jpg",
-     "naslov": "Nacionalni savet Slovačke republike - panoramio.jpg"
-    }
-   ]
-  },
   "t:cuj guanghaj": {
    "t": 1795134093.7189286,
    "items": []
@@ -42691,6 +42690,193 @@
   "t:ujedinjeni za albaniju": {
    "t": 1795737047.057571,
    "items": []
+  },
+  "t:film tri nedelje posle": {
+   "t": 1795737953.592861,
+   "items": []
+  },
+  "t:policijska uprava smederevo": {
+   "t": 1795737973.0078838,
+   "items": []
+  },
+  "t:apelacioni sud u parizu": {
+   "t": 1795737990.4058733,
+   "items": []
+  },
+  "t:wizz air": {
+   "t": 1795738004.7884054,
+   "items": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/2022_Steward_w_samolocie_Wizz_Air.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1618,
+     "h": 1145,
+     "god": 2022,
+     "credit": "Wikimedia Commons / Jacek Halicki / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:2022_Steward_w_samolocie_Wizz_Air.jpg",
+     "naslov": "2022 Steward w samolocie Wizz Air.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Airbus_320-200_Wizz_Air_2_c.JPG/1920px-Airbus_320-200_Wizz_Air_2_c.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3008,
+     "h": 1369,
+     "god": 2009,
+     "credit": "Wikimedia Commons / Łukasz Golowanow &amp; Maciek Hypś, Konflikty.pl; edit by Ch / Attribution",
+     "link": "https://commons.wikimedia.org/wiki/File:Airbus_320-200_Wizz_Air_2_c.JPG",
+     "naslov": "Airbus 320-200 Wizz Air 2 c.JPG"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Wizz_Air_and_Ryanair_baggage_sizer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1500,
+     "h": 2000,
+     "god": 2022,
+     "credit": "Wikimedia Commons / Kenzel2 / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Wizz_Air_and_Ryanair_baggage_sizer.jpg",
+     "naslov": "Wizz Air and Ryanair baggage sizer.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Ryanair_vs_Wizz_Air_baggage_sizer.jpg/1920px-Ryanair_vs_Wizz_Air_baggage_sizer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2746,
+     "h": 3661,
+     "god": 2023,
+     "credit": "Wikimedia Commons / Stephen Johnes / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Ryanair_vs_Wizz_Air_baggage_sizer.jpg",
+     "naslov": "Ryanair vs Wizz Air baggage sizer.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Hamburg_Airport_Wizz_Air_Airbus_A321-231%28WL%29_HA-LXG_%28DSC06906%29.jpg/1920px-Hamburg_Airport_Wizz_Air_Airbus_A321-231%28WL%29_HA-LXG_%28DSC06906%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5218,
+     "h": 2936,
+     "god": 2022,
+     "credit": "Wikimedia Commons / MarcelX42 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Hamburg_Airport_Wizz_Air_Airbus_A321-231(WL)_HA-LXG_(DSC06906).jpg",
+     "naslov": "Hamburg Airport Wizz Air Airbus A321-231(WL) HA-LXG (DSC06906).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Wizz_Air_Planes_parked_at_Vienna_Airport_1.jpg/1920px-Wizz_Air_Planes_parked_at_Vienna_Airport_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4000,
+     "h": 3000,
+     "god": 2023,
+     "credit": "Wikimedia Commons / Aron Szegedi / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Wizz_Air_Planes_parked_at_Vienna_Airport_1.jpg",
+     "naslov": "Wizz Air Planes parked at Vienna Airport 1.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Hamburg_Airport_Wizz_Air_Airbus_A321-231%28WL%29_HA-LXA_%28DSC07684%29.jpg/1920px-Hamburg_Airport_Wizz_Air_Airbus_A321-231%28WL%29_HA-LXA_%28DSC07684%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5722,
+     "h": 3220,
+     "god": 2023,
+     "credit": "Wikimedia Commons / MarcelX42 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Hamburg_Airport_Wizz_Air_Airbus_A321-231(WL)_HA-LXA_(DSC07684).jpg",
+     "naslov": "Hamburg Airport Wizz Air Airbus A321-231(WL) HA-LXA (DSC07684).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/View_from_a_Wizz_Air_flight_over_Hungary_%282024-03-27%29.jpg/1920px-View_from_a_Wizz_Air_flight_over_Hungary_%282024-03-27%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4032,
+     "h": 3024,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Gogchannel / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:View_from_a_Wizz_Air_flight_over_Hungary_(2024-03-27).jpg",
+     "naslov": "View from a Wizz Air flight over Hungary (2024-03-27).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Wizz_Air_Lechner_%C3%96d%C3%B6n.jpg/1920px-Wizz_Air_Lechner_%C3%96d%C3%B6n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5712,
+     "h": 4284,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Orangesclub / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Wizz_Air_Lechner_%C3%96d%C3%B6n.jpg",
+     "naslov": "Wizz Air Lechner Ödön.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Wizz_Air_at_Salzburg_Airport_-_Wizz_Air_am_Flughafen_Salzburg.jpg/1920px-Wizz_Air_at_Salzburg_Airport_-_Wizz_Air_am_Flughafen_Salzburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 2622,
+     "h": 1967,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Stephen Jones / CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Wizz_Air_at_Salzburg_Airport_-_Wizz_Air_am_Flughafen_Salzburg.jpg",
+     "naslov": "Wizz Air at Salzburg Airport - Wizz Air am Flughafen Salzburg.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/DAV_2804-Airbus_A321-271NX_Wizz_Air_HA-LZN.jpg/1920px-DAV_2804-Airbus_A321-271NX_Wizz_Air_HA-LZN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4686,
+     "h": 2636,
+     "god": 2022,
+     "credit": "Wikimedia Commons / DavidivardiIL / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:DAV_2804-Airbus_A321-271NX_Wizz_Air_HA-LZN.jpg",
+     "naslov": "DAV 2804-Airbus A321-271NX Wizz Air HA-LZN.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Two_Wizz_Air_aircraft_parked_at_Vienna_Airport.jpg/1920px-Two_Wizz_Air_aircraft_parked_at_Vienna_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4608,
+     "h": 3456,
+     "god": 2022,
+     "credit": "Wikimedia Commons / Aron Szegedi / CC BY-SA 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Two_Wizz_Air_aircraft_parked_at_Vienna_Airport.jpg",
+     "naslov": "Two Wizz Air aircraft parked at Vienna Airport.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Wizz_Air_fly_the_greenest_livery_VIE.jpg/1920px-Wizz_Air_fly_the_greenest_livery_VIE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4032,
+     "h": 2268,
+     "god": 2025,
+     "credit": "Wikimedia Commons / Stephen Jones / Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Wizz_Air_fly_the_greenest_livery_VIE.jpg",
+     "naslov": "Wizz Air fly the greenest livery VIE.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/DAV_2788-HA-LGK_Airbus_A321-271NX_Wizz_Air.jpg/1920px-DAV_2788-HA-LGK_Airbus_A321-271NX_Wizz_Air.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5222,
+     "h": 3481,
+     "god": 2022,
+     "credit": "Wikimedia Commons / DavidivardiIL / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:DAV_2788-HA-LGK_Airbus_A321-271NX_Wizz_Air.jpg",
+     "naslov": "DAV 2788-HA-LGK Airbus A321-271NX Wizz Air.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Hamburg_Airport_Wizz_Air_Airbus_A321-271NX_HA-LVF_%28DSC04879%29.jpg/1920px-Hamburg_Airport_Wizz_Air_Airbus_A321-271NX_HA-LVF_%28DSC04879%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 5942,
+     "h": 3344,
+     "god": 2022,
+     "credit": "Wikimedia Commons / MarcelX42 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Hamburg_Airport_Wizz_Air_Airbus_A321-271NX_HA-LVF_(DSC04879).jpg",
+     "naslov": "Hamburg Airport Wizz Air Airbus A321-271NX HA-LVF (DSC04879).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Wizz_Air_flight%2C_Bucharest_to_Leeds_%2825th_May_2024%29_025.jpg/1920px-Wizz_Air_flight%2C_Bucharest_to_Leeds_%2825th_May_2024%29_025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3000,
+     "h": 4496,
+     "god": 2024,
+     "credit": "Wikimedia Commons / Mtaylor848 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Wizz_Air_flight,_Bucharest_to_Leeds_(25th_May_2024)_025.jpg",
+     "naslov": "Wizz Air flight, Bucharest to Leeds (25th May 2024) 025.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Early_morning_Wizz_Air_departure_from_Vienna.jpg/1920px-Early_morning_Wizz_Air_departure_from_Vienna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 3944,
+     "h": 2603,
+     "god": 2023,
+     "credit": "Wikimedia Commons / Balint Boodi / CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Early_morning_Wizz_Air_departure_from_Vienna.jpg",
+     "naslov": "Early morning Wizz Air departure from Vienna.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/DAV_2814-Wizz_Air_Airbus_A320.jpg/1920px-DAV_2814-Wizz_Air_Airbus_A320.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "w": 4805,
+     "h": 2703,
+     "god": 2022,
+     "credit": "Wikimedia Commons / DavidivardiIL / CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:DAV_2814-Wizz_Air_Airbus_A320.jpg",
+     "naslov": "DAV 2814-Wizz Air Airbus A320.jpg"
+    }
+   ]
+  },
+  "t:budzet evropske unije": {
+   "t": 1795738020.4136524,
+   "items": []
+  },
+  "t:predsednicki izbori u francuskoj": {
+   "t": 1795738021.0572798,
+   "items": []
   }
  },
  "x_objave": {
@@ -48754,6 +48940,24 @@
     "w": 752,
     "h": 1003
    }
+  },
+  "Luiz Inasio Lula da Silva": {
+   "ime": "Luis Inasio Lula da Silva",
+   "uloga": "predsednik Brazila",
+   "oblast": "svet",
+   "wd": "",
+   "t": 1795738060.7627192,
+   "ok": true,
+   "foto": null
+  },
+  "Žerar Depardje": {
+   "ime": "Žerar Depardje",
+   "uloga": "francuski glumac",
+   "oblast": "kultura",
+   "wd": "",
+   "t": 1795738060.7627742,
+   "ok": true,
+   "foto": null
   }
  },
  "ankete": [
@@ -49040,7 +49244,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-26T23:51:36.280339+00:00",
+  "provereno": "2026-11-27T00:07:41.734733+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
