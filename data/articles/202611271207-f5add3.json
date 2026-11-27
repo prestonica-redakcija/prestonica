@@ -33,7 +33,7 @@
  ],
  "importance": 4,
  "published": "2026-11-27T11:07:40.603633+00:00",
- "updated": "2026-11-27T17:40:34.767075+00:00",
+ "updated": "2026-11-27T19:17:17.200095+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -46,11 +46,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4440970-viktor-orban-se-ne-predaje-bivsi-premijer-madjarske-osnovao-fondaciju-i-krenuo-u-novu-kampanju",
    "title": "Viktor Orban se ne predaje: Bivši premijer Mađarske osnovao fondaciju i krenuo u novu kampanju",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10175115/viktor-orban-krenuo-u-novu-kampanju",
+   "title": "ORBAN KRENUO U NOVU KAMPANJU: Bivši premijer Mađarske osnovao fondaciju, cilj jačanje saradnje nacionalnih političkih snaga",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Viktor Orban osnovao novi tink-tenk: Imaće prisustvo u Briselu, još se ne zna da li će tražiti sredstva od SAD",
-  "Viktor Orban se ne predaje: Bivši premijer Mađarske osnovao fondaciju i krenuo u novu kampanju"
+  "Viktor Orban se ne predaje: Bivši premijer Mađarske osnovao fondaciju i krenuo u novu kampanju",
+  "ORBAN KRENUO U NOVU KAMPANJU: Bivši premijer Mađarske osnovao fondaciju, cilj jačanje saradnje nacionalnih političkih snaga"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "osoba": "Viktor Orban",
   "alt": "Viktor Orban osnovao međunarodnu fondaciju \"Pro Patria\", institut će imati prisustvo u Briselu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

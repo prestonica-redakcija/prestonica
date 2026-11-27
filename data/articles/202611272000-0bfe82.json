@@ -34,17 +34,24 @@
  ],
  "importance": 7,
  "published": "2026-11-27T19:00:34.330890+00:00",
- "updated": "2026-11-27T19:00:34.330890+00:00",
+ "updated": "2026-11-27T19:17:17.200095+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/kodna-imena-tajni-nadzor-i-prisluskivanje-kako-je-prema-saznanjima-juznih-vesti-pokusano-razbijanje-studentskog-pokreta/",
    "title": "Kodna imena, tajni nadzor i prisluškivanje: Kako je, prema saznanjima Južnih vesti, pokušano razbijanje studentskog pokreta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/kako-je-pokusano-razbijanje-studentskog-pokreta/",
+   "title": "Kodna imena, tajni nadzor i prisluškivanje: Kako je pokušano razbijanje studentskog pokreta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Kodna imena, tajni nadzor i prisluškivanje: Kako je, prema saznanjima Južnih vesti, pokušano razbijanje studentskog pokreta"
+  "Kodna imena, tajni nadzor i prisluškivanje: Kako je, prema saznanjima Južnih vesti, pokušano razbijanje studentskog pokreta",
+  "Kodna imena, tajni nadzor i prisluškivanje: Kako je pokušano razbijanje studentskog pokreta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "alt": "Two white security cameras mounted on a pole against a clear blue sky",
   "link": "https://unsplash.com/@jaqbovsky"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
