@@ -32,7 +32,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-27T18:14:38.111504+00:00",
+ "updated": "2026-11-27T18:29:18.328071+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -1083,6 +1083,60 @@
    "url": "https://n1info.rs/vesti/puf-i-dveri-podrzali-predsednicku-kandidaturu-radomira-saicica/",
    "title": "PUF i Dveri podržali predsedničku kandidaturu Radomira Saičića",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/branko-pavlovic-najavio-kandidaturu-na-predsednickim-izborima-i-prikupljanje-potpisa",
+   "title": "Branko Pavlović najavio kandidaturu na predsedničkim izborima i prikupljanje potpisa",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288730/zvanican-dopis-dejana-bodiroge-o-ostavci-na-mesto-narodnog-poslanika/vest",
+   "title": "Oglasili se \"Studenti u blokadi\"; Ovo je zvaničan dopis Dejana Bodiroge o ostavci",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/studentski-pokret-bodiroga-odlucio-da-se-povuce-sa-poslanicke-funkcije-i-podnese-ostavku",
+   "title": "Studentski pokret: Bodiroga odlučio da se povuče sa poslaničke funkcije i podnese ostavku",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10175068/gostovanje-aleksandra-vucica-u-usijanju",
+   "title": "ALEKSANDAR VUČIĆ U \"USIJANJU\" Šef poslaničke grupe o predstojećim predsedničkim izborima: Uvek postoji mogućnost da donesete neke odluke",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/biznis/biznis-vesti/253971/gorivo-u-srbiji-pojeftinilo-ali-sta-nas-ceka-dalje/vest",
+   "title": "Gorivo je pojeftinilo, ali šta nas čeka dalje: Obrenović otkriva od čega zavisi energetska budućnost Srbije",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/ruzic-najavio-osnivacku-skupstinu-stranke-za-21-decembar/",
+   "title": "Ružić najavio osnivačku skupštinu stranke za 21. decembar",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/english/news/radomir-saicic-university-professor-to-student-movement-supporter-to-presidential-candidate/",
+   "title": "Radomir Saicic: University professor to Student Movement supporter to presidential candidate",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/dveri-podrzavaju-saicicevu-kandidaturu/",
+   "title": "Dveri podržavaju Saičićevu kandidaturu: Poseduje sve kvalitete za funkciju predsednika Srbije",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1675423/vucic-teskoj-situaciji-srbiji-formirana-apsolutna-vlast-svim-nivoima",
+   "title": "VUČIĆ O TEŠKOJ SITUACIJI U SRBIJI: Formirana je apsolutna vlast na svim nivoima",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -1260,7 +1314,16 @@
   "\"Čast mi je što sam bio deo reprezentacije Slobode\": Izjava Bodiroge povodom odluke da vrati poslanički mandat",
   "„Ponosan sam što mi je ukazana čast da budem i u reprezentaciji Slobode“: Dejan Bodiroga o ostavci na mesto poslanika",
   "Srđan Škoro - Mislim da studenti već sada imaju spremnu vladu!",
-  "PUF i Dveri podržali predsedničku kandidaturu Radomira Saičića"
+  "PUF i Dveri podržali predsedničku kandidaturu Radomira Saičića",
+  "Branko Pavlović najavio kandidaturu na predsedničkim izborima i prikupljanje potpisa",
+  "Oglasili se \"Studenti u blokadi\"; Ovo je zvaničan dopis Dejana Bodiroge o ostavci",
+  "Studentski pokret: Bodiroga odlučio da se povuče sa poslaničke funkcije i podnese ostavku",
+  "ALEKSANDAR VUČIĆ U \"USIJANJU\" Šef poslaničke grupe o predstojećim predsedničkim izborima: Uvek postoji mogućnost da donesete neke odluke",
+  "Gorivo je pojeftinilo, ali šta nas čeka dalje: Obrenović otkriva od čega zavisi energetska budućnost Srbije",
+  "Ružić najavio osnivačku skupštinu stranke za 21. decembar",
+  "Radomir Saicic: University professor to Student Movement supporter to presidential candidate",
+  "Dveri podržavaju Saičićevu kandidaturu: Poseduje sve kvalitete za funkciju predsednika Srbije",
+  "VUČIĆ O TEŠKOJ SITUACIJI U SRBIJI: Formirana je apsolutna vlast na svim nivoima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -1273,7 +1336,7 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 135,
+ "novo_od_pisanja": 144,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:45:47.570231+00:00",
  "verzija": 7

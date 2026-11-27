@@ -30,17 +30,24 @@
  ],
  "importance": 4,
  "published": "2026-11-27T18:14:38.111504+00:00",
- "updated": "2026-11-27T18:14:38.111504+00:00",
+ "updated": "2026-11-27T18:29:18.328071+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/biznis/biznis-vesti/254013/plus-ultra-otkaz-za-svih-659-zaposlenih/vest",
    "title": "Španska avio-kompanija gasi poslovanje i otpušta svih 659 zaposlenih: Nije pronašla kupca ni investitora",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/288716/avio-kompanija-planira-otpustanje-svih-659-zaposlenih/vest",
+   "title": "Avio-kompanija planira otpuštanje svih 659 zaposlenih",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Španska avio-kompanija gasi poslovanje i otpušta svih 659 zaposlenih: Nije pronašla kupca ni investitora"
+  "Španska avio-kompanija gasi poslovanje i otpušta svih 659 zaposlenih: Nije pronašla kupca ni investitora",
+  "Avio-kompanija planira otpuštanje svih 659 zaposlenih"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Anneau_chevaux_plus_ultra.jpg",
   "alt": "Španski prevoznik Plus Ultra planira da otpusti svih 659 zaposlenih"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
