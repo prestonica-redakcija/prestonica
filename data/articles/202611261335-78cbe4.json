@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T12:35:38.207926+00:00",
- "updated": "2026-11-27T06:49:15.064156+00:00",
+ "updated": "2026-11-27T22:34:31.341346+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -83,6 +83,12 @@
    "url": "https://www.tanjug.rs/svet/politika/301392/zelenski-upozorio-rusija-priprema-novi-masovni-napad/vest",
    "title": "Zelenski upozorio: Rusija priprema novi masovni napad",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288790/ukrajina-ponudila-rusiji-primirje-u-crnom-moru/vest",
+   "title": "Ukrajina poslala novi predlog Rusiji",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -93,7 +99,8 @@
   "Spremaju nova pravila: Penzija sa 63 godine – moguće je, ali...",
   "FIFA na meti sajber napada",
   "Zelenski upozorio da Rusija priprema novi masovni napad",
-  "Zelenski upozorio: Rusija priprema novi masovni napad"
+  "Zelenski upozorio: Rusija priprema novi masovni napad",
+  "Ukrajina poslala novi predlog Rusiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -107,8 +114,8 @@
   "osoba": "Volodimir Zelenski",
   "alt": "Zelenski: Rusija privodi kraju pripreme za novi masovni napad na infrastrukturu"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-27T06:49:15.064156+00:00",
  "verzija": 2
 }

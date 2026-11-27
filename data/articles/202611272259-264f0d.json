@@ -29,7 +29,7 @@
  ],
  "importance": 7,
  "published": "2026-11-27T21:59:46.075628+00:00",
- "updated": "2026-11-27T22:19:51.921365+00:00",
+ "updated": "2026-11-27T22:34:31.341346+00:00",
  "sources": [
   {
    "name": "N1",
@@ -54,12 +54,19 @@
    "url": "https://nova.rs/vesti/politika/psg-podrzao-predsednicku-kandidaturu-radomira-saicica/",
    "title": "PSG podržao predsedničku kandidaturu Radomira Saičića",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/psg-podrzao-predsednicku-kandidaturu-radomira-saicica",
+   "title": "PSG podržao predsedničku kandidaturu Radomira Saičića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "PSG podržao predsedničku kandidaturu Radomira Saičića",
   "PSG podržao predsedničku kandidaturu Radomira Saičića",
   "„Nova“ piše: „Radomir Saičić u trci za predsednika Srbije, SNS i SPS bez odluke“",
+  "PSG podržao predsedničku kandidaturu Radomira Saičića",
   "PSG podržao predsedničku kandidaturu Radomira Saičića"
  ],
  "author": "Redakcija Prestonice",
@@ -73,6 +80,6 @@
   "alt": "two flags with a coat of arms on them",
   "link": "https://unsplash.com/@thestefankostic"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
