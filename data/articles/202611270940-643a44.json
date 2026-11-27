@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T08:40:28.545868+00:00",
- "updated": "2026-11-27T08:40:28.545868+00:00",
+ "updated": "2026-11-27T14:24:45.310037+00:00",
  "sources": [
   {
    "name": "B92",
@@ -44,11 +44,25 @@
    "url": "https://www.kurir.rs/planeta/10174297/nato-digao-lovce-u-letoniji-proglaseno-stanje-visoke-pripravnosti",
    "title": "UZBUNA! PROGLAŠENO STANJE VISOKE PRIPRAVNOSTI! Lovci NATO avijacije hitno poleteli u odbranu vazdušnog prostora jedne svoje članice! (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301400/bespilotna-letelica-nakratko-narusila-vazdusni-prostor-letonije/vest",
+   "title": "Bespilotna letelica nakratko narušila vazdušni prostor Letonije",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/dron-usao-u-vazdusni-prostor-letonije-poleteli-avioni-nato-a/",
+   "title": "Dron ušao u vazdušni prostor Letonije, poleteli avioni NATO-a",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Uzbuna: NATO podigao borbene avione",
-  "UZBUNA! PROGLAŠENO STANJE VISOKE PRIPRAVNOSTI! Lovci NATO avijacije hitno poleteli u odbranu vazdušnog prostora jedne svoje članice! (FOTO)"
+  "UZBUNA! PROGLAŠENO STANJE VISOKE PRIPRAVNOSTI! Lovci NATO avijacije hitno poleteli u odbranu vazdušnog prostora jedne svoje članice! (FOTO)",
+  "Bespilotna letelica nakratko narušila vazdušni prostor Letonije",
+  "Dron ušao u vazdušni prostor Letonije, poleteli avioni NATO-a"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +74,7 @@
   "local": false,
   "alt": "six fighter jets",
   "link": "https://unsplash.com/@uxgun"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

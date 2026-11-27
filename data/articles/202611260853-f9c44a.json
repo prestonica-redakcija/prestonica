@@ -32,7 +32,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-27T14:09:56.940428+00:00",
+ "updated": "2026-11-27T14:24:45.310037+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -651,6 +651,42 @@
    "url": "https://n1info.rs/vesti/rik-dijaspora-prijave-za-glasanje-na-predsednickim-izborima/",
    "title": "Član RIK-a pozvao građane u dijaspori da se što pre prijave za glasanje na predsedničkim izborima",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/elek-srpska-lista-ne-znam-da-li-cemo-podrzati-saicica-odlucice-predsednistvo",
+   "title": "Elek (Srpska lista): Ne znam da li ćemo podržati Saičića, odlučiće Predsedništvo",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/clan-rik-a-dincic-pozvao-gradane-u-inostranstvu-da-se-sto-pre-prijave-za-glasanje-od-broja-prijavljenih-zavisi-otvaranje-birackih-mesta",
+   "title": "Član RIK-a Dinčić pozvao građane u inostranstvu da se što pre prijave za glasanje, od broja prijavljenih zavisi otvaranje biračkih mesta",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253963/cvjetin-milivojevic-o-predsednickim-izborima/vest",
+   "title": "Predsednički izbori u Srbiji - Kakva nas izborna trka čeka? Milivojević: Naprednjaci pred teškom odlukom",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/najave-emisija/novi-dan-kampanja-za-izbor-predsednika/",
+   "title": "Novi dan: Kampanja za izbor predsednika",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288669/aleksandar-cupic-o-formiranju-vlade-srbije/vest",
+   "title": "Čupić: \"Očekujem formiranje Vlade Srbije u razumnom roku\"",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/spo-podrska-saicicu/",
+   "title": "SPO: Podrška Saičiću",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -756,7 +792,13 @@
   "Poziv dijaspori da se što pre prijavi za glasanje na predsedničkim izborima 27. decembra",
   "ELEK (SRPSKA LISTA): Ne znam da li ćemo podržati Saičića, odlučiće Predsedništvo",
   "Izbori za predsednika Srbije: Koji je rok za prijavu kandidata i kada se ide u drugi krug?",
-  "Član RIK-a pozvao građane u dijaspori da se što pre prijave za glasanje na predsedničkim izborima"
+  "Član RIK-a pozvao građane u dijaspori da se što pre prijave za glasanje na predsedničkim izborima",
+  "Elek (Srpska lista): Ne znam da li ćemo podržati Saičića, odlučiće Predsedništvo",
+  "Član RIK-a Dinčić pozvao građane u inostranstvu da se što pre prijave za glasanje, od broja prijavljenih zavisi otvaranje biračkih mesta",
+  "Predsednički izbori u Srbiji - Kakva nas izborna trka čeka? Milivojević: Naprednjaci pred teškom odlukom",
+  "Novi dan: Kampanja za izbor predsednika",
+  "Čupić: \"Očekujem formiranje Vlade Srbije u razumnom roku\"",
+  "SPO: Podrška Saičiću"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -769,7 +811,7 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 63,
+ "novo_od_pisanja": 69,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:45:47.570231+00:00",
  "verzija": 7

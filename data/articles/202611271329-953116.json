@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T12:29:29.006406+00:00",
- "updated": "2026-11-27T12:29:29.006406+00:00",
+ "updated": "2026-11-27T14:24:45.310037+00:00",
  "sources": [
   {
    "name": "N1",
@@ -45,11 +45,18 @@
    "url": "https://www.danas.rs/vesti/politika/siroka-pulja-u-ohridu-kosovo-i-albanija-su-jedno-srce-jedan-um-i-jedna-nacija/",
    "title": "Široka Pulja u Ohridu: Kosovo i Albanija su jedno srce, jedan um i jedna nacija",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/predsednik-albanije-u-ohridu-prosirenje-eu-geopoliticki-imperativ/",
+   "title": "Predsednik Albanije u Ohridu: Proširenje EU geopolitički imperativ",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Široka Pulja: Kosovo i Albanija su jedno srce, jedan um i jedna nacija",
-  "Široka Pulja u Ohridu: Kosovo i Albanija su jedno srce, jedan um i jedna nacija"
+  "Široka Pulja u Ohridu: Kosovo i Albanija su jedno srce, jedan um i jedna nacija",
+  "Predsednik Albanije u Ohridu: Proširenje EU geopolitički imperativ"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "local": false,
   "alt": "People are watching the sunset over the water",
   "link": "https://unsplash.com/@martinkoloski"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

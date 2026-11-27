@@ -33,17 +33,24 @@
  ],
  "importance": 6,
  "published": "2026-11-27T13:14:03.031491+00:00",
- "updated": "2026-11-27T13:14:03.031491+00:00",
+ "updated": "2026-11-27T14:24:45.310037+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/milosevic-studentska-lista-ce-evropske-integracije-ostaviti-za-kasnije-prioritet-uspostavljanje-demokratskih-standarda/",
    "title": "Milošević: Studentska lista će evropske integracije ostaviti za kasnije, prioritet uspostavljanje demokratskih standarda",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/odbor-srbija-eu-evropski-zvanicnici-kazu-da-je-izgradnja-demokratskih-institucija-glavni-izazov-nove-vlade-studentska-lista-za-uspostavljanje-eu-standarda-pre-formalnog-pristupanja",
+   "title": "Odbor Srbija – EU: Evropski zvaničnici kažu da je izgradnja demokratskih institucija glavni izazov nove vlade, Studentska lista za uspostavljanje EU standarda pre formalnog pristupanja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Milošević: Studentska lista će evropske integracije ostaviti za kasnije, prioritet uspostavljanje demokratskih standarda"
+  "Milošević: Studentska lista će evropske integracije ostaviti za kasnije, prioritet uspostavljanje demokratskih standarda",
+  "Odbor Srbija – EU: Evropski zvaničnici kažu da je izgradnja demokratskih institucija glavni izazov nove vlade, Studentska lista za uspostavljanje EU standarda pre formalnog pristupanja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Studentska_lista,_skup_ispred_rektorata_2.jpg",
   "alt": "Milošević: Studentska lista prvo demokratski standardi, pa tehničko pristupanje EU"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
