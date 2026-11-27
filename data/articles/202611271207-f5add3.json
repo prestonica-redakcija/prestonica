@@ -33,17 +33,24 @@
  ],
  "importance": 4,
  "published": "2026-11-27T11:07:40.603633+00:00",
- "updated": "2026-11-27T11:07:40.603633+00:00",
+ "updated": "2026-11-27T17:40:34.767075+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/viktor-orban-osnovao-novi-tink-tenk-imace-prisustvo-u-briselu-jos-se-ne-zna-da-li-ce-traziti-sredstva-od-sad",
    "title": "Viktor Orban osnovao novi tink-tenk: Imaće prisustvo u Briselu, još se ne zna da li će tražiti sredstva od SAD",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4440970-viktor-orban-se-ne-predaje-bivsi-premijer-madjarske-osnovao-fondaciju-i-krenuo-u-novu-kampanju",
+   "title": "Viktor Orban se ne predaje: Bivši premijer Mađarske osnovao fondaciju i krenuo u novu kampanju",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Viktor Orban osnovao novi tink-tenk: Imaće prisustvo u Briselu, još se ne zna da li će tražiti sredstva od SAD"
+  "Viktor Orban osnovao novi tink-tenk: Imaće prisustvo u Briselu, još se ne zna da li će tražiti sredstva od SAD",
+  "Viktor Orban se ne predaje: Bivši premijer Mađarske osnovao fondaciju i krenuo u novu kampanju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:President_Donald_Trump_hosts_a_bilateral_lunch_meeting_with_Hungarian_Prime_Minister_Viktor_Orban.2_(cropped).jpg",
   "osoba": "Viktor Orban",
   "alt": "Viktor Orban osnovao međunarodnu fondaciju \"Pro Patria\", institut će imati prisustvo u Briselu"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
