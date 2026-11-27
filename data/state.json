@@ -5980,18 +5980,17 @@
   "https://www.youtube.com/watch?v=aUMoV9RDzFc": "2026-11-27T01:37:09.153316+00:00",
   "https://www.youtube.com/watch?v=2k6ZLs2Igg8": "2026-11-27T01:37:09.153316+00:00",
   "https://www.youtube.com/watch?v=RbInaMAaQtc": "2026-11-27T01:51:55.703998+00:00",
-  "https://www.youtube.com/watch?v=LLrwoyqqzYU": "2026-11-27T01:51:55.703998+00:00"
+  "https://www.youtube.com/watch?v=LLrwoyqqzYU": "2026-11-27T01:51:55.703998+00:00",
+  "https://www.telegraf.rs/4440535-linta-rezolucija-ep-o-vukovaru-produbljuje-podele-jer-precutkuje-srpske-zrtve": "2026-11-27T02:06:49.345265+00:00",
+  "https://www.euronews.rs/biznis/biznis-vesti/253798/najbolji-i-najgori-gradovi-za-rad-u-inostranstvu-2026/vest": "2026-11-27T02:06:49.345265+00:00",
+  "https://www.kurir.rs/vesti/srbija/10173517/sajam-studentske-prakse-u-javnoj-upravi-2026": "2026-11-27T02:06:49.345265+00:00",
+  "https://www.youtube.com/watch?v=YO9FR0Ha1sU": "2026-11-27T02:06:49.345265+00:00",
+  "https://www.youtube.com/watch?v=Tvj8p4U8cf0": "2026-11-27T02:06:49.345265+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-26T10:42+00:00",
-   "novih": 7,
-   "ukupno": 4884,
-   "sekundi": 929.6
-  },
   {
    "vreme": "2026-11-26T10:54+00:00",
    "novih": 8,
@@ -6345,6 +6344,12 @@
    "novih": 0,
    "ukupno": 5122,
    "sekundi": 648.0
+  },
+  {
+   "vreme": "2026-11-27T02:18+00:00",
+   "novih": 1,
+   "ukupno": 5123,
+   "sekundi": 729.4
   }
  ],
  "licnosti_foto": {
@@ -43016,6 +43021,10 @@
   "t:asocijacija novinara srbije": {
    "t": 1795741713.1808693,
    "items": []
+  },
+  "t:expat insider 2026": {
+   "t": 1795745235.5908911,
+   "items": []
   }
  },
  "x_objave": {
@@ -49407,7 +49416,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-27T01:52:44.341613+00:00",
+  "provereno": "2026-11-27T02:07:51.631651+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
