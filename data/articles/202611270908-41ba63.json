@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-27T08:08:26.700787+00:00",
- "updated": "2026-11-27T08:25:16.915436+00:00",
+ "updated": "2026-11-27T08:40:28.545868+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -47,12 +47,19 @@
    "url": "https://www.b92.net/info/region/288518/bacena-bomba-u-dvoriste-pomocnika-direktora-uprave-za-izvrsenje-krivicnih-sankcija/vest",
    "title": "Bačena bomba u dvorište pomoćnika direktora Uprave za izvršenje krivičnih sankcija",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/region/u-podgorici-bacena-bomba-u-dvoriste-pomocnika-direktora-uprave-za-izvrsenje-krivicnih-sankcija-unisten-mu-automobil/",
+   "title": "U Podgorici bačena bomba u dvorište pomoćnika direktora Uprave za izvršenje krivičnih sankcija, uništen mu automobil",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "AKTIVIRANA BOMBA U PODGORICI! Raznet automobil u dvorištu kuće pomoćnika direktora UIKS-a, Nebojše Jankovića!",
   "Eksplozija u Podgorici: Bombom na automobil pomoćnika direktora Uprave za izvršenje krivičnih sankcija",
-  "Bačena bomba u dvorište pomoćnika direktora Uprave za izvršenje krivičnih sankcija"
+  "Bačena bomba u dvorište pomoćnika direktora Uprave za izvršenje krivičnih sankcija",
+  "U Podgorici bačena bomba u dvorište pomoćnika direktora Uprave za izvršenje krivičnih sankcija, uništen mu automobil"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,6 +72,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Kralji%C4%8Dina_pla%C5%BEa_(Milo%C4%8Der,_Crna_Gora)_02.jpg",
   "alt": "U Podgorici eksplodirao automobil pomoćnika direktora Uprave za izvršenje krivičnih sankcija"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

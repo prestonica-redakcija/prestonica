@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T08:08:30.221609+00:00",
- "updated": "2026-11-27T00:34:57.464001+00:00",
+ "updated": "2026-11-27T08:40:28.545868+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -76,6 +76,12 @@
    "url": "https://www.telegraf.rs/vesti/svet/4440622-napad-na-zaporozje-jedna-osoba-poginula-cetiri-ranjene",
    "title": "Rusija opet napala Zaporožje: Ima poginulih i povređenih",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288515/zelenski-prozvao-trampa-zbog-fotografija-sa-putinom/vest",
+   "title": "Zelenski udario na Trampa",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -85,7 +91,8 @@
   "Jedna osoba poginula, četiri ranjene u napadu ruskih snaga na Zaporožje",
   "U Harkovu dron pogodio univerzitetsku zgradu, poginula žena, četiri osobe povređene",
   "RUSKI NAPAD NA ZAPOROŽJE: Jedna osoba poginula, četiri ranjene! Saobraćaj u gradu potpuno obustavljen!",
-  "Rusija opet napala Zaporožje: Ima poginulih i povređenih"
+  "Rusija opet napala Zaporožje: Ima poginulih i povređenih",
+  "Zelenski udario na Trampa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -99,8 +106,8 @@
   "osoba": "Vitalij Kličko",
   "alt": "Ruski balistički napad na Kijev: pogođen tržni centar, ranjeno najmanje sedam osoba"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-27T00:34:57.464001+00:00",
  "verzija": 2
 }

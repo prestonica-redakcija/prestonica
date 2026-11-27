@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-26T23:03:45.194421+00:00",
- "updated": "2026-11-27T06:49:15.064156+00:00",
+ "updated": "2026-11-27T08:40:28.545868+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -57,13 +57,20 @@
    "url": "https://www.novosti.rs/vesti/politika/1675165/borba-slobodu-medija-nastavlja-zaposleni-informeru-ans-danas-9-30-ispred-centralnog-zatvora",
    "title": "BORBA ZA SLOBODU MEDIJA SE NASTAVLjA: Zaposleni u Informeru i ANS danas u 9.30 ispred Centralnog zatvora",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1675165/borba-slobodu-medija-nastavlja-skup-podrske-draganu-vucicevicu-konferencija-stampu",
+   "title": "BORBA ZA SLOBODU MEDIJA SE NASTAVLjA: Skup podrške Draganu J. Vučićeviću i konferencija za štampu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "SKUP PODRŠKE VUČIĆEVIĆU: Sutra u 9.30 konferencija za štampu zaposlenih u Informeru i ANS ispred CZ",
   "Dole lanci i okovi, ne vežu se sokolovi! U 9.30 konferencija za štampu zaposlenih u Informeru i ANS ispred CZ - Dođite u što većem broju!",
   "BORBA ZA SLOBODU MEDIJA! Danas u 9.30 konferencija za štampu zaposlenih u Informeru i ANS ispred CZ",
-  "BORBA ZA SLOBODU MEDIJA SE NASTAVLjA: Zaposleni u Informeru i ANS danas u 9.30 ispred Centralnog zatvora"
+  "BORBA ZA SLOBODU MEDIJA SE NASTAVLjA: Zaposleni u Informeru i ANS danas u 9.30 ispred Centralnog zatvora",
+  "BORBA ZA SLOBODU MEDIJA SE NASTAVLjA: Skup podrške Draganu J. Vučićeviću i konferencija za štampu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -76,6 +83,6 @@
   "alt": "woman holding does anything even matter anymore? signage near building at daytime",
   "link": "https://unsplash.com/@heathermount"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

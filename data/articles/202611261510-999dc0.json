@@ -31,17 +31,24 @@
  ],
  "importance": 5,
  "published": "2026-11-26T14:10:27.685416+00:00",
- "updated": "2026-11-26T14:10:27.685416+00:00",
+ "updated": "2026-11-27T08:40:28.545868+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/english/news/serbias-acting-president-cupic-to-attend-western-balkans-leaders-meeting-in-ohrid/",
    "title": "Serbia’s Acting President Cupic to attend Western Balkans leaders’ meeting in Ohrid",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/english/news/serbias-acting-president-cupic-attends-dinner-with-western-balkan-leaders/",
+   "title": "Serbia’s Acting President Cupic attends dinner with Western Balkan leaders",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Serbia’s Acting President Cupic to attend Western Balkans leaders’ meeting in Ohrid"
+  "Serbia’s Acting President Cupic to attend Western Balkans leaders’ meeting in Ohrid",
+  "Serbia’s Acting President Cupic attends dinner with Western Balkan leaders"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "alt": "People are watching the sunset over the water",
   "link": "https://unsplash.com/@martinkoloski"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

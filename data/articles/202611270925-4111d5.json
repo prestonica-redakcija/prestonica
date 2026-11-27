@@ -36,17 +36,24 @@
  ],
  "importance": 6,
  "published": "2026-11-27T08:25:16.915436+00:00",
- "updated": "2026-11-27T08:25:16.915436+00:00",
+ "updated": "2026-11-27T08:40:28.545868+00:00",
  "sources": [
   {
    "name": "Nova",
    "url": "https://nova.rs/vesti/svet/nemacki-mediji-o-spornim-poslovima-vucicevog-rezima-srbija-sistematski-delila-drzavljanstva-putinovim-sledbenicima/",
    "title": "Nemački mediji o spornim poslovima Vučićevog režima: Srbija sistematski delila državljanstva Putinovim sledbenicima",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/stampa-na-nemackom-srpski-pasosi-za-putinove-ljude-i-kadirovljevog-sina/",
+   "title": "Štampa na nemačkom: Srpski pasoši za Putinove ljude i Kadirovljevog sina",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Nemački mediji o spornim poslovima Vučićevog režima: Srbija sistematski delila državljanstva Putinovim sledbenicima"
+  "Nemački mediji o spornim poslovima Vučićevog režima: Srbija sistematski delila državljanstva Putinovim sledbenicima",
+  "Štampa na nemačkom: Srpski pasoši za Putinove ljude i Kadirovljevog sina"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "passport booklet on top of white paper",
   "link": "https://unsplash.com/@nicolegeri"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
