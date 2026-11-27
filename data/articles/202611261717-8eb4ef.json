@@ -25,7 +25,7 @@
  ],
  "importance": 7,
  "published": "2026-11-26T16:17:51.241334+00:00",
- "updated": "2026-11-26T16:17:51.241334+00:00",
+ "updated": "2026-11-27T10:48:25.392298+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -38,11 +38,18 @@
    "url": "https://www.telegraf.rs/4440443-studenti-za-sutra-zakazali-konferenciju-za-medije",
    "title": "Studenti za sutra zakazali konferenciju za medije",
    "spektar": "vlast"
+  },
+  {
+   "name": "Srbin.info",
+   "url": "https://www.youtube.com/watch?v=LAxCrFLcPH4",
+   "title": "Uživo - konferencija: Studenti kandiduju srpskog samuraja za predsednika Srbije",
+   "spektar": "desnica"
   }
  ],
  "source_titles": [
   "Studenti sutra predstavljaju predsedničkog kandidata: Najavili konferenciju za medije",
-  "Studenti za sutra zakazali konferenciju za medije"
+  "Studenti za sutra zakazali konferenciju za medije",
+  "Uživo - konferencija: Studenti kandiduju srpskog samuraja za predsednika Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "osoba": "Studenti u blokadi",
   "izvor_x": true,
   "alt": "Studenti u blokadi sutra u 12 časova na konferenciji, najavljen predsednički kandidat"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

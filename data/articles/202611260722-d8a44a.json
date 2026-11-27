@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-27T10:29:58.317031+00:00",
+ "updated": "2026-11-27T10:48:25.392298+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -491,6 +491,36 @@
    "url": "https://www.novosti.rs/vesti/politika/1675241/milatovic-cupicem-vreme-novo-poglavlje-odnosima-crne-gore-srbije",
    "title": "MILATOVIĆ SA ČUPIĆEM: Vreme je za novo poglavlje u odnosima Crne Gore i Srbije",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301450/putevi-srbije-upozoravaju-ucesnike-u-saobracaju-na-vremenske-prilike/vest",
+   "title": "Putevi Srbije upozoravaju učesnike u saobraćaju na vremenske prilike",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4440893-ne-prestaju-da-stizu-upozorenja-i-apeli-nakon-rhmz-a-oglasili-se-i-putevi-srbije-tice-se-vremenskih-prilika",
+   "title": "Ne prestaju da stižu upozorenja i apeli! Nakon RHMZ-a oglasili se i Putevi Srbije: Tiče se vremenskih prilika",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288572/jakov-milatovic-se-sastao-sa-cupicem-zelim-da-odnosi-crne-gore-i-srbije-budu-primer-dobrosusedstva/vest",
+   "title": "Jakov Milatović se sastao sa Čupićem: \"Želim da odnosi Crne Gore i Srbije budu primer dobrosusedstva\"",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/288582/oglasio-se-srpski-meteorolog-pocinje/vest",
+   "title": "Oglasio se srpski meteorolog; \"Počinje...\"",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/turska-uvela-vize-za-drzavljane-crne-gore/",
+   "title": "Turska uvela vize za državljane Crne Gore",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -570,7 +600,12 @@
   "Tri upozorenja RHMZ: Stižu obilne padavine, snežna vejavica i olujni vetar",
   "Erdogan potpisao lično; Crnogorci, udarac je uzvraćen",
   "Zagrljaj mladoženje i šuraka pokrenuo rasprave na mrežama: \"Biće nas troje u ovom braku\" (Video)",
-  "MILATOVIĆ SA ČUPIĆEM: Vreme je za novo poglavlje u odnosima Crne Gore i Srbije"
+  "MILATOVIĆ SA ČUPIĆEM: Vreme je za novo poglavlje u odnosima Crne Gore i Srbije",
+  "Putevi Srbije upozoravaju učesnike u saobraćaju na vremenske prilike",
+  "Ne prestaju da stižu upozorenja i apeli! Nakon RHMZ-a oglasili se i Putevi Srbije: Tiče se vremenskih prilika",
+  "Jakov Milatović se sastao sa Čupićem: \"Želim da odnosi Crne Gore i Srbije budu primer dobrosusedstva\"",
+  "Oglasio se srpski meteorolog; \"Počinje...\"",
+  "Turska uvela vize za državljane Crne Gore"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -583,7 +618,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 40,
+ "novo_od_pisanja": 45,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6

@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-27T10:14:47.695581+00:00",
- "updated": "2026-11-27T10:29:58.317031+00:00",
+ "updated": "2026-11-27T10:48:25.392298+00:00",
  "sources": [
   {
    "name": "N1",
@@ -41,11 +41,25 @@
    "url": "https://www.danas.rs/vesti/ekonomija/putevi-srbije-raspisali-tender-za-projektovanje-rekonstrukcije-drumskog-dela-pancevackog-mosta/",
    "title": "Putevi Srbije raspisali tender za projektovanje rekonstrukcije drumskog dela Pančevačkog mosta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/301445/raspisan-tender-za-izradu-tehnicke-dokumentacije-za-rekonstrukciju-pancevackog-mosta/vest",
+   "title": "Raspisan tender za izradu tehničke dokumentacije za rekonstrukciju Pančevačkog mosta",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4440903-za-rekonstrukciju-pancevackog-mosta-spremno-110-miliona-dinara-evo-sta-ce-se-ovaj-put-sanirati",
+   "title": "Za rekonstrukciju Pančevačkog mosta spremno 110 miliona dinara: Evo šta će se ovaj put sanirati",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Raspisan tender za projekat rekonstrukcije drumskog dela Pančevačkog mosta",
-  "Putevi Srbije raspisali tender za projektovanje rekonstrukcije drumskog dela Pančevačkog mosta"
+  "Putevi Srbije raspisali tender za projektovanje rekonstrukcije drumskog dela Pančevačkog mosta",
+  "Raspisan tender za izradu tehničke dokumentacije za rekonstrukciju Pančevačkog mosta",
+  "Za rekonstrukciju Pančevačkog mosta spremno 110 miliona dinara: Evo šta će se ovaj put sanirati"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +72,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:View_from_the_Pan%C4%8Devo_Bridge_(%D0%9F%D0%B0%D0%BD%D1%87%D0%B5%D0%B2%D0%B0%D1%87%D0%BA%D0%B8_%D0%BC%D0%BE%D1%81%D1%82)_to_train_station_with_the_same_name._Belgrade,_Serbia_-_panoramio.jpg",
   "alt": "Putevi Srbije raspisali tender za projekat rekonstrukcije Pančevačkog mosta"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

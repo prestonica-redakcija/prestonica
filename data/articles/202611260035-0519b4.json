@@ -33,7 +33,7 @@
  ],
  "importance": 7,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-27T10:14:47.695581+00:00",
+ "updated": "2026-11-27T10:48:25.392298+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -460,6 +460,18 @@
    "url": "https://www.youtube.com/watch?v=AHBTXO1v6Aw",
    "title": "Gašić: Ovo je klasičan politički progon",
    "spektar": "stranka"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301416/odrzan-skup-podrske-draganu-j-vucicevicu-ispred-centralnog-zatvora/vest",
+   "title": "Održan skup podrške Draganu J. Vučićeviću ispred Centralnog zatvora",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/zaposleni-na-informeru-i-poslanici-sns-protestuju-ispred-centralnog-zatvora/",
+   "title": "Zaposleni na Informeru i poslanici SNS protestuju ispred Centralnog zatvora",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -533,7 +545,9 @@
   "Ispred Centralnog zatvora skup podrške zbog pritvora Dragana J. Vučićevića",
   "Zaposleni na TV Informer i poslanici SNS ispred Centralnog zatvora: „Vučićević je politički zatvorenik“",
   "Stanivuković odgovorio Igoru Dodiku i najavio predloge dva nova zakona",
-  "Gašić: Ovo je klasičan politički progon"
+  "Gašić: Ovo je klasičan politički progon",
+  "Održan skup podrške Draganu J. Vučićeviću ispred Centralnog zatvora",
+  "Zaposleni na Informeru i poslanici SNS protestuju ispred Centralnog zatvora"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -546,7 +560,7 @@
   "alt": "Car entering a brightly lit tunnel at night",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 13,
+ "novo_od_pisanja": 15,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:15:12.934903+00:00",
  "verzija": 11
