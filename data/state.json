@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.kurir.rs/zabava/zena/10168345/domacice-otkrile-caku-za-pakovanje-pecenih-paprika": "2026-11-22T04:40:46.907570+00:00",
   "https://www.kurir.rs/planeta/10168818/autobus-izleteo-na-trotoar-u-seulu-sest-osoba-povredjeno": "2026-11-22T05:10:29.125942+00:00",
   "https://www.kurir.rs/stars/10101284/ceca-raznatovic-na-imanju-na-kipru-ima-kapelu": "2026-11-22T05:10:29.125942+00:00",
   "https://www.euronews.rs/svet/fokus/253081/indijski-kongres-najavio-nove-proteste-protiv-mete/vest": "2026-11-22T05:40:12.422336+00:00",
@@ -5986,18 +5985,15 @@
   "https://www.euronews.rs/biznis/novac/253877/kurs-evra-danas-kursna-lista-nbs-za-27-novembar/vest": "2026-11-27T04:10:53.885456+00:00",
   "https://aero.telegraf.rs/generalna-avijacija/4440741-atr-72-ce-moci-da-slece-na-vodu-francuska-kompanija-razvija-protivpozarnu-verziju-popularnog-aviona": "2026-11-27T04:10:53.885456+00:00",
   "https://www.telegraf.rs/vesti/srbija/4440572-danas-oblacno-mestimicno-sa-kisom-najvisa-dnevna-do-13c": "2026-11-27T04:26:57.233748+00:00",
-  "https://www.kurir.rs/vesti/beograd/10173734/bez-vode-danas-u-beogradu-surcin": "2026-11-27T04:26:57.233748+00:00"
+  "https://www.kurir.rs/vesti/beograd/10173734/bez-vode-danas-u-beogradu-surcin": "2026-11-27T04:26:57.233748+00:00",
+  "https://www.euronews.rs/biznis/biznis-lideri/253743/koliko-kosta-najjeftiniji-rolls-royce-automobil/vest": "2026-11-27T04:42:43.266251+00:00",
+  "https://www.kurir.rs/zabava/zena/10173945/posni-pasulj-iz-rerne": "2026-11-27T04:42:43.266251+00:00",
+  "https://www.kurir.rs/vesti/srbija/10173710/improvizacija-stare-dragacevske-svadbe-u-guci": "2026-11-27T04:42:43.266251+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-26T13:21+00:00",
-   "novih": 8,
-   "ukupno": 4956,
-   "sekundi": 731.5
-  },
   {
    "vreme": "2026-11-26T13:39+00:00",
    "novih": 4,
@@ -6351,6 +6347,12 @@
    "novih": 1,
    "ukupno": 5127,
    "sekundi": 871.4
+  },
+  {
+   "vreme": "2026-11-27T04:52+00:00",
+   "novih": 1,
+   "ukupno": 5128,
+   "sekundi": 587.6
   }
  ],
  "licnosti_foto": {
@@ -9097,7 +9099,7 @@
    "slug": "aleksandar-ivanovic-sedeo-sam-u-prostoriji-sa-covekom-koji-6vhn2aan3j8"
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -43047,6 +43049,10 @@
      "naslov": "PR-PDA ATR.72 Passaredo (8167145190).jpg"
     }
    ]
+  },
+  "t:kulturni centar lucani": {
+   "t": 1795754598.6732395,
+   "items": []
   }
  },
  "x_objave": {
@@ -49438,7 +49444,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-27T04:27:59.964784+00:00",
+  "provereno": "2026-11-27T04:43:36.463916+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
