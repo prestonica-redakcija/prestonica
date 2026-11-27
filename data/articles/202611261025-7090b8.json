@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T09:25:09.026225+00:00",
- "updated": "2026-11-26T09:25:09.026225+00:00",
+ "updated": "2026-11-27T07:36:28.834665+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -46,12 +46,26 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4440093-strahuje-se-da-ima-mrtvih-teska-saobracajna-nesreca-na-putu-kovin-bavaniste",
    "title": "Strahuje se da ima mrtvih: Teška saobraćajna nesreća na putu Kovin - Bavanište",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4440761-uzas-kod-velike-plane-sudar-voza-i-automobila-poginuo-musarac",
+   "title": "Užas kod Velike Plane: Sudar voza i automobila, poginuo mušarac",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10174290/sudar-voza-i-automobila-kod-velike-plane",
+   "title": "SUDARILI SE VOZ I AUTOMOBIL, IMA MRTVIH! Teška nesreća kod Velike Plane: Poginula jedna osoba",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "TEŽAK SUDAR NA PUTU KOVIN - BAVANIŠTE: Strahuje se da ima nastradalih, automobili smrskani, jednom fali čitav prednji deo (VIDEO)",
   "TEŠKA NESREĆA KOD KOVINA: Starija žena poginula u sudaru dva automobila, vozač teško povređen",
-  "Strahuje se da ima mrtvih: Teška saobraćajna nesreća na putu Kovin - Bavanište"
+  "Strahuje se da ima mrtvih: Teška saobraćajna nesreća na putu Kovin - Bavanište",
+  "Užas kod Velike Plane: Sudar voza i automobila, poginuo mušarac",
+  "SUDARILI SE VOZ I AUTOMOBIL, IMA MRTVIH! Teška nesreća kod Velike Plane: Poginula jedna osoba"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,5 +77,7 @@
   "local": false,
   "alt": "people walking on street near red and white bus during daytime",
   "link": "https://unsplash.com/@jubilation"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

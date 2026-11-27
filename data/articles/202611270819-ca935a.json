@@ -29,17 +29,24 @@
  ],
  "importance": 5,
  "published": "2026-11-27T07:19:10.485589+00:00",
- "updated": "2026-11-27T07:19:10.485589+00:00",
+ "updated": "2026-11-27T07:36:28.834665+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/biz/svet/vesti/288310/merc-najavio-rezove-u-nemackoj-vise-nemamo-novca-za-sve/vest",
    "title": "Merc najavio rezove u Nemačkoj: \"Više nemamo novca za sve\"",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/288310/vise-nemamo-novca/vest",
+   "title": "\"Više nemamo novca\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Merc najavio rezove u Nemačkoj: \"Više nemamo novca za sve\""
+  "Merc najavio rezove u Nemačkoj: \"Više nemamo novca za sve\"",
+  "\"Više nemamo novca\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Merc: Rekordni budžet Nemačke od 560 milijardi evra opravdan, ali sledi štednja"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

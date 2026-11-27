@@ -35,7 +35,7 @@
  ],
  "importance": 7,
  "published": "2026-11-26T10:43:27.881389+00:00",
- "updated": "2026-11-26T10:43:27.881389+00:00",
+ "updated": "2026-11-27T07:36:28.834665+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -48,11 +48,18 @@
    "url": "https://www.danas.rs/svet/portparol-izraelske-vojske-izrael-spreman-da-napadne-iran-i-bez-podrske-sad/",
    "title": "Portparol izraelske vojske: Izrael spreman da napadne Iran i bez podrške SAD",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/svet/fokus/253885/rat-na-bliskom-istoku-najnovije-vesti-za-27-novembar/vest",
+   "title": "KRIZA NA BLISKOM ISTOKU: Dva izraelska vazdušna napada u Gazi, ima žrtava",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "KRIZA NA BLISKOM ISTOKU: Izrael spreman da napadne Iran u svakom trenutku, čak i bez Amerikanaca (FOTO)",
-  "Portparol izraelske vojske: Izrael spreman da napadne Iran i bez podrške SAD"
+  "Portparol izraelske vojske: Izrael spreman da napadne Iran i bez podrške SAD",
+  "KRIZA NA BLISKOM ISTOKU: Dva izraelska vazdušna napada u Gazi, ima žrtava"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,5 +72,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu,_February_2023.jpg",
   "osoba": "Benjamin Netanjahu",
   "alt": "Izraelska vojska: spremni smo da napadnemo Iran u svakom trenutku, i bez SAD"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

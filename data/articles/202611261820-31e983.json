@@ -34,7 +34,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T17:20:53.866188+00:00",
- "updated": "2026-11-27T05:13:03.424369+00:00",
+ "updated": "2026-11-27T07:36:28.834665+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
@@ -89,6 +89,12 @@
    "url": "https://www.telegraf.rs/vesti/svet/4440744-snazna-oluja-paralisala-delove-amerike-900000-ljudi-bez-struje-urusila-se-dvorana-izvlace-ljude-iz-poplava",
    "title": "Snažna oluja paralisala delove Amerike: 900.000 ljudi bez struje, urušila se dvorana, izvlače ljude iz poplava",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/301382/oluje-i-poplave-pogodile-veliki-deo-sad-vise-od-900000-korisnika-bez-struje/vest",
+   "title": "Oluje i poplave pogodile veliki deo SAD, više od 900.000 korisnika bez struje",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -100,7 +106,8 @@
   "Više stotina letova širom SAD-a otkazano, a više od 1.500 kasni zbog oluja",
   "Nevreme poremetilo aviosaobraćaj u SAD: Otkazano skoro 400 letova, na hiljade putnika zaglavljeno na aerodromima",
   "Amerika na udaru snažne oluje: Više od 800.000 ljudi bez struje; Dve države proglasile vanredno stanje VIDEO",
-  "Snažna oluja paralisala delove Amerike: 900.000 ljudi bez struje, urušila se dvorana, izvlače ljude iz poplava"
+  "Snažna oluja paralisala delove Amerike: 900.000 ljudi bez struje, urušila se dvorana, izvlače ljude iz poplava",
+  "Oluje i poplave pogodile veliki deo SAD, više od 900.000 korisnika bez struje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -113,8 +120,8 @@
   "alt": "a car driving down a snow covered street",
   "link": "https://unsplash.com/@clayleconey"
  },
- "novo_od_pisanja": 2,
- "boost": 1.56,
+ "novo_od_pisanja": 3,
+ "boost": 1.6,
  "prepisano": "2026-11-26T22:16:39.173534+00:00",
  "verzija": 2
 }

@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-27T06:49:15.064156+00:00",
- "updated": "2026-11-27T07:04:06.020092+00:00",
+ "updated": "2026-11-27T07:36:28.834665+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -38,11 +38,18 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/253898/crni-petak-poceo-ali-kupce-ceka-i-jedna-zamka/vest",
    "title": "Popusti do 70 odsto u Srbiji: Crni petak počeo, ali kupce čeka i jedna zamka",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4440773-crni-petak-u-srbiji-pocinje-veliki-soping-spektakl-kupci-nestrpljivo-cekaju-trgovci-najavili-velike-popuste",
+   "title": "Crni petak u Srbiji: Počinje veliki šoping spektakl, kupci nestrpljivo čekaju, trgovci najavili velike popuste",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Danas je \"Crni petak\", trgovci u Srbiji najavili popuste i do 70 odsto",
-  "Popusti do 70 odsto u Srbiji: Crni petak počeo, ali kupce čeka i jedna zamka"
+  "Popusti do 70 odsto u Srbiji: Crni petak počeo, ali kupce čeka i jedna zamka",
+  "Crni petak u Srbiji: Počinje veliki šoping spektakl, kupci nestrpljivo čekaju, trgovci najavili velike popuste"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,6 +62,6 @@
   "alt": "save up to 50% Black Friday clip art",
   "link": "https://unsplash.com/@ashkfor121"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
