@@ -32,7 +32,7 @@
  ],
  "importance": 7,
  "published": "2026-11-26T23:03:45.194421+00:00",
- "updated": "2026-11-26T23:03:45.194421+00:00",
+ "updated": "2026-11-27T05:45:26.361221+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -45,11 +45,18 @@
    "url": "https://informer.rs/politika/vesti/1173581/konferencija-za-medije-ans-cz-vucicevic",
    "title": "Dole lanci i okovi, ne vežu se sokolovi! U 9.30 konferencija za štampu zaposlenih u Informeru i ANS ispred CZ - Dođite u što većem broju!",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173588/konferencija-za-medije-ans-informer-cz",
+   "title": "BORBA ZA SLOBODU MEDIJA! Danas u 9.30 konferencija za štampu zaposlenih u Informeru i ANS ispred CZ",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "SKUP PODRŠKE VUČIĆEVIĆU: Sutra u 9.30 konferencija za štampu zaposlenih u Informeru i ANS ispred CZ",
-  "Dole lanci i okovi, ne vežu se sokolovi! U 9.30 konferencija za štampu zaposlenih u Informeru i ANS ispred CZ - Dođite u što većem broju!"
+  "Dole lanci i okovi, ne vežu se sokolovi! U 9.30 konferencija za štampu zaposlenih u Informeru i ANS ispred CZ - Dođite u što većem broju!",
+  "BORBA ZA SLOBODU MEDIJA! Danas u 9.30 konferencija za štampu zaposlenih u Informeru i ANS ispred CZ"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,5 +68,7 @@
   "local": false,
   "alt": "woman holding does anything even matter anymore? signage near building at daytime",
   "link": "https://unsplash.com/@heathermount"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

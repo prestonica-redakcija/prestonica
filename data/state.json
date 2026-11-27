@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.euronews.rs/svet/fokus/253081/indijski-kongres-najavio-nove-proteste-protiv-mete/vest": "2026-11-22T05:40:12.422336+00:00",
-  "https://www.euronews.rs/biznis/biznis-vesti/253086/evropa-ili-kina-ko-zaista-pravi-bolje-elektromotore/vest": "2026-11-22T05:40:12.422336+00:00",
   "https://www.kurir.rs/stars/10168823/uslikali-smo-seku-aleksic-na-letu-za-bec": "2026-11-22T05:55:13.355181+00:00",
   "https://www.kurir.rs/zabava/zanimljivosti/10166172/zavoleli-se-u-ausvicu-pa-se-sreli-posle-72-godine-ispovest": "2026-11-22T05:55:13.355181+00:00",
   "https://www.kurir.rs/stars/10168776/mracni-detalji-proslosti-milana-stankovica": "2026-11-22T05:55:13.355181+00:00",
@@ -5993,18 +5991,16 @@
   "https://www.telegraf.rs/vesti/beograd/4440555-najavljena-iskljucenja-struje-30-novembra-u-delovima-devet-opstina-u-beogradu": "2026-11-27T05:13:03.424369+00:00",
   "https://www.kurir.rs/vesti/beograd/10173479/bez-struje-danas-u-beogradu": "2026-11-27T05:13:03.424369+00:00",
   "https://n1info.rs/vesti/na-danasnji-dan-27-novembar-umro-pesnik-horacije-rodjen-fizicar-celzijus/": "2026-11-27T05:13:03.424369+00:00",
-  "https://www.kurir.rs/stars/10173338/davro-ebner-iz-regine-o-poreklu": "2026-11-27T05:29:13.703272+00:00"
+  "https://www.kurir.rs/stars/10173338/davro-ebner-iz-regine-o-poreklu": "2026-11-27T05:29:13.703272+00:00",
+  "https://informer.rs/politika/vesti/1173588/konferencija-za-medije-ans-informer-cz": "2026-11-27T05:45:26.361221+00:00",
+  "https://www.telegraf.rs/vesti/beograd/4440748-pet-osoba-povredjeno-tokom-noci-u-udesima-u-beogradu-oglasila-se-hitna-pomoc": "2026-11-27T05:45:26.361221+00:00",
+  "https://www.euronews.rs/biznis/biznis-lideri/253738/queen-ann-ravioli-porodicni-biznis-iz-bruklina/vest": "2026-11-27T05:45:26.361221+00:00",
+  "https://www.kurir.rs/stars/10173817/sandra-resic-opet-izvredjala-jelenu-karleusu": "2026-11-27T05:45:26.361221+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-26T14:24+00:00",
-   "novih": 7,
-   "ukupno": 4983,
-   "sekundi": 838.1
-  },
   {
    "vreme": "2026-11-26T14:38+00:00",
    "novih": 4,
@@ -6358,6 +6354,12 @@
    "novih": 0,
    "ukupno": 5129,
    "sekundi": 913.2
+  },
+  {
+   "vreme": "2026-11-27T05:57+00:00",
+   "novih": 0,
+   "ukupno": 5129,
+   "sekundi": 735.7
   }
  ],
  "licnosti_foto": {
@@ -22043,164 +22045,6 @@
   }
  },
  "foto_cache": {
-  "t:jahorina": {
-   "t": 1795152837.3495584,
-   "items": [
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Jahorina_-_2011_-_panoramio_-_nikola_pu_%284%29.jpg/1920px-Jahorina_-_2011_-_panoramio_-_nikola_pu_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3968,
-     "h": 2976,
-     "god": 2011,
-     "credit": "Wikimedia Commons / nikola_pu / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_2011_-_panoramio_-_nikola_pu_(4).jpg",
-     "naslov": "Jahorina - 2011 - panoramio - nikola pu (4).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Jahorina_-_app_danica_-_2011_-_panoramio.jpg/1920px-Jahorina_-_app_danica_-_2011_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3968,
-     "h": 2976,
-     "god": 2011,
-     "credit": "Wikimedia Commons / nikola_pu / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_app_danica_-_2011_-_panoramio.jpg",
-     "naslov": "Jahorina - app danica - 2011 - panoramio.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Jahorina_-_panoramio_%286%29.jpg/1920px-Jahorina_-_panoramio_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4000,
-     "h": 3000,
-     "god": 2012,
-     "credit": "Wikimedia Commons / BrsJvnvc / CC BY 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_panoramio_(6).jpg",
-     "naslov": "Jahorina - panoramio (6).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Jahorina_from_Trebevi%C4%87_1.jpg/1920px-Jahorina_from_Trebevi%C4%87_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3900,
-     "h": 2600,
-     "god": 2017,
-     "credit": "Wikimedia Commons / Julian Nyča / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_from_Trebevi%C4%87_1.jpg",
-     "naslov": "Jahorina from Trebević 1.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/%D0%88%D0%B0%D1%85%D0%BE%D1%80%D0%B8%D0%BD%D0%B0_1_ZPP001.jpg/1920px-%D0%88%D0%B0%D1%85%D0%BE%D1%80%D0%B8%D0%BD%D0%B0_1_ZPP001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3773,
-     "h": 2515,
-     "god": 2018,
-     "credit": "Wikimedia Commons / Svjetlopis, Vladimir Tadic / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%D0%88%D0%B0%D1%85%D0%BE%D1%80%D0%B8%D0%BD%D0%B0_1_ZPP001.jpg",
-     "naslov": "Јахорина 1 ZPP001.jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Road_to_Jahorina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1024,
-     "h": 768,
-     "god": 2009,
-     "credit": "Wikimedia Commons / Ratko Bozovic from BgD, Sr / CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Road_to_Jahorina.jpg",
-     "naslov": "Road to Jahorina.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Jahorina_-_panoramio_%285%29.jpg/1920px-Jahorina_-_panoramio_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4000,
-     "h": 3000,
-     "god": 2012,
-     "credit": "Wikimedia Commons / BrsJvnvc / CC BY 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_panoramio_(5).jpg",
-     "naslov": "Jahorina - panoramio (5).jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Jahorina_November_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 960,
-     "h": 541,
-     "god": 2016,
-     "credit": "Wikimedia Commons / Uncica / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_November_.jpg",
-     "naslov": "Jahorina November .jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Jahorina_-_2011_-_panoramio_-_nikola_pu_%282%29.jpg/1920px-Jahorina_-_2011_-_panoramio_-_nikola_pu_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3968,
-     "h": 2976,
-     "god": 2011,
-     "credit": "Wikimedia Commons / nikola_pu / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_2011_-_panoramio_-_nikola_pu_(2).jpg",
-     "naslov": "Jahorina - 2011 - panoramio - nikola pu (2).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Jahorina_-_2011_-_panoramio_-_nikola_pu.jpg/1920px-Jahorina_-_2011_-_panoramio_-_nikola_pu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3968,
-     "h": 2976,
-     "god": 2011,
-     "credit": "Wikimedia Commons / nikola_pu / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_2011_-_panoramio_-_nikola_pu.jpg",
-     "naslov": "Jahorina - 2011 - panoramio - nikola pu.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Jahorina_-_panoramio_%281%29.jpg/1920px-Jahorina_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4000,
-     "h": 3000,
-     "god": 2012,
-     "credit": "Wikimedia Commons / BrsJvnvc / CC BY 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_panoramio_(1).jpg",
-     "naslov": "Jahorina - panoramio (1).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/IMGP3064_Jahorina_sa_Trebevi%C4%87a.jpg/1920px-IMGP3064_Jahorina_sa_Trebevi%C4%87a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2048,
-     "h": 1536,
-     "god": 2008,
-     "credit": "Wikimedia Commons / Zavičajac / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:IMGP3064_Jahorina_sa_Trebevi%C4%87a.jpg",
-     "naslov": "IMGP3064 Jahorina sa Trebevića.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Jahorina_-_Radarstation_02.jpg/1920px-Jahorina_-_Radarstation_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5184,
-     "h": 3456,
-     "god": 2014,
-     "credit": "Wikimedia Commons / spacebirdy(also known as geimfyglið (:&gt; )=| made with Ste / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_Radarstation_02.jpg",
-     "naslov": "Jahorina - Radarstation 02.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Jahorina_-_2011_-_panoramio.jpg/1920px-Jahorina_-_2011_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3968,
-     "h": 2976,
-     "god": 2011,
-     "credit": "Wikimedia Commons / nikola_pu / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_2011_-_panoramio.jpg",
-     "naslov": "Jahorina - 2011 - panoramio.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Jahorina_-_2011_-_panoramio_-_nikola_pu_%281%29.jpg/1920px-Jahorina_-_2011_-_panoramio_-_nikola_pu_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2976,
-     "h": 3968,
-     "god": 2011,
-     "credit": "Wikimedia Commons / nikola_pu / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_-_2011_-_panoramio_-_nikola_pu_(1).jpg",
-     "naslov": "Jahorina - 2011 - panoramio - nikola pu (1).jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Jahorina_Jabuka_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1711,
-     "h": 1141,
-     "god": 2013,
-     "credit": "Wikimedia Commons / Julian Nyča / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_Jabuka_2.JPG",
-     "naslov": "Jahorina Jabuka 2.JPG"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Jahorina_043.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1437,
-     "h": 1078,
-     "god": 2013,
-     "credit": "Wikimedia Commons / Mario Knezović / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Jahorina_043.jpg",
-     "naslov": "Jahorina 043.jpg"
-    }
-   ]
-  },
   "t:milan uskokovic": {
    "t": 1795154704.7487237,
    "items": []
@@ -43314,15 +43158,10 @@
    "202611261820-9a99b4",
    "202611261749-6190f6",
    "202611270019-5058c9",
-   "202611270207-b5f5d3"
+   "202611270207-b5f5d3",
+   "202611270119-d45150"
   ],
   "istorija": [
-   {
-    "t": 1795152870.6613429,
-    "id": "202611200121-ca3a54",
-    "x": "2123651175497306573",
-    "link": false
-   },
    {
     "t": 1795157360.034878,
     "id": "202611200718-56c02d",
@@ -44486,6 +44325,12 @@
     "id": "202611270207-b5f5d3",
     "x": "2126182743612510687",
     "link": true
+   },
+   {
+    "t": 1795758371.5500371,
+    "id": "202611270119-d45150",
+    "x": "2126190830201233575",
+    "link": false
    }
   ],
   "ankete": {
@@ -49346,7 +49191,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-27T05:29:56.629688+00:00",
+  "provereno": "2026-11-27T05:46:24.467205+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },

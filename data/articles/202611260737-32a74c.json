@@ -3,20 +3,20 @@
  "slug": "u-tri-saobracajne-nesrece-u-beogradu-tokom-noci-povredjene-cetiri",
  "kind": "vest",
  "section": "hronika",
- "headline": "U tri saobraćajne nesreće u Beogradu tokom noći povređene četiri osobe",
- "lead": "U tri saobraćajne nezgode koje su se protekle noći dogodile u Beogradu povređene su četiri osobe, saopštila je Hitna pomoć. Prema dostupnim izveštajima, povrede su lakše prirode.",
+ "headline": "Pet osoba lakše povređeno u tri saobraćajne nezgode u Beogradu tokom noći",
+ "lead": "Pet osoba lakše je povređeno u tri saobraćajne nezgode koje su se protekle noći dogodile u Beogradu, rečeno je Tanjugu u Hitnoj pomoći. Prethodne noći, prema ranijim izveštajima, u tri nezgode povređene su četiri osobe.",
  "body": [
-  "Telegraf prenosi da je Tanjugu u Hitnoj pomoći rečeno da su u tri saobraćajne nesreće četiri osobe lakše povređene. Isto navode Nova i N1, pozivajući se na Betu i podatke Hitne pomoći.",
-  "Prema pisanju B92, dve povređene osobe prevezene su u bolnice, dok su druge dve zbrinute na licu mesta.",
-  "Hitna pomoć je tokom noći ukupno intervenisala, a od toga je 18 intervencija bilo na javnim mestima. Za pomoć su se najčešće javljali hronični bolesnici, navode mediji.",
-  "Mediji se razlikuju u podatku o ukupnom broju intervencija: B92, pozivajući se na Tanjug, navodi 142, dok Nova i N1, pozivajući se na Betu, navode 149 intervencija. Izvori ne objašnjavaju razliku.",
-  "U dostupnim izveštajima nema podataka o lokacijama nesreća ni o njihovim uzrocima."
+  "Kako prenosi Telegraf pozivajući se na Tanjug, ekipe Hitne pomoći imale su tokom noći ukupno 131 intervenciju, od čega je 17 bilo na javnim mestima.",
+  "Pored zbrinjavanja povređenih u saobraćajnim nezgodama, lekari su pomagali i građanima sa različitim zdravstvenim tegobama. Za pomoć su se najčešće javljali hronični bolesnici, kao i osobe koje su se žalile na bolove u grudima.",
+  "Telegraf navodi da više detalja o okolnostima nezgoda i o lokacijama na kojima su se dogodile za sada nije saopšteno.",
+  "Za poređenje, prethodne noći Hitna pomoć je prijavila tri nezgode u kojima su četiri osobe lakše povređene. Prema pisanju B92, dve povređene osobe tada su prevezene u bolnice, a druge dve zbrinute su na licu mesta.",
+  "Mediji su za prethodnu noć naveli različite podatke o ukupnom broju intervencija: B92, pozivajući se na Tanjug, naveo je 142, a Nova i N1, pozivajući se na Betu, 149, od čega 18 na javnim mestima. Izvori ne objašnjavaju razliku."
  ],
  "tags": [
   "Hitna pomoć",
-  "saobraćajne nesreće",
+  "saobraćajne nezgode",
   "Beograd",
-  "hronika"
+  "intervencije"
  ],
  "people": [],
  "places": [
@@ -24,7 +24,7 @@
  ],
  "importance": 2,
  "published": "2026-11-26T06:37:04.447175+00:00",
- "updated": "2026-11-26T09:25:09.026225+00:00",
+ "updated": "2026-11-27T05:45:26.361221+00:00",
  "sources": [
   {
    "name": "N1",
@@ -67,6 +67,12 @@
    "url": "https://www.kurir.rs/vesti/beograd/10173359/cetvoro-povredjenih-u-tri-udesa",
    "title": "NOĆ U BEOGRADU: Četvoro povređenih u tri udesa",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/beograd/4440748-pet-osoba-povredjeno-tokom-noci-u-udesima-u-beogradu-oglasila-se-hitna-pomoc",
+   "title": "Pet osoba povređeno tokom noći u udesima u Beogradu: Oglasila se Hitna pomoć",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -76,7 +82,8 @@
   "Hitna: U Beogradu tokom noći tri saobraćajne nesreće, četiri osobe lakše povređene",
   "Najmanje sedam osoba povređeno u ruskom napadu na Kijev tokom noći",
   "Hitna pomoć: U Beogradu tokom noći tri saobraćajne nesreće, četiri osobe lakše povređene",
-  "NOĆ U BEOGRADU: Četvoro povređenih u tri udesa"
+  "NOĆ U BEOGRADU: Četvoro povređenih u tri udesa",
+  "Pet osoba povređeno tokom noći u udesima u Beogradu: Oglasila se Hitna pomoć"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -89,6 +96,8 @@
   "alt": "red vehicle in timelapse photography",
   "link": "https://unsplash.com/@camstejim"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 0,
+ "boost": 1.32,
+ "prepisano": "2026-11-27T05:45:26.361221+00:00",
+ "verzija": 2
 }
