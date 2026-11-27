@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T09:25:09.026225+00:00",
- "updated": "2026-11-27T16:30:13.022148+00:00",
+ "updated": "2026-11-27T18:14:38.111504+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -106,6 +106,12 @@
    "url": "https://www.kurir.rs/crna-hronika/10175000/teska-nesreca-kod-naplatne-rampe-sudar-kamiona-i-automobila",
    "title": "TEŠKA NESREĆA KOD NAPLATNE RAMPE: Sudarili se kamioni i automobil - Hitna pomoć na licu mesta (foto+video)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4441155-na-dve-lokacije-u-beogradu-oboreni-pesaci-muskarac-ima-jake-bolove-povredjena-i-starica",
+   "title": "Više saobraćajki u Beogradu jedna za drugom, oboreni pešaci: Muškarac ima jake bolove, povređena i starica",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -121,7 +127,8 @@
   "Pešak poginuo u Zemunu: Udario ga automobil kada je pokušao da pređe Novi novosadski put",
   "Automobil usmrtio pešaka u Zemunu",
   "AUTOMOBIL POKOSIO PEŠAKA! Detalji stravične nesreće kod Zemunu: Muškarac stradao na licu mesta",
-  "TEŠKA NESREĆA KOD NAPLATNE RAMPE: Sudarili se kamioni i automobil - Hitna pomoć na licu mesta (foto+video)"
+  "TEŠKA NESREĆA KOD NAPLATNE RAMPE: Sudarili se kamioni i automobil - Hitna pomoć na licu mesta (foto+video)",
+  "Više saobraćajki u Beogradu jedna za drugom, oboreni pešaci: Muškarac ima jake bolove, povređena i starica"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -134,6 +141,6 @@
   "alt": "people walking on street near red and white bus during daytime",
   "link": "https://unsplash.com/@jubilation"
  },
- "novo_od_pisanja": 10,
+ "novo_od_pisanja": 11,
  "boost": 1.6
 }

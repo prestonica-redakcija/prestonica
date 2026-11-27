@@ -32,7 +32,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-27T17:57:59.926303+00:00",
+ "updated": "2026-11-27T18:14:38.111504+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -1035,6 +1035,54 @@
    "url": "https://nova.rs/vesti/politika/predsednik-hrvatske-o-susretu-sa-aleksandrom-upicem/",
    "title": "\"Možemo da razgovaramo, a da se jedan drugom ne unosimo u lice, pred nama su bolja vremena\": Predsednik Hrvatske o susretu sa Aleksandrom Čupićem",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/video/novi-dan/tema-jutra-parlamentarni-predsednicki-a-lokal/",
+   "title": "Tema jutra: Parlamentarni, predsednički, a lokal?",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/sport/kosarka/4441158-studenti-ponovo-pobedjuju-se-oglasili-zbog-dejana-bodiroge",
+   "title": "Dejan Bodiroga se oglasio otvorenim pismom posle ostavke",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/sport/kosarka/oglasio-se-dejan-bodiroga-nakon-sto-je-dao-ostavku-na-mesto-poslanika-otkrio-zasto-se-povukao-foto/",
+   "title": "Oglasio se Dejan Bodiroga nakon što je dao ostavku na mesto poslanika, otkrio zašto se povukao FOTO",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288730/oglasili-se-studenti-u-blokadi-ovo-je-zvanican-dopis-dejana-bodiroge-o-ostavci/vest",
+   "title": "Oglasili se \"Studenti u blokadi\": Ovo je zvaničan dopis Dejana Bodiroge o ostavci",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/izjava-dejana-bodiroge-povodom-odluke-da-vrati-poslanicki-mandat/",
+   "title": "\"Čast mi je što sam bio deo reprezentacije Slobode\": Izjava Bodiroge povodom odluke da vrati poslanički mandat",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/ponosan-sam-sto-mi-je-ukazana-cast-da-budem-i-u-reprezentaciji-slobode-dejan-bodiroga-o-ostavci-na-mesto-poslanika/",
+   "title": "„Ponosan sam što mi je ukazana čast da budem i u reprezentaciji Slobode“: Dejan Bodiroga o ostavci na mesto poslanika",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Bez cenzure",
+   "url": "https://www.youtube.com/watch?v=a_6wwrp8SzQ",
+   "title": "Srđan Škoro - Mislim da studenti već sada imaju spremnu vladu!",
+   "spektar": "desnica"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/puf-i-dveri-podrzali-predsednicku-kandidaturu-radomira-saicica/",
+   "title": "PUF i Dveri podržali predsedničku kandidaturu Radomira Saičića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -1204,7 +1252,15 @@
   "Dejan Bodiroga podneo ostavku: Više neće biti narodni poslanik",
   "OGLASIO SE BODIROGA NAKON OSTAVKE Rekao samo jednu rečenicu",
   "Oglasio se Bodiroga nakon ostavke: \"Ostajem uz Studentski pokret\"",
-  "\"Možemo da razgovaramo, a da se jedan drugom ne unosimo u lice, pred nama su bolja vremena\": Predsednik Hrvatske o susretu sa Aleksandrom Čupićem"
+  "\"Možemo da razgovaramo, a da se jedan drugom ne unosimo u lice, pred nama su bolja vremena\": Predsednik Hrvatske o susretu sa Aleksandrom Čupićem",
+  "Tema jutra: Parlamentarni, predsednički, a lokal?",
+  "Dejan Bodiroga se oglasio otvorenim pismom posle ostavke",
+  "Oglasio se Dejan Bodiroga nakon što je dao ostavku na mesto poslanika, otkrio zašto se povukao FOTO",
+  "Oglasili se \"Studenti u blokadi\": Ovo je zvaničan dopis Dejana Bodiroge o ostavci",
+  "\"Čast mi je što sam bio deo reprezentacije Slobode\": Izjava Bodiroge povodom odluke da vrati poslanički mandat",
+  "„Ponosan sam što mi je ukazana čast da budem i u reprezentaciji Slobode“: Dejan Bodiroga o ostavci na mesto poslanika",
+  "Srđan Škoro - Mislim da studenti već sada imaju spremnu vladu!",
+  "PUF i Dveri podržali predsedničku kandidaturu Radomira Saičića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -1217,7 +1273,7 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 127,
+ "novo_od_pisanja": 135,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:45:47.570231+00:00",
  "verzija": 7
