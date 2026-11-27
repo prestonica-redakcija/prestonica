@@ -28,7 +28,7 @@
  ],
  "importance": 3,
  "published": "2026-11-27T15:04:48.416504+00:00",
- "updated": "2026-11-27T15:20:21.674875+00:00",
+ "updated": "2026-11-27T15:35:52.749006+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://www.danas.rs/vesti/politika/na-prijemu-u-ambasadi-uae-i-vucic/",
    "title": "Na prijemu u Ambasadi UAE i Vučić",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173773/aleksandar-vucic-ahmed-hatem-almenhali",
+   "title": "Vučić na obeležavanju Nacionalnog dana UAE: Susret sa ambasadorom Bargašom Almenhalijem",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Ambasada Ujedinjenih Arapskih Emirata obeležava 55. Nacionalni dan Ujedinjenih Arapskih Emirata",
-  "Na prijemu u Ambasadi UAE i Vučić"
+  "Na prijemu u Ambasadi UAE i Vučić",
+  "Vučić na obeležavanju Nacionalnog dana UAE: Susret sa ambasadorom Bargašom Almenhalijem"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,6 +64,6 @@
   "local": true,
   "alt": "Ambasador UAE u Beogradu: spremni smo da nastavimo da jačamo saradnju sa Srbijom"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

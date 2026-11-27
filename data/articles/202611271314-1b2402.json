@@ -34,7 +34,7 @@
  ],
  "importance": 8,
  "published": "2026-11-27T12:14:31.285146+00:00",
- "updated": "2026-11-27T13:14:03.031491+00:00",
+ "updated": "2026-11-27T15:35:52.749006+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -59,13 +59,20 @@
    "url": "https://www.telegraf.rs/4440989-i-mi-imamo-bajdena-na-koga-je-vucic-mislio-reakcija-usledila-posle-kandidature-saicica",
    "title": "\"I mi imamo Bajdena\": Na koga je Vučić mislio, reakcija usledila posle kandidature Saičića",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/kolumne/draza-petrovic/draza-petrovic-kolumna-dnevnik-radomir-saicic/",
+   "title": "Dnevnik Radomira Saičića o samuraju koji bledi i Srbiji do Tokija",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Biografija kandidata Studentske liste akademika Radomira Saičića",
   "Prva reakcija Vučić nakon vesti da je Saičić kandidat Studentske liste za predsednika VIDEO",
   "IME DOBIO PO DEDI KOG SU STRELJALI NEMCI U JAJINCIMA, PRADEDA SABLJOM ISEKAO SAMURAJA! Biografija predsedničkog kandidata Radomira Saičića (VIDEO)",
-  "\"I mi imamo Bajdena\": Na koga je Vučić mislio, reakcija usledila posle kandidature Saičića"
+  "\"I mi imamo Bajdena\": Na koga je Vučić mislio, reakcija usledila posle kandidature Saičića",
+  "Dnevnik Radomira Saičića o samuraju koji bledi i Srbiji do Tokija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,6 +87,6 @@
   "izvor_x": true,
   "alt": "Akademik Radomir Saičić kandidat Studentske liste za predsednika Srbije"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

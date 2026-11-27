@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-27T12:14:31.285146+00:00",
- "updated": "2026-11-27T13:54:38.749331+00:00",
+ "updated": "2026-11-27T15:35:52.749006+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -54,13 +54,20 @@
    "url": "https://www.danas.rs/vesti/ekonomija/dri-zbog-africke-kuge-za-tri-godine-nestalo-vise-od-100-000-svinja/",
    "title": "DRI: Zbog afričke kuge za tri godine nestalo više od 100.000 svinja",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/ogromni-gubici-za-srbiju-zbog-africke-kuge-svinja/",
+   "title": "Ogromni gubici za Srbiju zbog afričke kuge svinja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "DRI: Afrička kuga svinja za tri godine odnela 100.000 grla, naknada štete oko dve milijarde dinara",
   "Za tri godine Afrička kuga svinja odnela preko 104.000 grla: DRI upozorava na propuste u kontroli bolesti",
   "DRI: Afrička kuga svinja u Srbiji za tri godine odnela više od 100.000 grla",
-  "DRI: Zbog afričke kuge za tri godine nestalo više od 100.000 svinja"
+  "DRI: Zbog afričke kuge za tri godine nestalo više od 100.000 svinja",
+  "Ogromni gubici za Srbiju zbog afričke kuge svinja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "alt": "pink pig on brown wooden cage",
   "link": "https://unsplash.com/@diegosan"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

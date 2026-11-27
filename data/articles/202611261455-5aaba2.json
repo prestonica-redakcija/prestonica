@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T13:55:33.392531+00:00",
- "updated": "2026-11-27T12:29:29.006406+00:00",
+ "updated": "2026-11-27T15:35:52.749006+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -55,13 +55,20 @@
    "url": "https://www.danas.rs/vesti/ekonomija/rzs-u-trecem-kvartalu-nezaposlenost-iznosila-77-odsto/",
    "title": "RZS: U trećem kvartalu nezaposlenost iznosila 7,7 odsto",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4441095-objavljeni-vazni-podaci-za-privredu-u-srbiji-nezaposlenost-u-trecem-kvartalu-iznosila-77-odsto",
+   "title": "Objavljeni važni podaci za privredu u Srbiji: Nezaposlenost u trećem kvartalu iznosila 7,7 odsto",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "UNIQA OBJAVILA REZULTATE ZA TREĆI KVARTAL: Dobit porasla za 18,6 odsto, prognoza za 2026. godinu revidirana naviše",
   "U Srbiji u trećem kvartalu stopa nezaposlenosti 7,7 odsto",
   "RZS: U Srbiji u trećem kvartalu 2026. stopa zaposlenosti 51 odsto, nezaposlenosti 7,7 odsto",
-  "RZS: U trećem kvartalu nezaposlenost iznosila 7,7 odsto"
+  "RZS: U trećem kvartalu nezaposlenost iznosila 7,7 odsto",
+  "Objavljeni važni podaci za privredu u Srbiji: Nezaposlenost u trećem kvartalu iznosila 7,7 odsto"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,6 +81,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:W%C5%82odzimierz_Lewoniewski_-_Open_Knowledge_Wikimedia_and_Research_in_the_CEE_Region.jpg",
   "alt": "Uniqa u devet meseci povećala neto dobit za 18,6 odsto, prognoza za 2026. revidirana naviše"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

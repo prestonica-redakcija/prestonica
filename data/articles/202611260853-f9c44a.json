@@ -32,7 +32,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-27T15:20:21.674875+00:00",
+ "updated": "2026-11-27T15:35:52.749006+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -765,6 +765,30 @@
    "url": "https://informer.rs/politika/vesti/1173767/dragan-j-vucicevic-informer",
    "title": "\"Postoje stvari od kojih se ne odustaje samo zato što je teško\": Udarna poruka nakon hapšenja Vučićevića - Evo šta je s Informerom (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/253990/cupic-u-ohridu-ocekujem-novu-vladu-srbije-u-razumnom-roku/vest",
+   "title": "Čupić: Očekujem formiranje Vlade Srbije u razumnom roku",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288687/spo-podrzao-saicica-pred-predsednicke-izbore/vest",
+   "title": "SPO će na predsedničkim izborima podržati Radomira Saičića",
+   "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/novo-lice-srbije-podrzalo-predsednicku-kandidaturu-radomira-saicica/",
+   "title": "Novo lice Srbije podržalo predsedničku kandidaturu Radomira Saičića",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288690/elek-ne-znam-da-li-cemo-podrzati-saicica-odlucice-predsednistvo/vest",
+   "title": "Elek: \"Ne znam da li ćemo podržati Saičića, odlučiće Predsedništvo\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -889,7 +913,11 @@
   "Budući predsednik Srbije, Saičić, poručio milogorcima: Ja sam Srbin iz Crne Gore",
   "Član RIK-a pozvao građane iz inostranstva da se prijave za predsedničke izbore",
   "Novo lice Srbije podržalo predsedničku kandidaturu Radomira Saičića",
-  "\"Postoje stvari od kojih se ne odustaje samo zato što je teško\": Udarna poruka nakon hapšenja Vučićevića - Evo šta je s Informerom (VIDEO)"
+  "\"Postoje stvari od kojih se ne odustaje samo zato što je teško\": Udarna poruka nakon hapšenja Vučićevića - Evo šta je s Informerom (VIDEO)",
+  "Čupić: Očekujem formiranje Vlade Srbije u razumnom roku",
+  "SPO će na predsedničkim izborima podržati Radomira Saičića",
+  "Novo lice Srbije podržalo predsedničku kandidaturu Radomira Saičića",
+  "Elek: \"Ne znam da li ćemo podržati Saičića, odlučiće Predsedništvo\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -902,7 +930,7 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 82,
+ "novo_od_pisanja": 86,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:45:47.570231+00:00",
  "verzija": 7

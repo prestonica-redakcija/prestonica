@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-27T15:20:21.674875+00:00",
+ "updated": "2026-11-27T15:35:52.749006+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -797,6 +797,18 @@
    "url": "https://n1info.rs/vesti/patrijarh-porfirije-i-arhijereji-sluzili-opelo-mitropolitu-irineju-u-novom-sadu/",
    "title": "Patrijarh Porfirije i arhijereji služili opelo mitropolitu Irineju u Novom Sadu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301387/mitropolit-backi-irinej-sahranjen-u-kripti-sabornog-hrama-u-novom-sadu/vest",
+   "title": "Mitropolit bački Irinej sahranjen u kripti Sabornog hrama u Novom Sadu",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/voda-u-blizini-struje-u-skoli-na-novom-beogradu/",
+   "title": "Voda u blizini struje u školi na Novom Beogradu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -927,7 +939,9 @@
   "Patrijarh Porfirije i arhijereji služili opelo mitropolitu Irineju u Novom Sadu",
   "ABS: Dodatni oprez zbog najavljenih snežnih padavina tokom vikenda",
   "Pred nevreme u Srbiji oglasila se i Agencija za bezbednost saobraćaja: Vozačima se savetuje OPREZ",
-  "Patrijarh Porfirije i arhijereji služili opelo mitropolitu Irineju u Novom Sadu"
+  "Patrijarh Porfirije i arhijereji služili opelo mitropolitu Irineju u Novom Sadu",
+  "Mitropolit bački Irinej sahranjen u kripti Sabornog hrama u Novom Sadu",
+  "Voda u blizini struje u školi na Novom Beogradu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -940,7 +954,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 91,
+ "novo_od_pisanja": 93,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6

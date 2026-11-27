@@ -23,17 +23,24 @@
  ],
  "importance": 2,
  "published": "2026-11-26T15:13:30.727796+00:00",
- "updated": "2026-11-26T15:13:30.727796+00:00",
+ "updated": "2026-11-27T15:35:52.749006+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/301261/promet-na-beogradskoj-berzi-oko-2231-miliona-dinara-indeksi-u-plusu/vest",
    "title": "Promet na Beogradskoj berzi oko 22,31 miliona dinara, indeksi u plusu",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1675384/berzanski-izvestaj-promet-beogradskoj-berzi-oko-1-56-miliona-dinara",
+   "title": "BERZANSKI IZVEŠTAJ: Promet na Beogradskoj berzi oko 1,56 miliona dinara",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Promet na Beogradskoj berzi oko 22,31 miliona dinara, indeksi u plusu"
+  "Promet na Beogradskoj berzi oko 22,31 miliona dinara, indeksi u plusu",
+  "BERZANSKI IZVEŠTAJ: Promet na Beogradskoj berzi oko 1,56 miliona dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -45,5 +52,7 @@
   "local": false,
   "alt": "graphical user interface, application",
   "link": "https://unsplash.com/@polarmermaid"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
