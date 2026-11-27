@@ -33,17 +33,24 @@
  ],
  "importance": 5,
  "published": "2026-11-27T12:29:29.006406+00:00",
- "updated": "2026-11-27T12:29:29.006406+00:00",
+ "updated": "2026-11-27T16:30:13.022148+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/crna-hronika/10174665/oglasilo-se-tuzilastvo-15-pokusaja-iznuda-u-novembru-u-beogradu",
    "title": "15 POKUŠAJA IZNUDA PRIJAVLJENO U NOVEMBRU PRVOM OSNOVNOM TUŽILAŠTVU: Zapaljen 21 objekat, skoro svi izvršioci uhapšeni! Upućen hitan apel žrtvama",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/beogradsko-prvo-osnovno-tuzilastvo-objavilo-podatke-o-rasvetljavanju-izazivanja-pozara-i-iznude/",
+   "title": "Beogradsko Prvo osnovno tužilaštvo objavilo podatke o rasvetljavanju izazivanja požara i iznude",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "15 POKUŠAJA IZNUDA PRIJAVLJENO U NOVEMBRU PRVOM OSNOVNOM TUŽILAŠTVU: Zapaljen 21 objekat, skoro svi izvršioci uhapšeni! Upućen hitan apel žrtvama"
+  "15 POKUŠAJA IZNUDA PRIJAVLJENO U NOVEMBRU PRVOM OSNOVNOM TUŽILAŠTVU: Zapaljen 21 objekat, skoro svi izvršioci uhapšeni! Upućen hitan apel žrtvama",
+  "Beogradsko Prvo osnovno tužilaštvo objavilo podatke o rasvetljavanju izazivanja požara i iznude"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "alt": "The 1903 courthouse is shown at sunset",
   "link": "https://unsplash.com/@bamaham93"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

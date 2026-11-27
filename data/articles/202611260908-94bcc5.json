@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T08:08:30.221609+00:00",
- "updated": "2026-11-27T12:44:20.867490+00:00",
+ "updated": "2026-11-27T16:30:13.022148+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -88,6 +88,12 @@
    "url": "https://nova.rs/vesti/svet/ukrajinski-udari-stigli-do-libije-zelenski-otkrio-kako-kijev-koordinira-napade-na-rusku-flotu/",
    "title": "Ukrajinski udari stigli do Libije: Zelenski otkrio kako Kijev koordinira napade na rusku flotu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301558/tajani-demantovao-zelenskog-da-je-ukrajinski-napad-u-libiji-koordinisan-sa-partnerima/vest",
+   "title": "Tajani demantovao Zelenskog da je ukrajinski napad u Libiji koordinisan sa partnerima",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -99,7 +105,8 @@
   "RUSKI NAPAD NA ZAPOROŽJE: Jedna osoba poginula, četiri ranjene! Saobraćaj u gradu potpuno obustavljen!",
   "Rusija opet napala Zaporožje: Ima poginulih i povređenih",
   "Zelenski udario na Trampa",
-  "Ukrajinski udari stigli do Libije: Zelenski otkrio kako Kijev koordinira napade na rusku flotu"
+  "Ukrajinski udari stigli do Libije: Zelenski otkrio kako Kijev koordinira napade na rusku flotu",
+  "Tajani demantovao Zelenskog da je ukrajinski napad u Libiji koordinisan sa partnerima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -113,8 +120,8 @@
   "osoba": "Vitalij Kličko",
   "alt": "Ruski balistički napad na Kijev: pogođen tržni centar, ranjeno najmanje sedam osoba"
  },
- "novo_od_pisanja": 2,
- "boost": 1.56,
+ "novo_od_pisanja": 3,
+ "boost": 1.6,
  "prepisano": "2026-11-27T00:34:57.464001+00:00",
  "verzija": 2
 }

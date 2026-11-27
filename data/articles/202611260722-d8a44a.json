@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-27T16:13:19.447282+00:00",
+ "updated": "2026-11-27T16:30:13.022148+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -839,6 +839,24 @@
    "url": "https://www.kurir.rs/crna-hronika/10174986/U-NESRECI-NA-PRUZI-STRADAO-MLADIC-IZ-LESKOVCA-Nesrecnog-momka-udario-voz-nije-mu-bilo-spasa",
    "title": "U NESREĆI NA PRUZI STRADAO MLADIĆ IZ LESKOVCA: Nesrećnog momka udario voz, nije mu bilo spasa",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301559/u-pojedinim-delovima-beograda-velike-guzve-u-saobracaju/vest",
+   "title": "U pojedinim delovima Beograda velike gužve u saobraćaju",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/beograd/4441115-crni-petak-u-beogradu-ako-vas-put-vodi-ka-mostovima-budite-strpljivi-u-ovim-delovima-grada-su-velike-guzve",
+   "title": "Crni petak u Beogradu, ako vas put vodi ka mostovima, budite strpljivi: U ovim delovima grada su velike gužve",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10175002/upozorenje-rhmz-a-obilne-padavine-i-sneg-u-srbiji",
+   "title": "(MAPA) ALARMANTNO UPOZORENJE RHMZ, STIŽE SNEŽNA VEJAVICA! Oluja i smetovi prete Srbiji već od sutra, pogodiće ova 3 dela zemlje",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -976,7 +994,10 @@
   "Španija: Otkriveni bezbednosni propusti na pruzi u Adamuzu gde je poginulo 46 ljudi",
   "Mitropolit bački Irinej sahranjen u kripti Sabornog hrama u Novom Sadu",
   "RHMZ izdao posebno upozorenje na OPASNU POJAVU i to već za vikend: Pogodiće 3 dela Srbije",
-  "U NESREĆI NA PRUZI STRADAO MLADIĆ IZ LESKOVCA: Nesrećnog momka udario voz, nije mu bilo spasa"
+  "U NESREĆI NA PRUZI STRADAO MLADIĆ IZ LESKOVCA: Nesrećnog momka udario voz, nije mu bilo spasa",
+  "U pojedinim delovima Beograda velike gužve u saobraćaju",
+  "Crni petak u Beogradu, ako vas put vodi ka mostovima, budite strpljivi: U ovim delovima grada su velike gužve",
+  "(MAPA) ALARMANTNO UPOZORENJE RHMZ, STIŽE SNEŽNA VEJAVICA! Oluja i smetovi prete Srbiji već od sutra, pogodiće ova 3 dela zemlje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -989,7 +1010,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 98,
+ "novo_od_pisanja": 101,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6
