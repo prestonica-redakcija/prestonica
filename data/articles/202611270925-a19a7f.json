@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T08:25:16.915436+00:00",
- "updated": "2026-11-27T08:25:16.915436+00:00",
+ "updated": "2026-11-27T08:55:08.081341+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10173902/epidemija-salmonele-u-vrticu-u-vlasotincu-zarazeno-10-dece",
    "title": "Epidemija salmonele u vrtiću, zaraženo 10 dece! Mališani iz različitih grupa imali temperaturu i dijareju - Oglasio se Zavod za javno zdravlje",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/salmonela-vlasotince/",
+   "title": "Južne vesti: Salmonela u vrtićima u Vlasotincu",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Epidemija salmonele u vrtićima u Vlasotincu - roditelji revoltirani",
-  "Epidemija salmonele u vrtiću, zaraženo 10 dece! Mališani iz različitih grupa imali temperaturu i dijareju - Oglasio se Zavod za javno zdravlje"
+  "Epidemija salmonele u vrtiću, zaraženo 10 dece! Mališani iz različitih grupa imali temperaturu i dijareju - Oglasio se Zavod za javno zdravlje",
+  "Južne vesti: Salmonela u vrtićima u Vlasotincu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "alt": "toddler wears blue long-sleeved shirt",
   "link": "https://unsplash.com/@dx_www"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
