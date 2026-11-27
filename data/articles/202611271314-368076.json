@@ -26,7 +26,7 @@
  ],
  "importance": 6,
  "published": "2026-11-27T12:14:31.285146+00:00",
- "updated": "2026-11-27T12:59:08.698024+00:00",
+ "updated": "2026-11-27T13:14:03.031491+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -51,13 +51,20 @@
    "url": "https://www.b92.net/info/hronika/288634/vjt-se-obratilo-institucijama-eu-se-oebs-i-un-zbog-izvestaja-vrhovnog-tuzilastva/vest",
    "title": "VJT u Beogradu se obratilo institucijama EU, SE, OEBS i UN zbog Izveštaja Vrhovnog tužilaštva",
    "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/vjt-beograd-se-obratio-eu-savetu-evrope-oebs-u-i-un-zbog-izvestaja-komisije/",
+   "title": "VJT Beograd se obratio EU, Savetu Evrope, OEBS-u i UN zbog izveštaja Komisije Vrhovnog tužilaštva: Tvrde da su izloženi pritisku",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "VJT poslao dopis EU i UN: Ovo je razlog",
   "Više javno tužilaštvo u Beogradu obratilo se institucijama EU, SE, OEBS i UN zbog Izveštaja Vrhovnog tužilaštva",
   "VIŠE JAVNO TUŽILAŠTVO U BEOGRADU OBRATILO SE EVROPSKIM INSTITUCIJAMA: Traže hitnu reakciju i doslednu primenu evropskih standarda tužilačke samostalnosti",
-  "VJT u Beogradu se obratilo institucijama EU, SE, OEBS i UN zbog Izveštaja Vrhovnog tužilaštva"
+  "VJT u Beogradu se obratilo institucijama EU, SE, OEBS i UN zbog Izveštaja Vrhovnog tužilaštva",
+  "VJT Beograd se obratio EU, Savetu Evrope, OEBS-u i UN zbog izveštaja Komisije Vrhovnog tužilaštva: Tvrde da su izloženi pritisku"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -69,6 +76,6 @@
   "local": true,
   "alt": "Više tužilaštvo u Beogradu pisalo evropskim institucijama zbog izveštaja Komisije"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

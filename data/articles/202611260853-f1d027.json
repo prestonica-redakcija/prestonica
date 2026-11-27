@@ -36,17 +36,24 @@
  ],
  "importance": 4,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-26T07:53:18.497760+00:00",
+ "updated": "2026-11-27T13:14:03.031491+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/svet/samit-eu-odluka-budzet/",
    "title": "Danas počinje samit EU, treba doneti odluku za narednih sedam godina: „Dva suprostavljena bloka, nisu spremna na kompromise“",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/bez-dogovora-o-budzetu-eu-pregovori-se-nastavljaju-u-decembru/",
+   "title": "Bez dogovora o budžetu EU, članice podeljene: Lideri nastavljaju pregovore u decembru",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Danas počinje samit EU, treba doneti odluku za narednih sedam godina: „Dva suprostavljena bloka, nisu spremna na kompromise“"
+  "Danas počinje samit EU, treba doneti odluku za narednih sedam godina: „Dva suprostavljena bloka, nisu spremna na kompromise“",
+  "Bez dogovora o budžetu EU, članice podeljene: Lideri nastavljaju pregovore u decembru"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "row of european union flags",
   "link": "https://unsplash.com/@guillaumeperigois"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

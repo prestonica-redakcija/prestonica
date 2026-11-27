@@ -29,17 +29,31 @@
  ],
  "importance": 6,
  "published": "2026-11-27T12:44:20.867490+00:00",
- "updated": "2026-11-27T12:44:20.867490+00:00",
+ "updated": "2026-11-27T13:14:03.031491+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/prvo-osnovno-tuzilastvo-zbog-paljevina-u-beogradu-smo-formirali-21-predmet-od-cega-su-u-17-rasvetljeni-pocinioci",
    "title": "Prvo osnovno tužilaštvo: Zbog paljevina u Beogradu smo formirali 21 predmet, od čega su u 17 rasvetljeni počinioci",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301497/prvo-osnovno-javno-tuzilastvo-u-2025-i-2026-godini-formiran-21-predmet-povodom-paljenja-lokala-i-automobila/vest",
+   "title": "Prvo osnovno javno tužilaštvo: U 2025. i 2026. godini formiran 21 predmet povodom paljenja lokala i automobila",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/288635/prvo-osnovno-javno-tuzilastvo-u-2025-i-2026-godini-formiran-21-predmet-povodom-paljenja-lokala-i-auta/vest",
+   "title": "Prvo osnovno javno tužilaštvo: U 2025. i 2026. godini formiran 21 predmet povodom paljenja lokala i auta",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Prvo osnovno tužilaštvo: Zbog paljevina u Beogradu smo formirali 21 predmet, od čega su u 17 rasvetljeni počinioci"
+  "Prvo osnovno tužilaštvo: Zbog paljevina u Beogradu smo formirali 21 predmet, od čega su u 17 rasvetljeni počinioci",
+  "Prvo osnovno javno tužilaštvo: U 2025. i 2026. godini formiran 21 predmet povodom paljenja lokala i automobila",
+  "Prvo osnovno javno tužilaštvo: U 2025. i 2026. godini formiran 21 predmet povodom paljenja lokala i auta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +65,7 @@
   "local": false,
   "alt": "low angle photography of building structure",
   "link": "https://unsplash.com/@simplicity"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

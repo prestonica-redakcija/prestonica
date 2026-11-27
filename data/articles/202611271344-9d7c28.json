@@ -30,17 +30,45 @@
  ],
  "importance": 5,
  "published": "2026-11-27T12:44:20.867490+00:00",
- "updated": "2026-11-27T12:44:20.867490+00:00",
+ "updated": "2026-11-27T13:14:03.031491+00:00",
  "sources": [
   {
    "name": "Telegraf",
    "url": "https://www.telegraf.rs/vesti/jugosfera/4440977-otkriveno-koliko-obestecenje-ce-dobiti-porodice-logorasa-iz-lore-inicijativa-andrije-mandica-u-crnoj-gori",
    "title": "Otkriveno koliko obeštećenje će dobiti porodice logoraša iz Lore: Inicijativa Andrije Mandića u Crnoj Gori",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/region/crna-gora/10174713/vlada-cg-za-hrvatske-logorase-iz-morinja-oko-18-miliona-evra",
+   "title": "VLADA CRNE GORE DONELA ODLUKU: Za hrvatske logoraše iz Morinja isplata obeštećenja u iznosu od 18 miliona evra!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/region/vlada-crne-gore-za-hrvatske-logorase-iz-morinja-oko-18-miliona-evra/",
+   "title": "Vlada Crne Gore: Za hrvatske logoraše iz Morinja oko 18 miliona evra, po 120.000 evra i za žrtve \"Lore\"",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/vlada-crne-gore-odlucila-da-obesteti-zrtve-morinja-i-lore/",
+   "title": "Vlada Crne Gore odlučila da obešteti žrtve Morinja i Lore",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/crna-gora-placa-18-miliona-evra-hrvatskim-logorasima-korak-ka-deblokadi-evropskog-puta/",
+   "title": "Crna Gora plaća 18 miliona evra hrvatskim logorašima: Korak ka deblokadi evropskog puta",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Otkriveno koliko obeštećenje će dobiti porodice logoraša iz Lore: Inicijativa Andrije Mandića u Crnoj Gori"
+  "Otkriveno koliko obeštećenje će dobiti porodice logoraša iz Lore: Inicijativa Andrije Mandića u Crnoj Gori",
+  "VLADA CRNE GORE DONELA ODLUKU: Za hrvatske logoraše iz Morinja isplata obeštećenja u iznosu od 18 miliona evra!",
+  "Vlada Crne Gore: Za hrvatske logoraše iz Morinja oko 18 miliona evra, po 120.000 evra i za žrtve \"Lore\"",
+  "Vlada Crne Gore odlučila da obešteti žrtve Morinja i Lore",
+  "Crna Gora plaća 18 miliona evra hrvatskim logorašima: Korak ka deblokadi evropskog puta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +80,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Kralji%C4%8Dina_pla%C5%BEa_(Milo%C4%8Der,_Crna_Gora)_07.jpg",
   "alt": "Vlada Crne Gore odlučila o obeštećenju od 200.000 evra po porodici logoraša iz Lore"
- }
+ },
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
