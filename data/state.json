@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.euronews.rs/biznis/novac/253087/kurs-dinara-od-ponedeljka-evo-koliko-vrede-evro-i-dolar/vest": "2026-11-22T04:11:04.235882+00:00",
-  "https://www.telegraf.rs/vesti/srbija/4437302-pre-podne-suvo-posle-podne-zahladjenje-sa-padavinama-temperatura-do-19": "2026-11-22T04:25:56.495004+00:00",
-  "https://www.kurir.rs/vesti/srbija/10168796/svetski-dan-deteta-interaktivni-koncert-za-malisane": "2026-11-22T04:25:56.495004+00:00",
   "https://www.kurir.rs/zabava/zena/10168345/domacice-otkrile-caku-za-pakovanje-pecenih-paprika": "2026-11-22T04:40:46.907570+00:00",
   "https://www.kurir.rs/planeta/10168818/autobus-izleteo-na-trotoar-u-seulu-sest-osoba-povredjeno": "2026-11-22T05:10:29.125942+00:00",
   "https://www.kurir.rs/stars/10101284/ceca-raznatovic-na-imanju-na-kipru-ima-kapelu": "2026-11-22T05:10:29.125942+00:00",
@@ -5987,18 +5984,14 @@
   "https://www.youtube.com/watch?v=QKLnqnti-xA": "2026-11-27T02:21:41.343177+00:00",
   "https://www.kurir.rs/vesti/srbija/10173552/izlozba-fotografija-o-zivotu-i-radu-ive-andrica": "2026-11-27T03:10:13.130361+00:00",
   "https://www.euronews.rs/biznis/novac/253877/kurs-evra-danas-kursna-lista-nbs-za-27-novembar/vest": "2026-11-27T04:10:53.885456+00:00",
-  "https://aero.telegraf.rs/generalna-avijacija/4440741-atr-72-ce-moci-da-slece-na-vodu-francuska-kompanija-razvija-protivpozarnu-verziju-popularnog-aviona": "2026-11-27T04:10:53.885456+00:00"
+  "https://aero.telegraf.rs/generalna-avijacija/4440741-atr-72-ce-moci-da-slece-na-vodu-francuska-kompanija-razvija-protivpozarnu-verziju-popularnog-aviona": "2026-11-27T04:10:53.885456+00:00",
+  "https://www.telegraf.rs/vesti/srbija/4440572-danas-oblacno-mestimicno-sa-kisom-najvisa-dnevna-do-13c": "2026-11-27T04:26:57.233748+00:00",
+  "https://www.kurir.rs/vesti/beograd/10173734/bez-vode-danas-u-beogradu-surcin": "2026-11-27T04:26:57.233748+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-26T13:08+00:00",
-   "novih": 7,
-   "ukupno": 4948,
-   "sekundi": 1009.0
-  },
   {
    "vreme": "2026-11-26T13:21+00:00",
    "novih": 8,
@@ -6352,6 +6345,12 @@
    "novih": 2,
    "ukupno": 5126,
    "sekundi": 885.4
+  },
+  {
+   "vreme": "2026-11-27T04:41+00:00",
+   "novih": 1,
+   "ukupno": 5127,
+   "sekundi": 871.4
   }
  ],
  "licnosti_foto": {
@@ -6544,6 +6543,34 @@
    "skip": false,
    "viewers": null,
    "slug": "priveden-vlasnik-informera-dragan-j-vucicevic-zvanicne-xnncvsitbn8"
+  },
+  {
+   "id": "XbmF2fcrDK4",
+   "title": "Wie der Rentenstreit die Koalition spaltet",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-27T04:08:00+00:00",
+   "thumb": "https://i.ytimg.com/vi/XbmF2fcrDK4/hqdefault.jpg",
+   "live": "none",
+   "desc": "Die Rentenreform steht auf der Kippe. Ein Kompromissvorschlag der Union zur abschlagsfreien Rente nach 45 Beitragsjahren lehnt die SPD ab, in der Union wächst der Frust. Rasmus Buchsteiner ordnet den Streit um die Respektrente ein und wie das gesamte Milliardenprojekt weiter gefährdet ist.\n\nIm 200-Sekunden-Interview erklärt Pascal Reddig, CDU-Abgeordneter und Mitautor des abgelehnten Papiers, wie es nun weitergehen soll. Er macht deutlich, warum ein Scheitern der Reform fatale Folgen hätte und ob es in der verfahrenen Situation überhaupt noch eine Chance auf Einigung gibt.\n\nAuf EU-Ebene geht derweil der Kampf um den künftigen Finanzrahmen weiter. Während Frankreichs Präsident Emmanuel Macron",
+   "spektar": "centar",
+   "viewers": null,
+   "naslov": "Spor oko penzione reforme u Nemačkoj otvara jaz unutar vladajuće koalicije",
+   "opis": "Penziona reforma u Nemačkoj je, kako se navodi u opisu snimka, u neizvesnosti jer SPD odbija kompromisni predlog Unije o penziji bez umanjenja nakon 45 godina uplata. U snimku novinar Rasmus Buchsteiner objašnjava spor, a u kratkom intervjuu govori CDU poslanik Pascal Reddig.",
+   "tekst": [
+    "U snimku se razmatra spor unutar nemačke vladajuće koalicije oko penzione reforme. Prema opisu, SPD odbija kompromisni predlog Unije o penziji bez umanjenja nakon 45 godina uplata doprinosa, dok u Uniji raste nezadovoljstvo.",
+    "Novinar Rasmus Buchsteiner stavlja spor oko takozvane penzije poštovanja u kontekst i govori o tome kako je ugrožen ceo projekat vredan milijarde.",
+    "U intervjuu od 200 sekundi Pascal Reddig, poslanik CDU i koautor odbijenog papira, govori o tome kako bi trebalo da se nastavi. Prema opisu, objašnjava zašto bi propast reforme imala fatalne posledice i da li u zaoštrenoj situaciji još ima šanse za dogovor.",
+    "Opis snimka pominje i borbu oko budućeg finansijskog okvira EU, ali je tekst opisa na tom mestu prekinut, pa detalji nisu poznati."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "penziona reforma",
+    "Nemačka",
+    "CDU",
+    "SPD",
+    "Pascal Reddig"
+   ],
+   "slug": "spor-oko-penzione-reforme-u-nemackoj-otvara-jaz-unutar-xbmf2fcrdk4"
   },
   {
    "id": "RzGdX59UfyU",
@@ -8791,33 +8818,6 @@
    "slug": "zasto-se-evropski-socijalisti-okrecu-protiv-mete-ww9gwrei-zu"
   },
   {
-   "id": "8e8UclxtZvE",
-   "title": "Die schwierigen Wochen bis Weihnachten des Kanzlers",
-   "kanal": "POLITICO Europe",
-   "published": "2026-11-25T04:04:00+00:00",
-   "thumb": "https://i.ytimg.com/vi/8e8UclxtZvE/hqdefault.jpg",
-   "live": "none",
-   "desc": "Der Jahresendspurt bringt Kanzler Friedrich Merz an die Belastungsgrenze. Neben dem Bundeshaushalt und einem Treffen mit dem Papst droht der toxische Streit um die Rentenreform zwischen SPD und Union zur Zerreißprobe zu werden. Rasmus Buchsteiner ordnet zusammen mit Rixa Fürsen ein, ob der Kanzler sein Wort halten kann und welche Gefahr die mögliche Wahl eines AfD-Ministerpräsidenten in Sachsen-Anhalt für die Bundespolitik unmittelbar birgt.\n\nBeim Ausgleich der kalten Progression verhärten sich die Fronten zwischen Bund und Ländern. Hessens CDU-Ministerpräsident Boris Rhein verteidigt die Blockadehaltung der Länder im 200-Sekunden-Interview. Er macht deutlich, warum die Länder die milliarden",
-   "spektar": "centar",
-   "viewers": null,
-   "naslov": "Merz pred teškim nedeljama do Božića: budžet, papa i spor oko penzija",
-   "opis": "Politico Europe analizira kako se nemački kancelar Fridrih Merc suočava sa krajem godine u kojem se prepliću budžet, susret s papom i spor SPD-a i Unije oko penzijske reforme. U snimku se govori i o kolizijama između Berlina i pokrajina oko kompenzacije hladne progresije.",
-   "tekst": [
-    "U analizi Politico Europe se navodi da završnica godine dovodi kancelara Fridriha Merca do granice izdržljivosti. Pored saveznog budžeta i susreta s papom, spor SPD-a i Unije oko penzijske reforme, kako se ocenjuje, preti da preraste u ozbiljnu probu za koaliciju.",
-    "Rasmus Buksajner i Riksa Firzen razmatraju da li kancelar može da održi datu reč i kakvu neposrednu opasnost po saveznu politiku bi nosio eventualni izbor premijera pokrajine Saksonija-Anhalt iz redova AfD-a.",
-    "U drugom delu snimka tema je odnos Berlina i pokrajina oko kompenzacije hladne progresije. Hesenski premijer iz CDU-a Boris Rajn u intervjuu od 200 sekundi brani blokadu koju su, prema snimku, zauzele pokrajine."
-   ],
-   "rubrika": "politika",
-   "oznake": [
-    "Friedrich Merz",
-    "SPD",
-    "CDU",
-    "AfD",
-    "Boris Rhein"
-   ],
-   "slug": "merz-pred-teskim-nedeljama-do-bozica-budzet-papa-i-spor-oko-8e8uclxtzve"
-  },
-  {
    "id": "uo5ze77_rqM",
    "title": "UŽIVO: Hoće da ga ubiju, kidnapovan od policije u sred bela dana!?",
    "kanal": "Srbin.info",
@@ -9097,7 +9097,7 @@
    "slug": "aleksandar-ivanovic-sedeo-sam-u-prostoriji-sa-covekom-koji-6vhn2aan3j8"
   }
  ],
- "_novi_snimci": false,
+ "_novi_snimci": true,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -9213,23 +9213,23 @@
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "bibislav": {
     "since_id": "2125995640350216203",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "savomanojlovic": {
     "since_id": "2125708700589625615",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "zdravkoponos": {
     "since_id": "2123476746787860570",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "pavlegrbovic": {
     "since_id": "2125984975501525442",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "avucic": {
     "since_id": "2125973843126669741",
@@ -9317,11 +9317,11 @@
    },
    "dobrinacelnik": {
     "since_id": "2125934275107205252",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "jeremic_vuk": {
     "since_id": "2123007427536732502",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
@@ -9329,51 +9329,51 @@
    },
    "srdjanmil037": {
     "since_id": "2125894646828077282",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "zoranlutovac": {
     "since_id": "2126051407602290792",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "pajticbojan": {
     "since_id": "2124855975492407587",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "n_zelenovic": {
     "since_id": "2125994451071811584",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "boskoobradovic": {
     "since_id": "2123742987129635150",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "sasaradulovich": {
     "since_id": "2125893466747973687",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "zaklina_prva": {
     "since_id": "2126063515794542842",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "stevanoccrp": {
     "since_id": "2125698229480178052",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "igorbrakus": {
     "since_id": "2126077414455263243",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "radoholicar": {
     "since_id": "2123165000919326944",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "borakonj": {
     "since_id": "2126053471548064010",
@@ -9381,7 +9381,7 @@
    },
    "narodnipokrets": {
     "since_id": "2125977301318078936",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "direktnors": {
     "since_id": "2126053941846642838",
@@ -9433,7 +9433,7 @@
    },
    "nastraninaroda": {
     "since_id": "2126091844706504905",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "bcenzure": {
     "since_id": "2126050941371580896",
@@ -9449,11 +9449,11 @@
    },
    "nedeljniknin": {
     "since_id": "2126088612228014451",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "trajkovic_rada": {
     "since_id": "2123775843264569788",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "stateinl": {
     "since_id": "2124882590389924146",
@@ -9469,31 +9469,31 @@
    },
    "zatrijebacki": {
     "since_id": "2126086892374413433",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "srbininfo": {
     "since_id": "2126059529745862800",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "mfaserbia": {
     "since_id": "2125625581920243813",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "izlaz_dot_com": {
     "since_id": "2126079583367634995",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "tihinavezi": {
     "since_id": "2126124609342742930",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "relativizacija": {
     "since_id": "2126058421778850244",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "seanmilanovic": {
     "since_id": "2125779805820080420",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    },
    "masinars": {
     "since_id": "2126065723302613464",
@@ -9501,7 +9501,7 @@
    },
    "claudedevs": {
     "since_id": "2125628717263372512",
-    "t": 1795749927.0444667
+    "t": 1795753656.4271846
    }
   },
   "posts": [
@@ -49438,7 +49438,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-27T04:11:59.682866+00:00",
+  "provereno": "2026-11-27T04:27:59.964784+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
@@ -69434,6 +69434,30 @@
    ],
    "slug": "zakon-mora-biti-jednak-za-sve-rzgdx59ufyu",
    "spektar": "desnica"
+  },
+  "XbmF2fcrDK4": {
+   "id": "XbmF2fcrDK4",
+   "title": "Wie der Rentenstreit die Koalition spaltet",
+   "kanal": "POLITICO Europe",
+   "published": "2026-11-27T04:08:00+00:00",
+   "naslov": "Spor oko penzione reforme u Nemačkoj otvara jaz unutar vladajuće koalicije",
+   "opis": "Penziona reforma u Nemačkoj je, kako se navodi u opisu snimka, u neizvesnosti jer SPD odbija kompromisni predlog Unije o penziji bez umanjenja nakon 45 godina uplata. U snimku novinar Rasmus Buchsteiner objašnjava spor, a u kratkom intervjuu govori CDU poslanik Pascal Reddig.",
+   "tekst": [
+    "U snimku se razmatra spor unutar nemačke vladajuće koalicije oko penzione reforme. Prema opisu, SPD odbija kompromisni predlog Unije o penziji bez umanjenja nakon 45 godina uplata doprinosa, dok u Uniji raste nezadovoljstvo.",
+    "Novinar Rasmus Buchsteiner stavlja spor oko takozvane penzije poštovanja u kontekst i govori o tome kako je ugrožen ceo projekat vredan milijarde.",
+    "U intervjuu od 200 sekundi Pascal Reddig, poslanik CDU i koautor odbijenog papira, govori o tome kako bi trebalo da se nastavi. Prema opisu, objašnjava zašto bi propast reforme imala fatalne posledice i da li u zaoštrenoj situaciji još ima šanse za dogovor.",
+    "Opis snimka pominje i borbu oko budućeg finansijskog okvira EU, ali je tekst opisa na tom mestu prekinut, pa detalji nisu poznati."
+   ],
+   "rubrika": "politika",
+   "oznake": [
+    "penziona reforma",
+    "Nemačka",
+    "CDU",
+    "SPD",
+    "Pascal Reddig"
+   ],
+   "slug": "spor-oko-penzione-reforme-u-nemackoj-otvara-jaz-unutar-xbmf2fcrdk4",
+   "spektar": "centar"
   }
  }
 }
