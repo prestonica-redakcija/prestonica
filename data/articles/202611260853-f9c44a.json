@@ -32,7 +32,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-27T11:27:29.719068+00:00",
+ "updated": "2026-11-27T11:43:44.653153+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -441,6 +441,30 @@
    "url": "https://n1info.rs/english/news/academician-radomir-saicic-named-student-movement-candidate-for-serbian-president/",
    "title": "Academician Radomir Saicic named student movement candidate for Serbian president",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4440947-ovo-je-ceo-govor-radomira-sajcica-nakon-objavljivanja-odluke-o-kandidaturi",
+   "title": "Ovo je ceo govor Radomira Sajčića nakon objavljivanja odluke o kandidaturi",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/saicic-konsultacije-o-vladi-u-toku-bice-formirana-relativno-brzo/",
+   "title": "Saičić: Konsultacije o vladi u toku, biće formirana relativno brzo",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4440951-srbija-pobedjuje-se-oglasava-iz-skupstine-srbije-govori-ana-brnabic",
+   "title": "\"Srbija pobeđuje\" se oglašava iz Skupštine Srbije: Brnabić govori o hapšenju Dragana J. Vučićevića",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301478/radomir-saicic-zalagacu-se-za-suverenu-srbiju-vreme-da-funkciji-predsednika-vratimo-dostojanstvo/vest",
+   "title": "Radomir Saičić: Zalagaću se za suverenu Srbiju, vreme da funkciji predsednika vratimo dostojanstvo",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -511,7 +535,11 @@
   "Saičić: \"Nova vlada pre isteka zakonskog roka\"",
   "Radomir Saičić, od podrške studentskoj pobuni do predsedničke kandidature: \"U borbi dobra i zla nema neutralnih\"",
   "Saičić odgovorio na pitanje o eventualnom bojkotu izbora od strane SNS",
-  "Academician Radomir Saicic named student movement candidate for Serbian president"
+  "Academician Radomir Saicic named student movement candidate for Serbian president",
+  "Ovo je ceo govor Radomira Sajčića nakon objavljivanja odluke o kandidaturi",
+  "Saičić: Konsultacije o vladi u toku, biće formirana relativno brzo",
+  "\"Srbija pobeđuje\" se oglašava iz Skupštine Srbije: Brnabić govori o hapšenju Dragana J. Vučićevića",
+  "Radomir Saičić: Zalagaću se za suverenu Srbiju, vreme da funkciji predsednika vratimo dostojanstvo"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -524,7 +552,7 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 28,
+ "novo_od_pisanja": 32,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:45:47.570231+00:00",
  "verzija": 7

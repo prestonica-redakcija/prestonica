@@ -37,7 +37,7 @@
  ],
  "importance": 4,
  "published": "2026-11-27T09:59:26.049974+00:00",
- "updated": "2026-11-27T11:07:40.603633+00:00",
+ "updated": "2026-11-27T11:43:44.653153+00:00",
  "sources": [
   {
    "name": "B92",
@@ -56,12 +56,19 @@
    "url": "https://n1info.rs/vesti/milatovic-cvijanovic-cupic-ohrid-jacanje-saradnje-region/",
    "title": "Milatović i Cvijanović sa Čupićem u Ohridu: Jačanje saradnje Srbije i regiona u zajedničkom interesu",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/cupic-se-u-ohridu-sastao-sa-milatovicem-i-zeljkom-cvijanovic/",
+   "title": "Čupić se u Ohridu sastao sa Milatovićem i Željkom Cvijanović",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Cvijanović i Čupić na Ohridu; \"Jačanje saradnje i naših bratskih odnosa je u obostranom interesu\" FOTO",
   "ČUPIĆ SE SASTAO SA ŽELJKOM CVIJANOVIĆ: \"Jačanje saradnje i naših bratskih odnosa je u obostranom interesu\"",
-  "Milatović i Cvijanović sa Čupićem u Ohridu: Jačanje saradnje Srbije i regiona u zajedničkom interesu"
+  "Milatović i Cvijanović sa Čupićem u Ohridu: Jačanje saradnje Srbije i regiona u zajedničkom interesu",
+  "Čupić se u Ohridu sastao sa Milatovićem i Željkom Cvijanović"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -75,6 +82,6 @@
   "osoba": "Željka Cvijanović",
   "alt": "Cvijanović i Čupić razgovarali u Ohridu o jačanju saradnje"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -24,7 +24,7 @@
  ],
  "importance": 2,
  "published": "2026-11-26T06:37:04.447175+00:00",
- "updated": "2026-11-27T07:36:28.834665+00:00",
+ "updated": "2026-11-27T11:43:44.653153+00:00",
  "sources": [
   {
    "name": "N1",
@@ -109,6 +109,18 @@
    "url": "https://www.kurir.rs/vesti/beograd/10174288/saobracajne-nesrece-u-beogradu-pet-povredjenih",
    "title": "PET OSOBA POVREĐENO U TRI SAOBRAĆAJNE NESREĆE U BEOGRADU: Izveštaj Hitne pomoći, imali pune ruke posla",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/301412/rusija-najmanje-pet-osoba-poginulo-14-povredeno-u-sudaru-u-krasnojarskom-kraju/vest",
+   "title": "Rusija: Najmanje pet osoba poginulo, 14 povređeno u sudaru u Krasnojarskom kraju",
+   "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301470/najmanje-dve-osobe-poginule-cetiri-povredene-u-ruskom-napadu-na-nizin-na-severu-ukrajine/vest",
+   "title": "Najmanje dve osobe poginule, četiri povređene u ruskom napadu na Nižin na severu Ukrajine",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -125,7 +137,9 @@
   "Pet povređenih u tri udesa tokom noći u Beogradu",
   "Najmanje šest osoba povređeno u ruskom napadu na Izjum na istoku Ukrajine",
   "Hitna pomoć: Pet osoba lakše povređeno u tri saobraćajne nezgode u Beogradu",
-  "PET OSOBA POVREĐENO U TRI SAOBRAĆAJNE NESREĆE U BEOGRADU: Izveštaj Hitne pomoći, imali pune ruke posla"
+  "PET OSOBA POVREĐENO U TRI SAOBRAĆAJNE NESREĆE U BEOGRADU: Izveštaj Hitne pomoći, imali pune ruke posla",
+  "Rusija: Najmanje pet osoba poginulo, 14 povređeno u sudaru u Krasnojarskom kraju",
+  "Najmanje dve osobe poginule, četiri povređene u ruskom napadu na Nižin na severu Ukrajine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -138,7 +152,7 @@
   "alt": "red vehicle in timelapse photography",
   "link": "https://unsplash.com/@camstejim"
  },
- "novo_od_pisanja": 6,
+ "novo_od_pisanja": 8,
  "boost": 1.6,
  "prepisano": "2026-11-27T05:45:26.361221+00:00",
  "verzija": 2

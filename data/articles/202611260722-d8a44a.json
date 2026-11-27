@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-27T11:27:29.719068+00:00",
+ "updated": "2026-11-27T11:43:44.653153+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -581,6 +581,24 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/301387/pocelo-opelo-mitropolitu-backom-irineju-u-novom-sadu-sluzi-patrijarh-porfirije/vest",
    "title": "Počelo opelo mitropolitu bačkom Irineju u Novom Sadu, služi patrijarh Porfirije",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/region/288566/turska-uvela-vize-crnogorcima/vest",
+   "title": "Erdogan potpisao lično; Crnogorci, udarac je uzvraćen",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/spc-patrijarh-porfirije-sluzio-liturgiju-u-almaskoj-crkvi-povodom-smrti-mitropolita-irineja",
+   "title": "SPC: Patrijarh Porfirije služio liturgiju u Almaškoj crkvi povodom smrti mitropolita Irineja",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/spc-patrijarh-porfirije-sluzio-liturgiju-u-almaskoj-crkvi-povodom-smrti-mitropolita-irineja/",
+   "title": "SPC: Patrijarh Porfirije služio liturgiju u Almaškoj crkvi povodom smrti mitropolita Irineja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -675,7 +693,10 @@
   "RHMZ upozorio na obilne padavine i sneg noćas i tokom vikenda",
   "Oglasio se srpski meteorolog; \"Počinje...\"",
   "Viz er uvodi četiri nove linije iz Beograda",
-  "Počelo opelo mitropolitu bačkom Irineju u Novom Sadu, služi patrijarh Porfirije"
+  "Počelo opelo mitropolitu bačkom Irineju u Novom Sadu, služi patrijarh Porfirije",
+  "Erdogan potpisao lično; Crnogorci, udarac je uzvraćen",
+  "SPC: Patrijarh Porfirije služio liturgiju u Almaškoj crkvi povodom smrti mitropolita Irineja",
+  "SPC: Patrijarh Porfirije služio liturgiju u Almaškoj crkvi povodom smrti mitropolita Irineja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -688,7 +709,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 55,
+ "novo_od_pisanja": 58,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6
