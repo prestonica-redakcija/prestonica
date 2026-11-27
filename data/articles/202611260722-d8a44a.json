@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-27T17:40:34.767075+00:00",
+ "updated": "2026-11-27T17:57:59.926303+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -905,6 +905,24 @@
    "url": "https://n1info.rs/vesti/upozorenje-puteva-srbije-ocekuje-se-poledica-ima-magle/",
    "title": "Upozorenje Puteva Srbije: Očekuje se poledica, ima magle",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/putevi-srbije-ocekuje-se-poledica-ima-magle/",
+   "title": "Putevi Srbije: Očekuje se poledica, ima magle",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/sport/fudbal/srpski-biser-poglasen-za-igraca-utakmice-pa-porucio-cekamo-narednog-protivnika-i-nastavljamo-borbu/",
+   "title": "Srpski biser poglašen za igrača utakmice, pa poručio: \"Čekamo narednog protivnika i nastavljamo borbu\"",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/zabava/showbiz/pevacica-i-furbaler-skoro-dve-godine-rec-nisu-progovorili-a-sada-spremaju-svadbu-foto/",
+   "title": "Pevačica i furbaler skoro dve godine reč nisu progovorili, a sada spremaju svadbu (FOTO)",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -1053,7 +1071,10 @@
   "Dan uživo (26.11.2026)",
   "LIDS NE PUŠTA SVOJU ZVEZDU: Kalvert-Luin potpisao novi ugovor, poznato do kada ostaje",
   "Krkljanac u Beogradu – haotično na Gazeli; Ovo su ostale kritične tačke FOTO",
-  "Upozorenje Puteva Srbije: Očekuje se poledica, ima magle"
+  "Upozorenje Puteva Srbije: Očekuje se poledica, ima magle",
+  "Putevi Srbije: Očekuje se poledica, ima magle",
+  "Srpski biser poglašen za igrača utakmice, pa poručio: \"Čekamo narednog protivnika i nastavljamo borbu\"",
+  "Pevačica i furbaler skoro dve godine reč nisu progovorili, a sada spremaju svadbu (FOTO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -1066,7 +1087,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 109,
+ "novo_od_pisanja": 112,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6

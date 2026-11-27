@@ -32,7 +32,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-27T17:40:34.767075+00:00",
+ "updated": "2026-11-27T17:57:59.926303+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -981,6 +981,60 @@
    "url": "https://www.telegraf.rs/sport/kosarka/4441150-dejana-bodirogu-pitali-zasto-je-podneo-ostavku-evo-sta-je-on-rekao",
    "title": "Dejana Bodirogu pitali zašto je podneo ostavku: Evo šta je on rekao",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/254011/branko-pavlovic-najavio-kandidaturu-za-predsednika/vest",
+   "title": "Branko Pavlović ulazi u predsedničku trku: Najavio kandidaturu i pozvao na ujedinjenje patriotskih snaga",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/branko-pavlovic-najavio-kandidaturu-na-izborima/",
+   "title": "Advokat Branko Pavlović najavio kandidaturu na predsedničkim izborima",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/dveri-podrzavaju-kandidaturu-akademika-saiica/",
+   "title": "Dveri podržavaju kandidaturu akademika Saičića: Poseduje sve kvalitete za funkciju predsednika Srbije",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/parandilovic-nls-profesor-saicic/",
+   "title": "Parandilović: NLS podržava kandidaturu profesora Saičića za predsednika Srbije",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/stanarevic-nisam-sigurna-da-sns-ima-kandidata-za-predsednika-ocekujem-opstrukcije-naprednjaka-u-skupstini/",
+   "title": "Stanarević: Nisam sigurna da SNS ima kandidata za predsednika, očekujem opstrukcije naprednjaka u Skupštini",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173812/dejan-bodiroga-narodni-poslanik-ostavka",
+   "title": "Dejan Bodiroga podneo ostavku: Više neće biti narodni poslanik",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10175060/oglasio-se-bodiroga-nakon-ostavke-na-mestu-narodnog-poslanika",
+   "title": "OGLASIO SE BODIROGA NAKON OSTAVKE Rekao samo jednu rečenicu",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/254015/oglasio-se-bodiroga-nakon-ostavke/vest",
+   "title": "Oglasio se Bodiroga nakon ostavke: \"Ostajem uz Studentski pokret\"",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/predsednik-hrvatske-o-susretu-sa-aleksandrom-upicem/",
+   "title": "\"Možemo da razgovaramo, a da se jedan drugom ne unosimo u lice, pred nama su bolja vremena\": Predsednik Hrvatske o susretu sa Aleksandrom Čupićem",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -1141,7 +1195,16 @@
   "Dejan Bodiroga podneo ostavku na mesto narodnog poslanika",
   "Kako se menja Sajčićevo poreklo?! Prvo Crnogorac, pa Srbin - da li je kandidatura sve promenila?! (VIDEO)",
   "Čupić na pitanje o predsedničkom kandidatu: To bi bilo mešanje u taj izborni proces",
-  "Dejana Bodirogu pitali zašto je podneo ostavku: Evo šta je on rekao"
+  "Dejana Bodirogu pitali zašto je podneo ostavku: Evo šta je on rekao",
+  "Branko Pavlović ulazi u predsedničku trku: Najavio kandidaturu i pozvao na ujedinjenje patriotskih snaga",
+  "Advokat Branko Pavlović najavio kandidaturu na predsedničkim izborima",
+  "Dveri podržavaju kandidaturu akademika Saičića: Poseduje sve kvalitete za funkciju predsednika Srbije",
+  "Parandilović: NLS podržava kandidaturu profesora Saičića za predsednika Srbije",
+  "Stanarević: Nisam sigurna da SNS ima kandidata za predsednika, očekujem opstrukcije naprednjaka u Skupštini",
+  "Dejan Bodiroga podneo ostavku: Više neće biti narodni poslanik",
+  "OGLASIO SE BODIROGA NAKON OSTAVKE Rekao samo jednu rečenicu",
+  "Oglasio se Bodiroga nakon ostavke: \"Ostajem uz Studentski pokret\"",
+  "\"Možemo da razgovaramo, a da se jedan drugom ne unosimo u lice, pred nama su bolja vremena\": Predsednik Hrvatske o susretu sa Aleksandrom Čupićem"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -1154,7 +1217,7 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 118,
+ "novo_od_pisanja": 127,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:45:47.570231+00:00",
  "verzija": 7

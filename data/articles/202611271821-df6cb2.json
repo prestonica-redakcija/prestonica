@@ -28,16 +28,23 @@
  ],
  "importance": 4,
  "published": "2026-11-27T17:21:41.432648+00:00",
- "updated": "2026-11-27T17:21:41.432648+00:00",
+ "updated": "2026-11-27T17:57:59.926303+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/asns-16-odsto-povisice-za-radnike-kragujevacke-fabrike-zastava-tervo/",
    "title": "ASNS: 16 odsto povišice za radnike kragujevačke fabrike Zastava TERVO",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/asns-16-odsto-povisice-za-radnike-kragujevacke-fabrike-zastava-tervo/",
+   "title": "ASNS: 16 odsto povišice za radnike kragujevačke fabrike Zastava TERVO",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "ASNS: 16 odsto povišice za radnike kragujevačke fabrike Zastava TERVO",
   "ASNS: 16 odsto povišice za radnike kragujevačke fabrike Zastava TERVO"
  ],
  "author": "Redakcija Prestonice",
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Zastava_2024_-_Zastava_TERVO_NTV_-_02.jpg",
   "alt": "Radnicima Zastave TERVO januarska plata veća za 16 odsto"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

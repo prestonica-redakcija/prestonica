@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T16:30:13.022148+00:00",
- "updated": "2026-11-27T17:40:34.767075+00:00",
+ "updated": "2026-11-27T17:57:59.926303+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -49,12 +49,19 @@
    "url": "https://www.tanjug.rs/svet/politika/301576/zelenski-odrzao-sastanak-vojnog-vrha-o-situaciji-u-kijevu-medu-ucesnicima-i-klicko/vest",
    "title": "Zelenski održao sastanak vojnog vrha o situaciji u Kijevu, među učesnicima i Kličko",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10175052/zelenski-odrzao-sastanak-staba-oruzanih-snaga-povodom-krize-u-kijevu",
+   "title": "TEŠKA SITUACIJA U KIJEVU: Zelenski održao sastanak Štaba oružanih snaga, razmotrene opcije reagovanja",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Zelenski održao sastanak Štaba oružanih snaga povodom krize u Kijevu",
   "Zelenski održao hitan sastanak Štaba oružanih snaga",
-  "Zelenski održao sastanak vojnog vrha o situaciji u Kijevu, među učesnicima i Kličko"
+  "Zelenski održao sastanak vojnog vrha o situaciji u Kijevu, među učesnicima i Kličko",
+  "TEŠKA SITUACIJA U KIJEVU: Zelenski održao sastanak Štaba oružanih snaga, razmotrene opcije reagovanja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,6 +74,6 @@
   "alt": "cars on road during sunset",
   "link": "https://unsplash.com/@crystaltempest"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
