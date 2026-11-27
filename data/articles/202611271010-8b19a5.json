@@ -29,17 +29,24 @@
  ],
  "importance": 5,
  "published": "2026-11-27T09:10:00.039987+00:00",
- "updated": "2026-11-27T09:10:00.039987+00:00",
+ "updated": "2026-11-27T09:59:26.049974+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/u-srbiji-44-dece-leptira-u-ukc-srbije-otvoren-centar-za-njihovo-lecenje/",
    "title": "U Srbiji 44 \"dece leptira\" - U UKC Srbije otvoren Centar za njihovo lečenje",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/u-srbiji-44-dece-leptira-u-ukc-srbije-otvoren-centar-za-njihovo-lecenje-video/",
+   "title": "U Srbiji 44 \"dece leptira\": U UKC Srbije otvoren Centar za njihovo lečenje VIDEO",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "U Srbiji 44 \"dece leptira\" - U UKC Srbije otvoren Centar za njihovo lečenje"
+  "U Srbiji 44 \"dece leptira\" - U UKC Srbije otvoren Centar za njihovo lečenje",
+  "U Srbiji 44 \"dece leptira\": U UKC Srbije otvoren Centar za njihovo lečenje VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "alt": "a young child is being examined by a doctor",
   "link": "https://unsplash.com/@cdc"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

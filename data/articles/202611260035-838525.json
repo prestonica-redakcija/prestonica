@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-25T23:35:10.456739+00:00",
- "updated": "2026-11-27T07:19:10.485589+00:00",
+ "updated": "2026-11-27T09:59:26.049974+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -141,6 +141,42 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4440763-bomba-na-kucu-direktora-pro-tent-a-i-niz-krivicnih-dela-koliko-godina-zatvora-preti-osumnjicenom",
    "title": "Bomba na kuću direktora \"Pro TENT\"-a i niz krivičnih dela: Koliko godina zatvora preti osumnjičenom?",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4440881-otkriveno-ko-je-izazvao-pozar-u-tehnomaniji-na-novom-beogradu-policija-uhapsila-dvojicu-mladica",
+   "title": "Otkriveno ko je izazvao požar u \"Tehnomaniji\" na Novom Beogradu: Policija uhapsila dvojicu mladića",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/uhapsena-dvojica-muskaraca-zbog-sumnje-da-su-izazvali-pozar-u-tehnomaniji/",
+   "title": "Uhapšena dvojica muškaraca zbog sumnje da su izazvali požar u Tehnomaniji",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/pozar-tehnomanija-novi-beograd-uhapseni/",
+   "title": "Uhapšena dvojica zbog sumnje da su izazvali požar u objektu „Tehnomanije“",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/288561/mup-uhapsio-dve-osobe-zbog-podmetanja-pozara-u-objektu-tehnomanije/vest",
+   "title": "Sumnja se da je ogrman požar koji je progutao Tehnomaniju podmetnut; Uhapšene dve osobe",
+   "spektar": "centar"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/dve-osobe-uhapsene-zbog-podmetanja-pozara-u-tehnomaniji-na-novom-beogradu-video/",
+   "title": "Dve osobe uhapšene zbog podmetanja požara u Tehnomaniji na Novom Beogradu VIDEO",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10174470/uhapseni-piromani-zbog-pozara-u-tehnomaniji-i-salonu-namestaja",
+   "title": "ZAPALILI TEHNOMANIJU I SALON NAMEŠTAJA! Uhapšena dva piromana zbog izazivanja požara u dve radnje: Oglasio se MUP",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -161,7 +197,13 @@
   "Uhapšen sedamnaestogodišnjak, osumnjičen za trgovinu drogom i posedovanje nelegalnog oružja",
   "Uhapšen sedamnaestogodišnjak: U motelu u Beogradu pronađeno 100 kilograma marihuane, kokain, heroin i oružje",
   "Uhapšen osumnjičeni za napad na kuću direktora \"Pro Tenta\"",
-  "Bomba na kuću direktora \"Pro TENT\"-a i niz krivičnih dela: Koliko godina zatvora preti osumnjičenom?"
+  "Bomba na kuću direktora \"Pro TENT\"-a i niz krivičnih dela: Koliko godina zatvora preti osumnjičenom?",
+  "Otkriveno ko je izazvao požar u \"Tehnomaniji\" na Novom Beogradu: Policija uhapsila dvojicu mladića",
+  "Uhapšena dvojica muškaraca zbog sumnje da su izazvali požar u Tehnomaniji",
+  "Uhapšena dvojica zbog sumnje da su izazvali požar u objektu „Tehnomanije“",
+  "Sumnja se da je ogrman požar koji je progutao Tehnomaniju podmetnut; Uhapšene dve osobe",
+  "Dve osobe uhapšene zbog podmetanja požara u Tehnomaniji na Novom Beogradu VIDEO",
+  "ZAPALILI TEHNOMANIJU I SALON NAMEŠTAJA! Uhapšena dva piromana zbog izazivanja požara u dve radnje: Oglasio se MUP"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -174,7 +216,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Novi_Beograd_test.jpg",
   "alt": "Uhapšene dve osobe zbog sumnje da su bacile ručne bombe na kuću i u baštu restorana u Beogradu"
  },
- "novo_od_pisanja": 1,
+ "novo_od_pisanja": 7,
  "boost": 1.6,
  "prepisano": "2026-11-26T22:32:33.956628+00:00",
  "verzija": 3

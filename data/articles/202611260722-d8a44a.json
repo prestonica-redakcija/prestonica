@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-27T09:40:41.632693+00:00",
+ "updated": "2026-11-27T09:59:26.049974+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -437,6 +437,24 @@
    "url": "https://insajder.net/prenosimo/kovceg-sa-telom-mitropolita-irineja-izlozen-u-almaskoj-crkvi-u-novom-sadu-opelo-u-podne",
    "title": "Kovčeg sa telom mitropolita Irineja izložen u Almaškoj crkvi u Novom Sadu, opelo u podne",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10174378/rhmz-upozorava-stize-do-30-cm-snega-u-srbiji",
+   "title": "Stiže pravi zimski udar, pašće 30 cm snega! RHMZ upravo izdao 2 hitna upozorenja - ovi delovi Srbije će se zabeleti",
+   "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/najave-emisija/novi-dan-ponovo-na-biralista/",
+   "title": "Dan uživo u 16.30h: Ponovo na birališta",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/jugosfera/4440889-turska-suspendovala-bezvizni-rezim-sa-za-gradjane-crne-gore-ankara-uzvraca-udarac",
+   "title": "Turska suspendovala bezvizni režim sa za građane Crne Gore: Ankara uzvraća udarac",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -507,7 +525,10 @@
   "MUP upozorava građane na prevare tokom rasprodaja za Crni petak",
   "Kako da vas ne prevare na Crni petak: MUP izdao uputstva - šta da izbegavate",
   "U Novom Sadu počela zaupokojena liturgija povodom smrti Irineja, služi patrijarh Porfirije",
-  "Kovčeg sa telom mitropolita Irineja izložen u Almaškoj crkvi u Novom Sadu, opelo u podne"
+  "Kovčeg sa telom mitropolita Irineja izložen u Almaškoj crkvi u Novom Sadu, opelo u podne",
+  "Stiže pravi zimski udar, pašće 30 cm snega! RHMZ upravo izdao 2 hitna upozorenja - ovi delovi Srbije će se zabeleti",
+  "Dan uživo u 16.30h: Ponovo na birališta",
+  "Turska suspendovala bezvizni režim sa za građane Crne Gore: Ankara uzvraća udarac"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -520,7 +541,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 31,
+ "novo_od_pisanja": 34,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6

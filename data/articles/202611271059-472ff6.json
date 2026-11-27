@@ -1,0 +1,52 @@
+{
+ "id": "202611271059-472ff6",
+ "slug": "nadela-upozorava-da-trka-u-otklanjanju-ai-ranjivosti-moze-da-ugrozi",
+ "kind": "vest",
+ "section": "ekonomija",
+ "headline": "Nadela upozorava da trka u otklanjanju AI ranjivosti može da ugrozi stabilnost sistema",
+ "lead": "Direktor Microsofta Satja Nadela upozorio je da veštačka inteligencija ubrzava otkrivanje slabosti u softveru, ali da prenagljeno ispravljanje može da stvori nove greške. Kako prenosi Kurir, govorio je i o restrukturiranju kompanije i manjim razvojnim timovima.",
+ "body": [
+  "Prema pisanju Kurira, Nadela je ocenio da alati zasnovani na veštačkoj inteligenciji brzo analiziraju softver i otkrivaju ranjivosti za čije bi pronalaženje inače trebalo mnogo vremena. To je prednost u borbi protiv sajber pretnji, ali stvara i pritisak na kompanije da pronađene probleme reše što pre.",
+  "Nadela je upozorio da takva trka može da ima suprotan efekat: ako se bezbednosne izmene uvode bez dovoljnog testiranja, mogu da unesu nove greške i destabilizuju sisteme. Kao primer naveo je prekid rada servisa Outlook od 13. novembra, koji je, navodi Kurir, pogodio milione korisnika. Prema njegovim rečima, uzrok je bio propust koji nije primećen na vreme.",
+  "Kurir naglašava da Nadela nije tvrdio da je pad Outlooka izazvala veštačka inteligencija. Reč je, kako se navodi, o širem riziku kada se sistemi menjaju pod pritiskom sve bržeg otkrivanja pretnji.",
+  "Nadela je govorio i o promenama u samom Microsoftu. Kurir navodi da kompanija želi da ponudi pakete za dobrovoljni odlazak za približno 60.000 zaposlenih, dok poslovanje sve više usmerava ka veštačkoj inteligenciji. Prema tom izveštaju, Nadela je priznao da će restrukturiranje biti dug proces, jer kompanija postoji više od pet decenija.",
+  "Što se tiče programera, Nadela smatra da će softversko inženjerstvo nastaviti da se razvija, ali da se način rada već menja. Kao primer naveo je Microsoftovog AI agenta Cowork, na kojem trenutno radi tim od 11 programera. Kurir dodaje da programeri i dalje imaju ulogu u donošenju odluka i proveri rezultata."
+ ],
+ "tags": [
+  "Microsoft",
+  "Satja Nadela",
+  "veštačka inteligencija",
+  "sajber bezbednost",
+  "Outlook",
+  "restrukturiranje"
+ ],
+ "people": [
+  "Satja Nadela"
+ ],
+ "places": [],
+ "importance": 3,
+ "published": "2026-11-27T09:59:26.049974+00:00",
+ "updated": "2026-11-27T09:59:26.049974+00:00",
+ "sources": [
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10174443/satja-nadela-upozorava-na-novu-ai-opasnost",
+   "title": "Satja Nadela upozorava na novu AI opasnost: Tehnološki napredak otvora vrata ozbiljnim problemima",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Satja Nadela upozorava na novu AI opasnost: Tehnološki napredak otvora vrata ozbiljnim problemima"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.883,
+ "image": {
+  "src": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixid=M3wxMTQwNDIwfDB8MXxzZWFyY2h8MXx8c29mdHdhcmUlMjBlbmdpbmVlcnMlMjBjeWJlcnNlY3VyaXR5fGVufDF8MHx8fDE3OTU3NzM2Nzd8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+  "credit": "Unsplash / Adi Goldstein",
+  "ilustracija": true,
+  "local": false,
+  "alt": "teal LED panel",
+  "link": "https://unsplash.com/@adigold1"
+ }
+}

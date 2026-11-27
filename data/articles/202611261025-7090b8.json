@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-26T09:25:09.026225+00:00",
- "updated": "2026-11-27T07:36:28.834665+00:00",
+ "updated": "2026-11-27T09:59:26.049974+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -58,6 +58,12 @@
    "url": "https://www.kurir.rs/crna-hronika/10174290/sudar-voza-i-automobila-kod-velike-plane",
    "title": "SUDARILI SE VOZ I AUTOMOBIL, IMA MRTVIH! Teška nesreća kod Velike Plane: Poginula jedna osoba",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301402/u-krnjevu-kod-velike-plane-voz-udario-automobil-vozac-poginuo-na-licu-mesta/vest",
+   "title": "U Krnjevu kod Velike Plane voz udario automobil, vozač poginuo na licu mesta",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -65,7 +71,8 @@
   "TEŠKA NESREĆA KOD KOVINA: Starija žena poginula u sudaru dva automobila, vozač teško povređen",
   "Strahuje se da ima mrtvih: Teška saobraćajna nesreća na putu Kovin - Bavanište",
   "Užas kod Velike Plane: Sudar voza i automobila, poginuo mušarac",
-  "SUDARILI SE VOZ I AUTOMOBIL, IMA MRTVIH! Teška nesreća kod Velike Plane: Poginula jedna osoba"
+  "SUDARILI SE VOZ I AUTOMOBIL, IMA MRTVIH! Teška nesreća kod Velike Plane: Poginula jedna osoba",
+  "U Krnjevu kod Velike Plane voz udario automobil, vozač poginuo na licu mesta"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -78,6 +85,6 @@
   "alt": "people walking on street near red and white bus during daytime",
   "link": "https://unsplash.com/@jubilation"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
