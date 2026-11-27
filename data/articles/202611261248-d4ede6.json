@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T11:48:13.410537+00:00",
- "updated": "2026-11-27T21:39:49.220132+00:00",
+ "updated": "2026-11-27T21:59:46.075628+00:00",
  "sources": [
   {
    "name": "B92",
@@ -66,6 +66,24 @@
    "url": "https://www.b92.net/info/svet/288777/srusio-se-vojni-helikopter-u-peruu-poginulo-najmanje-pet-osoba-foto/vest",
    "title": "Srušio se vojni helikopter u Peruu, poginulo najmanje pet osoba FOTO",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/301634/broj-poginulih-u-padu-vojnog-helikoptera-u-peruu-porastao-na-osam/vest",
+   "title": "Broj poginulih u padu vojnog helikoptera u Peruu porastao na osam",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288777/srusio-se-vojni-helikopter-u-peruu-poginulo-osam-osoba-foto/vest",
+   "title": "Srušio se vojni helikopter u Peruu, poginulo osam osoba FOTO",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10175189/broj-poginulih-u-padu-vojnog-helikoptera-u-peruu-porastao-na-osam",
+   "title": "TRAGEDIJA U PERUU: Broj poginulih u padu vojnog helikoptera porastao na osam",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -73,7 +91,10 @@
   "Izraelski napad na Pojas Gaze: Poginulo najmanje devet osoba, među njima i zamenik ministra",
   "IZRAELSKI UDARI: U napadu na Pojas Gaze ubijeno pet Palestinaca",
   "U Peruu se srušio vojni helikopter, poginulo najmanje pet osoba",
-  "Srušio se vojni helikopter u Peruu, poginulo najmanje pet osoba FOTO"
+  "Srušio se vojni helikopter u Peruu, poginulo najmanje pet osoba FOTO",
+  "Broj poginulih u padu vojnog helikoptera u Peruu porastao na osam",
+  "Srušio se vojni helikopter u Peruu, poginulo osam osoba FOTO",
+  "TRAGEDIJA U PERUU: Broj poginulih u padu vojnog helikoptera porastao na osam"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -86,6 +107,6 @@
   "alt": "a large pile of rubble sitting on top of a street",
   "link": "https://unsplash.com/@emad_el_bayed"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }
