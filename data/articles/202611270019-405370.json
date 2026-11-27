@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T23:19:48.792595+00:00",
- "updated": "2026-11-26T23:19:48.792595+00:00",
+ "updated": "2026-11-26T23:50:15.553103+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -49,12 +49,19 @@
    "url": "https://www.kurir.rs/planeta/10174240/u-italiji-stupio-na-snagu-zakon-o-zabrani-nosenja-burke-u-skolama",
    "title": "ITALIJA ZABRANILA BURKE U ŠKOLAMA: Parlament odobrio, zakon stupio na snagu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4440652-zabrana-burke-u-skolama-u-italiji-sta-donosi-novi-zakon",
+   "title": "Na snagu stupila zabrana nošenja burki i nikaba! U ovim ustanovama to više neće biti dozvoljeno",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "U Italiji stupio na snagu zakon o zabrani nošenja burke u školama",
   "Italija zabranila nošenje burki i nikaba u školama, kazne do 1.000 evra",
-  "ITALIJA ZABRANILA BURKE U ŠKOLAMA: Parlament odobrio, zakon stupio na snagu"
+  "ITALIJA ZABRANILA BURKE U ŠKOLAMA: Parlament odobrio, zakon stupio na snagu",
+  "Na snagu stupila zabrana nošenja burki i nikaba! U ovim ustanovama to više neće biti dozvoljeno"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,5 +73,7 @@
   "local": false,
   "alt": "white concrete building with statue under blue sky during daytime",
   "link": "https://unsplash.com/@michelebit_"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

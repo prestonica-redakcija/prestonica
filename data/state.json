@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://www.tanjug.rs/svet/politika/299760/kanada-planira-nabavku-sistema-za-podvodni-nadzor-koji-koristi-dronove-i-senzore/vest": "2026-11-21T23:43:18.479661+00:00",
-  "https://www.kurir.rs/planeta/10168971/kanada-podvodni-dronovi-nadzor-obale": "2026-11-21T23:43:18.479661+00:00",
-  "https://www.tanjug.rs/svet/politika/299825/fico-pozvao-evropsku-komisiju-da-prati-situaciju-u-srbiji-optuzio-opoziciju/vest": "2026-11-21T23:43:18.479661+00:00",
-  "https://www.kurir.rs/vesti/politika/10169130/fico-pozvao-evropsku-komisiju-da-prati-situaciju-u-srbiji": "2026-11-21T23:43:18.479661+00:00",
-  "https://www.kurir.rs/crna-hronika/10169128/teska-saobracajna-nesreca-kod-smedereva": "2026-11-21T23:43:18.479661+00:00",
   "https://www.kurir.rs/planeta/10169133/tramp-objavio-fotografije-sa-putinom-i-si-djinpingom": "2026-11-21T23:58:22.221069+00:00",
   "https://www.kurir.rs/zabava/zanimljivosti/10167824/sta-je-jeo-nikola-tesla-i-zasto-je-preskakao-rucak": "2026-11-21T23:58:22.221069+00:00",
   "https://www.telegraf.rs/vesti/srbija/4437382-umro-zivojin-jokanovic": "2026-11-21T23:58:22.221069+00:00",
@@ -5923,18 +5918,20 @@
   "https://insajder.net/prenosimo/iranski-aktivista-i-za-oskara-nominovani-scenarista-uhapsen-u-teheranu": "2026-11-26T23:35:22.075486+00:00",
   "https://insajder.net/prenosimo/zaharova-zelenski-pokusava-da-izazove-sukob-izmedu-rusije-i-nato-a": "2026-11-26T23:35:22.075486+00:00",
   "https://n1info.rs/vesti/uhapsen-kraljevacki-funkcioner-kucu-za-socijalno-ugrozene-rome-dao-ocu-sns-poslanice-matovic-sumnja-na-pranje-novca/": "2026-11-26T23:35:22.075486+00:00",
-  "https://www.b92.net/info/razno/288483/na-danasnji-dan-27-novembar/vest": "2026-11-26T23:35:22.075486+00:00"
+  "https://www.b92.net/info/razno/288483/na-danasnji-dan-27-novembar/vest": "2026-11-26T23:35:22.075486+00:00",
+  "https://www.kurir.rs/planeta/10174006/velika-britanija-ulaze-9-5-miliona-funti-u-vetropark-u-ukrajini": "2026-11-26T23:50:15.553103+00:00",
+  "https://www.kurir.rs/vesti/politika/10174249/samit-procesa-brdo-brioni-u-ohridu-evropska-perspektiva": "2026-11-26T23:50:15.553103+00:00",
+  "https://www.telegraf.rs/vesti/svet/4440652-zabrana-burke-u-skolama-u-italiji-sta-donosi-novi-zakon": "2026-11-26T23:50:15.553103+00:00",
+  "https://www.kurir.rs/vesti/srbija/10173925/izmena-rezima-saobracaja-u-novom-sadu-zbog-sahrane-mitropolita-backog-irineja": "2026-11-26T23:50:15.553103+00:00",
+  "https://www.danas.rs/vesti/drustvo/vreme-danas-oblacno-mestimicno-sa-slabom-kisom-ponegde-sneg/": "2026-11-26T23:50:15.553103+00:00",
+  "https://n1info.rs/region/albanski-studenti-najavili-osnivanje-nove-politicke-stranke-ujedinjeni-za-albaniju/": "2026-11-26T23:50:15.553103+00:00",
+  "https://www.danas.rs/svet/albanski-studenti-i-strucnjaci-osnivaju-stranku-ujedinjeni-za-albaniju/": "2026-11-26T23:50:15.553103+00:00",
+  "https://www.kurir.rs/planeta/10174250/studenti-u-albaniji-zapoceli-proceduru-osnivanja-politicke-stranke": "2026-11-26T23:50:15.553103+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-26T08:20+00:00",
-   "novih": 8,
-   "ukupno": 4828,
-   "sekundi": 722.7
-  },
   {
    "vreme": "2026-11-26T08:34+00:00",
    "novih": 2,
@@ -6288,6 +6285,12 @@
    "novih": 9,
    "ukupno": 5092,
    "sekundi": 764.1
+  },
+  {
+   "vreme": "2026-11-27T00:00+00:00",
+   "novih": 1,
+   "ukupno": 5093,
+   "sekundi": 597.3
   }
  ],
  "licnosti_foto": {
@@ -9033,7 +9036,7 @@
    "slug": "aleksandar-ivanovic-sedeo-sam-u-prostoriji-sa-covekom-koji-6vhn2aan3j8"
   }
  ],
- "_novi_snimci": true,
+ "_novi_snimci": false,
  "x": {
   "ids": {
    "miikialeksic": "2591230740",
@@ -9121,7 +9124,7 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2125653072945045608",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "parandilovicnls": {
     "since_id": "2126061637190737980",
@@ -9149,39 +9152,39 @@
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "bibislav": {
     "since_id": "2125995640350216203",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "savomanojlovic": {
     "since_id": "2125708700589625615",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "zdravkoponos": {
     "since_id": "2123476746787860570",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "pavlegrbovic": {
     "since_id": "2125984975501525442",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "avucic": {
     "since_id": "2125973843126669741",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "anabrnabic": {
     "since_id": "2125989686778970255",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "milos_vucevic": {
     "since_id": "2125578808287719575",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "sns_srbija": {
     "since_id": "2126032039413719279",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "vlada_srbije": {
     "since_id": null,
@@ -9225,23 +9228,23 @@
    },
    "markodjuric": {
     "since_id": "2123870662255419709",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "nstarovic": {
     "since_id": "2122967633863565451",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "milenkojovanov": {
     "since_id": "2125263868012245341",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "acasapic": {
     "since_id": null,
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "borkostef": {
     "since_id": "2123837042505155014",
@@ -9253,11 +9256,11 @@
    },
    "dobrinacelnik": {
     "since_id": "2125934275107205252",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "jeremic_vuk": {
     "since_id": "2123007427536732502",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "boristadic58": {
     "since_id": "2123427156202012943",
@@ -9265,51 +9268,51 @@
    },
    "srdjanmil037": {
     "since_id": "2125894646828077282",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "zoranlutovac": {
     "since_id": "2126051407602290792",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "pajticbojan": {
     "since_id": "2124855975492407587",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "n_zelenovic": {
     "since_id": "2125994451071811584",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "boskoobradovic": {
     "since_id": "2123742987129635150",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "sasaradulovich": {
     "since_id": "2125893466747973687",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "zaklina_prva": {
     "since_id": "2126063515794542842",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "stevanoccrp": {
     "since_id": "2125698229480178052",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "igorbrakus": {
     "since_id": "2126077414455263243",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "radoholicar": {
     "since_id": "2123165000919326944",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "borakonj": {
     "since_id": "2126053471548064010",
@@ -9317,7 +9320,7 @@
    },
    "narodnipokrets": {
     "since_id": "2125977301318078936",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "direktnors": {
     "since_id": "2126053941846642838",
@@ -9384,12 +9387,12 @@
     "t": 1795736295.3229513
    },
    "nedeljniknin": {
-    "since_id": "2126073522157957206",
-    "t": 1795733356.1208112
+    "since_id": "2126088612228014451",
+    "t": 1795737074.232428
    },
    "trajkovic_rada": {
     "since_id": "2123775843264569788",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "stateinl": {
     "since_id": "2124882590389924146",
@@ -9404,32 +9407,32 @@
     "t": 1795736295.3229513
    },
    "zatrijebacki": {
-    "since_id": "2125910063739236520",
-    "t": 1795733356.1208112
+    "since_id": "2126086892374413433",
+    "t": 1795737074.232428
    },
    "srbininfo": {
     "since_id": "2126059529745862800",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "mfaserbia": {
     "since_id": "2125625581920243813",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "izlaz_dot_com": {
     "since_id": "2126079583367634995",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "tihinavezi": {
     "since_id": "2126071810055983467",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "relativizacija": {
     "since_id": "2126058421778850244",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "seanmilanovic": {
     "since_id": "2125779805820080420",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    },
    "masinars": {
     "since_id": "2126065723302613464",
@@ -9437,7 +9440,7 @@
    },
    "claudedevs": {
     "since_id": "2125628717263372512",
-    "t": 1795733356.1208112
+    "t": 1795737074.232428
    }
   },
   "posts": [
@@ -9491,6 +9494,35 @@
     "rubrika": "politika",
     "tema": "Antić o slučaju Vučićević: reč je o principu",
     "vest": "202611270003-56fee1"
+   },
+   {
+    "id": "2126088612228014451",
+    "x": "NedeljnikNIN",
+    "ime": "NIN",
+    "grupa": "",
+    "uloga": "",
+    "text": "Povlačenje Citroen vozila u Srbiji: Postoji opasnost od curenja goriva i požara\nhttps://t.co/aQURxGcQRn",
+    "published": "2026-11-26T23:00:00.000+00:00",
+    "lajk": 1,
+    "prikazi": true,
+    "rubrika": "ekonomija",
+    "tema": "Povlačenje Citroen vozila u Srbiji zbog opasnosti od curenja goriva"
+   },
+   {
+    "id": "2126086892374413433",
+    "x": "Zatrijebacki",
+    "ime": "Bobi",
+    "grupa": "",
+    "uloga": "",
+    "text": "Кратко и јасно! https://t.co/Uok2CAW1TY",
+    "published": "2026-11-26T22:53:10.000+00:00",
+    "lajk": 1,
+    "slike": [
+     "https://pbs.twimg.com/media/HYFgwZHXQAARE17.jpg"
+    ],
+    "prikazi": false,
+    "rubrika": "politika",
+    "tema": "Objava bez jasnog smisla (Кратко и јасно)"
    },
    {
     "id": "2126086788125016478",
@@ -21223,38 +21255,6 @@
     "prikazi": false,
     "rubrika": "politika",
     "tema": "Nejasna objava o krivičnoj prijavi"
-   },
-   {
-    "id": "2125216262938882336",
-    "x": "DirektnoRS",
-    "ime": "Direktno",
-    "grupa": "",
-    "uloga": "",
-    "text": "Poslanica Studentske liste Sanja Fric održala je govor u Skupštini Srbije.\nhttps://t.co/05FMBtvP6T",
-    "published": "2026-11-24T13:13:36.000+00:00",
-    "lajk": 34,
-    "pokusaja": 2,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Govor Sanje Fric u Skupštini Srbije",
-    "vest": "202611241628-23fec6"
-   },
-   {
-    "id": "2125216258563981649",
-    "x": "avucic",
-    "ime": "Aleksandar Vučić",
-    "grupa": "vlast",
-    "uloga": "Predsednik Srbije",
-    "text": "Не жалим се на то што не поштујете демократију, већ на то што је људима широм Србије угрожена безбедност и што бомбе лете по двориштима и кућама људи. https://t.co/LQj1M856ry",
-    "published": "2026-11-24T13:13:35.000+00:00",
-    "lajk": 112,
-    "slike": [
-     "https://pbs.twimg.com/amplify_video_thumb/2125216111562035200/img/ABryqu_KXsgEhc94.jpg"
-    ],
-    "pokusaja": 2,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Vučić o bezbednosti građana i bombama u dvorištima"
    }
   ],
   "pratim": [
@@ -42687,6 +42687,10 @@
   "t:jedinstvena srbija": {
    "t": 1795736286.7390041,
    "items": []
+  },
+  "t:ujedinjeni za albaniju": {
+   "t": 1795737047.057571,
+   "items": []
   }
  },
  "x_objave": {
@@ -43045,7 +43049,8 @@
    "202611261803-234a18",
    "202611261803-06aafe",
    "202611261820-9a99b4",
-   "202611261749-6190f6"
+   "202611261749-6190f6",
+   "202611270019-5058c9"
   ],
   "istorija": [
    {
@@ -44210,6 +44215,12 @@
     "t": 1795720545.8087115,
     "id": "202611261749-6190f6",
     "x": "2126032177494425947",
+    "link": false
+   },
+   {
+    "t": 1795737085.6209767,
+    "id": "202611270019-5058c9",
+    "x": "2126101550409863267",
     "link": false
    }
   ],
@@ -49029,7 +49040,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-26T23:38:40.304658+00:00",
+  "provereno": "2026-11-26T23:51:36.280339+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },

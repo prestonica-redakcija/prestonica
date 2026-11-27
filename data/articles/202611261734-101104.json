@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-26T16:34:09.007546+00:00",
- "updated": "2026-11-26T20:28:59.866853+00:00",
+ "updated": "2026-11-26T23:50:15.553103+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://www.b92.net/biz/svet/vesti/288452/velika-britanija-ulaze-95-miliona-funti-u-vetropark-u-ukrajini/vest",
    "title": "Velika Britanija ulaže 9,5 miliona funti u vetropark u Ukrajini",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10174006/velika-britanija-ulaze-9-5-miliona-funti-u-vetropark-u-ukrajini",
+   "title": "NASTAVLJAJU DA POMAŽU: Velika Britanija ulaže 9,5 miliona funti u vetropark u Ukrajini",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Velika Britanija ulaže 9,5 miliona funti u vetropark u Ukrajini",
-  "Velika Britanija ulaže 9,5 miliona funti u vetropark u Ukrajini"
+  "Velika Britanija ulaže 9,5 miliona funti u vetropark u Ukrajini",
+  "NASTAVLJAJU DA POMAŽU: Velika Britanija ulaže 9,5 miliona funti u vetropark u Ukrajini"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +65,6 @@
   "alt": "green grass field under cloudy sky during daytime",
   "link": "https://unsplash.com/@bastianp"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
