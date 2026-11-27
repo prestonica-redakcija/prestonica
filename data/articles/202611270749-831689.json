@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-27T06:49:15.064156+00:00",
- "updated": "2026-11-27T10:48:25.392298+00:00",
+ "updated": "2026-11-27T20:33:52.452672+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -64,6 +64,12 @@
    "url": "https://www.euronews.rs/biznis/biznis-vesti/253937/crni-petak-popusti-ili-marketinski-mamac/vest",
    "title": "Crni petak u Srbiji: Lov na popuste ili zamka za novčanik?",
    "spektar": "centar"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/crni-petak-bez-vecih-guzvi-popusti-do-50-odsto-ali-kupci-ne-vide-veliku-razliku-u-cenama/",
+   "title": "\"Crni petak\" bez većih gužvi: Popusti do 50 odsto, ali - kupci ne vide veliku razliku u cenama",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -72,7 +78,8 @@
   "Crni petak u Srbiji: Počinje veliki šoping spektakl, kupci nestrpljivo čekaju, trgovci najavili velike popuste",
   "Danas je \"Crni petak\": Trgovci u Srbiji najavili popuste i do 70 odsto",
   "Danas je \"Crni petak\": Trgovci u Srbiji najavili popuste i do 70 odsto FOTO",
-  "Crni petak u Srbiji: Lov na popuste ili zamka za novčanik?"
+  "Crni petak u Srbiji: Lov na popuste ili zamka za novčanik?",
+  "\"Crni petak\" bez većih gužvi: Popusti do 50 odsto, ali - kupci ne vide veliku razliku u cenama"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -85,8 +92,8 @@
   "alt": "save up to 50% Black Friday clip art",
   "link": "https://unsplash.com/@ashkfor121"
  },
- "novo_od_pisanja": 1,
- "boost": 1.4,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-27T09:40:41.632693+00:00",
  "verzija": 2
 }
