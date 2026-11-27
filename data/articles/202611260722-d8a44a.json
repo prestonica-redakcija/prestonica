@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-27T07:53:21.135233+00:00",
+ "updated": "2026-11-27T08:08:26.700787+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -365,6 +365,24 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/301387/kovceg-sa-telom-mitropolita-irineja-izlozen-u-almaskom-hramu-u-novom-sadu-od-9-sati-liturgija/vest",
    "title": "Kovčeg sa telom mitropolita Irineja izložen u Almaškom hramu u Novom Sadu, od 9 sati liturgija",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301387/patrijarh-porfirije-stigao-u-almasku-crkvu-u-novom-sadu-sluzice-liturgiju-i-opelo-irineju/vest",
+   "title": "Patrijarh Porfirije stigao u Almašku crkvu u Novom Sadu, služiće liturgiju i opelo Irineju",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4440776-kovceg-sa-telom-mitropolita-irineja-u-almaskom-hramu-u-novom-sadu-patrijarh-od-9-sati-predvodi-liturgiju",
+   "title": "Kovčeg sa telom mitropolita Irineja u Almaškom hramu u Novom Sadu: Patrijarh od 9 sati predvodi liturgiju",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4440804-stizu-sneg-i-led-a-bilans-je-vec-jeziv-troje-mrtvih-za-24-sata-hitno-se-oglasila-saobracajna-policija",
+   "title": "STIŽU SNEG I LED, A BILANS JE VEĆ JEZIV! Troje mrtvih za 24 sata: Hitno se oglasila saobraćajna policija",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -423,7 +441,10 @@
   "Kovčeg sa telom mitropolita Irineja u Almaškom hramu u Novom Sadu: Patrijarh od 9 sati predvodi liturgiju",
   "Danas sahrana mitropolita bačkog Irineja; Kovčeg s telom izložen u Almaškom hramu",
   "Danas sahrana mitropolita bačkog Irineja u Novom Sadu",
-  "Kovčeg sa telom mitropolita Irineja izložen u Almaškom hramu u Novom Sadu, od 9 sati liturgija"
+  "Kovčeg sa telom mitropolita Irineja izložen u Almaškom hramu u Novom Sadu, od 9 sati liturgija",
+  "Patrijarh Porfirije stigao u Almašku crkvu u Novom Sadu, služiće liturgiju i opelo Irineju",
+  "Kovčeg sa telom mitropolita Irineja u Almaškom hramu u Novom Sadu: Patrijarh od 9 sati predvodi liturgiju",
+  "STIŽU SNEG I LED, A BILANS JE VEĆ JEZIV! Troje mrtvih za 24 sata: Hitno se oglasila saobraćajna policija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -436,7 +457,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 19,
+ "novo_od_pisanja": 22,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6

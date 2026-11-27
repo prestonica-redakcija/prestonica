@@ -27,17 +27,24 @@
  ],
  "importance": 3,
  "published": "2026-11-26T15:29:12.553398+00:00",
- "updated": "2026-11-26T15:29:12.553398+00:00",
+ "updated": "2026-11-27T08:08:26.700787+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/sps-u-vranju-se-ogradili-od-skupljanja-potpisa-za-ruzicevu-stranku/",
    "title": "SPS u Vranju se ograđuje od skupljanja potpisa za Ružićevu stranku",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/prikupljanje-potpisa-za-osnivanje-nove-partije-branka-ruzica-sutra-u-nisu-leskovcu-i-vranju/",
+   "title": "Prikupljanje potpisa za osnivanje nove partije Branka Ružića sutra u Nišu, Leskovcu i Vranju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "SPS u Vranju se ograđuje od skupljanja potpisa za Ružićevu stranku"
+  "SPS u Vranju se ograđuje od skupljanja potpisa za Ružićevu stranku",
+  "Prikupljanje potpisa za osnivanje nove partije Branka Ružića sutra u Nišu, Leskovcu i Vranju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Branko_Ru%C5%BEi%C4%87.jpg",
   "osoba": "Branko Ružić",
   "alt": "SPS Vranje se ogradio od prikupljanja potpisa za stranku Branka Ružića"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
