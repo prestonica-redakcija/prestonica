@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-27T11:59:37.558666+00:00",
+ "updated": "2026-11-27T12:14:31.285146+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -617,6 +617,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4440905-stizu-obilne-padavine-ovi-predeli-srbije-bice-prvi-na-udaru-ocekuje-se-i-do-50-litara-kise-i-do-30-cm-snega",
    "title": "Stižu OBILNE padavine! OVI predeli Srbije biće prvi na udaru: Očekuje se i do 50 litara kiše i do 30 cm snega",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/lukasenko-istorija-rusija/",
+   "title": "Lukašenko: Ako pogledamo istoriju, da li bi cela Rusija trebalo da bude predata Mongoliji?",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://ona.telegraf.rs/putovanja-destinacije/4440749-mesto-na-kome-je-turizam-odrziv-samo-jedna-destinacija-u-nasoj-zemlji-za-sada-ima-ovaj-zvanicni-sertifikat",
+   "title": "Mesto na kome je turizam održiv: Samo jedna destinacija u našoj zemlji za sada ima ovaj zvanični sertifikat",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -717,7 +729,9 @@
   "SPC: Patrijarh Porfirije služio liturgiju u Almaškoj crkvi povodom smrti mitropolita Irineja",
   "Milatović sa Čupićem: Vreme je za novo poglavlje u odnosima Crne Gore i Srbije FOTO",
   "TURSKA UVELA VIZE DRŽAVLJANIMA CRNE GORE! Odluku potpisao lično Erdogan!",
-  "Stižu OBILNE padavine! OVI predeli Srbije biće prvi na udaru: Očekuje se i do 50 litara kiše i do 30 cm snega"
+  "Stižu OBILNE padavine! OVI predeli Srbije biće prvi na udaru: Očekuje se i do 50 litara kiše i do 30 cm snega",
+  "Lukašenko: Ako pogledamo istoriju, da li bi cela Rusija trebalo da bude predata Mongoliji?",
+  "Mesto na kome je turizam održiv: Samo jedna destinacija u našoj zemlji za sada ima ovaj zvanični sertifikat"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -730,7 +744,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 61,
+ "novo_od_pisanja": 63,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6
