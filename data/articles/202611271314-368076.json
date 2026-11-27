@@ -26,17 +26,38 @@
  ],
  "importance": 6,
  "published": "2026-11-27T12:14:31.285146+00:00",
- "updated": "2026-11-27T12:14:31.285146+00:00",
+ "updated": "2026-11-27T12:59:08.698024+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1173714/vjt-dopis-eu",
    "title": "VJT poslao dopis EU i UN: Ovo je razlog",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301496/vise-javno-tuzilastvo-u-beogradu-obratilo-se-institucijama-eu-se-oebs-i-un-zbog-izvestaja-vrhovnog-tuzilastva/vest",
+   "title": "Više javno tužilaštvo u Beogradu obratilo se institucijama EU, SE, OEBS i UN zbog Izveštaja Vrhovnog tužilaštva",
+   "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10174730/vjt-u-beogradu-se-obratilo-evropskim-institucijama-zbog-postupanja-komisije-vjt",
+   "title": "VIŠE JAVNO TUŽILAŠTVO U BEOGRADU OBRATILO SE EVROPSKIM INSTITUCIJAMA: Traže hitnu reakciju i doslednu primenu evropskih standarda tužilačke samostalnosti",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/288634/vjt-se-obratilo-institucijama-eu-se-oebs-i-un-zbog-izvestaja-vrhovnog-tuzilastva/vest",
+   "title": "VJT u Beogradu se obratilo institucijama EU, SE, OEBS i UN zbog Izveštaja Vrhovnog tužilaštva",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "VJT poslao dopis EU i UN: Ovo je razlog"
+  "VJT poslao dopis EU i UN: Ovo je razlog",
+  "Više javno tužilaštvo u Beogradu obratilo se institucijama EU, SE, OEBS i UN zbog Izveštaja Vrhovnog tužilaštva",
+  "VIŠE JAVNO TUŽILAŠTVO U BEOGRADU OBRATILO SE EVROPSKIM INSTITUCIJAMA: Traže hitnu reakciju i doslednu primenu evropskih standarda tužilačke samostalnosti",
+  "VJT u Beogradu se obratilo institucijama EU, SE, OEBS i UN zbog Izveštaja Vrhovnog tužilaštva"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +68,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Više tužilaštvo u Beogradu pisalo evropskim institucijama zbog izveštaja Komisije"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

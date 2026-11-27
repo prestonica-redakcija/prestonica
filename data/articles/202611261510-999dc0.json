@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T14:10:27.685416+00:00",
- "updated": "2026-11-27T08:40:28.545868+00:00",
+ "updated": "2026-11-27T12:59:08.698024+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://n1info.rs/english/news/serbias-acting-president-cupic-attends-dinner-with-western-balkan-leaders/",
    "title": "Serbia’s Acting President Cupic attends dinner with Western Balkan leaders",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/english/news/montenegrin-bosnian-leaders-pledge-closer-cooperation-after-meeting-serbias-acting-president-in-ohrid/",
+   "title": "Montenegrin, Bosnian leaders pledge closer cooperation after meeting Serbia’s acting president in Ohrid",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Serbia’s Acting President Cupic to attend Western Balkans leaders’ meeting in Ohrid",
-  "Serbia’s Acting President Cupic attends dinner with Western Balkan leaders"
+  "Serbia’s Acting President Cupic attends dinner with Western Balkan leaders",
+  "Montenegrin, Bosnian leaders pledge closer cooperation after meeting Serbia’s acting president in Ohrid"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "alt": "People are watching the sunset over the water",
   "link": "https://unsplash.com/@martinkoloski"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
