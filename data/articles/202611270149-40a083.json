@@ -28,17 +28,24 @@
  ],
  "importance": 5,
  "published": "2026-11-27T00:49:48.113257+00:00",
- "updated": "2026-11-27T00:49:48.113257+00:00",
+ "updated": "2026-11-27T20:19:04.009939+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10174239/drustvene-mreze-se-usijale-zbog-kandidata-studentske-liste-na-predsednickim-izborima",
    "title": "DŽOKER, LEKAR, ŽENA? Društvene mreže se usijale zbog kandidata Studentske liste na predsedničkim izborima: Misteriozni simboli preplavili Iks (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/francuski-liberasion-saicic-naucnik-bez-politickog-iskustva-kandidat-studenata-na-predsednickim-izborima/",
+   "title": "Francuski Liberasion: Saičić, naučnik bez političkog iskustva, kandidat studenata na predsedničkim izborima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "DŽOKER, LEKAR, ŽENA? Društvene mreže se usijale zbog kandidata Studentske liste na predsedničkim izborima: Misteriozni simboli preplavili Iks (FOTO)"
+  "DŽOKER, LEKAR, ŽENA? Društvene mreže se usijale zbog kandidata Studentske liste na predsedničkim izborima: Misteriozni simboli preplavili Iks (FOTO)",
+  "Francuski Liberasion: Saičić, naučnik bez političkog iskustva, kandidat studenata na predsedničkim izborima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "alt": "a microphone on a stand",
   "link": "https://unsplash.com/@akshayspaceship"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

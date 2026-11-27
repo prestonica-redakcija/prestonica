@@ -29,17 +29,24 @@
  ],
  "importance": 4,
  "published": "2026-11-27T17:57:59.926303+00:00",
- "updated": "2026-11-27T17:57:59.926303+00:00",
+ "updated": "2026-11-27T20:19:04.009939+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/drzavljanin-srbije-osumnjicen-za-kradju-u-budvi-izrucen-crnoj-gori-iz-nemacke/",
    "title": "Državljanin Srbije osumnjičen za krađu u Budvi izručen Crnoj Gori iz Nemačke",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/razbojnistvo-u-budvi-osumnjiceni-drzavljanin-srbije-izrucen-iz-nemacke/",
+   "title": "Razbojništvo u Budvi: Osumnjičeni državljanin Srbije izručen iz Nemačke",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Državljanin Srbije osumnjičen za krađu u Budvi izručen Crnoj Gori iz Nemačke"
+  "Državljanin Srbije osumnjičen za krađu u Budvi izručen Crnoj Gori iz Nemačke",
+  "Razbojništvo u Budvi: Osumnjičeni državljanin Srbije izručen iz Nemačke"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Kralji%C4%8Dina_pla%C5%BEa_(Milo%C4%8Der,_Crna_Gora)_07.jpg",
   "alt": "Državljanin Srbije osumnjičen za razbojništvo u Budvi izručen Crnoj Gori iz Nemačke"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T09:07:56.153268+00:00",
- "updated": "2026-11-27T20:04:07.794148+00:00",
+ "updated": "2026-11-27T20:19:04.009939+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
@@ -53,11 +53,18 @@
    "url": "https://www.tanjug.rs/srbija/politika/301614/strbac-u-rezoluciji-o-vukovaru-nema-novih-hrvatskih-zahteva-samo-je-drugi-format/vest",
    "title": "Štrbac: U rezoluciji o Vukovaru nema novih hrvatskih zahteva, samo je drugi format",
    "spektar": "centar"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/254025/strbac-rezolucija-o-vukovaru-nije-novi-zahtev/vest",
+   "title": "Štrbac: U rezoluciji o Vukovaru nema novih hrvatskih zahteva, samo je drugi format",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "SRPSKE ŽRTVE IZBRISANE IZ VUKOVARSKE REZOLUCIJE: Hrvatska iskoristila trenutak i udarila na Srbiju koja nema svoje predstavnike",
   "VUKOVARSKA REZOLUCIJA USVOJENA U EP: Srbiji ispostavljen novi spisak zahteva",
+  "Štrbac: U rezoluciji o Vukovaru nema novih hrvatskih zahteva, samo je drugi format",
   "Štrbac: U rezoluciji o Vukovaru nema novih hrvatskih zahteva, samo je drugi format"
  ],
  "author": "Redakcija Prestonice",
@@ -72,6 +79,6 @@
   "osoba": "Savo Štrbac",
   "alt": "Štrbac: rezolucija o Vukovaru ne donosi nove zahteve Srbiji, a izostavlja srpske žrtve"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
