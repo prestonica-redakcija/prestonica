@@ -26,17 +26,24 @@
  ],
  "importance": 3,
  "published": "2026-11-27T15:35:52.749006+00:00",
- "updated": "2026-11-27T15:35:52.749006+00:00",
+ "updated": "2026-11-27T19:49:23.453949+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/izbori-za-savete-mesnih-zajednica-u-kragujevcu-najverovatnije-24-januara/",
    "title": "Izbori za savete mesnih zajednica u Kragujevcu najverovatnije 24. januara",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/izbori-za-savete-mesnih-zajednica-kragujevca-u-januaru-2027-godine-prethodni-odrzani-2021/",
+   "title": "Izbori za savete mesnih zajednica Kragujevca u januaru 2027. godine, prethodni održani 2021.",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Izbori za savete mesnih zajednica u Kragujevcu najverovatnije 24. januara"
+  "Izbori za savete mesnih zajednica u Kragujevcu najverovatnije 24. januara",
+  "Izbori za savete mesnih zajednica Kragujevca u januaru 2027. godine, prethodni održani 2021."
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -48,5 +55,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Aktivistkinja_za_prava_%C5%BEena_Sanja_Sarnavka,_dobitnica_nagrade_Zagrep%C4%8Danka_godine,_2024,_Skup%C5%A1tina_Grada_Zagreba_09_48_42_900000.jpeg",
   "alt": "Izbori za savete mesnih zajednica u Kragujevcu najverovatnije 24. januara"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

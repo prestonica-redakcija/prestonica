@@ -1,0 +1,52 @@
+{
+ "id": "202611272049-6c66ce",
+ "slug": "hakeri-upali-u-glavnu-racunarsku-platformu-ratnog-vazduhoplovstva-sad",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Hakeri upali u glavnu računarsku platformu Ratnog vazduhoplovstva SAD, navodi Rojters",
+ "lead": "Hakeri su, prema navodima Rojtersa koje prenosi Danas, upali u platformu „Cloud One” Ratnog vazduhoplovstva SAD. Incident bi mogao da ugrozi osetljive taktičke, kadrovske i logističke podatke.",
+ "body": [
+  "Kako prenosi Danas pozivajući se na Rojters, tri osobe upoznate sa slučajem izjavile su da su hakeri provalili u glavnu platformu za računarstvo Ratnog vazduhoplovstva SAD. Prema rečima dvoje sagovornika, upad se dogodio prošlog meseca, dok su se na sistemu izvodili radovi na unapređenju.",
+  "Rojters nije uspeo da utvrdi ko stoji iza napada, kolike su pune razmere upada niti da li su podaci ukradeni. Jedan od izvora je naveo da su istražitelji angažovali „Sajber komandu” američke vojske kako bi procenili štetu. Iz te komande nisu odgovorili na zahteve Rojtersa za komentar.",
+  "Iz Ratnog vazduhoplovstva su za Rojters poručili da „ne komentarišu bezbednosno stanje, ranjivosti niti operativni status pojedinačnih mreža i sistema”. Dodali su da kontinuirano preduzimaju mere za zaštitu informacija, sistema i operativnih kapaciteta.",
+  "Platforma „Cloud One” pokrenuta je 2017. godine kao centralizovano mesto za IT potrebe Ratnog vazduhoplovstva. Objedinjuje resurse četiri provajdera: Majkrosofta, Amazona, Orakla i Alfabeta. Na njoj rade aplikacije za kadrovske podatke, isplate, logistiku i održavanje, kao i sistem za komandovanje i kontrolu u oblaku, koji prikuplja podatke sa radara protivvazdušne odbrane iz cele Severne Amerike. Tu je i sistem za praćenje borbene municije na više od 200 lokacija Ratnog vazduhoplovstva širom sveta.",
+  "Prema navodima izvora, otkriće upada izazvalo je poremećaje u radu cele platforme. Obustavljeno je prebacivanje administrativnih i pomoćnih aplikacija sa takozvane „bek-ofis“ aplikacije na „Cloud One”, što je dugogodišnji prioritet vojske. Blokirana su i ažuriranja aplikacija koje su već na platformi, pa osoblje nije moglo da primeni potrebne ispravke, i to kada je u industriji otkrivena nova serija ozbiljnih softverskih ranjivosti. Peti izvor je naveo da su pojedinim korisnicima oduzeta administratorska prava.",
+  "Kompanija SAIC bila je glavni izvođač radova na platformi do 2025. godine, kada je posao preuzeo Leidos. Iz SAIC-a nisu odgovorili na zahtev za komentar, a iz Leidosa su uputili na Ratno vazduhoplovstvo."
+ ],
+ "tags": [
+  "hakerski napad",
+  "Ratno vazduhoplovstvo SAD",
+  "Cloud One",
+  "sajber bezbednost",
+  "Rojters"
+ ],
+ "people": [],
+ "places": [
+  "Sjedinjene Američke Države"
+ ],
+ "importance": 5,
+ "published": "2026-11-27T19:49:23.453949+00:00",
+ "updated": "2026-11-27T19:49:23.453949+00:00",
+ "sources": [
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/haker-ratno-vazduhoplovstvo-sad/",
+   "title": "Hakerski napad na Ratno vazduhoplovstvo SAD, osetljivi vojni podaci potencijalno ugroženi",
+   "spektar": "opozicija"
+  }
+ ],
+ "source_titles": [
+  "Hakerski napad na Ratno vazduhoplovstvo SAD, osetljivi vojni podaci potencijalno ugroženi"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.636,
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Medici_vase_with_a_scene_of_the_ch%C3%A2teau_at_Saint-Cloud_%28one_of_a_pair%29_MET_DP264075.jpg/1920px-Medici_vase_with_a_scene_of_the_ch%C3%A2teau_at_Saint-Cloud_%28one_of_a_pair%29_MET_DP264075.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "Wikimedia Commons / Manufacture nationale de Sèvres / Jean-François Robert / CC0",
+  "ilustracija": false,
+  "local": false,
+  "link": "https://commons.wikimedia.org/wiki/File:Medici_vase_with_a_scene_of_the_ch%C3%A2teau_at_Saint-Cloud_(one_of_a_pair)_MET_DP264075.jpg",
+  "alt": "Hakeri upali u glavnu računarsku platformu Ratnog vazduhoplovstva SAD, navodi Rojters"
+ }
+}

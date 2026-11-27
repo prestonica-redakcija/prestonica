@@ -32,17 +32,24 @@
  ],
  "importance": 6,
  "published": "2026-11-27T19:17:17.200095+00:00",
- "updated": "2026-11-27T19:17:17.200095+00:00",
+ "updated": "2026-11-27T19:49:23.453949+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/politika/fric-studentska-lista-expo-cemo-vratiti-u-zakonske-okvire-i-proveriti-bezbednost-objekata-nova-vlada-do-kraja-godine-video",
    "title": "Fric (Studentska lista): Expo ćemo vratiti u zakonske okvire i proveriti bezbednost objekata, nova vlada do kraja godine (VIDEO)",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/poslanica-fric-mala-verovatnoca-da-se-ekspo-2027-otkaze/",
+   "title": "Poslanica Fric: Mala verovatnoća da se Ekspo 2027 otkaže, cilj će biti provera bezbednosti objekata",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Fric (Studentska lista): Expo ćemo vratiti u zakonske okvire i proveriti bezbednost objekata, nova vlada do kraja godine (VIDEO)"
+  "Fric (Studentska lista): Expo ćemo vratiti u zakonske okvire i proveriti bezbednost objekata, nova vlada do kraja godine (VIDEO)",
+  "Poslanica Fric: Mala verovatnoća da se Ekspo 2027 otkaže, cilj će biti provera bezbednosti objekata"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "alt": "a view of a large city with tall buildings",
   "link": "https://unsplash.com/@antonlukin"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
