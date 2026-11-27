@@ -5945,18 +5945,19 @@
   "https://n1info.rs/svet/ukrajinske-vlasti-severnokorejska-vojna-pomoc-rusiji-obustavljena/": "2026-11-27T00:19:58.733385+00:00",
   "https://www.danas.rs/svet/ukrajinske-vlasti-obustavljena-severnokorejska-vojna-pomoc-rusiji/": "2026-11-27T00:19:58.733385+00:00",
   "https://www.tanjug.rs/ekonomija/srbija/301336/sita-pripremila-strategiju-za-rast-it-sektora-u-srbiji/vest": "2026-11-27T00:19:58.733385+00:00",
-  "https://n1info.rs/english/news/student-movement-registers-new-citizens-group-to-nominate-presidential-candidate/": "2026-11-27T00:19:58.733385+00:00"
+  "https://n1info.rs/english/news/student-movement-registers-new-citizens-group-to-nominate-presidential-candidate/": "2026-11-27T00:19:58.733385+00:00",
+  "https://www.telegraf.rs/vesti/svet/4440622-napad-na-zaporozje-jedna-osoba-poginula-cetiri-ranjene": "2026-11-27T00:34:57.464001+00:00",
+  "https://insajder.net/prenosimo/fifa-saopstila-da-je-bila-na-meti-hakera-koji-su-dosli-do-licnih-i-poslovnih-podataka": "2026-11-27T00:34:57.464001+00:00",
+  "https://www.telegraf.rs/sport/fudbal/4440455-fifa-saopstila-da-je-bila-na-meti-hakera-ugrozeni-bitni-poslovni-podaci": "2026-11-27T00:34:57.464001+00:00",
+  "https://www.kurir.rs/vesti/srbija/10173427/u-opstoj-bolnici-krusevac-zabranjene-posete": "2026-11-27T00:34:57.464001+00:00",
+  "https://n1info.rs/english/news/european-democrat-mep-sandro-gozi-explains-abstention-in-vukovar-resolution-vote/": "2026-11-27T00:34:57.464001+00:00",
+  "https://www.novosti.rs/vesti/politika/1675102/ljiljana-smajlovic-privodjenju-dragana-vucicevica-hapsenje-politicki-motivisano-ovo-pokusaj-zastrasivanja-medija-video": "2026-11-27T00:34:57.464001+00:00",
+  "https://www.kurir.rs/zabava/zanimljivosti/10173638/zasto-vas-pas-prati-po-celoj-kuci": "2026-11-27T00:34:57.464001+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-26T09:06+00:00",
-   "novih": 3,
-   "ukupno": 4839,
-   "sekundi": 826.0
-  },
   {
    "vreme": "2026-11-26T09:24+00:00",
    "novih": 9,
@@ -6310,6 +6311,12 @@
    "novih": 7,
    "ukupno": 5108,
    "sekundi": 649.0
+  },
+  {
+   "vreme": "2026-11-27T00:48+00:00",
+   "novih": 4,
+   "ukupno": 5112,
+   "sekundi": 789.8
   }
  ],
  "licnosti_foto": {
@@ -22000,18 +22007,6 @@
   }
  },
  "foto_cache": {
-  "t:cuj guanghaj": {
-   "t": 1795134093.7189286,
-   "items": []
-  },
-  "t:dzon miler": {
-   "t": 1795134093.937335,
-   "items": []
-  },
-  "t:vise javno tuzilastvo": {
-   "t": 1795134094.1646876,
-   "items": []
-  },
   "t:curug": {
    "t": 1795143916.6205156,
    "items": [
@@ -42893,6 +42888,20 @@
   "t:medjunarodni sud pravde": {
    "t": 1795738874.2414112,
    "items": []
+  },
+  "t:opsta bolnica krusevac": {
+   "t": 1795739736.788664,
+   "items": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Op%C5%A1ta_bolnica_Kru%C5%A1evac%2C4_hirurga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "w": 1024,
+     "h": 779,
+     "god": 2012,
+     "credit": "Wikimedia Commons / Markopetrovic86 / CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Op%C5%A1ta_bolnica_Kru%C5%A1evac,4_hirurga.jpg",
+     "naslov": "Opšta bolnica Kruševac,4 hirurga.jpg"
+    }
+   ]
   }
  },
  "x_objave": {
@@ -48974,6 +48983,21 @@
    "t": 1795738060.7627742,
    "ok": true,
    "foto": null
+  },
+  "Ljiljana Smajlović": {
+   "ime": "Ljiljana Smajlović",
+   "uloga": "novinarka",
+   "oblast": "drustvo",
+   "wd": "Q6660842",
+   "t": 1795739809.0691445,
+   "ok": true,
+   "foto": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Ljiljana_Smajlovi%C4%87_2011_%28cropped%29.jpg/500px-Ljiljana_Smajlovi%C4%87_2011_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Wikimedia Commons / Medija centar Beograd / CC BY-SA 3.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Ljiljana_Smajlovi%C4%87_2011_(cropped).jpg",
+    "w": 2004,
+    "h": 2005
+   }
   }
  },
  "ankete": [
@@ -49260,7 +49284,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-27T00:22:02.397713+00:00",
+  "provereno": "2026-11-27T00:36:50.603788+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
