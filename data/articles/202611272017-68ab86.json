@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-27T19:17:17.200095+00:00",
- "updated": "2026-11-27T19:34:22.689266+00:00",
+ "updated": "2026-11-27T21:25:04.944447+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -52,13 +52,20 @@
    "url": "https://www.telegraf.rs/sport/fudbal/4441196-srbija-saznala-protivnike-u-nokaut-fazi-svetskog-prvenstva-prva-prepreka-lagana-vec-druga-mozda-paklena",
    "title": "Srbija saznala protivnike u nokaut fazi Svetskog prvenstva: Prva prepreka lagana, već druga možda paklena",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/sport/fudbal/4441241-evo-kada-srbija-igra-mec-sesnaestine-finala-na-svetskom-prvenstvu-protiv-kine-objavljen-citav-raspored",
+   "title": "Evo kada Srbija igra meč šesnaestine finala na Svetskom prvenstvu protiv Kine: Objavljen čitav raspored",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Orlići saznali protivnika u šesnaestini finala Svetskog prvenstva",
   "Srbija saznala protivnika u nokaut fazi Svetskog prvenstva, sada se igra na sve ili ništa",
   "SRBIJA SAZNALA RIVALA: Evo protiv koga Orlići igraju u šesnaestini finala Svetskog prvenstva",
-  "Srbija saznala protivnike u nokaut fazi Svetskog prvenstva: Prva prepreka lagana, već druga možda paklena"
+  "Srbija saznala protivnike u nokaut fazi Svetskog prvenstva: Prva prepreka lagana, već druga možda paklena",
+  "Evo kada Srbija igra meč šesnaestine finala na Svetskom prvenstvu protiv Kine: Objavljen čitav raspored"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -71,6 +78,6 @@
   "alt": "a large building with a large circular structure on top of it",
   "link": "https://unsplash.com/@visitqatar"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
