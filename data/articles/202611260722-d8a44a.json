@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T06:22:16.988509+00:00",
- "updated": "2026-11-27T14:24:45.310037+00:00",
+ "updated": "2026-11-27T14:44:30.153960+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -749,6 +749,24 @@
    "url": "https://n1info.rs/vesti/agencija-za-bezbednost-saobracaja-upozorila-vozace-na-sneg/",
    "title": "Agencija za bezbednost saobraćaja upozorila vozače na sneg",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/sport/fudbal/10174684/srbija-kolumbija-svetsko-prvenstvo-uzivo-prenos-livestream",
+   "title": "SRBIJA - KOLUMBIJA: Orlići vode protiv Kolumbije!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301387/krenula-litija-od-almaskog-do-sabornog-hrama-gde-ce-biti-sahranjen-mitropolit-irinej/vest",
+   "title": "Krenula litija od Almaškog do Sabornog hrama, gde će biti sahranjen mitropolit Irinej",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4440968-rhmz-upalio-narandzasti-meteoalarm-za-ove-delove-srbije-stizu-potop-i-vejavica-evo-gde-ce-biti-najkriticnije",
+   "title": "RHMZ upalio narandžasti meteoalarm za ove delove Srbije! Stižu POTOP i VEJAVICA: Evo gde će biti najkritičnije",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -871,7 +889,10 @@
   "Ova zemlja ne menja dobavljača: Produžili veliki gasni sporazum za tri godine, isporuke ponovo rastu",
   "UN upozoravaju na rastući rizik od gladi, broj žarišta u svetu se povećava",
   "Tramp izmenio saopštenje sa Ruteom: I Ukrajina mora da pazi da ne proširi rat",
-  "Agencija za bezbednost saobraćaja upozorila vozače na sneg"
+  "Agencija za bezbednost saobraćaja upozorila vozače na sneg",
+  "SRBIJA - KOLUMBIJA: Orlići vode protiv Kolumbije!",
+  "Krenula litija od Almaškog do Sabornog hrama, gde će biti sahranjen mitropolit Irinej",
+  "RHMZ upalio narandžasti meteoalarm za ove delove Srbije! Stižu POTOP i VEJAVICA: Evo gde će biti najkritičnije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -884,7 +905,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Junk,_1984,_Novi_Beograd,_2021.jpg",
   "alt": "Požar u prodavnici \"Tehnomanije\" na Novom Beogradu, saobraćaj obustavljen u delu Jurija Gagarina"
  },
- "novo_od_pisanja": 83,
+ "novo_od_pisanja": 86,
  "boost": 1.6,
  "prepisano": "2026-11-26T18:57:53.338854+00:00",
  "verzija": 6

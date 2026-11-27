@@ -32,7 +32,7 @@
  ],
  "importance": 8,
  "published": "2026-11-26T07:53:18.497760+00:00",
- "updated": "2026-11-27T14:24:45.310037+00:00",
+ "updated": "2026-11-27T14:44:30.153960+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -687,6 +687,42 @@
    "url": "https://nova.rs/spo-podrska-saicicu/",
    "title": "SPO: Podrška Saičiću",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173756/visi-sud-beograd-dragan-djilas-presuda",
+   "title": "Presuda po tužbi Dragana Đilasa",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301523/cupic-ocekujem-formiranje-vlade-srbije-u-razumnom-roku/vest",
+   "title": "Čupić: Očekujem formiranje Vlade Srbije u razumnom roku",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/cupic-ocekujem-formiranje-vlade-srbije-u-razumnom-roku",
+   "title": "Čupić: Očekujem formiranje Vlade Srbije u razumnom roku",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/spo-podrska-saicicu/",
+   "title": "SPO: Podrška Saičiću",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/spo-podrzao-saicica/",
+   "title": "SPO podržao Saičića",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173755/radomir-saicic-predsednicki-kandidat-studenti",
+   "title": "Ovo je svima promaklo! Skandal u režiji lažnih studenata: Saičićev govor objavljen pre nego što je izgovoren",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -798,7 +834,13 @@
   "Predsednički izbori u Srbiji - Kakva nas izborna trka čeka? Milivojević: Naprednjaci pred teškom odlukom",
   "Novi dan: Kampanja za izbor predsednika",
   "Čupić: \"Očekujem formiranje Vlade Srbije u razumnom roku\"",
-  "SPO: Podrška Saičiću"
+  "SPO: Podrška Saičiću",
+  "Presuda po tužbi Dragana Đilasa",
+  "Čupić: Očekujem formiranje Vlade Srbije u razumnom roku",
+  "Čupić: Očekujem formiranje Vlade Srbije u razumnom roku",
+  "SPO: Podrška Saičiću",
+  "SPO podržao Saičića",
+  "Ovo je svima promaklo! Skandal u režiji lažnih studenata: Saičićev govor objavljen pre nego što je izgovoren"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -811,7 +853,7 @@
   "alt": "Grand building with green domes overlooks a busy street intersection",
   "link": "https://unsplash.com/@borzenkov"
  },
- "novo_od_pisanja": 69,
+ "novo_od_pisanja": 75,
  "boost": 1.6,
  "prepisano": "2026-11-26T21:45:47.570231+00:00",
  "verzija": 7

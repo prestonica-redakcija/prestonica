@@ -32,17 +32,24 @@
  ],
  "importance": 7,
  "published": "2026-11-27T14:24:45.310037+00:00",
- "updated": "2026-11-27T14:24:45.310037+00:00",
+ "updated": "2026-11-27T14:44:30.153960+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/komesarka-eu-od-januara-bez-uplata-srbiji-iz-plana-rasta-jer-prethodna-vlada-nije-sprovela-reforme-sada-postoji-mogucnost-za-novi-pocetak",
    "title": "Komesarka EU: Od januara bez uplata Srbiji iz Plana rasta jer prethodna vlada nije sprovela reforme, sada postoji mogućnost za novi početak",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/marta-kos-bez-uplate-od-januara/",
+   "title": "Marta Kos: Bez uplate od januara",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Komesarka EU: Od januara bez uplata Srbiji iz Plana rasta jer prethodna vlada nije sprovela reforme, sada postoji mogućnost za novi početak"
+  "Komesarka EU: Od januara bez uplata Srbiji iz Plana rasta jer prethodna vlada nije sprovela reforme, sada postoji mogućnost za novi početak",
+  "Marta Kos: Bez uplate od januara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "alt": "row of european union flags",
   "link": "https://unsplash.com/@guillaumeperigois"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

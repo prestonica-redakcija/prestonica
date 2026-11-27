@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T17:20:53.866188+00:00",
- "updated": "2026-11-27T14:24:45.310037+00:00",
+ "updated": "2026-11-27T14:44:30.153960+00:00",
  "sources": [
   {
    "name": "N1",
@@ -70,6 +70,12 @@
    "url": "https://www.kurir.rs/crna-hronika/10174840/vodja-navijaca-saslusan-u-tuzilastvu-zbog-ometanja-pravde",
    "title": "VOĐA NAVIJAČA SASLUŠAN U TUŽILAŠTVU: Pokušao da utiče na svedoka da promeni iskaz, predložen pritvor! Evo šta je izjavio",
    "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/saslusan-osumnjiceni-da-je-pokusao-da-utice-na-dvokata-da-promeni-iskaz-tuzilastvo-predlozilo-pritvor",
+   "title": "Saslušan osumnjičeni da je pokušao da utiče na dvokata da promeni iskaz, tužilaštvo predložilo pritvor",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -79,7 +85,8 @@
   "Treće osnovno tužilaštvo: Pritvor muškarcu zbog sumnje da je uticao na advokata da promeni iskaz",
   "Saslušan muškarac zbog ometanja pravde – pokušao da utiče na advokata",
   "Tužilaštvo: Uhapšen muškarac zbog sumnje da je pokušao da utiče na advokata da promeni iskaz",
-  "VOĐA NAVIJAČA SASLUŠAN U TUŽILAŠTVU: Pokušao da utiče na svedoka da promeni iskaz, predložen pritvor! Evo šta je izjavio"
+  "VOĐA NAVIJAČA SASLUŠAN U TUŽILAŠTVU: Pokušao da utiče na svedoka da promeni iskaz, predložen pritvor! Evo šta je izjavio",
+  "Saslušan osumnjičeni da je pokušao da utiče na dvokata da promeni iskaz, tužilaštvo predložilo pritvor"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -92,8 +99,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:NesOne,_Hogar_(%D0%A5%D0%BE%D0%B3%D0%B0%D1%80,_H%C3%A4gar_the_Horrible),_Blok_45,_Novi_Beograd,_2019.jpg",
   "alt": "Zadržavanje do 48 sati zbog sumnje na ometanje pravde, mediji pominju vođu navijača"
  },
- "novo_od_pisanja": 0,
- "boost": 1.48,
+ "novo_od_pisanja": 1,
+ "boost": 1.56,
  "prepisano": "2026-11-27T14:24:45.310037+00:00",
  "verzija": 2
 }
