@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.kurir.rs/vesti/beograd/10169345/bez-struje-danas-u-beogradu": "2026-11-23T04:58:04.080141+00:00",
   "https://n1info.rs/vesti/na-danasnji-dan-23-novembar-preminuo-ratko-bozovic-rodjen-stevan-sremac/": "2026-11-23T05:12:52.926742+00:00",
   "https://www.kurir.rs/vesti/srbija/10169384/sta-se-nosi-na-slavu": "2026-11-23T05:12:52.926742+00:00",
   "https://www.kurir.rs/stars/10169571/ljuba-perucica-uhvacen-u-nezgodnom-izdanju": "2026-11-23T05:12:52.926742+00:00",
@@ -6434,12 +6433,6 @@
  "fokus": [],
  "runs": [
   {
-   "vreme": "2026-11-27T12:27+00:00",
-   "novih": 9,
-   "ukupno": 5252,
-   "sekundi": 780.2
-  },
-  {
    "vreme": "2026-11-27T12:41+00:00",
    "novih": 8,
    "ukupno": 5260,
@@ -6792,6 +6785,12 @@
    "novih": 0,
    "ukupno": 5463,
    "sekundi": 801.9
+  },
+  {
+   "vreme": "2026-11-28T05:21+00:00",
+   "novih": 0,
+   "ukupno": 5463,
+   "sekundi": 560.7
   }
  ],
  "licnosti_foto": {
@@ -37919,12 +37918,6 @@
   ],
   "istorija": [
    {
-    "t": 1795237709.3036342,
-    "id": "202611210010-5266af",
-    "x": "2124007014435004518",
-    "link": false
-   },
-   {
     "t": 1795243134.299782,
     "id": "202611210707-89a50b",
     "x": "2124029768072929786",
@@ -44272,7 +44265,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-28T04:58:30.046829+00:00",
+  "provereno": "2026-11-28T05:13:13.900353+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
