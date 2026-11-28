@@ -29,7 +29,7 @@
  ],
  "importance": 3,
  "published": "2026-11-28T13:46:29.037668+00:00",
- "updated": "2026-11-28T15:19:38.294097+00:00",
+ "updated": "2026-11-28T15:54:56.654455+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,12 +48,19 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/301741/sneg-u-loznici-putari-na-terenu-kolovoz-bez-snegasvi-imaju-redovno-snabdevanje-strujom/vest",
    "title": "Sneg u Loznici, putari na terenu, kolovoz bez snega,svi imaju redovno snabdevanje strujom",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4441604-sneg-u-loznici-putari-na-terenu-kolovoz-ociscen-evo-sta-je-sa-snabdevanjem-strujom",
+   "title": "Sneg u Loznici: Putari na terenu, kolovoz očišćen, evo šta je sa snabdevanjem strujom",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Sneg od jutros u Loznici, putari i komunalne ekipe na terenu, na kolovozu nema snega",
   "Sneg \"udario\" jako i u Loznici! Putari i komunalne ekipe na terenu, evo kako se odvija saobraćaj",
-  "Sneg u Loznici, putari na terenu, kolovoz bez snega,svi imaju redovno snabdevanje strujom"
+  "Sneg u Loznici, putari na terenu, kolovoz bez snega,svi imaju redovno snabdevanje strujom",
+  "Sneg u Loznici: Putari na terenu, kolovoz očišćen, evo šta je sa snabdevanjem strujom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +73,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Izlo%C5%BEba_%27Stari_grad_%C4%8Cakovec_-_na%C5%A1_dom%27_u_Muzeju_Me%C4%91imurja_(osnivanje_muzeja).jpg",
   "alt": "U Loznici pao prvi sneg, na gradskim kolovozima ga još nema, saobraćaj bez problema"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

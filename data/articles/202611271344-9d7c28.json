@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T12:44:20.867490+00:00",
- "updated": "2026-11-28T12:14:06.903798+00:00",
+ "updated": "2026-11-28T15:54:56.654455+00:00",
  "sources": [
   {
    "name": "Telegraf",
@@ -94,6 +94,12 @@
    "url": "https://www.danas.rs/svet/region/logor-u-morinju/",
    "title": "Hrvatska očekuje rešavanje otvorenih pitanja sa Crnom Gorom: Priznanje zločina u Morinju važnije od odštete",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4441616-otac-otkrio-gde-se-nalazi-vladimir-mandic",
+   "title": "Otac otkrio gde se nalazi Vladimir Mandić",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -106,7 +112,8 @@
   "Vlada Crne Gore izdvaja 18 miliona evra za obeštećenje hrvatskih državljana koji su bili zatočeni u logoru Morinj, kao i za porodice žrtava logora Lora",
   "Grlić Radman: Odluka Crne Gore o isplati odštete logorašima korak ka rešavanju otvorenih pitanja",
   "Plenković: Hrvatska ne blokira evropski put Crne Gore, otvorena pitanja su rešiva",
-  "Hrvatska očekuje rešavanje otvorenih pitanja sa Crnom Gorom: Priznanje zločina u Morinju važnije od odštete"
+  "Hrvatska očekuje rešavanje otvorenih pitanja sa Crnom Gorom: Priznanje zločina u Morinju važnije od odštete",
+  "Otac otkrio gde se nalazi Vladimir Mandić"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -119,7 +126,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Kralji%C4%8Dina_pla%C5%BEa_(Milo%C4%8Der,_Crna_Gora)_07.jpg",
   "alt": "Vlada Crne Gore odlučila o obeštećenju od 200.000 evra po porodici logoraša iz Lore"
  },
- "novo_od_pisanja": 3,
+ "novo_od_pisanja": 4,
  "boost": 1.6,
  "prepisano": "2026-11-27T15:35:52.749006+00:00",
  "verzija": 2

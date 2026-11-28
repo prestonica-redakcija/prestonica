@@ -28,17 +28,24 @@
  ],
  "importance": 7,
  "published": "2026-11-27T12:14:31.285146+00:00",
- "updated": "2026-11-27T12:14:31.285146+00:00",
+ "updated": "2026-11-28T15:54:56.654455+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/english/news/presidential-candidate-saicic-faith-gives-me-strength-to-keep-my-word-science-to-seek-evidence-life-to-take-responsibility/",
    "title": "Presidential candidate Saicic: Faith gives me strength to keep my word, science to seek evidence, life to take responsibility",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/studentski-pokret-sutra-prikuplja-potpise-za-kandidaturu-saicica-na-predsednickim-izborima/",
+   "title": "Studentski pokret sutra prikuplja potpise za kandidaturu Saičića na predsedničkim izborima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Presidential candidate Saicic: Faith gives me strength to keep my word, science to seek evidence, life to take responsibility"
+  "Presidential candidate Saicic: Faith gives me strength to keep my word, science to seek evidence, life to take responsibility",
+  "Studentski pokret sutra prikuplja potpise za kandidaturu Saičića na predsedničkim izborima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Radomir Saičić kandidat studentskog pokreta za predsednika Srbije"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
