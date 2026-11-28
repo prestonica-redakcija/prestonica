@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-28T08:35:14.442276+00:00",
- "updated": "2026-11-28T11:53:59.074899+00:00",
+ "updated": "2026-11-28T12:14:06.903798+00:00",
  "sources": [
   {
    "name": "N1",
@@ -78,6 +78,12 @@
    "url": "https://www.kurir.rs/planeta/10175480/snazna-eksplozija-raznela-skolu-u-avganistanu-ima-mrtvih-i-povredjenih",
    "title": "SNAŽNA EKSPLOZIJA RAZNELA ŠKOLU! Nastradala deca, ima na desetine mrtvih i povređenih, objavljeni stravični snimci tragedije u Avganistanu (FOTO/VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4441476-tragedija-u-avganistanu-sedam-ucenika-poginulo-97-povredjeno-u-eksploziji-blizu-skole-na-istoku",
+   "title": "Tragedija u Avganistanu! Sedam učenika poginulo, 97 povređeno u eksploziji blizu škole na istoku",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -88,7 +94,8 @@
   "Eksplozija u školi u Avganistanu: Poginulo i ranjeno više učenika (VIDEO)",
   "Sedam učenika poginulo, 97 povređeno u eksploziji blizu škole na istoku Avganistana",
   "EKSPLOZIJA KOD OSNOVNE ŠKOLE, SEDAM UČENIKA POGINULO, DO 99 POVREĐENO! Istraga ukazuje na obližnje skladište eksploziva! Tragedija u Avganistanu (VIDEO)",
-  "SNAŽNA EKSPLOZIJA RAZNELA ŠKOLU! Nastradala deca, ima na desetine mrtvih i povređenih, objavljeni stravični snimci tragedije u Avganistanu (FOTO/VIDEO)"
+  "SNAŽNA EKSPLOZIJA RAZNELA ŠKOLU! Nastradala deca, ima na desetine mrtvih i povređenih, objavljeni stravični snimci tragedije u Avganistanu (FOTO/VIDEO)",
+  "Tragedija u Avganistanu! Sedam učenika poginulo, 97 povređeno u eksploziji blizu škole na istoku"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -100,8 +107,8 @@
   "local": true,
   "alt": "Eksplozija u školi u avganistanskoj provinciji Kunar, stradalo ili povređeno više učenika"
  },
- "novo_od_pisanja": 2,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-28T11:34:37.631513+00:00",
  "verzija": 2
 }

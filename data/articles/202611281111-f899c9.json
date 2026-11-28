@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-28T10:11:28.827035+00:00",
- "updated": "2026-11-28T11:04:06.514258+00:00",
+ "updated": "2026-11-28T12:14:06.903798+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -42,11 +42,18 @@
    "url": "https://informer.rs/politika/vesti/1173957/rts-sindikati-traze-hitnu-ostavku-uskokovica",
    "title": "Potpuni raspad u \"oslobođenom\" RTS-u! Sindikati traže hitnu ostavku Borivoja Uskokovića - Objavili javno sve",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1675573/borivoje-uskokovic-rts-sindikati-ostavka-najnovije-vesti",
+   "title": "SINDIKATI RTS-A DALI USKOKOVIĆU TRI RADNA DANA DA PODNESE OSTAVKU: Ovo su 4 razloga zbog kojih traže njegov odlazak sa funkcije v.d. urednika",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Sindikati RTS-a traže ostavku urednika Informativnog programa",
-  "Potpuni raspad u \"oslobođenom\" RTS-u! Sindikati traže hitnu ostavku Borivoja Uskokovića - Objavili javno sve"
+  "Potpuni raspad u \"oslobođenom\" RTS-u! Sindikati traže hitnu ostavku Borivoja Uskokovića - Objavili javno sve",
+  "SINDIKATI RTS-A DALI USKOKOVIĆU TRI RADNA DANA DA PODNESE OSTAVKU: Ovo su 4 razloga zbog kojih traže njegov odlazak sa funkcije v.d. urednika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "alt": "This is a modern, professional news studio set",
   "link": "https://unsplash.com/@musgraphic"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
