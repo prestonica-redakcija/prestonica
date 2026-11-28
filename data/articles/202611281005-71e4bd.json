@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-28T09:05:08.151385+00:00",
- "updated": "2026-11-28T09:05:08.151385+00:00",
+ "updated": "2026-11-28T09:24:53.945612+00:00",
  "sources": [
   {
    "name": "N1",
@@ -51,12 +51,26 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4441384-ko-seje-strah-po-novom-sadu-uhapsen-osumnjiceni-za-bacanje-bombi-na-kucu-u-ceneju-traga-se-za-ostatkom-bande",
    "title": "Uhapšen osumnjičeni za bacanje bombi na kuću u Čeneju, traga se za ostatkom bande",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10175304/uhapsen-bombas-iz-novog-sada",
+   "title": "UHAPŠEN BOMBAŠ IZ NOVOG SADA, TRAGA SE ZA SAUČESNICIMA: Spalili dva automobila i bombama gađali kuću u Čeneju!",
+   "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/288829/istraga-protiv-osumnjicenog-za-vise-krivicnih-dela-u-sremskoj-kamenici-i-ceneju/vest",
+   "title": "VJT u Novom Sadu pokrenulo istragu za paljenje automobila i eksploziju u Sremskoj Kamenici i Čeneju",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Uhapšen osumnjičeni za bacanje bombi na kuću u Čeneju i paljenje automobila",
   "Uhapšen osumnjičeni za paljenje automobila u Sremskoj Kamenici i bacanje bombi na kuću u Čeneju",
-  "Uhapšen osumnjičeni za bacanje bombi na kuću u Čeneju, traga se za ostatkom bande"
+  "Uhapšen osumnjičeni za bacanje bombi na kuću u Čeneju, traga se za ostatkom bande",
+  "UHAPŠEN BOMBAŠ IZ NOVOG SADA, TRAGA SE ZA SAUČESNICIMA: Spalili dva automobila i bombama gađali kuću u Čeneju!",
+  "VJT u Novom Sadu pokrenulo istragu za paljenje automobila i eksploziju u Sremskoj Kamenici i Čeneju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,5 +82,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Beach_in_Novi_Sad_-_%C5%A0trand_01.jpg",
   "alt": "Uhapšen V. P. zbog paljenja automobila u Sremskoj Kamenici i bombi u Čeneju"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
