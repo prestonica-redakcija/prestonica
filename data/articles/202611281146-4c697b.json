@@ -28,17 +28,24 @@
  ],
  "importance": 5,
  "published": "2026-11-28T10:46:36.000295+00:00",
- "updated": "2026-11-28T10:46:36.000295+00:00",
+ "updated": "2026-11-28T12:34:39.217858+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/vesti/politika/1675545/milenko-jovanov-evropski-parlament-rezolucija-vukovaru-najnovije-vesti",
    "title": "JOVANOV O SRAMNOJ REZOLUCIJI O VUKOVARU: Da li srpska majka drugačije pati za svojim ubijenim detetom? Jesu li njene suze manje vredne?",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173983/jovanov-rezolucija-evropski-parlament-vukovar",
+   "title": "Jovanov o sramanoj rezoluciji o Vukovaru: \"Da li srpska majka drugačije pati za svojim ubijenim detetom, da li su njene suze manje vredne?!\"",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "JOVANOV O SRAMNOJ REZOLUCIJI O VUKOVARU: Da li srpska majka drugačije pati za svojim ubijenim detetom? Jesu li njene suze manje vredne?"
+  "JOVANOV O SRAMNOJ REZOLUCIJI O VUKOVARU: Da li srpska majka drugačije pati za svojim ubijenim detetom? Jesu li njene suze manje vredne?",
+  "Jovanov o sramanoj rezoluciji o Vukovaru: \"Da li srpska majka drugačije pati za svojim ubijenim detetom, da li su njene suze manje vredne?!\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "osoba": "Milenko Jovanov",
   "izvor_x": true,
   "alt": "Jovanov o rezoluciji Evropskog parlamenta o Vukovaru: Srpske žrtve nisu ravnopravne"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

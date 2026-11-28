@@ -29,17 +29,24 @@
  ],
  "importance": 5,
  "published": "2026-11-28T12:14:06.903798+00:00",
- "updated": "2026-11-28T12:14:06.903798+00:00",
+ "updated": "2026-11-28T12:34:39.217858+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/apel-puteva-srbije-bez-zimske-opreme-ne-krecite-na-put/",
    "title": "Apel Puteva Srbije: Bez zimske opreme ne krećite na put",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/putevi-srbije-bez-zimske-opreme-ne-krecite-na-put/",
+   "title": "Upozorenje Puteva Srbije: Glavni putevi bez snega, ali bez zimske opreme ne krećite na put",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Apel Puteva Srbije: Bez zimske opreme ne krećite na put"
+  "Apel Puteva Srbije: Bez zimske opreme ne krećite na put",
+  "Upozorenje Puteva Srbije: Glavni putevi bez snega, ali bez zimske opreme ne krećite na put"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "local": false,
   "alt": "road covered with snow",
   "link": "https://unsplash.com/@grundsteins"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

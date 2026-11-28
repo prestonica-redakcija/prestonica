@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-28T10:11:28.827035+00:00",
- "updated": "2026-11-28T12:14:06.903798+00:00",
+ "updated": "2026-11-28T12:34:39.217858+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -48,12 +48,26 @@
    "url": "https://www.novosti.rs/vesti/politika/1675573/borivoje-uskokovic-rts-sindikati-ostavka-najnovije-vesti",
    "title": "SINDIKATI RTS-A DALI USKOKOVIĆU TRI RADNA DANA DA PODNESE OSTAVKU: Ovo su 4 razloga zbog kojih traže njegov odlazak sa funkcije v.d. urednika",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10175506/sindikati-rts-a-traze-ostavku-borivoja-uskokovica",
+   "title": "UREDNIK INFORMATIVNOG PROGRAMA RTS NE ZNA KAD JE PALA NADSTREŠNICA! Sindikati traže ostavku Borivoja Uskokovića, dali mu ROK OD 3 DANA",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/254089/rts-sindikati-traze-ostavku-borivoja-uskokovica/vest",
+   "title": "Tri sindikata RTS-a traže ostavku Borivoja Uskokovića, dat rok od tri radna dana",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Sindikati RTS-a traže ostavku urednika Informativnog programa",
   "Potpuni raspad u \"oslobođenom\" RTS-u! Sindikati traže hitnu ostavku Borivoja Uskokovića - Objavili javno sve",
-  "SINDIKATI RTS-A DALI USKOKOVIĆU TRI RADNA DANA DA PODNESE OSTAVKU: Ovo su 4 razloga zbog kojih traže njegov odlazak sa funkcije v.d. urednika"
+  "SINDIKATI RTS-A DALI USKOKOVIĆU TRI RADNA DANA DA PODNESE OSTAVKU: Ovo su 4 razloga zbog kojih traže njegov odlazak sa funkcije v.d. urednika",
+  "UREDNIK INFORMATIVNOG PROGRAMA RTS NE ZNA KAD JE PALA NADSTREŠNICA! Sindikati traže ostavku Borivoja Uskokovića, dali mu ROK OD 3 DANA",
+  "Tri sindikata RTS-a traže ostavku Borivoja Uskokovića, dat rok od tri radna dana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -66,6 +80,6 @@
   "alt": "This is a modern, professional news studio set",
   "link": "https://unsplash.com/@musgraphic"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
