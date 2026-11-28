@@ -34,7 +34,7 @@
  ],
  "importance": 5,
  "published": "2026-11-28T13:46:29.037668+00:00",
- "updated": "2026-11-28T14:07:47.691711+00:00",
+ "updated": "2026-11-28T14:41:52.309760+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -47,11 +47,18 @@
    "url": "https://www.b92.net/biz/srbija/vesti/288884/eds-uprkos-snegu-i-vetru-snabdevanje-strujom-stabilno-u-vecem-delu-zemlje/vest",
    "title": "EDS: Uprkos snegu i vetru, snabdevanje strujom stabilno u većem delu zemlje",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4441551-eds-snabdevanje-strujom-stabilno-u-vecem-delu-zemlje-uprkos-snegu-i-vetru-u-ovim-delovima-prekidi",
+   "title": "EDS: Snabdevanje strujom stabilno u većem delu zemlje uprkos snegu i vetru, u ovim delovima prekidi",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "EDS: Snabdevanje strujom stabilno u većem delu zemlje uprkos snegu i vetru",
-  "EDS: Uprkos snegu i vetru, snabdevanje strujom stabilno u većem delu zemlje"
+  "EDS: Uprkos snegu i vetru, snabdevanje strujom stabilno u većem delu zemlje",
+  "EDS: Snabdevanje strujom stabilno u većem delu zemlje uprkos snegu i vetru, u ovim delovima prekidi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "alt": "snow covered road between trees during daytime",
   "link": "https://unsplash.com/@blakepnw"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

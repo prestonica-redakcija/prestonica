@@ -30,17 +30,24 @@
  ],
  "importance": 4,
  "published": "2026-11-28T11:19:44.341113+00:00",
- "updated": "2026-11-28T11:19:44.341113+00:00",
+ "updated": "2026-11-28T14:41:52.309760+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/opozicija-pred-nestankom/",
    "title": "Opozicija pred nestankom: Gube odbore, nemaju novca, a lideri bi mogli da napuste politiku",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/opozicija-pred-nestankom-da-li-su-buduci-lokalni-izbori-slamka-spasa-za-neke/",
+   "title": "Opozicija pred nestankom: Da li su budući lokalni izbori slamka spasa za neke",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Opozicija pred nestankom: Gube odbore, nemaju novca, a lideri bi mogli da napuste politiku"
+  "Opozicija pred nestankom: Gube odbore, nemaju novca, a lideri bi mogli da napuste politiku",
+  "Opozicija pred nestankom: Da li su budući lokalni izbori slamka spasa za neke"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -51,5 +58,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Sagovornici Danasa: ranija parlamentarna opozicija pasivna, lokalni izbori kao šansa"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
