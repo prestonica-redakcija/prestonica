@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.telegraf.rs/vesti/svet/4437760-tramp-sad-bi-mogle-da-nastave-velike-vojne-operacije-protiv-irana-posle-nove-godine": "2026-11-23T00:45:06.323827+00:00",
   "https://www.euronews.rs/srbija/politika/253168/skupstina-grada-danas-o-rebalansu-i-razresenju-sapica/vest": "2026-11-23T02:14:36.386027+00:00",
   "https://www.telegraf.rs/4437712-linta-kurti-nastavlja-progon-srba-rusenjem-njihove-imovine-na-gazivodama": "2026-11-23T02:14:36.386027+00:00",
   "https://biznis.telegraf.rs/info-biz/4437715-jovanovic-istorijski-uspeh-napredak-srbije-na-22-mesto-po-razvoju-elektronske-uprave": "2026-11-23T02:44:08.338838+00:00",
@@ -6436,12 +6435,6 @@
  "fokus": [],
  "runs": [
   {
-   "vreme": "2026-11-27T08:07+00:00",
-   "novih": 4,
-   "ukupno": 5158,
-   "sekundi": 825.9
-  },
-  {
    "vreme": "2026-11-27T08:23+00:00",
    "novih": 1,
    "ukupno": 5159,
@@ -6794,6 +6787,12 @@
    "novih": 2,
    "ukupno": 5461,
    "sekundi": 1054.7
+  },
+  {
+   "vreme": "2026-11-28T01:06+00:00",
+   "novih": 0,
+   "ukupno": 5461,
+   "sekundi": 582.9
   }
  ],
  "licnosti_foto": {
@@ -9757,23 +9756,23 @@
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "bibislav": {
     "since_id": "2126442276205261042",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "savomanojlovic": {
     "since_id": "2125708700589625615",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "zdravkoponos": {
     "since_id": "2123476746787860570",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "pavlegrbovic": {
     "since_id": "2126343391885541771",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "avucic": {
     "since_id": "2126433399090848033",
@@ -9861,11 +9860,11 @@
    },
    "dobrinacelnik": {
     "since_id": "2126262076494528952",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "jeremic_vuk": {
     "since_id": "2126221366361821336",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "boristadic58": {
     "since_id": "2126405214248870256",
@@ -9873,51 +9872,51 @@
    },
    "srdjanmil037": {
     "since_id": "2126193920988045589",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "zoranlutovac": {
     "since_id": "2126432420694044732",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "pajticbojan": {
     "since_id": "2124855975492407587",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "n_zelenovic": {
     "since_id": "2126324541660004598",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "boskoobradovic": {
     "since_id": "2123742987129635150",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "sasaradulovich": {
     "since_id": "2126274794605642115",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "zaklina_prva": {
     "since_id": "2126063515794542842",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "stevanoccrp": {
     "since_id": "2126316885264191832",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "igorbrakus": {
     "since_id": "2126279340581069171",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "radoholicar": {
     "since_id": "2123165000919326944",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "borakonj": {
     "since_id": "2126362666604089392",
@@ -9925,7 +9924,7 @@
    },
    "narodnipokrets": {
     "since_id": "2126294935741624614",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "direktnors": {
     "since_id": "2126412858712023526",
@@ -9977,7 +9976,7 @@
    },
    "nastraninaroda": {
     "since_id": "2126449327929233770",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "bcenzure": {
     "since_id": "2126406095832752255",
@@ -9993,11 +9992,11 @@
    },
    "nedeljniknin": {
     "since_id": "2126451000571806106",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "trajkovic_rada": {
     "since_id": "2123775843264569788",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "stateinl": {
     "since_id": "2124882590389924146",
@@ -10013,31 +10012,31 @@
    },
    "zatrijebacki": {
     "since_id": "2126260958750179348",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "srbininfo": {
-    "since_id": "2126429028236058891",
-    "t": 1795823004.2288327
+    "since_id": "2126462654159917419",
+    "t": 1795827406.879344
    },
    "mfaserbia": {
     "since_id": "2126272540578304439",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "izlaz_dot_com": {
     "since_id": "2126443244116439233",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "tihinavezi": {
     "since_id": "2126281131632844930",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "relativizacija": {
     "since_id": "2126396306616639981",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "seanmilanovic": {
     "since_id": "2126310539689099328",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    },
    "masinars": {
     "since_id": "2126428106512564549",
@@ -10045,7 +10044,7 @@
    },
    "claudedevs": {
     "since_id": "2125628717263372512",
-    "t": 1795823004.2288327
+    "t": 1795827406.879344
    }
   },
   "posts": [
@@ -10129,6 +10128,23 @@
     "prikazi": true,
     "rubrika": "politika",
     "tema": "Vučić o kandidaturi Saičića za predsednika Srbije",
+    "vest": "202611272133-53a21c"
+   },
+   {
+    "id": "2126462654159917419",
+    "x": "srbininfo",
+    "ime": "СРБИН инфо",
+    "grupa": "",
+    "uloga": "",
+    "text": "Uživo: Saičić protiv Dragana Vučićevića na predseničkim izborima?! Pljačka budžeta u najavi?\nhttps://t.co/AdfPc86Ayc https://t.co/z80djI62iq",
+    "published": "2026-11-27T23:46:19.000+00:00",
+    "lajk": 5,
+    "slike": [
+     "https://pbs.twimg.com/media/HYJ-0hCWcAECYxA.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Saičić i Vučićević kao mogući kandidati na predsedničkim izborima",
     "vest": "202611272133-53a21c"
    },
    {
@@ -21802,22 +21818,6 @@
     "prikazi": true,
     "rubrika": "politika",
     "tema": "Komentar o odevanju poslanika SNS i Studentske liste"
-   },
-   {
-    "id": "2125553133258412194",
-    "x": "TihiNaVezi",
-    "ime": "Tihi na vezi",
-    "grupa": "",
-    "uloga": "",
-    "text": "ŽELJKO MITROVIĆ, OD POTRČKA JUL-a DO VUČIĆEVOG MEDIJSKOG BATINAŠA! KOLIKO JE SRBIJU KOŠTALA NJEGOVA IMPERIJA?\n\nO zloupotrebi medijske moći Željka Mitrovića postoji čak i naučni rad dr Dejana Pralice, objavljen na Filozofskom fakultetu u Novom Sadu, koji analizira govor mržnje, https://t.co/g05ICXJlXQ",
-    "published": "2026-11-25T11:32:12.000+00:00",
-    "lajk": 37,
-    "slike": [
-     "https://pbs.twimg.com/media/HX97TmXW4AEr8oW.jpg"
-    ],
-    "prikazi": true,
-    "rubrika": "mediji",
-    "tema": "Željko Mitrović i medijska moć, naučni rad o govoru mržnje"
    }
   ],
   "pratim": [
@@ -44424,7 +44424,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-28T00:39:32.817148+00:00",
+  "provereno": "2026-11-28T00:57:06.165982+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
