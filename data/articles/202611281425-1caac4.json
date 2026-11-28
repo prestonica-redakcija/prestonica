@@ -26,7 +26,7 @@
  ],
  "importance": 3,
  "published": "2026-11-28T13:25:22.518133+00:00",
- "updated": "2026-11-28T14:07:47.691711+00:00",
+ "updated": "2026-11-28T14:25:01.801492+00:00",
  "sources": [
   {
    "name": "N1",
@@ -39,11 +39,25 @@
    "url": "https://nova.rs/vesti/hronika/uhapsena-osoba-za-kojom-je-bila-raspisana-potraga/",
    "title": "U Beogradu uhapšena osoba za kojom je bila raspisana potraga, nudila mito policajcima",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4441553-hapsenje-u-beogradu-zbog-davanja-mita-policajci-ga-zaustavili-pa-je-napravio-ozbiljnu-gresku",
+   "title": "Hapšenje u Beogradu zbog davanja mita: Policajci ga zaustavili, pa je napravio ozbiljnu grešku",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301756/u-beogradu-uhapsen-muskarac-osumnjicen-za-davanje-mita/vest",
+   "title": "U Beogradu uhapšen muškarac osumnjičen za davanje mita",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "MUP: Uhapšen muškarac za kojim je bila raspisana potraga, policajcima koji su ga zaustavili ponudio novac",
-  "U Beogradu uhapšena osoba za kojom je bila raspisana potraga, nudila mito policajcima"
+  "U Beogradu uhapšena osoba za kojom je bila raspisana potraga, nudila mito policajcima",
+  "Hapšenje u Beogradu zbog davanja mita: Policajci ga zaustavili, pa je napravio ozbiljnu grešku",
+  "U Beogradu uhapšen muškarac osumnjičen za davanje mita"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,6 +70,6 @@
   "alt": "a pair of scissors and a roll of money on a table",
   "link": "https://unsplash.com/@bermixstudio"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

@@ -28,7 +28,7 @@
  ],
  "importance": 6,
  "published": "2026-11-27T08:25:16.915436+00:00",
- "updated": "2026-11-28T08:05:34.850601+00:00",
+ "updated": "2026-11-28T14:25:01.801492+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -59,6 +59,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/rhmz-upozorenje-sneg-3/",
    "title": "RHMZ izdao upoznavanje: Biće i do 30 cm snega",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/magazin/vremenska-prognoza/tri-upozorenja-rhmz-za-srbiju-spremite-se-za-obilne-padavine/",
+   "title": "Tri upozorenja RHMZ za Srbiju: Spremite se za obilne padavine",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -66,7 +72,8 @@
   "RHMZ: Obilne padavine, sneg i stvaranje snežnih nanosa od večeras do nedelje",
   "RHMZ izdao upozorenje: Spremite se za sneg i obilne padavine – na udaru ovi delovi Srbije",
   "RHMZ izdao upozorenje na obilne padavine: U celoj zemlji kiša, u pojedinim delovima Srbije i sneg",
-  "RHMZ izdao upoznavanje: Biće i do 30 cm snega"
+  "RHMZ izdao upoznavanje: Biće i do 30 cm snega",
+  "Tri upozorenja RHMZ za Srbiju: Spremite se za obilne padavine"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -79,8 +86,8 @@
   "alt": "Cars driving on a snow-covered street at night",
   "link": "https://unsplash.com/@sivc"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 1,
+ "boost": 1.4,
  "prepisano": "2026-11-28T08:05:34.850601+00:00",
  "verzija": 2
 }

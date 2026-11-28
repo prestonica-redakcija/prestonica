@@ -27,7 +27,7 @@
  ],
  "importance": 4,
  "published": "2026-11-28T13:46:29.037668+00:00",
- "updated": "2026-11-28T13:46:29.037668+00:00",
+ "updated": "2026-11-28T14:25:01.801492+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -40,11 +40,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4441547-snezna-oluja-usporila-saobracaj-na-prometnom-delu-u-srbiji-kod-ovog-mesta-je-trenutno-najteze",
    "title": "Snežna oluja usporila saobraćaj na prometnom delu u Srbiji! Kod ovog mesta je trenutno najteže",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/video-sneg-na-auto-putu-milos-veliki-ako-krecete-na-put-pripremite-se-za-zimske-uslove/",
+   "title": "(VIDEO) Sneg na auto-putu \"Miloš Veliki\": Ako krećete na put, pripremite se za zimske uslove",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Snežna oluja usporila saobraćaj na auto-putu Miloš Veliki, najteže kod Rudnika",
-  "Snežna oluja usporila saobraćaj na prometnom delu u Srbiji! Kod ovog mesta je trenutno najteže"
+  "Snežna oluja usporila saobraćaj na prometnom delu u Srbiji! Kod ovog mesta je trenutno najteže",
+  "(VIDEO) Sneg na auto-putu \"Miloš Veliki\": Ako krećete na put, pripremite se za zimske uslove"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Wiki_%C5%A0umadija_XII_Auto-put_Milo%C5%A1_Veliki_036.jpg",
   "alt": "Sneg usporio saobraćaj na auto-putu Miloš Veliki, najteže kod Rudnika"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

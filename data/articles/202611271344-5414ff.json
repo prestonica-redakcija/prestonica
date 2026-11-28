@@ -27,17 +27,24 @@
  ],
  "importance": 4,
  "published": "2026-11-27T12:44:20.867490+00:00",
- "updated": "2026-11-27T12:44:20.867490+00:00",
+ "updated": "2026-11-28T14:25:01.801492+00:00",
  "sources": [
   {
    "name": "Večernje novosti",
    "url": "https://www.novosti.rs/ekonomija/vesti/1675317/riba-ponovo-centru-paznje-potrosaca-saran-najtrazeniji-ali-cena-visoka",
    "title": "RIBA PONOVO U CENTRU PAŽNjE POTROŠAČA: Šaran najtraženiji, ali cena visoka",
    "spektar": "vlast"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/biznis/pojedine-vrste-ribe-poskupele-i-za-1000-dinara/",
+   "title": "Šok cene ribe uoči božićnog posta: Pojedine vrste poskupele i za 1.000 dinara",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "RIBA PONOVO U CENTRU PAŽNjE POTROŠAČA: Šaran najtraženiji, ali cena visoka"
+  "RIBA PONOVO U CENTRU PAŽNjE POTROŠAČA: Šaran najtraženiji, ali cena visoka",
+  "Šok cene ribe uoči božićnog posta: Pojedine vrste poskupele i za 1.000 dinara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "alt": "silver and red fish on ice",
   "link": "https://unsplash.com/@tapanstock123"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
