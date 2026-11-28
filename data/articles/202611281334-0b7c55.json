@@ -25,16 +25,30 @@
  ],
  "importance": 4,
  "published": "2026-11-28T12:34:39.217858+00:00",
- "updated": "2026-11-28T12:34:39.217858+00:00",
+ "updated": "2026-11-28T13:07:04.591655+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/301735/naknade-za-eksploataciju-mineralnih-sirovina-u-srbiji-od-januara-vece-za-oko-4-odsto/vest",
    "title": "Naknade za eksploataciju mineralnih sirovina u Srbiji od januara veće za oko 4 odsto",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/288873/nove-naknade-od-1-januara-rastu-oko-4-odsto/vest",
+   "title": "Nove naknade od 1. januara: Rastu oko 4 odsto",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4441524-naknade-za-eksploataciju-mineralnih-sirovina-u-srbiji-od-januara-vece-za-oko-4-odsto",
+   "title": "Naknade za eksploataciju mineralnih sirovina u Srbiji od januara veće za oko 4 odsto",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
+  "Naknade za eksploataciju mineralnih sirovina u Srbiji od januara veće za oko 4 odsto",
+  "Nove naknade od 1. januara: Rastu oko 4 odsto",
   "Naknade za eksploataciju mineralnih sirovina u Srbiji od januara veće za oko 4 odsto"
  ],
  "author": "Redakcija Prestonice",
@@ -47,5 +61,7 @@
   "local": false,
   "alt": "white boxes",
   "link": "https://unsplash.com/@marianaproenca"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

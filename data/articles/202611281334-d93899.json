@@ -33,17 +33,24 @@
  ],
  "importance": 5,
  "published": "2026-11-28T12:34:39.217858+00:00",
- "updated": "2026-11-28T12:34:39.217858+00:00",
+ "updated": "2026-11-28T13:07:04.591655+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1173982/ans-dragan-j-vucicevic-tribina",
    "title": "Novinar ne sme biti politički zatvorenik! ANS organizuje tribinu povodom hapšenja Vučićevića, pratite iz minuta u minut",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1675586/novinar-sme-biti-politicki-zatvorenik-ans-organizuje-tribinu-povodom-hapsenja-vucicevica",
+   "title": "\"NOVINAR NE SME BITI POLITIČKI ZATVORENIK\" ANS organizuje tribinu povodom hapšenja Vučićevića",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Novinar ne sme biti politički zatvorenik! ANS organizuje tribinu povodom hapšenja Vučićevića, pratite iz minuta u minut"
+  "Novinar ne sme biti politički zatvorenik! ANS organizuje tribinu povodom hapšenja Vučićevića, pratite iz minuta u minut",
+  "\"NOVINAR NE SME BITI POLITIČKI ZATVORENIK\" ANS organizuje tribinu povodom hapšenja Vučićevića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "alt": "black video camera",
   "link": "https://unsplash.com/@mchesin"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

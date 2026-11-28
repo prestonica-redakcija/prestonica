@@ -31,7 +31,7 @@
  ],
  "importance": 7,
  "published": "2026-11-28T12:52:14.392085+00:00",
- "updated": "2026-11-28T12:52:14.392085+00:00",
+ "updated": "2026-11-28T13:07:04.591655+00:00",
  "sources": [
   {
    "name": "B92",
@@ -44,11 +44,32 @@
    "url": "https://www.kurir.rs/crna-hronika/10175517/vise-tuzilastvo-u-beogradu-reagovalo-na-obavezno-uputstvo-zagorke-dolovac",
    "title": "\"VRHOVNI JAVNI TUŽILAC NA NAJGRUBLJI NAČIN ZLOUPOTREBILA SVOJA OVLAŠĆENJA\" Više tužilaštvo u Beogradu reagovalo na obavezno uputstvo Zagorke Dolovac",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/vjt-vrhovni-javni-tuzilac-na-najgrublji-nacin-zloupotrebila-svoja-hijerarhijska-ovlascenja/",
+   "title": "VJT: Vrhovni javni tužilac na najgrublji način zloupotrebila svoja hijerarhijska ovlašćenja",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/254093/vjt-beograd-vrhovni-tuzilac-zloupotrebila-ovlascenja/vest",
+   "title": "VJT u Beogradu: Vrhovni javni tužilac zloupotrebila hijerarhijska ovlašćenja",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/vjt-vrhovni-javni-tuzilac-na-najgrublji-nacin-zloupotrebila-svoja-ovlascenja/",
+   "title": "VJT: Vrhovni javni tužilac na najgrublji način zloupotrebila svoja ovlašćenja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "VJT: Vrhovni javni tužilac zloupotrebila svoja hijerarhijska ovlašćenja",
-  "\"VRHOVNI JAVNI TUŽILAC NA NAJGRUBLJI NAČIN ZLOUPOTREBILA SVOJA OVLAŠĆENJA\" Više tužilaštvo u Beogradu reagovalo na obavezno uputstvo Zagorke Dolovac"
+  "\"VRHOVNI JAVNI TUŽILAC NA NAJGRUBLJI NAČIN ZLOUPOTREBILA SVOJA OVLAŠĆENJA\" Više tužilaštvo u Beogradu reagovalo na obavezno uputstvo Zagorke Dolovac",
+  "VJT: Vrhovni javni tužilac na najgrublji način zloupotrebila svoja hijerarhijska ovlašćenja",
+  "VJT u Beogradu: Vrhovni javni tužilac zloupotrebila hijerarhijska ovlašćenja",
+  "VJT: Vrhovni javni tužilac na najgrublji način zloupotrebila svoja ovlašćenja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +80,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Više javno tužilaštvo u Beogradu: Dolovac zloupotrebila hijerarhijska ovlašćenja"
- }
+ },
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
