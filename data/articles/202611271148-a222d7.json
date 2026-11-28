@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T10:48:25.392298+00:00",
- "updated": "2026-11-27T10:48:25.392298+00:00",
+ "updated": "2026-11-28T13:46:29.037668+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -44,11 +44,18 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4440902-milatovic-se-sastao-sa-cupicem-da-umesto-politickih-tenzija-govorimo-o-razvoju-umesto-podela-o-povezivanju",
    "title": "Milatović se sastao sa Čupićem: \"Da umesto političkih tenzija govorimo o razvoju, umesto podela o povezivanju\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/254098/cupic-posle-ohrida-srbija-vodi-uravnotezenu-politiku/vest",
+   "title": "Novo poglavlje u odnosima regiona, Čupić posle samita u Ohridu: Srbija vodi uravnoteženu i doslednu spoljnu politiku",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Milatović sa Čupićem: „Umesto političkih tenzija i podela, okrenimo se razvoju i povezivanju“",
-  "Milatović se sastao sa Čupićem: \"Da umesto političkih tenzija govorimo o razvoju, umesto podela o povezivanju\""
+  "Milatović se sastao sa Čupićem: \"Da umesto političkih tenzija govorimo o razvoju, umesto podela o povezivanju\"",
+  "Novo poglavlje u odnosima regiona, Čupić posle samita u Ohridu: Srbija vodi uravnoteženu i doslednu spoljnu politiku"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Kralji%C4%8Dina_pla%C5%BEa_(Milo%C4%8Der,_Crna_Gora)_02.jpg",
   "alt": "Milatović i Čupić u Ohridu: novo poglavlje odnosa Crne Gore i Srbije"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

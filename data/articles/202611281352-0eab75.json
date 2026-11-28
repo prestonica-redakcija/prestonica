@@ -31,7 +31,7 @@
  ],
  "importance": 7,
  "published": "2026-11-28T12:52:14.392085+00:00",
- "updated": "2026-11-28T13:25:22.518133+00:00",
+ "updated": "2026-11-28T13:46:29.037668+00:00",
  "sources": [
   {
    "name": "B92",
@@ -68,6 +68,12 @@
    "url": "https://informer.rs/politika/vesti/1174000/vjt-saopstenje-skandal-zagorka-dolovac-zloupotreba",
    "title": "Isplivao novi skandal Zagorke Dolovac! VJT u Beogradu raskrinkalo zloupotrebu ovlašćenja vrhovnog javnog tužioca i udar na tužioce",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301748/vise-javno-tuzilastvo-u-beogradu-vrhovni-javni-tuzilac-zloupotrebila-svoja-hijerarhijska-ovlascenja/vest",
+   "title": "Više javno tužilaštvo u Beogradu: Vrhovni javni tužilac zloupotrebila svoja hijerarhijska ovlašćenja",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -76,7 +82,8 @@
   "VJT: Vrhovni javni tužilac na najgrublji način zloupotrebila svoja hijerarhijska ovlašćenja",
   "VJT u Beogradu: Vrhovni javni tužilac zloupotrebila hijerarhijska ovlašćenja",
   "VJT: Vrhovni javni tužilac na najgrublji način zloupotrebila svoja ovlašćenja",
-  "Isplivao novi skandal Zagorke Dolovac! VJT u Beogradu raskrinkalo zloupotrebu ovlašćenja vrhovnog javnog tužioca i udar na tužioce"
+  "Isplivao novi skandal Zagorke Dolovac! VJT u Beogradu raskrinkalo zloupotrebu ovlašćenja vrhovnog javnog tužioca i udar na tužioce",
+  "Više javno tužilaštvo u Beogradu: Vrhovni javni tužilac zloupotrebila svoja hijerarhijska ovlašćenja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -88,6 +95,6 @@
   "local": true,
   "alt": "Više javno tužilaštvo u Beogradu: Dolovac zloupotrebila hijerarhijska ovlašćenja"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

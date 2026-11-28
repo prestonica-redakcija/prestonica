@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-28T13:07:04.591655+00:00",
- "updated": "2026-11-28T13:07:04.591655+00:00",
+ "updated": "2026-11-28T13:46:29.037668+00:00",
  "sources": [
   {
    "name": "B92",
@@ -40,11 +40,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4441539-incident-u-skoli-u-cacku-ucenik-rekao-da-ima-spisak-vrsnjaka-i-uputio-uzasnu-pretnju-reagovali-nadlezni",
    "title": "Incident u školi u Čačku: Učenik rekao da ima spisak vršnjaka i uputio užasnu pretnju, reagovali nadležni",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/crna-hronika/10175570/incident-u-cacku-ucenik-pretio-vrsnjacima",
+   "title": "UČENIK PRETIO DRUGARIMA DA ĆE PROĆI GORE NEGO DECA U \"RIBNIKARU\" Stravičan incident u školi u Čačku, direktor odmah zvao policiju!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Učenik iz Čačka zapretio vršnjacima: \"Proći ćete gore nego deca u Ribnikaru\"; Reagovala policija",
-  "Incident u školi u Čačku: Učenik rekao da ima spisak vršnjaka i uputio užasnu pretnju, reagovali nadležni"
+  "Incident u školi u Čačku: Učenik rekao da ima spisak vršnjaka i uputio užasnu pretnju, reagovali nadležni",
+  "UČENIK PRETIO DRUGARIMA DA ĆE PROĆI GORE NEGO DECA U \"RIBNIKARU\" Stravičan incident u školi u Čačku, direktor odmah zvao policiju!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Čačak: učenik zapretio vršnjacima, policija i nadležni obavešteni"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-28T13:07:04.591655+00:00",
- "updated": "2026-11-28T13:07:04.591655+00:00",
+ "updated": "2026-11-28T13:46:29.037668+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -40,11 +40,18 @@
    "url": "https://www.kurir.rs/planeta/10175530/najavljen-strajk-zaposlenih-na-pariskim-aerodromima-u-decembru",
    "title": "RADNICI TRAŽE VEĆE PLATE, A RUKOVODSTVO DAJE MILIONE AKCIONARIMA! Zaposleni na pariskim aerodromima pozvani na višednevni štrajk tokom praznika",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4441536-najavljen-cetvorodnevni-strajk-pre-bozica-na-pariskim-aerodromima-sta-traze-radnici-i-zasto-je-eskaliralo",
+   "title": "Najavljen četvorodnevni štrajk pre Božića na pariskim aerodromima: Šta traže radnici i zašto je eskaliralo?",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Najavljen četvorodnevni štrajk pre Božića na pariskim aerodromima",
-  "RADNICI TRAŽE VEĆE PLATE, A RUKOVODSTVO DAJE MILIONE AKCIONARIMA! Zaposleni na pariskim aerodromima pozvani na višednevni štrajk tokom praznika"
+  "RADNICI TRAŽE VEĆE PLATE, A RUKOVODSTVO DAJE MILIONE AKCIONARIMA! Zaposleni na pariskim aerodromima pozvani na višednevni štrajk tokom praznika",
+  "Najavljen četvorodnevni štrajk pre Božića na pariskim aerodromima: Šta traže radnici i zašto je eskaliralo?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Sindikati najavili štrajk na pariskim aerodromima od 17. do 20. decembra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

@@ -40,17 +40,24 @@
  ],
  "importance": 6,
  "published": "2026-11-27T08:40:28.545868+00:00",
- "updated": "2026-11-27T08:40:28.545868+00:00",
+ "updated": "2026-11-28T13:46:29.037668+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/svet/donald-tramp-vladimir-putin-vojna-agresija-evropa/",
    "title": "Tramp tvrdi da je zatražio od Putina da \"obustavi vojnu agresiju širom Evrope\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288878/ukrajina-trazi-uklanjanje-dzareda-kusnera-iz-pregovarackog-tima-sad/vest",
+   "title": "Traži se smena u Vašingtonu – sve zbog Putina",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Tramp tvrdi da je zatražio od Putina da \"obustavi vojnu agresiju širom Evrope\""
+  "Tramp tvrdi da je zatražio od Putina da \"obustavi vojnu agresiju širom Evrope\"",
+  "Traži se smena u Vašingtonu – sve zbog Putina"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "local": false,
   "alt": "2 men in black suit sitting on red chair",
   "link": "https://unsplash.com/@historyhd"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

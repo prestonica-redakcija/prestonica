@@ -29,16 +29,30 @@
  ],
  "importance": 4,
  "published": "2026-11-28T13:25:22.518133+00:00",
- "updated": "2026-11-28T13:25:22.518133+00:00",
+ "updated": "2026-11-28T13:46:29.037668+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/studentski-pokret-apeluje-na-izvrsitelje-da-se-uzdrze-od-iseljenja-napravicemo-sistem-zasnovan-na-humanosti-i-pravicnosti/",
    "title": "Studentski pokret apeluje na izvršitelje da se uzdrže od iseljenja: Napravićemo sistem zasnovan na humanosti i pravičnosti",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/studentski-pokret-pozvao-izvrsitelje-da-se-uzdrze-od-prinudnih-iseljenja-porodica-iz-domova-najavili-izmene-zakona-o-izvrsenju",
+   "title": "Studentski pokret pozvao izvršitelje da se uzdrže od prinudnih iseljenja porodica iz domova, najavili izmene Zakona o izvršenju",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/studentski-pokret-apeluje-na-izvrsitelje-da-se-uzdrze-od-iseljenja-napravicemo-sistem-zasnovan-na-humanosti-i-pravicnosti/",
+   "title": "Studentski pokret apeluje na izvršitelje da se uzdrže od iseljenja: Napravićemo sistem zasnovan na humanosti i pravičnosti",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Studentski pokret apeluje na izvršitelje da se uzdrže od iseljenja: Napravićemo sistem zasnovan na humanosti i pravičnosti",
+  "Studentski pokret pozvao izvršitelje da se uzdrže od prinudnih iseljenja porodica iz domova, najavili izmene Zakona o izvršenju",
   "Studentski pokret apeluje na izvršitelje da se uzdrže od iseljenja: Napravićemo sistem zasnovan na humanosti i pravičnosti"
  ],
  "author": "Redakcija Prestonice",
@@ -51,5 +65,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:C1.05g_Bf_Novi_Beograd,_901_001.jpg",
   "alt": "Studentski pokret traži od izvršitelja da odlože iseljenje porodice Peruničić"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

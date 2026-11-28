@@ -29,7 +29,7 @@
  ],
  "importance": 8,
  "published": "2026-11-28T10:11:28.827035+00:00",
- "updated": "2026-11-28T10:46:36.000295+00:00",
+ "updated": "2026-11-28T13:46:29.037668+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,18 @@
    "url": "https://www.danas.rs/vesti/politika/komisija-biracki-spisak/",
    "title": "Izveštaj Komisije: U biračkom spisku skoro 900.000 birača više nego punoletnih građana i gotovo 1.500 birača starijih od 100 godina",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/4441552-komisija-u-birackom-spisku-879000-biraca-vise-nego-punoletnih-gradjana-postoji-obrazac-organizovanih-upisa",
+   "title": "Komisija: U biračkom spisku 879.000 birača više nego punoletnih građana, postoji obrazac organizovanih upisa",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "U biračkom spisku 900.000 više ljudi nego punoletnih građana, kao i 1.500 birača starijih od 100 godina",
-  "Izveštaj Komisije: U biračkom spisku skoro 900.000 birača više nego punoletnih građana i gotovo 1.500 birača starijih od 100 godina"
+  "Izveštaj Komisije: U biračkom spisku skoro 900.000 birača više nego punoletnih građana i gotovo 1.500 birača starijih od 100 godina",
+  "Komisija: U biračkom spisku 879.000 birača više nego punoletnih građana, postoji obrazac organizovanih upisa"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "alt": "a sign on a sidewalk in front of a building",
   "link": "https://unsplash.com/@oksdesign"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
