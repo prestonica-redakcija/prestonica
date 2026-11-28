@@ -30,17 +30,24 @@
  ],
  "importance": 6,
  "published": "2026-11-27T21:05:27.086557+00:00",
- "updated": "2026-11-27T21:05:27.086557+00:00",
+ "updated": "2026-11-28T16:11:32.967467+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/vesti/poslanica-studentske-liste-kampanja-za-predsednicke-izbore-nece-usporiti-dogovore-oko-nove-vlade/",
    "title": "Poslanica Studentske liste: Kampanja za predsedničke izbore neće usporiti dogovore oko nove vlade",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/video/novi-dan/tema-jutra-kampanja-za-izbor-predsednika-28112026/",
+   "title": "Tema jutra: Kampanja za izbor predsednika (28.11.2026)",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Poslanica Studentske liste: Kampanja za predsedničke izbore neće usporiti dogovore oko nove vlade"
+  "Poslanica Studentske liste: Kampanja za predsedničke izbore neće usporiti dogovore oko nove vlade",
+  "Tema jutra: Kampanja za izbor predsednika (28.11.2026)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "National assembly building with traffic and clear sky",
   "link": "https://unsplash.com/@borzenkov"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

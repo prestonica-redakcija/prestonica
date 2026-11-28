@@ -28,7 +28,7 @@
  ],
  "importance": 7,
  "published": "2026-11-27T12:14:31.285146+00:00",
- "updated": "2026-11-28T15:54:56.654455+00:00",
+ "updated": "2026-11-28T16:11:32.967467+00:00",
  "sources": [
   {
    "name": "N1",
@@ -41,11 +41,25 @@
    "url": "https://n1info.rs/vesti/studentski-pokret-sutra-prikuplja-potpise-za-kandidaturu-saicica-na-predsednickim-izborima/",
    "title": "Studentski pokret sutra prikuplja potpise za kandidaturu Saičića na predsedničkim izborima",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/rts-preminula-novinarka-i-knjizevnica-jelena-mesic-gak/",
+   "title": "Studentski pokret sutra prikuplja potpise za kandidaturu Saičića na predsedničkim izborima",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10175738/radomir-saicic-prikupljanje-potpisa-kandidatura",
+   "title": "STUDENTSKI POKRET SUTRA PRIKUPLJA POTPISE ŠIROM SRBIJE: Podrška kandidaturi Radomira Saičića za predsednika",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Presidential candidate Saicic: Faith gives me strength to keep my word, science to seek evidence, life to take responsibility",
-  "Studentski pokret sutra prikuplja potpise za kandidaturu Saičića na predsedničkim izborima"
+  "Studentski pokret sutra prikuplja potpise za kandidaturu Saičića na predsedničkim izborima",
+  "Studentski pokret sutra prikuplja potpise za kandidaturu Saičića na predsedničkim izborima",
+  "STUDENTSKI POKRET SUTRA PRIKUPLJA POTPISE ŠIROM SRBIJE: Podrška kandidaturi Radomira Saičića za predsednika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,6 +71,6 @@
   "local": true,
   "alt": "Radomir Saičić kandidat studentskog pokreta za predsednika Srbije"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
