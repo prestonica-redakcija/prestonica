@@ -28,17 +28,24 @@
  ],
  "importance": 6,
  "published": "2026-11-28T09:24:53.945612+00:00",
- "updated": "2026-11-28T09:24:53.945612+00:00",
+ "updated": "2026-11-28T11:04:06.514258+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/biz/srbija/vesti/288825/stanic-eventulano-otkazivanje-expo-2027-poljulalo-bi-ugled-srbije-u-svetu/vest",
    "title": "\"Eventulano otkazivanje EXPO 2027 poljulalo bi ugled Srbije u svetu\"",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/288825/stanic-eventualno-otkazivanje-expo-2027-poljuljalo-bi-ugled-srbije-u-svetu/vest",
+   "title": "\"Eventualno otkazivanje EXPO 2027 poljuljalo bi ugled Srbije u svetu\"",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "\"Eventulano otkazivanje EXPO 2027 poljulalo bi ugled Srbije u svetu\""
+  "\"Eventulano otkazivanje EXPO 2027 poljulalo bi ugled Srbije u svetu\"",
+  "\"Eventualno otkazivanje EXPO 2027 poljuljalo bi ugled Srbije u svetu\""
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Ministarstvo_finansija.jpg",
   "alt": "Stanić: Otkazivanje Ekspa 2027 naneло bi ekonomsku i političku štetu Srbiji"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

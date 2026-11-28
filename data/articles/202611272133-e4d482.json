@@ -31,7 +31,7 @@
  ],
  "importance": 4,
  "published": "2026-11-27T20:33:52.452672+00:00",
- "updated": "2026-11-27T20:48:43.466542+00:00",
+ "updated": "2026-11-28T11:04:06.514258+00:00",
  "sources": [
   {
    "name": "N1",
@@ -50,12 +50,19 @@
    "url": "https://nova.rs/vesti/politika/razresen-lav-pajkic-i-jos-sest-drzavnih-sekretara/",
    "title": "Razrešen Lav Pajkić i još šest državnih sekretara",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/politika/lav-pajkic-drzavni-sekretar/",
+   "title": "Od podmlatka SNP do Ministarstva kulture: Ko je Lav Pajkić, razrešeni državni sekretar?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Razrešen Lav Pajkić i još nekoliko državnih sekretara",
   "Lav Pajkić i drugi državni sekretari razrešeni dužnosti u ministarstvima",
-  "Razrešen Lav Pajkić i još šest državnih sekretara"
+  "Razrešen Lav Pajkić i još šest državnih sekretara",
+  "Od podmlatka SNP do Ministarstva kulture: Ko je Lav Pajkić, razrešeni državni sekretar?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Ministarstvo_Kulture_-_panoramio.jpg",
   "alt": "Vlada razrešila sedam državnih sekretara u ministarstvima privrede i kulture"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
