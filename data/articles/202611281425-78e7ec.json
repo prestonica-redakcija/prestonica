@@ -33,7 +33,7 @@
  ],
  "importance": 4,
  "published": "2026-11-28T13:25:22.518133+00:00",
- "updated": "2026-11-28T13:25:22.518133+00:00",
+ "updated": "2026-11-28T14:07:47.691711+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,11 +46,18 @@
    "url": "https://www.kurir.rs/planeta/10175566/ukrajina-pokrenula-masovni-napad-dronovima-na-moskvu",
    "title": "UKRAJINA POKRENULA MASOVNI NAPAD NA MOSKVU! Na rusku prestonicu lansirano 460 dronova-kamikaza! Rusi tvrde: \"Oborili smo 1.246 bespilotnih letelica\" (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/301710/pvo-rusije-do-sada-oborila-vise-od-300000-ukrajinskih-dronova/vest",
+   "title": "PVO Rusije do sada oborila više od 300.000 ukrajinskih dronova",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Ruska vojska odbila jedan od najmasovnijih napada dronovima, uništeno 1.246 dronova",
-  "UKRAJINA POKRENULA MASOVNI NAPAD NA MOSKVU! Na rusku prestonicu lansirano 460 dronova-kamikaza! Rusi tvrde: \"Oborili smo 1.246 bespilotnih letelica\" (VIDEO)"
+  "UKRAJINA POKRENULA MASOVNI NAPAD NA MOSKVU! Na rusku prestonicu lansirano 460 dronova-kamikaza! Rusi tvrde: \"Oborili smo 1.246 bespilotnih letelica\" (VIDEO)",
+  "PVO Rusije do sada oborila više od 300.000 ukrajinskih dronova"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "local": false,
   "alt": "building beside body of waters",
   "link": "https://unsplash.com/@serge_k"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

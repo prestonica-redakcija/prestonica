@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-28T13:46:29.037668+00:00",
- "updated": "2026-11-28T13:46:29.037668+00:00",
+ "updated": "2026-11-28T14:07:47.691711+00:00",
  "sources": [
   {
    "name": "N1",
@@ -45,9 +45,16 @@
    "url": "https://www.danas.rs/svet/protesti-u-tirani/",
    "title": "Sukobi na protestima u Tirani i pozivi na ostavku Edija Rame",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/sukobi-na-protestima-u-tirani/",
+   "title": "Sukobi na protestima u Tirani i pozivi na ostavku Edija Rame",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Sukobi na protestima u Tirani i pozivi na ostavku Edija Rame",
   "Sukobi na protestima u Tirani i pozivi na ostavku Edija Rame",
   "Sukobi na protestima u Tirani i pozivi na ostavku Edija Rame"
  ],
@@ -61,5 +68,7 @@
   "local": false,
   "alt": "A person walks in rain with an umbrella",
   "link": "https://unsplash.com/@zachwear"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
