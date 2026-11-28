@@ -27,17 +27,24 @@
  ],
  "importance": 3,
  "published": "2026-11-27T17:40:34.767075+00:00",
- "updated": "2026-11-27T17:40:34.767075+00:00",
+ "updated": "2026-11-28T05:57:22.206342+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/zabava/zena/10172719/svestenik-ukazao-na-greske-koje-mnogi-prave-tokom-bozicnog-posta",
    "title": "Sveštenik ukazao na greške koje mnogi prave tokom Božićnog posta koji počinje ove subote",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/zivot/poceo-bozicni-post-pravila-ishrana-obicaji/",
+   "title": "Počeo je Božićni post: Pravila, običaji i simbolika",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Sveštenik ukazao na greške koje mnogi prave tokom Božićnog posta koji počinje ove subote"
+  "Sveštenik ukazao na greške koje mnogi prave tokom Božićnog posta koji počinje ove subote",
+  "Počeo je Božićni post: Pravila, običaji i simbolika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -49,5 +56,7 @@
   "local": false,
   "alt": "lighted candle inside temple",
   "link": "https://unsplash.com/@olga_kononenko"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
