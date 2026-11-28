@@ -1,12 +1,5 @@
 {
  "seen": {
-  "https://www.telegraf.rs/vesti/srbija/4437801-stanje-na-granicnim-prelazima-u-5-ujutru-na-batrovcima-teretna-vozila-cekaju-tri-sata-na-izlaz": "2026-11-23T05:27:54.459366+00:00",
-  "https://www.tanjug.rs/svet/politika/300061/tramp-cene-nafte-su-se-srusile-nakon-srednjorocnih-izbora-sve-je-bila-prevara/vest": "2026-11-23T05:27:54.459366+00:00",
-  "https://biznis.telegraf.rs/info-biz/4437800-tramp-ostro-cene-nafte-su-se-srusile-nakon-srednjorocnih-izbora-sve-je-bila-prevara": "2026-11-23T05:27:54.459366+00:00",
-  "https://www.kurir.rs/stars/10169597/dara-bubamara-opet-isprozivala-jk": "2026-11-23T05:27:54.459366+00:00",
-  "https://www.euronews.rs/srbija/politika/253161/linta-kurti-nastavlja-progon-srba-rusenjem-na-gazivodama/vest": "2026-11-23T05:42:38.846068+00:00",
-  "https://n1info.rs/biznis/najnoviji-oglasi-za-posao-23112026/": "2026-11-23T05:42:38.846068+00:00",
-  "https://www.telegraf.rs/4437802-ovo-su-najvaznije-odluke-o-srbiji-o-kojim-je-sinoc-pricao-aleksandar-cupic": "2026-11-23T05:42:38.846068+00:00",
   "https://nova.rs/magazin/vremenska-prognoza/vremenska-prognoza-23-novembar-2026/": "2026-11-23T05:57:26.888889+00:00",
   "https://www.telegraf.rs/vesti/srbija/4437804-prognoza-rhmz-za-23-novembar-oblacno-i-osetno-hladnije-mestimicno-sa-kisom-na-planinama-sneg": "2026-11-23T05:57:26.888889+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/253149/kraj-spekulacijama-o-ceni-peleta-evo-sta-ceka-srbiju/vest": "2026-11-23T05:57:26.888889+00:00",
@@ -6424,18 +6417,14 @@
   "https://www.euronews.rs/biznis/biznis-vesti/254012/srednji-kurs-dinara-za-evro-1176464/vest": "2026-11-28T04:07:14.635425+00:00",
   "https://www.kurir.rs/zabava/zena/10174865/kako-napraviti-posni-majonez-recept": "2026-11-28T04:40:23.827463+00:00",
   "https://www.kurir.rs/vesti/beograd/10174848/iskljucenja-struje-u-paliluli-i-novom-beogradu": "2026-11-28T05:27:36.154991+00:00",
-  "https://www.kurir.rs/stars/10173871/sanja-brnovic-iz-velikog-brata-nekad-i-sad": "2026-11-28T05:27:36.154991+00:00"
+  "https://www.kurir.rs/stars/10173871/sanja-brnovic-iz-velikog-brata-nekad-i-sad": "2026-11-28T05:27:36.154991+00:00",
+  "https://www.euronews.rs/biznis/biznis-vesti/253796/ruske-firme-gube-42-milijarde-rubalja-mesecno/vest": "2026-11-28T05:42:39.502057+00:00",
+  "https://www.kurir.rs/stars/10174515/naslednice-gorana-bregovica-ne-pricaju-na-srpskom-sve-3-su-razlicite-vere": "2026-11-28T05:42:39.502057+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-27T12:57+00:00",
-   "novih": 7,
-   "ukupno": 5267,
-   "sekundi": 787.3
-  },
   {
    "vreme": "2026-11-27T13:12+00:00",
    "novih": 1,
@@ -6789,6 +6778,12 @@
    "novih": 1,
    "ukupno": 5464,
    "sekundi": 831.4
+  },
+  {
+   "vreme": "2026-11-28T05:54+00:00",
+   "novih": 1,
+   "ukupno": 5465,
+   "sekundi": 732.9
   }
  ],
  "licnosti_foto": {
@@ -37647,6 +37642,10 @@
      "naslov": "Шеталиште поред Саве, Парк Ушће, Нови Београд 08.jpg"
     }
    ]
+  },
+  "t:gugl plej": {
+   "t": 1795844582.1898842,
+   "items": []
   }
  },
  "x_objave": {
@@ -44385,7 +44384,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-28T05:28:39.539594+00:00",
+  "provereno": "2026-11-28T05:43:30.847161+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
