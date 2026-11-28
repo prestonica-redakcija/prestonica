@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-28T09:05:08.151385+00:00",
- "updated": "2026-11-28T09:24:53.945612+00:00",
+ "updated": "2026-11-28T09:41:54.782270+00:00",
  "sources": [
   {
    "name": "N1",
@@ -63,6 +63,18 @@
    "url": "https://www.b92.net/info/hronika/288829/istraga-protiv-osumnjicenog-za-vise-krivicnih-dela-u-sremskoj-kamenici-i-ceneju/vest",
    "title": "VJT u Novom Sadu pokrenulo istragu za paljenje automobila i eksploziju u Sremskoj Kamenici i Čeneju",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301695/istraga-protiv-osumnjicenog-za-vise-krivicnih-dela-u-sremskoj-kamenici-i-ceneju/vest",
+   "title": "Istraga protiv osumnjičenog za više krivičnih dela u Sremskoj Kamenici i Čeneju",
+   "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/bomba-cenej/",
+   "title": "Uhapšen osumnjičeni za bacanje bombe u Čeneju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -70,7 +82,9 @@
   "Uhapšen osumnjičeni za paljenje automobila u Sremskoj Kamenici i bacanje bombi na kuću u Čeneju",
   "Uhapšen osumnjičeni za bacanje bombi na kuću u Čeneju, traga se za ostatkom bande",
   "UHAPŠEN BOMBAŠ IZ NOVOG SADA, TRAGA SE ZA SAUČESNICIMA: Spalili dva automobila i bombama gađali kuću u Čeneju!",
-  "VJT u Novom Sadu pokrenulo istragu za paljenje automobila i eksploziju u Sremskoj Kamenici i Čeneju"
+  "VJT u Novom Sadu pokrenulo istragu za paljenje automobila i eksploziju u Sremskoj Kamenici i Čeneju",
+  "Istraga protiv osumnjičenog za više krivičnih dela u Sremskoj Kamenici i Čeneju",
+  "Uhapšen osumnjičeni za bacanje bombe u Čeneju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -83,6 +97,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Beach_in_Novi_Sad_-_%C5%A0trand_01.jpg",
   "alt": "Uhapšen V. P. zbog paljenja automobila u Sremskoj Kamenici i bombi u Čeneju"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

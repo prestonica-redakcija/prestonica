@@ -27,7 +27,7 @@
  ],
  "importance": 5,
  "published": "2026-11-26T23:03:45.194421+00:00",
- "updated": "2026-11-27T22:19:51.921365+00:00",
+ "updated": "2026-11-28T09:41:54.782270+00:00",
  "sources": [
   {
    "name": "N1",
@@ -52,13 +52,20 @@
    "url": "https://n1info.rs/vesti/kfor-sastanak-u-pristini-sa-pripadnicima-vojske-srbije-deo-redovnih-aktivnosti-zasnovanih-na-rezoluciji-1244/",
    "title": "KFOR: Sastanak u Prištini sa pripadnicima Vojske Srbije deo redovnih aktivnosti zasnovanih na Rezoluciji 1244",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/drustvo/predstavnici-vojske-srbije-se-sastali-sa-predstavnicima-kfor-a-u-pristini/",
+   "title": "Predstavnici Vojske Srbije se sastali sa predstavnicima KFOR-a u Prištini",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "KFOR, Serbian Armed Forces personnel meet in Pristina",
   "Predstavnici KFOR-a i Vojske Srbije sastali se u Prištini",
   "POSVEĆENI REZOLUCIJI 1244: Predstavnici KFOR-a i Vojske Srbije sastali se u Prištini",
-  "KFOR: Sastanak u Prištini sa pripadnicima Vojske Srbije deo redovnih aktivnosti zasnovanih na Rezoluciji 1244"
+  "KFOR: Sastanak u Prištini sa pripadnicima Vojske Srbije deo redovnih aktivnosti zasnovanih na Rezoluciji 1244",
+  "Predstavnici Vojske Srbije se sastali sa predstavnicima KFOR-a u Prištini"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,6 +77,6 @@
   "local": true,
   "alt": "Sastanak KFOR-a i Vojske Srbije u Prištini o administrativnoj liniji"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
