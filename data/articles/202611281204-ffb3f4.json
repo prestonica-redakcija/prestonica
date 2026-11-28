@@ -25,17 +25,31 @@
  ],
  "importance": 6,
  "published": "2026-11-28T11:04:06.514258+00:00",
- "updated": "2026-11-28T11:04:06.514258+00:00",
+ "updated": "2026-11-28T11:19:44.341113+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/biz/srbija/vesti/288849/bps-isplaceno-22924-miliona-evra-osiguranih-depozita-alta-banke-u-stecaju/vest",
    "title": "Oglasila se Poštanska štedionica: Isplaćeno 229,24 miliona evra osiguranih depozita Alta banke u stečaju",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/301719/banka-postanska-stedionica-isplaceno-22924-miliona-evra-osiguranih-depozita-alta-banke-u-stecaju/vest",
+   "title": "Banka Poštanska štedionica: Isplaćeno 229,24 miliona evra osiguranih depozita Alta banke u stečaju",
+   "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/ekonomija/vesti/1675558/postanska-stedionica-objavila-nove-podatke-isplaceno-skoro-70-odsto-osiguranih-depozita-alta-banke-stecaju-usluzni",
+   "title": "POŠTANSKA ŠTEDIONICA OBJAVILA NOVE PODATKE: Isplaćeno skoro 70 odsto osiguranih depozita Alta banke u stečaju Uslužni",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Oglasila se Poštanska štedionica: Isplaćeno 229,24 miliona evra osiguranih depozita Alta banke u stečaju"
+  "Oglasila se Poštanska štedionica: Isplaćeno 229,24 miliona evra osiguranih depozita Alta banke u stečaju",
+  "Banka Poštanska štedionica: Isplaćeno 229,24 miliona evra osiguranih depozita Alta banke u stečaju",
+  "POŠTANSKA ŠTEDIONICA OBJAVILA NOVE PODATKE: Isplaćeno skoro 70 odsto osiguranih depozita Alta banke u stečaju Uslužni"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -46,5 +60,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Poštanska štedionica isplatila 229,24 miliona evra osiguranih depozita Alta banke"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

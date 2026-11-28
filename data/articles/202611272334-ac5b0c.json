@@ -36,7 +36,7 @@
  ],
  "importance": 3,
  "published": "2026-11-27T22:34:31.341346+00:00",
- "updated": "2026-11-27T22:50:09.752761+00:00",
+ "updated": "2026-11-28T11:19:44.341113+00:00",
  "sources": [
   {
    "name": "N1",
@@ -55,12 +55,19 @@
    "url": "https://www.danas.rs/sport/italija-dejvis-kup-finale/",
    "title": "Preko taj-brejka odlučujućeg seta do finala: Italija će se ponovo boriti za trofej Dejvis kupa",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/sport/tenis/10175413/teniseri-italije-u-finalu-dejvis-kupa-pobedom-protiv-ceske",
+   "title": "IZGUBILI PRVI SET, PA RAZBILI PROTIVNIKE U NASTAVKU! Teniseri Italije u finalu Dejvis kupa pobedom protiv Češke",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Teniseri Italije u finalu Dejvis kupa pobedom protiv Češke",
   "Italija preživela Češku \"kod kuće\" za finale Dejvis kupa, na kraju morao da odluči tajbrejk u dublu",
-  "Preko taj-brejka odlučujućeg seta do finala: Italija će se ponovo boriti za trofej Dejvis kupa"
+  "Preko taj-brejka odlučujućeg seta do finala: Italija će se ponovo boriti za trofej Dejvis kupa",
+  "IZGUBILI PRVI SET, PA RAZBILI PROTIVNIKE U NASTAVKU! Teniseri Italije u finalu Dejvis kupa pobedom protiv Češke"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "alt": "high angle photography of sports field",
   "link": "https://unsplash.com/@pixelcop"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

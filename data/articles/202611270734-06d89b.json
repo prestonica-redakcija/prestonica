@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T06:34:31.714808+00:00",
- "updated": "2026-11-27T06:34:31.714808+00:00",
+ "updated": "2026-11-28T11:19:44.341113+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -44,11 +44,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4440659-otopljenje-pa-zahladjenje-i-sneg-a-onda-stizu-ledeni-dani-detaljna-prognoza-do-pocetka-decembra",
    "title": "Otopljenje, pa zahlađenje i sneg, a onda stižu ledeni dani: Detaljna prognoza do početka decembra",
    "spektar": "vlast"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4441475-stizu-nam-ledeni-dani-oglasio-se-rhmz-temperatura-ce-biti-u-minusu-objavljeni-detalji",
+   "title": "Stižu nam ledeni dani! Oglasio se RHMZ: Temperatura će biti u minusu, objavljeni detalji",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Zima pokazuje zube za vikend, RHMZ objavio hitno upozorenje za ove delove Srbije: Stiže do 20 cm snega i ledeni dani, evo kakav nas decembar čeka",
-  "Otopljenje, pa zahlađenje i sneg, a onda stižu ledeni dani: Detaljna prognoza do početka decembra"
+  "Otopljenje, pa zahlađenje i sneg, a onda stižu ledeni dani: Detaljna prognoza do početka decembra",
+  "Stižu nam ledeni dani! Oglasio se RHMZ: Temperatura će biti u minusu, objavljeni detalji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,5 +66,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Sneg stiže u subotu, u nižim predelima do 10 cm, a zatim hladna sedmica"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

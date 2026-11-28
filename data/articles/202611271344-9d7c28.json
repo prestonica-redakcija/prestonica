@@ -33,7 +33,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T12:44:20.867490+00:00",
- "updated": "2026-11-27T15:35:52.749006+00:00",
+ "updated": "2026-11-28T11:19:44.341113+00:00",
  "sources": [
   {
    "name": "Telegraf",
@@ -76,6 +76,12 @@
    "url": "https://insajder.net/prenosimo/vlada-crne-gore-izdvaja-18-miliona-evra-za-obestecenje-hrvatskih-drzavljana-koji-su-bili-zatoceni-u-logoru-morinj-kao-i-za-porodice-zrtava-logora-lora",
    "title": "Vlada Crne Gore izdvaja 18 miliona evra za obeštećenje hrvatskih državljana koji su bili zatočeni u logoru Morinj, kao i za porodice žrtava logora Lora",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/region/grlic-radman-odluka-crne-gore-o-isplati-odstete-logorasima-korak-ka-resavanju-otvorenih-pitanja/",
+   "title": "Grlić Radman: Odluka Crne Gore o isplati odštete logorašima korak ka rešavanju otvorenih pitanja",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -85,7 +91,8 @@
   "Vlada Crne Gore odlučila da obešteti žrtve Morinja i Lore",
   "Crna Gora plaća 18 miliona evra hrvatskim logorašima: Korak ka deblokadi evropskog puta",
   "VLADA CRNE GORE ODLUČILA: Porodicama zlostavljanih logoraša u splitskoj Lori po 200.000 evra obeštećenja!",
-  "Vlada Crne Gore izdvaja 18 miliona evra za obeštećenje hrvatskih državljana koji su bili zatočeni u logoru Morinj, kao i za porodice žrtava logora Lora"
+  "Vlada Crne Gore izdvaja 18 miliona evra za obeštećenje hrvatskih državljana koji su bili zatočeni u logoru Morinj, kao i za porodice žrtava logora Lora",
+  "Grlić Radman: Odluka Crne Gore o isplati odštete logorašima korak ka rešavanju otvorenih pitanja"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -98,8 +105,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Kralji%C4%8Dina_pla%C5%BEa_(Milo%C4%8Der,_Crna_Gora)_07.jpg",
   "alt": "Vlada Crne Gore odlučila o obeštećenju od 200.000 evra po porodici logoraša iz Lore"
  },
- "novo_od_pisanja": 0,
- "boost": 1.48,
+ "novo_od_pisanja": 1,
+ "boost": 1.56,
  "prepisano": "2026-11-27T15:35:52.749006+00:00",
  "verzija": 2
 }

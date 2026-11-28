@@ -35,17 +35,24 @@
  ],
  "importance": 5,
  "published": "2026-11-28T09:05:08.151385+00:00",
- "updated": "2026-11-28T09:05:08.151385+00:00",
+ "updated": "2026-11-28T11:19:44.341113+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/svet/melanson-pobeda-na-izborima-u-francuskoj-bila-bi-odjek-u-evropi-kao-posle-poraza-vucica-i-orbana/",
    "title": "Melanšon: Pobeda na izborima u Francuskoj bila bi odjek u Evropi kao posle poraza Vučića i Orbana",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10175427/melanson-spomenuo-poraze-vucica-i-orbana",
+   "title": "MELANŠON SPOMENUO VUČIĆA I ORBANA! Pobeda levice na izborima u Francuskoj odjeknula bi u Evropi posle poraza bivših lidera Srbije i Mađarske! (FOTO/VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Melanšon: Pobeda na izborima u Francuskoj bila bi odjek u Evropi kao posle poraza Vučića i Orbana"
+  "Melanšon: Pobeda na izborima u Francuskoj bila bi odjek u Evropi kao posle poraza Vučića i Orbana",
+  "MELANŠON SPOMENUO VUČIĆA I ORBANA! Pobeda levice na izborima u Francuskoj odjeknula bi u Evropi posle poraza bivših lidera Srbije i Mađarske! (FOTO/VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "alt": "people waving flag of France near building",
   "link": "https://unsplash.com/@lepipotron"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
