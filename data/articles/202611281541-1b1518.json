@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-28T14:41:52.309760+00:00",
- "updated": "2026-11-28T14:57:53.703020+00:00",
+ "updated": "2026-11-28T15:19:38.294097+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -45,9 +45,16 @@
    "url": "https://n1info.rs/svet/na-izborima-za-prvog-coveka-tajpeja-kandidat-koga-kina-naziva-izdajnikom-priznao-poraz/",
    "title": "Na izborima za prvog čoveka Tajpeja kandidat koga Kina naziva izdajnikom priznao poraz",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/na-izborima-za-prvog-coveka-tajpeja-kandidat-priznao-poraz/",
+   "title": "Na izborima za prvog čoveka Tajpeja kandidat koga Kina naziva izdajnikom priznao poraz",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
+  "Na izborima za prvog čoveka Tajpeja kandidat koga Kina naziva izdajnikom priznao poraz",
   "Na izborima za prvog čoveka Tajpeja kandidat koga Kina naziva izdajnikom priznao poraz",
   "Na izborima za prvog čoveka Tajpeja kandidat koga Kina naziva izdajnikom priznao poraz"
  ],
@@ -61,6 +68,6 @@
   "local": true,
   "alt": "Kandidat vladajuće DPP priznao poraz u trci za gradonačelnika Tajpeja"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

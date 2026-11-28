@@ -25,7 +25,7 @@
  ],
  "importance": 6,
  "published": "2026-11-28T11:04:06.514258+00:00",
- "updated": "2026-11-28T12:34:39.217858+00:00",
+ "updated": "2026-11-28T15:19:38.294097+00:00",
  "sources": [
   {
    "name": "B92",
@@ -56,6 +56,12 @@
    "url": "https://biznis.telegraf.rs/info-biz/4441473-oglasila-se-banka-postanska-stedionica-o-isplati-depozita-klijentima-alta-banke-hvala-i-nastavljamo-dalje",
    "title": "Oglasila se Banka Poštanska štedionica o isplati depozita klijentima Alta Banke: \"Hvala i nastavljamo dalje\"",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/biznis/postanska-stedionica-isplatila-229-miliona-evra-deponentima-alta-banke-u-stecaju/",
+   "title": "Poštanska štedionica isplatila 229 miliona evra deponentima Alta banke u stečaju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -63,7 +69,8 @@
   "Banka Poštanska štedionica: Isplaćeno 229,24 miliona evra osiguranih depozita Alta banke u stečaju",
   "POŠTANSKA ŠTEDIONICA OBJAVILA NOVE PODATKE: Isplaćeno skoro 70 odsto osiguranih depozita Alta banke u stečaju Uslužni",
   "POŠTANSKA ŠTEDIONICA OBJAVILA NOVE PODATKE: Isplaćeno skoro 70 odsto osiguranih depozita Alta banke u stečaju",
-  "Oglasila se Banka Poštanska štedionica o isplati depozita klijentima Alta Banke: \"Hvala i nastavljamo dalje\""
+  "Oglasila se Banka Poštanska štedionica o isplati depozita klijentima Alta Banke: \"Hvala i nastavljamo dalje\"",
+  "Poštanska štedionica isplatila 229 miliona evra deponentima Alta banke u stečaju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -75,6 +82,6 @@
   "local": true,
   "alt": "Poštanska štedionica isplatila 229,24 miliona evra osiguranih depozita Alta banke"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }

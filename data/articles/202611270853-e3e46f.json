@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-27T07:53:21.135233+00:00",
- "updated": "2026-11-28T06:12:24.619674+00:00",
+ "updated": "2026-11-28T15:19:38.294097+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -46,12 +46,19 @@
    "url": "https://www.tanjug.rs/srbija/drustvo/301665/putevi-srbije-sneg-do-pet-centimetara-na-nekim-putnim-pravcima-moguca-magla-i-poledica/vest",
    "title": "Putevi Srbije: Sneg do pet centimetara na nekim putnim pravcima, moguća magla i poledica",
    "spektar": "centar"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/putevi-srbije-upozoravaju-vozace-na-sneg-ponegde-ga-ima-od-pet-do-10-centimetara/",
+   "title": "Putevi Srbije upozoravaju vozače na sneg, ponegde ga ima od pet do 10 centimetara",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Putevi Srbije: Putevi prohodni i bez snega, moguća mestimična poledica i magla",
   "Spisak puteva u Srbiji gde je jaka magla: Moguća poledica, Putevi Srbije upozoravaju",
-  "Putevi Srbije: Sneg do pet centimetara na nekim putnim pravcima, moguća magla i poledica"
+  "Putevi Srbije: Sneg do pet centimetara na nekim putnim pravcima, moguća magla i poledica",
+  "Putevi Srbije upozoravaju vozače na sneg, ponegde ga ima od pet do 10 centimetara"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -63,6 +70,6 @@
   "local": true,
   "alt": "Putevi u Srbiji prohodni i bez snega, na više pravaca moguća poledica i magla"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
