@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-28T08:35:14.442276+00:00",
- "updated": "2026-11-28T11:34:37.631513+00:00",
+ "updated": "2026-11-28T11:53:59.074899+00:00",
  "sources": [
   {
    "name": "N1",
@@ -66,6 +66,18 @@
    "url": "https://www.tanjug.rs/svet/hronika/301687/sedam-ucenika-poginulo-97-povredeno-u-eksploziji-blizu-skole-na-istoku-avganistana/vest",
    "title": "Sedam učenika poginulo, 97 povređeno u eksploziji blizu škole na istoku Avganistana",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10175468/eksplozija-kod-skole-u-avganistanu",
+   "title": "EKSPLOZIJA KOD OSNOVNE ŠKOLE, SEDAM UČENIKA POGINULO, DO 99 POVREĐENO! Istraga ukazuje na obližnje skladište eksploziva! Tragedija u Avganistanu (VIDEO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10175480/snazna-eksplozija-raznela-skolu-u-avganistanu-ima-mrtvih-i-povredjenih",
+   "title": "SNAŽNA EKSPLOZIJA RAZNELA ŠKOLU! Nastradala deca, ima na desetine mrtvih i povređenih, objavljeni stravični snimci tragedije u Avganistanu (FOTO/VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -74,7 +86,9 @@
   "Eksplozija u osnovnoj školi na istoku Avganistana, poginulo ili ranjeno više učenika",
   "Eksplozija u školi u Avganistanu; \"Povređeno ili poginulo nekoliko učenika\"",
   "Eksplozija u školi u Avganistanu: Poginulo i ranjeno više učenika (VIDEO)",
-  "Sedam učenika poginulo, 97 povređeno u eksploziji blizu škole na istoku Avganistana"
+  "Sedam učenika poginulo, 97 povređeno u eksploziji blizu škole na istoku Avganistana",
+  "EKSPLOZIJA KOD OSNOVNE ŠKOLE, SEDAM UČENIKA POGINULO, DO 99 POVREĐENO! Istraga ukazuje na obližnje skladište eksploziva! Tragedija u Avganistanu (VIDEO)",
+  "SNAŽNA EKSPLOZIJA RAZNELA ŠKOLU! Nastradala deca, ima na desetine mrtvih i povređenih, objavljeni stravični snimci tragedije u Avganistanu (FOTO/VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -86,8 +100,8 @@
   "local": true,
   "alt": "Eksplozija u školi u avganistanskoj provinciji Kunar, stradalo ili povređeno više učenika"
  },
- "novo_od_pisanja": 0,
- "boost": 1.32,
+ "novo_od_pisanja": 2,
+ "boost": 1.48,
  "prepisano": "2026-11-28T11:34:37.631513+00:00",
  "verzija": 2
 }

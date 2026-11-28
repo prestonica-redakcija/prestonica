@@ -31,7 +31,7 @@
  ],
  "importance": 7,
  "published": "2026-11-28T11:19:44.341113+00:00",
- "updated": "2026-11-28T11:19:44.341113+00:00",
+ "updated": "2026-11-28T11:53:59.074899+00:00",
  "sources": [
   {
    "name": "N1",
@@ -50,12 +50,26 @@
    "url": "https://nova.rs/magazin/prica-se/amerikanka-hoce-da-se-preseli-u-srbiju-jer-je-cula-da-je-saicic-kandidat-na-predsednickim-izborima-naucnik-spremna-sam-da-naucim-i-vase-pismo-stizem/",
    "title": "Amerikanka hoće da se preseli u Srbiju jer je čula da je Saičić kandidat na predsedničkim izborima: \"Naučnik? Spremna sam da naučim i vaše pismo. Stižem\"",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/romska-partija-podrzava-radomira-saicica-sa-jednakim-razumevanjem-predstavlja-intelektualnu-elitu-i-ljude-sa-margine/",
+   "title": "Romska partija podržava Radomira Saičića: Sa jednakim razumevanjem predstavlja intelektualnu elitu i ljude sa margine",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/politika/288858/pokret-slobodnih-gradjana-podrzao-kandidaturu-radomira-saicica/vest",
+   "title": "PSG podržao kandidaturu Radomira Saičića",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "PSG podržao kandidaturu Radomira Saičića",
   "Romska partija podržava kandidata Saičića",
-  "Amerikanka hoće da se preseli u Srbiju jer je čula da je Saičić kandidat na predsedničkim izborima: \"Naučnik? Spremna sam da naučim i vaše pismo. Stižem\""
+  "Amerikanka hoće da se preseli u Srbiju jer je čula da je Saičić kandidat na predsedničkim izborima: \"Naučnik? Spremna sam da naučim i vaše pismo. Stižem\"",
+  "Romska partija podržava Radomira Saičića: Sa jednakim razumevanjem predstavlja intelektualnu elitu i ljude sa margine",
+  "PSG podržao kandidaturu Radomira Saičića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,5 +81,7 @@
   "local": false,
   "alt": "a crowd of people standing around a flag",
   "link": "https://unsplash.com/@thestefankostic"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
