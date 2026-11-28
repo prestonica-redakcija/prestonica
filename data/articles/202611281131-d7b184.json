@@ -33,17 +33,24 @@
  ],
  "importance": 5,
  "published": "2026-11-28T10:31:00.995514+00:00",
- "updated": "2026-11-28T10:31:00.995514+00:00",
+ "updated": "2026-11-28T16:32:31.863684+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/beograd/10175384/prvi-sneg-u-beogradu-upozorenje-na-snezne-padavine",
    "title": "PAO PRVI SNEG U BEOGRADU Ovi delovi grada se zabeleli, snežni nanosi okovali i druge gradove Srbije: Večeras preti kolaps u saobraćaju (FOTO, VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301782/rhmz-upozorenje-za-beograd-i-srbiju-na-obilne-padavine-sneg-i-sneznu-vejavicu-danas-i-sutra/vest",
+   "title": "RHMZ: Upozorenje za Beograd i Srbiju na obilne padavine, sneg i snežnu vejavicu danas i sutra",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "PAO PRVI SNEG U BEOGRADU Ovi delovi grada se zabeleli, snežni nanosi okovali i druge gradove Srbije: Večeras preti kolaps u saobraćaju (FOTO, VIDEO)"
+  "PAO PRVI SNEG U BEOGRADU Ovi delovi grada se zabeleli, snežni nanosi okovali i druge gradove Srbije: Večeras preti kolaps u saobraćaju (FOTO, VIDEO)",
+  "RHMZ: Upozorenje za Beograd i Srbiju na obilne padavine, sneg i snežnu vejavicu danas i sutra"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "alt": "person in black jacket standing on road during snow",
   "link": "https://unsplash.com/@joshhild"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

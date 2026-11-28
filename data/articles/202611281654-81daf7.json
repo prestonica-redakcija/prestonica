@@ -30,17 +30,24 @@
  ],
  "importance": 6,
  "published": "2026-11-28T15:54:56.654455+00:00",
- "updated": "2026-11-28T15:54:56.654455+00:00",
+ "updated": "2026-11-28T16:32:31.863684+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/svet/region/srpski-i-crnogorski/",
    "title": "Demokratska Crna Gora predlaže da srpski i crnogorski budu ravnopravno zastupljeni u procesu pristupanja EU",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/demokrate-traze-ravnopravno-zastupanje-srpskog-i-crnogorskog-jezika-u-procesu-pristupanja-eu-i-ravnopravnu-upotrebu-cirilice-i-latinice-u-crnoj-gori",
+   "title": "Demokrate traže ravnopravno zastupanje srpskog i crnogorskog jezika u procesu pristupanja EU i ravnopravnu upotrebu ćirilice i latinice u Crnoj Gori",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Demokratska Crna Gora predlaže da srpski i crnogorski budu ravnopravno zastupljeni u procesu pristupanja EU"
+  "Demokratska Crna Gora predlaže da srpski i crnogorski budu ravnopravno zastupljeni u procesu pristupanja EU",
+  "Demokrate traže ravnopravno zastupanje srpskog i crnogorskog jezika u procesu pristupanja EU i ravnopravnu upotrebu ćirilice i latinice u Crnoj Gori"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Kralji%C4%8Dina_pla%C5%BEa_(Milo%C4%8Der,_Crna_Gora)_02.jpg",
   "alt": "Demokrate u Crnoj Gori predlažu zakone o ravnopravnosti srpskog i crnogorskog jezika i pisama"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
