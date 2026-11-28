@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-26T23:19:48.792595+00:00",
- "updated": "2026-11-26T23:19:48.792595+00:00",
+ "updated": "2026-11-28T08:20:22.206377+00:00",
  "sources": [
   {
    "name": "N1",
@@ -48,11 +48,18 @@
    "url": "https://nova.rs/vesti/hronika/bia-dostavljala-milanu-radoicicu-informacije/",
    "title": "Zvezdanović: Postoji ozbiljna sumnja da je rukovodstvo Druge uprave BIA dostavljalo Milanu Radoičiću informacije",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/hronika/sta-je-druga-uprava-za-koju-bivsi-inspektor-bia-sumnja-da-je-dostavljala-informacije-milanu-radoicicu/",
+   "title": "Šta je Druga uprava za koju bivši inspektor BIA sumnja da je dostavljala informacije Milanu Radoičiću?",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Zvezdanović: Postoji ozbiljna sumnja da je rukovodstvo Druge uprave BIA dostavljalo Milanu Radoičiću informacije",
-  "Zvezdanović: Postoji ozbiljna sumnja da je rukovodstvo Druge uprave BIA dostavljalo Milanu Radoičiću informacije"
+  "Zvezdanović: Postoji ozbiljna sumnja da je rukovodstvo Druge uprave BIA dostavljalo Milanu Radoičiću informacije",
+  "Šta je Druga uprava za koju bivši inspektor BIA sumnja da je dostavljala informacije Milanu Radoičiću?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +71,7 @@
   "local": false,
   "alt": "editing video screengrab",
   "link": "https://unsplash.com/@madbyte"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
