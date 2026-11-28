@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.kurir.rs/zabava/pop-kultura/10164350/glen-klouz-79-urucen-pocasni-oskar-pa-otkrila-kako-je-odrasla": "2026-11-22T23:45:43.456272+00:00",
-  "https://www.youtube.com/watch?v=RRkN1lGWQ_w": "2026-11-22T23:45:43.456272+00:00",
-  "https://www.kurir.rs/region/crna-gora/10169782/kolasinska-policija-prijavila-zenu-zbog-nelegalne-gradnje": "2026-11-23T00:00:26.812184+00:00",
   "https://biznis.telegraf.rs/info-biz/4437717-sardinija-izdvaja-10-miliona-evra-za-privlacenje-digitalnih-nomada": "2026-11-23T00:15:23.060633+00:00",
   "https://www.telegraf.rs/vesti/svet/4437760-tramp-sad-bi-mogle-da-nastave-velike-vojne-operacije-protiv-irana-posle-nove-godine": "2026-11-23T00:45:06.323827+00:00",
   "https://www.euronews.rs/srbija/politika/253168/skupstina-grada-danas-o-rebalansu-i-razresenju-sapica/vest": "2026-11-23T02:14:36.386027+00:00",
@@ -6420,18 +6417,20 @@
   "https://www.kurir.rs/planeta/10175180/protest-portoriko-visoke-cene-struje": "2026-11-27T23:42:36.894782+00:00",
   "https://www.kurir.rs/planeta/10175212/netanjahu-spreman-da-ponudi-ajzenkotu-vodece-mesto-u-rotacionoj-vladi": "2026-11-27T23:42:36.894782+00:00",
   "https://www.danas.rs/vesti/klimatske-promene/kako-tihi-okean-menja-boju-od-algi-i-el-ninja-do-mikroplastike/": "2026-11-27T23:42:36.894782+00:00",
-  "https://www.kurir.rs/zabava/zanimljivosti/10174327/kako-zadrzati-toplotu-u-stanu": "2026-11-27T23:42:36.894782+00:00"
+  "https://www.kurir.rs/zabava/zanimljivosti/10174327/kako-zadrzati-toplotu-u-stanu": "2026-11-27T23:42:36.894782+00:00",
+  "https://www.kurir.rs/planeta/10175020/bundestag-usvojio-budzet-za-2027": "2026-11-28T00:01:22.305784+00:00",
+  "https://www.kurir.rs/vesti/politika/10175214/razreseno-osam-drzavnih-sekretara-u-tri-ministarstva": "2026-11-28T00:01:22.305784+00:00",
+  "https://www.kurir.rs/vesti/drustvo/10175009/provera-specijalisticke-obucenosti-vojnika": "2026-11-28T00:01:22.305784+00:00",
+  "https://www.euronews.rs/biznis/biznis-vesti/253926/posao-na-antarktiku-brojanje-pingvina-i-posta-u-port-lokroj/vest": "2026-11-28T00:01:22.305784+00:00",
+  "https://www.tanjug.rs/svet/politika/301658/operacija-mamdanija-uspesno-zavrsena-gradonacelnik-njujorka-se-oporavlja/vest": "2026-11-28T00:01:22.305784+00:00",
+  "https://www.telegraf.rs/vesti/svet/4441290-operisan-gradonacelnik-njujorka-evo-u-kakvom-je-stanju": "2026-11-28T00:01:22.305784+00:00",
+  "https://www.tanjug.rs/svet/politika/301649/evropski-poslanici-prete-novim-istragama-o-zloupotrebi-fondova-eu-u-slovackoj/vest": "2026-11-28T00:01:22.305784+00:00",
+  "https://www.telegraf.rs/vesti/svet/4441291-evropski-poslanici-prete-novim-istragama-o-zloupotrebi-fondova-eu-u-slovackoj": "2026-11-28T00:01:22.305784+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-27T07:13+00:00",
-   "novih": 1,
-   "ukupno": 5143,
-   "sekundi": 559.7
-  },
   {
    "vreme": "2026-11-27T07:35+00:00",
    "novih": 2,
@@ -6785,6 +6784,12 @@
    "novih": 1,
    "ukupno": 5457,
    "sekundi": 1056.2
+  },
+  {
+   "vreme": "2026-11-28T00:18+00:00",
+   "novih": 2,
+   "ukupno": 5459,
+   "sekundi": 1041.0
   }
  ],
  "licnosti_foto": {
@@ -37646,6 +37651,18 @@
   "t:tihi okean": {
    "t": 1795822990.949601,
    "items": []
+  },
+  "t:ahilova tetiva": {
+   "t": 1795824122.8925154,
+   "items": []
+  },
+  "t:fondovi eu": {
+   "t": 1795824137.374913,
+   "items": []
+  },
+  "t:evropska komisija": {
+   "t": 1795824137.9908662,
+   "items": []
   }
  },
  "x_objave": {
@@ -44390,7 +44407,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-27T23:43:51.202580+00:00",
+  "provereno": "2026-11-28T00:02:58.169947+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },

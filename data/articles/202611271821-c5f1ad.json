@@ -25,7 +25,7 @@
  ],
  "importance": 3,
  "published": "2026-11-27T17:21:41.432648+00:00",
- "updated": "2026-11-27T17:21:41.432648+00:00",
+ "updated": "2026-11-28T00:01:22.305784+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -38,11 +38,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4441146-realizovana-provera-individualne-specijalisticke-obucenosti-vojnika-spremni-za-zavrsnu-fazonu",
    "title": "Realizovana provera individualne specijalističke obučenosti vojnika: Spremni za završnu fazonu",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10175009/provera-specijalisticke-obucenosti-vojnika",
+   "title": "\"Septembarci\" u akciji: Provera specijalističke obučenosti vojnika",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Realizovana provera specijalističke obučenosti vojnika generacije \"septembar 2026\"",
-  "Realizovana provera individualne specijalističke obučenosti vojnika: Spremni za završnu fazonu"
+  "Realizovana provera individualne specijalističke obučenosti vojnika: Spremni za završnu fazonu",
+  "\"Septembarci\" u akciji: Provera specijalističke obučenosti vojnika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "local": false,
   "alt": "men in green and brown camouflage uniform",
   "link": "https://unsplash.com/@fandrejevic"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
