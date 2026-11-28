@@ -6427,18 +6427,13 @@
   "https://www.telegraf.rs/vesti/svet/4441258-maroko-i-izrael-jacaju-vojnu-saradnju-i-pripremaju-plan-za-2027-godinu": "2026-11-28T00:37:48.720459+00:00",
   "https://www.telegraf.rs/4441202-rik-dodelio-mandate-clanovima-nacionalnih-saveta-albanske-bunjevacke-i-madjarske-manjine": "2026-11-28T02:13:34.227465+00:00",
   "https://www.tanjug.rs/svet/drustvo/301607/uzbekistan-i-kazahstan-ponovo-otvorili-granicni-prelaz-za-do-100000-putnika-dnevno/vest": "2026-11-28T03:18:43.461626+00:00",
-  "https://www.telegraf.rs/vesti/svet/4441259-uzbekistan-i-kazahstan-ponovo-otvorili-granicni-prelaz-za-do-100000-putnika-dnevno": "2026-11-28T03:18:43.461626+00:00"
+  "https://www.telegraf.rs/vesti/svet/4441259-uzbekistan-i-kazahstan-ponovo-otvorili-granicni-prelaz-za-do-100000-putnika-dnevno": "2026-11-28T03:18:43.461626+00:00",
+  "https://www.kurir.rs/vesti/politika/10174812/manastir-ljubostinja-dobio-novu-igumaniju": "2026-11-28T03:34:02.226018+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-27T10:47+00:00",
-   "novih": 4,
-   "ukupno": 5208,
-   "sekundi": 1026.3
-  },
   {
    "vreme": "2026-11-27T11:06+00:00",
    "novih": 7,
@@ -6792,6 +6787,12 @@
    "novih": 1,
    "ukupno": 5462,
    "sekundi": 848.9
+  },
+  {
+   "vreme": "2026-11-28T03:50+00:00",
+   "novih": 1,
+   "ukupno": 5463,
+   "sekundi": 1002.7
   }
  ],
  "licnosti_foto": {
@@ -44279,7 +44280,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-28T03:19:46.993889+00:00",
+  "provereno": "2026-11-28T03:35:03.262756+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
