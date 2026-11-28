@@ -32,7 +32,7 @@
  ],
  "importance": 5,
  "published": "2026-11-28T09:05:08.151385+00:00",
- "updated": "2026-11-28T09:41:54.782270+00:00",
+ "updated": "2026-11-28T09:56:49.039141+00:00",
  "sources": [
   {
    "name": "N1",
@@ -75,6 +75,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/bomba-cenej/",
    "title": "Uhapšen osumnjičeni za bacanje bombe u Čeneju",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/vise-tuzilastvo-novi-sad-uhapsen-osumnjiceni-za-paljenje-autoplaca-u-sremskoj-kamenici-i-bacanje-bombe-na-kucu-u-ceneju-traga-se-sa-saucesnicima",
+   "title": "Više tužilaštvo Novi Sad: Uhapšen osumnjičeni za paljenje autoplaca u Sremskoj Kamenici i bacanje bombe na kuću u Čeneju, traga se sa saučesnicima",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -84,7 +90,8 @@
   "UHAPŠEN BOMBAŠ IZ NOVOG SADA, TRAGA SE ZA SAUČESNICIMA: Spalili dva automobila i bombama gađali kuću u Čeneju!",
   "VJT u Novom Sadu pokrenulo istragu za paljenje automobila i eksploziju u Sremskoj Kamenici i Čeneju",
   "Istraga protiv osumnjičenog za više krivičnih dela u Sremskoj Kamenici i Čeneju",
-  "Uhapšen osumnjičeni za bacanje bombe u Čeneju"
+  "Uhapšen osumnjičeni za bacanje bombe u Čeneju",
+  "Više tužilaštvo Novi Sad: Uhapšen osumnjičeni za paljenje autoplaca u Sremskoj Kamenici i bacanje bombe na kuću u Čeneju, traga se sa saučesnicima"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -97,6 +104,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:Beach_in_Novi_Sad_-_%C5%A0trand_01.jpg",
   "alt": "Uhapšen V. P. zbog paljenja automobila u Sremskoj Kamenici i bombi u Čeneju"
  },
- "novo_od_pisanja": 4,
- "boost": 1.32
+ "novo_od_pisanja": 5,
+ "boost": 1.4
 }
