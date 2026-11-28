@@ -6435,12 +6435,6 @@
  "fokus": [],
  "runs": [
   {
-   "vreme": "2026-11-27T08:53+00:00",
-   "novih": 6,
-   "ukupno": 5175,
-   "sekundi": 788.1
-  },
-  {
    "vreme": "2026-11-27T09:08+00:00",
    "novih": 3,
    "ukupno": 5178,
@@ -6793,6 +6787,12 @@
    "novih": 0,
    "ukupno": 5461,
    "sekundi": 815.6
+  },
+  {
+   "vreme": "2026-11-28T01:52+00:00",
+   "novih": 0,
+   "ukupno": 5461,
+   "sekundi": 708.3
   }
  ],
  "licnosti_foto": {
@@ -9728,15 +9728,15 @@
   "poslednji": {
    "miikialeksic": {
     "since_id": "2125653072945045608",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "parandilovicnls": {
     "since_id": "2126396411570786693",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "ininic": {
     "since_id": "2126129012913192969",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "onlinedanas": {
     "since_id": "2120879124327878845",
@@ -9744,15 +9744,15 @@
    },
    "sviublokade_fdu": {
     "since_id": "2126051971056427211",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "dragandjilas": {
     "since_id": "2121691848313884992",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "marinikatepic": {
     "since_id": "2125983705445359899",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "radomirlazovic": {
     "since_id": null,
@@ -9776,27 +9776,27 @@
    },
    "avucic": {
     "since_id": "2126433399090848033",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "anabrnabic": {
     "since_id": "2126412903087788088",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "milos_vucevic": {
     "since_id": "2126265418331431237",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "sns_srbija": {
     "since_id": "2126451713486073964",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "vlada_srbije": {
     "since_id": null,
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "studentblokade": {
     "since_id": "2126376700476903698",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "n1srbija": {
     "since_id": "2120879552847302844",
@@ -9832,31 +9832,31 @@
    },
    "markodjuric": {
     "since_id": "2123870662255419709",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "nstarovic": {
     "since_id": "2122967633863565451",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "milenkojovanov": {
     "since_id": "2126377644094808200",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "vladimir_orlic": {
     "since_id": null,
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "acasapic": {
     "since_id": null,
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "borkostef": {
     "since_id": "2126418680221450297",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "dusannikezic": {
     "since_id": null,
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "dobrinacelnik": {
     "since_id": "2126262076494528952",
@@ -9868,7 +9868,7 @@
    },
    "boristadic58": {
     "since_id": "2126405214248870256",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "srdjanmil037": {
     "since_id": "2126193920988045589",
@@ -9920,7 +9920,7 @@
    },
    "borakonj": {
     "since_id": "2126362666604089392",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "narodnipokrets": {
     "since_id": "2126294935741624614",
@@ -9928,51 +9928,51 @@
    },
    "direktnors": {
     "since_id": "2126412858712023526",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "crtars": {
     "since_id": "2126359433068581080",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "veceivan": {
     "since_id": "2126399902464807131",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "rnsaicic": {
     "since_id": null,
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "brankoruzicsps": {
     "since_id": null,
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "repjoewilson": {
     "since_id": "2125972687855952308",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "jugoslavcosic": {
     "since_id": "2125720890528944629",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "tvnova_s": {
     "since_id": "2126426676703731874",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "oljautisak": {
     "since_id": "2124115162684629476",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "srdjan_nogo": {
     "since_id": "2126335558762795361",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "agrifblokira": {
     "since_id": "2126280927223365792",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "etfblokada": {
     "since_id": "2126272760024383529",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "nastraninaroda": {
     "since_id": "2126449327929233770",
@@ -9980,15 +9980,15 @@
    },
    "bcenzure": {
     "since_id": "2126406095832752255",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "bezstraha26279": {
     "since_id": "2126400262348939311",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "lazidetektor": {
-    "since_id": "2126467275691544667",
-    "t": 1795826342.8219733
+    "since_id": "2126479934214332557",
+    "t": 1795830081.687023
    },
    "nedeljniknin": {
     "since_id": "2126451000571806106",
@@ -10000,15 +10000,15 @@
    },
    "stateinl": {
     "since_id": "2124882590389924146",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "tvbalkaninfo": {
     "since_id": "2125693619093017041",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "1152justice": {
     "since_id": "2123584561330217393",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "zatrijebacki": {
     "since_id": "2126260958750179348",
@@ -10040,7 +10040,7 @@
    },
    "masinars": {
     "since_id": "2126428106512564549",
-    "t": 1795826342.8219733
+    "t": 1795830081.687023
    },
    "claudedevs": {
     "since_id": "2125628717263372512",
@@ -10048,6 +10048,22 @@
    }
   },
   "posts": [
+   {
+    "id": "2126479934214332557",
+    "x": "LaziDetektor",
+    "ime": "DETEKTOR LAŽI",
+    "grupa": "",
+    "uloga": "",
+    "text": "ALEKSANDAR VUČIĆ: \"Za 7-8 meseci ćete moći da vidite kako zaljubljenost u Studentsku listu prolazi!\"\n\n\"Zaljubljenost kao i velika mržnja traju određeno vreme. Ali ta strast prođe. A onda kad se dohvatite realnog života, onda su stvari već mnogo drugačije. A u realnom životu https://t.co/Xmpx88T2c8",
+    "published": "2026-11-28T00:54:59.000+00:00",
+    "lajk": 4,
+    "slike": [
+     "https://pbs.twimg.com/amplify_video_thumb/2126479824667447296/img/mYnrWucIloq_Rpcw.jpg"
+    ],
+    "prikazi": true,
+    "rubrika": "politika",
+    "tema": "Vučić: zaljubljenost u Studentsku listu proći će za 7-8 meseci"
+   },
    {
     "id": "2126467275691544667",
     "x": "LaziDetektor",
@@ -21805,19 +21821,6 @@
     "rubrika": "politika",
     "tema": "Zlatanović odgovorio Brnabić u Skupštini",
     "vest": "202611251151-cb7691"
-   },
-   {
-    "id": "2125553212451103203",
-    "x": "TihiNaVezi",
-    "ime": "Tihi na vezi",
-    "grupa": "",
-    "uloga": "",
-    "text": "Pogledajte kako se pojedini poslanici SNS-a oblače, kao da su na modnim pistama, u odelima koja izgledaju kao da koštaju hiljade evra, ručno krojenim po meri. A poslanicima Studentske liste, koji žive kao običan narod, zamerate što danima nose istu garderobu? Pa jeste li se",
-    "published": "2026-11-25T11:32:31.000+00:00",
-    "lajk": 30,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Komentar o odevanju poslanika SNS i Studentske liste"
    }
   ],
   "pratim": [
@@ -44410,7 +44413,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-28T01:26:45.200225+00:00",
+  "provereno": "2026-11-28T01:41:42.915821+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
