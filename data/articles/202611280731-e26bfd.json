@@ -26,7 +26,7 @@
  ],
  "importance": 5,
  "published": "2026-11-28T06:31:16.555396+00:00",
- "updated": "2026-11-28T06:31:16.555396+00:00",
+ "updated": "2026-11-28T07:46:42.341943+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -39,11 +39,25 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4441309-amss-nema-zadrzavanja-na-granici-oprez-zbog-snega",
    "title": "AMSS: Nema zadržavanja na granici, oprez zbog snega",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/amss-saobracaj-usporen-zbog-snega-bez-zadrzavanja-na-granici/",
+   "title": "AMSS: Saobraćaj usporen zbog snega, bez zadržavanja na granici",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/sneg-saobracaj/",
+   "title": "Saobraćaj usporen zbog snega, bez zadržavanja na granici",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "AMSS: Nema zadržavanja na teretnim terminalima graničnih prelaza, oprez zbog snega",
-  "AMSS: Nema zadržavanja na granici, oprez zbog snega"
+  "AMSS: Nema zadržavanja na granici, oprez zbog snega",
+  "AMSS: Saobraćaj usporen zbog snega, bez zadržavanja na granici",
+  "Saobraćaj usporen zbog snega, bez zadržavanja na granici"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +69,7 @@
   "local": false,
   "alt": "road in between trees covered by snow",
   "link": "https://unsplash.com/@pigoff"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
