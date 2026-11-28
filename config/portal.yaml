@@ -94,6 +94,16 @@ x_objave:
   linkova_dnevno: 8            # najviše 8 objava sa linkom dnevno (link je ~13x skuplji)
   kartica_i_uz_link: false     # uz link X sam pravi pregled stranice
 
+# Brojke sopstvenih objava na X-u (prikazi, lajkovi, repostovi) za kontrolni centar: fajl x-objave.json.
+# Čita se istim ključevima kojima portal objavljuje. X to naplaćuje kao "owned read", oko $0,001 po objavi:
+# 6 čitanja dnevno x 60 objava = oko $0,36 dnevno (oko $11 mesečno). Ređe čitanje ili manje objava = manji trošak.
+x_statistika:
+  ukljuceno: true
+  svakih_sati: 4              # razmak između čitanja
+  objava_po_citanju: 60       # koliko najnovijih objava se osvežava (najviše 100); oko dva dana objava
+  cuvaj_dana: 30              # zadnje poznate brojke starijih objava ostaju u arhivi
+  klikovi: true               # klikovi na link i profil (X ih daje samo vlasniku naloga); ne idu na sajt
+
 # Ličnosti: profil dobija svako ko se pojavi u najmanje min_tekstova tekstova za poslednjih dana (sport, kultura, svet...)
 licnosti_auto:
   ukljuceno: true

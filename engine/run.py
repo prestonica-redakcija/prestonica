@@ -494,6 +494,14 @@ def main() -> None:
             except Exception as e:
                 log.warning("X objave: %s", e)
 
+        # 6b4a. Brojke sopstvenih objava na X-u (na svakih nekoliko sati, vidi x_statistika u portal.yaml)
+        if live:
+            try:
+                from . import statistika_x
+                statistika_x.osvezi(cfg, state, articles)
+            except Exception as e:
+                log.warning("X statistika: %s", e)
+
         # 6b5. Ankete čitalaca: pitanje dana, ankete redakcije, konačni rezultati
         try:
             from . import ankete
