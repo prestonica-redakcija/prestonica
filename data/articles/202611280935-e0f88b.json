@@ -3,13 +3,13 @@
  "slug": "eksplozija-u-skoli-u-avganistanskoj-provinciji-kunar-stradalo-ili",
  "kind": "vest",
  "section": "svet",
- "headline": "Eksplozija u školi u avganistanskoj provinciji Kunar, stradalo ili povređeno više učenika",
- "lead": "U eksploziji u školi u istočnoj avganistanskoj provinciji Kunar poginulo je ili povređeno nekoliko učenika, saopštila je lokalna policija. Uzrok eksplozije i tačan broj žrtava za sada nisu poznati.",
+ "headline": "Sedam učenika poginulo, 97 povređeno u eksploziji kod škole na istoku Avganistana",
+ "lead": "U eksploziji blizu škole na istoku Avganistana poginulo je sedam učenika, a 97 je povređeno, prenosi Tanjug. Ranije je lokalna policija provincije Kunar saopštila da je više učenika stradalo ili povređeno, bez tačnih brojki.",
  "body": [
-  "Prema saopštenju policije provincije Kunar, koje prenose N1 i Danas, eksplozija se dogodila u 10.00 po lokalnom vremenu u školi u oblasti Andar Ser.",
-  "Neimenovani portparol policijske uprave te provincije izjavio je da je u eksploziji stradalo ili povređeno više učenika.",
-  "Za sada nema informacija o uzroku eksplozije niti o tačnom broju žrtava, navode oba medija.",
-  "Policija je saopštila da su istražni timovi izašli na lice mesta. Kunar se nalazi u istočnom delu zemlje, na granici sa Pakistanom.",
+  "Tanjug u naslovu vesti navodi da je u eksploziji poginulo sedam učenika, a da je 97 povređeno. U dostupnom izveštaju nema više pojedinosti o tome ko je objavio ove podatke niti o tome šta je izazvalo eksploziju.",
+  "Prvobitni izveštaji, koje su prenosili N1 i Danas pozivajući se na saopštenje policije provincije Kunar, govorili su o eksploziji u školi u oblasti Andar Ser. Tanjug sada piše da se eksplozija dogodila blizu škole, pa mesto događaja iz dostupnih izveštaja nije jasno određeno.",
+  "Neimenovani portparol policijske uprave provincije Kunar ranije je izjavio da je stradalo ili povređeno više učenika. Prema tom saopštenju, eksplozija se dogodila u 10.00 po lokalnom vremenu, a istražni timovi izašli su na lice mesta.",
+  "Uzrok eksplozije za sada nije naveden u izvorima kojima raspolažemo. Kunar se nalazi u istočnom delu zemlje, na granici sa Pakistanom.",
   "Podsećanja radi, N1 i Danas navode da je u avgustu u napadu ručnom bombom na školski kompleks u Kabulu ranjeno više od 40 dece uzrasta od devet do 14 godina."
  ],
  "tags": [
@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-28T08:35:14.442276+00:00",
- "updated": "2026-11-28T09:05:08.151385+00:00",
+ "updated": "2026-11-28T11:34:37.631513+00:00",
  "sources": [
   {
    "name": "N1",
@@ -60,6 +60,12 @@
    "url": "https://www.euronews.rs/svet/fokus/254061/eksplozija-u-skoli-u-kunaru-stradali-ucenici/vest",
    "title": "Eksplozija u školi u Avganistanu: Poginulo i ranjeno više učenika (VIDEO)",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/301687/sedam-ucenika-poginulo-97-povredeno-u-eksploziji-blizu-skole-na-istoku-avganistana/vest",
+   "title": "Sedam učenika poginulo, 97 povređeno u eksploziji blizu škole na istoku Avganistana",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -67,7 +73,8 @@
   "Eksplozija u školi u Avganistanu, nekoliko učenika poginulo ili ranjeno",
   "Eksplozija u osnovnoj školi na istoku Avganistana, poginulo ili ranjeno više učenika",
   "Eksplozija u školi u Avganistanu; \"Povređeno ili poginulo nekoliko učenika\"",
-  "Eksplozija u školi u Avganistanu: Poginulo i ranjeno više učenika (VIDEO)"
+  "Eksplozija u školi u Avganistanu: Poginulo i ranjeno više učenika (VIDEO)",
+  "Sedam učenika poginulo, 97 povređeno u eksploziji blizu škole na istoku Avganistana"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -79,6 +86,8 @@
   "local": true,
   "alt": "Eksplozija u školi u avganistanskoj provinciji Kunar, stradalo ili povređeno više učenika"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 0,
+ "boost": 1.32,
+ "prepisano": "2026-11-28T11:34:37.631513+00:00",
+ "verzija": 2
 }

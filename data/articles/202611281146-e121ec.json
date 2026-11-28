@@ -30,17 +30,24 @@
  ],
  "importance": 4,
  "published": "2026-11-28T10:46:36.000295+00:00",
- "updated": "2026-11-28T10:46:36.000295+00:00",
+ "updated": "2026-11-28T11:34:37.631513+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/politika/ujedinjeni-za-bajinu-bastu/",
    "title": "Četvoro odbornika Ujedinjeni za Bajinu Baštu podnelo ostavke nakon glasanja za predlog SNS-a",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/cetvoro-opozicionih-odbornika-u-bajinoj-basti-podnelo-ostavke-nakon-sto-su-glasali-za-predlog-sns/",
+   "title": "Četvoro opozicionih odbornika u Bajinoj Bašti podnelo ostavke nakon što su glasali za predlog SNS",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Četvoro odbornika Ujedinjeni za Bajinu Baštu podnelo ostavke nakon glasanja za predlog SNS-a"
+  "Četvoro odbornika Ujedinjeni za Bajinu Baštu podnelo ostavke nakon glasanja za predlog SNS-a",
+  "Četvoro opozicionih odbornika u Bajinoj Bašti podnelo ostavke nakon što su glasali za predlog SNS"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Bajina_Ba%C5%A1ta_088.jpg",
   "alt": "Četvoro odbornika studentske liste u Bajinoj Bašti podnelo ostavke zbog glasanja sa SNS-om"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

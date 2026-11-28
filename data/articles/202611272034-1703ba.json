@@ -31,7 +31,7 @@
  ],
  "importance": 3,
  "published": "2026-11-27T19:34:22.689266+00:00",
- "updated": "2026-11-27T19:34:22.689266+00:00",
+ "updated": "2026-11-28T11:34:37.631513+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -44,11 +44,25 @@
    "url": "https://insajder.net/prenosimo/holandski-ekstremista-osuden-u-nemackoj-na-osam-meseci-zatvora-uslovno-zbog-velicanja-hitlera-i-sirenja-mrznje",
    "title": "Holandski ekstremista osuđen u Nemačkoj na osam meseci zatvora uslovno zbog veličanja Hitlera i širenja mržnje",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/301718/holandski-neonacista-hitlerov-dvojnik-osuden-u-nemackoj-zbog-velicanja-hitlera/vest",
+   "title": "Holandski neonacista, Hitlerov dvojnik, osuđen u Nemačkoj zbog veličanja Hitlera",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4441474-hitlerov-dvojnik-osudjen-u-nemackoj-zbog-velicanja-hitlera",
+   "title": "Hitlerov dvojnik osuđen u Nemačkoj zbog veličanja Hitlera",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Nemačka: Sud osudio holandskog desničarskog ekstremistu zbog veličanja Hitlera",
-  "Holandski ekstremista osuđen u Nemačkoj na osam meseci zatvora uslovno zbog veličanja Hitlera i širenja mržnje"
+  "Holandski ekstremista osuđen u Nemačkoj na osam meseci zatvora uslovno zbog veličanja Hitlera i širenja mržnje",
+  "Holandski neonacista, Hitlerov dvojnik, osuđen u Nemačkoj zbog veličanja Hitlera",
+  "Hitlerov dvojnik osuđen u Nemačkoj zbog veličanja Hitlera"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +74,7 @@
   "local": false,
   "alt": "a 3d image of a judge's hammer on a black background",
   "link": "https://unsplash.com/@choys_"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
