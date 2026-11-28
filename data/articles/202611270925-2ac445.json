@@ -35,7 +35,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T08:25:16.915436+00:00",
- "updated": "2026-11-27T08:25:16.915436+00:00",
+ "updated": "2026-11-28T07:31:50.604742+00:00",
  "sources": [
   {
    "name": "Nova",
@@ -48,11 +48,18 @@
    "url": "https://www.kurir.rs/planeta/10174261/eksplozije-u-ruskoj-oblasti-tula",
    "title": "ODJEKUJU SNAŽNE EKSPLOZIJE, RUSKA OBLAST NA UDARU: Dronovi pogodili ključna postrojenja, jedno je povezano sa proizvodnjom raketa \"Iskander\", stižu snimci",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288802/ruska-vojska-odbila-jedan-od-najmasovnijih-napada-dronovima/vest",
+   "title": "Rusi na udaru jednog od najmasovnijih napada do sad",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Eksplozije kod ključne ruske vojne baze, sirene odjekivale Kalinjingradom: Pominje se napad dronovima, Litvanija hitno reagovala",
-  "ODJEKUJU SNAŽNE EKSPLOZIJE, RUSKA OBLAST NA UDARU: Dronovi pogodili ključna postrojenja, jedno je povezano sa proizvodnjom raketa \"Iskander\", stižu snimci"
+  "ODJEKUJU SNAŽNE EKSPLOZIJE, RUSKA OBLAST NA UDARU: Dronovi pogodili ključna postrojenja, jedno je povezano sa proizvodnjom raketa \"Iskander\", stižu snimci",
+  "Rusi na udaru jednog od najmasovnijih napada do sad"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +71,7 @@
   "local": false,
   "alt": "white drone in a building",
   "link": "https://unsplash.com/@obavisuals"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

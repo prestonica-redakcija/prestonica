@@ -3,21 +3,23 @@
  "slug": "dve-saobracajne-nesrece-sinoc-povredjena-devojcica-kod-loznice",
  "kind": "vest",
  "section": "hronika",
- "headline": "Dve saobraćajne nesreće sinoć: povređena devojčica kod Loznice, poginuo vozač u Krnjevu",
- "lead": "Sinoć su se u Srbiji dogodile dve teške saobraćajne nesreće: u Klupcima kod Loznice automobil je udario devojčicu na pešačkom prelazu, a u Krnjevu kod Velike Plane poginuo je vozač kada je voz udario u njegov automobil.",
+ "headline": "Poginuo stariji muškarac kod Novog groblja, Hitna pomoć 156 puta intervenisala",
+ "lead": "Stariji muškarac poginuo je u noći na subotu u saobraćajnoj nesreći kod Novog groblja u Beogradu, a beogradska Hitna pomoć imala je rekordnih 156 intervencija. Dan ranije su u dve nesreće u Srbiji povređena devojčica kod Loznice i poginuo vozač kod Velike Plane.",
  "body": [
-  "Prema pisanju Telegrafa i Kurira, automobil je sinoć u mestu Klupci kod Loznice udario devojčicu na pešačkom prelazu kod vojne kasarne. Kurir navodi da se to zna prema prvim nezvaničnim informacijama.",
-  "Kurir piše da je devojčica hitno prevezena u bolnicu. Telegraf navodi da njeno zdravstveno stanje za sada nije poznato, kao ni okolnosti pod kojima je došlo do nezgode. Oba medija javljaju da je policija izašla na lice mesta i obavila uviđaj.",
-  "Druga nesreća dogodila se u 22.20 časova u Krnjevu kod Velike Plane. Insajder, pozivajući se na izjavu PU Smederevo datu Tanjugu, navodi da je u automobil marke „ford“ udario voz na pružnom prelazu.",
-  "Prema istom izvoru, pružni prelaz je bez branika, ali je na njemu postavljen znak STOP, a 36-ogodišnji vozač automobila nije se zaustavio. Vatrogasci su iz smrskanog vozila izvukli beživotno telo muškarca, a ekipa Hitne pomoći konstatovala je smrt.",
-  "Policija je obavila uviđaj, a naložena je obdukcija tela stradalog, koji je bio meštanin Krnjeva, navodi Insajder."
+  "Prema informacijama beogradske Hitne pomoći koje je prenela agencija Beta, a objavili N1 i Danas, nesreća se dogodila pola sata posle ponoći kod Novog groblja. Navodi se da je taksista udario kolima u zid, a poginuo je stariji muškarac. Izvori ne navode ko je tačno stradao niti okolnosti nesreće.",
+  "Hitna pomoć je tokom noći intervenisala i kod još tri saobraćajna udesa, u kojima su konstatovane lakše povrede.",
+  "Ukupno je bilo 156 intervencija, što je rekordan broj, veliki čak i u poređenju sa dnevnim smenama, u kojima ih je obično više nego noću. Iz Hitne pomoći navode da promena vremena i hladnije vreme sa kišom nepovoljno utiču naročito na starije sugrađane, pa su pozivi uglavnom bili zbog hroničnih zdravstvenih problema.",
+  "Na javnim mestima ekipe su intervenisale 26 puta, dobrim delom zbog manjih povreda, ali i zbog trovanja alkoholom i narkoticima.",
+  "Ranije su Telegraf i Kurir pisali da je u četvrtak uveče u Klupcima kod Loznice automobil udario devojčicu na pešačkom prelazu kod vojne kasarne. Kurir navodi da je hitno prevezena u bolnicu, dok Telegraf piše da njeno zdravstveno stanje i okolnosti nezgode nisu poznati.",
+  "Istog dana u 22.20 u Krnjevu kod Velike Plane voz je udario u automobil na pružnom prelazu. Insajder, pozivajući se na izjavu PU Smederevo datu Tanjugu, navodi da je prelaz bez branika, ali sa znakom STOP, i da se 36-godišnji vozač nije zaustavio. Vatrogasci su iz vozila izvukli telo, a Hitna pomoć je konstatovala smrt. Naložena je obdukcija."
  ],
  "tags": [
-  "saobraćajna nesreća",
+  "saobraćajne nesreće",
+  "Hitna pomoć",
+  "Beograd",
+  "Novo groblje",
   "Loznica",
-  "Velika Plana",
-  "pešački prelaz",
-  "pružni prelaz"
+  "Velika Plana"
  ],
  "people": [],
  "places": [
@@ -28,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-27T07:53:21.135233+00:00",
- "updated": "2026-11-28T00:37:48.720459+00:00",
+ "updated": "2026-11-28T07:31:50.604742+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -65,6 +67,18 @@
    "url": "https://www.kurir.rs/region/bosna-i-hercegovina/10174398/saobracajna-nesreca-u-sarajevu-pesak-povredjen",
    "title": "AUTOMOBIL POKOSIO PEŠAKA Teška nesreća u Sarajevu: Povređeni hitno prevezen u bolnicu",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/hitna-pomoc-muskarac-poginuo-u-saobracajnoj-nesreci-u-beogradu-rekordan-broj-intervencija/",
+   "title": "Hitna pomoć: Muškarac poginuo u saobraćajnoj nesreći u Beogradu, rekordan broj intervencija",
+   "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/hitna-pomoc-saobracaj-nesreca/",
+   "title": "Hitna pomoć: Muškarac poginuo u saobraćajnoj nesreći u Beogradu, rekordan broj intervencija",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -73,7 +87,9 @@
   "Drama kod Loznice: Devojčicu udario automobil na pešačkom prelazu",
   "Voz udario u automobil na pružnom prelazu u Krnjevu, poginuo vozač (36)",
   "Voz udario automobil na pružnom prelazu u Krnjevu: Poginuo muškarac",
-  "AUTOMOBIL POKOSIO PEŠAKA Teška nesreća u Sarajevu: Povređeni hitno prevezen u bolnicu"
+  "AUTOMOBIL POKOSIO PEŠAKA Teška nesreća u Sarajevu: Povređeni hitno prevezen u bolnicu",
+  "Hitna pomoć: Muškarac poginuo u saobraćajnoj nesreći u Beogradu, rekordan broj intervencija",
+  "Hitna pomoć: Muškarac poginuo u saobraćajnoj nesreći u Beogradu, rekordan broj intervencija"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -86,6 +102,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Mural_of_Stefan_Fili%C4%87,_Velika_Plana,_Serbia,_2023.jpg",
   "alt": "Dve saobraćajne nesreće sinoć: povređena devojčica kod Loznice, poginuo vozač u Krnjevu"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 0,
+ "boost": 1.4,
+ "prepisano": "2026-11-28T07:31:50.604742+00:00",
+ "verzija": 2
 }
