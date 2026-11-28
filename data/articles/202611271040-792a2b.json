@@ -25,7 +25,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T09:40:41.632693+00:00",
- "updated": "2026-11-28T10:11:28.827035+00:00",
+ "updated": "2026-11-28T10:46:36.000295+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -44,12 +44,19 @@
    "url": "https://www.b92.net/biz/srbija/vesti/288837/agencija-za-osiguranje-depozita-trazi-reviziju-finansijskih-izvestaja-alta-banke/vest",
    "title": "AOD traži reviziju finansijskih izveštaja Alta banke",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://biznis.telegraf.rs/info-biz/4441432-agencija-za-osiguranje-depozita-trazi-reviziju-finansijskih-izvestaja-alta-banke-ovo-je-rok-za-ponude",
+   "title": "Agencija za osiguranje depozita traži reviziju finansijskih izveštaja Alta banke: Ovo je rok za ponude",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "AOD angažuje revizora za proveru finansijskog stanja Alta banke",
   "Agencija za osiguranje depozita traži reviziju finansijskih izveštaja Alta banke",
-  "AOD traži reviziju finansijskih izveštaja Alta banke"
+  "AOD traži reviziju finansijskih izveštaja Alta banke",
+  "Agencija za osiguranje depozita traži reviziju finansijskih izveštaja Alta banke: Ovo je rok za ponude"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,6 +69,6 @@
   "alt": "person holding paper near pen and calculator",
   "link": "https://unsplash.com/@kellysikkema"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
