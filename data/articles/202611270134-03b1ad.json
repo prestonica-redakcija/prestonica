@@ -30,17 +30,24 @@
  ],
  "importance": 5,
  "published": "2026-11-27T00:34:57.464001+00:00",
- "updated": "2026-11-27T00:34:57.464001+00:00",
+ "updated": "2026-11-28T10:11:28.827035+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/english/news/european-democrat-mep-sandro-gozi-explains-abstention-in-vukovar-resolution-vote/",
    "title": "European Democrat MEP Sandro Gozi explains abstention in Vukovar resolution vote",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Euronews Srbija",
+   "url": "https://www.euronews.rs/srbija/politika/254070/ep-usvojio-rezoluciju-o-vukovaru-reagovao-jovanov/vest",
+   "title": "Jovanov o rezoluciji o Vukovaru: Imamo obavezu da se obratimo Evropskom parlamentu",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "European Democrat MEP Sandro Gozi explains abstention in Vukovar resolution vote"
+  "European Democrat MEP Sandro Gozi explains abstention in Vukovar resolution vote",
+  "Jovanov o rezoluciji o Vukovaru: Imamo obavezu da se obratimo Evropskom parlamentu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "glass walled building during daytime",
   "link": "https://unsplash.com/@guillaumeperigois"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

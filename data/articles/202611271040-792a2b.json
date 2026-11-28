@@ -25,17 +25,31 @@
  ],
  "importance": 5,
  "published": "2026-11-27T09:40:41.632693+00:00",
- "updated": "2026-11-27T09:40:41.632693+00:00",
+ "updated": "2026-11-28T10:11:28.827035+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/ekonomija/aod-angazuje-revizora-za-proveru-finansijskog-stanja-alta-banke/",
    "title": "AOD angažuje revizora za proveru finansijskog stanja Alta banke",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/301706/agencija-za-osiguranje-depozita-trazi-reviziju-finansijskih-izvestaja-alta-banke/vest",
+   "title": "Agencija za osiguranje depozita traži reviziju finansijskih izveštaja Alta banke",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/srbija/vesti/288837/agencija-za-osiguranje-depozita-trazi-reviziju-finansijskih-izvestaja-alta-banke/vest",
+   "title": "AOD traži reviziju finansijskih izveštaja Alta banke",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "AOD angažuje revizora za proveru finansijskog stanja Alta banke"
+  "AOD angažuje revizora za proveru finansijskog stanja Alta banke",
+  "Agencija za osiguranje depozita traži reviziju finansijskih izveštaja Alta banke",
+  "AOD traži reviziju finansijskih izveštaja Alta banke"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -47,5 +61,7 @@
   "local": false,
   "alt": "person holding paper near pen and calculator",
   "link": "https://unsplash.com/@kellysikkema"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

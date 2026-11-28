@@ -29,17 +29,24 @@
  ],
  "importance": 3,
  "published": "2026-11-28T09:05:08.151385+00:00",
- "updated": "2026-11-28T09:05:08.151385+00:00",
+ "updated": "2026-11-28T10:11:28.827035+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1173928/mihael-martens-o-totalitarizmu-studentske-liste",
    "title": "Mihael Martens ismejao totalitarizam Studentske liste - Brutalnim sarkazmom udario na jednoumlje (FOTO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1675525/napomena-mihael-martens-podelio-tvit-djokica-dao-komentar",
+   "title": "NAPOMENA: Mihael Martens podelio tvit Đokića i na to dao komentar",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Mihael Martens ismejao totalitarizam Studentske liste - Brutalnim sarkazmom udario na jednoumlje (FOTO)"
+  "Mihael Martens ismejao totalitarizam Studentske liste - Brutalnim sarkazmom udario na jednoumlje (FOTO)",
+  "NAPOMENA: Mihael Martens podelio tvit Đokića i na to dao komentar"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -50,5 +57,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Martens ironičnim komentarom na Iksu odgovorio na Đokićevu analizu o Studentskoj listi"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

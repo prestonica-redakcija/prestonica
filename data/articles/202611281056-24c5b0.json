@@ -29,7 +29,7 @@
  ],
  "importance": 6,
  "published": "2026-11-28T09:56:49.039141+00:00",
- "updated": "2026-11-28T09:56:49.039141+00:00",
+ "updated": "2026-11-28T10:11:28.827035+00:00",
  "sources": [
   {
    "name": "B92",
@@ -42,11 +42,18 @@
    "url": "https://nova.rs/magazin/vremenska-prognoza/mapa-izdato-upozorenje-za-sneznu-vejavicu-u-srbiji-evo-gde-ce-se-pasti-30cm-snega/",
    "title": "(MAPA) Izdato upozorenje za snežnu vejavicu u Srbiji: Evo gde će se pasti 30cm snega",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301704/pao-prvi-sneg-u-beogradu-zabelela-se-periferija-grada-i-avala/vest",
+   "title": "Pao prvi sneg u Beogradu, zabelela se periferija grada i Avala",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Pao prvi sneg u Beogradu: Evo gde se sve zabelelo; Izdato upozorenje FOTO/VIDEO",
-  "(MAPA) Izdato upozorenje za snežnu vejavicu u Srbiji: Evo gde će se pasti 30cm snega"
+  "(MAPA) Izdato upozorenje za snežnu vejavicu u Srbiji: Evo gde će se pasti 30cm snega",
+  "Pao prvi sneg u Beogradu, zabelela se periferija grada i Avala"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "person in black jacket standing on road during snow",
   "link": "https://unsplash.com/@joshhild"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
