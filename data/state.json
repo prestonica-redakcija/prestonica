@@ -6435,12 +6435,6 @@
  "fokus": [],
  "runs": [
   {
-   "vreme": "2026-11-27T08:23+00:00",
-   "novih": 1,
-   "ukupno": 5159,
-   "sekundi": 934.8
-  },
-  {
    "vreme": "2026-11-27T08:37+00:00",
    "novih": 10,
    "ukupno": 5169,
@@ -6793,6 +6787,12 @@
    "novih": 0,
    "ukupno": 5461,
    "sekundi": 582.9
+  },
+  {
+   "vreme": "2026-11-28T01:24+00:00",
+   "novih": 0,
+   "ukupno": 5461,
+   "sekundi": 807.7
   }
  ],
  "licnosti_foto": {
@@ -22542,20 +22542,6 @@
   }
  },
  "foto_cache": {
-  "t:marin le pen": {
-   "t": 1795223450.4478784,
-   "items": [
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/%D0%9C%D0%B0%D1%80%D0%B8%D0%BD_%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD_%2828-01-2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1358,
-     "h": 1720,
-     "god": 2022,
-     "credit": "Wikimedia Commons / VOX España / Public domain",
-     "link": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D1%80%D0%B8%D0%BD_%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD_(28-01-2022).jpg",
-     "naslov": "Марин Ле Пен (28-01-2022).jpg"
-    }
-   ]
-  },
   "t:blue lagoon": {
    "t": 1795230580.3635087,
    "items": [
@@ -44424,7 +44410,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-28T00:57:06.165982+00:00",
+  "provereno": "2026-11-28T01:11:51.016005+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
