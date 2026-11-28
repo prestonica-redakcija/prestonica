@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T06:34:31.714808+00:00",
- "updated": "2026-11-28T16:32:31.863684+00:00",
+ "updated": "2026-11-28T17:07:29.038617+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -56,13 +56,20 @@
    "url": "https://www.b92.net/info/drustvo/288930/rhmz-izdao-upozorenje-za-obilne-padavine/vest",
    "title": "Stiže ozbiljan zimski udar; RHMZ izdao hitno upozorenje",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10175768/vremenska-prognoza-marka-cubrila-za-decembar-temperature-padaju-na-14",
+   "title": "STIŽU LEDENI DANI POSLE PRVOG SNEGA U SRBIJI! Čubrilo objavio detaljnu prognozu za decembar: Očekuju nas mrazevi do -14, a evo kada dolazi do obrta!",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Zima pokazuje zube za vikend, RHMZ objavio hitno upozorenje za ove delove Srbije: Stiže do 20 cm snega i ledeni dani, evo kakav nas decembar čeka",
   "Otopljenje, pa zahlađenje i sneg, a onda stižu ledeni dani: Detaljna prognoza do početka decembra",
   "Stižu nam ledeni dani! Oglasio se RHMZ: Temperatura će biti u minusu, objavljeni detalji",
-  "Stiže ozbiljan zimski udar; RHMZ izdao hitno upozorenje"
+  "Stiže ozbiljan zimski udar; RHMZ izdao hitno upozorenje",
+  "STIŽU LEDENI DANI POSLE PRVOG SNEGA U SRBIJI! Čubrilo objavio detaljnu prognozu za decembar: Očekuju nas mrazevi do -14, a evo kada dolazi do obrta!"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -74,6 +81,6 @@
   "local": true,
   "alt": "Sneg stiže u subotu, u nižim predelima do 10 cm, a zatim hladna sedmica"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

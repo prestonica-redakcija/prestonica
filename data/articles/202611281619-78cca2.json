@@ -34,7 +34,7 @@
  ],
  "importance": 6,
  "published": "2026-11-28T15:19:38.294097+00:00",
- "updated": "2026-11-28T16:50:58.469537+00:00",
+ "updated": "2026-11-28T17:07:29.038617+00:00",
  "sources": [
   {
    "name": "N1",
@@ -47,11 +47,18 @@
    "url": "https://www.tanjug.rs/ekonomija/srbija/301787/vitezi-voz-beograd-budimpesta-mogao-bi-da-krene-brzo-ali-i-za-nekoliko-meseci/vest",
    "title": "Vitezi: Voz Beograd-Budimpešta mogao bi da krene brzo, ali i za nekoliko meseci",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/biz/svet/vesti/288935/oglasili-se-madjari-o-vozu-beograd-budimpesta-gde-je-zapelo/vest",
+   "title": "Oglasili se Mađari o vozu Beograd–Budimpešta: Gde je zapelo?",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Voz za Budimpeštu može da krene relativno brzo ili tek za nekoliko meseci: Mađarski ministar objašnjava od čega zavisi",
-  "Vitezi: Voz Beograd-Budimpešta mogao bi da krene brzo, ali i za nekoliko meseci"
+  "Vitezi: Voz Beograd-Budimpešta mogao bi da krene brzo, ali i za nekoliko meseci",
+  "Oglasili se Mađari o vozu Beograd–Budimpešta: Gde je zapelo?"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,6 +71,6 @@
   "alt": "High-speed trains are stopped at a platform",
   "link": "https://unsplash.com/@kaden_t"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
