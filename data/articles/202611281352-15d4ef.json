@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-28T12:52:14.392085+00:00",
- "updated": "2026-11-28T12:52:14.392085+00:00",
+ "updated": "2026-11-28T15:36:37.418563+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,18 @@
    "url": "https://www.danas.rs/svet/indijska-policija-vodenim-topovima-rasterala-demonstrante-ispred-kancelarija-kompanije-meta/",
    "title": "Indijska policija vodenim topovima rasterala demonstrante ispred kancelarija kompanije Meta",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/drustvo/301776/indijska-policija-vodenim-topovima-rasterala-demonstrante-ispred-kancelarija-mete/vest",
+   "title": "Indijska policija vodenim topovima rasterala demonstrante ispred kancelarija Mete",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Indijska policija vodenim topovima rasterala demonstrante ispred kancelarija kompanije Meta",
-  "Indijska policija vodenim topovima rasterala demonstrante ispred kancelarija kompanije Meta"
+  "Indijska policija vodenim topovima rasterala demonstrante ispred kancelarija kompanije Meta",
+  "Indijska policija vodenim topovima rasterala demonstrante ispred kancelarija Mete"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Indijska policija vodenim topovima rasterala demonstrante ispred kancelarija Mete"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

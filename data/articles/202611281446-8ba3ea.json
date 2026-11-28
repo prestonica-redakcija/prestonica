@@ -30,7 +30,7 @@
  ],
  "importance": 3,
  "published": "2026-11-28T13:46:29.037668+00:00",
- "updated": "2026-11-28T14:41:52.309760+00:00",
+ "updated": "2026-11-28T15:36:37.418563+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -43,11 +43,18 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4441582-posle-ane-preminula-i-sofija-druga-zrtva-strasnog-udesa-u-indjiji",
    "title": "Posle Ane, preminula i Sofija: Druga žrtva strašnog udesa u Inđiji",
    "spektar": "vlast"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/hronika/288913/druga-zrtva-strasnog-udesa-u-indjiji/vest",
+   "title": "Druga žrtva strašnog udesa u Inđiji",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "TRAGEDIJA U INĐIJI! POSLE ANJE PREMINULA I SOFIJA: Drugarice zajedno odrastale, zajedno otišle i u smrt (foto)",
-  "Posle Ane, preminula i Sofija: Druga žrtva strašnog udesa u Inđiji"
+  "Posle Ane, preminula i Sofija: Druga žrtva strašnog udesa u Inđiji",
+  "Druga žrtva strašnog udesa u Inđiji"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -59,6 +66,6 @@
   "local": true,
   "alt": "Preminula i druga devojka povređena u saobraćajnoj nesreći kod Inđije"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

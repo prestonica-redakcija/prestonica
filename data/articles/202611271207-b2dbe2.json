@@ -33,7 +33,7 @@
  ],
  "importance": 6,
  "published": "2026-11-27T11:07:40.603633+00:00",
- "updated": "2026-11-27T11:07:40.603633+00:00",
+ "updated": "2026-11-28T15:36:37.418563+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -46,11 +46,18 @@
    "url": "https://www.kurir.rs/vesti/drustvo/10174409/upozorenje-za-vozace-magla-i-poledica-na-putevima",
    "title": "Hitno upozorenje za vozače! Magla na auto-putevima i magistralama, na ovim deonicama potreban poseban oprez",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10175706/sneg-na-putevima-oprez-vozaci",
+   "title": "VOZAČI, OPREZ ZBOG SNEGA NA PUTEVIMA: Na pojedinim deonicama i do 10 centimetara, evo gde je najkritičnije",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Putevi Srbije: Vozači da budu oprezni zbog najavljenih vremenskih uslova",
-  "Hitno upozorenje za vozače! Magla na auto-putevima i magistralama, na ovim deonicama potreban poseban oprez"
+  "Hitno upozorenje za vozače! Magla na auto-putevima i magistralama, na ovim deonicama potreban poseban oprez",
+  "VOZAČI, OPREZ ZBOG SNEGA NA PUTEVIMA: Na pojedinim deonicama i do 10 centimetara, evo gde je najkritičnije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -62,5 +69,7 @@
   "local": false,
   "alt": "green trees near road",
   "link": "https://unsplash.com/@sendmaddie"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
