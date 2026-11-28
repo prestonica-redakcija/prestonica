@@ -32,7 +32,7 @@
  ],
  "importance": 4,
  "published": "2026-11-27T22:50:09.752761+00:00",
- "updated": "2026-11-27T23:10:05.467987+00:00",
+ "updated": "2026-11-27T23:42:36.894782+00:00",
  "sources": [
   {
    "name": "B92",
@@ -45,11 +45,18 @@
    "url": "https://www.euronews.rs/svet/fokus/254042/netanjahu-spreman-za-rotaciju-sa-ajzenkotom/vest",
    "title": "Netanjahu spreman da bude drugi premijer u rotaciji sa Ajzenkotom",
    "spektar": "centar"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10175212/netanjahu-spreman-da-ponudi-ajzenkotu-vodece-mesto-u-rotacionoj-vladi",
+   "title": "NA POMOLU DOGOVOR U IZRAELU: Netanjahu spreman da ponudi Ajzenkotu vodeće mesto u rotacionoj vladi",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Netanjahu spreman da ponudi Ajzenkotu vodeće mesto u rotacionoj vladi",
-  "Netanjahu spreman da bude drugi premijer u rotaciji sa Ajzenkotom"
+  "Netanjahu spreman da bude drugi premijer u rotaciji sa Ajzenkotom",
+  "NA POMOLU DOGOVOR U IZRAELU: Netanjahu spreman da ponudi Ajzenkotu vodeće mesto u rotacionoj vladi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -61,6 +68,6 @@
   "local": true,
   "alt": "Netanjahu spreman da bude drugi premijer u rotaciji iza Ajzenkota"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
