@@ -1,0 +1,53 @@
+{
+ "id": "202611281131-b0b6a1",
+ "slug": "strucnjaci-upozoravaju-da-bi-ai-mogao-da-ugrozi-sisteme-sifrovanja",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Stručnjaci upozoravaju da bi AI mogao da ugrozi sisteme šifrovanja banaka i vlada",
+ "lead": "Vodeći stručnjaci upozoravaju da bi nova matematička otkrića u oblasti veštačke inteligencije mogla da ugroze sisteme šifrovanja koje koriste banke, vlade i obaveštajne službe. Još nije poznato da li su kompanije za razvoj AI zaista našle način da razbiju postojeće algoritme.",
+ "body": [
+  "Kako prenosi Tanjug iz Londona, upozorenje se odnosi na mogućnost da je veštačka inteligencija donela pomake u matematičkim problemima na kojima počiva zaštita tajnih podataka.",
+  "Teorijski računarski naučnik Skot Aronson rekao je za list Gardijan da postoje pouzdane informacije da su laboratorije za veštačku inteligenciju možda ostvarile značajne pomake u rešavanju matematičkih problema povezanih sa kriptografijom, odnosno zaštitom tajnih informacija.",
+  "Prema Tanjugu, takav proboj mogao bi da omogući lakše dešifrovanje bankarskih transakcija, diplomatskih poruka i privatne elektronske pošte.",
+  "To bi, navodi agencija, primoralo države, banke i kompanije da brzo menjaju sisteme zaštite podataka.",
+  "U delu teksta koji je Tanjug javno objavio nema podataka o tome koje bi laboratorije bile u pitanju niti da li je neki proboj potvrđen."
+ ],
+ "tags": [
+  "veštačka inteligencija",
+  "kriptografija",
+  "šifrovanje",
+  "sajber bezbednost",
+  "banke"
+ ],
+ "people": [
+  "Skot Aronson"
+ ],
+ "places": [
+  "London"
+ ],
+ "importance": 4,
+ "published": "2026-11-28T10:31:00.995514+00:00",
+ "updated": "2026-11-28T10:31:00.995514+00:00",
+ "sources": [
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/svet/301708/strucnjaci-upozoravaju-na-moguci-proboj-ai-u-desifrovanju-tajnih-podataka/vest",
+   "title": "Stručnjaci upozoravaju na mogući proboj AI u dešifrovanju tajnih podataka",
+   "spektar": "centar"
+  }
+ ],
+ "source_titles": [
+  "Stručnjaci upozoravaju na mogući proboj AI u dešifrovanju tajnih podataka"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 2.541,
+ "image": {
+  "src": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixid=M3wxMTQwNDIwfDB8MXxzZWFyY2h8MXx8ZW5jcnlwdGlvbiUyMGNvZGUlMjBjeWJlcnNlY3VyaXR5fGVufDF8MHx8fDE3OTU4NjE5MzR8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+  "credit": "Unsplash / Markus Spiske",
+  "ilustracija": true,
+  "local": false,
+  "alt": "Matrix movie still",
+  "link": "https://unsplash.com/@markusspiske"
+ }
+}

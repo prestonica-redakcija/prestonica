@@ -34,17 +34,31 @@
  ],
  "importance": 6,
  "published": "2026-11-27T17:57:59.926303+00:00",
- "updated": "2026-11-27T17:57:59.926303+00:00",
+ "updated": "2026-11-28T10:31:00.995514+00:00",
  "sources": [
   {
    "name": "B92",
    "url": "https://www.b92.net/info/svet/288710/tajani-demantovao-izjavu-zelenskog-o-napadu-na-ruske-brodove-u-libiji/vest",
    "title": "Rim kategorički demantovao izjavu Zelenskog; \"Nije istina\"",
    "spektar": "centar"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301709/meloni-kritikovala-zelenskog-zbog-napada-u-libiji-o-kojem-rim-nije-bio-informisan/vest",
+   "title": "Meloni kritikovala Zelenskog zbog napada u Libiji o kojem Rim nije bio informisan",
+   "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/svet/4441444-djordja-meloni-kritikovala-volodimira-zelenskog",
+   "title": "Đorđa Meloni kritikovala Volodimira Zelenskog",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Rim kategorički demantovao izjavu Zelenskog; \"Nije istina\""
+  "Rim kategorički demantovao izjavu Zelenskog; \"Nije istina\"",
+  "Meloni kritikovala Zelenskog zbog napada u Libiji o kojem Rim nije bio informisan",
+  "Đorđa Meloni kritikovala Volodimira Zelenskog"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +71,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Antonio_Tajani_2025.jpg",
   "osoba": "Antonio Tajani",
   "alt": "Tajani demantovao Zelenskog: sa Italijom nije bilo koordinacije oko napada u Libiji"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

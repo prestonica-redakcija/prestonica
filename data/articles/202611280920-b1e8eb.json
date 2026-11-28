@@ -35,17 +35,24 @@
  ],
  "importance": 6,
  "published": "2026-11-28T08:20:22.206377+00:00",
- "updated": "2026-11-28T08:20:22.206377+00:00",
+ "updated": "2026-11-28T10:31:00.995514+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10174957/rezolucija-ep-o-vukovaru-zasto-bas-sada",
    "title": "ZAŠTO BAŠ U OVOM TRENUTKU REZOLUCIJA O VUKOVARU?! U Srbiji se tek formira nova vlast, predsednički izbori za mesec dana - a iz Strazbura VEŠTAČKE TENZIJE",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/dijalog/licni-stavovi/vukovar-jedna-prica-iz-strazbura/",
+   "title": "Vukovar, jedna priča iz Strazbura",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "ZAŠTO BAŠ U OVOM TRENUTKU REZOLUCIJA O VUKOVARU?! U Srbiji se tek formira nova vlast, predsednički izbori za mesec dana - a iz Strazbura VEŠTAČKE TENZIJE"
+  "ZAŠTO BAŠ U OVOM TRENUTKU REZOLUCIJA O VUKOVARU?! U Srbiji se tek formira nova vlast, predsednički izbori za mesec dana - a iz Strazbura VEŠTAČKE TENZIJE",
+  "Vukovar, jedna priča iz Strazbura"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Veran_Mati%C4%87,_novembar_2011.JPG",
   "osoba": "Veran Matić",
   "alt": "Rezolucija Evropskog parlamenta o Vukovaru izazvala reakcije u Srbiji i Rusiji"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

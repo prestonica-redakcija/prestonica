@@ -31,17 +31,24 @@
  ],
  "importance": 5,
  "published": "2026-11-28T09:56:49.039141+00:00",
- "updated": "2026-11-28T09:56:49.039141+00:00",
+ "updated": "2026-11-28T10:31:00.995514+00:00",
  "sources": [
   {
    "name": "Insajder",
    "url": "https://insajder.net/prenosimo/lekari-bez-granica-dva-clana-organizacija-ubijena-u-izraelskom-napadu-na-nasu-kliniku-u-gazi",
    "title": "Lekari bez granica: Dva člana organizacije ubijena u izraelskom napadu na našu kliniku u Gazi",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/u-izraelskom-napadu-u-gazi-poginula-dva-zaposlena-u-medjunarodnoj-organizaciji-lekari-bez-granica/",
+   "title": "U izraelskom napadu u Gazi poginula dva zaposlena u međunarodnoj organizaciji Lekari bez granica",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "Lekari bez granica: Dva člana organizacije ubijena u izraelskom napadu na našu kliniku u Gazi"
+  "Lekari bez granica: Dva člana organizacije ubijena u izraelskom napadu na našu kliniku u Gazi",
+  "U izraelskom napadu u Gazi poginula dva zaposlena u međunarodnoj organizaciji Lekari bez granica"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "alt": "Smiling children pose in front of tents at a refugee camp",
   "link": "https://unsplash.com/@mohammed_ibrahim_mi"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
