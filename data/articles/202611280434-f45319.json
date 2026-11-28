@@ -28,16 +28,23 @@
  ],
  "importance": 3,
  "published": "2026-11-28T03:34:02.226018+00:00",
- "updated": "2026-11-28T03:34:02.226018+00:00",
+ "updated": "2026-11-28T06:46:12.317959+00:00",
  "sources": [
   {
    "name": "Kurir",
    "url": "https://www.kurir.rs/vesti/politika/10174812/manastir-ljubostinja-dobio-novu-igumaniju",
    "title": "MATI JEFIMIJA NA ČELU SESTRINSTVA: Manastir Ljubostinja dobio novu igumaniju",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/drustvo/10174812/manastir-ljubostinja-dobio-novu-igumaniju",
+   "title": "MATI JEFIMIJA NA ČELU SESTRINSTVA: Manastir Ljubostinja dobio novu igumaniju",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
+  "MATI JEFIMIJA NA ČELU SESTRINSTVA: Manastir Ljubostinja dobio novu igumaniju",
   "MATI JEFIMIJA NA ČELU SESTRINSTVA: Manastir Ljubostinja dobio novu igumaniju"
  ],
  "author": "Redakcija Prestonice",
@@ -50,5 +57,7 @@
   "local": false,
   "alt": "cathedral under blue sky",
   "link": "https://unsplash.com/@lab604"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

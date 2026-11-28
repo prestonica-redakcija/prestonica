@@ -30,17 +30,24 @@
  ],
  "importance": 7,
  "published": "2026-11-27T20:04:07.794148+00:00",
- "updated": "2026-11-27T20:04:07.794148+00:00",
+ "updated": "2026-11-28T06:46:12.317959+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/srbija/politika/301596/vucic-bice-promenjeni-oni-koji-su-bili-bahati-u-savetima-ce-biti-najstrucniji-ljudi/vest",
    "title": "Vučić: Biće promenjeni oni koji su bili bahati; u savetima će biti najstručniji ljudi",
    "spektar": "centar"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1675479/neka-ljudi-sami-razmisle-vucic-najavio-nece-glasati-predsednickim-izborima-video",
+   "title": "\"NEKA LjUDI SAMI RAZMISLE\": Vučić najavio da neće glasati na predsedničkim izborima (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "Vučić: Biće promenjeni oni koji su bili bahati; u savetima će biti najstručniji ljudi"
+  "Vučić: Biće promenjeni oni koji su bili bahati; u savetima će biti najstručniji ljudi",
+  "\"NEKA LjUDI SAMI RAZMISLE\": Vučić najavio da neće glasati na predsedničkim izborima (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -54,5 +61,7 @@
   "osoba": "Ana Brnabić",
   "izvor_x": true,
   "alt": "Vučić najavio reorganizaciju SNS i odluku o predsedničkim izborima do 6. decembra"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
