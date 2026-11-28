@@ -34,7 +34,7 @@
  ],
  "importance": 4,
  "published": "2026-11-27T21:39:49.220132+00:00",
- "updated": "2026-11-27T21:39:49.220132+00:00",
+ "updated": "2026-11-28T14:57:53.703020+00:00",
  "sources": [
   {
    "name": "N1",
@@ -47,11 +47,25 @@
    "url": "https://www.danas.rs/svet/albaneze-u-limbu-na-aerodromu/",
    "title": "Izvestiteljka UN Albaneze u limbu na aerodromu pošto joj je uskraćen ulaz u Kostariku",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/politika/301760/franceska-albaneze-posle-dve-noci-napustila-aerodrom-u-kostariki/vest",
+   "title": "Frančeska Albaneze posle dve noći napustila aerodrom u Kostariki",
+   "spektar": "centar"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/specijalna-izvestiteljka-un-franceska-albaneze-napustila-kostariku-posto-joj-nije-dozvoljen-ulazak-u-zemlju",
+   "title": "Specijalna izvestiteljka UN Frančeska Albaneze napustila Kostariku pošto joj nije dozvoljen ulazak u zemlju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Izvestiteljka UN Albaneze u limbu na aerodromu pošto joj je uskraćen ulaz u Kostariku",
-  "Izvestiteljka UN Albaneze u limbu na aerodromu pošto joj je uskraćen ulaz u Kostariku"
+  "Izvestiteljka UN Albaneze u limbu na aerodromu pošto joj je uskraćen ulaz u Kostariku",
+  "Frančeska Albaneze posle dve noći napustila aerodrom u Kostariki",
+  "Specijalna izvestiteljka UN Frančeska Albaneze napustila Kostariku pošto joj nije dozvoljen ulazak u zemlju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +78,7 @@
   "link": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Secretary_Marco_Rubio.jpg",
   "osoba": "Marko Rubio",
   "alt": "Izvestiteljki UN Albaneze odbijen ulazak u Kostariku, čeka odluku suda na aerodromu"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

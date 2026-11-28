@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-28T14:25:01.801492+00:00",
- "updated": "2026-11-28T14:25:01.801492+00:00",
+ "updated": "2026-11-28T14:57:53.703020+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -48,12 +48,26 @@
    "url": "https://www.telegraf.rs/vesti/jugosfera/4441567-haos-na-protestu-u-tirani-molotovljevi-kokteli-suzavac-i-vodeni-topovi-medju-povredjenima-i-strani-novinar",
    "title": "Haos na protestu u Tirani! Molotovljevi kokteli, suzavac i vodeni topovi, među povređenima i strani novinar",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10175653/nemiri-tirana-protesti-edi-rama-ostavka",
+   "title": "TIRANA U PLAMENU, VODENI TOPOVI SE POVLAČE POD NALETOM DEMONSTRANATA: Opkoljena kancelarija Edija Rame, lete molotovljevi kokteli i suzavci (FOTO/VIDEO)",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/vise-osoba-povredeno-na-danasnjim-antivladinim-demonstracijama-u-tirani",
+   "title": "Više osoba povređeno na današnjim antivladinim demonstracijama u Tirani",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Sukobi na protestu u Tirani, povređeni policajci, novinari i demonstranti",
   "Totalni haos u Tirani: Lete kamenice, motke i Molotovljevi kokteli – sukob demonstranata i policije VIDEO",
-  "Haos na protestu u Tirani! Molotovljevi kokteli, suzavac i vodeni topovi, među povređenima i strani novinar"
+  "Haos na protestu u Tirani! Molotovljevi kokteli, suzavac i vodeni topovi, među povređenima i strani novinar",
+  "TIRANA U PLAMENU, VODENI TOPOVI SE POVLAČE POD NALETOM DEMONSTRANATA: Opkoljena kancelarija Edija Rame, lete molotovljevi kokteli i suzavci (FOTO/VIDEO)",
+  "Više osoba povređeno na današnjim antivladinim demonstracijama u Tirani"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -65,5 +79,7 @@
   "local": false,
   "alt": "a statue of a man on a horse in the middle of a street",
   "link": "https://unsplash.com/@thesilvafocus"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

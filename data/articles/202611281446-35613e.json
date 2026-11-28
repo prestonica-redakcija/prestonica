@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-28T13:46:29.037668+00:00",
- "updated": "2026-11-28T13:46:29.037668+00:00",
+ "updated": "2026-11-28T14:57:53.703020+00:00",
  "sources": [
   {
    "name": "N1",
@@ -44,11 +44,18 @@
    "url": "https://www.danas.rs/svet/ruski-udari-na-kijev/",
    "title": "Novi ruski udari na Kijev, Kličko strahuje da će glavni grad ostati bez struje i vode",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/svet/novi-ruski-udar-na-kijev/",
+   "title": "Novi ruski udar na Kijev, Kličko strahuje da će grad ostati bez struje",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Novi ruski udar na Kijev, Kličko strahuje da će grad ostati bez struje",
-  "Novi ruski udari na Kijev, Kličko strahuje da će glavni grad ostati bez struje i vode"
+  "Novi ruski udari na Kijev, Kličko strahuje da će glavni grad ostati bez struje i vode",
+  "Novi ruski udar na Kijev, Kličko strahuje da će grad ostati bez struje"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -60,5 +67,7 @@
   "local": false,
   "alt": "white and green tower during night time",
   "link": "https://unsplash.com/@lifeinkyiv"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

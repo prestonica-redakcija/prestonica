@@ -35,7 +35,7 @@
  ],
  "importance": 6,
  "published": "2026-11-28T14:41:52.309760+00:00",
- "updated": "2026-11-28T14:41:52.309760+00:00",
+ "updated": "2026-11-28T14:57:53.703020+00:00",
  "sources": [
   {
    "name": "N1",
@@ -48,11 +48,18 @@
    "url": "https://www.kurir.rs/vesti/politika/10175634/tribina-ans-povodom-hapsenja-dragana-j-vucicevica",
    "title": "TRIBINA ANS POVODOM ODREĐIVANJA PRITVORA DRAGANU J. VUČIĆEVIĆU: Obratili se Raković, Antić, Bratina, Ljubičanović i drugi",
    "spektar": "vlast"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/vesti/drustvo/ministar-bratina-dragan-vucicevic-je-bio-regionalni-dzulijan-asanz-i-ide-u-istoriju/",
+   "title": "Ministar Bratina: Dragan Vučićević je bio regionalni Džulijan Asanž i ide u istoriju",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Bratina: Dragan Vučićević je bio regionalni Džulijan Asanž",
-  "TRIBINA ANS POVODOM ODREĐIVANJA PRITVORA DRAGANU J. VUČIĆEVIĆU: Obratili se Raković, Antić, Bratina, Ljubičanović i drugi"
+  "TRIBINA ANS POVODOM ODREĐIVANJA PRITVORA DRAGANU J. VUČIĆEVIĆU: Obratili se Raković, Antić, Bratina, Ljubičanović i drugi",
+  "Ministar Bratina: Dragan Vučićević je bio regionalni Džulijan Asanž i ide u istoriju"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +71,7 @@
   "local": false,
   "alt": "Annual Meeting 2019",
   "link": "https://unsplash.com/@evangelineshaw"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

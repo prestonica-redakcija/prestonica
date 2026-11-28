@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-28T13:25:22.518133+00:00",
- "updated": "2026-11-28T14:07:47.691711+00:00",
+ "updated": "2026-11-28T14:57:53.703020+00:00",
  "sources": [
   {
    "name": "N1",
@@ -54,13 +54,20 @@
    "url": "https://www.kurir.rs/vesti/politika/10175608/studentski-pokret-protiv-prinudnog-iseljenja-porodice-perunicic",
    "title": "STUDENTSKI POKRET SE OGLASIO ZBOG PRINUDNOG ISELJENJA PORODICE PERUNIČIĆ: Uputili novi apel javnim izvršiteljima",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301769/studentska-lista-najavila-izmene-zakona-o-izvrsenju-i-obezbedenju-veca-zastita-prava-na-dom/vest",
+   "title": "Studentska lista najavila izmene Zakona o izvršenju i obezbeđenju: Veća zaštita prava na dom",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Studentski pokret apeluje na izvršitelje da se uzdrže od iseljenja: Napravićemo sistem zasnovan na humanosti i pravičnosti",
   "Studentski pokret pozvao izvršitelje da se uzdrže od prinudnih iseljenja porodica iz domova, najavili izmene Zakona o izvršenju",
   "Studentski pokret apeluje na izvršitelje da se uzdrže od iseljenja: Napravićemo sistem zasnovan na humanosti i pravičnosti",
-  "STUDENTSKI POKRET SE OGLASIO ZBOG PRINUDNOG ISELJENJA PORODICE PERUNIČIĆ: Uputili novi apel javnim izvršiteljima"
+  "STUDENTSKI POKRET SE OGLASIO ZBOG PRINUDNOG ISELJENJA PORODICE PERUNIČIĆ: Uputili novi apel javnim izvršiteljima",
+  "Studentska lista najavila izmene Zakona o izvršenju i obezbeđenju: Veća zaštita prava na dom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -73,6 +80,6 @@
   "link": "https://commons.wikimedia.org/wiki/File:C1.05g_Bf_Novi_Beograd,_901_001.jpg",
   "alt": "Studentski pokret traži od izvršitelja da odlože iseljenje porodice Peruničić"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }
