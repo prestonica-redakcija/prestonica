@@ -29,7 +29,7 @@
  ],
  "importance": 4,
  "published": "2026-11-28T08:35:14.442276+00:00",
- "updated": "2026-11-28T08:35:14.442276+00:00",
+ "updated": "2026-11-28T08:50:20.046041+00:00",
  "sources": [
   {
    "name": "N1",
@@ -42,11 +42,18 @@
    "url": "https://www.danas.rs/svet/eksplozija-u-skoli-u-avganistanu-nekoliko-ucenika-poginulo-ili-ranjeno/",
    "title": "Eksplozija u školi u Avganistanu, nekoliko učenika poginulo ili ranjeno",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/svet/hronika/301687/eksplozija-u-osnovnoj-skoli-na-istoku-avganistana-poginulo-ili-ranjeno-vise-ucenika/vest",
+   "title": "Eksplozija u osnovnoj školi na istoku Avganistana, poginulo ili ranjeno više učenika",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Eksplozija u školi u Avganistanu, nekoliko učenika poginulo ili ranjeno",
-  "Eksplozija u školi u Avganistanu, nekoliko učenika poginulo ili ranjeno"
+  "Eksplozija u školi u Avganistanu, nekoliko učenika poginulo ili ranjeno",
+  "Eksplozija u osnovnoj školi na istoku Avganistana, poginulo ili ranjeno više učenika"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "ilustracija": true,
   "local": true,
   "alt": "Eksplozija u školi u avganistanskoj provinciji Kunar, stradalo ili povređeno više učenika"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

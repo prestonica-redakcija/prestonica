@@ -28,7 +28,7 @@
  ],
  "importance": 4,
  "published": "2026-11-28T08:20:22.206377+00:00",
- "updated": "2026-11-28T08:35:14.442276+00:00",
+ "updated": "2026-11-28T08:50:20.046041+00:00",
  "sources": [
   {
    "name": "Informer",
@@ -41,11 +41,18 @@
    "url": "https://informer.rs/politika/vesti/1173913/sok-plenumasica-otkrila-sve-o-sastavljanju-studentske-liste-ovo-je-bolesnije-nego-sto-smo-mogli-i-da-zamislimo-video",
    "title": "Šok! \"Plenumašica\" otkrila sve o sastavljanju Studentske liste - Ovo je bolesnije nego što smo mogli i da zamislimo (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173913/sok-plenumasica-otkrila-sve-o-sastavljanju-studentske-liste-ovo-nismo-mogli-ni-da-zamislimo-video",
+   "title": "Šok! \"Plenumašica\" otkrila sve o sastavljanju Studentske liste - Ovo nismo mogli ni da zamislimo (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Šok! \"Plenumašica\" otkrila sve o sastavljanju Stdentske liste - Ovo je bolesnije nego što smo mogli i da zamislimo (VIDEO)",
-  "Šok! \"Plenumašica\" otkrila sve o sastavljanju Studentske liste - Ovo je bolesnije nego što smo mogli i da zamislimo (VIDEO)"
+  "Šok! \"Plenumašica\" otkrila sve o sastavljanju Studentske liste - Ovo je bolesnije nego što smo mogli i da zamislimo (VIDEO)",
+  "Šok! \"Plenumašica\" otkrila sve o sastavljanju Studentske liste - Ovo nismo mogli ni da zamislimo (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,6 +65,6 @@
   "alt": "people sitting on chair in front of computer",
   "link": "https://unsplash.com/@domlafou"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-27T00:49:48.113257+00:00",
- "updated": "2026-11-27T21:05:27.086557+00:00",
+ "updated": "2026-11-28T08:50:20.046041+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -72,6 +72,12 @@
    "url": "https://www.danas.rs/vesti/politika/tadic-podrzao-saicica/",
    "title": "Tadić podržao Saičića na predsedničkim izborima",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Nova",
+   "url": "https://nova.rs/vesti/politika/boris-tadic-podrzao-predsednickog-kandidata-radomira-saicica/",
+   "title": "Boris Tadić podržao predsedničkog kandidata Radomira Saičića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -81,7 +87,8 @@
   "Tadić podržao Saičića na predsedničkim izborima",
   "Francuski list o Saičiću: Naučnik bez političkog iskustva",
   "Tadić podržao Saičića na predsedničkim izborima",
-  "Tadić podržao Saičića na predsedničkim izborima"
+  "Tadić podržao Saičića na predsedničkim izborima",
+  "Boris Tadić podržao predsedničkog kandidata Radomira Saičića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -94,8 +101,8 @@
   "alt": "a microphone on a stand",
   "link": "https://unsplash.com/@akshayspaceship"
  },
- "novo_od_pisanja": 2,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.56,
  "prepisano": "2026-11-27T20:48:43.466542+00:00",
  "verzija": 2
 }
