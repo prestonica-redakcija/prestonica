@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.kurir.rs/vesti/srbija/10169275/neispravna-voda-na-javnim-cesmama-u-kragujevcu": "2026-11-23T03:13:52.255632+00:00",
   "https://www.euronews.rs/biznis/biznis-vesti/253230/kurs-evra-danas-kursna-lista-nbs-za-23-novembar/vest": "2026-11-23T04:13:29.356392+00:00",
   "https://www.kurir.rs/vesti/beograd/10169219/trofej-beograda-2026-u-sahu": "2026-11-23T04:13:29.356392+00:00",
   "https://www.kurir.rs/vesti/srbija/10169388/umanjen-pritisak-vode-u-novom-sadu": "2026-11-23T04:28:18.741890+00:00",
@@ -6426,18 +6425,14 @@
   "https://www.danas.rs/vesti/drustvo/vreme-danas-oblacno-i-hladno-povremeno-sa-kisom/": "2026-11-28T00:37:48.720459+00:00",
   "https://www.tanjug.rs/svet/politika/301625/maroko-i-izrael-postigli-dogovor-o-planu-vojne-saradnje-za-2027-godinu/vest": "2026-11-28T00:37:48.720459+00:00",
   "https://www.telegraf.rs/vesti/svet/4441258-maroko-i-izrael-jacaju-vojnu-saradnju-i-pripremaju-plan-za-2027-godinu": "2026-11-28T00:37:48.720459+00:00",
-  "https://www.telegraf.rs/4441202-rik-dodelio-mandate-clanovima-nacionalnih-saveta-albanske-bunjevacke-i-madjarske-manjine": "2026-11-28T02:13:34.227465+00:00"
+  "https://www.telegraf.rs/4441202-rik-dodelio-mandate-clanovima-nacionalnih-saveta-albanske-bunjevacke-i-madjarske-manjine": "2026-11-28T02:13:34.227465+00:00",
+  "https://www.tanjug.rs/svet/drustvo/301607/uzbekistan-i-kazahstan-ponovo-otvorili-granicni-prelaz-za-do-100000-putnika-dnevno/vest": "2026-11-28T03:18:43.461626+00:00",
+  "https://www.telegraf.rs/vesti/svet/4441259-uzbekistan-i-kazahstan-ponovo-otvorili-granicni-prelaz-za-do-100000-putnika-dnevno": "2026-11-28T03:18:43.461626+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-27T10:28+00:00",
-   "novih": 4,
-   "ukupno": 5204,
-   "sekundi": 831.9
-  },
   {
    "vreme": "2026-11-27T10:47+00:00",
    "novih": 4,
@@ -6791,6 +6786,12 @@
    "novih": 0,
    "ukupno": 5461,
    "sekundi": 985.0
+  },
+  {
+   "vreme": "2026-11-28T03:32+00:00",
+   "novih": 1,
+   "ukupno": 5462,
+   "sekundi": 848.9
   }
  ],
  "licnosti_foto": {
@@ -9754,23 +9755,23 @@
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "bibislav": {
     "since_id": "2126442276205261042",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "savomanojlovic": {
     "since_id": "2125708700589625615",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "zdravkoponos": {
     "since_id": "2123476746787860570",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "pavlegrbovic": {
     "since_id": "2126343391885541771",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "avucic": {
     "since_id": "2126433399090848033",
@@ -9858,11 +9859,11 @@
    },
    "dobrinacelnik": {
     "since_id": "2126262076494528952",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "jeremic_vuk": {
     "since_id": "2126221366361821336",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "boristadic58": {
     "since_id": "2126405214248870256",
@@ -9870,51 +9871,51 @@
    },
    "srdjanmil037": {
     "since_id": "2126193920988045589",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "zoranlutovac": {
     "since_id": "2126432420694044732",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "pajticbojan": {
     "since_id": "2124855975492407587",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "n_zelenovic": {
     "since_id": "2126324541660004598",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "boskoobradovic": {
     "since_id": "2123742987129635150",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "sasaradulovich": {
     "since_id": "2126274794605642115",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "zaklina_prva": {
     "since_id": "2126063515794542842",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "stevanoccrp": {
     "since_id": "2126316885264191832",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "igorbrakus": {
     "since_id": "2126279340581069171",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "radoholicar": {
     "since_id": "2123165000919326944",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "borakonj": {
     "since_id": "2126362666604089392",
@@ -9922,7 +9923,7 @@
    },
    "narodnipokrets": {
     "since_id": "2126294935741624614",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "direktnors": {
     "since_id": "2126412858712023526",
@@ -9974,7 +9975,7 @@
    },
    "nastraninaroda": {
     "since_id": "2126449327929233770",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "bcenzure": {
     "since_id": "2126406095832752255",
@@ -9990,11 +9991,11 @@
    },
    "nedeljniknin": {
     "since_id": "2126451000571806106",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "trajkovic_rada": {
     "since_id": "2123775843264569788",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "stateinl": {
     "since_id": "2124882590389924146",
@@ -10010,31 +10011,31 @@
    },
    "zatrijebacki": {
     "since_id": "2126260958750179348",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "srbininfo": {
     "since_id": "2126483106396025191",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "mfaserbia": {
     "since_id": "2126272540578304439",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "izlaz_dot_com": {
     "since_id": "2126443244116439233",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "tihinavezi": {
     "since_id": "2126281131632844930",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "relativizacija": {
     "since_id": "2126396306616639981",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "seanmilanovic": {
     "since_id": "2126310539689099328",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    },
    "masinars": {
     "since_id": "2126428106512564549",
@@ -10042,7 +10043,7 @@
    },
    "claudedevs": {
     "since_id": "2125628717263372512",
-    "t": 1795832031.2829266
+    "t": 1795835966.485631
    }
   },
   "posts": [
@@ -22542,146 +22543,6 @@
   }
  },
  "foto_cache": {
-  "t:blue lagoon": {
-   "t": 1795230580.3635087,
-   "items": [
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/The_Blue_Lagoon_2.jpg/1920px-The_Blue_Lagoon_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 2366,
-     "h": 667,
-     "god": 2015,
-     "credit": "Wikimedia Commons / JavierOlivares / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:The_Blue_Lagoon_2.jpg",
-     "naslov": "The Blue Lagoon 2.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Blue_Lagoon.JPG/1920px-Blue_Lagoon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3072,
-     "h": 2048,
-     "god": 2009,
-     "credit": "Wikimedia Commons / Dolphins / CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon.JPG",
-     "naslov": "Blue Lagoon.JPG"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Blue_Lagoon_with_%C3%9Eorbj%C3%B6rn%2C_Iceland%2C_20230430_1626_3692.jpg/1920px-Blue_Lagoon_with_%C3%9Eorbj%C3%B6rn%2C_Iceland%2C_20230430_1626_3692.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5016,
-     "h": 3348,
-     "god": 2023,
-     "credit": "Wikimedia Commons / Jakub Hałun / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_with_%C3%9Eorbj%C3%B6rn,_Iceland,_20230430_1626_3692.jpg",
-     "naslov": "Blue Lagoon with Þorbjörn, Iceland, 20230430 1626 3692.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_249.jpg/1920px-Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_249.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5184,
-     "h": 3456,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Hyppolyte de Saint-Rambert / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_249.jpg",
-     "naslov": "Blue Lagoon Iceland hdsr 2019 10 19 9999 249.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_344.jpg/1920px-Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_344.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5184,
-     "h": 3456,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Hyppolyte de Saint-Rambert / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_344.jpg",
-     "naslov": "Blue Lagoon Iceland hdsr 2019 10 19 9999 344.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_Lagoon_%2813956936601%29_%282%29.jpg/1920px-Blue_Lagoon_%2813956936601%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5184,
-     "h": 3456,
-     "god": 2014,
-     "credit": "Wikimedia Commons / Tiffany Bailey from New Orleans, USA / CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_(13956936601)_(2).jpg",
-     "naslov": "Blue Lagoon (13956936601) (2).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Blue_Lagoon_Geothermal_pool_15.jpg/1920px-Blue_Lagoon_Geothermal_pool_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5120,
-     "h": 3840,
-     "god": 2022,
-     "credit": "Wikimedia Commons / Netha Hussain / CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_Geothermal_pool_15.jpg",
-     "naslov": "Blue Lagoon Geothermal pool 15.jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Blue_Lagoon_http-www.bluelagoon.is_%283022620977%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1800,
-     "h": 1350,
-     "god": 2008,
-     "credit": "Wikimedia Commons / cogdogblog / CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_http-www.bluelagoon.is_(3022620977).jpg",
-     "naslov": "Blue Lagoon http-www.bluelagoon.is (3022620977).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Blue_Lagoon%2C_Iceland_%2821677043453%29.jpg/1920px-The_Blue_Lagoon%2C_Iceland_%2821677043453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 4801,
-     "h": 3201,
-     "god": 2015,
-     "credit": "Wikimedia Commons / Bryan Ledgard / CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:The_Blue_Lagoon,_Iceland_(21677043453).jpg",
-     "naslov": "The Blue Lagoon, Iceland (21677043453).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Blue_Lagoon_Geothermal_pool_13.jpg/1920px-Blue_Lagoon_Geothermal_pool_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5120,
-     "h": 3840,
-     "god": 2022,
-     "credit": "Wikimedia Commons / Netha Hussain / CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_Geothermal_pool_13.jpg",
-     "naslov": "Blue Lagoon Geothermal pool 13.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Blue_Lagoon_Geothermal_pool_17.jpg/1920px-Blue_Lagoon_Geothermal_pool_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3648,
-     "h": 2736,
-     "god": 2022,
-     "credit": "Wikimedia Commons / Netha Hussain / CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_Geothermal_pool_17.jpg",
-     "naslov": "Blue Lagoon Geothermal pool 17.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_333.jpg/1920px-Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_333.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5083,
-     "h": 3389,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Hyppolyte de Saint-Rambert / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_333.jpg",
-     "naslov": "Blue Lagoon Iceland hdsr 2019 10 19 9999 333.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Blue-Lagoon-Iceland-January-2012.jpg/1920px-Blue-Lagoon-Iceland-January-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 3600,
-     "h": 2700,
-     "god": 2012,
-     "credit": "Wikimedia Commons / Acediscovery / CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Blue-Lagoon-Iceland-January-2012.jpg",
-     "naslov": "Blue-Lagoon-Iceland-January-2012.jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Blue_lagoon%2C_Iceland_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "w": 1024,
-     "h": 683,
-     "god": 1980,
-     "credit": "Wikimedia Commons / Christopher Angell from Annapolis, MD / CC BY-SA 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Blue_lagoon,_Iceland_02.jpg",
-     "naslov": "Blue lagoon, Iceland 02.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_347.jpg/1920px-Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_347.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "w": 5184,
-     "h": 3456,
-     "god": 2019,
-     "credit": "Wikimedia Commons / Hyppolyte de Saint-Rambert / CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_347.jpg",
-     "naslov": "Blue Lagoon Iceland hdsr 2019 10 19 9999 347.jpg"
-    }
-   ]
-  },
   "t:crveni krst beograd": {
    "t": 1795234155.9001753,
    "items": []
@@ -37666,6 +37527,14 @@
   "t:zajednicki vojni komitet": {
    "t": 1795826336.549648,
    "items": []
+  },
+  "t:centralna azija": {
+   "t": 1795835956.3076196,
+   "items": []
+  },
+  "t:srednji koridor": {
+   "t": 1795835956.520898,
+   "items": []
   }
  },
  "x_objave": {
@@ -44410,7 +44279,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-28T03:01:39.599130+00:00",
+  "provereno": "2026-11-28T03:19:46.993889+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
