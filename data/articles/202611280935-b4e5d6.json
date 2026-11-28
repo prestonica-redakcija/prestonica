@@ -38,7 +38,7 @@
  ],
  "importance": 5,
  "published": "2026-11-28T08:35:14.442276+00:00",
- "updated": "2026-11-28T08:35:14.442276+00:00",
+ "updated": "2026-11-28T12:52:14.392085+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -51,11 +51,18 @@
    "url": "https://insajder.net/prenosimo/amss-svi-putevi-ka-zimskim-turistickim-centrima-prohodni-na-pojedinim-pravcima-uvedena-zabrana-za-saobracaj-terenjaka",
    "title": "AMSS: Svi putevi ka zimskim turističkim centrima prohodni, na pojedinim pravcima uvedena zabrana za saobraćaj terenjaka",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/drustvo/301736/svi-putevi-prvog-i-drugog-reda-i-prilazi-planinskim-centrima-prohodni-za-saobracaj/vest",
+   "title": "Svi putevi prvog i drugog reda i prilazi planinskim centrima prohodni za saobraćaj",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "AMSS: Putni pravci ka planinskim centrima prohodni, uvedene zabrane za teretnjake",
-  "AMSS: Svi putevi ka zimskim turističkim centrima prohodni, na pojedinim pravcima uvedena zabrana za saobraćaj terenjaka"
+  "AMSS: Svi putevi ka zimskim turističkim centrima prohodni, na pojedinim pravcima uvedena zabrana za saobraćaj terenjaka",
+  "Svi putevi prvog i drugog reda i prilazi planinskim centrima prohodni za saobraćaj"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -67,5 +74,7 @@
   "local": false,
   "alt": "road surrounded by snow",
   "link": "https://unsplash.com/@alexcgorham"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

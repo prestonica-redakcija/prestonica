@@ -33,7 +33,7 @@
  ],
  "importance": 4,
  "published": "2026-11-28T11:19:44.341113+00:00",
- "updated": "2026-11-28T11:19:44.341113+00:00",
+ "updated": "2026-11-28T12:52:14.392085+00:00",
  "sources": [
   {
    "name": "Kurir",
@@ -46,11 +46,18 @@
    "url": "https://informer.rs/politika/vesti/1173963/milos-vucevic-aleksandar-cupic-tirana",
    "title": "\"Tek ćete videti kakve će odluke donositi!\" Vučević žestoko o kadrovima iz Tirane: Gde ste sada da kažete reč dok se smeje sa Kurtijem?! (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1173990/aljbin-kurti-pljuje-po-srbiji-adem-mavric-se-smeje",
+   "title": "Skandal neviđenih razmera u Tirani! Dok Kurti pljuje po Srbiji, Adem Mavrić se smeje od uva do uva (VIDEO)",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "MILOŠ VUČEVIĆ O POSETI ADEMA MAVRIĆA TIRANI: \"Sad baš da vidim sve one patriote - Gde ste sada desničari da kažete koju reč, kada ste prozivali Vučića\"",
-  "\"Tek ćete videti kakve će odluke donositi!\" Vučević žestoko o kadrovima iz Tirane: Gde ste sada da kažete reč dok se smeje sa Kurtijem?! (VIDEO)"
+  "\"Tek ćete videti kakve će odluke donositi!\" Vučević žestoko o kadrovima iz Tirane: Gde ste sada da kažete reč dok se smeje sa Kurtijem?! (VIDEO)",
+  "Skandal neviđenih razmera u Tirani! Dok Kurti pljuje po Srbiji, Adem Mavrić se smeje od uva do uva (VIDEO)"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -64,5 +71,7 @@
   "osoba": "Miloš Vučević",
   "izvor_x": true,
   "alt": "Vučević kritikovao Mavrića zbog nastupa na samitu u Tirani, gde je bio i Kurti"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
