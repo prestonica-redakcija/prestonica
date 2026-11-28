@@ -1,0 +1,52 @@
+{
+ "id": "202611281005-eb43ce",
+ "slug": "nacionalni-cert-upozorava-na-fising-prevare-uoci-sajber-ponedeljka",
+ "kind": "vest",
+ "section": "drustvo",
+ "headline": "Nacionalni CERT upozorava na fišing prevare uoči Sajber ponedeljka",
+ "lead": "Posle Crnog petka i pred Sajber ponedeljak raste rizik od fišing poruka i lažnih internet prodavnica, upozorava Nacionalni CERT Srbije. Kupci koji čekaju pakete posebno su izloženi, prenosi Kurir.",
+ "body": [
+  "Kako navodi Kurir, potraga za popustima nastavlja se tokom vikenda, a očekuje se da dostigne vrhunac u ponedeljak, kada se najavljuje novi talas onlajn akcija. Prevaranti, piše taj medij, koriste žurbu kupaca i šalju lažne ponude, prave kopije poznatih prodavnica ili šalju poruke o navodnim problemima sa dostavom.",
+  "Nacionalni CERT je ranije upozoravao da tokom prazničnih i promotivnih perioda mogu da se pojačaju fišing prevare i da se pojave lažne internet prodavnice. Kao znake upozorenja navode se neverovatno niske cene, linkovi za „hitnu“ kupovinu i zahtevi da se doplati dostava. Razlika između pravog i lažnog sajta može biti samo u dodatnom slovu, reči ili neobičnom nastavku adrese. Check Point je među sumnjivim domenima zabeležio stranice koje su se predstavljale kao poznati trgovci.",
+  "Posebna vrsta prevare su poruke koje se predstavljaju kao obaveštenja kurirske službe ili pošte. U njima piše da paket nije uručen, da adresa nije potpuna ili da treba platiti malu naknadu za ponovnu dostavu. Nacionalni CERT je ranije upozoravao na poruke koje zloupotrebljavaju ime Pošte Srbije, u kojima se traži 200 dinara zbog nepotpune adrese, a lažna stranica traži podatke kartice.",
+  "Saveti glase: do prodavnice doći ukucavanjem adrese u pregledač ili preko zvanične aplikacije, a ne preko linka iz oglasa, imejla ili poruke. Treba proveriti naziv domena, podatke o prodavcu i iskustva drugih kupaca, a status pošiljke gledati na zvaničnom sajtu dostavne službe. Kako se navodi, ni simbol katanca u pregledaču sam po sebi ne dokazuje da je sajt pouzdan.",
+  "Ako je neko već otvorio link, ne treba da unosi podatke niti da preuzima fajlove. Ukoliko su uneti podaci kartice, preporuka je da se odmah pozove banka na broj sa kartice ili sa njenog zvaničnog sajta. Ako je otkrivena lozinka, treba je promeniti na zvaničnoj stranici i svuda gde se koristi ista kombinacija."
+ ],
+ "tags": [
+  "fišing",
+  "Nacionalni CERT",
+  "Sajber ponedeljak",
+  "Crni petak",
+  "onlajn kupovina",
+  "prevare"
+ ],
+ "people": [],
+ "places": [
+  "Srbija"
+ ],
+ "importance": 4,
+ "published": "2026-11-28T09:05:08.151385+00:00",
+ "updated": "2026-11-28T09:05:08.151385+00:00",
+ "sources": [
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/techvision/vesti/10173136/kako-prepoznati-prevare-tokom-sajber-ponedeljka",
+   "title": "Vikend je kritičan, a u ponedeljak sledi vrhunac: Prevaranti imaju novu foru, posebno na udaru oni koji čekaju pakete",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Vikend je kritičan, a u ponedeljak sledi vrhunac: Prevaranti imaju novu foru, posebno na udaru oni koji čekaju pakete"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.938,
+ "image": {
+  "src": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixid=M3wxMTQwNDIwfDB8MXxzZWFyY2h8MXx8b25saW5lJTIwc2hvcHBpbmclMjBjcmVkaXQlMjBjYXJkJTIwbGFwdG9wfGVufDF8MHx8fDE3OTU4NTY3NzJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+  "credit": "Unsplash / rupixen",
+  "ilustracija": true,
+  "local": false,
+  "alt": "person using laptop computer holding card",
+  "link": "https://unsplash.com/@rupixen"
+ }
+}

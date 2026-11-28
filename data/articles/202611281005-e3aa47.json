@@ -1,0 +1,56 @@
+{
+ "id": "202611281005-e3aa47",
+ "slug": "strucnjaci-strahuju-da-bi-ai-proboj-u-kriptografiji-mogao-ugroziti",
+ "kind": "vest",
+ "section": "svet",
+ "headline": "Stručnjaci strahuju da bi AI proboj u kriptografiji mogao ugroziti bezbednost banaka i vlada",
+ "lead": "Vodeći stručnjaci za kompjuterske nauke, kako prenosi Telegraf pozivajući se na Gardijan, upozoravaju da bi AI kompanije mogle imati napredak u kriptografiji koji bi u roku od nekoliko meseci poremetio zaštitu osetljivih podataka. Konkretnih potvrda kompanija nema, a stručnjaci govore o glasinama i pretpostavkama.",
+ "body": [
+  "Skot Aronson, teoretičar kompjuterskih nauka, rekao je za Gardijan da postoje „dobro potvrđene glasine“ da su moćni AI modeli napredovali na decenijama starim matematičkim problemima povezanim sa kodiranjem i zaštitom tajnih informacija. Ranije ove nedelje napisao je da je „praktično siguran, iz više pouzdanih izvora“, da AI laboratorije sede na jednoj ili više „bombi“ u kriptografiji.",
+  "Prema navodima Gardijana, u zavisnosti od toga šta je otkriveno, hakeri bi mogli lakše da dešifruju bankarske transakcije, diplomatske depeše i privatne mejlove. Vlade, banke i špijunske agencije tada bi morale naglo da ažuriraju temelje komunikacije, ili bi osetljive informacije mogle biti izložene.",
+  "Aronson i drugi smatraju da je moguće da je AI smislila novi način da razbije enkripciju ili da je dokazala da takva prečica ne postoji, što bi značilo da su podaci bezbedniji nego što se mislilo. Aronson kaže da AI kompanije nisu konkretno najavile otkrića o enkripciji, ali da „svako ko je informisan pretpostavlja“ da ona postoje.",
+  "Matematičar Markus du Sotoj rekao je za BBC Radio 4 da se ne zna kakve su šire posledice otkrića za enkripciju. Dodao je da se neki od njegovih kolega pitaju da li je ključni problem već rešen, a da svi ćute zbog ogromnih implikacija. Stiven Mardok sa Univerzitetskog koledža u Londonu rekao je da više nije jasno gde je granica AI u matematici.",
+  "Alan Vudvord sa Univerziteta u Sariju upozorio je da matematički proboj ne bi nužno značio širok haos sutra, već da se promenila brzina kojom AI rešava dugo nerešene probleme. Mardok je dodao da se radi na standardu enkripcije otpornom na kvantne računare, ali sporo, te da će cilj od oko 2032. verovatno biti promašen.",
+  "Endru Bejli, guverner Banke Engleske, ranije ove nedelje govorio je o strahovima da su OpenAI i Anthropic postigli proboje u kriptografiji. Rekao je da bi te kompanije trebalo da budu oprezne pri objavljivanju novih modela javnosti. Tekst Telegrafa u dostupnom delu ne sadrži odgovor kompanija."
+ ],
+ "tags": [
+  "veštačka inteligencija",
+  "kriptografija",
+  "enkripcija",
+  "sajber bezbednost",
+  "banke"
+ ],
+ "people": [
+  "Skot Aronson",
+  "Stiven Mardok",
+  "Markus du Sotoj",
+  "Alan Vudvord",
+  "Endru Bejli"
+ ],
+ "places": [],
+ "importance": 6,
+ "published": "2026-11-28T09:05:08.151385+00:00",
+ "updated": "2026-11-28T09:05:08.151385+00:00",
+ "sources": [
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/hi-tech/info-tech/4441389-gardijan-ai-kompanije-dosle-do-bomba-otkrica-koja-bi-mogla-da-izazovu-globalni-haos-upozoravaju-strucnjaci",
+   "title": "Gardijan: AI kompanije došle do \"bomba otkrića\" koja bi mogla da izazovu globalni haos, upozoravaju stručnjaci",
+   "spektar": "vlast"
+  }
+ ],
+ "source_titles": [
+  "Gardijan: AI kompanije došle do \"bomba otkrića\" koja bi mogla da izazovu globalni haos, upozoravaju stručnjaci"
+ ],
+ "author": "Redakcija Prestonice",
+ "hidden": false,
+ "score_at_pub": 1.742,
+ "image": {
+  "src": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?ixid=M3wxMTQwNDIwfDB8MXxzZWFyY2h8MXx8ZW5jcnlwdGlvbiUyMGN5YmVyc2VjdXJpdHklMjBhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlfGVufDF8MHx8fDE3OTU4NTY4MDN8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max",
+  "credit": "Unsplash / Igor Omilaev",
+  "ilustracija": true,
+  "local": false,
+  "alt": "a computer chip with the letter a on top of it",
+  "link": "https://unsplash.com/@omilaev"
+ }
+}

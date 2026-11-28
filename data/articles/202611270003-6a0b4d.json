@@ -34,17 +34,24 @@
  ],
  "importance": 4,
  "published": "2026-11-26T23:03:45.194421+00:00",
- "updated": "2026-11-26T23:03:45.194421+00:00",
+ "updated": "2026-11-28T09:05:08.151385+00:00",
  "sources": [
   {
    "name": "Bez cenzure",
    "url": "https://www.youtube.com/watch?v=00cUlDU4Vv8",
    "title": "Jovan Rajić: Zagorka Dolovac je spremna da gurne Vučića pod voz! | BEZ PARDONA",
    "spektar": "desnica"
+  },
+  {
+   "name": "Bez cenzure",
+   "url": "https://www.youtube.com/watch?v=JPz0Lyu-D4Y",
+   "title": "Zagorka Dolovac je spremna da gurne Vučića pod voz! Jovan RAJIĆ",
+   "spektar": "desnica"
   }
  ],
  "source_titles": [
-  "Jovan Rajić: Zagorka Dolovac je spremna da gurne Vučića pod voz! | BEZ PARDONA"
+  "Jovan Rajić: Zagorka Dolovac je spremna da gurne Vučića pod voz! | BEZ PARDONA",
+  "Zagorka Dolovac je spremna da gurne Vučića pod voz! Jovan RAJIĆ"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "alt": "Statue of lady justice holding scales indoors",
   "link": "https://unsplash.com/@albertstoynov"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
