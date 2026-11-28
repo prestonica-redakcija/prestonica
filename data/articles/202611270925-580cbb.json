@@ -31,17 +31,24 @@
  ],
  "importance": 7,
  "published": "2026-11-27T08:25:16.915436+00:00",
- "updated": "2026-11-27T08:25:16.915436+00:00",
+ "updated": "2026-11-28T16:50:58.469537+00:00",
  "sources": [
   {
    "name": "Danas",
    "url": "https://www.danas.rs/vesti/drustvo/podes-razotkriti-koga-je-bia-pratila/",
    "title": "BIA tajno prisluškivala 174 osobe iz Niša i okoline od pada nadsrešnice u Novom Sadu: Viši sud odbio da dostavi preciznije podatke",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/dijalog/licni-stavovi/kako-me-je-nadzirala-bia/",
+   "title": "Kako me je nadzirala BIA",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
-  "BIA tajno prisluškivala 174 osobe iz Niša i okoline od pada nadsrešnice u Novom Sadu: Viši sud odbio da dostavi preciznije podatke"
+  "BIA tajno prisluškivala 174 osobe iz Niša i okoline od pada nadsrešnice u Novom Sadu: Viši sud odbio da dostavi preciznije podatke",
+  "Kako me je nadzirala BIA"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -53,5 +60,7 @@
   "local": false,
   "link": "https://commons.wikimedia.org/wiki/File:Pretty_Loud_Ju%C5%BEne_Vesti.jpg",
   "alt": "Viši sud u Nišu izdao 174 naredbe za tajni nadzor, PODES traži objašnjenje od BIA"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

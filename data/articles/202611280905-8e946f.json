@@ -31,17 +31,31 @@
  ],
  "importance": 5,
  "published": "2026-11-28T08:05:34.850601+00:00",
- "updated": "2026-11-28T08:05:34.850601+00:00",
+ "updated": "2026-11-28T16:50:58.469537+00:00",
  "sources": [
   {
    "name": "Informer",
    "url": "https://informer.rs/politika/vesti/1173907/vuksa-dragovic-palata-pravde-skup",
    "title": "\"Počela je buna protiv dahija!\" Vukša najavio skup ispred Palate pravde od 17 časova: Bićemo tamo dok ne oslobode sve političke zatvorenike (VIDEO)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Informer",
+   "url": "https://informer.rs/politika/vesti/1174064/skup-gradjani-skup-palata-pravde",
+   "title": "\"Zatvaraju sve one koji se usude da im se suprotstave\"! Odjekuju reči Vukše Dragovića - Počeo je otpor, građani ispred Palate pravde",
+   "spektar": "vlast"
+  },
+  {
+   "name": "Večernje novosti",
+   "url": "https://www.novosti.rs/vesti/politika/1675638/protest-ispred-palate-pravde-vuksa-dragovic-zatvaraju-sve-one-koji-usude-suprotstave",
+   "title": "PROTEST ISPRED PALATE PRAVDE Vukša Dragović: Zatvaraju sve one koji se usude da im se suprotstave",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
-  "\"Počela je buna protiv dahija!\" Vukša najavio skup ispred Palate pravde od 17 časova: Bićemo tamo dok ne oslobode sve političke zatvorenike (VIDEO)"
+  "\"Počela je buna protiv dahija!\" Vukša najavio skup ispred Palate pravde od 17 časova: Bićemo tamo dok ne oslobode sve političke zatvorenike (VIDEO)",
+  "\"Zatvaraju sve one koji se usude da im se suprotstave\"! Odjekuju reči Vukše Dragovića - Počeo je otpor, građani ispred Palate pravde",
+  "PROTEST ISPRED PALATE PRAVDE Vukša Dragović: Zatvaraju sve one koji se usude da im se suprotstave"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +69,7 @@
   "osoba": "Vukša Dragović",
   "izvor_x": true,
   "alt": "Vukša Dragović najavio svakodnevne skupove ispred Palate pravde zbog pritvora Vučićeviću"
- }
+ },
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }

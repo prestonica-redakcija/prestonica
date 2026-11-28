@@ -34,17 +34,24 @@
  ],
  "importance": 6,
  "published": "2026-11-28T15:19:38.294097+00:00",
- "updated": "2026-11-28T15:19:38.294097+00:00",
+ "updated": "2026-11-28T16:50:58.469537+00:00",
  "sources": [
   {
    "name": "N1",
    "url": "https://n1info.rs/biznis/voz-za-budimpestu-moze-da-krene-relativno-brzo-ili-tek-za-nekoliko-meseci-madjarski-ministar-objasnjava-od-cega-zavisi/",
    "title": "Voz za Budimpeštu može da krene relativno brzo ili tek za nekoliko meseci: Mađarski ministar objašnjava od čega zavisi",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/ekonomija/srbija/301787/vitezi-voz-beograd-budimpesta-mogao-bi-da-krene-brzo-ali-i-za-nekoliko-meseci/vest",
+   "title": "Vitezi: Voz Beograd-Budimpešta mogao bi da krene brzo, ali i za nekoliko meseci",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "Voz za Budimpeštu može da krene relativno brzo ili tek za nekoliko meseci: Mađarski ministar objašnjava od čega zavisi"
+  "Voz za Budimpeštu može da krene relativno brzo ili tek za nekoliko meseci: Mađarski ministar objašnjava od čega zavisi",
+  "Vitezi: Voz Beograd-Budimpešta mogao bi da krene brzo, ali i za nekoliko meseci"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -56,5 +63,7 @@
   "local": false,
   "alt": "High-speed trains are stopped at a platform",
   "link": "https://unsplash.com/@kaden_t"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

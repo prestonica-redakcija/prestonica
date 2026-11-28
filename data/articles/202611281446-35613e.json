@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-28T13:46:29.037668+00:00",
- "updated": "2026-11-28T14:57:53.703020+00:00",
+ "updated": "2026-11-28T16:50:58.469537+00:00",
  "sources": [
   {
    "name": "N1",
@@ -50,12 +50,19 @@
    "url": "https://nova.rs/vesti/svet/novi-ruski-udar-na-kijev/",
    "title": "Novi ruski udar na Kijev, Kličko strahuje da će grad ostati bez struje",
    "spektar": "opozicija"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288797/rat-u-ukrajini-1738-dan/vest",
+   "title": "Novi ruski udar izazvao haos u Kijevu; Gradonačelnik hitno upozorio građane FOTO/VIDEO",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Novi ruski udar na Kijev, Kličko strahuje da će grad ostati bez struje",
   "Novi ruski udari na Kijev, Kličko strahuje da će glavni grad ostati bez struje i vode",
-  "Novi ruski udar na Kijev, Kličko strahuje da će grad ostati bez struje"
+  "Novi ruski udar na Kijev, Kličko strahuje da će grad ostati bez struje",
+  "Novi ruski udar izazvao haos u Kijevu; Gradonačelnik hitno upozorio građane FOTO/VIDEO"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "alt": "white and green tower during night time",
   "link": "https://unsplash.com/@lifeinkyiv"
  },
- "novo_od_pisanja": 1,
- "boost": 1.08
+ "novo_od_pisanja": 2,
+ "boost": 1.16
 }
