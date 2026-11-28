@@ -28,7 +28,7 @@
  ],
  "importance": 5,
  "published": "2026-11-28T16:32:31.863684+00:00",
- "updated": "2026-11-28T16:32:31.863684+00:00",
+ "updated": "2026-11-28T17:47:37.519359+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -41,11 +41,18 @@
    "url": "https://www.telegraf.rs/vesti/svet/4441622-klicko-otkrio-broj-povredjenih-u-ruskom-napadu-pogodjen-infrastrukturni-objekat",
    "title": "Kličko otkrio broj povređenih u ruskom napadu: Pogođen infrastrukturni objekat",
    "spektar": "vlast"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/planeta/10175808/u-napadu-ruskih-dronova-na-kijev-povredjene-tri-osobe",
+   "title": "KLIČKO: U napadu ruskih dronova na Kijev povređene tri osobe, mogući prekidi u snabdevanju strujom i vodom",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
   "Kličko: U ruskom napadu povređene tri osobe, pogođen infrastrukturni objekat",
-  "Kličko otkrio broj povređenih u ruskom napadu: Pogođen infrastrukturni objekat"
+  "Kličko otkrio broj povređenih u ruskom napadu: Pogođen infrastrukturni objekat",
+  "KLIČKO: U napadu ruskih dronova na Kijev povređene tri osobe, mogući prekidi u snabdevanju strujom i vodom"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -57,5 +64,7 @@
   "local": false,
   "alt": "city during daytime",
   "link": "https://unsplash.com/@lifeinkyiv"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

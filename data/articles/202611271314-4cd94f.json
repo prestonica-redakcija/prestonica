@@ -28,7 +28,7 @@
  ],
  "importance": 7,
  "published": "2026-11-27T12:14:31.285146+00:00",
- "updated": "2026-11-28T16:50:58.469537+00:00",
+ "updated": "2026-11-28T17:47:37.519359+00:00",
  "sources": [
   {
    "name": "N1",
@@ -65,6 +65,12 @@
    "url": "https://nova.rs/vesti/politika/studentski-pokret-sutra-prikuplja-potpise-za-kandidaturu-saicica/",
    "title": "Studentski pokret sutra prikuplja potpise za kandidaturu Saičića na predsedničkim izborima",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/studenti-sutra-sirom-srbije-prikupljaju-potpise-za-predsednicku-kandidaturu-radomira-saicica",
+   "title": "Studenti sutra širom Srbije prikupljaju potpise za predsedničku kandidaturu Radomira Saičića",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -73,7 +79,8 @@
   "Studentski pokret sutra prikuplja potpise za kandidaturu Saičića na predsedničkim izborima",
   "STUDENTSKI POKRET SUTRA PRIKUPLJA POTPISE ŠIROM SRBIJE: Podrška kandidaturi Radomira Saičića za predsednika",
   "Studenti sutra širom Srbije prikupljaju potpise za predsedničku kandidaturu Radomira Saičića",
-  "Studentski pokret sutra prikuplja potpise za kandidaturu Saičića na predsedničkim izborima"
+  "Studentski pokret sutra prikuplja potpise za kandidaturu Saičića na predsedničkim izborima",
+  "Studenti sutra širom Srbije prikupljaju potpise za predsedničku kandidaturu Radomira Saičića"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -85,6 +92,6 @@
   "local": true,
   "alt": "Radomir Saičić kandidat studentskog pokreta za predsednika Srbije"
  },
- "novo_od_pisanja": 5,
- "boost": 1.4
+ "novo_od_pisanja": 6,
+ "boost": 1.48
 }

@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-27T07:53:21.135233+00:00",
- "updated": "2026-11-28T15:54:56.654455+00:00",
+ "updated": "2026-11-28T17:47:37.519359+00:00",
  "sources": [
   {
    "name": "Tanjug",
@@ -58,6 +58,12 @@
    "url": "https://insajder.net/prenosimo/putevi-srbije-upozoravaju-vozace-na-sneg-ponegde-ga-ima-od-pet-do-10-centimetara",
    "title": "Putevi Srbije upozoravaju vozače na sneg, ponegde ga ima od pet do 10 centimetara",
    "spektar": "opozicija"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/vesti/kopaonik-trenutna-visina-sneznog-pokrivaca/",
+   "title": "Na Kopaoniku desetak centimetara snega",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -65,7 +71,8 @@
   "Spisak puteva u Srbiji gde je jaka magla: Moguća poledica, Putevi Srbije upozoravaju",
   "Putevi Srbije: Sneg do pet centimetara na nekim putnim pravcima, moguća magla i poledica",
   "Putevi Srbije upozoravaju vozače na sneg, ponegde ga ima od pet do 10 centimetara",
-  "Putevi Srbije upozoravaju vozače na sneg, ponegde ga ima od pet do 10 centimetara"
+  "Putevi Srbije upozoravaju vozače na sneg, ponegde ga ima od pet do 10 centimetara",
+  "Na Kopaoniku desetak centimetara snega"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -77,6 +84,6 @@
   "local": true,
   "alt": "Putevi u Srbiji prohodni i bez snega, na više pravaca moguća poledica i magla"
  },
- "novo_od_pisanja": 3,
- "boost": 1.24
+ "novo_od_pisanja": 4,
+ "boost": 1.32
 }

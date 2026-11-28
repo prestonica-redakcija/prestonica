@@ -31,7 +31,7 @@
  ],
  "importance": 5,
  "published": "2026-11-28T09:56:49.039141+00:00",
- "updated": "2026-11-28T12:14:06.903798+00:00",
+ "updated": "2026-11-28T17:47:37.519359+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -50,12 +50,19 @@
    "url": "https://n1info.rs/svet/monarhisti-nece-na-izbore-na-celu-drzave-treba-da-bude-kralj/",
    "title": "U bombardovanju Gaze poginulo dvoje zaposlenih u Lekarima bez granica",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Danas",
+   "url": "https://www.danas.rs/svet/lekari-bez-granica-ogorceni-zbog-izraelskog-napada-u-blizini-klinike-u-gazi/",
+   "title": "„Lekari bez granica“ ogorčeni zbog izraelskog napada u blizini klinike u Gazi",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Lekari bez granica: Dva člana organizacije ubijena u izraelskom napadu na našu kliniku u Gazi",
   "U izraelskom napadu u Gazi poginula dva zaposlena u međunarodnoj organizaciji Lekari bez granica",
-  "U bombardovanju Gaze poginulo dvoje zaposlenih u Lekarima bez granica"
+  "U bombardovanju Gaze poginulo dvoje zaposlenih u Lekarima bez granica",
+  "„Lekari bez granica“ ogorčeni zbog izraelskog napada u blizini klinike u Gazi"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -68,6 +75,6 @@
   "alt": "Smiling children pose in front of tents at a refugee camp",
   "link": "https://unsplash.com/@mohammed_ibrahim_mi"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }
