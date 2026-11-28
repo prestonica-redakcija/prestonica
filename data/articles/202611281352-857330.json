@@ -27,7 +27,7 @@
  ],
  "importance": 3,
  "published": "2026-11-28T12:52:14.392085+00:00",
- "updated": "2026-11-28T12:52:14.392085+00:00",
+ "updated": "2026-11-28T13:25:22.518133+00:00",
  "sources": [
   {
    "name": "N1",
@@ -52,13 +52,20 @@
    "url": "https://www.telegraf.rs/vesti/hronika/4441520-tesko-ubistvo-u-krusevcu-posle-svadje-metalnom-sipkom-nasmrt-pretukao-stanodavca-47",
    "title": "Teško ubistvo u Kruševcu: Posle svađe metalnom šipkom nasmrt pretukao stanodavca (47)",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/hronika/301744/sedamdesetogodisnjak-u-krusevcu-uhapsen-zbog-teskog-ubistva/vest",
+   "title": "Sedamdesetogodišnjak u Kruševcu uhapšen zbog teškog ubistva",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
   "Muškarac uhapšen u Kruševcu zbog ubistva stanodavca",
   "Horor u Kruševcu: Muškarac uhapšen zbog sumnje da je metalnom šipkom ubio cimera",
   "TEŠKO UBISTVO U KRUŠEVCU! Muškarac nasmrt pretučen metalnom šipkom: Napadač uhapšen, oglasio se MUP",
-  "Teško ubistvo u Kruševcu: Posle svađe metalnom šipkom nasmrt pretukao stanodavca (47)"
+  "Teško ubistvo u Kruševcu: Posle svađe metalnom šipkom nasmrt pretukao stanodavca (47)",
+  "Sedamdesetogodišnjak u Kruševcu uhapšen zbog teškog ubistva"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -70,5 +77,7 @@
   "local": false,
   "alt": "A police light bar flashing red and blue against a dark night background",
   "link": "https://unsplash.com/@scottrodgerson"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

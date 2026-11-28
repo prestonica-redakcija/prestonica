@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-27T07:53:21.135233+00:00",
- "updated": "2026-11-28T08:05:34.850601+00:00",
+ "updated": "2026-11-28T13:25:22.518133+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -85,6 +85,12 @@
    "url": "https://insajder.net/prenosimo/hitna-pomoc-rekordan-broj-intervencija-tokom-noci-velik-i-u-odnosu-na-dnevne-smene",
    "title": "Hitna pomoć: Rekordan broj intervencija tokom noći, velik i u odnosu na dnevne smene",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/hronika/4441555-krvava-noc-u-zemun-polju-mladic-18-uboden-nozem-u-ledja-sa-teskim-povredama-hitno-prevezen-u-bolnicu",
+   "title": "Krvava noć u Zemun polju: Mladić (18) uboden nožem u leđa, sa teškim povredama hitno prevezen u bolnicu",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -96,7 +102,8 @@
   "AUTOMOBIL POKOSIO PEŠAKA Teška nesreća u Sarajevu: Povređeni hitno prevezen u bolnicu",
   "Hitna pomoć: Muškarac poginuo u saobraćajnoj nesreći u Beogradu, rekordan broj intervencija",
   "Hitna pomoć: Muškarac poginuo u saobraćajnoj nesreći u Beogradu, rekordan broj intervencija",
-  "Hitna pomoć: Rekordan broj intervencija tokom noći, velik i u odnosu na dnevne smene"
+  "Hitna pomoć: Rekordan broj intervencija tokom noći, velik i u odnosu na dnevne smene",
+  "Krvava noć u Zemun polju: Mladić (18) uboden nožem u leđa, sa teškim povredama hitno prevezen u bolnicu"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -109,8 +116,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Mural_of_Stefan_Fili%C4%87,_Velika_Plana,_Serbia,_2023.jpg",
   "alt": "Dve saobraćajne nesreće sinoć: povređena devojčica kod Loznice, poginuo vozač u Krnjevu"
  },
- "novo_od_pisanja": 1,
- "boost": 1.48,
+ "novo_od_pisanja": 2,
+ "boost": 1.56,
  "prepisano": "2026-11-28T07:31:50.604742+00:00",
  "verzija": 2
 }

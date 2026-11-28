@@ -30,7 +30,7 @@
  ],
  "importance": 5,
  "published": "2026-11-28T10:11:28.827035+00:00",
- "updated": "2026-11-28T13:07:04.591655+00:00",
+ "updated": "2026-11-28T13:25:22.518133+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -73,6 +73,18 @@
    "url": "https://www.telegraf.rs/vesti/srbija/4441534-sindikati-rts-a-zatrazili-neopozivu-ostavku-borivoja-uskokovica",
    "title": "Sindikati RTS-a zatražili neopozivu ostavku Borivoja Uskokovića",
    "spektar": "vlast"
+  },
+  {
+   "name": "Tanjug",
+   "url": "https://www.tanjug.rs/srbija/politika/301740/sindikati-rts-a-zatrazili-neopozivu-ostavku-borivoja-uskokovica/vest",
+   "title": "Sindikati RTS-a zatražili neopozivu ostavku Borivoja Uskokovića",
+   "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/drustvo/288883/sindikati-rts-a-zatrazili-neopozivu-ostavku-borivoja-uskokovica/vest",
+   "title": "Sindikati RTS-a zatražili neopozivu ostavku Borivoja Uskokovića",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
@@ -82,6 +94,8 @@
   "UREDNIK INFORMATIVNOG PROGRAMA RTS NE ZNA KAD JE PALA NADSTREŠNICA! Sindikati traže ostavku Borivoja Uskokovića, dali mu ROK OD 3 DANA",
   "Tri sindikata RTS-a traže ostavku Borivoja Uskokovića, dat rok od tri radna dana",
   "Tri sindikata u RTS-u traže ostavku v.d. glavnog i odgovornog urednika Borivoja Uskokovića",
+  "Sindikati RTS-a zatražili neopozivu ostavku Borivoja Uskokovića",
+  "Sindikati RTS-a zatražili neopozivu ostavku Borivoja Uskokovića",
   "Sindikati RTS-a zatražili neopozivu ostavku Borivoja Uskokovića"
  ],
  "author": "Redakcija Prestonice",
@@ -95,8 +109,8 @@
   "alt": "This is a modern, professional news studio set",
   "link": "https://unsplash.com/@musgraphic"
  },
- "novo_od_pisanja": 1,
- "boost": 1.48,
+ "novo_od_pisanja": 3,
+ "boost": 1.6,
  "prepisano": "2026-11-28T12:52:14.392085+00:00",
  "verzija": 2
 }

@@ -30,16 +30,23 @@
  ],
  "importance": 3,
  "published": "2026-11-28T13:07:04.591655+00:00",
- "updated": "2026-11-28T13:07:04.591655+00:00",
+ "updated": "2026-11-28T13:25:22.518133+00:00",
  "sources": [
   {
    "name": "Tanjug",
    "url": "https://www.tanjug.rs/ekonomija/srbija/301734/vlada-u-tehnickom-mandatu-promenila-oznaku-drzavnog-puta-kraljevo-raska-novi-pazar/vest",
    "title": "Vlada u tehničkom mandatu promenila oznaku državnog puta Kraljevo-Raška-Novi Pazar",
    "spektar": "centar"
+  },
+  {
+   "name": "Telegraf",
+   "url": "https://www.telegraf.rs/vesti/srbija/4441525-vlada-u-tehnickom-mandatu-promenila-oznaku-drzavnog-puta-kraljevo-raska-novi-pazar",
+   "title": "Vlada u tehničkom mandatu promenila oznaku državnog puta Kraljevo-Raška-Novi Pazar",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
+  "Vlada u tehničkom mandatu promenila oznaku državnog puta Kraljevo-Raška-Novi Pazar",
   "Vlada u tehničkom mandatu promenila oznaku državnog puta Kraljevo-Raška-Novi Pazar"
  ],
  "author": "Redakcija Prestonice",
@@ -52,5 +59,7 @@
   "local": false,
   "alt": "Cars driving on a highway under a clear blue sky",
   "link": "https://unsplash.com/@aleksslika"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
