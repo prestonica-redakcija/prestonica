@@ -6428,18 +6428,13 @@
   "https://nova.rs/magazin/vremenska-prognoza/danas-oblacno-i-hladno-povremeno-sa-kisom/": "2026-11-28T00:37:48.720459+00:00",
   "https://www.danas.rs/vesti/drustvo/vreme-danas-oblacno-i-hladno-povremeno-sa-kisom/": "2026-11-28T00:37:48.720459+00:00",
   "https://www.tanjug.rs/svet/politika/301625/maroko-i-izrael-postigli-dogovor-o-planu-vojne-saradnje-za-2027-godinu/vest": "2026-11-28T00:37:48.720459+00:00",
-  "https://www.telegraf.rs/vesti/svet/4441258-maroko-i-izrael-jacaju-vojnu-saradnju-i-pripremaju-plan-za-2027-godinu": "2026-11-28T00:37:48.720459+00:00"
+  "https://www.telegraf.rs/vesti/svet/4441258-maroko-i-izrael-jacaju-vojnu-saradnju-i-pripremaju-plan-za-2027-godinu": "2026-11-28T00:37:48.720459+00:00",
+  "https://www.telegraf.rs/4441202-rik-dodelio-mandate-clanovima-nacionalnih-saveta-albanske-bunjevacke-i-madjarske-manjine": "2026-11-28T02:13:34.227465+00:00"
  },
  "telegram_offset": 0,
  "pins": {},
  "fokus": [],
  "runs": [
-  {
-   "vreme": "2026-11-27T09:23+00:00",
-   "novih": 4,
-   "ukupno": 5182,
-   "sekundi": 823.4
-  },
   {
    "vreme": "2026-11-27T09:39+00:00",
    "novih": 6,
@@ -6793,6 +6788,12 @@
    "novih": 0,
    "ukupno": 5461,
    "sekundi": 971.3
+  },
+  {
+   "vreme": "2026-11-28T02:25+00:00",
+   "novih": 0,
+   "ukupno": 5461,
+   "sekundi": 715.1
   }
  ],
  "licnosti_foto": {
@@ -9756,23 +9757,23 @@
    },
    "radomirlazovic": {
     "since_id": null,
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "bibislav": {
     "since_id": "2126442276205261042",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "savomanojlovic": {
     "since_id": "2125708700589625615",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "zdravkoponos": {
     "since_id": "2123476746787860570",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "pavlegrbovic": {
     "since_id": "2126343391885541771",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "avucic": {
     "since_id": "2126433399090848033",
@@ -9860,11 +9861,11 @@
    },
    "dobrinacelnik": {
     "since_id": "2126262076494528952",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "jeremic_vuk": {
     "since_id": "2126221366361821336",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "boristadic58": {
     "since_id": "2126405214248870256",
@@ -9872,51 +9873,51 @@
    },
    "srdjanmil037": {
     "since_id": "2126193920988045589",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "zoranlutovac": {
     "since_id": "2126432420694044732",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "pajticbojan": {
     "since_id": "2124855975492407587",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "n_zelenovic": {
     "since_id": "2126324541660004598",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "boskoobradovic": {
     "since_id": "2123742987129635150",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "sasaradulovich": {
     "since_id": "2126274794605642115",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "ceda_jovanovic": {
     "since_id": null,
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "zaklina_prva": {
     "since_id": "2126063515794542842",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "stevanoccrp": {
     "since_id": "2126316885264191832",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "dinkogruhonjic": {
     "since_id": null,
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "igorbrakus": {
     "since_id": "2126279340581069171",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "radoholicar": {
     "since_id": "2123165000919326944",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "borakonj": {
     "since_id": "2126362666604089392",
@@ -9924,7 +9925,7 @@
    },
    "narodnipokrets": {
     "since_id": "2126294935741624614",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "direktnors": {
     "since_id": "2126412858712023526",
@@ -9976,7 +9977,7 @@
    },
    "nastraninaroda": {
     "since_id": "2126449327929233770",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "bcenzure": {
     "since_id": "2126406095832752255",
@@ -9992,11 +9993,11 @@
    },
    "nedeljniknin": {
     "since_id": "2126451000571806106",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "trajkovic_rada": {
     "since_id": "2123775843264569788",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "stateinl": {
     "since_id": "2124882590389924146",
@@ -10012,31 +10013,31 @@
    },
    "zatrijebacki": {
     "since_id": "2126260958750179348",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "srbininfo": {
-    "since_id": "2126462654159917419",
-    "t": 1795827406.879344
+    "since_id": "2126483106396025191",
+    "t": 1795832031.2829266
    },
    "mfaserbia": {
     "since_id": "2126272540578304439",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "izlaz_dot_com": {
     "since_id": "2126443244116439233",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "tihinavezi": {
     "since_id": "2126281131632844930",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "relativizacija": {
     "since_id": "2126396306616639981",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "seanmilanovic": {
     "since_id": "2126310539689099328",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    },
    "masinars": {
     "since_id": "2126428106512564549",
@@ -10044,10 +10045,23 @@
    },
    "claudedevs": {
     "since_id": "2125628717263372512",
-    "t": 1795827406.879344
+    "t": 1795832031.2829266
    }
   },
   "posts": [
+   {
+    "id": "2126483106396025191",
+    "x": "srbininfo",
+    "ime": "СРБИН инфо",
+    "grupa": "",
+    "uloga": "",
+    "text": "👇👇👇 https://t.co/Kc8dro1iAl",
+    "published": "2026-11-28T01:07:35.000+00:00",
+    "lajk": 0,
+    "prikazi": false,
+    "rubrika": "drustvo",
+    "tema": "objava bez teksta, samo strelice i link"
+   },
    {
     "id": "2126479934214332557",
     "x": "LaziDetektor",
@@ -21807,20 +21821,6 @@
     "prikazi": true,
     "rubrika": "mediji",
     "tema": "Preminuo Aleksandar Crkvenjakov, bivši direktor RTS-a"
-   },
-   {
-    "id": "2125553664597135523",
-    "x": "srbininfo",
-    "ime": "СРБИН инфо",
-    "grupa": "",
-    "uloga": "",
-    "text": "(ВИДЕО) „Лажете!“ – Златановић узвратио Брнабићки након што га је у Вучићевом, безобразном маниру повезала са Куртијем, а студенте напала за издају Косова\nhttps://t.co/WpLdyrYrXE",
-    "published": "2026-11-25T11:34:19.000+00:00",
-    "lajk": 10,
-    "prikazi": true,
-    "rubrika": "politika",
-    "tema": "Zlatanović odgovorio Brnabić u Skupštini",
-    "vest": "202611251151-cb7691"
    }
   ],
   "pratim": [
@@ -44413,7 +44413,7 @@
   "yt": "RdPk6Vq7MJE",
   "live": "none",
   "naslov": "",
-  "provereno": "2026-11-28T01:56:44.604507+00:00",
+  "provereno": "2026-11-28T02:14:11.314344+00:00",
   "uzivo_t": "2026-11-25T10:55:24.531039+00:00",
   "nedostupan": false
  },
