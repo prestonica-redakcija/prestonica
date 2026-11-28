@@ -33,17 +33,24 @@
  ],
  "importance": 6,
  "published": "2026-11-28T07:31:50.604742+00:00",
- "updated": "2026-11-28T07:31:50.604742+00:00",
+ "updated": "2026-11-28T17:28:50.030107+00:00",
  "sources": [
   {
    "name": "Euronews Srbija",
    "url": "https://www.euronews.rs/svet/fokus/254035/rat-na-bliskom-istoku-najnovije-vesti-za-28-novembar/vest",
    "title": "KRIZA NA BLISKOM ISTOKU: Jemenske vladine snage odbile napad Huta, oborena i raketu usmerenu ka Rijadu",
    "spektar": "centar"
+  },
+  {
+   "name": "B92",
+   "url": "https://www.b92.net/info/svet/288942/napadi-na-jemen-15-ranjenih-u-sani/vest",
+   "title": "Haos na Bliskom istoku: Napadnuta prestonica Jemena; Najmanje 15 ranjenih",
+   "spektar": "centar"
   }
  ],
  "source_titles": [
-  "KRIZA NA BLISKOM ISTOKU: Jemenske vladine snage odbile napad Huta, oborena i raketu usmerenu ka Rijadu"
+  "KRIZA NA BLISKOM ISTOKU: Jemenske vladine snage odbile napad Huta, oborena i raketu usmerenu ka Rijadu",
+  "Haos na Bliskom istoku: Napadnuta prestonica Jemena; Najmanje 15 ranjenih"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -55,5 +62,7 @@
   "local": false,
   "alt": "Row of buildings nestled in sand dunes",
   "link": "https://unsplash.com/@artmatters"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }

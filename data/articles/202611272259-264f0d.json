@@ -29,7 +29,7 @@
  ],
  "importance": 7,
  "published": "2026-11-27T21:59:46.075628+00:00",
- "updated": "2026-11-27T22:34:31.341346+00:00",
+ "updated": "2026-11-28T17:28:50.030107+00:00",
  "sources": [
   {
    "name": "N1",
@@ -60,6 +60,12 @@
    "url": "https://insajder.net/prenosimo/psg-podrzao-predsednicku-kandidaturu-radomira-saicica",
    "title": "PSG podržao predsedničku kandidaturu Radomira Saičića",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Kurir",
+   "url": "https://www.kurir.rs/vesti/politika/10175631/ko-sve-podrzava-kandidaturu-saicica-za-predsednika-srbije",
+   "title": "TADIĆ, PARANDILOVIĆ, DEMOKRATSKA STRANKA...Evo ko je sve do sada podržao kandidaturu Saičića za predsednika Srbije",
+   "spektar": "vlast"
   }
  ],
  "source_titles": [
@@ -67,7 +73,8 @@
   "PSG podržao predsedničku kandidaturu Radomira Saičića",
   "„Nova“ piše: „Radomir Saičić u trci za predsednika Srbije, SNS i SPS bez odluke“",
   "PSG podržao predsedničku kandidaturu Radomira Saičića",
-  "PSG podržao predsedničku kandidaturu Radomira Saičića"
+  "PSG podržao predsedničku kandidaturu Radomira Saičića",
+  "TADIĆ, PARANDILOVIĆ, DEMOKRATSKA STRANKA...Evo ko je sve do sada podržao kandidaturu Saičića za predsednika Srbije"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -80,6 +87,6 @@
   "alt": "two flags with a coat of arms on them",
   "link": "https://unsplash.com/@thestefankostic"
  },
- "novo_od_pisanja": 2,
- "boost": 1.16
+ "novo_od_pisanja": 3,
+ "boost": 1.24
 }

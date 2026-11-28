@@ -29,7 +29,7 @@
  ],
  "importance": 5,
  "published": "2026-11-28T17:07:29.038617+00:00",
- "updated": "2026-11-28T17:07:29.038617+00:00",
+ "updated": "2026-11-28T17:28:50.030107+00:00",
  "sources": [
   {
    "name": "Danas",
@@ -42,11 +42,18 @@
    "url": "https://www.kurir.rs/planeta/10175789/na-grcka-ostrva-camcima-iz-afrike-za-dva-dana-stiglo-vise-od-1-100-migranata",
    "title": "MIGRANTI IZ AFRIKE HRLE U GRČKU: Za dva dana čamcima na ostrva stiglo više od 1.100 ljudi, dvoje poginulih",
    "spektar": "vlast"
+  },
+  {
+   "name": "N1",
+   "url": "https://n1info.rs/svet/na-grcka-ostrva-camcima-iz-afrike-za-dva-dana-stiglo-vise-od-1100-migranata-dvoje-poginulih/",
+   "title": "Na grčka ostrva čamcima iz Afrike za dva dana stiglo više od 1.100 migranata, dvoje poginulih",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
   "Na grčka ostrva čamcima iz Afrike za dva dana stiglo više od 1.100 migranata, dvoje poginulih",
-  "MIGRANTI IZ AFRIKE HRLE U GRČKU: Za dva dana čamcima na ostrva stiglo više od 1.100 ljudi, dvoje poginulih"
+  "MIGRANTI IZ AFRIKE HRLE U GRČKU: Za dva dana čamcima na ostrva stiglo više od 1.100 ljudi, dvoje poginulih",
+  "Na grčka ostrva čamcima iz Afrike za dva dana stiglo više od 1.100 migranata, dvoje poginulih"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -58,5 +65,7 @@
   "local": false,
   "alt": "a large boat in the middle of a body of water",
   "link": "https://unsplash.com/@crete_offthebeatentrack"
- }
+ },
+ "novo_od_pisanja": 1,
+ "boost": 1.08
 }
