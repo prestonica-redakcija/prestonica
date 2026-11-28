@@ -30,7 +30,7 @@
  ],
  "importance": 4,
  "published": "2026-11-27T07:53:21.135233+00:00",
- "updated": "2026-11-28T07:31:50.604742+00:00",
+ "updated": "2026-11-28T08:05:34.850601+00:00",
  "sources": [
   {
    "name": "Insajder",
@@ -79,6 +79,12 @@
    "url": "https://www.danas.rs/vesti/drustvo/hitna-pomoc-saobracaj-nesreca/",
    "title": "Hitna pomoć: Muškarac poginuo u saobraćajnoj nesreći u Beogradu, rekordan broj intervencija",
    "spektar": "opozicija"
+  },
+  {
+   "name": "Insajder",
+   "url": "https://insajder.net/prenosimo/hitna-pomoc-rekordan-broj-intervencija-tokom-noci-velik-i-u-odnosu-na-dnevne-smene",
+   "title": "Hitna pomoć: Rekordan broj intervencija tokom noći, velik i u odnosu na dnevne smene",
+   "spektar": "opozicija"
   }
  ],
  "source_titles": [
@@ -89,7 +95,8 @@
   "Voz udario automobil na pružnom prelazu u Krnjevu: Poginuo muškarac",
   "AUTOMOBIL POKOSIO PEŠAKA Teška nesreća u Sarajevu: Povređeni hitno prevezen u bolnicu",
   "Hitna pomoć: Muškarac poginuo u saobraćajnoj nesreći u Beogradu, rekordan broj intervencija",
-  "Hitna pomoć: Muškarac poginuo u saobraćajnoj nesreći u Beogradu, rekordan broj intervencija"
+  "Hitna pomoć: Muškarac poginuo u saobraćajnoj nesreći u Beogradu, rekordan broj intervencija",
+  "Hitna pomoć: Rekordan broj intervencija tokom noći, velik i u odnosu na dnevne smene"
  ],
  "author": "Redakcija Prestonice",
  "hidden": false,
@@ -102,8 +109,8 @@
   "link": "https://commons.wikimedia.org/wiki/File:Mural_of_Stefan_Fili%C4%87,_Velika_Plana,_Serbia,_2023.jpg",
   "alt": "Dve saobraćajne nesreće sinoć: povređena devojčica kod Loznice, poginuo vozač u Krnjevu"
  },
- "novo_od_pisanja": 0,
- "boost": 1.4,
+ "novo_od_pisanja": 1,
+ "boost": 1.48,
  "prepisano": "2026-11-28T07:31:50.604742+00:00",
  "verzija": 2
 }
